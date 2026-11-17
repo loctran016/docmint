@@ -59,7 +59,7 @@ jobs:
           ls -la input_pdfs
 
       - name: Cài uv
-        uses: astral-sh/setup-uv@v10
+        uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2
 
       - name: Chạy OCR (dừng êm sau 5 giờ 40 phút)
         run: |
