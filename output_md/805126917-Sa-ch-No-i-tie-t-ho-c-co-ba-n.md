@@ -1704,6 +1704,59 @@ Hạ calci máu (hypocalcemia) là yếu tố chính kích thích sự giải ph
 
 # SINH LÝ BỆNH MỘT SỐ BỆNH NỘI TIẾT
 
+dụng của insulin. Một số cơ quan khác như tế bào não có thể dùng glucose mà không phụ thuộc vào insulin (xem Hình 8.1).
+
+**Bảng 8.1.** Phân loại đái tháo đường theo nguyên nhân
+
+| | |
+| --- | --- |
+| **I. Đái tháo đường típ 1 (tế bào beta bị hủy, thường đưa đến thiếu insulin tuyệt đối)** | |
+| A. Qua trung gian miễn dịch | |
+| B. Vô căn | |
+| **II. Đái tháo đường típ 2 (có thể thay đổi từ tình trạng đề kháng insulin ưu thế với thiếu insulin tương đối đến giảm tiết insulin chủ yếu và đề kháng insulin nhẹ)** | |
+| **III. Các típ đặc hiệu khác** | |
+| A. | Giảm chức năng tế bào beta do khiếm khuyết gen |
+| | 1. MODY3 (Chromosome 12, HNF-1a) |
+| | 2. MODY1 (Chromosome 20, HNF-4a) |
+| | 3. MODY2 (Chromosome 7, glucokinase) |
+| | 4. Dạng hiếm khác của MODY (ví dụ: MODY4: Chromosome 13, insulin promoter factor-1; MODY 6: Chromosome 2, NeuroD1; MODY 7: Chromosome 9, carboxyl ester lipase) |
+| | 5. Đái tháo đường sơ sinh thoáng qua |
+| | 6. Đái tháo đường sơ sinh vĩnh viễn (thường gặp nhất là gen KCNJ11 mã hóa tiểu đơn vị Kir6.2 của kênh $K_{ATP}$ trong tế bào beta) |
+| | 7. DNA ty thể |
+| | 8. Các loại khác |
+| B. | Giảm hoạt tính insulin do khiếm khuyết gen: đề kháng insulin loại A, Leprechaunism, hội chứng Rabson-Mendenhall, đái tháo đường thể teo mỡ, loại khác |
+| C. | Bệnh lý tụy ngoại tiết: viêm tụy, chấn thương tụy hay cắt bỏ tụy, ung thư, sơ nang tụy (cystic fibrosis), bệnh nhiễm sắc tố sắt, bệnh tụy sơ sỏi, loại khác |
+| D. | Bệnh nội tiết: to đầu chi, hội chứng cushing, u tiết glucagon, u tủy thượng thận tăng tiết catecholamin, cường giáp, u tiết somatostatin, u tiết aldosterone và các loại khác |
+| E. | Tăng glucose huyết do thuốc, hóa chất: vacor, pentamidin, acid nicotinic, corticoid, hormone tuyến giáp, diazoxid, thuốc đồng vận giao cảm beta, thiazid, phenytoin, interferon gamma và loại khác |
+| F. | Nhiễm trùng: Rubella bẩm sinh, Cytomegalovirus và loại khác |
+| G. | Các thể không thường gặp của đái tháo đường qua trung gian miễn dịch: hội chứng người cứng, kháng thể kháng thụ thể insulin và loại khác |
+| H. | Một số bệnh gen đôi khi kết hợp với đái tháo đường: hội chứng Down, Hội chứng Klinefelter, hội chứng Turner, hội chứng Wolfram, thất điều vận động Friedreich, múa vờn Huntington, hội chứng Lawrence - Moon - Biedl, loạn dưỡng trương lực cơ, porphyria, hội chứng Prader Willi, loại khác |
+| **IV. Đái tháo đường trong thai kỳ** | |
+
+*MODY: maturity-onset diabetes of the young*
+
+[Hình: Điều hòa cân bằng glucose. Các cơ quan tham gia dự trữ, sản xuất và sử dụng glucose. Nguồn: Harrison's Principles of Internal Medicine 20th edition. The McGraw-Hill Education. 2018]
+- Não
+- Glucose
+- Sản xuất, dữ trữ glucose
+- Sử dụng glucose
+- Insulin glucagon
+- Tiểu đảo tụy
+
+Hình 8.1. Điều hòa cân bằng glucose. Các cơ quan tham gia dự trữ, sản xuất và sử dụng glucose. Nguồn: Harrison's Principles of Internal Medicine 20th edition. The McGraw-Hill Education. 2018
+
+# 4. CƠ CHẾ BỆNH SINH
+
+## 4.1. Đái tháo đường típ 1
+
+### 4.1.1. Nguyên nhân
+
+95% trường hợp đái tháo đường típ 1 liên quan cơ chế tự miễn (gọi là típ 1A) và dưới 5% đái tháo đường típ 1 không tìm thấy nguyên nhân (típ 1B). Bệnh sinh đái tháo đường típ 1 có sự kết hợp của yếu tố di truyền, môi trường và miễn dịch dẫn đến hậu quả phá hủy tế bào beta tụy và giảm insulin.
+
+### 4.1.2. Dấu ấn tự miễn dịch
+
+Lúc mới chẩn đoán, đa số bệnh nhân da trắng bị đái tháo đường típ 1 có hiện diện tự kháng thể kháng tế bào beta lưu hành trong máu như: tự kháng thể kháng tiểu đảo (ICA: islet cell antibody), kháng thể kháng GAD65 (glutamic acid decarboxylase 65), kháng thể kháng insulin (IAA: insulin autoantibodies), tyrosine phosphase IA2 và zinc transporter 8 (ZnT8) (xem Bảng 8.2). Những tự kháng thể này thường xuất hiện nhiều tháng trước khi có tăng glucose huyết. Sau chẩn đoán, nồng độ tự kháng thể sẽ giảm theo thời gian bệnh.
+
 Khi dùng insulin thì sẽ xuất hiện IAA. Các tự kháng thể kháng tụy có vai trò trong chẩn đoán tự miễn, nhưng không có vai trò trực tiếp tổn thương tế bào beta (Bảng 8.2).
 
 **Bảng 8.2.** Độ nhạy và độ đặc hiệu của xét nghiệm tự miễn ở bệnh nhân đái tháo đường típ 1A mới chẩn đoán
@@ -2043,3 +2096,3088 @@ Suy giáp xảy ra khi tuyến giáp giảm tổng hợp hormone tuyến giáp. 
   - Dấu ấm, lòng bàn tay mịn, đổ mồ hôi
   - Tăng phản xạ
   - Phù niêm trước xương chày
+
+2.2. Triệu chứng lâm sàng: suy giáp thường ảnh hưởng đến tất cả hệ cơ quan trong cơ thể và thường diễn biến từ từ trong nhiều tháng hay nhiều năm. Mức độ nặng của triệu chứng thường có liên quan đến mức độ thiếu hormone giáp. Trong suy giáp nguyên phát, giảm nồng độ hormone giáp làm tăng sản xuất TSH có thể gây ra bướu giáp.
+
+Một trong những đặc điểm của suy giáp nặng và kéo dài là phù niêm (myxedema), về phương diện mô học tương tự như phù niêm trước xương chày trong bệnh Basedow. Phù niêm là do sự thay đổi trong thành phần cấu tạo lớp hạ bì và các mô khác. Sự tăng số lượng protein và mucopolysaccharide làm phân cách lớp sợi liên kết. Phức hợp protein-mucopolysaccharide này gắn với nước, tạo ra phù không ấn lõm, đặc biệt hay gặp ở xung quanh mắt, tay, chân và hố thượng đòn. Phù niêm cũng làm cho lưỡi to ra và làm dày niêm mạc vùng thanh quản và hầu họng, dẫn đến giọng khàn rất thường gặp trong suy giáp.
+
+Bảng 9.4. Triệu chứng lâm sàng và cơ chế bệnh sinh của suy giáp
+
+| Hệ cơ quan | Triệu chứng lâm sàng | Cơ chế bệnh sinh |
+| :--- | :--- | :--- |
+| Thần kinh | Lú lẫn, giảm trí nhớ, ngủ gà, cử động chậm chạp, giảm tập trung và suy nghĩ | Giảm tưới máu não dẫn đến thiếu oxy não, giảm các quá trình nội bào do giảm hoạt tính beta giao cảm có thể liên quan đến giảm số lượng thụ thể beta giao cảm |
+| Nội tiết | Tăng TSH trong suy giáp nguyên phát, tăng tế bào thyrotrope ở tuyến yên làm phì đại tuyến yên, tăng nồng độ prolactin trong máu gây tăng tiết sữa, giảm tốc độ chuyển hóa cortisol với nồng độ cortisol máu bình thường | Giảm tổng hợp hormone giáp hay khiếm khuyết trong quá trình bắt giữ iod dẫn đến tăng sản xuất TSH bù trừ, tăng TRH ở vùng hạ đồi; TRH ngoài tác dụng kích thích tế bào thyrotroph còn có tác dụng kích thích tế bào lactotrope ở tuyến yên, dẫn đến tăng nồng độ prolactin; giảm bất hoạt cortisol |
+| Sinh dục | Giảm tiết androgen ở nam, tăng tạo thành estriol ở nữ; tổng lượng hormone thấp nhưng tăng lượng hormone tự do (không gắn kết) làm giảm libido, không rụng trứng, tăng tần suất sảy thai ở nữ, rối loạn cương dương và giảm số lượng tinh trùng ở nam | Thay đổi chuyển hóa của estrogen và androgen; giảm nồng độ của sex hormone-binding globulin |
+| Huyết học | Giảm số lượng hồng cầu dẫn đến thiếu máu đẳng sắc đẳng bào, thiếu máu hồng cầu to liên quan đến thiếu vitamin B12 và giảm hấp thu folate hay sắt từ đường ruột | Giảm chuyển hóa cơ bản và giảm nhu cầu oxy; giảm sản xuất erythropoietin, có thể có mối liên quan giữa hormone giáp và hấp thu vitamin B12 |
+
+Bài 9. Sinh lý bệnh hội chứng nhiễm độc giáp và hội chứng suy giáp ♦ 101
+
+| Hệ cơ quan | Triệu chứng lâm sàng | Cơ chế bệnh sinh |
+| :--- | :--- | :--- |
+| **Tim mạch** | Giảm thể tích tim bóp và nhịp tim làm giảm cung lượng tim; tăng kháng lực mạch máu ngoại biên để duy trì huyết áp tâm thu có thể gây tăng huyết áp; đáp ứng bình thường với gắng sức nhưng thay đổi hệ tuần hoàn lúc nghỉ (kéo dài thời gian tuần hoàn và giảm tưới máu mô); da lạnh và không chịu được lạnh; tim to; giảm cường độ tiếng tim và thay đổi trên ECG (nhịp chậm xoang, PR dài, sóng P nhỏ, T dẹt hay âm, giảm biên độ QRS); tràn dịch màng ngoài tim | Giảm nhu cầu chuyển hóa và mất điều hòa của hormone giáp; ứ dịch giàu protein-mucopolysaccharide trong khoang màng ngoài tim làm thay đổi tiếng tim và ECG tăng kháng lực mạch máu ngoại biên và tăng thể tích máu có thể làm tăng huyết áp |
+| **Hô hấp** | Khó thở; thay đổi dạng phù niêm ở cơ hô hấp dẫn đến giảm thông khí và ứ $CO_2$, góp phần vào hôn mê suy giáp | Tràn dịch màng phổi gây khó thở, tràn dịch màng phổi cũng có thể không gây triệu chứng |
+| **Thận** | Giảm tưới máu thận và giảm độ lọc cầu thận dẫn đến giảm thải nước tự do, tăng tổng lượng nước trong cơ thể và hạ natri máu do pha loãng, giảm sản xuất erythropoietin | Thay đổi huyết động học làm giảm tưới máu, tăng tổng lượng nước trong cơ thể do giảm thải nước và lắng đọng chất nhầy ở mô |
+| **Tiêu hóa** | Táo bón, tăng cân và phù; giảm hấp thu, giảm chuyển hóa protein dẫn đến chậm phát triển xương, giảm hấp thu glucose và chậm thu nhận glucose, tăng mỡ máu | Giảm nhu động ruột, phù liên quan với nồng độ cao của albumin ngoài mạch do sự tăng tính thấm thành mạch với proteins; giảm thoái hóa insulin; giảm tổng hợp và thoái hóa lipid |
+| **Cơ xương khớp** | Đau và cứng cơ; cử động chậm chạp và giảm phản xạ gân xương, giảm tạo thành và hủy xương, tăng mật độ xương, đau và cứng khớp | Giảm tốc độ co và dãn cơ, góp phần vào giảm cử động và giảm phản xạ |
+| **Da** | Da khô, bong tróc. Tóc khô, dễ gãy. Giảm phát triển móng và tóc. Chậm lành vết thương<br>Phù niêm<br>Da lạnh | Giảm tiết mồ hôi<br>Tích tụ hyaluronic acid, gắn với nước gây sưng phù<br>Giảm tuần hoàn đến da |
+
+TÀI LIỆU THAM KHẢO
+
+1. Mai Thế Trạch, Nguyễn Thy Khuê (2007). *Nội tiết học đại cương*. Nhà xuất bản Y học TP HCM.
+
+2. Kathryn L. McCance, Sue E. Huether (2015). *Pathophysiology: The Biologic Basis for Disease in Adults and Children*. Elsevier Health Sciences.
+
+3. Gary Hammer, Stephen J. McPhee (2014). *Pathophysiology of Disease: An Introduction to Clinical Medicine*. Lange Medical Books.
+
+4. J. Larry Jameson (2017). *Harrison's Endocrinology (4th Edition)*. McGraw-Hill Education.
+
+# SINH LÝ BỆNH SUY THƯỢNG THẬN MẠN
+
+MỤC TIÊU HỌC TẬP
+
+1. Trình bày được định nghĩa suy thượng thận mạn.
+2. Phân biệt được suy thượng thận nguyên phát và suy thượng thận thứ phát.
+3. Trình bày được các nguyên nhân thường gặp của suy thượng thận mạn.
+4. Trình bày được các hậu quả của thiếu hụt glucocorticoid.
+5. Trình bày được các hậu quả của thiếu hụt aldosterone.
+
+## 1. KHÁI NIỆM CƠ BẢN VỀ TUYẾN THƯỢNG THẬN
+
+Tuyến thượng thận gồm hai phần là vỏ thượng thận và tủy thượng thận, với những chức năng khác biệt. Tủy thượng thận tiết ra các catecholamine (gồm adrenaline và noradrenaline) có tác dụng chủ yếu trên hệ tim mạch, làm co mạch, tăng sức co bóp cơ tim, tăng nhịp tim và tăng huyết áp. Sự thiếu hụt các hormone tủy thượng thận không gây ảnh hưởng đến chuyển hóa của cơ thể.
+
+Vỏ thượng thận tiết ra ba hormone: cortisol (thuộc nhóm glucocorticoid), aldosterone (nhóm mineralocorticoid) và androgen thượng thận là dehydroandrosterone (DHEA).
+
+Tuyến yên tiết ACTH điều hòa hoạt động của vỏ thượng thận. ACTH có tác dụng kích thích vỏ thượng thận bài tiết cortisol và DHEA. Vùng hạ đồi bài tiết CRH chỉ huy sự bài tiết ACTH của tuyến yên. Aldosterone ít chịu ảnh hưởng bởi ACTH, bởi còn được điều hòa qua hệ Renin – Angiotensin – Aldosterone, nồng độ natri và kali máu.
+
+## 2. ĐỊNH NGHĨA VÀ PHÂN LOẠI
+
+Suy tuyến thượng thận, còn được gọi suy tuyến thượng thận vỏ, là tình trạng thiếu hụt một, hai hoặc ba hormone của vỏ thượng thận, bao gồm hormone glucocorticoid (cortisol) mineralocorticoid (aldosterone) và androgen thượng thận (DHEA). Thường gặp nhất là tình trạng thiếu cortisol, có kèm hoặc không kèm thiếu aldosterone hoặc androgen. Trường hợp thiếu đơn độc aldosterone hoặc androgen ít gặp ở người lớn. Rối loạn tổng hợp một hormone do thiếu men bẩm sinh thường gặp ở trẻ em.
+
+Suy thượng thận nguyên phát (có tên gọi là bệnh Addison) xảy ra do tổn thương tại tuyến thượng thận. Suy thượng thận nguyên phát thường dẫn đến hậu quả thiếu hụt cả ba hormone cortisol, aldosterone và androgen thượng thận.
+
+Suy thượng thận thứ phát xảy ra do thiếu ACTH từ tuyến yên. Suy thượng thận thứ phát dẫn đến thiếu hụt cortisol và androgen. Aldosterone thường không bị ảnh hưởng do tế bào
+
+3.1. Nguyên nhân suy thượng thận nguyên phát (bệnh Addison)
+
+Suy thượng thận nguyên phát mạn tính là bệnh tương đối hiếm, ở các nước Tây phương gặp khoảng 50 bệnh nhân trong 1 triệu dân. Độ tuổi thường gặp là từ 30 đến 60, tuy nhiên, bệnh có thể xảy ra ở mọi lứa tuổi. Nguyên nhân thường gặp nhất là do bệnh tự miễn, xảy ra ở phụ nữ nhiều hơn nam giới. Với sự gia tăng của bệnh AIDS và ung thư, tỉ lệ mắc bệnh suy thượng thận được dự đoán sẽ tăng.
+
+**Suy thượng thận nguyên phát do nguyên nhân tự miễn**
+
+Nguyên nhân thường gặp nhất ở các nước phát triển, chiếm 80% trường hợp suy thượng thận mạn ở Mỹ, gây teo và suy giảm chức năng tuyến thượng thận. Kháng thể kháng men 21-hydroxylase có thể dương tính trong 50 – 70% trường hợp. Bệnh có thể đi kèm các bệnh tự miễn ở các cơ quan khác và các tuyến nội tiết khác, trong đó có hội chứng đa tuyến nội tiết tự miễn APS (autoimmune polyendocrine syndrome). Quá trình tự miễn tấn công, phá hủy các mô khác của bệnh nhân và gây ra các bệnh lý kết hợp như suy tuyến cận giáp, nhiễm nấm candida da niêm (APS típ I) hoặc viêm tuyến giáp tự miễn, đái tháo đường típ 1, bệnh celiac, suy buồng trứng (APS típ II).
+
+**Lao thượng thận:** là nguyên nhân thường gặp ở nước đang phát triển.
+
+**Hội chứng giảm miễn dịch mắc phải (AIDS).**
+
+Sau điều trị phẫu thuật cắt bỏ tuyến thượng thận hai bên, dùng thuốc Mitotan điều trị hội chứng Cushing.
+
+**Các nguyên nhân hiếm:**
+
+- Nhiễm nấm toàn thân, giang mai
+
+- Xuất huyết trong bệnh cảnh nhiễm trùng huyết, rối loạn đông máu, điều trị bằng thuốc kháng đông, chấn thương, phẫu thuật, thai nghén, nhồi máu thượng thận hai bên do huyết khối, viêm động mạch.
+
+- Các bệnh thấm nhuận, xâm lấn tuyến thượng thận: lymphoma, u di căn thượng thận, bệnh thoái biến dạng bột, sarcodosis, bệnh nhiễm sắc tố sắt.
+
+- Thoái triển thượng thận bẩm sinh
+
+- Loạn dưỡng chất trắng thượng thận: tỉ lệ bệnh mới mắc khoảng 1/25.000. Rối loạn có tính gia đình, liên hệ với nhiễm sắc thể giới tính X, biểu hiện lâm sàng ở trẻ em trai và nam vị thành niên. Các tổn thương bao gồm mất myelin rải rác ở hệ thần kinh trung ương (leukodystrophy) kết hợp với bệnh Addison nên được gọi là bệnh loạn dưỡng chất trắng thượng thận (Adrenoleukodystrophy). Bệnh nhân có nồng độ acid béo chuỗi rất dài tăng cao trong máu và tích tụ vào các mô như não, tuyến thượng thận, tinh hoàn, gan gây ra các triệu chứng lâm sàng. Biểu hiện thần kinh có thể xuất hiện sớm ở trẻ em gây ra các rối loạn nhận thức, ứng xử, cảm xúc không ổn định, rối loạn thị lực và dáng đi, sau cùng đưa đến điên loạn. Một biểu hình lâm sàng nhẹ hơn có thể gặp ở lứa tuổi 30 – 40, bệnh nhân có thể mất chức năng nhận thức, không đi lại được, bí tiểu và bất lực. Triệu chứng của suy thượng thận có thể xuất hiện trước triệu chứng thần kinh.
+
+3.2. Các nguyên nhân suy thượng thận thứ phát
+
+Suy thượng thận thứ phát xảy ra do thiếu ACTH từ tuyến yên. Nguyên nhân thường gặp nhất là do sử dụng glucocorticoid kéo dài. Sự giảm tiết ACTH từ tuyến yên có thể do u bướu tại vùng hạ đồi - tuyến yên.
+
+Ngoài ra, còn có một số nguyên nhân hiếm hơn như túi phình động mạch cảnh, hoại tử tuyến yên sau sinh (hội chứng Sheehan), bệnh sarcoidosis, nhiễm sắc tố sắt, chấn thương sọ não, phẫu thuật vùng sọ, chiếu xạ tuyến yên, lao, giang mai, nhiễm nấm, viêm tuyến yên thẩm nhuận lympho bào hoặc suy tuyến yên vô căn.
+
+4. SINH LÝ BỆNH SUY THƯỢNG THẬN
+
+4.1. Sinh lý bệnh suy thượng thận nguyên phát
+
+4.1.1. Thiếu cortisol
+
+Rối loạn chuyển hóa: giảm sự tân sinh đường, giảm sự huy động và sử dụng mỡ, giảm dự trữ glycogen trong gan, dễ xảy ra hạ glucose huyết khi đói (thường gây triệu chứng lâm sàng rõ ở trẻ em), gầy sút.
+
+Tiêu hóa: ăn mất ngon, buồn ói, ói mửa, đau bụng, giảm acid trong dịch vị.
+
+Thần kinh: giảm sinh lực, mệt mỏi, vô cảm, lú lẫn, rối loạn tâm thần.
+
+Tim mạch: giảm sự đáp ứng với catecholamin, giảm thể tích huyết tương, giảm huyết áp.
+
+Thận: giảm khả năng bài tiết nước tự do, tăng lượng natri mất qua nước tiểu.
+
+Tuyến yên: trong suy thượng thận nguyên phát, cortisol máu giảm làm tuyến yên tăng tiết ACTH. Nồng độ ACTH máu thường tăng rất cao, gây ra sạm da, niêm.
+
+Giảm khả năng đáp ứng với stress: tình trạng thiếu cortisol trở nên trầm trọng hơn khi xảy ra stress. Tất cả các triệu chứng trên đều gia tăng khi có chấn thương, nhiễm trùng hay nhịn đói.
+
+4.1.2. Thiếu aldosterone
+
+Thiếu aldosterone sẽ làm giảm khả năng giữ natri và bài tiết kali. Nếu bệnh nhân ăn rất nhiều muối sẽ không có triệu chứng gì. Tình trạng bệnh nhân sẽ xấu rất nhanh nếu ăn ít, ói mửa, tiêu chảy, đổ mồ hôi nhiều.
+
+Nếu không điều trị bằng các chất tương tự aldosterone, bệnh nhân sẽ không thể giảm lượng natri trong nước tiểu xuống dưới 50 mEq/ngày. Khi lượng natri thải nhiều hơn lượng natri hấp thu sẽ làm giảm dịch ngoại bào, giảm natri máu, giảm thể tích huyết tương, giảm huyết áp, giảm cung lượng tim, tụt huyết áp ở tư thế đứng, giảm lượng máu đến thận và tăng urea máu. Có thể có tăng kali máu và toan máu nhẹ, một phần do giảm độ lọc cầu thận, một phần do giảm sự trao đổi ion dương ở ống lượn xa.
+
+4.1.3. Thiếu androgen
+
+Giảm bài tiết androgen thượng thận thường không gây ra rối loạn lâm sàng rõ rệt trên nam giới bởi vì thượng thận không phải là nguồn cung cấp hormone androgen chính ở nam. Ở phụ nữ, có thể biểu hiện trên một số đặc tính sinh dục thứ phát như giảm lông mu, lông nách và góp phần gây mệt mỏi.
+
+Triệu chứng lâm sàng
+
+Trong đa số trường hợp triệu chứng của bệnh Addison xảy ra từ từ. Quá trình phá hủy vỏ thượng thận thay đổi tùy theo nguyên nhân nhưng thường xảy ra chậm và trong thời gian đầu, sự tăng tiết bù trừ của ACTH giúp phần thượng thận còn lại bài tiết đủ cortisol cho nhu cầu sinh lý. Chỉ khi bệnh nhân bị stress như ốm, nhiễm trùng, chấn thương, phẫu thuật, các triệu chứng thiếu hormone mới lộ rõ dưới hình thức cơn suy thượng thận cấp tính.
+
+Khi vỏ thượng thận bị phá hủy nhiều, hơn 90%, sự bù trừ nội tại sẽ không đủ nữa và bệnh nhân sẽ có triệu chứng lâm sàng của bệnh Addison.
+
+Các triệu chứng chính: mệt, gầy, rối loạn tiêu hóa, sạm da và hạ huyết áp.
+
+- Mệt: thường là lý do đưa bệnh nhân đi khám bệnh: mệt thể xác, tinh thần và sinh dục. Cảm giác mệt xuất hiện ngay khi ngủ dậy và tăng dần lên trong ngày, thường kèm chán ăn, ăn uống kém.
+
+Mệt mỏi tinh thần biểu hiện bằng suy nghĩ chậm, vô cảm, trầm cảm xen lẫn với những lúc nóng nảy, gây gổ. Nam giới có thể bị bất lực, phụ nữ lãnh cảm, mất kinh.
+
+- Gầy, sụt cân: luôn luôn có, xuất hiện từ từ, kéo dài nhiều khi bệnh nhân không để ý. Gầy còn do mất nước vì mất muối, kém ăn.
+
+- Rối loạn tiêu hóa: bắt đầu là chán ăn, ăn uống kém, nhưng thèm ăn muối. Buồn nôn và nôn ói thường xảy ra, tiêu chảy ít gặp hơn. Các triệu chứng này nặng lên khi xảy ra cơn suy thượng thận cấp. Có thể có triệu chứng đau bụng không khu trú. Trong cơn suy thượng thận cấp, đau bụng nhiều có thể nhầm với bụng ngoại khoa.
+
+- Sạm da rải rác: màu nâu đồng, rất điển hình. Sạm da xuất hiện trước hết ở vùng hở, tiếp xúc với tia nắng mặt trời, những vùng cọ xát và ở các vùng có sẹo mới. Các vị trí thường xuất hiện sạm da là mặt, cổ, bàn tay, mặt sau cánh tay, thắt lưng, đầu gối. Biểu hiện ở bàn tay, các nếp gấp đều nâu hoặc đen, móng tay có gạch sậm màu. Đầu vú nâu sẫm. Ở niêm mạc má, lợi, sàn miệng, có những đốm màu đá đen, tuy hiếm nhưng rất có giá trị, nhất là ở người da sẫm màu.
+
+- Hạ huyết áp: huyết áp bệnh nhân thường thấp, mạch yếu, rất thường gặp hạ huyết áp tư thế. Trong cơn suy thượng thận cấp, xảy ra huyết áp kẹp và choáng.
+
+- Những triệu chứng khác:
+
+Glucose huyết thấp hoặc hạ glucose huyết, thường xảy ra ở trẻ em hoặc khi bệnh nhân bị nôn ói, nhịn đói hoặc có thêm bệnh khác đi kèm. Bệnh nhân cũng dễ bị vọp bẻ.
+
+**Cận lâm sàng**
+
+Trong suy thượng thận nguyên phát, thường có hạ natri máu, tăng kali máu, đôi khi có hạ glucose huyết, tăng urea và creatinine máu. Tăng kali và hạ natri máu là biểu hiện của thiếu mineralocorticoid. Urea (BUN) và creatinine máu tăng do thiếu nước và giảm thể tích tuần hoàn.
+
+Thường gặp toan máu nhẹ, đôi khi có tăng calci máu nhẹ đến vừa.
+
+Phân tích tế bào máu thường có thiếu máu đẳng sắc, đẳng bào. Bạch cầu đa nhân trung tính giảm, lympho bào và bạch cầu đa nhân ái toan tăng.
+
+Bệnh nhân bị lao thượng thận có thể thấy hình ảnh vôi hóa thượng thận trên X-quang bụng trong khoảng 50% trường hợp.
+
+CT-scan bụng cho tỉ lệ phát hiện vôi hóa thượng thận cao hơn. Ngoài ra, CT còn phát hiện phì đại hai tuyến thượng thận và các bất thường khác.
+
+Điện tim có thể thấy điện thế thấp, bất thường đoạn ST do rối loạn điện giải, sóng T cao nhọn do tăng kali máu.
+
+**4.2. Sinh lý bệnh suy thượng thận thứ phát**
+
+Thiếu ACTH sẽ làm giảm tiết cortisol và androgen của tuyến thượng thận. Sự tiết aldosterone bình thường trong đa số trường hợp. Trong giai đoạn đầu, nồng độ cơ bản của ACTH máu giảm và sự tiết ACTH và cortisol khi có stress thấp hơn so với người bình thường. Khi sự tiết ACTH tiếp tục giảm, vùng bó và vùng lưới của vỏ thượng thận sẽ bị teo, nồng độ cortisol máu sẽ giảm. Ở giai đoạn này, chức năng trục tuyến yên – thượng thận bị suy yếu rõ. Khi có stress, sự tiết ACTH giảm và khi kích thích bằng ACTH ngoại sinh (cosyntropin), sự đáp ứng của tuyến thượng thận cũng giảm.
+
+Các triệu chứng diễn tiến từ từ, kéo dài nhiều tháng đến nhiều năm, đôi khi có bệnh cảnh cấp tính khi bệnh nhân có stress. Bệnh cảnh lâm sàng tương tự trường hợp suy thượng thận nguyên phát, ngoại trừ các điểm sau đây:
+
+- **Không sạm da:** vì không có sự tăng tiết ACTH và các peptid liên hệ nên không có triệu chứng sạm da, bệnh nhân suy tuyến yên thường có màu da nhợt nhạt.
+
+- **Không thiếu aldosterone:** vì sự tiết aldosterone còn duy trì nên bệnh nhân không có các triệu chứng giảm natri máu hoặc tăng kali máu. Nếu có giảm natri máu thì nguyên nhân thường là do giảm độ lọc cầu thận hoặc có suy giáp kết hợp.
+
+Các triệu chứng khác của suy tuyến yên có thể cùng hiện diện.
+
+Hạ glucose huyết thường gặp hơn vì thiếu đồng thời ACTH và hormone tăng trưởng.
+
+Bảng 10.2. Các triệu chứng của suy thượng thận mạn
+
+| | |
+| :--- | :--- |
+| **Suy thượng thận nguyên phát và thứ phát** | |
+| - Mệt, yếu, trầm cảm | |
+| - Chán ăn, sụt cân | |
+| - Chóng mặt, hạ huyết áp tư thế | |
+| - Buồn nôn, nôn ói, đau bụng, tiêu chảy | |
+| - Hạ natri máu | |
+| - Hạ glucose huyết | |
+| - Thiếu máu đẳng bào, tăng lympho, tăng bạch cầu ái toan | |
+| **Suy thượng thận nguyên phát** | |
+| - Sạm da, niêm | |
+| - Thèm ăn muối | |
+| - Tăng kali máu | |
+| **Suy thượng thận thứ phát** | |
+| - Da nhợt nhạt | |
+| - Vô kinh, giảm lipido, bất lực | |
+| - Lông mu, lông nách thưa | |
+| - Tinh hoàn nhỏ | |
+| - Chậm phát triển, chậm dậy thì | |
+| - Nhức đầu, rối loạn thị lực | |
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn một câu đúng
+
+1. Trong bệnh Addison, hormone nào sau đây không bị thiếu?
+A. Aldosterone
+B. ACTH
+C. Cortisol
+D. Androgen (DHEAS)
+
+2. Đặc điểm nào KHÔNG xảy ra ở bệnh nhân suy thượng thận thứ phát?
+A. Gầy sút, sụt cân
+B. Rối loạn tiêu hóa
+C. Sạm da
+D. Huyết áp thấp
+
+3. Bệnh nhân được chẩn đoán lao tuyến thượng thận. Bệnh nhân có natri máu thấp và kali máu tăng. Các thay đổi trên điện giải đồ này thường là hậu quả của thiếu hụt hormone nào sau đây?
+A. Cortisol
+B. Aldosterone
+C. Androgen thượng thận
+D. Catecholamine
+
+4. Bệnh nhân nữ 40 tuổi đi khám vì gầy, sụt cân và sạm da. Bệnh nhân có huyết áp thấp và có triệu chứng hạ áp tư thế. Khi làm nghiệm pháp kích thích bằng cosyntropin 250 µg tiêm bắp, nồng độ cortisol máu sau khi tiêm không thay đổi, ở ngưỡng thấp (6 µg/dL). Nồng độ ACTH máu lúc sáng tăng cao hơn giới hạn bình thường (268 pg/mL). Chẩn đoán cho trường hợp này là gì?
+A. Bệnh Addison
+B. Suy thượng thận mạn thứ phát
+C. Hội chứng Cushing
+D. Hội chứng Sheehan
+
+TÀI LIỆU THAM KHẢO
+1. Mai Thế Trạch, Nguyễn Thy Khuê (2007). Nội tiết học đại cương. Nhà xuất bản Y học TP. Hồ Chí Minh.
+2. Lynnette K Nieman (2013). Insulin-induced hypoglycemia test. UptoDate.
+3. Tobias Else, Gary D Hammer (2014). Disorders of the Adrenal Cortex. In Pathophysiology of Disease: An Introduction to Clinical Medicine. 7th edition. McGraw-Hill Education.
+4. Valentina L. Brashers, Robert E. Jones, and Sue E. Huether (2014). Alterations of Hormonal Regulation. In Pathophysiology: the Biologic Basis For Disease In Adults And Children. 7th. Mosby.
+
+# SINH LÝ BỆNH HỘI CHỨNG CUSHING
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Trình bày được khái niệm về hội chứng Cushing.
+2. Trình bày được cách phân loại hội chứng Cushing.
+3. Giải thích được đáp ứng của trục hạ đồi – tuyến yên – tuyến thượng thận trong các nguyên nhân của hội chứng Cushing.
+4. Giải thích được tác động của glucocorticoid trên các biểu hiện lâm sàng của hội chứng Cushing.
+
+**1. KHÁI QUÁT**
+
+Hội chứng Cushing là một hội chứng lâm sàng gây ra do tình trạng phơi nhiễm mạn tính với nồng độ cao glucocorticoid lưu hành trong máu. Sự gia tăng glucocorticoid trong máu có thể do cơ thể tăng tiết glucocorticoid (hội chứng Cushing nội sinh) hoặc do sử dụng thuốc, chế phẩm có chứa glucocorticoid (hội chứng Cushing ngoại sinh, hay còn gọi là Cushing do glucocorticoid).
+
+**2. PHÂN LOẠI**
+
+Hội chứng cushing có thể phân thành hai nhóm: hội chứng Cushing nội sinh và hội chứng Cushing ngoại sinh. Trong đó, hội chứng Cushing ngoại sinh là nguyên nhân thường gặp nhất. Hội chứng Cushing nội sinh có bệnh sinh phức tạp, có thể phân chia thành hai nhóm là hội chứng Cushing phụ thuộc ACTH và hội chứng Cushing không phụ thuộc ACTH.
+
+**2.1. Hội chứng Cushing nội sinh**
+
+Hội chứng Cushing phụ thuộc ACTH gồm u tuyến yên tiết ACTH, u tiết ACTH lạc chỗ, tiết CRH lạc chỗ. Nồng độ ACTH tăng cao hoặc bình thường do u tăng tiết. Sự tiết ACTH của u làm thượng thận hai bên tăng sản và tăng chức năng, tăng tiết cortisol. Sự gia tăng nồng độ cortisol máu lại ức chế lên CRH hạ đồi và cả ACTH từ mô tuyến yên bình thường, không có u.
+
+Bệnh Cushing còn gọi là u tuyến yên tiết ACTH, là nguyên nhân thường gặp nhất của hội chứng Cushing nội sinh. Thường gặp là microadenoma (khối u < 10 mm), chỉ khoảng 5 – 10% là macroadenoma (khối u > 10 mm). Trong bệnh Cushing có đặc điểm: (1) nhịp ngày đêm sinh lý của sự tiết ACTH thường bị rối loạn; (2) sự đồng bộ và điều hòa ngược giữa ACTH và tiết cortisol cũng không còn. Tế bào u tuyến yên tiết ACTH độc lập, không
+
+Tăng sản thượng thận dạng nốt lớn hai bên – tuyến thượng thận cân nặng từ 24 – 500 g hoặc hơn, gồm nhiều nốt có kích thước lớn hơn 5 mm. Những nốt này thường lành tính, tăng sản tế bào, tăng tiết cortisol, ACTH thấp và mất nhịp ngày đêm của ACTH. Đồng thời, sự tiết cortisol không bị ức chế bởi nghiệm pháp dexamethasone liều cao. Bệnh xuất hiện tản phát, một số ít trường hợp có tính gia đình di truyền kiểu gen trội.
+
+Bảng 11.1. Phân loại và tỉ lệ các nguyên nhân của hội chứng Cushing nội sinh
+
+| Chẩn đoán | Tỉ lệ (%) |
+| :--- | :--- |
+| **Hội chứng Cushing phụ thuộc ACTH** | |
+| Bệnh Cushing | 68 |
+| U tiết ACTH lạc chỗ | 12 |
+| U tiết CRH lạc chỗ | << 1 |
+| **Hội chứng Cushing không phụ thuộc ACTH** | |
+| Adenoma thượng thận | 10 |
+| Carcinoma thượng thận | 8 |
+| Tăng sản thượng thận nốt nhỏ | < 1 |
+| Tăng sản thượng thận nốt lớn | < 1 |
+
+2.2. Hội chứng Cushing ngoại sinh
+
+Xảy ra do việc sử dụng kéo dài glucocorticoid tổng hợp (như prednisone, dexamethasone,...) trong điều trị bệnh. Thường gặp nhất là do sử dụng glucocorticoid bằng đường uống. Tuy nhiên, vẫn có thể qua đường tiêm, thoa da, đường hít. Ngoài ra, hội chứng Cushing cũng có thể xảy ra do sử dụng các loại kem bôi hoặc trong các chế phẩm thảo dược có trộn thêm glucocorticoid.
+
+3. BIỂU HIỆN LÂM SÀNG
+
+3.1. Béo phì và tái phân bố mỡ
+
+Là một trong những biểu hiện thường quan sát thấy ở hội chứng Cushing. Tăng cân thường là một trong những triệu chứng sớm. Béo phì có đặc điểm là béo phì trung tâm, mỡ tập trung chủ yếu vùng mặt, cổ, thân và bụng. Sự dày lên và tập trung của mỡ xung quanh khuôn mặt, tạo nên kiểu hình “mặt tròn như mặt trăng” (moon face). Ngoài ra, tụ mỡ sau gáy tạo nên “bướu trâu” (buffalo hump) và tụ mỡ vùng hố thượng đòn là những đặc điểm đặc trưng cho kiểu hình Cushing.
+
+Sự tụ mỡ vùng bụng làm tăng tỉ số eo/hông (> 1 ở nam và > 0,85 ở nữ) gặp trong hơn 50% bệnh nhân có hội chứng Cushing.
+
+Sự tích tụ mỡ xảy ra ở cả mô dưới da và trong ổ bụng, nhất là quanh các tạng do mỡ tạng có mật độ thụ thể glucocorticoid nhiều hơn so với mô mỡ ở nơi khác.
+
+enzyme glucose-6-phosphatase và phosphoenolpyruvate carboxykinase. Ngoài ra, còn ghi nhận sự tăng lượng glycogen và tăng tạo thể ceton. Ở mô ngoại biên, cortisol đối kháng với tác dụng của insulin, có lẽ do cơ chế ức chế phospho hóa glucose. Đái tháo đường xảy ra trong khoảng 10 – 15% bệnh nhân có hội chứng Cushing.
+
+3.11. Các bất thường xét nghiệm khác
+
+Một số các xét nghiệm thường quy có liên hệ với hội chứng Cushing gồm: tăng hemoglobin, hematocrit và số lượng tuyệt đối hồng cầu do cường androgen, tuy nhiên, đa hồng cầu ít khi gặp. Bạch cầu thường là bình thường, tuy nhiên, tỉ lệ và số tế bào lympho và eosinophil đôi khi giảm thấp.
+
+Hạ kali máu và kiềm chuyển hóa có thể xảy ra do tăng tiết cortisol trên những bệnh nhân có hội chứng Cushing do u tiết ACTH lạc chỗ hoặc do carcinoma tuyến thượng thận. Glucose huyết đói, glucose huyết sau ăn tăng. Calci máu bình thường, phospho giảm nhẹ, có thể có calci niệu.
+
+4. CHẨN ĐOÁN
+
+Đối với trường hợp nghi ngờ hội chứng Cushing, tiếp cận ban đầu cần hỏi kỹ bệnh sử và tiền căn bệnh lý, cũng như các loại thuốc sử dụng để xem liệu có khả năng bệnh nhân dùng glucocorticoid gây hội chứng Cushing ngoại sinh. Một số các xét nghiệm hormone và nghiệm pháp động sẽ được tiến hành sau đó để chẩn đoán xác định tình trạng tăng coritsol bệnh lý và chẩn đoán nguyên nhân.
+
+Để chẩn đoán xác định tăng tiết cortisol bệnh lý hay chẩn đoán xác định hội chứng Cushing nội sinh, có thể thực hiện một số xét nghiệm như đo cortisol nước bọt lúc nửa đêm, cortisol tự do nước tiểu 24 giờ, nghiệm pháp ức chế bằng dexamethasone 1 mg qua đêm.
+
+Nghiệm pháp ức chế bằng dexamethasone 1 mg qua đêm dựa trên nguyên lý của cơ chế điều hòa ngược, dexamethasone là một glucocorticoid có khả năng ức chế hạ đồi – tuyến yên từ đó giảm ACTH kích thích lên thượng thận làm giảm nồng độ cortisol máu. Nghiệm pháp được thực hiện bằng cách cho uống 1 mg dexamathasone lúc 23 giờ và lấy máu định lượng cortisol máu lúc 08 giờ sáng hôm sau. Ở người bình thường, cortisol máu lúc 08 giờ sáng sau nghiệm pháp thường dưới 1,8 µg/dL. Ở bệnh nhân có hội chứng Cushing, cortisol máu sẽ không bị ức chế (> 1,8 µg/dL). Cần lưu ý rằng dương tính với nghiệm pháp ức chế bằng dexamethasone 1 mg qua đêm có thể xảy ra trong trường hợp bệnh nhân có bệnh cấp tính nặng, béo phì, stress tâm lý, nghiện rượu mạn (hội chứng giả Cushing). Tuy nhiên, những bệnh nhân này sẽ không có biểu hiện lâm sàng rõ ràng của hội chứng Cushing.
+
+Khi đã chẩn đoán xác định hội chứng Cushing nội sinh bằng các xét nghiệm trên, bước kế tiếp là xét nghiệm chẩn đoán nguyên nhân hội chứng Cushing như sau: bệnh nhân được đo nồng độ ACTH máu và sẽ chia thành các nhóm nguyên nhân:
+
+- Nồng độ ACTH thấp, gợi ý hội chứng Cushing không phụ thuộc ACTH. Trường hợp này sẽ được chỉ định chụp CT-scan thượng thận để xác định nguyên nhân tại tuyến thượng thận tăng tiết cortisol
+
+- Nồng độ ACTH bình thường hoặc cao sẽ thuộc nhóm nguyên nhân hội chứng Cushing phụ thuộc ACTH. Sau đó cần phân biệt nguyên nhân u tuyến yên tiết ACTH và u tiết ACTH lạc chỗ dựa vào các xét nghiệm như: nghiệp pháp ức chế bằng dexamethasone liều cao, MRI tuyến yên, phương pháp xét nghiệm máu tĩnh mạch xoang đá dưới, CT-scan ngực.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn một câu đúng
+
+1. Trên một bệnh nhân có kiểu hình Cushing, nguyên nhân thường gặp nhất là do:
+A. Sử dụng glucocorticoid ngoại sinh
+B. U tuyến yên tiết ACTH
+C. U thượng thận tiết cortisol
+D. U tiết ACTH lạc chỗ
+
+2. Sự gia tăng hoạt chất chất nào sau đây trong cơ thể sẽ gây ra hội chứng Cushing?
+A. ACTH
+B. Cortisol
+C. CRH
+D. Tất cả đều đúng
+
+3. Bệnh nhân có kiểu hình Cushing, cortisol: 15 µg/dL (5 – 23) sau nghiệm pháp ức chế dexamethasone 1 mg qua đêm và ACTH 0,1 pg/mL (7,9 – 66,1). Nguyên nhân của hội chứng Cushing là do?
+A. Carcinoma phổi
+B. Cushing do glucocorticoid
+C. Adenoma vỏ thượng thận
+D. Adenoma tuyến yên
+
+4. Bệnh nhân có kiểu hình Cushing, không sạm da. Xét nghiệm hormone có kết quả như sau: ACTH 50 pg/mL (7,9 – 66,1), cortisol: 30 µg/dL (5 – 23) Nguyên nhân của hội chứng Cushing nhiều khả năng là do?
+A. Carcinoma phổi
+B. Carcinoma vỏ thượng thận
+
+C. Adenoma vỏ thượng thận
+D. Adenoma tuyến yên
+
+TÀI LIỆU THAM KHẢO
+1. Mai Thế Trạch, Nguyễn Thy Khuê (2007). Nội tiết học đại cương. Nhà xuất bản Y học TP. Hồ Chí Minh.
+2. Lynnette K Nieman (2018). Causes and pathophysiology of Cushing’s syndrome. Uptodate.
+3. Lynnette K. Nieman, Beverly M. K. Biller, James W. Findling, John Newell-Price, Martin O. Savage, Paul M. Stewart, Victor M. Montori (2008). The Diagnosis of Cushing’s Syndrome: An Endocrine Society Clinical Practice Guideline, The Journal of Clinical Endocrinology and Metabolism, Volume 93, Issue 5, May:1526–40.
+4. Gary D. Hammer (2014). Pathophysiology of Disease: An Introduction to Clinical Medicine, 7th ed. McGrawHill.
+
+# DƯỢC LÝ THUỐC ĐIỀU TRỊ BỆNH ĐÁI THÁO ĐƯỜNG
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Phân loại các nhóm thuốc điều trị đái tháo đường.
+2. Trình bày được các đặc điểm cơ bản về dược động của các nhóm thuốc điều trị đái tháo đường.
+3. Trình bày được các đặc điểm cơ bản về dược lực của các nhóm thuốc điều trị đái tháo đường.
+
+## 1. SINH LÝ ĐIỀU HÒA GLUCOSE HUYẾT
+
+Tuyến tụy nội tiết gồm các tiểu đảo Langerhans. Các tiểu đảo này có các tế bào tiết ra các hormone bao gồm tế bào $\alpha$ tiết ra glucagon có vai trò làm tăng glucose huyết, tế bào $\beta$ tiết ra insulin và amylin, tế bào $\delta$ tiết ra somatostatin.
+
+### 1.1. Insulin
+
+Insulin do tế bào $\beta$ của tiểu đảo Langerhans tụy tiết ra dưới dạng proinsulin. Sau đó, proinsulin được phân giải thành insulin và C-peptid. Phân tử insulin là một polypeptid gồm hai chuỗi: chuỗi A có 21 acid amin, bên trong chuỗi A có một liên kết disulfua, chuỗi B có 30 acid amin, hai chuỗi này nối với nhau bằng hai cầu nối disulfua. Trong dung dịch, insulin có thể tồn tại dưới dạng đơn phân tử (monomer), nhị phân tử (dimer) và lục phân tử (hexamer). Khi ở dạng lục phân tử thì insulin liên kết với hai phân tử $\text{Zn}^{2+}$ và đây cũng là dạng dự trữ chính của insulin bên trong tế bào beta. Insulin và peptid C được chứa trong túi dự trữ nằm ở ngay bên dưới màng bào tương. Khi có kích thích tiết insulin sẽ đồng thời phóng thích một lượng peptid C tương đương vào trong hệ tĩnh mạch cửa. Phần lớn insulin sau khi tiết ra sẽ gắn vào thụ thể của nó và chuyển hóa bước đầu tại gan, còn peptid C không bị chuyển hóa tại gan. Do đó, nồng độ peptid C trong máu có thể được dùng để đánh giá tình trạng tiết insulin nội sinh.
+
+### 1.1.1. Cơ chế tiết insulin của tế bào $\beta$ tụy
+
+Khi glucose huyết trong máu tăng, glucose sẽ vào trong tế bào $\beta$ qua kênh vận chuyển glucose GLUT2. Glucose sẽ được chuyển hóa để tạo ATP, nồng độ ATP trong tế bào tăng lên sẽ khóa kênh $\text{K}^+$ nhạy cảm ATP. Do đó, $\text{K}^+$ tích tụ trong tế bào tạo nên hiện tượng khử cực, làm mở kênh Ca cổng điện thế. $\text{Ca}^{2+}$ sẽ vào tế bào, kết hợp với calmodulin thông qua phản ứng phosphoryl hóa. Phức hợp $\text{Ca}^{2+} - \text{calmodulin}$ sẽ đưa các hạt chế tiết insulin đến sát màng tế bào và kết quả là insulin được phóng thích vào trong máu.
+
+# Bài 12. Dược lý thuốc điều trị bệnh đái tháo đường
+
+**Sơ đồ: Hình 12.1. Cơ chế tiết insulin của tế bào β tuyến tụy**
+
+- Glucose --> Chuyển hóa --> ATP/ADP
+- ATP --> Kênh K+/ATP (Kir6.2/SUR1)
+- Kênh K+/ATP --> Dòng dẫn K+ --> Khử cực màng tế bào --> Ca2+ nhập bào --> Túi Ins --> Ins
+
+[Hình: Cơ chế tiết insulin của tế bào β tuyến tụy]
+- Kir6.2
+- SUR1
+- Kênh K+/ATP
+- Glucose
+- ATP
+- Dòng dẫn K+
+- Khử cực màng tế bào
+- Ca2+
+- Ca2+ nhập bào
+- Túi Ins
+- Ins
+- Tế bào β tụy
+
+Kênh K+ nhạy cảm ATP của tế bào β có cấu tạo gồm 8 đơn vị, trong đó có 4 đơn vị Kir6.2 và 4 đơn vị thụ thể sulfonylurea (SUR1). 4 phân tử Kir6.2 tạo nên lòng kênh, trong khi protein SUR1 điều hòa sự nhạy cảm của kênh với ADP và các phân tử thuốc. Kir6.2 gắn với ATP sẽ khóa kênh K+. SUR1 làm cho Kir6.2 tăng nhạy cảm với ATP. SUR1 gắn với phức hợp ADP-Mg2+ sẽ hoạt hóa kênh, ức chế tiết insulin khi tỉ lệ ATP/ADP giảm. Đột biến Kir6.2 hay SUR1 sẽ dẫn đến tình trạng hạ glucose huyết do tăng tiết insulin.
+
+Cùng với glucose huyết, các acid amin, acid béo cũng làm tăng nồng độ ATP nội bào, kích thích tăng tiết insulin. Thông qua con đường điều hòa protein G, hoạt hóa thần kinh trực giao cảm và hormone dạ dày ruột GLP-1 và GIP cũng có tác dụng khóa kênh K+ nhạy cảm ATP, kích thích tiết insulin.
+
+Insulin được bài tiết vào máu với mức độ 1 đơn vị cho mỗi 10 g cacbohydrat, đạt nồng độ đỉnh trong vòng 1 giờ sau ăn. Khi insulin được bài tiết vào máu, nó ở dạng tự do, thời gian bán hủy trung bình là 6 phút. Ở người bình thường, tụy sản xuất insulin trung bình từ 18 – 40 đơn vị/ngày (0,2 – 0,5 đơn vị/kg/ngày), trong đó 50% được bài tiết ở trạng thái nền và 50% bài tiết nhằm đáp ứng với bữa ăn. Nồng độ insulin nền ở người bình thường là 5 – 15 µU/mL (30 – 90 pmol/L), khi ăn thì nồng độ insulin có thể đạt đỉnh là 60 – 90 µU/mL (360 – 540 pmol/L). Ở bệnh nhân đái tháo đường, nhu cầu insulin hàng ngày có thể tăng lên 0,6 – 2 đơn vị/kg/ngày. Sau khi được tiết ra từ tế bào β, insulin vào tĩnh mạch cửa đến gan, do đó nồng độ insulin trong tĩnh mạch cửa cao hơn tuần hoàn ngoại biên.
+
+Gan và thận là nơi đào thải insulin. Bình thường, insulin được đào thải 60% tại gan và 40% tại thận. Tuy nhiên, ở bệnh nhân đái tháo đường được điều trị với insulin tiêm dưới da thì 60% insulin được đào thải tại thận và tại gan chỉ còn 35 – 40%.
+
+1.1.2. Tác dụng sinh lý của insulin
+
+Insulin sau khi được tiết vào máu sẽ đến gắn vào thụ thể của nó ở mô đích (chủ yếu là mô cơ, mô gan và mô mỡ). Thụ thể của insulin có cấu tạo nhị hợp (heterodimer) gồm hai chuỗi α và 2 chuỗi β nối với nhau bởi hai cầu nối sulfide. Tiểu đơn vị α nằm ở ngoài tế bào, là nơi insulin gắn vào. Tiểu đơn vị β nằm trong màng bào tương, có hoạt tính của men tyrosine kinase. Thụ thể insulin có khả năng tự phosphoryl hóa và phosphoryl hóa tyrosine của các cơ chất thụ thể insulin (IRS1 và IRS-2). Những phản ứng này làm cho protein vận chuyển glucose (GLUT-4) từ trong tế bào sẽ được tích hợp vào màng tế bào, từ đó thu nhận glucose vào trong tế bào.
+
+- Ở gan: insulin kích thích tổng hợp, dự trữ glycogen, tăng tổng hợp protein và lipid, ức chế thoái giáng glycogen, ức chế tân sinh đường và ly giải glucose.
+
+- Ở cơ: insulin làm tăng hấp thu glucose, tổng hợp glycogen, tăng hấp thu acid amin, tổng hợp protein, ức chế chuyển hóa protein, giảm phóng thích các acid amin có thể được dùng để tân tạo đường như Alanine, Arginine, Glycine,...
+
+- Ở mô mỡ: kích thích tổng hợp acid béo, triglyceride, hoạt hóa men lipoprotein liapse và ức chế men lipase nhạy cảm hormone (hormone-sensitive lipase có vai trò thủy phân triglyceride).
+
+- Các tế bào khác: giúp tăng trưởng tế bào.
+
+Bảng 12.1. Vị trí các acid amin trên phân tử insulin gắn kết vào thụ thể
+
+| Chuỗi | Đầu tận N- | Đầu tận C- |
+| :--- | :--- | :--- |
+| A | Gly A1, Glu A4, Gln A5 | Tyr A19, Asn A21 |
+| B | Val B12 | Tyr B16, Gly B23, Phe B24, Phe B25, Tyr B26 |
+
+1.2. Glucagon
+
+Glucagon được tiết bởi tế bào α tuyến tụy để đáp ứng lại tình trạng hạ glucose huyết, acid amin và kích thích của hệ thần kinh tự động.
+
+Glucagon có các tác dụng sau:
+
+- Tăng glucose trong máu thông qua sự tân tạo glucose và ly giải glycogen tại gan
+
+- Giảm sự đường phân và sự tổng hợp glycogen tại gan
+
+- Ức chế sự tổng hợp acid béo tự do từ glucose ở gan.
+
+Gián tiếp duy trì glucose huyết qua sự kích thích tạo ketone (là nguồn năng lượng thay thế glucose trong nhiều mô).
+
+1.3. Hiệu ứng incretin
+
+Incretin là những hormone đường tiêu hóa được chế tiết ra sau bữa ăn. Có hai loại hormone incretin thường gặp là Glucagon Like peptide-1 (GLP-1) và GIP (glucose-dependent insulinotropic peptide) hay còn gọi là peptide ức chế dạ dày (gastric inhibitory polypeptide).
+
+GIP được tổng hợp bởi tế bào K của màng nhầy tá tràng, có vai trò tăng tiết insulin khi có sự gia tăng nồng độ glucose ở tá tràng. Tuy nhiên, ở những bệnh nhân đái tháo đường típ 2 có tình trạng đề kháng với GIP, do đó, GIP không là mục tiêu của điều trị.
+
+GLP-1 được tạo ra từ tế bào L ở ruột non, có vai trò kích thích tế bào β tăng tiết insulin và ức chế tế bào α tiết glucagon khi có sự gia tăng nồng độ glucose ở ruột.
+
+Cả GIP và GLP-1 đều bị men DPP-4 (dipeptidyl peptidase-4) bất hoạt.
+
+1.4. Amylin
+
+Amylin là một protein có chứa 37 acid amin, được tiết vào máu cùng với insulin. Amylin gắn vào thụ thể của nó ở hệ thần kinh trung ương có vai trò hỗ trợ tác dụng của insulin. Đặc biệt, amylin ức chế sự phóng thích của glucagon, chậm làm trống dạ dày và giảm lượng thức ăn đưa vào. Amylin được đào thải qua thận, thời gian bán hủy của nó khoảng 10 phút.
+
+1.5. Somatostatin
+
+Somatostatin có dạng cấu tạo 14 và 28 acid amin, được tiết bởi tế bào δ tụy, dạ dày ruột và vùng hạ đồi. Chức năng chính của somatostatin là:
+
+- Ức chế sự phóng thích của hormone tăng trưởng GH và hormone kích thích tuyến giáp TSH
+
+- Ức chế sự tiết insulin và glucagon ở tuyến tụy
+
+- Ức chế nhu động dạ dày, ruột và các hormone dạ dày ruột khác
+
+- Yếu tố kích thích tiết somatostatin ở tuyến tụy cũng giống như kích thích tiết insulin (glucose huyết cao, nồng độ acid amin và protein cao). Somatostatin được tiết ra sẽ hoạt động theo kiểu cận tiết. Thời gian bán hủy của nó chỉ có 2 phút.
+
+Bảng 12.2. Tác dụng của các hormone trên sự cân bằng năng lượng (Nguồn: Principles of pharmacology, David E. Golan, 2012)
+
+| Loại hormone | Nguồn | Mô đích | Tác dụng |
+| :--- | :--- | :--- | :--- |
+| Glucagon | Tế bào α tụy | Mô gan, mô mỡ, mô cơ xương | Kích thích ly giải glycogen, tân tạo đường |
+| Insulin | Tế bào β tụy | Mô gan, mô mỡ, mô cơ xương | Kích thích thu nhận glucose, acid amin và acid béo từ máu vào tế bào để dự trữ dưới dạng glycogen, protein và triglyceride |
+| Amylin | Tế bào β tụy | Hệ thần kinh trung ương | Ức chế phóng thích glucagon, chậm làm trống dạ dày, giảm cảm giác thèm ăn |
+| Somatostatin | Tế bào δ tụy, dạ dày ruột và vùng hạ đồi | Các tế bào khác của tiểu đảo tụy, dạ dày ruột, não và tuyến yên | Giảm tiết insulin và glucagon; Giảm nhu động dạ dày ruột và tiết hormone; Giảm tiết hormone tăng trưởng |
+
+| Loại hormone | Nguồn | Mô đích | Tác dụng |
+| :--- | :--- | :--- | :--- |
+| Epinephrine | Tủy thượng thận | Nhiều | Kích thích ly giải glycogen tại gan<br>Ly giải mỡ và hoạt hóa men lipase nhạy cảm hormone (lipase protein lipase) |
+| Cortisol | Vỏ thượng thận | Nhiều | Đối kháng tác dụng của insulin tại mô đích<br>Kích thích tân tạo đường tại gan, ly giải protein ở mô cơ |
+| GLP-1 | Hỗng tràng | Tế bào nội tiết tụy, dạ dày, não, tim | Tăng khối lượng tế bào β và tăng tiết insulin<br>Chậm làm trống dạ dày<br>Giảm cảm giác thèm ăn và tiết glucagon |
+| Leptin | Tế bào mỡ | Hệ thần kinh trung ương (vùng hạ đồi) | Cân bằng tín hiệu dự trữ năng lượng cho cơ thể<br>Giảm cảm giác thèm ăn |
+
+## 2. CÁC NHÓM THUỐC ĐIỀU TRỊ BỆNH ĐÁI THÁO ĐƯỜNG
+
+Dựa trên cơ chế sinh lý điều hòa glucose huyết của cơ thể và các cơ chế bệnh sinh gây ra tình trạng tăng glucose huyết ở những bệnh nhân đái tháo đường típ 2, có các nhóm thuốc để kiểm soát glucose huyết bao gồm: insulin ngoại sinh, nhóm làm tăng tiết insulin, nhóm cải thiện tình trạng đề kháng insulin ở mô ngoại biên, nhóm ức chế hấp thu glucose ở ruột, nhóm ức chế tái hấp thu đường tại ống thận gần, nhóm tác động lên các hormone thuộc hiệu ứng incretin.
+
+### 2.1. Insulin
+
+Insulin có thể tồn tại ở nhiều dạng: đơn phân, nhị phân và lục phân. Tuy nhiên, chỉ có ở dạng đơn phân thì phân tử insulin mới gắn kết được vào thụ thể để có tác dụng sinh học, chỉ khi ở nồng độ thấp, sinh lý (< 0,1 µmol/L) thì insulin ở dạng đơn phân. Ở nồng độ cao hơn (0,6 mmo/L) thì insulin ở dạng đơn phân. Trong môi trường pH trung tính và có ion kẽm thì tồn tại ở dạng lục phân (như khi ở trong túi dự trữ tế bào beta). Khi thay đổi các phân tử acid amin ở đầu tận C- của chuỗi B phân tử insulin có thể làm thay đổi sự hình thành thể nhị phân từ đó thay đổi thời gian tác dụng của insulin.
+
+Bài 12. Dược lý thuốc điều trị bệnh đái tháo đường ♦ 127
+
+[Hình: Cấu trúc và thành phần acid amin của phân tử proinsulin (gồm chuỗi C-peptid và insulin) (Nguồn: Basic and clinical pharmacology, Bertram G. Katzung et al, 2012)]
+
+2.1.1. Các chế phẩm của insulin: bao gồm:
+
+Insulin bò, insulin heo: được chiết xuất từ tụy bò, heo.
+
+Insulin người: được tạo ra từ công nghệ tái tổ hợp DNA. Độ tinh khiết cao.
+
+2.1.2. Độ tinh khiết của insulin: được đánh giá bằng chỉ số ppm (part per million).
+
+Nồng độ insulin và ký hiệu: nồng độ và liều dùng của insulin được diễn tả bằng số đơn vị insulin (ký hiệu IU: international unit). Theo United States Pharmacopeia (USP) định nghĩa đơn vị (IU) là lượng insulin cần thiết để làm giảm glucose huyết của một con thỏ bị bỏ đói còn 45 mg/dL. Một đơn vị IU tương đương với 0,0347 mg insulin người (28,8 IU/mg).
+
+Ví dụ: 1 lọ insulin có ký hiệu 100 IU/mL nghĩa là trong 1 mL thì có 100 đơn vị insulin.
+
+2.1.3. Phân loại insulin
+
+Insulin bao gồm insulin người (human insulin) và chất tương tự insulin (insulin analog). Insulin người có cấu tạo thành phần acid amin giống tuyệt đối như insulin nội sinh tiết ra từ tế bào beta tụy, tuy nhiên, có tác dụng khác với insulin nội sinh do động học của insulin người ngoại sinh không giống với sinh lý tiết insulin nội sinh nhằm đáp ứng với tình trạng tăng glucose huyết sau bữa ăn, đồng thời insulin tiêm dưới da sẽ khuếch tán vào mô ngoại biên thay vì vào tĩnh mạch cửa như insulin nội sinh nên tác dụng của insulin lên chuyển hóa ở gan bị giảm hơn so với insulin nội sinh. Để khắc phục nhược điểm về dược động, các nhà sản xuất hoặc đã thêm tá dược vào insulin người (ví dụ: insulin NPH) hoặc thay đổi một vài acid amin trong cấu trúc phân tử của insulin (ví dụ: insulin analog) để kéo dài hay rút ngắn thời gian tác dụng của insulin.
+
+Phân loại insulin theo thời gian tác dụng thì có bốn loại: tác dụng nhanh, tác dụng ngắn, tác dụng trung bình và tác dụng kéo dài.
+
+Insulin tác dụng nhanh: gồm insulin lispro, insulin aspart và insulin glulisine. Đây là những chế phẩm insulin analog.
+
+- Insulin lispro là loại insulin ở dạng monomer đầu tiên xuất hiện trên thị trường. Chuỗi B của phân tử có hai vị trí acid amin bị thay đổi: phân tử proline ở vị trí B28 được chuyển sang vị trí B29 và phân tử lysine ở vị trí B29 được chuyển qua vị trí B28.
+
+- *Insulin aspart*: thay phân tử proline ở vị trí B28 bằng phân tử acid aspartic.
+
+- *Insulin glulisine*: ở vị trí B3 asparagine được thay bằng lysine, ở vị trí B29 lysine được thay bằng phân tử acid glutamic.
+
+Do có sự thay đổi phân tử trong chuỗi polypeptide, làm giảm tính kết dính của các phân tử insulin, giúp insulin được hấp thu nhanh hơn so với insulin regular sau khi được tiêm dưới da. Một loại insulin lý tưởng phải khởi phát tác dụng sau tiêm khoảng 10 – 20 phút, đạt đỉnh trong vòng 1 giờ, thời gian tác dụng kéo dài nhỏ hơn 3 giờ sau tiêm. Do đó, các insulin analog này phù hợp để dùng kiểm soát glucose huyết sau mỗi bữa ăn vì tác dụng hạ glucose huyết của nó bắt đầu sau khi tiêm dưới da 10 – 20 phút. Insulin nhóm này thường được dùng cùng với insulin tác dụng kéo dài để kiểm soát glucose huyết cho bệnh nhân theo phác đồ basal-bolus.
+
+*Insulin tác dụng ngắn (insulin regular, còn gọi là insulin thường)*
+
+Insulin thường là chế phẩm insulin người, có cấu trúc chuỗi polypeptide không thay đổi. Insulin thường khởi phát tác dụng chậm hơn và thời gian tác dụng kéo dài hơn so với loại insulin tác dụng nhanh analog. Insulin loại này còn được dùng để truyền tĩnh mạch trong những trường hợp nhiễm toan ceton. Insulin thường có cấu tạo tinh thể gồm 6 phân tử insulin bao quanh 1 phân tử kẽm. Sau khi tiêm dưới da, 6 phân tử này phân ly thành dạng nhị phân và đơn phân, rồi được hấp thu vào máu. Do phải mất thời gian để phân ly nên thời gian khởi phát tác dụng của insulin thường bắt đầu 30 – 60 phút sau tiêm. Thời gian tác dụng kéo dài 5 – 8 giờ.
+
+*Insulin tác dụng trung bình*
+
+Insulin tác dụng trung bình NPH (Neutral Protamine Hagedorn) là chế phẩm insulin người, cấu tạo bởi phân tử insulin kết hợp với phân tử kẽm và protamine (phân tử protein giàu arginine được chiết xuất từ tinh trùng cá). Cần có men ly giải protein để phân cắt phân tử protamine khỏi phân tử insulin, nên insulin tác dụng trung bình được hấp thu chậm, kéo dài thời gian tác dụng. Insulin NPH có đỉnh tác dụng sau tiêm khoảng 4 – 10 giờ, thay đổi tùy theo bệnh nhân. Do tác dụng đỉnh này nên có sự gia tăng nguy cơ hạ glucose huyết, nhất là vào ban đêm khi bệnh nhân đã ngủ.
+
+*Insulin tác dụng kéo dài*
+
+Insulin tác dụng kéo dài là các chế phẩm insulin analog, được dùng để cung cấp insulin nền cho bệnh nhân đái tháo đường. Những chế phẩm insulin này được phóng thích từ từ, sau đó được hấp thu vào máu. So với insulin NPH, nhóm insulin này được hấp thu chậm hơn, thời gian tác dụng kéo dài hơn và không có đỉnh tác dụng.
+
+- *Insulin glargine*: được thay thế nhiều acid amin ở hai chuỗi polypeptide, làm cho insulin được phóng thích chậm và hấp thu chậm vào trong máu sau khi tiêm dưới da. Ở pH = 4, nó ở dạng hòa tan, khi ở pH cơ thể, hình thành vi kết tủa. Các vi kết tủa này làm cho insulin được phóng thích chậm vào máu.
+
+- *Insulin detemir*: mất threonine ở vị trí B30, ở vị trí acid amin B29 được gắn thêm chuỗi acid béo dài 14 carbon. Chuỗi acid béo này thúc đẩy insulin gắn kết với albumin huyết tương và mô, làm chậm sự hấp thu, kéo dài thời gian tác dụng và thải trừ của insulin.
+
+- Insulin degludec: là chế phẩm insulin bị loại bỏ acid amin glutamate ở vị trí B30 (Glub30) và thêm acid hexadecanedioic vào lysin ở vị trí B29, giúp hình thành các hexamer, chậm phóng thích insulin, làm insulin có thời gian tác dụng kéo dài hơn 24 giờ. Do đặc điểm dược động như vậy nên có thể tiêm degludec mỗi ngày hoặc 3 lần/tuần.
+
+Phác đồ điều trị insulin như chọn loại chế phẩm insulin, liều lượng, số lần tiêm insulin trong ngày thay đổi tùy theo tình trạng của từng bệnh nhân cụ thể. Ngoài ra, phác đồ còn thay đổi ở mỗi bệnh nhân tùy vào hoạt động, thành phần và số lượng bữa ăn và nồng độ glucose huyết của bệnh nhân. Một phác đồ cơ bản bao gồm một mũi insulin tác dụng kéo dài cung cấp insulin nền và các mũi insulin tác dụng ngắn để kiểm soát glucose huyết sau ăn cho bệnh nhân. Tuy nhiên, cần phải tiêm nhiều lần trong ngày với nhiều loại insulin khác nhau gây phiền phức, có thể nguy hiểm nếu bệnh nhân nhầm các loại insulin với nhau. Hiện tại có các loại insulin trộn sẵn 25 – 30% tác dụng ngắn và 70 – 75% tác dụng kéo dài, với insulin loại này bệnh nhân chỉ cần tiêm 2 lần/ngày, giảm số lần tiêm trong ngày, thuận tiện cho bệnh nhân.
+
+### Insulin dạng hít
+
+Insulin dạng hít được chứa trong những thiết bị điện cảm ứng với tốc độ hít vào của bệnh nhân. Khi bệnh nhân hít vào với tốc độ đạt chuẩn, một lượng insulin sẽ được phóng thích vào phổi bệnh nhân. Insulin dạng hít khởi phát tác dụng nhanh, thời gian tác dụng kéo dài 5 – 10 giờ, có thể dùng để thay thế cho các loại insulin tác dụng ngắn.
+
+**Bảng 12.3. Các chế phẩm insulin và đặc điểm về thời gian khởi phát tác dụng, thời gian đạt đỉnh và thời gian tác dụng**
+
+| Loại insulin | Tên thương mại | Thời gian bắt đầu tác dụng | Đỉnh tác dụng | Thời gian tác dụng kéo dài |
+| :--- | :--- | :--- | :--- | :--- |
+| Insulin người tác dụng ngắn | Actrapid, Humulin R, Regular insulin | 30 phút | 2 – 4 giờ | 6 – 8 giờ |
+| **Insulin analog tác dụng nhanh** | | | | |
+| Insulin Lispro | Humalog | 5 – 15 phút | 30 – 90 phút | 3 – 5 giờ |
+| Insulin Aspart | Novorapid, Novolog | 5 – 15 phút | 30 – 90 phút | 3 – 5 giờ |
+| Insulin Glulisine | Apidra | 5 – 15 phút | 30 – 90 phút | 3 – 5 giờ |
+| **Insulin người tác dụng trung bình** | | | | |
+| NPH | Humulin N, Insulatard | 1 – 2 giờ | 4 – 8 giờ | 10 – 16 giờ |
+| **Insulin analog tác dụng kéo dài** | | | | |
+| Insulin Glargine U100 | Lantus | 1,5 giờ | Không đỉnh | 24 giờ |
+| Insulin Glargine U300 | Toujeo | 1,5 giờ | Không đỉnh | 36 giờ |
+| Insulin Detemir | Levemir | 1,5 giờ | Không đỉnh | 20 – 24 giờ |
+| Insulin Degludec | Tresiba | 1 giờ | Không đỉnh | 42 giờ |
+
+| Loại insulin | Tên thương mại | Thời gian bắt đầu tác dụng | Đỉnh tác dụng | Thời gian tác dụng kéo dài |
+| :--- | :--- | :--- | :--- | :--- |
+| **Insulin trộn sẵn** | | | | |
+| Insulin người trộn sẵn 70/30 | Mixtard 70/70 Humulin 70/30 | 30 phút | 2 pha | 10 – 16 |
+| 70% NPA/ 30% Aspart | Novomix 30 | 5 – 15 phút | 2 pha | 10 – 16 |
+| 75% NPL/ 25% Lispro | Humalog Mix 75/25 | 5 – 15 phút | 2 pha | 10 – 16 |
+| 50% NPL/ 50% Lispro | Humalog Mix 50/50 | 5 – 15 phút | 2 pha | 10 – 16 |
+| 70% Degludec/ 30% Aspart | Ryzodeg | 5 – 15 phút | 2 pha | 42 giờ |
+
+NPH: Neutral Protamine Hagedorn, NPA: Neutral Protamine Aspart, NPL: Neutral Protamine Lispro
+
+### 2.1.4. Đường dùng
+Insulin có bản chất là chuỗi polypeptide, do đó rất dễ bị phân hủy ở dạ dày ruột khi dùng đường uống. Insulin nhanh regular thường được tiêm dưới da, trong những trường hợp tăng glucose huyết cấp tính, insulin thường có thể được tiêm tĩnh mạch. Ngoài ra, còn có loại insulin dùng đường hít hoặc bơm insulin liên tục dưới da.
+
+### 2.1.5. Chỉ định của insulin
+- Đái tháo đường típ 1
+- Đái tháo đường thai kỳ
+- Đái tháo đường típ 2: dùng cho các trường hợp sau: có biểu hiện tăng glucose huyết rõ, tăng glucose huyết dù đã dùng tối đa các thuốc viên hạ glucose huyết, mất bù do stress, nhiễm trùng, tăng ceton máu cấp nặng, can thiệp ngoại khoa, có thai, bệnh gan, thận và không dung nạp thuốc viên hạ glucose huyết.
+
+### 2.1.6. Tác dụng ngoại ý của insulin
+- Hạ glucose huyết: là tác dụng ngoại ý thường gặp nhất và nghiêm trọng nhất
+- Loạn dưỡng mô mỡ tại vị trí tiêm (thường gặp thể phì đại): có thể làm chậm thời gian bắt đầu tác dụng của insulin và gia tăng nguy cơ hạ glucose huyết do insulin tích lũy từ mô mỡ sẽ phóng thích dần vào máu
+- Phản ứng dị ứng: thường gặp là loại phản ứng da tại chỗ điều hòa bởi IgE, ít gặp hơn là những phản ứng dị ứng toàn thân đe dọa tính mạng hoặc đề kháng insulin liên quan đến kháng thể IgG.
+
+2.2. Các nhóm thuốc điều trị đái tháo đường khác
+
+Hiện nay, bên cạnh insulin còn có nhiều nhóm thuốc khác dùng để điều trị cho bệnh nhân đái tháo đường. Hầu hết những thuốc này được dùng cho bệnh nhân đái tháo đường típ 2. Tuy nhiên, thuốc tương tự amylin (amylin analogue) có thể dùng cho bệnh nhân đái tháo đường típ 2 và típ 1. Các nhóm thuốc điều trị đái tháo đường có thể chia thành hai nhóm:
+
+Nhóm làm hạ glucose huyết (hypoglycemic agents) có tác dụng kích thích tiết insulin, sử dụng quá liều có thể làm glucose huyết hạ dưới mức bình thường. Nhóm này gồm có sulfonylureas và meglitinides.
+
+Nhóm chống tình trạng tăng glucose huyết (antihyperglycemic agents) có tác dụng ngăn chặn hoặc làm giảm tình trạng tăng glucose huyết. Nhóm này bao gồm biguanides, thuốc ức chế men α-glucosidase, thiazolidinediones, thuốc tác động lên hiệu ứng incretin, thuốc ức chế tái hấp thu đường ở ống thận gần và thuốc tương tự amylin.
+
+2.2.1. Sulfonylureas
+
+Sulfonylureas (SU) được phân loại gồm: SU thế hệ thứ 1 như Tolbutamide, chlorpropamide hiện nay không còn sử dụng trên thực hành do tác dụng ngoại ý nhiều. Thuốc sulfonylureas thế hệ thứ 2 gồm glyburide (glibenclamide), glimepiride, glipizide, gliclazide có hiệu lực cao hơn cho phép dùng liều thấp hơn so với SU thế hệ 1.
+
+Cơ chế tác dụng: SU gắn vào thụ thể sulfonylurea (SUR) trên tế bào beta tụy là SUR1 dẫn đến đóng kênh $K^+$ nhạy ATP và làm giảm kali đi ra khỏi tế bào gây ra khử cực màng tế bào. Sự khử cực màng tế bào này dẫn tới mở kênh calci làm tăng calci đi vào tế bào và gây tăng tiết insulin. Ngoài ra, SU còn có thể gắn vào các SUR khác như SUR2B ở cơ trơn thành mạch và SUR2A ở cơ tim. Ở cơ tim, khi gắn vào thụ thể SUR2B làm dòng $Ca^{2+}$ nhập bào gây ra chết tế bào cơ tim. SU có chứa nhóm benzamido (glibenclamide, glipizide, glimepiride) có thể gắn với SUR2A và SUR2B. Những SU không chứa nhóm benzamido (ví dụ gliclazide) có ít gắn lên các thụ thể SUR này trên tim và mạch máu.
+
+Dược động: thuốc được hấp thu tốt qua đường tiêu hóa, tuy nhiên, thức ăn và tình trạng tăng glucose huyết có thể làm giảm sự hấp thu của thuốc do làm giảm nhu động ruột, do đó, cần uống thuốc trước khi ăn ít nhất 30 phút. Trong máu, phần lớn thuốc sẽ gắn kết với protein huyết tương, đặc biệt là với albumin. SU thế hệ thứ hai có thời gian bán hủy ngắn (3 – 5 giờ), tuy nhiên, hiệu lực thì lại gấp 100 lần so với SU thế hệ thứ 1 do sự tương tác với các thụ thể và sự hình thành của các sản phẩm chuyển hóa có hoạt tính, làm cho thời gian tác dụng kéo dài hơn 24 giờ. Thuốc được chuyển hóa tại gan và đào thải qua thận, do đó cần cẩn thận khi sử dụng ở bệnh nhân có đồng thời suy gan và suy thận.
+
+Chỉ định: SU có thể sử dụng đơn trị liệu hoặc phối hợp với các thuốc uống đái tháo đường có cơ chế khác để kiểm soát glucose huyết cho bệnh nhân đái tháo đường típ 2.
+
+Liều dùng: SU thế hệ 2 ít có tác dụng ngoại ý và ít tương tác với các thuốc như SU thế hệ 1. Tuy nhiên, cần thận trọng sử dụng các thuốc SU ở những bệnh nhân có bệnh tim mạch hoặc bệnh nhân lớn tuổi vì nếu có biến chứng hạ glucose huyết xảy ra trên những đối tượng có thể mang lại hậu quả nghiêm trọng.
+
+Glyburide (glibenclamide) được chuyển hóa tại gan thành dạng ít có hoạt tính. Liều khởi đầu thường dùng là 2,5 mg/ngày hoặc ít hơn và liều duy trì trung bình là 5 – 10 mg/ngày vào buổi sáng. Liều duy trì trên 20 mg/ngày không được khuyến cáo. Thuốc chống chỉ định ở bệnh nhân suy gan hoặc suy thận.
+
+Glipizide có thời gian bán hủy ngắn hơn (2 – 4 giờ). Để đạt được hiệu quả kiểm soát glucose huyết sau ăn tối ưu, nên uống thuốc trước ăn sáng 30 phút bởi vì thức ăn làm cản trở hấp thu thuốc. Liều khởi đầu là 5 mg/ngày, có thể tăng lên 15 mg/lần/ngày. Liều tối đa là 40 mg/ngày. Nhiều nghiên cứu cho thấy tác dụng tối đa đạt được ở liều 15 – 20 mg, khi tăng liều thuốc trên liều này tác dụng hạ glucose huyết không tăng hơn.
+
+Glimepiride: tác dụng hạ glucose huyết có thể đạt được ở liều 1 mg/ngày, liều tối đa là 8 mg. thời gian bán hủy của thuốc là 5 – 9 giờ. Thuốc được chuyển hóa hoàn toàn tại gan thành dạng không có hoạt tính hoặc có hoạt tính yếu.
+
+Gliclazide: có thời gian bán hủy khoảng 10 giờ. Liều khởi đầu gliclazide thường là 40 – 80 mg/ngày, liều tối đa là 320 mg/ngày. Ở liều cao có thể chia làm 2 lần/ngày. Thuốc được chuyển hóa hoàn toàn tại gan thành dạng bất hoạt. Đối với dạng viên phóng thích có kiểm soát gliclazide MR (modified release) cho phép dùng 1 lần hàng ngày. Liều 30 mg gliclazide MR sẽ tương đương với 80 mg gliclazide dạng thường.
+
+Tác dụng ngoại ý: hạ glucose huyết là tác dụng ngoại ý thường gặp nhất của SU, xảy ra khi bệnh nhân bỏ ăn hoặc ăn trễ, lượng carbohydrate nhập không đủ, quá liều hoặc có bệnh lý về gan, thận. SU tác dụng hạ glucose huyết mạnh, kéo dài sẽ có nguy cơ cao hạ glucose huyết. Trong các thuốc SU, glibenclamide là thuốc có hiệu lực mạnh, nguy cơ hạ glucose huyết cao. Trong nghiên cứu so sánh cùng kiểm soát glucose huyết tương tự, gliclazide MR có nguy cơ hạ glucose huyết thấp hơn so với glimepiride.
+
+Các tác dụng ngoại ý khác bao gồm đỏ da (ở 3% trường hợp bệnh nhân), buồn nôn, nôn. Ít gặp hơn là những phản ứng huyết học như giảm bạch cầu, giảm tiểu cầu và thiếu máu tán huyết.
+
+### 2.2.2. Meglitinide
+
+Repaglinide và nateglinide là những hợp chất meglitinide. Thuốc được hấp thu nhanh, có tác dụng hạ glucose huyết trong thời gian ngắn. Thuốc được uống trước ăn để kiểm soát glucose huyết sau ăn. Thuốc kích thích tế bào β-tụy tăng tiết insulin bằng cách ức chế kênh $K^+$ nhạy cảm ATP.
+
+**Bảng 12.4. Các thuốc sulfonylureas thế hệ 2 và đường thải trừ**
+
+| Thuốc | Tác dụng của chất chuyển hóa (T1/2) | Thải trừ |
+| :--- | :--- | :--- |
+| Glibenclamide | Có hoạt tính (10 giờ) | Mật # 50% |
+| Glimepiride | Có hoạt tính (3 – 6 giờ) | Nước tiểu # 80% |
+| Glipizide | Bất hoạt | Nước tiểu # 70% |
+| Gliclazide | Bất hoạt | Nước tiểu # 65% |
+
+Thuốc có thể được uống trước ăn 30 phút hoặc ngay trước bữa ăn. Thuốc đạt tác dụng đỉnh sau 1 giờ. Thuốc được chuyển hóa hoàn toàn thành dạng bất hoạt tại gan sau 3 – 4 giờ. Thuốc có thể được sử dụng đơn trị liệu hoặc phối hợp với metformin, không nên kết hợp với các thuốc SU hoặc với insulin. Thuốc sử dụng được cho bệnh nhân suy thận và người lớn tuổi hoặc bệnh nhân dị ứng với SU hoặc dị ứng với lưu huỳnh.
+
+**Bảng 12.5. Các thuốc sulfonylureas thế hệ 2 và đường thải trừ**
+
+| Loại thuốc | Hàm lượng (mg) | Thời gian tác dụng (giờ) | Liều sử dụng (mg) |
+| :--- | :--- | :--- | :--- |
+| Glibenclamide | 5 | 12 – 24 | 2,5 – 20 |
+| Glipizide | 5 | 12 – 24 | 5 – 20 |
+| Glimepiride | 2, 4 | 24 | 2 – 8 |
+| Gliclazide | 80 | 8 – 12 | 40 – 320 |
+| Gliclazide phóng thích được kiểm soát (Modified release) | 30 | > 24 | 30 – 120 |
+
+**Bảng 12.6. Các thuốc nhóm metiglinide**
+
+| Thuốc | Hàm lượng (mg) | Liều dùng (mg) | Thời gian bán hủy | Thời gian tác dụng |
+| :--- | :--- | :--- | :--- | :--- |
+| Repaglinide | 1 | 1 – 16 | | |
+| Nateglinide | 60 | 60 – 180 | 1 giờ | 4 giờ |
+
+### 2.2.3. Biguanide
+
+Nhóm biguanide bao gồm metformin và phenformin. Phenformin hiện không còn sử dụng vì làm tăng nguy cơ toan chuyển hóa do acid lactic.
+
+**Cơ chế tác dụng:** Biguanides kích hoạt protein kinase được hoạt hóa bởi AMP (AMP – activated protein kinase AMPK), làm giảm quá trình tân tạo glucose ở gan. Thuốc có tác dụng làm giảm glucose huyết khi đói và glucose huyết sau ăn, tuy nhiên, hiếm khi xảy ra tình trạng hạ glucose huyết. Metformin còn có tác dụng trên lipid máu và gây giảm cân ở một số bệnh nhân. Một số nghiên cứu dịch tễ cho thấy metformin còn có tác dụng làm giảm nguy cơ một số loại ung thư, cơ chế liên quan đến tác dụng làm giảm insulin (insulin có vai trò như một hormone tăng trưởng) đồng thời cùng với tác dụng trực tiếp lên tế bào thông qua AMPK. Ngoài ra, còn thấy metformin có tác dụng làm giảm biến cố tử vong do tim mạch, làm tăng tuổi thọ ở chuột.
+
+**Dược động học:** Metformin có thời gian bán hủy 1,5 – 3 giờ. Thuốc không liên kết với protein huyết tương, được đào thải qua thận dưới dạng không chuyển hóa. Thuốc ảnh hưởng đến chuyển hóa acid lactic tại gan. Ở bệnh nhân suy thận, thuốc không được thải trừ, tích lũy trong cơ thể làm gia tăng nguy cơ nhiễm acid lactic, nguy cơ này tương quan với liều. Ở những bệnh nhân có độ lọc cầu thận ước tính từ 30 – 60 mL/phút/1,73 m²
+
+da cần giảm liều so với bình thường. Bệnh nhân có độ lọc cầu thận ước tính < 30 mL/phút/1,73 m² da thì không sử dụng.
+
+**Chỉ định:** metformin là thuốc chọn lựa đầu tay cho bệnh nhân đái tháo đường típ 2. Thuốc có thể sử dụng đơn trị liệu hoặc phối hợp với các nhóm điều trị đái tháo đường khác.
+
+**Liều dùng và cách dùng:** liều khởi đầu là 500 mg, uống sau ăn, tăng liều từ từ. Liều tối đa là 2.500 mg/ngày, tuy nhiên, nhiều nghiên cứu cho thấy liều trên > 2.000 mg/ngày thì tác dụng hạ glucose huyết không tăng thêm.
+
+**Tác dụng ngoại ý:** tác dụng ngoại ý thường gặp nhất của metformin là các rối loạn về dạ dày ruột (buồn nôn, nôn, đau bụng, tiêu chảy). Các triệu chứng này liên quan đến liều, thường xuất hiện lúc bắt đầu dùng thuốc. Có 3 – 5% bệnh nhân không dung nạp thuốc do tiêu chảy. Metformin ức chế sự hấp thu vitamin B12 phụ thuộc calci ở ruột non. Bệnh nhân sử dụng metformin thời gian dài có thể thiếu hụt vitamin B12. Tăng nhập calci có thể ngừa thiếu hụt vitamin B12. Toan chuyển hóa tăng acid lactic thỉnh thoảng xảy ra ở những bệnh nhân được điều trị với metformin. Nguy cơ này tăng lên ở những đối tượng có tình trạng giảm oxy mô, suy thận. Thuốc cản quang có thể gây suy thận cấp ở những bệnh nhân đái tháo đường típ 2, do đó, cần ngưng metformin trước khi chụp phim có tiêm thuốc cản quang và bắt đầu dùng thuốc lại sau 1 – 2 ngày nếu bệnh nhân không bị suy giảm chức năng thận.
+
+Bảng 12.7. Chỉ định metformin theo độ lọc cầu thận ước tính
+
+| eGFR (mL/phút/1,73 m²) | Chỉ định metformin |
+| :--- | :--- |
+| eGFR ≥ 60 | Không có chống chỉ định. Theo dõi eGFR định kỳ hàng năm |
+| 45 ≤ eGFR < 60 | Tiếp tục metformin. Theo dõi eGFR mỗi sáu tháng |
+| 30 ≤ eGFR < 45 | Dùng thận trọng. Chỉ định liều thấp (khoảng 50% liều tối đa). Theo dõi eGFR mỗi 3 tháng. Không ghi toa cho bệnh nhân mới bắt đầu sử dụng |
+| < 30 | Chống chỉ định tuyệt đối |
+
+eGFR: độ thanh lọc cầu thận ước tính
+
+### 2.2.4. Thiazolidinedione (TZD)
+
+Nhóm thiazolidinedione bao gồm trioglitazone, rosiglitazone và pioglitazone.
+
+**Cơ chế tác dụng:** thuốc có tác dụng làm giảm tình trạng đề kháng insulin. Thuốc gắn vào thụ thể PPAR-γ (peroxisome proliferator-activated receptor-gamma), thụ thể này thuộc nhóm thụ thể nhân. Các thụ thể này có ở mô gan, cơ, mỡ. PPAR-γ điều hòa quá trình biểu hiện gen liên quan đến chuyển hóa đường, lipid, dẫn truyền tín hiệu insulin, biệt hóa tế bào mỡ và các mô khác. TZD có tác dụng làm tăng biểu hiện các kênh vận chuyển glucose (GLUT1 và GLUT4), giảm acid béo tự do, giảm tân tạo đường ở gan, tăng nồng độ
+
+adiponectin và giảm phóng thích resistin từ tế bào mỡ, tăng biệt hóa tế bào tiền mỡ thành tế bào mỡ trưởng thành. TZD còn có tác dụng làm giảm PAI-1 (plasminogen activator inhibitor típ 1), matrix metalloproteinase-9, CRP và IL-6.
+
+Hiện nay, chỉ có pioglitazone và rosiglitazone còn lưu hành trên thị trường và do cấu trúc chuỗi bên khác nhau nên có tác dụng, chuyển hóa và tác dụng ngoại ý khác nhau. Trioglitazone có thể gây ra hoại tử tế bào gan cấp nên đã bị rút khỏi thị trường.
+
+Pioglitazone còn có tác dụng làm giảm triglycerides và tăng HDL cholesterol, không ảnh hưởng đến cholesterol toàn phần và LDL cholesterol. Rosiglitazone làm tăng cholesterol toàn phần, HDL cholesterol và LDL cholesterol nhưng không có tác dụng trên triglycerides. TZD còn có tác dụng cải thiện về mặt mô học và sinh hóa bệnh gan nhiễm mỡ không do rượu.
+
+**Dược động học:** sau khi uống, TZD được hấp thu tốt ở ruột, gắn kết mạnh với albumin máu. Các TZD được chuyển hóa tại gan qua hệ men CYP450. Pioglitazone được chuyển hóa bởi CYP2C8 và CYP 3A4 thành chất chuyển hóa có hoạt tính. Sau đó được đào thải qua mật. Rosiglitazone chuyển hóa bởi men CYP2C8 và CYP2C9 thành dạng ít có hoạt tính, được đào thải qua thận. Không cần chỉnh liều rosiglitazone ở bệnh nhân suy thận.
+
+**Tác dụng ngoại ý:** trong một nghiên cứu phân tích tổng hợp 42 nghiên cứu lâm sàng ngẫu nhiên cho thấy rosiglitazone làm tăng nguy cơ đau thắt ngực hoặc nhồi máu cơ tim. Hiện rosiglitazone không được sử dụng ở châu Âu. Khoảng 3 – 4% bệnh nhân sử dụng đơn trị liệu với TZD có tình trạng giữ nước, tỉ lệ này tăng lên 10 – 15% ở bệnh nhân được điều trị đồng thời TZDs với insulin. Ở bệnh nhân suy tim mức độ NYHA III, IV khi sử dụng TZD có thể bị suy tim mất bù. Ngoài ra, TZD còn gây tăng cân do tác dụng giữ nước và tăng lượng mỡ dưới da. TZD làm giảm nguyên bào xương, tăng nguy cơ loãng xương và gãy xương. Bên cạnh đó, TZD còn gây thiếu máu do cơ chế pha loãng. Trong những nghiên cứu tiền lâm sàng, kết quả cho thấy ở những con chuột đực khi sử dụng pioglitazone tăng nguy cơ bị bướu bàng quang. Nguy cơ ung thư bàng quang gia tăng theo liều và thời gian sử dụng thuốc. Do đó, cần cân nhắc tầm soát ung thư bàng quang ở những đối tượng sử dụng pioglitazone lâu dài.
+
+Troglitazone bị rút khỏi thị trường do có khả năng gây ra tử vong do suy gan. Mặc dù rosiglitazone và pioglitazone không được báo cáo là có khả năng gây hoại tử tế bào gan, tuy nhiên, những bệnh nhân có bệnh gan hoạt động hoặc có ALT tăng gấp 2,5 lần so với bình thường không khuyến cáo sử dụng. Chức năng gan nên được kiểm tra trước khi điều trị và định kỳ sau đó.
+
+### 2.2.5. Thuốc ức chế hấp thu glucose ở ruột non
+
+Thuốc ức chế hấp thu glucose ở ruột non hay thuốc ức chế men α-glucosidase bao gồm acarbose, miglitol và voglibose.
+
+**Cơ chế tác dụng:** thuốc ức chế men α-glucosidase có tác dụng ức chế men α-glucosidase ở ruột, từ đó ức chế hấp thu glucose từ ruột, làm giảm glucose huyết sau ăn. Acarbose
+
+và miglitol có tác dụng ức chế men glucoamylase và α-amylase, sucrose, nhưng ít có tác dụng trên isomaltase, trehalase và lactase.
+
+**Dược động học:** Acarbose ít được hấp thu do nó cấu tạo giống một tetrasaccharide, được chuyển hóa bởi vi khuẩn đường ruột. Chất chuyển hóa được hấp thu và thải trừ qua nước tiểu. Miglitol có cấu tạo giống với glucose nên được hấp thu nhưng không có tác dụng toàn thân, được thải trừ qua thận dưới dạng không đổi.
+
+**Tác dụng ngoại ý:** chủ yếu bao gồm đầy hơi, tiêu chảy và đau bụng, tác dụng này giảm dần khi sử dụng thuốc lâu dài do có sự tăng biểu hiện men α-glucosidase ở hỗng tràng và hồi tràng, tăng hấp thu glucose ở đoạn xa của ruột non, làm giảm lượng carbohydrate xuống đại tràng. Nếu dùng thuốc đơn trị liệu hoặc kết hợp với metformin không gây hạ glucose huyết, tuy nhiên, nếu phối hợp với sulfonylurea có thể có hạ glucose huyết xảy ra.
+
+**Liều dùng:** khởi đầu acarbose với liều 50 mg × 2 lần/ngày, tăng liều từ từ đến 100 mg × 3 lần/ngày. Thuốc có tác dụng làm giảm 30 – 50% glucose huyết sau ăn. Miglitol khởi đầu với 25 mg × 3 lần/ngày. Liều duy trì thường dùng là 50 mg × 3 lần/ngày, nhưng có thể tăng lên 100 mg × 3 lần/ngày. Thuốc nên được uống ngay vào đầu bữa ăn có carbohydrate.
+
+**Bảng 12.8. Hàm lượng và liều dùng của nhóm ức chế alpha-glucosidase**
+
+| Loại thuốc | Hàm lượng (mg) | Liều dùng (mg) |
+| :--- | :--- | :--- |
+| Acarbose | 50, 100 | 25 – 300 |
+| Miglitol | 25, 50, 100 | 25 – 300 |
+
+### 2.2.6. Thuốc tác động lên hiệu ứng incretin
+
+Khi sử dụng cùng một lượng glucose, nhưng nếu dùng đường uống thì nồng độ insulin trong máu cao hơn so với dùng đường tĩnh mạch. Hiện tượng này xảy ra do hiệu ứng incretin, khi uống glucose sẽ kích thích tế bào ruột non tiết ra các hormone ruột gồm glucagon-like peptide-1 (GLP-1) và glucose-dependent insulinotropic peptide (GIP) có tác dụng kích thích tế bào β-tụy tiết insulin. Tác dụng của GLP-1 phụ thuộc vào glucose tức là khi glucose huyết tăng thì insulin máu tăng, khi glucose huyết bình thường thì insulin không tăng. Bên cạnh đó, GLP-1 còn có tác dụng ức chế tế bào α-tụy tiết glucagon, chậm làm trống dạ dày, làm giảm sự chết tế bào theo chương trình, làm giảm cảm giác thèm ăn. GLP-1 nhanh chóng bị bất hoạt bởi men dipeptidyl peptidase-4 (DPP-4) và các men khác như endopeptidase-24.11 và được thải trừ qua thận.
+
+### 2.2.7. Thuốc đồng vận thụ thể GLP-1
+
+Thuốc đồng vận thụ thể GLP-1 có cấu trúc phân tử gần giống như phân tử GLP-1 nội sinh, nhưng không bị bất hoạt bởi men DPP-4. Thuốc đồng vận thụ thể GLP-1 bao gồm exenatide, liraglutide, albiglutide, dulaglutide. Ngoài tác dụng có lợi trên glucose huyết, thuốc đồng vận thụ thể GLP-1 còn có tác dụng giảm cân (phụ thuộc liều), giảm huyết áp, cải thiện lipid máu (giảm cholesterol toàn phần và LDL-cholesterol). Liraglutide và semaglutide trong nghiên cứu cho thấy giảm nguy cơ bị biến cố tim mạch xơ vữa trên bệnh nhân đái tháo đường típ 2 đã có bệnh tim mạch hoặc có các yếu tố nguy cơ tim mạch.
+
+**Dược động học:** thuốc được dùng tiêm dưới da. Liraglutide gắn kết cao với protein, có thời gian bán hủy dài, dùng 1 lần/ngày không phụ thuộc bữa ăn. Exenatide có thời gian bán hủy ngắn, được đào thải chủ yếu qua thận.
+
+Exenatide là dẫn xuất của exedin-4 peptide của nước bọt thằn lằn Gila, có cấu tạo giống 53% với GLP-1 người. Thuốc được dùng phối hợp với metformin hoặc metformin và sulfonylureas.
+
+Thuốc có ở dạng bút cố định liều (5 µg và 10 µg), được tiêm dưới da 60 phút trước ăn sáng và tối, đạt nồng độ đỉnh sau 2 giờ, thời gian tác dụng kéo dài khoảng 10 giờ. Khởi đầu với liều 5 µg × 2 lần/ngày, nếu bệnh nhân dung nạp có thể tăng lên 10 µg × 2 lần/ngày. Exenatide LAR (long-acting release) ở dạng bột khô (2 mg) dùng 1 lần/tuần. Thuốc có tác dụng làm giảm HbA1C 0,2 – 1,2%. Tác dụng ngoại ý thường gặp nhất là buồn nôn (44% trường hợp), phụ thuộc liều và giảm dần theo thời gian.
+
+Liraglutide là dạng GLP-1 analog có chứa acid béo được acyl hóa. Thuốc có ở dạng bút tiêm 18 mg/3 mL. Khởi đầu tiêm dưới da 0,6 mg × 1 lần/ngày, sau đó tăng liều thành 1,2 mg/ngày. Nếu cần có thể tăng lên đến 1,8 mg/ngày.
+
+Albiglutide có thời gian bán hủy 5 ngày, tiêm dưới da 1 lần/tuần, đạt trạng thái ổn định sau tiêm 4 – 5 tuần. Liều thường dùng là 30 mg/tuần, tiêm dưới da.
+
+Dulaglutide gồm hai phân tử GLP-1 analog tạo liên kết cộng hóa trị với đoạn Fc của IgG4 người. Thời gian bán hủy là 5 ngày. Liều dùng là 0,75 mg/tuần, tiêm dưới da. Liều tối đa là 1,5 mg/tuần.
+
+**Tác dụng ngoại ý:** tác dụng ngoại ý thường gặp là chán ăn, buồn nôn, nôn, tiêu chảy và táo bón. Tăng nguy cơ viêm tụy. Ngoài ra, còn ghi nhận vài ca suy thận và tổn thương thận cấp khi dùng exenatide. Các bệnh nhân này có tiền căn bệnh thận trước đó hay có yếu tố nguy cơ gây tổn thương thận. Thuốc cũng liên quan tới viêm tụy và ung thư giáp thể tủy (ung thư tế bào C) trên chuột. Chống chỉ định dùng thuốc trên những bệnh nhân có tiền sử gia đình hay bản thân mắc ung thư tuyến giáp dạng tủy hay hội chứng đa u tuyến nội tiết (Multiple endocrine neoplasia, MEN) típ 2. Ngoài ra, thuốc còn có tác dụng giảm cân, tác dụng này phụ thuộc liều.
+
+### 2.2.8. Thuốc ức chế men DPP-4
+
+Thuốc ức chế men DPP-4 bao gồm sitagliptin, saxagliptin, vildagliptin, linagliptin.
+
+**Cơ chế tác dụng:** thuốc có tác dụng ức chế men DPP-4 là men có tác dụng bất hoạt hormone incretin (gồm có GLP-1 và GIP), dẫn tới kéo dài tác dụng của các hormone incretin.
+
+**Dược động học:** thuốc được hấp thu tốt sau khi uống, không bị ảnh hưởng bởi thức ăn.
+
+Sitagliptin: được dùng 100 mg/lần/ngày, độ sinh khả dụng là 85%, đạt nồng độ đỉnh sau 1 – 4 giờ, thời gian bán hủy khoảng 12 giờ. Thuốc được chuyển hóa qua gan bởi CYP3A4 và CYP2C8 thành dạng ít có hoạt tính, được đào thải qua thận. Cần chỉnh liều ở bệnh nhân suy thận. Tác dụng ngoại ý thường gặp là viêm mũi hầu, nhiễm trùng hô hấp trên và đau đầu. Có vài báo cáo về viêm tụy cấp, dị ứng nặng và phản ứng quá mẫn khi sử dụng sitagliptin.
+
+Saxagliptin: liều thường dùng là 2,5 – 5 mg/ngày. Thuốc đạt nồng độ đỉnh sau 2 giờ. Thuốc gắn kết với protein yếu và chuyển hóa tại gan bởi CYP3A4/5 thành dạng có hoạt tính, được đào thải qua thận và gan. Thời gian bán hủy của saxagliptin là 2,5 giờ và của chất chuyển hóa là 3,1 giờ. Cần chỉnh liều thuốc ở bệnh nhân suy thận hoặc có dùng kèm thuốc ức chế CYP3A4/5 như thuốc kháng virus, thuốc kháng nấm và thuốc kháng vi trùng. Thận trọng ở bệnh nhân có nguy cơ suy tim.
+
+Linagliptin: liều dùng 5 mg/ngày, thuốc được đào thải chủ yếu qua mật, do đó, không cần chỉnh liều ở bệnh nhân suy thận.
+
+Vildagliptin: liều dùng 50 mg × 1 – 2 lần/ngày.
+
+**Bảng 12.9. Các thuốc ức chế men DPP-4**
+
+| Thuốc | Hàm lượng (mg) | Đào thải | Liều dùng theo eGFR (mL/phút/1,73 m² da) |
+| :--- | :--- | :--- | :--- |
+| Sitagliptin | 25 – 50 – 100 | Thận | eGFR > 50: 100 mg/lần/ngày <br> eGFR từ 30 – 50: 50 mg/lần/ngày <br> eGFR < 30: 25 mg/lần/ngày |
+| Saxagliptin | 2,5 – 5 | Thận, gan | eGFR > 50: 5 mg/lần/ngày <br> eGFR < 50: 2,5 mg/lần/ngày |
+| Vildagliptin | 50 | Thận | eGFR > 50: 50 mg × 1 – 2 lần/ngày <br> eGFR < 50: 50 mg/lần/ngày |
+| Linagliptin | 5 | Mật, ruột | 5 mg/lần/ngày, không chỉnh liều ở bệnh nhân suy thận |
+
+*2.2.9. Thuốc ức chế kênh đồng vận chuyển glucose và natri ở ống thận gần*
+
+Glucose được lọc qua tiểu cầu thận và được tái hấp thu tại ống thận gần bởi kênh đồng vận glucose-natri (Sodium-glucose co-transporters: SGLT), trong đó SGLT-2 có vai trò tái hấp thu 90% glucose và SGLT-1 tái hấp thu 10% glucose. Nhóm thuốc ức chế kênh đồng vận glucose-natri típ 2 (SGLT-2) có tác dụng ức chế sự tái hấp thu glucose ở ống thận gần, từ đó làm tăng lượng glucose qua nước tiểu và giảm glucose huyết. Ngoài ra, thuốc còn có tác dụng giảm cân, giảm nhẹ huyết áp, thay đổi bilan lipid (tăng HDL-C, giảm LDL-C và triglycerides). Thuốc nhóm này gồm canagliflozin, dapagliflozin, empagliflozin.
+
+Thuốc ức chế kênh SGLT-2 trong thử nghiệm lâm sàng cho thấy lợi ích giảm biến cố tim mạch xơ vữa và giảm tỉ lệ nhập viện do suy tim ở các bệnh nhân đái tháo đường típ 2 đã có biến chứng tim mạch xơ vữa, nguy cơ cao bệnh tim mạch, bệnh đái tháo đường hoặc suy tim có phân suất tống máu giảm. Trong nghiên cứu trên bệnh nhân đái tháo đường típ 2 có bệnh thận mạn, thuốc ức chế SGLT-2 làm giảm biến cố gộp về thận, giảm tiến triển tới bệnh thận giai đoạn cuối.
+
+Empagliflozin: từ 10 – 25 mg mỗi ngày. Liều dùng khởi đầu từ 10 mg/ngày. Uống buổi sáng.
+
+Dapagliflozin: từ 5 – 10 mg mỗi ngày. Liều khởi đầu 5 mg mỗi ngày. Uống buổi sáng.
+
+Canagliflozin: từ 100 – 300 mg mỗi ngày. Liều khởi đầu 100 mg mỗi ngày. Uống buổi sáng.
+
+**Tác dụng ngoại ý:** thuốc làm tăng nguy cơ nhiễm trùng niệu và nhiễm trùng sinh dục (8 – 9% bệnh nhân). Thường gặp nhiễm nấm niệu sinh dục. Thuốc có tác dụng lợi niệu thẩm thấu, làm giảm thể tích nội mạch, tụt huyết áp. Canagliflozin có vẻ làm tăng nguy cơ gãy xương.
+
+Thuốc không có tác dụng trên bệnh nhân có bệnh thận mạn. Chống chỉ định dùng ở những bệnh nhân có eGFR < 30 mL/phút/1,73 $m^2$ da.
+
+**Bảng 12.10. Hàm lượng và liều dùng của các thuốc ức chế kênh đồng vận chuyển glucose-natri típ 2**
+
+| Thuốc | Hàm lượng (mg) | Liều dùng/ngày |
+| :--- | :--- | :--- |
+| Dapagliflozin | Viên 5, 10 mg | 5 – 10 mg |
+| Empagliflozin | Viên 10, 25 mg | 10 – 25 mg |
+
+### 2.2.10. Amylin analog
+
+Amylin là peptide có 27 acid amin có trong những túi tiết insulin, được tiết vào máu cùng với insulin. Amylin có tác dụng giảm tiết glucagon, chậm làm trống dạ dày và làm giảm cảm giác thèm ăn. Pramlintide là protein amylin analog. Thuốc có thể sử dụng cho bệnh nhân đái tháo đường típ 1 đang điều trị với insulin hoặc bệnh nhân đái tháo đường típ 2 chưa kiểm soát tốt glucose huyết sau ăn. Thuốc được hấp thu nhanh chóng sau tiêm dưới da, đạt nồng độ đỉnh sau 20 phút, thời gian tác dụng khoảng 150 phút. Thuốc được chuyển hóa và đào thải qua thận.
+
+Thuốc được tiêm ngay trước khi ăn, liều từ 15 – 60 µg cho bệnh nhân đái tháo đường típ 1 và 60 – 120 µg cho bệnh nhân đái tháo đường típ 2.
+
+**Tác dụng ngoại ý:** thuốc có thể gây hạ glucose huyết và các triệu chứng về dạ dày ruột như buồn nôn, nôn và chán ăn.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn một câu đúng
+
+1. Cơ chế tác dụng chủ yếu của thuốc sulfonylureas là gì?
+A. Ức chế tái hấp thu đường ở ống thận gần
+B. Ức chế hấp thu đường ở ruột non
+C. Giảm tình trạng đề kháng insulin ở mô ngoại biên
+D. Kích thích tế bào β tụy tiết insulin
+
+2. Thuốc nào sau đây có tác dụng chính là kích thích tế bào β tụy tiết insulin?
+A. Metformin
+B. Gliclazide
+C. Acarbose
+D. Dapaglifozin
+
+3. Tại sao FDA cấm sử dụng phenformin để điều trị cho bệnh nhân đái tháo đường?
+A. Tăng nguy cơ hạ glucose huyết
+B. Tăng nguy cơ nhiễm toan acid lactic
+C. Tăng nguy cơ ung thư bàng quang
+D. Tăng nguy cơ tim mạch
+
+4. Về dược động, insulin regular có đặc điểm nào sau đây?
+A. Khởi phát tác dụng sau khi tiêm khoảng 30 phút
+B. Thời gian tác dụng kéo dài khoảng 18 tiếng
+C. Đạt nồng độ đỉnh sau tiêm 30 phút
+D. Thời gian bán hủy là 9 tiếng
+
+TÀI LIỆU THAM KHẢO
+
+1. Alvin C. powers and David D'Alessio (2018). Endocrine pancreas and pharmacotherapy of diabetes mellitus and hypoglycemia. Goodman and Gilman's The Pharmacological basis of Therapeutics, 13th, McGraw-Hill Companies, Inc, 1237-1274.
+
+2. Bertram G. Katzung (2018). Pancreatic hormones, antidiabetic agennts, and glucagon. Basic and Clinical Pharmacology, 14th, McGraw-Hill Companies, Inc, 363-372.
+
+3. Richard A. Harvey (2015). Insulin and other glucose-lowering drugs. Lippincott's Illustrated Reviews-Pharmacology, 6th, Lippincott Williams and Wilkins, 301-317.
+
+4. Gearge M. Brenner, Craig W. Stevens (2013). Drug for diabetes mellitus. Pharmacology (Student Consult), 4th, Elsevier Sauders, 364-375.
+
+5. Krentz AJ, Bailey CJ (2005); Oral antidiabetic agents: current role in tip 2 diabetes mellitus. Drugs; 65(3):385-411.
+
+# DƯỢC LÝ CỦA NHÓM THUỐC GLUCOCORTICOID
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Trình bày dược động, dược lực, tác dụng ngoại ý của thuốc glucocorticoid.
+2. Hiểu được những nguyên tắc khi sử dụng thuốc và ứng dụng vào các tình huống lâm sàng.
+
+Các thuốc glucocorticoid được tổng hợp dựa trên khuôn mẫu cấu trúc của cortisol. Cortisol là glucocorticoid nội sinh, là một hormone của vỏ thượng thận (do tế bào lớp bó, lớp lưới của vỏ thượng thận sản xuất từ tiền chất là cholesterol). Hormone này có rất nhiều vai trò trong cơ thể như ảnh hưởng đến quá trình chuyển hóa đường, đạm, mỡ, tác động lên hành vi, nhận thức, học hỏi, trí nhớ, điều hòa quá trình kháng viêm, chống dị ứng, ức chế miễn dịch,... Ở người lớn khỏe mạnh khi không có tình trạng stress, lượng cortisol tiết ra khoảng 10 – 20 mg/ngày. Cortisol tiết trong ngày chịu sự điều hòa của trục hạ đồi – tuyến yên – vỏ thượng thận, theo nhịp ngày đêm, cũng như đáp ứng với tình trạng stress.
+
+## 1. THUỐC GLUCOCORTICOID (GLUCOCORTICOID TỔNG HỢP)
+
+Dựa trên khuôn mẫu cấu trúc của cortisol, các nhà bào chế đã thay đổi cấu trúc hóa học ban đầu để tạo nên các thuốc mới, vẫn mang đặc tính glucocorticoid như kháng viêm, kháng dị ứng, ức chế miễn dịch,... nhưng thay đổi về sự hấp thu, gắn kết với protein, tốc độ chuyển hóa, bài tiết, tính thấm qua màng và ái lực với thụ thể, từ đó làm thay đổi tính đặc hiệu và tiềm lực của thuốc. Nối đôi ở vị trí carbon 4 – 5 và nhóm keto ở vị trí carbon 3 của vòng A rất quan trọng cho hoạt tính glucocorticoid và mineralocorticoid. Nhóm hydroxyl ở vị trí carbon 11 ($11\beta$-hydroxyl) của vòng C cần thiết cho hoạt tính glucocorticoid nhưng không tạo ra hoạt tính mineralocorticoid, nhóm hydroxyl ở vị trí carbon 21 của vòng D có ở tất cả corticoisteroid tự nhiên và tổng hợp, cần thiết cho hoạt tính mineralocorticoid.
+
+[Hình: Cấu trúc hóa học của cortisol]
+
+Hình 13.1. Cấu trúc hóa học của cortisol
+
+[Hình: Các thuốc glucocorticoid]
+
+- Cortisol
+- Cortisone
+- Prednisolone
+- Prednisone
+- Methylprednisolone
+- Dexamethasone
+- Triamcinolone
+- Fludrocortisone
+
+**Hình 13.2. Các thuốc glucocorticoid**
+
+Các glucocorticoid tổng hợp sẽ thay đổi ở bốn vị trí chính:
+
+- Thêm nối đôi ở vị trí carbon 1 – 2 tạo ra prednisolone, tăng hoạt tính kháng viêm 4 – 5 lần so với cortisol
+
+- Thêm nhóm methyl vào vị trí carbon 6 của prednisolone tạo methylprednisolone, có hoạt tính kháng viêm gấp 5 – 6 lần cortisol.
+
+Prednisolone và methylprednisolone có hoạt tính glucocorticoid mạnh hơn cortisol nhưng hoạt tính mineralocorticoid thì thấp hơn cortisol.
+
+- Thêm fluorine vào vị trí carbon 9 của cortisol tạo fludrocortisone, có hoạt tính mineralocorticoid tăng đáng kể.
+
+- Nếu thêm fluorine vào vị trí carbon 3 kèm với nhóm methyl vào vị trí carbon 16 sẽ làm giảm hiệu quả mineralocorticoid
+
+- Dexamethasone, betamethasone, triamcinolone có cấu tạo gồm nối đôi ở vị trí carbon 1 – 2, nhóm methyl ở C16, fluorine ở C9, hoạt tính glucocorticoid tăng 16 lần nhưng không có tác dụng của mineralocorticoid.
+
+1.1. Các thuốc glucocorticoid
+
+Bảng 13.1. Các thuốc nhóm glucocorticoid, tác dụng kháng viêm và tiềm lực giữ natri
+
+| Thuốc | Liều tương đương (mg) | Tác dụng kháng viêm | Tác dụng giữ Na | Dạng sử dụng |
+| :--- | :--- | :--- | :--- | :--- |
+| **Thời gian tác động ngắn ($T_{1/2}$ sinh học 8 – 12 giờ)** | | | | |
+| Hydrocortisone | 20 | 1 | 1 | Uống, chích, tại chỗ |
+| Cortisone | 25 | 0,8 | 0,8 | Uống |
+| **Thời gian tác động trung bình ($T_{1/2}$ sinh học 12 – 24 giờ)** | | | | |
+| Prednisone | 5 | 4 | 0,8 | Uống |
+| Prednisolone | 5 | 4 | 0,8 | Uống, tiêm |
+| Methylprednisolone | 4 | 5 | 0,5 | Uống, tiêm |
+| Triamcinolone | 4 | 5 | 0 | Uống, tiêm, tại chỗ |
+| **Thời gian tác động dài ($T_{1/2}$ sinh học 24 – 36 giờ)** | | | | |
+| Betamethasone | 0,6 | 25 | 0 | Uống, tiêm, tại chỗ |
+| Dexamethasone | 0,75 | 25 | 0 | Uống, tiêm, tại chỗ |
+
+1.2. Đường dùng glucocorticoid
+
+1.2.1. Đường tĩnh mạch
+
+Dùng glucocorticoid liều cao đường tĩnh mạch trong trường hợp cấp cứu, như sốc nhiễm trùng và cơn hen phế quản cấp nặng. Trong trường hợp chống thải ghép và các bệnh miễn dịch như viêm thận nặng do lupus hoặc viêm cầu thận màng, có thể tiêm tĩnh mạch methylprednisolone liều 1 – 2 gam.
+
+1.2.2. Đường uống: glucocorticoid đường uống thường được dùng để điều trị những bệnh mạn tính. Glucocorticoid được hấp thu sau khoảng 30 phút uống thuốc.
+
+1.2.3. Glucocorticoid dùng tại chỗ
+
+Là glucocorticoid dùng đường hít, thoa ngoài da, tiêm trong khớp. Glucocorticoid dùng tại chỗ nhằm giúp đạt được nồng độ thuốc cao tại nơi dùng, đồng thời làm giảm tác dụng của thuốc lên toàn thân.
+
+Sự hấp thu của thuốc thoa phụ thuộc vào nhiều yếu tố:
+
+- Vị trí dùng thuốc: hấp thu theo thứ tự: da vùng kẽ > trán > da đầu > mặt > cánh tay
+- Thuốc có chứa urea như dimethylsulfoxide hoặc các chất khác như acid salicylic làm tăng hấp thu glucocorticoid
+- Băng kín vùng thoa thuốc làm tăng hấp thu thuốc 10 lần
+- Vùng da mỏng hay bị tổn thương hấp thu thuốc tốt hơn vùng da bình thường
+- Tuổi của bệnh nhân: trẻ sơ sinh và trẻ nhỏ hấp thu tốt hơn do lớp sừng mỏng hơn da người lớn.
+
+## 1.3. Cơ chế tác dụng của thuốc glucocorticoid
+
+Thuốc glucocorticoid xâm nhập qua màng tế bào và gắn vào thụ thể của nó trong bào tương tạo thành phức hợp. Phức hợp này nhị hợp với phức hợp khác (giống nó) sau đó được vận chuyển vào nhân, gắn vào yếu tố hoạt hóa gen liên quan đến GRE (glucocorticoid response element: yếu tố đáp ứng với glucocorticoid), có vai trò ức chế hoặc hoạt hóa biểu hiện gen. Các gen đặc hiệu được biểu lộ và có sự sao chép của RNA thông tin, protein đặc hiệu được tổng hợp để phát huy tác dụng của glucocorticoid. Dù các thụ thể đối với glucocorticoid giống nhau ở nhiều mô nhưng các protein được tổng hợp thay đổi rất nhiều tùy theo mô đích và do đó phát huy các tác dụng khác nhau ở các mô khác nhau.
+
+Có hai loại thụ thể glucocorticoid: loại I (mineralocorticoid) và loại II (glucocorticoid). Thụ thể loại I có ở các cơ quan bài tiết như thận, đại tràng, tuyến nước bọt, tuyến mồ hôi và các mô khác như hồi hải mã, mạch máu, tim, mô mỡ và tế bào máu ngoại biên. Thụ thể loại II có ở nhiều loại mô hơn.
+
+Cortisol và corticosterone cũng gắn với các thụ thể của mineralocorticoid với ái lực mạnh như aldosteron. Do đó, nó có thể gây ra tác động giống như tác động của aldosteron lên thụ thể mineralocorticoid, tức là gây giữ Na+, nước,... Tuy nhiên, ở các mô nhạy cảm với mineralocorticoid có sự biểu lộ của men 11β-hydroxysteroid dehydrogenase (11β-HSD), men này bất hoạt tác dụng của glucocorticosteroid, do đó tính chuyên biệt của thụ thể mineralocorticoid được duy trì. Ở các mô khác, men này giới hạn bớt ảnh hưởng của glucocorticosteroid.
+
+Bài 13. Dược lý của nhóm thuốc glucocorticoid ♦ 145
+
+[Hình: Mô tả tác động của thuốc glucocorticoid]
+**Sơ đồ: Mô tả tác động của thuốc glucocorticoid**
+- Corticosteroid --> GR (BÀO TƯƠNG)
+- Quá trình hoạt hóa (NHÂN):
+  - GR + GR + Phức hợp RNA pol II --> GRE --> Hoạt hóa gen
+- Quá trình bất hoạt (NHÂN):
+  - NF-KB + GR + HAT + Phức hợp RNA pol II --> Ức chế gen
+
+**Hình 13.3. Mô tả tác động của thuốc glucocorticoid**
+
+Khi vào tế bào, thuốc glucocorticoid gắn với các thụ thể glucocorticoid trong tế bào chất và đưa vào nhân tế bào, nơi mà sự phiên mã của gen mục tiêu được bắt đầu. Phức hợp này nhị hợp với phức hợp khác rồi gắn với GRE trong đoạn promoter. Qua quá trình hoạt hóa, dẫn đến sự sao chép của các gen mã hóa các protein trung gian chống viêm như Annexin-1 (lipocortin-1), chất ức chế men tiêu hủy protein do bạch cầu tiết ra (secretory leukocyte protease inhibitor, SLPI), interleukin-10 (IL-10) và $I_{\kappa}B$ (inhibitor of nuclear factor kappa B). Nếu không nhị hợp, phức hợp glucocorticoid – thụ thể glucocorticoid tương tác với các phân tử đồng hoạt hóa lớn với hoạt tính histone acetyltransferase acetyltransferase (HAT), là các phân tử được kích hoạt bởi các yếu tố phiên mã tiền viêm (như NF-KB và AP1), do đó, dập tắt biểu hiện của các gen gây viêm được kích hoạt bởi các yếu tố phiên mã RNA pol II, RNA polymerase II.
+
+**1.4. Chuyển hóa**
+
+Gan và thận nơi chuyển hóa của thuốc glucocorticoid. Gan có vai trò bất hoạt cortisol huyết tương thông qua quá trình khử và kết hợp acid glucuronic. Phản ứng kết hợp này làm cho cortisol trở nên tan trong nước, được thải trừ qua thận. Gan và thận có các dạng đồng phân khác nhau của men $11\beta$-hydroxysteroid dehydrogenase có vai trò điều hòa hoạt động của cortisol, những đồng phân này xúc tác các phản ứng khác nhau. Tế bào ống góp thận có men $11\beta$-hydroxysteroid dehydrogenase loại 2 ($11\beta$-HSD2) chuyển cortisol thành cortisone không có hoạt tính sinh học. Tại gan có men $11\beta$-hydroxysteroid dehydrogenase loại 1 ($11\beta$-HSD1) chuyển cortisone thành cortisol. Hai loại men này có vai trò quyết định hoạt động chung của glucocorticoid.
+
+[Hình: Chuyển hóa của glucocorticoid tại gan và thận]
+
+- Cortisone (cấu trúc hóa học) --> 11β-HSD 1 (GAN) --> Cortisol (cấu trúc hóa học)
+- Cortisol (cấu trúc hóa học) --> 11β-HSD 2 (THẬN) --> Cortisone (cấu trúc hóa học)
+
+Động vận tại thụ thể Mineralocorticoid
+Bất hoạt tại thụ thể Mineralocorticoid
+
+**Hình 13.4. Chuyển hóa của glucocorticoid tại gan và thận**
+
+Thời gian tác dụng của thuốc phụ thuộc vào:
+
+- Tỉ lệ thuốc gắn với protein huyết tương
+Hơn 90% cortisol gắn với protein huyết tương (glucocorticoid có ái lực cao với corticosteroid-binding globulin (CBG) hay transcotin, ái lực thấp với albumin). Glucocorticoid tổng hợp có ái lực thấp với CBG, 2/3 gắn với albumin. Chỉ có steroid tự do mới được chuyển hóa nên mức độ gắn kết với protein huyết tương quyết định thời gian tác dụng của thuốc.
+
+- Ái lực của thuốc với men 11β-HSD2: glucocorticoid có ái lực thấp với 11β-HSD2 có thời gian bán hủy dài vì những thuốc này chuyển thành dạng bất hoạt chậm
+
+- Tính tan trong mỡ: thuốc nào có tính tan trong mỡ cao sẽ được giữ lại trong mô mỡ, ít bị chuyển hóa và đào thải, kéo dài thời gian bán hủy
+
+- Ái lực của thuốc với thụ thể glucocorticoid: ái lực càng cao thì càng làm tăng thời gian tác dụng của thuốc.
+
+2. ỨNG DỤNG CỦA GLUCOCORTICOID
+2.1. Điều trị thay thế
+
+Hydrocortisone tương tự như cortisol tự nhiên nên thường được dùng trong liệu pháp điều trị thay thế cho suy tuyến thượng thận.
+
+Suy tuyến thượng thận cấp: khởi đầu với 100 mg hydrocortisone, sau đó, tiêm tĩnh mạch với liều 50 – 100 mg mỗi 8 giờ. Liều này tương ứng với nồng độ cortisol tối đa được tiết để đáp ứng với stress. Tại các mô đáp ứng với mineralcorticoid, với liều cao hydrocortisone không chịu tác dụng của men 11β-HSD2, do đó, có thể có hoạt tính mineralcorticoid. Khi bệnh nhân ổn định, liều hydrocortisone có thể giảm còn 25 mg mỗi 6 – 8 giờ.
+
+Suy tuyến thượng thận mạn: điều trị với hydrocortisone 20 – 30 mg/ngày. Nhằm mục đích điều trị thay thế tương tự với nhịp điệu tiết cortisol như sinh lý bình thường, glucocorticoid thường được chia thành 2/3 liều dùng vào buổi sáng và 1/3 liều dùng vào buổi chiều.
+
+2.2. Nghiệm pháp ức chế dexamethasone chẩn đoán hội chứng Cushing nội sinh
+
+2.3. Kháng viêm
+
+Glucocorticoid có tác dụng kháng viêm, được ứng dụng trong điều trị tình trạng viêm cấp như viêm khớp, viêm da. Các loại glucocorticoid tác dụng trung bình như prednisone, methylprednisolone thường được dùng hơn loại tác dụng kéo dài như dexamethasone. Trong những trường hợp thoái hóa khớp, glucocorticoid có thể được tiêm vào trong khớp mỗi 3 tháng.
+
+2.4. Chống dị ứng
+
+Tác dụng của glucocorticoid trên những bệnh dị ứng thường chậm, đối với những bệnh nhân có phản ứng dị ứng nặng như sốc phản vệ đòi hỏi phải được điều trị với epinephrine. Tuy nhiên, có thể dùng glucocorticoid nhằm rút ngắn thời gian điều trị và triệu chứng. Trong những trường hợp bệnh nặng, có thể tiêm tĩnh mạch với methylprednisolone. Ngoài ra, glucocorticoid còn được dùng để điều trị các bệnh dị ứng như hen phế quản, viêm mũi dị ứng dưới dạng thuốc xịt nhằm hạn chế tác dụng toàn thân của glucocorticoid.
+
+2.5. Điều trị trưởng thành phổi cho thai nhi
+
+Trẻ sinh non có nguy cơ suy hô hấp do phổi chưa trưởng thành. Cortisol có vai trò điều hòa trưởng thành phổi. Do đó, trong những trường hợp có nguy cơ sinh non, mẹ sẽ được tiêm bắp betamethasone hoặc dexamethasone với 2 mũi cách nhau 24 giờ.
+
+**Sơ đồ: Hình 13.5. Vai trò điều hòa trưởng thành phổi thông qua việc kích hoạt làm tăng tổng hợp surfactant**
+
+- TẾ BÀO PHẾ NANG TÝP II
+  - MÀNG TẾ BÀO
+  - BÀO TƯƠNG
+    - STEROID --> THỤ THỂ
+    - THỤ THỂ STEROID --> THỤ THỂ
+    - THỤ THỂ --> TỔNG HỢP PHOSPHOLIPID
+    - TỔNG HỢP PHOSPHOLIPID --> THỂ LAMELLAR
+    - THỂ LAMELLAR --> SURFRACTAN
+  - NHÂN
+    - DNA
+    - THỤ THỂ STEROID --> mRNA
+    - mRNA --> TỔNG HỢP EZ
+
+2.6. Ức chế miễn dịch
+
+Glucocorticoid có tác dụng ức chế miễn dịch nên được sử dụng trong phác đồ điều trị chống thải ghép ở những bệnh nhân sau ghép tạng.
+
+3. CHỐNG CHỈ ĐỊNH
+
+Cần thận trọng khi sử dụng glucocorticoid ở những bệnh nhân: loét dạ dày; bệnh tim hoặc tăng huyết áp có kèm suy tim; các bệnh nhiễm trùng như varicella, lao, đái tháo đường, bệnh glaucoma,...
+
+4. ĐỘC TÍNH CỦA LIỆU PHÁP GLUCOCORTICOID
+
+Tác dụng bất lợi khi điều trị với glucocorticoid có thể xảy ra trong trường hợp ngưng thuốc hoặc sử dụng thuốc với liều trên mức sinh lý lâu dài. Độc tính trong cả hai trường hợp này đều có thể đe dọa tính mạng người bệnh, do đó, cần cân nhắc giữa tác dụng lợi và tác hại ở từng bệnh nhân.
+
+Độc tính của glucocorticoid liên quan đến liều dùng và tổng liều điều trị tích lũy. Tuy nhiên, liều hoặc thời gian “ngưỡng” gây độc vẫn chưa xác định. Hiện vẫn còn nhiều bàn cãi về tính an toàn của việc sử dụng glucocorticoid liều thấp trong các bệnh mạn tính như viêm khớp dạng thấp với 10 mg hoặc ít hơn prednisone mỗi ngày. Tuy nhiên, nhiều nghiên cứu hồi cứu cũng cho thấy việc sử dụng glucocorticoid liều thấp cũng mang lại.
+
+nhiều tác dụng phụ. Những bệnh nhân dùng liều thấp (prednisone ≤ 7,5 mg/ngày) nếu kéo dài thời gian sử dụng trên 90 ngày có thể có các tác dụng phụ như mụn trứng cá, bầm da, tăng cân và đục thủy tinh thể.
+
+4.1. Tác dụng phụ trong trường hợp ngưng thuốc
+
+- Khi ngưng corticoid có thể làm nặng hơn tình trạng bệnh đang có của bệnh nhân
+
+- Nghiêm trọng nhất là suy thượng thận cấp do ngưng thuốc đột ngột sau một thời gian dài dùng thuốc do ức chế trục hạ đồi tuyến thượng thận. Thời gian hồi phục của những bệnh nhân suy thượng thận do corticoid rất thay đổi, có thể từ vài tuần đến vài tháng, tuy nhiên, cũng có những trường hợp kéo dài 1 năm hay lâu hơn. Do đó, để tránh gây suy thượng thận cấp, những bệnh nhân điều trị với glucocorticoid kéo dài cần được giảm liều từ từ trước khi ngưng thuốc.
+
+4.2. Trường hợp sử dụng glucocorticoid liều trên sinh lý kéo dài
+
+Bên cạnh tác dụng ức chế trục hạ đồi – tuyến yên – tuyến thượng thận, sử dụng glucocorticoid kéo dài còn có những biến chứng khác.
+
+4.2.1. Giữ nước và điện giải
+
+Những bệnh nhân điều trị với corticoid có hoạt tính mineralocorticoid sẽ gây giữ nước và muối dẫn đến hạ kali máu, kiềm máu, phù, tăng huyết áp.
+
+4.2.2. Rối loạn chuyển hóa
+
+Glucocorticoid làm tăng glucose huyết do kích thích tân tạo đường và tổng hợp glycogen khi đói, kích thích sản sinh mô mỡ và ức chế ly giải mô mỡ do kích thích phóng thích insulin và ức chế cơ vân hấp thu đường, rối loạn chức năng tế bào beta tuyến tụy.
+
+Giảm khối cơ, yếu cơ và mỏng da do tác dụng dị hóa và chống đồng hóa trên mô liên kết. Bệnh nhân thường có biểu hiện kiểu hình Cushing như tăng cân, béo phì béo bụng, mặt tròn như mặt trăng, tụ mỡ sau gáy và cổ, trong khi đó teo cơ đùi và cánh tay. Da mỏng và đỏ ửng, nổi mụn, bụng và đùi có nhiều vết rạn da màu tím.
+
+4.2.3. Loét dạ dày
+
+Những bệnh nhân sử dụng glucocorticoid có thể có loét dạ dày và xuất huyết tiêu hóa do loét. Tình trạng loét này có thể nặng thêm nếu bệnh nhân có sử dụng kèm với thuốc NSAIDs.
+
+**Sơ đồ: Chuyển hóa acid arachidonic**
+
+- Phospholipid màng tế bào
+  - Steroids -- X --> Phospholipases
+    - Other --> HPETEs --> HETEs
+    - Lypoxygenase
+  - Acid arachidonic
+    - Thuốc ức chế COX-1 và COX-2 aspirin, indomethacin -- X --> Cyclooxygenase
+      - Prostagladin $G_2$ ($PGG_2$)
+        - Prostagladin $H_2$ ($PGH_2$)
+          - Prostacyclin ($PGI_2$) --> Dãn mạch, ức chế kết tập tiểu cầu
+          - Thromboxane $A_2$ ($TXA_2$) --> Co mạch, tăng kết tập tiểu cầu
+          - $PGD_2$, $PGE_2$ --> Dãn mạch, tăng tính thấm thành mạch
+    - 5-Lypoxygenase
+      - 12-Lypoxygenase
+      - 5-HPETE --> 5-HETE
+      - Leukotriene $A_4$ ($LTA_4$) --> Leukotriene $B_4$ ($LTB_4$) --> Hóa hướng động
+      - Leukotriene $C_4$ ($LTC_4$) --> Leukotriene $D_4$ ($LTD_4$) --> Leukotriene $E_4$ ($LTE_4$) --> Co thắt phế quản, tăng tính thấm thành mạch
+      - Lipoxin $A_4$ ($LXA_4$), Lipoxin $B_4$ ($LXB_4$) --> Ức chế bạch cầu đa nhân trung tính bám vách và hóa hướng động
+
+Hình 13.6. Cơ chế gây loét. Men cyclooxygenase 1 (COX1) hiện diện ở hầu hết các mô, bao gồm: tiểu cầu và dạ dày, giúp chuyển acid arachidonic thành các dẫn chất prostaglandin. Ở tiểu cầu, COX1 hoạt động để tổng hợp thromboxane và tại dạ dày: COX1 tham gia quá trình tổng hợp prostaglandin bảo vệ tế bào. Cyclooxygenase 2 (COX2) hiện diện ở não, thận và các vùng bị viêm. Do corticoid ức chế men PLA2 (men này chuyển phospholipid màng tế bào thành arachidonic acid), do đó, ức chế sự tạo thành prostaglandin bảo vệ dạ dày
+
+### 4.2.4. Bệnh cơ
+
+Yếu cơ, đặc biệt là những cơ gốc chi, có thể xảy ra cho những bệnh nhân dùng glucocorticoid liều cao. Cần chú ý tác dụng gây yếu cơ của glucocorticoid khi chỉ định cho bệnh nhân hen hoặc bệnh phổi tắc nghẽn mạn tính vì có thể làm giảm thêm chức năng hô hấp của bệnh nhân.
+
+4.2.5. Thay đổi hành vi
+
+Thay đổi hành vi có thể xảy ra ở những bệnh nhân được điều trị với glucocorticoid hoặc những bệnh nhân có hội chứng Cushing do tăng nồng độ cortisol nội sinh. Triệu chứng có thể là kích thích, mất ngủ, thay đổi thái độ hoặc tâm lý.
+
+4.2.6. Mắt
+
+Đục thủy tinh thể và glaucoma là tác dụng phụ thường gặp nhất khi dùng glucocorticoid. Biến chứng này thường liên quan đến liều và thời gian điều trị. Trẻ em là đối tượng nguy cơ. Đục thủy tinh thể có thể tiếp tục phát triển dù đã giảm hoặc ngưng điều trị. Những bệnh nhân được điều trị với prednisone liều 10 – 15 mg/ngày hoặc hơn, kéo dài hơn 1 năm nên được soi đáy mắt kiểm tra định kỳ để sớm phát hiện biến chứng đục thủy tinh thể dưới bao sau. Đục thủy tinh thể do glucocorticoid có đặc điểm: xuất hiện ở dưới bao sau, cả hai bên và diễn tiến chậm.
+
+Glaucoma xuất hiện do glucocorticoid làm tăng sản xuất thể dịch và tái sắp xếp chất nền trong bè cơ gây ức chế dẫn lưu dịch.
+
+4.2.7. Loãng xương
+
+Loãng xương cũng là một biến chứng thường gặp khi sử dụng glucocorticoid kéo dài, có thể xảy ra ở mọi lứa tuổi, liên quan đến liều và thời gian sử dụng. Ước tính có từ 30 – 50% bệnh nhân điều trị glucocorticoid lâu dài sẽ có gãy xương do loãng xương. Glucocorticoid tác động chủ yếu lên xương xốp và cung xương của xương sống. Gãy xương thường xuất hiện ở xương sườn và xương sống. Glucocorticoid làm giảm mật độ xương theo nhiều cơ chế: ức chế hormone tăng trưởng, giảm hấp thu $Ca^{2+}$ tại dạ dày – ruột, ức chế nguyên bào xương làm giảm tạo xương và kích thích quá trình tiêu xương của hủy cốt bào do làm thay đổi quá trình tạo osteoprotegerin và RANKL (Receptor activator of nuclear factor kappa-B ligand). Ngoài ra, glucocorticoid ức chế hấp thu $Ca^{2+}$ ở ruột làm cho tăng hormone cận giáp, làm tăng tiêu xương.
+
+Khi bắt đầu điều trị với glucocorticoid, cần kiểm tra mật độ xương để đánh giá các bất thường xương xốp, nguy cơ gãy xương cho bệnh nhân. Quá trình mất xương thường xảy ra trong vòng 6 tháng đầu điều trị. Để phòng ngừa có thể cung cấp chế độ ăn có 1.500 mg $Ca^{2+}$ và 400 UI vitamin D mỗi ngày. Hiện tại phương pháp ngừa loãng xương do glucocorticoid hiệu quả nhất đó là bisphosphonate.
+
+Bên cạnh đó, glucocorticoid có thể gây ra hoại tử đầu xương vô trùng. Chỏm xương đùi là nơi thường bị hoại tử nhất, ngoài ra, còn thấy ở đầu xương cánh tay và đầu xa xương đùi.
+
+4.2.8. Điều hòa tăng trưởng và phát triển
+
+Trẻ em khi dùng glucocorticoid kéo dài có thể ảnh hưởng đến sự phát triển và tăng trưởng.
+
+5. CÁC NGUYÊN TẮC KHI SỬ DỤNG GLUCOCORTICOID
+
+Glucocorticoid điều trị triệu chứng và có rất nhiều tác dụng phụ khi sử dụng liều cao trong thời gian dài, vì vậy, cần dùng đúng chỉ định và với liều thấp nhất trong thời gian ngắn nhất nếu có thể được.
+
+Liều dùng phụ thuộc chỉ định, đường dùng thuốc và mức độ bệnh nặng nhẹ.
+
+- Khi điều trị với glucocorticoid cần cân nhắc, phải xem xét mức độ nặng của bệnh, liều lượng thuốc để đạt hiệu quả điều trị mong muốn và thời gian điều trị. Trong khi điều trị viêm và dị ứng thì dùng liều cao ngắn ngày tốt hơn.
+
+- Bệnh lý tự miễn nặng liên quan đến tính mạng cần phải điều trị tích cực. Nhằm ức chế sự lắng tụ của các phức hợp miễn dịch, bạch cầu và đại thực bào, có thể dùng liều cao glucocorticoid.
+
+Dạng glucocorticoid dùng tại chỗ (thuốc bôi trên da, thuốc xịt, thuốc tiêm trong khớp) ít gây tác dụng toàn thân nên tương đối an toàn.
+
+Độc tính của thuốc liên quan nhiều đến thời gian dùng thuốc.
+
+Phòng tránh tác dụng gây suy thượng thận khi dùng glucocorticoid.
+
+- Dùng liều duy nhất không chia nhỏ, chỉ uống buổi sáng, có thể dùng hàng ngày hay cách ngày
+
+- Chọn loại glucocorticoid tác dụng ngắn hay trung bình, tránh loại tác dụng dài
+
+- Nếu thời gian dùng thuốc dưới 2 tuần có thể ngưng thuốc. Nếu thời gian dùng trên 2 tuần phải giảm liều từ từ trước khi ngừng thuốc
+
+- Theo dõi các tác dụng ngoại ý khi điều trị với glucocorticoid để có thể can thiệp kịp thời
+
+- Trong thời kỳ mang thai, các loại glucocorticoid flour hóa như fludrocortison, triamcinolon, betamethason, dexamethason có thể qua nhau thai và ảnh hưởng đến thai nhi nên cần thận trọng. Nếu cần thì dùng prednisone.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn một câu đúng
+
+1. Cơ chế được biết đến nhiều nhất giúp glucocorticoid có hoạt tính kháng viêm, ức chế miễn dịch là do tác động lên gene. Yếu tố chính tạo nên hoạt tính này là:
+
+A. Protein chức năng, sản phẩm của sự kích hoạt gen
+
+B. Đoạn ADN được tạo ra trong quá trình sao mã gen
+
+C. Mảnh màng bào tương từ tế bào đích bị glucocorticoid phá hủy
+
+D. Protein chức năng, sản phẩm của sự ức chế gen
+
+2. Khi dùng glucocorticoid đường toàn thân lâu dài, thường có mối lo ngại về các biến chứng mạn tính. Các giải pháp làm giảm nguy cơ có thể là, ngoại trừ:
+A. Dùng thuốc cách ngày
+B. Dùng liều thấp nhất có hiệu quả
+C. Dùng thuốc liều thấp, không quan tâm thời gian
+D. Dùng thuốc trong thời gian ngắn nhất nếu có thể
+
+3. 90% cortisol được vận chuyển trong máu chủ yếu nhờ gắn vào protein chuyên chở. Bệnh nhân bị tiểu albumin có tình trạng giảm albumin máu. Điều gì có thể xảy ra trên bệnh nhân, chọn câu đúng nhất:
+A. Nồng độ cortisol tự do tăng cao
+B. Nồng độ cortisol tự do giảm thấp
+C. Tăng hoạt tính sinh học cortisol
+D. Không gây ảnh hưởng gì có ý nghĩa
+
+4. Một phụ nữ 33 tuổi, đang mang thai 32 tuần đến khám vì ối vỡ. Bệnh nhân được điều trị với Nifedipine để ngăn sinh non và với một thuốc khác để thúc đẩy quá trình trưởng thành phổi của thai nhi, nhằm ngăn nguy cơ của hội chứng suy hô hấp sơ sinh. Theo bạn, thuốc khác đó là thuốc nào?
+A. Indomethacin
+B. Paracetamol
+C. Dexamethasone
+D. Oxytocin
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Laurence L. Brunton (2018). *Goodman and Gilman's The Pharmacological basis of Therapeutics*. 13th edition. McGraw-Hill: 846-858.
+2. Bertram G. Katzung (2018). *Basic and Clinical Pharmacology*. 14th edition. 2018 McGraw-Hill: 703-714.
+3. Richard A. Harvey (2012). *Lippincott's Illustrated Reviews-Pharmacology*. 5th edition: 331-338.
+4. Lullmann (2000). *Color Atlas of Pharmacology*. 2nd edition. Thieme: 248-251.
+5. H.P.Rang, J.M.Ritter, R.J.Flower, G.Henderson (2016). *Rang and Dale's Pharmacology*. 8th edition. Elsevier Churchill Livingston (Student Consult): 409-415.
+6. Mario Babbimi, Mary L. Thomas (2015). *Pharmacology Test Prep*. Thieme: 308-314.
+
+# DƯỢC LÝ THUỐC ĐIỀU TRỊ RỐI LOẠN CHỨC NĂNG TUYẾN GIÁP
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Phân biệt các nhóm thuốc trong điều trị rối loạn chức năng tuyến giáp.
+2. Mô tả các đặc điểm căn bản về dược động học.
+3. Mô tả các đặc điểm căn bản về dược lực học.
+4. Biết cách lựa chọn thuốc điều trị trong một số tình huống lâm sàng điển hình.
+
+## 1. HORMONE TUYẾN GIÁP
+
+Triiodothyronine (T3) (3,5,3'-triiodo-L-thyronine) Thyroxine (T4) (3,5,3',5'-tetraiodo-L-thyronine)
+
+[Hình: Cấu trúc hóa học của hormone tuyến giáp]
+
+**Hình 14.1. Cấu trúc hóa học của hormone tuyến giáp**
+
+### 1.1. Hóa học
+
+Tất cả các phân tử hormone tuyến giáp xuất hiện trong tự nhiên đều là đồng phân levo (L). Đồng phân dextro (D) tổng hợp của thyroxine, dextrothyroxine chỉ có khoảng 4% hoạt tính sinh học so với đồng phân L, cho thấy khả năng ức chế bài tiết TSH và điều trị suy giáp kém hơn.
+
+### 1.2. Dược động học
+
+Thyroxine (T4) được hấp thu tốt nhất ở tá tràng và hồi tràng; sự hấp thu bị ảnh hưởng bởi các yếu tố bên trong lòng ruột như thức ăn, thuốc, tính acid của dạ dày và hệ vi sinh đường ruột. Sinh khả dụng đường uống của hiện tại các chế phẩm của L-thyroxine trung bình là 70 – 80%. Ngược lại, thyronine (T3) được hấp thu gần như hoàn toàn 95%. Sự hấp thu T3 và T4 không bị ảnh hưởng bởi tình trạng suy giáp nhẹ nhưng có thể bị giảm trong phù niêm hồi tràng nặng trong suy giáp nặng. Đây là các yếu tố quan trọng trong việc quyết định chuyển đổi từ đường uống sang đường tiêm và đường tiêm tĩnh mạch thường được ưa chuộng cho cả hai hormone trong trường hợp hôn mê suy giáp. Ở những bệnh nhân bị cường giáp, sự chuyển hóa, thải trừ T4 và T3 tăng nên thời gian bán hủy giảm. Ngược lại, ở bệnh nhân suy giáp thải trừ T3, T4 giảm, do đó, thời gian bán hủy tăng.
+
+Bài 14. Dược lý thuốc điều trị rối loạn chức năng tuyến giáp ♦ 155
+
+Những thuốc gây cảm ứng các enzyme của microsome gan (ví dụ, rifampin, phenobarbital, carbamazepine, phenytoin, chất ức chế tyrosine kinase, thuốc ức chế protease HIV) làm tăng chuyển hóa của cả T4 và T3. Mặc dù có sự thay đổi về độ thanh thải, nồng độ hormone giáp vẫn bình thường do chức năng tuyến giáp tăng hoạt động bù trừ. Tuy nhiên, ở bệnh nhân dùng điều trị thay thế T4 có thể cần tăng liều dùng để duy trì hiệu quả lâm sàng.
+
+Nếu các vị trí gắn kết hormone bị thay đổi, thì một sự bù trừ tương tự cũng xảy ra. Khi các vị trí TBG gia tăng bởi thai kỳ, estrogen hoặc thuốc tránh thai; lúc đầu sẽ có một sự thay đổi của tình trạng hormone từ dạng tự do thành dạng kết hợp và có sự thanh thải hormone cho đến khi nồng độ hormone tự do trở lại bình thường. Do đó, nồng độ hormone toàn phần và kết hợp sẽ tăng, nhưng nồng độ hormone dạng tự do và sự thải trừ sẽ vẫn bình thường. Trái lại, khi các vị trí gắn kết hormone tuyến giáp bị giảm, tình trạng ngược lại sẽ xảy ra.
+
+1.3. Dược lực học
+
+1.3.1. Cơ chế tác động
+
+Các dạng hormone tuyến giáp tự do gồm T4 tự do và T3 tự do đi vào tế bào bởi các chất vận chuyển tích cực (ví dụ: chất vận chuyển monocarboxylate 8 [MCT8], MCT10 và polypeptide vận chuyển anion hữu cơ [OATP1C1]). Đột biến chất vận chuyển có thể dẫn đến một hội chứng lâm sàng chậm phát triển tâm thần, bệnh cơ và nồng độ T4 huyết thanh thấp (hội chứng Allan-Herndon-Dudley). Trong tế bào, T4 được chuyển đổi thành T3 bởi deiodinase và sau đó T3 đi vào nhân, T3 liên kết với một protein là thụ thể đặc hiệu của T3, một thành viên thuộc gia đình oncogene *c-erb* (gia đình này cũng bao gồm thụ thể hormone steroid và thụ thể vitamin A và D). Thụ thể T3 tồn tại ở hai dạng α và β. Đột biến ở cả hai gen α và β có liên quan đến đề kháng hormone tuyến giáp nói chung. Hút thuốc lá và các tác nhân môi trường (ví dụ, biphenyls polychlorin hóa) cũng có thể can thiệp vào hoạt động của thụ thể. Mật độ của các dạng thụ thể thì khác nhau ở các mô có thể giải thích cho các thay đổi trong hiệu ứng của T3. Hầu hết các tác động của tuyến giáp trên các quá trình chuyển hóa được trung gian tác động bằng cách kích hoạt các thụ thể nhân dẫn đến tăng sự hình thành RNA và tổng hợp protein tiếp theo. Ví dụ, tăng sự hình thành Na+/ K+ – ATPase. Điều này phù hợp với quan sát rằng hoạt động của hormone tuyến giáp được biểu hiện trên cơ thể với độ trễ thời gian là vài giờ hoặc vài ngày sau khi sử dụng. Một số lượng lớn các thụ thể hormone tuyến giáp được tìm thấy trong hầu hết các mô đáp ứng hormone (tuyến yên, gan, thận, tim, cơ xương, phổi và ruột), trong khi một số vị trí thụ thể xuất hiện trong các mô không đáp ứng hormone (lách, tinh hoàn). Bộ não, vốn thiếu đáp ứng đồng hóa với T3, chứa một lượng trung bình các thụ thể.
+
+Để phù hợp với tiềm năng sinh học của từng loại hormone giáp, ái lực của thụ thể đối với T4 thấp hơn khoảng mười lần so với T3. Trong một số điều kiện, số lượng thụ thể nhân có thể được thay đổi để bảo tồn cân bằng nội môi. Ví dụ, tình trạng đói làm giảm cả lượng hormone T3 lưu hành và thụ thể T3 nội bào.
+
+1.3.2. Tác dụng của hormone tuyến giáp
+
+Các hormone tuyến giáp có vai trò đối với sự tăng trưởng, phát triển, chức năng và duy trì hoạt động tối ưu của tất cả các mô cơ thể. Thừa hoặc thiếu hormone giáp dẫn đến các dấu hiệu và triệu chứng của cường giáp hoặc suy giáp. Hormone tuyến giáp rất quan trọng cho sự phát triển và hoạt động của các mô thần kinh, xương và sinh sản. Tác dụng của nó phụ thuộc vào sự tổng hợp protein cũng như khả năng chế tiết và hoạt động của hormone tăng trưởng. Suy tuyến giáp trong giai đoạn đầu đời dẫn đến bệnh đần (cretinism) bẩm sinh có biểu hiện chậm phát triển trí tuệ và bệnh lùn không thể phục hồi.
+
+Hormone tuyến giáp tác động đến sự tăng trưởng và sự tạo năng lượng đi kèm với ảnh hưởng lan rộng đến quá trình chuyển hóa thuốc cũng như carbohydrate, chất béo, protein và vitamin. Những thay đổi này phụ thuộc hoặc được điều chỉnh bởi hoạt động của các hormone khác. Ngược lại, tốc độ bài tiết và thoái hóa của hầu như tất cả các hormone khác, bao gồm catecholamine, cortisol, estrogen, testosterone và insulin, bị ảnh hưởng bởi tình trạng chức năng tuyến giáp. Nhiều biểu hiện của tăng hoạt động tuyến giáp giống như tăng hoạt của hệ thống thần kinh giao cảm (đặc biệt là trong hệ thống tim mạch), dù nồng độ catecholamine không tăng. Những thay đổi catecholamine kích thích bởi hoạt động của adenylyl cyclase được đo bằng cAMP được tìm thấy cùng với những thay đổi trong hoạt động của tuyến giáp. Hormone tuyến giáp làm tăng số lượng thụ thể β giao cảm và tăng cường khuếch đại tín hiệu thụ thể β. Các triệu chứng lâm sàng khác gợi ý đến tăng hoạt động epinephrine quá mức bao gồm dấu lid lag và co kéo cơ mi trên, run, đổ mồ hôi quá mức, lo lắng và căng thẳng. Các biểu hiện này có thể giảm khi dùng thuốc đối kháng thụ thể giao cảm.
+
+1.4. Các chế phẩm tuyến giáp
+
+Có hai loại: hormone tuyến giáp tổng hợp (gồm levothyroxine, liothyronine) và có hormone nguồn gốc động vật (tuyến giáp sấy khô).
+
+Hormone tuyến giáp không có chỉ định trong điều trị béo phì, chảy máu âm đạo bất thường hoặc trầm cảm.
+
+Levothyroxine tổng hợp là chế phẩm được lựa chọn vì có tính ổn định, chất lượng đồng nhất, chi phí thấp, không có protein ngoại lai gây dị ứng, dễ dàng đo nồng độ huyết thanh trong phòng xét nghiệm và thời gian bán hủy dài (7 ngày), cho phép dùng một lần mỗi ngày đến mỗi tuần. Ngoài ra, do levothyroxine được chuyển đổi thành T3 ở nội bào; do đó sử dụng thêm T3 là không cần thiết.
+
+Mặc dù liothyronine (dạng bào chế của T3) liothyronine không được dùng vì thời gian bán hủy ngắn hơn (24 giờ), cần phải dùng nhiều liều hàng ngày và khó khăn trong việc đo lường bằng các xét nghiệm thông thường trong phòng xét nghiệm. Liothyronine cũng nên tránh dùng trên bệnh nhân mắc bệnh tim do liothyronine làm tăng cao đáng kể nồng độ đỉnh và nguy cơ nhiễm độc giáp lên tim cao hơn. Sử dụng chế phẩm kết hợp với liều cố định thyroxine và liothyronine đắt tiền hơn và mô tuyến giáp sấy khô chưa được chứng minh là hiệu quả hơn dùng levothyroxine một mình.
+
+Không nên dùng chế phẩm tuyến giáp khô vì có những bất lợi do tính sinh kháng nguyên của protein, tính không ổn định của sản phẩm, nồng độ hormone khác biệt và khó khăn khi đo lường hormone tại phòng xét nghiệm. Lượng T3 đáng kể thấy trong một số chiết xuất mô tuyến giáp có thể làm tăng cao đáng kể mức T3 và gây độc tính. Không được xác định được liều chính xác hiệu quả của tuyến giáp khô.
+
+Bảng 14.1. Dược động học của hormone giáp tổng hợp
+
+| Hormone giáp tổng hợp | Hấp thu | Phân bố | Chuyển hóa | Bài xuất |
+| :--- | :--- | :--- | :--- | :--- |
+| Levothyroxine | F # 0 – 80% (70%) | Không qua nhau, rất ít trong sữa mẹ | Gan, thận và hầu hết mô đích (chuyển T4 $\rightarrow$ T3) | Thải qua mật và nước tiểu ($T_{1/2} = 6 - 7$ ngày) |
+| | | Gắn protein > 99% | Chu trình gan – ruột | |
+| Liothyronine | F # 95% | Không qua nhau, qua sữa mẹ rất ít; gắn protein yếu | Gan, các mô khác | Thải qua phân ($T_{1/2} = 1 - 2$ ngày) |
+| | | | Chu trình gan – ruột | |
+
+F = Bioavailability: sinh khả dụng, $T_{1/2}$: thời gian bán hủy
+
+# 2. THUỐC KHÁNG GIÁP
+
+## 2.1. Thioamides
+
+Các thuốc nhóm thioamides bao gồm methimazole và propylthiouracil là thuốc chủ lực điều trị cường giáp. Methimazole mạnh hơn khoảng mười lần so với propylthiouracil.
+
+[Hình: Cấu trúc hóa học của thioamides]
+- Propylthiouracil
+- Methimazole
+- Carbimazole
+
+Hình 14.2. Cấu trúc hóa học của thioamides
+
+### 2.1.1. Dược động học
+
+Methimazole được hấp thu hoàn toàn nhưng với tốc độ thay đổi. Thuốc nhanh chóng được tích lũy trong mô tuyến giáp và có thể tích phân phối tương tự như của propylthiouracil. Bài tiết chậm hơn so với propylthiouracil; 65 – 70% của một liều được tìm thấy trong nước tiểu trong 48 giờ. Ngược lại, propylthiouracil được hấp thu nhanh chóng, đạt đến nồng độ đỉnh trong huyết thanh sau 1 giờ. Sinh khả dụng 50 – 80% có thể là do hấp thu không hoàn toàn hoặc do hiệu ứng chuyển hóa bước đầu ở gan lớn. Thể tích phân phối xấp xỉ tổng lượng nước cơ thể với tích lũy trong tuyến giáp. Hầu hết một liều uống propylthiouracil được đào thải qua thận dưới dạng glucuronide bất hoạt trong vòng 24 giờ.
+
+Mặc dù thời gian bán hủy ngắn trong huyết tương của các thuốc này (1,5 giờ cho propylthiouracil và 6 giờ đối với methimazole), nhưng cả hai đều được tích lũy trong mô tuyến giáp. Do đó, thuốc vẫn có tác dụng kháng giáp kéo dài hơn thời gian bán hủy huyết tương. Đối với propylthiouracil, dùng thuốc mỗi 6 đến 8 giờ là hợp lý vì một liều 100 mg duy nhất có thể ức chế sự tạo thành phân tử iod khoảng 60% trong 7 giờ. Khi dùng một liều methimazole 30 mg duy nhất thì tác dụng kháng giáp hơn 24 giờ, do đó có thể dùng một liều hàng ngày.
+
+Cả hai thioamide đều vượt qua hàng rào nhau thai và tập trung ở tuyến giáp thai nhi, do đó phải thận trọng khi sử dụng các thuốc này trong thai kỳ. Vì nguy cơ thai nhi suy giáp, cả hai thioamide đều được phân loại là thuộc nhóm D trong thai kỳ theo FDA. Propylthiouracil thích hợp hơn trong ba tháng đầu thai kỳ vì: (1) nó liên kết với protein mạnh hơn, do đó, khó qua nhau thai, (2) methimazole có thể liên quan đến dị tật bẩm sinh bất sản da đầu mặc dù hiếm gặp. Cả hai thioamide được tiết ra ở nồng độ thấp trong sữa mẹ, được coi là an toàn cho trẻ bú sữa mẹ.
+
+### 2.1.2. Dược lực học
+
+Tác động chính là ngăn chặn sự tổng hợp hormone bằng cách ức chế phản ứng xúc tác của men peroxidase tuyến giáp và ngăn chặn hữu cơ hóa $I_2$. Ngoài ra, thuốc ức chế bắt cặp của iod và tyrosine. Thuốc không chặn sự hấp thu $I^-$ vào tuyến giáp. Propylthiouracil còn ức chế quá trình khử iod ngoại biên của T4 và T3, còn methimazole thì không có tác dụng này. Do thuốc ức chế lên sự tổng hợp hormone chứ không ức chế phóng thích hormone, do đó, các thuốc này khởi phát tác dụng chậm, thường cần 3 – 4 tuần để kho dự trữ của T4 dùng hết, sau đó nồng độ hormone giáp mới kiểm soát được.
+
+### 2.1.3. Tác dụng ngoại ý
+
+Phản ứng bất lợi với thioamide xảy ra ở 3 – 12% người bệnh được điều trị. Hầu hết các phản ứng xảy ra sớm, đặc biệt là buồn nôn và rối loạn dạ dày ruột. Thay đổi cảm nhận về hương vị hoặc mùi có thể xảy ra với methimazole. Tác dụng phụ phổ biến nhất là nổi phát ban dát sẩn (4 – 6%), đôi khi đi kèm sốt. Tác dụng phụ hiếm gặp như nổi mề đay toàn thân, viêm mạch, phản ứng giống lupus, nổi hạch, giảm prothrombin máu, viêm da tróc, cơ viêm gan nặng, đôi khi dẫn đến tử vong, vì vậy tránh dùng ở trẻ em và người lớn trừ khi không có lựa chọn nào khác. Vàng da tắc mật là phổ biến với methimazole hơn là propylthiouracil. Có thể bị tăng mức transaminase không có triệu chứng.
+
+Tác dụng bất lợi nguy hiểm nhất là giảm bạch cầu hạt nặng (số lượng tế bào < 500 tế bào/$mm^3$), không thường xuyên nhưng có khả năng gây tử vong do nhiễm trùng nặng.
+
+Tần suất xảy ra ở 0,1 – 0,5% bệnh nhân dùng thioamide, nhưng nguy cơ có thể tăng lên ở bệnh nhân lớn tuổi và thường gặp trong vòng 90 ngày đầu tiên ở những người dùng liều methimazole lớn hơn 40 mg/ngày. Bạch cầu có thể hồi phục khi ngưng thuốc. Độ nhạy chéo giữa propylthiouracil và methimazole khoảng 50%, do đó, không được khuyến cáo chuyển đổi thuốc ở bệnh nhân với các phản ứng nghiêm trọng. Cần chú ý, khi thuốc kháng giáp gây giảm nặng số lượng bạch cầu hạt hoặc viêm gan thì cả hai thuốc này đều không dùng được.
+
+Bảng 14.2. Dược động học của một số thuốc kháng giáp
+
+| Thuốc | Hấp thu | Phân bố | Chuyển hóa | Bài xuất |
+| :--- | :--- | :--- | :--- | :--- |
+| Thioamides | Methimazol F = 100%, chậm. PTU nhanh, F = 50 – 80% (chuyển hóa bước đầu/ gan) | Tập trung trong mô giáp Methimazole qua nhau vào sữa mẹ nhiều; PTU qua nhau vào sữa mẹ rất ít | Gan | Thải qua nước tiểu, Methimazole chậm hơn PTU (< 10% Methimazole còn nguyên dạng) |
+| Muối iod | F > 90% | Tập trung trong mô giáp. Qua nhau dễ vào sữa mẹ. | Chủ yếu tuyến giáp | Thận |
+| Iod phóng xạ | Nhanh | Tập trung trong mô giáp. Qua nhau vào sữa mẹ | Tương tự iod | Tương tự iod |
+| Chẹn thụ thể beta (Propranolol) | Tốt, chuyển hóa bước đầu cao | Qua nhau vào mô, thần kinh trung ương, sữa mẹ. Gắn protein 93% | Gan (CYP2D6) | Nước tiểu, phân T½ = 3,4 – 6 giờ |
+
+*F = Bioavailability: sinh khả dụng, T½ : thời gian bán hủy, CYP2D6: Cytochrome 2D6*
+
+2.2. Các chất ức chế ion âm
+
+Các ion âm đơn hóa trị như perchlorate ($ClO_4^-$), pertechnetate ($TcO_4^-$) và thiocyanate ($SCN^-$) có thể ngăn chặn sự hấp thu iod vào tuyến giáp thông qua sự ức chế cạnh tranh cơ chế vận chuyển $I^-$. Vì những tác dụng này có thể được khắc phục bằng liều lớn $I^-$, nên hiệu quả của chúng đôi khi khó có thể dự báo.
+
+Sử dụng chính của kali perchlorate trên lâm sàng là ngăn chặn sự hấp thu $I^-$ vào tuyến giáp ở những bệnh nhân bị cường giáp do tăng $I^-$ (ví dụ, cường giáp do amiodarone). Tuy vậy, kali perchlorate hiếm khi được sử dụng lâm sàng vì liên quan đến tình trạng thiếu máu bất sản.
+
+[Hình: Hình 14.3. Cơ chế tác động của các thuốc kháng giáp. (Nguồn: Katzung' Basic and Clinical Pharmacology 14th)]
+
+**Sơ đồ: Cơ chế tác động của các thuốc kháng giáp**
+- Tuyến giáp
+  - Vận chuyển --> SCN, ClO4
+  - Peroxidase --> Iodides, thioamides
+  - Hữu cơ hóa --> Thyroglobulin (MIT-DIT-T3-T4)
+  - Ly giải protein --> Iodides
+  - Máu <-- T4, T3
+- Mô ngoại biên
+  - T4, T3 --> T3
+  - T4, T3 --> Radiocontrast media, Chẹn β, corticosteroids, amiodarone
+
+2.3. Muối iod
+
+Trước khi thioamides được sử dụng vào những năm 1940, muối iod là các tác nhân kháng giáp chính nhưng ngày nay hiếm khi được sử dụng đơn thuần.
+
+2.3.1. Dược lực học
+
+Ở liều dược lý (> 6 mg/ngày), tác dụng chính của muối iod là ức chế giải phóng hormone, có thể thông qua ức chế ly giải protein thyroglobulin. Do đó, giảm triệu chứng cường giáp xảy ra nhanh chóng trong vòng 2 – 7 ngày (tác động kép) và kết thúc sau vài tuần (hiện tượng thoát); do đó, muối iod chủ yếu dùng điều trị cơn bão giáp. Ngoài ra, muối iod làm giảm sung huyết mạch máu, giảm kích thước của một tuyến giáp tăng sản, do đó thuốc dùng chuẩn bị trước phẫu thuật tuyến giáp.
+
+Ở những người nhạy cảm, muối iod có thể gây ra cường giáp (hiện tượng Jod-Basedow) hoặc suy giáp kịch phát.
+
+2.3.2. Sử dụng muối iod
+
+Nhược điểm của liệu pháp muối iod bao gồm tăng kho dự trữ I2 trong tuyến giáp, có thể gây ra trì hoãn khởi phát tác dụng của thioamide hoặc giảm hiệu quả của liệu pháp iod phóng xạ trong vài tuần do tuyến giáp đã hấp thu đầy iod. Như vậy, muối iod nên được dùng sau khi đã điều trị bằng thioamide. Tránh dùng iod nếu dự định điều trị bằng iod phóng xạ. Muối iod không nên được sử dụng một mình, bởi vì tuyến sẽ thoát khỏi sự ức chế của iod trong 2 – 8 tuần và có thể làm nặng thêm cường giáp ở tuyến giáp giàu iod. Nên tránh sử dụng muối iod kéo dài trong thai kỳ, vì chúng đi qua nhau thai và có thể gây bướu cổ ở thai nhi.
+
+2.3.3. Độc tính
+
+Phản ứng bất lợi của iod ít gặp và thường sẽ phục hồi khi ngừng thuốc. Phản ứng này bao gồm phát ban mụn trứng cá, sưng tuyến nước bọt, loét màng niêm mạc, viêm kết mạc, chảy nước mũi, sốt do thuốc, vị giác kim loại, rối loạn chảy máu và hiếm khi, phản ứng phản vệ.
+
+2.4. Iod đồng vị phóng xạ ($^{131}\text{I}$)
+
+$^{131}\text{I}$ là đồng vị duy nhất được sử dụng để điều trị bệnh cường giáp. Dùng đường uống trong dung dịch như $^{131}\text{I}$, thuốc được hấp thu nhanh, tập trung ở tuyến giáp và được kết hợp vào nang lưu trữ. Tác dụng điều trị phụ thuộc vào phát xạ tia $\beta$ với thời gian bán hủy hiệu quả là 5 ngày và phạm vi thâm nhập là $400 - 2.000 \mu\text{m}$. Trong vòng vài tuần sau khi dùng, thuốc phá hủy nhu mô tuyến, gây sưng và hoại tử biểu mô, vỡ nang tuyến, phù nề và thâm nhiễm bạch cầu. Ưu điểm của $^{131}\text{I}$ là dễ sử dụng, hiệu quả, chi phí thấp và không đau. Những lo ngại về tổn thương gen do bức xạ, bệnh bạch cầu và tân sinh đã không được ghi nhận sau hơn 50 năm kinh nghiệm lâm sàng với liệu pháp iod phóng xạ trên bệnh nhân cường giáp. Iod phóng xạ chống chỉ định dùng cho phụ nữ mang thai hoặc cho con bú, vì thuốc đi qua nhau thai gây phá hủy tuyến giáp của thai nhi và được bài tiết qua sữa mẹ.
+
+2.5. Thuốc chẹn thụ thể giao cảm
+
+Thuốc chẹn thụ thể beta không có hoạt tính giao cảm nội tại (ví dụ: metoprolol, propranolol, atenolol) là thuốc điều trị triệu chứng cường giáp, làm giảm các triệu chứng kích thích hệ tim mạch, run, hồi hộp.
+
+Propranolol với liều cao lớn hơn 160 mg/ngày cũng có thể làm giảm mức T3 khoảng 20% do ức chế chuyển đổi T4 thành T3 ở ngoại vi. Tuy nhiên, thực hành lâm sàng không chỉ định với mục đích này.
+
+3. DƯỢC LÝ HỌC LÂM SÀNG
+
+3.1. Suy giáp
+
+Levothyroxine là chế phẩm dùng điều trị suy giáp. Liều lượng hormone giáp thay đổi tùy theo tuổi và cân nặng. Đối với trẻ sơ sinh và trẻ em cần liều levothyroxine trên mỗi kg trọng lượng cơ thể cao hơn so với người lớn. Liều levothyroxine trung bình cho trẻ sơ sinh 1 – 6 tháng tuổi là 10 – 15 µg/kg mỗi ngày, trong khi đó liều trung bình cho một người trưởng thành là khoảng 1,7 µg/kg mỗi ngày.
+
+Người lớn tuổi (> 65 tuổi) có thể cần ít thyroxine hơn (1,6 µg/kg mỗi ngày) vì khối lượng cơ thể giảm. Ở những bệnh nhân cần liệu pháp ức chế sau phẫu thuật cắt tuyến giáp do ung thư, liều trung bình hàng ngày của levothyroxine là 2,2 µg/kg. Nhu cầu thyroxine cao hơn có thể gặp ở bệnh nhân mắc bệnh celiac (không dung nạp gluten) và viêm dạ dày do *Helicobacter pylori*; liều levothyroxine có thể thấp hơn sau khi điều trị các bệnh trên ổn.
+
+Vì có thể tương tác với một số loại thực phẩm (ví dụ, cám, đậu nành, cà phê) và một số thuốc có thể làm giảm sự hấp thu của thyroxine, thuốc T4 nên dùng khi bụng đói để duy trì TSH trong mức tối ưu 0,5 – 2,5 mIU/L. Thời gian bán hủy dài (7 ngày) cho phép dùng levothyroxine mỗi ngày một lần. Trẻ em cần được theo dõi sự tăng trưởng và phát triển bình thường. Xét nghiệm TSH huyết thanh và fT4 để điều chỉnh liều. Sau khi bắt đầu dùng levothyroxine từ 6 – 8 tuần mới đạt trạng thái ổn định, do đó, nên điều chỉnh từ từ liều levothyroxine.
+
+Ở những bệnh nhân trẻ tuổi bị suy giáp, điều trị thay thế levothyroxine liều đầy đủ có thể dùng ngay lúc đầu. Ở bệnh nhân lớn tuổi (> 50 tuổi) không mắc bệnh tim mạch, levothyroxine nên bắt đầu với liều 50 µg/ngày. Trong suy giáp kéo dài và ở bệnh nhân lớn tuổi mắc bệnh tim mạch tiềm ẩn, phải bắt đầu với liều thấp levothyroxine 12,5 – 25 µg/ngày trong 2 tuần, sau đó tăng từ từ mỗi lần 12,5 – 25 µg/ngày mỗi 2 tuần cho đến khi đạt bình giáp. Ở bệnh nhân có bệnh tim mạch, tim rất nhạy cảm với nồng độ của thyroxine trong tuần hoàn và nếu xuất hiện đau thắt ngực hoặc rối loạn nhịp tim thì cần ngưng hoặc giảm liều levothyroxine ngay.
+
+Độc tính của levothyroxine liên quan trực tiếp đến nồng độ hormone. Ở trẻ em, dấu hiệu độc tính của levothyroxine có biểu hiện bồn chồn, mất ngủ, đẩy nhanh sự trưởng thành và tăng trưởng xương. Ở người lớn, triệu chứng ngộ độc gồm có hồi hộp, không chịu được nóng, cơn đánh trống ngực, nhịp tim nhanh hoặc giảm cân. Nếu những triệu chứng này xuất hiện, phải đo nồng độ huyết thanh TSH và FT4, sẽ giúp xác định có phải là do nồng độ thyroxine trong máu tăng quá mức hay không. Điều trị quá mức levothyroxine kéo dài, đặc biệt ở bệnh nhân cao tuổi, có thể làm tăng nguy cơ rung nhĩ và tăng loãng xương.
+
+### 3.1.1. Suy giáp và bệnh động mạch vành
+
+Vì bệnh suy giáp thường xuyên xảy ra ở người lớn tuổi, bệnh thường liên quan đến bệnh động mạch vành tiềm ẩn. Điều trị suy giáp cần thận trọng để tránh thúc đẩy xuất hiện biến cố tim mạch.
+
+### 3.1.2. Hôn mê suy giáp
+
+Hôn mê suy giáp là tình trạng suy giáp nặng không được điều trị; biểu hiện yếu tăng dần, choáng váng, hạ thân nhiệt, hạ glucose huyết, giảm thông khí, hạ natri máu, nhiễm độc nước, sốc và tử vong. Hôn mê suy giáp là một cấp cứu nội khoa nên được điều trị tại khoa chăm sóc đặc biệt, đặt ống nội khí quản và thông khí cơ học có thể được yêu cầu. Các bệnh lý liên quan như nhiễm trùng hoặc suy tim phải được điều trị phù hợp. Bởi vì bệnh nhân bị hôn mê suy giáp hấp thụ thuốc kém từ các đường tiêu hóa, do đó, cần điều trị levothyroxine đường tĩnh mạch. Tiêm tĩnh mạch hydrocortisone nếu bệnh nhân có kèm suy tuyến thượng thận hoặc tuyến yên.
+
+### 3.1.3. Suy giáp và thai kỳ
+
+Do nhu cầu tăng, cần tăng liều thyroxine (khoảng 25 – 30% so với trước khi có thai) để mức TSH huyết thanh bình thường trong thai kỳ. Do sự phát triển của não thai nhi phụ thuộc vào thyroxine của mẹ trong giai đoạn đầu thai kỳ, bệnh nhân suy giáp mang thai cần đảm bảo dùng liều thyroxine hàng ngày đầy đủ đảm bảo cho sự phát triển của não thai nhi. Thyroxine cũng nên được uống cách xa vitamin và calci bổ sung trong thai kỳ ít nhất 4 giờ.
+
+### 3.1.4. Suy giáp do thuốc
+
+Suy giáp do thuốc có thể được dùng levothyroxine nếu không thể ngưng thuốc. Trong trường hợp suy giáp do amiodarone, liệu pháp levothyroxine có thể cần thiết ngay cả sau khi ngưng thuốc vì amiodarone có thời gian bán hủy rất dài.
+
+## 3.2. Cường giáp do bệnh Graves
+
+Dạng cường giáp phổ biến nhất là bệnh Graves (còn gọi là bệnh Basedow). Có ba phương pháp chính để kiểm soát cường giáp là điều trị bằng thuốc kháng giáp, phá hủy tuyến bằng iod phóng xạ và phẫu thuật cắt tuyến giáp. Không có phương pháp nào nói trên thay đổi cơ chế bệnh sinh của bệnh.
+
+### 3.2.1. Điều trị bằng thuốc kháng giáp
+
+Methimazole được ưu tiên chọn hơn propylthiouracil, do propylthiouracil có cảnh báo về khả năng gây tổn thương gan nặng. Propylthiouracil chỉ được khuyến cáo sử dụng trong ba tháng đầu thai kỳ hoặc điều trị cơn bão giáp. Thuốc methimazole có thể được dùng một lần mỗi ngày, giúp cải thiện sự tuân trị.
+
+Liều thuốc kháng giáp tổng hợp khác nhau tùy giai đoạn điều trị:
+
+- Giai đoạn điều trị tấn công: trung bình 6 – 8 tuần. Dùng methimazol uống liều 20 – 30 mg/ngày, chia 1 – 2 lần; nếu dùng propylthiouracil uống 300 – 450 mg/ngày chia 3 lần.
+
+- Giai đoạn điều trị duy trì: ở giai đoạn này, liều thuốc giảm dần mỗi 1 – 2 tháng dựa vào sự cải thiện của các triệu chứng và xét nghiệm TSH, fT4. Tổng thời gian điều trị trung bình từ 12 – 18 tháng. Tỉ lệ tái phát đến 50 – 60%.
+
+### 3.2.2. Theo dõi tác dụng ngoại ý của thuốc kháng giáp
+
+- Phát ban nhẹ thường có thể được kiểm soát bằng liệu pháp kháng histamine.
+
+- Tác dụng ngoại ý gây giảm bạch cầu hạt nghiêm trọng thường có dấu hiệu báo trước là đau họng, sốt, nhiễm trùng. Do đó, bệnh nhân dùng thuốc kháng giáp phải được hướng dẫn theo dõi khi có triệu chứng báo hiệu thì cần ngừng thuốc và đi xét nghiệm công thức máu.
+
+Khi gặp các tác dụng ngoại ý nghiêm trọng như giảm bạch cầu nặng và tổn thương gan nặng, cần ngưng thuốc kháng giáp và không được dùng lại hay đổi nhóm thuốc khác.
+
+### 3.2.3. Phẫu thuật cắt tuyến giáp
+
+Bệnh nhân được điều trị với thuốc kháng giáp cho đến khi bình giáp. Trước khi phẫu thuật, có thể cho bệnh nhân dùng ngắn ngày dung dịch lugol để làm giảm sung huyết mạch máu. Sau cắt tuyến giáp, bệnh nhân có thể bị suy giáp và cần uống bổ sung hormone tuyến giáp dài hạn.
+
+3.2.4. Iod đồng vị phóng xạ ($^{131}\text{I}$)
+
+Trước điều trị $^{131}\text{I}$, tránh dùng iod để đảm bảo sự hấp thu tối đa $^{131}\text{I}$. Thuốc methimazole được ngưng từ 2 – 3 ngày trước khi điều trị $^{131}\text{I}$ để không can thiệp vào hấp thu $^{131}\text{I}$, có thể được khởi động lại 3 – 5 ngày sau và sau đó giảm dần trong 4 – 6 tuần khi chức năng tuyến giáp bình thường. Sau khi uống $^{131}\text{I}$ thời gian 6 – 12 tuần, tuyến sẽ thu nhỏ kích thước và bệnh nhân đạt bình giáp hoặc suy giáp. Nếu sau 3 tháng dùng $^{131}\text{I}$ vẫn còn cường giáp, có thể cần dùng thêm một liều $^{131}\text{I}$ thứ hai. Nên theo dõi nồng độ FT4 và TSH huyết thanh. Bệnh nhân sau dùng $^{131}\text{I}$ có thể bị suy giáp không hồi phục và cần uống levothyroxine dài hạn.
+
+3.2.5. Điều trị triệu chứng
+
+Các thuốc chẹn thụ thể beta giao cảm không có hoạt tính giao cảm nội tại là thích hợp kiểm soát triệu chứng cường giáp, nhịp tim nhanh > 90 nhịp/phút. Khi nồng độ T4 trong huyết thanh trở lại bình thường, có thể ngưng thuốc. Diltiazem có thể được sử dụng để kiểm soát nhịp tim nhanh ở những bệnh nhân chống chỉ định với thuốc chẹn thụ thể beta, ví dụ, trên người bị hen suyễn.
+
+Chất cô lập acid mật (ví dụ, cholestyramine) cũng có thể nhanh chóng làm giảm nồng độ T4 bằng cách tăng bài tiết T4 ra phân.
+
+Dinh dưỡng đầy đủ và bổ sung vitamin là rất cần thiết.
+
+Bảng 14.3. Tương tác giữa thuốc – hormone tuyến giáp
+
+| Ảnh hưởng của thuốc | Thuốc |
+| :--- | :--- |
+| **Thay đổi tổng hợp hormone tuyến giáp** | |
+| Ức chế bài tiết TRH hoặc TSH mà không gây suy giáp hoặc cường giáp | Bexarotene, dopamine, bromocriptine, cabergoline, levodopa, corticosteroids, somatostatin, octreotide, metformin, interleukin-6, heroin |
+| Ức chế tổng hợp hoặc giải phóng hormone tuyến giáp gây rối loạn chức năng giáp: suy giáp (hoặc đôi khi cường giáp) | Muối iod (bao gồm amiodarone), lithium, aminoglutethimide, thioamides, ethionamide chất ức chế tyrosine kinase (eg, sunitinib, sorafenib, imatinib), human immunodeficiency virus protease inhibitors |
+| **Thay đổi vận chuyển hormone tuyến giáp và nồng độ T3 và T4 trong huyết thanh, nhưng thường không ảnh hưởng FT4 hoặc TSH** | |
+| Tăng thyroxine-binding globulin | Estrogens, tamoxifen, raloxifene, heroin, methadone, mitotane, 5-fluorouracil, Perphenazine |
+| Giảm thyroxine-binding globulin | Androgens, anabolic steroids, glucocorticoids, danazol, l-asparaginase, nicotinic acid |
+
+Bài 14. Dược lý thuốc điều trị rối loạn chức năng tuyến giáp ♦ 165
+
+| Ảnh hưởng của thuốc | Thuốc |
+| :--- | :--- |
+| Tách T3 và T4 khỏi TBG gây tăng thoáng qua T3, T4 trong máu | Salicylates, fenclofenac, mefenamic acid, furosemide tĩnh mạch, heparin |
+| Thay đổi chuyển hóa T4 và T3 với nồng độ T3 và T4 trong huyết thanh đã thay đổi nhưng không thay đổi nồng độ TSH (trừ khi được điều trị thay thế thyroxine) | |
+| Tăng chuyển hóa ở gan, tăng cường thoái hóa của hormone tuyến giáp | Nicardipine, phenytoin, carbamazepine, primidone, phenobarbital, rifampin, rifabutin, chất ức chế tyrosine kinase (sunitinib, sorafenib, imatinib), sertraline, quetiapine |
+| Sự ức chế 5'-deiodinase khi giảm T3, Tăng rt3 | Iopanoic acid, ipodate, amiodarone, beta-blockers, corticosteroids, propylthiouracil, flavonoids, interleukin-6 |
+
+**Các tương tác khác**
+
+| Ảnh hưởng của thuốc | Thuốc |
+| :--- | :--- |
+| Can thiệp với sự hấp thu T4 ở ruột | Bisphosphonates uống, cholestyramine, colesevelam, colestipol, chromium picolinate, charcoal, ciprofloxacin, ức chế bơm proton, sucralfate, Kayexalate, raloxifene, sevelamer hydrochloride, aluminum hydroxide, ferrous sulfate, calcium carbonate, cám/chất xơ, đậu nành, cà phê, orlistat |
+| Cảm ứng của bệnh tuyến giáp tự miễn với suy giáp hoặc cường giáp | Interferon-α, interleukin-2, interferon-β, lithium, amiodarone, chất ức chế tyrosine kinase (sunitinib, sorafenib, imatinib) |
+
+**Ảnh hưởng của chức năng tuyến giáp lên tác động của thuốc**
+
+| | |
+| :--- | :--- |
+| Thuốc kháng đông | Liều thấp hơn của warfarin cần thiết trong bệnh cường giáp, liều cao hơn trong bệnh suy giáp |
+| Kiểm soát glucose | Tăng sản xuất glucose gan và không dung nạp glucose trong cường giáp |
+| | Giảm hoạt động insulin và giao glucose trong suy giáp |
+| Thuốc tim | Liều cao hơn của digoxin cần thiết trong bệnh cường giáp, liều thấp hơn trong bệnh suy giáp |
+| Thuốc giảm đau, an thần | Tăng tác dụng an thần và ức chế hô hấp từ thuốc an thần và opioid trong suy giáp; đảo ngược trong cường giáp |
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn một câu đúng
+
+1. Sau khi sinh thường vài ngày, một bé trai trở nên lờ đờ, khó thở và khóc khàn, bú kém. Bé được chẩn đoán suy giáp bẩm sinh. Lựa chọn thuốc điều trị nào sau đây là phù hợp nhất?
+    A. Liothyronine
+    B. Methimazole
+    C. Levothyroxine
+    D. Bột sấy tuyến giáp heo
+
+2. Một phụ nữ 30 tuổi mang thai 6 tuần đến khám vì sưng phù mí mắt và hốc mắt. Các xét nghiệm máu sau đó cho kết quả như sau: FT4 3,3 ng/dL (bình thường 0,9 – 2,0 ng/dL), TSH < 0,01 mU/L (bình thường 0,5 – 5,0 mU/L). Bệnh nhân được chẩn đoán cường giáp. Điều trị bằng loại thuốc nào sau đây sẽ thích hợp nhất cho bệnh nhân này?
+    A. Iod phóng xạ
+    B. Levothyroxine
+    C. Propylthiouracil
+    D. Dung dịch Lugol
+
+3. Một bệnh nhân nữ 33 tuổi hiện đang mang thai 2 tháng đến khám vì chán ăn vàng da và đau hạ sườn (P) 2 ngày qua. Bệnh nhân được chẩn đoán cường giáp 1 tháng trước và bắt đầu một liệu pháp kháng giáp thích hợp. Kết quả xét nghiệm khi nhập viện cho thấy tăng men gan alanine aminotransferase (ALT) 410 U/L (bình thường 20 – 40 U/L). Thuốc kháng giáp nào sau đây nhiều khả năng nhất gây ra bệnh rối loạn này trên bệnh nhân?
+    A. Methimazole
+    B. Iod phóng xạ
+    C. Propranolol
+    D. Propylthiouracil
+
+4. Một phụ nữ 55 tuổi bị cường giáp đã được loại bỏ mô tuyến giáp bằng iod đồng vị phóng xạ, 3 tuần sau đó, bệnh nhân được bắt đầu điều trị với levothyroxine. Cơ chế phân tử tác động của thuốc levothyroxine là?
+    A. Chất đồng vận ở thụ thể hormone kích thích tuyến giáp (TSH)
+    B. Chất đối vận ở thụ thể TSH
+    C. Chất đồng vận ở thụ thể hormone tuyến giáp (TH)
+    D. Chất đối vận ở thụ thể TH
+
+Bài 14. Dược lý thuốc điều trị rối loạn chức năng tuyến giáp ♦ 167
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Laurence L. Brunton (2018). *Goodman and Gilman's The Pharmacological basis of Therapeutics*. 13th ediontion. McGraw-Hill: 787-802.
+2. Bertram G. Katzung (2018). *Basic and Clinical Pharmacology*. 14th edition. McGraw-Hill: 687-702.
+3. Richard A. Harvey (2012). *Lippincott's Illustrated Reviews-Pharmacology*. 5th editon: 291-300.
+4. Lullmann (2000). *Color Atlas of Pharmacology*. 2nd edition. Thieme: 244-247.
+5. H.P.Rang, J.M.Ritter, R.J.Flower, G.Henderson (2016). *Rang and Dale's Pharmacology*. 8th edition. Elsevier Churchill Livingston (Student Consult): 418-423.
+6. Mario Babbimi, Mary L.Thomas (2015). *Pharmacology Test Prep*. Thieme: 271-275, 303-307.
+
+**CÁC VẤN ĐỀ**
+**LIÊN HỆ VỚI THỰC HÀNH**
+
+# Chương 4
+# CÁC VẤN ĐỀ LIÊN HỆ VỚI THỰC HÀNH
+
+# GIẢI PHẪU TUYẾN GIÁP, TUYẾN CẬN GIÁP, TUYẾN THƯỢNG THẬN
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Xác định được vị trí của tuyến giáp, cận giáp.
+2. Mô tả mạch máu và thần kinh chi phối tuyến giáp, cận giáp.
+3. Xác định được vị trí của tuyến thượng thận.
+4. Mô tả mạch máu và thần kinh chi phối tuyến thượng thận.
+
+## TUYẾN GIÁP, TUYẾN CẬN GIÁP
+
+### 1. ĐẠI CƯƠNG
+
+Tuyến giáp (Hình 15.1) là tuyến nội tiết lớn nhất cơ thể, nằm trước cổ, áp sát vào các vòng sụn khí quản mặt ngoài sụn giáp, mảnh sụn nhẫn. Tuyến giáp gồm hai thùy phải và trái, trải dài từ vòng sụn khí quản thứ 5 lên hai bên sụn giáp. Hai thùy nối nhau bởi eo tuyến giáp, thường ở ngang mức sụn khí quản thứ 2 và 3. Mỗi thùy bên tuyến giáp dài 5 – 8 cm, rộng 2 – 4 cm, dày 1,25 cm. Tuyến giáp bình thường cân nặng 20 – 25 g. Tuyến giáp phụ nữ lúc hành kinh hay lúc có thai và cho con bú lớn hơn nam giới.
+
+[Hình: Hình 15.1. Tuyến giáp]
+
+- Tuyến giáp
+- Thùy trái và phải của tuyến giáp
+- Sụn giáp (trái cổ)
+- Thùy tháp
+- Tĩnh mạch cảnh trong
+- Động mạch cảnh chung
+- Các tĩnh mạch tuyến giáp
+- Khí quản
+- Các động mạch tuyến giáp
+- Động mạch chủ
+- Hình cắt ngang tuyến giáp
+- Mao mạch
+- Các tế bào sản xuất thyroxine
+- Hố nhỏ chứa đầy chất keo ở đó lưu trữ thyroxine
+
+Bài 15. Giải phẫu tuyến giáp, tuyến cận giáp, tuyến thượng thận ♦ 171
+
+Đôi khi có một phần tuyến giáp hình tam giác gọi là thùy tháp kéo dài từ bờ trên eo tuyến giáp lên trên, lệch sang trái, gọi là thùy tháp, nó thường nối với xương móng bằng một dải xơ, là di tích của ống giáp lưỡi.
+
+[Hình: Một số dạng tuyến giáp]
+
+**2. LIÊN QUAN**
+
+Liên quan vùng trước eo tuyến giáp từ nông vào sâu là da, các mạc cổ và các cơ dưới móng, vòng sụn khí quản nằm ngay sau eo tuyến giáp.
+
+Mỗi thùy tuyến giáp có hình tam giác cao khoảng 5 – 8 cm, nằm hai bên thanh quản và khí quản. Mặt trong mỗi thùy tiếp xúc với sụn giáp, cơ nhẫn giáp, sụn nhẫn, phần ngoài các sụn khí quản, cơ khít hầu dưới, thực quản (khi tuyến giáp to sẽ chèn ép thực quản gây khó nuốt), thần kinh thanh quản quặt ngược và nhánh ngoài thần kinh thanh quản trên (cần tránh gây tổn thương cho các dây thần kinh này khi mổ cắt tuyến giáp vì có thể gây mất tiếng).
+
+Phía trước ngoài là cơ ức giáp, cơ vai móng và cơ ức móng nằm trong lá trước khí quản mạc cổ. Phía trước dưới là phần trước trong của cơ ức đòn chũm.
+
+Phía sau ngoài là bao cảnh và các thành phần của nó, thần kinh thanh quản quặt ngược và các tuyến cận giáp.
+
+[Hình: Liên quan của tuyến giáp ở vùng cổ]
+
+- Động mạch cảnh ngoài
+- Động mạch cảnh trong
+- Động mạch và tĩnh mạch giáp trên
+- Động mạch thanh quản trên
+- Màng giáp – móng
+- Quai cổ { rễ dưới, rễ trên
+- Động mạch cảnh chung
+- Tĩnh mạch cảnh trong
+- Tĩnh mạch giáp giữa
+- Các tĩnh mạch giáp dưới
+- Động mạch cổ lên
+- Động mạch giáp dưới
+- Động mạch ngang cổ
+- Động mạch vai trên
+- Thân giáp cổ
+- Động mạch và tĩnh mạch dưới đòn
+- Thần kinh lang thang X
+- Thần kinh thanh quản quặt ngược phải
+- Thân cánh tay – đầu
+- Các tĩnh mạch cánh tay – đầu
+- Tĩnh mạch chủ trên
+- Cung động mạch chủ
+- Xương móng
+- Thần kinh thanh quản trên
+- Nhánh trong
+- Nhánh ngoài
+- Sụn giáp (mảnh)
+- Dây chằng nhẫn – giáp
+- Các cơ nhẫn – giáp
+- Sụn nhẫn
+- Tuyến giáp { Thùy giáp (thường không có hoặc nhỏ), Thùy phải, Thùy trái, Eo
+- Các hạch bạch huyết trước khí quản
+- Thần kinh hoành
+- Cơ bậc thang trước
+- Thần kinh lang thang (X)
+- Tĩnh mạch cảnh ngoài
+- Tĩnh mạch cảnh trước
+- Xương sườn thứ nhất (cắt)
+- Thần kinh thanh quản quặt ngược trái
+
+[Hình: Các nhãn chú thích trên hình người]
+- Sụn giáp
+- Dây chằng nhẫn – giáp
+- Động mạch cảnh chung
+- Bờ trong cơ ức – đòn – chũm
+- Cơ nhẫn – giáp
+- Sụn nhẫn
+- Tuyến giáp
+- Đỉnh màng phổi
+
+Hình 15.3. Liên quan của tuyến giáp ở vùng cổ
+
+3. PHƯƠNG TIỆN CỐ ĐỊNH
+
+Tuyến giáp được bao bọc bởi bao sợi xơ, gắn vào mạc tạng bằng một lớp lỏng lẻo, rất dễ bóc tách, có mạch máu và thần kinh đi bên trong. Đặc điểm này được ứng dụng trong phẫu thuật tuyến giáp.
+
+Tuyến giáp di động khi nuốt là do cơ siết họng dưới có hai phần bám: phần giáp hầu bám vào sụn giáp và phần nhẫn hầu bám vào sụn nhẫn. Vì thế khi bệnh nhân nuốt, cơ này co sẽ kéo sụn giáp và sụn nhẫn di chuyển lên trên. Ngoài ra, tuyến giáp còn được cố định vào các sụn kế cận bằng các dây chằng. Dây chằng giữa đi từ mặt trước sụn giáp đến mặt sau eo tuyến giáp.
+
+[Hình: Dây chằng cố định tuyến giáp]
+- Tuyến cận giáp trên
+- Cơ nhẫn giáp
+- Thần kinh thanh quản ngoài
+- Các mạch máu nhỏ trong dây chằng Berry
+- Thần kinh quặt ngược thanh quản
+
+**Hình 15.4. Dây chằng cố định tuyến giáp**
+
+Dây chằng bên (Berry), đi từ mặt trong mỗi thùy đến khí quản và sụn nhẫn. Dây chằng nối thùy tháp với sụn giáp hoặc xương móng. Tuyến giáp được đính vào thanh quản bằng các dây chằng treo ở trên, đặc biệt là dây chằng giữa và dây chằng bên và được bao bọc bởi mạc trước khí quản mà mạc này ở trên đính vào sụn thanh quản, ở dưới hòa vào màng ngoài tim nên tuyến giáp sẽ di động khi thanh quản di động. Đặc điểm tuyến giáp cùng di động với thanh, khí quản khi nuốt giúp chẩn đoán phân biệt bướu giáp với các bướu ở vùng cổ khác.
+
+**4. MẠCH MÁU VÀ THẦN KINH**
+
+**4.1. Động mạch**
+
+- Động mạch giáp trên (Hình 15.5) là nhánh từ động mạch cảnh ngoài, đến cực trên mỗi thùy chia ba nhánh vào mặt trước ngoài, bờ trước và bờ trong mỗi thùy bên.
+
+[Hình: Hình 15.5. Động mạch giáp trên]
+- Thần kinh thanh quản trên
+- Thần kinh thanh quản trong
+- Thần kinh thanh quản ngoài
+- Vị trí buộc mạch máu
+- Động mạch – tĩnh mạch giáp trên
+
+Động mạch giáp dưới là nhánh động mạch thân giáp cổ từ động mạch dưới đòn, chia làm hai nhánh. Một nhánh đi vào bờ dưới mỗi thùy và sau eo tuyến giáp, một nhánh đi vào phần sau trong của mỗi thùy bên. Cả hai nhánh đều có thể nối nhau ở đường giữa.
+
+[Hình: Hình 15.6. Động mạch giáp dưới]
+- Động mạch giáp dưới
+- Thần kinh quặt ngược thanh quản
+- Tuyến cận giáp trên
+- Tuyến cận giáp dưới
+
+- Thần kinh quặt ngược thanh quản có thể ở giữa, trước hoặc sau hai nhánh này, nên khi kẹp động mạch này trong phẫu thuật cắt thùy tuyến giáp phải chú ý đến thần kinh này.
+- Ngoài ra, có thể có động mạch giáp dưới cùng từ thân động mạch tay đầu hoặc cung mạch chủ đi lên phía trước khí quản vào eo tuyến giáp.
+
+**4.2. Tĩnh mạch**
+
+Các tĩnh mạch của tuyến giáp tạo nên một đám rối ở mặt trước ngoài mỗi thùy. Từ đó phát xuất các tĩnh mạch giáp trên và tĩnh mạch giáp giữa, đổ vào tĩnh mạch cảnh trong và tĩnh mạch giáp dưới đổ vào tĩnh mạch tay đầu hoặc tĩnh mạch cảnh trong. Tĩnh mạch giáp dưới cùng khi hiện diện thường đổ vào tĩnh mạch tay đầu trái.
+
+**4.3. Bạch huyết**
+
+Phần lớn bạch huyết tuyến giáp đổ vào các hạch bạch huyết cổ sau trên và dưới.
+
+**4.4. Thần kinh**
+
+Tuyến giáp nhận các nhánh thần kinh từ hạch giao cảm cổ trên (giao cảm) và thần kinh lang thang (đối giao cảm) qua thần kinh thanh quản trên.
+
+# TUYẾN CẬN GIÁP
+
+Tuyến cận giáp (Hình 15.7) là hai cặp tuyến nội tiết màu vàng nâu nhỏ bằng hạt thóc nằm ở mặt sau thùy bên tuyến giáp, trong lớp mô lỏng lẻo giữa bao xơ và mạc tạng. Tuyến cận giáp trên nằm ngang mức sụn nhẫn, ở chỗ nối 1/3 giữa và 1/3 trên mỗi thùy bên.
+
+[Hình: Hình 15.7. Tuyến cận giáp]
+- Thanh quản
+- Tuyến giáp
+- Tuyến cận giáp
+- Động mạch
+- Tĩnh mạch
+- Dây thần kinh thanh quản
+- Khí quản
+- Tuyến cận giáp
+
+Tuyến cận giáp dưới nằm cách cực dưới thùy bên khoảng 1,5 cm về phía trên. Khi tuyến giáp ở vị trí bình thường, một nhánh nối của hai động mạch giáp trên và dưới ở phía sau (Hình 15.8) mỗi thùy tuyến cận giáp là mốc để tìm tuyến cận giáp.
+
+[Hình: Mốc tìm tuyến cận giáp]
+- Hầu họng
+- Tuyến giáp
+- Tuyến cận giáp
+- Động mạch
+- Thực quản
+- Khí quản
+
+**Hình 15.8. Mốc tìm tuyến cận giáp**
+
+Các tuyến cận giáp được cấp máu chủ yếu bởi động mạch giáp dưới. Một mốc khác để tìm các tuyến cận giáp là dựa vào các nhánh nhỏ của động mạch giáp dưới đi vào các tuyến đó (Hình 15.9).
+
+[Hình: Tuyến cận giáp]
+- Tuyến cận giáp
+- Tuyến giáp (từ phía sau)
+- Họng
+- Tuyến giáp
+- Các tuyến cận giáp
+- Thực quản
+- Khí quản
+
+**Hình 15.9. Động mạch giáp dưới cung cấp máu cho tuyến cận giáp**
+
+# TUYẾN THƯỢNG THẬN
+
+**1. ĐẠI CƯƠNG**
+
+Bình thường có hai tuyến thượng thận nằm ở hai bên cột sống và ngay phía trên thận. Tuy gọi là tuyến thượng thận nhưng thật sự chỉ 1/10 tuyến này trùm lên đầu trên thận, còn 9/10 thì nằm dọc theo bờ trong của thận, ngay phía trên rốn thận. Mỗi tuyến thượng thận cân nặng từ 3 – 6 g lúc trưởng thành; lúc mới sinh, tuyến thượng thận hơi to hơn.
+
+[Hình: Tuyến thượng thận, Thận, Phải, Trái, Tuyến thượng thận]
+
+**Hình 15.10. Tuyến thượng thận phải và trái**
+
+**2. HÌNH THỂ BÊN NGOÀI VÀ LIÊN QUAN**
+
+**2.1. Tuyến thượng thận phải.** Tuyến có màu xám vàng, hình tam giác với ba mặt: trước, mặt sau và mặt thận ngồi ở cực trên và bờ trong thận. Phía sau tuyến thượng thận liên quan với cơ hoành. Phía trước, liên quan với vùng gan ngoài phúc mạc và với tĩnh mạch chủ dưới.
+
+**2.2. Tuyến thượng thận trái.** Tuyến thượng thận trái hơi dẹt hơn tuyến thượng thận phải, có hình bán nguyệt và cũng có ba mặt: mặt trước, mặt sau và mặt thận. Liên quan ở phía sau với cơ hoành. Phía trước, tuyến thượng thận được che phủ bởi phúc mạc. Phía dưới là tụy và động mạch lách.
+
+Mỗi tuyến thượng thận có hai bờ: bờ trên và bờ trong. Ở bờ trong có rốn tuyến thượng thận là nơi tĩnh mạch trung tâm tuyến thượng thận đi ra khỏi tuyến.
+
+Tuyến thượng thận được bao bọc chung quanh bởi mạc thận, ở dưới có một trẽ ngang ngăn cách tuyến thượng thận với thận. Tuyến thượng thận có thể nhìn thấy trên phim X-quang bằng cách chụp có bơm hơi vào trong mạc thận.
+
+[Hình: Liên quan của tuyến thượng thận 1. Tuyến thượng thận phải, 2. Tá tràng, 3. Thận phải, 4. Tĩnh mạch chủ dưới, 5. Tuyến thượng thận trái, 6. Đuôi tụy, 7. Tĩnh mạch cửa]
+
+Hình 15.11. Liên quan của tuyến thượng thận 1. Tuyến thượng thận phải, 2. Tá tràng, 3. Thận phải, 4. Tĩnh mạch chủ dưới, 5. Tuyến thượng thận trái, 6. Đuôi tụy, 7. Tĩnh mạch cửa
+
+### 3. HÌNH THỂ TRONG VÀ CHỨC NĂNG
+
+Bổ dọc tuyến thượng thận, ta thấy có hai vùng: bên ngoài là vỏ và bên trong là tủy thượng thận. Mỗi vùng có một chức năng nội tiết riêng, nên trong mỗi tuyến thượng thận có hai tuyến nội tiết. Vỏ thượng thận tiết ra các loại kích thích tố steroid có liên quan tới sự chuyển hóa nước điện giải, chuyển hóa các chất đường, chất đạm. Tủy thượng thận tiết ra các chất epinephrine và norepinephrine, có tác dụng giống như những chất tiết ra từ đầu tận cùng của các thần kinh giao cảm.
+
+[Hình: Hình thể trong tuyến thượng thận]
+- Bề mặt tuyến trên thận
+- Tuyến trên thận
+- Thận
+- Vỏ trên thận
+- Tủy trên thận
+- Màng liên kết
+- Lớp cầu
+- Lớp sợi
+- Lớp lưới
+
+Hình 15.12. Hình thể trong tuyến thượng thận
+
+4. MẠCH VÀ THẦN KINH
+
+4.1. Động mạch. Tuyến thượng thận được cung cấp máu từ:
+- Động mạch thượng thận trên: xuất phát từ động mạch hoành dưới
+- Động mạch thượng thận giữa: xuất phát từ động mạch chủ
+- Động mạch thượng thận dưới: xuất phát từ động mạch thận.
+
+[Hình: Mạch máu thượng thận]
+- Thượng thận phải
+- Thượng thận trái
+- Thận phải
+- Thận trái
+- Động mạch thượng thận trên
+- Động mạch thượng thận giữa
+- Động mạch thượng thận dưới
+- 3
+
+Hình 15.13. Mạch máu thượng thận
+
+4.2. Tĩnh mạch. Phần lớn, máu đầu đổ vào tĩnh mạch trung tâm tuyến thượng thận, tĩnh mạch này ra ở rốn tuyến. Tĩnh mạch trung tâm tuyến thượng thận phải đổ vào tĩnh mạch chủ dưới, tĩnh mạch bên trái dài hơn và đổ vào tĩnh mạch thận trái.
+
+4.3. Bạch mạch. Bạch mạch ít ở vùng vỏ tuyến thượng thận nhưng nhiều ở tủy thượng thận. Các mạch này đi theo các tĩnh mạch và đổ vào hạch bạch huyết lân cận.
+
+4.4. Thần kinh. Từ đám rối tạng và đám rối thận. Hầu hết là các sợi thần kinh giao cảm trước hạch chi phối trực tiếp cho các tế bào tủy thượng thận.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+1. Tuyến giáp có liên quan chặt chẽ về mặt giải phẫu với cấu trúc nào sau đây?
+A. Xương móng
+B. Nang giáp lưỡi
+C. Thần kinh quặt ngược thanh quản
+D. Động mạch cảnh trong
+2. Tuyến thượng thận KHÔNG liên quan với cấu trúc nào sau đây?
+A. Gan
+
+B. Phúc mạc
+C. Tá tràng
+D. Cơ hoành
+
+3. Tuyến thượng thận phải liên quan với cấu trúc nào sau đây?
+A. Đầu tuyến tụy
+B. Tĩnh mạch chủ dưới
+C. Tĩnh mạch cửa
+D. Cơ thắt lưng chậu phải
+
+4. Tuyến thượng thận trái liên quan với cấu trúc nào sau đây?
+A. Tuyến tụy
+B. Tĩnh mạch cửa
+C. Động mạch lách
+D. Cơ hoành
+
+5. Tuyến cận giáp là:
+A. Là tuyến nội tiết nằm ở mặt trước tuyến giáp
+B. Tuyến cận giáp trên nằm ngang mức sụn giáp
+C. Tuyến cận giáp dưới nằm ngang mức sụn nhẫn
+D. Được cấp máu bởi động mạch giáp dưới
+
+TÀI LIỆU THAM KHẢO
+1. Lê Văn Cường (2012). Giải phẫu học hệ thống. Nhà xuất bản Y học TP. HCM.
+2. Nguyễn Quang Quyền (2014). Bài giảng giải phẫu học tập I, tập II. Nhà xuất bản Y học TP. HCM.
+3. Ellis, H., B. Logan, and A. Dixon (1993). Human Cross-Sectional Anatomy: Atlas of Body Sections and CT Images. Butterworth-Heinemann.
+4. Hollinshead, W. H. (1968). Anatomy for Surgeons: Volume 1. The Head and Neck. 2nd Edition. Harper and Row, New York.
+5. Moore K.L (2015). Clinical Oriented Anatomy. 17th edition. Lippicott Williams and Wilkins.
+6. Netter, F. H (2011). Atlas of Human Anatomy. 5th edition. Saunders, Philadelphia.
+7. Putz R., Pabst R. (2008), Sobotta Atlas of Human Anatomy. 14th edition. Elsevier.
+8. Skandalakis, J. E., G. L. Colbor (2004). Surgical Anatomy: The Embryologic And Anatomic Basis Of Modern Surgery. McGraw-Hill, New York.
+
+# HÌNH ẢNH HỌC TUYẾN YÊN BÌNH THƯỜNG TRÊN CỘNG HƯỞNG TỪ
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Mô tả được hình ảnh cộng hưởng từ bình thường của tuyến yên và hố yên.
+2. Mô tả được hình ảnh cộng hưởng từ bình thường của những cấu trúc xung quanh hố yên.
+
+## 1. HÌNH ẢNH HỐ YÊN BÌNH THƯỜNG
+
+Hố yên nằm ở vị trí đường giữa của mặt trên thân xương bướm. Phía trước được giới hạn bởi củ yên và mỏm yên trước của cánh bé xương bướm, phía sau được giới hạn bởi lưng yên và mỏm yên sau. Sàn hố yên là phần mái của xoang bướm. Động mạch cảnh trong đoạn trong xoang hang nằm ở rãnh động mạch cảnh ở phía sau ngoài hai bên hố yên.
+
+Hố yên được lót bởi một lớp màng cứng, ngăn cách tuyến yên với hố yên. Lớp màng cứng giới hạn hai bên của hố yên và tạo thành thành trong của xoang hang hai bên. Phần màng cứng tách ra một phần nhỏ che phủ phía trên gọi là hoành yên. Hoành yên có một lỗ nhỏ cho cuống tuyến yên đi qua.
+
+[Hình: Hố yên được lót bởi một lớp màng cứng]
+- Não thất III
+- Cuống tuyến yên
+- Hoành yên
+- Màng cứng
+- Xoang bướm
+- Hố yên
+- Tuyến yên
+
+**Hình 16.1. Hố yên được lót bởi một lớp màng cứng (Nguồn: Vishram Singh, 2014)**
+
+Cộng hưởng từ (MRI) không ưu thế bằng cắt lớp vi tính (CT) trong việc đánh giá hình ảnh xương (hố yên, xương bướm).
+
+2. HÌNH ẢNH TUYẾN YÊN BÌNH THƯỜNG
+
+2.1. Kĩ thuật khảo sát tuyến yên
+
+MRI là kĩ thuật hình ảnh được lựa chọn trong khảo sát tuyến yên với hai mặt cắt thường sử dụng là mặt phẳng đứng ngang (Coronal) và mặt phẳng đứng dọc (Sagittal) với những lát cắt mỏng (2 – 3 mm) và trường khảo sát nhỏ. Mặt cắt ngang (Axial) để khảo sát bổ sung các cấu trúc lân cận hố yên hoặc phần nhu mô não.
+
+MRI được chụp với các hình:
+- T1W không và có tiêm thuốc tương phản với mặt cắt Sagittal và Coronal
+- T2W không tiêm thuốc tương phản với mặt cắt Coronal
+- Nếu nghi ngờ u tuyến yên kích thước nhỏ: chụp Dynamic sau tiêm thuốc tương phản, với mặt cắt Coronal T1W, quét liên tục, không có cách khoảng giữa các lát cắt.
+
+CT kém nhạy hơn MRI trong khảo sát tuyến yên nhưng có ích trong trường hợp đánh giá sự xâm lấn xương của u tuyến yên hoặc trong chẩn đoán phân biệt các tổn thương xuất phát từ xoang bướm.
+
+2.2. Kích thước tuyến yên
+
+Chiều cao tuyến yên (đo trên mặt cắt Coronal T1W) thay đổi theo tuổi và giới.
+Trẻ trước tuổi dậy thì: chiều cao tuyến yên ≤ 6 mm.
+Trẻ dậy thì và phụ nữ trong độ tuổi sinh sản: chiều cao ≤ 10 mm.
+Phụ nữ mang thai và hậu sản: bờ tuyến yên có thể lồi lên trên, chiều cao ≤ 14 – 15 mm.
+Nam giới và phụ nữ mãn kinh: chiều cao tuyến yên ≤ 8 mm.
+
+Cuống tuyến yên có đường kính khoảng 3 – 4 mm tại vị trí ngang mức giao thoa thị, thuôn nhỏ dần khi đi xuống dưới và có đường kính khoảng 2 mm tại chỗ gắn vào tuyến yên. Đường kính cuống tuyến yên gần bằng đường kính động mạch thân nền ngang mức đó.
+
+2.3. Tín hiệu tuyến yên trên cộng hưởng từ
+
+Có thể phân biệt được thùy trước và thùy sau tuyến yên trên MRI. Thùy trước tuyến yên to hơn thùy sau – thùy trước chiếm khoảng 75 – 80% thể tích toàn bộ tuyến yên. Ở trẻ lớn và người lớn, thùy trước tuyến yên đồng tín hiệu với vỏ não trên cả T1W và T2W, thùy sau thường có tín hiệu cao trên T1W (hình ảnh “bright spot”). Còn ở trẻ sơ sinh, thùy trước tuyến yên có kích thước rất lớn và tín hiệu cao lan tỏa trên chuỗi xung T1W. Cuống tuyến yên đồng tín hiệu với thùy trước tuyến yên.
+
+Tuyến yên và cuống tuyến yên không có hàng rào mạch máu não nên bắt thuốc tương phản nhanh sau tiêm. Cuống tuyến yên bắt thuốc trước, sau đó đến tuyến yên bắt thuốc theo kiểu ly tâm từ trên xuống dưới. Tuyến yên bắt thuốc với tín hiệu nhẹ hơn mạch máu trong xoang hang hai bên. Khó khảo sát tính chất bắt thuốc của thùy sau tuyến yên vì thùy sau tuyến yên có tín hiệu cao sẵn trên T1W.
+
+# Bài 16. Hình ảnh học tuyến yên bình thường trên cộng hưởng từ
+
+[Hình: Thùy trước và thùy sau tuyến yên ở mặt cắt Sagittal với chuỗi xung T1W (mũi tên vàng: thùy trước tuyến yên, mũi tên đỏ: thùy sau tuyến yên với hình ảnh “bright spot”)]
+
+Hình 16.2. Thùy trước và thùy sau tuyến yên ở mặt cắt Sagittal với chuỗi xung T1W (mũi tên vàng: thùy trước tuyến yên, mũi tên đỏ: thùy sau tuyến yên với hình ảnh “bright spot”)
+
+[Hình: Mặt cắt Coronal sau tiêm thuốc tương phản. Cuống tuyến yên (mũi tên cong). Tuyến yên (mũi tên mở) bắt thuốc kém hơn so với xoang hang hai bên (Nguồn: Osborn, Hedlund, Salzman, 2018)]
+
+Hình 16.3. Mặt cắt Coronal sau tiêm thuốc tương phản. Cuống tuyến yên (mũi tên cong). Tuyến yên (mũi tên mở) bắt thuốc kém hơn so với xoang hang hai bên (Nguồn: Osborn, Hedlund, Salzman, 2018)
+
+[Hình: Tuyến yên bắt thuốc tương phản tăng dần kiểu ly tâm trên chuỗi xung T1W có tiêm thuốc tương phản mặt cắt Coronal (Nguồn: www.radiologyassistant)]
+
+Hình 16.4. Tuyến yên bắt thuốc tương phản tăng dần kiểu ly tâm trên chuỗi xung T1W có tiêm thuốc tương phản mặt cắt Coronal (Nguồn: www.radiologyassistant)
+
+2.4. Biến thể giải phẫu
+
+Hố yên trống do hạt màng nhện hoặc khoang dịch não tủy ở bể trên yên lồi vào trong hố yên. Ít khi có triệu chứng lâm sàng. Nhu mô tuyến yên bị ép về phía sau dưới cạnh sàn yên, mất hình dạng bình thường, trở nên phẳng. Trên hình MRI thấy phần tín hiệu dịch bên trong hố yên (tín hiệu thấp trên T1W, tín hiệu cao trên T2W).
+
+[Hình: Hình ảnh hố yên trống (mũi tên trắng) và phần nhu mô tuyến yên ở sát sàn yên (mũi tên hở) (Nguồn: Osborn, Hedlund, Salzman, 2018)]
+
+3. CÁC CẤU TRÚC QUANH HỐ YÊN
+
+Phía trên tuyến yên: bể trên yên, thần kinh thị và giao thoa thị giác.
+
+Phía dưới tuyến yên: xoang bướm.
+
+Hai bên tuyến yên: xoang hang.
+
+Phía sau tuyến yên: động mạch thân nền, khoang Meckel.
+
+3.1. Bể trên yên
+
+Có hình ngôi sao 6 cánh với lát cắt ngang mức cuống não, hình ngôi sao 5 cánh với mức lát cắt ngang mức cầu não. Tín hiệu bể trên yên tương đương dịch não tủy trên các chuỗi xung.
+
+Các thành phần trong bể trên yên:
+
+- Cuống tuyến yên ở trung tâm
+
+- Đa giác Willis
+
+- Giao thoa thị giác
+
+- Dây thần kinh sọ
+
+- Sàn não thất III.
+
+[Hình: Hình 16.6. Hình ảnh bể trên yên trên mặt cắt ngang với chuỗi xung T2W và T1W]
+
+3.2. Xoang hang
+
+Là các xoang tĩnh mạch màng cứng thông với nhau, nằm hai bên hố yên.
+
+Màng cứng xoang hang phía ngoài dày hơn phía trong, bao bọc xoang hang và tách xoang hang khỏi tuyến yên.
+
+Thành phần bên trong xoang hang là động mạch cảnh trong và các dây thần kinh sọ (III, IV, V1, V2, VI).
+
+Dây VI là dây thần kinh thật sự nằm trong xoang hang, phía dưới ngoài động mạch cảnh trong.
+
+Dây III, IV, V1, V2 nằm ở trong thành ngoài xoang hang theo thứ tự từ trên xuống dưới.
+
+Xoang hang bắt thuốc tương phản mạnh đồng nhất sau tiêm thuốc tương phản.
+
+[Hình: Hình 16.7. Hình ảnh xoang hang với động mạch cảnh trong và các dây thần kinh sọ (Nguồn: Osborn, Hedlund, Salzman, 2018)]
+
+[Hình: Hình 16.8. Hình ảnh xoang hang trên hình T2W]
+
+[Hình: Hình 16.9. Hình ảnh xoang hang bắt thuốc tương phản sau tiêm]
+
+### 3.3. Xoang bướm
+
+Xoang bướm nằm trong thân xương bướm. Kích thước, hình dạng và mức độ khí hóa của xoang bướm thay đổi theo từng người. MRI hạn chế khảo sát thành xoang bướm so với CT.
+
+[Hình: Hình 16.10. Hình ảnh xoang bướm trên CT và MRI]
+
+3.4. Giao thoa thị giác
+
+Giao thoa thị giác nằm phía trước cuống tuyến yên trong bể trên yên. Thần kinh thị, giao thoa thị giác và dải thị tạo thành chữ X trên mặt phẳng Axial.
+
+[Hình: Hình 16.11. Hình ảnh giao thoa thị giác trên hình T1W mặt cắt Sagittal]
+
+[Hình: Hình 16.12. Hình ảnh giao thoa thị giác trên hình T2W mặt cắt Axial]
+
+[Hình: Hình 16.13. Hình ảnh giao thoa thị giác trên hình T2W mặt cắt Coronal]
+
+# HÌNH ẢNH HỌC TUYẾN GIÁP VÀ TUYẾN THƯỢNG THẬN
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Nhận diện được hình ảnh của tuyến giáp bình thường trên siêu âm.
+2. Nhận diện được hình ảnh tuyến thượng thận bình thường trên siêu âm, CT-scan và MRI.
+
+## 1. TUYẾN GIÁP
+
+### 1.1. Kỹ thuật khảo sát
+
+- Đầu dò Linear 7,5 – 15 MHz
+- Tư thế thăm khám: bệnh nhân nằm ngửa, bộc lộ rộng vùng cổ, tháo bỏ đồ trang sức nếu có, kê đệm hoặc gối dưới cổ và vai nằm để cổ ưỡn cao
+- Kỹ thuật thăm khám: bắt đầu với lát cắt ngang kéo từ trên xuống dưới dọc theo khí quản để đánh giá tổng quát chung về tình trạng tuyến giáp. Sau đó, đánh giá từng thùy tuyến giáp và eo.
+
+[Hình: Hình minh họa tư thế bệnh nhân và các vị trí đặt đầu dò siêu âm]
+
+[Hình: Hình 17.1. Kỹ thuật siêu âm tuyến giáp. (a): đầu dò ở vị trí cắt ngang. (b): đầu dò ở vị trí cắt dọc tuyến giáp (c): đầu dò ở vị trí khảo sát cực dưới. (d): đầu dò ở vị trí cắt dọc thùy phải tuyến giáp]
+
+Bài 17. Hình ảnh học tuyến giáp và tuyến thượng thận ♦ 191
+
+1.2. Giải phẫu siêu âm tuyến giáp và các cấu trúc vùng cổ
+
+- Hình thái và vị trí:
+    + Tuyến giáp có hình chữ H, gồm hai thùy phải trái, kết nối với nhau qua phần eo tuyến. Mỗi thùy tuyến có hình tháp, gồm ba mặt là mặt trước - ngoài, mặt trong và mặt sau, nằm dọc hai bên của thanh quản, khí quản. Các thùy thường không cân đối, bên phải thường lớn hơn bên trái. Eo tuyến mảnh, nối hai thùy với nhau nằm trước khí quản. Toàn bộ tuyến giáp nằm dưới xương móng.
+    + Trên siêu âm:
+        - Nhu mô tuyến giáp có cấu trúc đồng nhất, mịn, tăng âm nhẹ so với các cấu trúc cơ ức đòn chũm. Trong nhu mô tuyến có thể thấy các cấu trúc ống mạch hình tròn, bầu dục có ranh giới rõ có thành đó là tĩnh mạch
+        - Tuyến giáp được cấp máu từ các động mạch giáp trên thuộc động mạch cảnh ngoài, động mạch giáp giữa và mạch giáp dưới thuộc động mạch thân giáp cổ, nhánh lớn của động mạch dưới đòn. Động mạch, tĩnh mạch giáp trên thấy ở cực trên và động mạch, tĩnh mạch giáp dưới thấy ở cực dưới mỗi thùy tuyến giáp.
+
+[Hình: A, B]
+- A: Hình ảnh siêu âm tuyến giáp, Tr (trachea): khí quản, C (carotid artery): động mạch cảnh, J (jugular vein): tĩnh mạch cảnh
+- B: Hình giải phẫu tuyến giáp
+    - Nhóm cơ dưới móng
+    - Khí quản
+    - Tuyến giáp
+    - Tĩnh mạch cảnh trong
+    - Cơ ức - đòn - chũm
+    - Thực quản
+    - Cơ cổ dài
+    - Động mạch cảnh chung
+    - C VII
+
+Hình 17.2. Vị trí giải phẫu của tuyến giáp và các cấu trúc lân cận
+
+(A): hình ảnh siêu âm tuyến giáp, Tr (trachea): khí quản, C (carotid artery): động mạch cảnh, J (jugular vein): tĩnh mạch cảnh - (B): hình giải phẫu tuyến giáp
+
++ Kích thước:
+    - Hình dạng và kích thước các thùy tuyến giáp rất thay đổi ở người bình thường. Các kích thước này tăng theo trọng lượng, đặc biệt chiều cao cơ thể và theo lứa
+
+tuổi. Trẻ sơ sinh, mỗi thùy tuyến giáp có kích thước dọc khoảng 18 – 20 mm, ngang 8 – 9 mm. Trẻ một tuổi, mỗi thùy có kích thước dọc khoảng 25 mm, ngang từ 12 – 15 mm. Người trưởng thành, các kích thước tương ứng khoảng 30 – 60 mm và ngang 13 – 18 mm, eo dày khoảng 4 – 6 mm
+
+- Thể tích của mỗi thùy được tính theo công thức:
+
+$$V = \text{chiều cao} \times \text{chiều dày} \times \text{chiều rộng} \times 0,5$$
+
+Theo công thức này thì: V trung bình của trẻ sơ sinh 0,4 – 1,4 cm³ (mL), tăng dần mỗi 1 – 1,3 cm³ (mL)/10 kg cân nặng. Người trưởng thành, thể tích tuyến giáp tăng trung bình khoảng từ 10 – 11 ± 3 cm³.
+
+## 2. TUYẾN THƯỢNG THẬN
+
+### 2.1. Các phương tiện chẩn đoán hình ảnh
+- Siêu âm: độ nhạy kém, thường không thấy khi tuyến bình thường
+- CT-scan: là phương pháp được lựa chọn đầu tiên
+- MRI: là một trong những phương tiện đánh giá sự liên quan đến các cấu trúc lân cận
+- PET, PET/CT chỉ định chính trong phát hiện di căn.
+
+### 2.2. Giải phẫu
+- Tuyến thượng thận nằm sau phúc mạc, tiếp giáp với mặt trên thận
+- Tuyến thượng thận có hình tháp dài 4 cm, rộng 3 cm và dày 0,8 cm
+- Tuyến được bao bọc bởi lớp vỏ fibrin. Tuyến cấu tạo gồm hai phần: phần vỏ và phần tủy tương ứng với các tuyến nội tiết khác nhau
+- Tuyến thượng thận phải nằm sau tĩnh mạch chủ dưới và liên quan với mặt sau gan, nằm trước trụ cơ hoành phải
+- Tuyến thượng thận trái liên quan với tụy ở phía trước, lách ở phía ngoài, động mạch chủ và trụ cơ hoành ở phía trong.
+
+### 2.3. Hình ảnh tuyến thượng thận trên CT-scan
+- Là phương pháp được chọn lựa đầu tiên. Độ dày lát cắt là 3 – 5 mm, sử dụng thuốc cản quang đường tĩnh mạch. Chụp các phim không tiêm thuốc và phim tiêm thuốc khảo sát ở các mặt cắt Axial hoặc Coronal
+- Tuyến thượng thận có hình chữ V hay chữ Y. Ở thì động mạch tuyến bắt thuốc nhanh hơn gan, thì tĩnh mạch thải thuốc bằng với gan. Đậm độ tương đương với cơ và tăng quang ít hơn gan.
+
+[Hình: Hình 17.3. Hình ảnh tuyến thượng thận trên CT-scan không cản quang. Tuyến thượng thận phải: hình chữ V. Tuyến thượng thận trái: hình chữ Y]
+
+[Hình: Hình 17.4. Hình ảnh tuyến thượng thận trên CT-scan có tiêm cản quang. a: mặt cắt axial, b: mặt cắt coronal. Tuyến thượng thận tăng quang (mũi tên trắng)]
+
+## 2.4. Hình ảnh tuyến thượng thận trên MRI
+
+- Đây là phương pháp rất tốt để nghiên cứu hình về hình thái các hố thượng thận trong trường hợp u lớn, đặc biệt để khẳng định chẩn đoán nhờ nghiên cứu nhiều hướng khác nhau để thấy sự liên quan của u với các cơ quan lân cận.
+
+- Thường sử dụng hai chuỗi xung T1 và T2 với hai mặt cắt axial, coronal. Chụp phim trước và sau khi tiêm thuốc cản từ
+
+- Về hình thái tuyến thượng thận giống với phim CT-scan.
+
+[Hình: Hình 17.5. Hình ảnh tuyến thận thận trên MRI. Tuyến thượng thận phải (mũi tên trắng) – tuyến thượng thận trái (mũi tên đen)]
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn một câu đúng
+
+1. Chữ A là cấu trúc gì?
+
+[Hình: Ảnh siêu âm vùng cổ, chú thích A chỉ vào cấu trúc cơ]
+
+A. Động mạch cảnh chung
+B. Cơ cổ dài
+C. Khí quản
+D. Thực quản
+
+Bài 17. Hình ảnh học tuyến giáp và tuyến thượng thận ♦ 195
+
+2. Chữ A là cấu trúc gì?
+
+[Hình: Siêu âm tuyến giáp, chữ A chỉ cấu trúc mạch máu nằm phía sau tuyến giáp]
+
+A. Động mạch cảnh chung
+B. Cơ cổ dài
+C. Khí quản
+D. Cơ ức đòn chũm
+
+3. Mũi tên trắng là cấu trúc gì?
+
+[Hình: Cắt lớp vi tính bụng, mũi tên trắng chỉ tuyến thượng thận phải]
+
+A. Thận phải
+B. Tuyến thượng thận phải
+C. Túi mật
+D. Tĩnh mạch cửa
+
+4. Mũi tên chỉ là cấu trúc gì?
+
+[Hình: Mặt cắt Axial vùng bụng trên]
+
+A. Mặt cắt Axial của tuyến thượng thận trái
+B. Mặt cắt Axial của tuyến thượng thận phải
+C. Động mạch thận trái
+D. Động mạch thận phải
+
+TÀI LIỆU THAM KHẢO
+
+1. Carol M.Rumack, Stephanie R.Wilson, J.William Charboneau (2019). The Thyroid Gland. Diagnostic ultrasound. 5th edition. Elservier:692- 694.
+2. Carol M.Rumack, Stephanie R.Wilson, J.William Charboneau (2019). The Adrenal Glands, Diagnostic ultrasound. 5th edition. Elservier:1775- 1831.
+
+# ĐẠI THỂ, VI THỂ MỘT SỐ CƠ QUAN TRONG BỆNH ĐÁI THÁO ĐƯỜNG
+
+**MỤC TIÊU HỌC TẬP**
+
+> 1. Mô tả và phân biệt được tổn thương vi thể ở tụy thường gặp trong đái tháo đường típ 1 và típ 2.
+> 2. Mô tả một số tổn thương cơ quan đích của bệnh lý đái tháo đường:
+>    - Biến chứng: trên mạch máu lớn đái tháo đường, xơ vữa động mạch hyaline hóa
+>    - Bệnh lý dày màng đáy ở (lắng đọng collagen típ IV): mao mạch da, cơ vân, võng mạc, cầu thận, tủy thận.
+
+**TỪ KHÓA – ĐỐI CHIẾU THUẬT NGỮ VIỆT – ANH**
+
+| Tiếng Việt | Tiếng Anh |
+| :--- | :--- |
+| Dạng tinh bột | Amyloid |
+| Đại thực bào | Macrophage |
+| Tế bào T, lympho bào T | T cell |
+| Xơ vữa | Atherosclerosis |
+| Tiểu đảo beta | Islet beta |
+| Tế bào beta | Beta cell |
+| “bao fibrin” | “fibrin cap” |
+| Tăng nhãn áp (cườm nước) | glaucoma |
+| Đục thủy tinh thể (cườm khô) | Cataract |
+| Thể mi | Cilliary body |
+| Phần ụ (thể mi) | Pars plicata |
+| Bệnh tăng nhãn áp tân sinh mạch | Neovascular glaucoma |
+| “bao fibrin” | “fibrin cap” |
+| “giọt dạng vỏ bao” | “capsular drops” |
+| Chứng thất điều điệu bộ | gait ataxia |
+| Chứng giảm linh hoạt bàn tay | hand clumsiness |
+| Chứng loạn vận ngôn | Dysarthria |
+| Bệnh võng mạc không tiến triển | Nonproliferative diabetic retinopathy |
+| Bệnh võng mạc tiến triển | Proliferative diabetic retinopathy |
+
+197
+
+1. GIỚI THIỆU
+
+- Bệnh đái tháo đường là một nhóm rối loạn chuyển hóa có cùng các đặc điểm tăng glucose huyết. Trong đó có hai nhóm chính là đái tháo đường típ 1 và típ 2.
+
+- Bệnh lý đái tháo đường típ 1 là bệnh tự miễn đặc trưng bởi hiện tượng phá hủy cấu trúc tiểu đảo beta dẫn đến thiếu hụt insulin tuyệt đối. Trong khi đó, đái tháo đường típ 2 do sự đề kháng insulin làm mất chức năng tế bào beta dẫn đến tình trạng thiếu hụt insulin tương đối.
+
+- Tổn thương mô tả vi thể – đại thể trong bệnh lý đái tháo đường gồm tổn thương tại tụy và tổn thương tại cơ quan đích. Khi tình trạng bệnh kéo dài, biến chứng của hai típ này ở các cơ quan đích (mạch máu, thận, thần kinh và mắt) giống nhau.
+
+- Tại tụy, biến đổi tế bào liên quan bệnh sinh đái tháo đường gây ra do biến đổi tế bào beta tụy và tiểu đảo beta tụy. Hai hiện tượng chính đó là (1) viêm tiểu đảo tụy (hiện tượng viêm gây ra bởi tế bào T và đại thực bào) và (2) mất tế bào beta tụy, teo đét tiểu đảo.
+
+- Tại các cơ quan khác ngoài tụy: tổn thương lâu dài không hồi phục (biến chứng mạn tính) trong bệnh lý đái tháo đường bao gồm hai hiện tượng chính đó là: (1) lắng đọng dạng tinh bột ở tiểu đảo tụy và (2) mất một lượng nhỏ tế bào beta (kín đáo hoặc nhẹ).
+
+2. TỔN THƯƠNG TẠI TỤY
+
+Tổn thương vi thể ở tụy trong bệnh lý đái tháo đường típ 1 và típ 2 thường thay đổi tùy cá thể, tùy giai đoạn bệnh lý và ít có giá trị trong chẩn đoán đái tháo đường. Bao gồm:
+
+- Giảm số lượng và kích thước tiểu đảo tụy
+
+- Thấm nhập bạch cầu mạn tính trong tiểu đảo: nặng và rõ hơn ở típ 1
+
+- Hiện tượng thoái hóa dạng tinh bột: giai đoạn phụ thuộc insulin của đái tháo đường típ 2.
+
+Riêng trong trường hợp thai kỳ, mẹ có biểu hiện đái tháo đường thai kỳ, tụy ở thai nhi lại có khuynh hướng tăng sản tiểu đảo tụy.
+
+Bài 18. Đại thể, vi thể một số cơ quan trong bệnh đái tháo đường ♦ 199
+
+[Hình: Đái tháo đường típ 1 tại tụy: có thể thấy hiện tượng thấm nhập lympho bào quanh tiểu đảo và trong tiểu đảo beta tụy. Đám tế bào tuyến đa diện màu hồng vẫn còn rõ cấu trúc vi thể. Cấu trúc của các nang tụy ngoại tiết còn nguyên vẹn]
+
+[Hình: Đái tháo đường típ 2 tại tụy. Hiện tượng lắng đọng (thoái hóa) dạng tinh bột trên tiểu đảo beta teo đét có thể gặp trong giai đoạn sớm bệnh đái tháo đường típ 2. Chú ý có thấy một ít rải rác tế bào lympho quanh tiểu đảo, đây là hiện tượng thứ phát. Cấu trúc của các nang tụy ngoại tiết còn nguyên vẹn]
+
+3. TỔN THƯƠNG CƠ QUAN ĐÍCH (BIẾN CHỨNG MẠN TÍNH)
+
+3.1. Tổn thương mạch máu lớn do đái tháo đường
+
+Đái tháo đường gây nên tổn thương sớm và nghiêm trọng trên hệ thống mạch máu, dẫn đến hiện tượng xơ vữa động mạch và nhóm tử vong do bệnh tim mạch khác. Đây cũng là yếu tố tử vong hàng đầu cho bệnh nhân đái tháo đường liên quan đến tình trạng tăng glucose huyết đề kháng và đề kháng insulin trên mạch máu, gây rối loạn chức năng tế bào nội mô mạch máu kích thước trung bình và lớn. Nhồi máu cơ tim cũng là biến chứng muộn của đái tháo đường (do tổn thương xơ vữa động mạch vành), hoại tử chi dưới (tổn thương hệ mạch ngoại biên) và tổn thương thận.
+
+Tuy nhiên, tổn thương loại này không khác biệt so với bệnh tim mạch do nguyên nhân khác.
+
+3.2. Xơ vữa mạch máu hyaline hóa
+
+Liên quan với tình trạng tăng huyết áp thứ phát trên bệnh nhân đái tháo đường, làm dày thành mạch hyalin hóa, chít hẹp lòng mạch (Hình 18.3).
+
+[Hình: Hình 18.3. Tổn thương cơ quan đích tại cầu thận (nhuộm periodic acid-Schiff): xơ vữa mao mạch cầu thận]
+
+3.3. Bệnh lý vi mạch do đái tháo đường
+
+Do (1) hiện tượng dày màng đáy (nhất là ở tổ chức da, cơ vân, võng mạc cầu thận và tủy thận, nang Bowman, thần kinh ngoại vi và bánh nhau trên thai kỳ) và (2) hiện tượng thất thoát protein huyết tương (Hình 18.4). Tình trạng này có thể gặp ở người bình thường lớn tuổi, tuy nhiên, trên bệnh nhân đái tháo đường, tình trạng này diễn tiến nhanh và nặng hơn.
+
+[Hình: Hình 18.4. Tổn thương cơ quan đích tại ống thận (nhuộm periodic acid-Schiff): màng đáy ống thận dày hơn hẳn (bắt màu tím hồng)]
+
+### 3.4. Bệnh thận do đái tháo đường
+
+Là biến chứng thứ phát sau bệnh tim mạch gồm: (1) tổn thương cầu thận (dày màng đáy, xơ hóa mô kẽ và xơ hóa nốt cầu thận) (Hình 18.5); (2) tổn thương mạch máu thận (xơ vữa) và (3) tổn thương ở viêm hoại tử tủy thận.
+
+3.4.1. Xơ hóa mô đệm kẽ: lan tỏa, sau đó tiến triển khu trú thành dạng nốt. Tình trạng này xảy ra trong giai đoạn sớm của bệnh đái tháo đường liên quan với hiện tượng mất protein niệu.
+
+3.4.2. Xơ hóa cầu thận dạng nốt: còn gọi là xơ hóa gian mao mạch (bệnh Kimmelstiel-Wilson): chiếm từ 15 – 30% biến chứng muộn của bệnh nhân đái tháo đường gây suy thận mạn. Tổn thương do hiện tượng ly giải (hủy) mô đệm kẽ và/hoặc mao mạch cầu thận. Tổn thương ly giải mao mạch cầu thận rải rác có thể gây phình vi thể mao mạch và thay đổi áp suất máu nội mao mạch cũng như dòng chảy. Trong giai đoạn tiến triển, hai hiện tượng này thường diễn ra song song nên tình trạng hyalin hóa (thoái hóa trong) lõi mao mạch cầu thận (“bao fibrin”) và dính vào bao Bowman (“giọt dạng vỏ bao”). Kết thúc hiện tượng này với tình trạng thiếu máu thận, gây teo đét ống thận và xơ hóa mô kẽ.
+
+[Hình: Hình 18.5. Tổn thương tại cầu thận (nhuộm periodic acid-Schiff): xơ hóa dạng nốt cầu thận, các vị trí cục bắt màu hồng mất tế bào mô đệm kẽ]
+
+3.4.3. Viêm tủy thận: cấp hoặc mạn tính, viêm từ mô đệm kẽ đến viêm cả ống thận. Trong trường hợp cấp tính có thể có hoại tử tủy thận (hoại tử dạng nhú).
+
+3.5. Biến chứng mắt ở bệnh nhân đái tháo đường
+
+- Phân loại dựa trên hình thái đơn thuần: (1) Biến chứng cấu trúc vi thể của nhãn cầu; (2) Đục thủy tinh thể (cườm khô) hay tăng nhãn áp (cườm nước) gây tổn thương thần kinh thị và (3) Tổn thương võng mạc do tổn thương vi mạch máu.
+
+- Biến chứng mắt chủ yếu do tổn thương vi mạch: tình trạng tăng glucose huyết làm dày màng đáy biểu mô ụ thể mi, tương tự như ở cầu thận.
+
+- Phân loại biến chứng ở võng mạc bệnh nhân đái tháo đường: có thể phân loại thành tổn thương không tiến triển và tổn thương tiến triển: (1) Bệnh võng mạc không tiến triển: nhóm tổn thương cấu trúc và chức năng các mạch máu phân bố ở nhãn cầu và (2) Bệnh võng mạc tiến triển: do tăng sản mạch máu mới từ đầu thần kinh thị hay bề mặt võng mạc (gây bóc tách võng mạc).
+
+Bài 18. Đại thể, vi thể một số cơ quan trong bệnh đái tháo đường ♦ 203
+
+[Hình: Hình 18.6. Biến chứng ở thể mi nhãn cầu trong bệnh lý đái tháo đường (nhuộm periodic acid-Schiff): màu hồng tím không tế bào là phần màng đáy dày trên biểu mô phù của thể mi]
+
+3.6. Bệnh thần kinh do đái tháo đường
+
+Có thể gặp trong đến 80% bệnh nhân đái tháo đường sau 15 năm hoặc chiếm một nửa trong bệnh nhân đái tháo đường tùy giai đoạn bệnh. Bao gồm: (1) xơ vữa động mạch liên quan tuần hoàn não và các biến chứng thứ phát; (2) Bệnh viêm màng não do nấm, liên quan tình trạng suy giảm miễn dịch (ở bệnh nhân đái tháo đường chủ yếu mucormycosis) và (3) Bệnh Friedreich Ataxia: có thể gặp trong 25% bệnh nhân đái tháo đường, bệnh di truyền lặn trên nhiễm sắc thể thường gây nên tình trạng co cứng, yếu, giảm nhạy cảm thần kinh và bệnh cơ tim, thường trong 10 năm đầu tiên của bệnh, gây chứng thất điều điệu bộ, chứng giảm linh hoạt bàn tay và loạn vận ngôn.
+
+NỘI TIẾT HỌC CƠ BẢN
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+Chọn một câu đúng
+
+[Hình: Hình 1]
+
+[Hình: Hình 2]
+
+1. Hình 1: Hiện tượng bệnh lý vi thể này được mô tả trong đái tháo đường được gọi là:
+A. Hiện tượng hyaline hóa
+B. Hiện tượng thoái hóa dạng tinh bột
+C. Hiện tượng thấm nhập tế bào T và đại thực bào
+
+Bài 18. Đại thể, vi thể một số cơ quan trong bệnh đái tháo đường ♦ 205
+
+D. Hiện tượng xơ hóa
+
+2. Hình 1: Hình ảnh bệnh lý tại tiểu đảo tụy này phù hợp nhất với:
+A. Đái tháo đường típ 1 – giai đoạn sớm
+B. Đái tháo đường típ 1 – giai đoạn đã có biểu hiện lâm sàng
+C. Đái tháo đường típ 2 – giai đoạn sớm
+D. Đái tháo đường típ 2 – giai đoạn phụ thuộc insulin
+
+3. Hình 2: Hình ảnh bệnh lý ngoài tụy trong bệnh đái tháo đường được gọi tên là:
+A. Xơ hóa màng đáy ống thận
+B. Dày màng đáy ống thận
+C. Dày màng đáy cầu thận
+D. Xơ hóa màng đáy cầu thận
+
+4. Hình 2: Hình ảnh bệnh lý ngoài tụy trong bệnh đái tháo đường típ nào?
+A. Đái tháo đường típ 1
+B. Đái tháo đường típ 2
+C. Đái tháo đường típ 1 và típ 2
+D. Đái tháo đường thai kỳ hoặc ở trẻ nhi
+
+TÀI LIỆU THAM KHẢO
+1. Edward C. Klatt. Robbins and Cotran (2013). *Atlas of Pathology*. 3rd ed. Elservier Saunders.
+2. Vinay Kumar, Abul K. Abbas, Jon C. Aster (2015). *Robbins and Cotran Pathologic Basis of Disease*. 9th ed. Elservier, Saunder.
+3. Robin Reid, Fiona Roberts, Elaine Macduff (2011). *Pathology Illustrated*. 7th ed. Churchill Livingstone.
+
+# ĐẶC ĐIỂM ĐẠI THỂ VÀ MÔ BỆNH HỌC MỘT SỐ BỆNH LÝ CỦA TUYẾN GIÁP
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Xác định mô học bình thường tại cơ quan.
+2. Xác định đặc điểm đại thể và mô bệnh học (vi thể) các vùng bệnh lý: viêm giáp lympho bào mạn tính Hashimoto, phình giáp và bệnh Graves (Basedow), u túi tuyến.
+3. Xác định các đặc điểm vi thể của từng tiêu bản bệnh lý.
+
+**TỪ KHÓA – ĐỐI CHIẾU THUẬT NGỮ VIỆT – ANH**
+
+| Tiếng Việt | Tiếng Anh |
+| :--- | :--- |
+| Viêm giáp lympho bào mạn tính Hashimoto | Chronic Lymphocytic Thyroiditis |
+| Phình giáp | Diffuse and Multinodular Goiter |
+| Bệnh Graves (Basedow) | Graves Disease |
+| U túi tuyến | Follicular adenoma |
+| Cường giáp | Hyperthyroidism |
+| Suy giáp | Hypothyroidism |
+| Viêm giáp | Thyroiditis |
+| U tân sinh của tuyến giáp | Thyroid neoplasms |
+| (Nhóm) U tuyến | Adenomas |
+| (Nhóm) Carcinoma | Carcinomas |
+| Phình giáp lan tỏa | Diffuse goiter |
+| Phình giáp đa nhân (phình giáp hạt) | Multinodular goiter |
+| Tế bào viêm đơn nhân | Mononuclear cell |
+| Xơ hóa (tăng sản sợi) | Fibrosis |
+| Đa kiểu hình | Polymorphism |
+| Tự – kháng – thể | Auto-antibody |
+
+Các tổn thương tuyến giáp không u (phình giáp đơn thuần hay viêm giáp) có thể gây nhầm lẫn trên lâm sàng với nhóm u lành và u ác hoặc ngược lại. Nhận biết đại thể và/hoặc vi thể trong học tập và nghiên cứu bệnh lý không u và u ở tuyến giáp có giá trị quan trọng.
+
+Bài 19. Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp ♦ 207
+
+trong chẩn đoán và điều trị bệnh giáp. Vì vậy trong nhiều trường hợp, ngoài việc phối hợp với lâm sàng, mẫu vi thể, đại thể cũng như mẫu sinh thiết kim nhỏ (tế bào học) góp phần đáng kể trong việc chẩn đoán xác định, chẩn đoán phân biệt và gợi ý hướng điều trị tích cực cho bệnh nhân bên cạnh các thông tin lâm sàng và cận lâm sàng khác.
+
+Túi tuyến giáp có thể biến đổi lành tính với hình thái biểu mô đơn dạng khối vuông, trụ thấp hay trụ cao chứa keo giáp (thyroglobulin, tiền thân protein iodine của hormone giáp hoạt động. Nhận biết mô học lành tính của túi tuyến giáp trên vi thể được xem là từ khóa quan trọng trong việc phân biệt giữa tổn thương biến đổi lành tính, u lành và u ác của tuyến giáp.
+
+1. VIÊM GIÁP LYMPHO BÀO MẠN TÍNH HASHIMOTO
+
+1.1. Giới thiệu
+
+Viêm giáp là thuật ngữ mô tả nhóm bệnh viêm tuyến giáp/rối loạn khả hồi ở tuyến giáp nói chung. Gồm ba nhóm bệnh lý thường gặp: viêm giáp Hashimoto, viêm giáp hạt (de Quervain) và viêm giáp lympho bào bán cấp.
+
+Viêm giáp Hashimoto là bệnh tự miễn phá hủy cấu trúc tuyến giáp tiến triển dần dẫn đến Hội chứng suy giáp. Bệnh viêm giáp Hashimoto được bác sĩ Hakaru Hashimoto mô tả lần đầu năm 1912. Nguyên nhân thường gặp nhất trên thế giới là tình trạng thiếu iod, xuất độ cao nhất ở độ tuổi 45 – 65 và ưu thế nữ rõ rệt 10:1 đến 20:1 tùy vùng dịch tễ (nữ:nam). Viêm giáp Hashimoto ở trẻ em có thể gặp không liên quan đến yếu tố dịch tễ.
+
+1.2. Đặc điểm đại thể (Hình 19.1)
+
+Tuyến giáp to lan tỏa, đôi khi có to khu trú. Vỏ bao giáp còn nguyên vẹn, cấu trúc các thùy giáp vẫn giới hạn rõ với các cấu trúc giải phẫu lân cận. Mặt cắt nhợt vàng sậm, chắc, cảm giác có các nốt to (hạt).
+
+1.3. Đặc điểm vi thể (Hình 19.2, 19.3 và 19.4)
+
+- Tăng sản mô lympho lành tính: bao gồm lympho bào nhỏ, tương bào với trung tâm mầm rõ
+
+- Tế bào chuyển sản: Hurthle. Cấu trúc túi tuyến teo đét, thay thế rải rác bởi tế bào to, bào tương nhiều, hạt ái toan (chuyển sản tế bào Hurthle, chuyển sản phồng bào)
+
+- Xơ hóa: mô đệm kẽ vẫn có thể còn nhiều, hiện tượng xơ hóa chỉ giới hạn trong vỏ bao xơ giáp (khác với viêm giáp Reidel).
+
+[Hình: Viêm giáp lympho bào mạn tính: tuyến giáp to lan tỏa. Vỏ bao giáp còn nguyên vẹn, cấu trúc các thùy giáp vẫn giới hạn rõ. Mặt cắt nhợt màu hơn và có các nốt nhỏ rải rác tương tự như trong phình giáp hạt (phình giáp đa nhân)]
+
+Hình 19.1. Viêm giáp lympho bào mạn tính: tuyến giáp to lan tỏa. Vỏ bao giáp còn nguyên vẹn, cấu trúc các thùy giáp vẫn giới hạn rõ. Mặt cắt nhợt màu hơn và có các nốt nhỏ rải rác tương tự như trong phình giáp hạt (phình giáp đa nhân)
+
+[Hình: Lược đồ mô tả viêm giáp Hashimoto: tuyến giáp thấm nhập lan tỏa lympho bào, một số cấu trúc túi tuyến bị phá hủy và một số có hiện tượng chuyển sản phồng bào (chuyển sản tế bào Hurthle)]
+
+Hình 19.2. Lược đồ mô tả viêm giáp Hashimoto: tuyến giáp thấm nhập lan tỏa lympho bào, một số cấu trúc túi tuyến bị phá hủy và một số có hiện tượng chuyển sản phồng bào (chuyển sản tế bào Hurthle)
+
+# Bài 19. Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp 209
+
+[Hình: Hình 19.3. Viêm giáp lympho bào mạn tính: gồm các nang lympho tăng sản]
+
+[Hình: Hình 19.4. Viêm giáp lympho bào mạn tính: tế bào túi tuyến chuyển sản phồng bào (tế bào Hurthle) (A). Có thể có hiện tượng teo đét biểu mô túi tuyến và thay thế bởi dân số tế bào viêm, có thể thấy một phần mô đệm xơ hóa (bên phải cùng) (B)]
+
+## 1.4. Ứng dụng lâm sàng
+
+Viêm giáp Hashimoto thường biểu hiện phình giáp lan tỏa kèm với biểu hiện nhược giáp ở nữ trung niên. Tuyến giáp to thường đều hai bên hoặc đôi khi một bên, gây nhầm lẫn với u tân sinh tuyến giáp. Tình trạng nhược giáp thường tiến triển chậm hoặc kèm với hội chứng phình giáp độc, tăng free T3 và T4, TSH không tăng, giảm hấp thu iodine phóng xạ. Khi có hiện tượng suy giáp rõ, T3 và T4 thấp kèm theo tăng TSH bù trừ.
+
+Người bệnh viêm giáp Hashimoto thường tăng nguy cơ kèm với bệnh tự miễn khác như đái tháo đường típ 1 và bệnh ngoài hệ nội tiết (lupus hệ thống, nhược cơ và hội chứng Sjogren). Ngoài ra, có thể kèm với nguy cơ mắc bệnh lymphoma tế bào B áo nang ngoài hạch. Ung thư biểu mô đi kèm với viêm giáp Hashimoto có thể là carcinoma tuyến giáp dạng nhú tuy mối liên hệ chưa được hiểu rõ.
+
+2. PHÌNH GIÁP
+
+2.1. Giới thiệu
+
+Phình giáp gây ra do rối loạn tổng hợp hormone tuyến giáp, trong đó nguyên nhân thường gặp do thiếu iod trong chế độ ăn.
+
+2.2. Đặc điểm bệnh sinh
+
+2.3. Đặc điểm đại thể – vi thể (Hình 19.5)
+
+Phình giáp (không độc) bao gồm pha tăng sản và pha chế tiết keo giáp.
+
+- Ở pha tăng sản: tuyến giáp to lan tỏa đối xứng, có thể có kích thước 100 – 150 mg. Túi tuyến giáp có dạng tế bào trụ cao, cũng có thể tạo nhú không trục liên kết mạch máu như trong bệnh Graves (xem thực hành phình giáp và bệnh Graves).
+
+- Ở pha chế tiết keo giáp đặc: (phình giáp keo) bề mặt tuyến giáp nâu, hơi bóng mờ đục. Biểu mô túi tuyến trở nên dẹt hoặc vuông. Có thể tìm thấy nhiều vùng chứa keo giáp đặc trong pha này.
+
+Tăng sản tuyến giáp lặp đi lặp lại kèm theo phình giáp không đều có thể tạo nên dạng bệnh lý phình giáp đa cục hay phình giáp cục (phình giáp đa nhân), có thể phình giáp cục xuất phát từ phình giáp lan tỏa tiến triển lâu dài và đôi khi nhầm lẫn u tân sinh tuyến giáp trên lâm sàng.
+
+[Hình: Hình 19.5. Phình giáp: pha tăng sản (A) túi tuyến giáp có dạng tế bào trụ cao, có thể tạo nhú nhỏ không có trục liên kết mạch máu. Pha chế tiết keo giáp đặc: các túi tuyến không đều, biểu mô trở nên vuông (trụ thấp) hay dẹt hơn (B)]
+
+2.4. Ứng dụng lâm sàng
+
+Trong giai đoạn sớm của phình giáp đơn thuần, tuyến giáp gần như bình thường vì vậy mà chỉ phát hiện bệnh khi tuyến giáp đã to lan tỏa. T3 và T4 bình thường trong khi TSH thường tăng. Riêng ở trẻ em mắc bệnh phình giáp trong rối loạn di truyền hormone bẩm sinh gây ra do hiện tượng khiếm khuyết sinh tổng hợp hormon giáp có thể gây nhược giáp bẩm sinh.
+
+Bài 19. Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp 211
+
+**3. PHÌNH GIÁP ĐỘC HAY BỆNH GRAVES (BASEDOW)**
+
+**3.1. Giới thiệu**
+
+Bệnh Graves là nguyên nhân phổ biến nhất gây hội chứng cường giáp nội sinh, bao gồm các vấn đề lâm sàng: cường giáp lan tỏa, lồi mắt lan tỏa, bệnh da liễu khu trú trên một số trường hợp có phù niêm trước xương chày. Bệnh thường gặp ở độ tuổi 20 – 40, nữ gấp 10 lần so với nam giới.
+
+**3.2. Đặc điểm đại thể**
+
+Tuyến giáp to lan tỏa đối xứng do sự tăng sản tế bào túi tuyến giáp, có khi đạt tới trọng lượng 80 g. Trên mẫu bệnh phẩm cắt mỏng, nhu mô giáp mềm giống như cấu trúc cơ.
+
+**3.3. Đặc điểm vi thể (Hình 19.6 và 19.7)**
+
+**3.3.1. Hiện tượng tăng sản tuyến**
+
+Tế bào túi tuyến giáp trên bệnh nhân Graves chưa điều trị có dạng tế bào cao, chen chúc hơn so với túi tuyến giáp bình thường. Tăng sản biểu mô túi tuyến thường tạo nhú nhỏ, nhô vào lòng nang tuyến, đẩy keo giáp vào trong.
+
+**3.3.2. Túi tuyến giáp dãn rộng chứa keo giáp đặc: có khi nhú lấp đầy lòng túi tuyến.**
+
+Nhú trong bệnh Graves không có trục liên kết mạch máu (khác biệt trong carcinoma tuyến giáp dạng nhú). Chất keo giáp đặc nhạt màu hơn và hình thành kiểu vỏ sò (hình ảnh giả ngày trước được gọi là “không bào tái hấp thu”). Tế bào lympho lan tỏa chủ yếu tế bào T, rải rác có tế bào B và tương bào trong mô đệm kẽ và có các trung tâm mầm.
+
+[Hình: Hình 19.6. Lược đồ mô tả bệnh Graves (biểu hiện phình giáp tăng sản hay phình giáp độc trên lâm sàng)]
+
+[Hình: Hình 19.7. Bệnh Graves: kèm thấm nhập tế bào viêm mạn, một số có tăng sản tạo nhú không trục liên kết mạch máu (phần ½ trên của hình). Hình gắn kèm cho thấy một số tế bào túi tuyến thoái hóa có nhân tăng sắc dị dạng, hạt nhân nhỏ, nhưng không mang tính chất hóa ác hay ác tính (A) và xơ hóa ra phía ngoài cơ vân lân cận (dễ nhầm với ác tính trên lâm sàng (B)]
+
+### 3.4. Ứng dụng lâm sàng
+
+Điều trị tiền phẫu thay đổi dựa trên mô học bệnh Grave. Có thể dùng iodine để làm biểu mô túi tuyến phục hồi và tích trữ keo giáp bằng cách giảm tiết thyroglobulin. Dùng hormone kháng giáp để tăng biểu hiện phì đại giáp và tăng sản tuyến giáp qua việc kích thích tiết TSH.
+
+Có thể tăng sản mô lympho ngoài giáp trên bệnh nhân trẻ. Có thể kèm phì đại cơ tim trên bệnh nhân có bệnh mạch vành trước đó. Ở bệnh nhân có lồi mắt, tổ chức mô học nhãn cầu phù nề do hiện diện của mucopolysaccharides và có thể kèm thấm nhập lympho bào xơ hóa. Cơ nhãn cầu phù nề và xơ hóa gây nên tình trạng lồi mắt. Có thể có hiện tượng dày da bì do lắng đọng glycoaminoglycans và lympho bào.
+
+## 4. NHÓM TỔN THƯƠNG TÂN SINH LÀNH TÍNH: U TÚI TUYẾN
+
+### 4.1. Giới thiệu
+
+Nhóm u tân sinh của tuyến giáp có thể sờ thấy hoặc không sờ thấy (tuyến giáp vẫn như có vẻ bình thường). Các cục ở giáp cần được chẩn đoán phân biệt là phình giáp cục hay nang giáp hay viêm giáp khu trú dạng cục hay tổn thương u tân sinh thật sự. Trong đó, tỉ lệ u lành trên u ác là 10:1 và nhóm ác tính ở giáp cũng có tiên lượng khá tốt, 90% có khả năng sống trên 20 năm sau điều trị.
+
+Nhóm u lành là u túi tuyến của tuyến giáp, dạng u đặc chế tiết, cần chẩn đoán phân biệt trên lâm sàng tăng sản dạng nốt (phình giáp) hay ung thư dạng túi tuyến. Đa phần u túi tuyến không có biểu hiện chức năng, một số gây nên tình trạng viêm giáp độc, độc lập với kích thích của TSH.
+
+Bài 19. Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp ♦ 213
+
+**4.2. Đặc điểm đại thể (Hình 19.8)**
+
+U túi tuyến điển hình có dạng đặc, hình khối tròn (cầu), có vỏ bao, giới hạn rõ với nhu mô giáp lành xung quanh, phân biệt với phình giáp đa nhân. U túi tuyến có kích thước trung bình khoảng 3 cm, nhưng có khi tới 10 cm hoặc hơn. Trên lát cắt đại thể mẫu u tươi, mặt cắt của u túi tuyến chắc đặc hơn so với mô lành xung quanh. Mặt cắt u màu xám trắng đến đỏ nâu, phụ thuộc vào mật độ tế bào u túi tuyến tăng sản và chất keo giáp đặc tạo thành. Nhiều vùng xuất huyết, xơ hóa, calci hóa hay biến đổi nang, thường gặp ở u có kích thước lớn tương tự như phình giáp cục.
+
+[Hình: A, B]
+
+Hình 19.8. U túi tuyến của tuyến giáp: u túi tuyến giáp có vỏ bao rõ giới hạn với mô giáp bình thường màu nâu xung quanh, một phần vỏ bao trắng nhạt do có vôi hóa viền. Mặt cắt u có nhiều màu sắc từ vàng xám đến vàng sáng và hóa nang xuất huyết trong nang (A). Trên mẫu chưa cố định, u túi tuyến có màu hơi bóng do chứa keo giáp loãng tới đặc (sậm màu đến nhạt màu, bên trong tạo vách giả màu trắng kèm hóa nang có xuất huyết cũ (màu nâu đậm) (B)
+
+**4.3. Đặc điểm vi thể (Hình 19.9)**
+
+Tăng sản các túi tuyến: đơn dạng chứa keo giáp trong các nang giáp, vùng u giới hạn rõ với mô giáp lành xung quanh. Tế bào u có thể thay đổi về kích thước hình dạng tế bào và hình dạng nhân ở mức độ thấp (khó nhận diện trên vật kính nhỏ) và hiếm gặp phân bào (thường không có phân bào). Đôi khi có thể thấy tế bào chuyển sản phồng bào (tế bào Hurthle cell khu trú như trong viêm giáp Hashimoto).
+
+Vỏ bao sợi dày rõ ngăn cách với các túi tuyến giáp bình thường bên ngoài là đặc điểm quan trọng phân biệt với carcinoma túi tuyến hay carcinoma dạng nhú biến thể túi tuyến (có xâm nhập vỏ bao và/hoặc mạch máu; kèm theo các đặc điểm khác như phân bào và hoại tử).
+
+[Hình: A, B]
+
+Hình 19.9. U túi tuyến của tuyến giáp: mặt cắt nhuộm hematoxylin-eosin của u túi tuyến, vỏ bao sợi màu hồng còn nguyên vẹn, một phần vỏ bao méo mó vẫn giới hạn rõ, do có hiện tượng hóa nang xô lệch vào trong (A). Trên độ phóng đại lớn (20x) mô u bao gồm các túi tuyến có kích thước không đều, chú ý các túi tuyến đều chứa keo giáp hồng (B)
+
+## 4.4. Ứng dụng lâm sàng
+
+U túi tuyến thường là một khối không đau một bên thùy giáp và có khi phát hiện khi khám kiểm tra sức khỏe định kỳ. Tổn thương tăng kích thước có thể gây nên một số triệu chứng lâm sàng tại chỗ như khó nuốt. U túi tuyến không chức năng cũng hấp thu ít iod phóng xạ tương tự tuyến giáp bình thường, nên được gọi là nhân giáp lạnh. Có thể khảo sát hay đánh giá tổn thương giáp trên siêu âm hay sinh thiết kim nhỏ (fine needle aspiration, FNA).
+
+> Lưu ý quan trọng: chẩn đoán vi thể giải phẫu bệnh vỏ bao u là yếu tố quyết định phân biệt giữa u túi tuyến và tổn thương ác tính xâm nhập vỏ bao, vì vậy, chẩn đoán xác định u túi tuyến chỉ có thể sau khi khảo sát toàn bộ vỏ bao u trên vi thể giải phẫu bệnh. Và vì vậy, u túi tuyến nên được phẫu thuật lấy trọn để chẩn đoán phân biệt/loại trừ ác tính, dù u túi tuyến có tiên lượng rất tốt, không tái phát hay di căn.
+
+Bài 19. Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp ♦ 215
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn một câu đúng
+
+[Hình: Hình 1]
+
+1. Hình 1: Hình ảnh này phù hợp với bệnh lý nào nhất?
+A. Hội chứng cường giáp
+B. Viêm giáp Hashimoto
+C. Phình giáp tăng sản (phình giáp tuyến)
+D. U túi tuyến của tuyến giáp
+
+2. Hình 1: Cấu trúc trong dấu khoanh tròn vàng là gì?
+A. Mạch máu tăng sản
+B. Túi tuyến giáp
+C. Nang lympho
+D. Các đám tế bào chết theo lập trình
+
+3. Hình 1: Chất màu hồng được đánh dấu sao là gì?
+A. Chất hoại tử xuất huyết
+B. Keo giáp
+C. Màu nhuộm ứ đọng
+D. Tế bào chết
+
+4. Hình 1: Cấu trúc được khoanh tròn xanh là gì?
+A. Túi tuyến giáp tăng sản
+B. Túi tuyến giáp trong giới hạn bình thường
+C. Túi tuyến giáp thoái hóa
+D. Túi tuyến giáp có hiện tượng chuyển sản phồng bào
+
+# TÀI LIỆU THAM KHẢO
+
+1. Trần Phương Hạnh, Nguyễn Sào Trung (2010). *Giải phẫu bệnh học*. Nhà xuất bản Y học TP. HCM.
+2. Edward C. Klatt (2013). *Robbins and Cotran Atlas of Pathology*. 3rd ed. Elservier Saunders.
+3. Vinay Kumar, Abul K. Abbas, Jon C. Aster (2015). *Robbins and Cotran Pathologic Basis of Disease*. 9th ed. Elservier, Saunders.
+4. David S.Strayer, Emanuel Rubin (2014). *Rubin's pathology Clinicopathologic Foundations of Medicine*. 7th ed. Wolter Kluwer.
+5. Robin Reid, Fiona Roberts, Elaine Macduff (2011). *Pathology Illustrated*. 7th ed. Churchill Livingstone.
+6. Michael H. Ross (2010). Wojciech Pawlina: *Histology. A text and Atlas, with correlated cell and molecular biology*. 6th ed. LWW.
+7. Ricardo V. Lloyd, Robert Y. Osamura, Gunter Klpppel, Juan Rosai (2017). *WHO classification of Tumours of Endocrine Organs (Medicine)*. 4th ed. World Health Organization.
+8. Visual Survery of Surgical Pathology [online]. Available: http://www.webpathology.com/atlas-map.asp?section=15. [Accessed 6. 2020].
+9. Tumours: Pathology and Figures: [online]. Available: http://www.pathologyoutlines.com/ [Accessed 6.2020].
+
+# ĐẶC ĐIỂM VI THỂ TUYẾN THƯỢNG THẬN
+
+**MỤC TIÊU HỌC TẬP**
+
+*Mô tả được cấu tạo vi thể của tuyến thượng thận.*
+
+Tuyến thượng thận nằm ở cực trên của thận, vùi bên trong mô mỡ và có cấu trúc dẹt hình bán nguyệt. Ở người, tuyến thượng thận dài khoảng 4 – 6 cm, rộng khoảng 1 – 2 cm và dày khoảng 4 – 6 cm. Cả hai tuyến thượng thận cân nặng khoảng 8 g, trọng lượng và kích thước tuyến thượng thận thay đổi theo độ tuổi và tình trạng sinh lý của từng cá thể.
+
+Tuyến thượng thận được bọc ngoài bởi vỏ mô liên kết đặc, từ đây có các bè mô liên kết mang mạch máu và thần kinh vào nhu mô tuyến thượng thận.
+
+Nhu mô tuyến thượng thận gồm có hai vùng đồng tâm: thượng thận vỏ màu vàng, khá dày nằm ngay dưới lớp vỏ mô liên kết đặc và thượng thận tủy mỏng, có màu nâu thẫm nằm ở giữa.
+
+Thượng thận vỏ và thượng thận tủy có thể được xem như là hai cơ quan khác biệt nhau về nguồn gốc phôi thai, chức năng và những đặc trưng cấu trúc vi thể đã được hợp nhất lại trong quá trình phát triển phôi. Thượng thận vỏ có nguồn gốc từ trung bì và thượng thận tủy có nguồn gốc từ mào thần kinh. Cả thượng thận vỏ và thượng thận tủy đều có cấu tạo kiểu lưới, các mao mạch đều là mao mạch kiểu xoang.
+
+[Hình: Cấu trúc vi thể tuyến thượng thận. (Nguồn: Junqueira's Basic Histology, Text and Atlas, 2018)]
+
+- Vỏ mô liên kết đặc
+- Thượng thận vỏ
+- Thượng thận tủy
+- Vùng cầu
+- Vùng bó
+- Vùng lưới
+
+Hình 20.1. Cấu trúc vi thể tuyến thượng thận. (Nguồn: Junqueira's Basic Histology, Text and Atlas, 2018)
+
+217
+
+# 1. THƯỢNG THẬN VỎ
+
+Thượng thận vỏ tạo thành một tuyến bao bọc xung quanh thượng thận tủy.
+
+Các tế bào thượng thận vỏ có những đặc trưng của các tế bào chế tiết steroid, như bào tương ưa acid chứa nhiều giọt mỡ với nhân tế bào ở trung tâm. Dưới kính hiển vi điện tử, bào tương có nhiều lưới nội bào không hạt chứa enzyme cần thiết để tổng hợp cholesterol và chuyển đổi dạng tiền hormone pregnenolone thành những dạng hormone steroid hoạt động. Các ty thể trong bào tương có dạng hình cầu và cấu trúc bên trong có dạng ống thay vì dạng các mào răng lược. Các ty thể này không chỉ tổng hợp ATP mà còn chứa các enzyme cần thiết để chuyển đổi cholesterol thành pregnenolone, cũng như tham gia vào một số bước trong quá trình tổng hợp steroid. Các hormone steroid được tổng hợp không tích lũy ở dạng hạt như các protein, cũng như không được vận chuyển theo kiểu xuất bào. Do là những phân tử lipid nhỏ có thể hòa tan, các steroid này sẽ khuếch tán qua màng bào tương.
+
+Dưới kính hiển vi quang học, thượng thận vỏ được chia thành ba vùng từ ngoài vào giữa gồm có vùng cầu, vùng bó và vùng lưới.
+
+[Hình: Cấu trúc siêu vi tế bào thượng thận vỏ. L: giọt mỡ, M: ty thể, SER: lưới nội bào trơn, N: nhân, G: bộ Golgi. (Nguồn: Junqueira’s Basic Histology, text and atlas, 2018)]
+
+Hình 20.2. Cấu trúc siêu vi tế bào thượng thận vỏ. L: giọt mỡ, M: ty thể, SER: lưới nội bào trơn, N: nhân, G: bộ Golgi. (Nguồn: Junqueira’s Basic Histology, text and atlas, 2018)
+
+## 1.1. Vùng cầu
+
+Nằm ngang sát vỏ xơ, chiếm 15% khối lượng của thượng thận nói chung.
+
+Trong vùng này các tế bào tuyến tập trung thành cuộn, cầu hoặc đám tế bào, tạo nên những “tiểu cầu” với những mao mạch máu kèm theo.
+
+Tế bào vùng cầu có bào tương hơi ưa acid, nhân hình cầu nằm giữa. Trong bào tương chứa ít hạt mỡ nhỏ. Lưới nội bào không hạt rất phát triển.
+
+Các tế bào vùng cầu tiết ra các mineralocorticoid (aldosterone sơ cấp) có vai trò duy trì và cân bằng chất điện giải và nước. Aldosterone tác động trên các tế bào của ống lượn xa trong tiểu cầu thận, niêm mạc dạ dày, tuyến nước bọt và tuyến mồ hôi để kích hoạt tái hấp thu muối Na⁺ ở các vị trí này, cũng như kích hoạt đào thải muối K⁺ ở thận.
+
+Vùng cầu cũng chịu ảnh hưởng phản hồi từ hệ thống renin – angiotensin – aldosterone. Khi huyết áp giảm hoặc lượng muối Na⁺ trong máu giảm, các tế bào cận tiểu cầu thận giải phóng renin để xúc tác quá trình chuyển đổi angiotensinogen thành angiotensin I, sau đó enzyme chuyển đổi angiotensin (angiotensin converting enzyme) ở phổi sẽ chuyển đổi angiotensin I thành angiotensin II. Angiotensin II sẽ kích thích các tế bào vùng cầu sản xuất và chế tiết aldosterone.
+
+## 1.2. Vùng bó
+
+Vùng dày nhất, chiếm 65 – 80% khối lượng của tuyến thượng thận.
+
+Tế bào vùng này lớn hơn, có dạng đa diện, nhân nằm giữa và thường gặp những tế bào có hai nhân. Tế bào vùng bó cũng mang đặc trưng của những tế bào chế tiết steroid với lưới nội bào không hạt rất phát triển (hơn cả tế bào ở vùng cầu) và bên trong ty thể có những mào dạng ống. Ngoài ra, do hệ Golgi khá phát triển và nhiều lưới nội bào hạt nên có vài chỗ trong bào tương tế bào ưa base nhẹ. Bào tương có nhiều giọt mỡ chứa các chất béo trung hòa, acid béo, cholesterol và phospholipid là những tiền chất của các hormone steroid được tiết ra từ những tế bào vùng bó.
+
+Tế bào vùng bó chủ yếu chế tiết các glucocorticoid giúp điều hòa chuyển hóa glucose và acid béo. Sự chế tiết này được điều hòa bởi ACTH.
+
+Các tế bào tập trung thành các dây thẳng, có bề dày là 1 – 2 tế bào, chạy theo hướng vuông góc với vỏ xơ, từ vùng cầu vào vùng lưới. Giữa các dây tế bào là một ít mô liên kết với mao mạch kiểu xoang.
+
+## 1.3. Vùng lưới
+
+Là lớp trong cùng của thượng thận vỏ, nằm giữa vùng bó và thượng thận tủy.
+
+Tế bào vùng lưới có kích thước nhỏ hơn tế bào ở hai vùng trên, chúng xếp thành các dây không đều và nối với nhau thành lưới.
+
+Bào tương tế bào có khá ít giọt mỡ, nhiều hạt sắc tố lipofuscin khá lớn, nhiều lưới nội bào trơn và nhiều ty thể dài với những mào hình ống, nhưng ít lưới nội bào hạt.
+
+Tế bào vùng lưới chủ yếu chế tiết gonadocorticoid (như adrenal androgen) và cũng được điều hòa bởi ACTH.
+
+## 2. THƯỢNG THẬN TỦY
+
+Thượng thận tủy có các tế bào đa diện xếp thành dải hay cụm tế bào, được nâng đỡ bởi cấu trúc lưới. Các mao mạch máu ở sâu bên trong và xen giữa các dải tế bào kế nhau, ngoài ra còn có vài tế bào hạch thần kinh hiện diện.
+
+Tế bào nhu mô tủy thượng thận (tế bào ưa crom) có nguồn gốc từ mào thần kinh (từ các neuron hậu hạch của các hạch giao cảm và phó giao cảm). Các tế bào nhu mô tủy thượng thận có thể được xem là các biến thể của các neuron hậu hạch giao cảm đã mất đi các sợi trục và sợi nhánh trước sinh và chuyển thành các tế bào chế tiết.
+
+Các tế bào nhu mô tủy thượng thận chứa nhiều hạt điện tử đậm với đường kính khoảng 150 – 350 nm, dự trữ và chế tiết các chất trung gian dẫn truyền thần kinh như catecholamine (epinephrine hoặc norepinephrine). Các tế bào chế tiết epinephrine có hạt chế tiết nhỏ hơn, ít đậm điện tử hơn và chất tiết chiếm đầy hạt tiết. Trong khi đó, các tế bào chế tiết norepinephrine có hạt chế tiết to, đậm điện tử hơn và chất tiết trong hạt tiết không đồng đều.
+
+Các tế bào thượng thận tủy tiếp nhận thần kinh bởi các tận cùng thần kinh của các neuron giao cảm tiền hạch. Khác với thượng thận vỏ, các tế bào thượng thận tủy tổng hợp và tích trữ các hormone bên trong các hạt chế tiết.
+
+[Hình: Cấu trúc siêu vi thể tế bào thượng thận tủy. E: tế bào chế tiết epinephrine, NE: tế bào chế tiết norepinephrine. (Nguồn: Histology, a text and atlas, 2016)]
+
+Hình 20.3. Cấu trúc siêu vi thể tế bào thượng thận tủy. E: tế bào chế tiết epinephrine, NE: tế bào chế tiết norepinephrine. (Nguồn: Histology, a text and atlas, 2016)
+
+3. SỰ PHÂN BỐ MẠCH MÁU TUYẾN THƯỢNG THẬN
+
+Tuyến thượng thận có các động mạch đi vào tại các điểm ở quanh tuyến. Các nhánh này tạo nên đám rối động mạch dưới bao, từ đây sẽ cho ra ba nhóm động mạch:
+
+- Động mạch vỏ xơ
+
+- Động mạch thượng thận vỏ, có phân nhánh đi xen giữa các dây tế bào tuyến tạo ra các mao mạch máu và đổ vào các mao mạch ở thượng thận tủy
+
+- Động mạch thượng thận tủy: đi qua vùng vỏ rồi mới chia nhánh tạo lưới mao mạch trong vùng tủy.
+
+Có hai nguồn máu phân bố cho thượng thận tủy gồm máu động mạch (qua động mạch thượng thận tủy) và máu tĩnh mạch (qua động mạch thượng thận vỏ). Lớp nội mô của các mao mạch rất mảnh với nhiều lỗ thủng có màng bịt mỏng. Màng đáy đơn không liên tục ở bên dưới lớp nội mô. Các mao mạch thượng thận tủy cùng với mao mạch thượng thận vỏ tạo nên tĩnh mạch thượng thận.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn một câu đúng
+
+1. Tế bào ở vùng nào của tuyến thượng thận có vai trò duy trì cân bằng nước và điện giải?
+A. Vùng cầu
+B. Vùng bó
+C. Vùng lưới
+D. Vùng tủy
+
+2. Tế bào nào ở thượng thận tủy có nguồn gốc từ mào thần kinh?
+A. Tế bào chính
+B. Tế bào ưa acid
+C. Tế bào ưa base
+D. Tế bào ưa crom
+
+3. Tế bào ở vùng nào của tuyến thượng thận chủ yếu chế tiết glucocorticoids?
+A. Vùng cầu
+B. Vùng bó
+C. Vùng lưới
+D. Vùng tủy
+
+4. Bào tương của tế bào ở vùng nào của tuyến thượng thận chứa nhiều giọt mỡ?
+A. Vùng cầu
+B. Vùng bó
+C. Vùng lưới
+D. Vùng tủy
+
+TÀI LIỆU THAM KHẢO
+
+1. Mescher (2018). *Junqueira's Basic Histology, Text and Atlas, 15th edition*. McGraw-Hill education.
+2. Wojciech Pawlina (2016). *Histology: A Text and Atlas with Correlated Cell and Molecular Biology. 7th edition*. Wolters Kluwer.
+
+# ĐÁP ÁN CÂU HỎI LƯỢNG GIÁ
+
+Bài 1. Giới thiệu chung về hệ nội tiết
+1.C 2.B 3.A 4.B
+
+Bài 2. Trục hạ đồi – tuyến yên – tuyến nội tiết đích
+1.C 2.B 3.E 4.D
+
+Bài 3. Sinh lý hormone tăng trưởng
+1.A 2.B 3.B 4.D
+
+Bài 4. Sinh lý hormone thượng thận
+1.C 2.C 3.A 4.B
+
+Bài 5. Sinh lý hormone giáp
+1.B 2.C 3.C 4.B
+
+Bài 6. Sinh lý hormone tụy nội tiết
+1.C 2.D 3.C 4.C
+
+Bài 7. Điều hòa cân bằng calci và phosphate
+1.C 2.D 3.B 4.B
+
+Bài 8. Sinh lý bệnh đái tháo đường
+1.A 2.B 3.D 4.C
+
+Bài 9. Sinh lý bệnh hội chứng cường giáp, suy giáp
+1.A 2.B 3.B 4.C 5.C
+
+Bài 10. Sinh lý bệnh suy thượng thận mạn
+1.B 2.C 3.B 4.B
+
+Bài 11. Sinh lý bệnh hội chứng cushing
+1.A 2.B 3.C 4.D
+
+Bài 12. Dược lý thuốc điều trị bệnh đái tháo đường
+1.D 2.B 3.B 4.A
+
+Bài 13. Dược lý của nhóm thuốc glucocorticoid
+1.A 2.C 3.D 4.C
+
+Bài 14. Dược lý thuốc điều trị rối loạn chức năng tuyến giáp
+1.C 2.C 3.A 4.C
+
+Bài 15. Giải phẫu tuyến giáp, tuyến cận giáp, tuyến thượng thận
+1.C 2.C 3.B 4.B 5.D
+
+Bài 16. Hình ảnh học tuyến yên bình thường trên cộng hưởng từ
+1.D 2.B 3.B 4.C
+
+Bài 17. Hình ảnh học tuyến giáp và tuyến thượng thận
+1.B 2.D 3.B 4.A
+
+Bài 18. Đại thể, vi thể một số cơ quan trong bệnh đái tháo đường
+1.B 2.D 3.B 4.C
+
+Bài 19. Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp
+1.B 2.C 3.B 4.B
+
+Bài 20. Đặc điểm vi thể tuyến thượng thận
+1.A 2.D 3.B 4.B
+
+# BẢNG TRA TỪ
+
+A
+
+ACTH, 7, 13, 14, 18, 19, 21, 22, 23, 36, 37, 40, 41, 62, 104, 107-117, 119, 120, 219
+
+Aldosterone, 3, 5, 6, 12, 34-37, 44, 80, 104, 107, 109, 219
+
+Amiodarone, 95
+
+Amylin, 125, 139
+
+Amylin analog, 139
+
+B
+
+Bạch huyết, 175
+
+Bệnh Addison, 78, 104-106, 108, 111
+
+Bệnh Graves, 78, 163, 206, 210, 211
+
+Bệnh lý vi mạch do đái tháo đường, 200
+
+Bệnh thận do đái tháo đường, 201
+
+Bệnh thần kinh do đái tháo đường, 203
+
+Béo phì, 115
+
+Bể trên yên, 184
+
+Biến chứng mắt ở bệnh nhân đái tháo đường, 202
+
+Biguanide, 133
+
+Bướu giáp đa nhân độc, 95
+
+C
+
+Các u tiết hCG, 93, 95
+
+Calci huyết tương, 71, 72, 75
+
+Chức năng của hormone, 4, 39, 42, 51
+
+Chức năng duy trì sự hằng định nội môi, 4
+
+Chức năng sinh sản, 5
+
+Chức năng tăng trưởng, 4
+
+Chuyển hóa glucid, 29, 39, 50, 52
+
+Chuyển hóa lipid, 21, 29, 38, 39, 52, 60
+
+Chuyển hóa protid, 29, 39, 52
+
+Cơ chế điều hòa ngược âm tính, 32, 92
+
+Cơ chế điều hòa ngược âm tính, 14, 49
+
+Cơ chế tác động của các hormone tan trong nước, 7
+
+Cơ chế tác động của hormone catecholamine tại tế bào đích, 42
+
+Cơ chế tác động của hormone cortisol tại tế bào đích, 38
+
+Cường giáp do nhân độc tuyến giáp, 95
+
+Cường giáp tại tuyến giáp, 93
+
+Cường giáp thứ phát, 93, 95
+
+Cuống tuyến yên, 13, 19, 181, 182, 183, 184, 189
+
+D
+
+Dấu ấn tự miễn dịch, 81
+
+Đ
+
+Đái tháo đường, 78-81, 83, 84, 86, 88, 90, 119, 130, 148, 199, 200, 205
+
+Đái tháo đường do đột biến DNA ty thể, 79
+
+Đái tháo đường người trẻ khởi phát lúc trưởng thành, 79
+
+Đái tháo đường típ 1A, 78
+
+Đái tháo đường típ 1B, 78
+
+Đái tháo đường típ 2, 79, 80, 84, 86, 130, 199, 205
+
+Đảo tụy nội tiết Langerhans, 55
+
+Điều hòa bài tiết GH, 31, 32
+
+Điều hòa bài tiết glucagon, 64
+
+Điều hòa bài tiết hormone giáp, 49
+
+Điều hòa nồng độ glucose huyết, 65
+
+Động mạch, 18, 19, 170, 172-176, 179-181, 191, 194, 196, 220, 221
+
+Động mạch yên dưới, 18
+
+Động mạch yên trên, 18
+
+**F**
+
+FSH, 5, 7, 13, 14, 16, 18, 19, 21-24, 110, 117
+
+**G**
+
+GH, 4, 9, 13, 14, 18, 19, 21, 22, 24, 28-33, 61, 64, 65, 110, 118, 125
+
+Giảm hoạt tính insulin do khiếm khuyết gen, 79, 80
+
+Glucagon, 63, 65, 124, 125
+
+Glucocorticoid, 5, 21-23, 34, 37-39, 104, 105, 107, 110, 113-120, 141-153, 219, 223
+
+Glucose huyết tương, 87
+
+Glucose nước tiểu, 87
+
+**H**
+
+Hệ nội tiết, 2, 12
+
+Hiệu ứng incretin, 124
+
+Hình ảnh "bright spot", 182, 183
+
+Hoạt động cân bằng calci, 67, 70, 72, 73
+
+Hoạt động cân bằng phosphate, 73
+
+Hội chứng Allan-Herndon-Dudley, 155
+
+Hội chứng Beckwith-Wiedemann, 114
+
+Hội chứng Carney, 114
+
+Hội chứng Cushing, 112, 113, 114, 115, 116
+
+Hội chứng Cushing không phụ thuộc ACTH, 114, 115
+
+Hội chứng Cushing ngoại sinh, 113, 119
+
+Hội chứng Cushing nội sinh, 113, 115, 119, 147
+
+Hội chứng Cushing phụ thuộc ACTH, 113, 115
+
+Hội chứng giảm miễn dịch mắc phải, 106
+
+Hội chứng Li-Fraumeni, 114
+
+Hội chứng Sheehan, 97, 99, 105, 107
+
+Hội chứng Wolfram, 79
+
+Hôn mê suy giáp, 162
+
+Hormone aldosterone, 35, 36, 37
+
+Hormone calcitonin, 3, 45, 46, 72
+
+Hormone calcitriol, 67, 71
+
+Hormone catecholamine, 41, 42, 43, 50
+
+Hormone có bản chất là steroid, 6
+
+Hormone cortisol, 13, 15, 31, 34, 38, 39, 41, 104
+
+Hormone của tuyến yên, 17, 18, 22
+
+Hormone của tuyến yên sau, 20
+
+Hormone của tuyến yên trước, 18, 21, 22
+
+Hormone giáp, 4, 6, 46, 53, 157
+
+Hormone glucagon, 63
+
+Hormone glucocorticoid, 37
+
+Hormone insulin, 56, 60
+
+Hormone mineralocorticoid, 35
+
+Hormone PTH, 70
+
+Hormone somatostatin, 64
+
+Hormone tan trong lipid, 6, 7, 9-12, 50
+
+Hormone tan trong nước, 5-8
+
+Hormone thượng thận, 34
+
+Hormone TSH điều hòa chức năng tuyến giáp, 23
+
+Hormone tụy nội tiết, 55
+
+Hố yên, 181, 184
+
+**I**
+
+Insulin, 55-60, 65, 79, 81, 112, 122-130, 140, 227
+
+Insulin aspart, 128
+
+Insulin dạng hít, 129
+
+Insulin degludec, 129
+Insulin detemir, 128
+Insulin glargine, 128
+Insulin glulisine, 128
+Insulin lispro, 127
+Insulin tác dụng kéo dài, 128
+Insulin tác dụng ngắn, 128
+Insulin tác dụng nhanh, 127
+Insulin tác dụng trung bình, 128
+
+**K**
+Khoang Meckel, 188
+
+**L**
+Lao thượng thận, 106
+LH, 5, 7, 13, 14, 16, 18, 19, 21-24, 110, 117
+Lớp bó, 34
+Lớp cầu, 34, 178
+Lớp lưới, 34, 178
+Lộ trình tín hiệu AMP vòng, 8
+Lộ trình tín hiệu phosphatidylinositol, 8
+
+**M**
+Mặt cắt ngang (Axial), 182
+Mặt cắt Sagittal, 182, 183, 187
+Mặt phẳng đứng dọc (Sagittal), 182
+Mặt phẳng đứng ngang (Coronal), 182
+Meglitinide, 132
+
+**N**
+Nghiệm pháp dung nạp uống 75 gam glucose, 88
+Nghiệm pháp hạ glucose huyết bằng insulin, 110
+Nhân cạnh não thất, 17, 20
+Nhân trên thị, 17, 20
+Nhiễm độc giáp, 92, 93, 95
+Nhiễm độc giáp thoáng qua, 95
+Nồng độ glucose huyết, 65
+
+**P**
+Phân tử DAG, 9
+Phân tử IP3, 8
+Phình giáp, 210, 211
+Phình giáp độc hay bệnh Graves (Basedow), 211
+Prolactin, 13, 14, 24
+
+**Q**
+Quá tải iod, 95
+Que thử ceton nước tiểu và ceton máu mao mạch, 87
+
+**R**
+Rối loạn chức năng tuyến giáp, 154, 223
+
+**S**
+Sinh tổng hợp hormone aldosterone, 35
+Sinh tổng hợp hormone catecholamine, 42
+Sinh tổng hợp hormone T3 và T4, 47
+Sinh tổng hợp và chuyển hóa cortisol, 37
+Sinh tổng hợp và sự tiết các hormone tan trong lipid, 6
+Somatostatin, 19, 31, 125
+Sulfonylureas, 131
+Suy giáp, 97, 98, 102, 161-163, 206
+Suy giáp bẩm sinh, 97, 98, 102
+Suy giáp do thuốc, 163
+Suy giáp nguyên phát, 97, 98
+Suy giáp sau điều trị, 97, 98
+Suy giáp thoáng qua, 97, 98
+Suy giáp thứ phát, 97
+
+Suy giáp tự miễn, 97, 98
+
+Suy giáp và bệnh động mạch vành, 162
+
+Suy giáp và thai kỳ, 162
+
+Suy thượng thận mạn, 104, 105, 106, 111, 223
+
+Suy thượng thận nguyên phát, 104-106, 110, 111
+
+Suy thượng thận thứ phát, 104, 105, 107, 111
+
+Suy tuyến yên, 97, 105
+
+# T
+
+Tác động của các hormone tan trong lipid, 9
+
+Tác động của hormone tại mô đích, 7
+
+Tác dụng của cortisol trên đáp ứng với stress, 40
+
+Tác dụng của cortisol trên hoạt động chuyển hóa, 39
+
+Tác dụng trên đáp ứng miễn dịch, 40
+
+Tác dụng trên đáp ứng viêm, 40
+
+Tăng sản thượng thận dạng nốt lớn hai bên, 115
+
+Tăng sản thượng thận dạng nốt nhỏ hai bên, 114
+
+Tân tạo glucose, 64
+
+Tế bào beta tụy, 55, 60, 62, 63, 65, 78, 81, 83, 85, 90, 127, 131, 198
+
+Thần kinh, 97, 100, 107, 172-175, 179, 187
+
+Theo dõi glucose liên tục, 89
+
+Thiazolidinedione (TZD), 134
+
+Thiếu hụt TSH đơn độc, 97
+
+Thioamides, 157, 159
+
+Thoái biến glycogen dự trữ, 63
+
+Thuốc đồng vận thụ thể GLP-1, 136
+
+Thuốc kháng giáp, 157, 166
+
+Thuốc tác động lên hiệu ứng incretin, 136
+
+Thuốc ức chế hấp thu glucose ở ruột non, 135
+
+Thuốc ức chế kênh đồng vận chuyển glucose và natri ở ống thận gần, 138
+
+Thuốc ức chế men DPP-4, 137
+
+Thượng thận tủy, 217, 219
+
+Thượng thận vỏ, 217, 218
+
+Thụ thể đặc hiệu trên bề mặt tế bào, 11
+
+Thụ thể liên kết enzyme, 9
+
+Thụ thể liên kết kênh ion, 7
+
+Thụ thể liên kết protein G, 7, 9
+
+Thụ thể liên kết với sự nhập bào, 10
+
+Thụ thể nhân, 9
+
+Tĩnh mạch, 19, 170, 172, 175, 178, 179, 180, 191
+
+Tổn thương mạch máu lớn do đái tháo đường, 200
+
+Trục hạ đồi – tuyến yên – tuyến nội tiết đích, 12
+
+TSH, 7, 13, 14, 16, 18, 19, 21-23, 25, 47, 49, 92-100, 102, 110, 118, 125, 154, 162-166, 209, 210, 212, 213
+
+Tự theo dõi glucose huyết mao mạch, 89
+
+Tuyến cận giáp, 3, 173, 175, 176, 180
+
+Tuyến giáp, 3, 14, 45, 75, 96, 99, 160, 170, 172, 173, 175, 176, 179, 191, 207, 209, 211
+
+Tuyến sinh dục, 4, 14
+
+Tuyến thượng thận, 3, 22, 34, 104, 177-180, 192, 193, 194, 217, 220
+
+Tuyến thượng thận phải, 177, 178, 180, 192-194
+
+Tuyến thượng thận trái, 177, 178, 180, 192, 193
+
+Tuyến tùng, 3, 12
+
+Tuyến tụy nội tiết, 4, 122
+
+Tuyến tủy thượng thận, 41
+
+Tuyến ức, 3
+
+Tuyến vỏ thượng thận, 6, 12, 13, 15, 16, 34-37, 43, 44
+
+Tuyến yên, 3, 12-15, 17, 21, 104, 107, 110, 116, 181, 182, 183, 188, 189
+
+**U**
+
+U quái giáp buồng trứng, 93, 95
+
+U thượng thận, 114, 116, 120
+
+U tiết ACTH lạc chỗ, 114, 115, 116, 120
+
+U tiết CRH lạc chỗ, 114, 115
+
+U tuyến yên tiết TSH, 93, 95
+
+**Ư**
+
+Ức chế phiên mã, 38, 39
+
+**V**
+
+Viêm giáp bán cấp, 93, 95, 97, 102
+
+Viêm giáp Hashimoto, 78, 97, 98, 207, 208, 209, 213
+
+Viêm giáp hạt (de Quervain), 207
+
+Viêm giáp lympho bào bán cấp, 207
+
+Viêm giáp lympho bào mạn tính Hashimoto, 207
+
+Viêm giáp yên lặng, 97
+
+Viêm tủy thận, 202
+
+Vùng bó, 217, 219, 221
+
+Vùng cầu, 218, 219, 221
+
+Vùng hạ đồi, 3, 12-15, 17-19, 25, 31, 49, 104
+
+Vùng hạ đồi (hypothalamus), 3, 13
+
+Vùng hạ đồi - tuyến yên, 13, 17, 19, 40, 107, 110
+
+Vùng lưới, 217, 221
+
+**X**
+
+Xét nghiệm fructosamin huyết thanh, 89
+
+Xét nghiệm hemoglobin A1c, 88
+
+Xoang bướm, 181, 186
+
+Xoang hang, 185
+
+Xơ hóa cầu thận dạng nốt, 201
+
+Xơ hóa mô đệm kẽ, 201
+
+Xơ vữa mạch máu hyaline hóa, 200
+
+GIÁO TRÌNH GIẢNG DẠY ĐẠI HỌC - NỘI TIẾT HỌC CƠ BẢN
+Chủ biên: TS.BS. Trần Quang Nam
+Đại học Y Dược Thành phố Hồ Chí Minh - Module Nội tiết
+
+Chịu trách nhiệm xuất bản và nội dung
+Q. Giám đốc – Tổng Biên tập: TS. ĐỖ VĂN BIÊN
+Biên tập nội dung
+TS.BS. VÕ THÀNH TOÀN
+Biên tập
+NGUYỄN THỊ NGỌC ANH
+Sửa bản in
+VIÊN KHUYÊN
+Trình bày bìa
+VÕ THỊ GIANG HƯƠNG
+
+Đối tác liên kết – Tổ chức bản thảo và chịu trách nhiệm tác quyền
+Module Nội tiết – Đại học Y Dược TP. HCM
+NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH
+Phòng 501, Nhà Điều hành ĐHQG-HCM, Phường Linh Trung, Quận Thủ Đức, TP. Hồ Chí Minh
+ĐT: 028 6272 6361 - 028 6272 6390 E-mail: vnuhp@vnuhcm.edu.vn
+Website: www.vnuhcmpress.edu.vn
+VĂN PHÒNG NHÀ XUẤT BẢN
+PHÒNG QUẢN LÝ DỰ ÁN VÀ PHÁT HÀNH
+Tòa nhà K-Trường Đại học Khoa học Xã hội & Nhân văn, số 10-12 Đinh Tiên Hoàng, phường Bến Nghé, Quận 1, TP Hồ Chí Minh
+ĐT: 028 66817058 - 028 62726390 - 028 62726351
+Website: www.vnuhcmpress.edu.vn
+Nhà xuất bản ĐHQG-HCM và tác giả/đối tác liên kết giữ bản quyền©
+Copyright © by VNU-HCM Press and author/
+co-partnership. All rights reserved
+ISBN: 978-604-73-8520-1
+
+Xuất bản lần thứ 1. Số lượng in 3.000 cuốn, khổ 19 x 26.5 cm, XNĐKXB số: 2717-2021/CXBIPH/13-52/ĐHQGTPHCM. QĐXB số 149/QĐ-NXB cấp ngày 28/7/2021. In tại: Công ty TNHH Thương mại Dịch vụ Đầu tư Thành Đạt; Địa chỉ: 352/24 Lê Văn Quới, P. Bình Hưng Hoà A, Q. Bình Tân, TP. HCM. Nộp lưu chiểu năm 2021.
+
+Bản tiếng Việt ©, NXB ĐHQG-HCM, đối tác liên kết và các tác giả. Bản quyền tác phẩm đã được bảo hộ bởi Luật Xuất bản và Luật Sở hữu trí tuệ Việt Nam. Nghiêm cấm mọi hình thức xuất bản, sao chụp, phát tán nội dung khi chưa có sự đồng ý của Tác giả và Nhà xuất bản.
+
+ĐỂ CÓ SÁCH HAY, CẦN CHUNG TAY BẢO VỆ TÁC QUYỀN!
+
+ĐẠI HỌC Y DƯỢC THÀNH PHỐ HỒ CHÍ MINH
+MODULE NỘI TIẾT
+217 Hồng Bàng - Phường 11 - Quận 5 - TP. Hồ Chí Minh
+Email: bomonnoitiet@ump.edu.vn
+
+[Hình: Mã vạch ISBN 978-604-73-8870-1, logo NXBĐHQG-HCM, giá 150.000đ]
