@@ -1,0 +1,74 @@
+name: Giang bai NotebookLM
+
+# Chạy giảng bài hoặc kiểm tra note từ GitHub Actions (ví dụ bấm từ app GitHub trên iPhone).
+# Cần secret NOTEBOOKLM_AUTH_JSON = nội dung file storage_state.json (cookie hết hạn thì cập nhật lại,
+# khoảng 1-2 tuần một lần). Nên dùng tài khoản riêng.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'sach | giaovien | ca_hai | kiemtra_note'
+        required: true
+        default: 'ca_hai'
+        type: string
+      lesson:
+        description: 'Tên bài'
+        required: true
+        type: string
+      notebook_id:
+        description: 'ID notebook (bỏ trống để dùng secret/biến NOTEBOOKLM_NOTEBOOK)'
+        required: false
+        type: string
+      note_text:
+        description: 'Nội dung note (chỉ cho kiemtra_note)'
+        required: false
+        type: string
+
+jobs:
+  giang:
+    runs-on: ubuntu-latest
+    env:
+      NOTEBOOKLM_AUTH_JSON: ${{ secrets.NOTEBOOKLM_AUTH_JSON }}
+      MODE: ${{ github.event.inputs.mode }}
+      LESSON: ${{ github.event.inputs.lesson }}
+      NOTE_TEXT: ${{ github.event.inputs.note_text }}
+      INPUT_NOTEBOOK: ${{ github.event.inputs.notebook_id }}
+      SECRET_NOTEBOOK: ${{ secrets.NOTEBOOKLM_NOTEBOOK }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install notebooklm-py
+        run: pip install --upgrade pip notebooklm-py
+
+      - name: Check NotebookLM login
+        run: |
+          if [ -z "$NOTEBOOKLM_AUTH_JSON" ]; then
+            echo "Thiếu secret NOTEBOOKLM_AUTH_JSON" && exit 1
+          fi
+          notebooklm auth check --test --json | jq -e '.status == "ok"' \
+            || { echo "Phiên đăng nhập hết hạn: cập nhật secret NOTEBOOKLM_AUTH_JSON"; exit 1; }
+
+      - name: Run
+        run: |
+          mkdir -p giang_out
+          export NOTEBOOKLM_NOTEBOOK="${INPUT_NOTEBOOK:-$SECRET_NOTEBOOK}"
+          if [ -z "$NOTEBOOKLM_NOTEBOOK" ]; then echo "Thiếu notebook id"; exit 1; fi
+          if [ "$MODE" = "kiemtra_note" ]; then
+            printf '%s\n' "$NOTE_TEXT" > giang_out/note.txt
+            python output/ask_notebook.py "$MODE" "$LESSON" --note giang_out/note.txt -o "giang_out/kiem_tra_${GITHUB_RUN_NUMBER}.md"
+          else
+            python output/ask_notebook.py "$MODE" "$LESSON" -o "giang_out/bai_${GITHUB_RUN_NUMBER}.md"
+          fi
+
+      - name: Upload result
+        uses: actions/upload-artifact@v4
+        with:
+          name: giang-bai
+          path: giang_out/*.md
+          if-no-files-found: error

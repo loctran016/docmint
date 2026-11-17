@@ -1,0 +1,894 @@
+# /// script
+# requires-python = ">=3.10"
+# dependencies = []
+# ///
+"""
+Menu tổng hợp cho bộ công cụ NotebookLM. Chạy được trên WSL/Linux, Windows và macOS.
+
+    uv run menu.py          (hoặc: bash menu.sh  /  nhấp đúp menu.cmd trên Windows)
+
+Mọi input/output nằm trong thư mục toolkit (hoặc thư mục đầu ra bạn đặt, ví dụ vault Obsidian).
+Mục [15] gọi process_book.py (PDF scan -> Markdown bằng Gemini).
+"""
+import getpass
+import json
+import os
+import platform
+import re
+import shutil
+import subprocess
+import sys
+from pathlib import Path
+
+import common
+
+HERE = Path(__file__).resolve().parent
+os.chdir(HERE)
+
+IS_WIN, IS_MAC, IS_WSL = common.IS_WIN, common.IS_MAC, common.IS_WSL
+if IS_WIN:
+    os.system("")   # bật mã màu ANSI trong cửa sổ dòng lệnh Windows
+
+# ------------------------------------------------------------------ cài đặt nhớ lại
+SETTINGS_FILE = HERE / ".menu_settings.json"
+DEFAULTS = {"strip": 0, "fm": 0, "obs": 0, "quiz_mode": "md", "quiz_fmt": "markdown",
+            "mm_kind": "interactive", "book": "Sách giáo khoa", "out_root": "ket_qua",
+            "md_split": 0, "md_model": "", "md_out": ""}
+CHOICES = {"quiz_mode": ("md", "quiz", "both"), "quiz_fmt": ("markdown", "json", "html"),
+           "mm_kind": ("interactive", "note-backed")}
+
+
+def load_settings():
+    s = dict(DEFAULTS)
+    try:
+        data = json.loads(SETTINGS_FILE.read_text(encoding="utf-8"))
+        s.update({k: v for k, v in data.items() if k in DEFAULTS})
+    except Exception:  # noqa: BLE001
+        pass
+    for k in ("strip", "fm", "obs", "md_split"):
+        s[k] = 1 if s[k] in (1, True, "1") else 0
+    for k, allowed in CHOICES.items():
+        if s[k] not in allowed:
+            s[k] = DEFAULTS[k]
+    if not str(s["book"]).strip():
+        s["book"] = DEFAULTS["book"]
+    if not str(s["out_root"]).strip():
+        s["out_root"] = DEFAULTS["out_root"]
+    if not re.fullmatch(r"[A-Za-z0-9._,-]*", str(s["md_model"])):
+        s["md_model"] = ""
+    s["md_out"] = str(s["md_out"] or "")
+    return s
+
+
+S = load_settings()
+
+
+def save_settings():
+    SETTINGS_FILE.write_text(json.dumps(S, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def cycle(key):
+    allowed = CHOICES[key]
+    S[key] = allowed[(allowed.index(S[key]) + 1) % len(allowed)]
+    save_settings()
+
+
+def toggle(key):
+    S[key] = 1 - S[key]
+    save_settings()
+
+
+# ------------------------------------------------------------------ màu và khung
+if sys.stdout.isatty():
+    R, B, ORG, CY = "\033[0m", "\033[1m", "\033[38;5;208m", "\033[36m"
+    GR, RD, YL, DM = "\033[32m", "\033[31m", "\033[33m", "\033[2m"
+else:
+    R = B = ORG = CY = GR = RD = YL = DM = ""
+
+W = 62   # độ rộng phần chữ bên trong khung
+
+
+def row(plain, shown=None):
+    shown = plain if shown is None else shown
+    pad = max(0, W - len(plain))
+    print(f"{ORG}│{R} {shown}{' ' * pad} {ORG}│{R}")
+
+
+def center(s):
+    left = max(0, (W - len(s)) // 2)
+    row(" " * left + s, " " * left + B + s + R)
+
+
+def item(key, label):
+    row(f"[{key}] {label}", f"{CY}[{key}]{R} {label}")
+
+
+def sep():
+    row(" " * 23 + "─" * 16)
+
+
+def draw_menu(title, entries):
+    """entries: 'phím|nhãn', 'SEP', 'MID', 'INFO:chữ', 'CTR:chữ'"""
+    print(f"{ORG}┌{'─' * (W + 2)}┐{R}")
+    center(title)
+    for e in entries:
+        if e == "SEP":
+            sep()
+        elif e == "MID":
+            print(f"{ORG}├{'─' * (W + 2)}┤{R}")
+        elif e.startswith("INFO:"):
+            row(" " + e[5:])
+        elif e.startswith("CTR:"):
+            center(e[4:])
+        else:
+            key, _, label = e.partition("|")
+            item(key, label)
+    print(f"{ORG}└{'─' * (W + 2)}┘{R}")
+
+
+def onoff(v):
+    return "BẬT" if v else "TẮT"
+
+
+def yn(v):
+    return "có" if v else "chưa"
+
+
+def short(s, n):
+    s = str(s)
+    return s if len(s) <= n else "…" + s[-(n - 1):]
+
+
+def clear():
+    os.system("cls" if IS_WIN else "clear")
+
+
+def ask(prompt):
+    try:
+        return input(prompt).strip()
+    except EOFError:
+        print()
+        raise SystemExit(0)
+    except KeyboardInterrupt:
+        print()
+        return ""
+
+
+def pause():
+    ask("\n  Nhấn Enter để quay lại menu... ")
+
+
+# ------------------------------------------------------------------ tiện ích
+def find_uv():
+    uv = shutil.which("uv")
+    if uv:
+        return uv
+    for cand in (Path.home() / ".local" / "bin" / ("uv.exe" if IS_WIN else "uv"),
+                 Path.home() / ".cargo" / "bin" / ("uv.exe" if IS_WIN else "uv")):
+        if cand.exists():
+            return str(cand)
+    return None
+
+
+UV = find_uv()
+
+
+def get_id():
+    try:
+        return common.read_notebook_id()
+    except SystemExit:
+        return ""
+
+
+def id_short():
+    i = get_id()
+    return f"{i[:8]}…" if i else "(chưa đặt)"
+
+
+def count_items(path):
+    p = Path(path)
+    if not p.exists():
+        return 0
+    try:
+        return len(common.parse_list_file(p))
+    except SystemExit:
+        return 0
+
+
+def pick_list(*files):
+    for f in list(files) + common.MASTER_FILES:
+        if count_items(f) > 0:
+            return f
+    return "(chưa có)"
+
+
+def out_root():
+    return Path(S["out_root"])
+
+
+_ocr_cache = {"ready": None}
+
+
+def ocr_ready(refresh=False):
+    if refresh or _ocr_cache["ready"] is None:
+        _ocr_cache["ready"] = bool(common.ocr_ready())
+    return _ocr_cache["ready"]
+
+
+def need_uv():
+    if not UV:
+        print(f"  {RD}Chưa cài uv.{R} "
+              + ("Mở PowerShell chạy:  winget install astral-sh.uv  rồi mở lại menu." if IS_WIN
+                 else "Chạy:  curl -LsSf https://astral.sh/uv/install.sh | sh  rồi mở lại terminal."))
+        return False
+    return True
+
+
+def need_id():
+    if not get_id():
+        print(f"  {RD}Chưa có ID notebook.{R} Hãy chọn [12] ở menu chính để đặt ID trước.")
+        return False
+    return True
+
+
+def show_cmd(cmd):
+    return subprocess.list2cmdline(cmd) if IS_WIN else " ".join(
+        f"'{c}'" if (" " in c or not c) else c for c in cmd)
+
+
+def run(cmd, show=True):
+    env = os.environ.copy()
+    env.update({"NLM_OUT_ROOT": str(S["out_root"]), "NLM_BOOK": S["book"], "PYTHONUTF8": "1"})
+    if show:
+        print(f"\n{DM}Lệnh: {show_cmd(cmd)}{R}\n")
+    try:
+        return subprocess.run(cmd, env=env).returncode
+    except KeyboardInterrupt:
+        print("\n(đã dừng)")
+        return 130
+    except FileNotFoundError:
+        print(f"  Không tìm thấy lệnh: {cmd[0]}")
+        return 127
+
+
+def exec_uv(*args):
+    if not need_uv():
+        return 1
+    return run([UV, "run", *args])
+
+
+def open_folder(path):
+    path = Path(path)
+    path.mkdir(parents=True, exist_ok=True)
+    try:
+        if IS_WIN:
+            os.startfile(str(path.resolve()))          # noqa: S606
+        elif IS_WSL:
+            subprocess.run(["explorer.exe", "."], cwd=path, stdout=subprocess.DEVNULL,
+                           stderr=subprocess.DEVNULL)
+        elif IS_MAC:
+            subprocess.run(["open", str(path)])
+        else:
+            subprocess.run(["xdg-open", str(path)], stdout=subprocess.DEVNULL,
+                           stderr=subprocess.DEVNULL)
+    except Exception as e:  # noqa: BLE001
+        print(f"  Không mở được thư mục: {e}")
+
+
+def edit_file(path):
+    path = Path(path)
+    if not path.exists():
+        path.write_text("# Danh sách (mỗi dòng một bài)\n", encoding="utf-8")
+    editor = os.environ.get("EDITOR") or ("notepad" if IS_WIN else "nano")
+    try:
+        subprocess.run([editor, str(path)])
+    except FileNotFoundError:
+        print(f"  Không thấy trình soạn thảo '{editor}'. Đặt biến EDITOR hoặc mở file này bằng "
+              f"chương trình bất kỳ:\n  {path.resolve()}")
+        pause()
+        return
+    if IS_WIN:
+        ask("  Lưu file xong (đóng Notepad) rồi nhấn Enter để tiếp tục... ")
+
+
+def view_text(path):
+    path = Path(path)
+    if not path.exists():
+        print(f"  Không thấy {path}")
+        pause()
+        return
+    if shutil.which("less"):
+        subprocess.run(["less", "-R", str(path)])
+    elif IS_WIN:
+        subprocess.run(["notepad", str(path)])
+    else:
+        print(path.read_text(encoding="utf-8"))
+        pause()
+
+
+# ------------------------------------------------------------------ 1-4. hướng dẫn, cài đặt, OCR
+def show_guide():
+    view_text("README.md")
+
+
+def setup_nlm():
+    clear()
+    print(f"{B}== Cài & set-up notebooklm-py =={R}")
+    exec_uv("1_setup_notebooklm.py")
+    if not get_id():
+        print("\n  Bước tiếp theo: chọn [12] ở menu chính để đặt ID notebook.")
+    pause()
+
+
+def setup_ocr():
+    clear()
+    print(f"{B}== Cài & set-up OCR =={R}")
+    exec_uv("2_setup_ocr.py")
+    ocr_ready(refresh=True)
+    pause()
+
+
+def do_ocr():
+    clear()
+    print(f"{B}== OCR PDF =={R}\n")
+    if not ocr_ready(refresh=True):
+        print(f"  {RD}OCR chưa sẵn sàng{R} (thiếu Tesseract tiếng Việt hoặc Ghostscript). "
+              "Hãy chọn [3] ở menu chính trước.")
+        pause()
+        return
+    print("  Nhập thư mục chứa các file PDF:")
+    print("   - Enter để dùng thư mục input_pdfs/ trong toolkit")
+    print("   - hoặc dán/kéo thả đường dẫn thư mục (dạng C:\\... của Windows cũng được)\n")
+    d = ask("  Thư mục: ") or "input_pdfs"
+    if d == "input_pdfs":
+        Path("input_pdfs").mkdir(exist_ok=True)
+        if not any(p.suffix.lower() == ".pdf" for p in Path("input_pdfs").iterdir()):
+            print("\n  input_pdfs/ đang trống. Mình mở thư mục này, hãy chép các file PDF vào rồi quay lại.")
+            open_folder("input_pdfs")
+            ask("  Nhấn Enter khi đã chép xong... ")
+    exec_uv("3_ocr_pdfs.py", d)
+    if ask("\n  Mở thư mục output_ocr? [y/N] ").lower().startswith("y"):
+        open_folder("output_ocr")
+    pause()
+
+
+# ------------------------------------------------------------------ 15. PDF -> Markdown bằng Gemini
+ENV_FILE = HERE / ".env"
+KEY_NAMES = ("GEMINI_API_KEYS", "GEMINI_API_KEY", "GOOGLE_API_KEY")
+GITIGNORE_PATTERNS = [".env", ".menu_settings.json", "tessdata/", "input_pdfs/", "output_ocr/",
+                      "output_md/", "ket_qua/", "/transcripts/", "transcript_out/", "slides_out/", "giang_out/",
+                      "__pycache__/"]
+
+
+def has_key():
+    """Đã có GEMINI_API_KEY (biến môi trường hoặc trong file .env) chưa."""
+    if any(os.environ.get(k) for k in KEY_NAMES):
+        return True
+    try:
+        for line in ENV_FILE.read_text(encoding="utf-8-sig").splitlines():
+            m = re.match(r"^\s*(?:export\s+)?(?:GEMINI_API_KEYS|GEMINI_API_KEY|GOOGLE_API_KEY)\s*=\s*(\S+)", line)
+            if m and m.group(1).strip("\"'"):
+                return True
+    except OSError:
+        pass
+    return False
+
+
+def ensure_ignored(*patterns):
+    """Thêm các mẫu vào .gitignore nếu chưa có. Trả về danh sách mẫu vừa thêm."""
+    gi = HERE / ".gitignore"
+    existing = gi.read_text(encoding="utf-8").splitlines() if gi.exists() else []
+    add = [p for p in patterns if p not in existing]
+    if add:
+        gi.write_text("\n".join(existing + add) + "\n", encoding="utf-8")
+    return add
+
+
+def md_out_dir():
+    return Path(S["md_out"] or "output_md")
+
+
+def run_md(*extra):
+    """Chạy process_book.py với các công tắc đã chọn trong menu."""
+    if not need_uv():
+        return 1
+    if "--merge-only" not in extra and not has_key():
+        print(f"  {RD}Chưa có GEMINI_API_KEY.{R} Hãy chọn [7] trong menu này để đặt key.")
+        return 1
+    flags = []
+    if S["md_split"]:
+        flags.append("--split")
+    if S["md_model"]:
+        flags += ["--model", S["md_model"]]
+    if S["md_out"]:
+        flags += ["--out", S["md_out"]]
+    return exec_uv("process_book.py", *flags, *extra)
+
+
+def md_ask_input():
+    print("  Nhập thư mục (hoặc 1 file) PDF cần chuyển sang Markdown:")
+    print("   - Enter để dùng thư mục input_pdfs/ trong toolkit")
+    print("   - hoặc dán/kéo thả đường dẫn (dạng C:\\... của Windows cũng được)")
+    print("   - có thể trỏ vào output_ocr/ nếu muốn dùng bản đã OCR\n")
+    p = ask("  Đường dẫn: ") or "input_pdfs"
+    if p == "input_pdfs":
+        d = HERE / "input_pdfs"
+        d.mkdir(exist_ok=True)
+        if not any(x.suffix.lower() == ".pdf" for x in d.iterdir()):
+            print("\n  input_pdfs/ đang trống. Mình mở thư mục này, hãy chép các file PDF vào rồi quay lại.")
+            open_folder(d)
+            ask("  Nhấn Enter khi đã chép xong... ")
+    return p
+
+
+def md_set_key():
+    print("  Tạo key miễn phí tại: https://aistudio.google.com/apikey")
+    print("  (khi dán key sẽ không hiện ký tự trên màn hình)")
+    try:
+        print("  (nhiều key từ nhiều Project: dán cách nhau dấu phẩy, ví dụ key1,key2,key3)")
+        key = getpass.getpass("  Dán GEMINI_API_KEY (Enter để hủy): ")
+    except (EOFError, KeyboardInterrupt):
+        print()
+        return
+    key = re.sub(r"\s+", "", key)
+    if not key:
+        return
+    lines = []
+    if ENV_FILE.exists():
+        lines = [ln for ln in ENV_FILE.read_text(encoding="utf-8-sig").splitlines()
+                 if not re.match(r"^\s*(?:export\s+)?GEMINI_API_KEYS?\s*=", ln)]
+    lines.append(f"{'GEMINI_API_KEYS' if ',' in key else 'GEMINI_API_KEY'}={key}")
+    ENV_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    try:
+        os.chmod(ENV_FILE, 0o600)
+    except OSError:
+        pass
+    added = ensure_ignored(".env")
+    print("  Đã lưu key vào .env" + (" và thêm .env vào .gitignore." if added else " (.env đã có trong .gitignore)."))
+    ask("  Nhấn Enter để tiếp tục... ")
+
+
+def md_set_model():
+    print("  Tên model Gemini. Có thể ghi nhiều model cách nhau dấu phẩy, ví dụ:")
+    print("      gemini-3.8-flash,gemini-3.6-flash")
+    print("  Model đầu hết quota ngày thì tự chuyển sang model sau; model không tồn tại thì bị bỏ qua.")
+    print("  Enter (để trống) = dùng mặc định của script. Xem tên model hiện có bằng mục [9].\n")
+    m = re.sub(r"\s+", "", ask("  Model: "))
+    if re.fullmatch(r"[A-Za-z0-9._,-]*", m):
+        S["md_model"] = m
+        save_settings()
+    else:
+        print("  Tên model không hợp lệ (chỉ gồm chữ, số, . _ - và dấu phẩy).")
+        ask("  Nhấn Enter để tiếp tục... ")
+
+
+def md_set_out():
+    print("  Thư mục lưu Markdown (có thể là thư mục trong vault Obsidian; C:\\... cũng được).")
+    print("  Enter để quay về mặc định (output_md trong toolkit).")
+    p = ask("  Thư mục: ")
+    S["md_out"] = common.to_wsl_path(p) if p else ""
+    if S["md_out"]:
+        Path(S["md_out"]).mkdir(parents=True, exist_ok=True)
+    save_settings()
+
+
+def md_gitignore():
+    added = ensure_ignored(*GITIGNORE_PATTERNS)
+    if added:
+        print("  Đã thêm vào .gitignore: " + ", ".join(added))
+    else:
+        print("  .gitignore đã có đủ các mẫu cần thiết.")
+    print("  Lưu ý: .gitignore chỉ có tác dụng với file CHƯA được git theo dõi. Nếu đã `git add` trước đó,")
+    print("  chạy thêm:  git rm -r --cached input_pdfs output_ocr output_md ket_qua")
+    pause()
+
+
+def md_menu():
+    while True:
+        clear()
+        draw_menu("PDF → MARKDOWN (GEMINI)", [
+            f"INFO:Model: {short(S['md_model'] or 'mặc định', 30)} | Key: {yn(has_key())}",
+            f"INFO:Đầu ra: {short(S['md_out'] or 'output_md', 40)}",
+            "MID",
+            "1|Chạy thử vài trang (--test, không lưu gì)",
+            "2|Chuyển toàn bộ PDF thành Markdown",
+            "3|Chọn sách / khoảng trang cụ thể",
+            "4|Làm lại từ đầu, bỏ tiến độ cũ (--force)",
+            "5|Chỉ gộp lại từ các trang đã có (không gọi API)",
+            "SEP",
+            f"6|Chia file theo chương (H1): {onoff(S['md_split'])}",
+            "7|Đặt GEMINI_API_KEY",
+            "8|Đặt model",
+            "9|Liệt kê model dùng được với key của tôi",
+            "10|Mở thư mục đầu ra trong Explorer",
+            "11|Đặt thư mục đầu ra Markdown",
+            "12|Thêm .env và thư mục dữ liệu vào .gitignore",
+            "SEP",
+            "0|Quay lại menu chính"])
+        ch = ask("  Nhập lựa chọn của bạn : ").lower()
+        if ch == "1":
+            clear()
+            p = md_ask_input()
+            tp = ask("  Trang để thử (Enter = 3 trang đầu, ví dụ 12 hoặc 10-12): ")
+            run_md(p, "--test", *(["--pages", tp] if tp else []))
+            pause()
+        elif ch == "2":
+            clear()
+            p = md_ask_input()
+            run_md(p)
+            pause()
+        elif ch == "3":
+            clear()
+            p = md_ask_input()
+            bk = ask("  Tên sách (một phần tên file, Enter = tất cả): ")
+            pg = ask("  Khoảng trang (ví dụ 1-20,25; Enter = tất cả): ")
+            extra = []
+            if bk:
+                extra += ["--book", bk]
+            if pg:
+                extra += ["--pages", pg]
+            run_md(p, *extra)
+            pause()
+        elif ch == "4":
+            clear()
+            p = md_ask_input()
+            if ask("  Xóa tiến độ cũ và làm lại TẤT CẢ trang? [y/N] ").lower().startswith("y"):
+                run_md(p, "--force")
+                pause()
+        elif ch == "5":
+            clear()
+            p = md_ask_input()
+            run_md(p, "--merge-only")
+            pause()
+        elif ch == "6":
+            toggle("md_split")
+        elif ch == "7":
+            md_set_key()
+        elif ch == "8":
+            md_set_model()
+        elif ch == "9":
+            clear()
+            if need_uv():
+                if has_key():
+                    exec_uv("process_book.py", "--list-models")
+                else:
+                    print(f"  {RD}Chưa có GEMINI_API_KEY.{R} Hãy chọn [7] để đặt key trước.")
+            pause()
+        elif ch == "10":
+            open_folder(md_out_dir())
+        elif ch == "11":
+            md_set_out()
+        elif ch == "12":
+            md_gitignore()
+        elif ch in ("0", "q"):
+            return
+
+
+# ------------------------------------------------------------------ 5. kiểm tra sách
+def book_menu():
+    while True:
+        clear()
+        draw_menu("KIỂM TRA SÁCH: ĐỌC MỤC LỤC", [
+            f"INFO:Danh sách chung: giao_trinh.txt ({count_items('giao_trinh.txt')} bài) | Notebook: {id_short()}",
+            "MID",
+            "1|Đọc mục lục từ NotebookLM (in ra + lưu file)",
+            "2|Đọc mục lục và GHI vào giao_trinh.txt (có sao lưu)",
+            "3|Xem lại mục lục đã lưu lần trước",
+            "4|Kiểm tra lớp chữ của PDF (trang nào chưa có chữ)",
+            "5|Sửa giao_trinh.txt",
+            "SEP",
+            "0|Quay lại menu chính"])
+        ch = ask("  Nhập lựa chọn của bạn : ").lower()
+        if ch == "1":
+            if need_id():
+                exec_uv("6_muc_luc.py")
+            pause()
+        elif ch == "2":
+            if need_id():
+                if ask("  Ghi đè giao_trinh.txt bằng mục lục đọc được (bản cũ được sao lưu .bak)? [y/N] ").lower().startswith("y"):
+                    exec_uv("6_muc_luc.py", "--apply")
+            pause()
+        elif ch == "3":
+            view_text(out_root() / "muc_luc" / "muc_luc.md")
+        elif ch == "4":
+            print("  Nhập đường dẫn file PDF hoặc thư mục (Enter = tự tìm trong output_ocr/ rồi input_pdfs/)")
+            p = ask("  Đường dẫn: ")
+            exec_uv("8_kiem_tra_pdf.py", *([p] if p else []))
+            pause()
+        elif ch == "5":
+            edit_file("giao_trinh.txt")
+        elif ch in ("0", "q"):
+            return
+
+
+# ------------------------------------------------------------------ 6-10. các chức năng tạo nội dung
+FEATURES = {
+    "giang": dict(title="GIẢNG BÀI", cmd=["4_giang_bai.py"], files=["giang_bai.txt"], out="giang_bai"),
+    "hoi": dict(title="TẠO CÂU HỎI", cmd=["5_tao_cau_hoi.py"], files=["cau_hoi.txt", "cauhoi.txt"], out="cau_hoi"),
+    "mindmap": dict(title="TẠO MINDMAP", cmd=["7_tao_media.py", "mindmap"], files=["mindmaps.txt"], out="mindmap"),
+    "infographic": dict(title="TẠO INFOGRAPHIC", cmd=["7_tao_media.py", "infographic"],
+                        files=["infographics.txt"], out="infographic"),
+    "video": dict(title="TẠO VIDEO", cmd=["7_tao_media.py", "video"], files=["videos.txt"], out="video"),
+}
+MEDIA = ("mindmap", "infographic", "video")
+
+
+def build_flags(kind):
+    flags = []
+    if kind in ("giang", "hoi") and S["strip"]:
+        flags.append("--strip-cite")
+    if S["fm"]:
+        flags.append("--frontmatter")
+    if S["obs"]:
+        flags += ["--obsidian", "--book", S["book"]]
+    if kind == "hoi":
+        flags += ["--mode", S["quiz_mode"], "--quiz-format", S["quiz_fmt"]]
+    if kind == "mindmap":
+        flags += ["--mm-kind", S["mm_kind"]]
+    return flags
+
+
+def run_feature(kind, *extra):
+    if not need_uv() or not need_id():
+        return
+    exec_uv(*FEATURES[kind]["cmd"], *build_flags(kind), *extra)
+
+
+def feature_menu(kind):
+    f = FEATURES[kind]
+    while True:
+        clear()
+        lst = pick_list(*f["files"])
+        test_label = ("Tạo thử bài đầu tiên (vẫn lưu file)" if kind in MEDIA
+                      else "Chạy thử 1 bài đầu tiên (--test)")
+        entries = [
+            f"INFO:Danh sách: {lst} ({count_items(lst)} mục) | Notebook: {id_short()}",
+            f"INFO:Đầu ra: {short(out_root() / f['out'], 34)} | Obsidian: {onoff(S['obs'])}",
+            "MID",
+            f"1|{test_label}",
+            "2|Chạy toàn bộ danh sách",
+            "3|Chạy một số bài (ví dụ 1,3-5)",
+            "4|Làm lại toàn bộ, kể cả bài đã xong (--force)",
+            f"5|Sửa danh sách riêng ({f['files'][0]})",
+            "6|Sửa danh sách chung (giao_trinh.txt)",
+            "SEP",
+        ]
+        if kind in ("giang", "hoi"):
+            entries.append(f"7|Xóa số trích dẫn [1]: {onoff(S['strip'])}")
+        entries.append(f"8|Thêm frontmatter (không Obsidian): {onoff(S['fm'])}")
+        if kind == "hoi":
+            entries += [f"9|Chế độ: {S['quiz_mode']}  (md / quiz / both)", f"10|Định dạng Quiz: {S['quiz_fmt']}"]
+        if kind == "mindmap":
+            entries.append(f"9|Loại mindmap: {S['mm_kind']}")
+        if kind in MEDIA:
+            entries.append("a|Xem tham số API của thư viện (gỡ lỗi)")
+        entries += ["SEP", "0|Quay lại menu chính"]
+        draw_menu(f["title"], entries)
+
+        ch = ask("  Nhập lựa chọn của bạn : ").lower()
+        if ch == "1":
+            run_feature(kind, "--test")
+            pause()
+        elif ch == "2":
+            run_feature(kind)
+            pause()
+        elif ch == "3":
+            only = ask("  Nhập số thứ tự bài (ví dụ 1,3-5): ")
+            if only:
+                run_feature(kind, "--only", only)
+                pause()
+        elif ch == "4":
+            if ask("  Làm lại TẤT CẢ và ghi đè file cũ? [y/N] ").lower().startswith("y"):
+                run_feature(kind, "--force")
+                pause()
+        elif ch == "5":
+            edit_file(f["files"][0])
+        elif ch == "6":
+            edit_file("giao_trinh.txt")
+        elif ch == "7" and kind in ("giang", "hoi"):
+            toggle("strip")
+        elif ch == "8":
+            toggle("fm")
+        elif ch == "9" and kind == "hoi":
+            cycle("quiz_mode")
+        elif ch == "9" and kind == "mindmap":
+            cycle("mm_kind")
+        elif ch == "10" and kind == "hoi":
+            cycle("quiz_fmt")
+        elif ch == "a" and kind in MEDIA:
+            run_feature(kind, "--api-info")
+            pause()
+        elif ch in ("0", "q"):
+            return
+
+
+# ------------------------------------------------------------------ 11. Obsidian
+def obsidian_menu():
+    while True:
+        clear()
+        draw_menu("OBSIDIAN: ĐỒNG BỘ VÀO VAULT", [
+            f"INFO:Chế độ Obsidian : {onoff(S['obs'])}",
+            f"INFO:Thư mục đầu ra  : {short(S['out_root'], 38)}",
+            f"INFO:Tên note sách   : {short(S['book'], 38)}",
+            "MID",
+            "1|Bật/tắt chế độ Obsidian",
+            "2|Đặt thư mục đầu ra (thư mục trong vault)",
+            "3|Đặt tên note sách",
+            "4|Cập nhật note mục lục của sách ngay",
+            "5|Mở thư mục đầu ra trong Explorer",
+            "SEP",
+            "INFO:Khi BẬT: thêm frontmatter, đổi trích dẫn [1] thành",
+            "INFO:[[wikilink]] về note sách, liên kết ngược về chương,",
+            "INFO:và tạo note mục lục (Chương > Bài) gom mọi file.",
+            "SEP",
+            "0|Quay lại menu chính"])
+        ch = ask("  Nhập lựa chọn của bạn : ").lower()
+        if ch == "1":
+            toggle("obs")
+        elif ch == "2":
+            print("  Dán đường dẫn thư mục trong vault (dạng C:\\... của Windows cũng được).")
+            print("  Enter để quay về mặc định (ket_qua trong toolkit).")
+            p = ask("  Thư mục: ")
+            S["out_root"] = common.to_wsl_path(p) if p else DEFAULTS["out_root"]
+            Path(S["out_root"]).mkdir(parents=True, exist_ok=True)
+            save_settings()
+        elif ch == "3":
+            n = ask("  Tên note sách (Enter = giữ nguyên): ")
+            if n:
+                S["book"] = n
+                save_settings()
+        elif ch == "4":
+            exec_uv("9_cap_nhat_obsidian.py", "--out-root", str(S["out_root"]), "--book", S["book"])
+            pause()
+        elif ch == "5":
+            open_folder(out_root())
+        elif ch in ("0", "q"):
+            return
+
+
+# ------------------------------------------------------------------ 12. ID notebook
+def set_id():
+    while True:
+        clear()
+        draw_menu("ĐẶT ID NOTEBOOK", [
+            f"INFO:ID hiện tại: {id_short()}", "MID",
+            "1|Liệt kê notebook của tôi (để xem ID)",
+            "2|Nhập ID hoặc URL notebook",
+            "SEP", "0|Quay lại menu chính"])
+        ch = ask("  Nhập lựa chọn của bạn : ").lower()
+        if ch == "1":
+            if need_uv():
+                run([UV, "tool", "run", "--from", "notebooklm-py", "notebooklm", "list"])
+            pause()
+        elif ch == "2":
+            raw = ask("  Dán ID hoặc URL notebook: ")
+            if raw:
+                Path("notebook_id.txt").write_text(raw + "\n", encoding="utf-8")
+                print(f"  Đã lưu. ID hiện tại: {id_short()}")
+        elif ch in ("0", "q"):
+            return
+
+
+# ------------------------------------------------------------------ 13. trạng thái
+def status():
+    clear()
+    print(f"{B}== Kiểm tra trạng thái =={R}\n")
+    ok, bad = f"{GR}✔{R}", f"{RD}✘{R}"
+    system = "Windows" if IS_WIN else ("WSL" if IS_WSL else platform.system())
+    print(f" Hệ điều hành: {system}\n")
+
+    print(f" {ok} uv {subprocess.run([UV, '--version'], capture_output=True, text=True).stdout.split()[-1]}"
+          if UV else f" {bad} chưa cài uv  → chọn [2]")
+    print(f" {ok} có dữ liệu đăng nhập NotebookLM (~/.notebooklm)"
+          if (Path.home() / ".notebooklm").exists() else f" {bad} chưa đăng nhập NotebookLM  → chọn [2]")
+
+    tess, gs = common.find_tesseract(), common.find_ghostscript()
+    langs = common.tesseract_langs(tess) if tess else []
+    print(f" {ok if tess else bad} Tesseract: {tess or 'chưa có  → chọn [3]'}")
+    print(f" {ok if gs else bad} Ghostscript: {gs or 'chưa có  → chọn [3]'}")
+    print(f" {ok if 'vie' in langs else bad} Gói tiếng Việt cho Tesseract: {'có' if 'vie' in langs else 'chưa có  → chọn [3]'}")
+    _ocr_cache["ready"] = bool(tess and gs and "vie" in langs)
+
+    print(f" {ok} ID notebook: {get_id()}" if get_id() else f" {bad} chưa có ID notebook  → chọn [12]")
+    print(f" {ok} GEMINI_API_KEY đã được đặt" if has_key()
+          else f" {bad} chưa có GEMINI_API_KEY  → chọn [15] rồi [7]")
+
+    print(f"\n Obsidian: {onoff(S['obs'])} | note sách: {S['book']}")
+    print(f" Thư mục đầu ra: {S['out_root']}\n")
+    pdfs = lambda d: sum(1 for p in Path(d).glob("*") if p.suffix.lower() == ".pdf") if Path(d).is_dir() else 0  # noqa: E731
+    print(f" PDF trong input_pdfs/        : {pdfs('input_pdfs')}")
+    print(f" PDF đã OCR trong output_ocr/ : {pdfs('output_ocr')}")
+    md_dir = md_out_dir()
+    n_md = sum(1 for p in md_dir.rglob("*.md") if ".pages" not in p.parts) if md_dir.is_dir() else 0
+    print(f" File Markdown (Gemini)       : {n_md}  ({md_dir})")
+    print(f" Số bài trong giao_trinh.txt  : {count_items('giao_trinh.txt')}")
+    for sub in ("giang_bai", "cau_hoi", "mindmap", "infographic", "video"):
+        d = out_root() / sub
+        n = sum(1 for p in d.iterdir() if p.is_file() and p.name != ".state.json") if d.is_dir() else 0
+        print(f" {('File đã tạo (' + sub + ')'):<29}: {n}")
+
+    if ask("\n  Kiểm tra phiên đăng nhập trực tuyến (cần mạng, mất vài giây)? [y/N] ").lower().startswith("y"):
+        if need_uv():
+            run([UV, "tool", "run", "--from", "notebooklm-py[browser]", "notebooklm",
+                 "auth", "check", "--test", "--json"])
+    pause()
+
+
+# ------------------------------------------------------------------ 14. mở thư mục
+def open_menu():
+    while True:
+        targets = {"1": HERE, "2": Path("input_pdfs"), "3": Path("output_ocr"), "4": out_root(),
+                   "5": out_root() / "giang_bai", "6": out_root() / "cau_hoi", "7": out_root() / "mindmap",
+                   "8": out_root() / "infographic", "9": out_root() / "video", "10": md_out_dir()}
+        clear()
+        draw_menu("MỞ THƯ MỤC", [
+            "1|Thư mục toolkit", "2|input_pdfs  (PDF gốc)", "3|output_ocr  (PDF đã OCR)",
+            f"4|Thư mục đầu ra gốc ({short(S['out_root'], 24)})",
+            "5|… giang_bai  (bài giảng)", "6|… cau_hoi  (câu hỏi)", "7|… mindmap",
+            "8|… infographic", "9|… video", "10|Markdown từ Gemini (output_md)",
+            "SEP", "0|Quay lại menu chính"])
+        ch = ask("  Nhập lựa chọn của bạn : ").lower()
+        if ch in targets:
+            open_folder(targets[ch])
+        elif ch in ("0", "q"):
+            return
+
+
+# ------------------------------------------------------------------ menu chính
+def main_menu():
+    system = "Windows" if IS_WIN else ("WSL" if IS_WSL else platform.system())
+    pretty = system
+    try:
+        for line in Path("/etc/os-release").read_text(encoding="utf-8").splitlines():
+            if line.startswith("PRETTY_NAME="):
+                pretty = f"{line.split('=', 1)[1].strip(chr(34))} ({'WSL' if IS_WSL else 'Linux'})"
+    except Exception:  # noqa: BLE001
+        if IS_WIN:
+            pretty = f"Windows {platform.release()}"
+    handlers = {"1": show_guide, "2": setup_nlm, "3": setup_ocr, "4": do_ocr, "5": book_menu,
+                "6": lambda: feature_menu("giang"), "7": lambda: feature_menu("hoi"),
+                "8": lambda: feature_menu("mindmap"), "9": lambda: feature_menu("infographic"),
+                "10": lambda: feature_menu("video"), "11": obsidian_menu, "12": set_id,
+                "13": status, "14": open_menu, "15": md_menu,
+                "16": lambda: exec_uv("menu_nguon_gv.py")}
+    while True:
+        clear()
+        has_login = (Path.home() / ".notebooklm").exists()
+        draw_menu("BỘ CÔNG CỤ NOTEBOOKLM", [
+            f"CTR:{pretty}", "MID",
+            f"INFO:Notebook ID: {id_short()} | Obsidian: {onoff(S['obs'])}",
+            f"INFO:uv: {yn(UV)} | OCR: {yn(ocr_ready())} | đăng nhập: {yn(has_login)} | Gemini: {yn(has_key())}",
+            "MID",
+            "1|Hướng dẫn (README.md)",
+            "2|Cài & set-up notebooklm-py",
+            "3|Cài & set-up OCR",
+            "4|OCR PDFs (cả thư mục)",
+            "15|PDF → Markdown bằng Gemini (process_book.py)",
+            "16|Nguồn giáo viên: transcript, slide, giảng theo nguồn",
+            "SEP",
+            "5|Kiểm tra sách: đọc mục lục Chương/Bài",
+            "6|Giảng bài NotebookLM",
+            "7|Tạo câu hỏi NotebookLM",
+            "8|Tạo Mindmap",
+            "9|Tạo Infographic",
+            "10|Tạo Video",
+            "SEP",
+            "11|Obsidian: đồng bộ vào vault",
+            "12|Đặt ID notebook",
+            "13|Kiểm tra trạng thái",
+            "14|Mở thư mục",
+            "SEP",
+            "0|Thoát"])
+        ch = ask("  Nhập lựa chọn của bạn [0-16] : ").lower()
+        if ch in ("0", "q"):
+            print()
+            return
+        if ch in handlers:
+            handlers[ch]()
+
+
+if __name__ == "__main__":
+    try:
+        main_menu()
+    except KeyboardInterrupt:
+        print()

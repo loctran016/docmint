@@ -1,0 +1,15 @@
+# Thư viện Python cho gói "nguồn giáo viên" (nếu dùng pip thay cho `uv run`).
+# Mỗi script đã khai báo thư viện ngay đầu file nên `uv run đường/dẫn/script.py` tự cài, không cần file này.
+pymupdf
+pillow
+google-genai
+python-dotenv
+python-pptx
+notebooklm-py
+yt-dlp
+# faster-whisper chỉ cài trên GitHub Actions (xem .github/workflows/transcribe.yml), không cần trên máy cá nhân.
+
+# Công cụ hệ thống (không phải Python):
+#   sudo apt install libreoffice-impress    # slide .pptx/.ppt -> PDF
+#   sudo apt install ffmpeg                  # chỉ khi tự chạy Whisper cục bộ
+#   GitHub CLI `gh` (https://cli.github.com) + `gh auth login`   # tầng 2 transcript, workflow giảng bài

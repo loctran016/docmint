@@ -1,0 +1,12 @@
+.env
+.menu_settings.json
+tessdata/
+input_pdfs/
+output_ocr/
+output_md/
+ket_qua/
+/transcripts/
+transcript_out/
+slides_out/
+giang_out/
+__pycache__/

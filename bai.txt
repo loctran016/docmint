@@ -1,6 +1,0 @@
-# Mỗi dòng một bài:  Tên bài | lưu ý riêng (tùy chọn) | cờ (tùy chọn)
-# Cờ: tomtat / khongtomtat / cauhoi / khongcauhoi  (bật/tắt phần tóm tắt, câu hỏi tự kiểm tra cho riêng bài đó)
-# Dòng bắt đầu bằng # là chú thích, bị bỏ qua. Tên bài nên chép đúng như mục lục sách.
-Bài 1. Dinh dưỡng và sức khỏe
-Liên hệ thực tế 1: Dinh dưỡng lâm sàng, định nghĩa, đào tạo, lịch sử | tóm gọn, không cần giảng sâu | khongcauhoi
-Bài 2. Carbohydrate, lipid, protid | giảng kỹ phần chuyển hóa và so sánh các nhóm chất

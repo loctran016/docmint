@@ -1,0 +1,5 @@
+# Danh sách RIÊNG cho chức năng TẠO CÂU HỎI. Để trống (chỉ có chú thích) thì dùng giao_trinh.txt.
+# Cách viết:  Tên bài | lưu ý riêng | tn=số câu trắc nghiệm | tl=số câu tự luận | kho=de/vua/kho
+# Mặc định (đổi ở đầu file 5_tao_cau_hoi.py): 10 trắc nghiệm, 2 tự luận, độ khó vừa.
+# Ví dụ (bỏ dấu # ở đầu dòng để dùng):
+# Bài 2. Carbohydrate, lipid, protid | tập trung vào so sánh và số liệu | tn=15 | tl=3 | kho=kho

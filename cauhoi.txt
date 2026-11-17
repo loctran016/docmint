@@ -1,6 +1,0 @@
-# Mỗi dòng một bài:  Tên bài | lưu ý riêng (tùy chọn) | tn=số câu trắc nghiệm | tl=số câu tự luận | kho=de/vua/kho
-# Các phần sau tên bài đều tùy chọn và đặt theo thứ tự nào cũng được. Không ghi thì dùng mặc định
-# (10 trắc nghiệm, 2 tự luận, độ khó vừa) trong đầu file 5_tao_cau_hoi.py.
-Bài 1. Dinh dưỡng và sức khỏe
-Bài 2. Carbohydrate, lipid, protid | tập trung vào so sánh và số liệu | tn=15 | tl=3 | kho=kho
-Liên hệ thực tế 1: Dinh dưỡng lâm sàng, định nghĩa, đào tạo, lịch sử | tn=5 | tl=0 | kho=de

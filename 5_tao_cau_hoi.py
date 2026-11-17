@@ -5,6 +5,8 @@
 """
 Nhờ NotebookLM soạn câu hỏi ôn tập cho từng bài trong sách.
 
+Danh sách bài: đọc cau_hoi.txt trước (hoặc cauhoi.txt, tên cũ); nếu chưa có bài nào thì dùng giao_trinh.txt.
+
 Hai chế độ (--mode):
     md    (mặc định) NotebookLM viết đề dạng Markdown (trắc nghiệm + tự luận + đáp án) -> file .md
     quiz  dùng tính năng Quiz của NotebookLM rồi tải về (markdown/json/html)
@@ -12,24 +14,24 @@ Hai chế độ (--mode):
 
 Cách chạy (từ thư mục toolkit):
     uv run 5_tao_cau_hoi.py --test            # thử bài đầu tiên, in ra màn hình
-    uv run 5_tao_cau_hoi.py                   # chế độ md cho toàn bộ cauhoi.txt
+    uv run 5_tao_cau_hoi.py                   # chế độ md cho toàn bộ danh sách
     uv run 5_tao_cau_hoi.py --mode both       # md + Quiz
     uv run 5_tao_cau_hoi.py --quiz-info       # xem tham số thật của hàm tạo Quiz trong thư viện
 
-Kết quả: ket_qua/cau_hoi/
+Kết quả: <đầu ra gốc>/cau_hoi/
 """
 import argparse
 import asyncio
 import inspect
 import random
-from pathlib import Path
 
 from notebooklm import NotebookLMClient
 
 import common
 
 # ================= CẤU HÌNH =================
-OUT_DIR = Path("ket_qua/cau_hoi")
+FEATURE_FILES = ["cau_hoi.txt", "cauhoi.txt"]
+OUT_NAME = "cau_hoi"
 SO_TRAC_NGHIEM = 10           # mặc định, có thể ghi đè từng bài bằng tn=...
 SO_TU_LUAN = 2                # mặc định, ghi đè bằng tl=... (0 = không có tự luận)
 DO_KHO = "vừa"                # mặc định, ghi đè bằng kho=de|vua|kho
@@ -37,7 +39,6 @@ TIMEOUT = 300
 QUIZ_TIMEOUT = 600
 MAX_RETRY = 3
 
-OPTS = {"tn", "tl", "kho"}
 KHO_MAP = {"de": "dễ", "dễ": "dễ", "vua": "vừa", "vừa": "vừa", "kho": "khó", "khó": "khó"}
 
 PROMPT = """Hãy soạn một đề kiểm tra để tôi tự ôn tập {BAI} trong sách. Chỉ dùng nội dung nằm trong bài này, bỏ qua các câu hỏi trước, không lấy từ các bài khác.
@@ -93,7 +94,7 @@ def build_prompt(item):
                   .replace("{TL_GOI_Y}", tl_goi_y))
 
 
-async def make_quiz(client, nb_id, idx, item, fmt):
+async def make_quiz(client, nb_id, idx, item, fmt, out_dir):
     """Tạo Quiz bằng tính năng của NotebookLM rồi tải về. Trả về đường dẫn hoặc None."""
     title = item["title"]
     gen = client.artifacts.generate_quiz
@@ -113,8 +114,8 @@ async def make_quiz(client, nb_id, idx, item, fmt):
             client.artifacts.wait_for_completion(nb_id, status.task_id),
             timeout=QUIZ_TIMEOUT)
         ext = {"markdown": "md", "json": "json", "html": "html"}[fmt]
-        OUT_DIR.mkdir(parents=True, exist_ok=True)
-        path = OUT_DIR / f"{idx:02d} - {common.safe_filename(title)} (Quiz).{ext}"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        path = out_dir / f"{idx:02d} - {common.safe_filename(title)} (Quiz).{ext}"
         await client.artifacts.download_quiz(nb_id, str(path), output_format=fmt)
         return path
     except Exception as e:  # noqa: BLE001
@@ -124,18 +125,9 @@ async def make_quiz(client, nb_id, idx, item, fmt):
 
 def parse_args():
     ap = argparse.ArgumentParser(description="Tạo câu hỏi ôn tập bằng NotebookLM")
-    ap.add_argument("notebook_id", nargs="?",
-                    help="ID hoặc URL notebook (bỏ trống thì đọc notebook_id.txt)")
-    ap.add_argument("--file", default="cauhoi.txt", help="file danh sách (mặc định cauhoi.txt)")
+    common.add_common_args(ap)
     ap.add_argument("--mode", choices=["md", "quiz", "both"], default="md")
     ap.add_argument("--quiz-format", choices=["markdown", "json", "html"], default="markdown")
-    ap.add_argument("--test", action="store_true",
-                    help="chỉ chạy một bài, in kết quả ra màn hình, không lưu file md")
-    ap.add_argument("--only", help="chỉ chạy các bài theo số thứ tự, ví dụ 1,3-5")
-    ap.add_argument("--force", action="store_true", help="làm lại cả bài đã có file")
-    ap.add_argument("--strip-cite", action="store_true", help="xóa số trích dẫn [1], [2, 3]")
-    ap.add_argument("--frontmatter", action="store_true", help="thêm YAML frontmatter cho Obsidian")
-    ap.add_argument("--delay", default="5,10", help="nghỉ ngẫu nhiên giữa các bài (giây)")
     ap.add_argument("--quiz-info", action="store_true",
                     help="in tham số của hàm tạo/tải Quiz rồi thoát")
     return ap.parse_args()
@@ -152,15 +144,16 @@ async def main():
         return
 
     nb_id = common.read_notebook_id(args.notebook_id)
-    items = common.parse_list_file(args.file, known_opts=OPTS)
-    if not items:
-        raise SystemExit(f"{args.file} chưa có bài nào.")
+    list_path, items = common.resolve_list(FEATURE_FILES, args.file)
+    print(f"Danh sách đang dùng: {list_path} ({len(items)} bài)")
 
+    root = common.get_out_root(args.out_root)
+    out_dir = root / OUT_NAME
     only = common.parse_only(args.only)
     if args.test and not only:
         only = {1}
     delay = common.parse_delay(args.delay)
-    state = common.State(OUT_DIR / ".state.json")
+    state = common.State(out_dir / ".state.json")
     do_md = args.mode in ("md", "both")
     do_quiz = args.mode in ("quiz", "both")
 
@@ -194,9 +187,10 @@ async def main():
                         print("=" * 60)
                     else:
                         path = common.save_markdown(
-                            OUT_DIR, idx, f"Đề kiểm tra: {title}", answer,
+                            out_dir, idx, f"Đề kiểm tra: {title}", answer,
                             strip_cite=args.strip_cite, frontmatter=args.frontmatter,
-                            tags=["de-kiem-tra"], old_file=old)
+                            tags=["de-kiem-tra"], old_file=old,
+                            obs=common.make_obs(args, item, "Đề kiểm tra"))
                         state.set_file(key, path)
                         done.append(key)
                         print(f"  -> Đã lưu: {path}")
@@ -208,7 +202,7 @@ async def main():
                     print("  (quiz) bỏ qua, đã có file")
                     skipped.append(key)
                 else:
-                    path = await make_quiz(client, nb_id, idx, item, args.quiz_format)
+                    path = await make_quiz(client, nb_id, idx, item, args.quiz_format, out_dir)
                     if path is None:
                         failed.append(key)
                     else:
@@ -221,6 +215,7 @@ async def main():
                 return
             await asyncio.sleep(random.uniform(*delay))
 
+    common.finish_obsidian(args, root)
     print("\n==== TỔNG KẾT ====")
     print(f"Xong: {len(done)} | Bỏ qua: {len(skipped)} | Không tìm thấy: {len(not_found)} | Lỗi: {len(failed)}")
     for label, lst in (("Không tìm thấy trong nguồn", not_found), ("Lỗi", failed)):
@@ -228,7 +223,7 @@ async def main():
             print(f"{label} (chạy lại sẽ tự thử lại):")
             for t in lst:
                 print("  -", t)
-    print("Thư mục kết quả:", OUT_DIR)
+    print("Thư mục kết quả:", out_dir)
 
 
 if __name__ == "__main__":

@@ -5,32 +5,31 @@
 """
 Nhờ NotebookLM giảng từng bài trong sách, mỗi bài một prompt, lưu mỗi bài thành một file .md.
 
+Danh sách bài: đọc giang_bai.txt trước; nếu file đó chưa có bài nào thì dùng giao_trinh.txt.
+
 Cách chạy (từ thư mục toolkit):
     uv run 4_giang_bai.py --test          # thử bài đầu tiên, in ra màn hình, không lưu
-    uv run 4_giang_bai.py                 # chạy toàn bộ bai.txt
-    uv run 4_giang_bai.py --only 2,5-7    # chỉ chạy bài thứ 2 và 5 đến 7 trong bai.txt
-    uv run 4_giang_bai.py --force         # làm lại cả những bài đã có file
+    uv run 4_giang_bai.py                 # chạy toàn bộ danh sách
+    uv run 4_giang_bai.py --only 2,5-7    # chỉ chạy bài thứ 2 và 5 đến 7 trong danh sách
+    uv run 4_giang_bai.py --obsidian      # chế độ Obsidian (wikilink, frontmatter, note mục lục)
 
-Kết quả: ket_qua/giang_bai/01 - <tiêu đề bài>.md ...
+Kết quả: <đầu ra gốc>/giang_bai/01 - <tiêu đề bài>.md ...  (đầu ra gốc mặc định: ket_qua)
 """
 import argparse
 import asyncio
 import random
-from pathlib import Path
 
 from notebooklm import NotebookLMClient
 
 import common
 
 # ================= CẤU HÌNH =================
-OUT_DIR = Path("ket_qua/giang_bai")
+FEATURE_FILES = ["giang_bai.txt"]
+OUT_NAME = "giang_bai"
 TOM_TAT_MAC_DINH = True       # thêm phần "Tóm tắt nhanh" cuối bài
 CAU_HOI_MAC_DINH = True       # thêm phần "Câu hỏi tự kiểm tra" cuối bài
 TIMEOUT = 300                 # giây, tối đa chờ một câu trả lời
 MAX_RETRY = 3
-
-# Cờ viết trong bai.txt (trường thứ 2 trở đi) để ghi đè mặc định cho từng bài
-FLAGS = {"tomtat", "khongtomtat", "cauhoi", "khongcauhoi"}
 
 PROMPT = """Hãy giảng cho tôi {BAI} trong sách. Bám sát bố cục của chính bài này trong sách: dùng đúng tên và thứ tự các mục, tiểu mục như sách trình bày. Chỉ dùng nội dung nằm trong bài này, bỏ qua các câu hỏi trước, không lấy từ các bài khác.
 
@@ -83,36 +82,25 @@ def decide(flags, args):
 
 def parse_args():
     ap = argparse.ArgumentParser(description="Giảng bài bằng NotebookLM")
-    ap.add_argument("notebook_id", nargs="?",
-                    help="ID hoặc URL notebook (bỏ trống thì đọc notebook_id.txt)")
-    ap.add_argument("--file", default="bai.txt", help="file danh sách bài (mặc định bai.txt)")
-    ap.add_argument("--test", action="store_true",
-                    help="chỉ chạy một bài, in kết quả ra màn hình, không lưu file")
-    ap.add_argument("--only", help="chỉ chạy các bài theo số thứ tự trong file, ví dụ 1,3-5")
-    ap.add_argument("--force", action="store_true", help="làm lại cả bài đã có file")
-    ap.add_argument("--strip-cite", action="store_true",
-                    help="xóa số trích dẫn kiểu [1], [2, 3] khỏi file")
-    ap.add_argument("--frontmatter", action="store_true",
-                    help="thêm YAML frontmatter (title, tags, created) cho Obsidian")
+    common.add_common_args(ap)
     ap.add_argument("--no-tomtat", action="store_true", help="không thêm phần tóm tắt nhanh")
     ap.add_argument("--no-cauhoi", action="store_true", help="không thêm câu hỏi tự kiểm tra")
-    ap.add_argument("--delay", default="5,10",
-                    help="nghỉ ngẫu nhiên giữa các bài, đơn vị giây (mặc định 5,10)")
     return ap.parse_args()
 
 
 async def main():
     args = parse_args()
     nb_id = common.read_notebook_id(args.notebook_id)
-    items = common.parse_list_file(args.file, known_flags=FLAGS)
-    if not items:
-        raise SystemExit(f"{args.file} chưa có bài nào.")
+    list_path, items = common.resolve_list(FEATURE_FILES, args.file)
+    print(f"Danh sách đang dùng: {list_path} ({len(items)} bài)")
 
+    root = common.get_out_root(args.out_root)
+    out_dir = root / OUT_NAME
     only = common.parse_only(args.only)
     if args.test and not only:
         only = {1}
     delay = common.parse_delay(args.delay)
-    state = common.State(OUT_DIR / ".state.json")
+    state = common.State(out_dir / ".state.json")
 
     done, skipped, not_found, failed = [], [], [], []
 
@@ -152,15 +140,17 @@ async def main():
                 return
 
             path = common.save_markdown(
-                OUT_DIR, idx, title, answer,
+                out_dir, idx, title, answer,
                 strip_cite=args.strip_cite, frontmatter=args.frontmatter,
-                tags=["giang-bai"], old_file=old)
+                tags=["giang-bai"], old_file=old,
+                obs=common.make_obs(args, item, "Bài giảng"))
             state.set_file(title, path)
             done.append(title)
             print(f"  -> Đã lưu: {path}")
 
             await asyncio.sleep(random.uniform(*delay))
 
+    common.finish_obsidian(args, root)
     print("\n==== TỔNG KẾT ====")
     print(f"Xong: {len(done)} | Bỏ qua: {len(skipped)} | Không tìm thấy: {len(not_found)} | Lỗi: {len(failed)}")
     for label, lst in (("Không tìm thấy trong nguồn", not_found), ("Lỗi", failed)):
@@ -168,7 +158,7 @@ async def main():
             print(f"{label} (chạy lại sẽ tự thử lại):")
             for t in lst:
                 print("  -", t)
-    print("Thư mục kết quả:", OUT_DIR)
+    print("Thư mục kết quả:", out_dir)
 
 
 if __name__ == "__main__":

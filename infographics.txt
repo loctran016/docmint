@@ -1,0 +1,4 @@
+# Danh sách RIÊNG cho chức năng tạo INFOGRAPHIC. Để trống (chỉ có chú thích) thì dùng giao_trinh.txt.
+# Cách viết:  Tên bài | lưu ý riêng | key=value (vd orientation=portrait, tên tham số xem bằng --api-info)
+# Ví dụ (bỏ dấu # ở đầu dòng để dùng):
+# Bài 2. Carbohydrate, lipid, protid | nhấn mạnh bảng so sánh | orientation=portrait

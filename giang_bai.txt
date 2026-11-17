@@ -1,0 +1,4 @@
+# Danh sách RIÊNG cho chức năng GIẢNG BÀI. Để trống (chỉ có chú thích) thì dùng giao_trinh.txt.
+# Cách viết giống giao_trinh.txt:  Tên bài | lưu ý riêng | cờ (tomtat, khongtomtat, cauhoi, khongcauhoi)
+# Ví dụ (bỏ dấu # ở đầu dòng để dùng):
+# Bài 2. Carbohydrate, lipid, protid | giảng kỹ phần chuyển hóa | khongcauhoi
