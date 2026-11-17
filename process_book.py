@@ -20,6 +20,10 @@ Nhiều key x nhiều model:
   - GEMINI_MODEL=modelA,modelB,modelC
   Script tạo các cặp (key, model) và đi theo vòng xoay hai chiều (ping-pong) 0->1->...->N->N->...->1->0.
   Một cặp lỗi liên tiếp --switch-after lần thì nhảy sang cặp kế.
+  Máy chủ quá tải (503/504 "high demand") thì model đó nghỉ --peak-wait giây (mặc định 5 phút) và script
+  chuyển sang model khác còn quota; nếu mọi model đều quá tải thì chờ đủ 5 phút rồi thử lại.
+  Gemini từ chối chép một trang (RECITATION, nghi trùng văn bản có bản quyền) thì chỉ trang đó được thử lại
+  bằng model KHÁC (model cũ không bị phạt nghỉ); model thứ hai cũng từ chối thì ghi nhận thất bại, chạy lại sau.
   Hết quota ngày thì cặp đó nghỉ --cooldown giây (mặc định 15 phút) rồi được thử lại để vét "soft limit";
   báo hết quota ngày 3 lần liên tiếp thì khóa cứng đến hết hôm nay. Chỉ khi MỌI cặp đều khóa cứng mới dừng (exit 0).
 
@@ -38,6 +42,7 @@ Cách dùng (thường chạy qua menu -> [15]):
     uv run process_book.py --pages-per-req 3     # gộp 3 trang mỗi request (1, 2 hoặc 3)
     uv run process_book.py --keys k1,k2          # nhiều key (hoặc GEMINI_API_KEYS trong .env)
     uv run process_book.py --max-runtime 20400   # tối đa 5 giờ 40 phút
+    uv run process_book.py --peak-wait 600       # quá tải thì chờ 10 phút thay vì 5 phút
     uv run process_book.py --timeout 60 --switch-after 1   # chuyển cặp ngay sau lỗi đầu tiên
 
 API key: GEMINI_API_KEYS (nhiều key, cách nhau dấu phẩy) hoặc GEMINI_API_KEY trong file .env / biến môi trường.
@@ -94,6 +99,8 @@ DEFAULT_RETRIES = 6      # số lần thử lại khi bị 429 theo phút / lỗ
 DEFAULT_PAGES_PER_REQ = 2
 DEFAULT_COOLDOWN = 900.0  # giây nghỉ của một cặp sau khi báo hết quota ngày (15 phút)
 HARD_AFTER = 3            # báo hết quota ngày liên tiếp ngần này lần thì khóa cứng trong ngày
+DEFAULT_PEAK_WAIT = 300.0  # giây một model nghỉ khi máy chủ báo quá tải (high demand)
+DEFAULT_PEAK_RETRIES = 6   # số đợt quá tải liên tiếp cho MỘT request trước khi bỏ qua trang đó (tránh kẹt vô hạn)
 
 SENTINEL = "<<TRANG_TRONG>>"
 TEMPERATURES = [0.1, 0.3, 0.5]  # lần đầu 0.1; chỉ tăng nếu Gemini trả về rỗng
@@ -269,7 +276,7 @@ SAFETY_OFF = [
 
 def classify_error(e: Exception) -> tuple[str, float | None]:
     """Trả về (loại, số giây chờ gợi ý).
-    Loại: daily | rate | transient | badrequest | nomodel | fatal
+    Loại: daily | rate | overload | transient | badrequest | nomodel | fatal
     """
     msg = str(e)
     low = msg.lower()
@@ -289,7 +296,11 @@ def classify_error(e: Exception) -> tuple[str, float | None]:
             if retry_after and retry_after > 180:
                 return "daily", retry_after
             return "rate", retry_after
-        if code in (500, 502, 503, 504) or status in ("UNAVAILABLE", "INTERNAL", "DEADLINE_EXCEEDED"):
+        # máy chủ quá tải (peak demand): 503 UNAVAILABLE / 504 DEADLINE_EXCEEDED -> nghỉ model đó vài phút
+        if (code in (503, 504) or status in ("UNAVAILABLE", "DEADLINE_EXCEEDED")
+                or re.search(r"high demand|overloaded", low)):
+            return "overload", retry_after
+        if code in (500, 502) or status == "INTERNAL":
             return "transient", retry_after
         if code in (401, 403) or "api key not valid" in low or "api_key_invalid" in low:
             return "fatal", None
@@ -402,7 +413,8 @@ class Transcriber:
     def __init__(self, keys: list[str], models: list[str], system_prompt: str, single_text: str,
                  topic: str, timeout: float, max_retries: int, delay: float,
                  switch_after: int = DEFAULT_SWITCH_AFTER, cooldown: float = DEFAULT_COOLDOWN,
-                 deadline: float | None = None):
+                 deadline: float | None = None, peak_wait: float = DEFAULT_PEAK_WAIT,
+                 peak_retries: int = DEFAULT_PEAK_RETRIES):
         self.clients = {k: get_client(k, timeout) for k in keys}
         multi = len(keys) > 1
         # model đứng trước (ưu tiên) được trải đều qua mọi key trước khi tới model sau
@@ -422,6 +434,9 @@ class Transcriber:
         self.switch_after = max(1, switch_after)
         self.cooldown = max(0.0, cooldown)
         self.deadline = deadline
+        self.peak_wait = max(0.0, peak_wait)
+        self.peak_retries = max(1, peak_retries)
+        self.model_peak: dict[str, float] = {}  # model -> mốc monotonic được dùng lại sau khi quá tải
         self.last_label = self.cur.label
         self.last_fatal = ""
 
@@ -437,18 +452,28 @@ class Transcriber:
             time.sleep(sec)
 
     # ---- chọn cặp --------------------------------------------------------
-    @staticmethod
-    def _usable(s: Slot, now: float) -> bool:
-        return (not s.hard) and s.cooldown_until <= now and s.rate_until <= now
+    def _ready_at(self, s: Slot) -> float:
+        return max(s.cooldown_until, s.rate_until, self.model_peak.get(s.model, 0.0))
 
-    def _advance(self) -> bool:
-        """Nhảy sang cặp dùng được kế tiếp theo vòng ping-pong (bỏ qua chính cặp hiện tại)."""
+    def _usable(self, s: Slot, now: float) -> bool:
+        return (not s.hard) and self._ready_at(s) <= now
+
+    def _set_cur(self, s: Slot) -> None:
+        self.cur = s
+        for i, idx in enumerate(self.order):
+            if self.slots[idx] is s:
+                self.pos = i
+                break
+
+    def _advance(self, exclude_models: set[str] | None = None) -> bool:
+        """Nhảy sang cặp dùng được kế tiếp theo vòng ping-pong (bỏ qua chính cặp hiện tại
+        và các cặp thuộc model trong exclude_models)."""
         now = time.monotonic()
         cur = self.cur
         for _ in range(len(self.order)):
             self.pos = (self.pos + 1) % len(self.order)
             s = self.slots[self.order[self.pos]]
-            if s is cur:
+            if s is cur or (exclude_models and s.model in exclude_models):
                 continue
             if self._usable(s, now):
                 self.cur = s
@@ -473,10 +498,10 @@ class Transcriber:
             if self._advance():
                 return self.cur
             alive = [s for s in self.slots if not s.hard]
-            soonest = min(alive, key=lambda s: max(s.cooldown_until, s.rate_until))
-            wait = max(max(soonest.cooldown_until, soonest.rate_until) - now, 0.5)
+            soonest = min(alive, key=self._ready_at)
+            wait = max(self._ready_at(soonest) - now, 0.5)
             hard_n = sum(1 for s in self.slots if s.hard)
-            log(f"    ⏳ mọi cặp đang nghỉ/giới hạn ({hard_n}/{len(self.slots)} đã khóa cứng): "
+            log(f"    ⏳ mọi cặp đang nghỉ/quá tải/giới hạn ({hard_n}/{len(self.slots)} đã khóa cứng): "
                 f"chờ {wait / 60:.1f} phút đến khi {soonest.label} dùng lại được")
             self.sleep(wait)
             self.cur = soonest
@@ -538,6 +563,9 @@ class Transcriber:
         """Gửi một request (1 hoặc nhiều ảnh rời).
         Trả về (văn bản thô hoặc None nếu thất bại, ghi chú, bị cắt do MAX_TOKENS)."""
         empty_tries = 0
+        peaks = 0
+        recited: set[str] = set()      # các model đã từ chối chép (RECITATION) cho request này
+        home: Slot | None = None       # cặp ban đầu, để quay về sau khi đổi model vì RECITATION
         while True:
             slot = self.acquire()
             temperature = TEMPERATURES[min(empty_tries, len(TEMPERATURES) - 1)]
@@ -558,6 +586,18 @@ class Transcriber:
                     continue
                 if kind == "badrequest":
                     return None, short, False
+                if kind == "overload":
+                    # Quá tải là của CẢ model (mọi key): nghỉ model này, chuyển sang model khác còn quota.
+                    # Mọi model đều quá tải thì acquire() tự chờ đến khi model nghỉ sớm nhất dùng lại được.
+                    peaks += 1
+                    if peaks > self.peak_retries:
+                        return None, (f"máy chủ quá tải liên tục ({self.peak_retries} đợt), bỏ qua: {detail}"), False
+                    self.model_peak[slot.model] = time.monotonic() + self.peak_wait
+                    log(f"    ⏳ {slot.model}: máy chủ quá tải (đợt {peaks}/{self.peak_retries}) → nghỉ model này "
+                        f"{self.peak_wait / 60:.0f} phút | {detail}")
+                    if self._advance():
+                        log(f"    → chuyển sang {self.cur.label}")
+                    continue
 
                 # rate (429 theo phút) hoặc transient
                 slot.errs += 1
@@ -593,10 +633,22 @@ class Transcriber:
             if text:
                 slot.daily_hits = 0  # Google vẫn nhả slot: bỏ đếm khóa cứng
                 self.last_label = slot.label
+                if home is not None and home is not slot and self._usable(home, time.monotonic()):
+                    self._set_cur(home)  # chỉ trang vướng RECITATION dùng model khác, trang sau quay về model cũ
                 truncated = "MAX_TOKENS" in finish.upper()
                 return text, ("bị cắt do MAX_TOKENS" if truncated else ""), truncated
-            empty_tries += 1
             reason = block or finish or "rỗng"
+            if "RECITATION" in finish.upper():
+                # Đổi sang model khác cho riêng request này; model cũ KHÔNG bị phạt nghỉ
+                recited.add(slot.model)
+                if home is None:
+                    home = slot
+                if self._advance(recited):
+                    log(f"    ↺ {slot.model}: Gemini từ chối chép (RECITATION) → thử lại bằng {self.cur.label}")
+                    continue
+                return None, (f"Gemini trả về rỗng ({reason}) trên mọi model còn dùng được "
+                              f"({', '.join(sorted(recited))})"), False
+            empty_tries += 1
             if empty_tries >= len(TEMPERATURES):
                 return None, f"Gemini trả về rỗng ({reason})", False
             log(f"    … phản hồi rỗng ({reason}); thử lại {empty_tries}/{len(TEMPERATURES) - 1}")
@@ -922,6 +974,10 @@ def parse_args() -> argparse.Namespace:
                     help=f"số lần lỗi liên tiếp thì chuyển sang cặp (key, model) kế (mặc định {DEFAULT_SWITCH_AFTER})")
     ap.add_argument("--cooldown", type=float, default=DEFAULT_COOLDOWN,
                     help=f"giây một cặp nghỉ sau khi báo hết quota ngày (mặc định {DEFAULT_COOLDOWN:g} = 15 phút)")
+    ap.add_argument("--peak-wait", type=float, default=DEFAULT_PEAK_WAIT,
+                    help=f"giây một model nghỉ khi máy chủ báo quá tải 503/504 (mặc định {DEFAULT_PEAK_WAIT:g} = 5 phút)")
+    ap.add_argument("--peak-retries", type=int, default=DEFAULT_PEAK_RETRIES,
+                    help=f"số đợt quá tải liên tiếp cho một request trước khi bỏ qua trang (mặc định {DEFAULT_PEAK_RETRIES})")
     ap.add_argument("--max-runtime", type=float, default=0,
                     help="tổng thời gian chạy tối đa (giây); chạm mức này thì dừng êm, gộp file, exit 0 "
                          "(0 = không giới hạn; GitHub Actions dùng 20400)")
@@ -979,7 +1035,8 @@ def main() -> int:
             topic = (f" Chủ đề sách: {args.chu_de.strip()} "
                      "(chỉ dùng làm ngữ cảnh để đọc đúng thuật ngữ).")
         transcriber = Transcriber(keys, models, SYSTEM_PROMPT, user_text + topic, topic, args.timeout,
-                                  args.retries, args.delay, args.switch_after, args.cooldown, deadline)
+                                  args.retries, args.delay, args.switch_after, args.cooldown, deadline,
+                                  args.peak_wait, args.peak_retries)
 
     pairs = f" | {len(keys)} key x {len(models)} model = {len(keys) * len(models)} cặp" if keys else ""
     runtime = f" | tối đa chạy {args.max_runtime / 60:.0f} phút" if deadline else ""
