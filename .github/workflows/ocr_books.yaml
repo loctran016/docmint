@@ -50,7 +50,7 @@ jobs:
       IN_PPR: ${{ github.event.inputs.pages_per_req }}
     steps:
       - name: Checkout (code + checkpoint output_md/.pages từ các lần trước)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Tải PDF từ GitHub Release (tag pdfs-input)
         run: |
@@ -59,7 +59,7 @@ jobs:
           ls -la input_pdfs
 
       - name: Cài uv
-        uses: astral-sh/setup-uv@v4
+        uses: astral-sh/setup-uv@v10
 
       - name: Chạy OCR (dừng êm sau 5 giờ 40 phút)
         run: |
