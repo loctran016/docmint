@@ -27,6 +27,12 @@ Nhiều key x nhiều model:
   Hết quota ngày thì cặp đó nghỉ --cooldown giây (mặc định 15 phút) rồi được thử lại để vét "soft limit";
   báo hết quota ngày 3 lần liên tiếp thì khóa cứng đến hết hôm nay. Chỉ khi MỌI cặp đều khóa cứng mới dừng (exit 0).
 
+Key trả phí (chốt chặn cuối): đặt GEMINI_PAID_API_KEY và chạy với --allow-paid. Chỉ dùng khi MỌI cặp miễn phí đã
+khóa cứng vì hết quota ngày; tối đa --paid-max-pages trang mỗi lần chạy; cuối phiên in số trang/token đã dùng.
+Flash-Lite luôn chạy --lite-pages trang/request (mặc định 1). Mỗi trang ghi lại model đã chép (sources.json);
+--redo-models modelA,modelB làm lại riêng các trang do model đó chép (khi quota model tốt hơn đã hồi).
+Trang chụp thiếu sáng được tăng tương phản mạnh hơn tự động (--dark-threshold, 0 = tắt).
+
 Gộp trang: --pages-per-req 2 gửi 2 ảnh rời trong 1 request (tiết kiệm RPD). Nếu Gemini trả thiếu/sai thẻ
 <<<PAGE_xxxxx>>> hoặc bị cắt (MAX_TOKENS) thì tự chạy lại từng trang một.
 
@@ -78,7 +84,7 @@ except ImportError:  # bản cũ
 from dotenv import load_dotenv
 from google import genai
 from google.genai import errors, types
-from PIL import Image, ImageEnhance, ImageOps
+from PIL import Image, ImageEnhance, ImageOps, ImageStat
 
 # ----------------------------------------------------------------------------
 # Cấu hình mặc định (đổi bằng tham số dòng lệnh hoặc biến môi trường / .env)
@@ -89,7 +95,10 @@ DEFAULT_OUT = BASE / "output_md"
 
 # Tên model có thể đổi theo thời gian: kiểm tra bằng --list-models.
 # Có thể ghi nhiều model, cách nhau dấu phẩy. Mỗi (key, model) có quota riêng; model không tồn tại thì bị bỏ qua.
-DEFAULT_MODEL = "gemini-3.8-flash,gemini-3.6-flash,gemini-2.5-flash"
+# Thứ tự ưu tiên (theo bảng quota gói miễn phí): Flash chất lượng cao 20 RPD/key, rồi Flash-Lite 500 RPD/key.
+# Model quota 0 trên gói miễn phí (2 Flash, 2 Flash Lite, 2.5 Pro, 3.1 Pro) cố ý không đưa vào.
+DEFAULT_MODEL = ("gemini-3.8-flash,gemini-3.6-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite,"
+                 "gemini-2.5-flash,gemini-2.5-flash-lite")
 DEFAULT_DELAY = 6.0      # giây giữa hai request (REQUEST_DELAY)
 DEFAULT_TIMEOUT = 120.0  # giây tối đa chờ MỖI lần gọi Gemini (REQUEST_TIMEOUT); quá hạn coi là lỗi tạm thời
 DEFAULT_SWITCH_AFTER = 2  # số lần lỗi liên tiếp trên một cặp thì chuyển sang cặp kế
@@ -101,6 +110,12 @@ DEFAULT_COOLDOWN = 900.0  # giây nghỉ của một cặp sau khi báo hết qu
 HARD_AFTER = 3            # báo hết quota ngày liên tiếp ngần này lần thì khóa cứng trong ngày
 DEFAULT_PEAK_WAIT = 300.0  # giây một model nghỉ khi máy chủ báo quá tải (high demand)
 DEFAULT_PEAK_RETRIES = 6   # số đợt quá tải liên tiếp cho MỘT request trước khi bỏ qua trang đó (tránh kẹt vô hạn)
+
+DEFAULT_LITE_PAGES = 1     # Flash-Lite: số trang tối đa mỗi request (1 trang an toàn nhất, request còn thừa)
+DEFAULT_PAID_MODEL = "gemini-3.1-flash-lite"
+DEFAULT_PAID_MAX_PAGES = 300  # trần số trang được phép dùng key trả phí trong MỘT lần chạy
+DEFAULT_PAID_DELAY = 1.0   # giây nghỉ giữa hai request khi dùng key trả phí (không bị giới hạn 5-15 RPM)
+DARK_MEAN = 150            # độ sáng trung bình (0-255) dưới mức này coi là trang chụp thiếu sáng
 
 SENTINEL = "<<TRANG_TRONG>>"
 TEMPERATURES = [0.1, 0.3, 0.5]  # lần đầu 0.1; chỉ tăng nếu Gemini trả về rỗng
@@ -122,8 +137,11 @@ QUY TẮC BẮT BUỘC
 10. Chú thích cuối trang: giữ ở cuối trang dưới dạng đoạn văn bình thường.
 11. Trang trống, hoặc chỉ có hình trang trí không có chữ: trả về đúng một dòng `<<TRANG_TRONG>>`.
 12. CHỈ trả về nội dung Markdown của trang. Không lời dẫn, không giải thích, không bọc trong ```. (Khi lượt hỏi yêu cầu nhiều trang kèm thẻ `<<<PAGE_xxxxx>>>` thì làm đúng theo lượt hỏi: chỉ có các thẻ và nội dung từng trang.)
-13. Công thức tính toán, ký hiệu hóa học/sinh hóa có chỉ số trên/dưới phức tạp: viết bằng LaTeX, `$...$` nếu nằm cùng dòng với chữ, `$$...$$` đứng riêng một dòng nếu là công thức đứng riêng. Ký hiệu đơn giản (µg, mmol/L, ≥, ±, Na+...) giữ nguyên như quy tắc 8.
+13. Công thức tính toán, ký hiệu hóa học/sinh hóa có chỉ số trên/dưới phức tạp (ví dụ đồng vị phóng xạ $^{99m}\\text{Tc}$): viết bằng LaTeX, `$...$` nếu nằm cùng dòng với chữ, `$$...$$` đứng riêng một dòng nếu là công thức đứng riêng. Ký hiệu đơn giản (µg, mmol/L, ≥, ±, Na+...) giữ nguyên như quy tắc 8.
 14. Khung nhấn mạnh đặc biệt trong sách (như "Lưu ý lâm sàng", "Điểm mấu chốt", "Cần nhớ"): định dạng bằng blockquote, mỗi dòng bắt đầu bằng `> `, để tách khỏi văn bản chính. Giữ nguyên tiêu đề của khung nếu có.
+15. Chữ cái đầu đoạn được phóng to (drop cap) phải được nối liền với phần còn lại của từ: ví dụ chữ `D` lớn đứng trước `ịch tễ học` thì viết `Dịch tễ học`.
+16. Vệt bút dạ quang (vàng, xanh, cam...) chỉ là màu nền: vẫn đọc đầy đủ chữ nằm dưới vệt đó. Nét chữ hoặc hình mờ, ngược chiều (như chữ in ngược) thấm từ mặt sau tờ giấy không thuộc trang này nên bỏ qua. Chỉ bỏ khi chắc chắn là chữ ngược hoặc hằn từ mặt sau; chữ mờ nhưng thuộc dòng chữ của trang thì vẫn chép, không chắc thì ghi `[không rõ]`.
+17. Bỏ rác ở lề và chân trang: số trang đứng riêng lẻ (số Ả Rập hoặc số La Mã như `VI`), watermark của phần mềm scan (như `Scanned with CamScanner`). Nét gạch bút bi đánh dấu thủ công ở lề (nhất là lề phải) không phải chữ: không chép thành ký tự `/` hay bất kỳ ký tự nào.
 """
 
 
@@ -242,7 +260,20 @@ def find_pdfs(target: Path, book_filter: str | None) -> list[Path]:
 # ----------------------------------------------------------------------------
 # Ảnh trang: render -> xám -> tăng tương phản -> JPEG (một trang một lần)
 # ----------------------------------------------------------------------------
-def render_page(doc, index0: int, dpi: int, contrast: float, autocontrast: bool) -> bytes:
+def enhance_image(img, contrast: float, autocontrast: bool, dark_threshold: float):
+    """Tăng tương phản. Trang quá tối (độ sáng trung bình < dark_threshold, thường là ảnh chụp thiếu sáng)
+    được kéo giãn mạnh hơn tự động, không cần cờ riêng."""
+    dark = bool(dark_threshold) and ImageStat.Stat(img).mean[0] < dark_threshold
+    if autocontrast or dark:
+        img = ImageOps.autocontrast(img, cutoff=2 if dark else 1)
+    factor = max(contrast or 1.0, 1.3) if dark else contrast
+    if factor and abs(factor - 1.0) > 1e-6:
+        img = ImageEnhance.Contrast(img).enhance(factor)
+    return img
+
+
+def render_page(doc, index0: int, dpi: int, contrast: float, autocontrast: bool,
+                dark_threshold: float = DARK_MEAN) -> bytes:
     page = doc.load_page(index0)
     zoom = dpi / 72.0
     pix = page.get_pixmap(
@@ -250,10 +281,7 @@ def render_page(doc, index0: int, dpi: int, contrast: float, autocontrast: bool)
     )
     img = Image.frombytes("L", (pix.width, pix.height), pix.samples)
     del pix, page
-    if autocontrast:
-        img = ImageOps.autocontrast(img, cutoff=1)
-    if contrast and abs(contrast - 1.0) > 1e-6:
-        img = ImageEnhance.Contrast(img).enhance(contrast)
+    img = enhance_image(img, contrast, autocontrast, dark_threshold)
     buf = io.BytesIO()
     img.save(buf, format="JPEG", quality=90, optimize=True)
     img.close()
@@ -394,6 +422,15 @@ def get_client(key: str, timeout: float = DEFAULT_TIMEOUT) -> genai.Client:
     return genai.Client(api_key=key, http_options=types.HttpOptions(timeout=int(timeout * 1000)))
 
 
+def is_lite(model: str) -> bool:
+    return "flash-lite" in model.lower()
+
+
+def model_rpm(model: str) -> int:
+    """Giới hạn request/phút của gói miễn phí (theo bảng quota của AI Studio): Flash-Lite 15, Flash 5."""
+    return 15 if is_lite(model) else 5
+
+
 @dataclass
 class Slot:
     """Một cặp (api_key, model) với trạng thái quota riêng."""
@@ -401,12 +438,18 @@ class Slot:
     key_no: int
     model: str
     label: str
+    paid: bool = False            # True = key trả phí (chốt chặn cuối cùng)
     cooldown_until: float = 0.0   # mốc thời gian (monotonic) cặp được dùng lại sau khi hết quota ngày
     rate_until: float = 0.0       # mốc thời gian được dùng lại sau khi bị 429 theo phút
+    last_call: float = 0.0        # lần gọi gần nhất (để giữ đúng giới hạn request/phút)
     errs: int = 0                 # số lỗi liên tiếp (reset khi thành công)
     daily_hits: int = 0           # số lần liên tiếp báo hết quota ngày (reset khi thành công)
     hard: bool = False            # khóa cứng đến hết hôm nay
     reason: str = ""              # daily | nomodel | badkey
+
+
+class NeedSplit(Exception):
+    """Cặp hiện tại không nhận được ngần ấy ảnh trong một request: phải tách thành từng trang."""
 
 
 class Transcriber:
@@ -414,7 +457,9 @@ class Transcriber:
                  topic: str, timeout: float, max_retries: int, delay: float,
                  switch_after: int = DEFAULT_SWITCH_AFTER, cooldown: float = DEFAULT_COOLDOWN,
                  deadline: float | None = None, peak_wait: float = DEFAULT_PEAK_WAIT,
-                 peak_retries: int = DEFAULT_PEAK_RETRIES):
+                 peak_retries: int = DEFAULT_PEAK_RETRIES, lite_pages: int = DEFAULT_LITE_PAGES,
+                 paid_key: str = "", paid_model: str = DEFAULT_PAID_MODEL,
+                 paid_max_pages: int = DEFAULT_PAID_MAX_PAGES, paid_delay: float = DEFAULT_PAID_DELAY):
         self.clients = {k: get_client(k, timeout) for k in keys}
         multi = len(keys) > 1
         # model đứng trước (ưu tiên) được trải đều qua mọi key trước khi tới model sau
@@ -426,6 +471,18 @@ class Transcriber:
         self.order = list(range(n)) + list(range(n - 1, -1, -1))  # ping-pong: 0..N-1, N-1..0, rồi lặp lại
         self.pos = 0
         self.cur = self.slots[0]
+        # Key trả phí: KHÔNG nằm trong vòng xoay, chỉ dùng khi mọi cặp miễn phí đã khóa cứng vì hết quota ngày
+        self.paid: Slot | None = None
+        if paid_key:
+            if paid_key not in self.clients:
+                self.clients[paid_key] = get_client(paid_key, timeout)
+            self.paid = Slot(key=paid_key, key_no=0, model=paid_model, label=f"trả phí/{paid_model}", paid=True)
+        self.paid_max_pages = max(0, paid_max_pages)
+        self.paid_delay = max(0.0, paid_delay)
+        self.paid_pages = 0
+        self.paid_reqs = 0
+        self.paid_tokens = 0
+        self.lite_pages = max(1, lite_pages)
         self.system_prompt = system_prompt
         self.single_text = single_text
         self.topic = topic
@@ -437,7 +494,9 @@ class Transcriber:
         self.peak_wait = max(0.0, peak_wait)
         self.peak_retries = max(1, peak_retries)
         self.model_peak: dict[str, float] = {}  # model -> mốc monotonic được dùng lại sau khi quá tải
+        self.no_media_res: set[str] = set()     # model từ chối tham số media_resolution
         self.last_label = self.cur.label
+        self.last_source = self.cur.model
         self.last_fatal = ""
 
     # ---- thời gian -------------------------------------------------------
@@ -451,12 +510,32 @@ class Transcriber:
         if sec > 0:
             time.sleep(sec)
 
+    def delay_now(self, delay: float) -> float:
+        """Giây nghỉ giữa hai request: key trả phí không bị giới hạn 5-15 RPM nên nghỉ ngắn hơn."""
+        return min(delay, self.paid_delay) if self.cur.paid else delay
+
+    def _pace(self, slot: Slot) -> None:
+        """Giữ đúng giới hạn request/phút của từng model (Flash 5 RPM, Flash-Lite 15 RPM)."""
+        if slot.paid:
+            return
+        gap = 60.0 / model_rpm(slot.model)
+        wait = gap - (time.monotonic() - slot.last_call)
+        if wait > 0:
+            self.sleep(wait)
+
     # ---- chọn cặp --------------------------------------------------------
+    def cap(self, slot: Slot) -> int:
+        """Số trang tối đa gộp trong một request cho cặp này (Flash-Lite: --lite-pages, mặc định 1)."""
+        return self.lite_pages if is_lite(slot.model) else 3
+
     def _ready_at(self, s: Slot) -> float:
         return max(s.cooldown_until, s.rate_until, self.model_peak.get(s.model, 0.0))
 
     def _usable(self, s: Slot, now: float) -> bool:
         return (not s.hard) and self._ready_at(s) <= now
+
+    def _paid_ok(self) -> bool:
+        return (self.paid is not None and not self.paid.hard and self.paid_pages < self.paid_max_pages)
 
     def _set_cur(self, s: Slot) -> None:
         self.cur = s
@@ -488,11 +567,23 @@ class Transcriber:
     def acquire(self) -> Slot:
         """Trả về cặp dùng được ngay; nếu mọi cặp đang nghỉ thì ngủ đến khi có cặp đầu tiên hết nghỉ."""
         while True:
+            now = time.monotonic()
             if all(s.hard for s in self.slots):
+                p = self.paid
+                if any(s.reason == "daily" for s in self.slots) and self._paid_ok():
+                    if self.cur is not p:
+                        log(f"    💳 mọi key miễn phí đã hết quota → chuyển sang key TRẢ PHÍ ({p.model}), "
+                            f"tối đa {self.paid_max_pages} trang mỗi lần chạy")
+                        self.cur = p
+                    if self._usable(p, now):
+                        return p
+                    wait = max(self._ready_at(p) - now, 0.5)
+                    log(f"    ⏳ key trả phí đang nghỉ/quá tải: chờ {wait / 60:.1f} phút")
+                    self.sleep(wait)
+                    continue
                 if all(s.reason in ("nomodel", "badkey") for s in self.slots):
                     raise FatalError(self.last_fatal or "không còn cặp key/model nào dùng được")
                 raise QuotaExhausted()
-            now = time.monotonic()
             if self._usable(self.cur, now):
                 return self.cur
             if self._advance():
@@ -507,6 +598,9 @@ class Transcriber:
             self.cur = soonest
 
     # ---- đánh dấu trạng thái ----------------------------------------------
+    def _pool(self, slot: Slot) -> list[Slot]:
+        return [self.paid] if (slot.paid and self.paid) else self.slots
+
     def _daily(self, slot: Slot, short: str) -> None:
         slot.errs = 0
         slot.daily_hits += 1
@@ -523,14 +617,17 @@ class Transcriber:
     def _kill_model(self, slot: Slot, short: str) -> None:
         self.last_fatal = short
         log(f"    ⚠ model '{slot.model}' không tồn tại hoặc không dùng được với key này — {short[:140]}")
-        for s in self.slots:
+        for s in self._pool(slot):
             if s.model == slot.model:
                 s.hard, s.reason = True, "nomodel"
 
     def _kill_key(self, slot: Slot, short: str) -> None:
         self.last_fatal = short
-        log(f"    ⚠ key số {slot.key_no} bị từ chối (sai key hoặc không có quyền) — {short[:140]}")
-        for s in self.slots:
+        if slot.paid:
+            log(f"    ⚠ key TRẢ PHÍ bị từ chối (sai key, chưa bật billing hoặc không có quyền) — {short[:140]}")
+        else:
+            log(f"    ⚠ key số {slot.key_no} bị từ chối (sai key hoặc không có quyền) — {short[:140]}")
+        for s in self._pool(slot):
             if s.key_no == slot.key_no:
                 s.hard, s.reason = True, "badkey"
 
@@ -549,32 +646,38 @@ class Transcriber:
     def _call(self, slot: Slot, images: list[bytes], user_text: str, temperature: float):
         contents = [types.Part.from_bytes(data=img, mime_type="image/jpeg") for img in images]
         contents.append(user_text)
+        cfg = dict(system_instruction=self.system_prompt, temperature=temperature, safety_settings=SAFETY_OFF)
+        if slot.model not in self.no_media_res and hasattr(types, "MediaResolution"):
+            cfg["media_resolution"] = types.MediaResolution.MEDIA_RESOLUTION_HIGH  # giữ dấu tiếng Việt, chỉ số nhỏ
         return self.clients[slot.key].models.generate_content(
-            model=slot.model,
-            contents=contents,
-            config=types.GenerateContentConfig(
-                system_instruction=self.system_prompt,
-                temperature=temperature,
-                safety_settings=SAFETY_OFF,
-            ),
+            model=slot.model, contents=contents, config=types.GenerateContentConfig(**cfg),
         )
 
     def run_request(self, images: list[bytes], user_text: str) -> tuple[str | None, str, bool]:
         """Gửi một request (1 hoặc nhiều ảnh rời).
-        Trả về (văn bản thô hoặc None nếu thất bại, ghi chú, bị cắt do MAX_TOKENS)."""
+        Trả về (văn bản thô hoặc None nếu thất bại, ghi chú, bị cắt do MAX_TOKENS).
+        Ném NeedSplit nếu cặp hiện tại không nhận ngần ấy ảnh (Flash-Lite): người gọi tách thành từng trang."""
         empty_tries = 0
         peaks = 0
         recited: set[str] = set()      # các model đã từ chối chép (RECITATION) cho request này
         home: Slot | None = None       # cặp ban đầu, để quay về sau khi đổi model vì RECITATION
         while True:
             slot = self.acquire()
+            if len(images) > self.cap(slot):
+                raise NeedSplit()
             temperature = TEMPERATURES[min(empty_tries, len(TEMPERATURES) - 1)]
+            self._pace(slot)
             try:
+                slot.last_call = time.monotonic()
                 resp = self._call(slot, images, user_text, temperature)
             except Exception as e:  # noqa: BLE001
                 kind, retry_after = classify_error(e)
                 short = one_line(str(e))
                 detail = describe_error(e)
+                if kind == "badrequest" and "resolution" in short.lower() and slot.model not in self.no_media_res:
+                    self.no_media_res.add(slot.model)
+                    log(f"    ⚠ {slot.model}: không nhận tham số media_resolution → bỏ tham số này cho model đó")
+                    continue
                 if kind == "fatal":
                     self._kill_key(slot, short)
                     continue
@@ -614,7 +717,7 @@ class Transcriber:
                 wait += random.uniform(0, 2)
 
                 # Lỗi liên tiếp trên một cặp: nhảy sang cặp kế (nếu còn) thay vì chờ đủ số lần thử lại
-                if slot.errs >= self.switch_after and len(self.slots) > 1:
+                if slot.errs >= self.switch_after and len(self.slots) > 1 and not slot.paid:
                     old = slot
                     if kind == "rate":
                         old.rate_until = time.monotonic() + wait
@@ -630,9 +733,16 @@ class Transcriber:
 
             text, finish, block = extract_text(resp)
             slot.errs = 0
+            if slot.paid:
+                um = getattr(resp, "usage_metadata", None)
+                self.paid_reqs += 1
+                self.paid_tokens += int(getattr(um, "total_token_count", 0) or 0)
             if text:
                 slot.daily_hits = 0  # Google vẫn nhả slot: bỏ đếm khóa cứng
                 self.last_label = slot.label
+                self.last_source = slot.model + (" (trả phí)" if slot.paid else "")
+                if slot.paid:
+                    self.paid_pages += len(images)
                 if home is not None and home is not slot and self._usable(home, time.monotonic()):
                     self._set_cur(home)  # chỉ trang vướng RECITATION dùng model khác, trang sau quay về model cũ
                 truncated = "MAX_TOKENS" in finish.upper()
@@ -653,6 +763,14 @@ class Transcriber:
                 return None, f"Gemini trả về rỗng ({reason})", False
             log(f"    … phản hồi rỗng ({reason}); thử lại {empty_tries}/{len(TEMPERATURES) - 1}")
             self.sleep(self.delay)
+
+    def paid_note(self) -> str:
+        if self.paid is None:
+            return ""
+        if self.paid_reqs:
+            return (f"Key trả phí ({self.paid.model}): {self.paid_pages} trang, {self.paid_reqs} request, "
+                    f"{self.paid_tokens:,} token (đối chiếu với bảng giá hiện tại của Google để biết chi phí).")
+        return "Key trả phí: chưa phải dùng trong lần chạy này."
 
 
 # ----------------------------------------------------------------------------
@@ -681,42 +799,48 @@ def parse_batch(raw: str, expected: list[int]) -> dict[int, str] | None:
 
 
 def transcribe_pages(doc, nums: list[int], args, tr: Transcriber,
-                     out: dict[int, tuple[str | None, str]]) -> None:
+                     out: dict[int, tuple[str | None, str, str]]) -> None:
     """Chép các trang `nums`: gộp vào 1 request nếu có từ 2 trang; lỗi định dạng thì chạy lại từng trang.
-    Kết quả điền dần vào `out` (nên nếu bị ngắt giữa chừng thì phần đã xong vẫn được lưu)."""
+    Kết quả (văn bản, ghi chú, model đã chép) điền dần vào `out` (nếu bị ngắt giữa chừng thì phần đã xong vẫn được lưu)."""
     imgs: dict[int, bytes] = {}
     try:
         for n in nums:
             try:
-                imgs[n] = render_page(doc, n - 1, args.dpi, args.contrast, not args.no_autocontrast)
+                imgs[n] = render_page(doc, n - 1, args.dpi, args.contrast, not args.no_autocontrast,
+                                      args.dark_threshold)
             except Exception as e:  # noqa: BLE001  (vd. lỗi render một trang)
-                out[n] = (None, f"lỗi render: {one_line(str(e))}")
+                out[n] = (None, f"lỗi render: {one_line(str(e))}", "")
         good = [n for n in nums if n in imgs]
 
         if len(good) >= 2:
-            raw, note, truncated = tr.run_request([imgs[n] for n in good], tr.batch_text(good))
-            parsed = parse_batch(raw, good) if (raw is not None and not truncated) else None
-            if parsed is not None:
-                for n in good:
-                    out[n] = (parsed[n], "")
-                return
-            if raw is None:
-                why = note
-            elif truncated:
-                why = "chạm MAX_TOKENS"
+            try:
+                raw, note, truncated = tr.run_request([imgs[n] for n in good], tr.batch_text(good))
+            except NeedSplit:  # cặp hiện tại là Flash-Lite: chạy từng trang, không cần báo lỗi
+                raw, note, truncated = None, "", False
+                parsed = None
             else:
-                why = "thiếu hoặc sai thẻ phân tách trang"
-            log(f"    ↺ gộp {len(good)} trang không dùng được ({why}) → chạy lại từng trang")
+                parsed = parse_batch(raw, good) if (raw is not None and not truncated) else None
+                if parsed is not None:
+                    for n in good:
+                        out[n] = (parsed[n], "", tr.last_source)
+                    return
+                if raw is None:
+                    why = note
+                elif truncated:
+                    why = "chạm MAX_TOKENS"
+                else:
+                    why = "thiếu hoặc sai thẻ phân tách trang"
+                log(f"    ↺ gộp {len(good)} trang không dùng được ({why}) → chạy lại từng trang")
 
         for n in good:
             raw, note, truncated = tr.run_request([imgs[n]], tr.single_text)
             if raw is None:
-                out[n] = (None, note)
+                out[n] = (None, note, "")
                 continue
             text = clean_output(raw)
             if truncated:
                 text += "\n\n[không rõ — trang này có thể bị cắt cụt]"
-            out[n] = (text, note)
+            out[n] = (text, note, tr.last_source)
     finally:
         imgs.clear()
         gc.collect()
@@ -854,6 +978,15 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
             else:
                 atomic_write(meta_path, json.dumps(meta))
 
+        src_path = work / "sources.json"
+        sources: dict[str, str] = {}
+        if not args.test and src_path.exists():
+            try:
+                sources = json.loads(src_path.read_text(encoding="utf-8"))
+            except Exception:  # noqa: BLE001
+                sources = {}
+        redo = getattr(args, "redo_set", set())
+
         if not args.merge_only:
             spec = args.pages or ("1-3" if args.test else "")
             pages = parse_pages(spec, total)
@@ -861,24 +994,29 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
                 todo = pages
                 already = 0
             else:
-                todo = [n for n in pages if not (work / f"p{n:05d}.md").exists()]
+                todo = [n for n in pages
+                        if not (work / f"p{n:05d}.md").exists()
+                        or sources.get(str(n), "").replace(" (trả phí)", "") in redo]
                 already = len(pages) - len(todo)
             ppr = args.pages_per_req
             log(f"  {total} trang | chọn {len(pages)} | đã xong {already} | cần làm {len(todo)}"
-                f" | {ppr} trang/request")
+                f" | {ppr} trang/request (Flash-Lite: {transcriber.lite_pages})")
 
-            batches = [todo[j:j + ppr] for j in range(0, len(todo), ppr)]
             done = 0
             prev_start = 0.0
-            for batch in batches:
-                out: dict[int, tuple[str | None, str]] = {}
+            i = 0
+            while i < len(todo):
+                size = max(1, min(ppr, transcriber.cap(transcriber.cur)))
+                batch = todo[i:i + size]
+                i += size
+                out: dict[int, tuple[str | None, str, str]] = {}
                 stop = ""
                 t0 = time.monotonic()
                 try:
                     if transcriber.out_of_time():
                         raise RuntimeLimit()
                     if prev_start:
-                        wait = args.delay - (time.monotonic() - prev_start)
+                        wait = transcriber.delay_now(args.delay) - (time.monotonic() - prev_start)
                         if wait > 0:
                             transcriber.sleep(wait)
                     prev_start = time.monotonic()
@@ -892,13 +1030,13 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
                     raise
                 except Exception as e:  # noqa: BLE001
                     for n in batch:
-                        out.setdefault(n, (None, f"lỗi bất ngờ: {one_line(str(e))}"))
+                        out.setdefault(n, (None, f"lỗi bất ngờ: {one_line(str(e))}", ""))
 
                 dt = (time.monotonic() - t0) / max(len(out), 1)
                 for n in batch:
                     if n not in out:
                         continue
-                    text, note = out[n]
+                    text, note, source = out[n]
                     done += 1
                     if text is None:
                         res["failed"].append(n)
@@ -908,10 +1046,13 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
                         log(f"\n----- TRANG {n} ({transcriber.last_label}, {dt:.0f}s/trang) -----\n{text}\n")
                         continue
                     atomic_write(work / f"p{n:05d}.md", text)
+                    sources[str(n)] = source
                     tag = " (trang trống)" if text == SENTINEL else ""
                     extra = f" ⚠ {note}" if note else ""
                     log(f"  ✔ trang {n:>4}/{total} [{done}/{len(todo)}] {len(text)} ký tự, {dt:.0f}s/trang{tag}{extra}")
 
+                if not args.test and any(n in out and out[n][0] is not None for n in batch):
+                    atomic_write(src_path, json.dumps(sources, ensure_ascii=False))
                 if stop == "quota":
                     res["quota_stop"] = True
                     break
@@ -926,6 +1067,14 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
         res["outputs"] = merged["outputs"]
         res["missing"] = merged["missing"]
         res["review"] = merged["review"]
+        if sources:
+            counts: dict[str, int] = {}
+            for n in range(1, total + 1):
+                if (work / f"p{n:05d}.md").exists():
+                    m = sources.get(str(n)) or "không rõ"
+                    counts[m] = counts.get(m, 0) + 1
+            if counts:
+                log("  Model đã chép các trang: " + ", ".join(f"{m} {c}" for m, c in sorted(counts.items(), key=lambda x: -x[1])))
 
     if res["outputs"]:
         shown = res["outputs"][:3]
@@ -966,6 +1115,20 @@ def parse_args() -> argparse.Namespace:
                     help="tên model, có thể nhiều model cách nhau dấu phẩy (dự phòng khi hết quota hoặc lỗi liên tiếp)")
     ap.add_argument("--pages-per-req", type=int, default=DEFAULT_PAGES_PER_REQ, choices=[1, 2, 3],
                     help=f"số trang gộp trong mỗi request, gửi dạng ảnh rời (mặc định {DEFAULT_PAGES_PER_REQ})")
+    ap.add_argument("--lite-pages", type=int, default=DEFAULT_LITE_PAGES, choices=[1, 2, 3],
+                    help=f"số trang tối đa mỗi request khi chạy Flash-Lite (mặc định {DEFAULT_LITE_PAGES})")
+    ap.add_argument("--allow-paid", action="store_true",
+                    help="cho phép dùng GEMINI_PAID_API_KEY khi mọi key miễn phí đã hết quota ngày (mặc định TẮT)")
+    ap.add_argument("--paid-model", default=os.environ.get("GEMINI_PAID_MODEL") or DEFAULT_PAID_MODEL,
+                    help=f"model dùng với key trả phí (mặc định {DEFAULT_PAID_MODEL})")
+    ap.add_argument("--paid-max-pages", type=int, default=DEFAULT_PAID_MAX_PAGES,
+                    help=f"trần số trang dùng key trả phí trong MỘT lần chạy (mặc định {DEFAULT_PAID_MAX_PAGES})")
+    ap.add_argument("--paid-delay", type=float, default=DEFAULT_PAID_DELAY,
+                    help=f"giây nghỉ giữa hai request khi dùng key trả phí (mặc định {DEFAULT_PAID_DELAY:g})")
+    ap.add_argument("--dark-threshold", type=float, default=DARK_MEAN,
+                    help=f"độ sáng trung bình (0-255) dưới mức này thì tăng tương phản mạnh hơn (mặc định {DARK_MEAN}, 0 = tắt)")
+    ap.add_argument("--redo-models", default="",
+                    help="làm lại các trang do những model này chép (cách nhau dấu phẩy), ví dụ gemini-3.1-flash-lite")
     ap.add_argument("--delay", type=float, default=env_delay,
                     help=f"giây giữa hai request (mặc định {DEFAULT_DELAY:g}, hoặc biến REQUEST_DELAY)")
     ap.add_argument("--timeout", type=float, default=env_timeout,
@@ -1025,6 +1188,11 @@ def main() -> int:
         pdfs = pdfs[:1]
 
     models = [m.strip() for m in args.model.split(",") if m.strip()]
+    args.redo_set = {m.strip() for m in args.redo_models.split(",") if m.strip()}
+    paid_key = (os.environ.get("GEMINI_PAID_API_KEY") or "").strip().strip("\"'")
+    allow_paid = args.allow_paid or (os.environ.get("ALLOW_PAID", "").strip().lower() in ("1", "true", "yes"))
+    if allow_paid and not paid_key and not args.merge_only:
+        log("⚠ Có --allow-paid nhưng chưa đặt GEMINI_PAID_API_KEY: bỏ qua key trả phí.")
     keys: list[str] = []
     transcriber = None
     if not args.merge_only:
@@ -1036,10 +1204,19 @@ def main() -> int:
                      "(chỉ dùng làm ngữ cảnh để đọc đúng thuật ngữ).")
         transcriber = Transcriber(keys, models, SYSTEM_PROMPT, user_text + topic, topic, args.timeout,
                                   args.retries, args.delay, args.switch_after, args.cooldown, deadline,
-                                  args.peak_wait, args.peak_retries)
+                                  args.peak_wait, args.peak_retries, args.lite_pages,
+                                  paid_key if allow_paid else "", args.paid_model, args.paid_max_pages,
+                                  args.paid_delay)
 
     pairs = f" | {len(keys)} key x {len(models)} model = {len(keys) * len(models)} cặp" if keys else ""
     runtime = f" | tối đa chạy {args.max_runtime / 60:.0f} phút" if deadline else ""
+    if args.merge_only or not paid_key:
+        paid_txt = ""
+    elif allow_paid:
+        paid_txt = f" | key trả phí: BẬT ({args.paid_model}, tối đa {args.paid_max_pages} trang)"
+    else:
+        paid_txt = " | key trả phí: có nhưng TẮT (thêm --allow-paid để bật)"
+    runtime += paid_txt
     log(f"{len(pdfs)} sách | model: {', '.join(models)}{pairs} | {args.pages_per_req} trang/request"
         f" | nghỉ {args.delay:g}s/request | tối đa {args.timeout:g}s/lần gọi | chuyển cặp sau {args.switch_after} lỗi"
         f" | {args.dpi} DPI{runtime} | kết quả: {out_dir}")
@@ -1056,6 +1233,10 @@ def main() -> int:
                     "chạy lại sau để làm tiếp.\n"
                     "  Quota theo ngày thường reset lúc nửa đêm giờ Thái Bình Dương "
                     "(khoảng 14-15h giờ Việt Nam). Thêm key (Project khác) hoặc model dự phòng để chạy được nhiều hơn.")
+                if paid_key and not allow_paid:
+                    log("  Bạn có GEMINI_PAID_API_KEY: chạy lại với --allow-paid nếu muốn dùng khi hết quota miễn phí.")
+                elif transcriber is not None and transcriber.paid is not None and transcriber.paid_pages >= transcriber.paid_max_pages:
+                    log(f"  Đã chạm trần {transcriber.paid_max_pages} trang cho key trả phí (--paid-max-pages).")
                 break
             if r["runtime_stop"]:
                 log(f"\n⏱ Đã chạm giới hạn --max-runtime ({args.max_runtime:g}s). Dừng êm: tiến độ đã lưu và file đã gộp; "
@@ -1074,6 +1255,9 @@ def main() -> int:
     except KeyboardInterrupt:
         log("\nĐã dừng. Các trang đã xong đã được lưu, chạy lại để làm tiếp.")
         return 130
+    finally:
+        if transcriber is not None and transcriber.paid is not None and transcriber.paid_reqs:
+            log("\n" + transcriber.paid_note())
 
     if args.test:
         return 0

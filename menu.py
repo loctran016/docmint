@@ -33,7 +33,7 @@ if IS_WIN:
 SETTINGS_FILE = HERE / ".menu_settings.json"
 DEFAULTS = {"strip": 0, "fm": 0, "obs": 0, "quiz_mode": "md", "quiz_fmt": "markdown",
             "mm_kind": "interactive", "book": "Sách giáo khoa", "out_root": "ket_qua",
-            "md_split": 0, "md_model": "", "md_out": ""}
+            "md_split": 0, "md_model": "", "md_out": "", "md_paid": 0}
 CHOICES = {"quiz_mode": ("md", "quiz", "both"), "quiz_fmt": ("markdown", "json", "html"),
            "mm_kind": ("interactive", "note-backed")}
 
@@ -45,7 +45,7 @@ def load_settings():
         s.update({k: v for k, v in data.items() if k in DEFAULTS})
     except Exception:  # noqa: BLE001
         pass
-    for k in ("strip", "fm", "obs", "md_split"):
+    for k in ("strip", "fm", "obs", "md_split", "md_paid"):
         s[k] = 1 if s[k] in (1, True, "1") else 0
     for k, allowed in CHOICES.items():
         if s[k] not in allowed:
@@ -384,6 +384,20 @@ def ensure_ignored(*patterns):
     return add
 
 
+def has_paid_key():
+    """Đã có GEMINI_PAID_API_KEY (biến môi trường hoặc trong file .env) chưa."""
+    if os.environ.get("GEMINI_PAID_API_KEY"):
+        return True
+    try:
+        for line in ENV_FILE.read_text(encoding="utf-8-sig").splitlines():
+            m = re.match(r"^\s*(?:export\s+)?GEMINI_PAID_API_KEY\s*=\s*(\S+)", line)
+            if m and m.group(1).strip("\"'"):
+                return True
+    except OSError:
+        pass
+    return False
+
+
 def md_out_dir():
     return Path(S["md_out"] or "output_md")
 
@@ -398,6 +412,8 @@ def run_md(*extra):
     flags = []
     if S["md_split"]:
         flags.append("--split")
+    if S["md_paid"]:
+        flags.append("--allow-paid")
     if S["md_model"]:
         flags += ["--model", S["md_model"]]
     if S["md_out"]:
@@ -448,6 +464,32 @@ def md_set_key():
     ask("  Nhấn Enter để tiếp tục... ")
 
 
+def md_set_paid_key():
+    print("  Key TRẢ PHÍ (Project có bật billing) chỉ được dùng khi mọi key miễn phí đã hết quota ngày,")
+    print("  và chỉ khi mục [13] đang BẬT. Mỗi lần chạy có trần số trang (--paid-max-pages, mặc định 300).")
+    try:
+        key = getpass.getpass("  Dán GEMINI_PAID_API_KEY (Enter để hủy): ")
+    except (EOFError, KeyboardInterrupt):
+        print()
+        return
+    key = re.sub(r"\s+", "", key)
+    if not key:
+        return
+    lines = []
+    if ENV_FILE.exists():
+        lines = [ln for ln in ENV_FILE.read_text(encoding="utf-8-sig").splitlines()
+                 if not re.match(r"^\s*(?:export\s+)?GEMINI_PAID_API_KEY\s*=", ln)]
+    lines.append(f"GEMINI_PAID_API_KEY={key}")
+    ENV_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    try:
+        os.chmod(ENV_FILE, 0o600)
+    except OSError:
+        pass
+    ensure_ignored(".env")
+    print("  Đã lưu GEMINI_PAID_API_KEY vào .env.")
+    ask("  Nhấn Enter để tiếp tục... ")
+
+
 def md_set_model():
     print("  Tên model Gemini. Có thể ghi nhiều model cách nhau dấu phẩy, ví dụ:")
     print("      gemini-3.8-flash,gemini-3.6-flash")
@@ -489,6 +531,7 @@ def md_menu():
         draw_menu("PDF → MARKDOWN (GEMINI)", [
             f"INFO:Model: {short(S['md_model'] or 'mặc định', 30)} | Key: {yn(has_key())}",
             f"INFO:Đầu ra: {short(S['md_out'] or 'output_md', 40)}",
+            f"INFO:Key trả phí: {yn(has_paid_key())} | cho phép dùng: {onoff(S['md_paid'])}",
             "MID",
             "1|Chạy thử vài trang (--test, không lưu gì)",
             "2|Chuyển toàn bộ PDF thành Markdown",
@@ -503,6 +546,8 @@ def md_menu():
             "10|Mở thư mục đầu ra trong Explorer",
             "11|Đặt thư mục đầu ra Markdown",
             "12|Thêm .env và thư mục dữ liệu vào .gitignore",
+            f"13|Cho phép key trả phí khi hết quota: {onoff(S['md_paid'])}",
+            "14|Đặt GEMINI_PAID_API_KEY",
             "SEP",
             "0|Quay lại menu chính"])
         ch = ask("  Nhập lựa chọn của bạn : ").lower()
@@ -560,6 +605,10 @@ def md_menu():
             md_set_out()
         elif ch == "12":
             md_gitignore()
+        elif ch == "13":
+            toggle("md_paid")
+        elif ch == "14":
+            md_set_paid_key()
         elif ch in ("0", "q"):
             return
 

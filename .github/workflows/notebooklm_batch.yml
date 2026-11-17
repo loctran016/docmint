@@ -1,0 +1,267 @@
+name: NotebookLM hàng loạt (giảng bài, câu hỏi...)
+
+# Tương tự menu [6]-[10] của menu.py: đọc danh sách bài trong giang_bai.txt (mọi chức năng đều đọc file này),
+# nhờ NotebookLM làm từng bài. Có thể nhập danh sách ngay ở ô lessons khi bấm Run workflow (ghi đè giang_bai.txt
+# trên máy chạy, không commit). Kết quả KHÔNG commit vào repo:
+#   - Kết quả mới + log + ghi chú tóm tắt -> một Release mới mỗi lần chạy (tag giang-/hoi-/... YYYYMMDD-HHMM)
+#   - Tiến độ (bài đã làm, để lần sau bỏ qua) -> Release "giang-progress" (giảng bài và câu hỏi)
+#
+# Cần secret NOTEBOOKLM_AUTH_JSON = nội dung storage_state.json của NotebookLM (cookie hết hạn thì cập nhật lại,
+# khoảng 1-2 tuần một lần) và ID notebook (ô notebook_id, hoặc secret/biến NOTEBOOKLM_NOTEBOOK). Nên dùng tài khoản riêng.
+
+on:
+  workflow_dispatch:
+    inputs:
+      feature:
+        description: 'Chức năng: giang = giảng bài, hoi = câu hỏi, mindmap, infographic, video'
+        required: true
+        default: 'giang'
+        type: choice
+        options: ['giang', 'hoi', 'mindmap', 'infographic', 'video']
+      mode:
+        description: 'Chế độ: run = chạy danh sách, test = thử bài đầu tiên (không lưu), force = làm lại cả bài đã xong'
+        required: true
+        default: 'run'
+        type: choice
+        options: ['run', 'test', 'force']
+      only:
+        description: 'Chỉ làm các bài theo số thứ tự trong danh sách, ví dụ 1,3-5 (để trống = tất cả)'
+        required: false
+        default: ''
+        type: string
+      lessons:
+        description: 'Danh sách bài, cách nhau dấu ; (ví dụ: ## Gan; Sinh lý gan; Bệnh gan | lưu ý riêng). Để trống = dùng giang_bai.txt trong repo'
+        required: false
+        default: ''
+        type: string
+      notebook_id:
+        description: 'ID hoặc URL notebook (để trống = secret/biến NOTEBOOKLM_NOTEBOOK)'
+        required: false
+        default: ''
+        type: string
+      strip_cite:
+        description: 'Xoá số trích dẫn [1] (giảng bài, câu hỏi)'
+        required: false
+        default: false
+        type: boolean
+      frontmatter:
+        description: 'Thêm frontmatter (title, tags, created)'
+        required: false
+        default: false
+        type: boolean
+      quiz_mode:
+        description: 'Câu hỏi: md | quiz | both'
+        required: false
+        default: 'md'
+        type: choice
+        options: ['md', 'quiz', 'both']
+      quiz_format:
+        description: 'Câu hỏi, định dạng Quiz: markdown | json | html'
+        required: false
+        default: 'markdown'
+        type: choice
+        options: ['markdown', 'json', 'html']
+      mm_kind:
+        description: 'Mindmap: interactive | note-backed'
+        required: false
+        default: 'interactive'
+        type: choice
+        options: ['interactive', 'note-backed']
+      resume:
+        description: 'Bỏ qua bài đã làm ở các lần trước (Release giang-progress). Tắt = làm lại từ đầu'
+        required: false
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+# Không cho hai lần chạy cùng lúc (tránh đụng tiến độ)
+concurrency:
+  group: notebooklm-batch
+  cancel-in-progress: false
+
+jobs:
+  batch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      NOTEBOOKLM_AUTH_JSON: ${{ secrets.NOTEBOOKLM_AUTH_JSON }}
+      GH_TOKEN: ${{ github.token }}
+      PYTHONUNBUFFERED: '1'
+      PYTHONUTF8: '1'
+      IN_FEATURE: ${{ github.event.inputs.feature }}
+      IN_MODE: ${{ github.event.inputs.mode }}
+      IN_ONLY: ${{ github.event.inputs.only }}
+      IN_LESSONS: ${{ github.event.inputs.lessons }}
+      IN_NOTEBOOK: ${{ github.event.inputs.notebook_id }}
+      IN_STRIP: ${{ github.event.inputs.strip_cite }}
+      IN_FM: ${{ github.event.inputs.frontmatter }}
+      IN_QMODE: ${{ github.event.inputs.quiz_mode }}
+      IN_QFMT: ${{ github.event.inputs.quiz_format }}
+      IN_MMKIND: ${{ github.event.inputs.mm_kind }}
+      IN_RESUME: ${{ github.event.inputs.resume }}
+      SECRET_NOTEBOOK: ${{ secrets.NOTEBOOKLM_NOTEBOOK }}
+      VAR_NOTEBOOK: ${{ vars.NOTEBOOKLM_NOTEBOOK }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Đọc cấu hình
+        run: |
+          FEATURE="${IN_FEATURE:-giang}"
+          NB="${IN_NOTEBOOK:-${SECRET_NOTEBOOK:-$VAR_NOTEBOOK}}"
+          NB="${NB%%\?*}"; NB="${NB%/}"; NB="${NB##*/}"
+          if [ -z "$NB" ] && ! grep -qvE '^\s*(#|$)' notebook_id.txt 2>/dev/null; then
+            echo "Thiếu ID notebook: điền ô notebook_id, hoặc đặt secret/biến NOTEBOOKLM_NOTEBOOK."
+            exit 1
+          fi
+          if [ -z "$NOTEBOOKLM_AUTH_JSON" ]; then
+            echo "Thiếu secret NOTEBOOKLM_AUTH_JSON."
+            exit 1
+          fi
+          case "$FEATURE" in
+            giang)       SCRIPT=4_giang_bai.py;     KIND=;            OUTSUB=giang_bai ;;
+            hoi)         SCRIPT=5_tao_cau_hoi.py;   KIND=;            OUTSUB=cau_hoi ;;
+            mindmap)     SCRIPT=7_tao_media.py;     KIND=mindmap;     OUTSUB=mindmap ;;
+            infographic) SCRIPT=7_tao_media.py;     KIND=infographic; OUTSUB=infographic ;;
+            video)       SCRIPT=7_tao_media.py;     KIND=video;       OUTSUB=video ;;
+            *) echo "Chức năng không hợp lệ: $FEATURE"; exit 1 ;;
+          esac
+          {
+            echo "FEATURE=$FEATURE"
+            echo "MODE=${IN_MODE:-run}"
+            echo "RESUME=${IN_RESUME:-true}"
+            echo "NOTEBOOK_ID=$NB"
+            echo "NB8=${NB:0:8}"
+            echo "SCRIPT=$SCRIPT"
+            echo "KIND=$KIND"
+            echo "OUTSUB=$OUTSUB"
+            echo "NLM_OUT_ROOT=ket_qua"
+          } >> "$GITHUB_ENV"
+
+      - name: Ghi danh sách bài vào giang_bai.txt (ghi đè, không commit)
+        run: |
+          if [ -n "$IN_LESSONS" ]; then
+            python3 - <<'PY'
+          import os, re
+          raw = os.environ["IN_LESSONS"].replace("\\n", "\n")   # chấp nhận cả chữ \n gõ tay
+          lines = [p.strip() for p in re.split(r"[;\r\n]+", raw) if p.strip()]
+          with open("giang_bai.txt", "w", encoding="utf-8") as f:
+              f.write("# Danh sách nhập từ GitHub Actions (ghi đè giang_bai.txt)\n" + "\n".join(lines) + "\n")
+          PY
+            echo "Đã ghi đè giang_bai.txt từ ô lessons."
+          else
+            echo "Ô lessons để trống: dùng giang_bai.txt trong repo."
+          fi
+          N=$(grep -cvE '^\s*(#|$)' giang_bai.txt || true)
+          echo "Danh sách bài ($N bài):"
+          grep -vE '^\s*(#|$)' giang_bai.txt | nl -ba
+          if [ "${N:-0}" -eq 0 ]; then
+            echo "Chưa có bài nào: nhập vào ô lessons hoặc điền giang_bai.txt trong repo."
+            exit 1
+          fi
+
+      - name: Cài uv
+        uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2
+
+      - name: Kiểm tra phiên đăng nhập NotebookLM
+        run: |
+          uv tool run --from notebooklm-py notebooklm auth check --test --json | jq -e '.status == "ok"' \
+            || { echo "Phiên đăng nhập hết hạn hoặc secret sai: cập nhật secret NOTEBOOKLM_AUTH_JSON"; exit 1; }
+
+      - name: Khôi phục tiến độ từ Release giang-progress
+        if: env.MODE != 'test' && env.RESUME == 'true' && (env.FEATURE == 'giang' || env.FEATURE == 'hoi')
+        run: |
+          ASSET="progress-${FEATURE}-${NB8}.tar.gz"
+          if gh release download giang-progress --pattern "$ASSET" --dir . --clobber 2>/dev/null; then
+            tar xzf "$ASSET"
+            echo "Đã khôi phục tiến độ: $(find "ket_qua/$OUTSUB" -name '*.md' 2>/dev/null | wc -l) file"
+          else
+            echo "Chưa có tiến độ trước đó, bắt đầu từ đầu."
+          fi
+
+      - name: Chạy script
+        id: run
+        run: |
+          set +e
+          touch .nlm_start
+          sleep 1
+          ARGS=()
+          [ -n "$KIND" ] && ARGS+=("$KIND")
+          case "$MODE" in
+            test)  ARGS+=(--test) ;;
+            force) ARGS+=(--force) ;;
+          esac
+          [ -n "$IN_ONLY" ] && ARGS+=(--only "$IN_ONLY")
+          ARGS+=(--file giang_bai.txt)   # mọi chức năng đều đọc giang_bai.txt
+          [ "$IN_FM" = "true" ] && ARGS+=(--frontmatter)
+          if [ "$FEATURE" = "giang" ] || [ "$FEATURE" = "hoi" ]; then
+            [ "$IN_STRIP" = "true" ] && ARGS+=(--strip-cite)
+          fi
+          [ "$FEATURE" = "hoi" ] && ARGS+=(--mode "${IN_QMODE:-md}" --quiz-format "${IN_QFMT:-markdown}")
+          [ "$FEATURE" = "mindmap" ] && ARGS+=(--mm-kind "${IN_MMKIND:-interactive}")
+          START=$(date +%s)
+          # timeout 340 phút để các bước lưu bên dưới còn kịp chạy
+          timeout 20400 uv run "$SCRIPT" "${ARGS[@]}" 2>&1 | tee run_log.txt
+          CODE=${PIPESTATUS[0]}
+          echo "code=$CODE" >> "$GITHUB_OUTPUT"
+          echo "elapsed=$(( $(date +%s) - START ))" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Lưu tiến độ vào Release giang-progress (không commit vào repo)
+        if: always() && env.MODE != 'test' && (env.FEATURE == 'giang' || env.FEATURE == 'hoi')
+        run: |
+          if [ ! -d "ket_qua/$OUTSUB" ]; then
+            echo "Không có tiến độ để lưu."
+            exit 0
+          fi
+          ASSET="progress-${FEATURE}-${NB8}.tar.gz"
+          tar czf "$ASSET" "ket_qua/$OUTSUB"
+          if gh release view giang-progress >/dev/null 2>&1; then
+            gh release upload giang-progress "$ASSET" --clobber
+          else
+            gh release create giang-progress "$ASSET" --prerelease --latest=false \
+              --title "NotebookLM progress (tự động, đừng xoá)" \
+              --notes "Bài đã làm xong để lần chạy sau bỏ qua. Đây không phải kết quả; kết quả nằm trong các release giang-*, hoi-*..."
+          fi
+
+      - name: Tạo báo cáo
+        id: report
+        if: always() && env.MODE != 'test'
+        run: |
+          python3 .github/scripts/nlm_report.py --log run_log.txt --feature "$FEATURE" --mode "$MODE" \
+            --code "${{ steps.run.outputs.code }}" --elapsed "${{ steps.run.outputs.elapsed }}" \
+            --notebook "$NB8" --out "ket_qua/$OUTSUB" --marker .nlm_start \
+            --run-url "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            --notes release_notes.md
+          cat release_notes.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Hiện kết quả ở trang tóm tắt (chế độ test)
+        if: always() && env.MODE == 'test'
+        run: |
+          {
+            echo "## Kết quả chế độ test (không lưu file)"
+            echo '```text'
+            tail -n 300 run_log.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Đăng kết quả lên Release mới
+        if: always() && steps.report.outcome == 'success' && steps.report.outputs.new_files != '0'
+        run: |
+          STAMP="$(TZ=Asia/Ho_Chi_Minh date +%Y%m%d-%H%M)"
+          TAG="${FEATURE}-${STAMP}"
+          case "$FEATURE" in
+            giang) LABEL="Giảng bài" ;; hoi) LABEL="Câu hỏi" ;; mindmap) LABEL="Mindmap" ;;
+            infographic) LABEL="Infographic" ;; video) LABEL="Video" ;; *) LABEL="$FEATURE" ;;
+          esac
+          TITLE="$LABEL $(TZ=Asia/Ho_Chi_Minh date '+%d/%m/%Y %H:%M') — ${{ steps.report.outputs.new_files }} file mới"
+          gh release create "$TAG" nlm_output.zip run_log.txt --title "$TITLE" --notes-file release_notes.md --latest=false
+          echo "Đã tạo release $TAG"
+
+      - name: Báo lỗi nếu script thoát bất thường
+        if: always() && steps.run.outputs.code != '0'
+        run: |
+          echo "Script thoát với mã ${{ steps.run.outputs.code }}. Xem log ở bước 'Chạy script'."
+          exit 1

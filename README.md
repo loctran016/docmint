@@ -21,7 +21,7 @@ Chạy được trên **WSL Ubuntu** và **Windows** (và macOS ở mức cơ b�
 11. [Phụ lục: lệnh chạy từng script](#11-phụ-lục-lệnh-chạy-từng-script)
 12. [PDF → Markdown bằng Gemini (mục [15])](#12-pdf--markdown-bằng-gemini-menu-mục-15)
 13. [Nguồn giáo viên: transcript, slide, giảng theo nguồn (mục [16])](#13-nguồn-giáo-viên-menu-mục-16)
-14. [OCR sách tự động trên GitHub Actions (nhiều key, nhiều model)](#14-ocr-sách-tự-động-trên-github-actions)
+14. [Giảng bài / câu hỏi tự động trên GitHub Actions](#14-giảng-bài--câu-hỏi-tự-động-trên-github-actions)
 
 ---
 
@@ -111,7 +111,8 @@ notebooklm-toolkit/
 ├── menu_nguon_gv.py               menu phụ nguồn giáo viên (menu [16])
 ├── input/                         chuẩn bị nguồn: transcripts/, slides/, upload_sources.py
 ├── output/                        khai thác nguồn: ask_notebook.py, giang_hang_loat.py, generate_artifacts.py, prompts.py
-├── .github/workflows/             transcribe.yml (Whisper), giang_bai.yml (giảng bài từ iPhone), ocr_books.yml (OCR sách tự động)
+├── .github/workflows/             transcribe.yml (Whisper), giang_bai.yml (giảng 1 bài từ iPhone), notebooklm_batch.yml (giảng bài / câu hỏi hàng loạt)
+├── .github/scripts/               nlm_report.py (tóm tắt kết quả cho Release)
 ├── requirements_nguon_gv.txt  .env.nguon_gv.example  README_nguon_gv.md
 ├── notebook_id.txt                ID notebook
 ├── giao_trinh.txt                 DANH SÁCH CHUNG: chương và bài của sách
@@ -549,6 +550,15 @@ PDF đầu vào có thể là bản gốc trong `input_pdfs/` hoặc bản đã 
 - Thời gian: mặc định nghỉ 6 giây giữa hai trang, nên sách 700 trang mất khoảng 70 phút trở lên. Quota ngày của gói miễn phí có thể không đủ cho cả cuốn trong một ngày; tiến độ được lưu nên làm tiếp ngày hôm sau.
 
 
+### Model, Flash-Lite, key trả phí và trang tối (cập nhật)
+
+- **Model mặc định** (theo bảng quota gói miễn phí của AI Studio): `gemini-3.8-flash`, `gemini-3.6-flash` (20 RPD mỗi key), rồi `gemini-3.5-flash-lite`, `gemini-3.1-flash-lite` (500 RPD mỗi key), rồi `gemini-2.5-flash`, `gemini-2.5-flash-lite`. Model có quota 0 trên gói miễn phí không đưa vào. Đổi bằng `GEMINI_MODEL` hoặc `--model`; xem tên model hiện có bằng `--list-models`.
+- **Flash-Lite** chạy mỗi request 1 trang (`--lite-pages`), các model Flash lớn gộp `--pages-per-req` trang. Script giữ đúng giới hạn request/phút của từng model (Flash 5, Flash-Lite 15).
+- **Key trả phí (chốt chặn cuối):** đặt `GEMINI_PAID_API_KEY` trong `.env` rồi chạy với `--allow-paid` (hoặc bật mục `[13]` trong menu `[15]`). Chỉ dùng khi mọi cặp key miễn phí đã khóa cứng vì hết quota ngày; mỗi lần chạy tối đa `--paid-max-pages` trang (mặc định 300, có thể vượt vài trang vì gộp batch); model mặc định `gemini-3.1-flash-lite`, đổi bằng `--paid-model`. Cuối phiên script in số trang, số request và số token đã dùng trên key trả phí. Mặc định TẮT.
+- **Ghi nguồn từng trang:** file `output_md/.pages/<sách>/sources.json` ghi model đã chép từng trang; cuối mỗi sách log in tổng hợp theo model. Khi quota model tốt hơn hồi lại, `--redo-models gemini-3.1-flash-lite` làm lại riêng các trang do model đó chép.
+- **Trang chụp thiếu sáng:** tự đo độ sáng từng trang; trang tối được tăng tương phản mạnh hơn (`--dark-threshold`, đặt 0 để tắt). Ảnh gửi đi dùng `media_resolution` cao; model nào từ chối tham số này thì tự bỏ.
+- **Prompt:** thêm quy tắc nối chữ cái phóng to đầu đoạn (drop cap), đọc xuyên vệt dạ quang, bỏ chữ ngược hằn từ mặt sau, bỏ watermark scan, số trang đứng riêng và nét bút ở lề.
+
 ---
 
 ## 13. Nguồn giáo viên (menu mục [16])
@@ -569,29 +579,53 @@ Luồng gợi ý cho mỗi môn (mỗi môn một notebook, đổi ID ở `[12]`
 
 ---
 
-## 14. OCR sách tự động trên GitHub Actions
+## 14. Giảng bài / câu hỏi tự động trên GitHub Actions
 
-`process_book.py` có thể chạy trên GitHub Actions (`.github/workflows/ocr_books.yml`) để cày tiếp các trang còn dang dở mỗi ngày, không cần mở máy.
+Workflow `.github/workflows/notebooklm_batch.yml` làm giống menu `[6]` đến `[10]`: đọc danh sách bài, nhờ NotebookLM làm từng bài, lưu thành file. **Mọi chức năng đều đọc `giang_bai.txt`**, mỗi lần chạy chỉ làm một chức năng. **Không commit gì vào repo**, nên thư mục của bạn không bị đụng tới.
 
-**Cách hoạt động**
-- Nút thắt của gói miễn phí là số request mỗi ngày (RPD) của từng Project, không phải số token. Vì vậy script có:
-  - **Nhiều key × nhiều model:** `GEMINI_API_KEYS=key1,key2,key3` và `GEMINI_MODEL=modelA,modelB`. Mỗi cặp (key, model) có quota riêng, đi theo vòng xoay ping-pong.
-  - **Cooldown:** cặp báo hết quota ngày thì nghỉ 15 phút (`--cooldown`) rồi thử lại để vét phần quota Google còn nhả; báo 3 lần liên tiếp thì khóa cứng đến hết hôm nay. Mọi cặp đều khóa cứng thì script gộp file và thoát (exit 0).
-  - **Gộp trang:** `--pages-per-req 2` gửi 2 ảnh rời trong 1 request. Phản hồi thiếu/sai thẻ `<<<PAGE_xxxxx>>>` hoặc bị cắt thì tự chạy lại từng trang.
-  - **Giới hạn thời gian:** `--max-runtime 20400` (5 giờ 40 phút) dừng êm, gộp file, exit 0 để chừa thời gian `git push`.
-- Workflow chạy lúc 15:15 giờ Việt Nam mỗi ngày (ngay sau khi quota reset) và có thể bấm chạy tay.
+| Thứ | Nằm ở đâu |
+|---|---|
+| **Kết quả mới** (file `.md`, log, tóm tắt) | **Một Release mới mỗi lần chạy**, tag `giang-YYYYMMDD-HHMM`, `hoi-...`, `mindmap-...` |
+| Tiến độ (bài đã làm, để lần sau bỏ qua) | Release `giang-progress`, mỗi chức năng và notebook một file `progress-...tar.gz` bị ghi đè mỗi lần |
+
+Phần mô tả của mỗi release liệt kê giống phần "TỔNG KẾT" khi chạy trên máy: danh sách đang dùng, số bài xong / bỏ qua / không tìm thấy / lỗi, các file mới và dung lượng, bài NotebookLM báo không tìm thấy trong nguồn. File đính kèm: `nlm_output.zip` (chỉ các file mới của lần chạy đó) và `run_log.txt` (log đầy đủ).
+
+**Đối chiếu với menu** (Actions → *NotebookLM hàng loạt* → *Run workflow*):
+
+| Menu | Ô trong workflow |
+|---|---|
+| `[6]` Giảng bài / `[7]` Câu hỏi / `[8]` Mindmap / `[9]` Infographic / `[10]` Video | `feature` = `giang` / `hoi` / `mindmap` / `infographic` / `video` |
+| 1. Chạy thử bài đầu tiên | `mode` = `test` (kết quả hiện ở trang tóm tắt, không lưu, không tạo release) |
+| 2. Chạy toàn bộ danh sách | `mode` = `run` |
+| Nhập danh sách bài | `lessons` (xem bên dưới) |
+| 3. Chạy một số bài | `only` (số thứ tự trong danh sách, ví dụ `1,3-5`) |
+| 4. Làm lại toàn bộ | `mode` = `force` |
+| 7. Xóa số trích dẫn `[1]` | `strip_cite` |
+| 8. Thêm frontmatter | `frontmatter` |
+| Câu hỏi: chế độ, định dạng Quiz | `quiz_mode`, `quiz_format` |
+| Mindmap: loại | `mm_kind` |
+
+Ngoài ra có `notebook_id` (ghi đè notebook mặc định) và `resume` (bỏ chọn thì làm lại từ đầu thay vì bỏ qua bài đã xong). Chế độ Obsidian không có trên CI vì không có vault. Mindmap, infographic, video không lưu tiến độ; muốn chạy lại thì dùng `only`.
+
+Giảng một bài lẻ từ điện thoại theo nguồn `[SGK]`/`[GV]`/`[SLIDE]` vẫn dùng workflow `giang_bai.yml` có sẵn (mục 13).
+
+**Nhập danh sách bài ở ô `lessons`:** các bài cách nhau bằng dấu `;` (ô nhập của GitHub chỉ có một dòng). Mỗi bài viết như trong `giang_bai.txt`, có thể kèm lưu ý riêng hoặc cờ sau dấu `|`, và dòng `## Tên chương` để nhóm bài. Ví dụ:
+
+`## Gan; Sinh lý gan; Bệnh gan | nhấn mạnh cơ chế | khongcauhoi`
+
+Workflow **ghi đè `giang_bai.txt`** trên máy chạy bằng danh sách này (không commit, file trong repo của bạn không đổi) và in danh sách đã đánh số ở đầu log. Ô `only` dùng số thứ tự này. Để trống ô `lessons` thì dùng `giang_bai.txt` trong repo. Chưa có bài nào thì workflow dừng ngay với thông báo rõ ràng.
 
 **Thiết lập (một lần)**
-1. **Repo public**, đẩy toàn bộ toolkit lên.
-2. **Tạo Release chứa PDF:** vào repo → *Releases* → *Draft a new release* → ô tag gõ `pdfs-input` (Create new tag) → kéo thả các file PDF vào phần *Attach binaries* (tối đa 2 GB mỗi file) → *Publish release*.
-   Hoặc bằng CLI: `gh release create pdfs-input *.pdf --title "PDF input" --notes "PDF gốc"`. Thêm file sau: `gh release upload pdfs-input file.pdf --clobber`.
-   Nên đặt tên PDF không dấu, không khoảng trắng (ví dụ `Benh-hoc-ngoai-tieu-hoa.pdf`), vì GitHub có thể đổi tên file tải lên.
-3. **Tạo nhiều key từ nhiều Project:** vào https://aistudio.google.com/apikey → *Create API key* → chọn tạo trong **Project mới** cho mỗi key (quota tính theo Project; hai key cùng Project dùng chung quota).
-4. **Đặt Secret:** repo → *Settings* → *Secrets and variables* → *Actions* → tab *Secrets* → *New repository secret* → tên `GEMINI_API_KEYS`, giá trị `key1,key2,key3` (cách nhau dấu phẩy, không có khoảng trắng).
-5. **Đặt Variable (tuỳ chọn):** cùng trang, tab *Variables* → `GEMINI_MODEL` = danh sách model (ví dụ `gemini-3.8-flash,gemini-3.6-flash,gemini-2.5-flash`). Để trống thì dùng mặc định của script.
-6. Vào tab *Actions* → *OCR books (Gemini)* → *Run workflow* để chạy thử. Kết quả được commit vào `output_md/` (kèm checkpoint `output_md/.pages/`).
+1. **Repo public hoặc private**, đẩy toàn bộ toolkit lên.
+2. **Secret `NOTEBOOKLM_AUTH_JSON`:** nội dung file `storage_state.json` của NotebookLM sau khi đăng nhập (thường nằm trong `~/.notebooklm/`). Ví dụ trên WSL: `gh secret set NOTEBOOKLM_AUTH_JSON < ~/.notebooklm/storage_state.json`. Cookie hết hạn khoảng 1 đến 2 tuần một lần, lúc đó đăng nhập lại trên máy và cập nhật secret. Nên dùng tài khoản Google riêng cho việc này.
+3. **ID notebook:** điền vào ô `notebook_id` mỗi lần chạy, hoặc đặt một lần: *Settings* → *Secrets and variables* → *Actions* → *Variables* → `NOTEBOOKLM_NOTEBOOK` (hoặc secret cùng tên).
+4. **Quyền ghi:** *Settings* → *Actions* → *General* → *Workflow permissions* → **Read and write permissions** (để tạo được Release).
+5. *Actions* → *NotebookLM hàng loạt* → *Run workflow*. Lần đầu nên chọn `mode` = `test`.
+
+**Lấy kết quả:** tab *Releases*, mở release mới nhất (ví dụ `giang-20261117-1530`), tải `nlm_output.zip`.
 
 **Lưu ý**
-- PDF trên Release của repo public ai cũng tải được, và `output_md/` commit vào repo public cũng công khai. Nếu sách có bản quyền, bạn cân nhắc dùng repo private (khi đó số phút Actions có giới hạn theo gói).
-- Kiểm tra điều khoản của Google về việc tạo nhiều Project để tăng hạn mức miễn phí trước khi dùng cách này.
-- Chạy cục bộ vẫn như cũ: `uv run process_book.py` hoặc menu `[15]`. Máy cá nhân bỏ qua `output_md/` trong git; workflow dùng `git add -f` nên vẫn lưu được.
+- Secret `NOTEBOOKLM_AUTH_JSON` cho phép truy cập tài khoản NotebookLM đó. Chỉ cho người bạn tin quyền ghi vào repo.
+- Release của repo public ai cũng tải được, nên nếu bài giảng sinh từ sách có bản quyền thì dùng repo private.
+- Release `giang-...`, `hoi-...` tích dần theo từng lần chạy, bạn xoá bớt tay khi muốn. Đừng xoá `giang-progress`.
+- OCR và PDF → Markdown vẫn chạy trên máy bạn (menu `[3]`, `[4]`, `[15]`), không còn workflow OCR trên GitHub.
