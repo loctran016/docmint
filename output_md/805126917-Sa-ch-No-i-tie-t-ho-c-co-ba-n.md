@@ -2382,7 +2382,86 @@ Sự tụ mỡ vùng bụng làm tăng tỉ số eo/hông (> 1 ở nam và > 0,8
 
 Sự tích tụ mỡ xảy ra ở cả mô dưới da và trong ổ bụng, nhất là quanh các tạng do mỡ tạng có mật độ thụ thể glucocorticoid nhiều hơn so với mô mỡ ở nơi khác.
 
-enzyme glucose-6-phosphatase và phosphoenolpyruvate carboxykinase. Ngoài ra, còn ghi nhận sự tăng lượng glycogen và tăng tạo thể ceton. Ở mô ngoại biên, cortisol đối kháng với tác dụng của insulin, có lẽ do cơ chế ức chế phospho hóa glucose. Đái tháo đường xảy ra trong khoảng 10 – 15% bệnh nhân có hội chứng Cushing.
+**Sơ đồ: Hình 11.1. Mối liên hệ giữa tuyến hạ đồi, tuyến yên, tuyến thực thận trong hội chứng Cushing**
+
+- **Bình thường**
+  - Hạ đồi --> +CRH --> Tuyến yên --> +ACTH --> Vỏ thượng thận --> Cortisol
+  - Cortisol --> (phản hồi âm) --> Hạ đồi
+  - Cortisol --> (phản hồi âm) --> Tuyến yên
+- **Bệnh Addison**
+  - Hạ đồi --> +CRH --> Tuyến yên --> +ACTH
+  - Vỏ thượng thận (bị tổn thương)
+- **Bệnh Cushing**
+  - Hạ đồi --> +CRH --> Tuyến yên (có khối u) --> +ACTH --> Vỏ thượng thận --> Cortisol
+  - Cortisol --> (phản hồi âm) --> Hạ đồi
+- **U tiết ACTH lạc chỗ**
+  - Carcinoma phổi --> +ACTH --> Vỏ thượng thận --> Cortisol
+  - Cortisol --> (phản hồi âm) --> Hạ đồi
+  - Cortisol --> (phản hồi âm) --> Tuyến yên
+- **U thượng thận**
+  - Vỏ thượng thận (có khối u) --> Cortisol
+  - Cortisol --> (phản hồi âm) --> Hạ đồi
+  - Cortisol --> (phản hồi âm) --> Tuyến yên
+- **Hội chứng Cushing do thuốc**
+  - Glucocorticoid ngoại sinh --> Vỏ thượng thận
+  - Glucocorticoid ngoại sinh --> (phản hồi âm) --> Hạ đồi
+  - Glucocorticoid ngoại sinh --> (phản hồi âm) --> Tuyến yên
+
+[Hình: Các sơ đồ minh họa cơ chế bệnh sinh của hội chứng Cushing]
+
+### 3.2. Thay đổi da và mô dưới da
+
+Sự gia tăng glucocorticoid ức chế fibroblast, dẫn đến mất collagen và mô liên kết. Da mỏng hơn, bụng xuất hiện nhiều vết rạn da, dễ bầm máu và vết thương chậm lành hoặc dễ nhiễm trùng da. Teo da làm da trong suốt, được mô tả “mỏng như giấy”, da nhăn ở vùng mu tay và khuỷu tay là những dấu hiệu có thể dễ quan sát nhất.
+
+Trên mặt, corticoid gây ra viêm da quanh vùng quanh miệng, đặc trưng bởi những nhú dạng nang trên nền hồng ban tập trung vùng quanh miệng và gây ra hồng ban ở vùng giữa mặt. Dãn mạch và phù ở vùng má do mất mô dưới da.
+
+Nổi mụn với đặc điểm là những tổn thương mụn mủ phản ánh tình trạng cường androgen hoặc những tổn thương dạng nhú phản ánh tăng glucocorticoid. Mụn có thể xuất hiện trên mặt, ngực và lưng.
+
+Những vết rạn da màu đỏ tím, lồi, có thể gặp trong khoảng từ 50 – 70% bệnh nhân, thường thấy nhất ở vùng bụng, ngực, hông, mông, đùi và nách. Vết rạn da này có nguồn gốc từ sự tăng tích tụ mỡ ở mô dưới da, làm kéo dãn lớp da vốn đã mỏng và làm vỡ cấu trúc mô dưới da. Vết rạn da rộng (0,5 – 2 cm) hơn so với vết rạn da màu trắng hồng xuất hiện trong thai kỳ hoặc do tăng cân nhanh.
+
+Da dễ bị bầm, những tổn thương nhỏ có thể đưa đến bầm máu (ecchymosis), rồi hình thành ban xuất huyết (purpura). Vết thương chậm lành hơn, các vết mổ cũ có thể rạn nứt.
+
+Nhiễm nấm ở da, niêm như lang ben, nấm móng, candida miệng,...
+
+## 3.3. Ảnh hưởng lên cơ
+
+Quá nhiều cortisol có thể làm tiêu hao cơ do quá trình dị hóa protein, giảm tổng hợp protein và đề kháng insulin ở cơ. Yếu cơ gốc chi là biểu hiện thường gặp, xảy ra trong khoảng 60% các trường hợp. Thường có những biểu hiện như khó khăn khi leo thang, ngồi dậy từ ghế hoặc từ giường mà không chống đỡ; mỏi cánh tay khi chải tóc hoặc sấy tóc.
+
+## 3.4. Tăng huyết áp
+
+Xảy ra trên khoảng 75 – 85% bệnh nhân có hội chứng Cushing. Bệnh sinh của tăng huyết áp có lẽ xuất phát từ hiệu quả mineralocorticoid của nồng độ cao cortisol trong máu. Ngoài ra, có thể do tăng tiết angiostensine, vì glucocorticoid làm tăng sự tổng hợp angiotensine tại gan. Các nghiên cứu trên thực nghiệm cũng cho thấy glucocorticoid có hiệu ứng tạo thuận lợi "permissive effect" trên trương lực mạch máu qua nhiều cơ chế: tăng tiết endothelin, tăng thu nhập Calci, tăng thụ thể alpha-adrenergic trên tế bào cơ trơn mạch máu, tăng nhạy cảm catecholamines. Ngược lại, glucocorticoid làm giảm hiệu quả dãn mạch của peptide natri lợi niệu tâm nhĩ (atrial natriuretic peptide), giảm NO (nitric oxide) ở tế bào nội mạch mạch máu.
+
+## 3.5. Rối loạn sinh dục
+
+Thường xảy ra ở bệnh nhân hội chứng Cushing do sự tăng tiết androgen thượng thận (ở nữ giới) và coritsol (ở cả nam và nữ) từ vỏ thượng thận. Ở phụ nữ chưa mãn kinh, cường androgen gây rậm lông, mụn, vô kinh và vô sinh. Tăng cortisol máu dường như có ảnh hưởng đến sự tiết theo xung của GnRH làm ức chế sự tiết LH và FSH theo xung. Nồng độ cao của cortisol còn ức chế sự tiết của LH. Chính vì vậy, tăng cortisol máu ở nữ giới dẫn đến rối loạn kinh nguyệt như mất kinh, thiểu kinh, đa kinh; ở nam giới, giảm tiết testosterone ở tinh hoàn mà sự tăng androgen thượng thận không bù đắp được. Do đó, bệnh nhân nam bị rụng lông, giảm libido hay bất lực; tinh toàn nhỏ, mềm.
+
+## 3.6. Ảnh hưởng trên mắt
+
+Nồng độ cao cortisol trong máu có thể làm tăng nhẹ đến trung bình áp lực nội nhãn và có thể gây glaucoma, có lẽ liên quan đến việc làm phồng to những sợi collagen trong vùng lưới bè làm ảnh hưởng đến dẫn lưu thủy dịch. Chính vì vậy, có thể đưa đến đục thủy tinh thể dưới bao sau. Ngoài ra, một số bệnh nhân có thể bị giảm thị trường nếu u tuyến yên tiết ACTH chèn ép vào giao thoa thị.
+
+## 3.7. Những biến đổi về tâm thần
+
+Quá nhiều glucocorticoid thường đưa đến các triệu chứng tâm thần như hưng phấn, tăng cảm giác thèm ăn, cáu kinh, cảm xúc bất định và giảm libido. Nhiều bệnh nhân có biểu hiện mất tập trung và giảm trí nhớ, rối loạn giấc ngủ, thức dậy sớm. Một số các bệnh lý tâm thần kinh đáng lưu ý như trầm cảm kèm lo âu, loạn thần kèm hoang tưởng hoặc ảo giác, rối loạn hành vi kiểu tăng động cũng có thể xảy ra trên 50% bệnh nhân Cushing.
+
+### 3.8. Biến đổi trên xương và chuyển hóa calci
+
+Glucocorticoid làm ức chế sự tạo xương và thúc đẩy sự hủy xương. Glucocorticoid tác động trực tiếp lên tế bào điều hòa chuyển hóa xương, cụ thể là ức chế sự biệt hóa của tạo cốt bào, thúc đẩy sự chết tế bào theo chương trình trên cả tế bào xương và tạo cốt bào, trong khi đó lại kéo dài đời sống của hủy cốt bào. Glucocorticoid còn tác động trên sự phóng thích GnRH gây suy sinh dục ở cả nam và nữ như đã trình bày, từ đó làm giảm đi những tác động có lợi của hormone sinh dục trên xương.
+
+Ngoài ra, glucocorticoid làm giảm sự hấp thu calci ở ruột và tăng thải calci qua đường niệu, dẫn đến cân bằng calci âm. Glucocorticoid ức chế tác dụng của vitamin D dẫn đến giảm hấp thu calci tại ruột và ống thận, cũng như làm giảm sự hydroxyl hóa vitamin D tại gan. Khi nồng độ calci máu thấp, tuyến cận giáp tăng tiết PTH thúc đẩy sự hủy xương.
+
+Những thay đổi về chuyển hóa calci cũng như tác động trực tiếp của glucocorticoid trên quá trình tạo xương và hủy xương dẫn đến sự mất khối xương, thiếu xương, loãng xương và tăng nguy cơ gãy xương, trên một bệnh nhân Cushing vốn đã yếu cơ dễ té ngã. Chụp X-quang có thể thấy gãy lún đốt sống, gãy xương sườn.
+
+Hoại tử xương vô mạch (không nhiễm trùng), thường ở đầu xương đùi hoặc xương cánh tay có thể xảy ra trong những trường hợp Cushing ngoại sinh nhưng hiếm khi gặp trong trường hợp Cushing nội sinh.
+
+Nồng độ cao glucocorticoid còn làm ức chế tăng trưởng ở trẻ bằng cách ức chế tiết GH, TSH và sự sản xuất somatomedin. Ngoài ra, glucocorticoid còn ức chế sụn tiếp hợp bằng cách ức chế sản xuất mucopolysaccharide, điều này dẫn đến giảm chất nền sụn xương và sự tăng sinh của đầu xương.
+
+### 3.9. Thay đổi đáp ứng viêm, miễn dịch
+
+Quá nhiều glucocorticoid có thể làm thay đổi đáp ứng viêm bình thường khi bị nhiễm hoặc chấn thương. Ở mức độ phân tử, glucocorticoid hoạt hóa thụ thể glucocorticoid, điều chỉnh các yếu tố chuyển mã, ví dụ như NFκB (Nuclear factor kappaB), AP1 (activator protein 1) cần thiết cho sự chuyển mã của các gen tiền viêm và các yếu tố trung gian của miễn dịch. Glucocorticoid làm giảm số lượng tế bào lympho T CD4, ức chế cytokines liên quan đến $T_H1$, ức chế hoạt động của fibroblast, làm giảm sự phá vỡ thành tế bào vi khuẩn và tác nhân gây nhiễm khác. Vì vậy, sự gia tăng cortisol máu làm bệnh nhân dễ nhiễm bệnh liên quan đến đáp ứng miễn dịch tế bào như nhiễm lao, nấm.
+
+### 3.10. Rối loạn chuyển hóa glucose
+
+Tăng glucocorticoid máu có thể đưa đến bất dung nạp glucose bằng nhiều con đường khác nhau. Đầu tiên, sự gia tăng cortisol kích thích tổng hợp glucose ở gan từ amino acid phóng thích bởi protein bị dị hóa. Sự gia tăng tân sinh đường tại gan do sự hoạt hóa enzyme glucose-6-phosphatase và phosphoenolpyruvate carboxykinase. Ngoài ra, còn ghi nhận sự tăng lượng glycogen và tăng tạo thể ceton. Ở mô ngoại biên, cortisol đối kháng với tác dụng của insulin, có lẽ do cơ chế ức chế phospho hóa glucose. Đái tháo đường xảy ra trong khoảng 10 – 15% bệnh nhân có hội chứng Cushing.
 
 3.11. Các bất thường xét nghiệm khác
 

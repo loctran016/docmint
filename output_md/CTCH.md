@@ -62,6 +62,27 @@ Tu chỉnh là quá trình chu chuyển xương lúc còn nhỏ (tuổi vị th�
 
 Không giống như tu chỉnh chỉ có hủy xương hoặc tạo xương tại một vị trí, quy trình tái tu chỉnh luôn xảy ra theo trình tự kích hoạt, hủy xương, và tạo xương sẽ giải thích dưới đây. Tái tu chỉnh có chức năng phân hủy những mảng xương cũ hay xương bị tổn hại, và thay thế bằng những mảng xương mới. Quá trình tái tu chỉnh diễn ra liên tục.
 
+Bảng 1.1. Tu chỉnh và tái tu chỉnh xương
+
+| Đặc tính | Tu chỉnh (modeling) | Tái tu chỉnh (remodeling) |
+| :--- | :--- | :--- |
+| Địa phương hóa | Quá trình phân hủy bởi các tế bào hủy xương diễn ra một cách độc lập với quá trình tạo xương bởi các tế bào tạo xương | Quá trình phân hủy và tạo xương xảy ra song song nhau |
+| Kết quả | Ảnh hưởng đến kích thước và hình dạng của xương | Ảnh hưởng đến mật độ, khoáng hóa, và vi cấu trúc của mô xương |
+| Thời gian | Xảy ra rất dài (khoảng 18 năm), và hàn gắn xương (khoảng 1 năm) | Xảy ra trong một thời gian ngắn: phân hủy xương cần khoảng 3 tuần, nhưng tạo xương cần đến 13 tuần |
+| Giai đoạn | Dừng lại ở độ tuổi 18 – 20 (trước khi trưởng thành) | Diễn ra một cách liên tục, suốt đời, nhưng tốc độ giảm dần với tuổi tác |
+
+Bảng 1.2. Các tế bào tham gia trong quá trình tái tu chỉnh xương
+
+| Tế bào trong xương | Nguồn gốc và chức năng |
+| :--- | :--- |
+| Tế bào hủy xương (osteoclast) | Xuất phát từ tế bào tạo máu (hematopoietic cell). Tác động đến sự thay đổi cấu trúc xương. Di chuyển theo chiều dài của xương đặc khoảng 40 µm/ngày |
+| Tế bào tạo xương (osteoblast) | Xuất phát từ tế bào mầm trung mô (mesenchymal stem cell – MSC). Tác động đến sự thay đổi cấu trúc xương. Tế bào tạo xương hình thành osteoid với tốc độ khoảng 1 µm/ngày |
+| Cốt bào (osteocyte) | Xuất phát từ MSC. Đóng vai trò như là những tác nhân thụ cảm (sensor), cảm nhận stress trên xương và khởi động quy trình tái tu chỉnh |
+| Tế bào liên kết (bone lining cell) | Là những tế bào tạo xương “nghỉ hưu”. Đóng vai trò như là những tác nhân thụ cảm (sensor), cảm nhận stress trên xương và khởi động quy trình tái tu chỉnh |
+| Đơn vị đa bào (basic multicellular unit – BMU) | Là những “đội” tế bào, gồm có hàng chục tế bào hủy xương và hàng trăm tế bào tạo xương |
+
+15
+
 **Sơ đồ: Hình 1.1. Quá trình tái tu chỉnh (remodeling) xương**
 
 - Tế bào tạo máu (hematopoietic stem cell) --> Tế bào hủy xương
@@ -78,6 +99,28 @@ Không giống như tu chỉnh chỉ có hủy xương hoặc tạo xương tạ
 Quá trình xảy ra theo trình tự: khởi động (activation), phân hủy (resorption), tạm ngưng (reversal), và tạo xương (formation). Bước khởi động tùy thuộc vào các tế bào tạo xương, hoặc là trên bề mặt xương hoặc là trong tủy xương, gửi tín hiệu đến các tế bào tạo máu (hematopoietic cells) để hình thành tế bào hủy xương. Bước phân hủy có thể xảy ra phía dưới các lớp tế bào liên kết. Sau bước tạm ngưng ngắn ngủi, các tế bào tạo xương bắt đầu tạo ra những lớp xương mới. Một số các tế bào tạo xương còn lại trong xương và được chuyển hóa thành tế bào xương, các tế bào này liên kết với nhau và với các tế bào tạo xương khác. Khi giai đoạn tạo xương hoàn tất, xương có khoảng thời gian bất động (quiescence). Giai đoạn phân hủy kéo dài vài tuần, nhưng giai đoạn tạo xương thì cần đến vài tháng để hoàn tất.
 
 Nguồn: Hồ Phạm Thục Lan (2011), "Sinh lý học loãng xương", Thời sự y học, số 62.
+
+bào hủy xương để lại. Quá trình tái tu chỉnh xảy ra tại những vị trí gần trên bề mặt của xương, và ngay phía dưới các tế bào liên kết (Hình 1.2).
+
+Việc phân hủy xương cũ và thay thế xương mới trong quá trình tái tu chỉnh xảy ra theo trình tự 4 bước: khởi động, phân hủy, tạm ngưng, và tạo xương (Hình 1.2). Trong giai đoạn khởi động, các dòng tế bào tạo xương tương tác với các tế bào tạo máu để sản sinh ra các tế bào hủy xương, bắt đầu bằng sự kích thích tế bào xương từ những vi tổn thương của mô xương, làm tế bào này tiết ra các chất hóa học được dẫn truyền tới tế bào liên kết, và tế bào liên kết trình diện (expression) yếu tố RANKL trên bề mặt kích hoạt sự tạo thành tế bào hủy xương từ tế bào tạo máu. Đến giai đoạn phân hủy, một “đội quân” tế bào hủy xương đục bỏ những xương bị tổn hại hay xương cũ bằng cách phân hủy các chất khoáng và để lại những lỗ hổng trên bề mặt xương. Sau đó là một giai đoạn trung gian ngắn được gọi là giai đoạn “tạm ngưng” (reversal phase) để các tế bào đơn nhân giống đại thực bào thu dọn các mảnh vụn được thải ra trong quá trình phân hủy xương, các tế bào tạo xương xuất hiện và bắt đầu sửa chữa những xương bị tổn hại bằng xương mới. Trong quá trình này, một số tế bào tạo xương còn lưu lại trong mô xương và được chuyển hóa thành các tế bào xương thật sự (osteocyte). Một khi xương mới được khoáng hóa, quá trình tái tu chỉnh coi như hoàn tất trong một vùng xương nào đó, quá trình tạo xương chấm dứt, tiếp theo đó là khoảng bất động (quiescence) cho tới khi bắt đầu một quá trình tái tu chỉnh mới.
+
+Thời gian phân hủy xương ngắn hơn thời gian tạo xương. Giai đoạn phân hủy chỉ kéo dài vài tuần. Nhưng giai đoạn tạo xương có thể kéo dài đến vài tháng để hoàn tất. Quá trình tái tu chỉnh xảy ra suốt đời, và theo chu kỳ. Một chu kỳ tái tu chỉnh kéo dài từ 6 đến 9 tháng. Trong thời kỳ trưởng thành (trên 30 tuổi), xương được thay thế theo chu kỳ khoảng 10 năm.
+
+Tái tu chỉnh là quá trình cần thiết để duy trì lực của xương. Quá trình này có thể diễn ra trên bề mặt của xương. Trước khi bước vào giai đoạn trưởng thành, quá trình tạo xương diễn ra với mức độ cao hơn quá trình hủy xương, và do đó, mật độ xương tăng nhanh trong thời kỳ này. Mật độ xương đạt mức độ cao nhất trong độ tuổi 20 – 30, và các yếu tố di truyền đóng vai trò quan trọng trong giai đoạn này. Sau khi xương đạt mức độ tối đa, xương bắt đầu suy giảm với tốc độ khác nhau theo độ tuổi. Sau thời kỳ mãn kinh vài năm (ở nữ) và sau độ tuổi 50 (ở nam), các tế bào hủy xương năng động hơn tế bào tạo xương, và dẫn đến tình trạng suy giảm mật độ xương và gia tăng nguy cơ gãy xương.
+
+Xương cần những chất dinh dưỡng như calci, vitamin D, và phospho để xây dựng mô xương. Những khoáng chất này thường hấp thu qua nguồn thực phẩm. Trong điều kiện bình thường, một phần calci trong thực phẩm có thể hấp thu vào máu, và phần còn lại sẽ bài tiết qua đường ruột. Khi một người không ăn đầy đủ calci và phospho, các hormone điều tiết cơ thể phản ứng bằng cách di chuyển các chất khoáng này khỏi xương để dùng cho các chức năng khác trong cơ thể. Nhưng khi quá trình này tiếp tục xảy ra nhiều lần thì xương trở nên yếu hơn và dễ dẫn đến gãy xương.
+
+Một hệ thống phức tạp gồm các hormone có thể giúp duy trì cung ứng các chất khoáng cần thiết cho nhiều tình huống khác nhau. Những hormone này hoạt động không chỉ trên xương mà còn trên các mô khác (như ruột, thận) để cung cấp các nguyên tố cần thiết cho cơ thể. Những cơ chế này tùy thuộc vào một mạng tinh vi bao gồm các phân tử phát tín hiệu (messenger molecules).
+
+## 2. CÁC TẾ BÀO THAM GIA VÀO CHU CHUYỂN XƯƠNG
+
+Trong mô xương có 4 loại tế bào hoạt động (Hình 1.3):
+
+- **Tiền tạo cốt bào (preosteoblast):** là những tế bào có nhân hình bầu dục hoặc dài. Tiền tạo cốt bào thường thấy trên mặt xương ở lớp trong màng xương, lớp mặt trong ống Havers. Các tế bào này tích cực hoạt động trong quá trình phát triển bình thường của xương, tham gia sửa sang lại xương, hàn gắn các xương gãy hoặc bị tổn thương. Khi thực hiện các việc nêu trên, các tiền tạo cốt bào tăng nhanh về số lượng bằng cách gián phân rồi biệt hóa thành những tạo cốt bào.
+
+- **Tạo cốt bào (osteoblast):** là những tế bào đa diện, nhân lớn hình cầu hay bầu dục. Tạo cốt bào thường xếp thành một hàng trên mặt các bè xương đang hình thành ở lớp trong màng xương, mặt trong ống Havers. Tạo cốt bào tạo ra khuôn hữu cơ và gián tiếp làm lắng đọng muối khoáng lên đó. Như vậy chất căn bản xương được hình thành. Trong quá trình tạo xương mới, khoảng 15% tạo cốt bào tự vùi mình trong chất căn bản do chúng tạo ra và trở thành tế bào xương. Số còn lại, khi quá trình tạo xương dừng, sẽ chuyển lại thành tiền tạo cốt bào nằm trên bề mặt xương nên còn gọi là tế bào liên kết (lining cells).
+
+- **Tế bào xương (osteocyte):** là những tế bào có nhiều nhánh mảnh, dài. Tế bào xương nằm trong các ổ xương, mỗi ổ xương chỉ có một tế bào. Các nhánh của tế bào xương đi trong các tiểu quản xương đến tiếp xúc với tế bào xương bên cạnh. Ở tế bào xương đã già, người ta thấy lysosom chứa nhiều enzym. Những enzym này có tác dụng tiêu hủy protein của khuôn hữu cơ giải phóng calci vào máu. Tế bào xương không có khả năng sinh sản. Chúng sẽ bị thực bào và bị tiêu hóa cùng các thành phần khác của xương trong quá trình tiêu xương.
 
 [Hình: Tạo cốt bào, Hủy cốt bào, Tế bào xương]
 Hình 1.3. Các tế bào trong xương
@@ -119,7 +162,29 @@ Khi xương bị tiêu hủy, hydroxyproline được giải phóng từ sự th
 
 * **Hydroxylysin glycosid niệu**
 
-Hydroxylysin là một acid amin được giải phóng ra trong quá trình thoái hóa collagen. Dạng bài tiết qua thận của hydroxylysin là glucosyl-galactosyl-hydroxylysin hoặc glucosyl-hydroxylysin. Sự thoái hóa collagen không phải là nguồn gốc duy nhất giờ và việc sử dụng tỷ số calci/creatinin niệu đã được thừa nhận như là một chỉ số có ý nghĩa chẩn đoán đối với những trường hợp có quá trình chuyển hóa xương nhanh.
+Hydroxylysin là một acid amin được giải phóng ra trong quá trình thoái hóa collagen. Dạng bài tiết qua thận của hydroxylysin là glucosyl-galactosyl-hydroxylysin hoặc glucosyl-hydroxylysin. Sự thoái hóa collagen không phải là nguồn gốc duy nhất của hydroxylysin, trên 50% hydroxylysin glycosid bài xuất qua thận được tạo thành từ sự chuyển hóa C1q.
+
+* Các hợp chất hydroxypyridinium niệu
+
+Các sợi collagen typ I và cả typ II, III, IX liên kết nhau bằng những liên kết ngang (cross-links) đặc hiệu là các gốc hydroxypyridinium. Dẫn xuất của hydroxypyridinium là pyridinolin (PYD) có ở lưới collagen của khớp, xương, gân cũng như quanh mạch máu, trong khi dẫn xuất deoxypyridinolin (DPD) thì chỉ tham gia cấu tạo lưới collagen của xương và ngà răng. PYD và DPD không có mặt trong mạng lưới collagen của da nên nồng độ PYD và đặc biệt là DPD trong nước tiểu có thể được xem như là đặc hiệu của quá trình tiêu xương.
+
+Phụ nữ trước mãn kinh khỏe mạnh có nồng độ PYD và DPD là 17 – 60 µmol/mol creatinin và 1,8 – 9,0 µmol/mol creatinin. Trong 3 năm đầu mãn kinh, nồng độ PYD tăng 31% và DPD tăng 50%; những năm tiếp theo mức tăng này là 33% và 63%; nếu dùng liệu pháp hormone thay thế mức tăng sẽ giảm.
+
+* Các telopeptid của collagen typ I
+
+Hai đầu tận cùng của chuỗi peptid (telopeptid) không có cấu trúc xoắn ba và được liên kết bởi các hợp chất hydroxypyridinium với những vùng xoắn ốc của sợi collagen liền kề. Trong quá trình thoái hóa collagen typ I, những đầu tận này được giải phóng khỏi tình trạng liên kết của chúng và có thể đo lường trong huyết thanh bằng phương pháp miễn dịch. Ngoài ra, các telopeptid cũng được giải phóng ra từ quá trình chuyển hóa da.
+
+### 3.2.2. Phosphatase acid kháng acid tartric trong máu
+
+Đây là một sản phẩm của hủy cốt bào, nồng độ của nó trong máu phản ánh hoạt động tiêu xương.
+
+### 3.2.3. Sialoprotein xương
+
+Protein này là một thành phần của xương, ngà răng và khớp bị vôi hóa. Nồng độ sialoprotein xương trong huyết thanh tăng khi quá trình tiêu xương xảy ra. Tiểu cầu cũng có chứa sialoprotein do đó sự thay đổi về số lượng tiểu cầu cũng ảnh hưởng đến nồng độ sialoprotein huyết thanh.
+
+### 3.2.4. Calci niệu
+
+Với chức năng thận bình thường và một chế độ ăn cân đối, sự bài tiết calci trong mẫu nước tiểu 24 giờ có thể được dùng như là một chất chỉ dẫn của sự tiêu xương. Calci được bài tiết qua thận thấp nhất từ 9 giờ tối đến 6 giờ sáng và cao nhất vào trước buổi trưa. Do đó, việc đo nồng độ calci, creatinin niệu vào buổi sáng lúc đói khoảng từ 8 – 10 giờ và việc sử dụng tỷ số calci/creatinin niệu đã được thừa nhận như là một chỉ số có ý nghĩa chẩn đoán đối với những trường hợp có quá trình chuyển hóa xương nhanh.
 
 Ở phụ nữ trưởng thành bình thường, lượng bài tiết hàng ngày qua nước tiểu của calci là 1,0 – 6,25 mmol/ngày và tỷ số calci/creatinin niệu là ≤ 0,57 mmol/mmol.
 
@@ -214,6 +279,26 @@ TNF α gây biệt hóa dòng hủy cốt bào gián tiếp qua tạo cốt bào
 **Gamma interferon**
 γ-Interferon là một lymphokin được sản xuất bởi lympho T. γ-Interferon ức chế sự tiêu xương do ức chế sự biệt hóa của dòng hủy cốt bào.
 
+5.2. Điều hòa bằng hormone
+
+5.2.1. Các hormone polypeptide
+
+**Parathyroidhormone (PTH)**
+PTH được bài tiết từ tuyến cận giáp. Bản chất hóa học là một polypeptide.
+PTH có tác dụng làm tăng nồng độ calci và giảm nồng độ phosphat trong máu. Trên xương, PTH có hai tác dụng:
+- Pha nhanh: PTH gắn lên receptor của tạo cốt bào và tế bào xương trên bề mặt xương làm tăng tính thấm $\text{Ca}^{++}$ của màng tế bào, calci khuếch tán từ dịch xương vào trong tế bào. Sau đó bơm calci ở phía bên kia màng tế bào sẽ vận chuyển calci từ bào tương ra dịch ngoại bào.
+- Pha chậm: hủy cốt bào không có receptor với PTH, thay vào đó, tạo cốt bào và tế bào xương được hoạt hóa bởi PTH sẽ phát tín hiệu tới hủy cốt bào gây hoạt hóa trực tiếp hủy cốt bào có sẵn và tạo thành những hủy cốt bào mới. Tác dụng này thường chậm và kéo dài.
+
+**Calcitonin**
+Calcitonin được bài tiết từ tuyến giáp (tế bào cận nang). Bản chất hóa học là một polypeptide.
+Calcitonin có tác dụng ngược với PTH, nó làm giảm nồng độ $\text{Ca}^{++}$ trong máu. Trên xương calcitonin có tác dụng:
+- Tác dụng trực tiếp làm giảm hoạt tính của hủy cốt bào vì hủy cốt bào có receptor với calcitonin và giảm hoạt động tiêu xương của tế bào xương dẫn đến giảm huy động calci và phosphat từ xương ra dịch ngoại bào. Tác dụng này đặc biệt quan trọng ở trẻ em vì nó làm tăng lắng đọng calci ở xương. Cơ chế là do calcitonin gây co thắt màng hủy cốt bào đồng thời làm thoái hóa hủy cốt bào trưởng thành thành những tế bào đơn nhân dẫn đến ức chế sự tiêu xương. Tuy nhiên tác dụng này chỉ là tác dụng ngắn, tạm thời sau đó sẽ nhanh chóng mất đi.
+- Tác dụng thứ hai chậm và kéo dài hơn là làm giảm sự tạo thành hủy cốt bào mới do ức chế sự phân bào và biệt hóa của các tế bào tiền thân. Vì sự sinh hủy cốt bào thường dẫn đến tác dụng thứ phát là kích thích sinh tạo cốt bào và tạo xương, do đó số lượng hủy cốt bào giảm cũng sẽ dẫn đến số lượng tạo cốt bào giảm.
+
+**Growth hormone (GH)**
+GH được bài tiết từ thùy trước tuyến yên. Bản chất hóa học là một protein.
+Các tế bào thuộc dòng tạo cốt bào và hủy cốt bào đều có receptor với GH. Như vậy, ở khung xương người trưởng thành, GH duy trì cả hai tiến trình tạo và tiêu xương gây sự tái tạo mô xương. GH có tác dụng làm tăng tổng hợp khuôn hữu cơ của xương, làm phát triển sụn liên hợp, làm tăng chiều dài xương.
+
 Ở thời kỳ niên thiếu, GH làm phát triển khung xương bằng cách tác dụng trực tiếp lên tế bào sụn trường thành ở đầu xương làm các tế bào này tăng bài tiết ra IGFI. IGFI cùng với TGF$\beta$ gây phân bào trên tế bào tạo sụn và kích thích tế bào tạo sụn biệt hóa làm phát triển lớp sụn ở đầu xương.
 
 **Insulin**
@@ -265,6 +350,31 @@ Trường hợp tăng $\text{T}_3-\text{T}_4$ kéo dài sẽ ức chế tăng si
 **6. RỐI LOẠN CHUYỂN HÓA XƯƠNG**
 
 Bệnh xương do nội tiết và chuyển hóa gồm: nhuyễn xương (osteomalacia) và còi xương (ricket), loãng xương (osteoporosis), cường cận giáp nguyên phát (primary hyper-parathyroidism), loạn dưỡng xương do bệnh thận (renal osteodystrophy).
+
+chức năng tạo cốt bào dẫn tới cường cận giáp thứ phát. Tổn thương điển hình là gãy cổ xương đùi, gãy lún các đốt sống.
+
+- Loãng xương thứ phát: xảy ra do bất động kéo dài và sau chấn thương; bệnh nội tiết như hội chứng Cushing, cường aldosteron, suy tuyến sinh dục, bệnh Basedow, to đầu ngón ...; bệnh ống tiêu hóa, thiếu dinh dưỡng như hội chứng kém hấp thu, cắt đoạn dạ dày, thức ăn thiếu calci, bệnh Scorbut, nghiện rượu; các nguyên nhân khác như ung thư, bệnh phổi tắc nghẽn mạn tính, bệnh gan, thận mạn tính, đái đường, viêm khớp mạn, lạm dụng một số loại thuốc...
+
+*Tóm lại*, chuyển hóa xương với sự gắn kết của hai quá trình tạo xương và tiêu xương xảy ra trong suốt cuộc đời mỗi người. Việc xây dựng đỉnh khối xương tốt nhất đồng thời với việc duy trì cân bằng giữa hai quá trình tạo xương và tiêu xương đảm bảo cho bộ xương luôn được đổi mới song vẫn giữ sự vững chắc. Hoạt động của các dòng tế bào tạo xương và hủy xương diễn ra theo những cơ chế phức tạp nhưng đồng thời lại chịu ảnh hưởng của nhiều yếu tố trong đó có vấn đề dinh dưỡng và lối sống. Do vậy, để đảm bảo cho bộ xương có thể thực hiện tốt vai trò của mình mỗi người cần duy trì một chế độ sinh hoạt và tập luyện thích hợp ngay từ khi còn trẻ, đặc biệt là đối với phụ nữ.
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Hồ Phạm Thục Lan (2011), “Sinh lý học loãng xương”, *Thời sự y học*, số 62.
+2. Nguyễn Văn Tuấn (2007), “Loãng xương - nguyên nhân, chẩn đoán, điều trị”, Nhà xuất bản Y học.
+3. Paul Dimitri and Nick Bishop, Symposium: “Ricket”, Metabolic Medicine. Paediatric and Child Health, Elsevier Ltd, 2007
+4. Usha Kini, B.N. Nadeesh (2012), “Physiology of bone formation, remodeling, and metabolism”, *Radionuclide and Hybrid Bone Imaging*, 29, Springer-Verlag Berlin Heidelberg.
+
+**CÂU HỎI TỰ LƯỢNG GIÁ**
+
+1. Giai đoạn tu chỉnh xương có đặc điểm nào sau đây?
+A. Quá trình hủy xương diễn ra song song với quá trình tạo xương
+B. Ảnh hưởng đến kích thước và hình dạng của xương
+C. Xảy ra thời gian ngắn
+D. Diễn ra liên tục, suốt đời
+
+2. Giai đoạn tái tu chỉnh có đặc điểm nào sau đây?
+A. Quá trình hủy xương và tạo xương xảy ra độc lập
+B. Ảnh hưởng đến mật độ, khoáng hóa, và vi cấu trúc của mô xương
 
 C. Xảy ra trong thời gian rất dài
 D. Kết thúc khi trưởng thành
@@ -476,7 +586,19 @@ Tổn thương dây chằng rất hay gặp trong thực hành y học thể tha
 
 Ít khi dây chằng đứt khỏi với một mảng xương, gọi là bong (rứt) nơi bám. Xảy ra ở thanh thiếu niên khi bản thân dây chằng tương đối khỏe hơn xương và còn phụ thuộc vào tốc độ của lực tác động (Hình 4.1; Biểu đồ 4.1, 4.2). Đôi khi dây chằng bị giật khỏi bề mặt tiếp giáp xương - dây chằng, nhưng cũng ít gặp vì mặt tiếp giáp đó thường vững bền hơn dây chằng và như vậy hiếm khi nó lại tổn thương trước. Thường thấy nhất là đứt, rách đoạn trung gian. Chỗ rách có thể ngang hay chéo song hay gặp hơn cả là rách ở nhiều điểm dọc theo đường dây chằng. Điều đó làm cho thực tế không thể sửa chữa trực tiếp hết các sợi thớ của dây chằng.
 
-collagen, proteoglycan, glycoprotein và các protein khác. Collagen trở nên thẳng hàng với trục dọc của dây chằng trong thời gian này; tuy nhiên, các sợi collagen mới hình thành là bất thường và đường kính nhỏ hơn mô dây chằng bình thường.
+[Hình: Hình 4.1. Bong (rút) nơi bám xương tại mâm chày của dây chằng chéo trước khớp gối. Nguồn: Hawkins D. (2001) [4].]
+
+[Hình: Biểu đồ 4.1. Kết quả thực nghiệm cho thấy kiểu tổn thương đặc hiệu của đơn vị xương – dây chằng – xương tùy thuộc vào tốc độ tác động của lực. Phần trăm tổn thương từ 0 đến 100 trên trục tung, Tốc độ lực (m/s) từ $10^{-6}$ đến $10^1$ trên trục hoành. Các vùng biểu diễn: Rút, Dứt, Rút và Dứt.]
+
+Khi tốc độ lực tác động chậm khả năng cao là tổn thương rút xương. Khi tốc độ lực tác động nhanh thì tổn thương tại giữa thân dây chằng. Nguồn: Crowninshield R.D. and Pope M.H. (1976) [2].
+
+[Hình: Biểu đồ 4.2. Biểu đồ giả thuyết về sự liên quan giữa sức mạnh và độ cứng của dây chằng tại giữa thân dây chằng và nơi tiếp giáp dây chằng và xương mâm chày. Sức mạnh hoặc độ cứng trên trục tung, Tuổi động vật trên trục hoành. Các nhãn trong hình: Tổn thương nơi bám, Tổn thương dây chằng, Nơi tiếp giáp dây chằng, Thân dây chằng.]
+
+**Biểu đồ 4.2.** Biểu đồ giả thuyết về sự liên quan giữa sức mạnh và độ cứng của dây chằng tại giữa thân dây chằng và nơi tiếp giáp dây chằng và xương mâm chày
+
+Sức mạnh của thân dây chằng khởi đầu sẽ tăng nhanh hơn nơi tiếp giáp dây chằng và xương. Sức mạnh nơi tiếp giáp dây chằng xương cuối cùng vượt qua sức mạnh thân dây chằng. Nguồn: Woo S.L-Y. Orlando C.A. Gomez M.A., Frank, C.B., and Akeson, W.H. (1986) [5].
+
+54 collagen, proteoglycan, glycoprotein và các protein khác. Collagen trở nên thẳng hàng với trục dọc của dây chằng trong thời gian này; tuy nhiên, các sợi collagen mới hình thành là bất thường và đường kính nhỏ hơn mô dây chằng bình thường.
 
 ### 2.2.3. Giai đoạn tái tạo
 

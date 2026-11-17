@@ -383,6 +383,18 @@ Năm loại collagen phổ biến gồm I, II, III, IV và V. Các sợi collage
 
 Thiếu vitamin C dai dẳng gây suy giảm tổng hợp collagen và bệnh scurvy, một bệnh nặng gây chảy máu nướu, mất răng, thay đổi màu da và vết thương khó lành. Trong những bệnh lý tự miễn như lupus đỏ hay viêm đa khớp dạng thấp có thể tấn công vào sợi collagen. Collagen da có thể được tăng lên trong sang thương xơ cứng bì khu trú (Hình 5-2), có thể là do sự hoạt động quá mức của nguyên bào sợi, nhưng lại giảm ở vùng da liên quan trong bệnh xơ cứng hệ thống. Nhiều vi khuẩn và virus tiết yếu tố gây độc như **collagenase** phá hủy collagen gây hoại tử mô.
 
+[Hình: Xơ cứng bì khu trú]
+
+Hình 5-2. Xơ cứng bì khu trú
+(Hình được cung cấp bởi BS. V. T. Trung)
+
+Một trong những chức năng quan trọng của da là có khả năng làm lành vết thương. Quá trình lành thương xảy ra qua bốn giai đoạn (cầm máu, viêm, tăng sinh, điều chỉnh). Collagen có vai trò đặc biệt quan trọng trong tất cả các giai đoạn lành thương. Tiểu cầu tương tác với sợi collagen để hình thành cục máu đông. Sợi collagen hướng dẫn nguyên bào sợi di chuyển dọc theo một chất nền mô liên kết. Sợi collagen có đặc tính hóa ứng động nhờ diện tích bề mặt lớn, có khả năng thu hút các tế bào. Vài ngày sau khi da bị tổn thương, nguyên bào sợi dưới tác động của các cytokine gia tăng sản xuất collagen. Trong giai đoạn tăng sinh này, tỷ lệ collagen loại III/collagen loại I tăng, nhưng ở giai đoạn điều chỉnh thì có sự giảm tỷ lệ collagen loại III để trở về trạng thái bình thường. Trường hợp quá trình lành thương bị rối loạn thì tỷ lệ collagen trong mô sẹo cao dẫn đến hình thành sẹo phì đại hoặc sẹo lồi (Hình 5-3).
+
+[Hình: Sẹo lồi ở ngực]
+
+Hình 5-3. Sẹo lồi ở ngực
+(Hình được cung cấp bởi BS. V. T. Trung)
+
 Sinh học chất nền ngoại bào lớp bì
 
 Đột biến gien collagens (loại I, III hay V) có thể dẫn đến kết nối bất thường mô liên kết ở da và khớp như trong hội chứng Ehlers-Danlos (EDS). Tên gọi được đặt cho một nhóm bệnh có một số đặc điểm chính là da mỏng và/hoặc có sự đàn hồi quá mức (Hình 5-4). Thể EDS cổ điển được đặc trưng bởi sự mềm mại, mượt mà của làn da, da dễ bị tổn thương, dễ bị bầm tím, dễ bị trầy xước và lành kém với các vết sẹo giống giấy thuốc lá mỏng. Bệnh nhân EDS còn có hệ dây chằng lỏng lẻo. Theo thời gian, các vấn đề trên sẽ trở nên nghiêm trọng. Ở một số gia đình, đột biến collagen type V (COL5A1 hoặc COL5A2) hoặc collagen type I (COL1A1) đã được xác định.
@@ -2601,3 +2613,1174 @@ Nhiều sẩn dày sừng tiết bã màu nâu, đen bề mặt hơi sần sùi 
 4.3.2. Ung thư da
 
 Ung thư da gồm cả u hắc tố tăng theo tuổi, do quá trình tiếp xúc tích lũy với các yếu tố sinh ung và do giảm khả năng sửa chữa DNA và kiểm soát miễn dịch, sự mất cân bằng nội môi tăng sinh theo tuổi. Nguyên nhân chính gây ung thư da là tiếp xúc tia tử ngoại. Những người da trắng có thói quen phơi nắng gây ra ung thư tế bào gai cũng như dày sừng ánh sáng-một biểu hiện tiền ung của ung thư tế bào gai. Ngược lại, nguy cơ ung thư tế bào đáy (Hình 14-7) và u hắc tố bào không chỉ liên quan đến tổng thời gian phơi nhiễm ánh sáng mà còn phụ thuộc vào cường độ ánh nắng.
+
+[Hình: (a) Mảng tăng sắc tố ở rìa ở da đầu; (b) Mảng màu da có bờ cuộn, giãn mạch đóng mài lõm ở trung tâm; (c) Mảng màu da có nhiều sẩn sắc tố trên bề mặt ở cánh mũi phải.]
+
+Hình 14-7. Ung thư tế bào đáy.
+
+## 4.3.3. Da khô
+
+Da khô là đặc tính khô và nhám của da hầu như luôn xuất hiện ở người lớn tuổi và được cho là liên quan đến những thay đổi tinh tế của quá trình trưởng thành lớp thượng bì, chẳng hạn thiếu hụt filaggrin và thay đổi hàm lượng lipid thượng bì da. Mô học cho thấy chỉ có những thay đổi nhỏ của lớp thượng bì và lớp sừng theo tuổi. Hiện không thể chứng minh được rằng sự sụt giảm lipid ở lớp sừng cũng như thay đổi thành phần acid amin là yếu tố bệnh sinh của tình trạng này. Lượng nước của lớp thượng bì vẫn bình thường, chỉ có các lớp sừng ngoài cùng bị mất nước. Bề mặt da không còn trơn láng là hệ quả của việc chuyển tiếp chậm các tế bào tạo sừng đến lớp sừng, làm tăng tích tụ các tổn thương tại chỗ. Không có giải thích thỏa đáng nào đối với sự xuất hiện sẩn ngứa vốn thường gặp với da khô. Có thể do sự xâm nhập các chất kích ứng qua lớp sừng trở nên thường xuyên hơn cũng như thay đổi ngưỡng kích ứng của thần kinh cảm giác dẫn đến bệnh lý thần kinh ngoại biên nhẹ.
+
+Chàm khô, một tình trạng thường gặp ở người già khi mùa đông đến, có bản chất là viêm da chồng lên da khô (Hình 14-8). Bệnh thường được gây ra bởi độ ẩm thấp trong một môi trường được sưởi ấm. Nó có biểu hiện là da khô, nứt nẻ với vảy mịn và thường hiện diện ở vùng trước xương chày. Tình trạng này thường gây ngứa dữ dội và đáp ứng tốt với corticoid tác dụng vừa dạng thuốc bôi ngoài da hoặc với dưỡng ẩm.
+
+[Hình: Hình 14-8. Chàm khô. Bề mặt da cẳng chân khô, tróc vảy trắng ít, kèm vết tích mụn nước, ngứa nhiều. (Hình được cung cấp bởi BS. V. T. Trung)]
+
+### 4.3.4. Ngứa
+
+Ngứa có thể là than phiền về da gặp nhiều nhất ở người lớn tuổi. Nguyên nhân chính của ngứa mạn tính là da khô, thường nặng hơn do độ ẩm thấp, tắm thường xuyên hoặc bôi các chất gây kích ứng da. Ngoài ra, còn do các nguyên nhân khác như các rối loạn về chuyển hóa và nội tiết như tiểu đường, suy thận, bệnh tuyến giáp, bệnh gan. Ngứa cũng có thể là biểu hiện của các bệnh ác tính như lymphoma, ung thư máu hoặc các bệnh về máu khác, bệnh thần kinh ngoại biên ở người tiểu đường, dị ứng thuốc hoặc ghẻ kèm thêm biểu hiện da có sẵn.
+
+## 5. KẾT LUẬN
+
+Da cũng bị lão hóa theo tiến trình lão hóa chung của cơ thể. Ngoài yếu tố nội sinh thì các yếu tố ngoại sinh từ môi trường ngoài mà chủ yếu là tia UV gây ra tình trạng lão hóa da. Trong quá trình lão hoá, cấu trúc da thay đổi dần đưa đến sự thay đổi về hình thái sinh lý từ đó dẫn đến thay đổi về mặt chức năng của da đối với toàn bộ cơ thể. Với tỉ lệ dân số người cao tuổi ngày càng tăng trên thế giới hiện nay và trong tương lai thì việc hiểu biết sâu và chính xác về những thay đổi mô học và chức năng của da xuất hiện trong quá trình lão hóa là rất quan trọng, góp phần vào việc kiểm soát tốt các biểu hiện lão hóa da cũng như các bệnh liên quan đến da lão hóa, giúp cải thiện chất lượng cuộc sống cho người cao tuổi.
+
+TÀI LIỆU THAM KHẢO
+1. Farage Miranda A., Miller Kenneth W., Maibach Howard I. (2017), *Textbook of Aging Skin*, Springer, 2nd Edition.
+2. Goldsmith Lowell A., Katz Stephen Gilchrest I., Barbara A., et al (2012), *Fitzpatrick’s Dermatology in General Medicine*, Mc Graw Hill, 8th Edition, pp. 1213 – 1226.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+Câu 1. Nguyên nhân nào gây lão hóa da do ánh nắng?
+a. Tia UV thoái giáng collagen hoàn toàn
+b. Giảm tiết men elastase gây hình thành các elastin thoái hóa to vô định hình
+c. UVA tổng hợp, phóng thích cytokines và MMP, kích thích đột biến DNA
+d. UVB có tác động gây oxy hóa cao hơn UVA
+
+Câu 2. Khi da lão hóa gây ra sự thay đổi nào về chức năng lớp thượng bì?
+a. Rối loạn tổng hợp cholesterol làm tăng lượng lipid ở tầng sừng da
+b. Giảm lượng filaggrin thượng bì gây ra tình trạng da khô, bong tróc
+c. Giảm số lượng tế bào Langerhans gây ra tình trạng da xỉn màu, không trơn láng
+d. Giảm sản xuất vitamin A
+
+Câu 3. Những thay đổi về cấu trúc và chức năng nào của lớp bì khi da lão hóa?
+a. Thay đổi sinh hóa của collagen, elastin và chất nền bì làm tăng độ dày da
+b. Giảm tổng hợp, giảm tiết các cytokine, các chất trung gian gây viêm gây giảm đáp ứng viêm ở da
+c. Sự lão hóa của tóc không phụ thuộc androgen nên nam nữ lớn tuổi rụng tóc như nhau
+d. Sự giảm collagenase và sự giảm tổng hợp collagen I, III đưa đến giảm sự lành sẹo ở người lớn tuổi
+
+Câu 4. Sự thay đổi nào ở mô dưới da, cơ, xương, thần kinh khi da lão hóa?
+a. Tăng tỉ lệ nang tóc ở giai đoạn anagen telogen
+b. Tăng kiểm soát thần kinh cơ khiến hình thành nếp nhăn
+c. Tuyến mồ hôi nước chỉ giảm kích thước và chức năng theo tuổi, không giảm số lượng
+d. Giảm nhận thức cảm giác chạm nhẹ, rung, phân biệt 2 điểm
+
+Lão hóa da
+
+Câu 5. Các yếu tố gì góp phần trong lão hóa da nội sinh?
+a. Gốc oxy hóa
+b. Ánh nắng
+c. Hút thuốc lá
+d. Chế độ ăn
+
+# 15 SANG THƯƠNG CƠ BẢN
+BS.CKI. Hoàng Văn Minh
+
+**Mục tiêu học tập**
+- Mô tả được các loại sang thương nguyên phát.
+- Mô tả được các loại sang thương thứ phát.
+- Giải thích được mối liên quan giữa các sang thương lâm sàng và thay đổi sinh lý mô học.
+- Trình bày được các kiểu sắp xếp, phân bố sang thương.
+- Trình bày được phân bố định khu trên cơ thể của các bệnh da phổ biến.
+- Trình bày được tầm quan trọng của sang thương cơ bản, cách sắp xếp và phân bố sang thương trong chẩn đoán bệnh da.
+
+**1. MỞ ĐẦU**
+
+Để chẩn đoán và điều trị tốt bệnh da chủ yếu dựa vào khám lâm sàng mà việc làm đầu tiên là phải tìm sang thương cơ bản.
+
+Sang thương cơ bản có hai loại: Sang thương nguyên phát và sang thương thứ phát. Sang thương nguyên phát là những thay đổi sớm của da chưa trải qua diễn tiến tự nhiên hay chịu sự tác động của bên ngoài. Sang thương thứ phát là những thay đổi của da đã trải qua diễn tiến tự nhiên (ví dụ: trợt) hay chịu sự tác động của bệnh nhân (ví dụ: vết cào gãi).
+
+Sang thương cơ bản nằm trong triệu chứng học bệnh da rất cần thiết cho chẩn đoán. Đó cũng là kết quả của sự phối hợp nhiều sang thương ở những mức độ khác nhau. Sự phối hợp này rất đa dạng chẳng những ở bản thân sang thương mà còn ở cách bố trí sắp xếp của chúng. Muốn chẩn đoán bệnh da, người thầy thuốc phải phân tích các triệu chứng trên hai phương diện đó.
+
+Sang thương da nguyên phát: Dát, sẩn, tăng sừng và sùi, mụn nước và bóng nước, mụn mủ, cục, hoại thư.
+
+Sang thương da thứ phát: Mài, trợt, rạn nứt, loét, sẹo, xạm da hình mạng lưới, lichen hóa, xơ hóa.
+
+Sang thương cơ bản
+
+Bảng 15-1. Sang thương da phân loại theo mặt phẳng da
+
+| Sang thương phẳng (thường ngang mặt da) | Sang thương lồi (thường nằm trên mặt da) | Sang thương lõm (thường nằm dưới mặt da) |
+| :--- | :--- | :--- |
+| Dát (1) | Sẩn | Teo (4) |
+| | Mảng (1) | Xơ hóa (2) |
+| | Nốt (2) | Trợt |
+| | Sẩn phù | Sẹo (3) |
+| | Mụn nước | Loét |
+| | Bóng nước | Hoại thư (4) |
+| | Mụn mủ | |
+| | Củ | |
+| | Áp xe | |
+| | Nang (2) | |
+| | Mài | |
+| | Vảy | |
+
+Ghi chú: (1) Có thể ngang mặt da
+(2) Có thể trong hay dưới da
+(3) Có thể trên mặt da
+(4) Có thể dưới mặt da
+
+**Sơ đồ: Sơ đồ phân loại sang thương cơ bản**
+
+- Sang thương cơ bản
+  - Ngang mặt da
+    - < 2 cm --> Dát
+    - > 2 cm --> Khoảng
+  - Trên mặt da
+    - Đặc
+      - < 1 cm --> Sẩn
+      - > 1 cm --> Mảng
+    - Dịch
+      - < 1 cm --> Mụn nước
+      - > 1 cm --> Bóng nước
+  - Dưới mặt da
+    - Đặc --> Cục
+    - Bán đặc --> Nang
+
+(Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)
+
+181
+
+2. SANG THƯƠNG NGUYÊN PHÁT
+2.1. Dát
+
+[Hình: Hình 15-1. Dát (Bản quyền của Designua, ID: 386529589)]
+
+**Định nghĩa:** Là sự thay đổi màu sắc của da, không nhô lên cũng không lõm xuống so với bề mặt da và kích thước nhỏ hơn 2cm.
+
+[Hình: Hình 15-2. Sang thương dát
+(a) Dát tăng, giảm sắc tố trên bệnh nhân Khô da sắc tố (Xeroderma pigmentosum) – (b) Khoảng màu xanh nhạt vùng mông trên bệnh nhân bớt Mông Cổ. (Nguồn: “Pediatric Dermatopathology. Springer, 2017”)
+Chú thích ảnh (a): Xeroderma pigmentosum presents with pronounced photodistributed freckling and poikiloderma. Scleral injection and actinic cheilitis also can occur in this patient (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T L, Wright T S. Pediatric Dermatopathology. 1st edition. Springer, 2017)
+Chú thích ảnh (b): Congenital dermal melanocytosis appears as a faint blue patch over the lumbosacral area (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T L, Wright T S. Pediatric Dermatopathology. 1st edition. Springer, 2017)]
+
+Sang thương cơ bản
+
+[Hình: (a) Nevus of Ota is a bluish-gray hyperpigmented patch on the side of the face in the distribution of trigeminal nerve innervation (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung TL, Wright TS. Pediatric Dermatopathology. 1st edition. Springer, 2017) (b) Cutaneous macular amyloidosis presents as lichenified brown macules with subtle rippling of the skin on the scrotum of a boy (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung TL, Wright TS. Pediatric Dermatopathology. 1st edition. Springer, 2017)]
+
+**Hình 15-3. Sang thương dát**
+(a) Dát màu xanh đen vùng một bên mặt phân bố theo dây thần kinh số V – (b) Dát amyloidosis biểu hiện như dát nâu lichen hóa với các đường gợn sóng trên da bìu của một bé trai. (Nguồn: “Pediatric Dermatopathology. Springer, 2017”)
+
+**Cơ chế**
+
+Viêm sung huyết lớp bì nông: Thường có màu hồng hay màu đỏ. Ví dụ: ban đào của giang mai II, sởi, ban đỏ, phát ban do thuốc.
+
+Giãn mạch ở lớp bì: Thường gặp ở u mạch hoặc giãn mạch, thường biến mất dưới sức đè.
+
+Xuất huyết: Do huyết khối thành mạch ở lớp bì. Ví dụ: ban xuất huyết.
+
+Do tăng sắc tố: Thường là melanin, nếu ở trong thượng bì thường có màu nâu đậm hơn dưới ánh đèn Wood. Ví dụ: dát màu cà phê sữa, tàn nhang. Nếu ở lớp bì thường có màu đá bảng và không đậm dưới ánh đèn Wood, ví dụ: hồng ban sắc tố cố định.
+
+Do giảm lượng melanin trong thượng bì: mất hoàn toàn (không sắc tố), ví dụ: bạch biến. Hoặc giảm một phần sắc tố, ví dụ: dát của xơ cứng não củ.
+
+Do ứ đọng chất bất thường ở da có thể lan tỏa như: sắt, caroten, bilirubin... hoặc khu trú như xăm mình.
+
+**Nguyên nhân thường gặp**
+
+Dát màu nâu: bớt Becker, dát cà phê sữa, nám má, đốm nâu.
+
+Dát màu xanh: xăm mình, dát Mông Cổ.
+
+Dát màu đỏ: phát ban do thuốc, giang mai II, phát ban do virus.
+
+Dát màu trắng (giảm sắc tố): bạch biến, lang ben, phong, dát trong xơ cứng não củ.
+
+183
+
+Da liễu cơ bản
+
+## 2.2. Sẩn
+
+[Hình: Hình 15-4. Sẩn]
+
+**Hình 15-4. Sẩn**
+*(Bản quyền của Designua, ID: 359365448)*
+
+**Định nghĩa:** Là sang thương nhỏ trên mặt da, đặc, giới hạn rõ, đồng nhất không chứa dịch, kích thước nhỏ hơn 1cm.
+
+[Hình: Erythematous papules and skin-colored comedones on the central face of a child with acne neonatorum (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T L, Wright T S: Pediatric Dermatopathology, 1st edition. Springer, 2017)]
+
+**Hình 15-5. Sang thương sẩn**
+Sẩn hồng ban và cồi mụn màu da vùng giữa mặt trên một trẻ bị. Mụn trứng cá sơ sinh (acne neonatorum). (Nguồn: “Pediatric Dermatopathology. Springer, 2017”)
+
+**Cơ chế**
+Do gia tăng bạch cầu đa nhân
+
+Thượng bì:
+- Do tăng khối lượng trong thượng bì, thường sẽ không ở lỗ chân lông. Ví dụ: mụn cóc phẳng.
+- Do tăng sinh quanh lỗ chân lông (tăng sừng chân lông). Ví dụ: dày sừng nang lông, vảy phấn đỏ nang lông.
+
+Bì: Gia tăng khối lượng tế bào bì.
+- Tích dịch do phù nề. Ví dụ: mề đay.
+- Có máu và phù do xuất huyết. Ví dụ: viêm mạch.
+- Lắng đọng chất bất thường. Ví dụ: amylose, mucinose.
+- Tăng sinh tế bào: Lành tính như giang mai II hoặc ác tính như ung thư biểu mô tế bào đáy, u lympho.
+
+Bì và hạ bì:
+- Tăng sinh bì-thượng bì và thâm nhiễm bì. Ví dụ: lichen phẳng.
+
+*Nguyên nhân thường gặp*
+Sẩn màu da: U mềm lây, u tuyến bã, u hạt vòng, lichen amyloidosis, u sợi thần kinh, sẩn hạt ngọc, mẩu da thừa.
+Nâu: Dày sừng ánh sáng, u sắc tố, bệnh Darier.
+Sẩn đỏ: Vảy nến, rôm sảy, sẩn ngứa.
+Vàng: U vàng.
+Tím: Lichen phẳng.
+
+2.3. Sẩn phù
+
+[Hình: Hình 15-6. Sẩn phù]
+(Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)
+
+Da liễu cơ bản
+
+**Định nghĩa**: Khoảng hơi nhô lên mặt da, bề mặt bằng phẳng, màu đỏ nhạt hoặc trắng, đặc trưng là tự biến mất trong vòng 24 – 48 giờ.
+
+[Hình: Hình 15-7. Mày đay]
+
+**Cơ chế**
+- Do phù trong phần nhú bì.
+- Nếu phù nhiều và rõ sẽ chèn ép các mao mạch giãn nở và sẩn phù chuyển sang màu trắng.
+
+**2.4. Mảng**
+
+[Hình: Hình 15-8. Sang thương mảng (Bản quyền của Designua, ID: 359365448)]
+
+**Định nghĩa**: Là sang thương nhô trên mặt da hình cao nguyên chiếm một phần lớn diện tích bề mặt trên 1cm, giới hạn thường rõ.
+
+Da liễu cơ bản
+
+[Hình: Mụn nước rải rác trên nền hồng ban trên bệnh nhân chàm]
+**Hình 15-11. Mụn nước rải rác trên nền hồng ban trên bệnh nhân chàm**
+
+*Cơ chế*
+
+- Tổn thương lớp thượng bì do virus thường xảy ra trên da lành như thủy đậu hay trên nền hồng ban như zona, herpes.
+- Hiện tượng xốp bào. Ví dụ: chàm.
+- Phân tách bì – thượng bì. Ví dụ: viêm da dạng herpes.
+
+**Nguyên nhân thường gặp:** Chốc, chàm, virus: zona, herpes, thủy đậu, ghẻ, nấm da, hồng ban đa dạng, viêm da dạng herpes, tổ đỉa.
+
+**2.6. Bóng nước**
+
+[Hình: Bóng nước]
+**Hình 15-12. Bóng nước**
+*(Bản quyền của Designua, ID: 386526817)*
+
+**Định nghĩa:** Là sang thương lỏng chứa dịch trong, nhô cao trên mặt da và đường kính nhỏ hơn 1cm.
+
+u bản
+
+nang lông.
+
+ong bì hoặc hạ bì.
+
+2.7. Mụn mủ
+
+[Hình: Hình 15-14. Mụn mủ (Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)]
+
+**Định nghĩa:** Là sang thương giống mụn nước nhưng chứa mủ.
+
+[Hình: Hình 15-15. Mụn mủ vô trùng trong vảy nến mủ]
+
+**Cơ chế**
+Do gia tăng bạch cầu đa nhân:
+- Nếu ở lỗ tuyến bã thường do nhiễm trùng. Ví dụ: mụn, viêm nang lông.
+- Nếu ở thượng bì thường không do nhiễm trùng:
+
+190
+
+- Dưới lớp sừng: Vảy nến mủ, bệnh mụn mủ dưới lớp sừng.
+- Trong và dưới thượng bì: Viêm mạch mụn mủ, bệnh Behçet.
+
+**Nguyên nhân thường gặp:** Mụn trứng cá, mụn mủ dưới lớp sừng, viêm nang lông, thủy đậu, viêm da mủ, vảy nến mủ, hội chứng Reiter, bệnh Behçet.
+
+2.8. Cục
+
+**Định nghĩa:** Là sang thương đặc, hình cầu hay trứng, nằm sâu trong bì hoặc hạ bì, thường sờ dễ phát hiện hơn nhìn.
+
+[Hình: Hình 15-16. Cục trong bệnh ghẻ (Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)]
+
+Gôm là những cục có tính chất viêm bán cấp hay mạn, ban đầu cứng sau hóa mềm, da trở nên đỏ tím. Cuối cùng gôm mở ra ngoài tạo thành vết loét sâu, lành để lại sẹo xấu.
+
+**Cơ chế**
+- Do tăng sinh tế bào: Lành tính như u sợi, mạch hoặc ác tính như u sắc tố ác tính, u lympho.
+- Do viêm bán cấp hay mạn tạo gôm. Ví dụ: giang mai, lao, nấm sâu.
+
+**Nguyên nhân thường gặp:** Sẩn ngứa cục, bớt hỗn hợp, u mềm lây, lao cóc, lupus sâu, hạch, hồng ban nút, nốt sau ghẻ, u sùi dạng nấm, Gout, ung thư biểu mô tế bào đáy, ung thư tế bào gai xâm lấn, u gai sừng, u sắc tố ác tính, u mỡ, nấm Sporotrichose.
+
+3. SANG THƯƠNG THỨ PHÁT
+3.1. Vảy
+
+[Hình: Hình 15-17. Vảy (Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)]
+
+**Định nghĩa**
+Là những phiến thượng bì mỏng tróc trên bề mặt da.
+Vảy có khi tiên phát (da vảy cá), có khi thứ phát (chàm).
+Có nhiều loại vảy: Có loại như phấn, có loại như phiến mica, có loại thật dày như vỏ sò.
+
+[Hình: Hình 15-18. Vảy trong bệnh da vảy cá (Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)]
+
+Da liễu cơ bản
+
+[Hình: (a) Impetigo presents as widespread flaccid bullae and superficial erosions with collarettes of scale and foci of honey-colored crust (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T.L, Wright T.S. Pediatric Dermatopathology. 1st edition Springer, 2017)]
+
+[Hình: (b) Hydroa vacciniforme presents as photodistributed, crusted, erythematous papules and vesicles (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T.L, Wright T.S. Pediatric Dermatopathology. 1st edition Springer, 2017)]
+
+**Hình 15-21. Sang thương vảy tiết-mài**
+(a) Chốc biểu hiện gồm các bóng nước chứa dịch trong và vết trợt có viền vảy tróc, mài màu mật ong; (b) Bệnh mụn nước dạng đậu mùa vùng phơi bày ánh sáng, gồm các sẩn hồng ban, mụn nước, bóng nước, mài. (Nguồn: “Pediatric Dermatopathology. Springer, 2017”)
+
+[Hình: Seborrheic dermatitis presents as rough, erythematous thin plaques with overlying adherent, greasy scales involving the scalp and face of an infant (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T.L, Wright T.S. Pediatric Dermatopathology. 1st edition Springer, 2017)]
+
+**Hình 15-22. Viêm da tiết bã**
+Biểu hiện gồm các mảng hồng ban có mài mỡ, dính phân bố trên da đầu và mặt của một trẻ sơ sinh. (Nguồn: “Pediatric Dermatopathology. Springer, 2017”)
+
+194
+
+Sang thương cơ bản
+
+**Cơ chế:** Do rối loạn sự keratin hóa của thượng bì.
+**Nguyên nhân thường gặp:** Chốc, pemphigus bã, bệnh bóng nước, bệnh da do virus: zona, herpes, thủy đậu.
+
+3.3. Trợt
+
+[Hình: Hình 15-23. Trợt (Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)]
+
+**Định nghĩa:** Còn gọi là lở. Thượng bì bị tróc mất và lành không để lại sẹo.
+
+[Hình: Hình 15-24. Vết trợt trên sang thương Herpes simplex (Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)]
+
+**Cơ chế:** Do sau một chấn thương.
+**Nguyên nhân thường gặp:** Herpes, viêm kẽ, săng giang mai, hội chứng Lyell, chàm.
+
+195
+
+3.4. Loét
+
+[Hình: Loét]
+
+**Hình 15-25. Loét**
+*(Bản quyền của Designua, ID: 386527027)*
+
+**Định nghĩa:** da bị mất đến tận lớp bì do đó khi lành lại sẹo
+
+[Hình: Loét trên bệnh nhân rối loạn dạng cơ thể]
+
+**Hình 15-26. Loét trên bệnh nhân rối loạn dạng cơ thể**
+*(Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)*
+
+**Cơ chế:** Sự tiếp tục tổn thương da bệnh do tổn thương mạch máu hoặc thâm nhiễm tế bào viêm.
+
+**Nguyên nhân thường gặp**
+
+- **Loét do tuần hoàn**
+    - *Chi dưới:* Loét chân do tĩnh mạch, loét chân do động mạch.
+    - *Vùng tỳ đè:* Mảng mục.
+    - *Lòng bàn chân:* Lỗ đáo.
+
+Loét sau nhiễm trùng
+- *Vi trùng:* Chốc loét do liên cầu.
+- *Nấm:* Nấm sâu.
+- *Ký sinh trùng:* Giun chỉ.
+
+Loét do biến dưỡng
+- *Chi dưới, cơ địa tiểu đường:* Hoại tử mỡ đái tháo đường.
+- *Lòng bàn chân:* Viêm da mủ hoại thư.
+
+Loét ác tính
+- *Một sang thương:* Ung thư biểu mô tế bào đáy, ung thư biểu mô tế bào gai, sarcome da.
+- *Nhiều sang thương:* U lympho, ung thư di căn.
+
+Loét viêm mạch
+- *Đau:* apth, ghẻ cóc.
+- *Không đau:* Herpes, giang mai, hạ cam mềm.
+
+3.5. Nứt
+
+[Hình: Hình 15-27. Nứt]
+(Bản quyền của Designua, ID: 386527027)
+
+**Định nghĩa:** Do chấn thương gây ra cho các tầng trên da:
+- Nếu lớp sừng bị tổn thương, ta có một vết trắng hồng chung quanh.
+- Nếu lớp gai bị tổn thương, chất tiết đông lại thành vẩy tiết.
+- Trong trường hợp nhú bì bị tổn thương thì chất tiết có lẫn máu nên khi đông lại thành vẩy tiết đen và dính.
+
+197
+
+Da liễu cơ bản
+
+[Hình: Các đường nứt trên sang thương chàm môi]
+**Hình 15-28. Các đường nứt trên sang thương chàm môi**
+
+[Hình: Striae distensae presents as symmetric erythematous, atro- phic, linear plaques (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T.L, Wright T.S: Pediatric Dermatopathology. 1st edition. Springer, 2017)]
+**Hình 15-29. Rạn da biểu hiện như các đường nứt teo da màu hồng**
+*(Nguồn: “Pediatric Dermatopathology. Springer, 2017”)*
+
+**Cơ chế:** Do chấn thương hoặc vết cắt, vết đứt
+**Nguyên nhân thường gặp:** Rạn da, tất cả các bệnh da do cào gãi.
+
+**3.6. Sẹo**
+
+[Hình: Sẹo]
+**Hình 15-30. Sẹo**
+*(Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)*
+
+198 trường hợp teo do viêm hay thương tích, da trơn không còn những đường rãnh mặc dù dễ bị xếp nếp.
+
+**Teo bì**: Da bị lõm xuống, teo bì có thể đi kèm với teo thượng bì. Ví dụ: vết rạn da (vergeture) mà thượng bì vẫn bình thường chỉ có bề dày của da giảm.
+
+[Hình: Teo da và xơ cứng trong xơ cứng bì khu trú]
+**Hình 15-33.** Teo da và xơ cứng trong xơ cứng bì khu trú
+*(Nguồn: “Hướng dẫn chuẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)*
+
+[Hình: (a) Multiple violaceous atrophic plaques with an erythematous rim are on the face, most notably in a malar distribution across the nose and cheeks in a girl with lupus erythematosus (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam From Phung TL, Wright TS. Pediatric Dermatopathology. 1st edition. Springer, 2017) (b) Linear morphea presents as a hyperpigmented sclerotic band extending from the lateral forehead to the crown of the scalp with concomitant alopecia and hemorrhagic ulceration (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T L, Wright TS. Pediatric Dermatopathology. 1st edition Springer, 2017)]
+(a) (b)
+
+**Hình 15-34.** Sang thương teo da
+
+(a) nhiều mảng teo màu đỏ tím viền đỏ trên vùng mặt, chủ yếu phân bố vùng má vắt ngang qua mũi, chừa rãnh má mũi trên bệnh nhân lupus ban đỏ; (b) Xơ cứng bì dải biểu hiện gồm các dải xơ tăng sắc tố kéo dài từ đỉnh đầu xuống trán, đi kèm rụng tóc và loét xuất huyết.
+*(Nguồn: “Pediatric Dermatopathology. Springer, 2017”)*
+
+[Hình: Sclerothic tightening of the digits and ulcerations at the fingertips are seen in a patient with scleroderma (photo courtesy of Minh Hoang, MD, Ho Chi Minh City, Vietnam. From Phung T.L, Wright T.S: Pediatric Dermatopathology, 1st edition. Springer, 2017)]
+
+**Hình 15-35.** Xơ teo các ngón tay và loét đầu ngón tay trên bệnh nhân xơ cứng bì (Nguồn: "Pediatric Dermatopathology. Springer, 2017")
+
+**Cơ chế:** Do sự thay đổi của mô liên kết và/hoặc mô đàn hồi.
+
+**Nguyên nhân thường gặp:** Lupus đỏ mạn, xơ cứng bì khu trú (Morphea), lichen xơ cứng – teo, tai biến da do corticoide, lão hóa da, bệnh Pick – Herxheimer.
+
+## 4. PHÂN BỐ SANG THƯƠNG
+
+Sang thương cơ bản có thể sắp xếp theo nhiều cách đặc biệt. Nhờ vào cách sắp xếp này mà chúng ta có thể chẩn đoán được một số bệnh da thường gặp.
+
+### 4.1. Sắp xếp theo đường thẳng
+
+- **Mạch máu**
+  - Chàm liên quan đến tĩnh mạch.
+  - Viêm động mạch thái dương.
+  - Viêm nút quanh động mạch.
+- **Bạch huyết**
+  - Viêm đường bạch huyết.
+  - Nấm Sporotrichose.
+- **Đường Langer**
+  - Rạn da.
+- **Đường khâu hay đan**
+  - Nứt bụng trong thai kỳ.
+  - Mập.
+  - Tai biến da do corticoide.
+- **Nhiễm trùng**
+  - Rãnh ghẻ.
+  - Ấu trùng di chuyển.
+
+**Dermatome**
+- Zona.
+- Noevus dạng zona.
+- **Dây thần kinh**
+- Phong (dày sợi thần kinh).
+**Đường cong Blaschko**
+- Noevus thượng bì.
+- Bệnh sắc tố không liên tục.
+**Đường Voigt**
+- U xơ thần kinh phân đoạn.
+
+**Chấn thương bên ngoài**
+- Thực vật
+- Dị ứng nguyên
+- Hóa học
+- Nhiệt
+- Vật lý: nhạy cảm ánh sáng, chàm tiếp xúc, axit, bỏng.
+
+[Hình: Hình 15-36. Phân bố sang thương dạng đường]
+
+## 4.2. Sắp xếp theo đường cong Blaschko
+
+Nhiều bệnh da dạng noevus tuân theo hệ thống đường cong Blaschko. Những đường cong này gợi lên sự di chuyển các tế bào phôi thai xuất phát từ mào thần kinh. Sự tăng trưởng theo trục dọc và đường cong của phôi làm lệch hướng của các dải tăng sinh tế bào đã hình thành nên đường cong Blaschko.
+
+Ví dụ: noevus không màu, porokeratose theo đường, harmatome thượng bì.
+
+Hình 15-37. Phân bố của đường cong Blaschko trên cơ thể
+(Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)
+
+[Hình: Dát giảm sắc tố phân bố theo đường cong Blaschko]
+Hình 15-38. Dát giảm sắc tố phân bố theo đường cong Blaschko
+
+## 4.3. Sắp xếp theo dermatome
+
+Nhiều vùng phân bố rễ hạch khác nhau được gọi là dermatome. Ngược với đường cong Blaschko, dermatome là dạng đều đặn. Sự phân bố thần kinh có vẻ được hình thành sau đường cong Blaschko.
+
+Ví dụ: zona là bệnh da theo dermatome.
+
+[Hình: Phân bố của dermatome trên cơ thể]
+
+**Hình 15-39. Phân bố của dermatome trên cơ thể**
+*(Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)*
+
+## 4.4. Sắp xếp dạng vòng
+
+[Hình: Phân bố sang thương dạng vòng]
+
+**Hình 15-40. Phân bố sang thương dạng vòng**
+*(Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)*
+
+**Nguyên nhân thường gặp:**
+
+**Có vảy:** Nấm da, vảy nến, vảy phấn hồng, chốc, lupus đỏ bán cấp, chàm tiết bã, bệnh da sắc tố xuất huyết, mycosis fungoides.
+
+**Không có vảy:** U hạt vòng, mày đay, hồng ban đa dạng, hồng ban vòng, lichen phẳng, thâm nhiễm lympho của Jessner.
+
+[Hình: Hình 15-41. Nấm thân]
+
+## 4.5. Sắp xếp hình bia
+Bệnh thường gặp: Hồng ban đa dạng.
+
+[Hình: Hình 15-42. Hồng ban đa dạng]
+
+4.6. Sơ đồ bệnh da thường gặp ở trẻ em theo vị trí
+
+[Hình: Tiêu thượng bì bóng nước]
+[Hình: Đầu cứt trâu, a. Á sừng tiết bã, b. Chàm]
+[Hình: Viêm kẽ và nhiễm Candida]
+[Hình: Chàm]
+[Hình: Viêm kẽ và bệnh da do tã lót]
+[Hình: Tiêu thượng bì bóng nước]
+
+Hình 15-43. Bệnh da thường gặp ở trẻ em theo vị trí
+
+**5. KẾT LUẬN**
+
+Sang thương cơ bản có thể so sánh như những mẫu tự của ngành da liễu. Chỉ có thông qua sự phân tích tỉ mỉ các sang thương cơ bản, người thầy thuốc mới đi đến chẩn đoán một cách đúng đắn và khoa học.
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Hoàng Văn Minh (2001), *Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh*. s.l, Nhà xuất bản Y học.
+2. Thomas Habif (2016). *Clinical Dermatology*, 6e, Elsevier.
+3. Phung T. L., Wright T. S., Pourciau C. Y., Smoller B. R. (2017), *Pediatric dermatopathology*, Springer.
+4. Nguyễn Văn Út (2002), *Bài giảng bệnh Da liễu*, Nhà xuất bản Y học.
+
+**CÂU HỎI TỰ LƯỢNG GIÁ**
+
+Trong các hình dưới đây:
+
+[Hình: A, B, C, D, E minh họa các sang thương da khác nhau]
+
+Câu 1. Sang thương nào là dát?
+- a. A
+- b. B
+- c. C
+- d. D
+
+Câu 2. Sang thương nào là sẩn?
+- a. A
+- b. B
+- c. D
+- d. E
+
+Câu 3. Sang thương nào phân bố dạng đa cung?
+- a. B
+- b. C
+- c. D
+- d. E
+
+Câu 4. Sang thương nào là mụn nước?
+- a. A
+- b. B
+- c. C
+- d. E
+
+Bệnh nhân nam, 62 tuổi, bị sang thương như hình đã 5 ngày, cảm giác đau rát và ông không nhớ rõ bệnh sử. Sang thương da ngày càng lan rộng. Tuy nhiên, người nhà không cung cấp được thông tin về quá trình khởi phát của bệnh. Dựa vào hình ảnh và bệnh sử, học viên trả lời các câu hỏi sau:
+
+Câu 5. Sang thương nguyên phát trên bệnh nhân này bao gồm loại nào?
+- a. Mụn nước trên nền hồng ban
+- b. Bóng nước trên nền hồng ban
+- c. Mài huyết thanh trên nền hồng ban
+- d. Mài mủ trên nền hồng ban
+
+Câu 6. Sự phân bố của sang thương này ở đâu?
+- a. Nửa trên vùng mặt
+
+[Hình: Bệnh nhân nam có sang thương mụn nước trên nền hồng ban ở nửa trên vùng mặt]
+
+b. Nửa vùng mặt bên trái
+c. Theo dây thần kinh V1
+d. Toàn bộ khuôn mặt
+**Câu 7. Chẩn đoán bệnh này là gì?**
+a. Viêm da tiếp xúc do côn trùng
+b. Chàm bội nhiễm
+c. **Herpes zoster**
+d. Chốc bóng nước
+
+[Hình 10-1. Nghiệm pháp Nikolsky]
+
+# 16 MỘT SỐ DẤU HIỆU VÀ NGHIỆM PHÁP THƯỜNG GẶP TRONG BỆNH DA
+
+BS.CKI. Trần Thế Viện, BS.CKI. Hoàng Văn Minh
+
+## Mục tiêu học tập
+- Trình bày và nêu được tầm quan trọng của các dấu hiệu và nghiệm pháp trong chẩn đoán bệnh da.
+- Nhận biết được một số dấu hiệu thường gặp trong bệnh da thông thường.
+- Thực hiện được một số nghiệm pháp thường gặp trong bệnh da thông thường.
+
+## 1. MỞ ĐẦU
+Chẩn đoán trong da liễu phần lớn dựa vào quan sát trực tiếp, trong đó một số dấu hiệu và nghiệm pháp đóng vai trò là những manh mối quan trọng đối với chẩn đoán các bệnh lý da nguyên phát. Dấu hiệu và nghiệm pháp thường được đặt tên của người quan sát đầu tiên. Các dấu hiệu và nghiệm pháp có thể chỉ ra bệnh da liễu hoặc bệnh hệ thống và giúp cho các bác sĩ trong chẩn đoán và tìm ra các dấu hiệu liên quan. Hầu hết các dấu hiệu và nghiệm pháp có liên quan đến sinh bệnh học của bệnh, tuy nhiên nguyên nhân của một số dấu hiệu và nghiệm pháp không rõ ràng. Như bất kỳ các chuyên khoa khác trong y khoa, có một số dấu hiệu lâm sàng quan trọng và đặc trưng trong lĩnh vực da liễu. Những dấu hiệu này trải qua một chặng đường dài trong việc thiết lập chẩn đoán lâm sàng hoặc đánh giá mức độ nghiêm trọng của bệnh ở một bệnh nhân. Một số dấu hiệu và nghiệm pháp quan trọng nhất trong số này được trình bày ở đây sẽ giúp ích cho các sinh viên y khoa.
+
+## 2. SANG THƯƠNG DẠNG MỤN NƯỚC, MỤN MỦ, BÓNG NƯỚC
+
+### 2.1. Nghiệm pháp Nikolsky
+**Cách thực hiện**
+**Đối với bóng nước còn nguyên:**
+Ấn ngón tay lên vùng da lành kế sát bên rìa của bóng nước, vừa ấn nhẹ vừa kéo trượt ngón tay (Hình 16-1a).
+
+Nghiệm pháp Nikolsky (+) khi thấy chu vi của bóng nước lan rộng về phía vùng da vừa kéo.
+
+**Đối với bóng nước đã vỡ:**
+
+Kéo phần còn lại của lớp màng của bóng nước đã bị vỡ, làm tách lớp sừng của vùng da cách xa vết chợt da tồn tại trước đó, lan rộng đến những vùng da có vẻ bình thường cách xa thương tổn.
+
+Sau khi tách lớp sừng sẽ để lộ ra một bề mặt ẩm ướt ở lớp da bên dưới (Hình 16-1b).
+
+[Hình: (a) Nghiệm pháp Nikolsky trên vùng da rìa sang thương, chú ý áp lực kéo tiếp tuyến với sang thương; (b) Vùng da trợt có bề mặt ẩm ướt. (Nguồn: "Indian J Dermatol Venereol Leprol, 2013, 79:120 – 126")]
+
+**Hình 16-1.** Nghiệm pháp Nikolsky
+
+**Nguyên nhân**
+
+Sự gắn kết lỏng lẻo của tế bào sừng nằm ở phần dưới của thượng bì do hiện tượng tiêu gai, khiến cho thượng bì bị trợt đi hay tạo thành bóng nước mới khi có lực tác động lên.
+
+**Các bệnh thường gặp:** Pemphigus thông thường, hoại tử thượng bì nhiễm độc, hội chứng da lột do nhiễm tụ cầu, hội chứng Lyell, ly thượng bì bóng nước
+
+**2.2. Nghiệm pháp pseudo-Nikolsky**
+
+**Cách thực hiện**
+
+Cách làm tương tự nghiệm pháp Nikolsky.
+
+Chỉ dương tính trong phát ban bóng nước do thuốc và âm tính trong bệnh pemphigus, bệnh lý bóng nước tự miễn dưới thượng bì.
+
+**Nguyên nhân**
+
+Khi ta kéo nóc của bóng nước sẽ làm phân tách lớp dưới thượng bì ở vùng da quanh bóng nước đó. Những vết trợt này giới hạn về kích thước, không có khuynh hướng tự lan rộng và mau lành (Hình 16-2).
+
+[Hình: Nghiệm pháp pseudo-nikolsky trên bệnh nhân dị ứng thuốc, vết trợt giới hạn kích thước trên nền hồng ban không lan ra vùng da lành]
+
+**Hình 16-2.** Nghiệm pháp pseudo-nikolsky trên bệnh nhân dị ứng thuốc, vết trợt giới hạn kích thước trên nền hồng ban không lan ra vùng da lành
+
+## 2.3. Dấu hiệu Hutchinson ở mũi
+
+*Dấu hiệu*
+
+Những mụn nước nằm ở đỉnh mũi trên bệnh nhân Zona vùng mặt (Hình 16-3).
+
+*Nguyên nhân*
+
+Do nhánh mũi mi của thần kinh mắt (V1) bị tổn thương và cho thấy nguy cơ cao của bệnh về mắt.
+
+[Hình: Dấu hiệu Hutchinson trên bệnh nhân zona]
+
+**Hình 16-3.** Dấu hiệu Hutchinson trên bệnh nhân zona
+
+## 3. SANG THƯƠNG DẠNG SẢN VẢY
+
+### 3.1. Nghiệm pháp Brocq
+
+**Cách thực hiện**
+
+Dùng curette, cạo nhẹ nhàng trên mặt thương tổn vảy nến từ 30 đến trên 100 lần. Chúng ta thấy lần lượt 3 dấu hiệu sau đây:
+
+- **Phết đèn cầy:** Khi cạo lớp vảy mỏng trên bề mặt sang thương sẽ lần lượt tróc ra giống như cạo lên thân cây đèn cầy (Hình 16-4).
+- **Dấu vảy hành:** Lớp vảy sau cùng sẽ tróc ra thành một lớp mỏng duy nhất giống như vảy hành.
+- **Giọt sương máu:** Khi lớp vảy hành bong ra, trên bề mặt thương tổn có các điểm xuất huyết nhỏ đọng lại thành giọt li ti trên bề mặt da đỏ bóng láng.
+
+[Hình: Phết đèn cầy và dấu hiệu Austpitz]
+
+**Hình 16-4.** Phết đèn cầy và dấu hiệu Austpitz khi thực hiện nghiệm pháp Brocq  
+*(Nguồn: "Fitzpatrick's Dermatology in General Medicine, 2019")*
+
+### 3.2. Dấu hiệu Austpitz hay giọt sương máu
+
+**Dấu hiệu**
+
+Chảy máu nhỏ như đầu đinh ghim ở đỉnh các mao mạch bị tổn thương khi lấy đi những lớp vảy da trên mảng vảy nến (Hình 16-4).
+
+**Nguyên nhân**
+
+Khi cạo lớp vảy á sừng nằm trên sang thương vảy nến là lấy đi những phiến thượng bì mỏng nằm trên bì nhú và một phần ngoài cùng của bì nhú bao gồm đỉnh của những mao mạch quanh co nằm ngay bên dưới.
+
+Sự tổn thương tính toàn vẹn của những mao mạch nhỏ li ti này tạo ra chảy máu dạng điểm.
+
+**Các bệnh thường gặp:** Không phải hoàn toàn đặc hiệu và nhạy cảm cho vảy nến, bệnh Darier, actinic keratosis.
+
+## 3.3. Dấu hiệu Gottron
+
+### Dấu hiệu
+
+Dát hay sẩn hồng ban màu hồng tới màu tím, dẹt hay nhô lên, đối xứng có thể đi kèm với phù trải dài qua các khớp liên đốt ngón tay, khớp bàn ngón, cùi chỏ, đầu gối hay mắt cá chân (Hình 16-5b).
+
+### Dấu hiệu Gottron khác với sẩn Gottron
+
+Sẩn Gottron là những sẩn lichen tăng sừng, có màu hơi tím, chỉ ở khớp liên đốt bàn tay (Hình 16-5a).
+
+### Nguyên nhân
+
+- Đặc trưng cho bệnh viêm bì cơ.
+- Lupus đỏ hệ thống.
+
+[Hình: Hình 16-5. Sẩn Gottron và dấu hiệu Gottron. (a) Sẩn gottron gồm các sẩn lichen tăng sừng, màu đỏ tím trên mặt duỗi khớp liên đốt bàn tay; (b) Dấu hiệu Gottron là dát hồng ban kéo dài vắt qua khớp gối.]
+
+## 3.4. Lichen hóa hay hằn cổ trâu
+
+### Dấu hiệu
+
+Da có màu nâu, các rãnh ngang dọc nằm sâu vẽ thành ô vuông không đều. Các ô láng, bóng, đôi khi có vẩy hay vết xước.
+
+**Nguyên nhân:**
+- Do cào gãi hay cọ xát kéo dài.
+- Khi gãi, cào xước liên tục, lớp thượng bì trở nên phì đại, do đó vùng da này trở nên dày lên giống như vỏ cây.
+
+**Các bệnh thường gặp:** Chàm mạn tính (Hình 16-6)
+
+[Hình: Hình 16-6. Sang thương lichen hóa trên bệnh nhân chàm mạn tính]
+
+## 3.5. Vân Wickham
+### Dấu hiệu
+Những đường màu trắng đan xen nhau tạo thành hình lưới hay ren ở trên bề mặt sang thương Lichen phẳng đã phát triển hoàn chỉnh.
+
+### Nguyên nhân
+Trong bệnh lichen phẳng, tăng sừng dạng trực sừng (orthokeratosis) chiếm ưu thế hơn ở trên những vùng tăng sản lớp gai hình chữ V nằm trong cấu trúc phần phụ của da.
+
+Sự tạo thành những đường màu trắng là biểu hiện của tăng sừng vượt trội ở những vị trí này và sự tạo thành dạng lưới phản ánh cách sắp xếp của các cấu trúc nang lông ở da.
+
+## 3.6. Dấu hiệu vỏ bào
+### Dấu hiệu
+Bệnh lang ben đặc trưng với vảy cám mà bình thường rất khó nhìn thấy.
+
+Khi cạo nhẹ lên bề mặt sang thương lang ben với cạnh của con dao mổ sẽ khiến cho những vảy mịn giống như vỏ bào tích tụ lại ở phần đầu dụng cụ (Hình 16-7).
+
+## Nguyên nhân
+
+Sang thương trong bệnh lang ben dường như không có vảy về mặt lâm sàng bởi vì lớp sừng dày lên và có cấu trúc đan xen nhau vững chắc, chứ không phải cấu tạo bằng lớp á sừng (parakeratotic) hay trực sừng (orthokeratotic).
+
+Tuy nhiên khi cạo nhẹ nhàng bằng bề mặt sang thương sẽ lấy đi lớp sừng dày này và vảy xuất hiện nhìn giống như vỏ bào.
+
+[Hình: Hình 16-7. Các vảy trắng mịn như vỏ bào rơi ra khi cạo trên bề mặt sang thương trong dấu hiệu vỏ bào trên bệnh nhân lang ben]
+
+## 4. SANG THƯƠNG DẠNG SẢN PHÙ
+
+### 4.1. Dấu hiệu Darier
+
+**Cách thực hiện**
+
+Dùng đầu tròn của cây bút bi chà xát lên vùng thương tổn, sau khoảng 2 – 5 phút, tại vùng chà xát thấy xuất hiện một sẩn phù, có thể kèm theo ngứa.
+
+Sẩn phù này có giới hạn đúng trong bờ của tổn thương.
+
+Ở trẻ con có thể xuất hiện mụn nước.
+
+Mặc dù dấu hiệu này dương tính trên vùng thương tổn nhưng vẫn có thể gặp ở vùng da bình thường trên những bệnh nhân bị bệnh tế bào vón (mastocytosis).
+
+**Nguyên nhân**
+
+Tại lớp bì của những bệnh nhân bị bệnh tế bào vón, có sự gia tăng số lượng tế bào mast.
+
+Sự chà xát lên da gây ra phá hủy tế bào mast, làm phóng thích ra histamin, SRSA (slow releasing substance of anaphylaxis), ECAF (eosinophil chemotactic activating factor), heparin, từ đó gây ra những sẩn, mảng phù trên da, có thể kèm theo ngứa, hồng ban ở da.
+
+**Các bệnh thường gặp:** Bệnh tế bào vón (mastocytosis), leukemia cutis, u hạt vàng (histiocytosis X), u lympho, mày đay sắc tố (Hình 16-8).
+
+[Hình: Trước Sau. Hình 16-8. Sẩn phù kèm ngứa xuất hiện sau khi chà xát trên da của một bệnh nhân mày đay sắc tố]
+
+## 4.2. Da vẽ nổi
+
+### Cách thực hiện
+Dùng một vật cứng vẽ lên da với một lực đủ mạnh vừa phải nhưng không làm rách da.
+
+Chờ khoảng 5 phút sau vùng da bị vẽ, nổi lên sẩn phù giống như hình ta đã vẽ và tự biến mất dù không điều trị trong vòng khoảng 15 – 30 phút.
+
+### Nguyên nhân
+Màng của dưỡng bào nằm trong da yếu dễ tổn thương, vỡ ra dưới tác dụng của áp lực và sẽ phóng thích ra histamin từ đó gây ra da vẽ nổi (Hình 16-9 và 16-10).
+
+### Các bệnh thường gặp: Mày đay vật lý, viêm da dị ứng.
+
+[Hình: TRƯỚC SAU. Hình 16-9. Da vẽ nổi trước và sau khi có tác động kích thích]
+
+[Hình: Hình 16-10. Sau khi có tác động kích thích lên vùng da bình thường, da sẽ xuất hiện sang thương theo đường của lực tác động]
+
+217
+
+4.3. Nghiệm pháp cục đá
+
+*Cách thực hiện*
+
+Đặt một cục đá lạnh lên da trong khoảng 5 phút rồi lấy ra thì sau vài phút tại nơi đặt cục đá trước kia sẽ xuất hiện sẩn phù kèm ngứa.
+
+*Nguyên nhân*
+
+Việc giải phóng leukotrien, histamine và các chất trung gian tế bào mast gây viêm sau khi tiếp xúc với da với không khí lạnh, chất lỏng hoặc lạnh làm xuất hiện sẩn phù kèm ngứa.
+
+*Các bệnh thường gặp:*
+
+- Đặc trưng trong bệnh mày đay do lạnh.
+- Hiếm gặp: Các bệnh gây ảnh hưởng hệ miễn dịch như viêm nhiễm hoặc ung thư.
+
+[Hình: 16-11. Nghiệm pháp cục đá tạo dấu da vẽ nổi màu trắng]
+(1) Trước khi tác động; (2) khi áp đá lạnh lên da; và (3) sang thương là sẩn phù màu trắng tại nơi tiếp xúc đá lạnh.
+
+# 5. SANG THƯƠNG THAY ĐỔI MÀU SẮC
+
+## 5.1. Dấu hiệu tạo ra bằng kính soi da
+
+*Cách thực hiện*
+
+Áp một lực cố định lên sang thương da bằng cách sử dụng một vật trong suốt như lam kính cho phép quan sát được những màu sắc bị che dấu bởi hồng ban.
+
+**Nguyên nhân**
+
+Áp một lực liên tục lên da bằng 1 vật trong suốt sẽ làm mất màu mảng hồng ban do đẩy hồng cầu trong mao mạch hay tiểu tĩnh mạch bị dãn ở phần trên của lớp bì và các mạch máu của đám rối bì sâu, vì vậy cho phép nhìn thấy các màu sắc khác mà trước đây bị màu đỏ của hồng ban che mờ.
+
+Ví dụ, những sẩn màu thạch táo (vàng) trong bệnh lý tạo mô hạt như: sarcoidosis, *lupus vulgaris* do sự tích tụ của mô bào dạng biểu mô ở phần trên của lớp bì.
+
+Kính soi da cũng cho phép phân biệt được hồng ban màu đỏ sậm và ban xuất huyết.
+
+## 5.2. Dấu hiệu Crowe
+
+### Dấu hiệu
+
+Ở vùng nách, đôi khi ở vùng háng của những bệnh nhân bị bệnh u sợi thần kinh type 1 (bệnh Von Recklinghausen) có những dát màu nâu nhạt (Hình 16-12).
+
+**Các bệnh thường gặp:** U sợi thần kinh type I, lengtiginosis profuse.
+
+[Hình: Hình 16-12. Dấu hiệu Crowe là những dát màu nâu nhạt như màu cafe sữa ở vùng nách trên bệnh nhân u sợi thần kinh type I]
+
+## 5.3. Dấu hiệu Heliotrope
+
+### Dấu hiệu
+
+Sang thương là mảng hồng ban màu hồng tím quanh mắt.
+
+**Các bệnh thường gặp:** Đặc trưng cho bệnh viêm bì cơ.
+
+[Hình: Hình 16-13. Dấu hiệu Heliotrope]
+
+Hình 16-13. Dấu hiệu Heliotrope
+
+**5.4. Dấu hiệu Hertoghe**
+
+*Dấu hiệu*
+
+Lông mày ở một phần ba ngoài mỏng đi hoặc mất hẳn (Hình 16-14).
+
+*Nguyên nhân*
+
+Cơ chế bệnh sinh chưa được biết rõ. Tuy nhiên, có giả thuyết cho rằng có sự thay đổi chức năng trong hệ thần kinh tự trị.
+
+*Các bệnh thường gặp:* Viêm da dị ứng, nhược giáp, xơ cứng hệ thống.
+
+[Hình: Hình 16-14. Dấu hiệu Hertoghe]
+
+Hình 16-14. Dấu hiệu Hertoghe
+
+**5.5. Dấu hiệu giọt dầu**
+
+*Dấu hiệu*
+
+Một vùng móng đổi thành màu vàng nhạt giống giọt dầu, ảnh hưởng trên đầu xa của nền móng (không ảnh hưởng lên bờ móng).
+
+**Nguyên nhân**
+
+Do những thay đổi của vi mạch, á sừng, tăng sản dạng vảy nến và thâm nhiễm bạch cầu trung tính ở nền móng.
+
+**Các bệnh thường gặp:** Vảy nến (Hình 16-15)
+
+[Hình: Dấu hiệu giọt dầu trên móng bệnh nhân vảy nến]
+
+**Hình 16-15.** Dấu hiệu giọt dầu trên móng bệnh nhân vảy nến
+
+## 5.6. Hiện tượng Raynaud
+
+### Dấu hiệu
+
+Khi tiếp xúc với lạnh sẽ khiến cho các ngón chuyển sang màu trắng, tím tái và cuối cùng chuyển thành màu đỏ, đặc biệt là ngón tay (Hình 16-16).
+
+### Nguyên nhân
+
+Sự co mạch đột ngột và nặng nề ở động mạch của các ngón khiến cho da trắng đi, sau đó sự cô đặc của máu khiến cho da trở nên tím tái và cuối cùng là dãn mạch làm cho da đỏ ửng lên.
+
+Những thay đổi này được quan sát trên cơ thể chứ không thấy được trên kính hiển vi.
+
+[Hình: Hiện tượng Raynaud trên bệnh nhân xơ cứng bì]
+
+**Hình 16-16.** Hiện tượng Raynaud trên bệnh nhân xơ cứng bì
+
+## 6. CÁC DẠNG SANG THƯƠNG KHÁC
+
+### Hiện tượng Koebner
+
+#### Dấu hiệu
+
+Sự xuất hiện sang thương đặc trưng của bệnh ở những chỗ da bị tổn thương, kích thích hay cọ xát (vết gãi, trầy xước, tiêm chích).
+
+#### Mô tả Koebner trong vảy nến:
+
+- Hiện tượng Koebner trên bệnh nhân bị bệnh vẩy nến thông thường (Hình 16-17). Sang thương là mảng hồng ban giới hạn rõ, bề mặt có những vảy trắng bạc.
+- Xuất hiện $1/3 - 1/4$ trường hợp. Tần suất ước tính trong suốt cuộc đời của 1 người là $76\%$ khi những yếu tố khác như nhiễm trùng, stress, dị ứng thuốc được tính đến.
+- Xuất hiện sau khi gây tổn thương từ $7 - 14$ ngày.
+- Nguyên tắc tất cả hay không có gì cả: Nếu đã có xuất hiện hiện tượng Keobner (+) ở 1 vị trí thì sẽ có Keobner (+) ở tất cả vị trí trên cơ thể và ngược lại.
+- Chuyển từ hiện tượng Koebner (+) sang (-) và ngược lại.
+
+[Hình: Hình 16-17. Hiện tượng Koebner]
+
+#### Nguyên nhân
+
+Hiện tượng này do tổn thương lớp thượng bì của da do chấn thương trên một nền bệnh da sẵn có của bệnh nhân. Các chấn thương có thể là chấn thương vật lý, hóa học hay sinh học.
+
+#### Các bệnh thường gặp:
+
+Vảy nến, vảy phấn đỏ nang lông, lichen phẳng, lichen nitidus, bạch biến, lichen sclerosus, elastosis perforans serpiginosa, kaposi sarcoma.
+
+## 7. KẾT LUẬN
+
+Các dấu hiệu và nghiệm pháp trong da liễu góp phần giúp chẩn đoán chính xác bệnh. Học viên nên biết các thực hiện các nghiệm pháp để hỗ trợ trong quá trình hành nghề sau này.
+
+# TÀI LIỆU THAM KHẢO
+
+1. Hoàng Văn Minh (2001), *Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh*. s.l, Nhà xuất bản Y học.
+2. Thomas Habif. (2016), *Clinical Dermatology*, 6e, Elsevier.
+3. William James D, Drik M Elston, James R Trick, Misha A Rosenbach and Issac M Neuhaus (2020), *Andrews' Diseases of the Skin*, 13rd, Elsevier.
+
+## CÂU HỎI TỰ LƯỢNG GIÁ
+
+**Câu 1. Nghiệm pháp Nikolsky được thấy trong bệnh nào sau đây?**
+- a. Herpes thai kỳ
+- b. Pemphigoid bóng nước
+- c. Pemphigus thông thường
+- d. Herpes simplex
+
+**Câu 2. Dấu hiệu Auspitz là đặc trưng được thấy trong bệnh nào sau đây?**
+- a. Vảy nến mảng
+- b. Lichen planus
+- c. Vảy nến mủ
+- d. Vảy nến đảo nghịch
+
+**Câu 3. Dấu hiệu Darier dương tính trong bệnh nào sau đây?**
+- a. Bệnh Darier
+- b. Mày đay sắc tố
+- c. Vảy nến
+- d. Lichen phẳng
+
+**Câu 4. Hiện tượng Koebner không được thấy trong bệnh nào sau đây?**
+- a. Lichen phẳng
+- b. Da vảy cá
+- c. Vảy nến
+- d. Mụn cóc phẳng
+
+Dựa vào hình sau, học viên trả lời các câu hỏi
+
+[Hình: A, B, C, D mô tả các tổn thương da]
+
+**Câu 5.** Sang thương nào là sẩn Gottron?
+- a. Hình A
+- b. Hình B
+- c. Hình C
+- d. Hình D
+
+**Câu 6.** Hình ảnh nào diễn tả nghiệm pháp cục đá?
+- a. Hình A
+- b. Hình B
+- c. Hình C
+- d. Hình D
+
+**Câu 7.** Hình ảnh nào diễn tả dấu hiệu vỏ bào trong bệnh lang ben?
+- a. Hình A
+- b. Hình B
+- c. Hình C
+- d. Hình D
+
+**Câu 8.** Hình ảnh nào diễn tả tình trạng lichen hoá?
+- a. Hình A
+- b. Hình B
+- c. Hình C
+- d. Hình D
+
+# TIẾP CẬN BỆNH NHÂN DA LIỄU
+PGS.TS.BS. Văn Thế Trung  
+BS.CKI. Nguyễn Lê Trà Mi, BS.CKI. Lê Minh Phúc
+
+**Mục tiêu học tập**
+- Trình bày được các yêu cầu cần thiết về tiền căn và bệnh sử bệnh nhân da liễu.
+- Trình bày được các bước chuẩn bị khám bệnh nhân da liễu.
+- Trình bày được phương pháp khám da từng vùng và toàn thân.
+- Trình bày được tiếp cách cận chẩn đoán bệnh nhân da liễu.
+- Trình bày được một số quy tắc khi chụp hình sang thương.
+
+## 1. MỞ ĐẦU
+Bệnh da liễu rất đa dạng, có hàng trăm bệnh da liễu được ghi nhận trong y văn. Ở một khía cạnh nhất định thì biểu hiện da là biểu hiện về hình thái với hình ảnh đa dạng và biến động theo thời gian. Một hình ảnh da đơn giản nhưng chỉ thay đổi một chút đã có thể là một chẩn đoán khác với tiên lượng xấu hơn. Hơn nữa, bệnh nhân bệnh da liễu có những vấn đề về tâm lý xã hội và cảm xúc. Một số người xem nhẹ bệnh vì không thấy ảnh hưởng sức khỏe toàn thân, trong khi đó một số khác có những mặc cảm và có khuynh hướng giấu bệnh hoặc một số bệnh nhân cảm thấy chán nản khi mang bệnh mạn tính. Cũng như chuyên khoa khác, bác sĩ lâm sàng cần trang bị kiến thức về bệnh học vững chắc, kỹ năng khai thác và tổng hợp thông tin, cách giao tiếp với sự tôn trọng bệnh nhân. Đặc biệt trong chuyên khoa da liễu, chẩn đoán chủ yếu dựa vào lâm sàng, do đó việc nhận diện và mô tả sang thương da chiếm vai trò thiết yếu.
+
+## 2. KHÁM BỆNH NHÂN DA LIỄU
+### 2.1. Khai thác tiền sử-bệnh sử
+Nên bắt đầu với sức khỏe chung, rồi tập trung vào bệnh sử liên quan bệnh da và triệu chứng hệ thống. Lưu ý rằng bệnh nhân rất hay bỏ qua những chi tiết mà họ cảm thấy không quan trọng với tình trạng bệnh da (Bảng 17-1).
+
+Bảng 17-1. Các yêu cầu cần thiết về tiền căn và bệnh sử
+
+| | |
+| :--- | :--- |
+| Thời gian bệnh | Vị trí khởi phát, diễn tiến thương tổn da, triệu chứng cơ năng |
+| Nhân khẩu học | Tuổi, giới, chủng tộc |
+| Dị ứng | Thuốc, môi trường, thức ăn |
+| Sử dụng thuốc | Thuốc kê đơn, không kê đơn, ngừa thai, thuốc đông dược, thảo dược, thực phẩm chức năng, thuốc nghiện |
+| Bệnh nội khoa ngoại khoa | Tiền căn lúc mới sinh (đối với bệnh nhân trẻ em), mang thai, cho con bú |
+| Gia đình | Bệnh da di truyền |
+| Tiếp xúc | Nguồn lây nhiễm, môi trường độc hại |
+| Xã hội | Nghề nghiệp, thói quen, sử dụng kem chống nắng, thói quen, tiếp xúc nắng, hút thuốc lá, uống rượu, hành vi và khuynh hướng tình dục, du lịch, điều kiện sống (đặc biệt là bệnh nhiễm) |
+| Tâm lý cảm xúc | Rối loạn tâm lý có thể là nguyên nhân hoặc biến chứng của bệnh da |
+
+2.2. Khám thực thể
+
+Nên khám tình trạng sức khỏe chung trước khi khám từng cơ quan bộ phận. Da là một cơ quan bao phủ toàn bộ cơ thể, nên xem khám một cách theo hệ thống nhất da (niêm) và lông, tóc, móng.
+
+2.2.1. Chuẩn bị
+
+Đảm bảo phòng khám đầy đủ ánh sáng tự nhiên hay ánh sáng đèn. Nên khám da toàn bộ khi cần tầm soát ung thư da, khi bệnh nhân phát ban da toàn thân hoặc bệnh da được cho có liên quan hệ thống. Tuy vậy, khám da khu trú cũng đủ cho một số trường hợp, ví dụ như mụn trứng cá chỉ cần khám từ thắt lưng trở lên.
+
+Dụng cụ: Dụng cụ khám gồm bàn khám, dung dịch sát khuẩn nhanh, đèn pin, áo choàng cho bệnh nhân, găng tay, khẩu trang, que đè lưỡi, thước đo, lame kính trắng, gương soi, kính lúp có đèn, dermoscopy...
+
+Rửa tay: Nên vệ sinh sát khuẩn tay trước và sau khám một bệnh nhân. Bệnh nhân hay xã hội chúng ta nói chung, ngày càng trở nên nhận thức về kiểm soát nhiễm khuẩn, họ sẽ đánh giá cao khi nhìn thấy bác sĩ vệ sinh tay sạch. Rửa sạch tay bằng nước với xà phòng hay nước rửa tay nhanh.
+
+Mang găng tay: Không cần thiết phải đeo găng tay, cho phép bác sĩ dùng cảm giác để tối ưu hóa đánh giá sang thương. Nhưng, khi thực hiện thủ thuật trên da, khám vùng da hở, da tiết dịch, khám vùng hậu môn sinh dục thì phải mang găng tay sạch hoặc vô trùng.
+
+Tiếp cận bệnh nhân da liễu
+
+Bộc lộ vùng da: Tùy theo nhu cầu khám của bác sĩ và sự sẵn lòng bộc lộ cơ thể của bệnh nhân. Thông thường bệnh nhân cho bác sĩ xem vùng da nhỏ và nói rằng những vùng khác cũng tương tự, nhưng bác sĩ cần lưu ý biểu hiện ở vùng da khác nhau có thể không giống nhau. Điều quan trọng là bác sĩ động viên bệnh nhân bộc lộ tối đa các vùng da để khám toàn diện nhưng phải tôn trọng sự riêng tư và quyền hạn chế phơi bày cơ thể của bệnh nhân. Trong trường hợp khám đa toàn thân thì bệnh nhân được mặc áo choàng đúng cách sao cho từng vùng da để có thể được bộc lộ khi cần khám, ví dụ phần mở của áo ở phía lưng hoặc bệnh nhân cởi hết quần áo trừ đồ lót. Lưu ý cần có điều dưỡng hỗ trợ, nhất là khám phụ khoa.
+
+2.2.2. Phương pháp khám da
+
+Khám da nên được thực hiện đúng phương pháp. Khám vùng đầu cổ thì tư thế bệnh nhân ngồi thẳng trước mặt bác sĩ, hơi thấp hơn. Hoặc thầy thuốc có thể đứng phía trước hoặc phía sau bệnh nhân. Khám toàn thân thì bệnh nhân đứng hoặc nằm.
+
+Khám một cách trình tự và hệ thống và trong mỗi vùng da cũng được chia thành những vùng nhỏ để khám theo trình tự. Nên khởi đầu từ bên phải bệnh nhân, sau đó, có thể di chuyển sang bên đối diện hoặc xuống dưới. Người khám phải tự thiết lập cho mình trình tự khám sao cho thỏa mục tiêu và tạo sự thoải mái tối đa cho bệnh nhân, tránh những thay đổi tư thế bệnh nhân không cần thiết. Nhìn chung, phải khám bệnh nhân “từ đầu đến chân”. Khi thực hiện thăm khám, phải tuân thủ các bước nhìn xa, nhìn gần, sờ.
+
+Khám và đánh giá thương tổn cơ bản là bước rất quan trọng và mang tính quyết định trong hầu hết các trường hợp. Cố gắng tìm thương tổn nguyên phát, tuy nhiên nhiều trường hợp bệnh nhân chỉ còn thương tổn thứ phát. Nếu trang bị tốt kiến thức và kỹ năng thì bác sĩ có thể diễn dịch được thương tổn nguyên phát ngay cả khi da chỉ biểu hiện thương tổn thứ phát, chẳng hạn như vết trợt hầu như là hậu quả của bóng nước hoặc mài là do dịch tiết khô lại. Cần lưu ý sự sắp xếp thương tổn, sự phân bố trên cơ thể ở vị trí đặc trưng, quan sát các hiện tượng thứ phát (hiện tượng Koebner), thực hiện nghiệm pháp nếu cần (ví dụ kính đè lên hồng ban, nghiệm pháp Nikolsky).
+
+Quy trình khám da toàn thân và từng vùng da
+
+Quan sát: Quan sát tổng quát và quan sát khu trú. Cần thiết thì quan sát dưới kính lúp, đèn tăng cường ánh sáng, quan sát những góc độ khác nhau. Các bất thường về màu sắc như màu nâu tăng sắc tố, màu đỏ của oxyhemoglobin (sắc tố đỏ trong động mạch, mao mạch), màu xanh khi thiếu oxyhemoglobin (phát hiện ở các vùng da mỏng như mi mắt, môi, lòng bàn tay bàn chân ở người có da sậm màu), dấu hiệu xanh tím (khi oxyhemoglobin mất oxy cho cơ thể khi qua mao mạch) phát hiện dễ dàng ở lòng bàn tay, bàn chân, đầu ngón, móng tay, móng chân (chú ý phòng khám lạnh hay bệnh nhân căng thẳng có thể làm da tái hơn). Màu vàng nên khám ở kết mạc, dùng tay kéo mi mắt xuống để đánh giá màu sắc kết mạc. Có thể khám thêm ở vùng môi, khẩu cái cứng, mặt dưới lưỡi, da. Vàng da do sử dụng nhiều carotene chỉ có vàng da ở lòng bàn tay, lòng bàn chân, mặt.
+
+*Xác định độ ẩm da:* Sờ trực tiếp, giấy thấm để đánh giá các tính chất khô da, đổ mồ hôi, da dầu. Một số công cụ chuyên dùng có thể đo được độ ẩm và độ mất nước qua da.
+
+*Đánh giá nhiệt độ:* Dùng mu bàn tay đánh giá nhiệt độ, nhất là các vùng da đỏ.
+
+*Đánh giá cấu trúc da:* Độ trơn láng hay thô ráp.
+
+*Đánh giá di động, đàn hồi:* Bằng cách véo da lên xem da có đàn hồi tốt không.
+
+- **Khám da đầu:** Vạch tóc từng phần khác nhau để nhìn rõ da đầu để xem có vảy, sẩn, mảng, hồng ban, sẹo.
+
+- **Khám tóc:** Các đặc điểm của sợi tóc cần đánh giá bao gồm đường kính, hình dạng, kích thước. Sử dụng đèn Wood để hỗ trợ chẩn đoán bệnh lý nấm tóc. Đèn Wood là dụng cụ sử dụng ánh sáng cực tím với bước sóng $320 - 400 \text{ nm}$ và các chất phát quang dưới ánh sáng đèn Wood là collagen, porphyrin, pteridine (nấm tóc). Xác định rụng tóc có thể thực hiện nghiệm pháp kéo tóc bằng cách dùng ngón cái và ngón 2,3 kẹp khoảng $50 - 60$ sợi tóc, kéo bằng lực căng vừa phải từ gốc đến ngọn tóc (Hình 17-1), tay còn lại giữ cố định đầu của bệnh nhân. Thực hiện ở các vị trí trán, chẩm và hai bên thái dương. Nếu có từ 6 sợi tóc rụng trở lên thì nghiệm pháp kéo tóc dương tính, nghĩa là có rụng tóc bất thường. Có thể âm giả khi bệnh nhân gội đầu một ngày trước. Sau cùng ghi nhận vị trí rụng và kiểu rụng tóc.
+
+[Hình: Nghiệm pháp kéo tóc]
+
+**Hình 17-1. Nghiệm pháp kéo tóc**
+Dùng ngón 1,2,3 kéo tóc từ gốc đến ngọn với lực kéo vừa phải.
+
+Tiếp cận bệnh nhân da liễu
+
+- **Khám vùng mặt:** Quan sát tổng thể, chú ý sự hiện diện của sẹo, dấu hiệu da do ánh sáng, thương tổn lành tính hay ác tính. Kiểm tra hình ảnh hồng ban, tróc vảy, vùng phân bố tiết bã (nếp má mũi, chân mày), vùng quanh miệng, sẩn cồi mụn, dát tăng sắc tố. Khám khi cử động mặt (như nheo mắt, cười, châu mày ...) để quan sát các nếp nhăn do co cơ.
+- **Khám miệng:** Mang găng khi sờ các sang thương.
+
+Lưu ý điểm tăng sắc tố ở môi, quan sát màu sắc và độ ẩm môi, tình trạng khô môi tróc vảy ở người lớn tuổi do ánh sáng, mụn nước chùm ở môi hay tái phát do herpes simplex, hồng ban tróc vảy quanh môi ở trẻ em do liếm môi gây viêm da tiếp xúc. Dùng đèn pin với ánh sáng trắng và que đè lưỡi để khám trong khoang miệng, quan sát các vết loét, các mảng trắng và các nốt. Mảng trắng dính hay dễ tróc, tình trạng tăng sừng, nền các nốt cứng hay mềm, tình trạng đau. Có thể sờ mới phát hiện được tổn thương. Khám lưỡi thì yêu cầu người bệnh đưa lưỡi ra ngoài để quan sát. Dùng tay phải giữ lấy đỉnh lưỡi bằng gạc gấp vuông và nhẹ nhàng kéo lưỡi về bên trái người bệnh. Bên còn lại, cũng được khám bằng phương pháp tương tự.
+
+- **Khám mắt:** Khóe mắt trong, ngoài, da quanh quanh mắt, trũng dưới mắt, sẩn của u tuyến mồ hôi.
+- **Khám tai:** Quan sát hồng ban tiết dịch vành tai, sẹo lồi dái tai, mảng hồng ban tróc vảy sau tai.
+- **Khám mũi:** Giãn mạch và phì đại mũi (trứng cá đỏ), nốt tăng sắc tố có giãn mạch và loét (ung thư da). Sử dụng dermoscopy sẽ hữu ích để nhận rõ thương tổn ác tính.
+- **Khám vùng cổ:** Da chùng nhão trong lão hóa da, các u mềm treo (skin tags), hồng ban mụn nước trong (rôm sảy trẻ em).
+- **Khám da thân mình:** Tư thế bệnh nhân có thể ngồi, đứng, nằm tùy trường hợp. Cần bộc lộ vùng da mông. Kiểm tra vùng ngực đối với mụn trứng cá, sẹo lồi, viêm quầng vú trong viêm da cơ địa, viêm da tiết bã vùng giữa ngực giữa lưng với mảng hồng ban tróc vảy, lang ben vùng ngực lưng và dưới cánh tay, vảy nến vùng tỳ đè thắt lưng và vùng viêm da tiếp xúc dây lưng. Các thương tổn tăng sắc tố có thay đổi bất thường cần phân biệt u tế bào hắc tố ác tính, cần dụng cụ dermoscopy hỗ trợ.
+
+229
+
+[Hình: Khám móng]
+**Hình 17-2. Khám móng**
+Quan sát thấy hình ảnh móng rõ khi sử dụng kính phóng đại có đèn.
+
+- **Khám vùng bẹn, hậu môn, sinh dục:** Bệnh nhân nên ở tư thế nằm và có tấm lót dùng một lần. Nếu là phụ nữ thì cần dụng cụ khám trong tại phòng khám phụ khoa. Thương tổn sinh dục ở trẻ em cần lưu ý sự lạm dụng.
+- **Khám da tay và bàn tay:** Cần khám phần dưới cánh tay khi khám thân mình. Đánh giá tình trạng dày sừng lòng bàn tay. Mảng hồng ban tróc vảy tăng sừng, nứt nẻ trong chàm bàn tay do tiếp xúc hóa chất, xà phòng. Mụn nước mặt gấp cổ tay và kẽ ngón tay đặc trưng trong bệnh ghẻ ngứa.
+- **Khám móng (Hình 17-2):** Các đặc điểm cần đánh giá của móng bao gồm bề mặt móng, hình dạng và kích thước, màu sắc, sự kết dính giữa đĩa móng và giường móng, mô quanh móng, mạch máu ở nếp móng. Trình tự quan sát được bắt đầu từ phía trên bề mặt móng, rồi đến vùng bên quanh móng và cuối cùng là vùng dưới móng. Sau khi quan sát, dùng tay sờ để cảm nhận sự thay đổi nhiệt độ và cảm giác đau.
+- **Khám da chân, bàn chân:** Quan sát từ đùi, cẳng chân, các mặt bàn chân và kẽ ngón. Cẳng chân với nốt hồng ban trước cẳng chân (hồng ban nút), da khô vảy cá. Lưng bàn chân, cổ chân với những mảng lichen hóa, kẽ ngón chân 3 – 4 có mảng da mủn, nứt trong nấm bàn chân. Lòng bàn chân nếu có cục chai chân thì quan sát có bất thường về cấu trúc, dáng đi. Ghi nhận thói quen mang giày cao gót, bít kín, có thể liên quan trong một số tình trạng như nấm bàn chân, móng chọc thịt.
+- **Khám hạch bạch huyết:** Khám da vùng nào thì khám hạch vùng đó nếu cần. Tránh trường hợp xoay trở bệnh nhân nhiều. Xem tình trạng sưng đau, cứng dính.
+
+Hạch cổ đau gặp trong bệnh herpes zoster, hạch dưới hàm có thể phản ứng trong loét miệng tái phát (apthe), hạch bẹn trong bệnh loét sinh dục như giang mai, hạ cam mềm.
+
+- **Sử dụng camera điện thoại thông minh:** Da liễu là một chuyên khoa trực quan, hình ảnh lâm sàng được coi là một phần thiết yếu để theo dõi và lưu trữ tài liệu. Giống như máy ảnh kỹ thuật số thông thường, hình ảnh từ camera điện thoại thông minh được định dạng kỹ thuật số trên các cảm biến. Chất lượng hình ảnh có thể chưa bằng chất lượng của máy ảnh kỹ thuật số nhưng có ưu điểm tuyệt đối là tiện dụng, tích hợp dễ dàng với các ứng dụng và kết nối internet. Thực tế hầu như tất cả các bác sĩ da liễu đều sở hữu điện thoại thông minh và một số người thường xuyên sử dụng để chụp ảnh lâm sàng. Tuy nhiên, đạo đức và pháp lý cần phải được lưu ý bởi vì việc lạm dụng chụp ảnh lâm sàng đã trở thành một vấn đề đang gia tăng. Luôn luôn đòi hỏi có một cách tiếp cận nhất quán và thận trọng đối với hình ảnh lâm sàng. Phải có được sự đồng ý từ bệnh nhân, đảm bảo tính bảo mật của bệnh nhân, sự cho phép của bệnh nhân để các bác sĩ chia sẻ hình ảnh với đồng nghiệp. Các bác sĩ nhận hình ảnh chia sẻ cũng bị ràng buộc bởi các quy định đạo đức và pháp lý tương tự như những người chụp ảnh. Một số lưu ý khi chụp ảnh: Phông nền đồng nhất không có các chi tiết rối mắt, tốt nhất nền xanh hay đen. Chụp hình nhiều góc khác nhau (thẳng, nghiêng, chụp từ khoảng cách xa để bao quát xung quanh thương tổn, chụp cận cảnh để xem các chi tiết), ánh sáng cần đủ nếu sử dụng flash để máy ảnh khoảng cách xa để tránh làm mờ ảnh. Kỹ thuật chụp ảnh lâm sàng chuyên nghiệp khác nằm ngoài phạm vi bài này.
+
+3. **TIẾP CẬN CHẨN ĐOÁN**
+
+Trong khi những chuyên khoa khác thì xét nghiệm hỗ trợ rất nhiều, chẩn đoán bệnh da liễu chủ yếu dựa vào lâm sàng bởi vì triệu chứng hiện hữu ngay trước mắt. Bác sĩ lâm sàng không thể biết tất cả các bệnh da liễu bởi đơn giản số lượng bệnh da quá lớn được ghi nhận trong y văn và sự biểu hiện lâm sàng vô cùng đa dạng. Tuy nhiên, đánh giá sang thương cơ bản da theo cách trình tự và khoa học sẽ giúp phân loại và phán đoán chính xác.
+
+**Hình thái thương tổn:** Hình thái sang thương nguyên phát là đặc trưng của bệnh da. Thông thường, sách y văn da liễu dựa trên dạng thương tổn để phân loại bệnh da. Các nguồn tài liệu về hình ảnh như sách atlas da liễu, các trang web miễn phí có thể tham khảo và đối chiếu sự tương đồng.
+
+**Sang thương nguyên phát:** Hình ảnh của sang thương nguyên phát có thể cung cấp thông tin rất quan trọng về độ sâu và vị trí tổn thương bệnh học thuộc thượng bì, bì hay mô dưới da. Hiểu rõ về cấu trúc và chức năng của da có thể giúp bác sĩ lâm sàng hình dung quá trình tổn thương mô bệnh học và từ đó kết nối lâm sàng và mô bệnh. Sang thương nhỏ cao giới hạn rõ thường biểu hiện bệnh lý thượng bì, trong khi sang thương nhỏ, nhô cao nhưng khó xác định giới hạn thì thường là biểu hiện bệnh lý lớp bì hay mô dưới da.
+
+**Sang thương thứ phát:** Như vậy, mài, loét, lichen hóa, có thể xảy ra trên sang thương cơ bản do tác động từ yếu tố bên ngoài, quá trình lành da hoặc do biến chứng (teo, sẹo). Có thể xem đặc điểm sang thương thứ phát là “tính từ” để mô tả thêm cho sang thương nguyên phát là “danh từ”, giúp thêm thông tin về diễn tiến của bệnh.
+
+**Hình dạng và sự sắp xếp:** Hình dạng sang thương là bằng chứng quan trọng để xác định chẩn đoán. Ví dụ như mảng hồng ban li tâm đặc trưng của nấm da. Sự sắp xếp là liên quan của các sang thương với nhau. Sang thương có thể đơn độc, vệ tinh, từng đám. Ví dụ mụn nước mọc từng chùm theo dermatome trong bệnh zoster.
+
+**Phân bố sang thương:** Quan sát sự phân bố sang thương trên vị trí giải phẫu cơ thể cung cấp nhiều bằng chứng chẩn đoán có giá trị. Phát ban da có thể là khu trú hay toàn thân. Vùng ưu thế là ở nếp hay đầu chi hay niêm mạc cũng đặc trưng cho từng bệnh. Ví dụ lòng bàn tay trong viêm da cơ địa (chàm bàn tay), phát ban giang mai, hồng ban đa dạng. Quanh niêm mạc trong phát ban da do thuốc thể nặng. Vùng ẩm nóng của bệnh nấm da. Vùng tỳ đè, rìa chân tóc của mảng thương tổn vảy nến.
+
+**Triệu chứng cơ năng:** Những triệu chứng cơ năng như ngứa, đau, bỏng làm sáng tỏ thêm chẩn đoán. Ví dụ ngứa là đặc trưng của mày đay trong khi cảm giác nóng bỏng liên quan phù mạch. Triệu chứng cơ năng khác có thể là đau, tiết dịch, mùi hôi.
+
+**Đánh giá ảnh hưởng toàn thân:** Bác sĩ lâm sàng luôn luôn xem lại những kiến thức y khoa để tiên đoán hoặc nhận ra tổn thương hệ thống. Điều quan trọng nhất là bác sĩ nhanh chóng cần nhận biết dấu hiệu triệu chứng cảnh báo bệnh toàn thân (triệu chứng cờ đỏ) để cần xét nghiệm thêm và hội chẩn thêm với bác sĩ chuyên khoa. Ví dụ như phát ban kèm sốt, thay đổi tri giác, phù mặt và phù mạch, xuất huyết dưới da, loét niêm mạc miệng hoặc niêm mạc mắt, bóng nước có tổn thương niêm mạc, Nikolsky dương tính, hồng ban trên 80% diện tích cơ thể.
+
+**Xét nghiệm:** Trong khi bệnh sử, triệu chứng cơ năng và khám thực thể là nền tảng để chẩn đoán thì xét nghiệm cũng cần thiết để loại trừ các chẩn đoán phân biệt cũng như củng cố chẩn đoán xác định. Mỗi chương bệnh học mô tả chi tiết các xét nghiệm cần chẩn đoán, tuy nhiên có những xét nghiệm đơn giản có thể trang bị ở phòng khám không
+
+chuyên khoa da liễu như đèn Wood, soi tươi KOH. Dụng cụ soi da dermoscopy thì dành cho bác sĩ chuyên khoa da liễu và cần được đào tạo để sử dụng. Xét nghiệm được xem là quan trọng nhất trong da liễu là giải phẫu bệnh. Bác sĩ lâm sàng cần học cách diễn giải những thương tổn bệnh học cơ bản, từ đó liên hệ lâm sàng để giải thích mối liên quan, điều này cũng tương tự như hình ảnh siêu âm, X-quang mà bác sĩ lâm sàng nội ngoại khoa phải được trang bị.
+
+**4. KẾT LUẬN**
+Khám bệnh nhân da liễu cần một sự tiếp cận toàn diện chứ không chỉ khám về da. Khám một cách trình tự, khoa học và khả năng tổng hợp thông tin là chìa khóa mang lại thành công. Ngoài khám da cần chú ý về vấn đề tâm lý, cảm xúc xã hội do bệnh da ảnh hưởng.
+
+**TÀI LIỆU THAM KHẢO**
+1. Lynn S. Bickley (2017), “The Skin, Hair and Nails”, *BATES’ Guide to Physical Examination and History Taking*, 12th Edition, pp.173 – 214.
+2. Bobonich M., Nolen M. (2015), *Dermatology for Advanced Practice Clinicians*, 1st ed, Wolters Kluwer
+3. Nguyễn Văn Út (2002), *Bài giảng bệnh Da liễu*, Nxb Y học, Thành phố Hồ Chí Minh, tr. 208 – 294.
+
+**CÂU HỎI TỰ LƯỢNG GIÁ**
+**Câu 1. Thực hiện nghiệm pháp kéo tóc đúng như thế nào?**
+a. Dùng ngón cái và ngón 2 kẹp 50 – 60 sợi tóc
+b. Dùng ngón cái và ngón 2 kẹp 30 – 40 sợi tóc
+c. Dùng ngón cái và ngón 2,3 kẹp 50 – 60 sợi tóc
+d. Dùng ngón cái và ngón 2,3 kẹp 30 – 40 sợi tóc
+**Câu 2. Thực hiện nghiệm pháp kéo tóc ở vị trí nào?**
+a. Vùng trán và chẩm
+b. Vùng thái dương hai bên
+c. Vùng trán và thái dương
+d. Vùng trán, chẩm và thái dương hai bên
+
+Da liễu cơ bản
+
+Câu 3. Trình tự khám móng như thế nào?
+a. Dưới-trên-bên
+b. Dưới-bên-trên
+c. Trên-dưới-bên
+d. Trên-bên-dưới
+
+Câu 4. Đánh giá nhiệt độ da như thế nào cho đúng?
+a. Sờ bằng lưng bàn tay bác sĩ
+b. Sờ bằng đầu ngón tay bác sĩ
+c. Sờ bằng lòng bàn tay bác sĩ
+d. Sờ bằng phần nào của bàn tay cũng được
+
+Câu 5. Khi khám vùng đầu mặt cổ, cần lưu ý điều gì?
+a. Tư thế bệnh nhân nằm
+b. Bác sĩ đứng phía sau bệnh nhân
+c. Tập trung vào các thương tổn ác tính
+d. Nhìn và sờ thương tổn trong niêm mạc miệng
+
+ĐÁP ÁN CÂU HỎI TỰ LƯỢNG GIÁ
+
+Bài 1: 1c, 2c, 3b, 4a, 5a
+Bài 2: 1c, 2d, 3c, 4d, 5d
+Bài 3: 1c, 2d, 3c, 4b, 5c
+Bài 4: 1d, 2d, 3c, 4c, 5d
+Bài 5: 1c, 2d, 3c, 4b, 5b
+Bài 6: 1c, 2b, 3b, 4c, 5a
+Bài 7: 1d, 2a, 3b, 4d, 5b
+Bài 8: 1b, 2a, 3c, 4b, 5b
+Bài 9: 1d, 2a, 3b, 4c, 5b
+Bài 10: 1c, 2b, 3b, 4b, 5a
+Bài 11: 1c, 2d, 3d, 4d, 5d
+Bài 12: 1c, 2a, 3a, 4d, 5c
+Bài 13: 1b, 2b, 3a, 4b, 5c
+Bài 14: 1c, 2b, 3b, 4d, 5a
+Bài 15: 1a, 2b, 3c, 4d, 5a, 6c, 7c
+Bài 16: 1c, 2a, 3b, 4b, 5a, 6c, 7d, 8b
+Bài 17: 1c, 2d, 3d, 4a, 5d
