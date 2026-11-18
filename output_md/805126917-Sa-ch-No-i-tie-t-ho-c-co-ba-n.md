@@ -442,6 +442,31 @@ Một hormone tan trong lipid có thể tác động lên tế bào đích thôn
 
 Năm 1960, Clever và Karlson lần đầu tiên cho thấy hormone steroid hoạt động ở mức độ gen trên côn trùng, thể hiện qua sự cảm ứng tổng hợp protein. Thụ thể nội bào của hormone steroid bắt đầu được xác định sau đó và các gen mã hóa cho các thụ thể này đã được tìm thấy trong những năm 1980 – 1990. Những phát hiện trên đặt nền móng cho sự khám phá ra mô hình hoạt động cổ điển của nhóm hormone tan trong lipid steroid.
 
+10 ♦ NỘI TIẾT HỌC CƠ BẢN
+
+[Hình: Hoạt động của hormone tan trong lipid (hormone steroid) và nhóm thụ thể nhân]
+- Hormome
+- Tế bào nhân
+- Tế bào chết
+- Phức hợp hormone – thụ thể
+- RNA polymerase
+- DNA
+- Gen đích
+- Thay đổi chức năng tế bào
+- Protein
+- mRNA
+- ribosome
+- Nhân
+- Màng tế bào
+
+Hình 1.4. Hoạt động của hormone tan trong lipid (hormone steroid) và nhóm thụ thể nhân
+
+Trong mô hình này, các hormone tan trong lipid, sau khi tách khỏi protein vận chuyển trong huyết tương, sẽ khuếch tán thụ động xuyên qua lớp phospholipid kép trên màng tế bào đích một cách dễ dàng. Khi vào bên trong tế bào, hormone sẽ gắn với thụ thể nhân và tạo thành phức hợp hormone – thụ thể. Phức hợp này đóng vai trò là một yếu tố điều hòa hoạt động phiên mã, tác động lên sự biểu hiện của một nhóm gen cấu trúc nhất định trong DNA. Các gen cấu trúc này phiên mã tạo thành các mRNA tương ứng, sau đó mRNA ra tế bào chất tiến hành dịch mã tạo các protein mới. Như vậy, hormone sau khi gắn vào thụ thể nhân sẽ gây ảnh hưởng lâu dài lên nhiều hoạt động chức năng của tế bào đích bằng cách tác động lên sự tổng hợp các protein mới (như thay đổi tính phân cực và tính thấm của màng tế bào thông qua tổng hợp các kênh ion mới, thay đổi hoạt động phân bào thông qua tổng hợp trung thể, thay đổi hoạt động sợi myosin, thay đổi mức độ chuyển hóa tại ti thể, thay đổi mức độ bài tiết tại lysosome thông qua tổng hợp các enzyme mới,...).
+
+4.2.2. Thụ thể liên kết với sự nhập bào (endocytic receptor)
+
+Sự khuếch tán thụ động qua màng tế bào không thể giải thích đầy đủ hoạt động học của nhóm hormone tan trong lipid. Nhiều nghiên cứu cho thấy một số mô trong cơ thể biểu hiện những vị trí gắn kết cho các protein vận chuyển hormone steroid. Những phát hiện này đã gợi ý đến sự tồn tại của các thụ thể liên kết với sự nhập bào (endocytic receptor). Trong trường hợp này, các hormone tan trong lipid không tách khỏi protein vận chuyển trong huyết tương, mà phức hợp hormone – protein vận chuyển được nhập bào thông qua sự gắn kết với các thụ thể tại bề mặt màng. Sau đó, phức hợp hormone – protein vận chuyển được phân tách trong lysosome, hormone tự do khuếch tán vào tế bào chất, tác động lên sự biểu hiện gen hoặc quá trình chuyển hóa trong tế bào.
+
 ### 4.2.3. Thụ thể đặc hiệu trên bề mặt tế bào (cell – surface receptor)
 
 Bên cạnh hai cách thức tác động như trên, hormone steroid đôi khi còn tạo ra những phản ứng cực nhanh (trong vòng vài giây đến vài phút) tại tế bào đích. Điều đó chắc chắn không thể quy cho tác dụng trên sự biểu hiện gen thông qua quá trình tổng hợp protein, vì tác dụng này diễn ra chậm và kéo dài. Vào cuối những năm 1960, Szego và cộng sự đã cho thấy sự tăng lượng AMP vòng trong tử cung chuột bởi estrogen. Vài năm sau đó, Pietras xác định các vị trí gắn đặc hiệu dành cho estrogen trên bề mặt màng của các tế bào nội mạc tử cung cô lập. Từ đó, hàng loạt tác động không liên quan đến gen của nhóm hormone tan trong lipid đã được tìm ra như: làm đóng mở kênh ion, tạo chất truyền tin thứ hai, phosphoryl hóa các yếu tố phiên mã,...
@@ -2321,6 +2346,34 @@ Bài 9. Sinh lý bệnh hội chứng nhiễm độc giáp và hội chứng suy
 | **Cơ xương khớp** | Đau và cứng cơ; cử động chậm chạp và giảm phản xạ gân xương, giảm tạo thành và hủy xương, tăng mật độ xương, đau và cứng khớp | Giảm tốc độ co và dãn cơ, góp phần vào giảm cử động và giảm phản xạ |
 | **Da** | Da khô, bong tróc. Tóc khô, dễ gãy. Giảm phát triển móng và tóc. Chậm lành vết thương<br>Phù niêm<br>Da lạnh | Giảm tiết mồ hôi<br>Tích tụ hyaluronic acid, gắn với nước gây sưng phù<br>Giảm tuần hoàn đến da |
 
+CÂU HỎI TỰ LƯỢNG GIÁ
+Chọn một câu đúng
+1. Nguyên nhân thường gặp gây cường giáp là:
+A. Bệnh Graves
+B. Ung thư tuyến giáp
+C. Thiếu hụt iod
+D. Viêm giáp bán cấp
+2. Đặc điểm của suy giáp nguyên phát:
+A. Thường chỉ ảnh hưởng đến hệ tim mạch
+B. Mức độ nặng của triệu chứng liên quan đến mức độ thiếu hormone giáp
+C. Thường triệu chứng diễn biến nhanh trong vòng vài tuần
+D. Nguyên nhân thường gặp nhất là suy giáp bẩm sinh
+3. Bệnh nhân nữ đến khám sưng đau vùng cổ kèm sốt 1 tuần nay. Khám bệnh nhân có nhịp tim nhanh, tuyến giáp to nhẹ, kèm đau nhiều vùng cổ khi sờ. Xét nghiệm chức năng tuyến giáp có TSH giảm thấp và fT4 tăng nhẹ. Chẩn đoán phù hợp nhất ở bệnh nhân này là
+A. Bướu giáp đa nhân hóa độc
+B. Viêm giáp bán cấp
+C. Basedow
+D. Viêm giáp Hashimoto
+4. Bệnh lý tuyến giáp KHÔNG do cơ chế tự miễn:
+A. Bệnh Basedow
+B. Viêm giáp Hashimoto
+C. Suy giáp bẩm sinh
+D. Viêm giáp lympho bào
+5. Phù niêm trong suy giáp
+A. Mô học khác với phù niêm do bệnh Basedow
+B. Là nguyên nhân làm lưỡi to ra
+C. Do kháng thể kháng TSH tương tác với nguyên bào sợi
+D. Cũng là nguyên nhân gây lồi mắt
+
 TÀI LIỆU THAM KHẢO
 
 1. Mai Thế Trạch, Nguyễn Thy Khuê (2007). *Nội tiết học đại cương*. Nhà xuất bản Y học TP HCM.
@@ -2589,7 +2642,19 @@ Hội chứng cushing có thể phân thành hai nhóm: hội chứng Cushing n�
 
 Hội chứng Cushing phụ thuộc ACTH gồm u tuyến yên tiết ACTH, u tiết ACTH lạc chỗ, tiết CRH lạc chỗ. Nồng độ ACTH tăng cao hoặc bình thường do u tăng tiết. Sự tiết ACTH của u làm thượng thận hai bên tăng sản và tăng chức năng, tăng tiết cortisol. Sự gia tăng nồng độ cortisol máu lại ức chế lên CRH hạ đồi và cả ACTH từ mô tuyến yên bình thường, không có u.
 
-Bệnh Cushing còn gọi là u tuyến yên tiết ACTH, là nguyên nhân thường gặp nhất của hội chứng Cushing nội sinh. Thường gặp là microadenoma (khối u < 10 mm), chỉ khoảng 5 – 10% là macroadenoma (khối u > 10 mm). Trong bệnh Cushing có đặc điểm: (1) nhịp ngày đêm sinh lý của sự tiết ACTH thường bị rối loạn; (2) sự đồng bộ và điều hòa ngược giữa ACTH và tiết cortisol cũng không còn. Tế bào u tuyến yên tiết ACTH độc lập, không
+Bệnh Cushing còn gọi là u tuyến yên tiết ACTH, là nguyên nhân thường gặp nhất của hội chứng Cushing nội sinh. Thường gặp là microadenoma (khối u < 10 mm), chỉ khoảng 5 – 10% là macroadenoma (khối u > 10 mm). Trong bệnh Cushing có đặc điểm: (1) nhịp ngày đêm sinh lý của sự tiết ACTH thường bị rối loạn; (2) sự đồng bộ và điều hòa ngược giữa ACTH và tiết cortisol cũng không còn. Tế bào u tuyến yên tiết ACTH độc lập, không phụ thuộc theo sự tiết CRH từ hạ đồi. Sự tăng tiết ACTH từ u tuyến yên gây tác động kích thích lên hai tuyến thượng thận và tiết ra nhiều cortisol. Trong tình trạng sinh lý bình thường, khi có sự gia tăng cortisol máu sẽ ức chế các tế bào corticotroph giảm tiết ACTH. Tuy nhiên, những tế bào u tiết ACTH không bị ức chế bởi cortisol mà một phần bởi nồng độ cortisol máu cao. Điều này có ý nghĩa lâm sàng rất quan trọng để làm cơ sở cho việc sử dụng nghiệm pháp ức chế bằng dexamethasone liều cao giúp phân biệt giữa nguyên nhân u tuyến yên tiết ACTH và u tiết ACTH lạc chỗ. Đối với u tiết ACTH lạc chỗ, sự tiết ACTH từ tế bào u sẽ không bị ức chế bởi nồng độ cortisol máu cao trong nghiệm pháp dexamethasone liều cao.
+
+**U tiết ACTH lạc chỗ:** thường gặp ở khối u có nguồn gốc từ phế quản, trung thất, tủy thượng thận, tuyến tụy. ACTH tiết ra từ nguồn gốc lạc chỗ này không bị ức chế bởi dexamethasone hoặc các loại glucocorticoid khác dù ở liều cao. Thông thường, những u lạc chỗ tiết ACTH có xuất phát từ tiền chất POMC (Pro-opiomelanocortin), từ đó tạo ra các phân tử ACTH.
+
+**U tiết CRH lạc chỗ:** sự tiết CRH tăng cao và tăng tiết. Kết quả là làm tăng tiết ACTH và cortisol. Ở vài bệnh nhân, sự tiết ACTH tuy nhiên, nhiều khối u lại đồng tiết cả ACTH và CRH.
+
+## Hội chứng Cushing không phụ thuộc ACTH
+
+**U thượng thận** (adenoma, carcinoma) làm tăng sản xuất cortisol từ tuyến thượng thận. Hậu quả là tế bào corticotroph sẽ bị thiểu sản, cũng như vùng tuyến thượng thận bình thường cũng bị teo. Sự sản xuất cortisol của adenoma thượng thận thường rất hiệu quả, một số u đồng thời tăng tiết cả androgen. Ngược lại, carcinoma tuyến thượng thận thường thiếu hiệu quả trong quá trình tạo steroid. Khả năng chuyển đổi cholesterol sang cortisol cũng tương đối kém, nên sự sản xuất các tiền chất cortisol cũng tương đối cao. Hầu hết u vô tuyến thần đều là những tế bào đơn nhân gốc từ những bất thường về gen, hoạt hóa những gen tiền ung thư (proto-oncogenes) hoặc bất hoạt những gen ức chế u (tumor suppressor gene).
+
+Một số các hội chứng di truyền có liên hệ với nguy cơ ung thư thượng thận như hội chứng Li-Fraumeni, hội chứng Beckwith-Wiedemann.
+
+**Tăng sản thượng thận dạng nốt hai bên**, hay còn gọi là bệnh vô thượng thận dạng nốt tăng sắc tố. Đặc điểm của bệnh là có nhiều nốt nhỏ, tăng sắc tố, tồn tại ở cả hai bên tuyến thượng thận, tăng tiết cortisol. Bệnh xuất hiện dạng tàn phát ở trẻ nhỏ và người lớn trẻ hoặc có tính gia đình di truyền. Bệnh thường liên quan đến các đột biến kiểu gen trội, nhiễm sắc thể thường với biểu hiện lâm sàng đặc trưng là xuất hiện nhiều nốt tăng sắc tố và nevi xanh (blue nevi) trên vùng đầu mặt cổ, kèm khối u tăng sinh ở tuyến thượng thận, tinh hoàn và một số tuyến nội tiết, được gọi là hội chứng Carney.
 
 Tăng sản thượng thận dạng nốt lớn hai bên – tuyến thượng thận cân nặng từ 24 – 500 g hoặc hơn, gồm nhiều nốt có kích thước lớn hơn 5 mm. Những nốt này thường lành tính, tăng sản tế bào, tăng tiết cortisol, ACTH thấp và mất nhịp ngày đêm của ACTH. Đồng thời, sự tiết cortisol không bị ức chế bởi nghiệm pháp dexamethasone liều cao. Bệnh xuất hiện tản phát, một số ít trường hợp có tính gia đình di truyền kiểu gen trội.
 
