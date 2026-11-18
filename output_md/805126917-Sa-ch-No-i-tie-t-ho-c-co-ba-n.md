@@ -255,6 +255,23 @@ BẢNG TRA TỪ ......................................... 217
 # Chương 1
 # GIỚI THIỆU VỀ NỘI TIẾT
 
+# GIỚI THIỆU CHUNG VỀ HỆ NỘI TIẾT
+
+## MỤC TIÊU HỌC TẬP
+
+> 1. Trình bày được khái niệm, phân loại, tổng hợp và bài tiết hormone tại các tuyến nội tiết.
+> 2. Phân tích được các cơ chế hoạt động của hormone tại các mô đích.
+> 3. Phân tích được sự điều hòa bài tiết hormone.
+> 4. Trình bày được hoạt động của trục hạ đồi – tuyến yên – tuyến nội tiết đích.
+
+## 1. GIỚI THIỆU CHUNG VỀ HỆ NỘI TIẾT
+
+### 1.1. Cấu trúc của hệ nội tiết
+
+Hoạt động của các cơ quan trong cơ thể được điều hòa bởi hai hệ thống là hệ thần kinh và hệ nội tiết, trong đó hệ thần kinh điều hòa bằng các xung động dẫn truyền trên các dây thần kinh, còn hệ nội tiết thực hiện sự điều hòa thông qua các chất hóa học gọi là hormone. Hệ nội tiết không có cấu trúc liên tục về mặt giải phẫu như các hệ tuần hoàn, hô hấp, tiêu hóa,... Các tuyến nội tiết nằm rải rác ở nhiều nơi trong cơ thể, nhưng lại hoạt động trong mối liên quan chặt chẽ như một thể thống nhất.
+
+Tuyến nội tiết là những tuyến không có ống dẫn, chất tiết của nó là các hormone, đi trực tiếp vào hệ thống mạch máu xung quanh, do đó, có thể đi đến tất cả các cơ quan trong cơ thể. Ngược lại, tuyến ngoại tiết là các tuyến có ống dẫn, chất tiết được đổ vào một cơ quan nhất định, nên chỉ có tác dụng khu trú, không tạo ra tác dụng ảnh hưởng toàn thân. Ví dụ, các tiểu đảo tụy Langerhans tiết ra cặp hormone insulin và glucagon, giúp điều hòa ổn định glucose huyết toàn cơ thể; còn tụy ngoại tiết là các thể acini, tiết ra các enzyme tiêu hóa, chỉ có tác dụng phân cắt thức ăn về mặt hóa học tại ruột non, ngoài ra, không ảnh hưởng lên các cơ quan khác trong điều kiện bình thường.
+
 [Hình: Hình 1.1. Các tuyến nội tiết chính trong cơ thể: vùng hạ đồi, tuyến yên, tuyến giáp, tuyến thượng thận, tuyến tụy, tuyến sinh dục (tinh hoàn ở nam, buồng trứng ở nữ)]
 - Vùng hạ đồi
 - Tuyến tùng
@@ -359,6 +376,26 @@ Các hormone tan trong lipid thường không được dự trữ sẵn trong t�
 - *Hormone steroid:* chủ yếu được tổng hợp từ tiền chất cholesterol. Do vậy, cơ thể phải được cung cấp một lượng cholesterol nhất định từ thức ăn hằng ngày để đảm bảo hoạt động ổn định của hệ nội tiết. Bình thường, tế bào tuyến nội tiết dự trữ sẵn tiền chất cholesterol. Khi có các kích thích đặc hiệu, hệ emzyme trong tế bào sẽ xúc tác các phản ứng oxy hóa, chuyển cholesterol thành hormone chính thức và được tiết vào máu.
 
 - *Hormone T3 và T4 của tuyến giáp:* được tổng hợp đầu tiên ở dạng gắn kết trên một phân tử protein lớn, gọi là thyroglobulin. Khi có các kích thích đặc hiệu, hệ emzyme trong tế bào giáp sẽ xúc tác sự phân cắt thyroglobulin, giải phóng hormone chính thức vào máu.
+
+Các hormone tan trong lipid được vận chuyển đến tế bào đích ở trạng thái gắn kết với các protein trong huyết tương như: albumin, prealbumin, alpha globulin, beta globulin,... chỉ có một lượng nhỏ hormone tồn tại ở trạng thái tự do. Nồng độ của các hormone trong máu tuần hoàn thường rất thấp, dao động từ vài picogram cho tới vài microgram trong 1 mL máu. Do vậy, muốn định lượng hormone trong huyết tương cần sử dụng những kỹ thuật sinh hóa khuếch đại đặc biệt như: ELISA (enzyme-linked immunosorbent assay), RIA (radioimmunoassay),... Hầu như tất cả các hormone tan trong lipid đều phải được chuyển hóa tại gan, tạo thành dạng tan trong nước trước khi đào thải ra ngoài qua nước tiểu hoặc qua đường mật.
+
+## 4. CƠ CHẾ TÁC ĐỘNG CỦA HORMONE TẠI CÁC MÔ ĐÍCH
+
+Thụ thể hormone đóng vai trò chính trong tác động của hormone tại mô đích. Tùy theo hormone tan trong nước hay tan trong lipid mà thụ thể dành cho hormone sẽ nằm tương ứng ở hai vị trí khác nhau trong tế bào: thụ thể màng và thụ thể nhân. Vị trí của thụ thể dành cho hormone sẽ quyết định cách thức mà hormone đó tác động lên tế bào đích.
+
+### 4.1. Cơ chế tác động của các hormone tan trong nước
+
+Các hormone tan trong nước không thể đi xuyên qua lớp phospholipid kép trên màng tế bào đích. Do vậy, thụ thể đón nhận nhóm hormone này là những phân tử protein nằm trên màng tế bào, gọi là thụ thể màng. Hormone sau khi gắn vào thụ thể màng sẽ gây ảnh hưởng tức thì lên nhiều hoạt động chức năng của tế bào đích bằng cách tác động lên các protein có sẵn (như thay đổi tính phân cực và tính thấm của màng tế bào thông qua các kênh ion, thay đổi hoạt động phân bào thông qua trung thể, thay đổi hoạt động sợi myosin, thay đổi mức độ chuyển hóa tại ty thể, thay đổi mức độ bài tiết tại lysosome,...).
+
+Có ba loại thụ thể màng thường gặp dành cho nhóm hormone tan trong nước là: (1) thụ thể liên kết kênh ion, (2) thụ thể liên kết protein G, (3) thụ thể liên kết enzyme.
+
+### 4.1.1. Thụ thể liên kết kênh ion (ion-channel linked receptor)
+
+Thụ thể này cũng đồng thời là một kênh ion. Khi tín hiệu hormone đến sẽ gây đóng hoặc mở kênh ion, làm thay đổi điện thế màng tại tế bào đích. Thụ thể liên kết kênh ion thường gặp trong hoạt động của các chất dẫn truyền thần kinh (neurotransmitters).
+
+### 4.1.2. Thụ thể liên kết protein G (G-protein coupled receptor)
+
+Thụ thể liên kết protein G gặp trong hoạt động của hầu hết các hormone tan trong nước (hormone protein), điển hình là các hormone của vùng hạ đồi và tuyến yên như GHRH, GHIH, ACTH, FSH, LH, TSH, ADH,... Thụ thể này gắn với protein G ở mặt trong màng tế bào. Protein G được cấu tạo từ 3 tiểu đơn vị: alpha ($\alpha$), beta ($\beta$) và gamma ($\gamma$); trong đó tiểu đơn vị $\alpha$ đóng vai trò là thành phần enzyme xúc tác, còn 2 tiểu đơn vị $\beta\gamma$ đóng vai trò là thành phần điều hòa (ức chế thành phần $\alpha$). Khi tín hiệu hormone đến, tiểu đơn vị $\alpha$ tách ra khỏi 2 tiểu đơn vị $\beta\gamma$, trở thành dạng hoạt hóa, tiếp tục kích thích lên các protein khác, tạo nên lộ trình tín hiệu nội bào (signaling pathway).
 
 [Hình: Hình 1.2. Hoạt động của hormone tan trong nước và thụ thể liên kết protein G tại tế bào đích]
 - Dịch ngoại bào
@@ -650,7 +687,21 @@ ACTH được tổng hợp trong các tế bào “corticotroph” của tuyến
 
 **Hình 2.2.** Quá trình tạo thành ACTH từ prohormone POMC (proopiomelanocortin) trong tế bào "corticotroph" tại tuyến yên trước. (ACTH: adrenocorticotropic hormone; PC1: prohormone convertase 1; β-LPH: β-lipotropin)
 
-Tuyến thượng thận nằm ngay phía bên trên của thận, nhưng hoàn toàn không tham gia vào hoạt động chức năng thận. Mỗi tuyến thượng thận gồm hai phần có chức năng khác nhau là tủy thượng thận và vỏ thượng thận. Vỏ thượng thận gồm ba lớp theo thứ tự từ ngoài vào trong: lớp cầu (zona reticularis), lớp bó (zona fasciculata), lớp lưới (zona glomerulosa). Các tế bào thuộc lớp bó và lớp lưới của vỏ thượng thận sản sinh các hormone glucocorticoid là cortisol và corticosterone, ngoài ra còn tổng hợp hormone tính androgen, (chủ yếu là loại dehydroepiandrosterone). Yếu tố điều hòa chủ yếu đối với hoạt động tương đồng với tế bào theca ở nang trứng), vì vậy, LH còn có tên là hormone kích thích tế bào kẽ ICSH (interstitial cell-stimulating hormone).
+Tuyến thượng thận nằm ngay phía bên trên của thận, nhưng hoàn toàn không tham gia vào hoạt động chức năng thận. Mỗi tuyến thượng thận gồm hai phần có chức năng khác nhau là tủy thượng thận và vỏ thượng thận. Vỏ thượng thận gồm ba lớp theo thứ tự từ ngoài vào trong: lớp cầu (zona reticularis), lớp bó (zona fasciculata), lớp lưới (zona glomerulosa). Các tế bào thuộc lớp bó và lớp lưới của vỏ thượng thận sản sinh các hormone glucocorticoid là cortisol và corticosterone, ngoài ra còn tổng hợp hormone tính androgen, (chủ yếu là loại dehydroepiandrosterone). Yếu tố điều hòa chủ yếu đối với sự tổng hợp và bài tiết glucocorticoid chính là ACTH. Đây là hormone kích thước nhỏ nhất từ tuyến yên trước, với chuỗi peptide đơn gồm 39 acid amin (4,5 kDa). ACTH có tác dụng kích thích lớp bó và lớp lưới của vỏ thượng thận, làm tăng hoạt động bài tiết của tế bào bằng cách thúc đẩy sự biểu hiện các gen quy định các enzyme liên quan đến quá trình tổng hợp hormone steroid từ cholesterol. ACTH cũng giúp duy trì kích thước và sự tăng sinh của các tế bào trong lớp bó và lớp lưới. Ngược lại với tác động trên glucocorticoid, ACTH lại không phải là yếu tố điều hòa quan trọng trong sự tổng hợp và bài tiết mineralocorticoid tại lớp cầu.
+
+## 3.2. Hormone TSH điều hòa chức năng tuyến giáp
+
+TSH là một glycoprotein, có trọng lượng phân tử là 28.000 dalton. Tác dụng quan trọng nhất và nhanh nhất của TSH là kích thích tế bào giáp tiết hormone (T3, T4) bằng cách thúc đẩy sự phân giải một protein dự trữ trong tuyến giáp có tên là thyroglobulin, tách hormone giáp ra thành dạng tự do và phóng thích vào máu. Tác dụng này diễn ra trong vòng khoảng 30 phút. Ngoài ra, TSH còn kích thích tế bào giáp tăng kích thước, tăng sinh và tăng tổng hợp chất keo thyroglobulin. Tuy nhiên, các tác dụng trên cần nhiều giờ, nhiều ngày, thậm chí hàng tuần mới được phát huy đầy đủ.
+
+## 3.3. Hormone FSH, LH điều hòa chức năng sinh sản và phát triển giới tính
+
+Cả hai hormone FSH và LH đều có bản chất hóa học là glycoprotein. Chúng tác dụng trên các tuyến sinh dục (buồng trứng và tinh hoàn) thông qua nhóm thụ thể liên kết protein G, hoạt hóa enzyme adenyl cyclase tạo ra chất truyền tin thứ hai là cAMP. Sau đó, cAMP hoạt hóa enzyme protein kinase A, gây phosphoryl hóa các enzyme khác trong tế bào, kết quả là kích thích quá trình sản sinh giao tử và làm tăng bài tiết các hormone sinh dục.
+
+Hormone FSH điều hòa các quá trình: phát triển, tăng trưởng và dậy thì của cơ thể con người. Sau tuổi trưởng thành, ở cả nam và nữ, FSH có vai trò kích thích sự trưởng thành của các tế bào mầm sinh dục (germ cells) và phối hợp đồng bộ với LH để điều hòa hoạt động của hệ sinh sản.
+
+Trên buồng trứng, trong các chu kỳ kinh nguyệt hằng tháng, hormone FSH có vai trò kích thích sự chọn lọc và trưởng thành của nang trứng, đặc biệt ảnh hưởng đến chức năng của các tế bào hạt bao quanh noãn bào (granulosa cells); còn hormone LH có vai trò hỗ trợ các tế bào vỏ nằm ở phía ngoài cùng của nang trứng (theca cells). Các tế bào vỏ cung cấp tiền chất androstenedione (androgen) cho sự tổng hợp hormone estradiol (estrogen) diễn ra tại các tế bào hạt. Ngoài ra, đỉnh tiết của hormone LH vào giữa chu kỳ kinh (ngày thứ 14) chính là tác nhân dẫn đến hiện tượng rụng trứng (ovulation), cũng như sự hình thành và phát triển hoàng thể (corpus luteum) từ phần còn lại của nang trứng.
+
+Trên tinh hoàn, hormone FSH có vai trò thúc đẩy các tế bào Sertoli trên thành ống sinh tinh tăng cường sản sinh các protein gắn androgen ABPs (androgen-binding proteins). Điều này rất quan trọng trong sự khởi đầu quá trình sinh tinh, kích thích các tế bào mầm đi vào giảm phân và biệt hóa tạo thành tinh trùng. Trong khi đó, LH có vai trò kích thích các tế bào Leydig trong mô kẽ tinh hoàn bài tiết testosteron (tế bào Leydig có hoạt động tương đồng với tế bào theca ở nang trứng), vì vậy, LH còn có tên là hormone kích thích tế bào kẽ ICSH (interstitial cell-stimulating hormone).
 
 ### 3.4. Prolactin điều hòa sự bài tiết sữa từ tuyến vú
 
@@ -802,6 +853,26 @@ Sự bài tiết GH gia tăng trong những trường hợp sau: chế độ ăn
    A. Chịu sự kiểm soát từ vùng hạ đồi
    B. Phóng thích hormone IGF-1
    C. Bệnh lý tuyến yên có thể đưa đến rối loạn nhiều tuyến nội tiết
+
+D. Gọi là tuyến yên tuyến
+3. Hormone nào sau đây của vùng hạ đồi có vai trò kích thích tuyến yên bài tiết hormone GH?
+A. CRH
+B. GHRH
+C. GnRH
+D. TRH
+4. Câu nào sau đây KHÔNG ĐÚNG khi nói về hormone GH?
+A. Do vùng tuyến yên trước bài tiết
+B. Kích thích gan tiết ra IGF-1
+C. Tác động lên đĩa sụn nối ở trước tuổi dậy thì
+D. Chỉ có tác dụng kích thích tăng trưởng ở trước tuổi dậy thì
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Bộ môn Sinh lý học (2020). Đại học Y Dược TP. HCM. *Sinh lý học y khoa*, Nhà xuất bản Đại học Quốc gia TP. HCM.
+2. Bộ môn Sinh lý học (2006). Đại học Y Hà Nội. *Sinh lý học tập 1*. Nhà xuất bản Y học.
+3. Kim E. Barrett et al (2019). *Ganong's Review of Medical Physiology*. 26th editon. McGraw-Hill Education.
+4. John E Hall et al (2020). *Guyton and Hall Textbook of Medical Physiology*. 14th edition. Elsevier Inc.
+5. Rodney A. Rhoades, David R. Bell (2013). *Medical Physiology: Principles for Clinical Medicine*. 4th edition. Lippincott Williams and Wilkins.
 
 # SINH LÝ HORMONE THƯỢNG THẬN
 
@@ -1468,7 +1539,23 @@ Glucagon là một hormone protein, gồm 29 acid amin, với trọng lượng p
 
 Tại tế bào gan, sau khi gắn lên nhóm thụ thể màng liên kết protein G, glucagon sẽ làm tăng tạo AMP vòng (cAMP), dẫn đến tăng phóng thích glucose vào máu bằng hai cách:
 
-(1) *Thoái biến glycogen dự trữ:* cAMP kích thích enzyme protein kinase, dẫn đến hoạt hóa enzyme phosphorylase xúc tác phản ứng thủy phân glycogen thành G-6-P (glucose-6-phosphate). Chất này sau đó tiếp tục được enzyme G-6-Pase ly giải thành
+(1) *Thoái biến glycogen dự trữ:* cAMP kích thích enzyme protein kinase, dẫn đến hoạt hóa enzyme phosphorylase xúc tác phản ứng thủy phân glycogen thành G-6-P (glucose-6-phosphate). Chất này sau đó tiếp tục được enzyme G-6-Pase ly giải thành glucose tự do và đưa vào máu. Mô cơ xương cũng dự trữ nhiều glycogen, nhưng do thiếu enzyme G-6-Pase nên không thể chuyển G-6-P thành glucose tự do cung cấp cho các tế bào trong cơ thể.
+
+(2) **Tân tạo glucose**: cAMP hoạt hóa các enzyme tham gia chuỗi phản ứng tân tạo glucose từ các tiền chất không phải carbohydrate (như các acid amin, glycerol), nhất là enzyme PEPCK (phosphoenolpyruvate carboxykinase) giúp chuyển pyruvate thành phosphoenolpyruvate.
+
+Tại tế bào mỡ, sau khi gắn lên thụ thể, glucagon sẽ hoạt hóa enzyme lipase nhạy cảm hormone HSL (hormone sensitive lipase), thúc đẩy phản ứng thoái biến triglyceride dự trữ thành acid béo tự do, phóng thích vào máu để cung cấp cho các cơ quan trong cơ thể.
+
+3.2. **Điều hòa bài tiết glucagon**
+
+Sự bài tiết glucagon phụ thuộc chủ yếu vào nồng độ glucose huyết, khi glucose huyết giảm dưới 70 mg/dL sẽ kích thích tế bào alpha phóng thích glucagon và ngược lại. Sau bữa ăn, tăng nồng độ của các acid amin, đặc biệt là alanin và arginine, cũng có tác dụng kích thích bài tiết glucagon, dẫn đến đẩy mạnh quá trình tân tạo glucose từ các acid amin này tại gan. Ngoài ra, vận động mạnh cũng gây tăng tiết glucagon, có ý nghĩa phòng ngừa sự hạ glucose huyết.
+
+4. **HORMONE SOMATOSTATIN**
+
+Hormone somatostatin, còn có tên là GHIH (growth hormone-inhibiting hormone), được bài tiết từ vùng hạ đồi (hypothalamus) và đường tiêu hóa (niêm mạc môn vị, tá tràng và các tế bào delta của đảo tụy Langerhans). Đây là một polypeptide gồm 14 acid amin, có thời gian bán hủy trong máu tuần hoàn vào khoảng 3 phút. Sau khi ăn, sự tăng nồng độ các chất dinh dưỡng trong máu (glucose, acid amin, acid béo) cũng như sự tăng bài tiết các hormone dạ dày – ruột sẽ gây kích thích phóng hormone somatostatin.
+
+Tại vùng hạ đồi, somatostatin có vai trò ức chế sự bài tiết hormone GH từ tuyến yên trước. Tại đường tiêu hóa, somatostatin làm giảm sự bài tiết ion H⁺ và các enzyme tiêu hóa thông qua tác động trực tiếp lên chức năng chế tiết của tế bào biểu mô niêm mạc hoặc gián tiếp ức chế phóng thích các hormone dạ dày – ruột (gastrin, histamine, secretin, cholecystokinin, motilin,...). Ngoài ra, somatostatin còn làm giảm sự co cơ trơn và lưu lượng tưới máu tại ruột non.
+
+Như vậy, somatostatin có các vai trò chủ yếu như sau: (1) làm giảm vận động của dạ dày, ruột và túi mật; (2) làm giảm hoạt động bài tiết enzyme tiêu hóa của tuyến tụy và chức năng hấp thu dinh dưỡng của ruột non; (3) ức chế phóng thích hormone insulin và glucagon. Điều này dẫn đến làm kéo dài thời gian hấp thu thức ăn vào máu, đồng thời làm giảm sự tiêu dùng các chất được hấp thu, giúp tiết kiệm nguồn dinh dưỡng để sử dụng trong thời gian dài hơn.
 
 ## 5. SỰ ĐIỀU HÒA NỒNG ĐỘ GLUCOSE HUYẾT
 
@@ -1704,7 +1791,46 @@ Hạ calci máu (hypocalcemia) là yếu tố chính kích thích sự giải ph
 
 # SINH LÝ BỆNH MỘT SỐ BỆNH NỘI TIẾT
 
-dụng của insulin. Một số cơ quan khác như tế bào não có thể dùng glucose mà không phụ thuộc vào insulin (xem Hình 8.1).
+# SINH LÝ BỆNH ĐÁI THÁO ĐƯỜNG
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Kể được phân loại đái tháo đường.
+2. Trình bày được sinh lý bệnh của đái tháo đường típ 1.
+3. Trình bày được sinh lý bệnh của đái tháo đường típ 2.
+4. Giải thích được cơ chế các biểu hiện của tăng glucose huyết.
+5. Trình bày được các xét nghiệm đánh giá rối loạn glucose huyết.
+
+## 1. MỞ ĐẦU
+
+Đái tháo đường là một nhóm các bệnh chuyển hóa đặc trưng bởi tình trạng tăng glucose huyết do khiếm khuyết tiết insulin, khiếm khuyết tác động của insulin hoặc cả hai. Tần suất hiện mắc của đái tháo đường trên thế giới hiện nay gia tăng nhanh. Theo Liên đoàn Đái tháo đường Quốc tế, vào năm 2019 ước tính có 463 triệu người mắc đái tháo đường và dự đoán sẽ tăng lên 578 triệu vào năm 2030 và sẽ là 700 triệu vào năm 2045.
+
+## 2. PHÂN LOẠI ĐÁI THÁO ĐƯỜNG
+
+Đái tháo đường có thể phân thành các loại như trong Bảng 8.1.
+
+### Đái tháo đường típ 1A
+
+Loại này chiếm 5 – 10% dân số đái tháo đường, có cơ chế tự miễn gây tổn thương tế bào beta tuyến tụy, do đó, bệnh nhân thiếu insulin tuyệt đối và cần phải dùng insulin cho sự sống. Đái tháo đường típ 1 có thể đi kèm với các bệnh lý tự miễn khác như bệnh Addison (suy thượng thận nguyên phát do tự miễn), bệnh Graves (còn gọi là Basedow), viêm giáp Hashimoto, thiếu máu ác tính.
+
+Đái tháo đường típ 1 có thể khởi phát bất kỳ tuổi nào, nhưng thường gặp nhất ở trẻ em dưới 20 tuổi. Đôi khi có thể xuất hiện ở người lớn như ở bệnh nhân bị thể đái tháo đường tự miễn tiềm ẩn ở người lớn (thể LADA: Latent autoimmune diabetes of adulthood). Do diễn tiến từ từ âm thầm, lúc đầu chức năng tế bào beta còn đủ để ngăn không có nhiễm ceton, thể LADA thường lúc đầu hay chẩn đoán nhầm là đái tháo đường típ 2. Về sau chức năng tế bào beta giảm, bệnh nhân sẽ phụ thuộc vào insulin.
+
+### Đái tháo đường típ 1B
+
+Được gọi là đái tháo đường típ 1 vô căn. Thường gặp ở sắc dân châu Á và châu Phi. Bệnh nhân này bị thiếu insulin và dễ bị nhiễm ceton acid nhưng không có bằng chứng tự miễn của tế bào beta tụy. Bệnh nhân có tiền căn gia đình đái tháo đường típ 1, nhưng không có dấu hiệu của phá hủy tế bào beta tụy và không thấy liên hệ với HLA. Những bệnh nhân này có thể bị đợt nhiễm ceton acid và có nhu cầu insulin thay đổi.
+
+Đái tháo đường típ 2
+Loại này chiếm 90 – 95% dân số đái tháo đường. Đái tháo đường típ 2 liên quan với béo phì và đặc biệt béo phì bụng.
+Đái tháo đường người trẻ khởi phát lúc trưởng thành (Maturity-onset diabetes of the young)
+Bệnh di truyền trội trên nhiễm sắc thể thường, do khiếm khuyết đơn gen của chức năng tế bào beta làm giảm hoạt động tiết insulin. Biểu hiện tăng glucose huyết xảy ra thường dưới 25 tuổi, không béo phì. Hiện nay, đã phát hiện nhiều đột biến dẫn tới loại đái tháo đường này (xem Bảng 8.1).
+Đái tháo đường do đột biến DNA ty thể
+Do tinh trùng không có ty thể, nên chỉ có mẹ truyền gen ty thể cho con. Tỉ lệ dưới 2% trong dân số đái tháo đường. Thường xảy ra ở tuổi 30, có thể giảm thính lực. Đây là dạng đái tháo đường di truyền từ mẹ và bị điếc (maternally inherited diabetes and deafness – MIDD).
+Hội chứng Wolfram
+Là bệnh lý thoái hóa thần kinh có di truyền lặn trên nhiễm sắc thể thường. Bao gồm các rối loạn: đái tháo nhạt, đái tháo đường, teo thần kinh thị và điếc (DIDMOAD – diabetes insipidus, diabetes mellitus, optic atrophy, and deafness).
+Giảm hoạt tính insulin do khiếm khuyết gen
+Đề kháng insulin loại A do đột biến thụ thể insulin dẫn tới tăng insulin máu, có tình trạng rối loạn glucose huyết từ nhẹ tới đái tháo đường rõ rệt. Hội chứng này xảy ra ở trẻ em có đột biến gen thụ thể insulin dẫn tới tình trạng đề kháng insulin và tăng nồng độ insulin máu. Bệnh nhân Rhabson – Mendenhall có bất thường răng và móng tay. Bệnh Leprechaunism xảy ra ở trẻ nhũ nhi và có thể tử vong. Đái tháo đường thể teo mỡ do khiếm khuyết con đường dẫn truyền tín hiệu hậu thụ thể insulin.
+3. ĐIỀU HÒA CÂN BẰNG NỘI MÔI GLUCOSE HUYẾT
+Cân bằng glucose huyết phản ánh sự cân bằng giữa khẩu phần năng lượng nhập (gồm thức ăn và glucose được sản xuất từ gan) với sự sử dụng và thu nhập glucose ở mô ngoại biên. Insulin là yếu tố điều hòa quan trọng nhất của cân bằng chuyên hóa glucose. Phối hợp với insulin trong kiểm soát sự cung cấp và sử dụng glucose còn có các yếu tố khác tham gia bao gồm tín hiệu thần kinh, chuyển hóa và các hormone khác (ví dụ glucagon). Trong tình trạng đói, nồng độ insulin thấp, kèm theo có nồng độ glucagon tăng dần tới tăng sản xuất glucose do kích thích sự phân tách glycogen và tân tạo glucose diễn ra ở gan, đồng thời cũng có giảm sự thu nhận glucose vào các mô nhạy cảm insulin (cơ xương, mỡ), do đó, sẽ có tăng ly giải mô mỡ và tăng acid amin. Sau khi ăn, glucose huyết tăng sẽ kích thích tụy tiết insulin và giảm tiết glucagon, do đó, các quá trình trên sẽ xảy ra chiều ngược lại. Insulin là hormone đồng hóa sẽ kích thích dự trữ carbohydrate và tổng hợp mô mỡ và protein. Phần lớn lượng glucose tăng sau ăn sẽ được cơ xương thu nhận dưới tác dụng của insulin. Một số cơ quan khác như tế bào não có thể dùng glucose mà không phụ thuộc vào insulin (xem Hình 8.1).
 
 **Bảng 8.1.** Phân loại đái tháo đường theo nguyên nhân
 
@@ -1803,6 +1929,31 @@ Diễn tiến của đái tháo đường típ 1A có thể thấy trong Hình 8
 
 *Nguồn: Harrison's Principles of Internal Medicine 20th edition. The McGraw-Hill Education, 2018*
 
+4.2. Đái tháo đường típ 2
+
+4.2.1. Nguyên nhân và các yếu tố nguy cơ của đái tháo đường típ 2
+
+Đái tháo đường típ 2 thường gặp ở người lớn sau 30 tới 40 tuổi. Gần đây có sự gia tăng số bệnh nhân đái tháo đường típ 2 vì được chẩn đoán sớm hơn, có thể chẩn đoán ngay cả ở trẻ em và trẻ tuổi vị thành niên, do tình trạng béo phì và ít vận động thể lực. Các yếu tố nguy cơ của đái tháo đường típ 2 gồm có:
+
+- Cha mẹ hay anh chị em ruột mắc đái tháo đường
+- Chủng tộc hay dân tộc có nguy cơ cao (người Nam Á, châu Phi,...)
+- Có tiền sử bệnh lý tim mạch
+- Tăng huyết áp ($\ge $ 140/90 mmHg hoặc đang điều trị thuốc hạ áp)
+- HDL-cholesterol < 35 mg/dL (0,9 mmol/L) và/hoặc triglycerides > 250 mg/dL (2,82 mmol/L)
+- Phụ nữ có hội chứng buồng trứng đa nang
+- Có lối sống ít vận động
+- Dấu hiệu lâm sàng liên quan đến tình trạng đề kháng insulin (dấu gai đen, béo phì).
+
+Yếu tố di truyền đóng vai trò quan trọng trong bệnh sinh của đái tháo đường típ 2. Đây là bệnh đa gen. Anh em sinh đôi cùng trứng đều có đái tháo đường típ 2 trong 70% tới 90% trường hợp. Nguy cơ đái tháo đường tăng nếu có ba mẹ bị đái tháo đường típ 2. Nếu cả ba và mẹ đều bị thì nguy cơ đái tháo đường lên tới 40%. Trên cơ địa nhạy cảm về di truyền, nếu có yếu tố nguy cơ từ môi trường sẽ làm bộc lộ các biểu hiện của đái tháo đường. Yếu tố môi trường như béo phì, đặc biệt là béo phì bụng rất quan trọng dẫn tới tình trạng đề kháng insulin và đái tháo đường típ 2. Mỡ dưới da vùng bụng ít có liên quan với tình trạng không nhạy cảm với insulin. Nhiều bệnh nhân đái tháo đường típ 2 không béo phì rõ, nhưng có nhiều mỡ nội tạng gọi là dạng “béo phì về chuyển hóa”.
+
+4.2.2. Bệnh sinh
+
+Tình trạng đề kháng insulin và rối loạn tiết insulin có vai trò trung tâm trong phát triển đái tháo đường típ 2.
+
+Đề kháng insulin là sự giảm khả năng tác dụng của insulin ở các mô ngoại biên (cơ, gan, mỡ) gây ra giảm thu nhận glucose vào cơ xương và không ức chế được tình trạng sản xuất glucose từ gan. Tại mô mỡ, đề kháng insulin làm tăng acid béo tự do dẫn tới kích thích quá trình tân tạo đường và tổng hợp triglyceride. Hội chứng chuyển hóa còn gọi là hội chứng đề kháng insulin bao gồm nhiều rối loạn như béo bụng, tăng huyết áp, rối loạn lipid máu (tăng triglyceride, giảm HDL), tăng acid uric, tăng các cytokin tiền viêm như interleukine-6 (IL-6) hay TNF-alpha, rối loạn glucose huyết đói hoặc rối loạn dung nạp glucose, đái tháo đường típ 2 và tăng nguy cơ bệnh lý tim mạch xơ vữa.
+
+Đề kháng insulin là hậu quả của rối loạn tín hiệu insulin, đặc biệt là sự điều hòa giảm xuống của tín hiệu hậu thụ thể của insulin, có liên hệ với yếu tố nhạy cảm di truyền và béo phì, nhất là béo phì bụng.
+
 Mô mỡ ảnh hưởng tới sự nhạy cảm của các mô ngoại biên với insulin thông qua các adipokine có vai trò ức chế tín hiệu của insulin gồm: TNF-α, IL-6, leptin, resistin,...) và các adipokine có vai trò làm tăng tín hiệu của insulin như adiponectin. Đa số bằng chứng cho thấy các adipokine tác động lên những con đường tín hiệu trong tế bào sau thụ thể tại các mô ngoại biên, từ đó làm giảm tín hiệu insulin.
 
 Mỡ tự do được phóng thích từ các mô mỡ, đặc biệt là mỡ tạng cũng có vai trò gây đề kháng insulin. Ở mô cơ và các mô khác sự oxit hóa acid béo làm ức chế sự ly giải đường và làm giảm sự chuyển hóa glucose kích thích bởi insulin. Sự gia tăng dự trữ mỡ trong tế bào mỡ và tăng phóng thích acid béo còn dẫn tới tình trạng dịch chuyển vị trí dự trữ mỡ, trong đó có sự tăng thu nhận và tăng dự trữ lipid ở các mô không phải mô mỡ như tế bào cơ, gan và tế bào beta tụy. Sự dự trữ lipid lạc chỗ ở các mô này làm giảm sự nhạy cảm với insulin.
@@ -1869,6 +2020,55 @@ Glucose huyết tương: từ 126 mg/dL hay cao hơn: đái tháo đường.
 Để chuyển đổi đơn vị glucose huyết từ mg/dL sang mmol/L theo công thức sau:
 
 Glucose huyết (mmol/L) = glucose huyết (mg/dL): 18
+
+5.2.4. Nghiệm pháp dung nạp uống 75 gam glucose
+
+Chi định: glucose huyết đói dưới 126 mg/dL nhưng vẫn có khả năng đái tháo đường cao (ví dụ: rối loạn glucose huyết đói).
+
+Thực hiện: 3 ngày trước nghiệm pháp, bệnh nhân ăn một khẩu phần giàu carbohydrate, tối thiểu 150 gam carbohydrate/ngày. Bệnh nhân phải nhịn đói qua đêm đủ 8 giờ, không vận động trong quá trình xét nghiệm. Buổi sáng thực hiện nghiệm pháp, cho bệnh nhân uống 250 mL nước pha 75 gam glucose trong vòng 5 phút. Lấy máu tĩnh mạch gửi phòng xét nghiệm đo glucose huyết tương vào thời điểm 0 phút (trước khi uống glucose) và 120 phút sau uống glucose (không được dùng máy đo glucose huyết mao mạch đo ở đầu ngón tay).
+
+Bảng 8.3. Kết quả nghiệm pháp dung nạp uống 75 gam glucose
+
+| | Glucose huyết đói | Glucose huyết sau 2 giờ |
+|---|---|---|
+| Bình thường | < 100 mg/dL (5,6 mmol/L) | < 140 mg/dL (7,8 mmol/L) |
+| Rối loạn glucose huyết đói | 100 mg/dL (5,6 mmol/L) tới 125 mg/dL (6,9 mmol/L) | < 140 mg/dL (7,8 mmol/L) |
+| Rối loạn dung nạp glucose | < 100 mgdL (5,6 mmol/L) | 140 mg/dL (7,8 mmol/L) - 199 mg/dL (11 mmol/L) |
+| Rối loạn glucose huyết đói và rối loạn dung nạp glucose | 100 mg/dL (5,6 mmol/L) tới 125 mg/dL (6,9 mmol/L) | 140 mg/dL (7,8 mmol/L) - 199 mg/dL (11 mmol/L) |
+| Đái tháo đường | $\ge$ 126 mg/dL (7 mmol/L) | $\ge$ 200 mg/dL (11 mmol/L) |
+
+Dương giả có thể gặp trong trường hợp: nhiễm trùng, suy dinh dưỡng, chấn thương tâm lý nặng, dùng thuốc ảnh hưởng glucose huyết.
+
+5.2.5. Xét nghiệm hemoglobin A1c (HbA1c)
+
+Do hồng cầu có đời sống kéo dài 120 ngày, HbA1c phản ánh tình trạng glucose huyết giai đoạn 8 – 12 tuần trước khi xét nghiệm máu. Nên đo kiểm tra HbA1c mỗi 3 – 4 tháng. Ưu điểm là xét nghiệm này có thể không cần nhịn đói.
+
+Xét nghiệm cũng cần dùng các phương pháp được chứng nhận bởi chương trình chuẩn hóa hemoglobin A1c quốc gia Mỹ và chuẩn hóa theo phương pháp của nghiên cứu DCCT (Diebetes Complication Control Trial). Ở châu Âu, HbA1c chuẩn hóa theo liên đoàn hóa lâm sàng quốc tế (International Federation of Clinical Chemistry) báo cáo kết quả là mmol HbA1c/mol Hb. Đồng thuận trên thế giới hiện nay HbA1c nên báo cáo cả hai hệ thống NGSP (%) và IFCC (mmol/mol).
+
+Đánh giá kết quả:
+
+- HbA1c từ 4 – 5,6%: bình thường
+
+- HbA1c 5,7 – 6,4% (hoặc từ 39 – 46 mmol/mol): tiền đái tháo đường.
+- HbA1c ≥ 6,5% (hoặc 48 mmol/mol): đái tháo đường.
+Một số tình trạng gây HbA1c thấp giả:
+- Biến thể hemoglobin: ví dụ, nồng độ cao HbF có thể gây kết quả HbA1c thấp giả.
+- Nguyên nhân làm rút ngắn đời sống hồng cầu (thiếu máu tán huyết) làm HbA1c thấp giả.
+- Dùng erythropoietin và truyền tĩnh mạch sắt cho bệnh nhân suy thận hạn
+- Vitamin C và E ức chế glycat hóa hemoglobin làm cho HbA1c thấp giả.
+Một số tình trạng gây HbA1c cao giả: bệnh tăng thời gian sống hồng cầu (ví dụ: cắt lách), thiếu máu thiếu sắt.
+Như vậy, phải thận trọng khi xét nghiệm HbA1c ở dân số có tần suất cao bị bệnh lý hemoglobin. Có thể thay thế bằng xét nghiệm fructosamin máu để đánh giá kiểm soát glucose huyết.
+
+### 5.2.6. Xét nghiệm fructosamin huyết thanh
+Fructosamin huyết thanh được tạo thành do quá trình glycat hóa protein huyết thanh (chủ yếu là albumin). Thời gian bán hủy của do albumin ngắn hơn hemoglobin, do đó, fructosamin huyết thanh phản ánh tình trạng glucose huyết thời gian 1 – 2 tuần trước khi xét nghiệm. Bệnh lý gây giảm albumin sẽ làm fructosamin huyết thanh thấp giả.
+Có thể dùng fructosamin huyết thanh trong các trường hợp: bệnh lý hemoglobin, tán huyết.
+Giá trị bình thường fructosamin huyết thanh thay đổi tùy nồng độ albumin. Bình thường là 200 – 285 µmol/L khi albumin là 5 g/dL.
+
+### 5.2.7. Tự theo dõi glucose huyết mao mạch
+Đây là phương pháp đánh giá glucose huyết có ích lợi nhiều trong theo dõi và điều chỉnh chế độ điều trị. Mẫu máu mao mạch có thể lấy ở đầu ngón tay. Có một số loại máy đo glucose huyết cá nhân cho phép lấy mẫu máu những nơi khác như ở da mặt trước cẳng tay. Giảm tuần hoàn tới ngón tay (bệnh Raynaud, hạ huyết áp nặng) có thể gây glucose huyết mao mạch thấp giả.
+
+### 5.2.8. Theo dõi glucose liên tục
+Máy theo dõi đường glucose liên tục có bộ phận nhận cảm được đặt vào mô dưới da và đo liên tục nồng độ glucose tại mô kẽ trong nhiều ngày, tùy loại máy có thể 3 tới 14 ngày. Một vài hệ thống có thể truyền tín hiệu glucose tới smart phone hoặc tới máy bơm insulin. Có thể đặt báo động ngưỡng glucose huyết nguy hiểm ở mức hạ glucose huyết hoặc glucose huyết cao. Kết quả theo dõi glucose dịch mô kẽ liên tục cho phép đánh giá thay đổi glucose huyết, cơn hạ glucose huyết, ảnh hưởng của chế độ ăn uống lên glucose huyết giúp điều chỉnh kế hoạch điều trị kiểm soát đái tháo đường.
 
 ## 6. KẾT LUẬN
 
@@ -2281,6 +2481,34 @@ Các triệu chứng diễn tiến từ từ, kéo dài nhiều tháng đến nh
 Các triệu chứng khác của suy tuyến yên có thể cùng hiện diện.
 
 Hạ glucose huyết thường gặp hơn vì thiếu đồng thời ACTH và hormone tăng trưởng.
+
+# CHẨN ĐOÁN
+
+## 5.1. Chẩn đoán suy thượng thận nguyên phát
+
+Để xác định chẩn đoán, cần đánh giá khả năng đáp ứng của tuyến thượng thận với nghiệm pháp kích thích bằng ACTH tổng hợp (cosyntropin). Nghiệm pháp này thực hiện qua các bước:
+
+- 08 giờ 00 sáng, lấy máu để đo nồng độ cortisol huyết tương
+- Tiếp theo, tiêm bắp hoặc tĩnh mạch 250 µg cosyntropin
+- Sau 30 và 60 phút, lấy máu lại để đo nồng độ cortisol huyết tương
+
+Ở người bình thường, nồng độ cortisol huyết tương sau khi tiêm cosyntropin tăng cao hơn 18 µg/dL. Bệnh nhân Addison có nồng độ cortisol huyết tương lúc 08 giờ 00 thấp (kèm ACTH tăng cao) và nồng độ cortisol máu không tăng sau khi tiêm cosyntropin.
+
+## 5.2. Chẩn đoán suy thượng thận thứ phát
+
+Bước đầu tiên là loại trừ suy trục tuyến yên – thượng thận do dùng glucocorticoid bằng cách hỏi kỹ bệnh sử và khám lâm sàng tìm biểu hiện của hội chứng Cushing. Các tổn thương vùng hạ đồi – tuyến yên thường dẫn đến thiếu nhiều hormone tuyến yên và suy nhiều tuyến nội tiết ngoại biên. Thiếu LH, FSH và TSH dẫn đến suy sinh dục và suy giáp, có thể phát hiện qua các triệu chứng cơ năng và khám lâm sàng. U tuyến yên tiết GH hoặc prolactin có thể gây triệu chứng bệnh to đầu chi hoặc vô kinh – tiết sữa.
+
+Nghiệm pháp kích thích bằng ACTH tổng hợp (tiêm bắp hoặc tĩnh mạch 250 µg Cosyntropin) thường cho kết quả đáp ứng cortisol máu tăng như người bình thường, không giúp nhận ra suy tuyến yên – thượng thận. Tiêu chuẩn vàng chẩn đoán trong trường hợp này là nghiệm pháp hạ glucose huyết bằng insulin.
+
+**Nghiệm pháp hạ glucose huyết bằng insulin**
+
+Nguyên lý: tạo ra cơn hạ glucose huyết, gây kích thích lên tuyến yên. Tuyến yên phản ứng bằng tăng tiết ACTH. Đo nồng độ của hormone tuyến yên (ACTH) và cortisol máu để đánh giá. Một sự đáp ứng kém hơn mức giới hạn giúp chẩn đoán suy tuyến yên. Trong trường hợp này là suy thượng thận thứ phát do suy tuyến yên. Nghiệm pháp này còn dùng để đánh giá thiếu hormone tăng trưởng GH.
+
+Thận trọng: nghiệm pháp có thể gây nguy hiểm cho bệnh nhân. Chống chỉ định ở bệnh nhân động kinh, bệnh nhân có tiền căn bệnh lý tim mạch hoặc bệnh mạch máu não. Khi thực hiện cần có bác sĩ hoặc chuyên viên phụ trách theo dõi, giám sát.
+
+Thực hiện: tiêm tĩnh mạch insulin thường, với liều 0,1 – 0,15 đơn vị/kg cân nặng. Theo dõi glucose huyết mỗi 15 phút, đến khi đạt mức $\le$ 40 mg/dL. Lấy máu để đo cortisol (và ACTH) vào thời điểm xảy ra hạ glucose huyết và 30 phút, 45 phút sau đó. Nếu glucose huyết không đạt mức $\le$ 40 mg/dL, có thể lặp lại liều insulin tĩnh mạch trên sau 30 – 45 phút.
+
+Đáp ứng bình thường là cortisol máu tăng > 18 µg/dL và đỉnh ACTH máu tăng vượt mức 150 pg/mL.
 
 Bảng 10.2. Các triệu chứng của suy thượng thận mạn
 
@@ -4077,6 +4305,47 @@ Giao thoa thị giác nằm phía trước cuống tuyến yên trong bể trên
 [Hình: Hình 16.12. Hình ảnh giao thoa thị giác trên hình T2W mặt cắt Axial]
 
 [Hình: Hình 16.13. Hình ảnh giao thoa thị giác trên hình T2W mặt cắt Coronal]
+
+3.5. Khoang Meckel Là khoang chứa dịch não tủy nằm ở sau - dưới - ngoài xoang hang. Khoang này lót bởi màng nhện, kéo dài đến bể trước cầu não. Khoang Meckel chứa hạch thần kinh sinh ba.
+
+[Hình: Hình ảnh khoang Meckel trên T2W mặt cắt Axial]
+
+**Hình 16.14.** Hình ảnh khoang Meckel trên T2W mặt cắt Axial
+
+CÂU HỎI TỰ LƯỢNG GIÁ 1. Kĩ thuật cộng hưởng từ trong khảo sát tuyến yên, phát biểu nào sau đây KHÔNG ĐÚNG? A. Mặt cắt để khảo sát tốt nhất tuyến yên là Sagittal và Coronal B. MRI hạn chế trong khảo sát xương hố yên hơn so với CT C. Tuyến yên được khảo sát với những lát cắt mỏng cùng trường khảo sát nhỏ D. Kỹ thuật Dynamic sau tiêm thuốc tương phản được chỉ định trong các trường hợp nghi ngờ u tuyến yên kích thước lớn. 2. Mũi tên xanh chỉ cấu trúc gì?
+
+Bài 16. Hình ảnh học tuyến yên bình thường trên cộng hưởng từ ♦ 189
+
+A. Cuống tuyến yên
+B. Thùy trước tuyến yên
+C. Thùy sau tuyến yên
+D. Giao thoa thị giác
+
+3. Chọn kiểu bắt thuốc đúng của tuyến yên và cuống tuyến yên:
+
+A. Cuống tuyến yên bắt thuốc trước đến tuyến yên bắt thuốc theo kiểu hướng tâm từ ngoại vi vào trong trung tâm
+B. Cuống tuyến yên bắt thuốc trước đến tuyến yên bắt thuốc theo kiểu ly tâm từ trên xuống dưới
+C. Tuyến yên bắt thuốc trước theo kiểu hướng tâm rồi đến cuống tuyến yên bắt thuốc
+D. Tuyến yên bắt thuốc trước theo kiểu ly tâm từ trên xuống dưới rồi đến cuống tuyến yên bắt thuốc
+
+4. Hình ảnh tuyến yên trên cộng hưởng từ, chọn câu đúng:
+
+A. Thùy trước và thùy sau tuyến yên có thể phân biệt trên chuỗi xung T2W
+B. Thùy sau tuyến yên có tín hiệu cao trên chuỗi xung T2W
+C. Khó khảo sát tính chất bắt thuốc của thùy sau tuyến yên
+D. Cuống tuyến yên nằm trước giao thoa thị giác
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Osborn, Hedlund, Salzman (2018). *Osborn's brain-Imaging, Pathology, and Anatomy*. Elsevier.
+
+2. Naidich, Castillo, Cha (2013). *Smirniotopouloss. Imaging of the brain*. Elsevier.
+
+3. Vishram Singh (2014). *Textbook of anatomy head, neck and brain*. Elsevier.
+
+4. www.radiopaedia.org.
+
+5. www.radiologyassistant.
 
 # HÌNH ẢNH HỌC TUYẾN GIÁP VÀ TUYẾN THƯỢNG THẬN
 
