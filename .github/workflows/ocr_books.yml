@@ -4,29 +4,29 @@ on:
   workflow_dispatch:
     inputs:
       book:
-        description: 'Chỉ xử lý sách có tên file chứa chuỗi này (để trống = tất cả)'
+        description: "Chỉ xử lý sách có tên file chứa chuỗi này (để trống = tất cả)"
         required: false
-        default: ''
+        default: ""
         type: string
       pages:
-        description: 'Chỉ xử lý các trang này, ví dụ 1-50,60 (để trống = tất cả)'
+        description: "Chỉ xử lý các trang này, ví dụ 1-50,60 (để trống = tất cả)"
         required: false
-        default: ''
+        default: ""
         type: string
       model:
-        description: 'Model, cách nhau dấu phẩy (để trống = biến GEMINI_MODEL hoặc mặc định của script)'
+        description: "Model, cách nhau dấu phẩy (để trống = biến GEMINI_MODEL hoặc mặc định của script)"
         required: false
-        default: ''
+        default: ""
         type: string
       pages_per_req:
-        description: 'Số trang gộp mỗi request (1, 2 hoặc 3)'
+        description: "Số trang gộp mỗi request (1, 2 hoặc 3)"
         required: false
-        default: '2'
+        default: "2"
         type: choice
-        options: ['1', '2', '3']
+        options: ["1", "2", "3"]
   schedule:
     # 08:15 UTC = 15:15 giờ Việt Nam, ngay sau khi quota ngày của Google AI Studio reset
-    - cron: '15 8 * * *'
+    - cron: "15 8 * * *"
 
 permissions:
   contents: write
@@ -43,6 +43,8 @@ jobs:
     env:
       GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
       GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }}
+      GROQ_MODEL: ${{ vars.GROQ_MODEL }}
       GH_TOKEN: ${{ github.token }}
       IN_BOOK: ${{ github.event.inputs.book }}
       IN_PAGES: ${{ github.event.inputs.pages }}
