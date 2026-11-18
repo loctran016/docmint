@@ -3,7 +3,7 @@ Groq Vision (OpenAI-compatible) bằng urllib, không cần cài SDK.
 Dùng làm dự phòng khi Gemini từ chối chép một trang vì RECITATION: Groq không có bộ lọc này.
 
     GROQ_API_KEYS=key1,key2        (nhiều key cách nhau dấu phẩy; hết 429 ở key này thì sang key kế)
-    GROQ_MODELS=modelA,modelB      (tuỳ chọn; mặc định llama-4-maverick rồi llama-4-scout)
+    GROQ_MODELS=modelA,modelB      (tuỳ chọn; mặc định qwen/qwen3.8-27b)
 """
 from __future__ import annotations
 
@@ -16,8 +16,7 @@ import urllib.error
 import urllib.request
 
 ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
-DEFAULT_MODELS = ["meta-llama/llama-4-maverick-17b-128e-instruct",
-                  "meta-llama/llama-4-scout-17b-16e-instruct"]
+DEFAULT_MODELS = ["qwen/qwen3.8-27b"]
 MAX_B64 = 3_500_000  # Groq giới hạn ảnh base64 khoảng 4MB mỗi request
 USER_AGENT = "docmint/1.0"  # User-Agent mặc định của urllib bị Cloudflare phía Groq chặn (lỗi 1010)
 
