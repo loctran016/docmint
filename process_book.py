@@ -6,6 +6,7 @@
 #     "pillow",
 #     "google-genai",
 #     "python-dotenv",
+#     "pyspellchecker",
 # ]
 # ///
 """
@@ -31,7 +32,11 @@ Key trả phí (chốt chặn cuối): đặt GEMINI_PAID_API_KEY và chạy v�
 khóa cứng vì hết quota ngày; tối đa --paid-max-pages trang mỗi lần chạy; cuối phiên in số trang/token đã dùng.
 Flash-Lite luôn chạy --lite-pages trang/request (mặc định 1). Mỗi trang ghi lại model đã chép (sources.json);
 --redo-models modelA,modelB làm lại riêng các trang do model đó chép (khi quota model tốt hơn đã hồi).
-Trang chụp thiếu sáng được tăng tương phản mạnh hơn tự động (--dark-threshold, 0 = tắt).
+Trang chụp thiếu sáng được tăng tương phản mạnh hơn tự động (--dark-threshold, 0 = tắt) và ưu tiên chạy bằng
+model mạnh (3.8-flash, 3.6-flash); trang sáng ưu tiên 2 model Flash-Lite 500 RPD/key (3.1, 3.5), rồi mới tới model mạnh.
+Sau khi gộp file (và khi script nghỉ chờ quota lâu) có bước kiểm tra chất lượng OFFLINE, không dùng AI: trang ngắn
+bất thường, lặp dòng, nhiều [không rõ], chính tả Anh - Việt (kèm medical_terms.txt). Chỉ in cảnh báo ra log và lưu
+vào mục _warnings của sources.json. Tắt bằng --no-quality; --merge-only chạy lại riêng bước này mà không gọi API.
 
 Gộp trang: --pages-per-req 2 gửi 2 ảnh rời trong 1 request (tiết kiệm RPD). Nếu Gemini trả thiếu/sai thẻ
 <<<PAGE_xxxxx>>> hoặc bị cắt (MAX_TOKENS) thì tự chạy lại từng trang một.
@@ -86,6 +91,8 @@ from google import genai
 from google.genai import errors, types
 from PIL import Image, ImageEnhance, ImageOps, ImageStat
 
+import quality_check  # kiểm tra chất lượng offline (cùng thư mục)
+
 # ----------------------------------------------------------------------------
 # Cấu hình mặc định (đổi bằng tham số dòng lệnh hoặc biến môi trường / .env)
 # ----------------------------------------------------------------------------
@@ -97,8 +104,11 @@ DEFAULT_OUT = BASE / "output_md"
 # Có thể ghi nhiều model, cách nhau dấu phẩy. Mỗi (key, model) có quota riêng; model không tồn tại thì bị bỏ qua.
 # Thứ tự ưu tiên (theo bảng quota gói miễn phí): Flash chất lượng cao 20 RPD/key, rồi Flash-Lite 500 RPD/key.
 # Model quota 0 trên gói miễn phí (2 Flash, 2 Flash Lite, 2.5 Pro, 3.1 Pro) cố ý không đưa vào.
-DEFAULT_MODEL = ("gemini-3.8-flash,gemini-3.6-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite,"
-                 "gemini-2.5-flash,gemini-2.5-flash-lite")
+DEFAULT_MODEL = ("gemini-3.8-flash,gemini-3.6-flash,gemini-3-flash-preview,gemini-3.1-flash-lite,"
+                 "gemini-3.5-flash-lite,gemini-2.5-flash,gemini-2.5-flash-lite")
+# Định tuyến theo độ sáng trang: trang tối ưu tiên STRONG, trang sáng ưu tiên BULK (500 RPD/key), phần còn lại theo thứ tự đã ghi
+STRONG_MODELS = ("gemini-3.8-flash", "gemini-3.6-flash")
+BULK_MODELS = ("gemini-3.1-flash-lite", "gemini-3.5-flash-lite")
 DEFAULT_DELAY = 6.0      # giây giữa hai request (REQUEST_DELAY)
 DEFAULT_TIMEOUT = 120.0  # giây tối đa chờ MỖI lần gọi Gemini (REQUEST_TIMEOUT); quá hạn coi là lỗi tạm thời
 DEFAULT_SWITCH_AFTER = 2  # số lần lỗi liên tiếp trên một cặp thì chuyển sang cặp kế
@@ -260,10 +270,8 @@ def find_pdfs(target: Path, book_filter: str | None) -> list[Path]:
 # ----------------------------------------------------------------------------
 # Ảnh trang: render -> xám -> tăng tương phản -> JPEG (một trang một lần)
 # ----------------------------------------------------------------------------
-def enhance_image(img, contrast: float, autocontrast: bool, dark_threshold: float):
-    """Tăng tương phản. Trang quá tối (độ sáng trung bình < dark_threshold, thường là ảnh chụp thiếu sáng)
-    được kéo giãn mạnh hơn tự động, không cần cờ riêng."""
-    dark = bool(dark_threshold) and ImageStat.Stat(img).mean[0] < dark_threshold
+def enhance_image(img, contrast: float, autocontrast: bool, dark: bool):
+    """Tăng tương phản. Trang quá tối (ảnh chụp thiếu sáng) được kéo giãn mạnh hơn."""
     if autocontrast or dark:
         img = ImageOps.autocontrast(img, cutoff=2 if dark else 1)
     factor = max(contrast or 1.0, 1.3) if dark else contrast
@@ -273,7 +281,8 @@ def enhance_image(img, contrast: float, autocontrast: bool, dark_threshold: floa
 
 
 def render_page(doc, index0: int, dpi: int, contrast: float, autocontrast: bool,
-                dark_threshold: float = DARK_MEAN) -> bytes:
+                dark_threshold: float = DARK_MEAN) -> tuple[bytes, bool]:
+    """Trả về (ảnh JPEG, trang_tối). Trang tối = độ sáng trung bình < dark_threshold (0 = không bao giờ)."""
     page = doc.load_page(index0)
     zoom = dpi / 72.0
     pix = page.get_pixmap(
@@ -281,11 +290,12 @@ def render_page(doc, index0: int, dpi: int, contrast: float, autocontrast: bool,
     )
     img = Image.frombytes("L", (pix.width, pix.height), pix.samples)
     del pix, page
-    img = enhance_image(img, contrast, autocontrast, dark_threshold)
+    dark = bool(dark_threshold) and ImageStat.Stat(img).mean[0] < dark_threshold
+    img = enhance_image(img, contrast, autocontrast, dark)
     buf = io.BytesIO()
     img.save(buf, format="JPEG", quality=90, optimize=True)
     img.close()
-    return buf.getvalue()
+    return buf.getvalue(), dark
 
 
 # ----------------------------------------------------------------------------
@@ -463,10 +473,18 @@ class Transcriber:
         self.clients = {k: get_client(k, timeout) for k in keys}
         multi = len(keys) > 1
         # model đứng trước (ưu tiên) được trải đều qua mọi key trước khi tới model sau
-        self.slots = [
+        base = [
             Slot(key=k, key_no=i, model=m, label=(f"k{i}/{m}" if multi else m))
             for m in models for i, k in enumerate(keys, 1)
         ]
+        # Hai thứ tự ưu tiên trên CÙNG các cặp (trạng thái quota dùng chung): trang sáng đi Flash-Lite trước,
+        # trang tối đi model mạnh trước
+        def plan(first: tuple[str, ...]) -> list[Slot]:
+            order_m = [m for m in models if m in first] + [m for m in models if m not in first]
+            return [s for m in order_m for s in base if s.model == m]
+        self._plans = {"bright": plan(BULK_MODELS), "dark": plan(STRONG_MODELS)}
+        self.profile = "bright"
+        self.slots = self._plans["bright"]
         n = len(self.slots)
         self.order = list(range(n)) + list(range(n - 1, -1, -1))  # ping-pong: 0..N-1, N-1..0, rồi lặp lại
         self.pos = 0
@@ -498,6 +516,15 @@ class Transcriber:
         self.last_label = self.cur.label
         self.last_source = self.cur.model
         self.last_fatal = ""
+        self.idle_hook = None  # gọi khi script chuẩn bị nghỉ chờ quota lâu (dùng cho kiểm tra chất lượng offline)
+
+    def set_profile(self, profile: str) -> None:
+        """Đổi thứ tự ưu tiên theo loại trang (dark/bright). Trạng thái quota của từng cặp được giữ nguyên."""
+        if profile != self.profile and profile in self._plans:
+            self.profile = profile
+            self.slots = self._plans[profile]
+            self.pos = 0
+            self.cur = self.slots[0]
 
     # ---- thời gian -------------------------------------------------------
     def out_of_time(self) -> bool:
@@ -594,6 +621,11 @@ class Transcriber:
             hard_n = sum(1 for s in self.slots if s.hard)
             log(f"    ⏳ mọi cặp đang nghỉ/quá tải/giới hạn ({hard_n}/{len(self.slots)} đã khóa cứng): "
                 f"chờ {wait / 60:.1f} phút đến khi {soonest.label} dùng lại được")
+            if wait >= 120 and self.idle_hook is not None:
+                try:
+                    self.idle_hook()
+                except Exception:  # noqa: BLE001  (kiểm tra phụ không được làm hỏng lượt chạy)
+                    pass
             self.sleep(wait)
             self.cur = soonest
 
@@ -653,10 +685,12 @@ class Transcriber:
             model=slot.model, contents=contents, config=types.GenerateContentConfig(**cfg),
         )
 
-    def run_request(self, images: list[bytes], user_text: str) -> tuple[str | None, str, bool]:
+    def run_request(self, images: list[bytes], user_text: str,
+                    profile: str = "bright") -> tuple[str | None, str, bool]:
         """Gửi một request (1 hoặc nhiều ảnh rời).
         Trả về (văn bản thô hoặc None nếu thất bại, ghi chú, bị cắt do MAX_TOKENS).
         Ném NeedSplit nếu cặp hiện tại không nhận ngần ấy ảnh (Flash-Lite): người gọi tách thành từng trang."""
+        self.set_profile(profile)
         empty_tries = 0
         peaks = 0
         recited: set[str] = set()      # các model đã từ chối chép (RECITATION) cho request này
@@ -798,49 +832,57 @@ def parse_batch(raw: str, expected: list[int]) -> dict[int, str] | None:
     return result
 
 
+def _run_group(profile: str, grp: list[int], imgs: dict[int, bytes], tr: Transcriber,
+               out: dict[int, tuple[str | None, str, str]]) -> None:
+    """Chép một nhóm trang cùng loại (tối/sáng): gộp 1 request nếu từ 2 trang; lỗi định dạng thì chạy lại từng trang."""
+    if len(grp) >= 2:
+        try:
+            raw, note, truncated = tr.run_request([imgs[n] for n in grp], tr.batch_text(grp), profile)
+        except NeedSplit:  # cặp hiện tại là Flash-Lite: chạy từng trang, không cần báo lỗi
+            pass
+        else:
+            parsed = parse_batch(raw, grp) if (raw is not None and not truncated) else None
+            if parsed is not None:
+                for n in grp:
+                    out[n] = (parsed[n], "", tr.last_source)
+                return
+            if raw is None:
+                why = note
+            elif truncated:
+                why = "chạm MAX_TOKENS"
+            else:
+                why = "thiếu hoặc sai thẻ phân tách trang"
+            log(f"    ↺ gộp {len(grp)} trang không dùng được ({why}) → chạy lại từng trang")
+
+    for n in grp:
+        raw, note, truncated = tr.run_request([imgs[n]], tr.single_text, profile)
+        if raw is None:
+            out[n] = (None, note, "")
+            continue
+        text = clean_output(raw)
+        if truncated:
+            text += "\n\n[không rõ — trang này có thể bị cắt cụt]"
+        out[n] = (text, note, tr.last_source)
+
+
 def transcribe_pages(doc, nums: list[int], args, tr: Transcriber,
                      out: dict[int, tuple[str | None, str, str]]) -> None:
-    """Chép các trang `nums`: gộp vào 1 request nếu có từ 2 trang; lỗi định dạng thì chạy lại từng trang.
+    """Render các trang rồi chép theo nhóm: trang tối (ưu tiên model mạnh) trước, trang sáng (Flash-Lite 500 RPD) sau.
     Kết quả (văn bản, ghi chú, model đã chép) điền dần vào `out` (nếu bị ngắt giữa chừng thì phần đã xong vẫn được lưu)."""
     imgs: dict[int, bytes] = {}
+    darks: dict[int, bool] = {}
     try:
         for n in nums:
             try:
-                imgs[n] = render_page(doc, n - 1, args.dpi, args.contrast, not args.no_autocontrast,
-                                      args.dark_threshold)
+                imgs[n], darks[n] = render_page(doc, n - 1, args.dpi, args.contrast, not args.no_autocontrast,
+                                                args.dark_threshold)
             except Exception as e:  # noqa: BLE001  (vd. lỗi render một trang)
                 out[n] = (None, f"lỗi render: {one_line(str(e))}", "")
         good = [n for n in nums if n in imgs]
-
-        if len(good) >= 2:
-            try:
-                raw, note, truncated = tr.run_request([imgs[n] for n in good], tr.batch_text(good))
-            except NeedSplit:  # cặp hiện tại là Flash-Lite: chạy từng trang, không cần báo lỗi
-                raw, note, truncated = None, "", False
-                parsed = None
-            else:
-                parsed = parse_batch(raw, good) if (raw is not None and not truncated) else None
-                if parsed is not None:
-                    for n in good:
-                        out[n] = (parsed[n], "", tr.last_source)
-                    return
-                if raw is None:
-                    why = note
-                elif truncated:
-                    why = "chạm MAX_TOKENS"
-                else:
-                    why = "thiếu hoặc sai thẻ phân tách trang"
-                log(f"    ↺ gộp {len(good)} trang không dùng được ({why}) → chạy lại từng trang")
-
-        for n in good:
-            raw, note, truncated = tr.run_request([imgs[n]], tr.single_text)
-            if raw is None:
-                out[n] = (None, note, "")
-                continue
-            text = clean_output(raw)
-            if truncated:
-                text += "\n\n[không rõ — trang này có thể bị cắt cụt]"
-            out[n] = (text, note, tr.last_source)
+        for profile, grp in (("dark", [n for n in good if darks[n]]),
+                             ("bright", [n for n in good if not darks[n]])):
+            if grp:
+                _run_group(profile, grp, imgs, tr, out)
     finally:
         imgs.clear()
         gc.collect()
@@ -938,6 +980,33 @@ def merge_book(name: str, work: Path, total: int, out_dir: Path,
 # ----------------------------------------------------------------------------
 # Xử lý một cuốn sách
 # ----------------------------------------------------------------------------
+def run_quality(work: Path, total: int, sources: dict, src_path: Path, args, brief: bool = False) -> None:
+    """Kiểm tra chất lượng offline các trang đã có; in cảnh báo và lưu vào sources.json (mục _warnings)."""
+    pages: dict[int, str] = {}
+    for n in range(1, total + 1):
+        f = work / f"p{n:05d}.md"
+        if f.exists():
+            try:
+                pages[n] = f.read_text(encoding="utf-8")
+            except OSError:
+                pass
+    if not pages:
+        return
+    try:
+        res = quality_check.analyze(pages, vocab=args.vocab_set, max_unclear=args.max_unclear,
+                                    spell=not args.no_spell)
+    except Exception as e:  # noqa: BLE001
+        log(f"  (bỏ qua kiểm tra chất lượng: {one_line(str(e))})")
+        return
+    for line in quality_check.format_report(res, brief=brief):
+        log(line)
+    sources["_warnings"] = {k: res[k] for k in ("checked", "short", "repeat", "unclear", "spell")}
+    try:
+        atomic_write(src_path, json.dumps(sources, ensure_ascii=False))
+    except OSError:
+        pass
+
+
 def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None) -> dict:
     name = book_name(pdf)
     log(f"\n=== {name} ===")
@@ -1002,11 +1071,24 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
             log(f"  {total} trang | chọn {len(pages)} | đã xong {already} | cần làm {len(todo)}"
                 f" | {ppr} trang/request (Flash-Lite: {transcriber.lite_pages})")
 
+            if not args.test and not args.no_quality:
+                last_cnt = {"n": -1}
+
+                def _idle() -> None:  # script sắp nghỉ chờ quota lâu: tranh thủ kiểm tra các trang đã xong
+                    cnt = sum(1 for _ in work.glob("p*.md"))
+                    if cnt == last_cnt["n"]:
+                        return
+                    last_cnt["n"] = cnt
+                    log("  ⏸ Đang chờ quota: kiểm tra nhanh các trang đã xong (offline, không dùng AI)")
+                    run_quality(work, total, sources, src_path, args, brief=True)
+
+                transcriber.idle_hook = _idle
+
             done = 0
             prev_start = 0.0
             i = 0
             while i < len(todo):
-                size = max(1, min(ppr, transcriber.cap(transcriber.cur)))
+                size = max(1, ppr)  # model chỉ nhận 1 trang (Flash-Lite) sẽ tự tách nhóm, không tốn request
                 batch = todo[i:i + size]
                 i += size
                 out: dict[int, tuple[str | None, str, str]] = {}
@@ -1060,6 +1142,8 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
                     res["runtime_stop"] = True
                     break
 
+        if transcriber is not None:
+            transcriber.idle_hook = None
         if args.test:
             return res
 
@@ -1089,6 +1173,8 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
         log(f"  ✘ Trang lỗi trong lần chạy này: {fmt_ranges(res['failed'])} (sẽ tự thử lại lần sau)")
     if res["review"]:
         log(f"  ? Nên soát với sách giấy (có [không rõ]): {fmt_ranges(res['review'])}")
+    if not args.test and not args.no_quality and not res["skipped"]:
+        run_quality(work, total, sources, src_path, args)
     return res
 
 
@@ -1127,6 +1213,13 @@ def parse_args() -> argparse.Namespace:
                     help=f"giây nghỉ giữa hai request khi dùng key trả phí (mặc định {DEFAULT_PAID_DELAY:g})")
     ap.add_argument("--dark-threshold", type=float, default=DARK_MEAN,
                     help=f"độ sáng trung bình (0-255) dưới mức này thì tăng tương phản mạnh hơn (mặc định {DARK_MEAN}, 0 = tắt)")
+    ap.add_argument("--no-quality", action="store_true",
+                    help="tắt bước kiểm tra chất lượng offline sau khi gộp file")
+    ap.add_argument("--no-spell", action="store_true", help="chỉ kiểm tra cấu trúc, bỏ kiểm tra chính tả")
+    ap.add_argument("--max-unclear", type=int, default=3,
+                    help="trang có từ ngần này thẻ [không rõ] trở lên thì cảnh báo (mặc định 3)")
+    ap.add_argument("--vocab", default=str(BASE / "medical_terms.txt"),
+                    help="file từ vựng y khoa (mỗi dòng một từ) để không báo nhầm chính tả (mặc định medical_terms.txt)")
     ap.add_argument("--redo-models", default="",
                     help="làm lại các trang do những model này chép (cách nhau dấu phẩy), ví dụ gemini-3.1-flash-lite")
     ap.add_argument("--delay", type=float, default=env_delay,
@@ -1189,6 +1282,7 @@ def main() -> int:
 
     models = [m.strip() for m in args.model.split(",") if m.strip()]
     args.redo_set = {m.strip() for m in args.redo_models.split(",") if m.strip()}
+    args.vocab_set = quality_check.load_vocab(args.vocab)
     paid_key = (os.environ.get("GEMINI_PAID_API_KEY") or "").strip().strip("\"'")
     allow_paid = args.allow_paid or (os.environ.get("ALLOW_PAID", "").strip().lower() in ("1", "true", "yes"))
     if allow_paid and not paid_key and not args.merge_only:

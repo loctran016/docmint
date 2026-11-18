@@ -1,0 +1,9 @@
+# Từ vựng y khoa để bước kiểm tra chính tả không báo nhầm (mỗi dòng một hoặc nhiều từ, # là ghi chú).
+# Không phân biệt hoa thường. Thêm tên thuốc, tên riêng, thuật ngữ Latinh... mà bạn thấy bị báo nhầm trong log.
+# (Sau này có thể chuyển vào presets/medical.yaml.)
+
+# Viết tắt
+GHRH SGLT-2 UKPDS HbA1c ACTH TSH ADH FSH LH GnRH CRH PTH ECG EEG CT MRI PET NSAID ACE ARB
+# Thuật ngữ Anh/Latinh hay gặp
+steroid insulin glucagon hormone cortisol thyroxine glucose pancreas musculus nervus arteria vena
+metformin sulfonylurea endoscopy laparoscopy ultrasound
