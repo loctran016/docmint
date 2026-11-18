@@ -2155,7 +2155,18 @@ Suy tuyến thượng thận, còn được gọi suy tuyến thượng thận v
 
 Suy thượng thận nguyên phát (có tên gọi là bệnh Addison) xảy ra do tổn thương tại tuyến thượng thận. Suy thượng thận nguyên phát thường dẫn đến hậu quả thiếu hụt cả ba hormone cortisol, aldosterone và androgen thượng thận.
 
-Suy thượng thận thứ phát xảy ra do thiếu ACTH từ tuyến yên. Suy thượng thận thứ phát dẫn đến thiếu hụt cortisol và androgen. Aldosterone thường không bị ảnh hưởng do tế bào
+Suy thượng thận thứ phát xảy ra do thiếu ACTH từ tuyến yên. Suy thượng thận thứ phát dẫn đến thiếu hụt cortisol và androgen. Aldosterone thường không bị ảnh hưởng do tế bào vỏ thượng thận còn có sự điều hòa bài tiết từ hệ Renin – Angiotensin – Aldosterone và từ nồng độ các chất điện giải (natri và kali) trong máu.
+
+## 3. NGUYÊN NHÂN
+
+Bảng 10.1. Nguyên nhân suy thượng thận mạn
+
+| |
+| --- |
+| **Suy thượng thận nguyên phát (bệnh Addison)** <br>- Tự miễn <br>- Lao <br>- Xuất huyết hoặc nhồi máu thượng thận <br>- Nhiễm nấm (Histoplasmosis, coccidioidomycosis) <br>- Nhiễm HIV, bệnh nhiễm trùng cơ hội do AIDS (ví dụ: cytomegalovirus) <br>- Ung thư biểu mô và ung thư hạch non-Hodgkin lymphoma di căn <br>- Bệnh thoái hóa dạng bột (Amyloidosis) <br>- Bệnh thâm nhiễm sắt, bệnh sarcoidosis <br>- Hội chứng kháng phospholipid <br>- Do xạ trị <br>- Sau phẫu thuật cắt thượng thận <br>- Dùng thuốc ức chế men (như: metyrapone, aminoglutethimide, trilostane, ketoconazole, suramin, etomidate) <br>- Thuốc độc tế bào và hóa trị ung thư (mitotane, megestrol, mifepristone) <br>- Khiếm khuyết bẩm sinh (bệnh loạn dưỡng thượng thận chất trắng liên kết nhiễm sắc thể giới tính X, bệnh thiếu hụt men bẩm sinh, thiểu sản thượng thận, bệnh thiếu hụt glucocorticoid có tính gia đình) |
+| **Suy thượng thận thứ phát** <br>- Dùng thuốc glucocorticoid <br>- U tuyến yên, u vùng hạ đồi, u sọ hầu <br>- Hoại tử tuyến yên sau sinh (hội chứng Sheehan) <br>- Bệnh sarcoidosis, nhiễm sắc tố sắt <br>- Chấn thương sọ não <br>- Phẫu thuật vùng sọ <br>- Chiếu xạ tuyến yên <br>- Lao, giang mai, nhiễm nấm <br>- Viêm tuyến yên thấm nhuận lympho bào <br>- Suy tuyến yên vô căn và gia đình <br>- Bệnh vùng hạ đồi thiếu CRH đơn độc mắc phải |
+
+HIV: immunodeficiency virus infection, AIDS: acquired immunodeficiency syndrome
 
 3.1. Nguyên nhân suy thượng thận nguyên phát (bệnh Addison)
 
