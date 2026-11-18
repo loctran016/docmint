@@ -38,6 +38,18 @@ Sau khi gộp file (và khi script nghỉ chờ quota lâu) có bước kiểm t
 bất thường, lặp dòng, nhiều [không rõ], chính tả Anh - Việt (kèm medical_terms.txt). Chỉ in cảnh báo ra log và lưu
 vào mục _warnings của sources.json. Tắt bằng --no-quality; --merge-only chạy lại riêng bước này mà không gọi API.
 
+Trang sáng CHỈ dùng Flash-Lite (xoay giữa các model và key Flash-Lite, kể cả khi quá tải), trừ khi: (1) RECITATION vẫn còn
+sau 2 lần thử lại trên Flash-Lite, hoặc (2) mọi Flash-Lite của mọi key đã khóa cứng. Trang tối ưu tiên model mạnh.
+API: dùng v1 cho model ổn định, v1beta chỉ cho model preview, Gemma, gemini-3-flash, gemini-2.5-flash-lite.
+RECITATION (luồng thống nhất, giống nhau ở mọi model và key): (1) nhóm nhiều trang thì tách thành 1 trang/request;
+(2) MỘT lần nhánh fallback trên Gemini: ảnh biến đổi nhẹ (xoay -0,4 độ, crop 2px, xoay 0,8 độ) + chèn [§] sau mỗi 4-5 từ,
+rồi xóa [§] sau khi nhận; (3) vẫn bị từ chối và có GROQ_API_KEYS thì gửi ảnh gốc sang Groq Vision (llama-4-maverick, rồi
+llama-4-scout), ghi nguồn groq/... và liệt kê các trang đó (_recitation_groq_fallback trong sources.json); nếu vẫn không
+được thì báo "chưa chép được".
+Trang chưa xong vì lỗi tạm thời / quá tải được làm lại nhiều vòng (--retry-rounds, --retry-wait) cho tới khi xong,
+hết quota ngày, hoặc chạm --max-runtime.
+Model Gemma được gộp system prompt vào lời nhắn nếu API không nhận system_instruction.
+
 Gộp trang: --pages-per-req 2 gửi 2 ảnh rời trong 1 request (tiết kiệm RPD). Nếu Gemini trả thiếu/sai thẻ
 <<<PAGE_xxxxx>>> hoặc bị cắt (MAX_TOKENS) thì tự chạy lại từng trang một.
 
@@ -91,6 +103,7 @@ from google import genai
 from google.genai import errors, types
 from PIL import Image, ImageEnhance, ImageOps, ImageStat
 
+import groq_client  # dự phòng RECITATION qua Groq Vision (cùng thư mục)
 import quality_check  # kiểm tra chất lượng offline (cùng thư mục)
 
 # ----------------------------------------------------------------------------
@@ -103,14 +116,24 @@ DEFAULT_OUT = BASE / "output_md"
 # Tên model có thể đổi theo thời gian: kiểm tra bằng --list-models.
 # Có thể ghi nhiều model, cách nhau dấu phẩy. Mỗi (key, model) có quota riêng; model không tồn tại thì bị bỏ qua.
 # Thứ tự ưu tiên (theo bảng quota gói miễn phí): Flash chất lượng cao 20 RPD/key, rồi Flash-Lite 500 RPD/key.
-# Model quota 0 trên gói miễn phí (2 Flash, 2 Flash Lite, 2.5 Pro, 3.1 Pro) cố ý không đưa vào.
-DEFAULT_MODEL = ("gemini-3.8-flash,gemini-3.6-flash,gemini-3-flash-preview,gemini-3.1-flash-lite,"
-                 "gemini-3.5-flash-lite,gemini-2.5-flash,gemini-2.5-flash-lite")
+# Model quota 0 hoặc đã ngừng cho tài khoản mới (2 Flash, 2.5 Flash/Flash-Lite, 2.5 Pro, 3.1 Pro) cố ý không đưa vào.
+DEFAULT_MODEL = ("gemini-3.8-flash,gemini-3.6-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite,"
+                 "gemini-3-flash-preview,gemma-4-31b-it")
+API_STABLE = "v1"        # các model ổn định
+API_BETA = "v1beta"      # model preview và Gemma chỉ chạy được trên v1beta
+BETA_MODELS = {"gemini-3-flash", "gemini-2.5-flash-lite"}
+
+
+def needs_beta(model: str) -> bool:
+    m = model.lower()
+    return "preview" in m or m.startswith("gemma") or m in BETA_MODELS
+MODEL_ALIASES = {"gemini-3-flash-preview": "gemini-3-flash"}  # báo 404 thì thử tên này trước khi bỏ model
+RETRYABLE = {"transient", "overload", "empty", ""}  # lý do thất bại đáng thử lại trong cùng lần chạy
 # Định tuyến theo độ sáng trang: trang tối ưu tiên STRONG, trang sáng ưu tiên BULK (500 RPD/key), phần còn lại theo thứ tự đã ghi
 STRONG_MODELS = ("gemini-3.8-flash", "gemini-3.6-flash")
 BULK_MODELS = ("gemini-3.1-flash-lite", "gemini-3.5-flash-lite")
 DEFAULT_DELAY = 6.0      # giây giữa hai request (REQUEST_DELAY)
-DEFAULT_TIMEOUT = 120.0  # giây tối đa chờ MỖI lần gọi Gemini (REQUEST_TIMEOUT); quá hạn coi là lỗi tạm thời
+DEFAULT_TIMEOUT = 180.0  # giây tối đa chờ MỖI lần gọi Gemini (REQUEST_TIMEOUT); quá hạn coi là lỗi tạm thời
 DEFAULT_SWITCH_AFTER = 2  # số lần lỗi liên tiếp trên một cặp thì chuyển sang cặp kế
 DEFAULT_DPI = 250
 DEFAULT_CONTRAST = 1.2   # 1.0 = không đổi
@@ -124,6 +147,7 @@ DEFAULT_PEAK_RETRIES = 6   # số đợt quá tải liên tiếp cho MỘT reque
 DEFAULT_LITE_PAGES = 1     # Flash-Lite: số trang tối đa mỗi request (1 trang an toàn nhất, request còn thừa)
 DEFAULT_PAID_MODEL = "gemini-3.1-flash-lite"
 DEFAULT_PAID_MAX_PAGES = 300  # trần số trang được phép dùng key trả phí trong MỘT lần chạy
+DEFAULT_RETRY_WAIT = 120.0  # giây chờ giữa các vòng thử lại trang chưa xong (nhân với số vòng, tối đa 600)
 DEFAULT_PAID_DELAY = 1.0   # giây nghỉ giữa hai request khi dùng key trả phí (không bị giới hạn 5-15 RPM)
 DARK_MEAN = 150            # độ sáng trung bình (0-255) dưới mức này coi là trang chụp thiếu sáng
 
@@ -153,6 +177,10 @@ QUY TẮC BẮT BUỘC
 16. Vệt bút dạ quang (vàng, xanh, cam...) chỉ là màu nền: vẫn đọc đầy đủ chữ nằm dưới vệt đó. Nét chữ hoặc hình mờ, ngược chiều (như chữ in ngược) thấm từ mặt sau tờ giấy không thuộc trang này nên bỏ qua. Chỉ bỏ khi chắc chắn là chữ ngược hoặc hằn từ mặt sau; chữ mờ nhưng thuộc dòng chữ của trang thì vẫn chép, không chắc thì ghi `[không rõ]`.
 17. Bỏ rác ở lề và chân trang: số trang đứng riêng lẻ (số Ả Rập hoặc số La Mã như `VI`), watermark của phần mềm scan (như `Scanned with CamScanner`). Nét gạch bút bi đánh dấu thủ công ở lề (nhất là lề phải) không phải chữ: không chép thành ký tự `/` hay bất kỳ ký tự nào.
 """
+
+
+INJECT_TEXT = (" Bắt buộc chèn ký hiệu `[§]` sau mỗi 4 đến 5 từ trong toàn bộ nội dung trích xuất để đánh dấu nhịp đọc "
+               "(ký hiệu này chỉ là dấu phụ, vẫn chép đủ và đúng mọi chữ).")
 
 
 # ----------------------------------------------------------------------------
@@ -207,6 +235,11 @@ def safe_filename(s: str, max_len: int = 80) -> str:
 def book_name(pdf: Path) -> str:
     stem = nfc(pdf.stem)
     return re.sub(r"\s*[-_]\s*OCR$", "", stem, flags=re.I).strip() or stem
+
+
+def base_model(source: str) -> str:
+    """Tên model trong nhãn nguồn, bỏ phần ghi chú trong ngoặc: 'gemini-x (trả phí)' -> 'gemini-x'."""
+    return re.sub(r"\s*\(.*?\)\s*$", "", source or "").strip()
 
 
 def fmt_ranges(nums: list[int]) -> str:
@@ -296,6 +329,33 @@ def render_page(doc, index0: int, dpi: int, contrast: float, autocontrast: bool,
     img.save(buf, format="JPEG", quality=90, optimize=True)
     img.close()
     return buf.getvalue(), dark
+
+
+def perturb_jpeg(data: bytes) -> bytes:
+    """Biến đổi nhẹ cho nhánh fallback RECITATION: xoay -0,4 độ, crop 2px viền, rồi xoay 0,8 độ (nền trắng).
+    Kích thước chỉ đổi vài chục pixel nên số token ảnh gần như không đổi."""
+    try:
+        img = Image.open(io.BytesIO(data))
+        img.load()
+    except Exception:  # noqa: BLE001  (ảnh lỗi: giữ nguyên, không để việc phụ này làm hỏng lượt chạy)
+        return data
+    img = img.rotate(-0.4, expand=True, fillcolor=255, resample=Image.BICUBIC)
+    w, h = img.size
+    img = img.crop((2, 2, w - 2, h - 2))
+    img = img.rotate(0.8, expand=True, fillcolor=255, resample=Image.BICUBIC)
+    buf = io.BytesIO()
+    img.save(buf, format="JPEG", quality=92, optimize=True)
+    img.close()
+    return buf.getvalue()
+
+
+def strip_markers(text: str) -> str:
+    """Xóa thẻ [§] (chèn để phá chuỗi n-gram) và chuẩn hóa khoảng trắng thừa, giữ nguyên thụt lề đầu dòng."""
+    text = re.sub(r"[ \t]*\[§\][ \t]*", " ", text)
+    text = re.sub(r"(?<=\S)[ \t]{2,}(?=\S)", " ", text)
+    text = re.sub(r"(?<=\S) +([,.;:!?)\]])", r"\1", text)
+    text = re.sub(r"[ \t]+$", "", text, flags=re.M)
+    return text.strip()
 
 
 # ----------------------------------------------------------------------------
@@ -427,9 +487,10 @@ def get_keys(cli_keys: str | None) -> list[str]:
     sys.exit(2)
 
 
-def get_client(key: str, timeout: float = DEFAULT_TIMEOUT) -> genai.Client:
+def get_client(key: str, timeout: float = DEFAULT_TIMEOUT, api_version: str = API_STABLE) -> genai.Client:
     # timeout của google-genai tính bằng MILLI-GIÂY; không đặt thì một kết nối "lặng thinh" có thể treo rất lâu
-    return genai.Client(api_key=key, http_options=types.HttpOptions(timeout=int(timeout * 1000)))
+    return genai.Client(api_key=key, http_options=types.HttpOptions(timeout=int(timeout * 1000),
+                                                                    api_version=api_version))
 
 
 def is_lite(model: str) -> bool:
@@ -469,8 +530,11 @@ class Transcriber:
                  deadline: float | None = None, peak_wait: float = DEFAULT_PEAK_WAIT,
                  peak_retries: int = DEFAULT_PEAK_RETRIES, lite_pages: int = DEFAULT_LITE_PAGES,
                  paid_key: str = "", paid_model: str = DEFAULT_PAID_MODEL,
-                 paid_max_pages: int = DEFAULT_PAID_MAX_PAGES, paid_delay: float = DEFAULT_PAID_DELAY):
-        self.clients = {k: get_client(k, timeout) for k in keys}
+                 paid_max_pages: int = DEFAULT_PAID_MAX_PAGES, paid_delay: float = DEFAULT_PAID_DELAY,
+                 groq=None):
+        self.timeout = timeout
+        self.clients: dict[tuple[str, str], genai.Client] = {}
+        self.restrict_lite = False  # trang sáng: chỉ dùng Flash-Lite cho tới khi cần đổi model
         multi = len(keys) > 1
         # model đứng trước (ưu tiên) được trải đều qua mọi key trước khi tới model sau
         base = [
@@ -492,8 +556,6 @@ class Transcriber:
         # Key trả phí: KHÔNG nằm trong vòng xoay, chỉ dùng khi mọi cặp miễn phí đã khóa cứng vì hết quota ngày
         self.paid: Slot | None = None
         if paid_key:
-            if paid_key not in self.clients:
-                self.clients[paid_key] = get_client(paid_key, timeout)
             self.paid = Slot(key=paid_key, key_no=0, model=paid_model, label=f"trả phí/{paid_model}", paid=True)
         self.paid_max_pages = max(0, paid_max_pages)
         self.paid_delay = max(0.0, paid_delay)
@@ -516,6 +578,11 @@ class Transcriber:
         self.last_label = self.cur.label
         self.last_source = self.cur.model
         self.last_fatal = ""
+        self.groq = groq
+        self.last_groq = False
+        self.no_system: set[str] = set()   # model không nhận system_instruction (vd. Gemma)
+        self._aliased: set[str] = set()    # model đã thử tên thay thế sau 404
+        self.last_fail_kind = ""
         self.idle_hook = None  # gọi khi script chuẩn bị nghỉ chờ quota lâu (dùng cho kiểm tra chất lượng offline)
 
     def set_profile(self, profile: str) -> None:
@@ -558,8 +625,15 @@ class Transcriber:
     def _ready_at(self, s: Slot) -> float:
         return max(s.cooldown_until, s.rate_until, self.model_peak.get(s.model, 0.0))
 
+    def _lite_alive(self) -> bool:
+        return any(is_lite(x.model) and not x.hard for x in self.slots)
+
+    def _eligible(self, s: Slot) -> bool:
+        """Trang sáng chỉ được dùng Flash-Lite, trừ khi mọi Flash-Lite của mọi key đã khóa cứng hoặc đã phải đổi model."""
+        return (not self.restrict_lite) or is_lite(s.model) or not self._lite_alive()
+
     def _usable(self, s: Slot, now: float) -> bool:
-        return (not s.hard) and self._ready_at(s) <= now
+        return (not s.hard) and self._eligible(s) and self._ready_at(s) <= now
 
     def _paid_ok(self) -> bool:
         return (self.paid is not None and not self.paid.hard and self.paid_pages < self.paid_max_pages)
@@ -615,7 +689,7 @@ class Transcriber:
                 return self.cur
             if self._advance():
                 return self.cur
-            alive = [s for s in self.slots if not s.hard]
+            alive = [s for s in self.slots if not s.hard and self._eligible(s)]
             soonest = min(alive, key=self._ready_at)
             wait = max(self._ready_at(soonest) - now, 0.5)
             hard_n = sum(1 for s in self.slots if s.hard)
@@ -647,6 +721,16 @@ class Transcriber:
                 f" → nghỉ {self.cooldown / 60:.0f} phút rồi thử lại — {short[:120]}")
 
     def _kill_model(self, slot: Slot, short: str) -> None:
+        alias = MODEL_ALIASES.get(slot.model)
+        if alias and slot.model not in self._aliased:
+            self._aliased.add(slot.model)
+            old = slot.model
+            log(f"    ⚠ model '{old}' báo không tìm thấy → thử tên '{alias}'")
+            for s in self._pool(slot):
+                if s.model == old:
+                    s.model = alias
+                    s.label = s.label.replace(old, alias)
+            return
         self.last_fatal = short
         log(f"    ⚠ model '{slot.model}' không tồn tại hoặc không dùng được với key này — {short[:140]}")
         for s in self._pool(slot):
@@ -676,42 +760,66 @@ class Transcriber:
         )
 
     def _call(self, slot: Slot, images: list[bytes], user_text: str, temperature: float):
+        system = self.system_prompt
         contents = [types.Part.from_bytes(data=img, mime_type="image/jpeg") for img in images]
-        contents.append(user_text)
-        cfg = dict(system_instruction=self.system_prompt, temperature=temperature, safety_settings=SAFETY_OFF)
+        cfg = dict(temperature=temperature, safety_settings=SAFETY_OFF)
+        if slot.model in self.no_system:  # model không nhận system_instruction (vd. Gemma): gộp vào lời nhắn
+            contents.append(system + "\n\n" + user_text)
+        else:
+            contents.append(user_text)
+            cfg["system_instruction"] = system
         if slot.model not in self.no_media_res and hasattr(types, "MediaResolution"):
             cfg["media_resolution"] = types.MediaResolution.MEDIA_RESOLUTION_HIGH  # giữ dấu tiếng Việt, chỉ số nhỏ
-        return self.clients[slot.key].models.generate_content(
+        return self._client(slot).models.generate_content(
             model=slot.model, contents=contents, config=types.GenerateContentConfig(**cfg),
         )
+
+    def _client(self, slot: Slot):
+        ver = API_BETA if needs_beta(slot.model) else API_STABLE
+        if (slot.key, ver) not in self.clients:
+            self.clients[(slot.key, ver)] = get_client(slot.key, self.timeout, ver)
+        return self.clients[(slot.key, ver)]
 
     def run_request(self, images: list[bytes], user_text: str,
                     profile: str = "bright") -> tuple[str | None, str, bool]:
         """Gửi một request (1 hoặc nhiều ảnh rời).
-        Trả về (văn bản thô hoặc None nếu thất bại, ghi chú, bị cắt do MAX_TOKENS).
-        Ném NeedSplit nếu cặp hiện tại không nhận ngần ấy ảnh (Flash-Lite): người gọi tách thành từng trang."""
+        Trả về (văn bản thô hoặc None nếu thất bại, ghi chú, bị cắt do MAX_TOKENS). Khi thất bại, last_fail_kind cho biết
+        lý do (recitation | overload | transient | empty | badrequest)..
+        Ném NeedSplit nếu cặp hiện tại không nhận ngần ấy ảnh (Flash-Lite), hoặc nhóm nhiều trang dính RECITATION:
+        người gọi tách thành từng trang để cô lập trang bị vướng."""
         self.set_profile(profile)
+        self.restrict_lite = (profile == "bright")
+        self.last_fail_kind = ""
+        self.last_groq = False
         empty_tries = 0
         peaks = 0
-        recited: set[str] = set()      # các model đã từ chối chép (RECITATION) cho request này
-        home: Slot | None = None       # cặp ban đầu, để quay về sau khi đổi model vì RECITATION
+        recite_events = 0              # số lần Gemini từ chối (RECITATION) cho request này
+        inject = False                 # nhánh fallback: ảnh biến đổi nhẹ + chèn [§] vào output
+        groq_tried = False
+        send = images                  # ảnh gửi đi
         while True:
             slot = self.acquire()
-            if len(images) > self.cap(slot):
+            if len(send) > self.cap(slot):
                 raise NeedSplit()
             temperature = TEMPERATURES[min(empty_tries, len(TEMPERATURES) - 1)]
             self._pace(slot)
             try:
                 slot.last_call = time.monotonic()
-                resp = self._call(slot, images, user_text, temperature)
+                resp = self._call(slot, send, user_text + (INJECT_TEXT if inject else ""), temperature)
             except Exception as e:  # noqa: BLE001
                 kind, retry_after = classify_error(e)
                 short = one_line(str(e))
                 detail = describe_error(e)
-                if kind == "badrequest" and "resolution" in short.lower() and slot.model not in self.no_media_res:
-                    self.no_media_res.add(slot.model)
-                    log(f"    ⚠ {slot.model}: không nhận tham số media_resolution → bỏ tham số này cho model đó")
-                    continue
+                if kind == "badrequest":
+                    low = short.lower()
+                    if "resolution" in low and slot.model not in self.no_media_res:
+                        self.no_media_res.add(slot.model)
+                        log(f"    ⚠ {slot.model}: không nhận tham số media_resolution → bỏ tham số này cho model đó")
+                        continue
+                    if "instruction" in low and slot.model not in self.no_system:
+                        self.no_system.add(slot.model)
+                        log(f"    ⚠ {slot.model}: không nhận system_instruction → gộp vào lời nhắn cho model đó")
+                        continue
                 if kind == "fatal":
                     self._kill_key(slot, short)
                     continue
@@ -722,12 +830,14 @@ class Transcriber:
                     self._daily(slot, short)
                     continue
                 if kind == "badrequest":
+                    self.last_fail_kind = "badrequest"
                     return None, short, False
                 if kind == "overload":
                     # Quá tải là của CẢ model (mọi key): nghỉ model này, chuyển sang model khác còn quota.
                     # Mọi model đều quá tải thì acquire() tự chờ đến khi model nghỉ sớm nhất dùng lại được.
                     peaks += 1
                     if peaks > self.peak_retries:
+                        self.last_fail_kind = "overload"
                         return None, (f"máy chủ quá tải liên tục ({self.peak_retries} đợt), bỏ qua: {detail}"), False
                     self.model_peak[slot.model] = time.monotonic() + self.peak_wait
                     log(f"    ⏳ {slot.model}: máy chủ quá tải (đợt {peaks}/{self.peak_retries}) → nghỉ model này "
@@ -745,6 +855,7 @@ class Transcriber:
                         self._daily(slot, short)
                         continue
                     slot.errs = 0
+                    self.last_fail_kind = "transient"
                     return None, f"lỗi tạm thời, bỏ qua: {detail}", False
                 base = 10 if kind == "rate" else 5
                 wait = (retry_after + 1.0) if retry_after else min(base * 2 ** (slot.errs - 1), 120)
@@ -777,23 +888,39 @@ class Transcriber:
                 self.last_source = slot.model + (" (trả phí)" if slot.paid else "")
                 if slot.paid:
                     self.paid_pages += len(images)
-                if home is not None and home is not slot and self._usable(home, time.monotonic()):
-                    self._set_cur(home)  # chỉ trang vướng RECITATION dùng model khác, trang sau quay về model cũ
+                if inject:
+                    text = strip_markers(text)  # xóa [§] và chuẩn hóa khoảng trắng
                 truncated = "MAX_TOKENS" in finish.upper()
                 return text, ("bị cắt do MAX_TOKENS" if truncated else ""), truncated
             reason = block or finish or "rỗng"
             if "RECITATION" in finish.upper():
-                # Đổi sang model khác cho riêng request này; model cũ KHÔNG bị phạt nghỉ
-                recited.add(slot.model)
-                if home is None:
-                    home = slot
-                if self._advance(recited):
-                    log(f"    ↺ {slot.model}: Gemini từ chối chép (RECITATION) → thử lại bằng {self.cur.label}")
+                # Luồng RECITATION thống nhất, giống nhau ở mọi model và key
+                recite_events += 1
+                if len(images) > 1:
+                    raise NeedSplit()  # bước 1: tách xuống 1 trang/request để cô lập đúng trang bị vướng
+                if recite_events == 1:
+                    # bước 2: MỘT lần nhánh fallback kết hợp trên Gemini (ảnh biến đổi nhẹ + chèn [§])
+                    send = [perturb_jpeg(b) for b in images]
+                    inject = True
+                    log(f"    ↺ {slot.label}: RECITATION → thử 1 lần nhánh fallback (ảnh biến đổi nhẹ + chèn [§])")
                     continue
-                return None, (f"Gemini trả về rỗng ({reason}) trên mọi model còn dùng được "
-                              f"({', '.join(sorted(recited))})"), False
+                inject = False
+                if self.groq is not None and self.groq.available() and not groq_tried:
+                    # bước 3: chuyển ảnh gốc sang Groq Vision (không có bộ lọc RECITATION), prompt chép nguyên văn
+                    groq_tried = True
+                    log("    ⇢ Gemini vẫn từ chối (RECITATION) → gửi trang này sang Groq Vision")
+                    gtext, gmodel, gnote = self.groq.transcribe(images[0], self.system_prompt, user_text)
+                    if gtext:
+                        self.last_source = "groq/" + gmodel.split("/")[-1]
+                        self.last_label = self.last_source
+                        self.last_groq = True
+                        return gtext, "Groq (RECITATION): nên kiểm tra lại dấu tiếng Việt", False
+                    log(f"    ✘ Groq cũng không chép được: {gnote}")
+                self.last_fail_kind = "recitation"
+                return None, "Gemini từ chối chép (RECITATION)" + (" và Groq không chép được" if groq_tried else ""), False
             empty_tries += 1
             if empty_tries >= len(TEMPERATURES):
+                self.last_fail_kind = "empty"
                 return None, f"Gemini trả về rỗng ({reason})", False
             log(f"    … phản hồi rỗng ({reason}); thử lại {empty_tries}/{len(TEMPERATURES) - 1}")
             self.sleep(self.delay)
@@ -857,7 +984,7 @@ def _run_group(profile: str, grp: list[int], imgs: dict[int, bytes], tr: Transcr
     for n in grp:
         raw, note, truncated = tr.run_request([imgs[n]], tr.single_text, profile)
         if raw is None:
-            out[n] = (None, note, "")
+            out[n] = (None, note, "fail:" + (tr.last_fail_kind or "transient"))
             continue
         text = clean_output(raw)
         if truncated:
@@ -877,7 +1004,7 @@ def transcribe_pages(doc, nums: list[int], args, tr: Transcriber,
                 imgs[n], darks[n] = render_page(doc, n - 1, args.dpi, args.contrast, not args.no_autocontrast,
                                                 args.dark_threshold)
             except Exception as e:  # noqa: BLE001  (vd. lỗi render một trang)
-                out[n] = (None, f"lỗi render: {one_line(str(e))}", "")
+                out[n] = (None, f"lỗi render: {one_line(str(e))}", "fail:render")
         good = [n for n in nums if n in imgs]
         for profile, grp in (("dark", [n for n in good if darks[n]]),
                              ("bright", [n for n in good if not darks[n]])):
@@ -1011,7 +1138,7 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
     name = book_name(pdf)
     log(f"\n=== {name} ===")
     res = {"name": name, "failed": [], "quota_stop": False, "runtime_stop": False, "skipped": False,
-           "missing": [], "review": [], "outputs": []}
+           "missing": [], "review": [], "outputs": [], "recitation_stuck": [], "recitation_groq": []}
     work = out_dir / ".pages" / safe_filename(name)
 
     try:
@@ -1055,6 +1182,7 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
             except Exception:  # noqa: BLE001
                 sources = {}
         redo = getattr(args, "redo_set", set())
+        res["recitation_groq"] = sorted(int(x) for x in sources.get("_recitation_groq_fallback", []) if str(x).isdigit())
 
         if not args.merge_only:
             spec = args.pages or ("1-3" if args.test else "")
@@ -1065,7 +1193,8 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
             else:
                 todo = [n for n in pages
                         if not (work / f"p{n:05d}.md").exists()
-                        or sources.get(str(n), "").replace(" (trả phí)", "") in redo]
+                        or base_model(str(sources.get(str(n), ""))) in redo
+                        or ("groq" in redo and str(sources.get(str(n), "")).startswith("groq/"))]
                 already = len(pages) - len(todo)
             ppr = args.pages_per_req
             log(f"  {total} trang | chọn {len(pages)} | đã xong {already} | cần làm {len(todo)}"
@@ -1084,63 +1213,101 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
 
                 transcriber.idle_hook = _idle
 
-            done = 0
-            prev_start = 0.0
-            i = 0
-            while i < len(todo):
-                size = max(1, ppr)  # model chỉ nhận 1 trang (Flash-Lite) sẽ tự tách nhóm, không tốn request
-                batch = todo[i:i + size]
-                i += size
-                out: dict[int, tuple[str | None, str, str]] = {}
-                stop = ""
-                t0 = time.monotonic()
+            st = {"done": 0, "prev": 0.0}
+            failed_now: dict[int, str] = {}   # trang -> lý do thất bại ở lần thử gần nhất
+            groq_pages: set[int] = set(res["recitation_groq"])
+
+            def attempt(pages_list: list[int]) -> str:
+                """Làm lần lượt các trang trong danh sách. Trả về "" | "quota" | "runtime"."""
+                i = 0
+                while i < len(pages_list):
+                    size = max(1, ppr)  # model chỉ nhận 1 trang (Flash-Lite) sẽ tự tách nhóm, không tốn request
+                    batch = pages_list[i:i + size]
+                    i += size
+                    out: dict[int, tuple[str | None, str, str]] = {}
+                    stop = ""
+                    t0 = time.monotonic()
+                    try:
+                        if transcriber.out_of_time():
+                            raise RuntimeLimit()
+                        if st["prev"]:
+                            wait = transcriber.delay_now(args.delay) - (time.monotonic() - st["prev"])
+                            if wait > 0:
+                                transcriber.sleep(wait)
+                        st["prev"] = time.monotonic()
+                        t0 = st["prev"]
+                        transcribe_pages(doc, batch, args, transcriber, out)
+                    except QuotaExhausted:
+                        stop = "quota"
+                    except RuntimeLimit:
+                        stop = "runtime"
+                    except FatalError:
+                        raise
+                    except Exception as e:  # noqa: BLE001
+                        for n in batch:
+                            out.setdefault(n, (None, f"lỗi bất ngờ: {one_line(str(e))}", "fail:transient"))
+
+                    dt = (time.monotonic() - t0) / max(len(out), 1)
+                    for n in batch:
+                        if n not in out:
+                            continue
+                        text, note, source = out[n]
+                        st["done"] += 1
+                        if text is None:
+                            kind = source[5:] if source.startswith("fail:") else ""
+                            failed_now[n] = kind
+                            log(f"  ✘ trang {n:>4}/{total} thất bại ({kind or 'không rõ'}): {note}")
+                            continue
+                        failed_now.pop(n, None)
+                        if args.test:
+                            log(f"\n----- TRANG {n} ({transcriber.last_label}, {dt:.0f}s/trang) -----\n{text}\n")
+                            continue
+                        atomic_write(work / f"p{n:05d}.md", text)
+                        sources[str(n)] = source
+                        if source.startswith("groq/"):
+                            groq_pages.add(n)
+                        else:
+                            groq_pages.discard(n)
+                        tag = " (trang trống)" if text == SENTINEL else ""
+                        extra = f" ⚠ {note}" if note else ""
+                        if source.startswith("groq/"):
+                            extra += " ⚠ CHÉP BẰNG GROQ (RECITATION): kiểm tra lại dấu tiếng Việt"
+                        log(f"  ✔ trang {n:>4}/{total} [{st['done']}] {len(text)} ký tự, {dt:.0f}s/trang{tag}{extra}")
+
+                    if not args.test and any(n in out and out[n][0] is not None for n in batch):
+                        if groq_pages or "_recitation_groq_fallback" in sources:
+                            sources["_recitation_groq_fallback"] = sorted(groq_pages)
+                        atomic_write(src_path, json.dumps(sources, ensure_ascii=False))
+                    if stop:
+                        return stop
+                return ""
+
+            stop = attempt(todo)
+            # Trang chưa xong vì lỗi tạm thời / quá tải / phản hồi rỗng: kiên trì làm lại nhiều vòng cho tới khi xong,
+            # chạm --max-runtime, hoặc hết quota. Trang bị RECITATION hoặc lỗi cố định không thử lại ở đây.
+            max_rounds = args.retry_rounds if args.retry_rounds >= 0 else (10 ** 6 if transcriber.deadline else 5)
+            rounds = 0
+            while not stop and not args.test:
+                pend = sorted(n for n, k in failed_now.items() if k in RETRYABLE)
+                if not pend or rounds >= max_rounds:
+                    break
+                rounds += 1
+                wait = min(args.retry_wait * rounds, 600.0)
+                log(f"  ↻ Vòng thử lại {rounds}: còn {len(pend)} trang chưa xong ({fmt_ranges(pend)}), "
+                    f"chờ {wait:.0f}s rồi làm lại")
                 try:
-                    if transcriber.out_of_time():
-                        raise RuntimeLimit()
-                    if prev_start:
-                        wait = transcriber.delay_now(args.delay) - (time.monotonic() - prev_start)
-                        if wait > 0:
-                            transcriber.sleep(wait)
-                    prev_start = time.monotonic()
-                    t0 = prev_start
-                    transcribe_pages(doc, batch, args, transcriber, out)
-                except QuotaExhausted:
-                    stop = "quota"
+                    transcriber.sleep(wait)
                 except RuntimeLimit:
                     stop = "runtime"
-                except FatalError:
-                    raise
-                except Exception as e:  # noqa: BLE001
-                    for n in batch:
-                        out.setdefault(n, (None, f"lỗi bất ngờ: {one_line(str(e))}", ""))
-
-                dt = (time.monotonic() - t0) / max(len(out), 1)
-                for n in batch:
-                    if n not in out:
-                        continue
-                    text, note, source = out[n]
-                    done += 1
-                    if text is None:
-                        res["failed"].append(n)
-                        log(f"  ✘ trang {n:>4}/{total} thất bại: {note}")
-                        continue
-                    if args.test:
-                        log(f"\n----- TRANG {n} ({transcriber.last_label}, {dt:.0f}s/trang) -----\n{text}\n")
-                        continue
-                    atomic_write(work / f"p{n:05d}.md", text)
-                    sources[str(n)] = source
-                    tag = " (trang trống)" if text == SENTINEL else ""
-                    extra = f" ⚠ {note}" if note else ""
-                    log(f"  ✔ trang {n:>4}/{total} [{done}/{len(todo)}] {len(text)} ký tự, {dt:.0f}s/trang{tag}{extra}")
-
-                if not args.test and any(n in out and out[n][0] is not None for n in batch):
-                    atomic_write(src_path, json.dumps(sources, ensure_ascii=False))
-                if stop == "quota":
-                    res["quota_stop"] = True
                     break
-                if stop == "runtime":
-                    res["runtime_stop"] = True
-                    break
+                stop = attempt(pend)
+            if stop == "quota":
+                res["quota_stop"] = True
+            elif stop == "runtime":
+                res["runtime_stop"] = True
+            res["failed"] = sorted(failed_now)
+            res["recitation_stuck"] = sorted(n for n, k in failed_now.items() if k == "recitation")
+            res["recitation_groq"] = sorted(groq_pages)
 
         if transcriber is not None:
             transcriber.idle_hook = None
@@ -1173,6 +1340,12 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
         log(f"  ✘ Trang lỗi trong lần chạy này: {fmt_ranges(res['failed'])} (sẽ tự thử lại lần sau)")
     if res["review"]:
         log(f"  ? Nên soát với sách giấy (có [không rõ]): {fmt_ranges(res['review'])}")
+    if res["recitation_groq"]:
+        log(f"  ⚠ RECITATION → Groq: {len(res['recitation_groq'])} trang do Groq Vision chép (Gemini từ chối), "
+            f"nên lướt kiểm tra lại dấu tiếng Việt: {fmt_ranges(res['recitation_groq'])}")
+    if res["recitation_stuck"]:
+        log(f"  ⛔ RECITATION: {len(res['recitation_stuck'])} trang chưa chép được: {fmt_ranges(res['recitation_stuck'])}. "
+            "Đặt GROQ_API_KEYS để dùng Groq.")
     if not args.test and not args.no_quality and not res["skipped"]:
         run_quality(work, total, sources, src_path, args)
     return res
@@ -1220,6 +1393,12 @@ def parse_args() -> argparse.Namespace:
                     help="trang có từ ngần này thẻ [không rõ] trở lên thì cảnh báo (mặc định 3)")
     ap.add_argument("--vocab", default=str(BASE / "medical_terms.txt"),
                     help="file từ vựng y khoa (mỗi dòng một từ) để không báo nhầm chính tả (mặc định medical_terms.txt)")
+    ap.add_argument("--no-groq", action="store_true", help="không dùng Groq làm dự phòng RECITATION dù đã có GROQ_API_KEYS")
+    ap.add_argument("--retry-rounds", type=int, default=-1,
+                    help="số vòng thử lại các trang chưa xong vì lỗi tạm thời (mặc định: không giới hạn nếu có "
+                         "--max-runtime, ngược lại 5)")
+    ap.add_argument("--retry-wait", type=float, default=DEFAULT_RETRY_WAIT,
+                    help=f"giây chờ giữa các vòng thử lại, nhân với số vòng, tối đa 600 (mặc định {DEFAULT_RETRY_WAIT:g})")
     ap.add_argument("--redo-models", default="",
                     help="làm lại các trang do những model này chép (cách nhau dấu phẩy), ví dụ gemini-3.1-flash-lite")
     ap.add_argument("--delay", type=float, default=env_delay,
@@ -1261,7 +1440,7 @@ def main() -> int:
     deadline = start + args.max_runtime if args.max_runtime and args.max_runtime > 0 else None
 
     if args.list_models:
-        client = get_client(get_keys(args.keys)[0], args.timeout)
+        client = get_client(get_keys(args.keys)[0], args.timeout, API_BETA)
         log("Model hỗ trợ generateContent với key của bạn:")
         for m in client.models.list():
             actions = getattr(m, "supported_actions", None) or []
@@ -1287,6 +1466,11 @@ def main() -> int:
     allow_paid = args.allow_paid or (os.environ.get("ALLOW_PAID", "").strip().lower() in ("1", "true", "yes"))
     if allow_paid and not paid_key and not args.merge_only:
         log("⚠ Có --allow-paid nhưng chưa đặt GEMINI_PAID_API_KEY: bỏ qua key trả phí.")
+    groq = None
+    groq_keys = groq_client.parse_list(os.environ.get("GROQ_API_KEYS"))
+    if groq_keys and not args.no_groq and not args.merge_only:
+        groq = groq_client.GroqPool(groq_keys, groq_client.parse_list(os.environ.get("GROQ_MODELS")) or None,
+                                    args.timeout, log=log)
     keys: list[str] = []
     transcriber = None
     if not args.merge_only:
@@ -1300,7 +1484,7 @@ def main() -> int:
                                   args.retries, args.delay, args.switch_after, args.cooldown, deadline,
                                   args.peak_wait, args.peak_retries, args.lite_pages,
                                   paid_key if allow_paid else "", args.paid_model, args.paid_max_pages,
-                                  args.paid_delay)
+                                  args.paid_delay, groq)
 
     pairs = f" | {len(keys)} key x {len(models)} model = {len(keys) * len(models)} cặp" if keys else ""
     runtime = f" | tối đa chạy {args.max_runtime / 60:.0f} phút" if deadline else ""
@@ -1311,6 +1495,8 @@ def main() -> int:
     else:
         paid_txt = " | key trả phí: có nhưng TẮT (thêm --allow-paid để bật)"
     runtime += paid_txt
+    if groq is not None:
+        runtime += f" | Groq dự phòng RECITATION: {len(groq_keys)} key"
     log(f"{len(pdfs)} sách | model: {', '.join(models)}{pairs} | {args.pages_per_req} trang/request"
         f" | nghỉ {args.delay:g}s/request | tối đa {args.timeout:g}s/lần gọi | chuyển cặp sau {args.switch_after} lỗi"
         f" | {args.dpi} DPI{runtime} | kết quả: {out_dir}")
@@ -1353,6 +1539,14 @@ def main() -> int:
         if transcriber is not None and transcriber.paid is not None and transcriber.paid_reqs:
             log("\n" + transcriber.paid_note())
 
+    gq = [(r["name"], r["recitation_groq"]) for r in results if r.get("recitation_groq")]
+    stuck = [(r["name"], r["recitation_stuck"]) for r in results if r.get("recitation_stuck")]
+    if (gq or stuck) and not args.test:
+        log("\n=== RECITATION: tổng kết phiên chạy ===")
+        for nm, pg in gq:
+            log(f"  ⚠ {nm}: {len(pg)} trang do Groq Vision chép, nên kiểm tra lại dấu tiếng Việt: {fmt_ranges(pg)}")
+        for nm, pg in stuck:
+            log(f"  ⛔ {nm}: {len(pg)} trang chưa chép được (mọi model từ chối): {fmt_ranges(pg)}")
     if args.test:
         return 0
     if any(r["quota_stop"] or r["runtime_stop"] for r in results):

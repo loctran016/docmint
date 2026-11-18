@@ -398,6 +398,20 @@ def has_paid_key():
     return False
 
 
+def has_groq_key():
+    """Đã có GROQ_API_KEYS (biến môi trường hoặc trong file .env) chưa."""
+    if os.environ.get("GROQ_API_KEYS"):
+        return True
+    try:
+        for line in ENV_FILE.read_text(encoding="utf-8-sig").splitlines():
+            m = re.match(r"^\s*(?:export\s+)?GROQ_API_KEYS\s*=\s*(\S+)", line)
+            if m and m.group(1).strip("\"'"):
+                return True
+    except OSError:
+        pass
+    return False
+
+
 def md_out_dir():
     return Path(S["md_out"] or "output_md")
 
@@ -490,6 +504,33 @@ def md_set_paid_key():
     ask("  Nhấn Enter để tiếp tục... ")
 
 
+def md_set_groq_key():
+    print("  Groq Vision là dự phòng khi Gemini từ chối chép một trang vì RECITATION (Groq không có bộ lọc này).")
+    print("  Tạo key miễn phí tại: https://console.groq.com/keys")
+    print("  Nhiều key: dán cách nhau dấu phẩy, ví dụ key1,key2")
+    try:
+        key = getpass.getpass("  Dán GROQ_API_KEYS (Enter để hủy): ")
+    except (EOFError, KeyboardInterrupt):
+        print()
+        return
+    key = re.sub(r"\s+", "", key)
+    if not key:
+        return
+    lines = []
+    if ENV_FILE.exists():
+        lines = [ln for ln in ENV_FILE.read_text(encoding="utf-8-sig").splitlines()
+                 if not re.match(r"^\s*(?:export\s+)?GROQ_API_KEYS\s*=", ln)]
+    lines.append(f"GROQ_API_KEYS={key}")
+    ENV_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    try:
+        os.chmod(ENV_FILE, 0o600)
+    except OSError:
+        pass
+    ensure_ignored(".env")
+    print("  Đã lưu GROQ_API_KEYS vào .env.")
+    ask("  Nhấn Enter để tiếp tục... ")
+
+
 def md_set_model():
     print("  Tên model Gemini. Có thể ghi nhiều model cách nhau dấu phẩy, ví dụ:")
     print("      gemini-3.8-flash,gemini-3.6-flash")
@@ -531,7 +572,7 @@ def md_menu():
         draw_menu("PDF → MARKDOWN (GEMINI)", [
             f"INFO:Model: {short(S['md_model'] or 'mặc định', 30)} | Key: {yn(has_key())}",
             f"INFO:Đầu ra: {short(S['md_out'] or 'output_md', 40)}",
-            f"INFO:Key trả phí: {yn(has_paid_key())} | cho phép dùng: {onoff(S['md_paid'])}",
+            f"INFO:Key trả phí: {yn(has_paid_key())} | cho phép dùng: {onoff(S['md_paid'])} | Groq: {yn(has_groq_key())}",
             "MID",
             "1|Chạy thử vài trang (--test, không lưu gì)",
             "2|Chuyển toàn bộ PDF thành Markdown",
@@ -548,6 +589,7 @@ def md_menu():
             "12|Thêm .env và thư mục dữ liệu vào .gitignore",
             f"13|Cho phép key trả phí khi hết quota: {onoff(S['md_paid'])}",
             "14|Đặt GEMINI_PAID_API_KEY",
+            "15|Đặt GROQ_API_KEYS (dự phòng RECITATION)",
             "SEP",
             "0|Quay lại menu chính"])
         ch = ask("  Nhập lựa chọn của bạn : ").lower()
@@ -609,6 +651,8 @@ def md_menu():
             toggle("md_paid")
         elif ch == "14":
             md_set_paid_key()
+        elif ch == "15":
+            md_set_groq_key()
         elif ch in ("0", "q"):
             return
 
