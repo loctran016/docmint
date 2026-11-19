@@ -118,7 +118,17 @@ def cookie_args(cookies_file=None, browser=None):
     cookies_file = cookies_file or os.environ.get("YT_COOKIES_FILE")
     browser = browser or os.environ.get("YT_COOKIES_BROWSER")
     if cookies_file:
-        return ["--cookies", str(cookies_file)]
+        path = Path(cookies_file)
+        if not path.is_file():
+            raise PipelineError(f"Cookie file không tồn tại: {cookies_file}")
+        try:
+            lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+        except OSError as e:
+            raise PipelineError(f"Không đọc được cookie file: {e}") from e
+        if not any(not line.startswith("#") and len(line.split("\t")) >= 7
+                   for line in lines):
+            raise PipelineError("Cookie file không đúng định dạng Netscape cookies.txt.")
+        return ["--cookies", str(path)]
     if browser:
         return ["--cookies-from-browser", browser]
     return []
@@ -131,7 +141,7 @@ def is_playlist_url(url: str) -> bool:
 
 def fetch_metadata(url: str, cookies=()):
     """Metadata MỘT video (kể cả khi URL có &list=...). Trả về dict id, title, duration, url."""
-    r = run_ytdlp(["--dump-single-json", "--skip-download", "--no-playlist", "--no-warnings", url, *cookies])
+    r = run_ytdlp([*cookies, "--dump-single-json", "--skip-download", "--no-playlist", "--no-warnings", url])
     try:
         d = json.loads(r.stdout)
     except json.JSONDecodeError as e:
@@ -142,7 +152,7 @@ def fetch_metadata(url: str, cookies=()):
 
 def list_playlist(url: str, cookies=()):
     """Danh sách video trong playlist: [{id, title, url}]."""
-    r = run_ytdlp(["--flat-playlist", "--dump-single-json", "--no-warnings", url, *cookies])
+    r = run_ytdlp([*cookies, "--flat-playlist", "--dump-single-json", "--no-warnings", url])
     d = json.loads(r.stdout)
     out = []
     for e in d.get("entries") or []:
@@ -159,11 +169,12 @@ def download_audio(url: str, video_id: str, cookies=(), audio_dir=AUDIO_DIR):
     for old in audio_dir.glob(f"{video_id}.*"):
         old.unlink()
     run_ytdlp([
+        *cookies,
         "-f", "ba/b",
         "--no-playlist", "--no-warnings",
         "--sleep-interval", "2", "--max-sleep-interval", "5",
         "-o", str(audio_dir / f"{video_id}.%(ext)s"),
-        url, *cookies,
+        url,
     ])
     files = [
         p for p in audio_dir.glob(f"{video_id}.*")

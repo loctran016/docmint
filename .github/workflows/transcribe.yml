@@ -72,14 +72,20 @@ jobs:
         run: |
           if [ -n "$YT_COOKIES_TXT" ]; then
             TRIMMED="${YT_COOKIES_TXT#"${YT_COOKIES_TXT%%[![:space:]]*}"}"
+            TRIMMED="${TRIMMED//$'\r'/}"
+            TRIMMED="${TRIMMED//$'\xef\xbb\xbf'/}"
             if [[ "$TRIMMED" == "# Netscape HTTP Cookie File"* ]] || [[ "$TRIMMED" == "# HTTP Cookie File"* ]]; then
               printf '%s\n' "$TRIMMED" | tr -d '\r' > "$RUNNER_TEMP/cookies.txt"
             else
-              printf '%s' "$TRIMMED" | tr -d '\r\n ' | base64 -d | tr -d '\r' > "$RUNNER_TEMP/cookies.txt"
+              printf '%s' "$TRIMMED" | tr -d '\r\n ' | base64 --decode > "$RUNNER_TEMP/cookies.txt"
             fi
             test -s "$RUNNER_TEMP/cookies.txt"
+            if ! awk 'BEGIN { cookies=0 } !/^#/ && NF >= 7 { cookies=1 } END { exit(cookies ? 0 : 1) }' "$RUNNER_TEMP/cookies.txt"; then
+              echo "::error::YT_COOKIES_TXT is not a valid Netscape cookies.txt file."
+              rm -f "$RUNNER_TEMP/cookies.txt"
+              exit 1
+            fi
             echo "YT_COOKIES_FILE=$RUNNER_TEMP/cookies.txt" >> "$GITHUB_ENV"
-            head -n 1 "$RUNNER_TEMP/cookies.txt"
           fi
 
       - name: Transcribe (Groq Whisper + Gemini)
