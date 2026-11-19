@@ -82,7 +82,7 @@ MAX_CHUNK_BYTES = 20 * 1024 * 1024  # dưới giới hạn 25MB của Groq
 
 # Gọi yt-dlp bằng chính Python đang chạy: không phụ thuộc PATH (uv run, Windows, WSL đều được).
 YTDLP = [sys.executable, "-m", "yt_dlp"]
-
+YTDLP_CLIENT_ARGS = ["--extractor-args", "youtube:player_client=tv,mweb,web"]
 
 class PipelineError(Exception):
     """Lỗi có thể giải thích cho người dùng (thiếu ffmpeg, yt-dlp bị chặn, file hỏng...)."""
@@ -113,10 +113,9 @@ def is_playlist_url(url: str) -> bool:
     u = urlparse(url)
     return u.path.rstrip("/") == "/playlist" and "list" in parse_qs(u.query)
 
-
 def fetch_metadata(url: str, cookies=()):
     """Metadata MỘT video (kể cả khi URL có &list=...). Trả về dict id, title, duration, url."""
-    r = run_cmd([*YTDLP, "--dump-single-json", "--skip-download", "--no-playlist", "--no-warnings", url, *cookies])
+    r = run_cmd([*YTDLP, *YTDLP_CLIENT_ARGS, "--dump-single-json", "--skip-download", "--no-playlist", "--no-warnings", url, *cookies])
     try:
         d = json.loads(r.stdout)
     except json.JSONDecodeError as e:
@@ -143,7 +142,7 @@ def download_audio(url: str, video_id: str, cookies=(), audio_dir=AUDIO_DIR):
     audio_dir.mkdir(parents=True, exist_ok=True)
     for old in audio_dir.glob(f"{video_id}.*"):
         old.unlink()
-    run_cmd([*YTDLP, "-f", "bestaudio[ext=m4a]/bestaudio", "--no-playlist", "--no-warnings",
+    run_cmd([*YTDLP, *YTDLP_CLIENT_ARGS, "-f", "ba/b", "--no-playlist", "--no-warnings",
              "-o", str(audio_dir / f"{video_id}.%(ext)s"), url, *cookies])
     files = [p for p in audio_dir.glob(f"{video_id}.*") if p.suffix not in (".part", ".ytdl")]
     if not files:

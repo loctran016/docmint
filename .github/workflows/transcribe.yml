@@ -9,20 +9,20 @@ on:
   workflow_dispatch:
     inputs:
       youtube_url:
-        description: 'Link video hoặc playlist YouTube y khoa'
+        description: "Link video hoặc playlist YouTube y khoa"
         required: true
         type: string
       lang:
-        description: 'Ngôn ngữ chính (vi hoặc en)'
+        description: "Ngôn ngữ chính (vi hoặc en)"
         required: true
-        default: 'vi'
+        default: "vi"
         type: string
       force_whisper:
-        description: '(Cũ, không còn tác dụng) giữ lại để lệnh gh workflow run cũ không lỗi'
+        description: "(Cũ, không còn tác dụng) giữ lại để lệnh gh workflow run cũ không lỗi"
         type: boolean
         default: false
       upgrade_stt:
-        description: 'Bỏ cache cũ và chép lại audio'
+        description: "Bỏ cache cũ và chép lại audio"
         type: boolean
         default: false
 
@@ -36,8 +36,8 @@ jobs:
       GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }}
       GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
       YT_COOKIES_TXT: ${{ secrets.YT_COOKIES_TXT }}
-      PYTHONUNBUFFERED: '1'
-      PYTHONUTF8: '1'
+      PYTHONUNBUFFERED: "1"
+      PYTHONUTF8: "1"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -45,21 +45,36 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Set up Deno (JS runtime cho yt-dlp)
         uses: denoland/setup-deno@v2
 
+      - name: Restore transcript cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/transcripts
+          key: transcript-cache-${{ github.run_id }}
+          restore-keys: |
+            transcript-cache-
+
       - name: Install ffmpeg, yt-dlp, google-genai
         run: |
           sudo apt-get update && sudo apt-get install -y ffmpeg
-          pip install --upgrade pip yt-dlp google-genai python-dotenv
+          pip install --upgrade pip "yt-dlp[default]" google-genai python-dotenv
 
       - name: Ghi cookies.txt từ secret (nếu có)
         run: |
           if [ -n "$YT_COOKIES_TXT" ]; then
-            printf '%s' "$YT_COOKIES_TXT" > "$RUNNER_TEMP/cookies.txt"
+            TRIMMED="${YT_COOKIES_TXT#"${YT_COOKIES_TXT%%[![:space:]]*}"}"
+            if [[ "$TRIMMED" == "# Netscape HTTP Cookie File"* ]] || [[ "$TRIMMED" == "# HTTP Cookie File"* ]]; then
+              printf '%s\n' "$TRIMMED" | tr -d '\r' > "$RUNNER_TEMP/cookies.txt"
+            else
+              printf '%s' "$TRIMMED" | tr -d '\r\n ' | base64 -d | tr -d '\r' > "$RUNNER_TEMP/cookies.txt"
+            fi
+            test -s "$RUNNER_TEMP/cookies.txt"
             echo "YT_COOKIES_FILE=$RUNNER_TEMP/cookies.txt" >> "$GITHUB_ENV"
+            head -n 1 "$RUNNER_TEMP/cookies.txt"
           fi
 
       - name: Transcribe (Groq Whisper + Gemini)
@@ -73,6 +88,7 @@ jobs:
         run: rm -f "$RUNNER_TEMP/cookies.txt"
 
       - name: Upload result
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: medical-transcript
