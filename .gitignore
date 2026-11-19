@@ -10,3 +10,7 @@ transcript_out/
 slides_out/
 giang_out/
 __pycache__/
+notebook_id.txt
+giao_trinh.txt.bak
+giao_trinh.txt
+.cache/

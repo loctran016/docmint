@@ -7,9 +7,10 @@ python-dotenv
 python-pptx
 notebooklm-py
 yt-dlp
-# faster-whisper chỉ cài trên GitHub Actions (xem .github/workflows/transcribe.yml), không cần trên máy cá nhân.
+# Groq Whisper được gọi bằng urllib (groq_stt.py), không cần cài gói `groq`.
+# faster-whisper chỉ liên quan tới bản cũ transcribe_faster_whisper.yml, không cần trên máy cá nhân.
 
 # Công cụ hệ thống (không phải Python):
 #   sudo apt install libreoffice-impress    # slide .pptx/.ppt -> PDF
-#   sudo apt install ffmpeg                  # chỉ khi tự chạy Whisper cục bộ
+#   sudo apt install ffmpeg                  # bắt buộc cho transcript bằng Groq (nén và cắt audio)
 #   GitHub CLI `gh` (https://cli.github.com) + `gh auth login`   # tầng 2 transcript, workflow giảng bài

@@ -573,6 +573,7 @@ Mở bằng menu chính `[16]`, hoặc chạy riêng `uv run menu_nguon_gv.py`. 
 
 Luồng gợi ý cho mỗi môn (mỗi môn một notebook, đổi ID ở `[12]`):
 
+0. Transcript video: `uv run input/transcripts/get_medical_transcript.py --url ...` dùng Groq Whisper rồi Gemini làm sạch (cần `GROQ_API_KEYS`, ffmpeg; chi tiết ở `README_nguon_gv.md`).
 1. `[15]` chuyển sách sang Markdown → `[16]` tải lên với tiền tố `[SGK]` (`upload_sources.py --prefix SGK output_md/`).
 2. Transcript video giáo viên → tải lên với tiền tố `[GV]`.
 3. Slide → Markdown chỉ chữ (`*.notebooklm.md`) → tải lên với tiền tố `[SLIDE]`.

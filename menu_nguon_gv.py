@@ -58,15 +58,25 @@ def need_key():
 def do_transcript():
     m.clear()
     print(f"{m.B}== Transcript từ video YouTube =={m.R}")
-    print("  Thử lấy phụ đề trước; không có thì (nếu bạn đồng ý) gửi sang GitHub Actions + Whisper.")
-    print("  Cần GitHub CLI (gh) đã đăng nhập nếu dùng Whisper.\n")
-    url = m.ask("  Link video YouTube (Enter để hủy): ")
+    print("  Mặc định: tải audio, chép bằng Groq Whisper, rồi Gemini làm sạch thuật ngữ y khoa.")
+    print("  Cần GROQ_API_KEYS (và ffmpeg). Link playlist cũng được.\n")
+    url = m.ask("  Link video hoặc playlist YouTube (Enter để hủy): ")
     if not url:
         return
     lang = m.ask("  Ngôn ngữ (vi / en) [vi]: ") or "vi"
     extra = []
-    if yes("Dùng thẳng Whisper (bỏ qua phụ đề)?"):
-        extra.append("--whisper")
+    if yes("Dùng phụ đề YouTube (yt-dlp) thay cho Groq?"):
+        extra += ["--backend", "subs"]
+    elif not m.has_groq_key():
+        print(f"  {m.RD}Chưa có GROQ_API_KEYS.{m.R} Đặt trong .env hoặc menu chính [15] rồi mục [15].")
+        m.pause()
+        return
+    else:
+        slides = m.ask("  File slide Markdown để đối chiếu thuật ngữ (Enter để bỏ qua): ")
+        if slides:
+            extra += ["--slides", slides]
+        if yes("Chép lại audio, bỏ cache cũ?"):
+            extra.append("--upgrade-stt")
     m.exec_uv("input/transcripts/get_medical_transcript.py", "--url", url, "--lang", lang, *extra)
     m.pause()
 

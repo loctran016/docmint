@@ -1,36 +1,55 @@
 # /// script
 # requires-python = ">=3.10"
-# dependencies = ["yt-dlp"]
+# dependencies = ["yt-dlp", "google-genai", "python-dotenv"]
 # ///
 """
-Lấy transcript bài giảng YouTube thành Markdown.
+Transcript bài giảng YouTube -> Markdown sạch, dùng Groq Whisper (mặc định).
 
-Tầng 1 (máy cá nhân): tải phụ đề bằng yt-dlp, làm sạch, ghi ra transcripts/<tên video>.md.
-Tầng 2 (GitHub Actions + Faster-Whisper): chỉ khi video không có phụ đề. Cần GitHub CLI (gh)
-đã đăng nhập (gh auth login) và workflow .github/workflows/transcribe.yml đã được đẩy lên repo.
+Luồng mặc định (--backend groq):
+  yt-dlp tải audio -> ffmpeg nén mono 16kHz 48kbps và cắt đoạn ~15 phút -> Groq Whisper (whisper-large-v3, hết quota thì
+  whisper-large-v3-turbo, xoay vòng GROQ_API_KEYS) -> cache thô .cache/transcripts/raw/{video_id}.json
+  -> Gemini Flash làm sạch thuật ngữ y khoa, dấu câu, đề mục (build_transcript.py) -> transcripts/<tên video>.md
+Cache thô có rồi thì bỏ qua tải audio và STT (trừ khi --upgrade-stt). Từng đoạn audio cũng được cache nên chạy dở
+có thể chạy lại tiếp.
+
+Các backend cũ vẫn dùng được:
+  --backend subs      tải phụ đề YouTube bằng yt-dlp (không có thì hỏi chuyển sang actions)
+  --backend actions   gửi sang GitHub Actions (workflow transcribe.yml) rồi tải kết quả về; --whisper = cờ cũ cùng ý nghĩa
 
 Chạy từ thư mục gốc repo:
-    uv run input/transcripts/get_medical_transcript.py
-    uv run input/transcripts/get_medical_transcript.py --url "https://youtu.be/..." --lang vi --yes
-    uv run input/transcripts/get_medical_transcript.py --url "..." --whisper    # bỏ qua phụ đề, dùng Whisper
+    uv run input/transcripts/get_medical_transcript.py --url "https://youtu.be/..." --lang vi
+    uv run input/transcripts/get_medical_transcript.py --url "https://www.youtube.com/playlist?list=..." --slides slide.notebooklm.md
+    uv run input/transcripts/get_medical_transcript.py --url "..." --upgrade-stt      # chép lại audio, bỏ cache cũ
+    uv run input/transcripts/get_medical_transcript.py --url "..." --no-clean         # chỉ STT, không gọi Gemini
+
+Biến môi trường (.env): GROQ_API_KEYS, GROQ_STT_MODELS, GEMINI_API_KEYS, TRANSCRIPT_MODEL, REQUEST_DELAY,
+YT_COOKIES_FILE hoặc YT_COOKIES_BROWSER (video Unlisted hoặc YouTube chặn IP).
 """
 import argparse
 import glob
 import importlib.util
+import json
 import os
 import shutil
 import subprocess
 import sys
 import time
+from pathlib import Path
 
-from transcript_utils import clean_vtt_to_text, safe_filename, write_markdown
+import transcript_utils as tu
+from transcript_utils import PipelineError, clean_vtt_to_text, safe_filename, write_markdown
 
 WORKFLOW_FILE = "transcribe.yml"
 ARTIFACT_NAME = "medical-transcript"
 
+# Mồi ngữ cảnh cho Whisper (tối đa vài trăm ký tự)
+STT_PROMPT_VI = ("Bài giảng y khoa bằng tiếng Việt, xen thuật ngữ tiếng Anh và Latinh: giải phẫu, sinh lý, bệnh học, "
+                 "dược lý, lâm sàng, cận lâm sàng, chẩn đoán, điều trị.")
+STT_PROMPT_EN = "Medical lecture: anatomy, physiology, pathology, pharmacology, clinical medicine, diagnosis, treatment."
+
 
 # Gọi yt-dlp bằng chính Python đang chạy: không phụ thuộc PATH (uv run, Windows, WSL đều được).
-YTDLP = [sys.executable, "-m", "yt_dlp"]
+YTDLP = tu.YTDLP
 
 
 def run_text(cmd):
@@ -123,44 +142,206 @@ def run_github_whisper(youtube_url, lang, out_folder):
     return out_folder
 
 
+
+# ---------------------------------------------------------------------------
+# Luồng mới: Groq Whisper + Gemini
+# ---------------------------------------------------------------------------
+def load_terms(limit=80):
+    """Vài thuật ngữ từ medical_terms.txt (nếu có) để mồi cho Whisper."""
+    try:
+        terms = []
+        for line in Path("medical_terms.txt").read_text(encoding="utf-8-sig").splitlines():
+            line = line.split("#", 1)[0].strip()
+            terms += line.split()
+        return terms[:limit]
+    except OSError:
+        return []
+
+
+def stt_prompt(lang):
+    base = STT_PROMPT_VI if lang == "vi" else STT_PROMPT_EN
+    terms = load_terms()
+    return (base + " Thuật ngữ: " + ", ".join(terms))[:900] if terms else base
+
+
+def prepare_chunks(meta, cookies, upgrade):
+    """Trả về [(đường dẫn đoạn mp3, thời lượng)]: dùng lại đoạn đã cắt nếu còn, không thì tải audio và cắt mới."""
+    vid = meta["id"]
+    audio_dir = tu.AUDIO_DIR / vid
+    manifest = tu.CHUNK_DIR / vid / "manifest.json"
+    if not upgrade and manifest.exists():
+        try:
+            info = json.loads(manifest.read_text(encoding="utf-8"))
+            chunks = [(audio_dir / n, d) for n, d in info["chunks"]]
+            if chunks and all(p.exists() for p, _ in chunks):
+                return chunks
+        except (OSError, ValueError, KeyError):
+            pass
+    print("  Tải audio bằng yt-dlp...")
+    src = tu.download_audio(meta["url"], vid, cookies, tu.AUDIO_DIR / "_dl")
+    print("  Nén và cắt audio bằng ffmpeg...")
+    chunks = tu.compress_and_split(src, audio_dir)
+    src.unlink(missing_ok=True)
+    tu._atomic_json(manifest, {"chunks": [[p.name, d] for p, d in chunks]})
+    return chunks
+
+
+def stt_groq(meta, args, stt, cookies):
+    """Chép audio của một video bằng Groq, lưu cache thô. Trả về dict cache thô."""
+    vid = meta["id"]
+    chunk_dir = tu.CHUNK_DIR / vid
+    if args.upgrade_stt and chunk_dir.exists():
+        shutil.rmtree(chunk_dir)
+    chunks = prepare_chunks(meta, cookies, args.upgrade_stt)
+    prompt = stt_prompt(args.lang)
+    segments, texts, models, offset = [], [], [], 0.0
+    for i, (path, dur) in enumerate(chunks):
+        cache = chunk_dir / f"chunk_{i:03d}.json"
+        data = None
+        if cache.exists():
+            try:
+                data = json.loads(cache.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                data = None
+        if data is None:
+            print(f"  Groq Whisper: đoạn {i + 1}/{len(chunks)} ({dur / 60:.1f} phút)...")
+            data = stt.transcribe_file(path, language=args.lang, prompt=prompt, max_wait=args.max_wait)
+            tu._atomic_json(cache, data)
+        else:
+            print(f"  Đoạn {i + 1}/{len(chunks)}: dùng lại kết quả đã cache.")
+        for s in data["segments"]:
+            segments.append({"start": round(s["start"] + offset, 2), "end": round(s["end"] + offset, 2), "text": s["text"]})
+        texts.append(data["text"])
+        models.append(data["model"])
+        offset += dur
+    raw = {
+        "video_id": vid, "title": meta["title"], "url": meta["url"],
+        "duration": meta["duration"] or offset, "stt_provider": "groq_whisper",
+        "model": models[0] if len(set(models)) == 1 else "+".join(sorted(set(models))),
+        "language": args.lang, "raw_text": " ".join(texts), "segments": segments,
+    }
+    tu.save_raw(raw)
+    shutil.rmtree(tu.AUDIO_DIR / vid, ignore_errors=True)  # xong rồi: bỏ audio, giữ cache thô
+    return raw
+
+
+def process_video(meta, args, stt, cleaner, cookies, slides_text):
+    import build_transcript as bt
+    out_dir = Path(args.out)
+    target = out_dir / f"{safe_filename(meta['title'])}.md"
+    if target.exists() and not args.force and not args.upgrade_stt:
+        print(f"  Đã có {target}, bỏ qua (dùng --force để làm lại).")
+        return target
+    raw = None if args.upgrade_stt else tu.load_raw(meta["id"])
+    if raw is not None:
+        print(f"  Dùng cache thô ({raw.get('stt_provider')}, {raw.get('model')}), bỏ qua tải audio và STT.")
+    else:
+        raw = stt_groq(meta, args, stt, cookies)
+    body, notes = bt.clean_raw(raw, cleaner, slides_text, log=print)
+    return bt.write_clean_markdown(out_dir, raw, body, notes, cleaner is not None)
+
+
+def run_groq_backend(args):
+    import groq_stt
+    import build_transcript as bt
+    keys = groq_stt.parse_list(os.environ.get("GROQ_API_KEYS"))
+    if not keys:
+        sys.exit("Chưa có GROQ_API_KEYS. Tạo key miễn phí ở https://console.groq.com/keys rồi ghi vào .env "
+                 "(GROQ_API_KEYS=key1,key2), hoặc dùng --backend subs.")
+    models = groq_stt.parse_list(os.environ.get("GROQ_STT_MODELS")) or None
+    stt = groq_stt.GroqSTT(keys, models, log=print)
+    cookies = tu.cookie_args(args.cookies, args.browser)
+    cleaner = None if args.no_clean else bt.make_cleaner(log=print)
+    if cleaner is None and not args.no_clean:
+        print("Chưa có GEMINI_API_KEYS/GEMINI_API_KEY: chỉ xuất bản thô (chưa làm sạch).")
+    slides_text = bt.load_slides(args.slides)
+
+    try:
+        if tu.is_playlist_url(args.url):
+            videos = tu.list_playlist(args.url, cookies)
+            print(f"Playlist có {len(videos)} video.")
+            if not videos:
+                sys.exit("Không đọc được video nào trong playlist.")
+        else:
+            videos = [tu.fetch_metadata(args.url, cookies)]
+    except PipelineError as e:
+        sys.exit(f"Lỗi yt-dlp: {e}\nGợi ý: video Unlisted hoặc YouTube chặn IP thì đặt YT_COOKIES_BROWSER=chrome "
+                 "(hoặc YT_COOKIES_FILE=cookies.txt) trong .env.")
+
+    done, failed = [], []
+    for n, v in enumerate(videos, 1):
+        print(f"\n[{n}/{len(videos)}] {v['title']}")
+        try:
+            meta = v if "duration" in v else tu.fetch_metadata(v["url"], cookies)
+            done.append(process_video(meta, args, stt, cleaner, cookies, slides_text))
+        except (PipelineError, groq_stt.GroqSTTError) as e:
+            print(f"  ✘ Lỗi: {e}")
+            failed.append(v["title"])
+        except KeyboardInterrupt:
+            print("\nĐã dừng. Các đoạn đã xong được giữ trong .cache, chạy lại để làm tiếp.")
+            break
+    print(f"\nXong: {len(done)} file trong {args.out}/" + (f" | Lỗi: {len(failed)}" if failed else ""))
+    for f in failed:
+        print(f"  ✘ {f}")
+    return 1 if failed else 0
+
+
 def parse_args():
-    ap = argparse.ArgumentParser(description="Transcript video YouTube -> Markdown")
-    ap.add_argument("--url", help="link video (bỏ trống thì hỏi)")
+    ap = argparse.ArgumentParser(description="Transcript video YouTube -> Markdown (Groq Whisper + Gemini)")
+    ap.add_argument("--url", help="link video hoặc playlist (bỏ trống thì hỏi)")
     ap.add_argument("--lang", help="vi hoặc en (bỏ trống thì hỏi, mặc định vi)")
     ap.add_argument("--out", default="transcripts", help="thư mục kết quả (mặc định transcripts)")
+    ap.add_argument("--backend", choices=["groq", "subs", "actions"], default="groq",
+                    help="groq (mặc định), subs (phụ đề yt-dlp, cũ) hoặc actions (GitHub Actions, cũ)")
+    ap.add_argument("--whisper", action="store_true", help="cờ cũ, tương đương --backend actions")
     ap.add_argument("--yes", action="store_true",
-                    help="không có phụ đề thì tự chuyển sang Actions + Whisper, không hỏi")
-    ap.add_argument("--whisper", action="store_true",
-                    help="bỏ qua phụ đề, dùng thẳng GitHub Actions + Whisper")
+                    help="(backend subs) không có phụ đề thì tự chuyển sang Actions, không hỏi")
+    ap.add_argument("--upgrade-stt", action="store_true", help="bỏ cache STT cũ và chép lại audio")
+    ap.add_argument("--no-clean", action="store_true", help="không gọi Gemini, chỉ xuất bản thô")
+    ap.add_argument("--force", action="store_true", help="làm lại kể cả khi file .md đã có")
+    ap.add_argument("--slides", help="file Markdown slide (*.notebooklm.md) để Gemini đối chiếu thuật ngữ")
+    ap.add_argument("--cookies", help="file cookies.txt cho yt-dlp (hoặc biến YT_COOKIES_FILE)")
+    ap.add_argument("--browser", help="lấy cookie từ trình duyệt, ví dụ chrome, edge (hoặc biến YT_COOKIES_BROWSER)")
+    ap.add_argument("--max-wait", type=float, default=1800.0,
+                    help="tổng giây tối đa chờ Groq hết giới hạn cho mỗi đoạn audio (mặc định 1800)")
     return ap.parse_args()
 
 
 def main():
+    try:
+        from dotenv import load_dotenv
+        load_dotenv()
+    except ImportError:
+        pass
     args = parse_args()
+    if args.whisper:
+        args.backend = "actions"
     if importlib.util.find_spec("yt_dlp") is None:
         sys.exit("Không thấy yt-dlp. Chạy bằng 'uv run ...' (tự cài) hoặc: pip install yt-dlp")
 
     os.makedirs(args.out, exist_ok=True)
-    url = args.url or input("Nhập link video YouTube: ").strip()
-    lang = args.lang or input("Ngôn ngữ chính của video (vi / en) [mặc định: vi]: ").strip() or "vi"
+    url = args.url or input("Nhập link video hoặc playlist YouTube: ").strip()
+    args.lang = args.lang or input("Ngôn ngữ chính của video (vi / en) [mặc định: vi]: ").strip() or "vi"
     if not url:
         sys.exit("Chưa có link video.")
+    args.url = url
 
-    if not args.whisper:
+    if args.backend == "groq":
+        sys.exit(run_groq_backend(args))
+
+    if args.backend == "subs":
         title = get_title(url)
-        result = fetch_local_subs(url, lang, title, args.out)
+        result = fetch_local_subs(url, args.lang, title, args.out)
         if result:
             print(f"Hoàn tất (từ phụ đề)! File: {result}")
             return
         print("Video không có phụ đề sẵn.")
-
-    go = args.whisper or args.yes
-    if not go:
-        go = input("Chuyển sang GitHub Actions + Whisper? (y/n) [y]: ").strip().lower() in ("", "y")
-    if go:
-        folder = run_github_whisper(url, lang, args.out)
-        if folder:
-            print(f"Hoàn tất (từ Whisper)! File nằm trong: {folder}/")
+        go = args.yes or input("Chuyển sang GitHub Actions? (y/n) [y]: ").strip().lower() in ("", "y")
+        if not go:
+            return
+    folder = run_github_whisper(url, args.lang, args.out)
+    if folder:
+        print(f"Hoàn tất (từ GitHub Actions)! File nằm trong: {folder}/")
 
 
 if __name__ == "__main__":

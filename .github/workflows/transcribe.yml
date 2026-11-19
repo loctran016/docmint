@@ -1,10 +1,15 @@
-name: Medical Video Transcribe
+name: Medical Video Transcribe (Groq Whisper + Gemini)
+
+# Luồng mới: yt-dlp tải audio -> ffmpeg nén/cắt -> Groq Whisper -> Gemini làm sạch thuật ngữ -> artifact.
+# Bản Faster-Whisper cũ nằm ở transcribe_faster_whisper.yml.
+# Secrets: GROQ_API_KEYS, GEMINI_API_KEYS (cách nhau dấu phẩy); tuỳ chọn YT_COOKIES_TXT (nội dung cookies.txt của
+# tài khoản Google PHỤ) nếu YouTube chặn IP của GitHub hoặc video ở chế độ Không công khai.
 
 on:
   workflow_dispatch:
     inputs:
       youtube_url:
-        description: 'Link video YouTube y khoa'
+        description: 'Link video hoặc playlist YouTube y khoa'
         required: true
         type: string
       lang:
@@ -13,7 +18,11 @@ on:
         default: 'vi'
         type: string
       force_whisper:
-        description: 'Bắt buộc dùng Whisper (bỏ qua phụ đề sẵn có)'
+        description: '(Cũ, không còn tác dụng) giữ lại để lệnh gh workflow run cũ không lỗi'
+        type: boolean
+        default: false
+      upgrade_stt:
+        description: 'Bỏ cache cũ và chép lại audio'
         type: boolean
         default: false
 
@@ -23,7 +32,12 @@ jobs:
     env:
       VIDEO_URL: ${{ github.event.inputs.youtube_url }}
       VIDEO_LANG: ${{ github.event.inputs.lang }}
-      FORCE: ${{ github.event.inputs.force_whisper }}
+      UPGRADE: ${{ github.event.inputs.upgrade_stt }}
+      GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }}
+      GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+      YT_COOKIES_TXT: ${{ secrets.YT_COOKIES_TXT }}
+      PYTHONUNBUFFERED: '1'
+      PYTHONUTF8: '1'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -33,55 +47,30 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install yt-dlp
-        run: pip install --upgrade pip yt-dlp
+      - name: Set up Deno (JS runtime cho yt-dlp)
+        uses: denoland/setup-deno@v2
 
-      # Tuỳ chọn: nếu YouTube chặn IP của GitHub ("Sign in to confirm you're not a bot"),
-      # tạo secret YT_COOKIES chứa nội dung file cookies.txt (định dạng Netscape).
-      - name: Prepare cookies (optional)
-        env:
-          YT_COOKIES: ${{ secrets.YT_COOKIES }}
-        run: |
-          if [ -n "$YT_COOKIES" ]; then
-            printf '%s\n' "$YT_COOKIES" > cookies.txt
-            echo "COOKIES_ARG=--cookies cookies.txt" >> "$GITHUB_ENV"
-          fi
-
-      - name: Get video title
-        run: |
-          TITLE=$(yt-dlp $COOKIES_ARG --skip-download --print title "$VIDEO_URL" | head -n1 || true)
-          echo "VIDEO_TITLE=$TITLE" >> "$GITHUB_ENV"
-
-      - name: Try downloading existing subtitles
-        id: check_subs
-        run: |
-          if [ "$FORCE" = "false" ]; then
-            yt-dlp $COOKIES_ARG --write-sub --write-auto-sub --sub-lang "$VIDEO_LANG" --sub-format vtt --skip-download -o "sub" "$VIDEO_URL" || true
-          fi
-          if ls sub*.vtt 1> /dev/null 2>&1; then
-            echo "has_subs=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "has_subs=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Build markdown from subtitles
-        if: steps.check_subs.outputs.has_subs == 'true'
-        run: python input/transcripts/build_transcript.py subs
-
-      - name: Cache HuggingFace models
-        if: steps.check_subs.outputs.has_subs == 'false'
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/huggingface
-          key: ${{ runner.os }}-hf-whisper-turbo
-
-      - name: Download audio and run Faster-Whisper
-        if: steps.check_subs.outputs.has_subs == 'false'
+      - name: Install ffmpeg, yt-dlp, google-genai
         run: |
           sudo apt-get update && sudo apt-get install -y ffmpeg
-          pip install faster-whisper
-          yt-dlp $COOKIES_ARG -x --audio-format mp3 --audio-quality 5 -o "audio.%(ext)s" "$VIDEO_URL"
-          python input/transcripts/build_transcript.py whisper
+          pip install --upgrade pip yt-dlp google-genai python-dotenv
+
+      - name: Ghi cookies.txt từ secret (nếu có)
+        run: |
+          if [ -n "$YT_COOKIES_TXT" ]; then
+            printf '%s' "$YT_COOKIES_TXT" > "$RUNNER_TEMP/cookies.txt"
+            echo "YT_COOKIES_FILE=$RUNNER_TEMP/cookies.txt" >> "$GITHUB_ENV"
+          fi
+
+      - name: Transcribe (Groq Whisper + Gemini)
+        run: |
+          ARGS=(--url "$VIDEO_URL" --lang "$VIDEO_LANG" --out transcript_out)
+          [ "$UPGRADE" = "true" ] && ARGS+=(--upgrade-stt)
+          python input/transcripts/get_medical_transcript.py "${ARGS[@]}"
+
+      - name: Xóa cookies
+        if: always()
+        run: rm -f "$RUNNER_TEMP/cookies.txt"
 
       - name: Upload result
         uses: actions/upload-artifact@v4
