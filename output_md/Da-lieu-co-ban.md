@@ -9,6 +9,45 @@ Chủ biên: PGS.TS.BS. VĂN THẾ TRUNG
 
 NHÀ XUẤT BẢN Y HỌC
 
+# § ĐẠI § CƯƠNG § VỀ § CẤU § TẠO § VÀ § CHỨC § NĂNG § CỦA § DA
+
+PGS.TS.BS. § Văn § Thế § Trung
+
+## Mục § tiêu § học § tập
+
+- Mô § tả § được § cấu § tạo § các § lớp § của § da.
+- Nêu § được § các § thành § phần § trong § các § lớp § của § da.
+- Trình § bày § được § khái § quát § về § các § chức § năng § của § da.
+
+## 1. § MỞ § ĐẦU
+
+Da § là § cơ § quan § lớn § nhất, § bao § phủ § toàn § bộ § cơ § thể. § Một § người § nặng § 70 § kg § thì § da § có § trọng § lượng § hơn § 5 § kg § và § rộng § 2 § mét § vuông. § Da § không § chỉ § là § lớp § bao § bọc § mà § là § một § cơ § quan § có § tổ § chức § với § nhiều § thành § phần, § nhiều § chức § năng. § Trong § bệnh § học § da § liễu, § ngoài § phạm § vi § các § rối § loạn § của § da § còn § bao § gồm § phần § bán § niêm § mạc § và § niêm § mạc § liên § quan § các § lỗ § tự § nhiên § của § cơ § thể. § Kiến § thức § về § cấu § tạo § và § chức § năng § đa § đóng § vai § trò § rất § quan § trọng § giúp § diễn § giải § các § biểu § hiện § thương § tổn § da § (sang § thương § da) § và § triệu § chứng § khác § trên § lâm § sàng § cũng § như § giúp § tiếp § cận § chẩn § đoán § bệnh § lý § da § một § cách § khoa § học.
+
+## 2. § CẤU § TẠO § MÔ § HỌC § CỦA § DA
+
+Da § gồm § có § ba § tầng, § tầng § ngoài § cùng § là § thượng § bì § (hay § biểu § bì), § kế § đến § là § bì § (hay § trung § bì) § và § hạ § bì § (hay § mô § dưới § da) § (Hình § 1-1). § Ngoài § ra, § da § còn § bao § gồm § các § thành § phần § phụ § là § lông, § tóc, § móng § và § các § tuyến.
+
+### 2.1. § Thượng § bì
+
+Thượng § bì § thường § có § độ § dày § $0,4-1,5$ § mm, § trong § đó § lớp § tế § bào § sống § dày § khoảng § 0,05 § - § 0,1 § mm. § Thành § phần § chủ § yếu § của § thượng § bì § là § các § tế § bào § xếp § cạnh § nhau § dày § đặc, § gồm § có § tế § bào § tạo § sừng § (keratinocyte), § tế § bào § hắc § tố § (melanocyte), § tế § bào § Langerhans, § tế § bào § Merkel. § Thượng § bì § có § 4 § lớp, § từ § dưới § lên § là § lớp § đáy, § lớp § gai, § lớp § hạt § và § lớp § sừng § (Hình § 1-2). § Riêng § vùng § da § lòng § bàn § tay, § bàn § chân § thì § có § thêm § lớp § bóng. § Lớp § Malpighi § bao § gồm § lớp § đáy § và § lớp § gai.
+
+Tế bào tạo sừng
+Tế bào này chiếm khoảng 90% thành phần tế bào trong lớp thượng bì. Vì chức năng chính là sản xuất ra chất sừng keratin cho nên gọi là tế bào tạo sừng. Đây là protein cấu trúc chính của thượng bì, có dạng sợi, chắc để tạo ra khung tế bào bảo vệ cho da.
+Tế bào tạo sừng có đặc điểm của tế bào biểu mô tầng, đó là liên tục phân chia, di chuyển từ dưới đáy lên lớp trên, biệt hóa thành tế bào sừng (corneocyte) và bong ra. Chu chuyển của vòng tế bào từ lớp đáy cho đến khi bong ra khoảng 3 – 4 tuần. Trong một số bệnh có sự gia tăng phân chia và di chuyển của tế bào, ví dụ như bệnh vẩy nến.
+Tế bào hắc tố (tế bào sắc tố)
+Đây là dạng tế bào hình tua gai. Tế bào hắc tố nằm rải rác giữa các tế bào tạo sừng trong lớp đáy. Nguồn gốc của tế bào hắc tố là từ mào thần kinh. Chức năng chính là sinh ra các hạt sắc tố melanin để góp phần tạo nên màu da và bảo vệ da khỏi tác hại của tia cực tím từ ánh nắng mặt trời.
+Tế bào Langerhans
+Đây cũng là dạng tế bào tua gai, thuộc dòng bạch cầu, được sản xuất từ tủy xương. Tế bào Langerhans nằm trong lớp gai của thượng bì, có nhân ở trung tâm và các tua gai. Tế bào Langerhans thực hiện chức năng miễn dịch để bảo vệ cơ thể.
+Tế bào Merkel
+Tế bào Merkel nằm ở lớp đáy, phân bố nhiều ở vùng da nhạy cảm, da không có lông. Liên kết với đầu tận thần kinh ở lớp bì bên dưới và có chức năng như một thụ thể cảm giác ở da.
+
+## 2.2. Màng đáy
+Ranh giới giữa biểu bì và bì bao gồm một tập hợp các phân tử gắn kết, được gọi chung là màng đáy. Nhiều bệnh bắt nguồn từ các khiếm khuyết di truyền liên quan thành phần của nó; màng đáy cũng còn có thể là một mục tiêu tấn công của bệnh tự miễn.
+
+## 2.3. Lớp bì
+Lớp bì là lớp mô liên kết nằm dưới thượng bì, được ngăn cách bởi màng đáy. Thành phần của lớp bì rất phong phú bao gồm hệ thống mạch máu, thần kinh, các tế bào như nguyên bào sợi, tế bào mast (dưỡng bào), đại thực bào và các thành phần sợi collagen, elastin, chất nền proteoglycan, glycosaminoglycan. Lớp bì bao gồm hai lớp là bì nhủ và bì lưới.
+Bì nhủ, hay là bì nông, giàu mạng lưới mao mạch, có chức năng chính là cung cấp dinh dưỡng để nuôi thượng bì và điều hòa thân nhiệt. Ngoài ra, trong lớp bì nhủ còn chứa đầu tận thần kinh và thụ thể cảm giác là các tiểu thể Meissner để nhận biết cảm giác nông.
+
 Bì lưới, hay bì sâu, bao gồm mô liên kết chặt, có chức năng chính là tạo độ đàn hồi cho da và môi trường nâng đỡ mạch máu, thần kinh và phần phụ da như nang lông, tuyến bã, tuyến mồ hôi. Bì lưới cũng chứa nhiều loại thụ thể cảm giác khác nhau và các tế bào thần kinh chuyên biệt đối với các loại kích thích.
 
 2.4. Hạ bì
@@ -33,6 +72,62 @@ Da cũng chứa nhiều thần kinh cảm giác, thần kinh tự động, thụ
 
 Dưới tác động của ánh sáng mặt trời, da là nơi tổng hợp vitamin D. Ngoài chức năng chuyển hóa can-xi và xương, vitamin D còn có chức năng chống phân bào và điều hòa miễn dịch. Ứng dụng rõ nhất của hai chức năng này của vitamin D được thể hiện trong điều trị bệnh vẩy nến.
 
+Ngoài ra, trên da người còn có thảm vi sinh vật thường trú rất phong phú và đa dạng, tuy không thuộc cấu trúc của da nhưng góp phần quan trọng vào chức năng cân bằng môi trường trên bề mặt da.
+
+Sau cùng, da (bao gồm lông tóc) có chức năng thẩm mỹ và giao tiếp xã hội. Làn da tươi trẻ, mái tóc óng mượt cho thấy sức sống thể chất và tâm hồn tích cực. Da kém đàn hồi, chảy xệ, có nhiều nếp nhăn và thô ráp thể hiện sự lão hóa hoặc không khỏe. Da bị tổn thương có thể làm giảm nghiêm trọng chất lượng cuộc sống của bệnh nhân.
+
+[Hình: Cấu tạo mô học của da]
+- Thân lông, tóc
+- Lớp thượng bì
+- Lớp bì
+- Lớp hạ bì
+- Lỗ đổ tuyến mồ hôi
+- Mào thượng bì
+- Nhú bì
+- Thụ thể cảm giác
+- Cơ dựng lông
+- Tuyến bã
+- Ông tuyến mồ hôi
+- Nang lông
+- Tuyến mồ hôi nước
+- Thần kinh
+- Tĩnh mạch
+- Động mạch
+
+**Hình 1-1. Cấu tạo mô học của da**
+
+*Hình ảnh minh họa các lớp da và các phần phụ, hệ thống mạch máu, thần kinh liên quan. (Bản quyền của Vectorism, ID: 681684649)* b. Mỗi tuần
+c. Mỗi 3 - 4 tuần
+d. Mỗi 3 - 4 tháng
+
+Câu 2. Một bệnh nhân làm công việc tiếp xúc nhiều với ánh nắng lâu ngày, da nổi các đốm tăng sừng màu nâu ở vùng phơi bày ra ánh sáng. Các thành phần nào sau đây bị rối loạn trong thương tổn này?
+
+a. Nguyên bào sợi, tế bào đáy
+b. Tế bào Merkel, tế bào đáy
+c. Tế bào tạo sừng, tế bào hắc tố
+d. Tế bào Langerhans, tế bào tạo sừng
+
+Câu 3. Một bệnh nhân bị bỏng nhiệt, da chân có mảng đỏ, sau 1 ngày nổi bóng nước nhưng không loét. Khả năng vết thương làm tổn hại lớp nào của da?
+
+a. Thượng bì
+b. Bì nhú
+c. Bì lưới
+d. Mô dưới da
+
+Câu 4. Một bệnh nhân bị vết thương da đơn giản. Sau một thời gian, vết thương lành dễ nhưng để sẹo. Vết thương xảy ra làm tổn thương đến lớp nào của da?
+
+a. Lớp bì
+b. Mỡ dưới da
+c. Cân cơ
+d. Lớp thượng bì
+
+Câu 5. Một tác nhân gây bệnh từ bên ngoài xâm nhập vào cấu trúc da, thành phần nào sau đây có chức năng miễn dịch bảo vệ đầu tiên?
+
+a. Tế bào Langerhans
+b. Tế bào lympho
+c. Tế bào sừng
+d. Tế bào hắc tố
+
 # 2 SỰ PHÁT TRIỂN CỦA DA
 PGS.TS.BS. Văn Thế Trung,
 ThS.BS. Phạm Quốc Thảo Trang, ThS.BS. Trần Thị Thúy Phượng
@@ -53,7 +148,55 @@ Sự phát triển của da bắt đầu trong giai đoạn phôi thai qua tín 
 
 Trong giai đoạn tiếp theo của tạo phôi thai, tế bào biểu mô được thấy ở bề mặt ngoại bì hay đĩa ngoại bì thần kinh. Sau đó, tế bào ở bề mặt ngoại bì biệt hóa thành tế bào tạo sừng của thượng bì phôi thai, trong khi tế bào ngoại bì thần kinh cuộn thành ống để tạo ống thần kinh. Trong thượng bì còn có tế bào hắc tố, là dòng tế bào tách từ mào thần kinh. Trong khi đó, nguồn gốc của tế bào thuộc lớp bì khác nhau tùy theo vị trí cơ thể. Lớp bì và cấu trúc trung bì khác của da mặt và da đầu vùng trán bắt nguồn từ mào thần kinh trong khi nơi khác bắt nguồn từ trung bì.
 
-hòa tân tạo mạch như yếu tố tăng trưởng nội mô (vascular endothelial growth factor, VEGF) và thụ thể tyrosine kinase (Tie-1, Tie-2). Mạng lưới thần kinh được tạo thành vào giữa đến cuối tam cá nguyệt thứ nhất nhưng cũng biến đổi đáng kể trong các giai đoạn sau của thai kỳ và giai đoạn sớm sau sinh. Thần kinh và mạch máu da phát triển theo kiểu hình tương tự nhau, trong đó thần kinh theo hướng biệt hóa và phân nhánh của động mạch.
+2.1. Sự phát triển của thượng bì
+Sau khi hình thành phôi vị, một lớp biểu mô đơn của ngoại bì xuất hiện trên bề mặt phôi thai. Lớp này sẽ tiếp tục hình thành hệ thống thần kinh hoặc biểu mô da tùy thuộc vào tín hiệu phân tử. Lớp thượng bì phôi thai bao gồm một lớp các tế bào biểu mô đa tiềm năng, được bao phủ bởi một lớp đặc biệt được gọi là chu bì (periderm), chỉ có ở động vật có vú. Lớp chu bì được tạo bởi các tế bào tạo sừng nguyên thủy và có vai trò bảo vệ cho da mới hình thành cũng như trao đổi chất qua da với nước ối.
+
+Thượng bì phôi thai bắt đầu phân tầng vào khoảng tuần thứ 8. Tại thời điểm này, sự hình thành các cơ quan cơ bản đã hoàn tất và tùy xương bắt đầu tạo máu, đánh dấu sự chuyển tiếp từ giai đoạn phôi sang thai. Trong giai đoạn đầu của sự phân tầng, một lớp tế bào trung gian được tạo thành giữa lớp đáy và chu bì. Không giống tế bào tạo sừng bên trên lớp đáy trong thượng bì sau sinh, lớp trung gian gồm các tế bào đang tăng sinh. Do đó, các tế bào này có thể tăng nhanh để thích nghi với sự tăng trưởng nhanh của phôi thai. Tuy nhiên, sau đó lớp tế bào trung gian sẽ được thay thế bởi tế bào tạo sừng được biệt hóa.
+
+Quá trình biệt hóa bắt đầu trong tam cá nguyệt thứ hai, quá trình biệt hóa sau cùng hình thành tế bào tạo sừng trưởng thành (Hình 2-1). Sự sừng hóa sớm có thể xảy ra trong khoang lông vào tuần thứ 15, nhưng cho đến tuần thứ 22 – 24 mới xảy ra ở thượng bì giữa các nang lông và xảy ra đầu tiên ở da đầu, da lòng bàn tay, lòng bàn chân. Quá trình này bắt đầu khi tế bào trong lớp trung gian ngưng hoạt động chu kỳ tế bào đồng thời biệt hóa thành tế bào gai và hạt. Vào thời điểm sừng hóa, lớp chu bì tách khỏi lớp thượng bì bên dưới và bong vào trong dịch ối, phần còn lại tạo thành chất gây (vernix caseosa). Lớp sừng gồm các tế bào tạo sừng chết (“dead” keratinocytes) hay tế bào sừng (corneocytes), được bao xung quanh bởi chất nền lipid và các protein liên kết chéo.
+
+Phát triển hàng rào bảo vệ da tăng theo tuổi và sự trưởng thành của thượng bì hoàn tất vào tuần 34, có hình dạng tương tự thượng bì ở da người trưởng thành, mặc dù chưa đạt được đầy đủ chức năng hàng rào bảo vệ da cho đến vài tuần sau sinh. Thượng bì gồm bốn lớp, trong đó lớp sừng có vai trò chủ yếu trong chức năng hàng rào sinh lý bảo vệ. Kiếm khuyết trong quá trình hình thành vỏ bao sừng liên quan với bất thường tính thấm hàng rào bảo vệ da.
+
+[Hình: a, b, c, d, e, f, g]
+
+[Hình: Chú thích biểu đồ:
+- Ngoại bì ở bề mặt
+- Lớp đáy
+- Lớp chu bì
+- Lớp trung gian
+- Lớp gai
+- Lớp hạt
+- Lớp sừng]
+
+**Hình 2-1.** Sự phát triển phôi thai của thượng bì
+
+*a. Lớp thượng bì phát triển từ ngoại bì phôi; b. Tế bào của bề mặt ngoại bì tách khỏi đĩa thượng bì; c. Tế bào thượng bì bắt nguồn từ chu bì; d. Sự phân tầng thượng bì; e. Lớp trung gian trở nên dày; f. Tế bào trung gian biệt hóa thành tế bào gai và hạt; g. Lớp chu bì được thay thế bởi lớp tế bào sừng. (Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)*
+
+## Tương quan lâm sàng
+
+Một số bệnh lý da bẩm sinh ở người có bất thường di truyền ảnh hưởng một hay nhiều giai đoạn của tạo hình thái thượng bì. Tuy nhiên, không thấy bệnh lý bất thường toàn bộ thượng bì. Điều này có lẽ do nếu khiếm khuyết toàn bộ thượng bì thì phôi thai sẽ không thể tồn tại qua tam cá nguyệt thứ nhất.
+
+Đường Blaschko là đường di chuyển của tế bào thượng bì trong quá trình phát triển da. Những đường này không tương ứng với phân bố hệ thống thần kinh, cơ hay mạch bạch huyết. Bình thường không nhìn thấy đường Blaschko, nhưng sẽ biểu hiện rõ khi có bệnh da hay bệnh niêm mạc theo đường này, ví dụ như bớt thượng bì (epidermal nevi) (Hình 2-2) và bớt bã nhờn (sebaceous nevi) (Hình 2-3).
+
+[Hình: Bót thượng bì. Biểu hiện là sẩn sùi tăng sừng phân bố theo đường Blaschko ở mặt, cổ.]
+
+[Hình: Bót bã nhờn. Bót bã nhờn ở trẻ nhỏ biểu hiện là sẩn hình bầu dục, màu vàng, bề mặt bóng, có nhiều múi.]
+
+Các men transglutaminase-1, men xử lý lipid ($ALOXE3$, $ALOX12B$) và phân tử vận chuyển lipid ($ABCA12$) rất quan trọng trong việc hình thành vỏ bao sừng và hàng rào lipid trưởng thành. Những khiếm khuyết về các men này có thể gây bất thường trong việc hình thành hàng rào bảo vệ da. Tình trạng này dẫn đến bất thường trong quá trình biệt hóa và hình thành thượng bì. Một trong những biểu hiện lâm sàng của rối loạn này là trẻ sinh ra được bọc trong một màng trong suốt, bóng, căng, tạo bởi lớp sừng bất thường. Sau khi bong màng này, hầu hết sẽ biểu hiện bệnh da vảy cá thể lá hay đỏ da toàn thân dạng vảy cá bẩm sinh. Tuy nhiên, một số trường hợp vẫn phát triển da hoàn toàn bình thường.
+
+Bất thường gien FLG liên quan việc tạo hàng rào bảo vệ da với biểu hiện lâm sàng là viêm da cơ địa khởi phát sớm và nặng. Các sản phẩm thoái hóa của filaggrin như histidine góp phần vào sự hình thành môi trường acid và vai trò giữ ẩm của hàng rào bảo vệ da.
+
+Bất thường lớp sừng không chỉ xuất hiện ở trẻ nhũ nhi với bệnh da vảy cá, mà còn ở trẻ sinh non, đặc biệt trước tuần 28. Sự chưa trưởng thành của lớp sừng dần đến suy giảm chức năng hàng rào bảo vệ da, làm tăng nguy cơ nhiễm trùng, mất nước và hấp thu nhiều thuốc hay hóa chất khi dùng tại chỗ.
+
+## 2.2. Sự phát triển của lớp bì và mỡ dưới da
+
+Quá trình biệt hóa tế bào trung mô lớp bì rất phức tạp và chưa được hiểu hoàn toàn. Nguồn gốc của lớp bì và mỡ dưới da đa dạng hơn so với lớp thượng bì, phụ thuộc vào vị trí cơ thể. Mô bì ở mặt và phần trước da đầu xuất phát từ mào thần kinh. Điều này giúp giải thích dị dạng mặt trong hội chứng Waardenburg liên quan khiếm khuyết mào thần kinh. Mặt khác, mô bì ở lưng bắt nguồn từ phân đoạn da-cơ của đốt thân phôi, còn ở chi và mặt bụng thành cơ thể có nguồn gốc từ đĩa bên của trung bì phôi. Lmx1B (LIM homeobox transcription factor 1b) và Wnt7a đóng vai trò quan trọng trong quá trình biệt hóa mặt lưng của chi, trong khi đó En-1 (Engrailed-1) và BMP (bone morphogenetic protein) cần thiết cho quá trình biệt hóa mặt bụng của chi.
+
+Vào tuần 6–8, nguyên bào sợi mô bì đang phát triển. Tuy nhiên, tại thời điểm này không có ranh giới khác biệt rõ ràng giữa tế bào tạo mô bì và tế bào tạo cơ xương. Mặc dù tế bào của lớp bì phôi thai có thể tổng hợp collgen (loại I, III và IV) và một số thành phần vi sợi, nhưng những protein này không tạo thành phức hợp. Tỉ lệ của collagen III và collagen I là 3:1, tỉ lệ này đảo ngược ở người trưởng thành.
+
+Lớp bì bắt đầu tách biệt với mô bên dưới trong giai đoạn chuyển tiếp phôi và thai (thai khoảng 60 ngày tuổi). Vào tuần 12–15, tổ chức chất nền và hình dạng tế bào tiếp tục thay đổi, giúp phân biệt sợi mảnh của bì nhú với lớp bì lưới. Ở giai đoạn này, collagen bắt đầu tập hợp thành sợi và tiếp tục tích lũy trong lớp bì lưới. Các sợi elastin bắt đầu hình thành ở giữa thai kỳ và tiếp tục phát triển cho đến lúc sinh. Trong quá trình phát triển, đặc tính của lớp bì phôi thai sẽ biến đổi từ dạng keo giàu proteoglycan và có nhiều tế bào thành lớp bì ít tế bào, được tổ chức tốt hơn, dày và chắc hơn, giống lớp bì ở người trưởng thành, nhưng có nhiều tế bào hơn.
+
+Mạch máu của da bắt đầu hình thành sớm trong thai kỳ nhưng chúng chỉ phát triển giống người lớn cho đến sau sinh một vài tháng. Nhiều phân tử góp phần trong điều hòa tân tạo mạch như yếu tố tăng trưởng nội mô (vascular endothelial growth factor, VEGF) và thụ thể tyrosine kinase (Tie-1, Tie-2). Mạng lưới thần kinh được tạo thành vào giữa đến cuối tam cá nguyệt thứ nhất nhưng cũng biến đổi đáng kể trong các giai đoạn sau của thai kỳ và giai đoạn sớm sau sinh. Thần kinh và mạch máu da phát triển theo kiểu hình tương tự nhau, trong đó thần kinh theo hướng biệt hóa và phân nhánh của động mạch.
 
 Lúc thai khoảng 50 – 60 ngày tuổi, lớp mỡ dưới da tách biệt với lớp bì bởi mạng mạch máu có thành mỏng. Đến cuối ba tháng đầu, chất nền lớp này khác hoàn toàn với chất nền nhiều sợi của lớp bì. Khoảng ba tháng giữa, các tiền thân tế bào mỡ bắt đầu biệt hóa và tích trữ mỡ. Vào ba tháng cuối, các thùy mỡ và vách sợi bắt đầu xuất hiện. Vài yếu tố quan trọng trong quá trình biệt hóa của tế bào mỡ được tìm thấy như leptin (một hormon quan trọng trong điều hòa mỡ) và thụ thể được kích hoạt bởi yếu tố tăng trưởng peroxisome của các yếu tố sao mã.
 
@@ -64,6 +207,18 @@ Lúc thai khoảng 50 – 60 ngày tuổi, lớp mỡ dưới da tách biệt v�
 (a) Da có độ đàn hồi cao; (b) Khớp bàn ngón và liên đốt xa có thể gập quá biên độ của cử động bình thường. (Bản quyền của Lucy Left, ID: 1406894378 và ID: 1406899427)
 
 Khiếm khuyết di truyền của protein điều hòa quan trọng cho sự phát triển chất nền ngoại bào có thể dẫn đến bất thường da và các cơ quan khác. Ví dụ, đột biến gien protein-4 gắn TGF-β (transforming growth factor-β) gây ra bệnh da chùng nhão do khiếm khuyết sợi đàn hồi kèm dị dạng phổi, tiêu hóa và niệu dục nặng.
+
+Các rối loạn khác do phát triển bất thường của lớp bì gồm hội chứng Goltz di truyền trội nhiễm sắc thể giới tính X, đặc trưng bởi những vùng giảm sản lớp bì kèm thoát vị mỡ/ u quái mỡ phân bố theo đường Blaschko cũng như khiếm khuyết hệ xương và u nhú niêm mạc. Hội chứng Goltz được cho là do đột biến protein trong thượng bì điều hòa con đường tín hiệu Wnt phát triển lớp bì, điều này giải thích sự phân bố của giảm sản lớp bì dọc theo đường Blaschko.
+
+2.3. Sự phát triển của vùng nối bì-thượng bì
+
+Vùng nối bì-thượng bì điều hòa kết dính giữa tế bào tạo sừng lớp đáy và lớp bì, cung cấp để kháng chống lại lực xé trên da. Vùng này bao gồm màng đáy, chất ngoại bào tế bào đáy, phần cơ bản của tế bào đáy và cấu trúc sợi của bì nhú. Vùng nối bì-thượng bì khởi đầu là một màng đáy đơn giản, sau đó biến đổi thành một cấu trúc đa lớp, phức tạp trong tam cá nguyệt thứ hai. Vùng nối bì-thượng bì phôi thai gồm lớp lamina densa, lamina lucida, collagen IV, laminin, heparan sulfate và proteoglycan.
+
+Những thành phần đặc hiệu của vùng màng đáy như các protein của bán cầu nối và các vi sợi neo (anchor filament) được phát hiện đầu tiên trong giai đoạn chuyển tiếp phôi và thai. Vào cuối ba tháng đầu thai kỳ, tất cả các protein màng đáy đều nằm đúng vị trí. Hemidesmosome, filament gắn kết và fibril gắn kết được tổng hợp bởi tế bào tạo sừng ở lớp đáy, fibril gắn kết collagen VII ở dưới lamina densa; laminin 332 và kháng nguyên bóng nước dạng pemphigus cũng được biểu hiện tại thời điểm này. Vùng nối bì-thượng bì phôi thai tiếp tục phát triển tạo mào thượng bì và nhú bì có đặc trưng như ở người trưởng thành.
+
+**Tương quan lâm sàng**
+
+Nhiều bệnh bóng nước di truyền do tổn thương các protein của vùng nối bì-thượng bì, như ly thượng bì bóng nước (Hình 2-5). Độ nặng của bệnh, vị trí phân tách mô (vị trí bóng nước) và sự tổn thương mô khác không phải da phụ thuộc vào các protein liên quan và sự đột biến của chúng.
 
 [Hình: (a), (b)]
 
@@ -100,7 +255,200 @@ Trong tam cá nguyệt thứ hai, nang lông trưởng thành hơn, có bảy l�
 
 ## 2.4.2. Sự phát triển của tuyến bã
 
-Tuyến bã trưởng thành trong suốt quá trình biệt hóa của nang lông. Quá trình này bắt đầu lúc thai $13 - 16$ tuần tuổi, thời điểm mà tuyến bã sơ khai được thấy đầu tiên. Các tế bào trong tuyến bã lúc đầu chứa glycogen, sau đó các tế bào này trở nên to hơn và tích tụ những giọt lipid. Các tế bào bên ngoài của tuyến bã bắt đầu biệt hóa và tích trữ. Sau khi nửa giống cầu nối liên bào. Bán cầu nối liên bào là thành phần quan trọng trong thượng bì, đó là một cấu trúc của khung tế bào đáy để nối lớp đáy với màng đáy.
+Tuyến bã trưởng thành trong suốt quá trình biệt hóa của nang lông. Quá trình này bắt đầu lúc thai $13 - 16$ tuần tuổi, thời điểm mà tuyến bã sơ khai được thấy đầu tiên. Các tế bào trong tuyến bã lúc đầu chứa glycogen, sau đó các tế bào này trở nên to hơn và tích tụ những giọt lipid. Các tế bào bên ngoài của tuyến bã bắt đầu biệt hóa và tích trữ. Sau khi biệt hóa hoàn toàn, các tế bào này phân hủy và phóng thích các sản phẩm vào phần trên của ống lông, góp phần tạo chất gây.
+
+Các phân tử tín hiệu gây ra sự biệt hóa tuyến bã liên quan đến yếu tố phiên mã $c\text{-Myc}$ cũng như yếu tố phiên mã PPAR-$\gamma$ (adipogen peroxisome proliferator-activated receptor $\gamma$). Trong thời kỳ phôi thai, tuyến bã nhờn phát triển mạnh và có kích thước lớn. Sau khi sinh, kích thước giảm nhanh chóng và chỉ sau tuổi dậy thì mới tăng hoạt trở lại. Sự sản xuất chất bã gia tăng trong 3 tháng giữa và 3 tháng cuối thai kỳ, thời điểm mà hormon steroid của mẹ kích thích tuyến bã.
+
+## 2.4.3. Sự phát triển của móng
+
+Cấu trúc móng sơ khai bắt đầu xuất hiện ở mặt lưng của đầu ngón lúc thai $8 - 10$ tuần tuổi, hơi sớm hơn so với nang lông. Dấu hiệu đầu tiên là hình thành bề mặt phẳng, hình chữ nhật của giường móng. Giường móng là cấu trúc da đầu tiên trải qua sừng hóa, vào khoảng tuần 11. sự sừng hóa bắt đầu ở phần xa và hướng về phía nếp móng gần. Một phần của ngoại bì phôi hình thành nếp móng gần, ngay sát vùng móng ban đầu. Các tế bào mầm của móng (biệt hóa thành đĩa móng) hiện diện ở mặt bụng của nếp móng gần. Vào tuần 11, mặt lưng của giường móng bắt đầu sừng hóa. Khoảng tháng thứ 4 của thai kỳ, đĩa móng phát triển từ nếp móng gần và che phủ toàn bộ giường móng vào tháng thứ 5.
+
+Quá trình phát triển móng chân xảy ra trễ hơn vào tuần thứ 4 và tương tự với sự phát triển của móng tay.
+
+## 2.4.4. Sự phát triển của tuyến mồ hôi
+
+Tuyến mồ hôi nước bắt đầu phát triển ở bề mặt lòng bàn tay, lòng bàn chân từ các đệm trung bì phôi vào khoảng giữa thai $55 - 65$ ngày tuổi. Thai khoảng $12 - 14$ tuần, lớp tế bào nằm ở bề mặt ngoài của ngoại bì phôi được hình thành bên trên các đệm này. Tuyến mồ hôi nước xuất phát từ lớp tế bào này và phần tiết của tuyến được phát hiện khi thai khoảng 16 tuần. Phần ống tuyến ở lớp bì bắt đầu hình thành khoảng tuần 16, phần ống tuyến ở lớp thượng bì và lỗ mở ra da hình thành lúc thai 22 tuần.
+
+Ngược lại, tuyến mồ hôi dầu gắn với nang lông bắt đầu hình thành chồi từ phần trên của nang lông vào tháng thứ 5. Lúc thai khoảng 7 tháng, tế bào sáng và tế bào tiết chất nhầy (mucin) đặc trưng của tuyến mồ hôi dầu trở nên rõ ràng. Tuyến mồ hôi nhờn hoạt động trong thời gian ngắn ở tam cá nguyệt thứ ba và tiếp tục bất hoạt trong giai đoạn sơ sinh. Trái lại, tuyến mồ hôi nước trưởng thành và bắt đầu thực hiện chức năng ngay sau sinh.
+
+> **Tương quan lâm sàng**
+> Loan sản ngoại bì là nhóm bệnh rối loạn di truyền đặc trưng bởi phát triển bất thường hai hay nhiều phần phụ da như lông, tóc, răng, móng, tuyến mồ hôi và tuyến
+
+bã. Loạn sản ngoại bì có giảm tiết mồ hôi là dạng thường gặp, kèm giảm lông và thiếu răng. Bệnh lý này gây ra bởi đột biến gen dịch mã thành phần trong đường truyền tín hiệu EDA (ectodysplasin A), quan trọng cho khởi đầu hình thành tuyến mồ hôi, nang lông và răng.
+
+Ngoài đột biến gen cần cho sự phát triển phần phụ, loạn sản ngoại bì cũng có thể gây ra bởi đột biến gen quan trọng trong quá trình phát triển thượng bì. Trong những trường hợp này, có bất thường phần phụ do phá vỡ liên kết chéo giữa thượng bì và lớp bì đang phát triển. Đột biến gen TP63, quan trọng trong hình thành thượng bì, có thể gây nhiều dạng loạn sản ngoại bì như hội chứng gồm tật dính mi, tật thiếu ngón, loạn sản ngoại bì, sút môi và hở hàm ếch.
+
+Khiếm khuyết di truyền trong con đường tín hiệu Wnt, quan trọng cho phát triển phần phụ, sẽ có các biểu hiện như giảm lông bẩm sinh, loạn sản lớp bì, răng, móng và hội chứng Schöpf-Schulz-Passarge.
+
+## 3. SỰ THAY ĐỔI CỦA DA TRONG THỜI KỲ PHÁT TRIỂN SAU SINH
+
+Da là một cơ quan phức tạp, thực hiện nhiều chức năng quan trọng, đặc biệt là tạo hàng rào vật lý bảo vệ da khỏi các tác động của môi trường như ánh nắng mặt trời, ngăn sự xâm nhập của các tác nhân gây bệnh, điều hòa nhiệt độ cơ thể và nhận thức cảm giác. Trưởng thành về cấu trúc và chức năng da là một quá trình động học, bắt đầu tại thời điểm thụ tinh và tiếp tục phát triển trong giai đoạn sau sinh. Vì vậy, da trẻ sơ sinh khác với da người trưởng thành cả về mặt cấu trúc lẫn chức năng.
+
+### 3.1. Độ dày thượng bì
+
+Hình dạng thượng bì ở trẻ sau sinh tương tự người trưởng thành, nhưng chức năng hàng rào bảo vệ da vẫn chưa hoàn chỉnh nên dễ bị tổn thương với các kích thích từ môi trường như hóa chất, vi sinh vật. Do đó, da trẻ sơ sinh có tính thấm cao đối với thuốc thoa, có thể gây độc hệ thống, độc thần kinh, tổn thương cấu trúc cơ quan và thậm chí gây nguy hiểm tính mạng, nhất là khi sử dụng các chất tiêu sừng như lactic acid hay salicylic acid. Ngoài ra, sự hấp thu hệ thống của các chất qua da tăng ở trẻ nhỏ còn do diện tích bề mặt cơ thể lớn hơn so với trọng lượng cơ thể, kích thước tế bào sừng nhỏ hơn, lớp sừng mỏng hơn và có những vùng hay bị bít tắc như vùng tã lót. Vì vậy, các dạng viêm da đặc trưng như viêm da vùng tã lót cũng như tình trạng viêm da cơ địa dễ bùng phát, tái phát thường gặp ở trẻ nhỏ.
+
+Ngay sau sinh, da trẻ tương đối thô ráp và khô hơn so với trẻ lớn, có thể do đáp ứng tăng mất nước qua da khi trẻ tiếp xúc với môi trường bên ngoài từ cung. Các tế bào sừng có hoạt động tăng sinh mạnh hơn, khả năng giữ ẩm kém hơn, nồng độ yếu tố dưỡng ẩm tự nhiên và sự sản xuất lipid da thấp hơn so với người lớn. Do đó, da trẻ dễ nhạy cảm với kích ứng và viêm. Tình trạng tăng mất nước qua da ở trẻ sơ sinh xảy ra trên cánh tay, lòng bàn tay và vùng bẹn nhiều hơn so với các vị trí khác. Điều này có thể do những vùng này là nơi chức năng tuyến mồ hôi được hoàn thiện trước tiên.
+
+Liên kết giữa các tế bào trong thượng bì với vùng màng đáy vẫn còn yếu nên da trẻ dễ tổn thương, tạo mụn nước, bóng nước và mất nước qua da. Ví dụ như da trẻ mới sinh sẽ dễ bị bỏng nặng với nhiệt hơn so với trẻ lớn; trẻ nhỏ dễ mắc các bệnh nhiễm trùng da như chốc lây, chốc bóng nước.
+
+## 3.2. Độ dày lớp bì và mô dưới da
+
+Sợi collagen và sợi đàn hồi trong lớp bì ở trẻ nhỏ ít dày đặc hơn so với người lớn và không có sự chuyển tiếp rõ ràng giữa lớp bì lưới và bì nhú. Bề dày lớp mỡ dưới da cũng ít hơn so với người trưởng thành. Do đó, da trẻ nhỏ có khả năng giữ nhiệt và điều hòa nhiệt độ kém, nên dễ tăng thân nhiệt dưới kích thích của môi trường như nhiệt độ phòng, nóng, bít tắc.
+
+## 3.3. Tuyến bã và tuyến mồ hôi
+
+Tuyến bã tăng sản và nồng độ chất bã trong tuần đầu tiên sau sinh có thể cao do ảnh hưởng bởi androgen mẹ truyền qua nhau thai hay sản xuất androgen từ tuyến thượng thận trong giai đoạn phôi thai, nhưng giảm hoạt động 4 – 6 tuần sau sinh. Sự tăng hoạt động thoáng qua của tuyến bã trong giai đoạn đầu sau sinh dẫn đến trẻ sơ sinh hay gặp các rối loạn da như mụn trứng cá sơ sinh, viêm da tiết bã (Hình 2-7). Những bệnh lý này thường thoái lui khi trẻ lớn mà không cần điều trị. Mặt khác, hoạt động của hormon một lần nữa ảnh hưởng lên việc tăng sản xuất chất bã ở tuổi thanh thiếu niên, nên tỉ lệ bệnh mụn trứng cá cao ở tuổi dậy thì.
+
+[Hình: Viêm da tiết bã ở trẻ nhỏ]
+
+**Hình 2-7.** Viêm da tiết bã ở trẻ nhỏ
+
+Biểu hiện thường là dát, mảng tróc vảy nhẹ, đóng mày vàng, bã nhờn, dính ở vùng đỉnh và trước trán.
+
+Tuyến mồ hôi của trẻ sau sinh hoàn chỉnh về cấu trúc giải phẫu nhưng vẫn chưa trưởng thành hoàn toàn về mặt chức năng. Do đó, trẻ nhỏ giảm khả năng thích ứng với tác động nhiệt như chậm đáp ứng tiết mồ hôi khi nhiệt độ tăng, nên dễ bị tăng thân nhiệt.
+
+## 4. KẾT LUẬN
+
+Mặc dù vẫn còn nhiều khoảng trống kiến thức về sự hình thành và phát triển da trong phôi thai, nhiều tiến bộ khoa học đã diễn giải và phác họa quá trình rất phức tạp này một cách hệ thống. Từ đó giải thích các chức năng sinh lý cũng như các rối loạn bệnh lý một cách sáng tỏ hơn. Sau khi sinh, sự phát triển da bao gồm thay đổi về cấu trúc và chức năng da là một quá trình vừa mang đặc tính di truyền vừa thích nghi môi trường. Ở mỗi một độ tuổi có đặc tính đa khác nhau, nên cần có một số lưu ý đặc biệt để chăm sóc da cho từng lứa tuổi được tối ưu.
+
+TÀI LIỆU THAM KHẢO
+
+1. Adya Keshavmurthy A., Inamadar Arun C. (2015), "Skin of the Newborn: Physiological and Pathological Changes", PG Textbook of Pediatrics: Volume 3: Systemic Disorders and Social Pediatrics, The Health Sciences Publisher, chapter 48.1.
+2. Brownell Isaac, Loomis Cynthia A. et al. (2018), "Skin Development and Maintenance", Dermatology, Elsevier Saunders, chapter 2, pp. 56 – 62.
+3. Luis Garza (2019), "Developmental Biology of the Skin", Fitzpatrick's dermatology in general medicine, McGraw-Hill, New York, chapter 4, pp. 50 – 60.
+4. McGrath John A., Uitto Jouni (2016), "Structure and Function of the Skin", Rooks textbook of Dermatology, John Wiley & Sons, Wiley Blackwell, chapter 2, pp. 2.3 – 2.5.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Câu 1. Lớp bì có nguồn gốc từ lá phôi nào sau đây?
+- a. Trung bì phôi và nội bì phôi
+- b. Nội bì phôi và ngoại bì phôi
+- c. Trung bì phôi và ngoại bì phôi
+- d. Nội bì, trung bì và ngoại bì phôi
+
+Câu 2. Tế bào nào sau đây có nguồn gốc từ mào thần kinh?
+a. Tế bào tạo sừng
+b. Tế bào bã
+c. Tế bào Langerhans
+d. Tế bào hắc tố
+
+Câu 3. Câu nào sau đây đúng khi nói về sự phát triển tuyến mồ hôi dầu?
+a. Chức năng hoàn chỉnh và hoạt động ngay sau khi sinh
+b. Hoạt động mạnh trong tam cá nguyệt một của thai kỳ
+c. Ngưng hoạt động sau sinh kéo dài cho đến tuổi dậy thì
+d. Kích thước lớn do androgen của mẹ truyền qua nhau
+
+Câu 4. Kết quả mô học của thương tổn da có hình ảnh bóng nước dưới thượng bì thì thành phần nào sau đây là đích tác động của tự kháng thể gây biểu hiện này?
+a. Liên kết giữa các tế bào tạo sừng trong lớp đáy
+b. Các thành phần trong lớp bề mặt ngoại bì phôi
+c. Liên kết giữa các tế bào tạo sừng và màng đáy
+d. Các thành phần cấu tạo của vùng nối bì và thượng bì
+
+Câu 5. Biểu hiện nào sau đây do khiếm khuyết trong quá trình phát triển lớp bì?
+a. Có hiện tượng tăng sừng dày toàn thân
+b. Trẻ sinh ra bọc trong màng trong suốt
+c. Có biểu hiện bóng nước chùng, dễ vỡ
+d. Da có độ đàn hồi kém, căng quá mức
+
+# SINH HỌC TẾ BÀO TẠO SỪNG VÀ LIÊN KẾT GIAN BÀO
+
+BS.CKI. Nguyễn Lê Trà Mi
+
+**Mục tiêu học tập**
+
+- Trình bày được sự phân chia và biệt hóa của tế bào tạo sừng.
+- Mô tả được cấu tạo lớp sừng.
+- Giải thích được mối liên hệ giữa cấu tạo và chức năng của lớp sừng.
+- Mô tả được liên kết desmosome và giải thích sự biểu hiện một số bệnh lý thường gặp.
+
+## 1. MỞ ĐẦU
+
+Thượng bì bao gồm chủ yếu là các lớp tế bào tạo sừng (keratinocyte) xếp tầng một cách trình tự và chúng liên kết với nhau tạo thành hàng rào bảo vệ các chức năng. Sở dĩ có tên gọi là tế bào tạo sừng là vì chức năng sinh tổng hợp nhiều chất sừng keratin, là các protein sợi có vai trò chính là nâng đỡ cấu trúc, ngoài ra còn có vai trò điều hòa chức năng tế bào.
+
+## 2. SỰ PHÂN CHIA VÀ BIỆT HÓA CỦA TẾ BÀO TẠO SỪNG
+
+Tế bào tạo sừng có nguồn gốc từ tế bào ngoại bì. Quá trình biệt hóa tế bào là một chuỗi sự thay đổi hình dạng và chuyển hóa tế bào phức tạp do gen điều hòa và quy định, kết quả hình thành các tế bào sừng (chết) gồm các sợi keratin, protein nền, màng bảo tương được gia cố bởi protein và lớp lipid bề mặt.
+
+Keratin là các sợi trung gian có vai trò cấu trúc chính bên trong tế bào và tạo sự đàn hồi cho tế bào tạo sừng. Keratin là dấu ấn cho nguyên vẹn của thượng bì. Keratin liên quan đến các chức năng cơ bản khác của tế bào như sự phát triển của chu kỳ tế bào, hoạt động chuyển hóa và sự chết theo chương trình.
+
+Ở người, có 54 gen tổng hợp các keratin chức năng khác nhau đã được xác định. Biểu hiện phụ thuộc vào loại tế bào, loại mô, giai đoạn phát triển, giai đoạn biệt hóa và loại bệnh lý.
+
+## 2.1. Lớp đáy
+ Lớp đáy nằm trên màng đáy, gồm chủ yếu các tế bào tạo sừng hình trụ, nhân trục dài, thẳng hay còn gọi là tế bào đáy. Tế bào đáy thông qua các sợi keratin (K5 và K14) gắn với màng đáy tại hemidesmosome và gắn với các tế bào xung quanh qua desmosome. Lớp tế bào đáy bao gồm tế bào gốc, tế bào chuyển tiếp (transit amplifying cell), tế bào sau nguyên phân. Thông qua sự phân chia tế bào không đối xứng, các tế bào gốc sẽ tạo ra một tế bào gốc và một tế bào chuyển tiếp. Những tế bào chuyển tiếp tiếp tục trải qua vài lần phân chia trước khi bắt đầu quá trình biệt hóa. Sau đó, các tế bào chuyển tiếp tạo ra các tế bào sau nguyên phân tiếp tục bước vào quá trình biệt hóa (Hình 3-1).
+
+Thời gian tế bào bắt đầu rời lớp đáy di chuyển lên lớp sừng ít nhất là 14 ngày. Thời gian tế bào đi qua lớp sừng và sau đó tróc ra là 14 ngày.
+
+[Hình: Biệt hóa, tăng sinh, SC, TA, SP, sự phân lớp]
+
+**Hình 3-1.** Quá trình phân chia của tế bào tạo sừng ở lớp đáy
+
+SC: stem cell; TA: transit-amplifying; SP: spinous
+
+(a) Mô hình phân chia đối xứng, gồm 3 bước liên quan đến tế bào chuyển tiếp; (b) Mô hình phân chia không đối xứng, gồm 2 bước và không liên quan đến tế bào chuyển tiếp. (Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)
+
+## 2.2. Lớp gai
+ Lớp gai được đặt tên theo tế bào gai do rìa tế bào giống các gai trên hình ảnh mô học. Tế bào hình đa giác với nhân tròn, nằm trên lớp đáy, xếp từ 6 – 20 hàng.
+
+Khi tế bào biệt hóa và di chuyển lên phía trên thượng bì, nó dẹt hơn và chứa các hạt lamellar.
+
+Tế bào gai chứa các bó sợi keratin lớn nằm xung quanh nhân và gắn vào các desmosome ở ngoại vi có vai trò tổng hợp cặp keratin K1/K10. Những sợi keratin này là đặc điểm của quá trình biệt hóa thượng bì.
+
+Sinh học tế bào tạo sừng và liên kết gian bào
+
+Quá trình biệt hóa thông thường này sẽ bị thay thế bởi quá trình tăng sinh. Ví dụ trong trường hợp vảy nến, việc tổng hợp K1/K10 và protein bị ức chế, ngược lại tăng tổng hợp K6/K16 dẫn đến mRNA K6/K16 được dịch mã gây kích thích sự phân bào và gây bất thường quá trình biệt hóa lớp hạt và lớp sừng phía trên.
+
+Những “gai” của tế bào gồm nhiều cầu nối liên bào (desmosome) và sự thay đổi bề mặt tế bào phụ thuộc vào can-xi thúc đẩy sự kết dính các tế bào thượng bì, chống lại các stress cơ học. Desmosomes là những cầu nối trung gian cần cho sự kết dính giữa các tế bào. Khi những cấu trúc này bị phá vỡ bởi các rối loạn về di truyền, tự kháng thể, protease của vi khuẩn sẽ gây ra bệnh lý bóng nước. Những hạt lamellar cũng được tạo ra trong lớp này. Những hạt chế tiết này sẽ phóng thích lipid vào khoảng gian bào.
+
+Những hạt lamellar chứa glycoprotein, glycolipid, phospholipid, sterol tự do, lipase, protease, acid phosphatase và glycosidase. Glycosylceramide, tiền chất của ceramide, thành phần chính trong lipid lớp sừng nằm trong các thành phần trên. Khi lên đến lớp hạt trên cùng, hạt lamellar sẽ hòa màng và giải phóng lipid vào khoảng gian bào tạo thành lớp lipid gian bào giúp da giữ nước tránh khô da.
+
+## 2.3. Lớp hạt
+
+Lớp hạt được đặt tên theo tế bào hạt do bên trong tế bào chứa chủ yếu các hạt keratohyalin ưa kiềm. Lớp này là những tế bào dẹt nằm ở trên lớp gai, gồm 3 – 4 hàng tế bào, nhân sáng.
+
+Hạt keratohyalin bao gồm profilaggrin, sợi keratin và loricrin.
+
+Tại lớp này, profilaggrin chuyển thành filaggrin, sau đó thoái hóa thành axit urocanic và axit pyrrolidone carboxylic. Các sợi keratin họp lại thành những sợi lớn hơn. Loricin là protein giàu cysteine, thành phần chính tạo nên vỏ tế bào lớp sừng.
+
+Giai đoạn cuối của quá trình biệt hóa từ tế bào hạt thành tế bào sừng chính là sự phá hủy theo chương trình của tế bào. Hầu hết nhân và các thành phần khác của tế bào đều bị phá hủy ngoại trừ sợi keratin và chất nền filaggrin.
+
+## 2.4. Lớp sừng
+
+Ở lớp ngoài cùng của da, tế bào tạo sừng trở nên dẹt hoàn toàn, màng bào tương dày, nhân biến mất, trong bào tương chỉ còn keratin, được gọi là tế bào sừng.
+
+Lớp sừng tạo nên hàng rào bảo vệ da với 2 thành phần tế bào sừng giàu protein được bao quanh bởi lớp vỏ bao protein và ngoài cùng là lớp vỏ bao lipid và lớp lipid ngoại bào giàu cholesterol, acid béo tự do và ceramide tạo nên cấu trúc “gạch-vữa” (Hình 3-2). Các tế bào sừng là những viên gạch và chất gian bào là xi măng gắn các tế bào sừng lại với nhau, thành một khối vững chắc có chức năng ngăn mất nước qua da và ngăn sự xâm nhập của chất có hại vào cơ thể từ bên ngoài. Lớp lipid với cấu trúc dạng phiến (lamellar)
+
+giúp điều hòa tính thấm, sự bong tróc vảy, hoạt động của các peptide kháng khuẩn trong lớp sừng, ngăn chặn độc tố, hấp thu hóa chất có chọn lọc. Tế bào sừng còn có chức năng tăng cường cơ học, hydrat hóa, khởi đầu cytokin trung gian gây viêm, bảo vệ tổn thương do tia cực tím.
+
+[Hình: Cấu trúc phiên bình thường và Cấu trúc phiên bị phá vỡ. Lớp sừng, Tế bào sừng, Mất dưỡng ẩm, Cấu trúc phiên, Lipid, Dưỡng ẩm, Lipid, Lipid, Dưỡng ẩm, Lipid]
+
+**Hình 3-2.** Cấu trúc hàng rào bảo vệ ở da bình thường và da khô
+
+Hàng rào bảo vệ da có chức năng ngăn chặn sự mất nước và sự xâm nhập của yếu tố từ bên ngoài. Khi hàng rào bảo vệ da tổn thương, có sự gia tăng mất nước qua da và các yếu tố dị ứng, vi sinh xâm nhập gây bệnh. (Bản quyền của Yomogi1, ID: 1339059230)
+
+## 2.5. Sự biểu hiện một số bệnh lý thường gặp
+
+Bệnh viêm da cơ địa đặc trưng bởi tổn thương hàng rào bảo vệ da do bất thường biệt hóa bao gồm thay đổi keratin và protein vỏ bao lớp sừng như involucrin, loricrin và filaggrin và thành phần lipid (Hình 3-3). Tổn thương hàng rào bảo vệ da dẫn đến sự xâm nhập các dị nguyên trong không khí vào da kích hoạt phản ứng miễn dịch gây viêm. Đột biến filaggrin được xem là yếu tố di truyền mạnh nhất trong bệnh này. Filaggrin thủy phân có tác dụng giữ ẩm nội sinh, do đó đột biến filaggrin sẽ làm giảm khả năng giữ ẩm tự nhiên dẫn đến khô da. Đây là cơ chế điển hình trong viêm da cơ địa. Ngoài ra, việc giảm đi nồng độ lipid (ceramide) và giảm hoạt động sphingomyelinase cũng làm tăng mất nước qua da.
+
+Sinh học tế bào tạo sừng và liên kết gian bào
+
+[Hình: Viêm da cơ địa]
+
+Hình 3-3. Viêm da cơ địa
+
+Vảy nến là bệnh hệ thống mạn tính, có biểu hiện là hồng ban tróc vảy do tăng sinh (Hình 3-4) và biệt hóa bất thường tế bào tạo sừng dẫn tới tăng sừng và á sừng (tế bào sừng còn nhân). Tổn thương di truyền trong vảy nến liên quan đến biệt hóa thượng bì được ghi nhận là phức hợp 1q21 và K17.
+
+[Hình: Bệnh vảy nến]
+
+Hình 3-4. Bệnh vảy nến
+
+## 3. LIÊN KẾT GIAN BÀO
+
+### 3.1. Các liên kết gian bào trong thượng bì
+
+Những cấu trúc liên kết trong thượng bì bao gồm cầu nối liên bào, bán cầu nối liên bào (hemidesmosome). Những liên kết này giúp các tế bào liên kết với nhau và liên kết với màng đáy một cách vững chắc, cung cấp cho da khả năng bảo vệ chống lại ảnh hưởng cơ học, vật lý hoặc sinh học.
+
+Cầu nối liên bào chịu trách nhiệm chính cho liên kết trong thượng bì. Thành phần chính gồm protein họ cadherins (desmogleins, desmocollins), họ plakins (desmoplakin, envoplakin, periplakin), họ armadillo (plakoglobin, plakophilins). Bán cầu nối liên bào (hemidesmosome) gồm đồng dạng plakin, integrins và protein collagen xuyên màng, một nửa giống cầu nối liên bào. Bán cầu nối liên bào là thành phần quan trọng trong thượng bì, đó là một cấu trúc của khung tế bào đáy để nối lớp đáy với màng đáy.
 
 Desmosome là cấu trúc bề mặt tế bào và phụ thuộc can-xi do bó sợi keratin từ trong tế bào chạy ra liên kết với phần xuyên màng và gắn vào tế bào tạo sừng kế bên (Hình 3-5). Protein desmoglein có 4 loại, desmoglein 1, 2, 3, 4. Desmoglein 1 có vai trò trong bệnh học của rối loạn nhiễm trùng chốc bóng nước và hội chứng tróc da do tụ cầu, bệnh vảy cá di truyền liên hệ với hội chứng Netherton. Tìm thấy tự kháng thể của desmoglein 1 trong bệnh pemphigus lá, pemphigus thông thường ở niêm mạc và pemphigus cận tân sinh. Đột biến nhiễm sắc thể trội gây đơn bội của desmoglein 1 dẫn đến dày sừng lòng bàn tay, chân. Desmoglein 2 có vai trò trong bệnh lý tim mạch ở người do di truyền nhiễm sắc thể trội bệnh cơ tim thất phải sinh rối loạn nhịp. Sự thiếu hụt của desmoglein 2 không cần thiết cho liên kết thượng bì. Desmoglein 3 gặp trong bệnh học tự kháng thể của pemphigus thông thường ở niêm mạc và da, pemphigus cận tân sinh. Desmoglein 4 gặp trong đột biến di truyền nhiễm sắc thể lặn của ít lông, tóc và bệnh tóc kết hạt.
 
@@ -168,7 +516,18 @@ d. Yếu tố ẩm tự nhiên
 
 a. Tế bào tạo sừng chỉ phân chia ở lớp gai
 
-b. Tế bào gốc biểu bì phân chia và biệt hóa trong lớp đáy
+b. Tế bào gốc biểu bì phân chia và biệt hóa trong lớp đáy c. Tế bào tạo sừng di chuyển từ lớp đáy lên lớp sừng là 14 ngày.
+d. Tế bào sừng sau 38 ngày sẽ bị bong ra. 14 ngày
+**Câu 4.** Khi bóng nước xuất hiện ở cả da và niêm mạc trong bệnh pemphigus thông thường, cơ thể xuất hiện tự kháng thể chống lại desmoglein nào sau đây?
+a. Desmoglein 1 và desmoglein 4
+b. Desmoglein 3 và desmoglein 1
+c. Desmoglein 1 và không có desmoglein 3
+d. Desmoglein 3 và không có desmoglein 4
+**Câu 5.** Trong hội chứng bong vảy da do tụ cầu (hội chứng 4S) với sự xuất hiện bóng nước ở da, mà không tổn thương niêm mạc, cơ thể xuất hiện tự kháng thể chống lại desmoglein nào sau đây?
+a. Desmoglein 1 và desmoglein 4
+b. Desmoglein 3 và desmoglein 1
+c. Desmoglein 1 và không có desmoglein 3
+d. Desmoglein 3 và không có desmoglein 1
 
 # 4 SINH HỌC CỦA TẾ BÀO HẮC TỐ
 TS.BS. Lê Thái Vân Thanh
@@ -246,7 +605,37 @@ Hắc tố là một nhóm phân tử polyme phức tạp được tạo thành 
 | V | Da nâu-sậm hay gặp ở người Trung Đông | Rất hiếm khi bỏng nắng, rất dễ rám nắng |
 | VI | Da đen | Không bao giờ bỏng nắng, rất dễ rám nắng |
 
-sáng mặt trời, tăng sửa chữa thymine dimer, giảm nồng độ hydrogen peroxide do tia UV tạo ra và ngăn quá trình chết theo chương trình.
+6. QUÁ TRÌNH TỔNG HỢP HẮC TỐ
+
+Hắc tố được tổng hợp, lắng đọng và vận chuyển trong túi hắc tố trong bào tương của tế bào hắc tố. Quá trình tạo hắc tố là tổng hợp và phân bố hắc tố trong thượng bì, gồm nhiều giai đoạn: dịch mã protein cần thiết cho tạo hắc tố; sinh tổng hợp; vận chuyển protein tạo hắc tố vào trong túi hắc tố; vận chuyển túi hắc tố đến đầu của tua gai tế bào hắc tố và chuyển đến các tế bào tạo sừng. Một trong những giai đoạn trên bị phá vỡ sẽ dẫn đến giảm hắc tố.
+
+6.1. Các phản ứng sinh hóa tạo hắc tố diễn ra trong túi hắc tố
+
+Tyrosinase (TYR) là men chính xúc tác cho bước chuyển đổi đầu tiên trong con đường sinh tổng hợp hắc tố. Đầu tiên, TYR xúc tác phản ứng oxy hóa acid amin tyrosine thành 3,4-dihydroxyphenylalanine (DOPA), sau đó chất này nhanh chóng bị oxy hóa với sự hiện diện của tyrosinase thành dopaquinone. Sau khi tạo dopaquinone, con đường tổng hợp hắc tố chia thành 2 hướng là tổng hợp eumelanin nâu-đen hay pheomelanin đỏ-vàng (Sơ đồ 4-1).
+
+Khi có sự hiện diện của thiol (cysteine, glutathione [§*hay*] thioredoxin), quinone trong dopaquinone sẽ phản ứng với thiol tạo cysteinylDOPA, sau đó được oxy hóa và polymer hóa tạo thành pheomelanin vàng đỏ. Khi không có thiol, dopaquinone sẽ chuyển thành dopachrome. Trp2 (dopachrome tautomerase) xúc tác phản ứng chuyển dopachrome thành dạng trung gian ổn định hơn gọi là 5,6-dihydroxyindole-2-carboxylic acid (DHICA). Tiếp theo, Trp1 hay tyrosinase xúc tác chuyển DHICA thành indolequinone 5,6-quinone-2-carboxylic acid, cuối cùng sẽ trở thành eumelanin nâu. Bên cạnh đó, dopachrome cũng có thể bị khử làm mất carboxylic acid dẫn đến tạo 5,6-dihydroxy indole (DHI). Tyrosinase xúc tác cho phản ứng chuyển DHI thành indole-5,6-quinone, sau đó chất này sẽ được oxy hóa và polymer hóa để tạo eumelanin đen (Sơ đồ 4-1).
+
+**Sơ đồ: Sinh tổng hợp hắc tố**
+- Tyrosine --> Tyrosinase --> DOPA --> Tyrosinase --> DOPAquinone
+- DOPAquinone --> DHI --> Tyrosinase --> Indole 5,6-quinone --> DHI melanin (Đen, Không tan, TLPT cao)
+- DOPAquinone --> DOPAchrome --> TRIP-2 --> Indole 5,6-quinone carboxylic acid --> Tyrosinase or TRIP-2 --> DHICA melanin (Nâu, Hòa tan kém, TLPT trung bình)
+- DOPAquinone --> CysteinylDOPA --> Alanyl-hydroxy-benzothiazine --> Pheomelanin (Đỏ/vàng, Hòa tan, TLPT thấp)
+
+**Sơ đồ 4-1.** Sinh tổng hợp hắc tố 3,4-dihydroxyphenylalanine (DOPA); 5,6-dihydroxy indole (DHI); tyrosinase-related protein-2 (TRIP-2); trọng lượng phân tử (TLPT). (Nguồn: “Fitzpatrick, et al (2012), Dermatology in general medicine”)
+
+Hắc tố lắng đọng trong túi hắc tố sau khi được tạo thành. Bào quan này sẽ di chuyển bằng vi ống vào đinh tua gai để vận chuyển hắc tố đến các tế bào tạo sừng lân cận trong thượng bì hay trong chất nền lông, tóc ở giai đoạn anagen. Hai loại protein điều hòa quá trình này gồm kinesin và dynein, hoạt động như những cấu trúc cầu nối giúp gắn túi hắc tố vào vi ống. Tiếp theo, túi hắc tố sẽ hòa màng với màng bào tương của tế bào hắc tố và giải phóng hắc tố vào trong khoảng gian bào. Các tế bào tạo sừng lân cận sẽ thực bào những hắc tố này. Quá trình vận chuyển hắc tố từ tế bào hắc tố sang tế bào tạo sừng là yếu tố chính góp phần tạo nên màu sắc da.
+
+## 6.2. Điều hòa quá trình tạo hắc tố
+
+Acid amin tyrosin là nguyên liệu cho khởi đầu quá trình sản xuất hắc tố. Tyrosinase là men điều hòa chính giúp kiểm soát những phản ứng sinh hóa khởi đầu trong con đường sinh tổng hợp hắc tố. Men này được dịch mã bởi gien OCA gồm OCA1A và OCA1B. Đột biến gien OCA1A dẫn đến mất hoàn toàn hoạt động của men, do đó không thể tìm thấy hắc tố trong da, lông, tóc và mắt. Tuy nhiên, đột biến gien OCA1B chỉ dẫn đến giảm hoạt động men, pheomelanin vẫn được sản xuất, đặc biệt trong lông, tóc ở người lớn tuổi vì việc tạo pheomelanin cần hoạt động của men tyrosinase ít hơn trong việc tạo eumelanin. Ngoài ra, tyrosinase còn là men cần nguyên tố đồng và có 2 vùng gắn đồng trong cấu trúc phân tử của men. Trong một số hiếm trường hợp thiếu đồng dẫn đến giảm sắc tố da lan tỏa.
+
+Bên cạnh đó còn nhiều yếu tố khác ảnh hưởng đến hoạt động của những protein chính trong tạo hắc tố gồm $\alpha$-MSH, bFGF (basic fibroblast growth factor), endothelin-1 ligand và tia UV.
+
+MSH có 3 dạng gồm $\alpha$, $\beta$ và $\gamma$, cùng với ACTH (adrenocorticotropic hormone), $\beta$-endorphin là các sản phẩm của gien POMC (proopiomelanocortin). MSH và ACTH là những chất kích thích tạo hắc tố mạnh. Ở người, $\alpha$-MSH là dạng hoạt động chính của MSH. MSH ngoài liên hệ với sắc tố, còn có đặc tính sinh học là ức chế viêm và điều hòa trọng lượng cơ thể. Do đó, đột biến POMC có thể gây béo phì nặng khởi phát sớm, suy thượng thận và tóc đỏ. Melanocortin có 5 loại thụ thể chính (MCR1-5), trong đó MCR1 biểu hiện trên nhiều tế bào trên da nhưng mật độ cao nhất trên tế bào hắc tố. Khi MSH gắn vào MCR1 thì phức hợp này sẽ tương tác với protein G. Sau đó, tiểu đơn vị GTP-G$\alpha$ hoạt hóa adenylate cyclase, dẫn đến tăng sản xuất cAMP (cyclic adenosine monophosphate) trong tế bào hắc tố. Hiện tượng này làm tăng hoạt động của men tyrosinase và sản xuất eumelanin. Nếu MCR1 bị rối loạn chức năng, sẽ gây thất bại trong quá trình khởi phát tăng nồng độ cAMP nội bào, dẫn đến tạo pheomelanin chiếm ưu thế. Ngoài tác động trên protein tạo hắc tố và tổng hợp eumelanin, $\alpha$-MSH cũng được báo cáo giúp tăng sửa chữa tổn thương DNA trong tế bào hắc tố do tia UV và giảm nồng độ hydrogen peroxide trong tế bào.
+
+Yếu tố tăng trưởng bFGF cũng có thể gây tăng hàm lượng sắc tố trong tế bào hắc tố. bFGF kích thích tăng trưởng nguyên bào sợi, là một trong những protein kích thích quá trình nguyên phân của tế bào hắc tố. Yếu tố bFGF được sản xuất bởi tế bào tạo sừng, chất này gắn vào thụ thể xuyên màng tyrosine kinase dẫn đến kích hoạt quá trình nguyên phân. Yếu tố bFGF tương tự những cytokine khác từ tế bào tạo sừng được tăng điều hòa khi bị chiếu tia UV.
+
+Peptide Endothelin-1 (ET-1) được sản xuất bởi tế bào tạo sừng, làm tăng sinh tế bào hắc tố, thúc đẩy tạo tua gai và tăng hoạt động tyrosinase. Ngoài ra, ET-1 cũng có tác dụng hiệp đồng với các yếu tố tăng trưởng hoặc các cytokine khác như giúp tăng điều hòa nồng độ và ái lực MC1R với $\alpha$-MSH. Tương tự $\alpha$-MSH, ET-1 có hiệu quả bảo vệ da khỏi ánh sáng mặt trời, tăng sửa chữa thymine dimer, giảm nồng độ hydrogen peroxide do tia UV tạo ra và ngăn quá trình chết theo chương trình.
 
 Bên cạnh các yếu tố kích thích tạo hắc tố, BMP-4 và sphingolipids là một số các chất làm giảm tạo hắc tố. Sphingolipids là một nhóm lipid, hoạt động như những chất dẫn truyền tín hiệu. BMP-4 là một chất ức chế tạo hắc tố khác, làm giảm điều hòa biểu hiện tyrosinase trong tế bào hắc tố. Thực nghiệm cho thấy chiếu tia UV liều sinh lý gây kích thích tạo hắc tố mạnh đồng thời làm giảm biểu hiện thụ thể BMP trên tế bào hắc tố.
 
@@ -343,6 +732,30 @@ a. Quy định màu da, mắt, lông, tóc, móng
 b. Giúp cơ thể tổng hợp sinh tố D
 c. Giúp cơ thể điều hòa thân nhiệt
 d. Giúp bảo vệ cơ thể khỏi tác dụng có hại của tia cực tím
+
+**Câu 2.** Câu nào sau đây đúng khi nói về quá trình tổng hợp hắc tố?
+- a. Màng túi hắc tố (melanosome) được tạo thành từ nhân tế bào hắc tố
+- b. Bắt đầu quá trình tạo hắc tố ở bên trong túi hắc tố từ giai đoạn IV
+- c. Sinh tổng hợp men tyrosinase chỉ xuất hiện trong giai đoạn bắt đầu quá trình tạo hắc tố
+- d. Hòa và tách màng các túi hắc tố với màng các tế bào tạo sừng giúp phát tán hắc tố tại các lớp tế bào của thượng bì
+
+**Câu 3.** Đặc điểm nào sau đây đúng theo phân loại da Fitzpatrick?
+- a. Da càng sáng màu, càng dễ rám nắng
+- b. Da càng sậm màu, càng dễ bỏng nắng
+- c. Da càng sáng màu, luôn luôn dễ bỏng nắng
+- d. Loại 4 theo phân loại da theo Fitzpatrick có đặc tính bỏng nắng và rám nắng mức độ vừa
+
+**Câu 4.** Phân loại da theo Fitzpatrick có bao nhiêu loại?
+- a. Có 4 loại
+- b. Có 5 loại
+- c. Có 6 loại
+- d. Có 7 loại
+
+**Câu 5.** Câu nào sau đây đúng khi nói về sự phát triển của tế bào hắc tố?
+- a. Tế bào hắc tố nguyên thủy được hình thành từ 3 tháng giữa của thai kỳ
+- b. Tế bào hắc tố bắt đầu hoạt động melanin hóa sớm vào khoảng tuần thứ 16 của thai kỳ
+- c. Trong suốt quá trình hình thành phôi thai, tế bào hắc tố hoạt động chỉ tồn tại ở lớp thượng bì
+- d. Tế bào hắc tố phân bố ở thượng bì, mắt, tai, màng não
 
 # SINH HỌC CHẤT NỀN NGOẠI BÀO LỚP BÌ
 
@@ -779,6 +1192,92 @@ b. Bệnh chàm
 c. U mạch phẳng
 d. Viêm mao mạch
 
+# CẤU TRÚC VÀ CHỨC NĂNG CỦA LÔNG TÓC MÓNG BS.CKI. Lê Minh Phúc
+
+> **Mục tiêu học tập**
+> - Trình bày được cấu trúc và chức năng của lông tóc.
+> - Trình bày được chu trình phát triển của lông tóc.
+> - Trình bày được cấu trúc và chức năng của móng.
+> - Giải thích được một số biểu hiện bất thường liên quan đến rối loạn cấu trúc lông tóc móng.
+
+## 1. MỞ ĐẦU
+
+Phần phụ của da bao gồm lông, tóc, móng với những vai trò khác nhau trong chức năng tổng thể của da. Lông, tóc, móng là các cấu trúc biểu mô cứng nhất có nguồn gốc từ thượng bì của da và có đặc tính đổi mới thường xuyên. Các phần phụ này đảm nhận nhiều chức năng của cơ thể như bảo vệ, điều hòa nhiệt độ, cảm giác, thẩm mỹ...
+
+## 2. LÔNG TÓC
+
+### 2.1. Phân loại
+
+Có hai loại lông (tóc) được phân biệt dựa vào kích thước, đó là lông tận (terminal hair) và lông tơ (vellus hair).
+
+Lông tận có đường kính lớn hơn 60 µm, có màu và có một lõi tủy ở trung tâm. Thời gian của giai đoạn phát triển quyết định chiều dài của lông. Sợi tóc có thể phát triển dài hơn 100 cm. Hành (bulb) của lông tận trong giai đoạn phát triển nằm ở lớp hạ bì. Lông tận bao gồm tóc, lông mày và lông mi.
+
+Lông tơ có đường kính nhỏ hơn 30 µm, không màu và không có lõi tủy ở trung tâm. Chiều dài của lông tơ thường ngắn hơn 2 cm. Hành của lông tơ trong giai đoạn phát triển nằm ở lớp bì lưới. Lúc dậy thì lông tơ ở vùng sinh dục, thân, nách, quai hàm chuyển thành lông tận dưới ảnh hưởng của hormone giới tính.
+
+### 2.2. Cấu tạo
+
+Cấu tạo của lông tóc bao gồm hai phần, đó là thân và nang. Trong đó, thân là phần lộ ra ngoài da và nang là phần chìm trong da (Hình 7-1).
+
+Da liễu cơ bản
+
+Nang có cấu tạo gồm phần trên cố định và phần dưới tái tạo mới theo mỗi chu kì phát triển lông tóc. Phần trên của nang lông tóc bao gồm phễu (infundibulum) và eo (isthmus).
+
+Thân là thành phần phát triển dài ra từ sự biệt hóa nhanh chóng của tế bào tạo sừng ở hành lông tóc với tỉ lệ biệt hóa cao nhất trong cơ thể (tế bào gốc phân chia mỗi $23 - 72$ giờ). Các tế bào của sợi lông tóc tương lai nằm ở đỉnh nhù bì và sẽ tạo thành tủy, vỏ, biểu bì của thân. Biểu bì bao phủ toàn bộ sợi lông tóc nhưng không có ở vùng ngọn. Bên trong biểu bì có chứa sắc tố. Sự toàn vẹn và đặc tính của biểu bì được phản ánh qua bề mặt lông tóc. Phần vỏ được sắp xếp ở dạng những cấu trúc giống sợi cáp lớn gọi là vi sợi (microfibril).
+
+Cấu trúc cắt ngang của sợi lông tóc từ ngoài vào trong gồm có 6 thành phần, bao gồm vỏ mô liên kết (connective tissue sheath), bao rễ ngoài (outer root sheath-ORS), bao rễ trong (inner root sheath-IRS), biểu bì (cuticle), vỏ thân (shaft cortex) và tủy thân (shaft medulla). Bao rễ ngoài là phần liên tục với thượng bì ở vùng phễu và liên tục xuống dưới đến hành lông tóc. Tế bào của bao rễ ngoài thay đổi đáng kể xuyên suốt nang lông tóc. Đi từ trên xuống bào rễ ngoài lớn dần và chứa nhiều glycogen hơn. Ở hành lông tóc, bao rễ ngoài chỉ bao gồm 1 lớp đơn tế bào phẳng dẹt.
+
+Bao rễ trong kéo dài từ hành đến vùng eo và bao gồm 4 lớp từ ngoài vào trong, đó là lớp Companion, lớp Henle, lớp Huxley và biểu bì vỏ trong.
+
+Hành lông tóc chứa tế bào gốc phân chia mỗi $23 - 72$ giờ, nhanh hơn bất kì tế bào nào trong cơ thể.
+
+[Hình: Cấu trúc lông tóc]
+- Tủy lông, tóc
+- Vỏ
+- Biểu bì tóc
+- Tuyến bã
+- Bao rễ trong
+- Bao rễ ngoài
+- Mầm lông
+- Nhú
+- Cơ dựng lông
+- Hành lông
+
+Hình 7-1. Cấu trúc lông tóc
+
+Cấu trúc của lông tóc bao gồm hai phần, đó là thân tóc và nang tóc (eo, phễu và phần dưới). Từ ngoài vào trong, lông có cấu tạo từ 6 thành phần, đó là vỏ mô liên kết, bao rễ ngoài, bao rễ trong, biểu bì tóc, vỏ thân sợi tóc và tủy thân sợi tóc. (Bản quyền của Fancy Tapis, ID: 1358608064)
+
+76
+
+Cấu trúc và chức năng của lông tóc móng
+
+2.3. Chu kì phát triển nang lông tóc
+
+Lông tóc phát triển dài ra với tốc độ 0,37 – 0,44 mm mỗi ngày, tương đương 1cm mỗi tháng. Chu kì phát triển nang lông tóc bao gồm 3 giai đoạn, đó là giai đoạn phát triển, giai đoạn chuyển tiếp và giai đoạn nghỉ (Hình 7-2).
+
+Giai đoạn phát triển (anagen) là giai đoạn quyết định chiều dài của lông tóc, vì vậy nó khác nhau tùy vị trí cơ thể. Tóc da đầu có giai đoạn phát triển kéo dài nhất, khoảng 2 – 8 năm. Giai đoạn phát triển ở những vị trí khác thì ngắn hơn, chẳng hạn như chân là 5 – 7 tháng, tay là 1,5 – 3 tháng, lông mi là 1 – 6 tháng và ngón tay là 1 – 3 tháng. Lông tóc có đặc điểm phát triển không đồng bộ, chỉ khoảng 90 – 93% tóc tồn tại ở giai đoạn này.
+
+Giai đoạn chuyển tiếp (catagen) thường kéo dài khoảng hai tuần và 3% tóc ở giai đoạn này. Thời gian của giai đoạn chuyển tiếp ít thay đổi. Trong giai đoạn này, sự phát triển chậm lại, bao rễ ngoài co rút lại và gắn vào chân tóc tạo thành sợi tóc hình dùi trống (club hair), không còn máu nuôi dưỡng.
+
+Giai đoạn nghỉ (telogen) thường kéo dài khoảng 3 tháng với khoảng 1% tóc ở giai đoạn này. Tóc ở giai đoạn này có một chất đặc khô màu trắng ở chân tóc. Trung bình tóc có thể rụng khoảng 50 – 100 sợi mỗi ngày.
+
+[Hình: Giai đoạn phát triển (anagen), Giai đoạn chuyển tiếp (catagen), Giai đoạn nghỉ (telogen), Giai đoạn phát triển sớm (anagen)]
+
+- Thân lông, tóc
+- Tuyến bã
+- Nang tóc
+- Thượng bì
+- Đầu tận thần kinh
+- Nhú lông
+- Lớp bì
+- Cơ dựng lông
+- Mầm lông
+
+Hình 7-2. Chu kì phát triển nang lông lông tóc
+
+Nang lông tóc phát triển theo ba giai đoạn lần lượt là giai đoạn phát triển, giai đoạn chuyển tiếp và giai đoạn nghỉ. (Bản quyền của Lemberg Vector studio, ID: 500460820)
+
+77
+
 2.4. Chức năng
 Lông tóc có nhiều chức năng, bao gồm điều hòa thân nhiệt (giữ ấm), truyền thông tin cảm giác. Ngoài ra, nó hoạt động như một rào cản đối với các vật lạ. Lông tóc còn là một phần quan trọng của vẻ bề ngoài và tạo ra bản sắc giới tính.
 
@@ -795,6 +1294,51 @@ Rụng tóc với da đầu sạch, không sẹo, tập trung ở vùng đỉnh 
 
 [Hình: Hình 7-4. Rụng tóc từng vùng]
 Nhiều mảng rụng tóc kích thước khoảng 3x5cm, da đầu sạch, không đỏ, không sẹo. (Hình được cung cấp bởi BS. V. T. Trung)
+
+3. MÓNG 3.1. Chức năng Móng có nhiều chức năng tương đối hữu ích với cuộc sống hằng ngày, đặc biệt là chức năng thẩm mỹ. Móng giúp bảo vệ phần xa của ngón và giúp cầm nắm vật thể nhỏ. Ngoài ra, móng cũng được sử dụng để cào gãi và tắm rửa, cũng như là vũ khí bảo vệ tự nhiên có hiệu quả.
+3.2. Cấu tạo 3.2.1. Thành phần cấu tạo Thành phần cấu tạo của móng bao gồm chất sừng (keratin), lipid, nước và yếu tố vi lượng (sắt, kẽm, can-xi). Móng cứng khỏe là nhờ thành phần protein của chất sừng giàu cystein và dẻo nhờ thành phần nước. Chất sừng của móng sắp xếp theo hướng ngang, vì vậy móng thường sẽ bị gãy theo chiều ngang hơn là chiều dọc. Nước bình thường chiếm 18% đĩa móng. Tuy nhiên, tỉ lệ này thay đổi rất nhiều vì móng xốp cho phép nó giữ hay mất nước nhanh chóng. Móng mất nước nhanh hơn khi dài ra. Khi tỉ lệ nước của móng thấp hơn 18% thì móng sẽ giòn hơn, còn khi trên 30% thì móng đục và mềm. Lipid chiếm tỉ lệ dưới 5% chủ yếu là cholesterol. Thành phần này chịu ảnh hưởng của hormone và giảm sau khi mãn kinh.
+3.2.2. Cấu trúc Đĩa móng (nail plate) là cấu trúc sừng hóa hoàn toàn và được tạo ra mới suốt cuộc đời. Đĩa móng được tạo ra từ mầm móng thượng bì và gắn chặt với giường móng (nail bed). Vùng gần và hai bên của đĩa móng được bao quanh bởi nếp móng (nail fold). Ở đầu tận cùng của ngón, đĩa móng phân tách với mô bên dưới ở biểu bì dưới móng. Đĩa móng có hình chữ nhật, trong mờ và trong suốt, cong cả theo chiều dọc và ngang, đặc biệt là móng chân. Bề mặt đĩa móng trơn láng, nhưng thường có những sọc dọc nhẹ tăng dần theo tuổi. Hình dạng của những sọc này có thể dùng để giám định pháp y. Đĩa móng có màu hồng đồng nhất, ngoại trừ ở bờ tự do thì màu trắng. Màu hồng của đĩa móng là do mạch máu ở giường móng.
+Phần gần của móng tay, đặc biệt là ngón cái, có một vùng màu hơi trắng mờ, hình bán nguyệt, gọi là liềm móng (lunula). Đây là phần nhìn thấy được của mầm móng. Ở vùng này, đĩa móng gắn với thượng bì bên dưới một cách lỏng lẻo.
+Trên 90% móng tay có một dải ngang mỏng màu trắng ở phần xa (onychocorneal band), kích thước 1 – 1,5 mm. Đây là màng chắn bảo vệ, cho nên bất thường vùng này dẫn đến tách rời đĩa móng và giường móng.
+
+Đĩa móng dày dần từ bờ gần đến bờ xa. Móng tay mỏng hơn, trung bình là 0,6 mm ở nam và 0,5 mm ở nữ. Độ dày của móng tăng dần theo tuổi, nhất là 20 năm đầu. Độ dày này phụ thuộc vào chiều dài của mầm móng và giường móng. Móng mỏng thường do bất thường mầm móng, trong khi móng dày thì do bất thường giường móng.
+
+[Hình: Cấu trúc móng]
+- Xoang
+- Rễ móng
+- Liềm móng
+- Mầm móng
+- Đĩa móng
+- Giường móng
+- Bờ tự do
+- Biểu bì dưới móng
+- Xương
+
+**Hình 7-5.** Cấu trúc móng
+
+Cấu trúc móng bình thường với các thành phần chính là đĩa móng, giường móng, mầm móng và các nếp móng. (Bản quyền của Designua, ID: 1026317005)
+
+Nếp móng gần (proximal nail fold) là một nếp da, phần lưng (dorsal) có cấu tạo giống da phần lưng ngón nhưng mỏng hơn và không có đơn vị nang lông tuyến bã, phần dưới (ventral) không thể nhìn thấy từ bên ngoài. Lớp sừng của nếp móng gần tạo thành biểu bì trên móng (cuticle) được gắn chặt với đĩa móng nông và ngăn sự tách rời đĩa móng khỏi nếp móng. Sự toàn vẹn của biểu bì trên móng là cần thiết cho sự ổn định ở vùng này. Lớp bì của nếp móng gần có rất nhiều mao mạch máu chạy song song với bề mặt da, có thể quan sát dễ dàng dưới kính hiển vi. Hình thái học của mao mạch ở nếp móng gần biến đổi trong các bệnh mô liên kết.
+
+Mầm móng (nail matrix) là một cấu trúc thượng bì đặc biệt nằm trên phần giữa của đốt ngón xa. Trên mặt cắt dọc mầm móng có hình chữ V, gồm phần gần và phần xa. Tế bào tạo sừng của mầm móng phân chia ở lớp đáy và không có lớp hạt. Quá trình trưởng thành và biệt hóa của tế bào tạo sừng ở mầm móng không theo hướng thẳng đứng như ở thượng bì, mà theo hướng xiên.
+
+Tế bào hắc tố (melanocyte) ở mầm móng thường không hoạt động nên không phát hiện được trên mô bệnh học. Tuy nhiên nó có men cần cho việc sản xuất hắc tố (melanin), và tái hoạt động dưới một số tình trạng sinh lý và bệnh lý, tạo ra sắc tố dạng dải hay khuếch tán ở móng, thường gặp ở người da đen và người Nhật. Tế bào hắc tố không hoạt động (không có men) hiện diện thưa thớt ở mầm móng và giường móng, còn tế bào hắc tố hoạt động thì nằm ở mầm móng xa.
+
+**Giường móng** (nail bed) kéo dài từ bờ xa của liềm móng đến dải bì móng (onychodermal band) và có thể được nhìn thấy rõ qua đĩa móng. Thượng bì của giường móng mỏng và gồm $2-5$ lớp tế bào, gắn với đĩa móng rất chặt. Giường móng tạo ra khoảng $1/5$ đĩa móng.
+
+**Biểu bì dưới móng** (hyponychium) là khoảng giữa giường móng và rãnh xa, nơi đĩa móng tách ra khỏi lưng đốt ngón.
+
+**Lớp bì không có nang lông tuyến bã.** Móng không có lớp hạ bì. Sự định hướng theo chiều dọc của mao mạch máu trong rãnh giường móng giải thích cho sự xuất huyết giường móng theo dạng đường.
+
+**Mạch máu và thần kinh** của móng có rất nhiều, bắt nguồn từ động mạch ngón bên. Mạch máu chạy dọc hai bên ngón, với phần nhánh nuôi dưỡng mầm móng và nếp móng gần và phần cung nuôi dưỡng mầm móng và giường móng. Thần kinh cảm giác chạy dọc mạch máu.
+
+## 3.3. Sự phát triển của móng
+
+Móng phát triển trong suốt cuộc đời người. Móng tay dài nhanh hơn móng chân, trung bình khoảng $3\text{ mm}$ mỗi tháng đối với móng tay và $1\text{ mm}$ với móng chân. Do đó, để có móng mới hoàn toàn thì cần $100-180$ ngày (sáu tháng). Khi rút đĩa móng ra thì cần $40$ ngày để móng mới mọc dần từ nếp móng gần và $120$ ngày nữa để mọc dài ra đến đầu ngón. Thời gian cần để tái tạo mới móng chân là $12-18$ tháng.
+
+Tỉ lệ phát triển móng khác nhau giữa mỗi người và khác nhau giữa các ngón trên cùng một người. Tỉ lệ này do tế bào ở mầm móng quyết định và bị ảnh hưởng bởi một số tình trạng sinh lý và bệnh lý. Tỉ lệ này chậm lúc sinh, sau đó tăng dần, tối đa lúc $20-30$ tuổi và sau $50$ tuổi thì giảm đáng kể.
+
+Những tình trạng làm móng phát triển chậm bao gồm bệnh hệ thống, rối loạn dinh dưỡng, bệnh mạch máu và thần kinh ngoại biên, thuốc ức chế phân bào. Móng phát triển nhanh hơn trong thai kì, vảy nến, chấn thương móng, sử dụng retinoid hay itraconazole.
 
 3.4. Bất thường liên quan đến rối loạn cấu trúc móng
 
@@ -896,6 +1440,32 @@ Hoạt động của tuyến mồ hôi giúp duy trì thân nhiệt, ngăn ngừ
 | **CHỨC NĂNG** | Điều hòa nhiệt độ | Không rõ/cảm xúc, giao tiếp khứu giác | Không rõ/có thể điều nhiệt |
 
 * Được tìm thấy ở vài nghiên cứu trên da vùng nách bình thường
+
+Cấu trúc và chức năng các tuyến ở da
+
+[Hình: Cấu trúc của tuyến mồ hôi]
+- Thân lông, tóc --> Lớp thượng bì
+- Tuyến bã
+- Cơ dựng lông
+- Tuyến mồ hôi nước
+- Lớp bì
+- Tuyến mồ hôi dầu
+- Mô mỡ
+
+**Hình 8-1.** Cấu trúc của tuyến mồ hôi.
+Tuyến mồ hôi nước (eccrine) có ống tuyến dài, mỏng, đổ ra bề mặt da. Trong khi tuyến mồ hôi dầu (apocrine) có ống tuyến ngắn, dày, đổ vào phần trên của nang lông. (Bản quyền của Timonina, ID: 626528498)
+
+## 2.3. Các rối loạn thường gặp liên quan đến tuyến mồ hôi nước
+
+Mồ hôi là dịch điện giải vô trùng chủ yếu chứa muối NaCl, kali và bicarbonate. Một số thành phần khác gồm có peptide kháng khuẩn (dermcidin), men ly giải protein, glucose, pyruvate, lactate, urea, ammonia, calcium, acid amin, yếu tố tăng trưởng thượng bì, cytokine và globulin miễn dịch. Một số hợp chất hữu cơ và kim loại nặng cũng bài tiết qua mồ hôi.
+
+Chất lượng và số lượng của bài tiết qua mồ hôi rất thay đổi tùy theo yếu tố cảm xúc và kích thích từ môi trường. Do đó, kích thước của tuyến mồ hôi có thể thay đổi để phù hợp với mức độ hoạt động thể lực của mỗi người.
+
+Những rối loạn do tiết mồ hôi thường xảy ra do nhiều nguyên nhân, bao gồm rối loạn trung tâm điều nhiệt tại não, thay đổi tại hạch giao cảm tuỷ sống hoặc rối loạn tại synapse trên tuyến mồ hôi.
+
+### 2.3.1. Tăng tiết mồ hôi nguyên phát (primary hyperhidrosis)
+
+Tình trạng này ảnh hưởng đến gần sáu triệu người trẻ tuổi trên toàn thế giới và ảnh hưởng nặng nề đến hoạt động hàng ngày cũng như giao tiếp xã hội. Cơ chế được biết là do tăng hoạt động của tuyến mồ hôi nước đáp ứng với kích thích nhiệt hoặc thần kinh.
 
 Da liễu cơ bản
 
@@ -1830,6 +2400,33 @@ Hầu hết các tế bào T CD8+, được định sẵn để trở thành t�
 
 Để kích hoạt tính đặc hiệu kháng nguyên của tế bào T CD4+, các peptide có nguồn gốc kháng nguyên ngoại sinh được trình diện thông qua các phân tử MHC nhóm II. Khi đó các peptide được tạo ra trong con đường nội bào, endosome/lysosome và liên kết với các phân tử MHC nhóm II. Phức hợp MHC-pepide được hiển thị ở bề mặt tế bào trình diện kháng nguyên khi gặp thụ thể tế bào T của các tế bào T CD4+. Trong sự trình diện kháng nguyên phụ thuộc MHC nhóm II, các tế bào tua (bao gồm tế bào Langerhans và tế bào tua ở lớp bì), tế bào B và tế bào đơn nhân/đại thực bào được kích hoạt là quần thể tế bào trình diện kháng nguyên chính. Trong số này, các tế bào tua hoạt động như một tế bào trình diện kháng nguyên chuyên nghiệp, tức là, có khả năng di chuyển và kích thích các phản ứng đặc hiệu kháng nguyên của các tế bào T ngây thơ, nghỉ ngơi.
 
+**Sơ đồ: Con đường xử lý kháng nguyên**
+- Tế bào T CD8+
+- Tế bào T NKT/DNT
+- Tế bào T CD4+
+- Kháng nguyên lipid
+- TCR
+- Con đường MHC I
+- Proteasome
+- Con đường CD1
+- TAP
+- MHC nhóm I
+- MHC nhóm II
+- Lưới nội bào
+- Endosome
+- pH < 5
+- Con đường MHC II
+
+Hình 11-3. Con đường xử lý kháng nguyên
+
+*MHC: major histocompatibility complex; NKT: natural killer T; TAP = transporter associated with antigen processing; TCR = T-cell receptor. (Đỗ hoa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)*
+
+### 3.2.1. Tế bào tua (dendritic cell – DC)
+
+DC là APC duy nhất có khả năng tương tác với các tế bào T ngây thơ. Tùy thuộc vào trạng thái kích hoạt DC (tức là trưởng thành so với chưa trưởng thành), sự tiếp xúc tế bào sẽ dẫn đến phản ứng tế bào T sinh sản hoặc không sinh sản. Các DC hiện diện ở mọi loại mô trong cơ thể trong điều kiện cân bằng nội môi (DC bản địa) và tình trạng viêm (DC viêm). Cả DC bản địa và DC viêm đều xuất phát từ tế bào gốc tạo máu và tế bào tổ tiên trong tủy xương. Tế bào tiền thân của DC có thể được tìm thấy ở nhiều vị trí trên khắp cơ thể như tủy xương, tuyến ức cũng như các cơ quan bạch huyết ngoại vi bao gồm ca mau. Khi đến nơi cư trú, chúng hoặc trải qua một quá trình biệt hóa hoặc duy trì mật độ của chúng bằng cách tự đổi mới. Các DC viêm chủ yếu được huy động vào các mô từ các tế bào tiền thân ở máu ngoại biên sau khi nhận được tín hiệu nguy hiểm. Chúng có thể không tạo thành một tiểu quần thể DC, nhưng đại diện cho trạng thái kích hoạt của một DC nhất định.
+
+Ở ngoại vi, các DC biệt hóa tập trung ở các khu vực ngoại mạch, tim vi khuẩn xâm nhập trong môi trường xung quanh và luôn cho phép chúng bắt giữ kháng nguyên một cách hiệu quả với sự trợ giúp của các vị trí thực thể đặc hiệu.
+
 ### 3.2.2. Tế bào tua ở da bình thường và da bệnh
 
 Về cơ bản, da người bình thường tìm thấy một số APC bao gồm tế bào Langerhans (LC) thượng bì và tế bào tua ở lớp bì (dermal DC). LC và DDC là tế bào bạch cầu dòng-âm tính (lineage-negative, Lin-) có nguồn gốc từ tủy xương, có kiểu hình và chức năng giống với các DC khác có trong hầu hết các mô bạch huyết và không phải bạch huyết. Chúng là người gác cổng của hệ thống miễn dịch, kiểm soát phản ứng khi mô bị tổn thương và/hoặc cân bằng nội môi.
@@ -2054,6 +2651,30 @@ Nhìn chung, các vị trí có sự đa dạng lớn về vi sinh vật có xu 
 Sự khác biệt giữa các thành viên trong cộng đồng vi khuẩn và cấu trúc cộng đồng ở các vùng da đối xứng ít hơn so với sự thay đổi giữa từng người. Các vi khuẩn cư trú ở vùng da nhờn chủ yếu là *Propionibacterium spp.* và một số đại diện từ Betaproteobacteria (ngành Proteobacteria) và Flavobacteriales (ngành Bacteroidetes). Mặc dù cả ba loại vi khuẩn này cũng được tìm thấy trên nếp khuỷu và gót chân, nhưng số lượng *Propionibacterium spp.* thấp hơn nhiều so với Betaproteobacteria và *Staphylococcus spp.* tại các vị trí này.
 
 143
+
+Sự phân bố vi khuẩn ở các vị trí như nếp khuỷu, lưng, cánh mũi và gót chân của người này giống với một người khác ở cùng các vị trí này, hơn là bất kỳ vị trí nào khác trên cùng một người. Điều này có nghĩa là vị trí cơ thể là yếu tố quyết định thành phần vi sinh vật hơn so với sự khác biệt di truyền của từng cá nhân ở người khỏe mạnh.
+
+3.4. Vi sinh vật khác ngoài vi khuẩn
+
+Đa số vi nấm được tìm thấy ở da người khỏe mạnh là Malassezia spp. Trong một nghiên cứu, Malassezia spp. chiếm 53 – 80% trong tổng dân số vi nấm ở da, tùy thuộc vào vị trí, mà nhiều nhất là nếp sau tai.
+
+Phân tích dựa trên nuôi cấy thấy rằng Candida spp. hiếm khi xâm nhập da người, nhưng có thể gây nhiễm trùng trên lâm sàng nhất là ở người suy giảm miễn dịch, đái tháo đường hoặc sử dụng kháng sinh kéo dài.
+
+Mạt Demodex (như Demodex folliculorum và Demodex brevis) là những động vật chân đốt nhỏ, có liên quan đến trứng cá đỏ và nhiều bệnh da khác như ngứa da mặt và viêm bờ mi mạn tính. Demodex cư ngụ tại đơn vị nang lông tuyến bã vùng da mặt và được xem là chủng thường trú ở da bình thường.
+
+4. BỆNH DA VÀ MỐI LIÊN QUAN VỚI THẢM VI SINH VẬT
+
+4.1. Viêm da tiết bã
+
+Viêm da tiết bã là một bệnh da tăng sinh và ngứa, ảnh hưởng điển hình ở da đầu. Bệnh được nghĩ có liên hệ nhiều đến Malassezia spp. Bệnh sẽ cải thiện khi số lượng Malassezia spp. ở da đầu giảm. Tuy nhiên, Malassezia spp. hiện diện ở da khỏe mạnh và không đủ gây viêm da tiết bã trừ khi có nhiều yếu tố khác góp phần vào cơ chế bệnh sinh và gây ra bệnh.
+
+4.2. Mụn trứng cá
+
+Propionibacterium acnes là một vi trùng thường trú ở đơn vị nang lông tuyến bã, có liên quan đến mụn trứng cá ở tuổi dậy thì. Ở tuổi dậy thì, nang lông tuyến bã trưởng thành và P. acnes gia tăng. P. acnes tiết ra các men lipase, protease và hyaluronidase làm tổn thương đơn vị nang lông tuyến bã và gây viêm.
+
+4.3. Viêm da cơ địa
+
+Viêm da cơ địa là bệnh da mạn tính và hay tái phát, có liên quan đến sự xâm nhập của vi trùng và nhiễm trùng. Hơn 90% bệnh nhân viêm da cơ địa tìm thấy S. aures ở cả da tổn thương và da không tổn thương so với 5% ở người khỏe mạnh.
 
 Thảm sinh vật ở da
 
@@ -2844,6 +3465,20 @@ Da liễu cơ bản
 
 **Định nghĩa**: Là sang thương nhô trên mặt da hình cao nguyên chiếm một phần lớn diện tích bề mặt trên 1cm, giới hạn thường rõ.
 
+[Hình: Mảng sùi mào gà] Hình 15-9. Mảng sùi mào gà
+*Cơ chế*
+- Do sự hợp nhất của nhiều sẩn. Ví dụ: vảy nến.
+- Hiện tượng lichen hóa: Có giới hạn thường không rõ, da dày lên và có biểu hiện nổi bật so với vùng da khác, thường gặp trong chàm, chàm thể tạng, vảy nến, lichen simplex chronicus, mycosis fungoides.
+- Do sự hơi gồ lên của da, nằm giữa dát và khoảng. Ví dụ: á vảy nến, Kaposi sarcoma.
+
+**2.5. Mụn nước**
+
+[Hình: Mụn nước] Hình 15-10. Mụn nước *(Bản quyền của Designua, ID: 386526817)*
+
+***
+
+*Định nghĩa:* Là sang thương lỏng chứa dịch trong, nhô cao trên mặt da và đường kính nhỏ hơn 1cm.
+
 Da liễu cơ bản
 
 [Hình: Mụn nước rải rác trên nền hồng ban trên bệnh nhân chàm]
@@ -2864,6 +3499,31 @@ Da liễu cơ bản
 *(Bản quyền của Designua, ID: 386526817)*
 
 **Định nghĩa:** Là sang thương lỏng chứa dịch trong, nhô cao trên mặt da và đường kính nhỏ hơn 1cm.
+
+[Hình: Bóng nước trong bệnh lý thượng bì bóng nước bẩm sinh]
+
+**Cơ chế**
+
+Trong thượng bì: Thường do hiện tượng tiêu gai.
+
+- Nếu ở lớp nông: Pemphigus hồng ban.
+- Nếu ở lớp sâu: Pemphigus thông thường.
+
+Dưới thượng bì: Phân tách vùng nối bì-thượng bì. Ví dụ: bóng nước dạng pemphigus.
+
+**Nguyên nhân thường gặp**
+
+**Di truyền:** Tiêu thượng bì bóng nước gồm vùng nối (lặn), loạn dưỡng (trội và lặn), đơn giản (trội)
+
+**Vật lý:** Nóng và lạnh, tia xạ (ví dụ: tia cực tím), tiếp xúc hóa chất, cọ xát.
+
+**Viêm:** Tụ cầu (chốc dạng bóng nước), liên cầu, herpes, zona, bệnh tay chân miệng, pemphigus, vết cắn côn trùng, hồng ban đa dạng.
+
+**Xâm lấn:** Ung thư, amyloidosis.
+
+**Miễn dịch:** Pemphigus, bóng nước dạng herpes, viêm da dạng herpes, bệnh IgA đường, lupus đỏ hệ thống, lichen phẳng, porphyria da muộn.
+
+**Do thuốc:** Hồng ban sắc tố cố định, hồng ban đa dạng, phát ban nhạy cảm ánh sáng, bóng nước dạng pemphigus, hội chứng Lyell.
 
 u bản
 
@@ -2916,6 +3576,28 @@ Vảy có khi tiên phát (da vảy cá), có khi thứ phát (chàm).
 Có nhiều loại vảy: Có loại như phấn, có loại như phiến mica, có loại thật dày như vỏ sò.
 
 [Hình: Hình 15-18. Vảy trong bệnh da vảy cá (Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)]
+
+**Cơ chế:** Do rối loạn sự keratin hóa của thượng bì.
+
+**Nguyên nhân thường gặp**
+
+- Vảy mịn: Vảy phấn hồng, lang ben, chàm
+- Vảy mica: Vảy nến, pemphigus lá
+- Vảy cá: Da vảy cá
+- Viền vảy tróc: Nhiễm liên cầu trùng
+- Vảy tróc thành mảng: Hội chứng Lyell
+
+3.2. **Vảy tiết – Mài**
+
+[Hình: Hình 15-19. Mài. (Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)]
+
+**Định nghĩa**
+
+Là khối huyết thanh đông lại, bên trong có bạch cầu đa nhân, hồng cầu, vi khuẩn hay sợi nấm.
+
+Tùy theo nguyên nhân, vảy tiết có màu sắc khác nhau: Vàng (huyết thanh), vàng xanh (mủ), đen (máu)...
+
+[Hình: Hình 15-20. Mài huyết thanh. (Nguồn: “Hướng dẫn chẩn đoán và điều trị bệnh da liễu bằng hình ảnh. Nhà xuất bản Y học, 2001”)]
 
 Da liễu cơ bản
 
@@ -3021,7 +3703,36 @@ Da liễu cơ bản
 **Hình 15-30. Sẹo**
 *(Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)*
 
-198 trường hợp teo do viêm hay thương tích, da trơn không còn những đường rãnh mặc dù dễ bị xếp nếp.
+198
+
+Sang thương cơ bản
+
+**Định nghĩa**
+- Tạo bởi mô sẹo tân sinh hay vùng mô đã bị mất hoặc bị viêm trong trường hợp lupus đỏ, lupus lao, giang mai.
+- Sẹo có thể phì đại do sự phát triển quá mức của chất tạo keo hoặc có thể teo. Trên bề mặt sẹo, da trơn mỏng và không có các bộ phận phụ như lông và tuyến.
+
+[Hình: Hình 15-31. Sẹo lồi]
+
+**Hình 15-31.** Sẹo lồi
+
+**Cơ chế**
+- Sau phẫu thuật hay sau chấn thương.
+- Sự phá hủy mô bì.
+
+**Nguyên nhân thường gặp:** Sẹo lồi, mụn trứng cá, zona, viêm tuyến mồ hôi mưng mủ, u máu, lupus.
+
+**3.7. Teo**
+
+[Hình: Hình 15-32. Sang thương teo da]
+
+**Hình 15-32.** Sang thương teo da
+
+(Đồ họa: Bộ môn Da liễu, ĐH Y Dược Tp. HCM)
+
+**Định nghĩa**
+**Teo thượng bì:** Thượng bì mỏng đi vì số lượng thượng bì giảm. Da có nhiều nếp nhăn, dễ xếp nếp, hơi trong nên có khi thấy được tĩnh mạch ở bên dưới. Nhưng trong
+
+trường hợp teo do viêm hay thương tích, da trơn không còn những đường rãnh mặc dù dễ bị xếp nếp.
 
 **Teo bì**: Da bị lõm xuống, teo bì có thể đi kèm với teo thượng bì. Ví dụ: vết rạn da (vergeture) mà thượng bì vẫn bình thường chỉ có bề dày của da giảm.
 

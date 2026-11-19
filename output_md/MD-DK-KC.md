@@ -304,6 +304,34 @@ Tóm lại, Module Miễn dịch – Đề kháng – Ký chủ nghiên cứu v�
 3. Richard J. Ziegler, Louise Hawley, Benjamin Clarke (2014). *Host-Parasite Relationship* (Chapter 1). In Microbiology and Immunology. Lippincott Williams & Wilkins, pp.3–4.
 4. Stephen A. Morse and Timothy A. Meitzner (2019). *GLOSSARY in Pathogenesis of Bacterial Infection* (Chapter 9). In Jawetz, Melnick & Adelberg’s (editors-in-chief). Medical Microbiology 28th edition, Prentice-Hall International Inc., pp.155–169.
 
+# Chương 1. Vi khuẩn
+
+Đại cương về Vi sinh học
+Cấu tạo và Sinh lý vi khuẩn
+PGS.TS.BS. Cao Minh Nga
+
+> **Mục tiêu học tập **
+> Sau khi học xong, sinh viên có khả năng:
+> 1. Hiểu được vị trí của vi khuẩn trong sinh giới.
+> 2. Mô tả, vẽ và chú thích đầy đủ sơ đồ cấu tạo tế bào vi khuẩn.
+> 3. Phân biệt được vách tế bào vi khuẩn Gram dương và Gram âm.
+> 4. Liên hệ cấu trúc với chức năng của vách, màng và các thành phần khác ở tế bào vi khuẩn.
+> 5. Lý giải tầm quan trọng của hoạt động vận chuyển thụ động và chủ động qua màng.
+
+**1. ĐỐI TƯỢNG NGHIÊN CỨU VÀ LỊCH SỬ PHÁT TRIỂN CỦA VI SINH HỌC**
+
+**1.1. Đối tượng nghiên cứu**
+
+Trong sinh giới, ngoài hai giới lớn là động vật và thực vật đã được nghiên cứu từ lâu, còn có thêm giới sinh vật đơn bào (protist) hay vi sinh vật (microorganisms). Vi sinh vật là những sinh vật đơn bào đứng riêng rẽ hay xếp thành từng đám, không thể quan sát được bằng mắt thường. Các vi sinh vật gồm có: vi khuẩn (bacteria), động vật nguyên sinh (protozoa) và vi nấm (fungi). Virus cũng được xếp vào nhóm vi sinh vật dù chúng không có cấu trúc tế bào và có kích thước vô cùng nhỏ bé (đơn vị đo lường là nanometre, = $1/10^6\text{ mm}$). Vi khuẩn là những vi sinh vật đơn bào rất nhỏ, không có cấu trúc nhân điển hình vì không có màng nhân, thuộc nhóm đơn bào không có màng nhân (procaryote).
+
+Vi sinh học (Microbiology) là môn học nghiên cứu về các vi sinh vật. Vi khuẩn cùng với virus là đối tượng nghiên cứu của Vi sinh học. Động vật nguyên sinh và vi nấm là những tế bào có màng nhân (eucaryote), được giảng dạy trong Phân môn Ký sinh trùng.
+
+Vi khuẩn có thể gây bệnh cho người, động vật, thực vật; nhưng có nhiều loại vi khuẩn không gây bệnh, thậm chí còn có ích cho con người. Những vi khuẩn, virus gây bệnh hay ảnh hưởng đến sức khỏe con người là đối tượng nghiên cứu của môn Vi sinh trong Y học.
+
+**1.2. Lịch sử phát triển của vi sinh học**
+
+Khoa học là lĩnh vực hoạt động của con người, được phát triển nhờ những câu hỏi “Vì sao?” khi con người quan sát các sự vật, hiện tượng tự nhiên. Ngay từ thời Hippocrates (thế kỷ V trước Công nguyên), con người đã đặt ra những câu hỏi về các dạng sinh vật và cách thức tồn tại của chúng. Sự ra đời ngành Vi sinh học cũng xuất phát từ một trong những câu hỏi rất cơ bản thời ấy: “Sự sống có hình dạng thật sự ra sao?”. Các mốc phát triển của ngành Vi sinh học, từ lúc sơ khai đến những thành tựu hiện nay có thể tóm lược như sau:
+
 ## 1.2.1. Những buổi đầu của ngành Vi sinh học
 
 Trong thời kỳ này, lần đầu tiên thế giới vi sinh vật được con người quan sát và lập thành hệ thống phân loại cho từng nhóm ngành. Người đầu tiên khám phá ra thế giới này là Antoni van Leeuwenhoek (1632 – 1723), người Hà Lan. Với khao khát muốn nhìn rõ bản chất thật sự của mọi sự vật trong tự nhiên, Leeuwenhoek đã tự chế tạo ra kính hiển vi đầu tiên của thế giới, ông chăm chú hàng giờ để ghi chép lại chi tiết của các vật khi quan sát dưới kính. Vào một ngày, khi quan sát một giọt nước dưới kính hiển vi tự tạo, Leeuwenhoek tình cờ phát hiện ra một thế giới hoàn toàn mới lạ, gây kinh ngạc cho chính bản thân ông. “Hàng ngàn cá thể sinh vật màu xanh lục dài, xoắn, di chuyển nhanh và theo nhiều hướng khác nhau xuất hiện chỉ trong một giọt nước” như lời Leeuwenhoek mô tả lại cho Hội Hoàng gia London năm 1674. Mãi đến cuối thế kỷ XIX, những sinh vật do Leeuwenhoek tìm ra mới chính thức được gọi tên là “vi sinh vật” (microorganism).
@@ -449,7 +477,28 @@ Vách tế bào liên quan đến sự phân chia vi khuẩn. Sau khi nhân đư
 
 **Màng nguyên sinh (cytoplasmic membrane)**
 
-Màng nguyên sinh (hay còn gọi là màng bào tương, màng tế bào) là màng bao quanh bào tương tế bào vi khuẩn và nằm ở phía trong của vách tế bào vi khuẩn. Đây
+Màng nguyên sinh (hay còn gọi là màng bào tương, màng tế bào) là màng bao quanh bào tương tế bào vi khuẩn và nằm ở phía trong của vách tế bào vi khuẩn. Đây là cấu trúc có ở mọi tế bào vi khuẩn. Màng nguyên sinh được cấu tạo bởi protein và phospholipid như màng tế bào của loài hữu nhũ – tế bào có màng nhân, nhưng không có sterol. Phospholipid tạo thành một lớp đôi gắn protein, một số protein xuyên qua màng. Màng nguyên sinh có chức năng tổng hợp và sản xuất các thành phần vách tế bào, chức năng hô hấp, bài tiết enzym và độc tố ngoại bào, hấp thu chất dinh dưỡng bằng cơ chế vận chuyển tích cực. Màng nguyên sinh có khả năng chọn lọc thẩm thấu. Một số kháng sinh tác động lên màng làm thay đổi tính thấm thấu của màng và tiêu diệt được vi khuẩn. Những chất ảnh hưởng đến màng tế bào:
+
+- Chất tẩy có tính ưa nước và ưa lipid, gây hư hại màng tế bào và diệt tế bào vi khuẩn.
+- Kháng sinh nhóm polymyxin có cấu trúc giống chất tẩy cũng gây hư hại màng tế bào.
+- Một số kháng sinh ngăn cản sự tổng hợp màng như nalidixic acid, novobiocin.
+- Các hợp chất mang ion giúp cation khuếch tán nhanh qua màng.
+
+**Mesosomes (mạc thể)** là cấu trúc màng trong tế bào, tạo các nếp gấp của màng nguyên sinh. Thường gặp hơn ở vi khuẩn Gram dương. Mesosome có ở các điểm phân chia tế bào vi khuẩn Gram dương và tham gia vào sự phân chia nhiễm sắc thể bằng cách tiến sâu vào chất nguyên sinh, tại các điểm khác, mesosome còn có chức năng hô hấp và biến dưỡng tế bào.
+
+## 3.2.3. Tế bào chất (cytoplasm)
+
+Tế bào chất của vi khuẩn có dạng bán lỏng (gel), nằm bên trong màng tế bào vi khuẩn. Tế bào chất có 80% là nước chứa các thành phần hòa tan như protein, enzyme, peptide, carbohydrat, lipid, acid amin, vitamin, RNA, ribosom, muối khoáng và các nguyên tố khác. Khác với tế bào sinh vật có nhân điển hình, tế bào vi khuẩn không có ti thể, lạp thể, lưới nội bào và cơ quan phân bào trong tế bào chất. Tế bào chất là nơi thực hiện các phản ứng hóa học, đồng hóa, dị hóa của tế bào vi khuẩn.
+
+* Ribo thể (ribosom) có nhiều trong bào tương vi khuẩn. Ribo thể chứa cả RNA và protein, tham gia tổng hợp protein cho tế bào. Đây là những hạt nhỏ (20 nm), có hai tiểu đơn vị là 50S và 30S.
+
+* Ấn thể (inclusion) hay còn gọi là thể vùi. Ấn thể có trong bào tương tế bào vi khuẩn. Có những loại ấn thể khác nhau, dạng hạt hoặc túi, giúp dự trữ năng lượng và chất dinh dưỡng trong tế bào. Kích thước ấn thể tăng khi gặp môi trường thuận lợi, giảm trong điều kiện bất lợi. Ví dụ, vi khuẩn Corynebacterium diphtheriae có nguồn dự trữ phosphate năng lượng cao trong ấn thể gọi là “hạt volutin”.
+
+* Túi không bào (vacuole): là cấu trúc đặc biệt được màng bao quanh, có ở một số vi khuẩn.
+
+## 3.2.4. Vùng nhân hay Thể nhân (nucleoid)
+
+Thể nhân nằm trong bào tương tế bào, là một nhiễm sắc thể chứa thông tin di truyền. Nhiễm sắc thể của vi khuẩn là một phân tử DNA kép vòng kín, cuốn chặt trong tế bào dưới dạng siêu cuốn, không có màng nhân bao quanh. Khi duỗi ra, DNA dài khoảng
 
 1 mm (dài gấp 10 – 100 lần chiều dài tế bào vi khuẩn). DNA vi khuẩn mã hóa cho các chức năng thiết yếu của tế bào, để sản xuất protein. Một số protein là enzym, có vai trò trong hoạt động sống của tế bào (biến dưỡng chất dinh dưỡng, tạo vách vi khuẩn, sinh sản,...). Ngoài nhiễm sắc thể, vi khuẩn có thể còn có thêm phân tử DNA nhỏ hơn gọi là plasmid. Plasmid là phân tử DNA dạng vòng, nằm trong bào tương tế bào vi khuẩn. Một số plasmid điều khiển kiểu hình quan trọng của vi khuẩn gây bệnh, kể cả sự đề kháng kháng sinh và khả năng sinh độc tố. Plasmid có thể được truyền giữa các vi khuẩn và tiếp hợp vào nhiễm sắc thể hoặc plasmid của vi khuẩn nhận. Vi khuẩn nhận trở nên kháng kháng sinh hoặc có độc lực thấp trở thành vi khuẩn gây bệnh do nhận các gen mã hóa cho độc lực và kháng kháng sinh từ vi khuẩn khác.
 
@@ -2490,6 +2539,48 @@ Penicillin được sử dụng để điều trị bệnh giang mai từ năm 1
 
 Trường hợp người bệnh quá mẫn với penicillin thì thay thế bằng erythromycin hoặc tetracyclin. Trong hóa trị liệu bệnh giang mai có thể xuất hiện triệu chứng ngộ độc ở khoảng 50 – 80% trường hợp giang mai thời kỳ I, hiếm gặp trong giang mai thời kỳ III, được gọi là phản ứng Jarisch – Herxheimer. Sự ngộ độc được cho là tai biến khi dùng kháng sinh mạnh gây dung giải một lượng lớn xoắn khuẩn làm giải phóng ồ ạt nhiều nội độc tố của vi khuẩn.
 
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn MỘT câu trả lời đúng nhất
+
+1. Vi khuẩn *Treponema pallidum* có sức đề kháng khi ra môi trường như sau:
+- A. Sống rất lâu ở độ khô
+- B. Chịu đựng được một nồng độ acid và kiềm nhất định
+- C. Dễ bị diệt bởi xà bông và nước
+- D. Thích hợp ở môi trường ẩm ướt như hồ bơi
+
+2. *Treponema pallidum* có thể lây truyền qua đường nào sau đây, NGOẠI TRỪ:
+- A. Tiếp xúc sinh dục
+- B. Truyền máu
+- C. Mẹ sang con
+- D. Tiêu hóa
+
+3. Thời gian nhân đôi cho một thế hệ của xoắn khuẩn *Treponema pallidum* là bao nhiêu?
+- A. 15 – 30 phút
+- B. 15 – 18 phút
+- C. 30 – 33 giờ
+- D. 48 giờ
+
+4. Kháng thể reagin là kháng thể chống lại thành phần nào sau đây của tế bào vi khuẩn *T. pallidum*?
+- A. Lipid
+- B. Muramic acid
+- C. Protein
+- D. Glycoprotein 160
+
+5. Thử nghiệm VDRL có đặc điểm sau đây
+- A. Có độ đặc hiệu rất cao
+- B. Có thể chuyển đổi từ (+) sang (-) sau khi điều trị có kết quả
+- C. Kết quả (-) cho biết người bệnh không mắc bệnh giang mai
+- D. Kết quả (+) cho biết người bệnh có mắc bệnh giang mai
+
+ĐÁP ÁN: 1.C 2.D 3.C 4.A 5.A
+
+TÀI LIỆU THAM KHẢO
+
+1. Lý Văn Xuân (2016). Xoắn khuẩn giang mai. Trong: Vi khuẩn Y học. Chủ biên: Cao Minh Nga. Nhà xuất bản Y học TP. HCM, 2016, tr.239–244.
+
+2. Karen C. Carroll and Jeffery A. Hobden (2019). Spirochetes: Treponema, Borrelia, and Leptospira (chapter 24). In Jawetz, Melnick & Adelberg's (editors in chief). *Medical Microbiology* 28<sup>th</sup> edition, Practice Hall International Inc. p.339–342.
+
 # Các vi khuẩn khác
 (Haemophilus, Bordetella, Chlamydia)
 
@@ -2816,6 +2907,40 @@ C. pneumoniae ban đầu được xem là thành viên của loài *C. psittaci*
 
 Nhiễm *C. pneumoniae* là nhiễm khuẩn thường gặp. Trên thế giới, có 30 – 50% số người có kháng thể với *C. pneumoniae*. Rất ít trẻ nhỏ có kháng thể, nhưng sau 6 – 8 tuổi, tỉ lệ kháng thể tăng dần ở người trưởng thành trẻ tuổi. Nhiễm khuẩn *C. pneumoniae* có thể khu trú ở một địa phương hoặc lan rộng ra nhiều vùng. Bệnh truyền trực tiếp từ người sang người, chủ yếu qua đường hô hấp.
 
+CÂU HỎI TỰ LƯỢNG GIÁ
+Chọn MỘT câu trả lời đúng nhất
+1. Vi khuẩn Chlamydia có tính chất nào dưới đây?
+A. Di động
+B. Không quan sát được dưới kính hiển vi quang học
+C. Có thể nhuộm bằng xanh methylen
+D. Không nhuộm được bằng phương pháp Macchiavallo
+2. Bệnh nhiễm nào sau đây thường là nguyên do gây mù?
+A. Viêm kết mạc thể vùi
+B. Hạt xoài
+C. Đau mắt hột
+D. Sốt thương hàn
+3. Hình dạng đặc trưng của H. influenzae là:
+A. Trực khuẩn Gram âm
+B. Trực cầu khuẩn Gram âm
+C. Song cầu Gram âm
+D. Trực khuẩn Gram âm hai đầu nhọn
+4. Vaccin được tinh chế từ H. influenzae thuộc type nào?
+A. Type a
+B. Type b
+C. Type c
+D. Type d
+5. Trực khuẩn ho gà được chia làm các type huyết thanh dựa vào:
+A. Ngưng kết nguyên
+B. Kháng nguyên độc tố ho gà
+C. Kháng nguyên sợi ngưng kết hồng cầu
+D. Kháng nguyên độc tố tế bào phế quản
+
+ĐÁP ÁN: 1.C 2.C 3.B. 4.B 5.A
+
+TÀI LIỆU THAM KHẢO CHÍNH
+1. Lý Văn Xuân (2016). Haemophilus influenzae, Trực khuẩn ho gà (Bordetella pertussis), Chlamydiae. Trong cuốn: Vi khuẩn Y học. Chủ biên: Cao Minh Nga. NXB Y học Chi nhánh TP. HCM, tr.219–230.
+2. Jawetz, Melnick, & Adelberg's (2019). Haemophilius influenzae, Bordetella pertussis, Chlamydia spp. (Chapter 27) Medical Microbiology, 28th Edition. Mc Graw Hill, p.275–277, 278–280, 367–377.
+
 # Vi khuẩn kỵ khí
 
 ThS.BS. Lê Kim Ngọc Giao
@@ -2953,6 +3078,64 @@ Ngừa uốn ván rốn bằng cách tiêm cho tất cả bà mẹ mang thai ở
 
 4.3. Triệu chứng lâm sàng. Tiêu chảy xuất hiện sau khi dùng kháng sinh, từ thể nhẹ tự giới hạn đến viêm đại tràng màng giả đe dọa tính mạng. Màng giả cấu tạo bởi fibrin, bạch cầu và tế bào ruột hoại tử.
 
+4.4. Chẩn đoán. Nội soi đại tràng là phương cách để xác định màng giả. Khảo sát vi khuẩn học bằng phân lập, định danh vi khuẩn và tìm độc tố trong phân. Độc tố ruột được xác định bằng phản ứng miễn dịch, độc tố gây độc tế bào được xác định bằng nuôi cấy tế bào.
+
+4.5. Điều trị. Ngưng kháng sinh đang sử dụng hoặc sử dụng trước đó. Có thể dùng vancomycin hay metronidazole đường uống để điều trị.
+
+# CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn MỘT câu trả lời đúng nhất
+
+1. Độc tố ức chế giải phóng acetylcholine ở mối nối thần kinh cơ gây liệt mềm là:
+
+A. Độc tố *Vibrio cholera*
+C. Độc tố *Escherichia coli*
+
+B. Độc tố *Clostridium botulinum*
+D. Độc tố *Staphylococcus aureus*
+
+2. Viêm đại tràng màng giả liên quan đến kháng sinh trị liệu là do ngoại độc tố của vi khuẩn nào tiết ra?
+
+A. *Vibrio cholerae*
+C. *Bacteroides fragilis*
+
+B. *Clostridium difficile*
+D. *E. coli* sinh độc tố
+
+3. Vi khuẩn *Clostridium tetani* có hình dạng:
+
+A. Trực khuẩn Gram dương, nha bào hình bầu dục
+
+B. Trực khuẩn Gram dương, nha bào hình tròn
+
+C. Trực khuẩn Gram dương, nha bào hình vuông
+
+D. Trực khuẩn Gram dương, nha bào hình chữ nhật
+
+4. Vi khuẩn *Clostridium* gây bệnh cho người do:
+
+A. Nội độc tố
+B. Ngoại độc tố
+
+C. Bản thân vi khuẩn xâm nhập vào tế bào thần kinh
+
+D. Phản ứng quá mẫn của tế bào ký chủ
+
+5. Độc tố nào là nguyên nhân chính gây ra bệnh cảnh đặc trưng của bệnh uốn ván?
+
+A. Tetanohepamin
+B. Tetanolysin
+C. Tetanolipase
+D. Tetanospasmin
+
+**ĐÁP ÁN:** 1.B 2.B 3.B 4.A 5.D
+
+# TÀI LIỆU THAM KHẢO
+
+1. Lê Kim Ngọc Giao (2016). *Vi khuẩn kỵ khí*. Trong cuốn: *Vi khuẩn Y học*. Chủ biên: Cao Minh Nga. NXB Y học Chi nhánh TP. HCM, tr.231-238.
+
+2. Jawetz, Melnick, & Adelberg's (2019). *Clostridium species*, *Medical Microbiology*, $28^{\text{th}}$ Edition. Mc Graw Hill, p.186-192.
+
 # Đáp ứng miễn dịch của cơ thể chống vi khuẩn
 
 TS.BS. Phạm Lê Duy
@@ -3032,6 +3215,99 @@ Các vi khuẩn nội bào có khả năng tồn tại, thậm chí là nhân l�
 
 ## 3.2. Đáp ứng của hệ miễn dịch thích nghi. Một số vi khuẩn được tiêu diệt trong các phagolysosome của các đại thực bào, khi đó các kháng nguyên của chúng được trình diện cho lympho T CD4+ qua MHC-II, hoạt hóa T CD4+ thành Th1, dưới sự định hướng của IL-12 do đại thực bào tiết ra. Th1 sản xuất IFN- và biểu hiện CD40, gắn với CD40 ligand trên bề mặt đại thực bào, từ đó giúp các đại thực bào được hoạt hóa hoàn toàn để tiêu diệt vi khuẩn.
 
+Kháng nguyên của vi khuẩn nội bào còn được trình diện cho lympho T CD8+ qua MHC-I gọi là sự trình diện chéo (cross-presentation): trong các đại thực bào, peptide của vi khuẩn được vận chuyển từ phagosome hay phagolysosome ra ngoài tế bào chất, được xử lý bởi proteasome và các epitope được tải lên MHC-I, sau đó được trình diện cho lympho T CD8+. Ngoài ra, quá trình mồi chéo (cross-priming) cũng giúp trình diện kháng nguyên vi khuẩn nội bào cho lympho T CD8+: một số đại thực bào bị nhiễm vi khuẩn nội bào sẽ chết theo chương trình (apoptosis), khi đó các mảnh của tế bào chết chứa thành phần của vi khuẩn được bắt giữ bởi các tế bào tua gai, từ đó trình diện cho lympho CD8+. Lympho T CD8+ được hoạt hóa thành T độc tế bào, sẽ tìm và tiêu diệt các tế bào nhiễm bằng cách kích hoạt cơ chế apoptosis.
+
+3.3. Các cơ chế thoát khỏi đáp ứng miễn dịch của vi khuẩn nội bào. Vi khuẩn nội bào có thể ức chế sự hòa nhập màng của bóng thực bào và lysosome, ngăn cản sự hình thành phagocytosome (Mycobacterium tuberculosis, Legionella pneumophila). Một số vi khuẩn phá hủy màng phagosome để thoát ra bào tương và sống sót ở đó (Listeria monocytogenes). Chúng còn có thể bất hoạt các chất kháng khuẩn như gốc oxy hóa tạo ra bởi các phagocyte (Mycobacterium laprae). Một số loài khác có thể xâm nhập vào các cấu trúc tế bào để lẩn tránh, như Helicobacter pylori xâm nhập tế bào biểu mô, từ đó gây tái nhiễm.
+
+# CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn MỘT câu trả lời đúng nhất
+
+1. Điều nào sau đây đúng về đặc điểm của đáp ứng miễn dịch chống vi sinh vật?
+- A. Có sự phối hợp của đáp ứng miễn dịch bẩm sinh và đáp ứng miễn dịch thích nghi
+- B. Có nhiều cách riêng biệt và đặc hiệu khác nhau tùy theo từng loại vi sinh vật
+- C. Sự sống còn của vi sinh vật phụ thuộc vào cơ chế trốn tránh của chúng trước sự tấn công của hệ miễn dịch của ký chủ
+- D. Cả A, B, C đều đúng
+
+2. Vi khuẩn ngoại bào được tiêu diệt bởi cơ chế nào của đáp ứng miễn dịch bẩm sinh mà khi hệ miễn dịch thích nghi chưa được hoạt hóa?
+- A. Hoạt hóa bổ thể theo con đường cổ điển
+- B. Thực bào nhờ opsonin hóa vi khuẩn bởi kháng thể
+- C. Các thực bào tiết các chất độc tế bào để tiêu diệt vi khuẩn
+- D. Tế bào NK tiêu diệt trực tiếp các vi khuẩn ngoại bào
+
+3. Vi khuẩn ngoại bào trốn tránh sự tấn công của hệ miễn dịch bằng cơ chế nào?
+- A. Tạo lớp vỏ bọc để che đậy các carbohydrate trên thành của vi khuẩn
+- B. Tạo lớp peptidoglycan mỏng để hạn chế sự gắn kết bền vững của bổ thể
+- C. Một số vi khuẩn có phân tử bề mặt giàu phospholipid, làm phân hủy các C3b bám trên màng vi khuẩn
+
+D. Một số loại vi khuẩn gây đột biến cho tế bào ký chủ, làm thay đổi cấu trúc kháng thể đặc hiệu
+
+4. Vi khuẩn nội bào hoạt hóa tế bào NK bằng cách nào?
+
+A. Sản xuất các nội độc tố kích thích trực tiếp tế bào NK qua thụ thể TLR
+
+B. Kích thích các tế bào ký chủ biểu hiện các phối tử hoạt hóa tế bào NK trên bề mặt
+
+C. Kích thích đại thực bào và tế bào tua gai tiết IFN để hoạt hóa tế bào NK
+
+D. Cả A, B, C đều đúng
+
+5. Hệ miễn dịch bẩm sinh và thích nghi phối hợp như thế nào để tiêu diệt vi khuẩn sống nội bào?
+
+A. Các vi khuẩn bị tiêu diệt trong các bóng thực bào của đại thực bào sẽ được trình diện kháng nguyên qua MHC-I cho lympho T CD8+
+
+B. Các peptide của vi khuẩn được vận chuyển ra tế bào chất sẽ được trình diện cho lympho T CD4+ qua MHC-II
+
+C. Lympho T CD4+ được hoạt hóa thành Th1, tiết IL-1, IL-6 và IL-12 để hoạt hóa ngược lại đại thực bào
+
+D. Các tế bào tua gai bắt các mảnh tế bào chết do nhiễm vi khuẩn và trình diện peptide của vi khuẩn cho lympho T CD8+, hoạt hóa chúng thành lympho T độc tế bào
+
+ĐÁP ÁN: 1.D 2.C 3.A 4.B 5.D
+
+# TÀI LIỆU THAM KHẢO
+
+1. Abbas KA., Litchman HA., Pillai S. (2018). Immunity to microbes, Cellular and Molecular Immunology, $9^{\text{th}}$ Ed. Elsevier, Philadelphia, PA, pp.351-372.
+
+2. Delves JP., Martin JS., Burton RD., Roitt MI. (2017). Adversarial strategies during infection, Roitt's Essential Immunology, $13^{\text{th}}$ Ed. Wiley Blackwell, Oxford, OX4 2DQ, pp.321-338.
+
+3. Kaufmann HES., Schaible EU (2005). Antigen presentation and recognition in bacterial infections. Curr Opin Immunol; 17: pp.79-87.
+
+# Sinh bệnh học nhiễm khuẩn
+
+TS.BS. Hoàng Tiến Mỹ
+
+**Mục tiêu học tập**
+
+Sau khi học xong, sinh viên có khả năng:
+
+1. Trình bày định nghĩa một số thuật ngữ liên quan.
+2. Phân tích sự khác nhau giữa vi khuẩn gây bệnh và vi khuẩn không gây bệnh.
+3. Trình bày các đường lây truyền của vi khuẩn gây bệnh.
+4. Giải thích quá trình nhiễm khuẩn và sự liên quan giữa bộ gen với sinh bệnh học nhiễm khuẩn.
+5. Phân tích các yếu tố độc lực của vi khuẩn.
+
+## MỞ ĐẦU
+
+Sinh bệnh học nhiễm khuẩn bao gồm sự khởi đầu quá trình nhiễm khuẩn và cơ thể dẫn đến sự phát triển các triệu chứng cơ năng, dấu hiệu của bệnh. Các yếu tố di truyền, cấu trúc và hóa sinh đóng vai trò quan trọng trong sinh bệnh học vi khuẩn. Đặc điểm của vi khuẩn gây bệnh gồm có khả năng lây truyền, bám dính tế bào ký chủ, tồn tại, xâm nhập khỏi hệ thống miễn dịch ký chủ. Khả năng kháng thuốc kháng sinh và chất khử khuẩn cũng góp phần tạo nên độc lực (virulence) của vi khuẩn. Nhiễm khuẩn có thể không có triệu chứng hoặc triệu chứng không rõ ràng. Bệnh lý xảy ra khi vi khuẩn hoặc phản ứng miễn dịch với vi khuẩn đủ sức gây hại cho ký chủ.
+
+## MỘT SỐ ĐỊNH NGHĨA
+
+Tác nhân gây bệnh (pathogen): vi sinh vật có khả năng gây bệnh.
+
+Tác nhân không gây bệnh (nonpathogen): vi sinh vật không gây bệnh, thường là thành viên của hệ vi khuẩn thường trú.
+
+Tính sinh bệnh (pathogenicity): khả năng của một tác nhân nhiễm khuẩn để gây bệnh.
+
+Tác nhân nhiễm khuẩn cơ hội (opportunistic pathogen): tác nhân chỉ gây bệnh khi sức đề kháng của ký chủ bị hư hại.
+
+Vi khuẩn thường trú (microbiota): vi khuẩn thường trú trên người khỏe mạnh, bình thường.
+
+Người lành mang khuẩn (carrier): người bị nhiễm khuẩn không có triệu chứng nhưng có thể lây truyền cho người khác.
+
+Sự nhiễm khuẩn (infection): sự tăng sinh của vi khuẩn gây bệnh bên trong cơ thể ký chủ. Sự tăng sinh của vi khuẩn thường trú không gọi là nhiễm khuẩn. Ngược lại, sự tăng sinh của vi khuẩn gây bệnh (ví dụ như *Salmonella* spp.) nhưng người bệnh không có triệu chứng vẫn xem như là nhiễm khuẩn.
+
+Sự bám dính (adherence, adhesion, attachment): sau khi đi vào cơ thể, vi khuẩn bám dính lên bề mặt tế bào ký chủ. Đây là bước khởi đầu quan trọng trong quá trình nhiễm khuẩn.
+
 Sự xâm nhập (invasion): vi khuẩn xâm nhập vào trong mô, tế bào ký chủ và phát tán trong cơ thể.
 
 Tính sinh độc tố (toxigenicity): khả năng sinh độc tố gây bệnh.
@@ -3090,7 +3366,23 @@ Một số vi khuẩn thường gây bệnh cho người nhưng tồn tại nguy
 
 Các biểu hiện lâm sàng của bệnh (tiêu chảy, ho, chất tiết,...) thúc đẩy sự lan truyền của tác nhân gây bệnh. Ví dụ: *V. cholerae* gây tiêu chảy nhiều lần, từ đó gây nhiễm vào các nguồn nước, người uống nước hoặc ăn thực phẩm bị nhiễm khuẩn có thể bị mắc bệnh. *M. tuberculosis* gây bệnh lao, là một bệnh đường hô hấp gây ho và tạo khí dung, làm lây truyền vi khuẩn cho người khác.
 
-Một số vi khuẩn được lây truyền từ người sang người qua bàn tay. Ví dụ: người có mang *S. aureus* ở vùng mũi khi chạm vào mũi, vi khuẩn dính vào tay, lây sang những năng nhận biết và liên kết với DNA đó. Trong những trường hợp khác, các gen mã hóa yếu tố độc lực của vi khuẩn nằm trên plasmid, transposon hoặc phage. Plasmid là những đoạn DNA có khả năng di động cao, có khả năng di chuyển từ vị trí này đến một vị trí khác trên phân tử DNA. Những phần tử di truyền di động này có thể tạo ra sự tái tổ hợp giữa DNA nằm ngoài nhiễm sắc thể và nhiễm sắc thể (tái tổ hợp không tương đồng). Kết quả là những gen mã hóa yếu tố độc lực chuyển sang nhiễm sắc thể. Cuối cùng là cơ chế trao đổi qua virus của vi khuẩn (phage), làm cho DNA có thể di chuyển từ vi khuẩn này sang vi khuẩn khác. Sự chuyển đổi các phần tử di truyền di động này diễn ra giữa các vi khuẩn của một loài và ít gặp hơn là giữa các loài, dẫn đến việc lan truyền các yếu tố độc lực, trong đó có cả những gen đề kháng kháng sinh. Bảng 13.1 cho thấy một số ví dụ về yếu tố độc lực được mã hóa bởi các gen trên plasmid và phage.
+Một số vi khuẩn được lây truyền từ người sang người qua bàn tay. Ví dụ: người có mang *S. aureus* ở vùng mũi khi chạm vào mũi, vi khuẩn dính vào tay, lây sang những vùng khác của cơ thể hoặc lây truyền cho người khác và gây nhiễm khuẩn. Nhiều tác nhân gây bệnh cơ hội gây nhiễm khuẩn bệnh viện, lây truyền từ người bệnh sang người khác qua bàn tay của nhân viên y tế.
+
+Đường vào cơ thể thường gặp nhất của vi khuẩn gây bệnh là vị trí tiếp giáp da – niêm mạc ở đường hô hô, đường tiết niệu – sinh dục và đường tiêu hóa. Những tổn thương trên da và niêm mạc như trầy xước, rách, bỏng,... cũng là cửa ngõ đi vào chính của vi khuẩn gây bệnh. Da và niêm mạc bình thường có mang những yếu tố đề kháng nhiễm khuẩn. Vì vậy, muốn gây bệnh, các vi khuẩn phải vượt qua những rào cản này.
+
+## 3. QUÁ TRÌNH NHIỄM KHUẨN
+
+Đa số vi khuẩn sau khi xâm nhập vào cơ thể trước hết sẽ bám dính lên tế bào ký chủ, thường là tế bào biểu mô. Sau khi định cư tại nơi nhiễm đầu tiên, vi khuẩn tăng sinh và phát tán vào các mô hoặc từ hệ bạch huyết đi vào máu. Tình trạng vi khuẩn trong máu có thể tạm thời hoặc kéo dài, cho phép vi khuẩn phát tán khắp cơ thể và đi đến mô thích hợp để tăng sinh.
+
+Viêm phổi do *S. pneumoniae* là một ví dụ về quá trình nhiễm khuẩn. *S. pneumoniae* phân lập từ vùng họng – mũi người khỏe mạnh với tỉ lệ $5-40\%$. Đôi khi *S. pneumoniae* từ họng – mũi được hít vào phổi, thường gặp ở người suy nhược, giảm phản xạ ho. Nhiễm khuẩn phát triển trong phổi ở những người không có kháng thể chống lại nang polysaccharide của *S. pneumoniae*. Viêm phổi là hậu quả do sự tăng sinh của *S. pneumoniae* và phản ứng viêm. Vi khuẩn này đi vào mạch bạch huyết ở phổi và từ đó đi vào máu. Có khoảng $10-20\%$ người bệnh bị nhiễm khuẩn huyết trong thời gian bị viêm phổi. Từ máu, *S. pneumoniae* gây nhiễm khuẩn thứ phát ở dịch não tủy, van tim và khớp. Biến chứng chủ yếu của viêm phổi do *S. pneumoniae* là viêm màng não, viêm khớp nhiễm khuẩn và hiếm hơn là viêm nội tâm mạc.
+
+Quá trình nhiễm khuẩn của *V. cholerae* bao gồm nuốt phải vi khuẩn, hóa hướng động vi khuẩn tới biểu mô ruột, khả năng di động của vi khuẩn nhờ có lông ở một đầu và sự phá hủy của lớp niêm mạc bề mặt. *V. cholerae* bám dính vào bề mặt tế bào biểu mô nhờ pili và các yếu tố bám dính khác. Độc tố cholera toxin làm mất nước và chloride vào lòng ruột, gây tiêu chảy và rối loạn điện giải.
+
+## 4. BỘ GEN VÀ SINH BỆNH HỌC VI KHUẨN
+
+### 4.1. Các phần tử di truyền di động
+
+Cơ chế cơ bản của sự trao đổi thông tin di truyền giữa các vi khuẩn là sự chuyển thể (*transformation*) tự nhiên và chuyển đổi các phần tử di truyền di động như plasmid, transposon và bacteriophage (*phage*). Sự chuyển thể xảy ra khi DNA của một vi khuẩn được phóng thích ra ngoài môi trường và được thu nhận bởi một vi khuẩn khác có khả năng nhận biết và liên kết với DNA đó. Trong những trường hợp khác, các gen mã hóa yếu tố độc lực của vi khuẩn nằm trên plasmid, transposon hoặc phage. Plasmid là những đoạn DNA có khả năng di động cao, có khả năng di chuyển từ vị trí này đến một vị trí khác trên phân tử DNA. Những phần tử di truyền di động này có thể tạo ra sự tái tổ hợp giữa DNA nằm ngoài nhiễm sắc thể và nhiễm sắc thể (tái tổ hợp không tương đồng). Kết quả là những gen mã hóa yếu tố độc lực chuyển sang nhiễm sắc thể. Cuối cùng là cơ chế trao đổi qua virus của vi khuẩn (phage), làm cho DNA có thể di chuyển từ vi khuẩn này sang vi khuẩn khác. Sự chuyển đổi các phần tử di truyền di động này diễn ra giữa các vi khuẩn của một loài và ít gặp hơn là giữa các loài, dẫn đến việc lan truyền các yếu tố độc lực, trong đó có cả những gen đề kháng kháng sinh. Bảng 13.1 cho thấy một số ví dụ về yếu tố độc lực được mã hóa bởi các gen trên plasmid và phage.
 
 Bảng 13.1. Ví dụ về yếu tố độc lực được mã hóa bởi gen trên các phần tử di truyền di động
 
@@ -3398,6 +3690,62 @@ Trong chẩn đoán tác nhân nhiễm khuẩn, đây là phương pháp xác đ
 
 Nguyên lý là đo đạc tỉ lệ khối lượng trên điện tích của ion từ đó xác định khối lượng protein và trình tự protein. Có hai kỹ thuật thường dùng là:
 
+2.5.1. Kỹ thuật MALDI-TOF, MALDI (Matrix-assisted laser desorption ionization) là thuật ngữ chỉ phương pháp ion hóa mẫu hấp thụ dựa trên sự hỗ trợ của các chất nền và năng lượng laser.
+
+2.5.2. Kỹ thuật ESI-MS/MS: ESI (ElectroSpray Ionization) là thuật ngữ chỉ phương pháp ion hóa mẫu bằng phương pháp phun chùm ion trong dung dịch tạo thành đám sương mù với các giọt nhỏ dễ bay hơi.
+
+Phương pháp này có ưu điểm hơn các phương pháp về tính chính xác, cho kết quả nhanh nhưng đòi hỏi trang thiết bị hiện đại, chi phí lớn, do đó, hiện chỉ một số bệnh viện lớn có điều kiện sử dụng.
+
+# 3. KẾT LUẬN
+
+Các hệ cơ quan khi nhiễm khuẩn sẽ có các loại bệnh phẩm khác nhau tùy vị trí nhiễm khuẩn.
+
+Các phương pháp xét nghiệm chẩn đoán vi khuẩn gây bệnh gồm vi sinh học, miễn dịch học, sinh học phân tử, khối phổ.
+
+Mỗi phương pháp đều có ưu và khuyết điểm nên cần lựa chọn phù hợp với tình trạng bệnh, mục đích chẩn đoán, trang thiết bị và nhân lực của bệnh viện.
+
+## CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Kháng sinh đồ ngoài việc cho biết sự nhạy cảm kháng sinh còn có ý nghĩa nào sau đây?
+
+A. Cho biết tốc độ tăng trưởng của vi khuẩn
+
+B. Phát hiện vi khuẩn tiết men kháng kháng sinh
+
+C. Dựa vào sự nhạy kháng sinh để định danh vi khuẩn
+
+D. Phát hiện sự sinh độc tố của vi khuẩn
+
+2. Xét nghiệm nào sau đây cho kết quả nhanh để phát hiện vi khuẩn kháng thuốc?
+
+A. Nhuộm Gram
+
+C. Miễn dịch học
+
+B. Nuôi cấy
+
+D. Sinh học phân tử
+
+3. Xét nghiệm nào sau đây cho định danh dựa trên bộ gen của vi khuẩn?
+
+A. Nuôi cấy
+
+C. Sinh học phân tử
+
+B. Miễn dịch học
+
+D. Phương pháp khối phổ
+
+4. Một người bệnh bị nhiễm khuẩn vết thương ở bàn chân. Xét nghiệm nào sau đây cho biết chính xác tác nhân gây nhiễm khuẩn?
+
+A. Nhuộm Gram dịch vết thương
+
+C. Nuôi cấy định danh vi khuẩn
+
+B. Soi tươi dịch vết thương
+
+D. Kháng sinh đồ
+
 5. Một người bệnh nam 45 tuổi, nhập viện vì ho sốt. Bác sĩ nghi ngờ người bệnh bị viêm phổi. Theo bạn, bác sĩ sẽ chọn xét nghiệm nào sau đây để xác định tác nhân gây bệnh?
 A. Công thức máu
 B. Cấy đàm
@@ -3557,6 +3905,68 @@ Trong một số trường hợp, kháng sinh được chỉ định với mục
 ### 3.1. Chỉ định kháng sinh phòng ngừa trong các trường hợp
 - Bệnh nhân có tiền sử bệnh tim hậu thấp
 - Bệnh nhân có dụng cụ nhân tạo như van tim nhân tạo cần làm thủ thuật nha khoa
+
+- Người tiếp xúc gần với người bệnh bị viêm màng não do vi khuẩn Neisseria meningitidis hoặc người bệnh bị bệnh bạch hầu
+
+- Bệnh nhân bị vật nuôi cắn như chó, mèo,... và có yếu tố nguy cơ cao như vết cắn rộng, sâu (tổn thương gân, xương), người bệnh suy giảm miễn dịch (như đái tháo đường, đã cắt lách,...)
+
+- Bệnh nhân có vết thương hở độ III theo Gustilo
+
+- Bệnh nhân phẫu thuật.
+
+## 3.2. Nguyê n tắc sử dụng kháng sinh dự phòng
+
+- Sử dụng kháng sinh diệt khuẩn
+
+- Có tác dụng trên phổ vi khuẩn cần dự phòng nhiễm khuẩn, không nên sử dụng kháng sinh phổ rộng
+
+- Không gây độc
+
+- Chi phí không quá cao
+
+- Đối với người bệnh cần phẫu thuật, kháng sinh dự phòng thường dùng qua đường tĩnh mạch, cần truyền thuốc trước khi bắt đầu phẫu thuật 30 – 60 phút, riêng vancomycin và levofloxacin thì 120 phút. Tùy vào thời gian cuộc phẫu thuật, thời gian bán hủy của thuốc, cần lặp lại liều thuốc để duy trì nồng độ thuốc trong huyết tương cao hơn MIC để ngừa nhiễm khuẩn. Đối với những trường hợp phẫu thuật vết thương sạch, sạch – nhiễm, ngưng kháng sinh sau phẫu thuật 24 giờ.
+
+# CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Kháng sinh nào sau đây có tác dụng diệt khuẩn phụ thuộc vào nồng độ?
+
+A. Penicillin
+
+B. Gentamycin
+
+C. Ceftriazone
+
+D. Imipenem
+
+2. Kháng sinh nào sau đây có tác dụng ức chế sự tổng hợp acid nucleic?
+
+A. Vancomycin
+
+B. Ceftriazone
+
+C. Imipenem
+
+D. Levofloxacin
+
+3. Kháng sinh nào sau đây có tác dụng hậu kháng sinh kéo dài?
+
+A. Gentamycin
+
+B. Amoxicillin
+
+C. Ticarcillin
+
+D. Clindamycin
+
+4. Trường hợp nào sau đây cần sử dụng kháng sinh dự phòng?
+
+A. Người bệnh nhiễm trùng tiể u
+
+B. Người bệnh phẫu thuật ung thư vú
+
+C. Người bệnh nhiễm trùng hô hấp nhiều lần
+
+D. Người bệnh suy giảm miễn dịch
 
 5. Khi dùng vancomycin để dự phòng, cần phải truyền thuốc trước khi bắt đầu phẫu thuật bao lâu?
 A. 30 phút
@@ -4402,6 +4812,60 @@ Vai trò của HPV và HBV là nguy cơ gây ung thư đã được chứng minh
 
 ### 3.5.2. HBV: cũng là một tác nhân virus có nguy cơ tiềm ẩn gây ung thư do DNA của HBV tích hợp vào DNA tế bào gan, làm rối loạn phân chia tế bào, gây ung thư biểu mô tế bào gan.
 
+## 4. KẾT LUẬN
+
+Các virus DNA, thường gặp nhất là HBV và HPV, gây nhiều loại bệnh nhiễm virus khác nhau. Xét nghiệm chẩn đoán chủ yếu dựa trên kỹ thuật miễn dịch học và sinh học phân tử. Hiện nay, đã có vaccin phòng ngừa hiệu quả các bệnh nhiễm virus DNA nguy hiểm là bệnh đậu mùa, bệnh thủy đậu, bệnh viêm gan B và ung bướu do HPV. Tuy vậy, các virus DNA vẫn còn là những thách thức cho y học và cho cộng đồng, trong số đó, HBV và điều trị bệnh viêm gan B là một ví dụ điển hình.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Chọn MỘT câu trả lời đúng nhất
+
+1. Một trong những bệnh lây truyền qua đường tình dục thường gặp nhất, có nguy cơ gây ung thư biểu mô cổ tử cung và đã có vaccin phòng ngừa. Virus nào dưới đây là cơ sở cho vaccin này?
+
+A. Cytomegalovirus (CMV)
+
+B. Epstein-Bar virus (EBV)
+
+C. Herpes simplex virus (HPV)
+
+D. Human papillomavirus (HPV)
+
+2. Virus nào dưới đây có cấu tạo sợi đơn DNA?
+
+A. Adenovirus
+
+B. B19 virus
+
+C. Coronavirus
+
+D. Dengue virus
+
+3. Tại phòng khám, một người bệnh nam bị vàng da than phiền chán ăn, đau bụng, mệt mỏi và nước tiểu đậm màu. Các xét nghiệm cho kết quả dương tính với cả hai loại kháng nguyên HBsAg và HBeAg. Mệnh đề nào dưới đây mô tả chính xác nhất virus gây ra tình trạng này?
+
+A. Bộ gen của virus là DNA sợi đôi dạng thẳng
+
+B. Bộ gen của virus là DNA sợi đôi dạng vòng
+
+C. Bộ gen của virus là RNA nhưng virus nhân lên qua trung gian DNA
+
+D. Sự nhân lên của virus cần phải có một virus khác trợ giúp
+
+4. Bệnh tái phát phổ biến nhất do HSV type 1 là bệnh nào?
+
+A. Mụn rộp
+
+B. Viêm lợi và miệng cấp tính
+
+C. Chàm (eczema)
+
+D. Viêm não
+
+5. Một bé trai bị viêm kết mạc, viêm họng và viêm nhiễm đường hô hấp trên ba ngày sau khi đi bơi với bạn. Bé sốt nhẹ nhưng không phát ban. Để tìm nguyên nhân, phòng xét nghiệm phân lập bệnh phẩm là chất tiết từ mũi và tác nhân này còn có khả năng gây bệnh đường tiêu hóa. Tác nhân nào dưới đây có thể là nguyên nhân gây ra tình trạng bệnh lý này cho bé?
+
+A. Virus DNA sợi đôi, có màng bọc
+
+B. Virus DNA sợi đôi, không màng bọc
+
 C. Song cầu Gram dương
 D. Song cầu Gram âm
 
@@ -4627,6 +5091,28 @@ Màng bọc có những gai nhỏ, dài 20 nm, nhô ra như những cánh hoa, b
 
 Hình 19.2. Virus corona
 
+Các coronavirus đã được nuôi cấy trên một số dòng tế bào. Ngay từ khi dịch bệnh xảy ra, các nhà khoa học trên thế giới đã rất tích cực nghiên cứu để điều chế vaccin phòng ngừa COVID-19, kết quả rất khả quan.
+
+Kỹ thuật RT-PCR là quan trọng và quyết định nhất trong việc chẩn đoán ca bệnh nhiễm coronavirus. Kỹ thuật miễn dịch phát hiện kháng thể kháng virus corona hỗ trợ chẩn đoán và chỉ có vai trò chính yếu trong điều tra dịch tễ học bệnh do coronavirus (Bảng 19.1 và 19.3).
+
+3.2. Các virus RNA sợi đơn cực âm: có 5 họ virus thuộc nhóm này (Bảng 19.3 và 19.3).
+
+Bảng 19.3. Một số đặc điểm của các virus RNA sợi đơn cực âm gây bệnh ở người
+
+| STT | Họ virus | Virus thường gặp | Gây bệnh chính | Nuôi cấy | Vaccin |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Orthomyxoviridae | Virus cúm <br> *(influenza virus)* | Cúm | + | + |
+| 2 | Paramyxoviridae | Virus á cúm, hô hấp <br> hợp bào, sỏi, quai bị | Viêm đường hô <br> hấp, sỏi, quai bị | + | + |
+| 3 | Rhabdoviridae | Virus dại | Dại | + | + |
+| 4 | Filoviridae | Virus Ebola, Marburg | Ebola, Marburg | | ±?, + |
+| 5 | Bunyaviridae | Virus hanta | Sốt xuất huyết, <br> viêm phổi, viêm não | - | - |
+
+3.2.1. Họ orthomyxoviridae
+
+Họ orthomyxoviridae thuộc nhóm Myxovirus. Myxovirus là một nhóm virus lớn gây bệnh qua đường hô hấp. Các virus cúm, sỏi, quai bị,... có khả năng tấn công glycoprotein trên thụ thể bề mặt tế bào hô hấp và gây bệnh đường hô hấp. Thuật ngữ “myxovirus” có nguồn gốc từ tiếng Hy Lạp “myxa”, nghĩa là viêm niêm mạc tiết nhầy. Dựa vào sự khác nhau cơ bản về cấu trúc và khả năng gây bệnh mà các virus này được chia thành hai họ riêng biệt – orthomyxoviridae và paramyxoviridae.
+
+Họ orthomyxoviridae có những thành viên duy nhất là các virus cúm (influenza viruses), gồm ba type miễn dịch: virus cúm type A, B và C. Virus cúm gây bệnh cúm cho người, động vật và cũng là tác nhân gây nên các trận đại dịch cúm trên thế giới. Cúm là một bệnh nhiễm virus hô hấp cấp tính lây lan thành dịch, đôi khi dịch xảy ra trên phạm vi toàn cầu. Chủng virus cúm người được phân lập lần đầu tiên vào năm 1933. Do khả năng gây dịch trên quy mô lớn nên các nhà khoa học đã tích cực nghiên cứu virus cúm từ khi phát hiện ra chúng. Cho đến nay, đã có những hiểu biết sâu sắc về khả năng gây bệnh của virus cúm trên người và động vật. Đặc điểm nổi bật của virus cúm là tính đột biến kháng nguyên glycoprotein trên bề mặt virus và tần suất tái tổ hợp di truyền cao, đây chính là những thách thức lớn cho các biện pháp kiểm soát bệnh. Virus cúm type A, B thấy ở người và động vật (chim biển, chó biển, heo, ngựa, gà và chuột), virus cúm type C chỉ gặp ở người và heo. Một số dòng virus cúm phân lập từ động vật có kháng nguyên giống với các dòng lưu hành ở người.
+
 Các virion có cấu trúc hình cầu hoặc hình sợi, đường kính từ 80 – 120 nm, nucleocapsid hình xoắn ốc. Virus cúm có 9 protein cấu trúc, đó là: nucleoprotein (NP), ribonucleoprotein (RNP), 3 protein lớn (PB1, PB2, PA), protein đệm (M1), hemagglutinin (HA), neuraminidase (NA) và một protein ở màng bọc (M2).
 
 Bộ gen RNA sợi đơn của virus cúm A và B chia thành 8 đoạn với độ dài khác nhau, liên kết yếu, có cực tính âm; virus cúm C có 7 đoạn RNA, thiếu gen neuraminidase. Mỗi đoạn RNA mã hóa cho một protein. Virion có men RNA polymerase sao chép (transcribe) bộ gen cực âm thành mRNA, vì vậy bộ gen không gây nhiễm.
@@ -4728,6 +5214,41 @@ Hiện nay đã có vaccin phòng ngừa bệnh tiêu chảy ở trẻ em do rot
 HDV thường liên quan với hầu hết các dạng viêm gan nặng ở những người bệnh viêm gan B có HBsAg (+). Thời kỳ ủ bệnh thay đổi từ 2 – 12 tuần, những người mang HBsAg bội nhiễm HDV có thời kỳ ủ bệnh ngắn hơn những người bị đồng nhiễm HBV và HDV. HDV gây viêm gan D cấp hoặc mạn với sự hiện diện của HBV, khiến tình trạng viêm gan nặng hơn khi chỉ nhiễm HBV.
 
 Trong chẩn đoán bệnh, thường sử dụng các thử nghiệm miễn dịch phát hiện kháng nguyên HDAg hoặc kháng thể anti-HDV IgM đặc hiệu trong huyết thanh. Kỹ thuật sinh học phân tử phát hiện HDV RNA cũng được dùng để chẩn đoán bệnh viêm gan D.
+
+Chưa có vaccin phòng ngừa bệnh viêm gan D nhưng có thể dùng vaccin viêm gan B do HDV chỉ đồng nhiễm hoặc bội nhiễm với HBV.
+
+## 4. TÓM TẮT
+Có nhiều loại virus thuộc 15 họ virus RNA gây bệnh ở người với các mức độ bệnh lý khác nhau. Các bệnh do nhiễm virus RNA nguy hiểm, thường gặp nhất là hội chứng suy giảm miễn dịch mắc phải (AIDS), viêm gan C, bệnh Ebola, nhiễm trùng hô hấp cấp tính (COVID-19) do SARS-CoV-2,...
+
+Hiện nay đã có nhiều tiến bộ trong chẩn đoán và điều trị các bệnh nhiễm virus RNA. Mặc dù phương pháp miễn dịch học thường được dùng để chẩn đoán bệnh nhiễm virus nhưng phương pháp sinh học phân tử vẫn là công cụ hữu hiệu nhất trong việc chẩn đoán bệnh viêm gan C, HIV/AIDS, COVID-19,... Việc điều trị bệnh viêm gan C bằng các thuốc kháng virus tác động trực tiếp (DAA: direct acting antivirals) là một tiến bộ vượt trội, giúp thải loại hoàn toàn HCV trong một thời gian ngắn. Một số bệnh do virus RNA khác như bệnh sởi, quai bị, rubella,... đã được phòng ngừa rất hiệu quả bằng vaccin. Tuy vậy, các virus RNA vẫn luôn đặt ra những thách thức rất lớn cho y học và cho cộng đồng, trong số này, SARS-CoV-2 gây đại dịch COVID-19 là một ví dụ điển hình.
+
+# CÂU HỎI TỰ LƯỢNG GIÁ
+*Chọn MỘT câu trả lời đúng nhất*
+1. Một trong những bệnh nhiễm virus thường gặp đã được điều trị hiệu quả bằng thuốc kháng virus thế hệ mới là bệnh do virus nào dưới đây gây ra?
+A. HAV
+B. HBV
+C. HCV
+D. HDV
+2. Một bé gái 9 tháng tuổi được đưa vào phòng cấp cứu trong tình trạng sốt và ho liên tục. Có thể hướng chẩn đoán tác nhân virus nào dưới đây gây nên bệnh cảnh lâm sàng này?
+A. Rotavirus
+B. Rhinovirus
+C. Adenovirus
+D. RSV
+3. Họ virus nào dưới đây có cấu tạo sợi đôi RNA?
+A. Rhabdoviridae
+B. Reoviridae
+C. Retroviridae
+D. Filoviridae
+4. Một bà mẹ mang con trai 2 tuổi đến khám bệnh. Em bé có các triệu chứng: ói hai lần trong buổi sáng, tiêu chảy, sốt nhẹ và chán ăn đã hai ngày. Tác nhân gây bệnh nào thường gặp nhất trong bệnh cảnh lâm sàng này?
+A. Adenovirus
+B. Astrovirus
+C. Norovirus
+D. Rotavirus
+5. Thể Negri liên quan đến virus nào dưới đây?
+A. Cytomegalo virus
+B. Herpes simplex virus
+C. Virus đại
+D. Virus rubella
 
 ĐÁP ÁN: 1.C 2.D 3.B 4.D 5.C
 
@@ -4945,6 +5466,33 @@ Vì chưa thể kiểm soát được bệnh bằng thuốc và vaccin, cách du
 - B. Gây ra các khối u ở chuột
 - C. Gây nhiễm các tế bào của hệ miễn dịch
 - D. Gây ra bệnh lý thần kinh tiến triển nhanh
+
+2. Virus HIV-1 có glycoprotein của vỏ bọc là gp120, protein này có tác động nào sau đây?
+A. Giúp cho quá trình hòa màng
+B. Giúp virus bám dính vào đồng thụ thể trên bề mặt tế bào
+C. Có tính bảo tồn cao giữa các chủng khác nhau
+D. Không kích thích tạo ra các kháng thể trung hòa
+3. HIV/AIDS đã trở thành đại dịch trên phạm vi toàn cầu và vẫn còn tiếp tục lan rộng. Theo số liệu năm 2009, khu vực địa lý có số lượng người nhiễm HIV cao nhất là vùng hạ Sahara châu Phi, tiếp theo là vùng nào sau đây?
+A. Nam Mỹ và vùng Ca-ri-bê
+C. Vùng nam và đông nam châu Á
+B. Tây Á, bao gồm Trung Quốc
+D. Tây Âu và Trung Á
+4. Diễn tiến điển hình của một người bệnh nhiễm HIV không điều trị kéo dài khoảng 10 năm. Giữa giai đoạn nhiễm HIV cấp tính và giai đoạn tiến triển đến AIDS có một khoảng thời gian dài không triệu chứng lâm sàng, đặc điểm nào sau đây là đúng?
+A. Số lượng tế bào TCD4 không thay đổi
+B. Virus không lây truyền cho người khác
+C. Virus hiện diện trong các cơ quan bạch huyết
+D. Không có các kháng thể trung hòa
+5. Tình trạng đồng nhiễm virus ở người nhiễm HIV-1 có thể gây ra bệnh tật và tử vong. Ở Hoa Kỳ, đồng nhiễm thường gặp nhất ở người nhiễm HIV-1 là virus nào?
+A. Virus viêm gan C
+B. Virus viêm gan D
+C. HIV type 2
+D. Virus herpes gây sarcoma Kaposi
+
+ĐÁP ÁN: 1.C 2.B 3.C 4.C 5.A
+
+TÀI LIỆU THAM KHẢO
+1. Hoàng Tiến Mỹ (2016). HIV/AIDS. Trong cuốn: Virus Y học. Chủ biên: Cao Minh Nga. Nhà xuất bản Y học – Chi nhánh TP. HCM, tr.177–188.
+2. Jawetz, Melnick & Adelberg's (2019) Medical Microbiology, 28th edition. AIDS and Lentiviruses, p.655–671.
 
 # Đáp ứng miễn dịch của cơ thể chống virus
 TS.BS. Phạm Lê Duy
@@ -6038,6 +6586,36 @@ B. Ergosterol
 C. Phospholipid
 D. Protein xuyên màng
 
+2. Sau khi cạo sang thương ở da để tìm vi nấm ngoài da, người ta nhỏ KOH $10-20\%$ lên này các tế bào sợi nấm vẫn còn nguyên vẹn là nhờ vào thành phần nào sau đây?
+A. Mannoproteins
+B. $\beta$-glucan
+C. Chitin
+D. Ergosterol
+3. Để chẩn đoán bệnh viêm màng não do nấm *Cryptococcus* *neoformans*, người ta lấy dịch não tủy của người bệnh rồi trộn đều với mực tàu, sau đó quan sát dưới kính hiển vi sẽ thấy rõ tế bào hạt men có vách dày bao quanh, đặc điểm này là do:
+A. Vi nấm bị nhuộm bởi mực tàu
+B. Chất melanin có thành phần giống mực tàu
+C. Bao nang bao quanh tế bào nấm không bị ngấm mực tàu
+D. Thành phần mannoproteins không bị ngấm bởi mực tàu
+4. *Candida albicans* là một vi nấm hạt men thường sống hoại sinh trên niêm mạc và da, chỉ gây bệnh khi có cơ hội. Vì vậy, khi lấy bệnh phẩm soi tìm vi nấm, thành phần quan trọng nhất để xác định vi nấm đang gây bệnh là tìm thấy
+A. Tế bào hạt men nảy búp
+B. Sợi tơ nấm giả
+C. Bào tử bao dày
+D. Bào tử đính
+5. Để chẩn đoán bệnh do nấm sợi, ngoài phương pháp nhuộm, soi trực tiếp, người ta cấy nấm trên môi trường Sabouraud để định danh vi nấm dựa vào:
+A. Hiện tượng nảy búp
+B. Ống mầm
+C. Bào tử đính
+D. Bào tử đốt
+
+ĐÁP ÁN: 1.A 2.C 3.C 4.B 5.C
+
+## TÀI LIỆU THAM KHẢO
+1. Trần Xuân Mai (2015), *Ký sinh trùng Y học*, NXB Y học, TP. HCM, tr.437–530.
+2. David Moore, Geoffrey D. Robson, Anthony P. J. Trinci (2011). “$21^{\text{st}}$ Century Guidebook to Fungi”, Structure and synthesis of fungal cell wall, (6), pp. 156–172
+3. Elias J. Anaissie, Michael R. McGinnis, Michael A. Pfaller (2009), *Clinical mycology*, Elsevier, Churchill Livivingstone, pp. 197–296.
+4. Patrick R. Murray, Ken S. Rosenthal,, Michael A. Pfaller (2016), *Medical Microbiology*, Elsevier, Philadelphia, pp.568–573.
+5. Yoshimi A., Miyazawa K., Abe K. (2016). “Cell wall structure and biogenesis in Aspergillus species”. *Bioscience*, *Biotechnology, and* *Biochemistry*, 80 (9), pp. 1700–1711.
+
 # Đáp ứng miễn dịch của cơ thể chống vi nấm
 ThS.BS. Nguyễn Thanh Liêm
 
@@ -6178,6 +6756,46 @@ Kháng thể kháng *Cryptococcus* dọn sạch glucuronoxylomannan có hại, l
 - Sự tương tác của tế bào lympho CD4 và tế bào thực bào đơn nhân đóng vai trò là trung tâm đáp ứng miễn dịch qua trung gian tế bào.
 - Sự phát triển của miễn dịch đặc hiệu qua trung gian tế bào CD4 đòi hỏi phải có xử lý kháng nguyên của tế bào trình diện kháng nguyên, sau đó trình diện kháng nguyên này cho lympho T.
 - Đầu tiên, kháng nguyên vi nấm (ngoại sinh) được đưa tới những bọng (vesicle) có tính acid của endosome-lysosome của các tế bào thực bào để cắt thành những mảnh peptide nhỏ. Mảnh peptide gắn vào phân tử MHC lớp II bên trong bọng và phức hợp
+
+MHC-peptide được trình diễn trên bề mặt tế bào, phức hợp này sẽ được nhận diện bởi tế bào CD4 Th chuyên biệt. Thụ thể của tế bào T (TCR) gắn với mảnh peptide nằm trong rãnh của phân tử MHC và với các yếu tố quyết định đa hình trên phân tử MHC, trong khi hoạt hóa thì một tín hiệu thứ 2 phải được cung cấp bởi phân tử cùng kích thích hiện diện trên tế bào trình diện kháng nguyên là CD80 và CD86. Các cytokine được tiết bởi tế bào trình diện kháng nguyên ảnh hưởng đến tính chất và mức độ đáp ứng của tế bào lympho T.
+
+- Tế bào T CD4 được hoạt hóa theo dạng Th1 hay Th2 tùy thuộc vào nhiều yếu tố như tín hiệu cùng kích thích từ tế bào trình diện kháng nguyên, các cytokine do các tế bào tiết ra, liều lượng kháng nguyên,...
+
+- Có sự ức chế điều hòa chéo giữa Th1 và Th2
+
+- Biệt hóa theo dạng Th1 hay Th2 còn phụ thuộc vào dòng vi nấm đưa vào cơ thể cũng như đường đưa mầm bệnh vào cơ thể:
+
+  + Candida albicans: đường tiêu hóa đưa đến đáp ứng Th1, qua đường tĩnh mạch gây đáp ứng dạng Th2
+
+  + Aspergillus sp.: kích thích bằng bào tử cho đáp ứng Th1, sợi nấm Th2.
+
+- Th1 tiết IL-2 và IFN-$\gamma$, làm kích hoạt đại thực bào, tế bào T gây độc tế bào và tế bào NK để tiêu diệt vi nấm ký sinh nội tế bào như Histoplasma capsulatum, Talaromyces marneffei và kể cả Cryptococccus neoformans.
+
+- Th2 tiết các cytokine như IL4, IL5, IL13 giúp:
+
+  + Các tế bào lympho B phát triển và biệt hóa, kiểm soát kháng thể dịch thể
+
+  + Kiểm soát các phản ứng do IgE
+
+  + Kích hoạt bạch cầu ái toan liên quan đến phản ứng dị ứng, tăng nhạy cảm.
+
+- Đáp ứng Th17:
+
+  + Đáp ứng Th17 có hoạt tính kháng nấm, đặc biệt đối với vi nấm ở da và niêm mạc, ký sinh ngoại bào
+
+  + Hoạt hóa bạch cầu đa nhân trung tính qua trung gian IL-17
+
+  + Cảm ứng các chuỗi peptide từ tế bào thượng bì qua trung gian IL-22.
+
+- Tế bào CD8:
+
+  + CD8 cũng đóng vai trò quan trọng trong đáp ứng miễn dịch với nhiễm vi nấm
+
+  + CD8 phát hiện phức hợp peptide – MHC lớp I
+
+  + Những peptide này được tạo ra trong bào tương qua hoạt động của các proteasome, rồi được vận chuyển vào hệ lưới nội sinh chất
+
+  + Tại lưới nội sinh chất, các peptide kết hợp với các phân tử MHC lớp I mới được tổng hợp, rồi vận chuyển qua bộ máy Golgi để tới bề mặt tế bào.
 
 - Miễn dịch dị ứng:
     + Miễn dịch thích nghi có vai trò quan trọng trong cơ chế bệnh dị ứng vi nấm do hít phải
@@ -6609,6 +7227,40 @@ Phương pháp này thường được áp dụng để nhuộm mẫu vi nấm t
 ### 3.1.9. Cấy vi nấm
 - Cấy vi nấm trên các môi trường nhân tạo (BHI, Sabouraud,...), giúp vi nấm tăng sinh về số lượng, đồng thời tạo ra những bào tử có các đặc điểm riêng biệt, giúp định danh vi nấm. Môi trường kinh điển để phân lập vi nấm là Sabouraud. Tuy nhiên, để thuận tiện cho việc phân lập các tác nhân khác kèm theo (vi trùng) người ta có thể cấy bệnh phẩm trên
 
+môi trường tìm vi trùng, sau khi phát hiện thấy có vi nấm mọc sẽ cấy chuyển sang môi trường Sabouraud sau. Cấy trên môi trường vi trùng vi nấm mọc với tốc độ chậm hơn.
+
+- Cấy vi nấm giúp chẩn đoán nhiều loại bệnh do vi nấm, đặc biệt những vi nấm gây nhiễm nấm huyết hoặc gây bệnh ở các vị trí vô trùng khác.
+
+- Phối hợp với phương pháp soi, sinh học phân tử sau khi có kết quả cấy. Đặc biệt sẽ tự báo và sẽ tự định danh vi nấm dựa vào hệ thống khối phổ Maldi-Tof đã được cài đặt sẵn. Với sự trợ giúp của các thiết bị tự động theo dõi liên tục này, giúp phát hiện sớm vi nấm mọc, đặc biệt những trường hợp mật độ vi nấm thấp.
+
+- Cấy vi nấm sẽ giúp vi nấm tăng sinh về số lượng, nên giúp phát hiện vi nấm ở những mẫu bệnh phẩm có mật độ vi nấm thấp.
+
+- Một số vi nấm cần môi trường chuyên biệt để định danh tốt hơn: môi trường Czapek để định danh *Aspergillus*, CHROMagar để định danh *Candida*. Khi cấy vi nấm trên những môi trường chuyên biệt này, vi nấm sẽ mọc với những màu sắc đặc trưng của mỗi loài. Khi đó dựa vào màu sắc của vi nấm chúng ta sẽ dễ dàng định danh tên của vi nấm ở mức độ loài.
+
+- Thời gian cấy trung bình 1 – 2 tuần. Tuy nhiên, có những vi nấm mọc rất nhanh, chỉ cần 2 – 3 ngày; cũng có vi nấm mọc rất chậm cần tới 4 tuần như *Histoplasma capsulatum* và các vi nấm ngoài da.
+
+## 3.2. Kỹ thuật gián tiếp
+
+### 3.2.1. Các phản ứng sinh hóa
+
+Một số vi nấm, đặc biệt là vi nấm hạt men như *Candida*, *Cryptococcus* sau khi cấy phân lập được từ bệnh phẩm cần làm thêm các phản ứng sinh hóa để định danh chính xác tên vi nấm gây bệnh. Các phản ứng sinh hóa sau khi xảy ra sẽ có các chỉ thị màu hoặc sinh hơi, từ đó đối chiếu với bộ khóa có sẵn sẽ giúp định danh vi nấm. Các phản ứng sinh hóa thường được ứng dụng gồm:
+
+- Đồng hóa đường, nitrat
+
+- Lên men đường
+
+- Urease.
+
+### 3.2.2. Miễn dịch tìm kháng thể
+
+- Tìm kháng thể trong huyết thanh của một số vi nấm như: *Histoplasma capsulatum*, *Candida*, *Aspergillus*,...
+
+- Kháng thể xuất hiện muộn sau khi nhiễm vi nấm
+
+- Nồng độ kháng thể thấp ở người suy giảm miễn dịch
+
+- Kháng thể có thể tồn tại từ lần nhiễm vi nấm lần trước, nên việc diễn giải kết quả để xác định một ca bệnh rất khó khăn
+
 - Tìm kháng thể kháng lại thành phần mannan của vi nấm
 - Phương pháp tìm kháng thể thường dùng: ELISA, cố định bổ thể, ngưng kết.
 
@@ -6805,6 +7457,33 @@ Là những thuốc thuộc nhóm Imidazoles dùng ngoài. Bôi ngoài da chỉ 
 + Không hấp thu qua đường uống. Đường dùng thông thường là đường truyền tĩnh mạch
 + Gắn vào protein huyết tương với tỉ lệ cao tới 95%, chủ yếu vào β-lipoprotein
 + Vào được dịch não tủy
+
++ Thời gian bán thải khoảng 15 ngày
++ Thải trừ chậm qua thận trong vài ngày.
+- Độc tính:
++ Độc tính liên quan đến việc truyền thuốc: run, sốt, buồn nôn, nhức đầu, hạ huyết áp
++ Tổn thương ống thận, đưa đến suy thận
++ Tăng thải $\text{K}^+$, $\text{Mg}^{2+}$
++ Thiếu máu do giảm sản xuất erythropoietin của thận.
+### 3.3.2. Nystatin
+- Tương tự amphotericin B cả về cấu trúc và cơ chế tác dụng, nhưng độc hơn nên chỉ để dùng ngoài vì không hấp thu qua da và niêm mạc.
+- Tác dụng điều trị các loại vi nấm *Candida* sp. ở miệng, âm đạo và kẽ da.
+## 3.4. Allylamines
+- Một thuốc quan trọng thuộc nhóm này là terbinafine
+- Cơ chế: ức chế squalene epoxidase, một enzyme cần để tổng hợp ergosterol, làm cho enzyme này không gắn kết vào được hệ thống cytochrome P450. Do đó, vừa có tác dụng diệt vi nấm vừa có tác dụng kìm hãm sự phát triển của vi nấm.
+- Phổ kháng nấm: các vi nấm ngoài da, lang ben, *Candida* ở da.
+- Dược động học:
++ Vừa có chế phẩm dạng uống, vừa có dạng bôi ngoài da
++ Khi xức trên da, dưới $5\%$ được hấp thu vào cơ thể
++ Các chất chuyển hóa không có tác dụng kháng nấm
+- Đào thải chủ yếu qua nước tiểu ($70 - 75\%$) và phân
++ Thời gian bán hủy là 17 giờ
+- Độc tính chủ yếu ở gan, dị ứng.
+### 3.5. Griseofulvin
+- Cơ chế tác dụng: griseofulvin gắn vào protein tiểu quản, làm gãy thoi phân bào nên kìm hãm sự phát triển của nấm
+- Phổ kháng nấm: hiệu quả đối với các vi nấm ngoài da
+- Dược động học: hấp thu qua đường tiêu hóa thay đổi theo dạng thuốc và thức ăn. Chế phẩm siêu tinh thể có sinh khả dụng gấp rưỡi loại bột vi tinh thể. Thức ăn có mỡ sẽ dễ hấp thu vì thuốc không tan trong nước. Thuốc tích lũy trong tế bào tiền thân của keratin nên có tác dụng kháng lại sự xâm nhập trở lại của vi nấm.
+- Độc tính: nhức đầu, viêm thần kinh, ngủ gà, mệt mỏi, nhìn mờ, rối loạn tiêu hóa.
 
 3.6. Pyrimidine
 - Một thuốc quan trọng thuộc nhóm này là flucytosin
@@ -7105,7 +7784,31 @@ Trứng theo phân ra ngoài, trứng mới sinh ra chưa phân hóa nhưng khi 
 
 Trứng ra ngoại cảnh có điều kiện thuận lợi: độ ẩm cao, có đủ oxy, nhiệt độ từ 24 – 30 °C bóng râm mát, pH trung tính sẽ nở ra ấu trùng giai đoạn 1 (larva rhaditiform). Từ 3 – 5 ngày sau, ấu trùng giai đoạn 1 này ăn các chất hữu cơ trong phân và lớn lên. Khoảng 1 tuần sau ấu trùng giai đoạn 1 thôi không ăn và lột xác thành ấu trùng giai đoạn 2 (larva filariform), ấu trùng này di động và đề kháng, nhất là ở đất ẩm hay đất bùn lầy, ấu trùng có thể truyền bệnh. Ấu trùng này nhiễm bằng cách chui qua da người (người là ký chủ vĩnh viễn). Ấu trùng giai đoạn 2 ở ngoại cảnh sống tối đa 3 tháng và sẽ chết nếu không gặp ký chủ thích hợp.
 
-Khi ấu trùng giai đoạn 2 tiếp xúc da người thường là da ở kẽ tay, kẽ chân, ấu trùng sẽ vào tĩnh mạch nhỏ dưới da theo máu đến tim phải, từ đó vào phổi ấu trùng làm vỡ các mao quản phổi và đi qua phế nang để vào phế quản và đi ngược lên khí quản để đi đến ngã tư hô hấp – tiêu hóa. Sự hiện diện của ấu trùng ở vùng này tạo một phản xạ ho và tạo điều kiện thuận lợi cho một phản xạ nuốt, nó rơi xuống ống tiêu hóa, thực quản, dạ dày
+Khi ấu trùng giai đoạn 2 tiếp xúc da người thường là da ở kẽ tay, kẽ chân, ấu trùng sẽ vào tĩnh mạch nhỏ dưới da theo máu đến tim phải, từ đó vào phổi ấu trùng làm vỡ các mao quản phổi và đi qua phế nang để vào phế quản và đi ngược lên khí quản để đi đến ngã tư hô hấp – tiêu hóa. Sự hiện diện của ấu trùng ở vùng này tạo một phản xạ ho và tạo điều kiện thuận lợi cho một phản xạ nuốt, nó rơi xuống ống tiêu hóa, thực quản, dạ dày rồi ruột non ở đây sau lần lột xác cuối cùng, nó trở thành con trưởng thành và khoảng 40 ngày sau khi bị nhiễm, có thể thấy trứng trong phân.
+
+Người là ký chủ chính của hai giun này.
+
+## Giun lươn Strongyloides stercoralis
+
+Giun cái và giun đực sống ở ruột non, sau khi thụ tinh, giun đực chết và bị thải ra trinh sản.
+
+Trứng nở ngay ở trong ruột non, cho ra ấu trùng có thực quản ụ phình, ấu trùng này trường, ấu trùng sẽ phát triển theo chu trình trực tiếp hoặc gián tiếp.
+
+### Chu trình gián tiếp
+
+Trong điều kiện khí hậu thuận lợi như nhiệt độ cao, ẩm độ đủ, ấu trùng có thực quản ụ phình sẽ phát triển thành giun lươn sống tự do ở ngoại cảnh. Giun cái sống tự do có kích thước nhỏ hơn giun cái ký sinh ($1 \times 0,05\text{ mm}$), âm môn nằm ở phần sau thân, từ cung chứa trứng có kích thước $70 \times 40\text{ }\mu\text{m}$. Giun đực sống tự do không phân biệt được với nhau và đều phát triển thành ấu trùng có thực quản hình ống, có tính lây nhiễm. Chúng có thể sống được nhiều tuần trên đất.
+
+Phần lớn trường hợp ấu trùng có thực quản ụ phình sẽ lặp lại chu trình ở ngoại cảnh để trở thành giun lươn sống tự do. Nhưng cũng có một số trường hợp, có thể do thay đổi khí hậu, ấu trùng thực quản ụ phình lột xác để trở thành ấu trùng có thực quản hình ống và xâm nhập qua da vào cơ thể ký chủ để trở thành giun lươn ký sinh giống như chu trình trực tiếp.
+
+### Chu trình trực tiếp
+
+Nếu gặp điều kiện sống không thuận lợi, ấu trùng có thực quản ụ phình phát triển nhanh chóng thành ấu trùng có thực quản hình ống trong khoảng từ $2 - 3$ ngày. Ấu trùng có thực quản hình ống chui qua da người vào tĩnh mạch đến tim phải, lên phổi, khí quản, thực quản, dạ dày và xuống phần đầu ruột non, định vị và ký sinh ở đó. Ấu trùng khi đến phổi có thể không thoát ra khỏi mao quản để vào phế nang mà vẫn tiếp tục theo luân chuyển của máu, theo hệ tuần hoàn định vị lạc chỗ ở các cơ quan khác. Trong suốt thời kỳ di chuyển trong máu của ký chủ, ấu trùng trải qua hai lần lột xác trước khi trưởng thành. Trứng giun được đẻ sau khi bị nhiễm 28 ngày.
+
+### Chu trình tự nhiễm
+
+Chu trình tự nhiễm là do giun sinh sản ngay trong cơ thể người bị nhiễm theo hai cách:
+
+- Trong trường hợp người suy giảm miễn dịch hoặc khi nhu động ruột chậm, ấu trùng có thực quản ụ phình sẽ phát triển thành ấu trùng có thực quản hình ống ngay trong ruột của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ. Ấu trùng này xuyên qua thành ruột vào hệ tuần hoàn tĩnh mạch đến gan, tim của ký chủ và tiếp tục chu trình để ký sinh ở ruột non giống như các chu trình trên. Đó là hiện tượng tự nhiễm bên trong cơ thể ký chủ.
 
 - Trong trường hợp người bệnh không được chăm sóc vệ sinh chu đáo, ấu trùng có thực quản ụ phình theo phân ra ngoài còn dính lại ở hậu môn sẽ phát triển thành ấu trùng có thực quản hình ống và xuyên qua niêm mạc hậu môn vào hệ tĩnh mạch tiếp tục phát triển như trên, đó là hiện tượng tự nhiễm bên ngoài cơ thể ký chủ.
 
@@ -7343,6 +8046,53 @@ Các đốt già có chiều dài gấp $1,5 - 2$ lần chiều ngang, chỉ cò
 
 **Hình 31.4.** Đầu và đốt già của *Taenia saginata* trưởng thành
 
+- Trứng: kích thước $30 – 40\text{ }\mu\text{m}$, rất giống trứng sán dải heo.
+
+- Cysticercus bovis (nang ấu trùng sán dải bò): kích thước $6 – 8\text{ mm} \times 3 – 5\text{ mm}$ có màu đỏ vì chứa chất myoglobin, chứa đầu ấu trùng sán bên trong.
+
+**Diphyllobothrium latum** (Sán dải cá)
+
+- Sán trưởng thành: là sán dải nhất ký sinh ở người, dài từ $3 – 10 mét$, đôi khi dài đến $20 mét$, có khoảng $3.000 – 4.000$ đốt. Đầu sán nhỏ hình thuỗn, kích thước $2 – 3\text{ mm} \times 0,7 – 0,9\text{ mm}$ không có đĩa hút mà có hai rãnh hút. Đốt già có chiều dài đốt ngắn hơn chiều ngang $(15 – 20\text{ mm} \times 10 – 1,5\text{ mm})$. Lỗ sinh dục ở giữa đốt gần bờ trên, lỗ đẻ thông với tử cung, nằm gần lỗ sinh dục và thụt phía sau. Các đốt sán có tử cung màu nâu, cuộn như bông hoa nằm ngay trung tâm đốt sán. Đốt mang trứng có thể cho đến $1.000.000$ trứng mỗi ngày.
+
+- Trứng: trứng sán màu nâu, khi mới sinh ra chỉ có các tế bào phôi, có nắp giống trứng sán lá lớn nhưng kích thước nhỏ hơn, $70 \times 45\text{ }\mu\text{m}$.
+
+[Hình: Đầu, đốt già và trứng của Diphyllobothrium latum]
+- Rãnh hút
+- Lỗ sinh dục
+- Lỗ đẻ
+- Tử cung
+
+Hình 31.5. Đầu, đốt già và trứng của Diphyllobothrium latum
+
+## 1.2. Sinh học
+
+### 1.2.1. Đặc điểm sinh học của sán dải
+
+Sán dải trưởng thành ký sinh ở ruột non, thường chỉ có một con sán ký sinh trong một người vì sán thứ nhất tạo miễn dịch tương đối chống lại sự phát triển của sán thứ hai. Tuy nhiên, bội nhiễm có thể xảy ra khi ăn một miếng thịt chứa nhiều ấu trùng cùng một lúc. Sán dải sống được khoảng $20 – 25 năm$, có đời sống kỵ khí. Số lượng đốt già tách ra khỏi thân sán khác nhau tùy loài. Thẩm thấu các chất hydrate carbon, đạm, lipid, vitamin trong ruột non để tồn tại và phát triển. Trong quá trình ký sinh sán tiết các chất như glutathione S-transferase, $\beta$-glucuronidase và proteinase có tác dụng lần lượt là trung hòa men tiêu hóa của ký chủ, phân giải carbohydrate và protein.
+
+### 1.2.2. Chu trình phát triển
+
+**Chu trình phát triển của Taenia solium và Taenia saginata**
+
+Nhờ đĩa hút và móc giúp sán bám vào niêm mạc ruột non ở đoạn trên trên hỗng tràng, là nơi có sẵn các chất dinh dưỡng dễ hấp thu. Chất dinh dưỡng từ đây ngấm vào cơ thể sán. Hàng ngày, các chuỗi từ 4 – 5 đốt già (sán dải heo) hoặc từng đốt (sán dải bò), theo phân ra ngoài. Các đốt sán tan vỡ, phát tán trứng ra môi trường. Ký chủ trung gian là heo, đến cơ tạo thành nang ấu trùng gọi là gạo. Người ăn thịt heo, thịt bò có gạo không nấu chín, đầu ra ngoài bám vào niêm mạc ruột và phát triển thành sán trưởng thành sau 8 – 10 tuần.
+
+**Sơ đồ: Chu trình phát triển của Taenia solium và Taenia saginata**
+- Ấu trùng sán --> Cysticercus cellulosae, Cysticercus bovis
+- Heo, bò bị nhiễm do ăn phải trứng hay đốt sán --> Trứng, Đốt
+- Trứng, Đốt --> T. saginata T. solium, Đầu sán bám vào ruột
+- Đầu sán bám vào ruột --> Sán trưởng thành
+- Sán trưởng thành --> T. saginata T. solium, Ấu trùng sán
+
+[Hình: Hình 31.6. Chu trình phát triển của Taenia solium và Taenia saginata]
+
+Trường hợp người vô tình nuốt trứng trong thức ăn vấy bẩn, rau sống, nước uống hoặc tay dơ có trứng đưa vào miệng hay một số trường hợp đốt già sán dải sau khi tách rời khỏi thân sán được đưa lên dạ dày bởi nhu động ruột. Tại ruột, phôi 6 móc từ trứng được phóng thích, chui qua niêm mạc vào vách ruột, theo dòng máu đến các cơ quan trong cơ thể và ký sinh tại đây.
+
+Các vị trí ký sinh của ấu trùng thường là não, tủy sống, mắt, mô dưới da,... gây viêm màng não, viêm não, tăng áp lực nội sọ, liệt vận động, nhìn mờ, chảy nước mắt, giảm thị lực, mù, tạo các nốt dưới da,...
+
+## Chu trình phát triển sán dải cá Diphyllobothrium latum
+
+Nhờ vào rãnh hút, con trưởng thành bám vào thành ruột ruột non đoạn trên hỗng tràng của người, chó, mèo và những động vật ăn thịt. Đốt già đẻ khoảng 1.000.000 trứng mỗi ngày. Khi trứng gặp nước, trứng nở ra ấu trùng lông (coracidium) hình cầu có lông tia chung quanh. Ấu trùng lông bơi trong nước, được giáp xác như Cyclops hoặc Diaptomus chung quanh.
+
 (ký chủ trung gian thứ nhất) nuốt, biến thành ấu trùng procercoid. Sau đó, cá nước ngọt như cá hồi, cá măng (ký chủ trung gian thứ hai) nuốt các giáp xác; trong mô cá procercoid biến thành ấu trùng plerocercoid (còn gọi sparganum). Khi người (hoặc chó, mèo, chồn) ăn cá có ấu trùng plerocercoid vào ruột non, ấu trùng bám vào thành ruột bằng hai rãnh hút; phát triển rất nhanh, trưởng thành trong vòng 1 tháng.
 
 Sán dải cá hấp thụ rất nhiều vitamin B12 gây thiếu máu, thiếu máu kiểu Biermer có hồng cầu to, non,... và trong quá trình ký sinh sản tiết chất tiêu huyết, chất này gần giống như lysolecithine gây vỡ hồng cầu làm cho tình trạng thiếu máu nặng hơn.
@@ -7368,6 +8118,48 @@ Người nhiễm sán dải heo do ăn thịt heo không nấu chín. Bệnh sá
 Sán dải bò phổ biến ở những nơi có thói quen ăn thịt bò tái. Bệnh thường gặp ở các nước thuộc châu Âu, Á, Phi, châu Mỹ Latinh.
 
 Ở Việt Nam, bò ít bị nhiễm hơn heo nhưng người lại nhiễm sán dải bò nhiều hơn sán dải heo vì thích ăn bò tái. Vùng đồng bằng có tỉ lệ nhiễm cao hơn miền núi.
+
+2.3. Đặc điểm dịch tế của Diphyllobothrium latum
+
+Người mắc bệnh sán dải cá do thói quen ăn cá hồi sống. Bệnh sán dải cá gặp ở các quốc gia thuộc châu Âu, châu Á và châu Mỹ.
+
+3. CHẨN ĐOÁN: Để chẩn đoán bệnh sán dải dựa vào các yếu tố dịch tễ, biểu hiện lâm sàng và xét nghiệm.
+
+3.1. Các xét nghiệm chẩn đoán Taenia solium và Cysticercus cellulosae
+
+3.1.1. Taenia solium
+
+- Soi phân: có thể thấy đốt già có chiều dài gấp 1,5 – 2 lần chiều ngang, tử cung có từ 7 – 12 nhánh bên.
+
+- Phương pháp Graham: giống như tìm trứng giun kim, dán lên rìa hậu môn bằng một miếng băng keo trong, gỡ ra dán lên lam quan sát dưới kính hiển vi tìm trứng.
+
+3.1.2. Cysticercus cellulosae
+
+- Công thức máu: có thể tăng bạch cầu toan tính
+
+- Dùng máy soi: nghi ngờ nang ấu trùng ở mắt
+
+- CT scan, MRI: nghi ngờ nang ấu trùng ở não, hình ảnh nang ấu trùng là các nốt tròn khi nang hóa vôi hoặc vòng tròn dạng nhẫn; có thể thấy phù não
+
+- Chẩn đoán miễn dịch: ELISA (Enzyme linked immuno sorbent assay).
+
+3.2. Xét nghiệm chẩn đoán Taenia saginata
+
+Soi phân tìm đốt sán: chiều dài đốt gấp 2,5 – 3 lần chiều ngang. Tử cung mỗi bên chứa trên 15 nhánh, các nhánh mảnh khảnh thường chia đôi ở cuối nhánh.
+
+3.3. Diphyllobothrium latum: Soi phân tìm trứng để chẩn đoán xác định.
+
+4. BIỆN PHÁP PHÒNG CHỐNG
+
+- Tuyên truyền, giáo dục sức khỏe về phòng chống bệnh cho cộng đồng
+
+- Vệ sinh ăn uống: không ăn thịt heo, bò và cá sống
+
+- Vệ sinh môi trường: không đi tiêu bừa bãi, chăn nuôi hợp vệ sinh
+
+- Phát hiện và điều trị người mắc bệnh.
+
+- Tăng cường kiểm tra sát sinh tại các lò mổ heo, bò.
 
 # Lớp Trematoda
 ## Sán lá
@@ -7401,6 +8193,69 @@ Sán dải bò phổ biến ở những nơi có thói quen ăn thịt bò tái.
 - Cơ quan tiêu hóa gồm miệng, hầu, thực quản và manh tràng
 - Cơ quan thần kinh gồm hạch thần kinh, các nhánh và các vòng thần kinh
 - Cơ quan sinh dục gồm cơ quan sinh dục đực có tinh hoàn, ống dẫn tinh, ống dẫn tinh chung và tận cùng là gai giao hợp và cơ quan sinh dục cái gồm buồng trứng, ống dẫn trứng, noãn phòng, tử cung tận cùng là lỗ sinh dục cái và các tuyến sinh noãn hoàng.
+
+- Cơ quan bài tiết gồm tế bào tiền nguyên thận thu các chất bài tiết đổ vào các ống nhỏ, đưa đến bàng quang rồi theo lỗ bài tiết ra ngoài.
+
+## 1.1.2. Cấu trúc đại thể
+
+**Sán lá lớn ở gan**: có hai loài *Fasciola hepatica* và *Fasciola gigantica*.
+
+- Sán trưởng thành: *Fasciola gigantica* dài khoảng 5 cm, còn *Fasciola hepatica* dài khoảng 3 cm. Sán có thân dày hình dạng như chiếc lá, có thể hình nón ở đầu. Phần thân ngắn. Manh tràng dài đến tận cuối thân, phân nhiều nhánh nhỏ. Cơ quan sinh dục đực có tinh hoàn phân nhánh, ở phần sau thân sán. Lỗ sinh dục ở phía trước đĩa hút bụng.
+
+[Hình: Fasciola gigantica, Trứng, Fasciola hepatica]
+
+**Hình 31.9.** Sán trưởng thành và trứng sán lá lớn
+
+- Trứng: hình bầu dục, có nắp, vỏ dày màu nâu. Bên trong có một đám phôi bào lúc mới sinh. Trứng *Fasciola gigantica* có kích thước $160 - 150\text{ }\mu\text{m} \times 85 - 95\text{ }\mu\text{m}$, trứng *Fasciola hepatica* nhỏ hơn $148\text{ }\mu\text{m} \times 80\text{ }\mu\text{m}$.
+
+**Sán lá nhỏ ở gan**: thường gặp là *Clonorchis sinensis* và *Opisthorchis viverrini*.
+
+- Sán trưởng thành: đĩa hút miệng lớn hơn đĩa hút bụng, thực quản khá dài, manh tràng không phân nhánh dài đến tận cuối đuôi. Lỗ sinh dục ở trước đĩa hút bụng. Tinh hoàn phân thùy nằm sau buồng trứng.
+
+*Clonorchis sinensis*: màu đỏ nhạt, dài $1 - 2\text{ cm} \times 0,2 - 0,4\text{ cm}$, tinh hoàn từ 4-6 thùy.
+
+*Opisthorchis viverrini*: kích thước khoảng $7 - 12\text{ mm}$, tinh hoàn chia 2 -3 thùy nằm sát buồng trứng.
+
+- Trứng: hình bầu dục có nắp lồi dễ thấy, màu nâu sẫm, đối diện với nắp có gai nhỏ. Bên trong trứng có phôi ngay từ lúc mới sinh.
+
+*Clonorchis sinensis* có kích thước khoảng $27 \times 16\text{ }\mu\text{m}$, màu nâu sẫm, gai dễ thấy.
+
+*Opisthorchis viverrini*: giống trứng *Clonorchis sinensis* nhưng ngắn hơn, $26 \times 13\text{ }\mu\text{m}$.
+
+[Hình: Sán trưởng thành và trứng của Clonorchis sinensis]
+- [Hình: Đĩa hút miệng]
+- [Hình: Đĩa hút bụng]
+- [Hình: Tử cung]
+- [Hình: Manh tràng]
+- [Hình: Buồng trứng]
+- [Hình: Tinh hoàn]
+- [Hình: Lỗ bài tiết]
+- [Hình: Nắp]
+- [Hình: Gai nhỏ]
+
+Hình 31.10. Sán trưởng thành và trứng của Clonorchis sinensis
+
+**Sán lá phổi**
+
+Sán lá phổi có nhiều loài, thường gặp là Paragonimus westermani, Paragonimus kellicotti, Paragonimus heterotremus, Paragonimus kellicotti.
+
+- Sán trưởng thành: có thân dày, mặt trên lồi, mặt bụng dẹp giống như hạt cà phê màu nâu đỏ kích thước $0,8 - 1,6\text{ mm} \times 4 - 8\text{ mm}$, trên thân có nhiều gai nhỏ. Đĩa hút bụng và đĩa hút miệng bằng nhau. Manh tràng ngoằn ngoèo, không phân nhánh. Tinh hoàn và buồng trứng phân thùy. Lỗ sinh dục sau đĩa hút bụng.
+
+- Trứng: màu nâu sậm, bầu dục, có nắp, kích thước $80 - 120\text{ µm} \times 45 - 60\text{ µm}$, vỏ dày, nhất là phía đối diện với nắp, bên trong chứa phôi bào khi mới sinh.
+
+**Faciolopsis buski** (sán lá lớn ở ruột): là loài sán lá lớn, bình thường ký sinh trong tá tràng của heo và người.
+
+- Sán trưởng thành: Sán lá lớn ở ruột có thân dày, hình giống chiếc lá, kích thước khoảng $3 - 7\text{ cm} \times 1,5\text{ cm} - 1,7\text{ cm}$. Ranh giới giữa đầu và thân không rõ, màu nâu hay xám. Sán có đĩa hút miệng nhỏ, đĩa hút bụng lớn gấp 4 lần đĩa hút miệng và rất sâu. Thực quản có hai nhánh, không có hậu môn. Cơ quan sinh dục đực gồm tinh hoàn chia nhánh chiếm hết phần giữa và phần sau sán. Cơ quan sinh dục cái có buồng trứng phân nhánh và tử cung chiếm nửa trước thân. Lỗ sinh dục nằm ở phía trước đĩa hút bụng.
+
+[Hình: Sán trưởng thành và trứng của sán lá lớn ở ruột Fasciolopsis buski]
+- [Hình: Đĩa hút miệng]
+- [Hình: Đĩa hút bụng]
+- [Hình: Tử cung]
+- [Hình: Buồng trứng]
+- [Hình: Manh tràng]
+- [Hình: Tinh hoàn]
+
+Hình 31.11. Sán trưởng thành và trứng của sán lá lớn ở ruột Fasciolopsis buski
 
 Trứng: hình bầu dục, có nắp, vỏ mỏng, kích thước $130\text{ }\mu\text{m} \times 75\text{ }\mu\text{m}$, trong chứa phôi bào khi mới sinh
 
@@ -8724,6 +9579,37 @@ TÀI LIỆU THAM KHẢO
 1. Bộ môn Ký sinh học – Khoa Y, Đại học Y Dược Thành phố Hồ Chí Minh (2016). *Xét nghiệm cơ bản và Atlas ký sinh trùng*, tr.1–13. Lưu hành nội bộ.
 2. Lê Thị Xuân (2008). *Ký sinh trùng thực hành*, tr.13–88. NXB Giáo dục.
 
+# Bệnh động vật ký sinh
+TS.BS. Trần Thị Huệ Vân
+
+> **Mục tiêu học tập**
+> Sau khi học xong, sinh viên có khả năng:
+> 1. Nêu định nghĩa bệnh động vật.
+> 2. Phân loại bệnh động vật.
+> 3. Kể các yếu tố khiến bệnh động vật ngày càng trở nên quan trọng.
+> 4. Hiểu được cách lây nhiễm, đặc điểm của Larva Migrans ngoài da và nội tạng.
+
+## 1. ĐỊNH NGHĨA
+
+Bệnh động vật ký sinh là những bệnh và những hiện tượng nhiễm ký sinh trùng qua lại tự nhiên giữa động vật có xương sống và người (*parasitic zoonoses are parasitic diseases and infection which are naturally transmitted between vertebrate animals and human*).
+
+## 2. PHÂN LOẠI
+
+Chia làm hai loại:
+
+- Bệnh động vật bắt buộc (obligate zoonoses): truyền từ động vật có xương sống sang người.
+
+- Bệnh động vật tùy nghi (facultative zoonoses): truyền từ người sang người hoặc từ thú sang thú nhưng có thể sang người.
+
+Hoặc phân loại chi tiết hơn: cũng chia hai loại:
+
+- Bệnh động vật giả: khi nguồn bệnh sống tự do ở môi trường bên ngoài, xâm nhập người và thú như một ký sinh trùng tùy nghi.
+
+- Bệnh động vật thật: (euzoonoses) khi nguồn bệnh là một ký sinh trùng bắt buộc, xâm nhập và truyền qua lại giữa động vật có xương sống và người. Có thể chia bệnh động vật thật thành:
+  + Bệnh động vật hoàn chỉnh (holozoonoses) khi nguồn bệnh truyền qua lại giữa người và động vật có xương sống.
+  + Bệnh động vật chưa hoàn chỉnh (parazoones) khi ký sinh trùng xâm nhập có khả năng đẻ trứng nhưng tuổi thọ của trứng giảm rất nhiều.
+  + Bệnh động vật một chiều (hemizoonoses) ký sinh trùng truyền từ thú sang người chỉ phát triển đến giai đoạn ấu trùng, đây chính là những trường hợp ngõ cụt ký sinh (impasse parasitaire).
+
 ## 3. TẦM QUAN TRỌNG CỦA BỆNH ĐỘNG VẬT KÝ SINH
 
 Trước kia, bệnh động vật gặp ở người làm nông nghiệp, nuôi thú, người làm trong các lò sát sinh và trong các phòng thí nghiệm. Ngày nay, bệnh động vật ngày càng trở nên quan trọng vì các yếu tố sau:
@@ -9342,6 +10228,44 @@ B. Cho thuốc kháng virus cúm
 C. Chờ kết quả xét nghiệm
 D. Cho nhập viện
 
+2. Một người bệnh nam, 60 tuổi, tiền sử có bệnh xơ gan, nhập viện vì sốt cao kèm lạnh run, tiểu gắt buốt. Khám bứt rứt, vật vã, các dấu hiệu sinh tồn: mạch 120 l/p, huyết áp 60/40mmHg, nhịp thở 40 lần/phút. Tim đều nhanh, không âm thổi bệnh lý, phổi trong, bụng mềm, thần kinh: không ghi nhận bất thường. Cần xử lý trường hợp này như thế nào?
+
+A. Cho thuốc kháng sinh ngay
+
+B. Cho thuốc kháng virus
+
+C. Chờ kết quả xét nghiệm
+
+D. Cho thuốc an thần, chống lo âu
+
+3. Dưới đây là các nguyên tắc chọn thuốc diệt vi sinh vật trong điều trị bệnh viêm màng não mủ, NGOẠI TRỪ:
+
+A. Thuốc phải đi qua màng não
+
+B. Chọn nhóm thuốc có tác dụng diệt khuẩn
+
+C. Chờ kết quả vi sinh mới cho thuốc
+
+D. Thuốc phải được dùng đường tĩnh mạch, liều cao
+
+4. Một người bệnh nam, 70 tuổi, tiền sử giảm bạch cầu hạt (neutrophil < 500 TB/mm³), nhập viện vì sốt cao kèm lạnh run, da có nhiều mụn mủ, bóng nước. Khám bứt rứt, vật vã, các dấu hiệu sinh tồn: mạch nhanh nhẹ 140 lần/phút, huyết áp 60/40 mmHg, nhịp thở 40 lần/phút. Tim đều nhanh, không âm thổi bệnh lý, phổi trong, bụng mềm, thần kinh: không ghi nhận bất thường. Cần xử lý trường hợp này như thế nào?
+
+A. Cho phối hợp 2 thuốc diệt vi sinh vật để tăng hoạt phổ diệt trùng
+
+B. Chỉ cho 1 thuốc diệt vi sinh vật để hạn chế đề kháng kháng sinh
+
+C. Chỉ cho 1 thuốc diệt vi sinh vật để giảm chi phí điều trị
+
+D. Sau khi hồi sức hô hấp tuần hoàn để ổn định sinh hiệu mới cho kháng sinh.
+
+ĐÁP ÁN: 1.C 2.A 3.C 4.A
+
+# TÀI LIỆU THAM KHẢO CHÍNH
+
+1. Đông Thị Hoài Tâm (2006). Kháng sinh liệu pháp. Bệnh Truyền nhiễm, tr.120–135.
+
+2. Brad Spellberg (2019). Principles of Antiinfective Therapy. Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases, p.211–220.
+
 # Vaccin và huyết thanh miễn dịch
 PGS.TS.BS. Cao Minh Nga
 
@@ -9384,6 +10308,28 @@ Tuy nhiên, chỉ có những bệnh truyền nhiễm nào có miễn dịch sau
 2.2. Phân loại vaccin. Có hai cách:
 2.2.1. Theo nguồn gốc của vaccin
 - Vaccin sống giảm độc lực (Live attenuated). Vaccin được điều chế từ vi sinh vật đã được làm giảm độc lực hoặc mất độc lực bằng phương pháp hóa học hoặc bằng phương pháp cấy truyền lâu ngày trong điều kiện không thuận lợi cho vi sinh vật gây bệnh phát
+
+triển bình thường. Trong vaccin sống giảm độc lực, vi sinh vật còn khả năng phát triển và nhân lên, lượng kháng nguyên vào cơ thể được tăng thêm và tồn tại lâu dài. Vi vaccin sống giảm độc lực có thể gây nguy hiểm, đột biến ngược trở lại thành dòng gây bệnh, nên quy trình sản xuất phải được thử nghiệm chặt chẽ trước khi đưa vào sử dụng. Ví dụ: vaccin lao, sởi, quai bị, vaccin bại liệt uống, vaccin thủy đậu.
+
+- **Vaccin chết hay vaccin bất hoạt (Killed/Inactivated vaccine)**. Vaccin được điều chế từ vi sinh vật đã bị giết chết bằng các yếu tố lý hóa như nhiệt độ, tia cực tím, phenol, formol, alcool,... Vaccin chết có độ an toàn cao, không gây nguy hiểm cho người sử dụng, liều lượng kháng nguyên đưa vào cơ thể đủ để có được đáp ứng miễn dịch tốt nhất nhưng hiệu giá kháng thể không được tăng thêm và tồn tại lâu theo thời gian. Vaccin bại liệt dạng tiêm, vaccin dại, vaccin viêm gan A, vaccin ho gà, vaccin cúm là những vaccin chết.
+
+- **Vaccin giải độc tố hay biến độc tố (anatoxin, toxoid)**. Tạo giải độc tố từ ngoại độc tố đã được xử lý bằng formol hay nhiệt độ. Giải độc tố không độc và không gây bệnh như ngoại độc tố nhưng vẫn giữ được tính kháng nguyên nên được dùng như là vaccin. Vaccin uốn ván, bạch hầu là những vaccin giải độc tố.
+
+- **Vaccin kháng nguyên chọn lọc**. Chỉ sử dụng phần kháng nguyên có khả năng gây đáp ứng miễn dịch của mầm bệnh để loại trừ khả năng gây độc. Ví dụ: vaccin viêm màng não mủ.
+
+- **Vaccin kháng nguyên tái tổ hợp**. Protein kháng nguyên được sản xuất bằng kỹ thuật tái tổ hợp. Kỹ thuật tái tổ hợp là chèn đoạn DNA lấy từ mầm bệnh (vi sinh vật gây bệnh) vào các đơn bào là những tế bào E. coli, tế bào nấm men,... để các vi sinh vật này tổng hợp protein là kháng nguyên theo kiểu gen đã xác định. Protein kháng nguyên được tạo ra với số lượng lớn trên quy mô công nghiệp rồi được tinh chế trước khi sử dụng làm vaccin. Ví dụ: vaccin viêm gan B.
+
+- **Vaccin kết hợp polysaccharide**. Polysaccharide/oligosaccharide của kháng nguyên kết hợp với protein là vật mang (carrier). Ví dụ: vaccin não mô cầu, Hemophilus influenzae type B (Hib).
+
+- **Vaccin ung thư**. Có hai nhóm:
+
+  + Vaccin truyền thống: là những vaccin phòng ngừa nhiễm các vi sinh vật có nguy cơ cao gây ung thư như vaccin HPV, vaccin viêm gan B.
+
+  + Vaccin điều trị ung thư: đây là một liệu pháp miễn dịch để tăng sự phòng thủ tự nhiên của cơ thể chống lại ung thư với mục đích ngăn ngừa ung thư tái phát, tiêu diệt bất kỳ tế bào ung thư nào trong cơ thể sau khi kết thúc các phương pháp điều trị khác hoặc ngăn chặn một khối u phát triển và lan rộng. Vaccin điều trị ung thư có hai loại là:
+
+- **Vaccin tế bào khối u tự thân (autologous tumor cell vaccine)**, được tạo ra bằng cách phân lập các tế bào khối u từ một người bệnh ung thư, sau đó xử lý theo một quy trình tạo vaccin trong phòng thí nghiệm rồi tiêm vaccin này cho chính người bệnh đó.
+
+- **Vaccin tế bào khối u dị sinh (allogeneic tumor vaccine)**, được tạo ra bằng cách phân lập các tế bào khối u từ một người bệnh ung thư, sau đó xử lý theo một quy trình tạo
 
 vaccin trong phòng thí nghiệm rồi tiêm vaccin cho một người bệnh ung thư khác để kích thích đáp ứng miễn dịch độc tế bào với một loại tế bào khối u tương tự ở người bệnh này.
 

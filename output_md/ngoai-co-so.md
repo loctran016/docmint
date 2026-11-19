@@ -1308,6 +1308,20 @@ B. Làm thông thoáng đường thở và đặt nội khí quản.
 C. Nhanh chóng đưa bệnh nhân lên xe cấp cứu.
 D. Khám đồng tử đánh giá kích thước và phản xạ của đồng tử với ánh sáng.
 
+NGOẠI KHOA CƠ SƠ
+
+4. Bệnh nhân nam, 60 tuổi, bị xe ô tô chạy ngược chiều va mạnh vào ngực. Bệnh nhân được đưa vào bệnh viện. Qua thăm khám, bệnh nhân chóng mặt, huyết áp 100/80 mmHg, mạch 90 lần/phút, này nhẹ, có vết bầm vùng ngực trái. Điều tiếp theo bạn cần làm để xác định chẩn đoán là:
+A. X-quang ngực.
+B. Đo điện tim.
+C. Siêu âm có trọng điểm (FAST).
+D. Xét nghiệm máu.
+
+5. Bệnh nhân nữ, 45 tuổi, sau va chạm với xe máy than đau nhiều hông lưng trái, không thể tự đứng lên được. Qua thăm khám, huyết áp 100/80 mmHg, mạch 100 lần/phút, nảy yếu, tay ẩm, bệnh nhân kích thích, trả lời lúc đúng lúc sai, đáp ứng không chính xác với kích thích đau, nhiều vết trầy xước ở hông lưng trái. Siêu âm FAST có dịch ổ bụng. Bệnh nhân được đặt 2 đường truyền dịch và máu. Sau 30 phút, huyết áp 80/60 mmHg, mạch 120 lần/phút, nảy yếu. Điều tiếp theo bạn cần làm là:
+A. Tiếp tục hồi sức truyền dịch và máu để làm chẩn đoán tổn thương.
+B. Chỉ định phẫu thuật cầm máu.
+C. Chọc rửa ổ bụng.
+D. Chụp CT bụng
+
 # PHÒNG MỔ
 
 Trần Đức Huy
@@ -1793,6 +1807,40 @@ Hiện nay, chương trình hồi phục sớm sau mổ (ERAS) không còn đặ
 ## 6. KẾT LUẬN
 
 Đánh giá và chuẩn bị trước mổ là bước không thể thiếu trước mọi phẫu thuật. Đánh giá đúng tình trạng người bệnh, chuẩn bị trước mổ chu đáo giúp cho cuộc mổ diễn ra an toàn và việc điều trị hậu phẫu được thuận lợi. Phẫu thuật luôn tiềm ẩn nhiều rủi ro, chuẩn bị trước mổ tốt không đơn thuần là vấn đề chuyên môn mà còn liên quan đến pháp lý, nhằm bảo vệ người bệnh và cả thầy thuốc trong quá trình hành nghề. Nắm được ý nghĩa, nguyên tắc và cách thức chuẩn bị trước mổ đúng là yêu cầu bắt buộc của mọi phẫu thuật viên.
+
+# TÀI LIỆU THAM KHẢO
+
+1. Lê Văn Quang (2000), *Ngoại khoa và các bệnh mạn tính, Triệu chứng học Ngoại khoa*, Bộ môn ngoại – ĐHYD TPHCM.
+2. Weintraub SL, Wang YZ (2004), *Principles of preoperative and operative surgery, Sabiston Textbook of Surgery – 17th Ed.*
+3. Michael J. Zinner, Stanley W. Ashley Jr. (2007), *Preoperative and postoperative management, Maingot's Abdominal Operation, McGraw-Hill.*
+4. Gerard M. Doherty (2006), *Preoperative care, Current Surgical Diagnosis and Treatment, 12nd Ed, 2006 – McGraw-Hill.*
+5. Nguyễn Minh Hải và cộng sự (200*), *Quy trình chuẩn bị tiền phẫu tiêu hóa, Sổ tay lâm sàng khoa Ngoại tiêu hóa – BV Chợ Rẫy – 2008.*
+
+## CÂU HỎI LƯỢNG GIÁ
+
+1. Chuẩn bị bệnh nhân trước mổ:
+    A. Là công việc của điều dưỡng phòng mổ
+    B. Là công việc của bác sĩ gây mê
+    C. Không cần thiết nếu bệnh nhân trẻ
+    D. Là bắt buộc cho mọi cuộc phẫu thuật
+
+2. Giải thích bệnh nhân trước mổ gồm những nội dung sau: chọn câu sai
+    A. Bệnh gì
+    B. Điều trị như thế nào
+    C. Kết quả ra sao
+    D. Không nên đề cập chi phí điều trị
+
+3. Cam kết phẫu thuật, chọn câu đúng:
+    A. Có thể ghi sau khi mổ xong
+    B. Nếu là người thân thì không cần ghi
+    C. Nếu không biết chữ thì người thân ghi thay cho
+    D. Do chính bệnh nhân hoặc người được ủy quyền hợp pháp ký xác nhận đồng ý
+
+4. Đánh giá sức khỏe toàn thân:
+    A. Không cần hỏi bệnh sử, chỉ cần làm đầy đủ xét nghiệm là được
+    B. Không cần làm xét nghiệm, nếu tiền sử khỏe mạnh.
+    C. Để không bỏ sót bệnh, làm tất cả xét nghiệm từ cơ bản đến chuyên sâu
+    D. Cần khám một cách hệ thống, ghi nhận tất cả những than phiền từ người bệnh, hay những bất thường về xét nghiệm.
 
 ### 5. Chế độ ăn uống trước phẫu thuật:
 A. **Bệnh nhân mổ dạ dày:** chiều tối ngày trước mổ bắt đầu nhịn ăn chỉ uống nước lọc hoặc các loại nước không có chất bã. Sáng ngày đi mổ nhịn ăn uống
@@ -2953,7 +3001,32 @@ D. Trào ngược dạ dày thực quản
 A. Nội soi thực quản dạ dày
 B. X – quang thực quản dạ dày cản quang
 C. Đo áp lực thực quản
-D. Chụp X – quang cắt lớp điện toán ngực – bụng cản quang cần phát hiện để thiết lập chẩn đoán. Cần nhớ rằng chẩn đoán được đưa ra dựa vào tam giác chẩn đoán gồm hỏi bệnh sử, thăm khám lâm sàng và thực hiện các cận lâm sàng thích hợp.
+D. Chụp X – quang cắt lớp điện toán ngực – bụng cản quang
+
+# ĐAU BỤNG CẤP
+Hoàng Đình Tuy, Nguyễn Võ Vinh Lộc
+
+**MỤC TIÊU**
+1. Liệt kê được các nguyên nhân thường gặp của đau bụng cấp do bệnh lý trong và ngoài ổ bụng.
+2. Thực hiện đúng cách khám lâm sàng bệnh nhân đau bụng cấp.
+3. Nhận ra các dấu hiệu nguy hiểm của đau bụng cấp.
+4. Chọn được các cận lâm sàng cần để chẩn đoán đau bụng cấp.
+5. Xử trí ban đầu cho bệnh nhân đau bụng cấp.
+Từ khoá: đau bụng cấp, bụng ngoại khoa.
+
+**1. ĐỊNH NGHĨA**
+
+Đau bụng cấp là tình trạng đau ở vùng bụng xuất hiện trong vòng 7 ngày, không liên quan đến chấn thương và cần được chăm sóc khẩn cấp.
+Đau bụng cấp là lý do nhập viện thường gặp nhất tại khoa cấp cứu. Có rất nhiều nguyên nhân gây đau bụng cấp. Đau bụng cấp có thể tự khỏi hoặc cần điều trị hoặc nguy hiểm tính mạng phải cần can thiệp khẩn cấp. Việc chẩn đoán thường không dễ dàng vì các triệu chứng mơ hồ, không đặc hiệu và quá nhiều nguyên nhân gây đau bụng cấp, vì vậy vai trò của bác sĩ tiếp nhận ban đầu đối với bệnh nhân đau bụng cấp là xác định các nguyên nhân gây ảnh hưởng cấp tính đến tính mạng và thu hẹp các chẩn đoán phân biệt để theo dõi bệnh nhân.
+**Phân biệt đau bụng cấp và đau bụng mạn tính**
+**Đau cấp:** xuất hiện trong vài ngày, tiến triển nhanh đến mức độ nhiều.
+**Đau mạn:** xuất hiện vài tháng, vài năm và ít thay đổi.
+Đau không thuộc 2 phân loại trên thì gọi là đau bán cấp và cần chẩn đoán phân biệt với các nguyên nhân đau bụng cấp và mạn tính.
+- Đau bụng ở người đau bụng mạn tính với tình trạng toàn thân không ổn định nên được xem là đau bụng cấp vì đây có thể do sự trở nặng của nguyên nhân mạn tính hay nguyên nhân mới.
+
+**2. TIẾP CẬN BỆNH NHÂN ĐAU BỤNG CẤP**
+Việc quan trọng nhất của nhân viên y tế chăm sóc ban đầu là cần xác định bệnh nhân có cần can thiệp ngoại khoa khẩn cấp hay không.
+Để có kỹ năng chẩn đoán sớm chúng ta phải hiểu về cơ chế gây đau của đường tiêu hóa (xem thêm sinh lý bệnh đau tạng, đau thành và đau quy chiếu). Trong quá trình tiếp cận với bệnh nhân đau bụng cấp, chúng ta hình dung chuỗi các câu hỏi và các dấu hiệu cần phát hiện để thiết lập chẩn đoán. Cần nhớ rằng chẩn đoán được đưa ra dựa vào tam giác chẩn đoán gồm hỏi bệnh sử, thăm khám lâm sàng và thực hiện các cận lâm sàng thích hợp.
 
 Thứ tự cần xác định để đưa ra chẩn đoán nguyên nhân đau bụng cấp gồm:
 - Tính chất của đau bụng?
@@ -3522,6 +3595,46 @@ Chẩn đoán tắc ruột cơ học thường dựa vào các triệu chứng v
 | **X-quang bụng không sửa soạn** | Dãn các quai ruột đến vị trí tắc<br>Mức nước hơi ở đại tràng và/hoặc ruột non | Dãn đại tràng đến đại tràng góc lách hoặc đại tràng xuống, manh tràng thường dãn to.<br>Có thể thấy mức nước hơi ở ruột non, không thấy mức nước hơi ở đại tràng |
 | **CT Scan bụng chậu** | Chẩn đoán xác định và chẩn đoán nguyên nhân | Cần để chẩn đoán loại trừ |
 
+[Hình: Hình ảnh liệt ruột trên X-QUANG BỤNG KHÔNG SỬA SOẠN (trái) và siêu âm bụng (phải)]
+
+## 6.2. Chẩn đoán nguyên nhân
+
+Nhiều trường hợp điển hình, chẩn đoán hội chứng tắc ruột có thể không khó nhưng chẩn đoán nguyên nhân lại không dễ vì như đã nói, nguyên nhân của tắc ruột cơ học rất đa dạng. Để chẩn đoán được nguyên nhân phải dựa vào tiền sử, bệnh sử, thăm khám kỹ lưỡng kết hợp với chẩn đoán hình ảnh. Yếu tố tiền sử nhiều khi rất quan trọng như tiền sử mổ bụng, lao, ung thư, thoát vị,... X-quang bụng không sửa soạn thường không cho thấy được hình ảnh chỗ tắc thực sự mà chỉ cho thấy ứ đọng phía trên, nhiều khi khá xa chỗ tắc, nên giá trị chẩn đoán nguyên nhân rất kém. Hiện nay, CT bụng, nhờ ưu thế cắt từng lát qua ruột trên chỗ tắc, tại chỗ chuyển tiếp ruột dãn-ruột xẹp, dưới chỗ tắc và đánh giá được tưới máu mạc treo ruột nên có giá trị cao trong chẩn đoán xác định, chẩn đoán vị trí và nguyên nhân tắc.
+
+Cũng vậy, chẩn đoán được nguyên nhân của liệt ruột hay giả tắc đại tràng nhiều khi không dễ, phải dựa vào từng tình huống và bệnh cảnh cụ thể, ví dụ: mới vừa trải qua phẫu thuật, đang bị chấn thương cột sống, đang bị bệnh nội khoa nặng, rối loạn nước-điện giải, bệnh chuyển hóa, dùng thuốc, v.v... Liệt ruột sau mổ thường xảy ra sau mổ bụng và có thể kéo dài đến 48 giờ ở người trẻ, 72-96 giờ ở người già và thường không quá 5 ngày. Thời gian hồi phục nhu động ruột sau mổ thay đổi tùy thuộc nhiều yếu tố như: vị trí và mức độ tổn thương, phương pháp mổ, dùng thuốc, tuổi tác, vận động sau mổ,...
+
+## 6.3. Chẩn đoán biến chứng
+
+Tùy theo bệnh cảnh và các dấu hiệu lâm sàng. Các biến chứng hay gặp là suy thận do mất nước, viêm phúc mạc do ruột tắc bị vỡ hay hoại tử, sốc nhiễm trùng-nhiễm độc.
+
+7. NGUYÊN TẮC ĐIỀU TRỊ
+Điều trị liệt ruột trừ liệt ruột do viêm phúc mạc thứ phát là điều trị nội khoa.
+Điều trị giả tắc đại tràng cũng chủ yếu là nội khoa, ngoại khoa chỉ cần khi đe dọa hay đã có vỡ/hoại tử ruột.
+Điều trị tắc ruột cơ học là điều trị nội khoa phối hợp với nội khoa:
+- Nội khoa nhằm hồi sức bệnh nhân, sửa chữa các rối loạn, chuẩn bị tốt cho cuộc mổ nếu phải xảy ra. Nội dung điều trị nội gồm: (1) Bù đắp nước - điện giải; (2) Giải áp bằng thông mũi-dạ dày hay mũi-ruột; (3) Kháng sinh, nhất là trong tắc ruột thắt nghẹt; (4) Theo dõi sát đáp ứng toàn thân và tại chỗ. Các nội dung này có thể khởi động từ lúc tiếp nhận bệnh nhân, duy trì qua quá trình theo dõi làm chuẩn đoán và bổ sung tiếp tục đến sau mổ nếu phải mổ.
+- Ngoại khoa nhằm tái lập lưu thông ruột và lấy bỏ nguyên nhân nếu được. Phương pháp can thiệp rất thay đổi tùy theo nguyên nhân tắc, thể trạng người bệnh, phẫu thuật viên cũng như năng lực và trang bị của bệnh viện.
+
+**Sơ đồ: Lưu đồ tiếp cận chẩn đoán và xử trí bệnh nhân bí trung đại tiện**
+- Bí trung đại tiện
+  - TC kèm: đau, nôn, trướng.... --> Khai thác tiền sử + Khám thực thể --> Nghi ngờ tắc ruột --> X-quang bụng không sửa soạn
+    - Không dấu TRCH
+      - Theo dõi LS, Tìm NN khác --> Loại trừ TR --> CT
+      - Vẫn nghi TRCH --> CT
+    - Có dấu TRCH
+      - Chưa có BC
+        - Bán tắc --> Theo dõi LS, X- quang, chụp cản quang --> ĐT nội --> Thất bại --> Phẫu thuật
+        - Tắc hoàn toàn --> CT* --> Xác định rõ TR --> ĐT nội --> Thất bại --> Phẫu thuật
+      - Nghi có BC --> Phẫu thuật
+    - Nghi liệt ruột/giả TR --> CT, chụp ĐT (khi cần)
+      - VPM thứ phát
+      - TRCH --> Xử lý như TRCH --> Phẫu thuật
+      - Liệt ruột, Giả TR --> ĐT nội --> Thất bại** --> Phẫu thuật
+
+(*): Khi cần xác định rõ nguyên nhân, kiểu tắc, tưới máu ruột
+(**): Tăng áp lực bụng nặng, chèn ép khoang bụng, vỡ hay dọa vỡ ruột
+
+Hình 17. Lưu đồ tiếp cận chẩn đoán và xử trí bệnh nhân bí trung đại tiện
+
 NGOẠI KHOA CƠ SỞ
 
 TÀI LIỆU THAM KHẢO
@@ -3938,6 +4051,62 @@ NGOẠI KHOA CƠ SỞ
 
 38. Holmes JF, McGahan JP, Wisner DH (2012). *Rate of intra-abdominal injury after a normal abdominal computed tomographic scan in adults with blunt trauma*. Am J Emerg Med; 30:574.
 
+Chấn thương và vết thương bụng
+
+CÂU HỎI LƯỢNG GIÁ
+
+1. Trong tiếp cận bệnh nhân chấn thương - vết thương bụng, cận lâm sàng về hình ảnh học nào được thực hiện đầu tay?
+
+A. Siêu âm bụng có trọng điểm (FAST)
+
+B. X-quang bụng
+
+C. CT-scan bụng
+
+D. Nội soi ổ bụng chẩn đoán
+
+2. Bệnh nhân 40 tuổi, bị tai nạn xe gắn máy sau khi đi nhậu về. Tình trạng lúc nhập viện bệnh nhân không tỉnh táo, HA: 120/90 mmHg, mạch 80 lần/phút, thành bụng có vết bầm máu. Cần làm gì tiếp theo? (mạch và huyết áp bình thường)
+
+A. Cho bệnh nhân nhập vào khoa theo dõi
+
+B. Chọc rửa ổ bụng (Huyết áp kẹt hay còn gọi là huyết áp kẹt, là hiện tượng khi hiệu số giữa huyết áp tâm thu trừ đi huyết áp tâm trương nhỏ hơn hoặc bằng 20mmHg)
+
+C. Siêu âm bụng
+
+D. CT-scan bụng
+
+3. Bệnh nhân 30 tuổi, bị đánh và bị đâm vào bụng. Lúc nhập viện tỉnh, tiếp xúc tốt, HA 120/90mmHg, mạch 90 lần/phút. Bụng có 2 vết thương hở 1x1cm, không lòi ruột, ấn đau tại nơi vết thương. Siêu âm bụng có ít dịch tự do. Khám lại sau 6 giờ nhập viện: HA 95/60 mmHg, mạch 110 lần/phút, niêm nhạt, đau bụng nhiều hơn. Cần làm gì tiếp theo:
+
+A. Xét nghiệm lại công thức máu
+
+B. Siêu âm bụng lại
+
+C. CT-scan bụng
+
+D. Nội soi ổ bụng tại phòng mổ
+
+4. Ở những bệnh nhân có chấn thương - vết thương bụng, việc thăm khám nhiều lần, cùng một phẫu thuật viên có thể giúp giảm tỷ lệ mở bụng còn:
+
+A. 20%
+
+B. 30%
+
+C. 40%
+
+D. 50%
+
+5. Bệnh nhân bị tai nạn giao thông, chấn thương bụng kín, say rượu, HA: 110/70 mmHg, mạch 110 lần/phút, siêu âm bụng có ít dịch tự do ổ bụng. Hướng tiếp cận tiếp theo là gì?
+
+A. Siêu âm bụng lần 2
+
+B. Chọc dịch ổ bụng
+
+C. CT-scan bụng
+
+D. Nội soi ổ bụng
+
+# XUẤT HUYẾT TIÊU HÓA Vũ Quang Hưng MỤC TIÊU 1. Trình bày được định nghĩa xuất huyết tiêu hóa trên và xuất huyết tiêu hóa dưới. 2. Trình bày được sinh bệnh học của xuất huyết tiêu hóa. 3. Nêu được các hình thức xuất huyết tiêu hóa. 4. Trình bày được 5 bước tiếp cận bệnh nhân xuất huyết tiêu hóa. 5. Trình bày được tiên lượng bệnh nhân xuất huyết tiêu hóa. Từ khóa: Xuất huyết tiêu hóa trên, xuất huyết tiêu hóa dưới, tăng áp lực tĩnh mạch cửa, viêm – loét dạ dày tá tràng, thuốc kháng viêm không steroid, thuyên tắc mạch cầm máu. 1. GIỚI THIỆU Xuất huyết tiêu hóa cấp tính là một trong những bệnh lý cấp cứu thường gặp, có thể đe dọa tính mạng bệnh nhân. Xuất huyết tiêu hóa thường được chia làm 2 loại: xuất huyết tiêu hóa trên có nguồn gốc trên dây chằng Treitz và xuất huyết tiêu hóa dưới có nguồn gốc dưới dây chằng Treitz. Xuất huyết tiêu hóa trên có tần suất nhiều gấp 4 lần xuất huyết tiêu hóa dưới và là nguyên nhân chính gây biến chứng và tử vong. Xuất huyết tiêu hóa trên khác xuất huyết tiêu hóa dưới về dịch tế, cách điều trị và tiên lượng. 2. DỊCH TỄ HỌC 2.1. Xuất huyết tiêu hóa trên Hàng năm, tại Mỹ có khoảng 100.000 bệnh nhân nhập viện vì xuất huyết tiêu hóa trên. Tại Anh, con số này là 70.000 bệnh nhân với đa số trường hợp không do tăng áp lực tĩnh mạch cửa. Tần suất xuất huyết tiêu hóa ở nam gấp hai lần nữ ở mọi lứa tuổi. Tỷ lệ tử vong ở hai giới là như nhau. Nhờ sự tiến bộ của các phương pháp điều trị, tỷ lệ tử vong đang giảm dần theo thời gian. Tại Pháp, tỷ lệ tử vong theo một báo cáo giảm từ 11% xuống 7%. Xuất huyết tiêu hóa trên có xu hướng tăng ở nhóm người cao tuổi (> 60 tuổi) với nhiều bệnh lý nội khoa đi kèm, làm tăng nguy cơ tử vong ở nhóm tuổi này. 2.2. Xuất huyết tiêu hóa dưới Tại Mỹ, tỷ lệ nhập viện vì xuất huyết tiêu hóa dưới chiếm dưới 1% các nguyên nhân nhập viện. Trên thế giới, xuất huyết tiêu hóa dưới chiếm khoảng 1-2% các trường hợp nhập viện cấp cứu, với 15% có biểu hiện xuất huyết lượng nhiều và khoảng 5% cần can thiệp phẫu thuật. Người lớn tuổi thường gặp hơn người trẻ tuổi.
+
 Xuất huyết tiêu hóa
 
 Xuất huyết tiêu hóa từ ruột non chỉ chiếm 5% các trường hợp xuất huyết tiêu hóa dưới, nhưng là nguyên nhân thường gặp nhất trong số các trường hợp xuất huyết tiêu hóa không rõ nguyên nhân.
@@ -4000,6 +4169,42 @@ Bất kỳ nguyên nhân nào gây mất cân bằng các yếu tố bảo vệ 
 
 Các thuốc kháng viêm không steroid gây loét dạ dày tá tràng do ức chế men cyclooxygenase, làm giảm tổng hợp prostaglandin, hậu quả là làm suy yếu lớp bảo vệ.
 
+niêm mạc. Sử dụng thuốc kháng viêm không steroid hàng ngày làm tăng nguy cơ loét dạ dày 40 lần và loét tá tràng 8 lần.
+
+Dị dạng mạch máu (Dieulafoy)
+Lần đầu tiên được mô tả năm 1896, Dieulafoy là tổn thương dị dạng mạch máu thường xuất hiện ở bờ cong nhỏ dạ dày, gần tâm vị. Tuy nhiên, tổn thương này có thể xuất hiện khắp nơi trên đường tiêu hóa, chiếm khoảng 2-5% các nguyên nhân xuất huyết tiêu hóa trên.
+
+Trên nội soi, Dieulafoy là những mạch máu lớn nằm dưới niêm mạc, những mạch máu này có thể bị loét trên nền dạ dày viêm mạn, gây xuất huyết tiêu hóa lượng lớn. Nghiện rượu cũng là yếu tố nguy cơ gây xuất huyết tiêu hóa do Dieulafoy.
+
+Các nguyên nhân khác
+Các nguyên nhân khác có thể gây xuất huyết tiêu hóa trên như viêm trợt thực quản, viêm trợt dạ dày, ung thư dạ dày, bất thường mạch máu (hội chứng Osler-Weber-Rendu, dãn mạch máu hang vị), viêm trợt tá tràng, chảy máu từ đường mật hay ống tụy,...
+
+## 3.2. Xuất huyết tiêu hóa dưới
+
+Theo Vernava và cộng sự, xuất độ các nguyên nhân xuất huyết tiêu hóa dưới được trình bày trong bảng 2.
+
+**Bảng 2. Các nguyên nhân xuất huyết tiêu hóa dưới thường gặp**
+
+| Nguyên nhân | Tỷ lệ (%) |
+|:--- |:--- |
+| **Bệnh lý túi thừa:** | 60 |
+| Túi thừa ruột non | |
+| Túi thừa đại tràng | |
+| **Bệnh lý viêm ruột:** | 13 |
+| Bệnh Crohn | |
+| Viêm loét đại tràng | |
+| Viêm dạ dày ruột không do nhiễm trùng | |
+| **Bệnh lý lành tính hậu môn trực tràng:** | 11 |
+| Trĩ | |
+| Nứt hậu môn | |
+| Rò hậu môn | |
+| **U tân sinh:** | 9 |
+| Ung thư ruột non | |
+| Ung thư đại trực tràng, ống hậu môn | |
+| **Rối loạn đông máu** | 4 |
+| **Dị dạng mạch máu** | 3 |
+| **Tổng cộng** | 100 |
+
 NGOẠI KHOA CƠ SƠ
 
 **3.2.1. Bệnh lý túi thừa**
@@ -4031,6 +4236,23 @@ Khối u tân sinh có thể là polyp hoặc ung thư. Ung thư đại tràng c
 U tân sinh ruột non thường không triệu chứng nhưng 10% có thể gây xuất huyết tiêu hóa. Các polyp tuyến, leiomyoma, hội chứng Peutz-Jeghers, bướu máu có thể gây xuất huyết tiêu hóa tiềm ẩn, đôi khi rất khó chẩn đoán.
 
 Chảy máu sau cắt polyp đại tràng chiếm khoảng 0,1 đến 3% các trường hợp, thường chảy máu từ động mạch, có thể gây chảy máu lượng lớn. Chảy máu có thể xuất hiện ngay sau cắt polyp hoặc vài giờ đến vài tuần sau cắt polyp.
+
+3.2.5. Dị sản mạch máu
+Dị sản mạch máu có thể xuất hiện khắp nơi trên đường tiêu hóa, thường nhất là ở đại tràng. Nguyên nhân này thường gây chảy máu từ mao mạch nên ít khi nào chảy máu lượng lớn như từ túi thừa. Tuy nhiên khác với chảy máu từ túi thừa, khoảng 80% các trường hợp chảy máu từ dị sản mạch máu có thể tự cầm nhưng có thể chảy máu tái phát nhiều lần. Xuất độ dị sản mạch máu tăng theo tuổi do sự thoái hóa thành mạch máu tăng theo thời gian.
+3.2.6. Các nguyên nhân khác
+Các nguyên nhân hiếm gặp khác có thể gây xuất huyết tiêu hóa dưới như: sử dụng thuốc kháng viêm không steroid, aspirin, suy giảm miễn dịch (HIV), Dieulafoy ruột non hay đại tràng,...
+4. CÁC HÌNH THỨC XUẤT HUYẾT TIÊU HÓA
+Xuất huyết tiêu hóa có nguyên nhân cụ thể
+Bệnh nhân có triệu chứng xuất huyết tiêu hóa như ói ra máu hoặc tiêu phân đen hoặc tiêu ra máu. Nguyên nhân xuất huyết tiêu hóa được xác định rõ.
+Xuất huyết tiêu hóa tiềm ẩn
+Bệnh nhân không có triệu chứng xuất huyết tiêu hóa nhưng có dấu hiệu thiếu máu thiếu sắt hoặc xét nghiệm tìm máu ẩn trong phân dương tính, nguyên nhân xuất huyết tiêu hóa được xác định rõ.
+Xuất huyết tiêu hóa không rõ nguyên nhân
+Bệnh nhân có triệu chứng xuất huyết tiêu hóa hoặc xét nghiệm tìm máu ẩn trong phân dương tính nhưng không xác định được nguyên nhân.
+5. TIẾP CẬN BỆNH NHÂN XUẤT HUYẾT TIÊU HÓA
+Hỏi bệnh sử và khám lâm sàng giữ vai trò vô cùng quan trọng trong việc đánh giá ban đầu bệnh nhân xuất huyết tiêu hóa.
+Các thông tin cần được khai thác kỹ như tính chất nôn ói, tính chất đi tiêu, hoàn cảnh khởi phát, thời gian xuất hiện triệu chứng, tiền căn sử dụng thuốc (thuốc kháng viêm không steroid, aspirin, các thuốc kháng đông), tiền căn loét dạ dày tá tràng, tiền căn bệnh lý viêm gan, xơ gan, cũng như các bệnh lý đi kèm khác, tiền căn một số bệnh di truyền như hội chứng Peutz-Jeghers,...
+Khám bệnh nhân toàn diện:
+- Đánh giá tri giác, sinh hiệu (mạch, huyết áp, nhịp thở), lượng nước tiểu để tiên lượng mức độ xuất huyết tiêu hóa. Trừ khi bệnh nhân có dấu hiệu sốc mất máu rõ, Tilt test nên được thực hiện ở tất cả bệnh nhân xuất huyết tiêu hóa. Bệnh nhân được đo
 
 mạch, huyết áp ở tư thế nằm, sau đó đo ở tư thế đứng và so sánh. Tilt test dương tính khi ở tư thế đứng mạch tăng hơn 20 lần/phút và huyết áp giảm hơn 10 mmHg so với tư thế nằm. Tilt test dương tính có nghĩa bệnh nhân đã mất ít nhất 20% thể tích máu cơ thể. Nghiên cứu của ASGE cho thấy tỷ lệ tử vong ở nhóm Tilt test dương tính là 13,6% so với nhóm Tilt test âm tính là 8,7%.
 
@@ -4071,7 +4293,31 @@ Lưu ý xuất huyết tiêu hóa trên lượng lớn có thể biểu hiện b
 
 Đôi khi lâm sàng khó xác định vị trí xuất huyết tiêu hóa mà phải dựa vào cận lâm sàng mà nội soi là phương tiện chẩn đoán đầu tay. Ngày nay, cùng với sự phát triển của
 
-200
+200 nội soi đã giúp cho bác sĩ lâm sàng xác định được vị trí, nguyên nhân cũng như can thiệp cầm máu xuất huyết tiêu hóa. Việc sử dụng nội soi tùy thuộc vào tình trạng xuất huyết tiêu hóa của bệnh nhân. Nếu bệnh nhân có dấu hiệu sốc mất máu, phải hồi sức tích cực sau đó nội soi cấp cứu để chẩn đoán và điều trị. Nếu bệnh nhân không có dấu hiệu sốc mất máu, có thể thực hiện nội soi theo chương trình.
+
+## 5.3. Mức độ xuất huyết tiêu hóa?
+
+Có nhiều cách phân loại mức độ nặng của xuất huyết tiêu hóa. Mức độ mất máu có thể được đánh giá dựa vô bảng phân loại sốc mất máu theo Hội Ngoại Khoa Hoa Kỳ (ACS) (bảng 4).
+
+| Bảng 4. Phân độ mất máu cấp theo Hội Ngoại Khoa Hoa Kỳ | Độ 1 | Độ 2 | Độ 3 | Độ 4 |
+| --- | --- | --- | --- | --- |
+| Lượng máu mất (mL) | < 750 | 750-1500 | 1500-2000 | > 2000 |
+| % Thể tích máu mất | < 15% | 15-30% | 30-40% | > 40% |
+| Mạch (lần/phút) | < 100 | > 100 | > 120 | > 140 |
+| Huyết áp | Không thay đổi | Không thay đổi | Giảm | Giảm |
+| Nhịp thở (lần/phút) | 14-20 | 20-30 | 30-40 | > 40 |
+| Nước tiểu (mL/h) | > 30 | 20-30 | 5-15 | < 5 |
+| Tri giác | Lo lắng ít | Lo lắng vừa | Kích thích, vật vã | Lơ mơ, hôn mê |
+
+Đánh giá mức độ xuất huyết tiêu hóa không dựa trên dung tích hồng cầu. Dung tích hồng cầu không giảm ngay lập tức cùng với xuất huyết tiêu hóa cấp do có sự giảm cân xứng huyết tương và thể tích hồng cầu. Khi dịch gian bào đi vào lòng mạch để bù trừ thể tích thì lúc đó dung tích hồng cầu mới giảm, quá trình này có thể mất 24 giờ. Do đó dung tích hồng cầu có thể bình thường khi bệnh nhân mới xuất huyết tiêu hóa. Mặt khác, khi bệnh nhân có xuất huyết tiêu hóa rỉ rả, dung tích hồng cầu có thể rất thấp mặc dù mạch huyết áp bình thường, những trường hợp này công thức máu thường có hồng cầu nhỏ nhược sắc.
+
+Tuy nhiên, công thức máu (đánh giá Hct và Hb) cần được thực hiện trên tất cả các bệnh nhân xuất huyết tiêu hóa vì nó là một trong những chỉ số giúp theo dõi và đánh giá trong quá trình điều trị.
+
+Các xét nghiệm sau cũng cần được thực hiện: BUN, creatinin máu theo dõi tình trạng tưới máu thận; khí máu động mạch khi bệnh nhân xuất huyết tiêu hóa nặng.
+
+## 5.4. Nguyên nhân xuất huyết tiêu hóa?
+
+Việc hỏi kỹ bệnh sử, khám lâm sàng có thể giúp định hướng chẩn đoán nguyên nhân xuất huyết tiêu hóa:
 
 - Bệnh nhân nôn máu đỏ tươi, không lẫn thức ăn, có dấu hiệu của suy tế bào gan hay tăng áp lực tĩnh mạch cửa gợi ý xuất huyết tiêu hóa do vỡ dãn tĩnh mạch thực quản hay tĩnh mạch phình vị.
 - Bệnh nhân có tiền căn viêm loét dạ dày tá tràng, sử dụng kháng viêm không steroid, nôn máu đỏ tươi lẫn thức ăn hoặc tiêu phân đen, không có dấu hiệu suy tế bào gan và tăng áp lực tĩnh mạch cửa gợi ý xuất huyết tiêu hóa do loét dạ dày tá tràng.
@@ -4344,6 +4590,74 @@ B. Độ II
 C. Độ III
 D. Độ IV
 
+# VÀNG DA
+
+Lý Hữu Tuấn, Dương Bá Lập, Nguyễn Văn Hải
+
+**MỤC TIÊU**
+
+1. Trình bày được các biểu hiện lâm sàng của hội chứng vàng da.
+2. Hiểu được sinh lý bệnh của hội chứng vàng da.
+3. Kể được các nguyên nhân gây hội chứng vàng da thường gặp.
+4. Hiểu được giá trị của một số cận lâm sàng cơ bản liên quan đến hội chứng vàng da sau gan.
+5. Biết cách lập luận chẩn đoán nguyên nhân khi gặp một bệnh nhân vàng da sau gan.
+
+Từ khóa: Hội chứng vàng da, vàng da tắc mật, vàng da sau gan, MRCP, ERCP, PTC.
+
+**1. ĐỊNH NGHĨA**
+
+Thuật ngữ hội chứng vàng da đề cập tới sự thay đổi màu sắc da, kết mạc hay niêm mạc sang màu vàng do sự tích tụ bilirubin trong mô. Vàng da thường xuất hiện khi nồng độ bilirubin huyết tương tăng trên $34,2\text{ }\mu\text{mol/L}$ ($2\text{ mg/dL}$). Tuy nhiên, sự xuất hiện của vàng da còn phụ thuộc vào việc tăng bilirubin loại liên hợp hay không liên hợp và vào thời gian kéo dài của triệu chứng.
+
+Hội chứng vàng da không bao gồm những trường hợp có biểu hiện giống, nhưng không do sự tăng bilirubin huyết tương, như da lòng bàn tay bàn chân vàng trong trường hợp tăng beta caroten, kết mạc mắt vàng trong trường hợp hút thuốc lá nhiều, nước tiểu vàng sậm trong trường hợp cô đặc nước tiểu hoặc do thuốc.
+
+Trong phạm vi bài viết, chúng tôi không đề cập đến vàng da sinh lý ở trẻ sơ sinh và vàng da sau phẫu thuật hay thủ thuật.
+
+**2. SINH LÝ BỆNH**
+
+Quá trình phân hủy phần Hem trong Hemoglobin của hồng cầu tạo nên bilirubin gián tiếp (gọi là gián tiếp vì phải liên kết với một protein vận chuyển mới có thể lưu thông trong tuần hoàn). Bilirubin gián tiếp đến gan và sẽ trải qua quá trình liên hợp tạo nên bilirubin trực tiếp (hay bilirubin liên hợp). Bilirubin trực tiếp sẽ được bài tiết qua mật xuống tá tràng, làm nhiệm vụ trong quá trình hấp thu Lipid. Phần bilirubin trực tiếp trong ống tiêu hóa sẽ được thải qua phân $85\%$ (dưới dạng stercobilin, tạo màu vàng của phân), qua nước tiểu $1\%$ (dưới dạng urobilin), và số còn lại được tái hấp thu trở lại gan.
+
+Sự tăng bilirubin toàn phần trong huyết tương có thể do tăng bilirubin gián tiếp, hoặc tăng bilirubin trực tiếp, hoặc tăng hỗn hợp cả hai thành phần. Dựa trên sinh lý bệnh, người ta chia hội chứng vàng da ra làm 3 nhóm: vàng da trước gan (do các bất thường trong giai đoạn phân hủy hemoglobin), vàng da tại gan (do các bất thường trong giai đoạn tổng hợp và bài tiết bilirubin ở gan), vàng da sau gan (do các bất thường trong giai đoạn bài tiết mật). Dựa trên lâm sàng và kết quả xét nghiệm bilirubin toàn phần, trực tiếp, gián tiếp, có thể hướng dẫn chẩn đoán nhóm nguyên nhân gây vàng da.
+
+[Hình: Sơ đồ chuyển hóa Bilirubin]
+
+**Hình 1.** Sơ đồ chuyển hóa Bilirubin
+
+## 3. BIỂU HIỆN LÂM SÀNG
+
+Hội chứng vàng da có thể biểu hiện qua nhiều triệu chứng:
+
+- Da màu vàng sậm: triệu chứng này thường được phát hiện trễ ở người châu Á do đã có sẵn nước da vàng. Vị trí dễ thấy nhất là lòng bàn tay bàn chân (màu thường sáng hơn). Khai thác đầy đủ thời điểm bệnh nhân hay người nhà phát hiện vàng da, tốc độ vàng da tăng lên nhanh hay chậm hoặc từng đợt, tiền căn vàng da trong quá khứ...giúp ích khá nhiều cho chẩn đoán nguyên nhân. Cần lưu ý một số trường hợp tăng beta caroten quá mức da lòng bàn tay bàn chân cũng có màu vàng cam, tuy nhiên không có biểu hiện vàng ở những nơi khác.
+
+- Niêm mạc mắt, niêm mạc đáy lưỡi vàng: niêm mạc là một vị trí dễ phát hiện màu vàng. Một số trường hợp khó nhận ra như bệnh nhân thiếu máu quá nhiều (vàng nhạt trên nền trắng xanh), bệnh nhân đa hồng cầu (niêm mạc đỏ sậm).
+
+- Kết mạc mắt vàng: kết mạc cũng là một vị trí dễ phát hiện màu vàng (do nền trắng). Một số bệnh nhân hút thuốc lá nhiều cũng có thể thấy những đốm màu vàng ở mắt, tuy nhiên không có biểu hiện vàng ở những nơi khác.
+- Nước tiểu vàng sậm như nước trà: nước tiểu vàng sậm như nước trà đặc cũng là một chỉ dấu để phát hiện hội chứng vàng da. Tuy nhiên cần phân biệt với hai nguyên nhân gây nước tiểu vàng sậm thường gặp nhất là cô đặc nước tiểu do thiếu nước, và đang sử dụng thuốc ảnh hưởng đến màu nước tiểu.
+- Phân bạc màu: nếu như 4 triệu chứng kể trên có thể gặp ở tất cả nguyên nhân gây vàng da, thì triệu chứng phân bạc màu chỉ có thể gặp trong trường hợp vàng da sau gan nặng (bao gồm tắc mật trong gan và tắc mật ngoài gan). Vì khi mật không xuống được ống tiêu hóa thì phân sẽ thiếu Stercobilin, dẫn đến việc màu vàng nhạt dần rồi trở nên bạc màu, giống như phân cò. Đây là triệu chứng rất đặc hiệu, tuy nhiên độ nhạy rất thấp.
+- Ngứa toàn thân: gặp trong vàng da tắc mật (sau gan hoặc tại gan). Ngứa nhiều có thể làm bệnh nhân mất ngủ, trên da thường có nhiều vết trầy xước do bệnh nhân phải gãi. Cơ chế của triệu chứng ngứa trên bệnh nhân tắc mật đến nay vẫn chưa được chứng minh rõ ràng. Một số giả thuyết cho rằng có liên quan đến sự ứ đọng muối mật trên da, một số khác lại cho rằng có liên quan đến sự tăng các chất trung gian trong phản ứng gây ngứa, như histamine, serotonin, steroid, opioid, lysophosphatidic acid...
+Khi khám một bệnh nhân nghi ngờ có hội chứng vàng da, điều quan trọng nhất là phải khám ở một không gian đủ ánh sáng để giúp phát hiện những trường hợp vàng da kín đáo (tăng Bilirubin nhẹ). Bên cạnh những triệu chứng vừa kể, cần phải khai thác những triệu chứng đi kèm để giúp chẩn đoán nguyên nhân như: đau bụng, sốt, chán ăn sụt cân, mệt mỏi, chóng mặt, nôn ói, bụng to...
+
+[Hình: Hình ảnh da và kết mạc vàng sậm và da lòng bàn tay vàng trong tăng beta caroten]
+
+## 4. NGUYÊN NHÂN HỘI CHỨNG VÀNG DA
+Như đã đề cập, hội chứng vàng da được chia làm 3 nhóm nguyên nhân: trước gan, tại gan và sau gan. Một số nguyên nhân được tóm tắt trong bảng bên dưới:
+
+**Bảng 1.** Các nguyên nhân gây vàng da
+
+| Trước gan | Tại gan | Sau gan |
+|:--- |:--- |:--- |
+| - Bệnh lý Hemoglobin: HC hình liềm, HC hình bia, Thalassemia... | - Viêm gan cấp do thuốc, do siêu vi... | - Sỏi đường mật chính ngoài gan |
+| - Cường lách nguyên phát và thứ phát | - Xơ gan do rượu, do siêu vi | - Giun chui ống mật |
+| - Sốt rét | - Áp xe gan do vi trùng | - Viêm hẹp Oddi lành tính |
+| - Thiếu men G6PD | - Bất thường bẩm sinh chuyển hóa Bilirubin ở gan (ít gặp): hội chứng Gilbert, hội chứng Crigler Najjar | - U quanh bóng Vater: u bóng Vater, u đoạn cuối ống mật chủ, u đầu tụy, u tá tràng |
+| - Truyền máu nhiều lần |... | - U ngã ba đường mật (U Klatskin) |
+|... | |... |
+
+Đối với nhóm vàng da trước gan: đa phần là do các bệnh lý huyết học. Thường gặp nhất là các tán huyết mạn tính liên quan đến bất thường bẩm sinh Hemoglobin. Nhóm bệnh nhân này thường dễ nhận ra trên lâm sàng: tuổi khoảng 10-30t, vàng da sậm, gan to, lách to, thiếu máu mạn tính phải truyền máu nhiều lần, phát hiện bệnh huyết học từ nhỏ, tiền căn gia đình có thể có người mắc bệnh về máu... Thiếu men G6PD cũng là một bệnh bẩm sinh, trong đó màng hồng cầu dễ vỡ khi tiếp xúc một số chất có tính oxy hóa trong thuốc và thức ăn. Đối với nhóm bệnh mắc phải, thường gặp là cường lách thứ phát, sốt rét ác tính thể vàng da và truyền máu nhiều lần. Nhóm bệnh tán huyết nội mạch cấp tính như truyền nhầm nhóm máu hay sốt rét ác tính thể tiểu Hb thường lại không biểu hiện hội chứng vàng da rõ như các trường hợp tán huyết mạn tính. Trong các trường hợp này, một số lượng lớn hồng cầu vỡ ngay trong lòng mạch, giải phóng một số lượng lớn Hemoglobin và các chất trung gian của phản ứng phản vệ. Bệnh nhân thường diễn tiến nguy kịch, sốc phản vệ, tiểu Hb, hoại tử ống thận cấp...
+
+Đối với nhóm vàng da tại gan: đa số là do các nguyên nhân mắc phải. Gan đóng vai trò chính trong việc tiếp nhận Bilirubin gián tiếp, liên hợp để tạo nên Bilirubin trực tiếp, và thải Bilirubin trực tiếp qua các tiểu quản mật rồi xuống đường mật chính. Bất thường ở bất kỳ khâu nào trong quá trình này cũng đều được xếp vào nhóm nguyên nhân tại gan. Thường gặp nhất là các trường hợp viêm gan cấp tính hay xơ gan (vàng da được xếp vào triệu chứng của hội chứng suy tế bào gan), kể đến là áp xe gan do vi trùng. Bệnh nhân ung thư tế bào gan nguyên phát (HCC-Hepatocellular carcinoma) thường vàng da do đi kèm tình trạng xơ gan, chứ rất hiếm khi do u gan to chèn ép.
+
+Đối với nhóm vàng da sau gan (còn gọi là vàng da tắc mật): nguyên nhân là do tắc nghẽn đường mật ngoài gan. Tắc mật này có thể do nguyên nhân lành tính (sỏi mật, giun, viêm hẹp Oddi lành tính, u lành tính) hoặc ác tính (ung thư quanh bóng Vater, ung thư đường mật rốn gan). Nhóm bệnh sỏi mật và giun thường diễn tiến vàng da cấp tính, nằm trong bệnh cảnh viêm đường mật do tắc nghẽn, biểu hiện bằng tam chứng Charcot
+
 NGOẠI KHOA CƠ SỞ
 
 (3 triệu chứng gồm đau hạ sườn phải, sốt, vàng da; xuất hiện lần lượt theo thứ tự; biến mất lần lượt theo thứ tự nếu nguyên nhân tắc nghẽn không còn). Đối với nhóm nguyên nhân u, diễn tiến vàng da chậm hơn, phần lớn không kèm biểu hiện của viêm đường mật (không đau bụng, không sốt).
@@ -4361,6 +4675,72 @@ Cần loại trừ những trường hợp có biểu hiện giống hội chứ
 Để trả lời câu hỏi này, cần hỏi thật chi tiết những tính chất của vàng da vàng mắt như thời điểm xuất hiện, tốc độ nhanh hay chậm, có đợt hay không, những triệu chứng kèm theo (đau bụng, sốt, ói, đi tiêu phân bạc màu...). Bên cạnh đó, phải hỏi kỹ tiền căn liên quan đến những bệnh lý gây vàng da như bệnh lý huyết học, viêm gan siêu vi, xơ gan, sỏi mật, ung thư tiêu hóa, nhiễm giun và sỏi giun (bên cạnh vùng dịch tễ)... Cuối cùng là thăm khám lâm sàng kỹ lưỡng để phát hiện những triệu chứng thực thể có giá trị như gan to, lách to, túi mật to, sờ được u, thiếu máu...
 
 Tiếp cận chẩn đoán lâm sàng vàng da có thể được tóm tắt như lưu đồ sau:
+
+**Sơ đồ:**
+
+- Bệnh nhân nhập viện vì triệu chứng của hội chứng vàng da
+  - Có thực sự là hội chứng vàng da hay không?
+    - KHÔNG --> Nguyên nhân khác
+    - CÓ
+      - Có những đặc điểm của vàng da trước gan? *
+        - CÓ --> Nhóm vàng da trước gan
+        - KHÔNG
+          - Có những đặc điểm của vàng da sau gan? **
+            - CÓ --> Nhóm vàng da sau gan
+            - KHÔNG
+              - Nhóm vàng da tại gan hoặc sau gan (dựa vào Bilirubin và hình ảnh học để phân biệt)
+
+(*) Những đặc điểm của nhóm vàng da trước gan bao gồm độ tuổi (dưới 30), vàng da diễn tiến mạn tính từ lâu, gan lách to, thiếu máu (vàng da trên nền xanh), tiền căn có bệnh lý huyết học hoặc gia đình có người thân hay trực hệ có bệnh lý huyết học. Nhóm bệnh lý mắc phải ít gặp hơn.
+
+(**) Trên lâm sàng hay sử dụng 2 triệu chứng:
+- Đi tiểu phân màu: rất đặc hiệu cho vàng da tắc mật sau gan, tuy nhiên độ nhạy không cao, thường chỉ xuất hiện khi bệnh nhân tắc mật nặng trong một thời gian dài.
+- Túi mật to: không đặc hiệu cho vàng da tắc mật sau gan, vì túi mật to không phải chỉ do viêm túi mật, do ung thư. Ngược lại, một trường hợp tắc mật mà túi mật không to (như u ở ngã ba đường mật) cũng không loại trừ tắc mật.
+
+Theo lưu đồ trên, ta thấy việc chẩn đoán phân biệt vàng da sau gan và tại gan trên lâm sàng đa số rất khó khăn. Trong đa số trường hợp, ta phải nghĩ đến các nguyên nhân của cả 2 nhóm, và tùy vào biểu hiện lâm sàng, chính vì việc hạn chế khi biện luận lâm sàng nên chúng tôi đề xuất cách tiếp cận thứ hai, đó là dựa vào kết quả cận lâm sàng (xem phần bên dưới).
+
+### 5.3. Nguyên nhân gây vàng da là gì?
+
+Đối với nhóm vàng da trước gan, ta thường gặp 2 tình huống: bệnh nhân đã biết trước bệnh lý huyết học của mình, hoặc bệnh nhân mới phát hiện bệnh lần đầu. Trong tình huống sau, ta cần đề nghị những xét nghiệm chuyên biệt của bệnh lý huyết học để tầm soát nguyên nhân gây tán huyết. Trong phạm vi bài viết chúng tôi không đi sâu vào nhóm này.
+
+Đối với vàng da tại gan và sau gan, trong đa số trường hợp, ta chỉ có thể trả lời câu hỏi này chính xác dựa vào cận lâm sàng. Tuy nhiên, dựa vào biểu hiện lâm sàng, ta có thể hướng chẩn đoán đến một hoặc vài nguyên nhân nào đó, ví dụ như:
+
+- Xơ gan: tiền căn nghiện rượu, nhiễm viêm gan siêu vi B, C, hội chứng tăng áp lực tĩnh mạch cửa, hội chứng suy tế bào gan...
+
+- Viêm gan: tiền căn nhiễm siêu vi, đang sử dụng thuốc ảnh hưởng gan, ngộ độc rượu, hội chứng suy tế bào gan...
+
+- Áp xe gan do vi trùng: đau tức hạ sườn phải, rung gan (+), sốt cao lạnh run, yếu tố nguy cơ áp xe gan do vi trùng...
+
+- Sỏi ống mật chủ: tiền căn sỏi mật (có thể đã điều trị hoặc chưa), đau tức hạ sườn phải, sốt cao lạnh run (tam chứng Charcot).
+
+- Giun chui ống mật: tiền căn nhiễm giun hoặc có thể đã từng điều trị giun chui ống mật, vùng dịch tễ nhiễm giun, thói quen ăn uống, thói quen uống thuốc sổ giun, tam chứng Charcot...
+
+- U quanh bóng Vater: bệnh nhân lớn tuổi, chán ăn sụt cân, diễn tiến vàng da tăng dần từ từ, mức độ vàng sậm, túi mật căng to, có thể sở được u...
+
+## 6. MỘT SỐ CẬN LÂM SÀNG LIÊN QUAN
+
+### 6.1. Xét nghiệm
+
+#### 6.1.1. Bilirubin
+
+Được xem là tiêu chuẩn vàng trong chẩn đoán hội chứng vàng da. Bình thường Bilirubin toàn phần trong máu là 0,8-1,2 mg/dl, trong đó Bilirubin gián tiếp là 0,6-0,8 mg/dl, Bilirubin trực tiếp là 0,2-0,4 mg/dl.
+
+Vàng da thường xuất hiện rõ khi Bilirubin toàn phần > 2,5 mg/dl. Khi Bilirubin toàn phần từ 2-2,5 mg/dl, dấu hiệu vàng da chưa thấy rõ gọi là vàng da dưới lâm sàng.
+
+Người ta còn chú ý đến tỉ số Bilirubin trực tiếp/Bilirubin toàn phần vì giúp ta hướng đến nhóm nguyên nhân:
+
+- < 20%: tăng Bilirubin gián tiếp ưu thế.
+
+- > 50%: tăng Bilirubin trực tiếp ưu thế.
+
+- 20-50%: tăng Bilirubin hỗn hợp.
+
+Theo sinh lý bệnh, tùy vào bất thường ở đầu trong chu trình chuyển hóa Bilirubin mà tỉ số này thay đổi:
+
+- Vàng da trước gan: tăng Bilirubin gián tiếp ưu thế.
+
+- Vàng da sau gan: tăng Bilirubin trực tiếp ưu thế.
+
+- Vàng da tại gan: tăng Bilirubin gián tiếp ưu thế hoặc tăng Bilirubin trực tiếp ưu thế hoặc tăng hỗn hợp.
 
 Một số tài liệu khác thì chia làm 2 nhóm: tăng Bilirubin gián tiếp ưu thế (khi tỉ số Bilirubin trực tiếp/Bilirubin toàn phần ≤15%) và tăng Bilirubin trực tiếp ưu thế (khi tỉ số này >15%). Phác đồ tiếp cận bệnh nhân vàng da dựa trên xét nghiệm Bilirubin khá đa dạng. Dưới đây là một cách chia nhóm nguyên nhân dựa vào kết quả Bilirubin (mà không xét đến các xét nghiệm chức năng gan khác):
 
@@ -4396,7 +4776,31 @@ ALP là enzym thủy phân các ester phosphat trong môi trường kiềm (pH =
 - ALP tăng cao (3-10 lần bình thường) thường do tắc mật trong hoặc ngoài gan.
 - ALP còn tăng trong các bệnh ngoài gan như bệnh Paget của xương, hủy xương, nhuyễn xương, di căn xương, tăng PTH và một số bệnh ác tính khác.
 
-219 chẩn đoán bản chất u. Tuy vậy, phương pháp này đòi hỏi trang bị chuyên sâu, không sẵn có ở mọi nơi và cũng phụ thuộc kỹ năng người làm siêu âm.
+219
+
+NGOẠI KHOA CƠ SƠ
+
+**6.1.3. GGT (G-Glutamyl Transferase)**
+
+GGT xúc tác sự chuyển nhóm g-glutamyl từ những peptid như glutathion đến những acid amin khác và giữ vai trò vận chuyển acid amin. Trị số bình thường khoảng 30 U/L ở nữ và khoảng 50 U/L ở nam. Giống ALP, GGT có độ nhạy cao để đánh giá rối loạn chức năng bài tiết của gan nhưng cũng không đặc hiệu do bị ảnh hưởng bởi nhiều yếu tố.
+
+Nguyên nhân thường gặp nhất của tăng GGT đơn thuần là tình trạng nghiện rượu mạn tính, tắc mật, sau uống một số thuốc gây cảm ứng enzym ở gan, gan nhiễm mỡ không do rượu. GGT còn tăng trong nhiều tình huống khác như suy thận, nhồi máu cơ tim, viêm tụy cấp, đái tháo đường, cường giáp, bệnh phổi tắc nghẽn mạn tính.
+
+**6.1.4. Xét nghiệm nước tiểu**
+
+Bilirubin chỉ hiện diện trong nước tiểu ở dạng Bilirubin TT. Khi Bilirubin GT trong máu tăng sẽ tăng tạo Urobilinogen trong nước tiểu. Do đó ở nhóm bệnh nhân vàng da trước gan Bilirubin trong nước tiểu sẽ âm tính, nồng độ Urobilinogen sẽ tăng cao. Khi Bilirubin TT trong máu tăng sẽ tăng thải Bilirubin TT ra nước tiểu. Do đó nhóm bệnh nhân này có sắc tố mật (Bilirubin TT) và muối mật trong nước tiểu, Urobilinogen giảm hoặc (-).
+
+**6.2. Hình ảnh học**
+
+**6.2.1. Siêu âm**
+
+Siêu âm bụng là phương tiện đầu tay trong chẩn đoán phân biệt tắc mật ngoài gan (vàng da sau gan) với nhóm còn lại. Siêu âm rẻ tiền, nhanh, dễ thực hiện, có thể lặp đi lặp lại, an toàn cho phụ nữ có thai. Trong một số trường hợp, siêu âm còn giúp can thiệp dẫn lưu đường mật qua da.
+
+Những dấu hiệu của tắc mật ngoài gan trên siêu âm: đường mật trong và ngoài gan dãn, túi mật to, có thể thấy được nguyên nhân trong một số trường hợp (sỏi mật, giun, u). Tuy vậy siêu âm phụ thuộc khá nhiều vào người thực hiện, và độ nhạy trong chẩn đoán nguyên nhân không cao, nhất là khi nguyên nhân gây tắc nằm ở đoạn ống mật chủ phía sau tá tràng. Theo các nghiên cứu, độ nhạy siêu âm trong chẩn đoán tắc mật ngoài gan dao động từ 55-91%.
+
+Siêu âm qua ngả nội soi (EUS) cũng là một phương tiện khảo sát có độ nhạy cao trong việc đánh giá hình ảnh đầu tụy và tá tràng. Có hai nghiên cứu lớn cho thấy siêu âm qua nội soi có hiệu quả cao hơn CT và siêu âm bụng tiêu chuẩn trong việc chẩn đoán giai đoạn ung thư đầu tụy và ung thư nhú Vater. Siêu âm qua nội soi chứng tỏ có hiệu quả trong các trường hợp u tụy có kích thước nhỏ (<2 cm), trong tình huống này, có thể có dãn đoạn cuối ống mật chủ nhưng không phát hiện bất thường khác trên CT bụng. Lợi điểm nữa là siêu âm qua nội soi có thể phối hợp sinh thiết kim nhỏ (FNA) để
+
+220 chẩn đoán bản chất u. Tuy vậy, phương pháp này đòi hỏi trang bị chuyên sâu, không sẵn có ở mọi nơi và cũng phụ thuộc kỹ năng người làm siêu âm.
 
 [Hình: Hình ảnh siêu âm tắc mật do sỏi (trái) và do u (phải)]
 
@@ -4479,6 +4883,56 @@ Tóm lại, hội chứng vàng da là một hội chứng thường gặp và l
 6. Government of Western Australia (2015). *Diagnostic Imaging Pathways – Cholestatic Jaundice*. www.imagingpathways.health.wa.gov.au
 7. Abbas MW, Shamshad T, Ashraf MA, et al (2016). *Jaundice: a basic review*. Int J Res Med Sci; 4(5): 1313-1319.
 8. Roche SP, Kobos R (2004). *Jaundice in the Adult Patients*. Am Fam Physician; 69: 299-304.
+
+NGOẠI KHOA CƠ SỞ
+
+# CÂU HỎI LƯỢNG GIÁ
+1. Theo sinh lý bệnh, bệnh nhân có hội chứng vàng da sau gan do u đầu tụy gây tắc mật sẽ có chỉ số Bilirubin như thế nào?
+A. Bilirubin trực tiếp tăng ưu thế
+B. Bilirubin gián tiếp tăng ưu thế
+C. Cả hai thành phần Bilirubin đều tăng như nhau
+D. Cả hai thành phần Bilirubin đều không thay đổi
+2. Biểu hiện nào sau đây là đặc hiệu cho vàng da tắc mật sau gan?
+A. Da vàng sậm
+B. Nước tiểu vàng sậm
+C. Phân bạc màu
+D. Ngứa
+3. Nguyên nhân nào sau đây KHÔNG thuộc nhóm vàng da trước gan?
+A. Hồng cầu hình liềm
+B. Thalassemia
+C. Cường lách
+D. Hội chứng Gilbert
+4. Đặc điểm nào sau đây KHÔNG ĐIỂN HÌNH cho trường hợp vàng da tắc mật do u:
+A. Sụt cân nhanh
+B. Ít khi nhiễm trùng
+C. Diễn tiến cấp tính, nặng nề
+D. Mức độ vàng da thường sậm
+5. Phương tiện hình ảnh nào sau đây có độ nhạy và độ đặc hiệu cao nhất trong chẩn đoán nguyên nhân vàng da tắc mật?
+A. Siêu âm
+B. CT scan
+C. MRI
+D. X-quang
+
+# KHỐI U BÙNG Nguyễn Tạ Quyết, Nguyễn Phúc Minh
+**MỤC TIÊU**
+1. Trình bày đặc điểm chính về giải phẫu học và giải phẫu học bề mặt các tạng trong khoang bụng.
+2. Nêu được phân loại, đặc điểm u bụng thường gặp.
+3. Trình bày các bước trong lưu đồ tiếp cận chẩn đoán u bụng.
+4. Hỏi được các triệu chứng liên quan đến khối u bụng.
+5. Thực hiện khám bụng để có chẩn đoán nguyên nhân u bụng.
+6. Chỉ định được cận lâm sàng phù hợp và giải thích kết quả để chẩn đoán u bụng.
+7. Hình thành ý thức về tầm quan trọng của việc chẩn đoán sớm khối u bụng.
+Từ khóa: U tân sinh, khối u bụng, u đặc, u nang, chụp cắt lớp vi tính, chụp động mạch chọn lọc.
+
+**1. KHÁI NIỆM**
+Khối tân sinh là một mảng tổ chức mới phát triển từ một nhóm tế bào bất thường, không còn sự kiểm soát của cơ thể, không thể phối hợp với tế bào của cấu trúc mô bình thường ở xung quanh. Khối tân sinh tiếp tục tự phát triển dù không còn tác nhân kích thích. Khối tân sinh có thể là loại lành tính, có khuynh hướng trở thành ác tính hay ung thư.
+
+[Hình: Minh họa vi thể khối u tân sinh]
+
+Hình 1. Minh họa vi thể khối u tân sinh.
+
+Khi khối tân sinh phát triển thành u, lúc đó khối tân sinh được gọi là u hay khối u.
+Khối u bụng được dùng để chỉ các loại u trong ổ bụng. Bọc hay nang dùng để gọi các tổn thương chứa dịch, đôi khi là máu hay mủ. U hay u đặc để gọi một tổn thương đặc hay thành phần đặc là chính yếu, và nang chiếm một phần nhỏ hay do phần đặc hoại tử dần tạo thành dịch. Đôi khi khối u bụng xuất hiện dưới dạng một túi khí như quai ruột dãn to chứa đầy khí, ví dụ quai đại tràng chậu hông dãn, manh tràng dãn.
 
 NGOẠI KHOA CƠ SỞ
 
@@ -4809,6 +5263,102 @@ Khối phồng vùng bẹn, bìu
 - Phình và giả phình động mạch đùi (femoral artery aneurysm or pseudoaneurysm).
 
 241
+
+NGOẠI KHOA CƠ SỞ
+
+4. TIẾP CẬN BỆNH NHÂN TRÊN LÂM SÀNG
+
+4.1. Hỏi bệnh sử
+
+Cần hỏi khối phồng xuất hiện như thế nào? Có bị mất đi khi đè ép hay khi nằm nghỉ hay không? Thời gian xuất hiện? Có cảm giác khó chịu gì hay không?
+
+Đối với thoát vị bẹn, đùi thì khối phồng xuất hiện khi làm việc nặng, khi chạy nhảy, khi rặn hoặc ho và tự biến mất. Nhiều tháng sau khối phồng to dần, xuất hiện dễ khi đứng và mất khi nằm hoặc lấy tay ấn vào. Có thể có kèm theo triệu chứng căng đau ở vùng bẹn và khi khối thoát vị thì có thể có khó chịu ở vùng thượng vị do sự kéo căng của mạc treo ruột. Cần lưu ý vị trí xuất hiện khối phồng ở trên nếp bẹn hay dưới nếp bẹn? có xuống bìu hay không? (Hình 1, 4, Sơ đồ 1).
+
+Đối với nhóm liên quan đến u bướu thì khối u có thể xuất hiện mới đây như là tụ máu do chấn thương hay xuất hiện vài tháng như hạch, bướu mỡ, bướu bã, phình động mạch. Các khối u này thì không tự mất đi và lấy tay ấn thì không xẹp (Sơ đồ 2, 3).
+
+Đối với nhóm liên quan đến tinh hoàn thì bìu căng to trong trường hợp tràn dịch màng tinh hoàn nhưng không đau, còn đối với dãn tĩnh mạch tinh hoàn thì bìu to hơn ở một bên kèm đau tức khi chạy nhảy nhiều. Tinh hoàn lạc chỗ thì thường không có khó chịu gì và bệnh nhân thường đã biết là không có đủ hai tinh hoàn trong bìu.
+
+Bệnh nhân bị đau vùng bìu mới đây thì có thể do viêm mào tinh hoàn, xoắn tinh hoàn hay thoát vị nghẹt. Nếu do viêm thì có thể có kèm tiểu gắt buốt, tiểu đục và sốt nhẹ. Còn xoắn tinh hoàn hay thoát vị nghẹt thì đau nhiều và có kèm đau dọc theo thừng tinh khi sờ nắn (Sơ đồ 4).
+
+4.2. Tiền sử
+
+Hỏi bệnh nhân có bị bệnh gì hay có bị ung thư gì không?
+Hỏi về các yếu tố nguy cơ của thoát vị bẹn, đùi như là:
+- Tiền sử gia đình bị thoát vị bẹn, bệnh phình động mạch chủ bụng, thẩm phân phúc mạc.
+- Sự suy yếu các lớp cân mạc của thành bụng: là do chuyển hoá collagen bất thường ở bệnh nhân bị thoát vị bẹn.
+- Hút thuốc lá cũng làm tăng quá trình phân huỷ collagen, làm suy yếu vùng bẹn và dẫn đến thành lập thoát vị bẹn.
+- Bệnh nhân đã được mổ mở cắt ruột thừa, cắt tuyến tiền liệt tận gốc.
+- Sự tăng áp lực ổ bụng: chỉ là một yếu tố phụ trợ. Điều quan trọng là khi áp lực ổ bụng tăng lên một cách chủ động (ho, rặn...), các cơ chế bảo vệ sẽ được khởi động để bảo vệ vùng bẹn. Nếu áp lực ổ bụng tăng lên một cách thụ động (có thai, báng bụng...) thì các cơ chế bảo vệ ở trên sẽ không xảy ra, cơ thành bụng vẫn ở trạng thái nghỉ. Lúc đó, nếu bệnh nhân còn ống phúc tinh mạc hoặc sàn bẹn không đủ vững chắc, hoặc cơ chéo bụng trong bám cao, thì thoát vị sẽ dễ xảy ra.
+
+242 căng của mạc treo ruột. Vị trí xuất hiện khối phồng ở trên nếp bẹn hay dưới nếp bẹn? có xuống bìu hay không? (Hình 1, 4.1, 4.2, Sơ đồ 1)
+
+Đối với nhóm liên quan đến u bướu thì khối u xuất hiện mới đây như là tụ máu do chấn thương hay xuất hiện vài tháng như hạch, bướu mỡ, bướu bã, phình động mạch. Các khối u này thì không tự mất đi và lấy tay ấn thì không xẹp (Sơ đồ 2, 3).
+
+Đối với nhóm liên quan đến tinh hoàn thì bìu căng to trong trường hợp tràn dịch màng tinh hoàn nhưng không đau, còn đối với dãn tĩnh mạch tinh hoàn thì bìu to hơn ở bên trái kèm đau tức khi chạy nhảy nhiều. Tinh hoàn lạc chỗ thì thường không có khó chịu gì và bệnh nhân thường đã biết là không có đủ hai tinh hoàn trong bìu.
+
+Bệnh nhân bị đau vùng bìu mới đây thì có thể do viêm mào tinh hoàn, xoắn tinh hoàn hay thoát vị nghẹt. Nếu do viêm thì có thể có kèm tiểu gắt buốt, tiểu đục và sốt nhẹ. Còn xoắn tinh hoàn hay thoát vị nghẹt thì đau nhiều và có kèm đau dọc theo thừng tinh khi sờ nắn (Sơ đồ 4).
+
+## 2. Tiền sử
+
+Hỏi bệnh nhân có bị bệnh gì hay có bị ung thư gì không?
+
+Và hỏi về các yếu tố nguy cơ của thoát vị bẹn, đùi như là [1,5]:
+
+Tiền sử gia đình bị thoát vị bẹn. Bệnh phình động mạch chủ bụng. Thẩm phân phúc mạc
+
+Sự suy yếu các lớp cân mạc của thành bụng: là do chuyển hoá collagen bất thường ở bệnh nhân bị thoát vị bẹn.
+
+Hút thuốc lá cũng làm tăng quá trình phân huỷ collagen, làm suy yếu vùng bẹn và dẫn đến thành lập thoát vị bẹn.
+
+Bệnh nhân đã được mổ mở cắt ruột thừa, cắt tuyến tiền liệt tận gốc.
+
+Sự tăng áp lực ổ bụng: chỉ là một yếu tố phụ trợ. Điều quan trọng là khi áp lực ổ bụng tăng lên một cách chủ động (ho, rặn...), các cơ chế bảo vệ sẽ được khởi động để bảo vệ vùng bẹn. Nếu áp lực ổ bụng tăng lên một cách thụ động (có thai, báng bụng...) thì các cơ chế bảo vệ trên sẽ không xảy ra, cơ thành bụng vẫn ở trạng thái nghỉ. Lúc đó, nếu bệnh nhân còn ống phúc tinh mạc hoặc sàn bẹn không đủ vững chắc, hoặc cơ chéo bụng trong bám cao, thì thoát vị sẽ dễ xảy ra.
+
+Một số yếu tố có thể thuận lợi cho hình thành thoát vị vùng bẹn như: tuổi già, không luyện tập thể dục, sinh đẻ nhiều lần, gãy xương chậu...
+
+Sự giảm nhanh trọng lượng cơ thể sẽ làm tiêu mất mỡ, tạo khoảng trống ở vùng bẹn và dễ gây ra thoát vị; điều này có thể thấy ở các bệnh nhân suy kiệt do bệnh lý ác tính, hoặc ở người ăn kiêng quá mức. Ngoài ra, luyện tập thể lực căng thẳng cũng thuận lợi cho hình thành thoát vị.
+
+3. Khám [1,2,5]
+
+Thăm khám vùng bẹn bằng nhìn và sờ kỹ vùng này. Khám bệnh nhân thoát vị ở cả hai tư thế: đứng và nằm. Và phải khám tinh hoàn hai bên, xác định: số lượng có đủ hai tinh hoàn? kích thước bình thường hay bị teo? mật độ chắc hay mềm?
+
+Thoát vị bẹn gián tiếp: khối phồng xuất hiện theo hướng từ trên xuống dưới, từ ngoài vào trong, và chạy về phía bìu (Hình 5.1, 5.2). Nghiệm pháp chẹn lỗ bẹn sâu khối phồng không xuất hiện. Điều này không đúng khi khối thoát vị quá to phá hư sàn bẹn (Sơ đồ 2).
+
+Thoát vị bẹn trực tiếp: khối phồng nằm gần phía xương mu, xuất hiện từ sau ra trước, rất ít khi đi xuống bìu. Nghiệm pháp chẹn lỗ bẹn sâu khối phồng vẫn xuất hiện (Sơ đồ 2).
+
+Thoát vị đùi: khối phồng nằm dưới nếp bẹn, thể hiện dưới dạng giống như một u mỡ hay hạch bẹn, ít khi ấn xẹp (Hình 1, Sơ đồ 3).
+
+Nghiệm pháp chẹn lỗ bẹn sâu: ấn cho xẹp khối phồng, rồi dùng ngón tay số 1 ấn vào lỗ bẹn sâu (từ vị trí động mạch đùi ở nếp bẹn đi thẳng lên trên 1,5-2cm), sau đó cho bệnh nhân rặn hay làm phình bụng lên, nếu khối phồng không xuất hiện là thoát vị bẹn gián tiếp; nếu khối phồng vẫn xuất hiện là thoát vị bẹn trực tiếp (Hình 8.1 & 8.2).
+
+Nghiệm pháp chạm ngón: ấn khối phồng cho xẹp, rồi dùng ngón tay số 2 đẩy từ da bìu đi vào lỗ bẹn nông, đầu ngón tay hướng về lỗ bẹn sâu, lòng ngón tay hướng về trong bụng, sau đó cho bệnh nhân rặn hay phình bụng lên, nếu khối phồng chạm vào đầu ngón tay là thoát vị bẹn gián tiếp; nếu khối phồng chạm vào mặt lòng ngón tay là thoát vị bẹn trực tiếp (Hình 8.1 & 8.2).
+
+Thoát vị nghẹt: Tiền sử: có khối phồng xuất hiện nhiều tháng, ấn thì mất đi. Vài giờ: khối phồng xuất hiện, kèm đau tăng dần, ấn không mất đi. Khám: Khối phồng xuất hiện từ trên nếp bẹn đi theo thừng tinh ra lỗ bẹn nông, có thể xuống đến bìu, ấn đau nhiều từ lỗ bẹn nông đến điểm cuối của khối phồng hay khối u (Hình 5.1, 5.2). Nếu sờ được tinh hoàn trong bìu và không đau thì đây là thoát vị bẹn nghẹt, nếu không sờ được tinh hoàn hay sờ được tinh hoàn đau thì cần chẩn đoán phân biệt với xoắn tinh hoàn, viêm tinh hoàn và mào tinh hoàn (Sơ đồ 4). Nếu khối phồng hay khối u xuất hiện bên dưới nếp bẹn bên trong động mạch đùi, ấn đau nhiều, không xẹp đi và không dính da thì là thoát vị đùi nghẹt, cần chẩn đoán phân biệt với viêm hạch bẹn. Trường hợp có khối áp-xe vùng bẹn từ vài ngày thì cần chẩn đoán phân biệt thoát vị đùi nghẹt với áp-xe hạch hay da vùng này (Sơ đồ 5).
+
+Tràn dịch tinh hoàn: thấy bìu to, sờ nắn không đau, không sờ được tinh hoàn. Nghiệm pháp soi đèn sẽ thấy ánh sáng xuyên qua. Còn nếu do u hay thoát vị sẽ không thấy ánh sáng xuyên qua (Sơ đồ 6).
+
+Dãn tĩnh mạch tinh hoàn: thấy to ở góc bìu trái, sờ thấy có nhiều búi tĩnh mạch dãn ở đây.
+
+Tinh hoàn lạc chỗ: sờ chỉ có một hoặc không có tinh hoàn trong bìu, một số trường hợp có thể sờ thấy tinh hoàn trong ống bẹn.
+
+Viêm mào tinh hoàn: sờ thấy mào tinh và tinh hoàn to và ấn đau nhẹ.
+
+Xoắn tinh hoàn: sờ thấy tinh hoàn bên xoắn nằm cao hơn bên kia kèm ấn đau nhiều ở tinh hoàn và ở dọc thừng tinh.
+
+Nhóm u bướu: sờ sẽ thấy khối u kích thước từ một đến vài cm, giới hạn rõ, mật độ chắc hay mềm, dính da như là bướu bã, tụ máu; không dính da như là hạch, bướu mỡ; đập theo nhịp mạch như là phình động mạch (Sơ đồ 2, 3, 4, 5).
+
+**Triệu chứng toàn thân**: Các bệnh thoát vị bẹn, đùi và các bệnh ở vùng bẹn thường không có biểu hiện gì, nếu có là do các bệnh nguyên nhân như là do nhiễm trùng, do biến chứng hoặc do các bệnh kèm theo khác.
+
+**V. Cận lâm sàn**g
+
+**Siêu âm**: có độ nhạy (77-81.5%) và độ đặc hiệu (86-94.5%) cao trong chẩn đoán thoát vị vùng bẹn không nghẹt và có nghẹt. Siêu âm cũng chẩn đoán chính xác các bệnh như là: tràn dịch tinh hoàn, dãn tĩnh mạch thừng tinh, tinh hoàn lạc chỗ, viêm mào tinh hoàn, bướu mỡ, tụ máu, bướu bã, bệnh hạch bạch huyết. Các trường hợp như xoắn tinh hoàn, phình động mạch hay giả phình động mạch thì cần thêm siêu âm Doppler (Sơ đồ 2, 3, 4, 5, 6) [1,5].
+
+Các hình ảnh khác ít dùng hơn, dành cho các trường hợp không rõ thoát vị hay u vùng bẹn không điển hình.
+
+Khi siêu âm không phát hiện được, có thể chụp cắt lớp vi tính (CT Scan) động hay chụp cộng hưởng từ (MRI) động (có làm và không làm vận động của Valsalva) có thể phát hiện được các túi thoát vị nhỏ.
+
+**Chụp cắt lớp vi tính và Chụp cộng hưởng từ**: độ nhạy 94% và độ đặc hiệu 96% trong chẩn đoán thoát vị [1,5] (Sơ đồ 2, 3, 4, 5,6).
+
+**Chụp túi thoát vị** (*Herniography*): bằng cách bơm thuốc cản quang tan trong nước vào ổ phúc mạc. Được chỉ định khi bệnh nhân có đau vùng bẹn, nghi ngờ do thoát vị vùng bẹn,
 
 5.3. Chụp túi thoát vị (Herniography)
 
@@ -5226,6 +5776,37 @@ Proctalgia fugax đặc trưng bởi cơn đau ngắn và ngoài ra ít có tri�
 Điều trị đúng nguyên nhân gây đau hậu môn thì sẽ có kết quả tốt, bởi vì đa phần nguyên nhân là lành tính.
 
 261
+
+# TÀI LIỆU THAM KHẢO
+
+1. Nguyễn Đình Hồi (2002), *Hậu môn trực tràng học*. Nhà xuất bản Y học.
+2. Baker MC (2012). *Anorectal Pain, The patient history: An Evidence-based approach to differential diagnosis, $2^{\text{nd}}$ Edition*, McGrill Medical
+3. Cotter, T. G., Buckley, N. S., Loftus, C. G.(2017).*Approach to the Patient With Hematochezia*. Mayo Clin Proc, 92(5), 797-804
+4. Fargo, M. V., Latimer, K. M. *Evaluation and management of common anorectal conditions*. Am Fam Physician, 85(6), 624-630.
+5. Pfenninger, J. L., Zainea, G. G. (2001). *Common anorectal conditions: Part I. Symptoms and complaints*. Am Fam Physician, 63(12), 2391-2398.
+6. Pfenninger, J. L., Zainea, G. G. (2001). *Common anorectal conditions: Part II. Lesions*. Am Fam Physician, 64(1), 77-88.
+7. Klein JW (2014). *Common anal problems*. Med Clin Am; 98: 609-623.
+8. Foxx-Orenstein AE, Umar SB, Crowel MD (2014). *Common anorectal disorders*. Gastroenterology & Hepatology; 10(5): 294-301.
+9. Chang J, McLemore E, Tejirian T (2016). *Anal Health Care Basics*. Perm J; 20(4): 15-222.
+10. Daniel WJ (2010). *Anorectal pain, bleeding and lumps*. Australian Family Physician; 39(6): 376-381.
+
+# CÂU HỎI LƯỢNG GIÁ
+
+1. Đặc điểm nào sau đây không gặp trong tiêu ra máu do bệnh trĩ:
+   - A. Máu dính giấy chùi sau khi đi tiêu
+   - B. Máu tươi chảy nhỏ giọt
+   - C. Máu bầm lẫn chất nhầy
+   - D. Máu chảy thành tia như cắt tiết gà
+2. Triệu chứng gợi ý đến ung thư phần thấp trực tràng:
+   - A. Đau vùng hậu môn kiểu nhức buốt
+   - B. Tiêu ra máu lẫn nhầy, khi ra phân thì khuôn phân nhỏ, dẹt
+   - C. Tiêu ra phân đỏ nâu > 4 lần/ngày
+   - D. Tiêu ra máu đỏ tươi kèm khối sa hậu môn phải lấy tay đẩy vào
+3. Đặc điểm nào sau đây không phù hợp với nứt hậu môn cấp:
+   - A. Đau hậu môn kiểu như dao cắt
+   - B. Đau 3 giai đoạn liên quan đến đi tiêu, rồi sau đó bình thường
+   - C. Chảy máu có thể dính giấy chùi hay nhỏ giọt
+   - D. Khám thấy loét sùi nham nhở vùng hậu môn
 
 Than phiền vùng hậu môn
 
@@ -5657,6 +6238,21 @@ Phúc mạc là màng thanh dịch lớn nhất và phức tạp nhất trong c�
 
 Xoang phúc mạc được phân chia không hoàn toàn thành những khu bởi các chỗ bám của mạc treo, mạc chằng, mạc nối và khoang sau phúc mạc. Một nếp phúc mạc lớn trải từ bờ cong lớn dạ dày và mặt dưới của đoạn đầu tá tràng xuống quá đại tràng ngang gọi là mạc nối lớn. Mạc nối này có nhiều tế bào mỡ, tế bào bạch huyết, đại thực bào, chức năng của nó còn là một nơi dự trữ mỡ và một cơ quan miễn dịch cơ động.
 
+Sự phân khu của xoang phúc mạc ảnh hưởng đến sự khu trú hoặc lan tỏa của tình trạng viêm và nhiễm trùng. Xoang phúc mạc gồm hai túi:
+
+- Túi nhỏ (hậu cung mạc nối): là một túi nằm ngang, đáy ở bên trái, cổ và miệng ở bên phải, thành trước là mặt sau dạ dày, mạc chằng vị đại tràng, thành sau là tụy, thành trên là mạc treo dạ dày, thành dưới là mạc treo đại tràng ngang. Đáy túi là mạc nối tụy lách, mạc nối vị lách. Miệng túi là khe Winslow, qua khe này túi nhỏ thông với túi lớn.
+- Túi lớn: là phần còn lại của xoang phúc mạc, được đại tràng ngang và mạc treo của nó nằm vắt ngang qua bụng chia ra làm hai tầng. Tầng trên mạc treo đại tràng ngang gồm gan, hệ mật, dạ dày, lách, một phần trên khối tá tụy. Mặt trên gan có mạc chằng liềm chia khu trên thành hai khu. Khu trên gan phải hay dưới hoành phải: thông với hố chậu phải qua rãnh đại tràng phải. Khu trên gan trái hay dưới hoành trái: thông với khu quanh lách, rồi qua mạc chằng hoành - đại tràng trái thông với bụng dưới. Tầng dưới mạc treo đại tràng ngang gồm tất cả ruột non bám vào thành bụng sau nhờ mạc treo ruột non. Xoang phúc mạc trong chậu bé gọi là tiểu khung, đôi khi phân cách với tầng dưới mạc treo đại tràng ngang bằng mạc treo đại tràng chậu hông.
+
+## 2.2. Sinh lý
+
+Cấu trúc của phúc mạc là một lớp duy nhất của biểu mô phẳng bên trên mô xốp lỏng lẻo. Lớp mô liên kết lỏng lẻo này chứa một mạng lưới mạch máu và mạch bạch huyết, đầu tận dây thần kinh, và các tế bào có chức năng miễn dịch, đặc biệt là tế bào bạch huyết và đại thực bào. Các tế bào bề mặt phúc mạc kết nối với nhau tạo nên một màng thẩm thấu hai chiều, cho phép dịch và một số chất hòa tan thấm qua. Hoạt động ẩm bào của các tế bào biểu mô và thực bào của các đại thực bào sẽ làm sạch các phân tử lớn trong ổ phúc mạc. Phúc mạc có khả năng hấp thu qua đường bạch huyết (các protein huyết tương, các chất keo) hoặc qua đường máu (nước, điện giải, các tinh thể, các độc tố vi trùng...). Phúc mạc cũng có khả năng bài xuất nước, điện giải, các protein từ huyết tương vào xoang phúc mạc. Khi phúc mạc bị viêm, phúc mạc tiết ra rất nhiều dịch.
+
+Bình thường, dịch trong xoang phúc mạc 50-100 ml, và chỉ có một lượng nhỏ đi qua các bề mặt mỗi ngày. Dịch phúc mạc có nồng độ hòa tan và chất điện giải tương tự với khoảng gian bào lân cận, nồng độ protein < 30 g/l, chủ yếu là albumin. Ngoài ra dịch phúc mạc còn chứa một lượng nhỏ tế bào biểu mô bị tróc ra và một số lượng nhỏ các tế bào miễn dịch (<300 tế bào/µL, chiếm ưu thế là các tế bào đơn nhân). Dịch trong xoang phúc mạc có thể tăng lên nhiều lít trong một số bệnh lý như: xơ gan, hội chứng thận hư và ung thư di căn phúc mạc (carcinomatosis).
+
+Cảm giác của phúc mạc: phúc mạc chia làm phúc mạc thành và phúc mạc tạng, có sự chi phối thần kinh khác nhau.
+
+- Phúc mạc tạng được hệ thần kinh tự động (the autonomic nervous system) phân bố hai bên, chính sự phân bố hai bên làm cho đau tạng có cảm giác mơ hồ, không rõ
+
 ràng, trong sâu, khó xác định vị trí (ví dụ như đau mơ hồ quanh rốn của ruột giữa). Đau tạng do tình trạng viêm, thiếu máu nuôi và thay đổi cấu trúc giải phẫu như xoắn, căng trướng, co kéo và áp lực. Nguồn gốc phôi thai của các cơ quan giúp xác định vị trí đau của đau tạng. Những cơ quan xuất phát từ ruột trước (từ dạ dày đến phần thứ hai của tá tràng, gan, đường mật, tụy, lách) thường biểu hiện đau thượng vị. Những cơ quan xuất phát từ ruột giữa (từ phần thứ hai của tá tràng đến hai phần ba trên của đại tràng ngang) biểu hiện đau quanh rốn. Những cấu trúc xuất phát từ ruột cuối (từ phần còn lại của đại tràng ngang đến rìa hậu môn) biểu hiện đau trên xương mu.
 
 - Phúc mạc thành được hệ thần kinh bản thể của cột sống (the spinal somatic nerves) phân bố từ một bên, thần kinh này cũng chi phối thành bụng. Chính nhờ sự phân bố một bên mà đau tạng có vị trí xác định rõ ràng (ví dụ viêm ruột thừa kích thích phúc mạc thành gây đau vùng hố chậu phải). Đau thành thường có vị trí xác định, mức độ đau dữ dội và rõ ràng. Đau thành là do kích thích phúc mạc thành của các tình trạng viêm (ví dụ như viêm phúc mạc hóa học do thủng ổ loét dạ dày tá tràng hoặc viêm phúc mạc vi trùng do viêm ruột thừa vỡ), đau cũng có thể do các kích thích cơ học như đường mổ trong phẫu thuật. Đau thành thường kèm theo các dấu hiệu thực thể của viêm phúc mạc khu trú hoặc toàn thể và thường, nhưng không phải luôn luôn, là biểu hiện của các bệnh lý có chỉ định can thiệp ngoại khoa.
@@ -5732,6 +6328,19 @@ Các nguyên nhân từ các tạng khác như:
 - Viêm tụy hoại tử gây viêm phúc mạc do dịch tiết hoặc bội nhiễm kết hợp.
 - Gan mật: áp xe gan do amíp hoặc vi trùng vỡ; viêm đường mật do sỏi, viêm túi mật do sỏi gây thấm mật phúc mạc, viêm phúc mạc mật.
 
+- Từ cung và phần phụ: viêm phúc mạc chậu do viêm phần phụ là nguyên nhân thường gặp và gây khó khăn trong chẩn đoán phân biệt với viêm phúc mạc do viêm ruột thừa ở phụ nữ. Các nguyên nhân khác từ tử cung như vỡ tử cung, thủng tử cung do nạo thai...
+(2) Viêm phúc mạc sau mổ
+Viêm phúc mạc sau mổ có thể xảy ra ở khoảng 1-20% các trường hợp sau phẫu thuật vùng bụng, góp phần làm tăng tỉ lệ tử vong. Nguyên nhân chủ yếu là do xì các chỗ khâu nối và thường bị chẩn đoán muộn. Triệu chứng thường xuất hiện vào ngày thứ 5 đến ngày thứ 7 sau mổ. Trong một số trường hợp viêm phúc mạc sau mổ, miệng nối vẫn còn nguyên vẹn, nhiễm trùng là do những nguyên nhân khác trong đó có thể do phẫu thuật viên chưa làm sạch xoang phúc mạc hoặc dẫn lưu không hiệu quả.
+(3) Viêm phúc mạc sau chấn thương và vết thương bụng
+Chấn thương và vết thương bụng có thể làm vỡ, thủng các tạng rỗng trong xoang phúc mạc gây viêm phúc mạc. Các thương tổn này thường phối hợp và thường khá phức tạp, đặc biệt trên các bệnh nhân có chấn thương sọ não, hoặc có chảy máu trong ổ bụng kết hợp, việc chẩn đoán viêm phúc mạc có thể bị chậm trễ. Chấn thương có thể làm rách mạc treo ruột dẫn đến thiếu máu nuôi ruột và sau đó hoại tử ruột, đây cũng là một nguyên nhân chẩn đoán muộn viêm phúc mạc sau chấn thương.
+(4) Viêm phúc mạc nặng cấp độ ba (Tertiary peritonitis)
+Viêm phúc mạc nặng cấp độ ba được định nghĩa là tình trạng nhiễm trùng trong ổ bụng kéo dài hoặc tái phát sau khi viêm phúc mạc nguyên phát hoặc thứ phát đã được điều trị một cách đầy đủ. Điều trị tiêu chuẩn viêm phúc mạc thứ phát bao gồm dẫn lưu ổ nhiễm trùng, loại bỏ mô hoại tử, ngăn ngừa sự tích tụ mủ tái phát kết hợp với điều trị kháng sinh đầy đủ 5-7 ngày. Nếu đã điều trị đúng về phẫu thuật và kháng sinh nhưng tình trạng nhiễm trùng của bệnh nhân vẫn kéo dài hoặc tái phát sau 48 giờ, có thể xem đây là viêm phúc mạc nặng cấp độ ba.
+Thường gặp trên những bệnh nhân bị tổn thương hệ miễn dịch và các bệnh nhân có bệnh nặng kết hợp. Tỉ lệ viêm phúc mạc nặng cấp độ ba trên bệnh nhân nằm chăm sóc đặc biệt vì nhiễm trùng bụng nặng có thể cao đến 50-74%.
+
+3.2. Theo mức độ lan tràn của thương tổn
+Viêm phúc mạc toàn thể: toàn bộ xoang bụng, cả bụng trên lẫn bụng dưới hay khắp bụng có dịch bẩn, có mủ.
+Viêm phúc mạc khu trú: Viêm phúc mạc khu trú khi mủ và dịch bẩn chỉ khu trú tại một vùng nào đó trong xoang phúc mạc nhờ các tạng lân cận bao bọc lại. Viêm phúc mạc khu trú nếu không được chẩn đoán và mổ kịp thời sẽ diễn biến thành viêm phúc mạc toàn thể. Trong những hoàn cảnh thuận lợi tại chỗ và toàn thân có thể diễn biến thành áp xe.
+
 # 4. CHẨN ĐOÁN
 
 Triệu chứng khởi phát của bệnh viêm phúc mạc có thể đột ngột hoặc âm thầm, bệnh cảnh có thể nhẹ, trung bình hoặc biểu hiện nặng toàn thân với sốc nhiễm trùng. Chẩn đoán viêm phúc mạc thường dựa vào các biểu hiện lâm sàng như đau bụng và phản ứng thành bụng, buồn nôn, nôn, giảm nhu động ruột, sốt, sốc và các chẩn đoán hình ảnh như X-quang bụng, X-quang ngực, siêu âm và chụp cắt lớp điện toán (CT).
@@ -5756,6 +6365,20 @@ Bệnh nhân thường vào viện vì triệu chứng đau bụng, cần khai t
 Khi thăm khám bụng, cần lưu ý vùng có phản ứng hay co cứng thành bụng nhiều nhất. Trong một số trường hợp, do dịch trong xoang phúc mạc tụ ở vùng thấp, bệnh nhân đau và có phản ứng phúc mạc nhiều nhất ở vùng này nhưng không phải là nơi có cơ quan bị thương tổn gây ra viêm phúc mạc.
 
 Trong trường hợp bệnh nhân đến trễ, bụng trướng nhiều do tình trạng liệt ruột, triệu chứng co cứng thành bụng không còn rõ, triệu chứng thường gặp hơn là phản ứng dội. Có thể giảm hoặc không nghe được nhu động ruột. Thăm khám âm đạo trực tràng có túi cùng Douglas căng và đau.
+
+Đối với các bệnh nhân có bệnh mạn tính kèm theo như xơ gan, hội chứng thận hư, AIDS bị đau và có phản ứng phúc mạc khắp bụng, cần chú ý phân biệt giữa viêm phúc mạc nguyên phát và thứ phát. Có khoảng 15% bệnh nhân xơ gan báng bụng bị viêm phúc mạc thứ phát nhưng lúc ban đầu bị chẩn đoán lầm là viêm phúc mạc nguyên phát. Nhiều bệnh nhân này có triệu chứng và dấu hiệu không đủ nhạy và đặc hiệu để phân biệt giữa hai loại. Vì vậy, cần hỏi kỹ bệnh sử, đánh giá dịch ổ bụng, làm thêm các phương tiện chẩn đoán nếu nghi ngờ. Đau bụng trên bệnh nhân nhiễm HIV có biểu hiện khác người bình thường, triệu chứng co cứng thành bụng có thể đến trễ hoặc không có trong khi đây là một triệu chứng lâm sàng rất quan trọng để chẩn đoán viêm phúc mạc. Ngược lại, một số bệnh lý vùng bụng thường gặp trên bệnh nhân nhiễm HIV không có chỉ định phẫu thuật nhưng lại có dấu hiệu phản ứng thành bụng như viêm ruột, viêm hạch mạc treo, viêm phúc mạc nguyên phát do lao... Đối với bệnh nhân nữ nhiễm HIV, cần lưu ý chẩn đoán phân biệt viêm phúc mạc do bệnh lý viêm vùng chậu. Số lượng bạch cầu có thể không tăng thậm chí giảm hơn so với bình thường. Do bệnh cảnh không rõ ràng, nhiều bệnh kết hợp nên việc chẩn đoán và điều trị viêm phúc mạc trên bệnh nhân nhiễm HIV thường bị chậm trễ. Trong những trường hợp nghi ngờ bệnh lý ngoại khoa trên bệnh nhân nhiễm HIV, nên thực hiện các phương tiện chẩn đoán hình ảnh như X-quang bụng đứng không chuẩn bị, siêu âm, chụp cắt lớp điện toán có cản quang.
+
+**4.1.3. Đánh giá tổng trạng:** Bệnh nhân thường có thể trạng kém, mệt mỏi, nhiễm trùng, mạch nhanh và yếu trong những trường hợp có sốc. Cần đánh giá kỹ các bệnh đồng mắc để xác định nguy cơ, nhất là trong trường hợp viêm phúc mạc thứ phát mà thường phải điều trị bằng phẫu thuật.
+
+**4.1.4. Đề nghị cận lâm sàng để chẩn đoán xác định (xem phần cận lâm sàng)**
+
+**4.1.5. Nội soi ổ bụng hay mổ thám sát**
+
+**4.2. Cận lâm sàng**
+
+Bạch cầu tăng và chuyển trái, C reactive protein (CRP) có thể thay đổi nhưng không phải là những dấu hiệu để chẩn đoán viêm phúc mạc. Tuy nhiên, giảm bạch cầu là biểu hiện của nhiễm trùng nặng toàn thân và là dấu hiệu tiên lượng xấu. Các xét nghiệm sinh hóa có thể bình thường trong giai đoạn sớm, nhưng trong trường hợp nặng sẽ có các biểu hiện của thiếu nước, rối loạn điện giải, toan chuyển hóa.
+
+X-quang bụng đứng không chuẩn bị không được chỉ định thường quy trong chẩn đoán bệnh viêm phúc mạc. Nếu được thực hiện, trên phim có biểu hiện của tình trạng liệt ruột với các quai ruột trướng hoặc mực nước hơi. X-quang bụng và X-quang ngực thẳng có thể có hình ảnh liềm hơi dưới cơ hoành trong 80% trường hợp thủng dạ dày hoặc tá tràng. Liềm hơi dưới hoành ít thấy hơn trong các bệnh lý thủng ruột non, đại tràng và trực tràng trong phúc mạc (Hình 1).
 
 [Hình: Liềm hơi dưới hoành trên phim X-quang ngực (trái) và bụng (phải)]
 

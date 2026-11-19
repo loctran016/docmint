@@ -226,6 +226,16 @@ Trước kia, khi khoa học chưa phát triển, Giải phẫu học chỉ nghi
 **Hình 1.5.** Hình ảnh X quang ngực thẳng
 *(Nguồn: Sobotta’s Atlas Human Anatomy, Putz R., Pabst R.)*
 
+4. VẤN ĐỀ ĐẶT TÊN CÁC CHI TIẾT GIẢI PHẪU HỌC
+4.1. Nguyên tắc đặt tên trong giải phẫu học: giải phẫu học là một môn học mô tả, để đặt tên cho các chi tiết giải phẫu có một số nguyên tắc như sau:
+4.1.1. Lấy tên các vật có trong tự nhiên: để đặt cho các chi tiết gần giống như các vật có trong tự nhiên. Ví dụ: xương bướm, xương thuyền, xương ghe, cây phế quản, sụn nhẫn. Vì các chi tiết này giống như con bướm, giống như cái thuyền, giống như cành cây, giống như chiếc nhẫn.
+
+[Hình: Hình 1.6. Xương bướm (Nguồn: Sobotta's Atlas Human Anatomy, Putz R., Pabst R.)]
+
+4.1.2. Đặt tên theo các dạng hình học: ví dụ: thang, tháp, tam giác, tứ giác, nhị đầu, tam đầu, tứ đầu...
+
+[Hình: Hình 1.7. Cơ nhị đầu cánh tay (Nguồn: Sobotta's Atlas Human Anatomy, Putz R., Pabst R.) - Các nhãn: Đầu ngắn cơ nhị đầu, Đầu dài cơ nhị đầu]
+
 4.1.3. Đặt tên theo chức năng của một cơ quan: chẳng hạn chức năng của các cơ làm động tác gì thì gọi tên cơ là tên của động tác đó. Nguyên tắc này thường dùng đặt tên. Ví dụ: cơ dạng, cơ khép, cơ sấp, cơ ngửa, cơ gấp, cơ duỗi...
 
 [Hình: Cơ bàn tay]
@@ -810,6 +820,28 @@ Khớp bất động là một khớp không có khả năng vận động. Kh�
 
 Khớp bán động là khớp có khả năng vận động với biên độ hạn chế. Khớp giữa thân các đốt sống là loại khớp bán động.
 
+Khớp động là khớp có khả năng vận động với biên độ rộng. Ví dụ khớp vai, khớp gối... là những khớp động. Hầu hết các khớp động là khớp hoạt dịch.
+
+## 2. KHỚP SỢI
+
+Khớp sợi không có khoang hoạt dịch, các xương tạo nên khớp được gắn kết với nhau bằng một loại mô liên kết. Về chức năng, khớp sợi thường là khớp bất động hoặc bán động.
+
+Khớp sợi chia thành ba loại là khớp đường ráp (sutures), khớp dây chằng (syndesmoses) và khớp màng gian cốt (interosseous membranes).
+
+### 2.1. Khớp đường ráp
+
+Khớp đường ráp còn gọi là khớp răng cưa được cấu tạo bằng một lớp mỏng mô liên kết đặc. Hai bờ xương khớp với nhau có dạng răng cưa không đều sẽ cài vào nhau một cách vững chắc và hạn chế nguy cơ gãy xương. Khớp đường ráp chỉ có ở các xương sọ, ví dụ khớp giữa xương đỉnh và xương trán, khớp giữa hai xương đỉnh. Vì hai bờ xương ở khớp đường ráp cài vào nhau một cách chắc chắn nên nó không có khả năng vận động và được xếp vào loại khớp bất động.
+
+[Hình: Các khớp đường ráp ở sọ (Nguồn: Gray's Anatomy, Michael A.A.)]
+- Xương trán
+- Khớp giữa xương trán và xương đỉnh
+- Xương đỉnh
+- Khớp giữa hai xương đỉnh
+- Khớp giữa xương đỉnh và xương chẩm
+- Xương chẩm
+
+Một số khớp đường ráp hiện diện ở trẻ em sẽ được thay thế bằng xương khi trưởng thành. Các khớp này được gọi là khớp cốt hóa (synostosis) hay khớp hóa xương (bony joint), nghĩa là hai xương riêng biệt sẽ được hàn dính nhau thành một xương. Thí dụ, xương trán thực chất là phát triển từ hai xương riêng biệt và khớp với nhau bằng khớp đường ráp. Đến khoảng 6 tuổi, hai xương này sẽ được dính nhau và đường khớp mờ dần.
+
 2.2. Khớp dây chằng
 
 Khớp dây chằng cũng là một loại khớp sợi nhưng khoảng cách giữa các bề mặt sụn khớp lớn hơn và mô liên kết dày đặc hơn so với khớp đường ráp. Các mô liên kết đặc ở đây thường được sắp xếp thành bó gọi là dây chằng.
@@ -834,6 +866,44 @@ Hình 3.2. Khớp dạng dây chằng
 Hình 3.3. Khớp dạng màng gian cốt
 (Nguồn: Gray’s Anatomy, Michael A.A.)
 
+3. KHỚP SỤN
+
+Giống như khớp sợi, khớp sụn (cartilaginous joints) không có khoang hoạt dịch và là khớp bán động hoặc bất động. Ở khớp sụn, các xương được gắn kết với nhau bằng lớp sụn.
+
+Nhiều khớp sụn trong chỉ là cấu trúc khớp có tính tạm thời và sẽ mất dần trong quá trình phát triển của cơ thể. Ví dụ, ở những xương dài đang phát triển, giữa đầu xương và thân xương tồn tại đĩa sụn tiếp hợp cũng là loại sụn trong. Vì vậy, khớp giữa đầu xương và thân xương ở xương đang phát triển cũng được xem là khớp sụn trong. Khi xương ngừng phát triển, lớp sụn trong sẽ được xương thay thế, khớp sụn trong sẽ trở thành khớp hóa xương. Khớp giữa sụn sườn I và cán xương ức là khớp sụn tạm thời và cũng sẽ cốt hóa khi trưởng thành.
+
+Trái lại, khớp giữa hai xương mu cũng là khớp sụn nhưng tồn tại vĩnh viễn, không bị cốt hóa.
+
+[Hình: Hình 3.4. Khớp sụn (Nguồn: Gray's Anatomy, Michael A.A.)]
+- Đầu xương
+- Khớp sụn trong
+- Đầu xương
+- Thân xương
+
+4. KHỚP HOẠT DỊCH
+
+4.1. Cấu tạo của khớp hoạt dịch
+
+Khớp hoạt dịch là loại khớp hiện diện nhiều nhất trong cơ thể. Khớp hoạt dịch có điểm đặc biệt là sự hiện diện khoảng trống giữa các diện khớp gọi là khoang hoạt dịch
+
+(hay khoang khớp). Khoang hoạt dịch cho phép khớp vận động một cách tự do nên các khớp hoạt dịch là loại khớp động.
+
+Về cấu tạo, khớp hoạt dịch phức tạp hơn khớp sợi và khớp sụn. Một khớp hoạt dịch điển hình gồm có các thành phần là sụn khớp, bao khớp, màng hoạt dịch, các dây chằng.
+
+## 4.1.1. Bao khớp
+
+Bao khớp giống như một ống tay áo bao quanh khớp, đóng kín khoang hoạt dịch và gắn kết các xương với nhau. Bao khớp có hai lớp, lớp bao sợi ở ngoài và màng hoạt dịch lót ở trong.
+
+Bao sợi (*fibrous capsule*), còn gọi là màng sợi (*fibrous mambrane*) cấu tạo bởi mô liên kết đặc, chủ yếu là các sợi collagen, bám chung quanh vào màng ngoài xương gần đầu xương. Mặc dù bao sợi có tính chất mềm dẻo để khớp vận động dễ dàng nhưng cũng có tác dụng chống lại sự kéo giãn quá mức giúp ngăn ngừa trật khớp. Bao sợi có những chỗ dày lên tạo thành dây chằng và được gọi là dây chằng trong bao khớp. Ở một số khớp, bao khớp còn được tăng cường bởi các gân cơ.
+
+Màng hoạt dịch (*synovial membrane*) được tạo thành bởi mô liên kết thưa với các sợi đàn hồi. Màng hoạt dịch lót mặt trong bao khớp, đầu xương (trừ phần sụn khớp), dây chằng trong bao khớp, bao gân của cơ và tạo nên một túi kín gọi là túi hoạt dịch (*synovial cavity*). Ở một vài khớp, ví dụ như khớp gối, màng hoạt dịch tích tụ mô mỡ tạo thành lớp mỡ đệm dưới xương bánh chè.
+
+Màng hoạt dịch tiết ra một lượng nhỏ chất lỏng nhầy, trong, giống lòng trắng trứng và có màu vàng nhạt gọi là dịch khớp (*synovial fluid*). Ngoài tác dụng làm ẩm và bôi trơn, dịch khớp còn cung cấp oxy và chất dinh dưỡng cũng như giúp đào thải $CO_2$ cùng các chất thải trong quá trình chuyển hóa cho sụn khớp. Lượng dịch khớp thường rất ít, chỉ đủ phủ một lớp mỏng trên sụn khớp. Ví dụ như ở khớp gối, lượng dịch khớp chỉ khoảng 0,5 ml.
+
+Trong dịch khớp còn có các thực bào giúp tiêu diệt vi khuẩn và dọn dẹp các mảnh vụn do sự mòn và rách bình thường của sụn khớp. Khi khớp không vận động một thời gian dài, dịch khớp trở nên quánh lại và khi vận động, dịch khớp có tính nhờn trở lại. Khởi động trước khi chơi thể thao giúp kích thích tiết ra dịch khớp, giảm tác động có hại lên khớp trong quá trình tập luyện.
+
+Tiếng lách cách khi vận động khớp hay tiếng “rắc rắc” nghe được khi “bẻ” các khớp ngón tay có thể được giải thích theo giả thuyết như sau: khi khoang hoạt dịch giãn rộng, áp lực dịch khớp sẽ giảm, tạo ra một phần chân không có áp suất âm và tạo ra lực hút. Lực hút này kéo $CO_2$ và $O_2$ ra khỏi các mạch máu ở màng hoạt dịch, hình thành các bóng khí trong dịch khớp. Khi các bóng khí này vỡ tạo ra tiếng “rắc rắc” hoặc “lách cách” như trên.
+
 Khảo sát dịch khớp có thể giúp chẩn đoán bệnh lý liên quan đến xương khớp. Ví dụ dịch khớp có máu lẫn với các hạt mỡ gặp trong trường hợp gãy xương gần khớp hay phạm khớp. Dịch đục và có màu vàng thường gặp trong viêm khớp dạng thấp. Trong viêm khớp nhiễm trùng, dịch khớp sẽ đục, thậm chí có mủ.
 
 ### 4.1.2. Sụn khớp
@@ -852,7 +922,25 @@ Thần kinh chi phối cho khớp cũng là thần kinh chi phối cho các cơ 
 Mặc dù nhiều thành phần của khớp hoạt dịch được xem là vô mạch, nhưng các động mạch lân cận cho rất nhiều nhánh xuyên qua các dây chằng và bao khớp để cung cấp oxy và chất dinh dưỡng. Tĩnh mạch thì mang đi $CO_2$ và các chất thải từ khớp. Các nhánh động mạch từ các động mạch khác nhau thường hợp chung lại với nhau ở quanh khớp trước khi xuyên qua bao khớp. Tế bào ở sụn khớp nhận oxy và chất dinh dưỡng từ dịch khớp.
 
 ### 4.1.5. Bao gân và túi hoạt dịch
-Ở một số khớp hoạt dịch (như khớp vai, khớp gối...) có những cấu trúc dạng túi (được gọi là túi hoạt dịch - *bursae*) có tác dụng làm giảm ma sát trong quá trình vận động. Túi
+Ở một số khớp hoạt dịch (như khớp vai, khớp gối...) có những cấu trúc dạng túi (được gọi là túi hoạt dịch - *bursae*) có tác dụng làm giảm ma sát trong quá trình vận động. Túi hoạt dịch không phải là thành phần của khớp nhưng có hình dạng và cấu tạo giống như bao khớp và chứa một lượng nhỏ dịch tương tự như dịch khớp. Túi hoạt dịch có thể hiện diện ở khoảng giữa da và xương, giữa gân và xương, giữa cơ và xương hay giữa dây chằng và xương.
+
+Bao gân hay bao hoạt dịch của gân cũng có tác dụng làm giảm sự ma sát. Bao gân có dạng hình ống quấn xung quanh những gân chịu nhiều ma sát. Cơ nhị đầu cánh tay, cổ chân, cổ tay, ngón tay là những vị trí có bao gân.
+
+## 4.2. Các loại khớp hoạt dịch
+
+Mặc dù các khớp hoạt dịch tương tự nhau về cấu trúc, nhưng hình dạng các bề mặt tiếp xúc khớp có khác nhau và tạo ra các kiểu vận động khác nhau.
+
+Dựa trên hình dạng mặt khớp và kiểu vận động, các khớp hoạt dịch được chia làm sáu loại là khớp phẳng (*planar*), khớp bản lề (*hinge*), khớp xoay (*pivot*), khớp lồi cầu (*condyloid*), khớp yên ngựa (*saddle*) và khớp ổ bi (*ball and socket*).
+
+### 4.2.1. Khớp phẳng
+
+Ở khớp phẳng, bề mặt tiếp xúc của xương phẳng hoặc gần phẳng. Các khớp phẳng chủ yếu có các chuyển động trước - sau hoặc sang bên giữa các bề mặt phẳng của xương. Nhiều khớp phẳng có hai trục chuyển động vì chúng cho phép các chuyển động xung quanh hai trục. Trục là một đường thẳng mà xương xoay xung quanh khi chuyển động. Khớp ở cổ tay (giữa các xương cổ tay), các khớp ở cổ chân (giữa các xương cổ chân), các khớp ức đòn (giữa xương ức và xương đòn), các khớp vai đòn (giữa xương vai và xương đòn), các khớp ức sườn (giữa xương ức và sụn sườn từ xương sườn thứ 2 đến thứ 7) và các khớp sườn sống (giữa xương sườn và mỏm ngang đốt sống ngực) là những khớp phẳng.
+
+[Hình: Khớp phẳng]
+
+**Hình 3.5.** Khớp phẳng
+
+(Nguồn: *Gray's Anatomy*, Michael A.A.)
 
 ### 4.2.2. Khớp bản lề
 
@@ -1824,7 +1912,33 @@ Cơ tim, van tim, nội tâm mạc, lá tạng ngoại tâm mạc, phần đầu
 
 **4.1.1. Động mạch vành phải**
 
-Động mạch vành phải xuất phát từ lỗ động mạch vành phải nằm trong xoang phải động mạch chủ. Động mạch vành phải đi ra gần như thẳng góc với thành động mạch chủ,
+Động mạch vành phải xuất phát từ lỗ động mạch vành phải nằm trong xoang phải động mạch chủ. Động mạch vành phải đi ra gần như thẳng góc với thành động mạch chủ, giữa thân động mạch phổi ở phía trước và tiểu nhĩ phải ở phía sau. Động mạch đi dưới một lớp mỡ trong rãnh vành đến bờ phải tim, ôm lấy bờ phải rồi tiếp tục đi trong rãnh vành ở mặt hoành của tim đến giao điểm giữa rãnh vành và rãnh gian thất sau (sau đây gọi là "giao điểm").
+
+Trên đường đi, động mạch vành phải cho các nhánh sau đây:
+
+- Nhánh nón động mạch (còn được gọi là nhánh nón, động mạch phễu). Nhánh nón xuất phát từ phần đầu tiên của động mạch vành phải, giữa thân động mạch phổi ở phía trước và tiểu nhĩ phải ở phía sau, đến vùng phễu động mạch của thất phải và nối với một nhánh của động mạch gian thất trước. Nhánh nón có thể không xuất phát từ động mạch vành phải mà xuất phát trực tiếp từ động mạch chủ và được gọi là động mạch vành thứ ba.
+
+- Nhánh nút xoang nhĩ đi sang phải vào nhĩ phải, cấp máu cho nút xoang nhĩ và cơ của hai tâm nhĩ.
+
+- Các nhánh cho tâm nhĩ phải.
+
+- Các nhánh trước thất phải đi ở mặt trước tâm thất phải.
+
+- Nhánh bờ phải (có thể có nhiều hơn một nhánh bờ phải), lâm sàng thường gọi là nhánh bờ sắc. Nhánh này thường có kích thước lớn, xuất phát trước khi động mạch vành phải đi đến bờ phải tim. Nhánh này đi dọc bờ phải tim và thường kết thúc ở mỏm tim.
+
+- Các nhánh sau thất phải: các nhánh này đi ở mặt hoành thất phải và thường xuất phát sau khi động mạch vành phải đi qua khỏi bờ phải tim.
+
+- Nhánh nút nhĩ thất: nếu động mạch vành phải đi đến vùng "giao điểm" trong những trường hợp ưu thế thì nó cho nhánh nút nhĩ thất.
+
+- Nhánh gian thất sau (còn được gọi bằng các tên khác như động mạch xuống sau, nhánh xuống sau phải): khi động mạch vành phải đến "giao điểm" thì cho nhánh gian thất sau, nhánh này đi trong rãnh gian thất sau cùng với tĩnh mạch tim giữa.
+
+- Các nhánh sau thất trái: sau khi cho nhánh gian thất sau, động mạch vành phải có thể tiếp tục đi trong rãnh vành, qua khỏi vùng "giao điểm" và cho các nhánh sau thất trái cấp máu cho mặt hoành thất trái.
+
+## 4.1.2. Động mạch vành trái
+
+Động mạch vành trái xuất phát từ xoang trái động mạch chủ, đi ra giữa thành sau thân động mạch phổi và tiểu nhĩ trái. Đoạn đầu tiên được gọi là thân chung động mạch vành trái.
+
+Thân chung động mạch vành trái chia hai nhánh là động mạch gian thất trước và động mạch mũ. Thân chung động mạch vành trái có thể không tồn tại, khi đó, động mạch gian thất trước và động mạch mũ xuất phát trực tiếp từ động mạch chủ.
 
 ### 4.1.2.1. Động mạch gian thất trước
 
@@ -2372,6 +2486,36 @@ Từ thân sau tách ra ba nhánh:
 - **Các động mạch cùng bên**.
 
 - **Động mạch mông trên**: là nhánh tận của thân sau, chạy ra vùng mông qua khuyết ngồi lớn ở bờ dưới cơ hình lê, cấp máu cho các cơ vùng mông.
+
+13. ĐỘNG MẠCH CHẬU NGOÀI
+
+Động mạch chậu ngoài lớn hơn động mạch chậu trong, từ chỗ chia đôi của động mạch chậu chung chạy xuống dưới, ra ngoài, dọc theo bờ trong cơ thắt lưng lớn, tới điểm giữa gai chậu trước trên và khớp mu thì chạy vào vùng đùi dưới dây chằng bẹn và đổi tên thành động mạch đùi
+
+Động mạch chậu ngoài cho hai nhánh bên là động mạch thượng vị dưới và động mạch mũ chậu sâu.
+
+Động mạch thượng vị dưới chạy ngược lên trên nối với động mạch thượng vị trên của động mạch ngực trong và các động mạch dưới sườn. Động mạch đội lá phúc mạc thành của thành bụng trước tạo nên nếp rốn ngoài. Ống dẫn tinh ở nam hoặc dây chằng tròn ở nữ đi phía ngoài động mạch.
+
+Động mạch thượng vị dưới cho các nhánh sau:
+
+- Động mạch cơ bìu.
+
+- Nhánh mu nối với nhánh mu của động mạch bịt.
+
+- Các nhánh cơ cho cơ thẳng bụng nối với động mạch mũ chậu.
+
+- Các nhánh bì nối với các nhánh bì của động mạch thượng vị nông.
+
+Động mạch mũ chậu sâu đi lên trên và ra ngoài về phía gai chậu trước trên, nối với nhánh lên của động mạch mũ đùi ngoài và động mạch thượng vị dưới.
+
+
+# TĨNH MẠCH CHỦ
+
+
+## 1. TĨNH MẠCH CHỦ TRÊN
+
+Các tĩnh mạch cảnh nhận máu từ đầu, mặt, cổ cùng với tĩnh mạch dưới đòn nhận máu từ chi trên hợp lại thành tĩnh mạch cánh tay đầu. Mỗi bên có một tĩnh mạch cánh tay đầu.
+
+Hai tĩnh mạch cánh tay đầu hợp lại với nhau tạo nên tĩnh mạch chủ trên đổ vào tâm nhĩ phải. Đổ vào tĩnh mạch chủ trên còn có tĩnh mạch đơn. Đổ vào tĩnh mạch đơn có các tĩnh mạch bán đơn và tĩnh mạch bán đơn phụ. Các tĩnh mạch đơn nhận máu của các tĩnh mạch gian sườn. Các tĩnh mạch đơn được xem là cầu nối giữa tĩnh mạch chủ trên và tĩnh mạch chủ dưới.
 
 2. TĨNH MẠCH CHỦ DƯỚI
 
@@ -3222,6 +3366,32 @@ Các nhánh nối này góp phần hình thành mạng mạch quanh khớp khu�
 
 Động mạch gian cốt sau tương đối nhỏ, cấp máu cho các cơ vùng cẳng tay sau ở khoảng 1/3 giữa. Ở phần xa cẳng tay, các cơ vùng cẳng tay sau thường được cấp máu bởi các nhánh xuyên của động mạch gian cốt trước xuyên ra sau ở bờ trên cơ sấp vuông.
 
+**4.2.3.** **Nhánh mu cổ tay:** nối với nhánh mu cổ tay của động mạch quay.
+
+**4.2.4.** **Nhánh gan cổ tay:** nối với nhánh gan cổ tay của động mạch quay.
+
+**4.2.5.** **Nhánh gan tay sâu:** cùng động mạch quay tạo nên cung gan tay sâu.
+
+# **5. CUNG GAN TAY NÔNG**
+
+Cung gan tay nông được tạo nên do động mạch trụ nối với nhánh gan tay nông của động mạch quay.
+
+Động mạch trụ khi đến phía ngoài xương đậu thì chạy chếch ra ngoài, trên đường kẻ từ bờ ngoài xương đậu đến khe giữa ngón 2 và ngón 3. Sau đó, động mạch trụ đi ngang ra ngoài, trên đường ngang qua bờ dưới ngón cái (khi ngón này ở tư thế dạng) để tiếp nối với nhánh gan tay nông của động mạch quay từ vùng cổ tay xuyên qua các cơ ô mô cái đi xuống.
+
+Cung động mạch gan tay nông nằm ngay dưới lớp cân nông của ô gan tay giữa và trước các gân cơ gấp các ngón nông.
+
+Cung gan tay nông tách ra bốn động mạch gan ngón tay: nhánh thứ nhất đi vào bờ trong ngón út, ba nhánh còn lại gọi là các động mạch gan ngón chung đi vào các khoang gian cốt 2, 3, 4. Mỗi nhánh lại tách thành hai động mạch gan ngón riêng để đi tới mặt bên các ngón tay 5, 4, 3 và nửa trong ngón 2.
+
+Tóm lại, cung gan tay nông cấp máu cho ba ngón rưỡi trong.
+
+# **6. CUNG GAN TAY SÂU**
+
+Cung gan tay sâu được hình thành do động mạch quay nối với nhánh gan tay sâu của động mạch trụ.
+
+Động mạch quay từ hõm lào xuyên qua khoang gian cốt 1, chui qua giữa hai đầu của cơ khép ngón cái tới gan tay, hướng vào trong và nối với nhánh gan tay sâu của động mạch trụ. Nhánh gan tay sâu của động mạch trụ chọc qua các cơ mô út, cùng với nhánh sâu của thần kinh trụ, rồi hướng ra ngoài nối với động mạch quay.
+
+Cung gan tay sâu cho ba động mạch gan đốt bàn tay nối với ba động mạch gan ngón chung của cung gan tay nông; ba động mạch xuyên chọc qua các khoang gian cốt 2, 3, 4 ra sau nối với các động mạch mu đốt bàn tay; các nhánh quặt ngược chạy ngược lên nối với cung gan cổ tay.
+
 [Hình: Động mạch ở bàn tay. Chú thích: Động mạch quay, Động mạch trụ, Cung gan tay nông, Động mạch quay ngón trỏ. Nguồn: Netter's Atlas]
 
 **Hình 11.2. Động mạch ở bàn tay** *(Nguồn: Netter's Atlas)*
@@ -3904,7 +4074,45 @@ Ngách mũi dưới (meatus masi inferior) giới hạn xoăn mũi dưới và t
 
 Xoăn mũi giữa (concha nasalis media) là một mảnh xương thuộc xương sàng, được phủ bởi bởi niêm mạc.
 
-Ngách mũi giữa (meatus nasalis medius) rất phức tạp và quan trọng, chia làm hai ngành lên và xuống. Cắt bỏ xương xoăn mũi giữa ta sẽ thấy ở thành ngoài của ngành xuống có một cấu trúc giống như bọt nước gọi là bọt sàng (bulla ethmoidalis), phía dưới
+Ngách mũi giữa (meatus nasalis medius) rất phức tạp và quan trọng, chia làm hai ngành lên và xuống. Cắt bỏ xương xoăn mũi giữa ta sẽ thấy ở thành ngoài của ngành xuống có một cấu trúc giống như bọt nước gọi là bọt sàng (bulla ethmoidalis), phía dưới là mỏm móc. Giữa bọt sàng và mỏm móc là lỗ bán nguyệt (hiatus semilunaris). Đây là cửa của phễu sàng (infundibulum ethmoidale). Đổ vào phễu sàng là các xoang sàng trước và xoang hàm trên. Ngoài ra đổ vào ngách mũi giữa còn có xoang trán.
+
+Xoan mũi trên (concha nasalis superior) là một mảnh xương nhỏ của khối bên xương sàng. Niêm mạc mỏng và ít mạch máu hơn xoan mũi giữa và dưới.
+
+Ngách mũi trên (meatus nasalis superior) là một khe hẹp có các xoang sàng sau và xoang bướm đổ vào (trường hợp không có xoan mũi trên cùng).
+
+Xoan mũi trên cùng (concha nasalis superma) (khi có khi không), là xương xoăn nhỏ nhất có niêm mạc che phủ, 75% trường hợp có lỗ đổ của một xoang sàng sau. Ở phía trên và sau của xoan mũi này có ngách bướm sàng (recessus sphenoethmoidalis) nằm trong góc xương sàng và mặt trước thân xương bướm, tại đây có lỗ đổ của xoang bướm.
+
+## 2.5. Trần ổ mũi
+
+Trần ổ mũi gồm các thành phần sau:
+
+- Phần giữa là mảnh sàng.
+
+- Phần sau là thân xương bướm, cánh xương lá mía và mỏm bướm xương khẩu cái.
+
+- Phần trước là xương trán và xương mũi.
+
+## 2.6. Nền ổ mũi
+
+Nền ổ mũi được hợp bởi mỏm khẩu cái xương hàm trên và mảnh nằm ngang của xương khẩu cái, được niêm mạc che phủ.
+
+# 3. CÁC XOANG CẠNH MŨI (sinus paranasales)
+
+Xoang cạnh mũi là các hốc rỗng trong các xương của thành mũi. Thành các xoang được niêm mạc lót với những tế bào có lông chuyển luôn luôn rung động theo một chiều, quét các chất nhầy vào mũi. Do đó, bình thường các xoang đều rỗng, thoáng và khô.
+
+Các xoang cạnh mũi gồm có các xoang sàng, xoang trán, xoang hàm trên và xoang bướm.
+
+## 3.1. Xoang hàm trên (sinus maxillaris)
+
+Mỗi xương hàm trên có một xoang. Xoang hàm trên là xoang lớn nhất trong các xoang. Mỗi xoang có một trần, một đỉnh và ba thành.
+
+Thành trong là thành ngoài hố mũi.
+
+Thành trước tương ứng với mặt trước xương hàm trên.
+
+Thành sau là mặt dưới xương hàm trên.
+
+Đỉnh đến mỏm gò má của xương hàm trên.
 
 Trần mặt ổ mắt của xương hàm trên.
 
@@ -3934,6 +4142,24 @@ Xoang sàng nằm trong mê đạo sàng của xương sàng, ở khoảng giữ
 Hai xoang nằm trong thân xương bướm, thường không đối xứng nhau và cách nhau bởi vách xoang bướm. Mỗi xoang đổ vào phía sau ngách mũi trên bởi một lỗ xoang. Do đó, khi vỡ xương bướm máu sẽ chảy ra mũi. Trong trường hợp có ngách mũi trên cùng thì xoang bướm đổ vào ngách mũi này.
 
 Các xoang cạnh mũi, ngoài nhiệm vụ cộng hưởng âm thanh, làm ẩm niêm mạc ổ mũi, sưởi ấm không khí, còn làm nhẹ đi trọng lượng khối xương đầu mặt.
+
+4. NIÊM MẠC MŨI
+Lót mặt trong ổ mũi là lớp niêm mạc mũi (tunica mucosa nasi) phía sau liên tục với niêm mạc ở hầu. Ngoài ra niêm mạc mũi còn liên tục với niêm mạc phủ các xoang cạnh mũi. Niêm mạc mũi chia hai vùng với chức năng khác nhau:
+Vùng nhỏ ở phía trên xoang mũi trên, ở đó các sợi thần kinh khứu giác gọi là vùng khứu (*region olfactoria*). Khu này là khu phẫu thuật nguy hiểm, vì nhiễm trùng có thể theo các dây thần kinh khứu giác lên tới màng não. Sở dĩ ta ngửi được là vì không khí thở qua lỗ mũi chia hai luồng:
+Luồng chạy theo ngách mũi trên vào khu khứu giác.
+Luồng chạy theo ngách mũi giữa và dưới là luồng thở.
+Vùng lớn ở dưới xoang mũi trên gọi là vùng hô hấp (*region respiratoria*). Vùng này niêm mạc đỏ hồng thường có nhiều tuyến niêm mạc tiết ra một chất quánh cuốn với bụi đọng khô thành vảy mũi; nhiều tế bào bạch huyết và nhiều mạch máu, tạo thành một mạng chi chít bao quanh xoang mũi dưới và một điểm mạch ở thành mũi trong.
+Không khí qua mũi sẽ được lọc bụi (nhờ lông mũi và lông chuyển của các tế bào ở niêm mạc), được một phần nào làm ẩm, sát trùng (do tuyến niêm mạc) và làm ấm (do các mạch máu). Vì có nhiều mạch máu tạo thành điểm mạch nên cũng dễ đưa đến chảy máu mũi ở đây.
+Theo Van Dishock, qua hình dạng của mũi ngoài có thể chia ra hai loại mũi. Loại sống mũi lõm hay mũi hếch, lỗ mũi mở xuống dưới và ra trước là loại mũi thiên về hô hấp. Loại sống mũi lồi, lỗ mũi mở xuống và ra sau gọi là mũi quặp hay mũi diều hâu sẽ thiên về khứu giác.
+
+5. MẠCH MÁU VÀ THẦN KINH
+5.1. Động mạch
+5.1.1. Động mạch bướm khẩu cái (*a. sphenopalatine*)
+Động mạch bướm khẩu cái là nhánh của động mạch hàm. Động mạch bướm khẩu cái cho các nhánh cấp máu cho mũi:
+- Các động mạch mũi sau ngoài (*aa. nasales posteriores laterales*) cho các xoang mũi.
+- Các động mạch mũi sau vách (*aa. Nasales posteriores septi*) cho phần dưới và sau của vách mũi.
+5.1.2. Động mạch khẩu cái xuống (*a. palatina descendens*)
+Động mạch khẩu cái xuống cũng xuất phát từ động mạch hàm cấp máu cho phần sau của ổ mũi và chia làm hai nhánh:
 
 - Các động mạch khẩu cái nhỏ (*aa. palatinae minores*).
 - Động mạch khẩu cái lớn (*a. palatina major*) cấp máu cho phần trên nền ổ mũi. [không rõ]
@@ -4736,6 +4962,30 @@ Các mốc giới hạn đối chiếu của phổi là đỉnh, bờ trước, 
 - C. Lách vào các khe gian thùy
 - D. Không liên tục với màng phổi thành
 
+3. Ở đường nách giữa, bờ dưới phổi và màng phổi lần lượt ở ngang mức các xương sườn:
+A. 6 và 8 B. 7 và 9
+C. 8 và 10 D. 9 và 11
+
+4. Ngách sườn - hoành là góc nhị diện hợp bởi:
+A. Màng phổi sườn và màng phổi hoành
+B. Mặt sườn và mặt hoành của phổi
+C. Mặt sườn của phổi và cơ hoành
+D. Thành ngực và mặt hoành của phổi
+
+5. Mô tả về hình thể ngoài của phổi, chi tiết nào sau đây SAI?
+A. Gồm một đỉnh, một đáy, hai mặt và hai bờ
+B. Phổi phải có khe chếch và khe ngang
+C. Mặt trong phổi phải có hố tim
+D. Đỉnh phổi có thể nhô lên qua lỗ trên lồng ngực
+E. Đáy phổi liên quan với cơ hoành
+
+## TÀI LIỆU THAM KHẢO
+1. Nguyễn Quang Quyền (2004), “Phổi”, trong “Bài giảng Giải phẫu học, tập 2”, Nhà xuất bản Y học, trang 60-72.
+2. Nguyễn Quang Quyền (2004), “Khí quản, tuyến giáp và tuyến cận giáp”, trong sách “Bài giảng Giải phẫu học, tập 1”, Nhà xuất bản Y học, trang 397-400.
+3. Đỗ Xuân Hợp (1978), “Phổi và màng phổi” trong sách “Giải phẫu ngực”, Nhà xuất bản Y học, trang 75-111.
+4. Frank H.Netter (2007), Nguyễn Quang Quyền - Phạm Đăng Diệu, “ATLAS Giải Phẫu Người”, Nhà xuất bản Y học.
+5. Jacob and Fracone (1965), “The Respiratory System” in “Structure and Function in Man” by W.B. Saunders Company, p. 350-378.
+
 # 16. TUẦN HOÀN PHỔI
 
 TS. Nguyễn Hoàng Vũ
@@ -5437,6 +5687,59 @@ Bên phải, phần trên niệu quản và bể thận còn liên quan với ph
 
 Ở phía trong, niệu quản phải liên quan với tĩnh mạch chủ dưới, niệu quản trái liên quan với động mạch chủ bụng.
 
+Ở phía ngoài, niệu quản phải liên quan với đại tràng lên, niệu quản trái liên quan với đại tràng xuống và mạc dính của nó.
+
+## 2.2. Đoạn chậu hông
+
+Tiếp theo đoạn chậu từ eo trên tới bàng quang, niệu quản đoạn này đi cạnh động mạch chậu trong rồi chạy chếch ra ngoài và ra sau, dọc theo thành bên chậu hông. Khi tới nền chậu hông, chỗ gai ngồi, niệu quản vòng ra trước và vào trong để tới bàng quang.
+
+Đoạn chạy dọc động mạch chậu trong, niệu quản phải đi trước động mạch, niệu quản trái đi ở phía trong và sau động mạch.
+
+[Hình: Niệu quản đoạn bụng và chậu hông. (Nguồn: Gray SW, Skandalakis JE, Atlas of Surgical Anatomy for General Surgeons)]
+
+- Cơ thắt lưng lớn
+- Động mạch mạc treo tràng dưới
+- Mạch máu chậu chung
+- Kết tràng xích ma
+- Niệu quản
+- Ống dẫn tinh
+
+**Hình 18.14.** Niệu quản đoạn bụng và chậu hông (Nguồn: Gray SW, Skandalakis JE, Atlas of Surgical Anatomy for General Surgeons)
+
+Ngoài ra, cả hai niệu quản còn liên quan như sau:
+
+Phía sau niệu quản là khớp cùng chậu, cơ bịt trong, bó mạch thần kinh bịt bắt chéo phía sau niệu quản.
+
+Phía trước, niệu quản liên quan khác nhau ở nam và nữ.
+
+Ở nam, niệu quản rời thành bên chậu hông, chạy ra trước và vào trong rồi lách giữa mặt sau bàng quang và túi tinh để xuyên vào thành bàng quang. Ở đây niệu quản bị ống tinh bắt chéo phía trước.
+
+Ở nữ, khi rời thành chậu hông, niệu quản chui vào đáy dây chằng rộng, khi tới phần giữa dây chằng này thì niệu quản bắt chéo phía sau động mạch tử cung, cách cổ tử cung từ 8 đến 15 mm. Đây là một điểm rất đáng lưu ý trong phẫu thuật.
+
+Khi hai niệu quản tới cắm vào bàng quang, chúng cách nhau 5 cm (khi bàng quang rỗng). Sau đó, nó chạy chếch xuống dưới, ra trước và vào trong nên đoạn nội thành này dài khoảng 2 cm và hai lỗ niệu quản cách nhau 2,5 cm khi bàng quang rỗng và 5 cm khi đầy. Đường kính của đoạn này khoảng 3-4 mm.
+
+Nước tiểu chảy vào bàng quang không thành dòng liên tục mà thành những dòng ngắn, thời gian kéo dài từ 1 - 30 giây do tác động của sóng nhu động từ bể thận đi xuống. Khi nước tiểu chảy vào bàng quang, lỗ niệu quản sẽ mở ra khoảng 2 - 3 giây rồi khép lại cho đến khi có làn sóng nhu động kế tiếp. Lỗ niệu quản không có van nhưng do niệu quản đoạn nội thành dài, chếch và kết hợp với sự co thắt của cơ bàng quang nên nước tiểu không trào ngược từ bàng quang nên niệu quản được.
+
+## 3. MẠCH MÁU VÀ THẦN KINH
+
+### 3.1. Động mạch
+
+Đoạn trên, niệu quản nhận máu từ nhánh động mạch thượng thận, nhánh bao xơ, nhánh động mạch thận, nhánh động mạch sinh dục. Trong đó, nhánh từ động mạch thận là lớn và quan trọng nhất.
+
+Đoạn giữa, niệu quản nhận máu từ nhánh của động mạch sinh dục, nhánh động mạch chủ, nhánh của động mạch chậu chung.
+
+Đoạn dưới, niệu quản nhận máu từ động mạch chậu trong, động mạch hạ vị, động mạch bàng quang trên, động mạch bàng quang dưới.
+
+Trong ba đoạn trên, đoạn giữa kém máu nuôi nhất và đoạn dưới nhiều máu nuôi nhất.
+
+Các nhánh động mạch ở đoạn bụng khi đến thành niệu quản sẽ ở mặt trước hoặc sau của niệu quản. Các nhánh động mạch cấp máu cho thành niệu quản ở đoạn chậu sẽ ở mặt bên của niệu quản. Sau khi đến niệu quản, các nhánh động mạch chạy dọc bên dưới lớp thanh mạc tạo thành một đám rối mạch máu thông nối với nhau. Đám rối động mạch quanh niệu quản và các sợi thần kinh không myeline nằm ở lớp này, liên kết lỏng lẻo với lớp cơ.
+
+Nhờ đám rối mạch máu này mà niệu quản ít bị thiếu máu nuôi khi bóc tách (nên bảo tồn lớp thanh mạc khi phẫu thuật để tránh thiếu máu nuôi niệu quản).
+
+### 3.2. Tĩnh mạch
+
+Bắt đầu từ lớp dưới niêm, các tĩnh mạch tạo thành đám rối lan tỏa xung quanh niệu quản. Tĩnh mạch của niệu quản đoạn trên sẽ đổ về tĩnh mạch thận hoặc tĩnh mạch sinh dục. Tĩnh mạch của niệu quản đoạn dưới sẽ đổ về mạng tĩnh mạch chậu.
+
 3.3. Bạch huyết
 
 Bạch huyết của niệu quản sẽ đi theo con đường của mạng động mạch và tĩnh mạch.
@@ -5489,6 +5792,20 @@ Bàng quang nhận nước tiểu từ hai thận qua niệu quản rồi thải
 ## 1. VỊ TRÍ, HÌNH THỂ NGOÀI
 
 Bàng quang là tạng nằm dưới phúc mạc. Ở người trưởng thành và khi rỗng bàng quang nằm hoàn toàn trong chậu hông bé, ngay sau khớp mu, trên cơ nâng hậu môn và trước các tạng sinh dục và trực tràng. Khi đầy, bàng quang vượt lên trên khớp mu và tạo thành cầu bàng quang nằm trong ổ bụng. Ở trẻ nhỏ, bàng quang có hình quả lê mà cuống là ống niệu rốn và phần lớn bàng quang nằm trong ổ bụng. Khi trẻ khoảng 5-6 tuổi, bàng quang tụt hẳn xuống vùng chậu, phần ống niệu rốn hẹp dần và bít lại thành dây chằng rốn giữa hay dây treo bàng quang (*lia umbilicale medianum*). Thể tích bàng quang ở nhũ nhi và trẻ em có thể được ước lượng bằng cách thêm số 2 vào phía sau số tuổi (đơn vị ml).
+
+Ở người già, bàng quang hơi nhô lên trên về phía ổ bụng do trương lực của các cơ thành bụng yếu.
+
+Người trưởng thành, khi bàng quang rỗng có thể ví như một hình tứ giác với bốn mặt: mặt bên, mặt sau dưới (đáy bàng quang) và hai mặt dưới bên. Mặt trên và hai mặt dưới bên gặp nhau ở phía trước gọi là đỉnh bàng quang (apex vesicae) có dây chằng rốn giữa treo bàng quang vào rốn. Phần giữa đỉnh và đáy là thân bàng quang (corpus vesicae). Ở phía dưới, tại góc hợp bởi đáy và hai mặt dưới bên bàng quang là lỗ niệu đạo trong (ostium urethrae internum), qua đó bàng quang thông với niệu đạo; phần bàng quang quây xung quanh lỗ niệu đạo trong gọi là cổ bàng quang (cervix vesicae). Khi bàng quang đầy, các bờ tròn lại và biến mất, bàng quang có hình trứng. Phúc mạc của thành bụng trước bị đẩy lên theo, ở phần trước các mặt dưới bên trở thành mặt trước áp vào thành bụng trước ở vùng hạ vị, trên gò mu và không có phúc mạc che phủ.
+
+[Hình: Phần giữa cơ dọc sau, Lớp dọc trong, Phần bên bó dọc sau, Lớp vòng giữa, Tam giác nông, Cung cơ trơn bàng quang, Bó dọc trước]
+
+Hình 18.17. Các lớp cơ bàng quang
+
+(Nguồn: Gray SW, Skandalakis JE. Atlas of Surgical Anatomy for General Surgeons)
+
+Trên thiết đồ đứng dọc, bàng quang có hình chữ Y. Hai thành trước, sau chếch xuống dưới, cổ bàng quang ở dưới thông với niệu đạo. Mặt trên bàng quang trũng xuống hình tam giác, nền ở sau và hai góc có hai niệu quản thông vào. Đỉnh ở trên có dây treo bàng quang dính tới rốn. Khi bàng quang đầy, mặt trên vồng lên, mặt trước bàng quang áp vào vùng hạ vị ở trên gò mu.
+
+Nói chung, bàng quang nằm trong chậu hông bé, ở trong bàng quang giống cái phễu và được giới hạn: đáy là hoành chậu hông của đáy chậu, nắp là phúc mạc, thành trước bên là cân rốn trước bàng quang và thành sau là cân sinh dục phúc mạc (cân Dénonvillier).
 
 ## 2. LIÊN QUAN
 
@@ -5546,6 +5863,27 @@ Về liên quan với phúc mạc thì có hai trường hợp. Nếu bàng quan
 ## 2.3. Mặt trên
 
 Qua phúc mạc, bàng quang liên quan với các quai ruột non, ở nữ còn liên quan với tử cung và dây chằng rộng.
+
+2.4. Mặt sau dưới
+
+Mặt sau dưới còn gọi là đáy bàng quang. Mặt này liên quan với các tạng sinh dục và trực tràng. Ở nam, mặt sau bàng quang có túi tinh, ống dẫn tinh, niệu quản (đoạn chậu) xa hơn là trực tràng. Ở nữ giới, bàng quang liên quan ở 1/3 trên với cổ tử cung, 2/3 dưới với âm đạo, xa hơn là trực tràng.
+
+Với phúc mạc, sau khi bọc mặt sau dưới bàng quang, lật lên phủ các tạng sinh dục - trực tràng, tạo thành các túi cùng. Đặc biệt túi cùng sâu nhất là túi cùng lách giữa tạng sinh dục và trực tràng gọi là túi cùng tử cung - trực tràng (hay túi cùng Douglase).
+
+3. HÌNH THỂ TRONG
+
+Mặt trong bàng quang được che phủ bởi một lớp niêm mạc có màu hồng. Khi bàng quang rỗng, niêm mạc xếp nếp tạo nên các nếp niêm mạc. Khi bàng quang căng, các nếp niêm mạc mất đi.
+
+Hai lỗ niệu quản đổ vào bàng quang cùng với lỗ niệu đạo tạo thành một tam giác cân nằm ở mặt sau dưới của bàng quang gọi là tam giác bàng quang (tam giác Lieutaud ở nam và tam giác Pawllix ở nữ). Giữa hai lỗ niệu quản, niêm mạc nổi gờ lên tạo nên nếp gian niệu quản. Giữa tam giác và lỗ niệu đạo trong có một chỗ nổi gờ lên của niêm mạc gọi là lưỡi bàng quang.
+
+[Hình: Cơ thành bụng, Phúc mạc, Khoang Retzius, Cơ ngồi hang, Trung tâm đáy chậu, Lá trước mạc sinh dục - trực tràng, Khoang Proust, Lá sau mạc sinh dục - trực tràng, Mạc trực tràng]
+
+**Hình 18.20.** Khoang trước và sau bàng quang
+(Nguồn: Gray SW, Skandalakis JE. Atlas of Surgical Anatomy for General Surgeons)
+
+4. CẤU TẠO
+
+Thành bàng quang có bốn lớp, theo thứ tự từ ngoài vào trong là *lớp thanh mạc, lớp cơ, lớp dưới niêm mạc, lớp niêm mạc*.
 
 Lớp thanh mạc chính là phúc mạc, lớp tổ chức liên kết bọc ngoài cùng những chỗ không có phúc mạc che phủ.
 

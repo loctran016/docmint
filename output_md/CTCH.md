@@ -62,6 +62,22 @@ Tu chỉnh là quá trình chu chuyển xương lúc còn nhỏ (tuổi vị th�
 
 Không giống như tu chỉnh chỉ có hủy xương hoặc tạo xương tại một vị trí, quy trình tái tu chỉnh luôn xảy ra theo trình tự kích hoạt, hủy xương, và tạo xương sẽ giải thích dưới đây. Tái tu chỉnh có chức năng phân hủy những mảng xương cũ hay xương bị tổn hại, và thay thế bằng những mảng xương mới. Quá trình tái tu chỉnh diễn ra liên tục.
 
+(suốt đời), với 25% lượng xương xốp và 5% lượng xương đặc có thể được thay đổi trong vòng một năm.
+
+## 1.1. Tế bào
+
+Ở bậc phân tử, xương được cấu thành từ 4 loại tế bào chính: tế bào tạo xương (osteoblast), tế bào hủy xương (osteoclast), cốt bào (osteocyte) và tế bào liên kết (lining cells). Những tế bào này tương tác với một số chất khoáng, protein, hormone, và các phân tử khác để nuôi dưỡng xương, liên tục đục bỏ xương cũ và thay bằng xương mới qua quá trình tái tu chỉnh (Bảng 1.2).
+
+Tế bào tạo xương (và cả cốt bào) có nguồn gốc từ các tế bào gốc có tên là tế bào mầm trung mô (mesenchymal stem cell – MSC). Những tế bào MSC khi đặt trong điều kiện thích hợp có thể chuyển hóa thành tế bào xương, nhưng trong điều kiện khác chúng cũng có thể trở thành tế bào cơ, mỡ, hoặc sụn. MSC cần hai yếu tố để sản xuất tế bào tạo xương: đó là Runx2 và Osterix.
+
+Tế bào tạo xương chỉ "thọ" khoảng 3 tháng tuổi. Trong quá trình tái tu chỉnh, tế bào tạo xương tạo ra những lớp xương và góp phần tạo lực của xương.
+
+**Cốt bào**: một số tế bào tạo xương được "chôn" trong các lớp xương, và sau này sẽ trở thành cốt bào. Cốt bào rất phổ biến, chiếm đến 95% số tế bào có mặt trong xương. Cốt bào có tuổi thọ trung bình là 25 năm.
+
+**Tế bào liên kết**: những tế bào tạo xương còn lại nằm trên bề mặt của xương, và chúng được gọi là tế bào liên kết (Hình 1.1). Các cốt bào liên kết với nhau, và liên kết với các tế bào tạo xương, hình thành một mạng tế bào có chức năng chuyển giao tín hiệu và chuyển giao các chất dinh dưỡng trong xương.
+
+**Tế bào hủy xương**: là những tế bào xuất phát từ tế bào tạo máu. Tế bào hủy xương có chức năng đục bỏ xương cũ hay xương bị tổn hại qua một quá trình phân hủy chất khoáng gọi là hủy xương. Trong điều kiện bình thường, chức năng của tế bào hủy xương và tế bào tạo xương hoạt động song song và mức độ tương đương nhau, với tín hiệu của loại tế bào này ảnh hưởng đến loại tế bào kia. Trong điều kiện bình thường như thế, lượng xương bị đào thải bằng lượng xương mới thay vào (Hình 1.2).
+
 Bảng 1.1. Tu chỉnh và tái tu chỉnh xương
 
 | Đặc tính | Tu chỉnh (modeling) | Tái tu chỉnh (remodeling) |
@@ -100,7 +116,21 @@ Quá trình xảy ra theo trình tự: khởi động (activation), phân hủy 
 
 Nguồn: Hồ Phạm Thục Lan (2011), "Sinh lý học loãng xương", Thời sự y học, số 62.
 
-bào hủy xương để lại. Quá trình tái tu chỉnh xảy ra tại những vị trí gần trên bề mặt của xương, và ngay phía dưới các tế bào liên kết (Hình 1.2).
+**Sơ đồ: Mối tương tác giữa các dòng tế bào tạo xương và hủy xương**
+- Tế bào tạo máu --> Nguyên bào (proginator) --> Tiền bào hủy xương (pre-osteoclast) --> Tiền bào hủy xương hoàn chỉnh
+- Tiền bào mầm tạo xương
+  - PTH, 1,25D, PGE2, IL-1, etc --> (+) RANKL
+  - (-) OPG
+- c-fms --> Nguyên bào (proginator)
+- m-CSF --> c-fms
+- RANKL --> RANK
+- OPG -| RANK
+
+**Hình 1.2.** Mối tương tác giữa các dòng tế bào tạo xương và hủy xương Các tế bào tạo xương sản sinh ra nhiều protein, và các protein này có chức năng kiểm soát quá trình tạo xương. Một protein có tên là **macrophage colony stimulating factor (M-CSF)**, qua tương tác với thụ thể M-CSF làm tăng các tế bào tạo xương. Các tế bào hủy xương còn sản sinh ra một protein khác có tên là **receptor activator of nuclear factor kappa B ligand (RANKL)**. RANKL liên kết với một thụ thể trên tế bào hủy xương (RANK) và kích thích chúng chuyển hóa thành những tế bào hủy xương hoàn chỉnh. Mối tương tác giữa RANK/RANKL còn làm tăng mức độ hủy xương. Tế bào hủy xương còn sản sinh ra một protein khác có tên là **osteoprotegerin (OPG)**, là protein được tiết ra và liên kết với RANKL làm ngăn chặn tế bào hủy xương không cho tương tác với RANK, do đó có chức năng làm giảm số tế bào hủy xương. Các hormone và yếu tố nội tại như **hormone cận giáp (PTH)**, **calcitriol hay 1,25–dihydroxy D (1,25D)**, **prostaglandin F2 (PGF2)** và **interleukin–1 (IL-1)** tương tác với các tế bào tạo xương để gia tăng sản sinh RANKL và giảm sản sinh OPG. Sự cân đối giữa RANKL và OPG quyết định lượng xương bị mất bao nhiêu. Nguồn: Hồ Phạm Thục Lan (2011), "Sinh lý học loãng xương", Thời sự y học, số 62.
+
+## 1.2. Quá trình tái tu chỉnh
+
+Bộ xương liên tục sửa chữa và tự làm mới trong một quá trình có tên là tái tu chỉnh (Hình 1.2). Quá trình này có chức năng duy trì mật độ xương ở mức tối ưu. Ngoài ra, quá trình tái tu chỉnh còn có chức năng sửa chữa những xương bị tổn hại, kể cả những xương bị “vi nứt” (microcrack) hay gãy xương. Tại sao xương bị suy giảm và mật độ xương bị mất? Xương bị suy giảm khi các tế bào hủy xương tạo ra những lỗ phân hủy sâu, hoặc khi các tế bào tạo xương không có khả năng lấp vào những lỗ hồng do các tế bào hủy xương để lại. Quá trình tái tu chỉnh xảy ra tại những vị trí gần trên bề mặt của xương, và ngay phía dưới các tế bào liên kết (Hình 1.2).
 
 Việc phân hủy xương cũ và thay thế xương mới trong quá trình tái tu chỉnh xảy ra theo trình tự 4 bước: khởi động, phân hủy, tạm ngưng, và tạo xương (Hình 1.2). Trong giai đoạn khởi động, các dòng tế bào tạo xương tương tác với các tế bào tạo máu để sản sinh ra các tế bào hủy xương, bắt đầu bằng sự kích thích tế bào xương từ những vi tổn thương của mô xương, làm tế bào này tiết ra các chất hóa học được dẫn truyền tới tế bào liên kết, và tế bào liên kết trình diện (expression) yếu tố RANKL trên bề mặt kích hoạt sự tạo thành tế bào hủy xương từ tế bào tạo máu. Đến giai đoạn phân hủy, một “đội quân” tế bào hủy xương đục bỏ những xương bị tổn hại hay xương cũ bằng cách phân hủy các chất khoáng và để lại những lỗ hổng trên bề mặt xương. Sau đó là một giai đoạn trung gian ngắn được gọi là giai đoạn “tạm ngưng” (reversal phase) để các tế bào đơn nhân giống đại thực bào thu dọn các mảnh vụn được thải ra trong quá trình phân hủy xương, các tế bào tạo xương xuất hiện và bắt đầu sửa chữa những xương bị tổn hại bằng xương mới. Trong quá trình này, một số tế bào tạo xương còn lưu lại trong mô xương và được chuyển hóa thành các tế bào xương thật sự (osteocyte). Một khi xương mới được khoáng hóa, quá trình tái tu chỉnh coi như hoàn tất trong một vùng xương nào đó, quá trình tạo xương chấm dứt, tiếp theo đó là khoảng bất động (quiescence) cho tới khi bắt đầu một quá trình tái tu chỉnh mới.
 
@@ -351,6 +381,25 @@ Trường hợp tăng $\text{T}_3-\text{T}_4$ kéo dài sẽ ức chế tăng si
 
 Bệnh xương do nội tiết và chuyển hóa gồm: nhuyễn xương (osteomalacia) và còi xương (ricket), loãng xương (osteoporosis), cường cận giáp nguyên phát (primary hyper-parathyroidism), loạn dưỡng xương do bệnh thận (renal osteodystrophy).
 
+6.1. Còi xương (rickets) và nhuyễn xương (osteomalacia)
+
+Còi xương và nhuyễn xương được đặc trưng bởi tình trạng xương không được khoáng hóa, chất căn bản chỉ có thành phần hữu cơ làm cho xương trở nên mềm dễ bị biến dạng.
+
+Nguyên nhân của còi xương và nhuyễn xương là do thiếu vitamin D.
+
+- Còi xương: xảy ra ở trẻ em chủ yếu do thiếu tiếp xúc với ánh sáng mặt trời làm giảm tổng hợp vitamin D. Lượng calci trong máu giảm khiến xương không được khoáng hóa, biến dạng, trẻ không phát triển được đồng thời tuyến cận giáp tăng cường hoạt động gây phá hủy xương càng làm cho xương yếu hơn.
+- Nhuyễn xương: xảy ra ở người lớn do rối loạn hấp thu mỡ làm giảm hấp thu vitamin D hoặc tổn thương thận là giảm tổng hợp 1,25-dihydroxy-cholecalciferol. Xương sẽ trở nên yếu đi.
+
+6.2. Loãng xương (osteoporosis)
+
+Tháng 10/1990, Hội nghị Châu Âu về loãng xương đã thống nhất định nghĩa loãng xương là một bệnh được đặc trưng bởi khối lượng xương thấp tới mức làm cho xương trở nên xốp, giòn và dễ gãy. Nguyên nhân là do xương bị mất chất căn bản cả thành phần hữu cơ và vô cơ gây ra đau vùng xương chịu tải, biến dạng xương, gãy xương khi có chấn thương nhẹ.
+
+Loãng xương thường gặp ở người lớn tuổi.
+
+- Loãng xương nguyên phát: là giai đoạn cuối của tiến trình mất xương sinh lý phụ thuộc vào đỉnh khối xương đạt được ở thời kỳ trưởng thành và tốc độ mất xương hàng năm. Việc điều trị dự phòng phải bắt đầu từ nhỏ bằng chế độ dinh dưỡng và sinh hoạt thích hợp cho việc xây dựng đỉnh khối xương tốt nhất. Loãng xương nguyên phát gồm 2 loại:
+  + Loãng xương mãn kinh (loãng xương nguyên phát typ I): là dạng loãng phần bè xương có liên quan với sự thiếu estrogen ở thời kỳ đầu mãn kinh. Tổn thương điển hình thường xảy ra ở những nơi có nhiều bè xương như cột sống, đầu dưới xương quay, xương chày. Mật độ xương giảm thấp khi mất tác dụng của estrogen trên xương vào thời kỳ mãn kinh sẽ được nhân lên nhiều lần dẫn đến loãng xương nếu kết hợp thêm các yếu tố nguy cơ nội sinh, ngoại sinh.
+  + Loãng xương tuổi già (loãng xương nguyên phát typ II): đây là dạng loãng phần vỏ xương thường gặp ở cả hai giới sau 75 tuổi với tỷ lệ nữ so với nam là 2/1. Loãng xương typ II là hậu quả của sự mất xương chậm trong vòng vài chục năm có liên quan tới hai yếu tố quan trọng là giảm hấp thu calci, giảm
+
 chức năng tạo cốt bào dẫn tới cường cận giáp thứ phát. Tổn thương điển hình là gãy cổ xương đùi, gãy lún các đốt sống.
 
 - Loãng xương thứ phát: xảy ra do bất động kéo dài và sau chấn thương; bệnh nội tiết như hội chứng Cushing, cường aldosteron, suy tuyến sinh dục, bệnh Basedow, to đầu ngón ...; bệnh ống tiêu hóa, thiếu dinh dưỡng như hội chứng kém hấp thu, cắt đoạn dạ dày, thức ăn thiếu calci, bệnh Scorbut, nghiện rượu; các nguyên nhân khác như ung thư, bệnh phổi tắc nghẽn mạn tính, bệnh gan, thận mạn tính, đái đường, viêm khớp mạn, lạm dụng một số loại thuốc...
@@ -396,7 +445,93 @@ B. Khối lượng xương
 C. Lượng xương đỉnh
 D. Chu chuyển xương
 
-Đáp án: 1B, 2B, 3A, 4B, 5B protein nhưng lại khác nhau về thành phần và chức năng của glycosaminoglycan. Decorin và biglycan có 1 và 2 chuỗi dermatan sulfate tương ứng, trong khi fibromodulin chỉ có một số chuỗi keratin sulfate. Decorin và fibromodulin tương tác với các sợi collagen loại II trong chất nền và có vai trò trong tương tác sinh sợi và nội sợi. Biglycan được tìm thấy chủ yếu ở xung quanh các tế bào sụn, nơi có thể tương tác với collagen VI.
+Đáp án: 1B, 2B, 3A, 4B, 5B
+
+# CHUYỂN HÓA SỤN KHỚP Hoàng Đức Thái, Ngô Viết Nhuận
+MỤC TIÊU HỌC TẬP
+1. Mô tả các tầng cấu trúc của sụn khớp.
+2. Mô tả chức năng của các thành phần cấu tạo nên sụn khớp.
+3. Phân tích quá trình chuyển hóa của sụn khớp.
+4. Phân tích chức năng cơ sinh học của sụn khớp bằng các hiểu biết về cấu trúc và chuyển hóa sụn khớp.
+5. Phân tích những thay đổi của sụn khớp theo tuổi từ đó rút ra những thay đổi của sụn khớp trong thoái hóa khớp.
+
+1. MỞ ĐẦU
+Sụn khớp là mô liên kết đặc trưng của các khớp động. Chức năng chính của sụn khớp là cung cấp một bề mặt trơn nhẵn cho khớp và tạo điều kiện cho việc truyền các tải trọng với một hệ số ma sát thấp (Hình 2.1). Sụn khớp không có mạch máu, bạch huyết và thần kinh; là nơi phải chịu nhiều tác động của lực cơ học. Điều quan trọng nhất là khả năng lành thương và sửa chữa nội tại của sụn khớp rất hạn chế vì vậy việc bảo tồn và sức khoẻ của sụn khớp là điều quan trọng nhất đối với sức khoẻ của khớp.
+Tổn thương sụn khớp là nguyên nhân quan trọng gây ra bệnh cơ xương. Cấu tạo độc đáo và phức tạp của sụn khớp làm cho việc điều trị và sửa chữa hoặc phục hồi các khuyết tật trở thành thách thức đối với bệnh nhân, bác sĩ phẫu thuật, và nhà vật lý trị liệu. Việc bảo tồn sụn khớp phụ thuộc rất nhiều vào việc duy trì cấu trúc của nó.
+
+[Hình: Hình ảnh đại thể của sụn khớp bình thường ở gối người lớn. Nguồn: tư liệu nghiên cứu.]
+
+Hình 2.1. Hình ảnh đại thể của sụn khớp bình thường ở gối người lớn
+Nguồn: tư liệu nghiên cứu.
+
+33
+
+2. CẤU TRÚC VÀ THÀNH PHẦN CỦA SỤN KHỚP
+
+Sụn khớp là sụn hyaline dày 2 đến 4 mm. Không giống như hầu hết các mô, sụn khớp không có mạch máu, thần kinh, hoặc bạch huyết. Sụn khớp chứa một lớp chất nền ngoại bào (ECM) dày cùng với những tế bào biệt hóa cao phân bố thưa thớt gọi là tế bào sụn. ECM chủ yếu bao gồm nước, collagen và proteoglycan, cùng một ít các protein không có collagen và glycoprotein khác. Các thành phần này cùng nhau giữ nước trong ECM, điều này rất quan trọng trong việc duy trì các đặc tính cơ học độc đáo của sụn khớp.
+
+Tế bào sụn cùng với sợi collagen siêu cấu trúc và ECM, hiện diện ở các tầng sụn khớp khác nhau – tầng bề mặt, tầng giữa, tầng sâu, và tầng bị calci hóa (Hình 2.2). Ở giữa mỗi tầng là 3 vùng – vùng quanh tế bào, vùng tế bào chính, và vùng giáp ranh.
+
+[Hình: A. Mặt sụn, STZ, Vùng giữa, Vùng sâu, Vùng calci hoá, Xương dưới sụn, Tế bào sụn, Dấu thủy triều; B. Mặt sụn, STZ, Vùng giữa, Vùng sâu, Vùng calci hoá, Xương dưới sụn, Dấu thủy triều, Xương xốp]
+
+**Hình 2.2.** Sơ đồ mặt cắt ngang của sụn khớp bình thường
+*A: tổ chức tế bào trong các tầng sụn khớp; B: cấu trúc sợi collagen. Nguồn: Sophia Fox, A. J., Bedi, A., & Rodeo, S. A. (2009) [1].
+
+2.1. Các tầng
+
+Tầng bề mặt mỏng (tầng tiếp tuyến) chiếm khoảng 10% đến 20% độ dày sụn khớp, giúp bảo vệ các lớp ở sâu hơn khỏi lực trượt khi chuyển động.
+
+Các sợi collagen ở tầng này (chủ yếu là collagen loại II và IX) được kết chặt thẳng hàng và song song với bề mặt khớp (Hình 2.2). Lớp bề mặt chứa một lượng khá lớn các lớp tế bào sụn dẹt, cần giữ cho lớp này được toản vẹn để bảo vệ và duy trì các lớp sâu hơn. Tầng này tiếp xúc với dịch khớp và đảm nhiệm hầu hết các đặc tính căng giãn của sụn, cho phép chống lại các lực thẳng đứng, căng và nén do khớp gây ra.
+
+Ngay dưới tầng bề mặt là tầng giữa (chuyển tiếp). Đây là một cầu nối giải phẫu và chức năng giữa bề mặt và những tầng sâu bên dưới. Tầng giữa chiếm từ 40% đến 60% tổng thể tích sụn, chứa proteoglycans và các sợi collagen dày hơn. Ở lớp này, collagen được phân bố chéo, các tế bào sụn có hình cầu và mật độ thấp. Về mặt chức năng, tầng giữa là nơi đầu tiên để kháng với lực nén.
+
+Tầng sâu là tầng chống lại lực nén mạnh nhất, do các sợi collagen được sắp xếp vuông góc với bề mặt khớp. Tầng sâu có chứa các sợi collagen có đường kính lớn nhất được bố trí ly tâm. Đây là tầng có hàm lượng proteoglycan cao nhất, nằm sâu nhất, song song với các sợi collagen và vuông góc với khớp nối. Tầng sâu chiếm khoảng 30% thể tích sụn khớp.
+
+Dấu hiệu thùy triều giúp phân biệt giữa tầng sâu với sụn bị calci hóa. Với hàm lượng proteoglycan cao, tầng sâu chịu trách nhiệm lớn nhất trong việc chống lại lực nén. Lưu ý, các sợi collagen được bố trí vuông góc với sụn khớp. Lớp sụn bị vôi hóa đóng một vai trò không thể thiếu trong việc bảo vệ sụn và xương bằng cách neo các sợi collagen ở tầng sâu vào xương dưới sụn. Trong tầng này, số lượng tế bào rất hiếm còn tế bào sụn thì phì đại.
+
+## 2.2. Các vùng
+
+Ngoài những khác biệt cấu trúc và thành phần, chất nền ở các tầng còn khác nhau về các tế bào sụn, thành phần, đường kính và cách sắp xếp sợi collagen. ECM có thể được chia thành vùng quanh tế bào, vùng tế bào chính, và vùng giáp ranh.
+
+Chất nền quanh tế bào là một lớp mỏng nằm sát màng tế bào, và bao quanh toàn bộ các tế bào sụn. Vùng này chủ yếu chứa các proteoglycans cũng như các glycoprotein và các protein không collagen khác. Chất nền tầng này có thể đóng một vai trò trong việc bắt đầu truyền tín hiệu chịu tải trọng trong sụn. Chất nền tế bào chính bao quanh chất nền quanh tế bào; bao gồm hầu hết các sợi collagen tốt, tạo thành một mạng lưới rổ xung quanh các tế bào. Tầng này dày hơn chất nền quanh tế bào và có thể bảo vệ các tế bào sụn chống lại các áp lực cơ học, góp phần làm đàn hồi cấu trúc sụn khớp và khả năng chịu được tải trọng đáng kể.
+
+Vùng giáp ranh là vùng lớn nhất trong 3 vùng chất nền; đóng góp phần lớn vào các đặc tính cơ học của sụn khớp. Tầng này được đặc trưng bởi các bó sợi collagen lớn được bố trí ngẫu nhiên, song song với bề mặt của tầng mặt, chéo ở tầng giữa và vuông góc với bề mặt khớp ở tầng sâu. Proteoglycans ở vùng giáp ranh rất phong phú.
+
+2.3. Các thành phần của sụn khớp
+
+2.3.1. Tế bào sụn
+
+Tế bào sụn là loại tế bào hiện diện trong sụn khớp. Chúng là những tế bào hoạt động có tính biệt hóa cao và hoạt động chuyển hóa mạnh, có vai trò đặc biệt trong sự phát triển, duy trì và sửa chữa ECM. Tế bào sụn có nguồn gốc từ các tế bào gốc trung mô, chiếm khoảng 2% tổng thể tích của sụn khớp. Tùy theo vùng giải phẫu của sụn khớp mà các tế bào sụn sẽ khác nhau về hình dạng, số lượng và kích thước. Các tế bào sụn trong tầng mặt mỏng, nhỏ và thường có mật độ lớn hơn so với các tế bào nằm sâu hơn trong chất nền (Hình 2.2).
+
+Mỗi tế bào sụn tạo ra một vi môi trường chuyên biệt và chịu trách nhiệm luân chuyển ECM trong vùng lân cận. Vì môi trường này chủ yếu giữ cho các tế bào sụn nằm trong chất nền, ngăn chúng di chuyển đến các khu vực lân cận của sụn. Hiếm khi các tế bào sụn tạo ra sự tiếp xúc giữa tế bào với tế bào để truyền tải tín hiệu trực tiếp giữa các tế bào. Tuy nhiên, tế bào sụn đáp ứng với nhiều kích thích khác nhau, bao gồm các yếu tố tăng trưởng, tải cơ học, lực áp điện, và áp lực thủy tĩnh. Thật không may, các tế bào sụn có tiềm năng nhân đôi rất hạn chế, điều này làm hạn chế khả năng hồi phục nội tại của sụn khớp trong đáp ứng chấn thương. Sự sống còn của tế bào sụn còn phụ thuộc vào môi trường hóa học và cơ học tối ưu.
+
+2.3.2. Chất nền ngoại bào
+
+Trong sụn khớp bình thường, dịch mô chiếm từ 65% đến 80% tổng khối lượng. Collagen và proteoglycan chiếm khối lượng khô còn lại. Một số loại phân tử khác có thể được tìm thấy với số lượng ít hơn trong ECM; bao gồm lipid, phospholipid, các protein không chứa collagen và các glycoprotein.
+
+2.3.3. Nước
+
+Nước là thành phần dồi dào nhất trong sụn khớp, góp phần lên tới 80% trọng lượng ướt. Khoảng 30% lượng nước này có liên quan đến khoảng nội sợi trong collagen, mặc dù chỉ có một tỷ lệ phần trăm nhỏ được chứa trong khoảng nội bào, phần còn lại được chứa trong khoảng lỗ (pore space) của chất nền. Các ion vô cơ như natri, calci, clorua, và kali được hòa tan trong nước ở mô.
+
+Nồng độ nước giảm tương đối từ khoảng 80% ở tầng mặt xuống còn 65% ở tầng sâu. Ngoài việc bôi trơn sụn khớp, dòng chảy của nước qua sụn và trên bề mặt sụn khớp giúp vận chuyển và cung cấp chất dinh dưỡng cho các tế bào sụn.
+
+Phần lớn nước bên trong sợi tồn tại dưới dạng gel, và hầu hết có thể được chuyển qua ECM bằng gradient áp suất trên mô hoặc nén chất nền rắn. Kháng trở ma sát đối với dòng chảy này qua chất nền rất cao; do đó, độ thẩm thấu của mô rất thấp.
+
+Đó là sự kết hợp của kháng trở ma sát với dòng nước và áp suất nước trong chất nền tạo nên 2 cơ chế cơ bản, nhờ đó sụn khớp có khả năng chịu tải trọng đáng kể, thường gặp nhiều lần so trọng lượng cơ thể của một người.
+
+## 2.3.4. Collagen
+
+Collagen là đại phân tử cấu trúc nhiều nhất trong ECM, chiếm khoảng 60% khối lượng khô của sụn. Collagen loại II chiếm 90% đến 95% collagen trong ECM, tạo thành fibril và sợi gắn với proteoglycan kết hợp. Các loại collagen I, IV, V, VI, IX, và XI cũng hiện diện nhưng chỉ với tỷ lệ nhỏ. Các collagen thiểu số giúp hình thành và ổn định mạng lưới sợi collagen loại II.
+
+Có ít nhất 15 loại collagen khác nhau chứa hơn chuỗi polypeptide. Tất cả các loại collagen đều chứa một vùng bao gồm 3 chuỗi polypeptide tạo thành một chuỗi xoắn ba. Thành phần acid amin của chuỗi polypeptide chủ yếu là glycine và proline, giúp ổn định hydroxyproline thông qua các liên kết hydro dọc theo chiều dài của phân tử. Cấu trúc xoắn ba của chuỗi polypeptide giúp sụn khớp có những đặc tính trượt và co giãn quan trọng, giúp ổn định chất nền.
+
+## 2.3.5. Proteoglycan
+
+Proteoglycan là các monome protein glycosolate nặng. Trong sụn khớp, proteoglycan đại diện cho một nhóm các đại phân tử lớn thứ hai trong ECM và chiếm từ 10% đến 15% trọng lượng ướt. Proteoglycans bao gồm một lõi protein với một hoặc nhiều chuỗi glycosaminoglycan đường liên kết cộng hóa trị. Các chuỗi này có thể bao gồm hơn 100 monosaccharide kéo dài ra khỏi lõi protein và tách khỏi nhau do lực đẩy tích điện. Sụn khớp có chứa nhiều proteoglycans như aggrecan, decorin, biglycan và fibromodulin, cần thiết cho những chức năng bình thường.
+
+Aggrecan là một proteoglycan có kích thước lớn nhất và nặng nhất, chứa hơn 100 chuỗi chondroitin sulfate và keratin sulfate. Aggrecan được đặc trưng bởi khả năng tương tác với hyaluronan (HA) để tạo thành các proteoglycan lớn dạng kết hợp thông qua các protein liên kết (Hình 2.3). Aggrecan chiếm diện tích nội sợi của ECM sụn và cung cấp các đặc tính thẩm thấu cho sụn, điều này rất quan trọng đối với khả năng chống lại các lực nén.
+
+Các proteoglycan không kết hợp được đặc trưng bởi khả năng tương tác với collagen. Mặc dù decorin, biglycan và fibromodulin nhỏ hơn rất nhiều so với aggrecan nhưng chúng lại có số mol bằng nhau. Các phân tử này có mối liên hệ chặt chẽ với cấu trúc protein nhưng lại khác nhau về thành phần và chức năng của glycosaminoglycan. Decorin và biglycan có 1 và 2 chuỗi dermatan sulfate tương ứng, trong khi fibromodulin chỉ có một số chuỗi keratin sulfate. Decorin và fibromodulin tương tác với các sợi collagen loại II trong chất nền và có vai trò trong tương tác sinh sợi và nội sợi. Biglycan được tìm thấy chủ yếu ở xung quanh các tế bào sụn, nơi có thể tương tác với collagen VI.
 
 [Hình: Chất nền ngoại bào của sụn khớp]
 - Aggrecan
@@ -421,7 +556,41 @@ Mặc dù có một số protein không collagen và glycoprotein được tìm 
 
 ## 3. CHUYỂN HÓA SỤN KHỚP
 
-Ở người lớn, chất nền sụn khớp được tách với vùng mạch máu dưới sụn bằng đĩa dưới sụn. Sụn khớp dinh dưỡng nhờ sự khuếch tán từ chất hoạt dịch. Chất nền sụn hạn chế các chất đi qua theo kích cỡ, điện tích và cấu trúc phân tử. Theo ước tính, kích thước lỗ lọc trung bình trong ECM khoảng 6,0 nm. Nếu không được cung cấp các chất thay đổi như đông đặc thành dải hoặc xơ cứng dưới sụn có thể được ghi nhận trên hình ảnh cộng hưởng từ (MRI), những thay đổi này thường có liên quan với mô hình phù tủy xương trong quá trình thoái hóa sụn. Việc giữ hằng định nội môi cho ECM là rất quan trọng để duy trì sụn khớp.
+Ở người lớn, chất nền sụn khớp được tách với vùng mạch máu dưới sụn bằng đĩa dưới sụn. Sụn khớp dinh dưỡng nhờ sự khuếch tán từ chất hoạt dịch. Chất nền sụn hạn chế các chất đi qua theo kích cỡ, điện tích và cấu trúc phân tử. Theo ước tính, kích thước lỗ lọc trung bình trong ECM khoảng 6,0 nm. Nếu không được cung cấp các chất dinh dưỡng trực tiếp từ mạch máu hoặc mạch bạch huyết thì tế bào sụn sẽ chuyển sang chuyển hóa yếm khí là chính.
+
+Tế bào sụn có trách nhiệm duy trì, phát triển và sửa chữa ECM thông qua một nhóm enzyme thoái biến. Tế bào sụn tổng hợp các thành phần của chất nền bao gồm các protein và glycosaminoglycan chuỗi bên. Các hoạt động chuyển hóa của tế bào sụn có thể bị thay đổi bởi một loạt các yếu tố trong hóa chất xung quanh và môi trường cơ học. Các cytokine tiền viêm có tác dụng dị hóa và đồng hóa giúp thoái biến và tổng hợp các đại phân tử trong chất nền.
+
+Proteoglycan được các tế bào sụn tổng hợp, duy trì và bài tiết vào ECM. Một số yếu tố tăng trưởng và các peptide điều hòa có liên quan đến quá trình điều hòa chuyển hóa proteoglycan, bao gồm các yếu tố tăng trưởng giống insulin, yếu tố chuyển đổi tăng trưởng, interleukin-1 và yếu tố hoại tử khối u. Cơ chế phân tử mà các yếu tố tăng trưởng và các peptide gây ra các tác động trên chuyển hóa proteoglycan vẫn chưa được biết rõ.
+
+Tế bào sụn được bảo vệ khỏi các lực cơ học gây tổn hại tiềm ẩn nhờ ECM xung quanh. Sự hằng định nội môi trong chuyển hóa ECM giúp cân bằng sự thoái hóa của các đại phân tử khác nhau, thay thế các sản phẩm bị thoái hóa bằng các sản phẩm mới được tổng hợp. Có thể mất đến 25 năm để thay thế các proteoglycan, trong khi thời gian bán hủy của collagen ước tính khoảng từ vài thập kỷ đến hơn 400 năm.
+
+Các proteinase chính liên quan việc thay thế sụn bao gồm các metalloproteinase (collagenase, gelatinase và stromelysin) và cathepsin (cathepsin B và D). Collagenase làm thoái biến các sợi collagen xoắn tại chỗ tại một vùng đơn độc. Gelatinase làm thoái biến collagen loại II và loại IV; đồng thời gelatinase cũng có hoạt động đáng kể chống lại fibronectin, elastin, và collagen loại V, VII, X, và XI. Vai trò của stromelysin là làm thoái biến protein lõi của aggrecan. Tất cả các metalloproteinase được tiết ra dưới dạng các tiền enzyme tiềm ẩn cần cho sự hoạt hóa bên ngoài tế bào. Cathepsin hoạt hóa cho quá trình thoái biến aggrecan.
+
+Việc cử động và chịu tải trọng của khớp rất quan trọng để duy trì cấu trúc và chức năng bình thường của sụn khớp. Khớp không hoạt động có thể để dẫn đến thoái hóa sụn. Vận động khớp thường xuyên và tải trọng khi vận động rất quan trọng cho việc duy trì sự trao đổi chất bình thường ở sụn. Sự phát triển của bệnh như viêm xương khớp có liên quan đến những thay đổi đáng kể trong quá trình chuyển hóa tại sụn. Bệnh lý này xảy ra khi có sự mất cân bằng sinh lý giữa quá trình thoái biến và tổng hợp của các tế bào sụn.
+
+4. CHỨC NĂNG CƠ SINH HỌC
+
+Sụn khớp là một lớp mô liên kết mỏng, chuyên biệt có những đặc tính bôi trơn và đàn hồi đặc biệt. Chức năng chính của sụn khớp là tạo ra một bề mặt trơn láng với hệ số ma sát thấp, tạo điều kiện thuận lợi cho việc truyền tải trọng đến xương dưới sụn. Sụn khớp là nơi duy nhất có khả năng chịu lực cao theo chu kỳ, điều này cho thấy có ít hoặc không có bằng chứng tổn thương hoặc thoái hóa tại sụn.
+
+Tác động cơ học lên sụn khớp được hiểu rõ nhất khi mô được xem như một phương tiện hai pha. Sụn khớp có 2 pha: pha lỏng và pha rắn. Nước là thành phần chính của pha lỏng, đóng góp tới 80% trọng lượng ướt của mô. Các ion vô cơ như natri, calci, clorua, và kali cũng được tìm thấy trong pha lỏng. Pha rắn được đặc trưng bởi độ xốp và độ thẩm thấu của ECM. Mối liên quan giữa proteoglycan kết hợp và dịch kẽ làm cho sụn đàn hồi nén qua các lực đẩy tĩnh điện âm. Ứng dụng nhanh ban đầu về lực tiếp xúc khớp trong quá trình chịu lực làm gia tăng tức thì áp lực dịch kẽ. Sự gia tăng áp lực tại chỗ làm cho dịch chảy ra khỏi ECM, gây ra sự va chạm lớn trên chất nền. Khi lực nén đi, dịch kẽ chảy ngược vào mô. Độ thấm thấp của sụn khớp ngăn không cho dịch bị thoát nhanh ra khỏi chất nền xương đối kháng và sụn xung quanh giữ cho sụn nằm dưới bề mặt tiếp xúc. Những ranh giới này được thiết kế để hạn chế các biến dạng cơ học.
+
+Sụn khớp có độ nhởn và đàn hồi, khả năng hoạt động phụ thuộc vào thời gian khi chịu lực cố định hoặc thời gian biến dạng. Hai cơ chế bôi trơn và đàn hồi trong sụn khớp: phụ thuộc vào lưu lượng và không phụ thuộc vào lưu lượng. Cơ chế phụ thuộc vào lưu lượng phụ thuộc vào dịch kẽ và lực ma sát kéo liên quan với lưu lượng này. Lực kéo do dịch kẽ được gọi là phản ứng nhớt đàn hồi hai pha. Thành phần không phụ thuộc lưu lượng của tính nhớt đàn hồi được tạo ra bởi chuyển động đại phân tử – đặc biệt là tính nhớt đàn hồi nội tại của collagen proteoglycan của chất nền. Kết quả là áp suất dịch cung cấp một thành phần quan trọng để hỗ trợ tổng tải trọng, từ đó làm giảm áp lực tác động lên chất nền rắn.
+
+Sụn khớp cũng có đặc tính trùn nhão và có đáp ứng co – giãn. Khi có lực nén liên tục trên mô, sự biến dạng của mô tăng theo thời gian, và mô sẽ biến dạng hoặc trùn nhão ra cho đến khi đạt được trạng thái cân bằng. Tương tự như vậy, khi sụn bị biến dạng và kéo giãn không đổi, áp lực sẽ tăng đến đỉnh điểm, tiếp theo quá trình co – giãn chậm sẽ xảy ra cho đến khi đạt đến giá trị cân bằng. Bởi vì sụn khớp có xu hướng cứng lại khi bị căng dần nên không thể được mô tả bằng mô đun Young. Thay vào đó, mô đun của mô phụ thuộc vào thời điểm do lực trong quá trình thử nghiệm co – giãn, thường dùng trong các nghiên cứu sơ bộ về kiểm tra cơ học trên sụn khớp. Phương pháp hiện tại là dùng một lực căng đã biết ngay sau khi đo được lực đỉnh và quá trình co – giãn chậm; giá trị lực/áp lực được ghi lại khi đạt đến trạng thái cân bằng. Quá trình này được lặp lại qua một loạt các giá trị lực căng, và mô đun cân bằng được tính theo độ dốc của đường cong lực căng - áp lực.
+
+[Hình: A. Unloaded, Collagen, Water, Proteoglycan. B. Uniaxial tensile loading]
+
+**Hình 2.4.** Biểu đồ căng - áp lực trên sụn khớp trong quá trình chịu lực căng
+
+Biểu đồ minh họa sự định hướng các sợi collagen đáp ứng với tải trọng. Nguồn: Sophia Fox, A. J., Bedi, A., & Rodeo, S. A. (2009)[1].
+
+Thành phần phức tạp và sự tổ chức của sụn qua tầng giữa góp phần đáng kể vào đặc tính trượt - cản. Sự kéo giãn các sợi collagen phân phối ngẫu nhiên giúp sụn đáp ứng với lực trượt (Hình 2.4). Các tính chất chống lại lực căng giãn bắt nguồn từ sự sắp xếp phân tử chính xác của các sợi collagen. Sức bền căng giãn ổn định và tối đa của sợi collagen là kết quả của những liên kết chéo giữa các phân tử và nội phân tử (Hình 2.5).
+
+**5. TUỔI VÀ SỰ PHÁT TRIỂN**
+
+Tuổi tác định đoạt thành phần của ECM cũng như việc tổ chức các tế bào sụn và phản ứng của chúng đối với các yếu tố bên ngoài như cytokines. Khi tuổi tăng lên, có sự thay đổi về phân bố tế bào sụn theo từng vùng; tuy nhiên, tổng số lượng tế bào sụn vẫn không thay đổi. Các tế bào sụn bắt đầu tiêu mòn đi ở tầng mặt, trong khi các lớp ở sâu hơn có số lượng tế bào tăng lên.
+
+Khi tuổi tăng lên, sự mất nước của chất nền giảm đi và tăng tương ứng về độ cứng nén. Điều này có thể liên quan đến xương nằm dưới sụn, có thể thấy lực tác động lên xương dưới sụn sẽ tăng lên khi sụn mất khả năng chịu biến dạng thuận nghịch. Những thay đổi như đông đặc thành dải hoặc xơ cứng dưới sụn có thể được ghi nhận trên hình ảnh cộng hưởng từ (MRI), những thay đổi này thường có liên quan với mô hình phù tủy xương trong quá trình thoái hóa sụn. Việc giữ hằng định nội môi cho ECM là rất quan trọng để duy trì sụn khớp.
 
 Kích thước của các proteoglycan kết hợp trong ECM giảm theo độ tuổi do giảm các vị trí gắn kết có sẵn của chuỗi HA hoặc do thủy phân protein gây tổn thương các protein liên kết và chuỗi glycosaminoglycan của chúng. Sự kết hợp cũng có thể ảnh hưởng đến sự phân bố kích thước lỗ lọc và tính thẩm thấu của dung môi. Ngoài ra tỷ lệ keratin sulfate và chondroitin sulfate cũng tăng lên. Nồng độ hyaluronan tăng theo tuổi do sự tích tụ dần dần của hyaluronan bị thoái hóa từng phần thay vì tăng tổng hợp.
 
@@ -505,6 +674,84 @@ E. Duy trì và sửa chữa chất ngoại bào sụn
 
 Đáp án: 1B, 2D, 3D, 4C, 5D, 6D, 7D, 8C, 9E, 10E
 
+# DÂY CHẰNG: CƠ SINH HỌC VÀ CHỨC NĂNG
+
+Vũ Xuân Thành, Lê Hoàng Trúc Phương
+
+## MỤC TIÊU HỌC TẬP
+
+1. Trình bày cấu trúc của dây chằng.
+2. Trình bày các đặc tính cơ sinh học dây chằng.
+3. Xác định chức năng dây chằng liên quan với cấu trúc và đặc tính cơ sinh học.
+
+## 1. GIỚI THIỆU
+
+Tổn thương dây chằng là một tổn thương rất thường gặp, đặc biệt là trong thể thao.
+
+Tổn thương dây chằng nếu không được điều trị đúng cách sẽ để lại hậu quả nghiêm trọng trên khớp như: mất vững khớp dẫn đến tổn thương sụn khớp và có thể dần đến thoái hóa khớp.
+
+Hiểu được cơ sinh học, chức năng dây chằng, tổn thương và sự phục hồi dây chằng sẽ giúp chúng ta phục hồi dây chằng tổn thương về với chức năng ban đầu ngăn ngừa các hậu quả trên khớp.
+
+## 2. ĐỊNH NGHĨA
+
+Dây chằng là dải ngắn mô liên kết sợi dẻo và dai nối kết 2 xương hoặc sụn tại khớp hoặc nâng đỡ một cơ quan.
+
+## 3. GIẢI PHẪU VÀ SINH LÝ BÌNH THƯỜNG
+
+### 3.1. Giải phẫu đại thể
+
+Có hàng trăm dây chằng trong cơ thể người, khác nhau về hình thù và kích thước. Chúng có thể xuất hiện dưới dạng các tấm mô mờ đục dài hoặc dưới dạng các dải dây ngắn trong bao khớp và có thể thay đổi kích thước, hình dạng, định hướng và vị trí. Thông thường nó là dải ngắn mô liên kết xơ chắc gắn kết xương với xương qua các khớp như các dây chằng đầu gối.
+
+Mặc dù dây chằng từng được cho là cấu trúc không hoạt động, nhưng thực tế chúng là những mô phức tạp đáp ứng với nhiều ảnh hưởng tại chỗ và toàn thân. Thường nó là một cấu trúc không có mạch máu, với các thớ sợi chạy song song giữa hai điểm vào. Giữa các cá thể khác nhau thì hướng đi của các thớ sợi khá hằng định, điều đó minh họa cho sự ổn định về chức năng của nó.
+
+Dây chằng có thể nằm ở bao khớp, ngoài bao khớp hoặc trong khớp. Các dây chằng bao khớp đơn giản chỉ là phần dày lên ở thành bao khớp, như các dây chằng ổ chảo - cánh tay. Các dây chằng ngoài bao khớp nằm ngoài khớp, như các dây chằng bên ở khớp gối. Các dây chằng trong khớp, như dây chằng chéo ở khớp gối nằm bên trong khớp.
+
+## 3.2. Nguồn nuôi dưỡng
+
+Tổng lượng máu nuôi cung cấp cho dây chằng thay đổi. Trong trường hợp dây chằng bên của khớp gối thì máu nuôi đến từ ba nguồn: từ động mạch trong của đầu gối, từ mặt giữa dây chằng và xương và có thể từ màng hoạt dịch. Tuy nhiên, trong trường hợp dây chằng chéo trước của đầu gối, nguồn cung cấp nuôi dưỡng chính chủ yếu là đến từ dịch khớp.
+
+## 3.3. Mô học
+
+Dây chằng được cấu tạo chủ yếu từ nước, collagen và các axit amin khác nhau. Trong tổng khối lượng dây chằng, khoảng hai phần ba là nước và một phần ba là chất rắn.
+
+Collagen chiếm khoảng 75% trọng lượng khô của dây chằng và proteoglycan, elastin, glycoprotein và các protein khác chiếm 25% còn lại. Collagen loại I chiếm gần 85% tổng lượng collagen trong dây chằng, phần còn lại bao gồm collagen loại III, VI, V, XI và XIV theo trọng lượng.
+
+Xét về tinh vi mô của mô dây chằng, các bó sợi collagen bao gồm các sợi nhỏ hơn được sắp xếp song song dọc theo trục dài của dây chằng. Khi các sợi collagen lắp ráp lại với nhau, chúng tạo thành hình một mô hình liên kết chéo đặc trưng, sự hình thành của chúng dường như được thiết kế đặc biệt bởi vì nó góp phần tạo nên sức mạnh của dây chằng. Dưới kính hiển vi (Hình 3.1), các bó collagen xuất hiện nhấp nhô hoặc xếp nếp dọc theo chiều dài của chúng và người ta tin rằng việc xếp nếp có liên quan đến khả năng chịu lực hoặc sức căng của dây chằng. Khi chịu lực, một số khu vực nhất định của nếp gấp dây chằng cho phép mô kéo dài mà không bị tổn thương cấu trúc. Một số sợi thắt chặt hoặc nới lỏng tùy thuộc vào vị trí cơ xương và lực tác dụng, một trong hai sợi này hỗ trợ khớp thông qua sức căng và phạm vi chuyển động khác nhau.
+
+Chỗ tiếp giáp dây chằng - xương là một cấu trúc đặc biệt. Nó là sự chuyển tiếp dần từ mô sợi của dây chằng đến sụn sợi, đến sụn sợi calci hóa và cuối cùng là xương. Chỗ tiếp giáp dây chằng - xương hết sức cứng và hiểm khi bị bong trước khi dây chằng bị đứt.
+
+# 4. CÁC CHỨC NĂNG CỦA DÂY CHẰNG
+
+Dây chằng có nhiều chức năng:
+
+- Nó hết sức quan trọng trong việc giữ vững trục của bề mặt khớp. Làm đứt một trong các cấu trúc vững khớp và cuối cùng làm thoái hóa khớp sớm.
+- Dây chằng cũng có nhiệm vụ duy trì áp lực ở mức sinh lý lên bề mặt khớp, có ý nghĩa quan trọng thiết yếu đối với sự lành lặn của sụn khớp.
+
+**Sơ đồ:**
+- 1.5 nm
+- 3.5 nm
+- 50-500 nm
+- Collagen
+- Subfibril
+- Microfibril
+- Fibre
+- Bó
+- Dây chằng
+- Kiểu xếp nếp
+
+**Hình 3.1.** Hệ thống cấu trúc của dây chằng
+*Dây chằng bao gồm các bó sợi nhỏ và nhỏ hơn. Cấu trúc cơ bản là các phân tử tropo-collagen. Nguồn: Hawkins D. (2001)[4].*
+
+- Dây chằng chứa các đầu dây thần kinh nhận cảm riêng biệt, chúng cung cấp thông tin có giá trị cho đơn vị gần để duy trì tư thế.
+- Ở một vài vùng như chi dưới và cột sống, dây chằng giúp nâng đỡ bộ xương và làm cho cơ thể giữ được hình hài đặc trưng.
+
+## 5. ĐẶC ĐIỂM SINH CƠ HỌC CỦA DÂY CHẰNG
+
+### 5.1. Đặc tính keo – đàn hồi và sức căng của dây chằng
+
+**Hình 3.2.** Đường cong lực tải – biến dạng của một dây chằng
+*Ban đầu (gọi là vùng toe), các sợi collagen của dây chằng ở dạng lượn sóng. Sau đó, trong vùng đàn hồi (thẳng), các sợi kéo thẳng ra. Trong vùng dẻo, một số sợi collagen bị đứt rách. Nguồn: Butler D.L., Good E.S., Noyes F.R., and Zernicke R.F. (1984) [1].*
+
 Lực tối đa mà một dây chằng có thể chịu được liên quan đến diện tích cắt ngang của nó. Dây chằng có đặc tính keo – đàn hồi, giúp kiểm soát sự phân tán lực và kiểm soát khả năng chấn thương. Dây chằng đáp ứng với lực tải bằng cách trở nên càng lúc càng mạnh hơn và cứng hơn. Các sợi collagen trong dây chằng được sắp xếp sao cho dây chằng có thể chịu được cả lực căng và lực xé, tuy nhiên tốt nhất vẫn là lực căng. Hình 3.2 mô tả đặc tính keo – đàn hồi của dây chằng. Các sợi collagen trong dây chằng có cấu trúc gần như song song. Khi không chịu tải, chúng có dạng lượn sóng. Với lực tải thấp, sự lượn sóng trong các sợi collagen của dây chằng biến mất. Lúc này, dây chằng đáp ứng gần như tuyến tính, hơi căng và trong giới hạn sinh lý. Với các lực lớn hơn, dây chằng rách, một phần hoặc toàn bộ. Nói chung, khi lực căng tác động vào khớp rất nhanh, dây chằng có thể phân tán lực nhanh và khả năng bị tổn thương dễ xảy ra ở xương hơn là dây chằng. Mức tải sinh lý bình thường của hầu hết các dây chằng là biến dạng căng 2 – 5%, tương đương với tải khoảng 500 N ở dây chằng chéo trước, trừ những dây chằng đòi hỏi tính đàn hồi cao như dây chằng vàng ở cột sống (có thể kéo dãn đến hơn 50% chiều dài khi nghỉ). Mức biến dạng tối đa của hầu hết các dây chằng và gân là khoảng 8 – 10%.
 
 Ở cuối tầm vận động khớp, dây chằng căng để kết thúc vận động. Các dây chằng là vật cản thụ động và chuyển lực đến xương. Bởi vì dây chằng làm vững, kiểm soát, và giới hạn vận động khớp, tổn thương dây chằng sẽ ảnh hưởng vận động khớp. Tổn thương dây chằng có thể dẫn đến mất vững khớp, do đó làm thay đổi chuyển động học của khớp, thay đổi sự phân bố lực tải và làm khớp dễ bị chấn thương.
@@ -549,6 +796,48 @@ A. Các dải sợi collagen type I
 B. Các dải sợi collagen type II
 C. Các dải sợi collagen type III
 D. Các dải sợi collagen type IV
+
+2. Khi nói về dây chằng. Chọn câu đúng?
+A. Đa phần các dây chằng đều có mạch máu
+B. Các thớ sợi dây chằng bằng nhau và chạy bắt chéo nhau
+C. Đa phần các dây chằng nằm trong khớp
+D. Là dải ngắn mô liên kết sợi dẻo và dai nối kết 2 xương
+
+3. Nguồn cấp máu nuôi chính của dây chằng chéo trước?
+A. Động mạch gối
+B. Dịch khớp
+C. Mặt giữa dây chằng và xương
+D. Màng hoạt dịch
+
+4. Theo đường cong lực tải – biến dạng của dây chằng thì sợi collagen sẽ bị đứt ở đâu?
+A. Vùng toe
+B. Vùng đàn hồi
+C. Vùng dẻo
+D. Vùng thẳng
+
+5. Lực tối đa mà dây chằng có thể chịu đựng được liên quan đến?
+A. Chiều dài dây chằng
+B. Diện tích cắt ngang
+C. Kích thước sợi collagen
+D. Hình dạng dây chằng
+
+6. Khi nói về các loại tổn thương dây chằng?
+A. Thường gặp tại vị trí tiếp giáp dây chằng và xương
+B. Thường gặp loại dây chằng tổn thương kèm theo mảnh xương (gãy rứt)
+C. Thường gặp loại rách nhiều điểm dọc theo dây chằng
+D. Loại gãy rứt (dây chằng đứt kèm theo mảnh xương) thường xuất hiện ở bệnh nhân lớn tuổi
+
+7. Trong giai đoạn 2 của quá trình lành dây chằng?
+A. Số lượng nguyên bào sợi tăng
+B. Hoạt động tế bào viêm tăng
+C. Số lượng tế bào viêm tăng
+D. Mật độ collagen tăng
+
+8. Trong giai đoạn 3 của quá trình lành dây chằng?
+A. Dây chằng trở nên mềm hơn
+B. Nguyên bào sợi tăng hoạt động
+C. Tăng liên kết chéo giữa các sợi collagen
+D. Tăng sinh mạch máu
 
 9. Đặc tính quan trọng mà mảnh ghép dây chằng nhân tạo không có so với dây chằng nguyên thủy là?
 - A. Đàn hồi
@@ -598,7 +887,19 @@ Khi tốc độ lực tác động chậm khả năng cao là tổn thương rú
 
 Sức mạnh của thân dây chằng khởi đầu sẽ tăng nhanh hơn nơi tiếp giáp dây chằng và xương. Sức mạnh nơi tiếp giáp dây chằng xương cuối cùng vượt qua sức mạnh thân dây chằng. Nguồn: Woo S.L-Y. Orlando C.A. Gomez M.A., Frank, C.B., and Akeson, W.H. (1986) [5].
 
-54 collagen, proteoglycan, glycoprotein và các protein khác. Collagen trở nên thẳng hàng với trục dọc của dây chằng trong thời gian này; tuy nhiên, các sợi collagen mới hình thành là bất thường và đường kính nhỏ hơn mô dây chằng bình thường.
+54
+
+2.2. Đáp ứng của dây chằng khi bị chấn thương
+
+Khi dây chằng tiếp xúc với lực tải trong một khoảng thời gian dài, chúng sẽ tăng khối lượng, độ cứng và lực tải tối đa. Tuy nhiên, khi dây chằng bị quá tải, hoặc tiếp xúc với lực căng lớn hơn mà cấu trúc có thể duy trì, các mô có thể bị hỏng, dẫn đến sự gián đoạn dây chằng một phần hoặc hoàn toàn, nghĩa là đứt hoặc rách. Khi những gián đoạn này xảy ra, cơ thể sẽ phản ứng bằng cách cố gắng chữa lành vết thương thông qua một chuỗi hoạt động chồng chéo chuyên biệt, nhưng các hoạt động tế bào khác biệt. Những hoạt động này là một phần của phản ứng cơ thể với chấn thương và xảy ra với bất kỳ tổn thương mô mềm nào. Chúng có thể được phân loại theo ba giai đoạn liên tiếp xảy ra theo thời gian: giai đoạn viêm cấp tính, giai đoạn tăng sinh hoặc tái tạo/sửa chữa và giai đoạn tái tạo mô (Hình 4.2).
+
+2.2.1. Giai đoạn viêm cấp tính
+
+Bắt đầu trong vòng vài phút sau chấn thương và tiếp tục trong 48 đến 72 giờ tiếp theo. Trong giai đoạn này, máu thu thập tại vị trí tổn thương và tế bào tiểu cầu tương tác với các thành phần ma trận nhất định, thay đổi hình dạng của chúng và bắt đầu hình thành cục máu đông. Các khối fibrin giàu tiểu cầu giải phóng các yếu tố tăng trưởng cần thiết để chữa lành và cung cấp một nền tảng để các sự kiện tế bào xảy ra. Một số yếu tố tăng trưởng đã được xác định, bao gồm yếu tố tăng trưởng có nguồn gốc tiểu cầu, yếu tố tăng trưởng biến đổi beta, yếu tố tăng trưởng nội mô mạch máu và yếu tố tăng trưởng sợi nguyên bào. Mỗi yếu tố tăng trưởng này đều có một vai trò cụ thể trong quá trình viêm. Ví dụ, yếu tố tăng trưởng có nguồn gốc tiểu cầu và yếu tố tăng trưởng biến đổi B thu hút các tế bào trong hệ thống miễn dịch đến khu vực và kích thích chúng sinh sôi nảy nở; yếu tố tăng trưởng nội mô mạch máu hỗ trợ sự hình thành mạch máu mới, làm tăng máu đến các vùng bị thương; và yếu tố tăng trưởng sợi nguyên bào thúc đẩy sự phát triển của các tế bào liên quan đến sự hình thành collagen và sụn. Ngoài ra, khi được kích thích bởi các yếu tố tăng trưởng, bạch cầu trung tính, bạch cầu đơn nhân và các tế bào miễn dịch khác di chuyển đến mô bị tổn thương, nơi chúng ăn và loại bỏ các mảnh vụn và các tế bào bị hư hại được tạo ra trong giai đoạn viêm, do đó bắt đầu sự thay đổi cấu trúc.
+
+2.2.2. Giai đoạn tăng sinh/sửa chữa
+
+Bắt đầu khi các tế bào miễn dịch giải phóng các yếu tố tăng trưởng và cytokine khác nhau. Điều này khởi động các tín hiệu tăng sinh sợi nguyên bào để xây dựng lại ma trận mô dây chằng. Các mô hình thành ban đầu xuất hiện dưới dạng mô sẹo vô tổ chức, bao gồm nhiều mạch máu, tế bào mỡ, nguyên bào sợi và tế bào viêm hơn mô dây chằng bình thường. Trong vài tuần tới, các tế bào sợi nguyên bào chứa nhiều loại collagen, proteoglycan, glycoprotein và các protein khác. Collagen trở nên thẳng hàng với trục dọc của dây chằng trong thời gian này; tuy nhiên, các sợi collagen mới hình thành là bất thường và đường kính nhỏ hơn mô dây chằng bình thường.
 
 ### 2.2.3. Giai đoạn tái tạo
 
@@ -615,6 +916,28 @@ Nguồn: Hauser R.A. et al. (2014) [3].
 
 Trên lâm sàng tổn thương dây chằng được chia làm ba độ:
 - Độ I: là mức độ tổn thương nhẹ các sợi dây chằng không bị đứt.
+
+- Độ II: do sức kéo mạnh hơn làm đứt nhiều sợi collagen; ở cả hai mức tổn thương độ 1 và 2 khớp vẫn vững chắc chưa bị mất vững.
+- Độ III: nếu sức kéo căng vượt quá 20% mức biến dạng, toàn bộ dây chằng bị đứt hoàn toàn, làm khớp bị mất vững ở các mức độ khác nhau.
+
+## 2.4. Đặc điểm giải phẫu và sinh lý của dây chằng sau khi lành
+
+Như đã lưu ý trước đó, mô dây chằng bình thường chủ yếu bao gồm collagen loại I là protein chịu trách nhiệm cho độ cứng và sức mạnh của mô. Đó là bản chất liên kết chéo dày đặc của các sợi collagen loại I tạo nên sự vững, sức mạnh và độ cứng của dây chằng bình thường. Tuy nhiên, sau khi bị tổn thương, sợi nguyên bào chủ yếu tổng hợp collagen loại III chứ không phải collagen loại I mà nó tạo ra ở mức độ nhỏ hơn nhiều. Sự liên kết chéo bất thường của collagen và đường kính nhỏ hơn trong các sợi collagen trong mô dây chằng được tái tạo gây ra sự suy giảm cả về sức mạnh của mô và độ cứng của mô, thường tồn tại trong nhiều tháng hoặc nhiều năm sau chấn thương ban đầu. Ngoài ra, bằng chứng cho thấy rằng các sợi collagen đã tái tạo không được sắp xếp dày đặc như trong dây chằng bình thường, và mô được tái tạo dường như có chứa các vật liệu khác ngoài collagen, như mạch máu, tế bào mỡ và túi tế bào viêm, tất cả đều góp phần làm suy yếu nó (Bảng 4.1).
+
+**Bảng 4.1.** Khác biệt giữa dây chằng bình thường và mô sẹo
+
+| Dây chằng bình thường | Sẹo dây chằng |
+|:--- |:--- |
+| Sợi collagen lớn hai đỉnh | Sợi collagen nhỏ hơn |
+| Luân chuyển chất nền và tế bào thấp | Luân chuyển chất nền và tế bào cao |
+| Collagen sắp xếp ngay ngắn | Collagen sắp xếp lộn xộn |
+| Lớp Collagen dày | Có chỗ hở giữa các sợi |
+| Tỷ lệ tế bào trong chất nền cao | Tỷ lệ tế bào trong chất nền thấp |
+| Mật độ tế bào thấp | Mật độ tế bào cao hơn |
+| Liên kết chéo collagen phát triển đầy đủ | Liên kết chéo collagen phát triển chưa đầy đủ |
+| Chủ yếu là Collagen loại I | Nhiều collagen loại III |
+| Chủ yếu là proteoglycan nhỏ | Proteoglycan lớn |
+| Hiếm phân chia tế bào | Nhiều tế bào phân chia |
 
 Hầu hết các nghiên cứu trên động vật đã tập trung vào ACL và MCL của khớp gối. Để hiểu rõ hơn về chữa lành dây chằng, nhiều nghiên cứu trong số này đã sử dụng MCL của thỏ làm mô hình thí nghiệm. Các nghiên cứu như vậy đã chỉ ra rằng các MCL phục hồi hoặc được tái tạo cuối cùng yếu hơn, ít cứng hơn và hấp thụ ít năng lượng hơn trước khi chấn thương, so với các MCL bình thường. Một số nghiên cứu đã ghi nhận rằng các MCL bị thương được điều trị bảo tồn chỉ lấy lại được 40% đến 80% độ cứng và sức mạnh cấu trúc so với các MCL bình thường.
 
@@ -672,6 +995,36 @@ Ví dụ: tổn thương dây chằng đầu gối được đánh giá bằng c
 Mặc dù X-quang không phải là quy trình chuẩn để chẩn đoán chấn thương dây chằng do bản thân dây chằng không thấy được trên X-quang, nhưng chúng ghi nhận được một số bất thường về cấu trúc được coi là dấu hiệu của chấn thương dây chằng cụ thể như bong (rứt) xương nơi bám dây chằng.
 
 Gần đây, phương pháp chụp X-quang động như X-quang động kỹ thuật số (DMX) đã được sử dụng như một phương tiện trực quan hóa chuyển động khớp dưới hình chụp X-quang hoặc soi huỳnh quang. DMX có thể phát hiện tổn thương dây chằng mà hình chụp tĩnh và MRI bỏ sót và cho thấy những hạn chế của một số chuyển động nhất định của khớp, cung cấp cho bác sĩ cái nhìn sâu sắc về chức năng của một dây chằng cụ thể.
+
+3.4.2. MRI – không phải là phương tiện tốt nhất để chẩn đoán
+
+Mặc dù ảnh chụp cộng hưởng từ (MRI) đã được sử dụng như một tiêu chuẩn trong nhiều thập kỷ để chẩn đoán bong gân và rách dây chằng, nghiên cứu cho thấy nó có thể không cần thiết để chẩn đoán và điều trị hiệu quả dây chằng bị tổn thương. Một thiếu sót lớn khi dùng MRI để đánh giá dây chằng là trong khi nó có hiệu quả trong việc nhận ra phần lớn sự gián đoạn ở mô bao gồm rách dây chằng hoàn toàn, MRI vẫn không thể phát hiện khi dây chằng bị lỏng hoặc kéo giãn. Ví dụ, một dây chằng bị thương đã bị kéo dài gấp hai hoặc thậm chí ba lần chiều dài bình thường của nó dường như không khác gì một dây chằng không bị tổn thương vì MRI chỉ cho thấy độ tương phản mô mềm chứ không phải chất lượng mô. Độ nhạy và độ chính xác của MRI cũng có thể khác nhau giữa các dây chằng, điều này khiến cho việc chỉ dựa vào phương pháp chẩn đoán hình ảnh này hoặc sử dụng nó như một tiêu chuẩn vàng là không thực tế.
+
+Một thách thức khác của việc sử dụng MRI là nó có xu hướng chẩn đoán không chính xác các tổn thương dây chằng dương tính giả, trong khi đánh giá lâm sàng và/hoặc nội soi khớp sau đó có thể chính xác hơn. Trong một nghiên cứu như vậy so sánh MRI với các báo cáo nội soi khớp, Ben–Galim và cộng sự thấy tỷ lệ dương tính giả là 47,2% đối với rách ACL ở những người khỏe mạnh. Trong một nghiên cứu khác, MRI cổ tay cho thấy chấn thương dây chằng nhẹ đến trung bình trong mọi trường hợp mặc dù tất cả các đối tượng (vận động viên thể dục chuyên nghiệp) đều không có triệu chứng.
+
+Kết quả dương tính giả có thể khiến thực hiện các phương pháp điều trị không cần thiết, bao gồm cả các thủ tục phẫu thuật. Trong một nghiên cứu, 33% đối tượng có kết quả MRI dương tính cho đứt ACL hoàn toàn đã bị hủy thực hiện phẫu thuật sau khi nội soi khớp cho thấy tổn thương không hoàn toàn. Trong nghiên cứu Ben–Galim đã đề cập trước đây, 37% các ca phẫu thuật được coi là cần thiết dựa trên các kết quả MRI sau đó đã được báo cáo lại là không cần thiết. Hơn nữa, các nghiên cứu so sánh độ chính xác của chẩn đoán tổn thương từ kết quả MRI với kết quả thu được khi khám lâm sàng hoặc tìm thấy trên nội soi khớp cho thấy khám lâm sàng có hiệu quả ít nhất, không hiệu quả hơn so với kết quả MRI. Những phát hiện này đã khiến Jah và các đồng nghiệp kết luận, “Khi kết quả MRI bình thường, nghi ngờ khám lâm sàng cao và khám lâm sàng kỹ càng thì đáng tin cậy hơn”. Liu và cộng sự có cùng một quan điểm tương tự là “các xét nghiệm tốn ít chi phí trong phòng khám vẫn có thể tiến hành điều trị nhanh chóng và theo cách tiết kiệm nhất mà không cần sử dụng MRI”.
+
+3.4.3. Siêu âm
+
+Hình ảnh siêu âm chẩn đoán cơ xương khớp cũng đã được sử dụng để xem và chẩn đoán các chấn thương dây chằng khác nhau. Ảnh siêu âm có khả năng đặc biệt để chứng minh tinh trạng sinh lý hiện tại của giải phẫu cơ xương khớp. Chế độ siêu âm B (chế độ sáng) giúp hiển thị mật độ mô thay đổi dọc theo thang độ xám tuyến tính. Bởi vì hình ảnh chế độ B hiển thị toàn bộ phổ sinh lý từ viêm đến xơ hóa đã xử lý, đó là dấu hiệu đặc trưng của siêu âm cơ xương khớp.
+
+Bản chất không thể đoán trước trong quá trình phục hồi dây chằng và sự biến đổi của các quá trình cấu trúc và sinh lý ở mô và các thay đổi khác có thể được đánh giá bằng siêu âm. Ví dụ, các hoạt động sinh lý được chuyển thành các tín hiệu có thể phát hiện được bởi độ phản xạ lại, tính toàn vẹn và ổn định của cấu trúc được mô tả thông qua hình ảnh và phép đo động (Hình 4.3). Do đó, siêu âm cơ xương khớp cho phép các bác sĩ lâm sàng điều trị trực tiếp triệu chứng bệnh nhân dựa trên chỉ dẫn của các hình ảnh. Điều này cũng cho phép xem trực tiếp các khu vực bị tổn thương trong quá trình điều trị.
+
+[Hình: Hình ảnh siêu âm của dây chằng bên ngoài của gối (LCL) \n - Lat Femur \n - Fib Head]
+
+**Hình 4.3.** Hình ảnh siêu âm của dây chằng bên ngoài của gối (LCL)*
+
+\* Nguồn: Hauser R.A. et al. (2014) [3].
+
+> **4. XỬ TRÍ BAN ĐẦU DÂY CHẰNG BỊ TỔN THƯƠNG – NGUYÊN TẮC RICE**
+>
+> **R (rest):** nghỉ ngơi, khi bị chấn thương phải ngừng ngay tập luyện.
+>
+> **I (ice):** là phương pháp làm lạnh tại chỗ chấn thương ngay sau bị chấn thương. Cách này làm giảm sưng, đau, chảy máu và chống viêm.
+>
+> **C (compression):** để giảm phù nề nên đặt băng ép và thường xuyên chỗ bị chấn thương. Băng ép có thể tiến hành ngay cả trong khi chườm đá và kể cả sau khi chườm đá.
+>
+> **E (elevation):** khi bị chấn thương cần phải giữ chỗ bị chấn thương ở vị trí nâng cao hơn đầu nhằm làm giảm sự tích tụ dịch và máu xuất hiện do các mô và tổ chức bị tổn thương và viêm nhiễm. **Giữ chỗ bị chấn thương ở tư thế nâng lên từ 24 đến 72 giờ.**
 
 5. PHƯƠNG PHÁP ĐIỀU TRỊ HIỆN TẠI ĐỂ TỐI ƯU HÓA SỰ PHỤC HỒI DÂY CHẰNG
 
@@ -927,6 +1280,38 @@ Dấu hiệu không chắc chắn gồm có:
 
 [Hình: Hình 5.5. Trật khớp khuỷu
 (a) lâm sàng, (b) X-quang. Nguồn: tư liệu lâm sàng.]
+
+2.2.3. Nguyên tắc điều trị
+- Nắn trật.
+- Bất động đủ thời gian.
+- Tập vận động sớm.
+2.2.4. Biến chứng
+Biến chứng sớm:
+- Gãy xương khi nắn trật.
+- Tổn thương mạch máu, thần kinh.
+- Nhiễm trùng (trong trật hở).
+- Chèn ép khoang.
+Biến chứng muộn:
+- Không nắn được khớp hay nắn không hết di lệch.
+- Trật khớp tái hồi, trật khớp thường trực.
+- Thoái hoá khớp sau chấn thương do tổn thương sụn khớp hay mất vững khớp.
+- Cứng khớp.
+- Rối loạn dinh dưỡng.
+- Hoại tử vô trùng chỏm xương (thường ở chỏm xương đùi).
+- Viêm cơ hoá cốt.
+
+2.3. Gãy xương
+2.3.1. Định nghĩa
+Gãy xương là sự phá hủy đột ngột các cấu trúc bên trong xương do nguyên nhân cơ học.
+Nguyên nhân gãy xương bao gồm:
+- Gãy xương chấn thương:
++ Cơ chế trực tiếp: nơi gãy xương là điểm đặt của lực chấn thương.
++ Cơ chế gián tiếp: nơi gãy xương xa điểm đặt của lực chấn thương.
+- Gãy xương bệnh lý: gãy xương trên một xương bệnh lý: u, loãng xương, viêm nhiễm... Lực chấn thương có thể rất nhẹ vì chất lượng xương kém.
+- Gãy xương do mỏi: do lực tác động lặp đi lặp lại nhiều lần. thường xuất hiện ở những vận động viên thể thao chuyên nghiệp.
+2.3.2. Phân loại gãy xương
+Gãy kín: ổ gãy không thông ra môi trường bên ngoài.
+Gãy hở: ổ gãy không thông ra môi trường bên ngoài, do đó nguy cơ nhiễm trùng cao hơn gãy kín.
 
 2.3.3. Chẩn đoán gãy xương
 
@@ -1223,6 +1608,84 @@ Khi tiếp cận bệnh nhân có các triệu chứng đau khớp, việc quan 
 
 Đau khớp không do chấn thương có thể phát sinh từ các cấu trúc bên trong hoặc gần khớp hoặc có thể xuất phát từ các vị trí xa hơn. Các nguồn gây đau trong khớp bao gồm bao khớp, màng xương, dây chằng, xương dưới sụn và màng hoạt dịch, nhưng không phải là sụn khớp (do ít đầu tận thần kinh thụ cảm đau). Xác định bộ phận giải phẫu gây nên đau khớp thường là một nhiệm vụ khó khăn, nhưng nó rất quan trọng, giúp định hướng tiếp cận chẩn đoán và điều trị. Kiến thức về giải phẫu các khớp phức tạp (ví dụ: gối, vai và cổ chân) giúp hỗ trợ trong việc tìm nguồn gốc gây đau khớp.
 
+Đau một khớp cấp tính, không có hiện tượng viêm bao gồm những bệnh lý sau:
+- Gãy xương gần khớp
+- Chấn thương
+- Xuất huyết
+- Hoại tử xương
+Đau một khớp mạn tính có kèm hiện tượng viêm bao gồm các bệnh lý:
+- Viêm khớp nhiễm trùng mạn tính
+- Bệnh Lyme
+- Viêm màng hoạt dịch tinh thể (gút, giả gút)
+- Viêm khớp tự phát thiếu niên.
+Đau một khớp mạn tính không có biểu hiện viêm bao gồm các bệnh lý:
+- Thoái hóa khớp
+- Hoại tử vô mạch
+- Xuất huyết
+- Bệnh Paget liên quan đến khớp
+- Gãy xương do mỏi
+- Viêm xương tủy
+- Sarcoma xương
+- Khối u di căn
+Các bệnh lý liên quan đến viêm đa khớp cấp tính bao gồm:
+- Bệnh gút, giả gút
+- Sốt thấp khớp
+- Viêm khớp do lậu
+- Viêm khớp do virus
+- Viêm nội tâm mạc nhiễm trùng
+- Viêm khớp dạng thấp
+- Bệnh Still
+- Lupus ban đỏ hệ thống
+- Viêm khớp phản ứng
+- Viêm khớp sarcoid cấp tính
+- Sốt Địa Trung Hải có tính gia đình
+Bệnh lý đa khớp mạn tính có biểu hiện viêm bao gồm:
+- Viêm khớp do virus
+- Viêm khớp dạng thấp
+- Lupus ban đỏ hệ thống
+- Viêm khớp vảy nến
+
+- Viêm khớp phản ứng - Bệnh Behçet - Viêm cột sống dính khớp và bệnh lý cột sống không chuyên biệt Bệnh lý đa khớp mạn tính không có biểu hiện viêm bao gồm: - Thoái hóa khớp - Thoái hóa khớp do chấn thương - Bệnh nhiễm sắc tố sắt – Hemochromatosis - Ochronosis - Bệnh xương khớp phì đại tổn thương phổi – HPOA - Amyloidosis - To đầu chi
+
+## 4. BỆNH SỬ
+
+Chìa khóa tiếp cận ban đầu một bệnh nhân đau khớp không do chấn thương là xác định đau bên trong khớp hay ngoài khớp như túi hoạt dịch, gân, cơ, dây chằng, hoặc xương gần khớp hoặc đau do lan truyền từ cơ quan khác (đau quy chiếu) hoặc theo phân bố rễ thần kinh. Việc xác định này thường khó khăn hơn khi cơn đau ở các khớp lớn và ở gần thân mình. Ví dụ, đau khớp háng có thể khởi phát do bệnh lý thoái hóa đĩa đệm cột sống, hẹp ống sống, viêm khớp háng hoặc viêm túi hoạt dịch mấu chuyển.
+
+Nếu đau do nguyên nhân bên trong khớp, cần phải phân biệt:
+- Đau khớp có viêm
+- Đau khớp không viêm
+
+Đau khớp có viêm được đặc trưng bởi tình trạng viêm các cấu trúc của khớp ảnh hưởng, như hoạt mạc, túi hoạt dịch hoặc điểm bám gân xương.
+
+Đau khớp không viêm là bệnh khớp chủ yếu do sự thay đổi cấu trúc hoặc cơ học của khớp. Bệnh khớp có thể xảy ra do tổn thương sụn khớp hoặc sụn chêm, có hoặc không có thay đổi đồng thời trong cấu trúc của xương dưới sụn hoặc thay đổi trong giải phẫu khớp do do bẩm sinh, chuyển hóa hoặc sau một bệnh lý đau khớp do viêm trong quá khứ.
+
+Triệu chứng lâm sàng của đau khớp cũng thay đổi tùy thuộc cảm giác và ngưỡng chịu đau của bệnh nhân. Các triệu chứng của bệnh lý khớp bao gồm:
+- Đau
+- Cứng khớp
+- Sưng
+- Giới hạn vận động
+- Yếu
+
+- Mỏi Với bệnh lý khớp do viêm, đau biểu hiện cả khi nghỉ ngơi và khi vận động. Đau nặng hơn khi bắt đầu hoạt động so với khi kết thúc. Với bệnh khớp không viêm (ví dụ thoái hóa khớp, thay đổi cấu trúc hoặc cơ học khớp), cơn đau xảy ra chủ yếu hoặc chỉ xảy ra khi vận động và cải thiện nhanh chóng khi nghỉ ngơi. Bệnh nhân bị thoái hóa khớp nặng ở khớp háng, cột sống hoặc đầu gối cũng có thể bị đau khi nghỉ ngơi và vào ban đêm.
+
+Đau phát sinh từ các khớp nhỏ ở ngoại vi có xu hướng khu trú tại chỗ hơn đau phát sinh từ các khớp lớn gần thân mình. Ví dụ, đau phát sinh từ khớp háng có thể được cảm nhận ở háng hoặc mông, ở phần trước của đùi hoặc ở đầu gối.
+
+Cứng khớp là một cảm giác căng cứng khi cố gắng di chuyển các khớp sau một thời gian không hoạt động. Nó thường giảm dần theo thời gian. Thời gian kéo dài của nó có thể giúp phân biệt đau khớp do viêm và không viêm. Với đau khớp do viêm, cứng khớp xuất hiện khi thức dậy và thường kéo dài 30 – 60 phút hoặc lâu hơn. Với đau khớp không viêm, cứng khớp kéo dài trong một thời gian ngắn (ví dụ: trong khoảng 15 phút) sau khi thức dậy vào buổi sáng hoặc sau thời gian không hoạt động.
+
+Trong đau khớp do viêm, sưng khớp có liên quan đến phì đại màng hoạt dịch, tràn dịch màng hoạt dịch hoặc viêm của các cấu trúc quanh khớp. Mức độ sưng thường thay đổi theo thời gian. Với đau khớp không viêm, sự hình thành của gai xương dẫn đến phì đại xương. Bệnh nhân có thể phát hiện ngón tay hoặc đầu gối phì đại lên. Mức độ phù nề mô mềm nhẹ có liên quan đến nang, dày lên hoặc tràn dịch của màng hoạt dịch.
+
+Mất vận động khớp có thể là do tổn thương cấu trúc, viêm hoặc co rút của các mô mềm xung quanh. Bệnh nhân có thể thấy hạn chế đối các hoạt động sinh hoạt hàng ngày của họ, chẳng hạn như gài áo ngực, cắt móng chân, leo cầu thang hoặc chải tóc.
+
+Sức cơ nằm xung quanh khớp thường bị giảm do hậu quả của việc teo cơ. Yếu với đau gợi ý nguyên nhân liên quan đến cơ xương (ví dụ: viêm khớp hoặc viêm gân) chứ không phải là một nguyên nhân bệnh lý cơ hoặc thần kinh đơn thuần. Biểu hiện bao gồm giảm sức nắm, khó khăn khi dựa ghế ngồi dậy hoặc leo cầu thang và cảm giác sụp chân.
+
+Mệt mỏi thường thấy bệnh nhân viêm khớp. Với bệnh lý đa khớp có viêm, mệt mỏi thường được ghi nhận vào buổi chiều hoặc gần tối. Với các rối loạn tâm sinh lý, sự mệt mỏi thường được ghi nhận vào buổi sáng và liên quan đến lo lắng, căng cơ và khó ngủ.
+
+**Các dấu hiệu bệnh sử quan trọng để chẩn đoán phân biệt đau khớp bao gồm:**
+- Khởi phát, kéo dài của đau khớp, mô hình thời gian của khớp liên quan
+- Số lượng khớp liên quan
+- Sự đối xứng của khớp hay không
+- Sự phân bố của khớp bị ảnh hưởng
+
 - Biểu hiện ngoài khớp
 
 Triệu chứng khởi phát có thể đột ngột hoặc từ từ. Với kiểu khởi phát đột ngột, các triệu chứng khớp biểu lộ trong vài phút đến vài giờ. Thường gặp do viêm khớp do lắng đọng tinh thể, hoặc nhiễm trùng. Với kiểu khởi phát từ từ, các triệu chứng khớp biểu hiện dần dần trong vài tuần đến vài tháng. Kiểu khởi phát này là điển hình cho hầu hết các dạng viêm khớp, bao gồm viêm khớp dạng thấp (RA) và thoái hóa khớp.
@@ -1241,7 +1704,32 @@ Khớp bị ảnh hưởng chỉ một khớp được gọi là viêm một kh�
 
 Viêm khớp đối xứng được đặc trưng bởi sự biểu hiện của cùng một khớp ở mỗi bên của cơ thể. Sự đối xứng này là điển hình của viêm khớp dạng thấp và Lupus ban đỏ hệ thống. Viêm khớp không đối xứng được đặc trưng bởi sự biểu hiện của các khớp khác nhau ở 2 bên. Điển hình là viêm khớp vảy nến, viêm khớp phản ứng và viêm khớp Lyme.
 
-chỗ bên ngoài khớp (ví dụ: viêm gân, viêm điểm bám gân xương). Sự xuất hiện của đau khớp trong trường hợp không có bất thường nào của khớp được ghi nhận phải nghĩ tới tình trạng cảm xúc của bệnh nhân.
+**5.** **KHÁM** **LÂM** **SÀNG**
+
+Khám lâm sàng giúp phân biệt viêm khớp (ví dụ: RA) với tổn thương khớp (ví dụ: bệnh thoái hóa khớp). Nó cũng có thể giúp làm sáng tỏ vị trí tổn thương là ngoài khớp (viêm điểm bám gân xương, viêm bao gân, viêm túi hoạt dịch) hoặc trong khớp.
+
+**5.1.** **Các** **dấu** **hiệu** **giúp** **phân** **biệt** **viêm** **khớp** **với** **tổn** **thương** **khớp**
+
+Dấu hiệu của bệnh viêm khớp bao gồm:
+
+- Phi đại bao hoạt dịch
+- Tràn dịch khớp
+- Đau khi chuyển động, đặc biệt là tại vị trí biên độ tối đa của vận động khớp
+- Đỏ và ấm
+- Giới hạn tầm vận động
+- Đau khớp khi sờ nắn
+
+Phì đại bao hoạt dịch là dấu hiệu đáng tin cậy nhất của viêm khớp. Màng hoạt dịch thường rất mỏng khó sờ thấy. Ở bệnh nhân bị viêm khớp mạn tính, màng hoạt dịch thường dày và dễ cảm nhận được ở khe khớp.
+
+Tràn dịch khớp tiến triển đáp ứng với viêm bao hoạt dịch, chấn thương, xuất huyết trong khớp, hoặc viêm cấp tính. Tràn dịch lượng nhiều có thể làm mất các hõm tự nhiên quanh khớp và có thể được phát hiện bằng cách thực hiện dấu bập bềnh (ví dụ như bập bềnh bánh chè)
+
+Đau trong toàn bộ biên độ vận động gặp ở bệnh nhân có khớp viêm cấp tính. Đau khi khớp bị ép nhẹ làm hạn chế toàn bộ tầm vận động của khớp gợi ý đến nguyên nhân trong khớp làm viêm màng hoạt dịch khớp. Đau chỉ xuất hiện trong một vài biên độ vận động nhất định, không xuất hiện trong toàn bộ tầm vận động của khớp gợi ý một nguyên nhân bên ngoài khớp, chẳng hạn như viêm gân.
+
+Đỏ của khớp gặp trong các thể viêm khớp cấp tính, như bệnh gút, viêm khớp nhiễm trùng hoặc sốt thấp khớp cấp tính. Nó hiếm gặp ở những bệnh nhân bị RA nhưng đôi khi có thể xảy ra ở những bệnh nhân bị viêm khớp vẩy nến. Khớp ấm nóng là dấu hiệu nhạy của đau khớp do viêm và có thể được phát hiện bằng cách so sánh nhiệt độ da tại khớp và một vị trí ở xa khớp. Sự khác biệt về độ ấm cũng có thể được phát hiện bằng cách so sánh với cùng một khớp ở bên đối diện.
+
+Ở bệnh nhân có bệnh lý khớp do viêm, việc hạn chế vận động là do sự tràn dịch, dày màng hoạt dịch, xơ dính bao khớp, hoặc đau.
+
+Đau khớp là một dấu hiệu nhạy cảm của bệnh khớp, nhưng nó không đặc hiệu cho bệnh khớp do viêm. Khi khớp bị viêm cấp tính, đau có thể xảy ra khi ấn tại toàn bộ vị trí của màng hoạt dịch. Đau khu trú tại một vị trí có thể giới hạn một tình trạng viêm tại chỗ bên ngoài khớp (ví dụ: viêm gân, viêm điểm bám gân xương). Sự xuất hiện của đau khớp trong trường hợp không có bất thường nào của khớp được ghi nhận phải nghĩ tới tình trạng cảm xúc của bệnh nhân.
 
 Các dấu hiệu của bệnh thoái hóa khớp hoặc thay đổi về cơ học bao gồm:
 - Phi đại xương của khớp (gai xương)
@@ -1416,6 +1904,20 @@ B. Viêm khớp dạng thấp
 C. Thoái hóa khớp
 D. Nhiễm trùng
 E. Chấn thương
+
+5. Bệnh nhân nam 60 tuổi, đến khám vì đau khớp gối âm ỉ kéo dài. Qua thăm khám thấy khớp gối không sưng, nóng, không có điểm đau cụ thể. Bác sĩ cho chụp X-quang kiểm tra khớp gối và khớp háng cùng bên thấy hình ảnh khớp gối bình thường, khớp háng có biểu hiện thoái hóa nhiều. Đau khớp gối trong trường hợp này do nguyên nhân nào?
+
+A. Đau do viêm
+
+B. Đau do chấn thương
+
+C. Đau do loãng xương
+
+D. Đau do thoái hóa
+
+E. Đau quy chiếu /
+
+Đáp án: 1C, 2B, 3A, 4C, 5E
 
 # TIẾP CẬN BỆNH NHÂN TRƯỞNG THÀNH ĐAU NHIỀU KHỚP
 
@@ -2835,6 +3337,35 @@ Phụ thuộc kích thước, vị trí xương liên quan và thể trạng b�
 
 157
 
+**Chỉ định điều trị phẫu thuật:**
+
+Phụ thuộc vào tiến triển của bệnh và toàn trạng của bệnh nhân. Hầu hết các gãy xương bệnh lý nên điều trị phẫu thuật nếu có thể. Mục tiêu của điều trị phẫu thuật là giảm đau và cải thiện chức năng của người bị ảnh hưởng. Phẫu thuật ổn định triệu chứng sắp xảy ra hoặc triệu chứng gãy xương bệnh lý hiện tại.
+
+Sau phẫu thuật có thể hỗ trợ bằng xạ trị, điều trị ổn định nội khoa, hoặc làm tắc mạch máu nuôi đối với những khối u nhiều mạch máu như carcinoma tuyến giáp, thận...
+
+## TÓM TẮT
+
+Gãy xương có thể do nhiều nguyên nhân khác ngoài chấn thương.
+
+Chẩn đoán gãy xương dựa vào hai nhóm dấu hiệu: chắc chắn và không chắc chắn.
+
+Bên cạnh tổn thương xương, tổn thương phần mềm cần được quan tâm đúng mức.
+
+Cần khai thác kĩ bệnh sử (nguyên nhân và cơ chế chấn thương), nhận định được hết các tổn thương giúp cho quá trình điều trị và tiên lượng.
+
+Bảng phân loại gãy xương theo AO giúp xương gãy được phân loại theo hệ thống và dễ nhớ.
+
+Cận lâm sàng cần thiết tối thiểu giúp chẩn đoán gãy xương là X-quang, ngoài ra trong các trường hợp phức tạp CT scan và MRI cũng giúp hỗ trợ chẩn đoán.
+
+## TÀI LIỆU THAM KHẢO
+
+1. Nguyễn Quang Long, *Đại Cương Gãy Xương*, Bệnh học Chấn thương chỉnh hình – Phục hồi chức năng, Bài Giảng Đại Học Y Dược TPHCM. 2018.
+2. Nguyễn Quang Long, *Biến Chứng Gãy Xương*, Bệnh học Chấn thương chỉnh hình – Phục hồi chức năng, Bài Giảng Đại Học Y Dược TPHCM. 2005.
+3. Dell RM, Adams AL, Greene DF, Funahashi TT, et al. "*Atypical* atypical femur fractures and use of bisphosphonates. *J Bone Miner Res.* 2016; 13(3): 204–208.
+4. Janssen SJ, Bramer AM, Guitton G, Hornicek FJ. *Management of metastatic humeral fractures: Variations according to orthopedic subspecialty, tumor characteristics. Orthopaedics & Traumatology: Surgery & Research. 2018; 104(1): 59–65.
+5. John H. Wilber, William M. Ricci, et al. (2018) *Fracture and Dislocation Classification.* J Orthop Trauma; 32(1): 50–65.
+6. J.S. Wu and M.G. Hochman, *Bone Tumors: A Practical Guide to Imaging*, Springer Science+Business Media. 2012.
+
 CÂU HỎI TỰ LƯỢNG GIÁ
 
 1. Bệnh nhân nữ 40 tuổi, nhập viện vì đau gối trái sau tai nạn giao thông 2 giờ. Bệnh nhân khai là trước khi nhập viện thấy đầu gối trẹo ra ngoài và được người nhà nắn lại. Thăm khám thấy mạch máu và thần kinh bình thường. Nếu là bác sĩ điều trị bạn sẽ xử trí như thế nào?
@@ -3589,7 +4120,13 @@ Giai đoạn tạo can sụn đặc trưng bởi sự phát triển của khối
 
 **Giai đoạn tạo can xương**
 
-Khi hai đầu ổ gãy được nối với nhau bởi can sụn thì giai đoạn tạo can xương bắt đầu và kéo dài đến lúc các mảnh gãy được gắn chặt với nhau bằng xương mới (3 – 4 tháng). Trong lúc quá trình tạo xương trong màng vẫn tiếp diễn, mô mềm giữa ổ gãy trải qua sự cốt hóa nội sụn và khối can được chuyển thành mô calci hóa cứng chắc (xương non). Sự tạo can xương bắt đầu từ phía ngoại biên của ổ gãy, tại nơi có sức căng thấp nhất. Sự hình thành xương này ngày càng làm giảm sức căng khi tiến về phía trung tâm, cuối cùng tạo thành can xương. Do đó, tạo can xương bắt đầu từ ngoại biên và từ từ hướng về giữa ổ gãy. Khi hai đầu xương gãy ngày càng được thu hẹp lại, sức căng dần tăng lên và ổ gãy cuối cùng được bắc cầu bởi tạo cốt bào xếp thành hình xoắn ốc. Cầu xương ban đầu được tạo ở nơi có sức căng thấp nhất ở ngoại biên khối can hoặc bên
+Khi hai đầu ổ gãy được nối với nhau bởi can sụn thì giai đoạn tạo can xương bắt đầu và kéo dài đến lúc các mảnh gãy được gắn chặt với nhau bằng xương mới (3 – 4 tháng). Trong lúc quá trình tạo xương trong màng vẫn tiếp diễn, mô mềm giữa ổ gãy trải qua sự cốt hóa nội sụn và khối can được chuyển thành mô calci hóa cứng chắc (xương non). Sự tạo can xương bắt đầu từ phía ngoại biên của ổ gãy, tại nơi có sức căng thấp nhất. Sự hình thành xương này ngày càng làm giảm sức căng khi tiến về phía trung tâm, cuối cùng tạo thành can xương. Do đó, tạo can xương bắt đầu từ ngoại biên và từ từ hướng về giữa ổ gãy. Khi hai đầu xương gãy ngày càng được thu hẹp lại, sức căng dần tăng lên và ổ gãy cuối cùng được bắc cầu bởi tạo cốt bào xếp thành hình xoắn ốc. Cầu xương ban đầu được tạo ở nơi có sức căng thấp nhất ở ngoại biên khối can hoặc bên trong lòng tủy và sau đó, thông qua quá trình cốt hóa nội sụn, mô mềm giữa ổ gãy được thay thế bằng xương non và cuối cùng liên tục với vỏ xương ban đầu.
+
+**Giai đoạn tái tu chỉnh**
+
+Giai đoạn tái tu chỉnh bắt đầu khi ổ gãy đã được gắn kết chặt bởi xương non. Xương non dần dần được thay thế bằng các lá xương qua sự mài mòn mặt phẳng xương và sự tái tu chỉnh. Quá trình này có thể kéo dài từ một vài tháng đến nhiều năm, đến khi xương hoàn toàn trở về hình thái ban đầu, bao gồm cả sự phục hồi của lòng tủy.
+
+[Hình: Các giai đoạn của quá trình lành xương gián tiếp. a. Giai đoạn viêm – hình thành khối máu tụ thoái hóa thành mô hạt với dòng thác phản ứng viêm điển hình; b. Giai đoạn tạo can sụn – cốt hóa trong màng tạo xương ra xa dần đầu xương gãy, sự thay thế mô hạt thành mô sợi và sụn kèm theo tăng sinh mạch máu vào trong khối can được calci hóa, quá trình này xuất phát từ ngoại biên vào trung tâm; c. Giai đoạn tạo can xương – chuyển đổi hoàn toàn can sụn thành mô calci hóa bằng cốt hóa trong màng và cốt hóa nội sụn; d. Giai đoạn tái tu chỉnh – chuyển đổi xương non thành xương lá thông qua sự mài mòn mặt phẳng và tái tu chỉnh xương. Nguồn: AO Principles of Fracture Management, 3rd edition, 2017.]
 
 3.3. Các yếu tố tăng trưởng
 
@@ -3996,6 +4533,31 @@ C. Cho lành xương không có can trên X-quang
 D. Áp dụng cho gãy xương hở nặng
 
 Đáp án: 1B, 2C, 3A, 4A, 5D
+
+# CÁC RỐI LOẠN LÀNH XƯƠNG Hoàng Đức Thái
+
+**MỤC TIÊU HỌC TẬP**
+1. Phân loại các dạng rối loạn lành xương.
+2. Giải thích cơ chế rối loạn lành xương.
+3. Mô tả các triệu chứng lâm sàng và cận lâm sàng chẩn đoán rối loạn lành xương.
+4. Phân tích các ảnh hưởng của rối loạn lành xương lên chức năng.
+5. Phân tích nguyên tắc điều trị.
+
+**1. CHẬM LÀNH XƯƠNG, KHÔNG LÀNH XƯƠNG**
+
+**1.1. Khái niệm**
+
+**Chậm lành xương** (delayed union): là một khái niệm quy ước, chỉ một xương gãy phải bất động dài hơn thời gian bất động trung bình của loại gãy xương đó mới lành vững. Như vậy, thời gian coi là xác định có chậm lành xương rất khác nhau giữa tác giả này với tác giả khác. Nhìn chung, đa số tác giả coi thời gian phải bất động thêm bằng $1/2$ thời gian bất động trung bình nói trên.
+
+**Không lành xương** (non-union): theo kinh điển là không đạt được lành xương vững chắc dù được bất động lâu dài. Ngày nay, nhiều khi nguyên nhân gây khớp giả lại là xương gãy không bất động, hoặc bất động quá ít thời gian hoặc bất động lỏng lẻo. Nên định nghĩa hợp lý là:
+- Không lành xương chỉ sự tiến triển lành xương ngừng ở giai đoạn can sụn.
+- Một loại không lành xương đặc biệt do bị mất nhiều xương được gọi là **mất đoạn xương**.
+
+Trên lâm sàng, vẫn có thói quen dùng từ **khớp giả** (pseudarthrosis, pseudoarthrosis) để thay cho từ **không lành xương**. Tuy nhiên, đúng bản chất thì từ khớp giả chỉ dành cho một dạng không lành xương đặc biệt, chỗ gãy còn cử động bất thường rõ, không đau và có túi hoạt dịch giữa hai đầu xương gãy được bao phủ bằng mô xơ sụn, còn gọi là khớp giả thanh dịch.
+
+**1.2. Nguyên nhân**
+
+Các yếu tố bất lợi cho sự lành xương bình thường là nguyên nhân của chậm lành xương và không lành xương. Thường các nguyên nhân toàn thân chỉ có khả năng gây chậm lành xương. Còn nguyên nhân không lành xương phải tìm ở các rối loạn hay biến chứng tại vùng xương gãy.
 
 Về quy tắc chung, tất cả các nguyên nhân nào cản trở hoặc đối nghịch lại sự lưu thông máu tốt hoặc sự tiếp xúc của các mặt xương gãy, đều có thể gây chậm lành xương và không lành xương. Cụ thể:
 
@@ -4859,6 +5421,40 @@ Các biến chứng sớm của trật khớp gồm: gãy xương khi nắn tr�
 4. Clegg, T.E., Roberts, C.S., Greene, J.W., Prather, B.A., (2010), *Hip dislocations—epidemiology, treatment, and outcomes*, Injury, April;41(4), pp.329–334.
 5. Gurney-Dunlop, T., Eid, A. S., Old, J., Dubberley, J., & MacDonald, P. (2017). *First-time anterior shoulder dislocation natural history and epidemiology: immobilization versus early surgical repair*, Annals of Joint, 2.
 
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Khớp nào có tỷ lệ trật cao nhất?
+A. Khớp vai
+B. Khớp khuỷu
+C. Khớp gối
+D. Khớp ngón tay
+
+2. Tổn thương giải phẫu trong trật khớp vai có đặc điểm gì?
+A. 25% các trường hợp có gãy thân cánh tay đi kèm
+B. Rách gân cơ chóp xoay hay gặp ở người trẻ
+C. Lún chỏm xương cánh tay gặp ở trật khớp cũ
+D. Tổn thương sụn viền hay gặp ở trật khớp tái hồi
+
+3. Trong phân loại trật khớp theo thời gian, định nghĩa nào sau đây là đúng?
+A. Trật khớp cấp: bệnh nhân đến khám trước 24 giờ sau khi bị tai nạn
+B. Trật khớp bán cấp: bệnh nhân đến khám trước 4 tuần sau khi bị tai nạn
+C. Trật khớp đến muộn (trật khớp cũ): các trường hợp bệnh nhân đến khám sau 3 tuần
+D. Trật khớp thường trực: các trường hợp bệnh nhân đến khám sau 6 tuần
+
+4. Trật khớp vai hay gặp kiểu di lệch nào nhất?
+A. Lên trên
+B. Xuống dưới
+C. Ra trước
+D. Ra sau
+
+5. Thần kinh nào dễ bị tổn thương nhất trong trật khớp vai ra trước?
+A. Thần kinh giữa
+B. Thần kinh cơ bì
+C. Thần kinh nách
+D. Thần kinh quay
+
+Đáp án: 1A, 2D, 3C, 4C, 5C
+
 # GÃY XƯƠNG TRẺ EM
 Lê Viết Cẩn
 
@@ -4884,6 +5480,46 @@ Gãy xương chiếm khoảng 15% trong tất cả các chấn thương của tr
 
 **Biểu đồ 16.1. Phân bố gãy xương trẻ em theo tuổi và giới**
 *Nguồn: Lynn T. Stahely (2001), Practice of Pediatric Orthopaedic.*
+
+1.2. Vị trí
+
+[Hình: Biểu đồ 16.2. Tỷ lệ gãy xương trẻ em theo vị trí]
+- Radius: 30%
+- Ulna: 17
+- Hand: 12
+- Humerus: 11
+- Foot: 6
+- Clavicle: 8
+- Tibia: 8
+- Femur: 5
+- Fibula: 3
+
+**Biểu đồ 16.2.** Tỷ lệ gãy xương trẻ em theo vị trí
+*Nguồn: Lynn T. Stahely (2001), Practice of Pediatric Orthopaedic.
+
+1.3. Đối tượng dễ bị gãy xương
+
+Chất lượng xương kém: tạo xương bất toàn, bệnh lý thận, đái tháo đường, rối loạn hormone tăng trưởng,...
+
+Bệnh lý thần kinh cơ: bại não, cứng đa khớp,... (do chất lượng xương kém và cứng khớp).
+
+Trẻ hiếu động.
+
+2. CẤU TẠO BỘ XƯƠNG TRẺ EM
+
+[Hình: Hình 16.1. Đặc điểm cấu tạo xương trẻ em]
+- Đặc điểm | Ảnh hưởng
+- Lớp sụn dày | Khó thấy trên X quang
+- Màng xương dày | Lành xương nhanh
+- Nhiều collagen | Dễ gãy xương
+- Nhiều xương xốp | Kiểu gãy đơn giản
+- Sụn tiếp hợp | Khả năng tự điều chỉnh
+- Dây chằng khỏe | Gãy xương trước
+
+**Hình 16.1.** Đặc điểm cấu tạo xương trẻ em
+*Nguồn: Lynn T. Stahely (2001), Practice of Pediatric Orthopaedic.
+
+Hệ thống cơ xương của trẻ em khác biệt so với người lớn vì vậy mà gãy xương trẻ em khác so với gãy xương ở người lớn. Sự khác biệt này giảm dần theo tuổi.
 
 2.1. Sụn tiếp hợp
 Là sự khác biệt rõ ràng so với người lớn. Độ vững chắc của sụn tiếp hợp so với cấu trúc xương xung quanh thay đổi theo tuổi.
@@ -5000,6 +5636,51 @@ Phân loại Gartland thường được sử dụng nhất để phân độ g�
 **Hình 16.9. Biến chứng khuỷu vẹo trong của gãy trên 2 lồi cầu xương cánh tay**
 *Nguồn: Lynn T. Stahely (2001), Practice of Pediatric Orthopaedic.*
 
+5.1.4. Điều trị
+Độ I: bó bột cánh bàn tay, khuỷu gấp 90 độ.
+Độ III: nắn các di lệch, kết hợp xương bằng xuyên kim Kirschner.
+Độ II: nắn các di lệch, có thể bó bột hoặc xuyên kim Kirschner.
+
+[Hình: Hình 16.10. Kết hợp xương bằng kim Kirschner. Nguồn: LynnT.Stahely (2001), Practice of Pediatric Orthopaedic.]
+
+TÀI LIỆU THAM KHẢO
+1. Lynn T.Stahely (2001), Practice of Pediatric Orthopedic, Trauma. Page: 203–262.
+2. Fractures in children. John Flynn. Supracondylar fractures of distal humerus. Page: 581–591.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+1. Bé nam, 12 tuổi, bị đau cổ chân Trái sau té khi đá banh. Bé được chụp X-quang. Hãy phân loại Salter – Harris trong trường hợp gãy bong sụn tiếp hợp đầu dưới xương chày này?
+
+[Hình: X-quang cổ chân với mũi tên chỉ vùng tổn thương]
+
+A. I
+B. II
+
+C. III
+D. IV
+2. Bé nam, 4 tuổi, gãy đầu dưới xương quay theo hình X-quang dưới dây, được gọi là kiểu gãy gì?
+[Hình: X-quang cẳng tay]
+A. Gãy cành tươi đầu dưới xương quay
+B. Gãy cong tạo hình đầu dưới xương quay
+C. Gãy phình vỏ xương đầu dưới xương quay
+D. Gãy bong sụn tiếp hợp đầu dưới xương quay
+3. Nhân sinh xương xuất hiện sớm nhất ở vùng đầu dưới xương cánh tay?
+A. Mỏm trên lồi cầu ngoài
+B. Mỏm trên lồi cầu trong
+C. Ròng rọc
+D. Lồi cầu ngoài
+4. Bé nữ, 6 tuổi, té chống tay P. Sau tai nạn, bé sưng, đau, kèm biến dạng khuỷu P. Bé được chụp X-quang, chẩn đoán là gì?
+A. Gãy trên 2 lồi cầu xương cánh tay P độ I theo Gartland
+B. Gãy trên 2 lồi cầu xương cánh tay P độ II theo Gartland
+C. Gãy trên 2 lồi cầu xương cánh tay P độ III theo Gartland
+D. Gãy trên 2 lồi cầu xương cánh tay P độ IV theo Gartland
+5. Ở trẻ em nhỏ, sau chấn thương, chúng ta ít gặp các trường hợp trật khớp mà chủ yếu là các trường hợp gãy xương, đó là do ở trẻ em?
+A. Màng xương của trẻ em rất dày
+B. Cấu trúc xương trẻ em yếu hơn cấu trúc dây chằng
+C. Xương trẻ em có sụn tiếp hợp
+D. Cấu trúc xương trẻ em có nhiều mạch máu nuôi
+[Hình: X-quang gãy xương]
+**Đáp án:** 1C, 2A, 3D, 4C, 5B
+
 # VẾT THƯƠNG BÀN TAY
 
 *Trương Trọng Tín*
@@ -5082,6 +5763,32 @@ Hình 17.1. Các động mạch của bàn tay và ngón tay (nhìn mặt gan ta
 Nguồn: Netter F.H., [Nguyễn Quang Quyền dịch] (2013), “Cổ tay và bàn tay”, Atlas giải phẫu người, Nhà xuất bản Y Học.
 
 253
+
+Triệu chứng lâm sàn của tổn thươ ng các động m ạch chính:
+
+- Máu chảy nhiều, đỏ tươi.
+
+- Đầu búp ngó n lạnh, lép xẹ p, teo tóp.
+
+- Dấu bấm móng tay (thời gian đổ đầy mao mạ ch - Capillary Refill Time - CRT) không hồng lại. Nếu có hồng lại muộn trên hai giây có thể là do thiếu má u (huyết áp tụ t do sốc, hoặ c vết thương chỉ làm tổn thương mọ t phần các động m ạch chính).
+
+- Đầu ngón tay có thể đau, tê buốt, mất cả m giác.
+
+*Thươ ng tổn thần kinh *
+
+Thần kinh chi phối cho bàn ta y, ngón tay gồ m các nhánh của thần kinh quay, trụ, giữa, phần lớ n là nhánh cảm gi ác (Hình 17.2).
+
+Khám cảm gi ác:
+
+- Cảm giác nông (cảm giác đau, nó ng, lạnh): dùng ki m châm hoặc ống nư ớc nóng– lạnh để thử.
+
+- Cảm giác sâ u (cảm giác tin h tế): bảo bệnh nh ân nhắm mắt rồ i cho sờ mó cá c đồ vật nhỏ đễ nhận biết tính ch ất của vật đó là tr òn, nhẵn, thô rá p..., hoặc cảm gi ác nhận biết hai điểm.
+
+Thần kinh giữa có nhánh quặt ngư ợc vận động ch o các cơ ở ô mô cã i. Khám khám bằ ng yêu cầu bệnh nh ân làm động tác đố i ngón.
+
+Thần kinh trụ có nhánh vận độ ng cho các cơ mô ú t, cơ giun 4,5 v à các cơ liên cố t. Thăm khám bằ ng vận động dạ ng khép các ngón và dấu Froment.
+
+Dựa vào sơ đồ cảm giác bị mất, sự liệt vận độ ng và vị trí thươ ng tổn giúp ta ch ẩn đoán được thầ n kinh nào tổn th ương.
 
 [Hình: Sơ đồ phân bố thần kinh cảm giác vùng cổ tay và bàn tay]
 
@@ -5181,6 +5888,94 @@ Giúp đánh giá mức độ tổn thương về giải phẫu và nguy cơ nhi
 
 257
 
+- Loại II: vết thương cắt đứt gọn, tổn thương giải phẫu vừa, nguy cơ nhiễm trùng từ nhẹ đến trung bình.
+- Loại III: vết thương dập nát, tổn thương giải phẫu nhiều, nguy cơ nhiễm trùng nặng.
+Ngoài ra còn phải chú ý đến các vết thương đặc biệt như:
+**Vết thương lột da (lóc da):** trường hợp tai nạn do máy cuốn làm lột da bàn tay như lột găng, có thể có hoặc không có kèm theo gãy xương. Có nhiều nguy cơ:
+- Da bị lột nhiều khả năng bị hoại tử vì các mạch máu nuôi da bị đứt, dập nát hoặc tắc nghẽn đồng thời da bị bầm dập nhiều.
+- Mô mềm dưới da cũng bị dập một phần và đôi khi làm trơ các gân gấp, gân duỗi hoặc lộ xương khớp, mạch máu, thần kinh. Các tổ chức này đòi hỏi không được để hở.
+- Việc phục hồi chức năng sẽ khó khăn vì dễ bị xơ cứng, hạn chế cử động khớp (Hình 17.5).
+
+[Hình: Vết thương lột da bàn tay (kiểu lột găng). Nguồn: tư liệu lâm sàng.]
+Hình 17.5. Vết thương lột da bàn tay (kiểu lột găng)*
+*Nguồn: tư liệu lâm sàng.
+
+**Vết thương đứt lìa:** vết thương cắt đứt lìa ở bàn tay và ngón tay (tương đương gãy hở độ 4) có thể gọn hoặc dập nát nhiều tùy nguyên nhân và cơ chế.
+Phần chi bị đứt lìa sẽ bị hoại tử nếu không được khâu nối khôi phục lại động mạch và tĩnh mạch kịp thời.
+
+3. TIẾN TRIỂN VÀ BIẾN CHỨNG
+3.1. Tiến triển
+Nếu chi thương tổn nhẹ, hoặc thương tổn rất ít ở da, gãy xương, điều trị đúng phương pháp và kịp thời sẽ mang lại kết quả tốt. Ngày nay với sự tiến bộ của phẫu thuật bàn tay, sự phát triển của vi phẫu thuật, nhiều trường hợp có thương tổn nặng như đứt mạch máu, thần kinh, đứt lìa ngón tay, bàn tay, người ta vẫn có thể khâu nối mạch máu, thần kinh, khâu nối ngón tay, bàn tay bị đứt lìa với những kết quả khả quan.
+
+Ở những cơ sở chưa có điều kiện và không có chuyên khoa bàn tay thì điều trị vết thương bàn tay còn gặp nhiều biến chứng và tai biến đáng kể.
+
+3.2. Biến chứng
+Sốc cũng có thể gặp ở bệnh nhân vết thương bàn tay trong các trường hợp thương tổn rộng, dập nát nhiều do tai nạn lao động hoặc do hỏa khí gây mất máu nhiều và đau đớn, kết hợp với yếu tố tâm lý sợ hãi lo lắng của bệnh nhân.
+
+Viêm tấy, nhiễm trùng bàn tay.
+Cứng dính khớp, dính gân, rối loạn dinh dưỡng, can xương lệch xấu... làm hạn chế vận động hoặc thậm chí mất chức năng bàn tay.
+
+4. XỬ TRÍ VẾT THƯƠNG BÀN TAY
+4.1. Nguyên tắc chung trong xử trí vết thương bàn tay
+- Chống sốc nếu có: giảm đau, cầm máu, truyền dịch.
+- Cắt lọc triệt để nhưng hết sức tiết kiệm, bảo tồn tối đa các tổ chức của bàn tay.
+- Chống nhiễm khuẩn: băng vô khuẩn, cắt lọc sớm, che phủ gân, xương, khớp, dẫn lưu, dùng kháng sinh liều cao.
+- Che phủ sớm vết thương.
+- Chống phù nề (phù nề gây chèn ép, làm giảm nuôi dưỡng tổ chức dẫn đến nhiễm trùng, dính cứng khớp, rối loạn dinh dưỡng): để tránh phù nề cần bất động, treo tay cao, cắt lọc vết thương sớm, khâu che phủ tổ chức nếu có thể được.
+- Tập vận động sớm để phục hồi chức năng chống co cứng, dính khớp, dính gân. Phải vận động sớm tất cả các khớp, các ngón tự do, không bị cố định. Khi đã hết thời gian cố định, cần phải tập vận động chủ động ngay.
+- Xử trí một lần toàn bộ các thương tổn nếu có chỉ định.
+4.2. Sơ cứu vết thương bàn tay
+- Băng vết thương bằng băng sạch (gạc vô trùng hay mảnh vải, khăn... sạch). Nếu chảy nhiều máu có thể thực hiện băng ép có trọng điểm và giơ tay cao.
+
+- Trước khi băng có thể lấy bỏ các dị vật lớn, dễ lấy nằm trên bề mặt vết thương (đất, đá, mảnh gỗ, kim loại ...).
+- Sau khi băng vết thương, cố định bàn tay lên nẹp Cremer hay nẹp gố.
+- Sơ cứu trường hợp vết thương đứt lìa ngón tay, bàn tay:
+    + Đối với ngón tay, bàn tay bị đứt lìa: bọc vào gạc vô trùng/gạc sạch, cho vào túi nylon buộc kín rồi đặt vào thùng nước đá để bảo quản lạnh.
+    + Tuyệt đối **KHÔNG** để phần chi đứt lìa ngâm trực tiếp vào trong nước đá.
+
+[Hình: 1. Wash amputated part with water to remove gross contaminants. 2. Wrap in moist gauze. 3. Place wrapped amputated part in dry plastic bag. 4. Place bag with ice in another plastic bag.]
+
+**Hình 17.6. Bảo quản chi đứt lìa**
+*   *Nguồn: David L. Cannon (2012) [8].*
+
+- Dùng thuốc:
+    + Giảm đau (đường tiêm hay uống).
+    + Kháng sinh toàn thân và ngừa uốn ván SAT.
+- Nhanh chóng chuyển bệnh nhân và chi đứt lìa đến các bệnh viện chuyên khoa.
+- Chú ý với hồ sơ ghi chép đầy đủ các thuốc đã dùng.
+- Những việc không nên làm khi sơ cứu VTBT:
+    + Rửa trực tiếp lên vết thương hay dùng các loại thuốc sát trùng đổ vào vết thương.
+    + Đắp thuốc hay đặt những vật lạ vào vết thương.
+    + Garo khi sơ cứu vết thương bàn tay.
+
+### 4.3. Xử trí vết thương bàn tay trong cấp cứu
+
+#### 4.3.1. Thời điểm cắt lọc vết thương bàn tay
+
+Về nguyên tắc, cắt lọc vết thương và chỉ được khâu kín những vết thương sạch, đến sớm trong 6 – 8 giờ đầu. Tuy nhiên, nếu các trường hợp sau 10 – 12 giờ mà vết thương gọn sạch và bệnh nhân đã dùng kháng sinh trước đó thì vẫn có thể khâu kín da sau khi cắt lọc vết thương. Nếu vết thương bẩn, tổ chức phần mềm dập nát nhiều và đến muộn sau 12 giờ thì sau khi cắt lọc vết thương, không nên khâu kín.
+
+## 4.3.2. Nguyên tắc cắt lọc vết thương bàn tay
+- Phải mổ sớm trong điều kiện cấp cứu.
+- Mổ cắt lọc vết thương trong điều kiện vô trùng triệt để.
+- Cắt lọc vết thương bàn ngón tay phải làm nhẹ nhàng tránh làm dập nát tổn thương thêm tổ chức lành xung quanh.
+- Sau khi cắt lọc vết thương phải đặt dẫn lưu dù khâu kín hay không khâu.
+
+## 4.3.3. Xử trí các mô tổn thương ở bàn tay
+**Thương tổn da – mô dưới da:**
+Khi mổ cắt lọc phải hết sức tiết kiệm (chỉ loại bỏ mô dập nát nhiều).
+Khi cần mở rộng vết thương, phải cẩn thận chọn những đường mổ thích hợp (không để lại sẹo nơi tiếp xúc, không làm tổn thương gân, mạch máu, thần kinh).
+Nếu da mất nhiều không khâu được, phải tìm cách xoay da hoặc ghép da.
+- Chỉ được phép khâu da khi vết thương sạch. Ở bàn tay nhờ dồi dào mạch máu nên chỉ định này được rộng rãi hơn và khi khâu da phải không được căng.
+- Ở lòng bàn tay, đầu búp ngón và vùng khớp phải có da toàn phần (có mô dưới da) che phủ. Các nơi khác có thể dùng ghép da dày (full thickness skin graft – Wolf – Krause).
+Cắt lọc gân: rạch mở rộng cân theo đường rạch da.
+Cắt lọc cơ: lấy hết dị vật, cắt lọc phần cơ dập nát mất sức sống đến chỗ cơ co, chảy máu, màu hồng tươi.
+
+**Thương tổn mạch máu:**
+Có thể gặp vết thương bàn tay có thương tổn cung động mạch gan tay nông, cung động mạch gan tay sâu, động mạch riêng ngón tay...
+Khi thương tổn động mạch riêng ngón cái cả hai bên ta cần chủ động nối sớm bằng kỹ thuật vi phẫu.
+Thương tổn động mạch ở vùng đốt 3 thường khó khâu nói vì động mạch quá nhỏ mà chủ yếu là điều trị bằng khâu vết thương và cố định ngón cho vững và hy vọng phần đầu mút ngón tay sẽ sống nhờ các nhánh mạch bên.
+Khi đứt động mạch ở vùng cổ tay (động mạch quay và động mạch trụ) – nếu đứt một trong hai động mạch thì có thể thắt được. Nếu đứt cả hai thì phải khâu nối cả hai hoặc một trong hai. Tuy nhiên, tốt nhất là nên khâu nối phục hồi cả hai động mạch.
+
 Thương tổn thần kinh:
 Tùy theo thương tổn mà có hướng xử trí phù hợp khi đứt các nhánh thần kinh ở vùng cổ tay, ví dụ đứt thần kinh giữa hay thần kinh trụ, thần kinh quay ta nên nối ngay cho bệnh nhân (khâu nối bằng kỹ thuật vi phẫu).
 
@@ -5222,6 +6017,29 @@ Sau khi khâu gân phải bất động cho gân đứt ở trong tư thế chù
 
 263
 
+Thương tổn xương khớp:
+Vết thương khớp: cần cắt lọc sạch, lấy hết dị vật trong khớp và bơm rửa kỹ và khâu kín bao khớp, dẫn lưu ngoài khớp. Bất động ngón tay 2 – 3 tuần ở tư thế chức năng.
+Gãy các xương đốt ngón tay, bàn tay: sau khi cắt lọc đa tổ chức dưới da, rửa sạch ổ gãy xương. Nắn chỉnh phục hồi giải phẫu của xương gãy và kết xương bằng nẹp vít hoặc kim Kirschner.
+
+Vết thương lột da (lóc da):
+Việc điều trị đòi hỏi phải có lớp da để bao phủ bảo vệ gân, xương, mạch máu, thần kinh. Cần lớp da dày toàn phần, da này được đưa đến từ nơi khác bằng các phẫu thuật xoay chuyển vạt da có cuống mạch liền tại chỗ, vạt da có cuống mạch liền từ nơi khác (lấy từ vạt da bẹn, bụng, ngực) hoặc nối ghép cuống mạch vạt da tự do từ nơi khác bằng kỹ thuật vi phẫu.
+Các vạt da này có nhược điểm là có lớp mỡ quá dày gây mất cân đối về hình dạng và ảnh hưởng một phần chức năng của khớp.
+
+Vết thương đứt lìa (cắt cụt) bàn tay, ngón tay:
+Ngày nay, nhờ kỹ thuật vi phẫu người ta đã nối lại thành công nhiều trường hợp ngón tay đứt lìa. Cần phải khâu nối thông được ít nhất một động mạch và hai tĩnh mạch chính.
+Để có thể khâu nối đứt lìa bàn tay, ngón tay có kết quả, cần có những điều kiện sau đây:
+- Vết thương đứt gọn, có ít mô dập nát: dập nát nhiều thì mạch máu cũng bị bầm dập, không khâu nối được hoặc khâu nối được sẽ dễ bị tắc nghẽn.
+- Thời gian từ lúc bị thương đến khi phẫu thuật càng sớm càng tốt: tốt nhất là dưới 2 giờ. Sau 6 giờ tỷ lệ khâu nối thành công sẽ thấp.
+- Cách bảo quản phần chi đứt lìa: bảo quản đúng trong môi trường sạch và lạnh.
+- Trang thiết bị của bệnh viện: đầy đủ dụng cụ vi phẫu, kính hiển vi, chỉ khâu có đường kính nhỏ ($8.0 - 10.0$)....
+- Trình độ của phẫu thuật viên vi phẫu.
+Nếu không khâu nối lại được thì cắt bỏ và tạo hình mỏm cụt. Hạn chế cắt bỏ quá nhiều xương khi làm mỏm cụt. Tùy theo chức năng của từng ngón tay mà có khuynh hướng bảo tồn tối đa hoặc cho phép cắt bỏ.
+
+## 4.4. Săn sóc sau mổ vết thương bàn tay
+Những yêu cầu chính khi điều trị VTBT là lành vết thương với bàn tay, ngón tay được bảo tồn, không bị nhiễm trùng và phục hồi chức năng tốt. Vì vậy, các vấn đề cần quan tâm khi chăm sóc VTBT sau mổ là:
+- Tình trạng tưới máu đầu các ngón tay
+- Nhiễm trùng vết thương
+
 - Phù nề vết thương sau mổ
 - Phục hồi chức năng của bàn tay
 Chăm sóc sau mổ VTBT bao gồm:
@@ -5248,6 +6066,35 @@ Chăm sóc sau mổ VTBT bao gồm:
 6. "Vết thương bàn tay" – Bệnh học Chấn thương Chỉnh hình, Học Viện Quân Y, Nhà xuất bản Quân Đội Nhân Dân, tr. 226 – 230 (2006).
 7. Netter F.H., [Nguyễn Quang Quyền dịch] (2013), "Cổ tay và bàn tay", Atlas giải phẫu người, Nhà xuất bản Y Học, tr. 440 – 459.
 8. David L. Cannon (2012), "The Hand – Acute Hand Injuries", Campbell'S Operative Orthopaedics, 12 Edition, Vol. IV, Part XVIII, chapter 65, pp 3221 – 3304.
+
+9. Mark T. Jobe (2012), “Microsurgery - Replantation”, Campbell’S Operative Orthopaedics, 12 Edition. Vol IV, Part XVII, chapter 63, pp 3134 – 3147.
+10. Jupiter J.B., Belsky M.R... (1992), “Fractures and dislocations of the hand”, Skeletal trauma, Vol. 2, W. B. Saunders Company, pp. 925–1025.
+
+**CÂU HỎI TỰ LƯỢNG GIÁ**
+
+1. Cần lưu ý điều gì khi khám vết thương cấp tính bàn tay?
+- A. Vết thương bàn tay thường dễ khám do các thương tổn ở ngay dưới da nên dễ nhìn thấy
+- B. Khám vết thương bàn tay tại phòng cấp cứu thường không cần thiết vì làm cho bệnh nhân rất đau
+- C. Khám vết thương bàn tay trước mổ rất quan trọng, nhất là khám về gân, thần kinh (vì cần sự hợp tác của người bệnh)
+- D. Khi đã khám kỹ vết thương trước mổ thì trong khi mổ không cần đánh giá lại các thương tổn
+
+2. Phù nề sau mổ vết thương bàn tay có tác động như thế nào đối với kết quả điều trị?
+- A. Không làm tăng nguy cơ nhiễm trùng
+- B. Làm hạn chế vận động bàn tay trong giai đoạn cấp
+- C. Làm tăng nguy cơ xơ hóa mô mềm và cứng khớp
+- D. Tác động không đáng kể đến vấn đề cảm giác bàn tay sau này
+
+3. Một bệnh nhân đến phòng khám chỉnh hình với than phiền bàn tay phải không còn khéo léo. Trước đó 3 tháng bệnh nhân bị mảnh kiếng cắt vào cổ tay và được khâu vết thương tại trạm xá. Sau thăm khám xong bác sĩ phòng khám chỉnh hình kết luận bệnh nhân bị đứt thần kinh trụ. Rất có thể bệnh nhân có triệu chứng nào sau đây?
+- A. Mất cảm giác mặt lòng ngón I, II, III và nửa ngoài ngón IV
+- B. Teo cơ ô mô cái
+- C. Không duỗi được các khớp bàn ngón tay
+- D. Không khép được các ngón tay
+
+4. Những điều nên làm trong sơ cứu vết thương bàn tay cấp tính tại hiện trường?
+- A. Cố gắng rửa sạch vết thương bằng các loại thuốc sát trùng
+- B. Garo phía trên vết thương để hạn chế mất máu cho bệnh nhân
+- C. Băng vết thương bằng băng sạch, băng ép có trọng điểm nếu chảy máu nhiều
+- D. Cố gắng lấy bỏ những dị vật (mảnh gỗ, kim loại) cắm sâu, chặt vào vết thương
 
 5. Bệnh nhân nam, 40 tuổi. Cách nhập viện khoảng 14 giờ, bệnh nhân chạy xe gắn máy bị trượt té đập bàn tay xuống mặt đường đầy đất cát, gây vết thương chảy máu ở mu bàn tay phải. Bệnh nhân về nhà tự rửa tay bằng nước oxy già mua ở nhà thuốc và băng lại bằng gạc mà không đến cơ sở y tế nào cả. Khi bị đau nhức nhiều mới đến bệnh viện. Khám bệnh thấy vết thương lóc da mặt lưng bàn tay phải khoảng 6x5cm, mép da nham nhở, xung quanh viêm đỏ, bên trong vết thương còn thấy dính đất cát. Đầu các ngón tay hồng, ấm, cử động gập duỗi các ngón tay tốt.
 Theo bạn xử trí vết thương này như thế nào là hợp lý? Chọn một câu trả lời sai.
@@ -5924,6 +6771,31 @@ Nguyên nhân các triệu chứng là do đáp ứng miễn dịch hơn là nhi
 
 Bệnh nhân viêm khớp do virus có khuynh hướng đau nhiều khớp đối xứng, cũng có thể đau khớp đơn thuần hay viêm khớp thật sự giống bệnh lý khớp do thấp. Nhìn chung, các biểu hiện và triệu chứng cơ xương khớp xuất hiện trước hay đồng thời với biểu hiện khởi phát nhiễm trùng. Các triệu chứng tại khớp thường xuất hiện đột ngột và trong thời gian ngắn và có thể kèm theo phát ban da.
 
+Xác định hay nghi ngờ viêm khớp do virus tùy theo biểu hiện lâm sàng. Trên một bệnh nhân có thể nghi ngờ viêm khớp virus dựa vào dấu hiệu lâm sàng như phát ban kinh điển (rubella), phát ban ở mặt (parvovirus), qua thăm khám thực thể (tuyến nước bọt to trong quai bị, vàng da trong viêm gan) hoặc tiền sử đặc biệt (sau tiêm ngừa).
+
+Xét nghiệm huyết thanh học là phương pháp phổ biến nhất để xác định nguyên nhân viêm khớp virus. Cả kháng thể IgM và IgG đối với tác nhân gây bệnh được nghĩ đến từ biểu hiện lâm sàng.
+
+Phân lập virus từ dịch khớp rất hiếm khi cho kết quả dương tính. PCR định danh virus cũng là phương pháp giúp chẩn đoán tuy nhiên bộ thử chỉ cho một số trường hợp. Đây không phải là xét nghiệm dùng để tầm soát bệnh.
+
+## 8.5. Nhiễm trùng khớp do chấn thương
+
+Tiền sử chấn thương khớp có vết thương hở hay phẫu thuật vùng khớp do chấn thương. Bệnh khởi phát có liên quan đến khớp chấn thương.
+
+Có thể biểu hiện cấp tính sau vài ngày hay mạn tính sau nhiều tuần, nhiều tháng.
+
+Nguyên nhân do nhiễm trùng trực tiếp vào khớp từ vết thương thấu khớp hay gần khớp. Nguyên nhân có thể do một gãy xương hở nhiễm trùng lan vào khớp kế cận. S. aureus là vi khuẩn thường gặp nhất. Thể bệnh này là một nhiễm trùng ngoại khoa cần điều trị bằng phẫu thuật
+
+## 9. ĐIỀU TRỊ
+
+Nguyên tắc chung cho trường hợp viêm khớp nhiễm trùng:
+
+- Khởi động kháng sinh theo kinh nghiệm sớm dựa vào lâm sàng và các yếu tố nguy cơ.
+- Cấy máu và chọc dịch khớp làm xét nghiệm trước khi khởi động kháng sinh.
+- Phẫu thuật cắt lọc, rửa khớp và dẫn lưu chỉ định sớm ngăn tình trạng nhiễm trùng làm hư mặt khớp.
+- Kháng sinh theo kháng sinh đồ, đủ thời gian tối thiểu 4 tuần.
+
+Điều trị nhiễm trùng khớp do vi trùng bao gồm kháng sinh và dẫn lưu khớp. Tùy tác nhân gây bệnh mà khởi động kháng sinh điều trị có khác nhau.
+
 **Bảng 19.4.** Kháng sinh kinh nghiệm dựa vào kết quả nhuộm Gram
 
 | Kết quả nhuộm Gram | Kháng sinh |
@@ -5993,6 +6865,32 @@ C. Công nhân hoạt động trong công trường nhiều bụi
 D. Người chạy xe ôm có thói quen uống nhiều rượu mỗi ngày SGHD
 
 Đáp án: 1A, 2B, 3D, 4D, 5D
+
+# NHIỄM TRÙNG MÔ MỀM
+Văn Đức Minh Lý
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Xác định đặc điểm lâm sàng và vi trùng học các dạng nhiễm trùng mô mềm thường gặp sau: viêm mô tế bào, viêm cân mạc hoại tử, hoại thư sinh hơi, nhiễm trùng kỵ khí.
+2. Thảo luận chỉ định và lý giải các xét nghiệm: sinh hóa, miễn dịch và vi trùng học, hình ảnh học, thăm dò chức năng đưa ra chẩn đoán.
+3. Phân tích các nguyên tắc điều trị các dạng nhiễm trùng mô mềm trên.
+
+**1. GIỚI THIỆU**
+
+Là nhóm bệnh lý thường gặp trong lĩnh vực chuyên khoa hệ Cơ – Xương – Khớp, chiếm tỷ lệ $7-10\%$ các bệnh nhân nhập viện và đa số trong tình trạng cấp cứu.
+
+Gồm chuỗi các bệnh lý nhiễm trùng từ da đến mô dưới da, cân mạc đến cơ với các biểu hiện lâm sàng từ nhẹ đến nặng, từ viêm mô tế bào đơn giản đến viêm cân mạc hoại tử, hoại thư sinh hơi, ảnh hưởng đến sức khỏe, chi thể và tính mạng bệnh nhân nên cần có những can thiệp cấp cứu khẩn cấp kịp thời.
+
+Công việc chẩn đoán và điều trị liên quan đến nhiều lĩnh vực chuyên khoa, cần có sự phối hợp hiệu quả kịp thời như: Chẩn đoán hình ảnh, Vi sinh học, Dược lý học, Phẫu thuật và Hồi sức cấp cứu...
+
+**2. GIẢI PHẪU HỌC LIÊN QUAN**
+
+Da là cơ quan lớn nhất bao bọc gần như toàn bộ cơ thể với diện tích xấp xỉ $2\text{ m}^2$. Bên cạnh da, thành phần mô mềm bao gồm gân, cơ, mạch máu và thần kinh. Nhiễm trùng mô mềm có thể tác động đến tất cả các cấu trúc trên.
+
+[Hình: 1: Thượng bì; 2: Bì; 3: Cân nông; 4: Mô dưới da; 5: Cân sâu; 6: Cơ]
+
+**Hình 20.1.** Da và cấu trúc các lớp mô mềm
+*Nguồn: Stephen L Kates, Oliver Borens (2017) [10].*
 
 3. PHÂN LOẠI
 
@@ -6886,6 +7784,24 @@ Viêm xương khớp là một trong những nguyên nhân phổ biến nhất g
 
 Thứ tự mà các mô khớp cụ thể bị ảnh hưởng có thể phụ thuộc vào các yếu tố khởi đầu. Ngoại trừ viêm xương khớp sau chấn thương bắt đầu bằng một chấn thương cấp tính thành phần mô khớp, chẳng hạn như đứt dây chằng, thông thường rất khó để biết chính xác mô khớp nào bị ảnh hưởng đầu tiên. X-quang quy ước đánh giá không hết sự liên quan của mô khớp nó chỉ cho thấy một thành phần của tình trạng bao gồm mất sụn dẫn đến hẹp khe khớp và thay đổi xương dẫn đến xơ xương dưới sụn, kén xương và hình thành chồi xương. Một khi những thay đổi này rõ ràng trên X-quang, tình trạng đã tiến triển đáng kể. Các nghiên cứu hình ảnh cộng hưởng từ (MRI) có thể phát hiện bệnh sớm và đã cung cấp bằng chứng về sự thay đổi chất căn bản ở sụn, viêm màng hoạt dịch, tổn thương tủy xương và thay đổi thoái hóa trong các cấu trúc mô mềm ngoài sụn bao gồm dây chằng và sụn khớp gối. Khi viêm xương khớp tiến triển, cuối cùng nó ảnh hưởng đến toàn bộ khớp, dẫn đến sự mất cấu trúc chức năng của các bộ phận cấu thành. Tuy nhiên, viêm xương khớp tiến triển không giống nhau trong từng cá thể và không nhất thiết cá nhân nào viêm xương khớp sớm sẽ tiến triển thành trầm trọng hơn. Tỷ lệ tương tự ở tất cả các cá nhân và không phải ai mắc bệnh sớm cũng sẽ bị viêm khớp nặng hơn. Dự đoán bệnh nhân nào sẽ tiến đến giai đoạn cuối của bệnh vẫn là một thách thức.
 
+[Hình: Các thành phần cấu tạo của một đơn vị khớp]
+
+Nguồn: Apley & Solomon's System of Orthopaedics and Trauma, 2018.
+
+Sự thay đổi của các thành phần trong đơn vị khớp khi thoái hóa khớp:
+
+- Sụn khớp bị mài mòn, ban đầu xuất hiện ở những vùng chịu lực chính, sau đó lan ra những vùng khác trong khớp.
+- Bao khớp dày lên.
+- Xương dưới sụn dày lên và xơ đặc.
+- Hệ thống cơ quanh khớp bị teo.
+- Dây chằng có thể bị tổn thương.
+
+## 2.2. Sinh lý bệnh
+
+Sụn khớp bao gồm 2 thành phần chính: tế bào sụn và chất nền sụn. Tế bào sụn có vai trò điều hòa và cân bằng chất nền sụn thông qua việc sản xuất các thành phần trong chất nền sụn cũng như các enzyme giáng hóa chất nền, cytokine và các yếu tố tăng trưởng. Chất nền sụn với collagen týp 2 và các proteoglycan tạo nên đặc tính cơ sinh học tối ưu của sụn khớp.
+
+Trong giai đoạn đầu của thoái hóa khớp, các tế bào sụn bị tổn thương do những vi chấn thương, sản xuất một lượng lớn các cytokine gây viêm như IL1-$\beta$ và TNF-$\alpha$. Các cytokine này gây giảm tổng hợp collagen và tăng các men phân hủy protein (bao gồm các men phân hủy chất nền, các hóa chất trung gian gây viêm như IL-6, IL-8, BMP-2, prostaglandin-E2). Theo thời gian, chất nền sụn sẽ bị phá hủy từ từ làm sụn khớp giảm đặc tính cơ sinh học, dễ bị tổn thương hơn, đặc biệt là các tế bào sụn.
+
 Sự khởi động của quá trình viêm còn kích hoạt các tế bào trong màng hoạt mạc phóng thích các hóa chất trung gian như cytokine và các men phân hủy protein gây phá hủy lớp sụn khớp xung quanh. Sau đó những sản phẩm phân hủy từ sụn khớp do quá trình cơ học và hóa học lại kích thích sự tăng sinh mạch máu ở màng hoạt mạc góp phần tăng số lượng hóa chất trung gian gây viêm trong khớp. Vòng xoắn bệnh lý ngày càng tăng dần, không chỉ gây tổn thương sụn khớp nhiều hơn mà cả các thành phần khác trong đơn vị khớp. Điều này khẳng định vai trò quan trọng của quá trình viêm trong sinh lý bệnh của thoái hóa khớp.
 
 Khi tổn thương sụn khớp lan xuống tầng calci hóa, các mạch máu sẽ tăng sinh ở vùng xương dưới sụn, đưa các tế bào trung mô đến vùng tổn thương, kích hoạt quá trình sửa chữa. Các tế bào trung mô biệt hóa thành các tế bào sụn mới, tuy nhiên các tế bào này sản xuất ra hỗn hợp collagen týp 1 và týp 2, tạo nên lớp sụn sợi (fibrocartilage), có khả năng cơ sinh học kém hơn sụn trong (hyaline cartilage). Ngoài ra, các tế bào gốc sẽ biệt hóa thành hủy cốt bào và tạo cốt bào, tăng cường tạo xương tại vùng xương dưới sụn, dẫn đến xơ đặc vùng xương này. Hiện tượng tăng sinh mạch máu và tạo xương còn xuất hiện ở vùng màng xương chung quanh khớp hình thành các chồi xương. Mặc dù các cơ chế sửa chữa được huy động rất nhanh nhưng lớp sụn khớp tổn thương không thể phục hồi lại nguyên vẹn.
@@ -7061,6 +7977,36 @@ Thoái hóa khớp là bệnh lý ảnh hưởng đến tất cả các thành p
 
 1. Blom, A., Warwick, D., & Whitehouse, M. (2017). *Apley & Solomon's system of orthopaedics and trauma*. CRC Press.
 2. Cannada, L. K. (2014). *Orthopaedic knowledge update 11*. American Academy of Orthopaedic Surgeons.
+
+3. Bullough, P. G., & Bullough, P. G. (2004). Orthopaedic pathology (Vol. 442, No. 4). New York: Mosby.
+4. Rubin, R., Strayer, D. S., & Rubin, E. (Eds.). (2008). Rubin's pathology: clinicopathologic foundations of medicine. Lippincott Williams & Wilkins.
+
+## CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Thoái hóa khớp háng thường xuất hiện đầu tiên ở vùng nào của khớp háng?
+A. Vùng trên ngoài của khớp háng
+B. Vùng trên trong của khớp háng
+C. Vùng dưới trong của khớp háng
+D. Vùng dưới ngoài của khớp háng
+
+2. Hình ảnh nào trên X-quang cho thấy quá trình sửa chữa của đơn vị khớp khi tổn thương sụn khớp xảy ra?
+A. Tràn dịch khớp
+B. Chồi xương ở trung tâm
+C. Xơ đặc xương dưới sụn
+D. Nang xương dưới sụn
+
+3. Đây là hình ảnh mâm chày nhìn từ trên xuống, hình ảnh này phù hợp với bệnh lý nào sau đây?
+A. Thoái hóa khớp gối nguyên phát
+B. Tổn thương mâm chày sau chấn thương vùng gối
+C. Thoái hóa khớp gối sau nhiễm trùng khớp
+D. Bệnh lý khớp
+[Hình: mâm chày thoái hóa khớp gối]
+
+4. Dựa vào những hiểu biết về quá trình sửa chữa của đơn vị khớp trong thoái hóa khớp nguyên phát, theo bạn cơ chế nào sau đây phù hợp nhất với thuốc điều trị thoái hóa khớp hiện nay?
+A. Ứng chế các chất trung gian gây viêm làm chậm quá trình tổn thương sụn
+B. Kích thích tế bào sụn tăng sinh thay thế các tế bào sụn bị tổn thương
+C. Kích thích tế bào sụn tăng sản xuất chất nền sụn thay thế chất nền sụn bị tổn thương
+D. Tăng sinh mạch máu vùng xương dưới sụn để thúc đẩy quá trình sửa chữa sụn khớp
 
 5. Đây là hình ảnh chỏm xương đùi bị thoái hóa cắt dọc, dấu mũi tên trong hình là đặc điểm bệnh học nào của thoái hóa khớp?
 A. Chồi xương
@@ -7314,6 +8260,149 @@ C. Thuốc kháng viêm không steroid
 D. Thay đổi thói quen và tư thế không tốt
 
 Đáp án: 1D, 2B, 3C, 4A, 5B
+
+# ĐẠI CƯƠNG PHỤC HỒI CHỨC NĂNG
+
+Phạm Đình Ngân Thanh, Nguyễn Thế Luyến
+
+## MỤC TIÊU HỌC TẬP
+
+1. Liệt kê sáu (06) mục đích của Phục Hồi Chức Năng.
+2. Trình bày và phân tích năm (05) nguyên tắc Phục Hồi Chức Năng.
+3. Trình bày cách tiếp cận bệnh nhân dưới góc độ Phục Hồi Chức Năng.
+
+## 1. GIỚI THIỆU PHỤC HỒI CHỨC NĂNG
+
+Phục hồi chức năng (PHCN) là tiến trình điều trị theo mục tiêu bao gồm các biện pháp y học, xã hội, hướng nghiệp giáo dục nhằm tối đa hóa sự độc lập cá nhân của người có chức năng bị tổn thương do diễn tiến của bệnh nền và các thương tật thứ cấp, tạo cho người khuyết tật có cơ hội tham gia các hoạt động để tái hòa nhập xã hội.
+
+Chương trình PHCN cần có sự hợp tác giữa người bệnh, gia đình và các thành viên khác của nhóm PHCN để:
+
+- Xác định mục tiêu điều trị thực tế.
+- Thực hiện kế hoạch để người bệnh đạt chức năng tối ưu với tình trạng khiếm khuyết còn tồn tại (ngay cả khi không thể cải thiện tiến trình của bệnh lý gây ra khiếm khuyết đó).
+- Người bệnh tái hòa nhập cộng đồng.
+
+## 2. MỤC ĐÍCH PHỤC HỒI CHỨC NĂNG
+
+Tăng sự độc lập của người bệnh (lao động, sinh hoạt cá nhân) để giảm gánh nặng gia đình và xã hội.
+
+Giảm thời gian nằm viện.
+
+Sử dụng hiệu quả nhất hệ thống chăm sóc sức khỏe.
+
+Ngăn ngừa thương tật thứ cấp.
+
+Cải thiện chất lượng cuộc sống.
+
+Thay đổi tích cực suy nghĩ và thái độ của xã hội (chấp nhận người tàn tật là thành viên bình đẳng) và của bản thân người bệnh (chấp nhận tàn tật của mình và thái độ của xã hội để hợp tác trong công tác PHCN).
+
+## 3. CÁC PHƯƠNG PHÁP PHỤC HỒI CHỨC NĂNG
+
+Rất phong phú và đa dạng:
+
+Phương pháp can thiệp vào cơ thể người khuyết tật:
+Y học: Phẫu thuật chỉnh hình, Y học Nội khoa,... lượng giá và điều trị người bệnh.
+Phương pháp trợ giúp cho con người hoạt động:
+- Vật lý trị liệu: dùng các tác nhân vật lý và các hình thức vận động để trị liệu cho người bệnh.
+- Hoạt động trị liệu: sử dụng các "vận động chức năng" và các hoạt động để trị liệu (bao gồm các hoạt động về: chăm sóc bản thân, làm việc và giải trí).
+- Ngôn ngữ trị liệu: dùng các biện pháp tăng và thay thế phương tiện giao tiếp cho những người có rối loạn hoặc khó khăn về giao tiếp, đồng thời có những chương trình dành riêng cho người có vấn đề về nuốt.
+- Sản xuất chi giả, dụng cụ chính hình, dụng cụ trợ giúp đi lại (khung tập đi, nạng, xe lăn,...).
+- Tâm lý trị liệu.
+Phương pháp giúp đỡ người khuyết tật tham gia hội nhập xã hội:
+- Công tác xã hội.
+- Giáo dục đặc biệt: giáo dục hòa nhập, giáo dục chuyên biệt.
+- Dạy nghề.
+- Cải thiện môi trường.
+Trong các phương pháp PHCN đã nêu, 03 phương pháp đóng vai trò chủ lực là Vật lý trị liệu (VLTL), Hoạt động trị liệu (HĐTL) và Ngôn ngữ trị liệu (NNTL)
+
+**4. CÁC HÌNH THỨC PHỤC HỒI CHỨC NĂNG**
+
+Hiện có 03 hình thức PHCN đã được áp dụng:
+**PHCN tại trung tâm**: người bệnh đến các trung tâm có cán bộ chuyên khoa và trang thiết bị PHCN đầy đủ.
+Ưu điểm: kỹ thuật PHCN tốt, cán bộ được đào tạo chuyên khoa sâu.
+Nhược điểm: người bệnh phải đi xa, chi phí nhiều, số lượng người bệnh được PHCN ít, không đạt được mục tiêu hòa nhập xã hội.
+**PHCN ngoài trung tâm**: cán bộ chuyên khoa cùng phương tiện đến PHCN ở địa phương người bệnh sinh sống.
+Ưu điểm: người bệnh không phải đi xa, chi phí chấp nhận được, số lượng người bệnh được PHCN có tăng lên, người bệnh được PHCN tại môi trường mà họ sinh sống.
+Nhược điểm: cán bộ chuyên khoa không đáp ứng đủ.
+**PHCN dựa vào cộng đồng**: được triển khai qua sự cố gắng hợp tác của người bệnh, gia đình họ cũng như cộng đồng với dịch vụ xã hội, nghề nghiệp, giáo dục và sức khỏe một cách thích ứng.
+
+Ưu điểm: tỷ lệ người khuyết tật được phục hồi cao nhất, chi phí chấp nhận được, chất lượng PHCN cao vì đáp ứng được nhu cầu cơ bản của người bệnh (hội nhập xã hội, vui chơi, học hành, lao động, tăng thu nhập,...), là một thành tố của chiến lược chăm sóc sức khỏe ban đầu (có thể giải quyết được nhân lực, ngân quỹ và quản lý).
+
+Nhược điểm: không thực hiện được các kỹ thuật PHCN chuyên sâu và ở giai đoạn cấp tính của bệnh.
+
+## 5. CÁC NGUYÊN TẮC PHỤC HỒI CHỨC NĂNG
+
+Điều trị bệnh nền, tạo thuận lành thương.
+
+Giảm thiểu tình trạng khiếm khuyết và mất chức năng của người bệnh.
+
+Ngăn ngừa và điều trị các thương tật thứ cấp (là những thương tật phát sinh thêm trong quá trình điều trị do người bệnh không được chăm sóc tốt, toàn diện).
+
+Một số thương tật thứ cấp thường gặp do ít vận động hay nằm lâu:
+
+- Teo cơ (do cơ không được sử dụng trong thời gian dài).
+- Co rút mô mềm quanh khớp (do khớp không được hoạt động thường xuyên trong tầm độ bình thường của khớp).
+- Loãng xương (do giảm chịu lực, giảm sự co kéo của các gân cơ bám trên xương).
+- Rối loạn tuần hoàn (tình trạng tuần hoàn bị ứ trệ do ít vận động).
+- Loét do đè ép.
+- Hạ áp tư thế (do người bệnh nằm lâu hay không được đặt ở tư thế đứng trong thời gian dài).
+- Viêm phổi do ứ đọng đàm (thường gặp ở người bệnh nằm lâu ở tư thế nằm ngửa hay nằm nghiêng một bên).
+- Rối loạn cơ vòng (tình trạng táo bón, tiểu khó do bệnh nhân khó khăn trong việc vào nhà vệ sinh hay không thể dùng bô khi cần thiết trong thời gian dài).
+- Rối loạn tâm lý (thường do bệnh nhân ít hoạt động, bị cô lập, tách biệt khỏi môi trường quen thuộc).
+
+Cải thiện chức năng và hoạt động.
+
+Tăng cường khả năng tham gia của người bệnh.
+
+## 6. KHÁM VÀ LƯỢNG GIÁ TRONG CHUYÊN NGÀNH PHCN
+
+Thăm khám trong chuyên ngành PHCN khác cơ bản với các ngành Y học khác, chú ý đến cả hai phạm vi thực hiện chức năng tại gia đình và cộng đồng của người bệnh. Bác sĩ không chỉ xác định tổn thương thực thể mà còn cần xác định ảnh hưởng của các tổn thương đó lên chức năng. Phát hiện những vấn đề chức năng cho phép xác định mục tiêu phục hồi chức năng là yếu tố cơ bản để phát triển, hoạch định biện pháp điều trị và phục hồi chức năng.
+
+Thăm khám trong chuyên ngành PHCN để định được người bệnh bị khiếm khuyết, giảm chức năng hay tàn tật theo mô hình ICIDH (International Classification of Impairments, Disabilities, and Handicaps) như Tổ chức Y tế Thế giới đã định nghĩa năm 1980. Tuy người bệnh có thể đã khiếm khuyết nhưng có thể không dẫn đến giảm chức năng hay tàn tật, trừ khi những khiếm khuyết đó ngăn cản người bệnh thực hiện vai trò của mình tại nhà hoặc cộng đồng.
+
+**Khiếm khuyết (impairment):** là sự mất, thiếu hụt hay bất thường cấu trúc, chức năng, giải phẫu, sinh lý thường do bệnh hay tai nạn tạo nên. Ví dụ: cụt chi do tai nạn lao động, đục thủy tinh thể ở người đái tháo đường,...
+
+**Giảm chức năng (disability):** là mất hay giảm một phần hoặc nhiều chức năng nào đó của cơ thể do khiếm khuyết tạo nên. Ví dụ: do mất chi nên trở ngại việc đi lại và hoạt động, do đục thủy tinh thể nên mắt khó nhìn thấy,...
+
+**Tàn tật (handicap):** là tình trạng người bệnh do khiếm khuyết hay giảm chức năng cản trở người đó thực hiện vai trò của mình để tồn tại trong cộng đồng mà phải phụ thuộc một phần hoặc hoàn toàn vào người khác để có thể tồn tại, trong lúc các người khác cùng tuổi, giới, hoàn cảnh thực hiện được.
+
+## 7. KẾT LUẬN
+
+PHCN tham gia trong tất cả các giai đoạn của điều trị và có mặt ở tất cả các chuyên khoa, lồng ghép trong Y học điều trị và Y học dự phòng. PHCN ngày nay không phải là một công tác nhân đạo đơn thuần mà còn là một công tác có tính chất kinh tế, nhân lực và pháp lý sâu sắc. Do đó, PHCN cho người bệnh là một công tác được xã hội hóa ngày càng cao, đem lại kết quả ngày càng thiết thực với mục đích cuối cùng là giúp người bệnh tái hòa nhập cộng đồng, là nhiệm vụ không chỉ của riêng nhân viên y tế mà là của toàn xã hội.
+
+## TÀI LIỆU THAM KHẢO
+
+1. Bộ môn CTCH – PHCN ĐHYD Tp.HCM (2005), *Bài giảng bệnh học Chấn Thương Chỉnh Hình – Phục hồi chức năng tập 3*.
+2. Nguyễn Xuân Nghiên và cộng sự (2010), *Vật lý trị liệu - Phục Hồi Chức Năng*, Hà Nội.
+3. J. A. Delisa (1998), *Rehabilitation Medicine – Principles and Practice*, Lippincott Williams & Wilkins.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+1. Phương pháp nào giúp đỡ người bệnh tham gia hội nhập xã hội?
+A. Vật lý trị liệu
+B. Hoạt động trị liệu
+C. Dụng cụ trợ giúp
+D. Giáo dục chuyên biệt
+2. Có bao nhiêu hình thức phục hồi chức năng đã được áp dụng hiện nay?
+A. 01
+B. 02
+C. 03
+D. 04
+3. Ưu điểm của phục hồi chức năng tại trung tâm là gì?
+A. Tỷ lệ người bệnh được phục hồi cao nhất
+B. Cán bộ được đào tạo chuyên khoa sâu
+C. Chi phí chấp nhận được
+D. Đạt mục tiêu hòa nhập xã hội
+4. Có bao nhiêu nguyên tắc phục hồi chức năng?
+A. 03
+B. 04
+C. 05
+D. 06
+5. Cụt chi ở bệnh nhân sau tai nạn lao động được xếp vào phân loại nào theo mô hình ICIDH của Tổ chức Y tế Thế giới định nghĩa năm 1980?
+A. Bệnh
+B. Khiếm khuyết
+C. Giảm chức năng
+D. Tàn tật
+
+**Đáp án:** 1D, 2C, 3B, 4C, 5B
 
 # ĐẠI CƯƠNG MỘT SỐ PHƯƠNG PHÁP VẬT LÝ TRỊ LIỆU THÔNG DỤNG
 

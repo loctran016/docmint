@@ -1,14 +1,14 @@
-ĐẠI HỌC Y DƯỢC THÀNH PHỐ HỒ CHÍ MINH
+ĐẠI HỌC Y DƯỢC THÀNH PHỐ HỒ CHÍ MINH  
 BỘ MÔN NGOẠI
 
 GIÁO TRÌNH GIẢNG DẠY ĐẠI HỌC
 
 # Bệnh học Ngoại khoa Tiêu hóa
 
-Chủ biên: PGS.TS.BS. Phan Minh Trí
+Chủ biên: PGS.TS.BS. Phan Minh Trí  
 PGS.TS.BS. Đỗ Đình Công
 
-[Hình: Sơ đồ KIT và PDGFRA với các vị trí Exon, bên cạnh các hình ảnh y khoa minh họa]
+[Hình: Các minh họa y khoa gồm hình chụp X-quang khung đại tràng, sơ đồ cấu trúc thụ thể KIT và PDGFRA, hình ảnh đại thể và vi thể]
 
 NHÀ XUẤT BẢN Y HỌC
 
@@ -16,81 +16,77 @@ NHÀ XUẤT BẢN Y HỌC
 
 PHẦN I: BÀI CHÍNH
 
-BÀI 1: VIÊM RUỘT THỪA CẤP .................................................................................... 8
+BÀI 1: VIÊM RUỘT THỪA CẤP ............................................................................................ 8  
 *Nguyễn Văn Hải, Dương Bá Lập*
 
-BÀI 2: THỦNG Ổ LOÉT DẠ DÀY TÁ TRÀNG ........................................................... 32
+BÀI 2: THỦNG Ổ LOÉT DẠ DÀY TÁ TRÀNG ................................................................... 32  
 *Hoàng Đình Tuy, Nguyễn Võ Vĩnh Lộc*
 
-BÀI 3: HỘI CHỨNG Ứ ĐỌNG DẠ DÀY - HẸP MÔN VỊ ............................................. 49
+BÀI 3: HỘI CHỨNG Ứ ĐỌNG DẠ DÀY - HẸP MÔN VỊ ....................................................... 49  
 *Hoàng Danh Tấn, Nguyễn Phúc Minh*
 
-BÀI 4: TẮC RUỘT CƠ HỌC ........................................................................................... 75
+BÀI 4: TẮC RUỘT CƠ HỌC .................................................................................................... 75  
 *Nguyễn Văn Hải, Đặng Trường Thái*
 
-BÀI 5: CHẤN THƯƠNG GAN ..................................................................................... 101
+BÀI 5: CHẤN THƯƠNG GAN ............................................................................................. 101  
 *Nguyễn Quốc Vinh*
 
-BÀI 6: CHẤN THƯƠNG LÁCH .................................................................................... 121
+BÀI 6: CHẤN THƯƠNG LÁCH ........................................................................................... 121  
 *Dương Bá Lập, Trần Hồ*
 
-BÀI 7: UNG THƯ THỰC QUẢN ................................................................................. 138
+BÀI 7: UNG THƯ THỰC QUẢN .......................................................................................... 138  
 *Lâm Việt Trung, Trần Phùng Dũng Tiến, Nguyễn Võ Vĩnh Lộc*
 
-BÀI 8: CO THẮT TÂM VỊ ............................................................................................ 157
+BÀI 8: CO THẮT TÂM VỊ .................................................................................................... 157  
 *Lâm Việt Trung, Nguyễn Phúc Minh, Nguyễn Phát Đạt*
 
-BÀI 9: UNG THƯ DẠ DÀY ......................................................................................... 177
+BÀI 9: UNG THƯ DẠ DÀY ................................................................................................... 177  
 *Võ Duy Long, Nguyễn Vũ Tuấn Anh*
 
-BÀI 10: UNG THƯ ĐẠI TRÀNG ................................................................................. 194
+BÀI 10: UNG THƯ ĐẠI TRÀNG ........................................................................................... 194  
 *Nguyễn Hữu Thịnh, La Minh Đức*
 
-BÀI 11: UNG THƯ TRỰC TRÀNG ............................................................................ 220
+BÀI 11: UNG THƯ TRỰC TRÀNG ........................................................................................ 220  
 *Ung Văn Việt, Trần Đức Huy*
 
-BÀI 12: VIÊM TÚI THỪA ĐẠI TRÀNG ................................................................... 239
+BÀI 12: VIÊM TÚI THỪA ĐẠI TRÀNG ............................................................................... 239  
 *Lê Huy Lưu, Nguyễn Tuấn Anh*
 
-BÀI 13: SỎI ĐƯỜNG MẬT CHÍNH ............................................................................ 261
+BÀI 13: SỎI ĐƯỜNG MẬT CHÍNH ....................................................................................... 261  
 *Lê Quan Anh Tuấn, Vũ Quang Hưng*
 
-BÀI 14: SỎI TÚI MẬT ................................................................................................... 286
+BÀI 14: SỎI TÚI MẬT .......................................................................................................... 286  
 *Nguyễn Hồng Sơn, Đặng Quốc Việt, Phan Minh Trí*
 
-BÀI 15: UNG THƯ QUANH BÓNG VATER .............................................................. 312
+BÀI 15: UNG THƯ QUANH BÓNG VATER ........................................................................ 312  
 *Phan Minh Trí, Võ Trường Quốc*
 
-BÀI 16: UNG THƯ TẾ BÀO GAN .............................................................................. 333
+BÀI 16: UNG THƯ TẾ BÀO GAN ......................................................................................... 333  
 *Trần Công Duy Long, Lê Tiến Đạt*
 
-BÀI 17: THOÁT VỊ BẸN ĐÙI................................................................................................. 359
+BÀI 17: THOÁT VỊ BẸN ĐÙI ....................................................................................................... 359
 *Phạm Hữu Thông, Trần Quang Đại*
-
-BÀI 18: ÁP XE CẠNH HẬU MÔN............................................................................................. 381
+BÀI 18: ÁP XE CẠNH HẬU MÔN ................................................................................................. 381
 *Nguyễn Trung Tín*
-
-BÀI 19: RÒ HẬU MÔN.............................................................................................................. 400
+BÀI 19: RÒ HẬU MÔN ................................................................................................................... 400
 *Lê Châu Hoàng Quốc Chương, Trần Hoàng Ngâu*
-
-BÀI 20: BỆNH TRĨ .................................................................................................................... 421
+BÀI 20: BỆNH TRĨ .......................................................................................................................... 421
 *Lê Châu Hoàng Quốc Chương, Trần Hoàng Ngâu*
-
 PHẦN II: BÀI ĐỌC THÊM
-
-BÀI 21: VIÊM TỤY MẠN – SỎI TỤY ....................................................................................... 440
+BÀI 21: VIÊM TỤY MẠN – SỎI TỤY ............................................................................................ 440
 *Phan Minh Trí, Phạm Hồng Phú*
-
-BÀI 22: BỆNH ĐA POLYP ỐNG TIÊU HÓA............................................................................. 456
+BÀI 22: BỆNH ĐA POLYP ỐNG TIÊU HÓA ................................................................................ 456
 *Nguyễn Tạ Quyết*
-
-BÀI 23: U MÔ ĐỆM ĐƯỜNG TIÊU HÓA ................................................................................ 469
+BÀI 23: U MÔ ĐỆM ĐƯỜNG TIÊU HÓA ..................................................................................... 469
 *Nguyễn Hồng Sơn, Phan Minh Trí*
 
-[không rõ]
+# PHẦN I
 
-# VIÊM RUỘT THỪA CẤP
-Nguyễn Văn Hải, Dương Bá Lập
+[không rõ] [không rõ] [không rõ]
+
+[không rõ] [không rõ] [không rõ]
+
+# VIÊM RUỘT THỪA CẤP Nguyễn Văn Hải, Dương Bá Lập
 
 **MỤC TIÊU**
 1. Giải thích được cơ chế bệnh sinh của viêm ruột thừa cấp.
@@ -98,15 +94,15 @@ Nguyễn Văn Hải, Dương Bá Lập
 3. Thực hiện được cách tiếp cận hệ thống để chẩn đoán viêm ruột thừa cấp.
 4. Nêu được các phương pháp điều trị cho viêm ruột thừa cấp chưa biến chứng và có biến chứng.
 
-**Từ khóa:** viêm ruột thừa cấp, đám quánh ruột thừa, áp xe ruột thừa, viêm phúc mạc ruột thừa.
+**Từ khóa**: viêm ruột thừa cấp, đám quánh ruột thừa, áp xe ruột thừa, viêm phúc mạc ruột thừa.
 
 **1. ĐẠI CƯƠNG**
 
-Viêm ruột thừa cấp (VRT) là cấp cứu bụng ngoại khoa thường gặp nhất. Nguy cơ bị VRT trong suốt cuộc đời ở nam là 8,6% và ở nữ là 6,7%. Ở các nước phát triển, xuất độ VRT là 5,7-50/100.000 dân/năm với tuổi thường gặp nhất là 10-30 tuổi. Tại các bệnh viện từ tuyến huyện đến tuyến trung ương trong nước, số ca được chẩn đoán và điều trị VRT luôn chiếm tỷ lệ cao trong cấp cứu ngoại tổng quát.
+**Viêm ruột thừa cấp (VRT)** là cấp cứu bụng ngoại khoa thường gặp nhất. Nguy cơ bị VRT trong suốt cuộc đời ở nam là 8,6% và ở nữ là 6,7%. Ở các nước phát triển, xuất độ VRT là 5,7-50/100.000 dân/năm với tuổi thường gặp nhất là 10-30 tuổi. Tại các bệnh viện từ tuyến huyện đến tuyến trung ương trong nước, số ca được chẩn đoán và điều trị VRT luôn chiếm tỷ lệ cao trong cấp cứu ngoại tổng quát.
 
 Tuy là bệnh thường gặp nhưng do vị trí giải phẫu, cơ địa người bệnh, độc lực của vi trùng có thể khác nhau ở từng trường hợp nên biểu hiện lâm sàng của VRT rất đa dạng. Chẩn đoán VRT trong thực tế có thể rất dễ nhưng nhiều khi cũng rất khó. Mặc dù đã áp dụng các kỹ thuật chẩn đoán hình ảnh mới, thậm chí nội soi ổ bụng trong thời gian gần đây, tỷ lệ chẩn đoán nhầm viêm ruột thừa vẫn chưa giảm nhiều (ở mức 15,3%, tương đương với tỷ lệ thủng ruột thừa). Tỷ lệ chẩn đoán nhầm ở nữ cao hơn ở nam (22,2% so với 9,3%).
 
-Khi được chẩn đoán sớm và phẫu thuật kịp thời, VRT có tỷ lệ tử vong rất thấp (0,1-0,2%) và tỷ lệ biến chứng không nhiều. Nhưng nếu đến viện trễ, được chẩn đoán trễ hay mổ khi đã có biến chứng, tỷ lệ tử vong của VRT có thể lên đến 10% và nguy cơ tắc ruột do dính sau mổ luôn gắn với phần đời còn lại của người bệnh.
+Khi được chẩn đoán sớm và phẫu thuật kịp thời, VRT có tỷ lệ tử vong rất thấp (0,1- 0,2%) và tỷ lệ biến chứng không nhiều. Nhưng nếu đến viện trễ, được chẩn đoán trễ hay mổ khi đã có biến chứng, tỷ lệ tử vong của VRT có thể lên đến 10% và nguy cơ tắc ruột do dính sau mổ luôn gắn với phần đời còn lại của người bệnh.
 
 Tiến bộ về hình ảnh học, về phẫu thuật ít xâm hại cũng như các dữ liệu cập nhật về khả năng điều trị không mổ cho VRT đã làm thay đổi phần nào chiến lược tiếp cận chẩn đoán và điều trị VRT và các biến chứng trong những năm gần đây. Nhưng cho đến nay, tiêu chuẩn vàng cho điều trị VRT vẫn là cắt ruột thừa.
 
@@ -116,68 +112,63 @@ Về phôi thai học, từ tuần lễ thứ 6, ruột thừa bắt đầu đư
 
 Về giải phẫu, ba dải cơ dọc của đại tràng hội tụ tại đáy manh tràng, tạo nên lớp cơ dọc duy nhất của ruột thừa. Đây là mốc giải phẫu chắc chắn nhất để tìm gốc ruột thừa. Nhìn từ bên trong, lỗ ruột thừa là nơi ruột thừa đổ vào manh tràng, tại đây đôi khi có một nếp niêm mạc hình bán nguyệt gọi là van Gerlach.
 
-Trong khi gốc ruột thừa luôn cố định ở đáy manh tràng, đầu tự do của ruột thừa có thể xoay $360^{\circ}$ quanh gốc, làm cho ruột thừa có nhiều vị trí khác nhau so với manh tràng (Hình 1). Trong một số trường hợp, manh tràng lại không nằm ở hố chậu phải. Do ruột thừa có nhiều vị trí khác nhau trong ổ bụng, biểu hiện lâm sàng của bệnh VRT rất đa dạng, gây nhiều khó khăn cho việc chẩn đoán bệnh.
+Trong khi gốc ruột thừa luôn cố định ở đáy manh tràng, đầu tự do của ruột thừa có thể xoay $360^0$ quanh gốc, làm cho ruột thừa có nhiều vị trí khác nhau so với manh tràng (Hình 1). Trong một số trường hợp, manh tràng lại không nằm ở hố chậu phải. Do ruột thừa có nhiều vị trí khác nhau trong ổ bụng, biểu hiện lâm sàng của bệnh VRT rất đa dạng, gây nhiều khó khăn cho việc chẩn đoán bệnh.
 
-Cung cấp máu chính cho ruột thừa là động mạch ruột thừa, một nhánh của động mạch hồi đại tràng, chạy ở bờ tự do của mạc treo ruột thừa. Ngoài ra, ruột thừa còn có thể có thêm nguồn cung cấp máu phụ là một nhánh của động mạch mạc treo tràng sau. Tĩnh mạch ruột thừa dẫn máu từ ruột thừa đổ vào tĩnh mạch hồi – đại tràng, tĩnh mạch mạc treo tràng trên, rồi về tĩnh mạch cửa.
+Cung cấp máu chính cho ruột thừa là động mạch ruột thừa, một nhánh của động mạch hồi đại tràng, chạy ở bờ tự do của mạc treo ruột thừa. Ngoài ra, ruột thừa còn có thể thêm nguồn cung cấp máu phụ là một nhánh của động mạch manh tràng sau. Tĩnh mạch ruột thừa dẫn máu từ ruột thừa đổ vào tĩnh mạch hồi – đại tràng, tĩnh mạch mạc treo tràng trên, rồi về tĩnh mạch cửa.
 
-[Hình: Vị trí giải phẫu và máu nuôi ruột thừa]
-- Nhãn bên trái:
-  - Trước
-  - Sau manh tràng
-  - Cạnh manh tràng
-  - Sau
-  - Dưới manh tràng
-- Nhãn giữa:
-  - Trước hồi tràng
-  - Sau hồi tràng
-  - U nhô (dưới hồi tràng)
-  - Chậu (tiểu khung)
-- Nhãn bên phải:
-  - Động mạch hồi kết tràng
-  - Động mạch ruột thừa
-  - Mạc treo ruột thừa
+[Hình: Vị trí giải phẫu và máu nuôi ruột thừa. (Nguồn hình: Mwachaka P, et al, $2014^{(1)}$).]
 
-Hình 1. Vị trí giải phẫu và máu nuôi ruột thừa. (Nguồn hình: Mwachaka P, et al, $2014^{(1)}$).
+- Trước
+- Sau manh tràng
+- Cạnh manh tràng
+- Sau
+- Dưới manh tràng
+- Trước hồi tràng
+- Sau hồi tràng
+- Ụ nhỏ (dưới hồi tràng)
+- Chậu (tiểu khung)
+- Động mạch hồi kết tràng
+- Động mạch ruột thừa
+- Mạc treo ruột thừa
 
-Thành ruột thừa có nhiều mô bạch huyết. Bạch huyết từ ruột thừa được dẫn vào 8-15 mạch bạch huyết ở thân và đầu ruột thừa. Các mạch bạch huyết này đi vào mạc treo ruột thừa, một số phải đi qua hạch bạch huyết trong mạc treo ruột thừa, một số đi thẳng; sau đó hợp lại thành 3-4 mạch bạch huyết lớn hơn, rồi đổ vào hạch hồi-đại tràng trên và dưới.
+Thành ruột thừa có nhiều mô bạch huyết. Bạch huyết từ ruột thừa được dẫn vào 8-15 mạch bạch huyết ở thân và đầu ruột thừa. Các mạch bạch huyết này đi vào mạc treo ruột thừa qua các hạch bạch huyết ở bờ của mạc treo ruột thừa đi về các hạch bạch huyết nằm dọc theo động mạch hồi đại tràng.
+
+9 treo ruột thừa, một số phải đi qua hạch bạch huyết trong mạc treo ruột thừa, một số đi thẳng; sau đó hợp lại thành 3-4 mạch bạch huyết lớn hơn, rồi đổ vào hạch hồi-đại tràng trên và dưới.
 
 Ruột thừa được cung cấp thần kinh giao cảm và đối giao cảm (thần kinh X) qua đám rối mạc treo tràng trên. Các sợi thần kinh hướng tâm dẫn truyền cảm giác đau tạng từ ruột thừa đi theo thần kinh giao cảm vào tủy sống ở ngang mức khoanh tủy ngực 10. Trong khi đó, phúc mạc thành bụng vùng hố chậu phải bị chi phối bởi thần kinh gian sườn 10.
 
 Trước đây người ta cho rằng ruột thừa chỉ là tàn tích, không có chức năng rõ ràng. Về sau, nhiều nghiên cứu xác định ruột thừa có những chức năng liên quan đến miễn dịch:
 
-- Các tế bào đài lót trong lòng ruột thừa và manh tràng, đại tràng kế cận tiết ra một loại chất nhầy đặc biệt coi như là một lớp sơn kháng khuẩn cho phần ruột tại chỗ. Lớp nhầy này có chứa nồng độ cao các immunoglobulins típ A (IgA) tham gia vào hàng rào bảo vệ của niêm mạc ruột.
-
+- Các tế bào đài lót trong lòng ruột thừa và manh tràng, đại tràng kế cận tiết ra một loại chất nhày đặc biệt coi như là một lớp sơn kháng khuẩn cho phần ruột tại chỗ. Lớp nhày này có chứa nồng độ cao các immunoglobulins típ A (IgA) tham gia vào hàng rào bảo vệ của niêm mạc ruột.
 - Các tế bào ở nang bạch huyết ruột thừa chế tiết ra kháng thể, giúp kiểm soát các vi khuẩn thiết yếu cư ngụ tại vùng; cũng như dung nhận các kháng nguyên từ vi khuẩn, thức ăn, các men tiêu đạm trong đường tiêu hóa.
 
-**3. BỆNH SINH**
+## 3. BỆNH SINH
 
-Tắc nghẽn lòng ruột thừa được xem là sự kiện chính trong bệnh sinh ở hầu hết bệnh nhân VRT. Lòng ruột thừa có thể bị tắc do nhiều nguyên nhân như sỏi phân, tăng sản mô bạch huyết, dị vật (từ thức ăn như hạt trái cây, sợi rau.., hay barium sau chụp cản quang đường tiêu hóa), ký sinh trùng, khối u hoặc khối hạch phì đại. Tắc nghẽn lòng ruột thừa gây nên tình trạng ứ đọng dịch, làm áp lực trong lòng ruột thừa tăng, có thể đến 50 – 65 mmHg. Đồng thời, do ứ đọng, vi khuẩn trong lòng ruột thừa sẽ tăng sinh số lượng, sản sinh độc tố. Một khi áp lực trong lòng ruột thừa tăng quá áp lực của tĩnh mạch, xẹp và huyết khối các tiểu tĩnh mạch sẽ xảy ra. Do cấp máu từ các tiểu động mạch vẫn còn nhưng thoát lưu tĩnh mạch bị đình trệ nên mạch máu ở thành ruột thừa bị sung huyết và ứ huyết. Niêm mạc ruột thừa lúc này sẽ bị thiếu ôxy, loét, làm mất chức năng hàng rào niêm mạc. Vi khuẩn trong lòng ruột qua chỗ tổn thương niêm mạc xâm nhập vào thành ruột thừa, làm cho tổn thương thành ruột thừa càng nặng. Cuối cùng đưa đến tình trạng hoại tử và thủng ruột thừa. Cơ chế bệnh sinh này còn gọi là VRT tắc nghẽn (hình 2).
+Tắc nghẽn lòng ruột thừa được xem là sự kiện chính trong bệnh sinh ở hầu hết bệnh nhân VRT. Lòng ruột thừa có thể bị tắc do nhiều nguyên nhân như sỏi phân, tăng sản mô bạch huyết, dị vật (từ thức ăn như hạt trái cây, sợi rau..., hay barium sau chụp cản quang đường tiêu hóa), ký sinh trùng, khối u hoặc khối hạch phì đại. Tắc nghẽn lòng ruột thừa gây nên tình trạng ứ đọng dịch, làm áp lực trong lòng ruột thừa tăng, có thể đến $50 - 65\text{ mmHg}$. Đồng thời, do ứ đọng, vi khuẩn trong lòng ruột thừa sẽ tăng sinh số lượng, sản sinh độc tố. Một khi áp lực trong lòng ruột thừa tăng quá áp lực của tĩnh mạch, xẹp và huyết khối các tiểu tĩnh mạch sẽ xảy ra. Do cấp máu từ tiểu động mạch vẫn còn nhưng thoát lưu tĩnh mạch bị đình trệ nên mạch máu ở thành ruột thừa bị sung huyết và ứ huyết. Niêm mạc ruột thừa lúc này sẽ bị thiếu ôxy, loét, làm mất chức năng hàng rào niêm mạc. Vi khuẩn trong lòng ruột qua chỗ tổn thương niêm mạc xâm nhập vào thành ruột thừa, làm cho tổn thương thành ruột thừa càng nặng. Cuối cùng đưa đến tình trạng hoại tử và thủng ruột thừa. Cơ chế bệnh sinh này còn gọi là VRT tắc nghẽn (hình 2).
 
-Giải thích cơ chế bệnh sinh VRT như trên có vẻ hợp lý, đã được thừa nhận rộng rãi qua nhiều trăm năm, nhưng chưa được chứng tỏ cho mọi trường hợp VRT. Một số nghiên cứu gần đây cho thấy, trái ngược với điều thường nghĩ, tắc nghẽn lòng ruột thừa (thể hiện bằng tăng áp lực trong lòng ruột thừa khi đo và các dấu hiệu của tắc lòng ruột thừa) không gặp ở 90% bệnh nhân viêm ruột thừa mủ (phlegmonous appendix) mà chỉ gặp ở những bệnh nhân VRT hoại tử (gangrenous appendix). Ở những trường hợp VRT không tắc nghẽn, thương tổn viêm có thể bắt đầu từ một chỗ loét ở niêm mạc ruột thừa. Loét gây kích thích làm tăng tiết, rồi quá trình viêm lan dần theo hướng xuyên thành đến lớp cơ và lớp thanh mạc. Thành ruột thừa viêm phù nề ở mức độ nặng sẽ gây tắc các nhánh tận của động mạch ruột thừa, đưa đến tình trạng thiếu máu nuôi và hoại tử ruột thừa. Cơ chế này còn gọi là VRT xuất tiết. Trong cơ chế này, tắc lòng ruột thừa cũng có thể xảy ra, nhưng là hậu quả của quá trình viêm chứ không phải là yếu tố quyết định phát khởi bệnh.
+Giải thích cơ chế bệnh sinh VRT như trên có vẻ hợp lý, đã được thừa nhận rộng rãi qua nhiều trăm năm, nhưng chưa được chứng tỏ cho mọi trường hợp VRT. Một số nghiên cứu gần đây cho thấy, trái ngược với điều thường nghĩ, tắc nghẽn lòng ruột thừa (thể hiện bằng tăng áp lực trong lòng ruột thừa khi đo và các dấu hiệu của tắc lòng ruột thừa) không gặp ở 90% bệnh nhân viêm ruột thừa mủ (phlegmonous appendix) mà chỉ gặp ở những bệnh nhân VRT hoại tử (gangrenous appendix). Ở những trường hợp VRT không tắc nghẽn, tổn thương viêm có thể bắt đầu từ một chỗ loét ở niêm mạc ruột thừa. Loét gây kích thích làm tăng tiết, rồi quá trình viêm lan dần theo hướng xuyên thành đến lớp cơ và lớp thanh mạc. Thành ruột thừa viêm phù nề ở mức độ nặng sẽ gây tắc các nhánh tận của động mạch ruột thừa, đưa đến tình trạng thiếu máu nuôi và hoại tử ruột thừa. Cơ chế này còn gọi là VRT xuất tiết. Trong cơ chế này, tắc lòng ruột thừa rốt cuộc cũng có thể xảy ra, nhưng là hậu quả của quá trình viêm chứ không phải là yếu tố quyết định phát khởi bệnh.
 
-**Sơ đồ: Hình 2. Cơ chế bệnh sinh của viêm ruột thừa do tắc nghẽn.**
-- Tắc lòng ruột thừa --> Ứ chất tiết trong lòng, tăng sinh VK
-- Tăng áp lực trong lòng --> Thoát lưu tĩnh mạch và bạch huyết bị tổn thương
-- Sung huyết mạch --> Thiếu máu cục bộ
-- Thủng
+[Hình: Sơ đồ cơ chế bệnh sinh của viêm ruột thừa do tắc nghẽn]
 
-(Nguồn hình: https://epomedicine.com/medical-students/appendix-appendicitis-and-appendectomy/).
+- Tắc lòng ruột thừa --> Ứ chất tiết trong lòng, tăng sinh VK --> Tăng áp lực trong lòng --> Thoát lưu tĩnh mạch và bạch huyết bị tổn thương --> Sung huyết mạch --> Thiếu máu cục bộ --> Thủng
+
+**Hình 2.** Cơ chế bệnh sinh của viêm ruột thừa do tắc nghẽn. (Nguồn hình: https://epomedicine.com/medical-students/appendix-appendicitis-and-appendicectomy/).
 
 Theo cơ chế bệnh sinh trên, đa số các trường hợp VRT tắc nghẽn sẽ tiến triển đến tình trạng thủng/vỡ ruột thừa và gây viêm phúc mạc, điều này đã được thực tế xác nhận. Trong khi đó, thể VRT xuất tiết có thể diễn tiến đa dạng hơn, phụ thuộc vào sức đề kháng của người bệnh. Ngoài diễn tiến đến hoại tử ruột thừa gây viêm phúc mạc, ruột thừa viêm có thể diễn tiến thành đám quánh ruột thừa (plastron), áp xe ruột thừa; thậm chí, nếu tình trạng viêm của niêm mạc được giải quyết sớm, ruột thừa có thể trở về tình trạng bình thường hoàn toàn hoặc để lại tàn tích xơ hóa, dính, gập góc hay tạo u nhầy ruột thừa.
 
-4. CHẨN ĐOÁN VIÊM RUỘT THỪA CẤP
+# 4. CHẨN ĐOÁN VIÊM RUỘT THỪA CẤP
 
-4.1. Triệu chứng cơ năng
+## 4.1. Triệu chứng cơ năng
 
-Đau bụng: là triệu chứng xuất hiện đầu tiên và rất thường có (>95% trường hợp). Khởi đầu, đau ở vùng quanh rốn hoặc trên rốn. Thường chỉ đau âm ỉ, ít khi đau dữ dội hay đau thành cơn. Sau 6-12 giờ, đau chuyển xuống bụng dưới bên phải với mức độ tăng dần. Kiểu đau di chuyển này là triệu chứng đáng tin cậy của VRT cấp. Tuy nhiên, ở khoảng 25% trường hợp, bệnh nhân cảm nhận đau ngay từ đầu ở hố chậu phải chứ không có đau di chuyển. Trong các trường hợp ruột thừa ở vị trí giải phẫu bất thường, bệnh nhân có thể cảm nhận đau ở các vị trí khác như: đau hông lưng (ruột thừa sau manh tràng), đau hạ vị (ruột thừa ở tiểu khung), đau hạ sườn phải (ruột thừa dưới gan).
+**Đau bụng:** là triệu chứng xuất hiện đầu tiên và rất thường có (>95% trường hợp). Thường chỉ **đau âm ỉ**, ít khi đau dữ dội hay đau thành cơn. Sau 6-12 giờ, đau có xu hướng **tăng dần**. Kiểu đau di chuyển này là triệu chứng đáng tin cậy của VRT cấp. Tuy nhiên, ở **khoảng 25%** trường hợp, bệnh nhân có thể không có đau di chuyển. Trong các trường hợp khác, bệnh nhân có thể cảm nhận đau ở các vị trí khác như: đau hông lưng (ruột thừa sau thận), đau hạ sườn phải (ruột thừa dưới gan).
 
-Rối loạn tiêu hóa: bệnh nhân có thể có các rối loạn tiêu hóa như chán ăn/ăn không ngon, nôn/buồn nôn, táo bón hay tiêu chảy. Đáng lưu ý là chán ăn/ăn không ngon miệng tuy là triệu chứng không điển hình nhưng rất thường có trong VRT cấp (>90% trường hợp), đến mức có tác giả cho là nếu bệnh nhân không có chán ăn thì cần phải xem lại chẩn đoán VRT. Buồn nôn và nôn có thể gặp ở 60-80% các trường hợp, xuất hiện sau đau bụng, thường là nôn khan, chỉ thoáng qua 1-2 lần. Tiêu chảy ít gặp, nếu có thì thường ở VRT cấp sau hồi tràng. Ở trẻ em, tiêu chảy có thể là biểu hiện của VRT thể nhiễm độc.
+**Rối loạn tiêu hóa:** bệnh nhân có thể có các rối loạn tiêu hóa như **chán ăn/ăn không ngon**, nôn/buồn nôn, táo bón hay tiêu chảy. Đây tuy là triệu chứng không điển hình nhưng rất thường có trong VRT cấp (>90% trường hợp), đến mức có tác giả cho là nếu bệnh nhân không có chán ăn thì cần phải xem lại chẩn đoán VRT. Buồn nôn và nôn có thể xuất hiện sau đau bụng, thường là nôn khan, chỉ thoáng qua và thường ở thể VRT cấp sau hồi tràng. Ở thể VRT cấp có thể nhiễm độc.
 
-Trình tự xuất hiện các triệu chứng cũng có vai trò trong chẩn đoán phân biệt bệnh. Murphy nhấn mạnh trình tự xuất hiện gần như hằng định của các triệu chứng là: đau bụng dưới phải, rồi đến nôn, sau đó mới có sốt (còn gọi là tam chứng Murphy); nếu trình tự này thay đổi thì phải nghi ngờ chẩn đoán VRT.
+Trình tự xuất hiện các triệu chứng có vai trò trong chẩn đoán phân biệt bệnh. Murphy nhấn mạnh trình tự xuất hiện các triệu chứng là: đau bụng dưới phải, rồi đến nôn, sau đó mới có sốt (còn gọi là tam chứng Murphy); nếu trình tự này thay đổi thì phải nghi ngờ chẩn đoán VRT.
 
-4.2. Triệu chứng thực thể
+## 4.2. Triệu chứng thực thể
 
-Đa số bệnh nhân sẽ có đau khi ấn (tenderness) ở vùng bụng 1/4 dưới phải. Đây là dấu hiệu quan trọng để chẩn đoán và chẩn đoán phân biệt nên cần phải được ghi nhận là có hay không. Các điểm đau trội thường được nhắc đến là McBurney, Lanz, Clado, nhưng do vị trí giải phẫu của ruột thừa khác nhau nên có thể không có điểm đau cố định thật chính xác cho mọi trường hợp. Bệnh nhân cũng có thể dùng ngón tay chỉ đúng vị trí đau mà người thầy thuốc khám ghi nhận (dấu hiệu ngón tay chỉ). Một số bệnh nhân có tăng cảm da ở vùng tạo bởi ba đường thẳng nối rốn với gai chậu trước trên bên phải và củ mu (còn gọi là tam giác tăng cảm da Sherren) khi ruột thừa viêm hoại tử nằm áp vào thành bụng trước.
+Đa số bệnh nhân sẽ có **đau khi ấn** (tenderness) ở **vùng bụng 1/4 dưới phải**. Đây là dấu hiệu quan trọng để chẩn đoán và chẩn đoán phân biệt nên cần phải được ghi nhận là có hay không. Các điểm đau thường được ghi nhận là McBurney, Lanz, Clado, nhưng do vị trí giải phẫu của ruột thừa khá thay đổi nên có thể không có điểm đau cố định thật chính xác cho mọi trường hợp. Bệnh nhân cũng có thể dùng ngón tay chỉ đúng vị trí (dấu hiệu ngón tay chỉ). Một số bệnh nhân có điểm đau ở nơi nối rốn với gai chậu trước trên bên phải và có thể dùng ngón tay chỉ đúng vị trí đau (dấu hiệu ngón tay chỉ). Một số bệnh nhân có thể không có điểm đau cố định mà người thầy thuốc khám ghi nhận **tăng cảm da** ở vùng tạo bởi ba đường thẳng nối rốn với gai chậu trước trên bên phải và thành bụng trước.
 
 [Hình: Tam giác tăng cảm da Sherren (trái) và dấu hiệu ngón tay chỉ chỗ đau (phải). SHERREN'S TRIANGLE]
 
@@ -191,30 +182,30 @@ Nếu các triệu chứng không rõ ràng trong lần thăm khám đầu tiên
 
 [Hình: Một số dấu hiệu và nghiệm pháp trong thăm khám bệnh nhân nghi viêm ruột thừa: (A) Dấu hiệu Rovsing, (B) nghiệm pháp cơ bịt, (C) nghiệm pháp cơ thắt lưng tư thế nghiêng trái, (D) nghiệm pháp cơ thắt lưng tư thế nằm ngửa.]
 
-4.3. Triệu chứng toàn thân
+**Hình 4.** Một số dấu hiệu và nghiệm pháp trong thăm khám bệnh nhân nghi viêm ruột thừa: (A) Dấu hiệu Rovsing, (B) nghiệm pháp cơ bịt, (C) nghiệm pháp cơ thắt lưng tư thế nghiêng trái, (D) nghiệm pháp cơ thắt lưng tư thế nằm ngửa.
 
-Sốt thường nhẹ, khoảng 37,5°C – 38°C, nhưng 25-50% bệnh nhân VRT cấp có thể có thân nhiệt ở mức bình thường (<37,5°C) khi vào viện. Sốt cao ≥ 39°C gợi ý VRT đã có biến chứng. Trường hợp đến trễ khi đã có viêm phúc mạc hay trường hợp VRT thể nhiễm độc, bệnh nhân có thể có: môi khô, lưỡi dơ, vẻ mặt nhiễm khuẩn-nhiễm độc, thở nhanh, mạch nhanh, huyết áp tụt.
+## 4.3. Triệu chứng toàn thân
 
-4.4. Cận lâm sàng
+**Sốt thường nhẹ**, khoảng $37,5^\circ\text{C} - 38^\circ\text{C}$, nhưng 25-50% bệnh nhân VRT cấp có thể có thân nhiệt ở mức bình thường ($<37,5^\circ\text{C}$) khi vào viện. Sốt cao $\ge 39^\circ\text{C}$ gợi ý VRT đã có biến chứng. Trường hợp đến trễ khi đã có viêm phúc mạc hay trường hợp VRT thể nhiễm độc, bệnh nhân có thể có: môi khô, lưỡi dơ, vẻ mặt nhiễm khuẩn-nhiễm độc, thở nhanh, mạch nhanh, huyết áp tụt.
 
-4.4.1. Công thức máu
+## 4.4. Cận lâm sàng
 
-Số lượng bạch cầu thường tăng ở mức độ vừa phải, với tỷ lệ bạch cầu đa nhân trung tính chiếm đa số (thường > 75% trong 78% các trường hợp). Số lượng bạch cầu tăng cao > 18.000/mm³ gợi ý VRT có thể đã có biến chứng. Một nghiên cứu cho thấy tăng bạch cầu có độ nhạy 76%, độ đặc hiệu 52%, giá trị tiên đoán dương 42% và giá trị tiên đoán âm 82% trong chẩn đoán VRT. Nói chung, đếm số lượng bạch cầu là xét nghiệm rẻ tiền, nhanh chóng nhưng không đặc hiệu. Không có ngưỡng giá trị nào của công thức bạch cầu có ý nghĩa xác định hay loại trừ chắc chắn chẩn đoán VRT.
+### 4.4.1. Công thức máu
 
-4.4.2. C-reactive protein (CRP)
+Số lượng bạch cầu thường tăng ở mức độ vừa phải, với tỷ lệ bạch cầu đa nhân trung tính chiếm đa số (thường $>75\%$ trong $78\%$ các trường hợp). Số lượng bạch cầu tăng cao $>18.000/\text{mm}^3$ gợi ý VRT có thể đã có biến chứng. Một nghiên cứu cho thấy tăng bạch cầu có độ nhạy $76\%$, độ đặc hiệu $52\%$, giá trị tiên đoán dương $42\%$ và giá trị tiên đoán âm $82\%$ trong chẩn đoán VRT. Nói chung, đếm số lượng bạch cầu là xét nghiệm rẻ tiền, nhanh chóng nhưng không đặc hiệu. Không có ngưỡng giá trị nào của công thức bạch cầu có ý nghĩa xác định hay loại trừ chắc chắn chẩn đoán VRT.
 
-CRP là yếu tố phản ứng viêm trong giai đoạn cấp tính do gan tạo ra để đáp ứng lại tình trạng nhiễm khuẩn. Lượng CRP trong máu tăng trong vòng 6-12 giờ sau khi có tình trạng viêm mô cấp tính. Một số nghiên cứu tiền cứu ở những bệnh nhân trường thành nghi VRT có triệu chứng kéo dài hơn 24 giờ ghi nhận giá trị tiên đoán âm tính là 100% nếu CRP bình thường.
+### 4.4.2. C-reactive protein (CRP)
 
-4.4.3. Chẩn đoán hình ảnh
+CRP là yếu tố phản ứng viêm trong giai đoạn cấp tính do gan tạo ra để đáp ứng lại tình trạng nhiễm khuẩn. Lượng **CRP trong máu tăng** trong vòng 6-12 giờ sau khi có tình trạng viêm mô cấp tính. Một số nghiên cứu tiền cứu ở những bệnh nhân trường thành nghi VRT có triệu chứng kéo dài hơn 24 giờ ghi nhận giá trị tiên đoán âm tính là 100% nếu CRP bình thường.
 
-(1) Siêu âm:
-Siêu âm bụng là phương pháp rẻ tiền, sẵn có ở mọi tuyến, không xâm hại mà lại có giá trị nên cần được áp dụng rộng rãi trong chẩn đoán ở bệnh nhân nghi ngờ VRT. Dấu hiệu VRT trên siêu âm có thể xem như một bằng chứng tương đối khách quan bổ sung thêm cho lâm sàng để quyết định các xử trí phù hợp cũng như thông tin cho người bệnh và thân nhân. Trên siêu âm bụng, hình ảnh ruột thừa viêm là một cấu trúc hình ống thành dày, đường kính ngoài > 6 mm, không xẹp khi ép đầu dò trên siêu âm, có dạng ngón tay (khi cắt dọc) hoặc hình bìa (khi cắt ngang). Thay đổi do viêm của mỡ quanh ruột thừa có thể làm cho phần này có echo dày, gặp ở 50% trường hợp. Khi VRT vỡ, siêu âm có thể thấy tụ dịch thành ổ quanh manh tràng hay lan tỏa trong ổ bụng. Dấu hiệu khác có thể thấy là sỏi phân và không có hơi trong lòng ruột thừa. Nhiều nghiên cứu cho thấy độ nhạy của siêu âm là 83%, độ đặc hiệu 93%, giá trị tiên đoán dương 86%, giá trị tiên đoán âm 94% trong chẩn đoán VRT. Siêu âm còn có thể giúp chẩn đoán phân biệt các nguyên nhân gây đau bụng khác, đặc biệt là ở phụ nữ trong độ tuổi sinh đẻ. Nhược điểm của siêu âm là phụ thuộc người đọc. Siêu âm bụng cũng gặp khó khăn ở những bệnh nhân béo phì, hay bệnh nhân đến trễ, bụng trướng hơi nhiều. Đối với phụ nữ mang thai và trẻ nhỏ, siêu âm nên được ưu tiên sử dụng.
+## 4.4.3. Chẩn đoán hình ảnh
+
+**(1) Siêu âm:**
+Siêu âm bụng là phương pháp rẻ tiền, sẵn có ở mọi tuyến, không xâm hại mà lại có giá trị nên cần được áp dụng rộng rãi trong chẩn đoán ở bệnh nhân nghi ngờ VRT. Dấu hiệu VRT trên siêu âm có thể xem như một bằng chứng tương đối khách quan bổ sung thêm cho lâm sàng để quyết định các xử trí phù hợp cũng như thông tin cho người bệnh và thân nhân. Trên siêu âm bụng, hình ảnh ruột thừa viêm là một cấu trúc hình ống thành dày, đường kính ngoài > 6 mm, không xẹp khi ép đầu dò trên siêu âm, có dạng ngón tay (khi cắt dọc) hoặc hình bia (khi cắt ngang). Thay đổi do viêm của mỡ quanh ruột thừa có thể làm cho phần này có echo dày, gặp ở 50% trường hợp. Khi VRT vỡ, siêu âm có thể thấy tụ dịch thành ổ quanh manh tràng hay lan tỏa trong ổ bụng. Dấu hiệu khác có thể thấy là sỏi phân và không có hơi trong lòng ruột thừa. Nhiều nghiên cứu cho thấy độ nhạy của siêu âm là 83%, độ đặc hiệu 93%, giá trị tiên đoán dương 86%, giá trị tiên đoán âm 94% trong chẩn đoán VRT. Siêu âm còn có thể giúp chẩn đoán phân biệt các nguyên nhân gây đau bụng khác, đặc biệt là ở phụ nữ trong độ tuổi sinh đẻ. Nhược điểm của siêu âm là phụ thuộc người đọc. Siêu âm bụng cũng gặp khó khăn ở những bệnh nhân béo phì, hay bệnh nhân đến trễ, bụng trướng hơi nhiều. Đối với phụ nữ mang thai và trẻ nhỏ, siêu âm nên được ưu tiên sử dụng.
 
 [Hình: Dấu hiệu viêm ruột thừa trên siêu âm bụng: hình bìa với đường kính ruột thừa 9,5mm, thành dày, kèm thâm nhiễm mỡ kế cận (trái), hình dấu ngón tay với sỏi phân trong lòng (phải).]
 
-Hình 5. Dấu hiệu viêm ruột thừa trên siêu âm bụng: hình bìa với đường kính ruột thừa 9,5mm, thành dày, kèm thâm nhiễm mỡ kế cận (trái), hình dấu ngón tay với sỏi phân trong lòng (phải).
-
-(2) Chụp cắt lớp vi tính bụng:
+**(2) Chụp cắt lớp vi tính bụng:**
 Chụp cắt lớp vi tính (CLVT) bụng có giá trị chẩn đoán các trường hợp nghi ngờ VRT mà siêu âm bụng không kết luận được hay cần phân biệt với các nguyên nhân khác của bụng cấp ngoại khoa. Trên chụp CLVT, các dấu hiệu gợi ý viêm ruột thừa là:
 
 ruột thừa căng (đường kính > 6 mm), thành dày > 2 mm, tăng đậm độ của mỡ (do thâm nhiễm viêm) quanh ruột thừa. Khi VRT vỡ có thể thấy gián đoạn thành ruột thừa với dịch tụ thành ổ (áp xe) hay dịch tự do trong ổ bụng (viêm phúc mạc), có khi thấy cả sỏi phân rơi ra ngoài ruột thừa.
@@ -223,16 +214,15 @@ Chụp CLVT có giá trị cao hơn siêu âm trong chẩn đoán VRT (độ nh�
 
 [Hình: Chụp CLVT bụng: hình ảnh ruột thừa viêm có sỏi phân gần gốc ruột thừa (trái); ruột thừa viêm vỡ ở đầu với sỏi phân rơi ra ngoài (phải).]
 
-**Hình 6.** Chụp CLVT bụng: hình ảnh ruột thừa viêm có sỏi phân gần gốc ruột thừa (trái); ruột thừa viêm vỡ ở đầu với sỏi phân rơi ra ngoài (phải).
+Hình 6. Chụp CLVT bụng: hình ảnh ruột thừa viêm có sỏi phân gần gốc ruột thừa (trái); ruột thừa viêm vỡ ở đầu với sỏi phân rơi ra ngoài (phải).
 
 [Hình: Chụp CLVT bụng trong VRT vỡ: (A) Ổ áp xe lớn (các mũi tên thẳng) với dịch và khí bên trong, nằm kế ruột thừa viêm (các mũi tên cong); (B) Ruột thừa viêm (các mũi tên đen) với chỗ gián đoạn thành (mũi tên thẳng, trắng), có sỏi phân gốc ruột thừa (mũi tên cong, trắng), dịch tự do ổ bụng (ngôi sao trắng) và ruột non dãn, ứ dịch do viêm phúc mạc.]
 
-**Hình 7.** Chụp CLVT bụng trong VRT vỡ: (A) Ổ áp xe lớn (các mũi tên thẳng) với dịch và khí bên trong, nằm kế ruột thừa viêm (các mũi tên cong); (B) Ruột thừa viêm (các mũi tên đen) với chỗ gián đoạn thành (mũi tên thẳng, trắng), có sỏi phân gốc ruột thừa (mũi tên cong, trắng), dịch tự do ổ bụng (ngôi sao trắng) và ruột non dãn, ứ dịch do viêm phúc mạc.
+Hình 7. Chụp CLVT bụng trong VRT vỡ: (A) Ổ áp xe lớn (các mũi tên thẳng) với dịch và khí bên trong, nằm kế ruột thừa viêm (các mũi tên cong); (B) Ruột thừa viêm (các mũi tên đen) với chỗ gián đoạn thành (mũi tên thẳng, trắng), có sỏi phân gốc ruột thừa (mũi tên cong, trắng), dịch tự do ổ bụng (ngôi sao trắng) và ruột non dãn, ứ dịch do viêm phúc mạc.
 
-Hiện nay, Hội Phẫu thuật cấp cứu thế giới và châu Âu khuyên chỉ áp dụng chụp CLVT bụng khi cần thiết cho các trường hợp nghi VRT mà lâm sàng và siêu âm bụng không giúp chẩn đoán được, tránh lạm dụng, nhất là ở phụ nữ có thai và trẻ em. Khi cần sử dụng, một số tác giả khuyên chụp CLVT bụng với liều tia thấp (bằng ¼ liều chuẩn) và không cần cho uống chất cản quang [2,3].
+Hiện nay, Hội Phẫu thuật cấp cứu thế giới và châu Âu khuyên chỉ áp dụng chụp CLVT bụng khi cần thiết cho các trường hợp nghi VRT mà lâm sàng và siêu âm bụng không giúp chẩn đoán được, tránh lạm dụng, nhất là ở phụ nữ có thai và trẻ em. Khi cần sử dụng, một số tác giả khuyên chụp CLVT bụng với liều tia thấp (bằng 1/4 liều chuẩn) và không cần cho uống chất cản quang [2,3].
 
 (3) Chụp cộng hưởng từ:
-
 Chụp Cộng hưởng từ (CHT) cũng là phương pháp có độ nhạy cao (97-100%) và độ đặc hiệu cao (95-99%) trong chẩn đoán VRT cấp. Nhược điểm của CHT là đắt tiền, không sẵn có ở mọi nơi, và đọc kết quả phải cần chuyên gia. Vì thế, chỉ nên áp dụng nếu có điều kiện và giới hạn cho những trường hợp VRT khó chẩn đoán ở bệnh nhi, phụ nữ có thai hay bệnh nhân bị chống chỉ định chụp CLVT bụng.
 
 Như vậy, chẩn đoán VRT trước hết dựa vào chi tiết bệnh sử và các triệu chứng toàn thân, thực thể phát hiện được khi thăm khám. Xét nghiệm máu thường chỉ giúp xác định đang có hiện tượng viêm nhiễm, còn các phương pháp chẩn đoán hình ảnh sẽ cung cấp thêm thông tin khi bệnh cảnh không điển hình và giúp phân biệt với các bệnh lý khác.
@@ -241,7 +231,7 @@ Như vậy, chẩn đoán VRT trước hết dựa vào chi tiết bệnh sử v
 
 Triệu chứng và dấu hiệu lâm sàng điển hình cho VRT chỉ có ở khoảng 60-70% trường hợp, do đó, chẩn đoán sai, chẩn đoán muộn là điều khó có thể tránh tuyệt đối. Với mong muốn hạn chế sai sót và đạt được hiệu quả chẩn đoán cao hơn, nhiều tác giả đã đưa ra những bảng hay hệ thống tính điểm để phân tầng bệnh nhân, từ đó có cách xử trí thích hợp. Sau đây là 2 bảng điểm được dùng nhiều nhất:
 
-### 4.5.1. Bảng điểm Alvarado = MANTRELS
+### 4.5.1. Bảng điểm Alvarado
 
 Do Alfredo Alvarado ở Florida (Mỹ) đề xuất năm 1986 [4]. Còn gọi là bảng điểm MANTRELS (theo chữ đầu tiếng Anh của 8 thành tố trong bảng: Migration of pain, Anorexia, Nausea/vomiting, Tenderness, Rebound pain, Elevation of temperature, Leukocytosis, Shift to the left). Tổng điểm tối đa là 10. Nếu bệnh nhân có tổng điểm là 9-10 thì rất nhiều khả năng bị VRT; điểm 7-8: có lẽ bị VRT; điểm 5-6: không chắc bị VRT; điểm < 5 (0-4 điểm): dường như không phải VRT.
 
@@ -250,20 +240,20 @@ Do Alfredo Alvarado ở Florida (Mỹ) đề xuất năm 1986 [4]. Còn gọi l�
 Do Andersson đề xuất năm 2008 [5]. Bảng điểm này chi tiết hơn về mức độ đau, số lượng bạch cầu, và đưa thêm giá trị CRP vào. Tổng điểm tối đa là 12. Nếu tổng điểm là 0 - 4: khả năng bị VRT thấp, 5-8: khả năng bị VRT trung bình, 9-12: khả năng bị VRT rất cao.
 
 Bảng 1. Bảng điểm Alvarado/MANTRELS | Bảng 2. Bảng điểm AIR
---- | ---
-Đặc tính | Điểm | Đặc tính | Điểm
-Đau di chuyển (đến bụng dưới phải) | 1 | Nôn | 1
-Chán ăn | 1 | Đau hố chậu phải | 1
-Buồn nôn/nôn | 1 | Phản ứng dội/ đề kháng: - nhẹ | 1
-Ấn đau bụng dưới phải | 2 | - vừa | 2
-Có phản ứng dội | 1 | - nhiều | 3
-Sốt | 1 | Sốt $\ge 38,5^0C$ | 1
-Bạch cầu tăng | 2 | Bạch cầu ($x\ 10^9/l$): - 10 - 14,9 | 1
-Công thức bạch cầu chuyển trái | 1 | - $\ge 15$ | 2
-| | Tỉ lệ BC đa nhân: - 70-84% | 1
-| | - $\ge 85\%$ | 2
-| | CRP: - 10 - 49 mg/l | 1
-| | - $\ge 50$ mg/l | 2
+---|---
+| **Đặc tính** | **Điểm** | **Đặc tính** | **Điểm**
+| Đau di chuyển (đến bụng dưới phải) | 1 | Nôn | 1
+| Chán ăn | 1 | Đau hố chậu phải | 1
+| Buồn nôn/nôn | 1 | Phản ứng dội/ đề kháng: - nhẹ | 1
+| Ấn đau bụng dưới phải | 2 | - vừa | 2
+| Có phản ứng dội | 1 | - nhiều | 3
+| Sốt | 1 | Sốt $\geq 38,5^\circ\text{C}$ | 1
+| Bạch cầu tăng | 2 | Bạch cầu ($x\text{ }10^9/\text{l}$): - 10 – 14,9 | 1
+| Công thức bạch cầu chuyển trái | 1 | - $\geq 15$ | 2
+| | | Tỉ lệ BC đa nhân: - 70-84% | 1
+| | | - $\geq 85\%$ | 2
+| | | CRP: - 10 – 49 mg/l | 1
+| | | - $\geq 50\text{ mg/l}$ | 2
 
 Hướng dẫn năm 2016 của Hội Phẫu thuật cấp cứu thế giới về chẩn đoán và điều trị VRT cấp đã phân tầng bệnh nhân theo điểm Alvarado/AIR thành 3 nhóm nguy cơ: thấp ($<5$ điểm), trung bình (5-8 điểm) và cao ($>8$ điểm). Theo đó: nhóm nguy cơ thấp có thể cho theo dõi ngoại trú; nhóm nguy cơ trung bình cần được giữ lại, theo dõi, làm chẩn đoán; nhóm nguy cơ cao cần phải nhập viện ngay. Tuy vậy, các bảng điểm trong thực tế chỉ có tính tham khảo, không thể thay thế hoàn toàn việc khám đi khám lại kỹ lưỡng, theo dõi sát sao để chỉ định các phương pháp chẩn đoán hình ảnh hay biện pháp can thiệp phù hợp.
 
@@ -281,24 +271,25 @@ Trong trường hợp đã theo dõi lâm sàng và sử dụng các phương ti
 
 Năm 2015, dựa trên dấu hiệu ruột thừa và ổ bụng thấy được qua nội soi, kết hợp với dấu hiệu lâm sàng và hình ảnh, Gomes đã đưa ra bảng phân độ VRT cấp liên quan đến lựa chọn cách xử trí như sau:
 
-Bảng 3. Phân độ viêm ruột thừa cấp dựa vào dấu hiệu lâm sàng, hình ảnh và mổ nội soi ổ bụng (Nguồn hình: độ 0, 2A, 3B, 4 lấy từ Gomes CA, et al, 2015$^{(6)}$)
+Bảng 3. Phân độ viêm ruột thừa cấp dựa vào dấu hiệu lâm sàng, hình ảnh và mổ nội soi ổ bụng
+(Nguồn hình: độ 0, 2A, 3B, 4 lấy từ Gomes CA, et al, 2015[6])
 
 | Định nghĩa | Hình ảnh đại thể trong mổ nội soi ổ bụng |
 | --- | --- |
-| **VRT cấp chưa biến chứng** | [Hình: 0] |
-| **Độ 0**: Ruột thừa trông có vẻ bình thường (viêm nội mạc/viêm quanh ruột thừa) | |
-| **Độ 1**: Ruột thừa viêm (sung huyết, phù nề ± có giả mạc mà không hay chỉ có ít dịch quanh đại tràng) | [Hình: 1] |
-| **VRT cấp có biến chứng** | [Hình: 2A], [Hình: 2B] |
-| **Độ 2**: Hoại tử | |
-| - **2A**: Hoại tử một đoạn ở thân (không hay có ít dịch quanh đại tràng) | |
-| - **2B**: Hoại tử ở gốc (không hay có ít dịch quanh đại tràng) | |
-| **Độ 3**: Khối u viêm | [Hình: 3B], [Hình: 4] |
-| - **3A**: Đám quánh | |
-| - **3B**: Áp xe ≤ 5cm mà không có hơi tự do ổ bụng | |
-| - **3C**: Áp xe > 5cm mà có hơi tự do ổ bụng | |
-| **Độ 4**: Thủng gây viêm phúc mạc toàn thể, có hay không có hơi tự do ổ bụng | |
+| VRT cấp chưa biến chứng | [Hình: 0] |
+| Độ 0: Ruột thừa trông có vẻ bình thường (viêm nội mạc/viêm quanh ruột thừa) | |
+| Độ 1: Ruột thừa viêm (sung huyết, phù nề ± có giả mạc mà không hay chỉ có ít dịch quanh đại tràng) | [Hình: 1] |
+| VRT cấp có biến chứng | [Hình: 2A, 2B] |
+| Độ 2: Hoại tử | |
+| - 2A: Hoại tử một đoạn ở thân (không hay có ít dịch quanh đại tràng) | |
+| - 2B: Hoại tử ở gốc (không hay có ít dịch quanh đại tràng) | |
+| Độ 3: Khối u viêm | [Hình: 3B] |
+| - 3A: Đám quánh | |
+| - 3B: Áp xe ≤ 5cm mà không có hơi tự do ổ bụng | |
+| - 3C: Áp xe > 5cm mà có hơi tự do ổ bụng | |
+| Độ 4: Thủng gây viêm phúc mạc toàn thể, có hay không có hơi tự do ổ bụng | [Hình: 4] |
 
-## 5. CÁC THỂ LÂM SÀNG
+5. CÁC THỂ LÂM SÀNG
 
 Biểu hiện lâm sàng của VRT rất đa dạng, tùy thuộc vào cơ chế bệnh sinh gây viêm, vị trí giải phẫu của ruột thừa, lứa tuổi và cơ địa của bệnh nhân. Vì tính đa dạng đó, Henri Mondor đã viết: “Không phải một bệnh viêm ruột thừa mà là những bệnh viêm ruột thừa”.
 
@@ -326,13 +317,13 @@ Vị trí than đau có nằm cao hơn, ở vùng hông phải. Các dấu hiệ
 
 5.3.2. Viêm ruột thừa tiểu khung
 
-Bệnh nhân có triệu chứng tiểu lắt nhắt, tiểu gắt (do kích thích bàng quang) hay mót rặn (do kích thích trực tràng). Khám bụng thấy vị trí ấn đau thấp ở hố chậu phải, gần về phía khớp mu. Thăm trực tràng hay âm đạo có thể thấy ấn đau phía bên phải. Nghiệm pháp cơ bịt có thể dương tính: bệnh nhân đau ở hạ vị và mặt trong đùi phải khi ở tư thế nằm ngửa, háng-gối phải gấp $90^\circ$ và đùi xoay vào trong.
+Bệnh nhân có triệu chứng tiểu lắt nhắt, tiểu gắt (do kích thích bàng quang) hay mót rặn (do kích thích trực tràng). Khám bụng thấy vị trí ấn đau thấp ở hố chậu phải, gần về phía khớp mu. Thăm trực tràng hay âm đạo có thể thấy ấn đau phía bên phải. Nghiệm pháp cơ bịt có thể dương tính: bệnh nhân đau ở hạ vị và mặt trong đùi phải khi ở tư thế nằm ngửa, háng-gối phải gấp $90^0$ và đùi xoay vào trong.
 
-## 5.3.3. Viêm ruột thừa sau hồi tràng
+### 5.3.3. Viêm ruột thừa sau hồi tràng
 
 Bệnh nhân có triệu chứng tiêu chảy do hồi tràng bị kích thích hay có khi lại có triệu chứng tắc ruột do tình trạng viêm phúc mạc khu trú làm liệt các quai hồi tràng nằm cạnh ổ viêm.
 
-## 5.3.4. Viêm ruột thừa dưới gan
+### 5.3.4. Viêm ruột thừa dưới gan
 
 Do manh tràng quay dở dang trong quá trình phôi thai, nằm dưới sườn phải hay do đầu ruột thừa quặt ngược lên cao (thường gặp khi ruột thừa ở vị trí cạnh/sau manh tràng). Vị trí đau và ấn đau sẽ ở cao, gần về phía gan, dễ nhầm với bệnh cảnh viêm túi mật cấp hay viêm đường mật.
 
@@ -342,14 +333,14 @@ Ngoài các vị trí trên, cần lưu ý VRT ở bệnh nhân đảo ngược 
 
 ### 5.4.1. Ở trẻ em
 
-VRT là cấp cứu ngoại khoa ổ bụng thường gặp nhất ở trẻ em. Biểu hiện có thể không điển hình như ở người lớn, một phần vì trẻ càng nhỏ khai thác bệnh sử càng khó. Các triệu chứng cơ năng điển hình chỉ gặp trong $50 - 68\%$ các trường hợp. Các triệu chứng thực thể điển hình gặp trong $17 - 69\%$ các trường hợp. Trẻ nhỏ có thể sợ hãi hay khóc làm cho nhận định triệu chứng khi khám bụng khó. Trẻ lớn dễ thăm khám và nhận định triệu chứng hơn vì thành bụng mỏng. Nhưng ở trẻ em cũng có những bệnh nội khoa hay gặp cần chẩn đoán phân biệt với VRT như viêm hạch mạc treo, viêm phổi thùy, sốt xuất huyết...
+VRT là cấp cứu ngoại khoa ổ bụng thường gặp nhất ở trẻ em. Biểu hiện có thể không điển hình như ở người lớn, một phần vì trẻ càng nhỏ khai thác bệnh sử càng khó. Các triệu chứng cơ năng điển hình chỉ gặp trong 50 – 68% các trường hợp. Các triệu chứng thực thể điển hình gặp trong 17 – 69% các trường hợp. Trẻ nhỏ có thể sợ hãi hay khóc làm cho nhận định triệu chứng khi khám bụng khó. Trẻ lớn dễ thăm khám và nhận định triệu chứng hơn vì thành bụng mỏng. Nhưng ở trẻ em cũng có những bệnh nội khoa hay gặp cần chẩn đoán phân biệt với VRT như viêm hạch mạc treo, viêm phổi thùy, sốt xuất huyết...
 
-Ở trẻ em, ngoài bảng điểm Alvarado/Manstrels, người ta cũng thường sử dụng bảng điểm PAS (Pediatric appendicitis score) được Samuel đề xuất năm 2002 $^7$. Bảng điểm này cũng có 8 thành tố tương tự bảng điểm Alvarado, chỉ khác là thay phản ứng dội trực tiếp bằng phản ứng dội gián tiếp (đau hố chậu phải khi ho, nhảy lò cò, gõ) và cho dấu hiệu này 2 điểm, đồng thời giảm điểm tăng bạch cầu còn 1 điểm. Tổng điểm cũng là 10. Nếu PAS $\le 5$ điểm thì chỉ cần theo dõi, $\ge 6$ điểm thì nghĩ đến VRT. Cũng có nghiên cứu cho thấy khả năng VRT cấp là $> 70\%$ nếu PAS $> 7$, còn nếu PAS $< 2$ thì loại trừ VRT cấp đúng $99\%$.
+Ở trẻ em, ngoài bảng điểm Alvarado/Manstrels, người ta cũng thường sử dụng bảng điểm PAS (Pediatric appendicitis score) được Samuel đề xuất năm 2002 $^{[7]}$. Bảng điểm này cũng có 8 thành tố tương tự bảng điểm Alvarado, chỉ khác là thay phản ứng dội trực tiếp bằng phản ứng dội gián tiếp (đau hố chậu phải khi ho, nhảy lò cò, gõ) và cho dấu hiệu này 2 điểm, đồng thời giảm điểm tăng bạch cầu còn 1 điểm. Tổng điểm cũng là 10. Nếu PAS $\le$ 5 điểm thì chỉ cần theo dõi, $\ge$ 6 điểm thì nghĩ đến VRT. Cũng có nghiên cứu cho thấy khả năng VRT cấp là > 70% nếu PAS > 7, còn nếu PAS < 2 thì loại trừ VRT cấp đúng 99%.
 
 Bảng 4. Bảng điểm viêm ruột thừa cấp trẻ em (PAS)
 
 | Triệu chứng | Điểm số |
-| --- | --- |
+|:--- |:--- |
 | Đau di chuyển xuống hố chậu phải | 1 |
 | Chán ăn | 1 |
 | Nôn ói | 1 |
@@ -360,15 +351,15 @@ Bảng 4. Bảng điểm viêm ruột thừa cấp trẻ em (PAS)
 | Công thức bạch cầu chuyển trái | 1 |
 | Tổng số | 10 |
 
-## 5.4.2. Ở người già
+5.4.2. Ở người già
 
 Chẩn đoán VRT ở người già thường chậm trễ do triệu chứng lâm sàng không rõ ràng, diễn tiến bệnh kéo dài hơn và bạch cầu/máu tăng ít hơn so với người trẻ. Mặt khác, người già có sức đề kháng với nhiễm khuẩn yếu hơn và ruột thừa được cung cấp máu nuôi kém hơn do có tình trạng xơ vữa mạch máu. Vì vậy, tỷ lệ viêm phúc mạc ruột thừa ở người già cao hơn, có thể đến 50% ở bệnh nhân trên 65 tuổi.
 
-Hai thể lâm sàng thường gặp ở VRT người già là bán tắc ruột và giả u. Cần phân biệt với các trường hợp có khối u ở manh tràng - đại tràng phải, bệnh túi thừa đại tràng, xoắn đại tràng chậu hông, đau sau nhiễm Herpes. Chụp CLVT bụng rất có giá trị trong chẩn đoán các trường hợp nghi ngờ VRT cấp ở người già nhưng phải lưu ý ý đến chức năng thận khi chỉ định.
+Hai thể lâm sàng thường gặp ở VRT người già là bán tắc ruột và giả u. Cần phân biệt với các trường hợp có khối u ở manh tràng - đại tràng phải, bệnh túi thừa đại tràng, xoắn đại tràng chậu hông, đau sau nhiễm Herpes. Chụp CLVT bụng rất có giá trị trong chẩn đoán các trường hợp nghi ngờ VRT cấp ở người già nhưng phải lưu ý đến chức năng thận khi chỉ định.
 
-## 5.5. Theo cơ địa
+5.5. Theo cơ địa
 
-### 5.5.1. Ở phụ nữ mang thai
+5.5.1. Ở phụ nữ mang thai
 
 VRT xảy ra với tỷ lệ 1/1.400 phụ nữ mang thai. Chẩn đoán VRT cấp ở phụ nữ mang thai là một thử thách vì các biểu hiện chán ăn, nôn ói, đau bụng có thể là biểu hiện của VRT nhưng cũng có thể là các than phiền thường gặp trong thai kỳ bình thường. Mặt khác, điểm đau có thể thay đổi do ruột thừa bị đẩy lên cao và ra ngoài trong quá trình phát triển của thai.
 
@@ -376,50 +367,53 @@ Trong 3 tháng đầu thai kỳ, tư thế nằm để khám bụng và các d�
 
 Chẩn đoán phân biệt VRT trong thai kỳ không chỉ bao gồm các bệnh lý thường gặp ở phụ nữ không mang thai mà còn có các tình huống cấp cứu sản khoa như: thai ngoài tử cung, viêm màng nuôi (chorioamnionitis), dọa sinh non,...
 
-## 5.5.2. Người béo phì
+5.5.2. Người béo phì
 
-Ở người béo phì, thành bụng dày nên rất khó đánh giá dấu hiệu đề kháng và cảm ứng phúc mạc khi thăm khám bụng. Để giúp chẩn đoán, nên thăm trực tràng hoặc tìm dấu hiệu Rovsing (ấn hổ chậu trái bệnh nhân cảm giác đau ở hố chậu phải). Về chẩn đoán hình ảnh, nên khảo sát trước bằng siêu âm bụng, nhưng nếu siêu âm khó đánh giá ở người béo phì thì nên chỉ định chụp CLVT bụng sớm.
+Ở người béo phì, thành bụng dày nên rất khó đánh giá dấu hiệu đề kháng và cảm ứng phúc mạc khi thăm khám bụng. Để giúp chẩn đoán, nên thăm trực tràng hoặc tìm dấu hiệu Rovsing (ấn hố chậu trái bệnh nhân cảm giác đau ở hố chậu phải). Về chẩn đoán hình ảnh, nên khảo sát trước bằng siêu âm bụng, nhưng nếu siêu âm khó đánh giá ở người béo phì thì nên chỉ định chụp CLVT bụng sớm.
 
-## 5.5.3. Người báng bụng
+5.5.3. Người báng bụng
 
 Ở những bệnh nhân xơ gan, suy thận có báng bụng, đôi khi có tình trạng nhiễm khuẩn dịch báng gây đau bụng. Chẩn đoán VRT trên những bệnh nhân này rất khó, đôi khi phải cần chọc dò dịch báng hoặc nội soi ổ bụng chẩn đoán.
 
-## 5.5.4. Suy giảm miễn dịch
+5.5.4. Suy giảm miễn dịch
 
 VRT có thể xảy ra ở những bệnh nhân suy giảm miễn dịch như bệnh nhân ghép tạng, đang hóa trị, mắc bệnh ác tính về máu hoặc bị hội chứng suy giảm miễn dịch mắc phải (AIDS). Chẩn đoán VRT ở những cơ địa này là một thách thức lớn vì triệu chứng đau bụng có thể do nhiều nguyên nhân nội và ngoại khoa bao gồm: viêm gan, viêm tụy (do thuốc hoặc do nhiễm CMV), viêm túi mật không do sỏi, nhiễm khuẩn cơ hội trong ổ bụng (CMV, lao), bệnh ác tính thứ phát (Lymphoma, Kaposi's sarcoma), thương hàn... Mặt khác, sốt và bạch cầu tăng có thể không rõ. Các phương tiện chẩn đoán hình ảnh, nhất là chụp CLVT bụng có thể giúp ích cho chẩn đoán.
 
-## 5.6. Theo giai đoạn bệnh
+5.6. Theo giai đoạn bệnh
 
 Hiện nay, liên quan đến chọn lựa cách điều trị, người ta chia VRT thành VRT không (hay chưa) biến chứng và VRT có biến chứng. VRT biến chứng bao gồm VRT hoại tử, thủng tạo thành khối viêm, áp xe hay viêm phúc mạc. Phần trên đã đề cập đến thể lâm sàng của VRT chưa biến chứng và có thể cả VRT hoại tử (chưa vỡ). Phần dưới đây đề cập đến các biến chứng khác của VRT.
 
-## 5.6.1. Viêm phúc mạc
+5.6.1. Viêm phúc mạc
 
 Có nhiều thể viêm phúc mạc ruột thừa:
+
 - Viêm phúc mạc tức thì hay viêm phúc mạc sớm (trong vòng 24 giờ): chỉ vài giờ sau khi khởi đau, bệnh nhân đã có biểu hiện của viêm phúc mạc với đau nhiều, đau khắp bụng, khám có dấu hiệu nhiễm khuẩn, bụng ấn đau và đề kháng lan tỏa. Thể
 
 diễn biến nhanh này thường gặp ở trẻ nhỏ. Ở người lớn, cần phân biệt với thủng loét dạ dày tá tràng.
 
-- **Viêm phúc mạc sau 24 giờ:** thường khoảng 24-48 giờ sau khi bắt đầu đau, bệnh nhân thấy đau trội lên. Khám thấy có hội đủ các triệu chứng của một viêm phúc mạc khu trú hay toàn thể. Viêm phúc mạc khu trú thường có biểu hiện toàn thân nhẹ hơn viêm phúc mạc toàn thể, đau và đề kháng thành bụng chỉ khu trú ở phần bụng $\frac{1}{4}$ dưới phải, các phần khác của bụng còn mềm và ấn không đau.
-- **Viêm phúc mạc hai thì:** lúc đầu bệnh nhân có triệu chứng của VRT. Sau nhiều giờ (có hoặc không có điều trị nội khoa), các triệu chứng giảm, bệnh nhân thấy dễ chịu hơn, có vẻ như hết bệnh. Nhưng sau 4 – 5 ngày, bệnh nhân đột ngột đau trở lại, khi khám có đầy đủ các dấu hiệu của viêm phúc mạc. Khoảng thời gian giảm đau ở giữa tiến trình bệnh – còn gọi là “thời gian giảm đau dối trá” - làm dễ nhầm với một số bệnh nội khoa như viêm dạ dày, nhiễm khuẩn tiêu hóa, viêm ruột,... Hậu quả là bệnh nhân được chẩn đoán ở giai đoạn trễ, mổ trễ.
-- **Viêm phúc mạc ba thì:** lúc đầu là các biểu hiện của VRT (thì 1), VRT không được xử lý diễn biến đến áp xe (thì 2), áp xe vỡ gây viêm phúc mạc (thì 3). Bệnh nhân thường bị chẩn đoán nhầm với tắc ruột hay viêm phúc mạc do nguyên nhân khác.
+- Viêm phúc mạc sau 24 giờ: thường khoảng 24-48 giờ sau khi bắt đầu đau, bệnh nhân thấy đau trội lên. Khám thấy có hội đủ các triệu chứng của một viêm phúc mạc khu trú hay toàn thể. Viêm phúc mạc khu trú thường có biểu hiện toàn thân nhẹ hơn viêm phúc mạc toàn thể, đau và đề kháng thành bụng chỉ khu trú ở phần bụng 1/4 dưới phải, các phần khác của bụng còn mềm và ấn không đau.
 
-## 5.6.2. Đám quánh ruột thừa
+- Viêm phúc mạc hai thì: lúc đầu bệnh nhân có triệu chứng của VRT. Sau nhiều giờ (có hoặc không có điều trị nội khoa), các triệu chứng giảm, bệnh nhân thấy dễ chịu hơn, có vẻ như hết bệnh. Nhưng sau 4 – 5 ngày, bệnh nhân đột ngột đau trở lại, khi khám có đầy đủ các dấu hiệu của viêm phúc mạc. Khoảng thời gian giảm đau ở giữa tiến trình bệnh – còn gọi là “thời gian giảm đau dối trá” - làm dễ nhầm với một số bệnh nội khoa như viêm dạ dày, nhiễm khuẩn tiêu hóa, viêm ruột,...Hậu quả là bệnh nhân được chẩn đoán ở giai đoạn trễ, mổ trễ.
+
+- Viêm phúc mạc ba thì: lúc đầu là các biểu hiện của VRT (thì 1), VRT không được xử lý diễn biến đến áp xe (thì 2), áp xe vỡ gây viêm phúc mạc (thì 3). Bệnh nhân thường bị chẩn đoán nhầm với tắc ruột hay viêm phúc mạc do nguyên nhân khác.
+
+### 5.6.2. Đám quánh ruột thừa
 
 Đám quánh ruột thừa thường xảy ra ở những bệnh nhân có sức đề kháng tốt, có khả năng khu trú ổ nhiễm khuẩn. Ruột thừa viêm được các cấu trúc xung quanh (mạc nối lớn, ruột non) bao bọc lại và hình thành đám quánh khoảng 4 – 5 ngày sau. Đám quánh đạt kích thước tối đa vào khoảng ngày thứ 10, sau đó giảm dần và thường biến mất trước tuần lễ thứ 4. Bệnh nhân thường khai đau hố chậu phải đã vài ngày, đau có giảm hơn lúc đầu nhưng không hết hẳn và bắt đầu thấy xuất hiện một mảng cứng ở hố chậu phải. Khám bụng dưới bên phải phát hiện một mảng chắc, giới hạn không rõ, không di động và ít đau khi ấn. Các biểu hiện nhiễm khuẩn toàn thân không rầm rộ như trong viêm phúc mạc hay áp xe ruột thừa.
 
-Đám quánh ruột thừa được xem là diễn biến thuận lợi của VRT. Có thể tự khỏi hoàn toàn nhưng cũng có thể ruột thừa bị viêm lại về sau. Một số trường hợp tiến thành áp xe ruột thừa. Cần phân biệt với các bệnh như ung thư manh tràng, lao hồi manh tràng.
+Đám quánh ruột thừa được xem là diễn biến thuận lợi của VRT. Có thể tự khỏi hoàn toàn nhưng cũng có thể ruột thừa bị viêm lại về sau. Một số trường hợp diễn tiến thành áp xe ruột thừa. Cần phân biệt với các bệnh như ung thư manh tràng, lao hồi manh tràng.
 
-## 5.6.3. Áp xe ruột thừa
+### 5.6.3. Áp xe ruột thừa
 
-Là một ổ mủ có giới hạn rõ rệt với xoang bụng, do ruột thừa vỡ được thành hóa bởi các cấu trúc xung quanh (thành bụng, mạc nối lớn, các quai ruột). Thường bệnh nhân có các triệu chứng VRT khoảng 3-5 ngày trước nhập viện, các triệu chứng lúc đầu có thể rõ rệt hay không. Khám có biểu hiện nhiễm khuẩn rõ, sốt cao. Trường hợp áp xe ruột thừa ở hố chậu phải sẽ sờ được một khối giới hạn khá rõ, không di động, mật độ mềm, ấn đau nhiều. Cần phân biệt với tình trạng viêm quanh khối u manh tràng.
+Là một ổ mủ có giới hạn rõ rệt với xoang bụng, do ruột thừa vỡ được thành hóa bởi các cấu trúc xung quanh (thành bụng, mạc nối lớn, các quai ruột). Thường bệnh nhân có triệu chứng VRT khoảng 3-5 ngày trước nhập viện, các triệu chứng lúc đầu có thể rõ rệt hay không. Khám có biểu hiện nhiễm khuẩn rõ, sốt cao. Trường hợp áp xe ruột thừa ở hố chậu phải sẽ sờ được một khối giới hạn khá rõ, không di động, mật độ mềm, ấn đau nhiều. Cần phân biệt với tình trạng viêm quanh khối u manh tràng.
 
-[Hình 7. Các vị trí áp xe tùy theo vị trí ruột thừa viêm. (Nguồn hình: Acute appendicitis www.intranet.tdmu.edu.ua).]
+[Hình: Các vị trí áp xe tùy theo vị trí ruột thừa viêm. (Nguồn hình: Acute appendicitis www.intranet.tdmu.edu.ua/).]
 
 Khi ruột thừa nằm ở vị trí bất thường (sau manh tràng, trong tiểu khung, giữa các quai ruột,...) bị viêm và biến chứng áp xe ruột thừa, có thể khó sờ thấy khối áp xe khi khám vùng hố chậu phải. Khi đó, thăm trực tràng hay âm đạo, làm nghiệm pháp cơ thắt lưng chậu... sẽ giúp chẩn đoán. Siêu âm bụng và chụp CLVT giúp xác định và đánh giá ổ áp xe.
 
-## 6. ĐIỀU TRỊ
+**6. ĐIỀU TRỊ**
 
-### 6.1. Viêm ruột thừa cấp
+**6.1. Viêm ruột thừa cấp**
 
 Tiêu chuẩn vàng cho điều trị VRT cấp vẫn là phẫu thuật cắt bỏ ruột thừa. Phẫu thuật nên được tiến hành càng sớm càng tốt, tránh trì hoãn không cần thiết. Chỉ định phẫu thuật là đương nhiên, không còn bàn cãi cho VRT có biến chứng hoại tử, VRT thủng gây viêm phúc mạc.
 
@@ -427,11 +421,16 @@ Nếu bệnh nhân đến sớm và không có kèm các bệnh nội khoa cần
 
 Có thể tiến hành phẫu thuật cắt ruột thừa qua mổ mở như trước đây, nhưng hiện tại, cắt ruột thừa qua nội soi được áp dụng phổ biến, thậm chí cho những VRT đã có biến chứng viêm phúc mạc. Mổ nội soi tận dụng được những ưu điểm của phẫu thuật ít xâm hại như: ít đau, phục hồi nhanh, ít biến chứng nhiễm khuẩn vết mổ và dính ruột sau mổ; nhưng tất nhiên, cần có trang bị và phẫu thuật viên đã được huấn luyện.
 
-[Hình: Cắt ruột thừa mổ mở: (A) cắt mạc treo, (B) và (C) cột và cắt gốc ruột thừa, (D) và (E) khâu vùi gốc ruột thừa.]
+[Hình: A, B, C, D, E]
 
-[Hình: Cắt ruột thừa nội soi: cắt mạc treo ruột thừa (trái) và cột gốc ruột thừa (phải). (Nguồn hình: Delibegovic S. Emerg Med (Los Angel), 2015^{[8]})]
+**Hình 8. Cắt ruột thừa mổ mở:** (A) cắt mạc treo, (B) và (C) cột và cắt gốc ruột thừa, (D) và (E) khâu vùi gốc ruột thừa.
 
-Trong 2 thập niên gần đây, nhiều nghiên cứu đã chứng minh tính khả thi và hiệu quả của điều trị bảo tồn không mổ (bằng kháng sinh và theo dõi) trong VRT cấp. Tuy vậy, các phân tích gộp mới nhất cho thấy: nếu định nghĩa thành công của điều trị không mổ là “giảm triệu chứng VRT mà không có biến chứng hay tái phát cần phải can thiệp về sau” thì tỷ lệ thành công ngay có thể 77- 95%, nhưng sau 1 năm sẽ giảm chỉ còn 62-
+[Hình: Cắt ruột thừa nội soi: cắt mạc treo ruột thừa (trái) và cột gốc ruột thừa (phải).]
+
+**Hình 9. Cắt ruột thừa nội soi:** cắt mạc treo ruột thừa (trái) và cột gốc ruột thừa (phải).
+(Nguồn hình: Delibegovic S. Emerg Med (Los Angel), 2015[8])
+
+Trong 2 thập niên gần đây, nhiều nghiên cứu đã chứng minh tính khả thi và hiệu quả của điều trị bảo tồn không mổ (bằng kháng sinh và theo dõi) trong VRT cấp. Tuy vậy, các phân tích gộp mới nhất cho thấy: nếu định nghĩa thành công của điều trị không mổ là “giảm triệu chứng VRT mà không có biến chứng hay tái phát cần phải can thiệp về sau” thì tỷ lệ thành công có thể 77- 95%, nhưng sau 1 năm sẽ giảm chỉ còn 62-
 
 71%. Điều trị không mổ có nguy cơ để sót các khối u ruột thừa, vốn chiếm 0,6-0,9% trường hợp. Trong khi đó, với cắt ruột thừa nội soi đang phổ biến hiện nay, bệnh nhân không phải nằm viện lâu, ít bị các biến chứng của mổ mở cắt ruột thừa. Vì thế, các hướng dẫn của Hội Phẫu thuật cấp cứu thế giới và châu Âu gần gần đây đều xác định rằng: cắt ruột thừa nội soi vẫn là điều trị ưu tiên cho VRT cấp; điều trị bằng kháng sinh có thể chỉ định cho những bệnh nhân VRT cấp không biến chứng ở vùng xa xôi, những bệnh nhân có nhiều nguy cơ cho cuộc mổ hay từ chối mổ.
 
@@ -440,9 +439,7 @@ Trong 2 thập niên gần đây, nhiều nghiên cứu đã chứng minh tính 
 Xu hướng điều trị áp xe ruột thừa hiện nay trên Y văn là điều trị bảo tồn bằng kháng sinh ± chọc hút/dẫn lưu qua da trước, nếu không đáp ứng hay áp xe quá lớn mới mổ. Cụ thể:
 
 - Áp xe ruột thừa nhỏ ≤ 4 cm: điều trị kháng sinh trước, nếu không đỡ thì xem xét phối hợp chọc hút/dẫn lưu qua da.
-
 - Áp xe ruột thừa > 4-6 cm: điều trị kháng sinh phối hợp chọc hút/dẫn lưu, nếu không đỡ thì mổ.
-
 - Áp xe ruột thừa ≥ 7 cm, áp xe giữa các quai ruột: nhiều khả năng thất bại với điều trị bảo tồn, nên mổ.
 
 Gần đây hơn, đề xuất của Richmond [9] không nhắc tới kích thước ổ áp xe nữa. Áp xe ruột thừa mà trên CLVT thấy có thể dẫn lưu qua da được thì điều trị bằng chọc hút/dẫn lưu kết hợp kháng sinh. Nếu thấy không thể dẫn lưu qua da được về mặt kỹ thuật thì mổ dẫn lưu kết hợp kháng sinh. Áp xe ruột thừa tiểu khung thì có thể dẫn lưu ngả trực tràng hay âm đạo. Tác giả không nhấn mạnh đến yêu cầu phải cắt ruột thừa và cho rằng với mục đích chỉ dẫn lưu áp xe thì mổ nội soi cũng là một lựa chọn hữu ích.
@@ -492,9 +489,9 @@ lưu trong ổ bụng. Nếu điều trị nội khoa không hiệu quả, phả
     - Nguy cơ TB (5-8đ) SA rõ VRT --> VRT
     - Nguy cơ cao (≥ 9đ) SA rõ VRT --> VRT
   - Lưu lại theo dõi LS, XN, SA lại --> Chụp CLVT/CHT
-  - Chụp CLVT/CHT --> Không nghĩ VRT --> Xuất viện, theo dõi ngoại trú
-  - Chụp CLVT/CHT --> Không loại VRT --> VRT
-  - Chụp CLVT/CHT --> Có NN khác VRT --> Điều trị theo NN khác VRT
+    - Chụp CLVT/CHT --> Không nghĩ VRT --> Xuất viện, theo dõi ngoại trú
+    - Chụp CLVT/CHT --> Không loại VRT --> VRT
+    - Chụp CLVT/CHT --> Có NN khác VRT --> Điều trị theo NN khác VRT
   - VRT --> Phẫu thuật (ưu tiên nội soi) cắt ruột thừa
   - VRT chưa BC và BN nguy cơ cao/chưa muốn mổ --> Điều trị nội --> Thất bại --> Phẫu thuật (ưu tiên nội soi) cắt ruột thừa
 
@@ -511,11 +508,17 @@ CHT*: Chụp CHT nếu chống chỉ định CLVT do suy thận, có thai,...
 29
 
 4. Alvarado A (1986). A practical score for the early diagnosis of acute appendicitis. Ann Emerg Med; 15: 557-564.
+
 5. Andersson M, Andersson RE (2008). The appendicitis inflammatory response score: A tool for the diagnosis of acute appendicitis that outperforms the Alvarado score. World J Surg; 32(8): 1843-1849.
+
 6. Gomes CA, Sartelli M, Di Saverio S, et al (2015). Acute appendicitis: proposal of a new comprehensive grading system based on clinical, imaging and laparoscopic findings. World J Emerg Surg; 10: 60.
+
 7. Samuel M (2002). Pediatric appendicitis score. J Pediatr Surg; 37: 877-881.
+
 8. Delibegovic S (2015). Acute appendicitis: Diagnosis and treatment, with special attention to a laparoscopic approach. Emerg Med (Los Angel); 5:3.
+
 9. Richmond B, (2017). The appendix. In Sabiston's Textbook of Surgery, 20th Edit, Elsevier, Chapter 50: 1296-1337.
+
 10. Bhangu A, Soreide K, Di Saverio S, et al (2015). Acute appendicitis: morden understanding of pathogenensis, diagnosis and management. Lancet; 386: 1278-1287.
 
 CÂU HỎI LƯỢNG GIÁ
@@ -523,7 +526,7 @@ CÂU HỎI LƯỢNG GIÁ
 1. Liên quan đến bệnh sinh của viêm ruột thừa tắc nghẽn, chọn câu SAI?
 A. Tắc lòng ruột thừa là xuất phát điểm
 B. Tắc lòng ruột thừa là hậu quả của viêm và tăng tiết
-C. Thường do tăng sản nang bạch huyết, sỏi phân, dị vật từ thức ăn
+C. Thường do tăng sản nang bạch huyết, sỏi phân, dị vật thức ăn
 D. Diễn tiến nhanh đến thủng/vỡ ruột thừa
 
 2. Dấu hiệu nào sau đây KHÔNG được xem như dấu hiệu phản ứng dội gián tiếp?
@@ -532,17 +535,19 @@ B. Dấu hiệu Rovsing
 C. Dấu hiệu Dunphy
 D. Nghiệm pháp Markle dương tính
 
-3. Bệnh nhân nữ, 32 tuổi, đau bụng âm ỉ bụng dưới bên phải # 1 ngày, chán ăn, ói 2 lần, tiêu chảy 1 lần, kinh nguyệt tháng này đúng ngày, PARA 2012. Khi vào viện, tinh, nhiệt độ 37,5°C, mạch 86l/ph, HA 110/60 mmHg. Bụng hơi trướng, ấn hố chậu phải đau, không có phản ứng dội. Xét nghiệm máu ghi nhận BC $14.000/\text{mm}^3$, BC đa nhân chiếm 80%. Siêu âm bụng ghi nhận bụng dưới các quai ruột trướng hơi, khó khảo sát, chưa thấy rõ hình ảnh viêm ruột thừa. Theo dõi tại cấp cứu 6 giờ sau đau bụng vẫn chưa giảm. Hãy chọn xử trí tiếp theo?
+3. Bệnh nhân nữ, 32 tuổi, đau bụng âm ỉ bụng dưới bên phải # 1 ngày, chán ăn, ói 2 lần, tiêu chảy 1 lần, kinh nguyệt tháng này đúng ngày, PARA 2012. Khi vào viện, tinh, nhiệt độ 37,5°C, mạch 86l/ph, HA 110/60 mmHg. Bụng hơi trướng, ấn hố chậu phải đau, không có phản ứng dội. Xét nghiệm máu ghi nhận BC 14.000/mm³, BC đa nhân chiếm 80%. Siêu âm bụng ghi nhận bụng dưới các quai ruột trướng hơi, khó khảo sát, chưa thấy rõ hình ảnh viêm ruột thừa. Theo dõi tại cấp cứu 6 giờ sau đau bụng vẫn chưa giảm. Hãy chọn xử trí tiếp theo?
 A. Cho bệnh nhân về theo dõi ngoại trú
 
 B. Cho điều trị thử bằng kháng sinh như cho viêm ruột thừa chưa biến chứng
 C. Chụp CLVT bụng
 D. Nội soi ổ bụng
-4. Bệnh nhân nam, 28 tuổi, đau vùng khởi phát vùng trên rốn cách nhập viện 4 ngày, kèm chán ăn, buồn nôn, tự mua thuốc uống không đỡ. Hai ngày nay có sốt, đau nhiều bụng dưới bên phải. Khi vào viện, sốt $38,5^\circ\text{C}$, vẻ mặt nhiễm khuẩn, vùng bụng dưới bên phải sờ có khối chắc # 5-6 cm, ranh giới không rõ, ấn đau chói. Siêu âm bụng ghi nhận bụng dưới phải có khối phản âm kém ở trung tâm, không thấy hình ảnh ruột thừa, có vài cấu trúc phản âm dày nghi sỏi phân, thâm nhiễm mỡ mạnh xung quanh. Chẩn đoán?
+
+4. Bệnh nhân nam, 28 tuổi, đau vùng khởi phát vùng trên rốn cách nhập viện 4 ngày, kèm chán ăn, buồn nôn, tự mua thuốc uống không đỡ. Hai ngày nay có sốt, đau nhiều bụng dưới bên phải. Khi vào viện, sốt 38,5°C, vẻ mặt nhiễm khuẩn, vùng bụng dưới bên phải sờ có khối chắc # 5-6 cm, ranh giới không rõ, ấn đau chói. Siêu âm bụng ghi nhận bụng dưới phải có khối phản âm kém ở trung tâm, không thấy hình ảnh ruột thừa, có vài cấu trúc phản âm dày nghi sỏi phân, thâm nhiễm mỡ mạnh xung quanh. Chẩn đoán?
 A. Đám quánh ruột thừa
 B. Áp xe ruột thừa
 C. Viêm ruột thừa hoại tử
 D. Viêm phúc mạc khu trú do viêm ruột thừa
+
 5. Chụp thêm CLVT bụng ở bệnh nhân trên (câu 4) thấy có ổ tổn thương giảm đậm độ rõ ở hố chậu phải, áp sát thành bụng trước bên, có vài cấu trúc nghĩ sỏi phân, thâm nhiễm mỡ xung quanh. Phương pháp điều trị thích hợp cho bệnh nhân là?
 A. Dùng kháng sinh đường tĩnh mạch và theo dõi
 B. Mổ dẫn lưu tại chỗ
@@ -552,32 +557,34 @@ D. Mổ bụng tìm cắt ruột thừa + dẫn lưu
 # THỦNG Ổ LOÉT DẠ DÀY TÁ TRÀNG
 Hoàng Đình Tuy, Nguyễn Võ Vĩnh Lộc
 
-**MỤC TIÊU**
+MỤC TIÊU
 1. Trình bày được 5 yếu tố thuận lợi của thủng loét dạ dày tá tràng.
 2. Vận dụng kiến thức sinh lý bệnh để giải thích diễn tiến theo 3 giai đoạn của thủng loét dạ dày tá tràng, giải thích được 3 thể lâm sàng.
 3. Mô tả được triệu chứng lâm sàng và cận lâm sàng qua đó có thể chẩn đoán được thủng loét dạ dày tá tràng.
 4. Trình bày được nguyên tắc điều trị ngoại khoa của thủng loét dạ dày tá tràng.
 
-Từ khóa: loét dạ dày, loét tá tràng, Helicobacter pylori, phẫu thuật điều trị thủng, bảng điểm Boey.
+Từ khóa: loét dạ dày, loét tá tràng, Helicobacter pylori, phẫu thuật điều trị thủng, bảng điểm Boey
 
-**1. MỞ ĐẦU**
+1. MỞ ĐẦU
 Thủng loét dạ dày tá tràng (perforated peptic ulcer) là một biến chứng quan trọng của bệnh loét dạ dày tá tràng (peptic ulcer disease). Khi loét dạ dày tá tràng gây xói mòn (erosion) tất cả các lớp của thành dạ dày hoặc tá tràng sẽ tạo ra một sự thông thương với khoang phúc mạc dẫn tới sự thoát của thức ăn và dịch vị vào khoang phúc mạc. Tình trạng này gọi là thủng loét dạ dày tá tràng.
+
 Thủng loét dạ dày tá tràng là một cấp cứu ngoại khoa thường gặp với tần suất ghi nhận từ các nghiên cứu trên thế giới khoảng 3,8 - 14/100.000 dân. Ở Việt Nam, tuy chưa có số liệu chính thức nhưng tỷ lệ này có thể còn cao hơn nhiều vì thói quen ăn uống, dùng thuốc và tình trạng loét dạ dày tá tràng nhìn chung chưa được kiểm soát tốt. Gần như tất cả các trường hợp thủng loét dạ dày tá tràng cần được phẫu thuật khâu lỗ thủng song song với các phương pháp hồi sức nội khoa. Tuy nhiên, tỷ lệ tử vong ở bệnh nhân bị thủng loét dạ dày tá tràng còn cao, từ 1,3% đến 20% và thậm chí cao hơn ở bệnh nhân lớn tuổi (12% đến 47%). Việc chẩn đoán và can thiệp sớm là yếu tố quyết định giúp cải thiện kết quả điều trị.
+
 Bên cạnh bệnh loét dạ dày tá tràng, có nhiều nguyên nhân khác gây thủng dạ dày tá tràng bệnh lý (không liên quan chấn thương) như ung thư dạ dày, thủng túi thừa tá tràng, thiếu máu cục bộ,... Trong đó, loét dạ dày tá tràng là nguyên nhân gây thủng dạ dày tá tràng thường gặp nhất. Do đó, trong phạm vi bài viết này, chúng tôi sẽ trình bày về thủng loét dạ dày tá tràng là thể bệnh thường gặp nhất trong các nguyên nhân thủng bệnh lý.
 
-# 2. LOÉT DẠ DÀY TÁ TRÀNG
+2. LOÉT DẠ DÀY TÁ TRÀNG
 
 Để có thể hiểu rõ hơn về biến chứng thủng loét dạ dày tá tràng, trước tiên, chúng tôi trình bày sơ lược về bệnh loét dạ dày tá tràng.
 
 Loét dạ dày tá tràng là tình trạng ăn mòn mất niêm mạc > 5 mm ở dạ dày hoặc tá tràng.
 
-Yếu tố nguy cơ của loét dạ dày tá tràng gồm: nhiễm H. pylori, dùng aspirin, kháng viêm không steroid, hút thuốc lá, stress, uống rượu, sử dụng corticoid, hội chứng Zollinger-Ellison (u TK nội tiết ↑ tiết gastrin)
+Yếu tố nguy cơ của loét dạ dày tá tràng gồm: nhiễm H. pylori, dùng aspirin, kháng viêm không steroid, hút thuốc lá, stress, uống rượu, sử dụng corticoid, hội chứng Zollinger-Ellison.
 
-Trước đây, tăng tiết acid ở dạ dày được cho là nguyên nhân chính gây loét dạ dày tá tràng. Tuy nhiên, chúng ta cần hiều đúng về mối liên quan giữa acid và loét dạ dày tá tràng này vì không phải mọi trường hợp loét đều liên quan đến tăng acid dạ dày.
+Trước đây, tăng tiết acid ở dạ dày được cho là nguyên nhân chính gây loét dạ dày tá tràng. Tuy nhiên, chúng ta cần hiểu đúng về mối liên quan giữa acid và loét dạ dày tá tràng này vì không phải mọi trường hợp loét đều liên quan đến tăng acid dạ dày.
 
 ## 2.1. Loét tá tràng
 
-Khi đo acid dạ dày ở những bệnh nhân loét tá tràng và những người bình thường chúng ta thấy có một khoảng trùng lặp lớn. 70% bệnh nhân loét tá tràng có lượng tiết acid dạ dày trong giới hạn bình thường. Nhìn chung, mức acid dạ dày tự nó không cung cấp nhiều thông tin và test tiết acid dạ dày có rất ít giá trị trong chẩn đoán loét tá tràng. Tuy nhiên, khi có bất kỳ yếu tố nào gây kích thích tiết acid thì những bệnh nhân loét tá tràng sẽ tiết nhiều acid dạ dày hơn người bình thường.
+Khi đo acid dạ dày ở những bệnh nhân loét tá tràng và những người bình thường chúng ta thấy có một khoảng trùng lấp lớn. 70% bệnh nhân loét tá tràng có lượng tiết acid dạ dày trong giới hạn bình thường. Nhìn chung, mức acid dạ dày tự nó không cung cấp nhiều thông tin và test tiết acid dạ dày có rất ít giá trị trong chẩn đoán loét tá tràng. Tuy nhiên, khi có bất kỳ yếu tố nào gây kích thích tiết acid thì những bệnh nhân loét tá tràng sẽ tiết nhiều acid dạ dày hơn người bình thường.
 
 ## 2.2. Loét dạ dày
 
@@ -599,7 +606,7 @@ Dùng NSAID kéo dài là yếu tố nguy cơ độc lập với nhiễm *H. pyl
 
 ### 3.3. Các yếu tố khác
 
-Mối liên quan giữa stress và thủng loét dạ dày tá tràng vẫn còn đang được nghiên cứu. Tuy nhiên thực tế ghi nhận thủng loét xảy ra trên người bệnh có nhưng yếu tố stress như: trong giai đoạn hậu phẫu của phẫu thuật lớn phức tạp, bỏng nặng, tổn thương hệ thần kinh trung ương.
+Mối liên quan giữa stress và thủng loét dạ dày tá tràng vẫn còn đang được nghiên cứu. Tuy nhiên thực tế ghi nhận thủng loét xảy ra tren người bệnh có nhưng yếu tố stress như: trong giai đoạn hậu phẫu của phẫu thuật lớn phức tạp, bỏng nặng, tổn thương hệ thần kinh trung ương.
 
 Các yếu tố nguy cơ khác gồm: dùng aspirin kéo dài (ngay cả ở liều thấp), dùng corticoid kéo dài và hút thuốc lá.
 
@@ -607,45 +614,44 @@ Các yếu tố nguy cơ khác gồm: dùng aspirin kéo dài (ngay cả ở li�
 
 Năm 1997, Silen mô tả 3 giai đoạn lâm sàng của thủng loét dạ dày tá tràng:
 
-4.1. Giai đoạn 1: viêm phúc mạc hóa học
+### 4.1. Giai đoạn 1: viêm phúc mạc hóa học
 
-Trong những giờ đầu, dịch dạ dày với tính acid cao chảy vào trong phúc mạc gây viêm phúc mạc hóa học (có thể có hoặc không có vi khuẩn). Cần nhớ rằng dịch acid dạ dày cũng có tác dụng làm giảm vi khuẩn trong dịch dạ dày, tá tràng. Việc chảy dịch tiêu hóa ở bụng thường lan tỏa nhưng đôi khi có thể khu trú ở vùng bụng trên do dính hoặc do mạc nối lớn. Do đó, trong giai đoạn này bệnh nhân có thể co cứng khắp bụng hoặc chỉ nửa bụng trên tương ứng với mức độ lan tỏa của dịch dạ dày. Trường hợp dịch tiêu hóa chảy dọc theo rãnh đại tràng phải xuống hố chậu phải có thể gây triệu chứng đau thượng vị chuyển hố chậu phải dễ nhầm với viêm ruột thừa cấp. Ở giai đoạn này, bệnh nhân chưa sốt cũng như bạch cầu chưa tăng, bụng bệnh nhân thường co cứng do kích thích hóa học. Nhiễm khuẩn phúc mạc thật sự thường xảy ra sau 6 giờ.
+Trong những giờ đầu, dịch do vết thủng acid cao chảy vào trong phúc mạc gây viêm phúc mạc hóa học (có thể có hoặc không có vi khuẩn). Cần nhớ rằng dịch acid dạ dày có tính acid, gây tan máu và gây tổn thương tế bào da, tá tràng. Việc chảy dịch tiêu hóa ra ở bụng thường lan tỏa hoặc chỉ khu trú ở vùng bụng trên do định vị của ổ thủng. Mức độ lan tỏa của dịch dạ dày. Trường hợp dịch xuống hố chậu phải có thể gây triệu chứng nhầm với viêm ruột thừa cấp. Ở giai đoạn này, bệnh nhân chưa sốt cũng như bạch cầu tăng, bụng bệnh nhân thường co cứng khắp thật sự thường xảy ra sau 6 giờ.
 
-4.2. Giai đoạn 2: giai đoạn trung gian
+### 4.2. Giai đoạn 2: giai đoạn trung gian
 
-Sau 6-12 giờ, nhiều bệnh nhân giảm đau. Điều này có lẽ do dịch dạ dày được pha loãng nên giảm kích thích phúc mạc. Giai đoạn này, bệnh nhân có thể không sốt hoặc sốt nhẹ, dịch tiêu hóa thường lan khắp bụng nhưng được pha loãng nên dấu kích thích phúc mạc thường giảm nhưng bệnh nhân vẫn có thể còn co cứng bụng nhẹ, cảm ứng phúc mạc hoặc đề kháng thành bụng.
+Sau 6-12 giờ, nhiều bệnh nhân giảm đau do ổ thủng đã được dạ dày dịch loãng nên giảm kích thích phúc mạc. Giai đoạn này, bệnh nhân có thể không sốt hoặc sốt nhẹ, dịch tiêu hóa thường lan khắp bụng nhưng đau bụng có thể chỉ khu trú ở vùng phúc mạc thường giảm nhưng bệnh nhân vẫn có thể còn co cứng bụng nhẹ, cảm ứng phúc mạc hoặc đề kháng thành bụng.
 
-4.3. Giai đoạn 3: giai đoạn nhiễm khuẩn ổ bụng
+### 4.3. Giai đoạn 3: giai đoạn nhiễm khuẩn
 
-Sau 12-24 giờ, nhiễm khuẩn ổ bụng xảy ra. Thời gian chính xác sau bao lâu bệnh nhân chuyển từ giai đoạn phơi nhiễm vi khuẩn trở thành nhiễm khuẩn thực sự chưa được biết rõ. Do đó, nếu thủng loét dạ dày tá tràng được phẫu thuật sau 12 giờ khởi phát, cần phải xem đây là phẫu thuật nhiễm hoặc bẩn. Những bệnh nhân đến trễ hơn có thể biểu hiện sốc nhiễm khuẩn, thậm chí tử vong. Sốc nhiễm khuẩn trong giai đoạn sớm cũng có thể xảy ra dù khá hiếm. Giai đoạn này, bệnh nhân thường có mạch nhanh, sốt, huyết áp bình thường hoặc giảm, bụng thường không quá co cứng.
+Sau 12-24 giờ, nhiễm khuẩn ổ bụng xảy ra. Thời gian chính xác sau bao lâu bệnh nhân chuyển từ giai đoạn nhiễm khuẩn thực sự chưa được biết rõ. Do đó, nếu thủng loét dạ dày tá tràng được phẫu thuật sau 12 giờ khỏi phát, cần phải xem đây là phẫu thuật nhiễm khuẩn. Những bệnh nhân đến trễ hơn có thể biểu hiện sốc nhiễm khuẩn, thậm chí tử vong. Sốc nhiễm khuẩn trong giai đoạn sớm cũng có thể xảy ra dù khá hiếm. Giai đoạn này, bệnh nhân thường có mạch nhanh, sốt, huyết áp bình thường hoặc giảm, bụng thường không quá co cứng.
 
-5. SINH LÝ BỆNH CỦA VIÊM PHÚC MẠC CẤP DO THỦNG LOÉT DẠ DÀY TÁ TRÀNG
+## 5. SINH LÝ BỆNH CỦA VIÊM PHÚC MẠC CẤP DO THỦNG LỖT DẠ DÀY TÁ TRÀNG
 
-Khi loét dạ dày tá tràng thủng sẽ gây tình trạng viêm phúc mạc cấp (thuộc nhóm viêm phúc mạc thứ phát). Viêm phúc mạc thứ phát thường khởi phát đột ngột và diễn tiến nặng dần. Đây là một nhiễm khuẩn nặng và gây tử vong cao nếu không điều trị kịp thời và tích cực. Mức độ diễn tiến nhanh của bệnh có liên quan đến lượng lớn thể tích dịch thoát khỏi lòng mạch vào khoảng kẽ và sự xâm nhập của vi khuẩn vào ống tiêu hóa dẫn đến nhiễm khuẩn, nhiễm độc. Cả hai cơ chế này dẫn đến giảm thể tích trong lòng mạch và sốc nhiễm khuẩn. Nếu không điều trị kịp thời sẽ dẫn đến suy đa tạng. Chẩn đoán sớm, hồi sức tích cực và can thiệp phẫu thuật kịp thời là những yếu tố cơ bản giúp làm giảm tỷ lệ biến chứng và tử vong.
+Khi loét dạ dày tá tràng thủng sẽ gây viêm phúc mạc thứ phát). Viêm phúc mạc tiến nặng dần. Đây là một nhiễm khuẩn nặng và gây tử vong cao nếu không điều trị kịp thời và tích cực. Mức độ diễn tiến nhanh chậm của bệnh có liên quan đến lượng lớn thể tích dịch thoát khỏi lòng mạch vào khoảng kẽ và sự xâm nhập của vi khuẩn từ ống tiêu hóa vào cơ thể này dẫn đến giảm thể tích trong lòng mạch và sốc nhiễm khuẩn. Nếu không điều trị kịp thời sẽ dẫn đến suy đa tạng. Chẩn đoán sớm, hồi sức tích cực và can thiệp phẫu thuật kịp thời là những yếu tố cơ bản giúp làm giảm tỷ lệ biến chứng và tử vong.
 
 Khi viêm phúc mạc xảy ra, một chuỗi các phản ứng xảy ra tại chỗ và toàn thân như sau:
 
-5.1. Đáp ứng tại chỗ
+## 5.1. Đáp ứng tại chỗ
 
-Đáp ứng viêm tại chỗ của phúc mạc tương tự như ở những mô khác. Ngoài ra, những tế bào lót bề mặt phúc mạc có khả năng xuất tiết cũng như hấp thu rất lớn. Tại vị trí kích thích, có xuất tiết dịch vào ổ bụng. Khác với thanh dịch thông thường, dịch xuất tiết này có lượng protein cao (>3 g/dL) và nhiều tế bào mà chủ yếu là bạch cầu đa nhân trung tính để thực bào và tiêu diệt vi sinh vật. Dịch xuất tiết có chứa fibrinogen tổng hợp nên dạng chất xuất tiết trên bề mặt phúc mạc viêm. Chất xuất tiết này gây dính các quai ruột, mạc treo và mạc nối lớn lại với nhau nhằm mục đích khu trú hóa ổ viêm phúc mạc. Sự khu trú hóa này trở nên thuận lợi hơn nữa nhờ vào sự giảm nhu động của các quai ruột lân cận. Mức độ và tốc độ lan rộng của nhiễm khuẩn trong ổ bụng phụ thuộc vào thể tích và bản chất của chất xuất tiết và hiệu quả của quá trình khu trú hóa ổ nhiễm.
+Đáp ứng viêm tại chỗ của phúc mạc tương tự như ở những mô khác. Ngoài ra, những tế bào lót bề mặt phúc mạc có khả năng xuất tiết cũng như hấp thu rất lớn. Tại vị trí kích thích, có xuất tiết dịch vào ổ bụng. Khác với thanh dịch thông thường, dịch xuất tiết này có lượng protein cao (>3 g/dL) và nhiều tế bào mà chủ yếu là bạch cầu đa nhân trung tính để thực bào và tiêu diệt vi sinh vật. Dịch xuất tiết có chứa fibrinogen tổng hợp nên dạng chất xuất tiết có fibrin trên bề mặt phúc mạc viêm. Chất xuất tiết này gây dính các quai ruột, mạc treo và mạc nối lân cận lớn lại với nhau nhằm mục đích khu trú hóa ổ viêm phúc mạc. Sự khu trú hóa này trở nên thuận lợi hơn nữa nhờ vào sự giảm nhu động của các quai ruột lân cận. Mức độ và tốc độ lan rộng của nhiễm khuẩn trong ổ bụng phụ thuộc vào thể tích và bản chất của chất xuất tiết và hiệu quả của quá trình khu trú hóa ổ nhiễm.
 
 Cơ chế tự vệ của phúc mạc được kích hoạt biểu hiện bởi hiện tượng mạc nối lớn và ruột bao bọc dịch dạ dày giúp kiểm soát được quá trình viêm nhiễm, bệnh có thể tự ổn định. Một khả năng thứ hai có thể xảy ra là sự hình thành các ổ áp xe. Khả năng thứ ba có thể xảy ra là khi cơ chế tự vệ của phúc mạc và toàn thân không thể khu trú hóa ổ viêm nhiễm gây viêm phúc mạc lan tỏa. Những yếu tố thuận lợi của viêm phúc mạc lan tỏa gồm: Độc lực mạnh của vi khuẩn, mức độ lây nhiễm ban đầu lớn và thời gian nhiễm kéo dài, bệnh nhân giảm miễn dịch.
 
-5.2. Đáp ứng toàn thân
+## 5.2. Đáp ứng toàn thân
 
 Viêm phúc mạc không chỉ gây thay đổi tại phúc mạc mà còn rộng khắp cơ thể:
 
 - Hệ tiêu hóa: viêm phúc mạc bắt đầu bằng tăng nhu động và sau đó là liệt ruột. Sự ứ dịch và điện giải trong lòng ruột cứ tiếp tục nặng dần đến khi ruột căng to gây giảm tưới máu mao mạch.
-
-- Hệ tim mạch: vì phúc mạc có diện tích bề mặt lớn nên sự mất dịch vào ổ bụng cùng với sự mất dịch vào lòng ruột có thể làm giảm đáng kể thể tích tuần hoàn và làm tăng hematocrit. Tình trạng sốt, nôn ói, tiêu chảy, mất dịch qua hút dạ dày cũng làm nặng thêm tình trạng mất dịch này. Nếu quá trình mất dịch này tiếp tục tiến triển, hồi lưu tĩnh mạch về tim phải giảm sẽ làm giảm cung lượng tim dẫn đến tụt huyết áp. Thông thường, sẽ có phản ứng tăng hoạt adrenergic như mạch nhanh, vã mồ hôi, co mạch ngoại biên (da ẩm, lạnh, chi tím). Nếu điều trị bù nước điện giải tích cực, cung lượng tim có thể được duy trì. Có thể cần cung lượng tim cao hơn mức bình thường 2
+- Hệ tim mạch: vì phúc mạc có diện tích bề mặt lớn nên sự mất dịch vào ổ bụng cùng với sự mất dịch vào lòng ruột có thể làm giảm đáng kể thể tích tuần hoàn và làm tăng hematocrit. Tình trạng sốt, nôn ói, tiêu chảy, mất dịch qua hút dạ dày cũng làm nặng thêm tình trạng mất dịch này. Nếu quá trình mất dịch này tiếp tục tiến triển, hồi lưu tĩnh mạch về tim phải giảm sẽ làm giảm cung lượng tim dẫn đến tụt huyết áp. Thông thường, sẽ có phản ứng tăng hoạt động adrenergic như mạch nhanh, vã mồ hôi, co mạch ngoại biên (da ẩm, lạnh, chi tím). Nếu điều trị bù nước điện giải tích cực, cung lượng tim có thể được duy trì. Có thể cần cung lượng tim cao hơn mức bình thường 2
 
 đến 3 lần để bù lại nhu cầu chuyển hóa của cơ thể tăng khi có nhiễm khuẩn. Việc không thể duy trì cung lượng tim ở mức cao có thể gây toan chuyển hóa, thiểu niệu, tụt huyết áp và cuối cùng là tử vong.
 
-- Hệ hô hấp: nhiễm khuẩn trong ổ bụng có thể làm cơ hoành lên cao hay nằm cố định và bệnh nhân đau nhiều khi thở. Tình trạng này gây xẹp đáy phổi kèm có shunt trong phổi. Khi sự tăng nhu cầu năng lượng không vượt quá dự trữ hô hấp, cơ thể còn có thể bù trừ. Hút thuốc lá nhiều, viêm phế quản mạn, khí phế thủng và béo phì là những yếu tố làm nặng thêm. Do cơ chế bù trừ của hệ hô hấp, sự giảm oxy máu ban đầu sẽ đi kèm tình trạng giảm $CO_2$ máu (kiềm hô hấp) nhưng sau đó là tăng $CO_2$ máu (toan hô hấp). Ở một số bệnh nhân, xuất hiện tình trạng phù phổi không phải do suy thất trái mà có lẽ do tăng thoát dịch qua mao mạch phổi do giảm albumin máu hoặc do độc lực của vi khuẩn (hội chứng nguy kịch hô hấp).
+- **Hệ hô hấp:** nhiễm khuẩn trong ổ bụng có thể làm cơ hoành lên cao hay nằm cố định và bệnh nhân đau nhiều khi thở. Tình trạng này gây xẹp đáy phổi kèm có shunt trong phổi. Khi sự tăng nhu cầu năng lượng không vượt quá dự trữ hô hấp, cơ thể còn có thể bù trừ. Hút thuốc lá nhiều, viêm phế quản mạn, khí phế thủng và béo phì là những yếu tố làm nặng thêm. Do cơ chế bù trừ của hệ hô hấp, sự giảm oxy máu ban đầu sẽ đi kèm tình trạng giảm $CO_2$ máu (kiềm hô hấp) nhưng sau đó là tăng $CO_2$ máu (toan hô hấp). Ở một số bệnh nhân, xuất hiện tình trạng phù phổi không phải do suy thất trái mà có lẽ do tăng thoát dịch qua mao mạch phổi do giảm albumin máu hoặc do độc lực của vi khuẩn (hội chứng nguy kịch hô hấp).
 
-- Hệ tiết niệu: việc giảm tưới máu thận sẽ gây hoại tử ống thận cấp dẫn đến suy thận.
+- **Hệ tiết niệu:** việc giảm tưới máu thận sẽ gây hoại tử ống thận cấp dẫn đến suy thận.
 
-Chuyển hóa: trong vài ngày đầu viêm phúc mạc, cơ thể tăng tiết cortisol nhưng sau đó mức tiết cortisol về lại bình thường. Sự tăng nhu cầu năng lượng do nhiễm khuẩn sẽ làm giảm nhanh dự trữ glycogen của cơ thể, dẫn đến dị hóa protein (cơ) và mỡ gây sụt cân nhanh ở bệnh nhân nhiễm khuẩn nặng. Nhiễm khuẩn ổ bụng kéo dài sẽ gây suy mòn. Cơ thể không thể sinh thêm nhiệt gây hạ thân nhiệt. Bệnh nhân kiệt sức và có thể tử vong.
+- **Chuyển hóa:** trong vài ngày đầu viêm phúc mạc, cơ thể tăng tiết cortisol nhưng sau đó mức tiết cortisol về lại bình thường. Sự tăng nhu cầu năng lượng do nhiễm khuẩn sẽ làm giảm nhanh dự trữ glycogen của cơ thể, dẫn đến dị hóa protein (cơ) và mỡ gây sụt cân nhanh ở bệnh nhân nhiễm khuẩn nặng. Nhiễm khuẩn ổ bụng kéo dài sẽ gây suy mòn. Cơ thể không thể sinh thêm nhiệt gây hạ thân nhiệt. Bệnh nhân kiệt sức và có thể tử vong.
 
 ## 6. LÂM SÀNG
 
@@ -657,28 +663,38 @@ Bệnh nhân có hội chứng đáp ứng viêm toàn thân gồm: Mạch nhanh
 
 ### 6.2. Triệu chứng cơ năng
 
-Đau đột ngột, dữ dội như dao đâm ở $1/2$ trên bụng là triệu chứng đầu tiên của thủng loét dạ dày tá tràng mà người khám cần khai thác được để biết chính xác thời điểm khởi phát. Đau sau đó lan ra khắp bụng và thường khiến bệnh nhân gồng cứng bụng.
+Đau đột ngột, dữ dội như dao đâm ở $\frac{1}{2}$ trên bụng là triệu chứng đầu tiên của thủng loét dạ dày tá tràng mà người khám cần khai thác được để biết chính xác thời điểm khởi phát. Đau sau đó lan ra khắp bụng và thường khiến bệnh nhân gồng cứng bụng.
 
 Bệnh nhân nhanh chóng trở nên lo lắng, đổ mồ hôi lạnh. Bệnh nhân cũng thường kèm theo ói nhưng triệu chứng này không hằng định.
 
 Hỏi bệnh cần khai thác tiền căn đau bụng, bệnh loét dạ dày tá tràng và tiền căn dùng thuốc trước đây vì:
 - Hơn 1/3 bệnh nhân có tiền căn loét dạ dày tá tràng trước đây. Nhiều bệnh nhân có các đợt đau theo chu kỳ, theo nhịp bữa ăn và cần dùng thuốc kháng acid.
-- Hơn 40% bệnh nhân có tiền căn dùng thuốc corticoid kéo dài.
+- Hơn 40% bệnh nhân có tiền căn dùng thuốc NSAID hoặc corticoid kéo dài.
 
-6.3. Triệu chứng thực thể
-Khoảng 60% bệnh nhân có dấu kích thích phúc mạc. Bụng co cứng, đặc biệt là vùng thượng vị. “Bụng cứng như gỗ” là dấu hiệu điển hình của thủng dạ dày tá tràng, độ nhạy khoảng 51%. Tuy nhiên, dấu hiệu kích thích phúc mạc có thể không rõ hoặc thậm chí không có, đặc biệt ở bệnh nhân thủng mặt sau hoặc thủng bít.
+**6.3. Triệu chứng thực thể**
+
+Khoảng 60% bệnh nhân có dấu kích thích phúc mạc. Bụng co cứng, đặc biệt là vùng thượng vị. “**Bụng cứng như gỗ**” là dấu hiệu điển hình của thủng dạ dày tá tràng, độ nhạy khoảng 51%. Tuy nhiên, dấu hiệu kích thích phúc mạc có thể không rõ hoặc thậm chí không có, đặc biệt ở bệnh nhân thủng mặt sau hoặc thủng bít.
+
 Gõ vang vùng trước gan khi bệnh nhân ở tư thế nửa ngồi gợi ý có hơi tự do trong ổ bụng.
+
 Ở những bệnh nhân già hoặc những bệnh nhân bệnh nặng, triệu chứng của thủng loét dạ dày tá tràng có thể không điển hình, thậm chí rất khó phát hiện. Cần cẩn thận ở những bệnh nhân lớn tuổi có đau bụng nhẹ, nôn ói, rối loạn tiêu hóa hay chán ăn. Khám những bệnh nhân này cũng có thể không có dấu kích thích phúc mạc.
 
-7. CẬN LÂM SÀNG
-7.1. Xét nghiệm
+**7. CẬN LÂM SÀNG**
+
+**7.1. Xét nghiệm**
+
 Ở bệnh nhân thủng loét dạ dày, xét nghiệm thường cho thấy bạch cầu máu tăng và tăng các chất phản ứng viêm (CRP, procalcitonin). Tuy nhiên, bạch cầu máu có thể bình thường trong giai đoạn sớm hoặc thậm chí giảm trong giai đoạn muộn.
+
 Bệnh nhân thường có tăng nhẹ amylase máu, tuy nhiên xét nghiệm này không đặc hiệu.
+
 Trong trường hợp bệnh nhân đến trễ, có tình trạng nhiễm khuẩn nặng, sẽ có toan chuyển hóa.
 
-7.2. Chẩn đoán hình ảnh
-7.2.1. X quang bụng không sửa soạn
-Khoảng 50% đến 70% bệnh nhân thủng loét dạ dày tá tràng có hiện diện của hơi tự do trong ổ bụng. Hình ảnh điển hình của hơi tự do trong ổ bụng là hình ảnh liềm hơi dưới hoành một hoặc 2 bên trên phim X quang bụng không sửa soạn tư thế đứng hoặc nửa ngồi. (Trong trường hợp bệnh nhân không thể đứng hay ngồi, có thể cho bệnh nhân chụp phim ở tư thế nằm nghiêng trái để tìm hình ảnh hơi giữa gan và thành bụng.)
+**7.2. Chẩn đoán hình ảnh**
+
+**7.2.1. X quang bụng không sửa soạn**
+
+Khoảng 50% đến 70% bệnh nhân thủng loét dạ dày tá tràng có hiện diện của hơi tự do trong ổ bụng. Hình ảnh điển hình của hơi tự do trong ổ bụng là hình ảnh **liềm hơi dưới hoành một hoặc 2 bên** trên phim X quang bụng không sửa soạn tư thế đứng hoặc nửa ngồi. (Trong trường hợp bệnh nhân không thể đứng hay ngồi, có thể cho bệnh nhân chụp phim ở tư thế nằm nghiêng trái để tìm hình ảnh hơi giữa gan và thành bụng).
+
 Một số trường hợp nghi ngờ nhưng hình ảnh không điển hình có thể cho bệnh nhân chụp phim X quang bụng không sửa soạn sau khi bơm hơi vào dạ dày qua thông mũi dạ.
 
 dày. Tuy nhiên, phương pháp này ngày nay rất ít được sử dụng vì các ưu thế của chụp cắt lớp vi tính.
@@ -687,64 +703,66 @@ dày. Tuy nhiên, phương pháp này ngày nay rất ít được sử dụng v
 
 [Hình: Hình ảnh X quang bụng nghiêng trái của bệnh nhân nam, 79 tuổi, thủng mặt trên sau hành tá tràng ngày thứ 3. Dấu * cho thấy hình ảnh hơi tự do giữa thành bụng phải và gan của bệnh nhân.]
 
-### 7.2.2. Chụp cắt lớp vi tính bụng
+## 7.2.2. Chụp cắt lớp vi tính bụng
 
 Với sự tiến bộ của kỹ thuật chụp cắt lớp vi tính (CLVT) nhiều đầu dò, tỷ lệ phát hiện hơi tự do ổ bụng của chụp CLVT trong thủng loét dạ dày tá tràng lên đến 95% đến 98%. Hình ảnh hơi tự do trong ổ bụng trên chụp CLVT thường xung quanh gan và dạ dày. Trong trường hợp bệnh nhân được cho uống cản quang tan trong nước, chụp CLVT có thể phát hiện rất nhạy hình ảnh cản quang hay hơi tự do thoát vào trong ổ bụng.
 
-[Hình: Hình 4. Hình ảnh chụp CLVT bụng (cửa sổ hơi) ở một bệnh nhân thủng loét hành tá tràng. Dấu * cho thấy hình ảnh hơi tự do ổ bụng; dấu # là hơi trong đại tràng ngang.]
+[Hình: Hình ảnh chụp CLVT bụng (cửa sổ hơi) ở một bệnh nhân thủng loét hành tá tràng. Dấu * cho thấy hình ảnh hơi tự do ổ bụng; dấu # là hơi trong đại tràng ngang.]
+
+**Hình 4.** Hình ảnh chụp CLVT bụng (cửa sổ hơi) ở một bệnh nhân thủng loét hành tá tràng. Dấu * cho thấy hình ảnh hơi tự do ổ bụng; dấu # là hơi trong đại tràng ngang.
 
 7.2.3. X quang dạ dày với cản quang tan trong nước
 
 Chụp X quang dạ dày với cản quang tan trong nước có thể giúp phát hiện thủng dạ dày tá tràng khi thấy hình ảnh thuốc cản quang thoát vào ổ bụng. Tuy nhiên, với những tiến bộ và ưu điểm của chụp cắt lớp vi tính, chụp X quang dạ dày với cản quang tan trong nước gần như rất ít được sử dụng trên lâm sàng.
 
-Một điều cần lưu ý là trong trường hợp nghi thủng tạng rỗng, thuốc cản quang đường uống phải là thuốc cản quang tan trong nước, tuyệt đối không dùng baryt vì baryt rất độc nếu được hấp thu qua phúc mạc.
+Một điều cần lưu ý là trong trường hợp nghi thủng tạng rỗng, thuốc cản quang đường uống phải là **thuốc cản quang tan trong nước**, tuyệt đối không dùng barýt vì barýt rất độc nếu được hấp thu qua phúc mạc.
 
-8. CHẨN ĐOÁN
+**8. CHẨN ĐOÁN**
 
-8.1. Chẩn đoán xác định
+**8.1. Chẩn đoán xác định**
 
 Ở bệnh nhân có triệu chứng lâm sàng điển hình (bệnh sử đau 1/2 trên bụng lan ra khắp bụng; khám thấy hội chứng đáp ứng viêm toàn thân và dấu hiệu kích thích phúc mạc; tiền căn có viêm loét dạ dày tá tràng) kết hợp với hình ảnh X quang bụng có hơi tự do ổ bụng là đủ để chẩn đoán xác định và chỉ định phẫu thuật cấp cứu.
 
 Trong trường hợp nghi ngờ sẽ cần thêm các phương tiện chẩn đoán hình ảnh khác mà hàng đầu là chụp CLVT bụng. Chụp dạ dày với cản quang tan trong nước hoặc chụp X quang bụng không sửa soạn có bơm hơi vào dạ dày không còn được áp dụng vì chẳng những kết quả không thu được như mong muốn mà còn làm cho bác sĩ lâm sàng chậm đưa ra quyết định can thiệp ngoại khoa.
 
-40
-
 8.2. Chẩn đoán phân biệt
-Trên thực tế, phần lớn các trường hợp thủng loét dạ dày tá tràng được chẩn đoán trước mổ là “viêm phúc mạc do thủng tạng rỗng” với vị trí thủng là dạ dày tá tràng chỉ được chẩn đoán khi thăm sát trong mổ. Một số yếu tố trước mổ giúp gợi ý vị trí thủng là ở dạ dày tá tràng gồm: bệnh sử đau ½ trên bụng lan ra khắp bụng, tiền căn có viêm loét dạ dày tá tràng, tiền căn dùng thuốc giảm đau kéo dài, chụp CLVT bụng có mất liên tục vùng dạ dày tá tràng.
 
-Ngoài ra, nhiều trường hợp thủng loét dạ dày tá tràng có biểu hiện không điển hình cần chẩn đoán phân biệt. Những bệnh nhân đau bụng, có dấu kích thích phúc mạc nhưng không có hình ảnh hơi tự do ổ bụng nên được cân nhắc cẩn thận trước khi ra quyết định. Trường hợp này thường cần phân biệt với các bệnh như viêm tụy cấp có biến chứng, hoại tử ruột, xoắn ruột, viêm phúc mạc do viêm ruột thừa hoại tử, phình bóc tách động mạch chủ bụng,… Việc khám bệnh đôi khi phải được thực hiện nhiều lần bởi một bác sĩ giàu kinh nghiệm để xác định lại dấu kích thích phúc mạc. Trong trường hợp khó, chưa loại trừ viêm phúc mạc đồng thời tùy tình trạng bệnh nhân mà có thể cân nhắc lựa chọn giữa phương án theo dõi sát, khám nhiều lần, chụp CLVT lại hay nội soi ổ bụng chẩn đoán.
+Trên thực tế, phần lớn các trường hợp thủng loét dạ dày tá tràng được chẩn đoán trước mổ là “viêm phúc mạc do thủng tạng rỗng” với vị trí thủng là dạ dày tá tràng chỉ được chẩn đoán khi thám sát trong mổ. Một số yếu tố trước mổ giúp gợi ý vị trí thủng là ở dạ dày tá tràng gồm: bệnh sử đau $\frac{1}{2}$ trên bụng lan ra khắp bụng, tiền căn có viêm loét dạ dày tá tràng, tiền căn dùng thuốc giảm đau kéo dài, chụp CLVT bụng có mất liên tục vùng dạ dày tá tràng.
 
-Đôi khi, bệnh nhân có biểu hiện đau bụng không rõ ràng nhưng trên X quang hoặc CLVT lại có hình ảnh hơi tự do ổ bụng. Theo y văn, có một số trường hợp bệnh nhân có hơi tự do trong ổ bụng nhưng không bị thủng tạng rỗng như: Sau mổ bụng, thẩm phân phúc mạc, bệnh nhân nữ, tràn khí trung thất, tràn khí màng phổi, vỡ kén khí, vỡ phế nang, thở máy áp lực dương,… Tuy nhiên, trong trường hợp có hình ảnh hơi tự do trong ổ bụng trên X quang hoặc chụp CLVT bụng, cần phải rất cẩn thận nếu muốn loại trừ nguyên nhân viêm phúc mạc do thủng tạng rỗng. Nhiều trường hợp lỗ thủng được bít tạm hay bệnh nhân đến trễ, bệnh nhân già yếu với biểu hiện lâm sàng không rõ ràng. Những trường hợp khó cần phải được thăm khám và đánh giá bởi các thầy thuốc nhiều kinh nghiệm của nhiều chuyên khoa với một thái độ cẩn trọng.
+Ngoài ra, nhiều trường hợp thủng loét dạ dày tá tràng có biểu hiện không điển hình cần chẩn đoán phân biệt. Những bệnh nhân đau bụng, có dấu kích thích phúc mạc nhưng không có hình ảnh hơi tự do ổ bụng nên được cân nhắc cẩn thận trước khi ra quyết định. Trường hợp này thường cần phân biệt với các bệnh như viêm tụy cấp có biến chứng, hoại tử ruột, xoắn ruột, viêm phúc mạc do viêm ruột thừa hoại tử, phình bóc tách động mạch chủ bụng,... Việc khám bệnh đôi khi phải được thực hiện nhiều lần bởi một bác sĩ giàu kinh nghiệm để xác định lại dấu kích thích phúc mạc. Trong trường hợp khó, chưa loại trừ viêm phúc mạc đồng thời tùy tình trạng bệnh nhân mà có thể cân nhắc lựa chọn giữa phương án theo dõi sát, khám nhiều lần, chụp CLVT lại hay nội soi ổ bụng chẩn đoán.
+
+Đôi khi, bệnh nhân có biểu hiện đau bụng không rõ ràng nhưng trên X quang hoặc CLVT lại có hình ảnh hơi tự do ổ bụng. Theo y văn, có một số trường hợp bệnh nhân có hơi tự do trong ổ bụng nhưng không bị thủng tạng rỗng như: Sau mổ bụng, thẩm phân phúc mạc, bệnh nhân nữ, tràn khí trung thất, tràn khí màng phổi, vỡ kén khí, vỡ phế nang, thở máy áp lực dương,... Tuy nhiên, trong trường hợp có hình ảnh hơi tự do trong ổ bụng trên X quang hoặc chụp CLVT bụng, cần phải rất cẩn thận nếu muốn loại trừ nguyên nhân viêm phúc mạc do thủng tạng rỗng. Nhiều trường hợp lỗ thủng được bít tạm hay bệnh nhân đến trễ, bệnh nhân già yếu với biểu hiện lâm sàng không rõ ràng. Những trường hợp khó cần phải được thăm khám và đánh giá bởi các thầy thuốc nhiều kinh nghiệm của nhiều chuyên khoa với một thái độ cẩn trọng.
 
 9. THỂ LÂM SÀNG
+
 Bên cạnh thể lâm sàng thường gặp và quan trọng nhất là thủng mặt trước dạ dày tá tràng vào túi lớn phúc mạc gây viêm phúc mạc toàn thể đã được mô tả ở trên, chúng tôi mô tả thêm một số thể lâm sàng khác ít gặp hơn của thủng loét dạ dày tá tràng:
 
 9.1. Thủng bít dạ dày tá tràng
 
-Trong một số trường hợp, lỗ thủng dạ dày tá tràng được bít kín lại bởi các tạng xung quanh như mạc nối lớn, gan, ruột non, tụy,… gây khó khăn cho chẩn đoán. Tình trạng thoát dịch tiêu hóa ra khoang phúc mạc chỉ diễn ra thoáng qua và được khu trú lại, do đó, [$] dấu hiệu viêm phúc [$] mạc không rõ [$] ràng. Một số [$] dấu hiệu gợi ý [$] thủng bít gồm: [$] Thay đổi kiểu [$] đau của loét [$] dạ dày tá [$] tràng, đau tăng [$] hơn, đau lan [$] sau lưng. Dấu [$] hiệu nhiễm khuẩn [$] thường không có [$] hoặc không rõ [$] ràng. Hình ảnh [$] X quang và [$] chụp CLVT có [$] thể thấy vài [$] bóng khí dưới [$] hoành. Bệnh nhân [$] thường được chẩn [$] đoán với bệnh [$] cảnh có đau [$] thượng vị nhưng [$] bụng mềm, không [$] dấu kích thích [$] phúc mạc, tổng [$] trạng ổn và [$] X quang hay [$] chụp CLVT có [$] vài bóng hơi [$] tự do.
+Trong một số trường hợp, lỗ thủng dạ dày tá tràng được bít kín lại bởi các tạng xung quanh như mạc nối lớn, gan, ruột non, tụy,... gây khó khăn cho chẩn đoán. Tình trạng thoát dịch tiêu hóa ra khoang phúc mạc chỉ diễn ra thoáng qua và được khu trú lại, do đó, dấu hiệu viêm phúc mạc không rõ ràng. Một số dấu hiệu gợi ý thủng bít gồm: Thay đổi kiểu đau của loét dạ dày tá tràng, đau tăng hơn, đau lan sau lưng. Dấu hiệu nhiễm khuẩn thường không có hoặc không rõ ràng. Hình ảnh X quang và chụp CLVT có thể thấy vài bóng khí dưới hoành. Bệnh nhân thường được chẩn đoán với bệnh cảnh có đau thượng vị nhưng bụng mềm, không dấu kích thích phúc mạc, tổng trạng ổn và X quang hay chụp CLVT có vài bóng hơi tự do.
 
-9.2. Thủng mặt sau [$] dạ dày tá tràng
+9.2. Thủng mặt sau dạ dày tá tràng
 
-Thủng loét mặt [$] sau dạ dày [$] tá tràng khá ít [$] gặp. Thành sau [$] dạ dày tá tràng [$] mở vào túi [$] mạc nối (túi [$] nhỏ) nên khi [$] có thủng xảy [$] ra sẽ tạo [$] sự thông thương [$] giữa lòng dạ [$] dày tá tràng [$] vào hậu cung [$] mạc nối. Thông [$] thường, túi mạc [$] nối có nhiều [$] dây dính tự [$] nhiên, các ổ [$] loét cũng thường [$] thủng vào tụy [$] giúp khu trú [$] được lỗ thủng [$] tương tự như [$] trong thủng bít. [$] Khi có thủng [$] thật sự xảy [$] ra, bệnh nhân [$] có dấu hiệu [$] đau cấp vùng [$] bụng trên, nhưng [$] dấu hiệu gồng [$] cứng bụng trên [$] ít khi xảy [$] ra do dịch [$] tiêu hóa thường [$] giới hạn trong [$] túi mạc nối. [$] Đôi khi, dịch [$] tiêu hóa thoát [$] qua khe Winslow [$] vào khoang phúc [$] mạc sẽ gây [$] triệu chứng viêm [$] phúc mạc toàn [$] thể tương tự [$] như thủng mặt [$] trước. Phần lớn [$] các trường hợp, [$] nhiễm khuẩn trong [$] túi mạc nối [$] sẽ khu trú [$] và nặng dần [$] lên hình thành [$] ổ áp xe, [$] bệnh nhân sẽ [$] có dấu hiệu [$] sốt và các [$] dấu hiệu đáp [$] ứng viêm toàn [$] thân khác. Chẩn [$] đoán trong các [$] trường hợp này [$] thường khó. Chụp [$] CLVT bụng có [$] vai trò quan [$] trọng giúp chẩn [$] đoán thể bệnh [$] này.
+Thủng loét mặt sau dạ dày tá tràng khá ít gặp. Thành sau dạ dày tá tràng mở vào túi mạc nối (túi nhỏ) nên khi có thủng xảy ra sẽ tạo sự thông thương giữa lòng dạ dày tá tràng vào hậu cung mạc nối. Thông thường, túi mạc nối có nhiều dây dính tự nhiên, các ổ loét cũng thường thủng vào tụy giúp khu trú được lỗ thủng tương tự như trong thủng bít. Khi có thủng thật sự xảy ra, bệnh nhân có dấu hiệu đau cấp vùng bụng trên, nhưng dấu hiệu gồng cứng bụng trên ít khi xảy ra do dịch tiêu hóa thường giới hạn trong túi mạc nối. Đôi khi, dịch tiêu hóa thoát qua khe Winslow vào khoang phúc mạc sẽ gây triệu chứng viêm phúc mạc toàn thể tương tự như thủng mặt trước. Phần lớn các trường hợp, nhiễm khuẩn trong túi mạc nối sẽ khu trú và nặng dần lên hình thành ổ áp xe, bệnh nhân sẽ có dấu hiệu sốt và các dấu hiệu đáp ứng viêm toàn thân khác. Chẩn đoán trong các trường hợp này thường khó. Chụp CLVT bụng có vai trò quan trọng giúp chẩn đoán thể bệnh này.
 
 10. ĐIỀU TRỊ
 
 10.1. Nguyên tắc điều trị
 
-Viêm phúc mạc [$] do thủng loét [$] dạ dày tá [$] tràng là một [$] tình trạng nhiễm [$] khuẩn trong ổ [$] bụng nặng, có [$] thể diễn tiến [$] thành nhiễm khuẩn [$] nặng và sốc [$] nhiễm khuẩn rất [$] nhanh. Do đó, [$] việc điều trị [$] cần khẩn trương [$] và phải khởi [$] động ngay sau [$] khi chẩn đoán. [$]
+Viêm phúc mạc do thủng loét dạ dày tá tràng là một tình trạng nhiễm khuẩn trong ổ bụng nặng, có thể diễn tiến thành nhiễm khuẩn nặng và sốc nhiễm khuẩn rất nhanh. Do đó, việc điều trị cần khẩn trương và phải khởi động ngay sau khi chẩn đoán.
 
-Nguyên tắc điều trị: [$]
-- Thuốc giảm đau [$]
-- Bồi hoàn nước [$] và điện giải. [$]
-- Kháng sinh phổ [$] rộng theo kinh [$] nghiệm. [$]
-- Xử trí ngoại [$] khoa được tiến [$] hành song song [$] với hồi sức [$] nội khoa [$]
+Nguyên tắc điều trị:
+- Thuốc giảm đau
+- Bồi hoàn nước và điện giải.
+- Kháng sinh phổ rộng theo kinh nghiệm.
+- Xử trí ngoại khoa được tiến hành song song với hồi sức nội khoa
 
-10.2. Điều trị ban đầu [$]
+10.2. Điều trị ban đầu
 
-Một cách cụ [$] thể, điều trị [$] ban đầu gồm: [$]
-- Đặt thông mũi [$] dạ dày giải [$] áp. [$]
-- Đặt thông tiểu [$] để theo dõi [$] lượng nước tiểu. [$]
-- Truyền dịch tinh [$] thể. [$]
+Một cách cụ thể, điều trị ban đầu gồm:
+- Đặt thông mũi dạ dày giải áp.
+- Đặt thông tiểu để theo dõi lượng nước tiểu.
+- Truyền dịch tinh thể.
 
 - Dùng thuốc ức chế bơm proton đường tĩnh mạch.
 - Kháng sinh phổ rộng đường tĩnh mạch.
@@ -755,6 +773,7 @@ Phần lớn các trường hợp thủng loét dạ dày tá tràng cần phả
 ## 10.3. Phẫu thuật điều trị thủng
 
 Trước đây, thủng loét dạ dày tá tràng được điều trị bằng phẫu thuật khâu lỗ thủng kết hợp phẫu thuật giảm tiết acid. Khâu lỗ thủng có thể được thực hiện bằng cách khâu đơn thuần hoặc có đệm mạc nối lớn (hình 5). Nội dung của phẫu thuật khâu thủng loét dạ dày tá tràng:
+
 - Như đã đề cập trong phần chẩn đoán phân biệt, việc chẩn đoán trước mổ thường không giúp xác định được vị trí của thủng tạng rỗng, do đó, khi phẫu thuật luôn luôn phải thám sát toàn ổ bụng để củng cố lại chẩn đoán viêm phúc mạc và chẩn đoán thêm vị trí thủng, nguyên nhân. Đối với thủng loét dạ dày tá tràng, phải luôn thám sát xem có tình trạng tắc đường thoát của dạ dày (gastric outlet obstruction) (thuật ngữ trước đây là hẹp môn vị) kèm theo hay không.
 - Cắt lọc mép lỗ thủng đến mô lành và khâu lại (có thể đắp mạc nối lớn hoặc không). Nếu có tắc đường thoát của dạ dày kèm theo thì cần phải nối vị tràng hoặc xem xét cắt hang vị.
 - Rửa sạch ổ bụng đến nước trong. Xem xét dẫn lưu ổ bụng.
@@ -767,11 +786,11 @@ Các phẫu thuật giảm tiết acid gồm:
 
 Nhìn chung, các phương pháp trên có tỷ lệ loét tái phát từ 5% đến 15%.
 
-Đến cuối những năm 1990, dựa trên những hiểu biết về H. pylori và sự ra đời của thuốc ức chế bơm proton, nhiều tác giả bắt đầu điều trị thủng loét dạ dày tá tràng bằng cách khâu đơn thuần kết hợp thuốc diệt trừ H. pylori và thuốc ức chế bơm proton, kết quả cho tỷ lệ loét tái phát dưới 5%, và mô hình điều trị này (khâu thủng + diệt trừ H. pylori + thuốc ức chế bơm proton) được áp dụng rộng rãi cho đến nay.
+Đến cuối những năm 1990, dựa trên những hiểu biết về *H. pylori* và sự ra đời của thuốc ức chế bơm proton, nhiều tác giả bắt đầu điều trị thủng loét dạ dày tá tràng bằng cách khâu đơn thuần kết hợp thuốc diệt trừ *H. pylori* và thuốc ức chế bơm proton, kết quả cho tỷ lệ loét tái phát dưới 5%, và mô hình điều trị này (khâu thủng + diệt trừ *H. pylori* + thuốc ức chế bơm proton) được áp dụng rộng rãi cho đến nay.
 
 Ở bệnh nhân loét mạn tính thất bại với điều trị nội khoa trước đây, có thể xem xét các phẫu thuật triệt để hơn (phẫu thuật khâu thủng + phẫu thuật giảm tiết acid). Tuy nhiên, cần phải cân nhắc với tình trạng toàn thân của bệnh nhân cũng như nguy cơ phẫu thuật như: tuổi bệnh nhân, bệnh kèm theo, thời gian thủng, tình trạng nhiễm khuẩn,...
 
-[Hình: Hình 5. Hình ảnh khâu thủng loét hành tá tràng. A, khâu các mũi chỉ rời. B, khâu lỗ thủng đơn thuần. C, khâu lỗ thủng có đệm mạc nối lớn.]
+[Hình: Hình ảnh khâu thủng loét hành tá tràng. A, khâu các mũi chỉ rời. B, khâu lỗ thủng đơn thuần. C, khâu lỗ thủng có đệm mạc nối lớn.]
 
 10.4. Phẫu thuật nội soi
 
@@ -779,14 +798,11 @@ Trên thế giới, phẫu thuật nội soi khâu thủng dạ dày được th
 
 Nội dung của phẫu thuật nội soi giống như mổ mở, tuy nhiên có một số lưu ý thêm khi tiến hành phẫu thuật nội soi khâu lỗ thủng:
 
-- Một số loét dạ dày tá tràng có nguyên nhân ác tính, do đó việc tầm soát nguyên nhân này ở bệnh nhân thủng loét là cần thiết. Cũng cần nhớ rằng phần lớn các ung thư dạ dày tá tràng là ung thư biểu mô tuyến, nghĩa là xuất phát từ lớp niêm mạc; như vậy, việc sinh thiết mép lỗ thủng loét cần đạt được toàn bộ chiều dày thành dạ dày hoặc tá tràng, và đôi khi điều này rất khó được thực hiện qua phẫu thuật nội soi. Trong trường hợp việc sinh thiết qua phẫu thuật nội soi không đảm bảo, cần ghi nhận và tư vấn cho bệnh nhân nội soi dạ dày tá tràng sinh thiết ổ loét sau khi bệnh nhân ổn định.
-
+- Một số loét dạ dày tá tràng có nguyên nhân ác tính, do đó việc tầm soát nguyên nhân này ở bệnh nhân thủng loét là cần thiết. Cũng cần nhớ rằng phần lớn các ung thư dạ dày tá tràng là ung thư biểu mô tuyến, nghĩa là xuất phát từ lớp niêm mạc; như vậy, việc sinh thiết mép lỗ thủng cần đạt được toàn bộ chiều dày thành dạ dày hoặc tá tràng, và đôi khi điều này rất khó được thực hiện qua phẫu thuật nội soi. Trong trường hợp việc sinh thiết qua phẫu thuật nội soi không đảm bảo, cần ghi nhận và tư vấn cho bệnh nhân nội soi dạ dày tá tràng sinh thiết ổ loét sau khi bệnh nhân ổn định.
 - Chuyển mổ mở khi ổ loét có những đặc tính: kích thước lỗ thủng lớn, ổ loét xơ chai biến dạng hành tá tràng, ổ loét xơ chai dính chặt vào ống mật chủ.
-
 - Việc kiểm tra tắc đường thoát dạ dày (gastric outlet obstruction) (thuật ngữ trước đây gọi là hẹp môn vị) là bắt buộc trong mổ khâu thủng dạ dày để tránh biến chứng sau mổ. Nếu việc kiểm tra bằng phẫu thuật nội soi không đảm bảo thì cần chuyển mổ mở.
 
 10.5. Điều trị không mổ (phương pháp Taylor)
-
 Điều trị bảo tồn không mổ là một lựa chọn có thể xem xét ở những bệnh nhân mà dấu hiệu nhiễm khuẩn cũng như viêm phúc mạc không rầm rộ và có vẻ giảm. Sự thành công của phương pháp này được giải thích là do lỗ thủng nhỏ và được các mô cơ quan xung quanh đến bít lại (thủng bít). Tuy nhiên, đây là phương pháp khá “thụ động” với hậu quả có thể nặng nề (nhiễm khuẩn nặng) nên đòi hỏi những chỉ định chặt chẽ và theo dõi sát sao.
 
 10.5.1. Chỉ định
@@ -795,7 +811,7 @@ Nội dung của phẫu thuật nội soi giống như mổ mở, tuy nhiên có
 - Huyết động ổn định.
 - Không có dấu nhiễm khuẩn hệ thống.
 - Bệnh nhân <70 tuổi.
-- Bệnh nhân thủng bít hay không có dấu thoát cản quang trên chụp cắt lớp vi tính hay X quang dạ dày – tá tràng.
+- Bệnh nhân thủng bít hay không có dấu thoát cản quang trên chụp cắt lớp vi tính hay X quang dạ dày - tá tràng.
 
 10.5.2. Nội dung
 - Hút qua thông mũi dạ dày.
@@ -808,11 +824,9 @@ Bệnh nhân thường cải thiện lâm sàng trong 12 giờ. Nếu sau 12 gi�
 
 10.5.4. Kết quả
 Dữ liệu về phương pháp này còn ít. Tỷ lệ tử vong khoảng 11% và biến chứng khoảng 16%. Khoảng 30% bệnh nhân theo dõi diễn tiến không cần phải mổ cấp cứu.
-
 Chú ý: Bệnh nhân được điều trị không phẫu thuật cần được nội soi dạ dày khi ổn định để loại trừ ung thư dạ dày cũng như tầm soát và điều trị H. pylori.
 
 10.6. Điều trị bệnh loét dạ dày tá tràng
-
 Để tránh tái phát thủng cũng như các biến chứng khác của loét dạ dày tá tràng, bệnh nhân cần được điều trị bệnh loét dạ dày tá tràng sau khi tình trạng thủng loét được điều trị ổn định. Nguyên tắc điều trị loét dạ dày tá tràng:
 
 - Nếu bệnh nhân có nhiễm H. pylori, cần điều trị tiệt trừ H. pylori.
@@ -846,42 +860,43 @@ Nhìn chung, tỷ lệ tử vong của thủng dạ dày tá tràng từ 1,3% đ
 2. Brant William E. và Pohl Jennifer (2018). Abdomen and Pelvis. Trong Fundamentals of Diagnostic Radiology (xuất bản lần 5).
 3. Nguyễn Đình Hối (1989). Bệnh ung thư dạ dày. Trong Bệnh lý phẫu thuật dạ dày tá tràng (tr. 180-213).
 
-4. Leger L. và Bouteriel P. (1999). Infections aigue de l'abdomen. Trong Sémiologie Chirurgicale ($6^{\text{th}}$ edition, pp. 234-251).
+4. Leger L. và Boutelier P. (1999). Infections aigue de l'abdomen. Trong Sémiologie Chirurgicale (6th edition, pp. 234-251).
 5. Lui F. Y., Davis K. A. (2010), "Gastroduodenal perforation: Maximal or minimal intervention?". Scandinavian Journal of Surgery, 99, 73-77.
-6. Marietta Bertleff J. O. E., Johan Lange F. (2010), "Laparoscopic correction of perforated peptic ulcer: first choice? A review of literature". Surg Endosc, 24, 1231–1239.
-7. McAllister Ian (2016). Perforation of the gastrointestinal tract. Trong Gastrointestinal emergencies ($3^{\text{th}}$ edition, pp. 211-219).
-8. Teitelbaum Ezra N., Hungness Eric S. and Mahvi David M. (2017). Stomach. Trong Sabiston textbook of surgery: the biological basis of modern surgical practice ($20^{\text{th}}$ edition, pp. 1188-1236).
-9. Nguyễn Anh Dũng (2000), "Nhận xét khâu thủng ổ loét dạ dày tá tràng qua ngã nội soi". Ngoại khoa, Tập XL, Số 2, Trang 40–45.
+6. Mariëtta Bertleff J. O. E., Johan Lange F. (2010), "Laparoscopic correction of perforated peptic ulcer: first choice? A review of literature". Surg Endosc, 24, 1231-1239.
+7. McAllister Ian (2016). Perforation of the gastrointestinal tract. Trong Gastrointestinal emergencies (3th edition, pp. 211-219).
+8. Teitelbaum Ezra N., Hungness Eric S. và Mahvi David M. (2017). Stomach. Trong Sabiston textbook of surgery: the biological basis of modern surgical practice (20th edition, pp. 1188-1236).
+9. Nguyễn Anh Dũng (2000), “Nhận xét khâu thủng ổ loét dạ dày tá tràng qua ngã nội soi”. Ngoại khoa, Tập XL, Số 2, Trang 40-45.
 10. Trần Thiện Trung (2008). Thủng loét dạ dày-tá tràng và điều trị tiệt trừ Helicobacter pylori. Trong Bệnh dạ dày-tá tràng và nhiễm Helicobacter pylori (xuất bản lần 2, tr. 201-226).
 
-## CÂU HỎI LƯỢNG GIÁ
-
+CÂU HỎI LƯỢNG GIÁ
 1. Phân loại Johnson cải biên trong loét dạ dày (chọn câu sai)?
-- A. Loét bờ cong nhỏ, gần khuyết góc là típ thường gặp nhất
-- B. Loét tiền môn vị có liên quan đến acid dạ dày bình thường hoặc tăng
-- C. Loét phần cao của bờ cong nhỏ liên quan đến tăng acid dạ dày
-- D. Loét lan tỏa ở bất kỳ vị trí nào của dạ dày liên quan đến dùng thuốc steroid
-2. Bệnh nhân nam, 30 tuổi, nhập cấp cứu vì đau thượng vị lan khắp bụng. Bệnh khởi phát từ tối ngày hôm trước, bệnh nhân đột ngột đau thượng vị nhiều kèm nôn ói, đau liên tục không tư thế giảm đau, đau sau đó tăng dần, lan khắp bụng. Khám: Bệnh tỉnh; mạch: 90 lần/phút; huyết áp 110/70 mmHg; nhiệt độ: $37,5^{\circ}\text{C}$; bụng chướng nhẹ, ấn đau khắp bụng, đau nhiều và đề kháng thượng vị. Tiền căn có viêm loét dạ dày tá tràng trước đây, không rõ vị trí. Bước tiếp theo cần làm trên bệnh nhân này?
-- A. Chụp cắt lớp vi tính bụng chậu
-- B. Xét nghiệm amylase máu, nước tiểu
-- C. Dùng thuốc ức chế bơm proton
-- D. Tất cả đều đúng
+A. Loét bờ cong nhỏ, gần khuyết góc là típ thường gặp nhất
+B. Loét tiền môn vị có liên quan đến acid dạ dày bình thường hoặc tăng
+C. Loét phần cao của bờ cong nhỏ liên quan đến tăng acid dạ dày
+D. Loét lan tỏa ở bất kỳ vị trí nào của dạ dày liên quan đến dùng thuốc steroid
+2. Bệnh nhân nam, 30 tuổi, nhập cấp cứu vì đau thượng vị lan khắp bụng. Bệnh khởi phát từ tối ngày hôm trước, bệnh nhân đột ngột đau thượng vị nhiều kèm nôn ói, đau liên tục không tư thế giảm đau, đau sau đó tăng dần, lan khắp bụng. Khám: Bệnh tỉnh; mạch: 90 lần/phút; huyết áp 110/70 mmHg; nhiệt độ: 37,5°C; bụng trướng nhẹ, ấn đau khắp bụng, đau nhiều và đề kháng thượng vị. Tiền căn có viêm loét dạ dày tá tràng trước đây, không rõ xử trí. Bước tiếp theo cần làm trên bệnh nhân này?
+A. Chụp cắt lớp vi tính bụng chậu
+B. Xét nghiệm amylase máu, nước tiểu
+C. Dùng thuốc ức chế bơm proton
+D. Tất cả đều đúng
 
-3. Cũmg bệnh nhân ở câu 2, kết quả chụp cắt lớp vi tính bụng chậu: dịch bụng lượng trung bình, không thấy hơi tự do ổ bụng, ổ tụ dịch khí #4x5x7 cm ở mặt sau tá tràng D2, tụy bắt quang đều ở đuôi, đầu tụy phù nề, có dịch quanh tụy. Xử trí tiếp theo ở bệnh nhân này?
-  A. Chờ kết quả amylase máu, nước tiểu
-  B. Cho bệnh nhân chụp thêm phim dạ dày tá tràng cản quang với cản quang tan trong nước
-  C. Chỉ định phẫu thuật cấp cứu
-  D. Chụp cộng hưởng từ vùng bụng
+3. Cũng bệnh nhân ở câu 2, kết quả chụp cắt lớp vi tính bụng chậu: dịch bụng lượng trung bình, không thấy hơi tự do ổ bụng, ổ tụ dịch khí #4x5x7 cm ở mặt sau tá tràng D2, tụy bắt quang đều ở đuôi, đầu tụy phù nề, có dịch quanh tụy. Xử trí tiếp theo ở bệnh nhân này?
+A. Chờ kết quả amylase máu, nước tiểu
+B. Cho bệnh nhân chụp thêm phim dạ dày tá tràng cản quang với cản quang tan trong nước
+C. Chỉ định phẫu thuật cấp cứu
+D. Chụp cộng hưởng từ vùng bụng
+
 4. Chẩn đoán thủng dạ dày tá tràng (chọn câu sai)?
-  A. X quang bụng đứng không sửa soạn có thể thấy hình ảnh hơi tự do trong 50-70% các trường hợp
-  B. Khoảng 95-98% các trường hợp thủng dạ dày tá tràng có hình ảnh hơi tự do trên chụp CLVT bụng chậu
-  C. Có thể chụp X quang dạ dày cản quang bằng baryt để chẩn đoán trong những trường hợp khó
-  D. Amylase máu tăng cao không có giá trị đặc hiệu trong chẩn đoán thủng dạ dày tá tràng
-5. Các yếu tố tiên lượng theo bảng điểm Boey (chọn câu sai) ?
-  A. Bệnh kèm theo
-  B. Đau bụng >24 giờ
-  C. Sốc trước mổ
-  D. Suy thận
+A. X quang bụng đứng không sửa soạn có thể thấy hình ảnh hơi tự do trong 50-70% các trường hợp
+B. Khoảng 95-98% các trường hợp thủng dạ dày tá tràng có hình ảnh hơi tự do trên chụp CLVT bụng chậu
+C. Có thể chụp X quang dạ dày cản quang bằng baryt để chẩn đoán trong những trường hợp khó
+D. Amylase máu tăng cao không có giá trị đặc hiệu trong chẩn đoán thủng dạ dày tá tràng
+
+5. Các yếu tố tiên lượng theo bảng điểm Boey (chọn câu sai)?
+A. Bệnh kèm theo
+B. Đau bụng >24 giờ
+C. Sốc trước mổ
+D. Suy thận
 
 DIỄN TIẾN
 # 3 giai đoạn theo Silen
@@ -956,7 +971,7 @@ $S_{\text{phúc mạc}} = 1,5 \times S_{\text{da}}$
   - Có thể kèm ói do kích thích phúc mạc => sau nôn đỡ đau
   - Tiền căn
 
-[Hình: Hình vẽ minh họa một người đàn ông ôm bụng đau dữ dội, một hình tròn phóng to cổ tay có chữ "Faire préciser l'heure" và một hình người đàn ông đang nôn với chú thích "Vomissements inconstants"]
+[Hình: Hình vẽ minh họa một người đàn ông ôm bụng đau dữ dội, một hình tròn phóng to cổ tay có ghi "Faire préciser l'heure" và một hình người đàn ông đang nôn với chú thích "Vomissements inconstants"]
 
 LÂM SÀNG
 
@@ -978,7 +993,7 @@ Mất vùng đục trước gan
 
 Tiếng kêu Douglas
 
-[Hình: Hình minh họa tiếng kêu Douglas, chú thích: Inflammatory fluid]
+[Hình: Hình minh họa Tiếng kêu Douglas, chú thích: Inflammatory fluid]
 
 Tư thế: nửa ngồi đầu cao 45° } gõ thấy mất vùng đục trước gan
 
@@ -1031,7 +1046,7 @@ CẬN LÂM SÀNG
     - CT scan bụng chậu:
         - Thấy khí
         - Thấy dịch, nhầy
-    - X-quang cản quang tan trong nước:
+    - X-quang đường cản quang tan trong nước:
         - Ít dùng
         - Dùng cản quang tan trong nước, không dùng Barit
 
@@ -1064,7 +1079,7 @@ CHẨN ĐOÁN
   - Tràn khí trung thất, tràn khí màng phổi, vỡ kén khí, thở máy áp lực dương
   -...
 
-bth: 1-2 ngày CO2 đọng phúc mạc hấp thu hết
+bth: 1-2 ngày CO2 ộc phúc mạc hấp thu hết
 
 THỂ LÂM SÀNG
 
@@ -1083,46 +1098,33 @@ THỂ LÂM SÀNG
 # Thủng mặt sau
 
 - Dịch tiêu hóa thoát ra túi mạc nối
-- Đau bụng 1/2 trên
-- Viêm phúc mạc không rõ ràng
-- Áp xe túi mạc nối
-
-[Hình: Giải phẫu túi mạc nối và dạ dày]
-
----
-
-THỂ LÂM SÀNG
-
-# Thủng mặt sau
-
-- Dịch tiêu hóa thoát ra túi mạc nối
-- Đau bụng 1/2 trên
+- Đau bụng ½ trên
 - Viêm phúc mạc không rõ ràng
 - Áp xe túi mạc nối
 - XHTH trên
 
 [Hình: Gastroduodenal artery, Suture ligation, Ulcer, Stomach, Duodenum]
 
-Ổ loét ăn vào ĐM vị tá tràng
+**Sơ đồ: Ổ loét ăn vào ĐM vị tá tràng --> XHTH trên**
 
-Thể KISSING ULCER : Loét cả mặt trước + sau, ăn vào ĐM
+Thể KISSING ULCER: Loét cả mặt trước + sau, ăn vào ĐM
 
 # HỘI CHỨNG Ứ ĐỌNG DẠ DÀY - HẸP MÔN VỊ
-Hoàng Danh Tấn, Nguyễn Phúc Minh
+*Hoàng Danh Tấn, Nguyễn Phúc Minh*
 
-MỤC TIÊU
+**MỤC TIÊU**
 
 1. Chẩn đoán phân biệt hẹp môn vị với tắc ruột cao và 4 nhóm nguyên nhân gây ứ đọng dạ dày dựa vào lâm sàng (hỏi, khám bệnh) và cận lâm sàng.
 2. Tiếp cận người bệnh (qua lâm sàng và cận lâm sàng) để chẩn đoán xác định, giai đoạn, biến chứng, nguyên nhân hẹp môn vị.
 3. Vận dụng nguyên tắc điều trị trong chỉ định điều trị nội khoa, chuẩn bị trước mổ và điều trị ngoại khoa.
 
-Từ khóa: hội chứng ứ đọng dạ dày, hẹp môn vị, thang điểm GCSI, điều trị nội khoa, điều trị ngoại khoa, ói muộn sau ăn.
+**Từ khóa:** hội chứng ứ đọng dạ dày, hẹp môn vị, thang điểm GCSI, điều trị nội khoa, điều trị ngoại khoa, ói muộn sau ăn.
 
-## 1. ĐẠI CƯƠNG
+**1. ĐẠI CƯƠNG**
 
-Về mặt cơ học, dạ dày có 3 chức năng: Chứa đựng thức ăn, nhào trộn - nghiền nhỏ thức ăn và tống xuất chúng xuống ruột non. Ứ đọng dạ dày là tình trạng thức ăn chậm hay không xuống được tá tràng do rối loạn chức năng, không do nguyên nhân cơ học (Gastric Retention; Gastroparesis; Gastric Retention Without Mechanical Obstruction; Delayed Gastric Emptying Syndrome). Ngược lại, hẹp môn vị - tá tràng (gọi tắt là hẹp môn vị) là một hội chứng do nghẽn tắc cơ học lối ra của dạ dày (Gastric Outlet Obstruction Syndrome). Tổn thương gây hẹp không chỉ khu trú tại môn vị mà còn ở hang vị, tá tràng và những cấu trúc giải phẫu kế cận. Có thể hiểu hội chứng ứ đọng dạ dày và hẹp môn vị tương tự như tắc ruột cơ năng và tắc ruột cơ học. Chẩn đoán hội chứng ứ đọng dạ dày bao giờ cũng phải loại trừ nguyên nhân cơ học, điều trị thì gần như không có vai trò ngoại khoa. Chẩn đoán hẹp môn vị cần xác định nguyên nhân gây tắc, điều trị phải phối hợp nội - ngoại khoa.
+Về mặt cơ học, dạ dày có 3 chức năng: chứa đựng thức ăn, nhào trộn - nghiền nhỏ thức ăn và tống xuất chúng xuống ruột non. Ứ đọng dạ dày là tình trạng thức ăn chậm hay không xuống được tá tràng do rối loạn chức năng, không do nguyên nhân cơ học (Gastric Retention; Gastroparesis; Gastric Retention Without Mechanical Obstruction; Delayed Gastric Emptying Syndrome). Ngược lại, hẹp môn vị - tá tràng (gọi tắt là hẹp môn vị) là một hội chứng do nghẽn tắc cơ học lối ra của dạ dày (Gastric Outlet Obstruction Syndrome). Tổn thương gây hẹp không chỉ khu trú tại môn vị mà còn ở hang vị, tá tràng và những cấu trúc giải phẫu kế cận. Có thể hiểu hội chứng ứ đọng dạ dày và hẹp môn vị tương tự như tắc ruột cơ năng và tắc ruột cơ học. Chẩn đoán hội chứng ứ đọng dạ dày bao giờ cũng phải loại trừ nguyên nhân cơ học, điều trị thì gần như không có vai trò ngoại khoa. Chẩn đoán hẹp môn vị cần xác định nguyên nhân gây tắc, điều trị phải phối hợp nội - ngoại khoa.
 
-### 1.1. Giải phẫu
+**1.1. Giải phẫu**
 
 Dạ dày có 3 lớp cơ: cơ vòng, cơ dọc và cơ chéo. Lớp cơ vòng dày lên ở môn vị tạo thành cơ thắt môn vị. Lớp cơ chéo giúp nghiền thức ăn, là đặc điểm phân biệt dạ dày với các đoạn tiêu hóa khác.
 
@@ -1136,12 +1138,13 @@ Dạ dày là một đoạn của ống tiêu hóa, có chức năng bài tiết
 
 Dạ dày được chia làm hai phần theo vùng chức năng:
 
-- **Phần trên** (proximal) gồm tâm vị, đáy vị, thân vị có đặc điểm là lớp cơ mỏng và yếu, đảm nhân chức năng chứa đựng.
-- **Phần dưới** (distal) gồm hang vị, môn vị có đặc điểm là lớp cơ dày và mạnh, đảm nhận chức năng tiêu hóa. Thông qua hoạt động cơ học (nhào trộn, nghiền nhỏ, tống xuất) và hóa học (dịch vị), thức ăn được nghiền nát thành các các mảnh nhỏ < 2 mm gọi là dưỡng trấp (chyme) và bị đẩy xuống xuống tá tràng. Năng lực tống xuất dạ dày phụ thuộc chủ yếu vào vận động của phần dưới dạ dày.
+- Phần trên (proximal) gồm tâm vị, đáy vị, thân vị có đặc điểm là lớp cơ mỏng và yếu, đảm nhận chức năng chứa đựng.
+
+- Phần dưới (distal) gồm hang vị, môn vị có đặc điểm là lớp cơ dày và mạnh, đảm nhận chức năng tiêu hóa. Thông qua hoạt động cơ học (nhào trộn, nghiền nhỏ, tống xuất) và hóa học (dịch vị), thức ăn được nghiền nát thành các các mảnh nhỏ <2 mm gọi là dưỡng trấp (chyme) và bị đẩy xuống xuống tá tràng. Năng lực tống xuất dạ dày phụ thuộc chủ yếu vào vận động của phần dưới dạ dày.
 
 Vận động dạ dày gồm 3 quá trình chức năng liên tiếp với biểu hiện và cơ chế khác nhau. Tống xuất dạ dày là kết quả phối hợp của chúng.
 
-*(1) Chứa đựng thức ăn*: dạ dày chứa đựng, lưu trữ tạm thời thức ăn để nhào trộn, nghiền nhỏ và đẩy dần xuống tá tràng từng lượng phù hợp sao cho không quá tải cơ chế tiêu hóa và hấp thu ở ruột non. Thức ăn vào đến da dày sẽ kích hoạt thần kinh X (thông qua nitric oxide, VIP), làm giảm trương lực cơ nhất là phần trên, giúp tăng thể tích dạ dày. Điều này cho phép lưu trữ tới 1.500 ml thức ăn (so với 50 ml lúc dạ dày trống) mà gây tăng áp lực rất ít, < 5 mmHg. Áp lực ở dạ dày cho cảm giác no và tạo phản xạ góp phần khởi đầu quá trình sinh lý ở ruột non, ruột già.
+(1) Chứa đựng thức ăn: dạ dày chứa đựng, lưu trữ tạm thời thức ăn để nhào trộn, nghiền nhỏ và đẩy dần xuống tá tràng từng lượng phù hợp sao cho không quá tải cơ chế tiêu hóa và hấp thu ở ruột non. Thức ăn vào đến da dày sẽ kích hoạt thần kinh X (thông qua nitric oxide, VIP), làm giảm trương lực cơ nhất là phần trên, giúp tăng thể tích dạ dày. Điều này cho phép lưu trữ tới 1.500 ml thức ăn (so với 50 ml lúc dạ dày trống) mà gây tăng áp lực rất ít, < 5 mmHg. Áp lực ở dạ dày cho cảm giác no và tạo phản xạ góp phần khởi đầu quá trình sinh lý ở ruột non, ruột già.
 
 Cơ chế thần kinh - nội tiết kiểm soát chức năng chứa đựng. Ở phần trên dạ dày, các thụ thể cơ học tiếp nhận kích thích gây phản xạ giãn cơ thông qua cung phản xạ thần kinh X (vago-vagal reflex arc). Cắt thần kinh X, chức năng chứa đựng của dạ dày sẽ giảm và có tình trạng tăng áp lực. Ngoài thần kinh, còn có các chất kiểm soát co - giãn cơ vùng đáy vị: (1). nhóm gây giãn cơ gồm GRP (gastrin-releasing peptide), gastrin, CCK (cholecystokinin), secretin, VIP (vasoactive intestinal peptide), somatostatin, glucagon, bombesin; (2). nhóm gây co cơ gồm motilin, TRP (thyrotropin-releasing hormone). Nhiều đoạn ống tiêu hóa xa hơn cũng gây phản xạ lên đáy vị. Áp lực tăng ở tá tràng (thông qua các neuron thần kinh non-adrenergic non-cholinergic) gây giảm trương lực đáy vị (tăng chứa đựng dạ dày). Acid, lipid, protein ở tá tràng gây giảm trương lực (KHÔNG qua cung phản xạ thần kinh mà do phóng thích CCK, nhất là lipid và acid amin).
 
@@ -1149,19 +1152,21 @@ Cơ chế thần kinh - nội tiết kiểm soát chức năng chứa đựng. �
 
 [Hình: Hình 2. Phối hợp nhu động các vùng chức năng của dạ dày.
 - Giãn đáy vị: chứa thức ăn
-- Co thắt hang vị: nhào trộn, nghiền nhỏ, tổng xuất thức ăn]
+- Co thắt hang vị: nhào trộn, nghiền nhỏ, tống xuất thức ăn]
 
-(2) Nhào trộn, nghiền nhỏ và tổng xuất sau ăn: $5-10$ phút sau bữa ăn, bắt đầu có những đợt sóng co thắt chậm (gọi là sóng chậm - slow waves) từ đoạn giữa bờ cong lớn (tối đa 3 sóng/phút) lan truyền về phía môn vị 3 đợt/phút. Tốc độ lan truyền dọc theo bờ cong lớn nhanh hơn bờ cong nhỏ một chút để cùng đến môn vị. Các sóng nhu động này mạnh và nhanh dần, đạt mức tối đa khi đến hang vị. Kết quả là thức ăn được đẩy dần đến môn vị. Ở giai đoạn đầu chu kỳ co thắt hang vị, môn vị vẫn còn mở $2-3\text{ mm}$ nên một vài ml dưỡng trấp xuống được tá tràng. Gần như ngay lập tức, môn vị đóng chặt lại (khi sóng nhu động chạm đến cơ thắt môn vị), buộc thức ăn trở ngược lại hang vị, thân vị. Cơ chế này được gọi là "bơm môn vị" ("pyloric pump"), giúp nhào trộn thức ăn với dịch vị và nghiền nát chúng thành dưỡng trấp mới xuống được tá tràng. Lượng thức ăn được chuyển thành dưỡng trấp tùy thuộc khối lượng thức ăn lỏng - đặc, độ hòa tan, dịch vị, khả năng trộn - nghiền. Dưỡng trấp được tổng xuất dần, từng đợt xuống tá tràng tùy vào năng lực tiêu hóa và hấp thu của ruột non. Bình thường, dạ dày tổng xuất xuống ruột khoảng $200\text{ Kcal}$ mỗi giờ. Giai đoạn vận động dạ dày sau bữa ăn tùy vào khối lượng và tính lý hóa của thức ăn, kéo dài tối đa khoảng $120\text{ phút}$.
+(2) Nhào trộn, nghiền nhỏ và tống xuất sau ăn: 5 – 10 phút sau bữa ăn, bắt đầu có những đợt sóng co thắt chậm (gọi là sóng chậm – slow waves) từ đoạn giữa bờ cong lớn (tối đa 3 sóng/phút) lan truyền về phía môn vị 3 đợt/phút. Tốc độ lan truyền dọc theo bờ cong lớn nhanh hơn bờ cong nhỏ một chút để cùng đến môn vị. Các sóng nhu động này mạnh và nhanh dần, đạt mức tối đa khi đến hang vị. Kết quả là thức ăn được đẩy dần đến môn vị. Ở giai đoạn đầu chu kỳ co thắt hang vị, môn vị vẫn còn mở 2 – 3 mm nên một vài ml dưỡng trấp xuống được tá tràng. Gần như ngay lập tức, môn vị đóng chặt lại (khi sóng nhu động chạm đến cơ thắt môn vị), buộc thức ăn trở ngược lại hang vị, thân vị. Cơ chế này được gọi là "bơm môn vị" ("pyloric pump"), giúp nhào trộn thức ăn với dịch vị và nghiền nát chúng thành dưỡng trấp mới xuống được tá tràng. Lượng thức ăn được chuyển thành dưỡng trấp tùy thuộc khối lượng thức ăn lỏng - đặc, độ hòa tan, dịch vị, khả năng trộn - nghiền. Dưỡng trấp được tống xuất dần, từng đợt xuống tá tràng tùy vào năng lực tiêu hóa và hấp thu của ruột non. Bình thường, dạ dày tống xuất xuống ruột khoảng 200 Kcal mỗi giờ. Giai đoạn vận động dạ dày sau bữa ăn tùy vào khối lượng và tính lý hóa của thức ăn, kéo dài tối đa khoảng 120 phút.
 
-Yếu tố thần kinh - nội tiết, tính chất lý hóa của thức ăn sẽ kiểm soát hoạt động vận động dạ dày sau ăn (chưa rõ chất trung gian). Kích thích thần kinh X gây ức chế co bóp ở phần dưới dạ dày (phóng thích VIP), cắt thần kinh X làm tăng ngưỡng kích hoạt và rút ngắn thời gian co cơ. Thức ăn dạng hạt (particulate foods) gây co thắt mạnh hơn, dạng nhũ dịch và thành phần năng lượng cao gây co thắt kéo dài hơn (lipid > protein > carbohydrate). Tăng áp lực đáy vị sẽ gây tăng co bóp ở hang vị nhờ phản xạ đáy vị - hang vị. Áp lực, lipid – protein - HCl ở tá tràng gây ức chế co thắt hang vị.
+51
 
-(3) Tống xuất ở khoảng giữa các bữa ăn: khi giai đoạn sau bữa ăn kết thúc, vận động của dạ dày là những “phức hợp sóng nhu động” (“migrating motility complex”), xảy ra theo chu kỳ. Chúng di chuyển chậm, dọc theo ống tiêu hóa đến đại tràng trong khoảng 100-120 phút. Lúc đó, lại xuất hiện một phức hợp sóng nhu động khác, bắt đầu từ dạ dày. Chức năng của phức hợp sóng nhu động là tống xuất các chất trong lòng ống tiêu hóa ra ngoài. Phức hợp sóng nhu động gồm ba giai đoạn. Giai đoạn 1 (50-60% chu kỳ) gần như không vận động, thỉnh thoảng có co thắt nhưng không tạo ra lực đẩy. Giai đoạn 2 (20-30% chu kỳ), tần số co thắt có tăng lên, nhưng không đều và không tạo lực đẩy. Giai đoạn 3 kéo dài khoảng 10 phút, sóng nhu động tạo lực đẩy, xuất hiện thường xuyên với tần suất 3 – 4 cơn mỗi phút. Trong giai đoạn này, môn vị luôn mở, cho phép dạ dày tống xuất các thành phần thức ăn chưa được chuyển thành dưỡng trấp (rắn, khó tiêu). Những mảnh thức ăn đặc - rắn (solid) tương đối lớn, khó tiêu vẫn còn trong dạ dày trừ khi bị nôn ra ngoài.
+Yếu tố thần kinh - nội tiết, tính chất lý hóa của thức ăn sẽ kiểm soát hoạt động vận động dạ dày sau ăn (chưa rõ chất trung gian). Kích thích thần kinh X gây ức chế co bóp ở phần dưới dạ dày (phóng thích VIP), cắt thần kinh X làm tăng ngưỡng kích hoạt và rút ngắn thời gian co cơ. Thức ăn dạng hạt (particulate foods) gây co thắt mạnh hơn, dạng nhũ dịch và thành phần năng lượng cao gây co thắt kéo dài hơn (lipid > protein > carbohydrate). Tăng áp lực đáy vị sẽ gây tăng co bóp ở hang vị nhờ phản xạ đáy vị - hang vị. Áp lực, lipid - protein - HCl ở tá tràng gây ức chế co thắt hang vị.
+
+(3) Tống xuất ở khoảng giữa các bữa ăn: khi giai đoạn sau bữa ăn kết thúc, vận động của dạ dày là những “phức hợp sóng nhu động” (“migrating motility complex”), xảy ra theo chu kỳ. Chúng di chuyển chậm, dọc theo ống tiêu hóa đến đại tràng trong khoảng 100-120 phút. Lúc đó, lại xuất hiện một phức hợp sóng nhu động khác, bắt đầu từ dạ dày. Chức năng của phức hợp sóng nhu động là tống xuất các chất trong lòng ống tiêu hóa ra ngoài. Phức hợp sóng nhu động gồm ba giai đoạn. Giai đoạn 1 (50-60% chu kỳ) gần như không vận động, thỉnh thoảng có co thắt nhưng không tạo ra lực đẩy. Giai đoạn 2 (20-30% chu kỳ), tần số co thắt có tăng lên, nhưng không đều và không tạo lực đẩy. Giai đoạn 3 kéo dài khoảng 10 phút, sóng nhu động tạo lực đẩy, xuất hiện thường xuyên với tần suất 3 - 4 cơn mỗi phút. Trong giai đoạn này, môn vị luôn mở, cho phép dạ dày tống xuất các thành phần thức ăn chưa được chuyển thành dưỡng trấp (rắn, khó tiêu). Những mảnh thức ăn đặc - rắn (solid) tương đối lớn, khó tiêu vẫn còn trong dạ dày trừ khi bị nôn ra ngoài.
 
 Chưa hiểu rõ cơ chế kiểm soát phức hợp sóng nhu động, có vai trò của thần kinh X và hormone (motilin, opioids). Chất acid (HCl) trong tá tràng ức chế phức hợp sóng nhu động, chất kiềm thì kích thích. Cảm giác “xót ruột” khó chịu và “tiếng réo” nghe được lúc đói có liên quan đến cơn co thắt của phức hợp sóng nhu động ở dạ dày. Chúng xuất hiện sau 12-24 giờ nhịn ăn, có thể do đường huyết thấp. Cơn co thắt biến mất khi thức ăn vào đến dạ dày.
 
 Cơ chế ức chế tống xuất dạ dày: khi thể tích dưỡng trấp xuống tá tràng vượt quá khả năng tiêu hóa và hấp thu của ruột, sẽ kích hoạt thần kinh nội tại trong thành ống tiêu hóa để ức chế quá trình tống xuất dạ dày. Các yếu tố lý hóa ở tá tràng kích hoạt một loạt phản xạ ức chế tống xuất dạ dày: áp lực, nồng độ acid, áp lực thẩm thấu, các sản phẩm tiêu hóa của đạm và mỡ. Ngoài phản xạ thần kinh, còn có vai trò của hormone được phóng thích từ đoạn đầu ruột non (chủ yếu đáp ứng với hàm lượng chất béo trong dưỡng trấp), nhất là CCK (cholecystokinin), secretin và GPI (gastric peptide inhibitor).
 
-Hoạt động điện cơ: ở trạng thái nghỉ, mọi tế bào cơ trơn của dạ dày đều có khả năng khử cực tạo điện thế co cơ để hình thành sóng chậm. Khởi nhịp từ các tế bào kẽ Cajal, quá trình khử cực lan truyền tạo nhu động dạ dày. Điện thế nghỉ màng tế bào ngày càng âm khi đến gần môn vị (từ -50 mV ở đáy vị đến -80 mV ở môn vị). Điện thế nghị màng tế bào càng cao (ít âm hơn) càng khó khử cực nhưng thời gian khử cực ngắn hơn nên các sóng chậm từ bờ cong lớn không lan ngược lên đáy vị (dù gần hơn) mà lan xuống hang môn vị, và tần số cơ ở thân vị nhiều hơn hang vị.
+Hoạt động điện cơ: ở trạng thái nghỉ, mọi tế bào cơ trơn của dạ dày đều có khả năng khử cực tạo điện thế co cơ để hình thành sóng chậm. Khởi nhịp từ các tế bào kẽ Cajal, quá trình khử cực lan truyền tạo nhu động dạ dày. Điện thế nghỉ màng tế bào ngày càng âm khi đến gần môn vị (từ -50 mV ở đáy vị đến -80 mV ở môn vị). Điện thế nghi màng tế bào càng cao (ít âm hơn) càng khó khử cực nhưng thời gian khử cực ngắn hơn nên các sóng chậm từ bờ cong lớn không lan ngược lên đáy vị (dù gần hơn) mà lan xuống hang môn vị, và tần số co cơ ở thân vị nhiều hơn hang vị.
 
 Phần dưới của dạ dày tống xuất được nhờ 2 cơ chế: (1). chênh lệch tần số sóng chậm ở giữa các vùng (thân vị > hang vị > môn vị) và (2). khác biệt về tốc độ lan truyền sóng nhu động giữa các vùng (4 cm / giây ở phần dưới của hang vị, 0,5 cm /giây ở thân vị).
 
@@ -1183,29 +1188,32 @@ Trào ngược dạ dày - thực quản là tình trạng một lượng rất 
 
 Tóm lại, ứ đọng dạ dày sẽ gây mất nước, suy dinh dưỡng, hình thành u bã thức ăn trong dạ dày, khó kiểm soát đường huyết và giảm chất lượng cuộc sống bệnh nhân.
 
-### 1.3.2. Sinh lý bệnh hẹp môn vị
+1.3.2. Sinh lý bệnh hẹp môn vị
 
 Tương tự hội chứng ứ đọng dạ dày, tắc nghẽn lối ra dạ dày tá tràng gây ứ đọng thức ăn, dịch tiêu hóa (nước bọt, dịch vị và dịch mật nếu tắc dưới nhú Vater) làm giãn căng dạ dày, gây các rối loạn bệnh lý, triệu chứng lâm sàng và hình ảnh.
 
 Trường hợp điển hình, hẹp môn vị diễn tiến tự nhiên theo 2 giai đoạn: giai đoạn tăng trương lực (còn bù) và giai đoạn mất trương lực (mất bù). Ở giai đoạn tăng trương lực, vẫn còn khả năng tống xuất nhưng chậm nhờ dạ dày tăng co bóp. Lâm sàng là đau cơn thượng vị và nôn muộn sau ăn. Tắc nghẽn kéo dài sẽ dần dần làm dạ dày giãn to và mất trương lực. Ở giai đoạn này, sau ăn người bệnh thấy đau ít hơn, nôn rất muộn, có khi vài hôm mới nôn nhưng mỗi lần nôn với khối lượng rất lớn.
 
 Thức ăn không xuống được ruột non và nôn kéo dài dẫn đến các hậu quả:
-- Rối loạn điện giải: giai đoạn đầu, bệnh nhân mất $H^+$ qua dịch nôn, cơ thể phản ứng bằng cách tăng thải $NaHCO_3$ qua thận (kiềm hóa nước tiểu) để cân bằng pH máu. Nôn kéo dài gây mất nhiều $Na^+$ và nước, cơ thể sẽ bù trừ bằng cách tái hấp thu $Na^+$ trong nước tiểu và ngưng thải $NaHCO_3$ ở thận. Ngoài ra, nôn làm giảm $K^+$ máu, các tế bào sẽ đẩy $K^+$ ra ngoại bào và hấp thu lại $H^+$. Hậu quả là kiềm chuyển hóa, pH máu có thể $> 7,5$. Lúc này, $Ca^{2+}$ sẽ chuyển thành dạng không ion hóa để làm giảm tình trạng kiềm chuyển hóa, mặc dù tổng nồng độ Calcium trong máu không đổi. Tóm lại, hậu quả là giảm $Na^+$, $Cl^-$, $K^+$, $Ca^{2+}$ và tăng $HCO_3^-$.
+
+- Rối loạn điện giải: giai đoạn đầu, bệnh nhân mất $H^+$ qua dịch nôn, cơ thể phản ứng bằng cách tăng thải $NaHCO_3$ qua thận (kiềm hóa nước tiểu) để cân bằng pH máu. Nôn kéo dài gây mất nhiều $Na^+$ và nước, cơ thể sẽ bù trừ bằng cách tái hấp thu $Na^+$ trong nước tiểu và ngưng thải $NaHCO_3$ ở thận. Ngoài ra, nôn làm giảm $K^+$ máu, các tế bào sẽ đẩy $K^+$ ra ngoại bào và hấp thu lại $H^+$. Hậu quả là kiềm chuyển hóa, pH máu có thể > 7,5. Lúc này, $Ca^{2+}$ sẽ chuyển thành dạng không ion hóa để làm giảm tình trạng kiềm chuyển hóa, mặc dù tổng nồng độ Calcium trong máu không đổi. Tóm lại, hậu quả là giảm $Na^+$, $Cl^-$, $K^+$, $Ca^{2+}$ và tăng $HCO_3^-$.
+
 - Mất nước gây ra giảm thể tích tuần hoàn và suy thận cấp trước thận.
+
 - Thiếu máu và suy dinh dưỡng: do nôn và dưỡng chất không xuống được ruột non kéo dài.
 
-## 2. HỘI CHỨNG Ứ ĐỌNG DẠ DÀY
+2. HỘI CHỨNG Ứ ĐỌNG DẠ DÀY
 
-### 2.1. Dịch tễ
+2.1. Dịch tễ
 
 Chưa rõ tần suất bệnh lưu hành (prevalence), ước đoán 2 - 4% dân số Mỹ mắc hội chứng ứ đọng dạ dày. Tỷ lệ này ở bệnh nhân đái tháo đường là 30 - 50%, ở bệnh nhân mắc chứng khó tiêu chức năng (khá phổ biến, 20% dân số) là 24 - 40%.
 
 Nữ chiếm đa số 82% và phần lớn dưới 45 tuổi. Giả thuyết cho rằng progesterone làm giảm co cơ thành dạ dày, tuy nhiên điều trị thử không chứng minh được điều này.
 
-### 2.2. Nguyên nhân
-- vô căn
-- ĐTĐ
-- sau phẫu thuật
+2.2. Nguyên nhân
+vô căn
+ĐTĐ
+sau phẫu thuật
 
 Thường nhất là vô căn 36%, rồi đến đái tháo đường 29% và sau phẫu thuật 13%. Ngoài ra, còn có nguyên nhân từ bệnh mô liên kết, thần kinh, nội tiết.
 
@@ -1219,7 +1227,7 @@ Gần đây, người ta tranh cãi về mối liên hệ giữa *H. pylori* và
 
 Ước tính 6% người trưởng thành mắc bệnh đái tháo đường. Sau 10 - 20 năm biểu hiện lâm sàng rõ sẽ có 30 - 60% xuất hiện triệu chứng thần kinh tự chủ ở tạng (visceral autonomic neuropathy), trong đó có ứ đọng dạ dày (tỷ lệ gặp giữa đái tháo đường loại 1 và 2 là bằng nhau). Tuy nhiên, không thấy mối liên quan giữa ứ đọng dạ dày và bệnh thần kinh tự chủ có biểu hiện lâm sàng (clinical autonomic neuropathy).
 
-Chưa rõ cơ chế gây giảm nhu động dạ dày ở bệnh nhân đái tháo đường do tổn thương thần kinh X. Ở người đái tháo đường, lượng acid dạ dày chỉ bằng 1/3 người bình thường và thần kinh X chậm dẫn truyền hướng tâm hơn (afferent vagal conduction). Cắt thần kinh X gây giảm tổng xuất thức ăn lỏng sau bữa ăn ở bệnh nhân đái tháo đường, nhưng lại tăng ở người không đái tháo đường. Do vậy, rối loạn chức năng thần kinh X không phải là cơ chế duy nhất gây ứ đọng dạ dày ở người đái tháo đường.
+Chưa rõ cơ chế gây giảm nhu động dạ dày ở bệnh nhân đái tháo đường do tổn thương thần kinh X. Ở người đái tháo đường, lượng acid dạ dày chỉ bằng 1/3 người bình thường và thần kinh X chậm dẫn truyền hướng tâm hơn (afferent vagal conduction). Cắt thần kinh X gây giảm tống xuất thức ăn lỏng sau bữa ăn ở bệnh nhân đái tháo đường, nhưng lại tăng ở người không đái tháo đường. Do vậy, rối loạn chức năng thần kinh X không phải là cơ chế duy nhất gây ứ đọng dạ dày ở người đái tháo đường.
 
 Rối loạn chức năng giao cảm, giảm đáp ứng cơ trơn dạ dày, bất thường lượng đường trong máu góp phần vào cơ chế bệnh sinh. Thực tế ghi nhận tăng đường huyết ở người không bệnh lý thần kinh, có thể làm thay đổi các cơn co thắt bình thường ở hang vị. Tăng đường huyết làm chậm quá trình tống xuất cả thức ăn lỏng lẫn đặc, khi đường huyết về mức bình thường thì quá trình này cũng trở lại bình thường. Hạ đường huyết gây tăng tống xuất thức ăn lỏng. Tăng đường huyết còn liên quan đến chức năng cảm giác dạ dày, tăng nặng triệu chứng như buồn nôn.
 
@@ -1231,15 +1239,15 @@ Các phẫu thuật thường gây ứ đọng dạ dày nhất: cắt thần ki
 - **Cắt dạ dày, nối vị - tràng Roux-en-Y**: sau mổ, một số bệnh nhân buồn nôn, nôn mà không thể chữa khỏi, trong đó một số có tình trạng ứ đọng dạ dày nhưng chưa hiểu rõ cơ chế bệnh sinh.
 - **Phẫu thuật khác**: cuộn đáy vị, cắt dạ dày điều trị béo phì, cắt thực quản, ghép tim - phổi, cắt khối tá tụy bảo tồn môn vị (pylorus preserving Whipple), phẫu thuật Puestow-Gillesby, cắt túi mật.
 
-## 2.2.4. Nguyên nhân khác
+### 2.2.4. Nguyên nhân khác
 
-- **Nguyên nhân phối hợp**: trào ngược dạ dày - thực quản (10%), viêm teo dạ dày (chỉ ứ đọng chất rắn), táo bón nguyên phát, hội chứng cận ung (ung thư tụy không gây tắc, ung thư phổi tế bào nhỏ, ung thư vú... dẫn đến ứ đọng dạ dày, giả tắc ruột nghi do cơ chế miễn dịch), xạ trị vùng bụng.
-- **Bệnh xơ cứng hệ thống**: khi có triệu chứng ở dạ dày, người bệnh cũng thường có triệu chứng rõ ở da, phổi và thực quản. Hiếm khi gây buồn nôn và nôn nhưng làm nặng thêm triệu chứng trào ngược dạ dày - thực quản. Một số trường hợp nặng, ứ đọng dạ dày gây giảm cân, suy dinh dưỡng.
-- **Bệnh thần kinh**: Parkinson (7,5%), đa xơ cứng (multiple sclerosis), đột quỵ thân não (brainstem stroke), bệnh neuron thần kinh do ứ đọng amyloid, rối loạn thần kinh tự chủ nguyên phát (dysautonomia).
-- **Bệnh tâm thần**: trầm cảm, chứng chán ăn/cuồng ăn, chứng nhai lại, thuốc hướng tâm thần (gây loạn nhịp dạ dày). Khó phân biệt triệu chứng do rối loạn vận động dạ dày và do rối loạn ăn uống.
-- **Rối loạn nội tiết và chuyển hóa**: ứ đọng dạ dày và giả tắc ruột có thể gặp trong nhược giáp, nhược cận giáp, cường cận giáp (cường giáp thì tống xuất dạ dày bình thường), xơ gan tăng áp cửa, suy tụy mạn, mang thai, suy thận mạn (có lọc máu hoặc không), rượu, thuốc lá, thuốc phiện.
+- Nguyên nhân phối hợp: trào ngược dạ dày - thực quản (10%), viêm teo dạ dày (chỉ ứ đọng chất rắn), táo bón nguyên phát, hội chứng cận ung (ung thư tụy không gây tắc, ung thư phổi tế bào nhỏ, ung thư vú... dẫn đến ứ đọng dạ dày, giả tắc ruột nghi do cơ chế miễn dịch), xạ trị vùng bụng.
+- Bệnh xơ cứng hệ thống: khi có triệu chứng ở dạ dày, người bệnh cũng thường có triệu chứng rõ ở da, phổi và thực quản. Hiếm khi gây buồn nôn và nôn nhưng làm nặng thêm triệu chứng trào ngược dạ dày - thực quản. Một số trường hợp nặng, ứ đọng dạ dày gây giảm cân, suy dinh dưỡng.
+- Bệnh thần kinh: Parkinson (7,5%), đa xơ cứng (multiple sclerosis), đột quỵ thân não (brainstem stroke), bệnh neuron thần kinh do ứ đọng amyloid, rối loạn thần kinh tự chủ nguyên phát (dysautonomia).
+- Bệnh tâm thần: trầm cảm, chứng chán ăn/cuồng ăn, chứng nhai lại, thuốc hướng tâm thần (gây loạn nhịp dạ dày). Khó phân biệt triệu chứng do rối loạn vận động dạ dày và do rối loạn ăn uống.
+- Rối loạn nội tiết và chuyển hóa: ứ đọng dạ dày và giả tắc ruột có thể gặp trong nhược giáp, nhược cận giáp, cường cận giáp (cường giáp thì tống xuất dạ dày bình thường), xơ gan tăng áp cửa, suy tụy mạn, mang thai, suy thận mạn (có lọc máu hoặc không), rượu, thuốc lá, thuốc phiện.
 
-## 2.3. Lâm sàng
+### 2.3. Lâm sàng
 
 Triệu chứng ở nhiều mức độ là biểu hiện của tình trạng ứ đọng dạ dày, không đặc hiệu, khá giống và chồng lấp với triệu chứng của các bệnh lý khác như chứng khó tiêu chức năng (functional dyspepsia), hẹp môn vị, trào ngược dạ dày - thực quản, viêm loét dạ dày...
 
@@ -1273,52 +1281,48 @@ Triệu chứng toàn thân rõ khi bệnh kéo dài, nhập viện muộn. Ngo�
 
 Hiện nay, chưa xét nghiệm máu nào có độ nhạy và chuyên biệt giúp chẩn đoán bệnh, chủ yếu là đánh giá tình trạng mất nước - điện giải, suy dinh dưỡng và chẩn đoán bệnh nền. Có tình trạng cô đặc máu nên kết quả xét nghiệm máu không chính xác, cần đánh giá lại sau bù đủ dịch. Các xét nghiệm được khuyến cáo:
 
-- Ion đồ: giảm $\text{Na}^+$, $\text{Cl}^-$, $\text{K}^+$, $\text{Ca}^{2+}$ và tăng $\text{HCO}_3^-$.
+- Ion đồ: giảm Na$^+$, Cl$^-$, K$^+$, Ca$^{2+}$ và tăng HCO$_3^-$.
 - Công thức máu: giảm Hb, Hct
 - Protid toàn phần/Albumin: giảm protid, albumin
 - Ure/Creatine, eGFR: tăng ure, creatinin và giảm eGFR
 - Xét nghiệm tìm nguyên nhân: đường huyết lúc đói, ANA, vitamin B12.
 
 2.4.2. Nội soi dạ dày tá tràng
-
 Tất cả bệnh nhân nên được nội soi để loại trừ tắc nghẽn cơ học. Người bệnh nhịn ăn uống qua đêm và nội soi sáng hôm sau: thức ăn vẫn còn ứ đọng ở thân vị, đáy vị. Đôi khi thấy mất nhu động ở hang vị, có bã thức ăn. Mức độ nặng sẽ thấy viêm niêm mạc thực quản do trào ngược, nấm thực quản.
 
 2.4.3. Chụp X quang dạ dày
-
-Thường dùng nhất, tuy nhiên chỉ đánh giá được tống xuất chất lỏng (đa số là ứ đọng chất rắn). Hình ảnh barium trộn lẫn thức ăn trong dạ dày hoặc hình ảnh 3 lớp (hơi - dịch - barium) gợi ý chẩn đoán. Rất khó xác định mốc thời gian để chẩn đoán, trừ khi thời gian tống xuất kéo dài rõ rệt. Chụp dạ dày 2 - 4 lần sau khi uống barium 12 – 24 giờ để khảo sát.
+Thường dùng nhất, tuy nhiên chỉ đánh giá được tống xuất chất lỏng (đa số là ứ đọng chất rắn). Hình ảnh barium trộn lẫn thức ăn trong dạ dày hoặc hình ảnh 3 lớp (hơi - dịch - barium) gợi ý chẩn đoán. Rất khó xác định mốc thời gian để chẩn đoán, trừ khi thời gian tống xuất kéo dài rõ rệt. Chụp dạ dày 2 - 4 lần sau khi uống barium 12 - 24 giờ để khảo sát.
 
 2.4.4. Xạ hình tống xuất dạ dày (gastric emptying scintigraphy)
+Có giá trị xác định chẩn đoán. Dùng thức ăn được đánh dấu Technetium $^{99m}\text{Tc}$. Thức ăn rắn cho kết quả chính xác hơn vì quá trình tống xuất dạ dày có thể diễn ra bình thường ở giai đoạn đầu (tống xuất chất lỏng). Chỉ dùng thức ăn lỏng khi chẩn đoán hội chứng rơi nhanh sau phẫu thuật dạ dày. Một camera được đặt ở bụng để thu nhận tia gamma. Chụp cắt lớp (scan) ở thời điểm 0, 2 và 4 giờ sau ăn.
 
-Có giá trị xác định chẩn đoán. Dùng thức ăn được đánh dấu Technetium $99\text{m}$. Thức ăn rắn cho kết quả chính xác hơn vì quá trình tống xuất dạ dày có thể diễn ra bình thường ở giai đoạn đầu (tống xuất chất lỏng). Chỉ dùng thức ăn lỏng khi chẩn đoán hội chứng rơi nhanh sau phẫu thuật dạ dày. Một camera được đặt ở bụng để thu nhận tia gamma. Chụp cắt lớp (scan) ở thời điểm 0, 2 và 4 giờ sau ăn.
+Thời điểm 2 giờ, thường để chẩn đoán hội chứng rơi nhanh (dumping) với độ nhạy và đặc hiệu 90%. Thời điểm 4 giờ, chẩn đoán ứ đọng dạ dày có độ nhạy 100%, độ đặc hiệu 70% (tồn lưu bình thường ở thời điểm 4 giờ là 0-40%). Dù hiếm nhưng để khảo sát ứ đọng chất lỏng cần chụp cắt lớp nhặt hơn (mỗi 15 phút). Có thể gắn đồng thời chỉ dấu phóng xạ lên thức ăn đặc và lỏng trong cùng một khảo sát.
 
-Thời điểm 2 giờ, thường để chẩn đoán hội chứng rơi nhanh (dumping) với độ nhạy và đặc hiệu $90\%$. Thời điểm 4 giờ, chẩn đoán ứ đọng dạ dày có độ nhạy $100\%$, độ đặc hiệu $70\%$ (tồn lưu bình thường ở thời điểm 4 giờ là $0-40\%$). Dù hiếm nhưng để khảo sát ứ đọng chất lỏng cần chụp cắt lớp nhặt hơn (mỗi 15 phút). Có thể gắn đồng thời chỉ dấu phóng xạ lên thức ăn đặc và lỏng trong cùng một khảo sát.
-
-Cần ngưng các thuốc ảnh hưởng đến tống xuất dạ dày trước khi thực hiện xạ hình (prokinetic, opioid ngưng ít nhất 2 ngày). Các loại thuốc ảnh hưởng đến tống xuất dạ dày:
+Cần ngưng các thuốc ảnh hưởng đến tống xuất dạ dày trước khi thực hiện xạ hình (prokinetic, opioid ngưng ít nhất 2 ngày). Các loại thuốc ảnh hưởng đến tống xuất dạ dày là:
 
 - Giảm tống xuất: giảm đau Opioid, Anticholinergics, thuốc chống trầm cảm 3 vòng (Tricyclic antidepressants), ức chế Calcium, Progesterone, Octreotide, ức chế bơm Proton, kháng H2, aluminum hydroxide, Alpha interferon, L-dopa, Sucralfate, Beta adrenergic agonists, Glucagon, Calcitonin, rượu, thuốc lá, Tetrahydrocannabinol.
 - Tăng tống xuất: Metoclopramide, Erythromycin, Cisapride, Mosapride, Domperidone Tegaserod.
 
 2.4.5. Đo áp lực dạ dày tá tràng
-
 Đặt 1 ống thông qua ngả miệng, lưu trong 6 giờ để đo áp lực hang vị, môn vị, tá tràng. Những giờ đầu, ghi nhận áp lực lúc nhịn. Sau đó, ghi nhận áp lực sau ăn (thức ăn đặc). Đo áp lực giúp phân biệt giữa nguyên nhân cơ trơn (amyloid, xơ cứng hệ thống)
 
-và nguyên nhân thần kinh (đái tháo đường, bệnh thần kinh tự vô căn, bệnh thần kinh do ứ đọng amyloid). Nguyên nhân cơ trơn có biên độ co bóp thấp, nguyên nhân thần kinh thì biên độ bình thường nhưng rối loạn phối hợp vận động giữa các vùng, các giai đoạn trong phức hợp sóng nhu động. Chỉ định đo áp lực dạ dày tá tràng: các biện pháp điều trị tiêu chuẩn đã thất bại; dự kiến phẫu thuật; buồn nôn không giải thích được.
+và nguyên nhân thần kinh (đái tháo đường, bệnh thần kinh tự trị vô căn, bệnh thần kinh do ứ đọng amyloid). Nguyên nhân cơ trơn có biên độ co bóp thấp, nguyên nhân thần kinh thì biên độ bình thường nhưng rối loạn phối hợp vận động giữa các vùng, các giai đoạn trong phức hợp sóng nhu động. Chỉ định đo áp lực dạ dày tá tràng: các biện pháp điều trị tiêu chuẩn đã thất bại; dự kiến phẫu thuật; buồn nôn không giải thích được.
 
-## 2.4.6. Các phương pháp khác
+### 2.4.6. Các phương pháp khác
 
 Siêu âm: được dùng ngày càng nhiều, chỉ khảo sát tống xuất chất lỏng, không khảo sát được thức ăn đặc (do tính chất phản âm). Siêu âm 3 chiều chính xác hơn.
 
 Cộng hưởng từ (CHT): giúp đánh giá chức năng chứa đựng và tống xuất dạ dày, có thể phân biệt giữa thể tích thức ăn và thể tích tổng thể chứa trong dạ dày, từ đó tính được thể tích dịch vị được bài tiết. Chụp CHT còn giúp đánh giá tống xuất riêng cho chất béo và chất lỏng. Kết quả tương tự như xạ hình tống xuất dạ dày. Hiện chủ yếu dùng trong nghiên cứu do tốn kém và điều kiện trang thiết bị.
 
-Thử nghiệm hơi thở (gastric emptying breath testing): phù hợp cho người chống chỉ định dùng phóng xạ (trẻ em, phụ nữ mang thai). Sau khi dùng thức ăn có gắn $^{13}\text{-CO}_2$, đo $^{13}\text{-CO}_2$ (không hoạt tính phóng xạ) trong các mẫu khí thở ra được lấy nhiều lần trong vài giờ. $^{13}\text{-CO}_2$ trong khí thở ra phản ánh một chuỗi các quá trình từ tống xuất dạ dày - hấp thu ở ruột - chuyển hóa ở gan - thải ra ngoài qua phổi. Kết quả sẽ không chính xác ở bệnh nhân giãn phế nang, xơ gan, suy tụy, không dung nạp gluten. Dù đã ứng dụng ở Châu Âu trong nhiều năm nhưng gần đây mới được FDA (Food and Drug Administration) phê duyệt áp dụng trong thực hành lâm sàng ở Mỹ.
+Thử nghiệm hơi thở (gastric emptying breath testing): phù hợp cho người chống chỉ định dùng phóng xạ (trẻ em, phụ nữ mang thai). Sau khi dùng thức ăn có gắn $^{13}\text{CO}_2$, đo $^{13}\text{CO}_2$ (không hoạt tính phóng xạ) trong các mẫu khí thở ra được lấy nhiều lần trong vài giờ. $^{13}\text{CO}_2$ trong khí thở ra phản ánh một chuỗi các quá trình từ tống xuất dạ dày - hấp thu ở ruột - chuyển hóa ở gan - thải ra ngoài qua phổi. Kết quả sẽ không chính xác ở bệnh nhân giãn phế nang, xơ gan, suy tụy, không dung nạp gluten. Dù đã ứng dụng ở Châu Âu trong nhiều năm nhưng gần đây mới được FDA (Food and Drug Administration) phê duyệt áp dụng trong thực hành lâm sàng ở Mỹ.
 
-Nội soi viên nang (wireless motility capsule): trong quá trình di chuyển, viên nang ghi nhận pH (0,5 - 9,0), áp lực (0 - 350 mmHg), nhiệt độ (25 - 49$^0$C) giúp đánh giá lưu thông toàn bộ ống tiêu hóa. Khác biệt pH ở dạ dày và tá tràng giúp xác định thời điểm viên nang được tống xuất khỏi dạ dày (bình thường ở giai đoạn III trong phức hợp sóng nhu động). Có mối tương đồng giữa nội soi viên nang và xạ hình tống xuất dạ dày. Thời gian lưu thông bình thường của viên nang ở dạ dày là 2 - 5 giờ, ở ruột non là 2 - 6 giờ và ở ruột già là 10 - 59 giờ. Mốc 5 giờ giúp phân biệt dạ dày tống xuất bình thường hay chậm với độ nhạy 65% và độ chuyên biệt 87%.
+Nội soi viên nang (wireless motility capsule): trong quá trình di chuyển, viên nang ghi nhận pH (0,5 - 9,0), áp lực (0 - 350 mmHg), nhiệt độ (25 - 49°C) giúp đánh giá lưu thông toàn bộ ống tiêu hóa. Khác biệt pH ở dạ dày và tá tràng giúp xác định thời điểm viên nang được tống xuất khỏi dạ dày (bình thường ở giai đoạn III trong phức hợp sóng nhu động). Có mối tương đồng giữa nội soi viên nang và xạ hình tống xuất dạ dày. Thời gian lưu thông bình thường của viên nang ở dạ dày là 2 - 5 giờ, ở ruột non là 2 - 6 giờ và ở ruột già là 10 - 59 giờ. Mốc 5 giờ giúp phân biệt dạ dày tống xuất bình thường hay chậm với độ nhạy 65% và độ chuyên biệt 87%.
 
 - Nội soi viên nang còn giúp phát hiện rối loạn lưu thông ở đoạn ống tiêu hóa khác (18% ứ đọng dạ dày có kèm rối loạn lưu thông ở đại tràng). Một nghiên cứu đoàn hệ tiền cứu ở 10 trung tâm, 154 bệnh nhân (53 đái tháo đường, 114 không đái tháo đường) vừa xạ hình tống xuất dạ dày vừa nội soi viên nang: nội soi viên nang nhạy hơn trong chẩn đoán chậm tống xuất dạ dày còn xạ hình nhạy hơn trong chẩn đoán nhanh tống xuất.
 
-- Kích thước viên nang khá to (dài 26,8 mm, đường kính 11,7 mm) nên hơi khó nuốt. Một số trường hợp biệt pH không rõ, có thể căn cứ áp lực để xác định viên nang ở dạ dày hay ruột non. Có 0,3% trường hợp viên nang bị kẹt trong ống tiêu hóa (đau bụng, buồn nôn, nôn, x quang bụng chẩn đoán, nội soi dạ dày lấy viên nang nếu chưa xuống ruột).
+- Kích thước viên nang khá to (dài 26,8 mm, đường kính 11,7 mm) nên hơi khó nuốt. Một số trường hợp khác biệt pH không rõ, có thể căn cứ áp lực để xác định viên nang ở dạ dày hay ruột non. Có 0,3% trường hợp viên nang bị kẹt trong ống tiêu hóa (đau bụng, buồn nôn, nôn, x quang bụng chẩn đoán, nội soi dạ dày lấy viên nang nếu chưa xuống ruột).
 
-Điện vị đồ (ElectroGastroGraphy, EGG): ghi lại hoạt động điện dạ dày với các điện cực ở da vùng thượng vị. Sau khi ghi tín hiệu cơ bản (baseline), bệnh nhân được thử nghiệm tải nước (water load test), uống no nước trong 5 phút. Ghi nhận tín hiệu điện trong 30 phút sau uống cho phép đánh giá đáp ứng điện cơ của dạ dày với tải nước. Có thể thực hiện lại thử nghiệm tải nước để đánh giá thể tích và nhịp điệu của dạ dày. Lượng nước uống vào phản ánh thể tích dạ dày, tín hiệu EGG phản ánh đáp ứng điện cơ "thuần khiết" ("pure") đối với một thể tích nhất định mà không có các tác động gây nhiễu của dưỡng chất (lipid, protein, carbohydrate).
+Điện vị đồ (ElectroGastroGraphy, EGG): ghi lại hoạt động điện dạ dày với các điện cực ở da vùng thượng vị. Sau khi ghi tín hiệu cơ bản (baseline), bệnh nhân được thử nghiệm tải nước (water load test), uống no nước trong 5 phút. Ghi nhận tín hiệu điện trong 30 phút sau uống cho phép đánh giá đáp ứng điện cơ của dạ dày với tải nước. Có thể thực hiện lại thử nghiệm tải nước để đánh giá thể tích và nhịp điệu của dạ dày. Lượng nước uống vào phản ánh thể tích dạ dày, tín hiệu EGG phản ánh đáp ứng điện cơ “thuần khiết” (“pure”) đối với một thể tích nhất định mà không có các tác động gây nhiễu của dưỡng chất (lipid, protein, carbohydrate).
 
 - Bình thường, dạ dày co bóp 3 chu kỳ/phút. Gọi là nhịp chậm khi 1 - 2,5 chu kỳ/phút; nhịp nhanh khi 3,7 - 10,0 chu kỳ/phút; loạn nhịp không đặc hiệu khi kết hợp cả nhịp chậm và nhịp nhanh.
 
@@ -1326,13 +1330,11 @@ Nội soi viên nang (wireless motility capsule): trong quá trình di chuyển,
 
 - Có vài lưu ý: (1). Rối loạn nhịp dạ dày có thể có hoặc không liên quan đến ứ đọng dạ dày. (2). Cả rối loạn nhịp và ứ đọng có thể không diễn ra liên tục, làm tăng thêm sự phức tạp trong chẩn đoán, điều trị và theo dõi bệnh nhân.
 
-## 2.5. Chẩn đoán
-
-### 2.5.1. Chẩn đoán xác định
-
+# 2.5. Chẩn đoán
+## 2.5.1. Chẩn đoán xác định
 - Triệu chứng gợi ý: buồn nôn, nôn, no sớm, đầy - căng tức bụng sau ăn, sụt cân... không giúp phân biệt có hoặc không ứ đọng dạ dày.
 
-- Nội soi dạ dày - tá tràng, X quang dạ dày là phương tiện chẩn đoán đầu tay. Sau khi loại trừ nguyên nhân cơ học, cần nghĩ đến hội chứng ứ đọng dạ dày. Để xác định chẩn đoán, cần xạ hình tống xuất dạ dày (và/hoặc thử nghiệm hơi thở, nội soi viên nang nếu có điều kiện).
+- Nội soi dạ dày – tá tràng, X quang dạ dày là phương tiện chẩn đoán đầu tay. Sau khi loại trừ nguyên nhân cơ học, cần nghĩ đến hội chứng ứ đọng dạ dày. Để xác định chẩn đoán, cần xạ hình tống xuất dạ dày (và/hoặc thử nghiệm hơi thở, nội soi viên nang nếu có điều kiện).
 
 Những trường hợp vô căn khó chẩn đoán nhất, dễ bị bỏ qua, nhất là khi triệu chứng ứ đọng ở mức độ nhẹ. Nghi ngờ, có nghĩ đến mới có thể chẩn đoán được bệnh. Nhiều trường hợp chỉ biểu hiện bằng đau thượng vị và cần phải loại bệnh lý thường gặp hơn là viêm loét dạ dày. Nếu nghi ngờ sang thương đoạn ống tiêu hóa khác thì chụp lưu thông ruột, nội soi viên nang.
 
@@ -1353,16 +1355,16 @@ Dưới đây là thang điểm GCSI. Tổng điểm là điểm trung bình c�
 | Buồn nôn/Nôn | Buồn nôn | 0 | 1 | 2 | 3 | 4 | 5 |
 | | Nôn khan | 0 | 1 | 2 | 3 | 4 | 5 |
 | | Nôn | 0 | 1 | 2 | 3 | 4 | 5 |
-| Đầy bụng/ No sớm | No | 0 | 1 | 2 | 3 | 4 | 5 |
+| Đầy bụng/No sớm | No | 0 | 1 | 2 | 3 | 4 | 5 |
 | | Không thể kết thúc bữa ăn | 0 | 1 | 2 | 3 | 4 | 5 |
 | | Đầy bụng sau ăn | 0 | 1 | 2 | 3 | 4 | 5 |
 | | Chán ăn | 0 | 1 | 2 | 3 | 4 | 5 |
-| Căng tức/ trướng bụng | Căng tức bụng | 0 | 1 | 2 | 3 | 4 | 5 |
+| Căng tức/trướng bụng | Căng tức bụng | 0 | 1 | 2 | 3 | 4 | 5 |
 | | Bụng lớn rõ | 0 | 1 | 2 | 3 | 4 | 5 |
 
 2.5.4. Chẩn đoán phân biệt
 
-- Chứng khó tiêu chức năng: hai hội chứng thường gặp trong khó tiêu chức năng là hội chứng đau thượng vị (epigastric pain syndrome, EPS) và hội chứng nguy nạp sau ăn (postprandial distress syndrome, PDS) mà biểu hiện lâm sàng của chúng tương tự như ứ đọng dạ dày vô căn. Chứng khó tiêu chức năng có tình trạng tăng hoặc giảm tống xuất dạ dày do dạ dày tá tràng tăng và/hoặc giảm mẫn cảm với thức ăn, áp lực. Khảo sát kỹ, có khoảng 30% chậm tống xuất dạ dày, 10% bệnh nhân ứ đọng dạ dày có kèm trào ngược dạ dày - thực quản. Như vậy, các triệu chứng vừa giống vừa chồng lấp giữa các bệnh, có khi là nguyên nhân bệnh sinh của nhau. Để phân biệt, cần đánh giá lâm sàng, xạ hình tống xuất dạ dày, đo pH và áp lực thực quản – dạ dày – tá tràng.
+- Chứng khó tiêu chức năng: hai hội chứng thường gặp trong khó tiêu chức năng là hội chứng đau thượng vị (epigastric pain syndrome, EPS) và hội chứng nguy nạp sau ăn (postprandial distress syndrome, PDS) mà biểu hiện lâm sàng của chúng tương tự như ứ đọng dạ dày vô căn. Chứng khó tiêu chức năng có tình trạng tăng hoặc giảm tống xuất dạ dày do dạ dày tá tràng tăng và/hoặc giảm mẫn cảm với thức ăn, áp lực. Khảo sát kỹ, có khoảng 30% chậm tống xuất dạ dày, 10% bệnh nhân ứ đọng dạ dày có kèm trào ngược dạ dày - thực quản. Như vậy, các triệu chứng vừa giống vừa chồng lấp giữa các bệnh, có khi là nguyên nhân bệnh sinh của nhau. Để phân biệt, cần đánh giá lâm sàng, xạ hình tống xuất dạ dày, đo pH và áp lực thực quản - dạ dày - tá tràng.
 
 - Hẹp môn vị: lâm sàng diễn tiến theo 2 giai đoạn tăng và giảm trương lực rõ rệt. Nội soi dạ dày, chụp cắt lớp vi tính (CLVT) bụng cản quang thấy tắc nghẽn cơ học.
 
@@ -1399,7 +1401,7 @@ Các nguyên nhân ác tính khác: hiếm gặp, gồm lymphoma dạ dày, ung 
 
 ### 3.2.2. Nguyên nhân lành tính
 Loét dạ dày tá tràng:
-- Trước đây, loét dạ dày tá tràng là nguyên nhân chủ yếu, 80 - 90%. Gần đây, tần suất loét dạ dày - tá tràng ngày càng giảm nhờ phát hiện *Helicobacter pylori* và thuốc ức chế bơm proton. Ngày nay, chỉ 2 - 5% viêm loét dạ dày tá tràng có biến chứng hẹp môn vị. Vị trí ổ loét gây hẹp chủ yếu ở hành tá tràng và hang vị.
+- Trước đây, loét dạ dày tá tràng là nguyên nhân chủ yếu, 80 - 90%. Gần đây, tần suất loét dạ dày – tá tràng ngày càng giảm nhờ phát hiện *Helicobacter pylori* và thuốc ức chế bơm proton. Ngày nay, chỉ 2 - 5% viêm loét dạ dày tá tràng có biến chứng hẹp môn vị. Vị trí ổ loét gây hẹp chủ yếu ở hành tá tràng và hang vị.
 - Ở giai đoạn cấp, phản ứng viêm, phù nề và co thắt cạnh ổ loét gây rối loạn vận động ở lối ra dạ dày. Ở giai đoạn mạn tính, ổ loét tạo xơ sẹo gây hẹp, tắc cơ học.
 
 Viêm tụy: viêm tụy mạn, viêm tụy cấp nặng có thể gây hẹp tá tràng, 1 - 5% nguyên nhân. Phản ứng viêm và xơ hóa quanh tụy có thể gây hẹp tá tràng. Nang giả tụy (biến chứng của viêm tụy cấp) cũng có thể gây chèn ép hang vị - tá tràng. Tổn thương xơ cứng vùng đầu tụy trong viêm tụy mạn, ngoài gây hẹp tá tràng có thể gây tắc ống tụy và ống mật, dễ nhầm với ung thư đầu tụy.
@@ -1410,9 +1412,9 @@ Hóa chất: vô tình hay chủ ý uống acid/kiềm sẽ gây xơ hẹp môn 
 - Polyp hang vị: thường là polyp 2 - 10 cm, có cuống dài.
 - Sỏi mật: thường gặp ở nữ, trên 70 tuổi, túi mật viêm mạn do sỏi, rò vào tá tràng hoặc dạ dày. Khoảng 90% trường hợp là có một viên sỏi gây tắc nghẽn. Hẹp môn vị do sỏi mật được gọi là hội chứng Bouveret.
 
-- Hội chứng động mạch mạc treo tràng trên (hội chứng Wilkie): hiếm gặp, 0,1 - 0,3% nguyên nhân. Tá tràng D3 đi ngang qua góc tạo bởi nơi xuất phát của động mạch mạc treo tràng trên (phía trước) và động mạch chủ bụng (phía sau). Bình thường, mô mỡ và bạch huyết quanh động mạch mạc treo tràng trên khá dày, tạo khoảng cách đủ rộng giữa động mạch chủ bụng và động mạch mạc treo tràng trên. Khi sụt cân nhanh (vì lý do nào đó), lớp đệm này biến mất, thu hẹp góc tạo bởi 2 động mạch này và bóp nghẹt đoạn tá tràng D3. Bình thường, góc này từ 20 - 70 độ, khoảng cách giữa động mạch mạc treo tràng trên và động mạch chủ bụng ở vị trí tá tràng D3 là 10 - 28 mm. Khi góc chỉ còn 6 - 16 độ, khoảng cách còn 2 - 8 mm thì gây tắc tá tràng D3.
+- Hội chứng động mạch mạc treo tràng trên (hội chứng Wilkie): hiếm gặp, 0,1 - 0,3% nguyên nhân. Tá tràng D3 đi ngang qua góc tạo bởi nơi xuất phát của động mạch mạc treo tràng trên (phía trước) và động mạch chủ bụng (phía sau). Bình thường, mô mỡ và bạch huyết quanh động mạch mạc treo tràng trên khá dày, tạo khoảng cách đủ rộng giữa động mạch chủ bụng và động mạch mạc treo tràng trên. Khi sụt cân nhanh (vì lý do nào đó), lớp đệm này biến mất, thu hẹp góc tạo bởi 2 động mạch này và bóp nghẹt đoạn tá tràng D3. Bình thường, góc này từ 20 - 70 độ, khoảng cách giữa động mạch mạc treo tràng trên và động mạch chủ bụng ở vị trí tá tràng D3 là 10 – 28 mm. Khi góc chỉ còn 6 – 16 độ, khoảng cách còn 2 – 8 mm thì gây tắc tá tràng D3.
 
-[Hình: Hội chứng ĐMMTT trên: Tắc tá tràng D3; Góc tạo bởi ĐMMTT trên - ĐMC 18 độ; Khoảng cách ĐMMTT trên và ĐMC ở D3 5,3mm.]
+[Hình: Hội chứng ĐMMTT trên: Tắc tá tràng D3; Góc tạo bởi ĐMMTT trên – ĐMC 18 độ; Khoảng cách ĐMMTT trên và ĐMC ở D3 5,3mm.]
 
 - Tụy hình nhẫn (annular pancreas): thường kèm dị tật bẩm sinh khác, hiếm gặp, khoảng 0,005 - 0,015% nguyên nhân. Phần đầu tụy có một dải mô tụy bình thường ôm vòng lấy một phần hoặc toàn bộ đoạn D2 tá tràng. Phần tụy hình nhẫn này thường có một ống dẫn đổ vào ống tụy chính. Nguyên nhân chưa rõ, có thể do bất thường ở thời kỳ bào thai khi nụ tụy bụng xoay thuận chiều kim đồng hồ quanh tá tràng hoặc do sự phát triển của mô tụy lạc chỗ ở thành tá tràng.
 
@@ -1545,8 +1547,7 @@ Hẹp môn vị là một cấp cứu ngoại khoa trì hoãn, bao giờ cũng p
     + Lượng dịch đã mất (qui tắc 2 - 4 - 6): mất nước nhẹ (2% trọng lượng cơ thể) chưa gây ảnh hưởng; mất nước trung bình (4%) gây tụt huyết áp tư thế, dấu véo dương tính; Mất nước nặng (6%) gây tụt huyết áp, thiểu niệu.
     + Nhu cầu cơ bản theo trọng lượng cơ thể: 100 ml/kg cho 10 kg đầu, 50 ml/kg cho 10 kg tiếp và 20 ml/kg cho số còn lại.
     + Lượng dịch đang tiếp tục mất: qua thông dạ dày.
-
-Nên truyền 50% tổng lượng dịch cần bù trong 8 giờ đầu và 50% còn lại trong 16 giờ tiếp. Nếu mất nước nặng, cần đo áp lực tĩnh mạch trung tâm để bù dịch nhanh và hiệu quả hơn.
+    Nên truyền 50% tổng lượng dịch cần bù trong 8 giờ đầu và 50% còn lại trong 16 giờ tiếp. Nếu mất nước nặng, cần đo áp lực tĩnh mạch trung tâm để bù dịch nhanh và hiệu quả hơn.
 
 Bù điện giải thì dựa vào ion đồ máu, thường dùng nước muối sinh lý đẳng trương.
 
@@ -1580,14 +1581,14 @@ Bảng 2. Phương pháp phẫu thuật ở một số nguyên nhân lành tính
 | Loét hang môn vị | Nối vị - tràng | Cắt bán phần dưới dạ dày |
 | Loét tá tràng | Nối vị - tràng | Cắt bán phần dưới dạ dày, lấy cả ổ loét tá tràng |
 | Nang giả tụy chèn ép | Nối nang - hỗng tràng hoặc dạ dày | |
-| Xơ hẹp do hóa chất | Mở hỗng tràng nuôi ăn ± đặt thông dạ dày.<br>Nối vị - tràng (hiếm khi, do xơ hẹp thực quản) | Cắt bán phần dạ dày (hiếm khi, do xơ hẹp thực quản --> cắt thực quản, tạo hình thực quản bằng đại tràng) |
+| Xơ hẹp do hóa chất | Mở hỗng tràng nuôi ăn ± đặt thông dạ dày. Nối vị - tràng (hiếm khi, do xơ hẹp thực quản) | Cắt bán phần dạ dày (hiếm khi, do xơ hẹp thực quản --> cắt thực quản, tạo hình thực quản bằng đại tràng) |
 | H/c động mạch mạc treo tràng trên | Nối tá – hỗng tràng hoặc nối vị - tràng | |
 | Tụy hình nhẫn | Nối tá – hỗng tràng hoặc nối vị - tràng | |
-| Sỏi mật (rò mật – tiêu hóa) | Xẻ tá tràng lấy sỏi mật ± khâu kín môn vị, nối vị - tràng | Xẻ tá tràng lấy sỏi mật ± khâu kín môn vị, nối vị tràng + phẫu thuật giải quyết sỏi mật |
+| Sỏi mật (rò mật – tiêu hóa) | Xẻ tá tràng lấy sỏi mật ± khâu kín môn vị, nối vị - tràng | Xẻ tá tràng lấy sỏi mật ± khâu kín môn vị, nối vị - tràng + phẫu thuật giải quyết sỏi mật |
 
 - Nội soi can thiệp: khi có trang thiết bị chuyên dụng, nong bằng bóng hay đặt stent qua chỗ hẹp. Chỉ định: sang thương lành tính không đáp ứng với điều trị nội khoa; Sang thương ác tính không cắt bỏ được; Tổng trạng bệnh nhân quá kém không cho phép phẫu thuật. Tỷ lệ đặt stent thành công ở tá tràng là 70%, ở môn vị là 29%. Biến chứng: nghẽn tắc tái phát do ung thư xâm lấn (12,6%), di lệch stent (4,3%), chảy máu (4,1%), thủng (1,2%).
 
-[Hình: Hình 15. Đặt stent qua chỗ hẹp ở môn vị (hình A) và tá tràng (hình B). (Nguồn: Internet).]
+[Hình: Đặt stent qua chỗ hẹp ở môn vị (hình A) và tá tràng (hình B). (Nguồn: Internet).]
 
 TÀI LIỆU THAM KHẢO
 1. Derek Frederickson, Ian Gan (2016). Gastric outlet obstruction in adults. World Journal of Gastroenterology.
@@ -1662,22 +1663,17 @@ Phân loại phổ biến và liên quan ngay đến quyết định điều tr�
 - Tắc ruột quai kín (Closed-loop obstruction): là loại tắc ruột mà trong đó lòng ruột bị tắc ở 2 điểm, mạch máu mạc treo ruột có thể bị ảnh hưởng hay không. Ví dụ về tắc ruột quai kín không có tổn thương mạch máu mạc treo là tắc đại tràng đến sớm, khi van hồi manh tràng còn hiệu lực.
 
 | Loại tắc | Số điểm bị tắc trên ruột | Mạch máu mạc treo bị ảnh hưởng |
-| --- | --- | --- |
+| :--- | :---: | :---: |
 | Tắc ruột đơn thuần | 1 | (-) |
 | Tắc ruột thắt nghẹt | 1 hay 2 | (+) |
 | Tắc ruột quai kín | 2 | (±) |
 
-Theo cách phân loại này, có sự trùng lắp một phần giữa TRTN và tắc ruột quai kín. Cụ thể: Đa số TRTN là tắc ruột quai kín (vì có tắc lòng ruột ở 2 điểm); ngược lại, tắc ruột quai kín mà có tổn thương mạch máu mạc treo thì sẽ thành TRTN. Khả năng chuyển từ tắc ruột quai kín sang TRTN ở ruột non đã được một số tác giả nói đến. Do vậy, ở nhiều tài liệu y văn, khi nói đến tắc ruột quai kín thì luôn có TRTN trong đó; hay ngược lại, khi nói đến TRTN thì có kể cả tắc ruột quai kín.
+Theo cách phân loại này, có sự trùng lắp một phần giữa TRTN và tắc ruột quai kín. Cụ thể: Đa số TRTN là tắc ruột quai kín (vì có tắc lòng ruột ở 2 điểm); ngược lại, tắc ruột quai kín mà có tổn thương mạch máu mạc treo thì sẽ thành TRTN. Khả năng chuyển từ tắc ruột quai kín sang TRTN ở ruột non đã được một số tác giả nói đến. Do vậy, ở nhiều tài liệu Y văn, khi nói đến tắc ruột quai kín thì luôn có TRTN trong đó; hay ngược lại, khi nói đến TRTN thì có kể cả tắc ruột quai kín.
 
-[Hình: 
-A. Ruột giãn phía trên, Dây dính và ruột phía dưới
-B. Quai ruột thắt nghẹt, Ruột giãn phía trên, Dây thắt, Ruột giãn phía dưới]
+[Hình: A. Ruột giãn phía trên, Dây dính và ruột phía dưới. B. Quai ruột thắt nghẹt, Ruột giãn phía trên, Dây thắt, Ruột giãn phía dưới]
 
-**Hình 1A.** Tắc ruột đơn thuần ở ruột non do dây dính chẹn ngang lòng ruột
-(Nguồn hình: https://radiologykey.com/small-bowel-obstruction-3/);
-**Hình 1B.** Tắc ruột thắt nghẹt ở ruột non do dây thắt (dây dính xiết ngang cả lòng ruột và mạc treo ruột).
-(Nguồn hình: CTisus, Cutting edge information on body CT (Computed tomography)
-http://www.ctisus.com/)
+Hình 1A. Tắc ruột đơn thuần ở ruột non do dây dính chẹn ngang lòng ruột (Nguồn hình: https://radiologykey.com/small-bowel-obstruction-3/);
+Hình 1B. Tắc ruột thắt nghẹt ở ruột non do dây thắt (dây dính xiết ngang cả lòng ruột và mạc treo ruột). (Nguồn hình: CTisus, Cutting edge information on body CT (Computed tomography) http://www.ctisus.com/)
 
 [Hình: C. Lòng ruột chỉ bị tắc ở 1 điểm nhưng có nguy cơ nghẽn mạch mạc treo trong lồng ruột.]
 
@@ -1739,33 +1735,39 @@ Hay gặp là tắc ruột non do dây thắt, lồng ruột, xoắn ruột (th�
 
 Nguyên nhân hay gặp nhất là tắc đại tràng do ung thư đến sớm, khi van hồi manh tràng còn hiệu lực. Tắc hai đầu của một đoạn ruột non do dính mà hoàn toàn không có chẹn mạch máu trong mạc treo ruột rất ít gặp, còn khi đã có chẹn mạch máu thì trở thành TRTN như đã nói trên.
 
-## 4. SINH LÝ BỆNH
+# 4. SINH LÝ BỆNH
+
 Mọi TRCH đều có rối loạn về sinh lý bệnh. Mức độ các rối loạn tùy thuộc loại, vị trí, giai đoạn của tắc ruột và cơ địa người bệnh. Có 2 loại:
 
-### 4.1. Rối loạn tại chỗ
+## 4.1. Rối loạn tại chỗ
+
 Khi ruột bị tắc, lòng ruột trên chỗ tắc bị dãn ra do ứ đọng hơi và dịch. Hơi ứ đọng chủ yếu là do nuốt vào, một ít là do tác động của vi khuẩn trên các chất trong lòng ruột sinh ra. Hơi ứ đọng làm giảm thông khí lòng ruột, đây là một yếu tố kích hoạt giảm hấp thu và tăng bài tiết của niêm mạc ruột. Dịch ứ đọng bao gồm thức ăn đã qua tiêu hóa, dịch ruột bài tiết ra, dịch thấm từ mao mạch ở thành ruột.
 
 Ứ đọng hơi và dịch làm áp lực trong lòng ruột tăng lên. Khi áp lực trong lòng ruột tăng vượt quá áp lực mô kẽ và đè xẹp các tiểu tĩnh mạch của thành ruột thì sẽ dẫn tới tăng áp lực khu vực mao mạch mà hậu quả là thoát dịch từ mao mạch vào thành ruột, vào lòng ruột và vào xoang phúc mạc. Nếu tắc ruột không được giải quyết, áp lực trong lòng ruột tiếp tục tăng, đến một lúc nào đó sẽ vượt quá áp lực mao mạch; khi đó, tưới máu hay trao đổi oxy máu-mô ở khu vực mao mạch sẽ giảm hay không còn nữa, dẫn đến mất nuôi dưỡng và hoại tử thành ruột.
 
 Như vậy, trong TRĐT, rối loạn sinh lý bệnh tại chỗ chủ yếu là do ứ đọng ruột trên chỗ tắc (hình 3a). Giảm tưới máu thành ruột sẽ diễn tiến từ từ theo tiến trình tăng dần áp lực trong lòng ruột khi không được can thiệp. Hoại tử ruột chủ yếu là hoại tử do áp lực và có thể biểu hiện không đồng đều, chỗ nhiều chỗ ít trên ruột bị tắc, tuần hoàn mạc treo ruột không bị ảnh hưởng.
 
-Trong tắc ruột quai kín, do cả hai đầu quai ruột đều bị tắc nên áp lực tăng trong quai ruột không có chỗ để giải tỏa bớt, dẫn đến nguy cơ bị vỡ ruột tăng lên (phần quai kín trong hình 3b, 3c). Mặt khác, dưới tác động của vi khuẩn trong môi trường bị nhốt kín, dịch ứ đọng trong quai ruột bị tắc kín sẽ chứa nhiều độc tố. Nếu quai ruột bị vỡ, dịch trong quai ruột tràn vào xoang phúc mạc sẽ gây sốc nhiễm độc nặng.
+Trong tắc ruột quai kín, do cả hai đầu quai ruột đều bị tắc nên áp lực tăng trong quai ruột không có chỗ để giải tỏa bớt, dẫn đến nguy cơ bị vỡ ruột tăng lên (phần quai kín trong hình 3b, 3c). Mặt khác, dưới tác động của vi khuẩn trong môi trường bị nhốt kín, dịch ứ đọng trong quai ruột sẽ chứa nhiều độc tố. Nếu quai ruột bị vỡ, dịch trong quai ruột tràn vào xoang phúc mạc sẽ gây sốc nhiễm độc nặng.
 
-Trong TRTN, bản thân nguyên nhân tắc (dây thắt, nút xoắn, lỗ thoát vị,...) chính là yếu tố thúc đẩy tiến trình giảm tưới máu thành ruột xảy ra nhanh hơn, nặng hơn. Thay vì thoát huyết tương, ở đây sẽ là thoát máu qua mao mạch vào thành ruột, mạc treo, lòng ruột và xoang phúc mạc. Biểu hiện thiếu máu nuôi ruột thường là đồng đều ở toàn bộ phần ruột bị thắt và mạc treo, nặng nhất là nhồi máu hoại tử. Phân tích chi tiết hơn, một số tác giả chỉ ra là trong TRTN thường có 2, thậm chí đến 3 hiện tượng sinh lý bệnh chồng lên nhau: TRĐT ở phần ruột trên chỗ thắt, tắc ruột quai kín đoạn ruột thắt.
+Trong TRTN, bản thân nguyên nhân tắc (dây thắt, nút xoắn, lỗ thoát vị,...) chính là yếu tố thúc đẩy tiến trình giảm tưới máu thành ruột xảy ra nhanh hơn, nặng hơn. Thay vì thoát huyết tương, ở đây sẽ là thoát máu qua mao mạch vào thành ruột, mạc treo ruột, lòng ruột và xoang phúc mạc. Biểu hiện thiếu máu nuôi ruột thường là đồng đều ở toàn bộ phần ruột bị thắt và mạc treo, nặng nhất là nhồi máu hoại tử. Phân tích chi tiết hơn, một số tác giả chỉ ra là trong TRTN thường có 2, thậm chí đến 3 hiện tượng sinh lý bệnh chồng lên nhau: TRĐT ở phần ruột trên chỗ thắt, tắc ruột quai kín đoạn ruột thắt.
 
 và tổn thương tuần hoàn mạc treo đoạn ruột thắt (hình 3b, c) [2, 3]. Vì vậy mà bệnh cảnh của TRTN thường nặng nề hơn và cần được xử trí cấp bách hơn.
 
-[Hình: Hình 3. Tắc ruột đơn thuần: chỉ có ứ đọng lòng ruột trên chỗ tắc (a); Tắc ruột thắt nghẹt: Lúc đầu mới chỉ có tắc quai kín và tổn thương tuần hoàn mạc treo (b), về sau có thêm tắc ruột đơn thuần phía trên quai ruột thắt (c). (Nguồn hình: Mbengue A, et al (2015) [3]).]
+[Hình: a, b, c]
+
+Hình 3. Tắc ruột đơn thuần: chỉ có ứ đọng lòng ruột trên chỗ tắc (a); Tắc ruột thắt nghẹt: Lúc đầu mới chỉ có tắc quai kín và tổn thương tuần hoàn mạc treo (b), về sau có thêm tắc ruột đơn thuần phía trên quai ruột thắt (c). (Nguồn hình: Mbengue A, et al (2015) [3]).
 
 Tắc ruột đơn thuần ở đại tràng còn được chia làm 3 típ liên quan đến rối loạn sinh lý bệnh tại chỗ và nguy cơ vỡ đại tràng:
 
-- Típ A: van hồi manh tràng còn hiệu lực, ruột non phía trên van chưa dãn, tắc kiểu quai kín, nguy cơ vỡ đại tràng trên chỗ tắc cao. Vị trí vỡ hay gặp nhất là manh tràng theo định luật LaPlace.
+- Típ A: van hồi manh tràng còn hiệu lực, ruột non phía trên van chưa dãn, tắc kiểu quai kín, nguy cơ vỡ đại tràng trên chỗ tắc cao. Vị trí vỡ hay gặp nhất là manh tràng theo định luật Laplace.
+
 - Típ B: van hồi manh tràng vẫn còn hiệu lực, ruột non phía trên dãn do van đóng kéo dài, tắc đại tràng kiểu quai kín có kèm tắc ruột non kiểu đơn thuần. Nguy cơ vỡ đại tràng vẫn còn.
+
 - Típ C: van hồi manh tràng mất hiệu lực, dịch và hơi từ đại tràng tắc sẽ trào ngược vào ruột non gây trướng toàn bộ ruột, bớt nguy cơ vỡ đại tràng.
 
-[Hình: A B C]
+[Hình: A, B, C]
 
-## 4.2. Rối loạn toàn thân
+4.2. Rối loạn toàn thân
 
 Ứ đọng trong ruột trên chỗ tắc gây nôn. Nôn ra ngoài, ứ đọng trong lòng ruột, thất thoát huyết tương vào thành ruột và vào lòng ruột gây mất nước, rối loạn điện giải, mất huyết tương. Mất nước nặng có thể gây suy thận trước thận, tụt huyết áp.
 
@@ -1773,31 +1775,31 @@ Vi khuẩn ứ đọng trong ruột trên chỗ tắc có thể chuyển vị, t
 
 Thiếu máu cấp đôi khi cũng biểu hiện nếu chảy máu, nhồi máu trên đoạn ruột bị thắt quá dài; chẳng hạn như trong xoắn toàn bộ hay phần lớn ruột non.
 
-## 5. CHẨN ĐOÁN TẮC RUỘT CƠ HỌC
+5. CHẨN ĐOÁN TẮC RUỘT CƠ HỌC
 
-### 5.1. Lâm sàng
+5.1. Lâm sàng
 
 Biểu hiện lâm sàng chính của tắc ruột cấp là đau bụng, nôn, trướng bụng và bí trung đại tiện. Các biểu hiện này thay đổi tùy: cơ chế tắc, vị trí tắc, thời gian tắc và nguyên nhân tắc.
 
-### 5.1.1. Triệu chứng cơ năng
+5.1.1. Triệu chứng cơ năng
 
 Đau bụng quặn từng cơn là triệu chứng thường gặp của tắc ruột, nhất là TRĐT. Đau quanh rốn với khoảng cách giữa các cơn từ 2 đến 5 phút thường gặp trong tắc ruột non, trong khi đau dưới rốn với khoảng cách giữa các cơn từ 6 đến 10 phút thường gặp trong tắc đại tràng. Giữa các cơn đau, bệnh nhân thường không đau hay thấy dễ chịu hẳn. Tuy nhiên, khi bệnh nhân đến trễ, tắc cơ học đã chuyển thành liệt ruột thì đau cơn có thể không còn nổi bật nữa. Bệnh nhân tắc đại tràng có thể đến viện với bệnh cảnh trướng bụng, bí trung đại tiện nhiều ngày chứ đau không rõ. Bệnh nhân TRTN có thể không đau bụng thành cơn mà đau liên tục, dữ dội hay đau cơn trên nền đau âm ỉ, tức là hết cơn vẫn còn đau.
 
 Nôn trong tắc ruột thay đổi tùy vị trí tắc. Tắc cao thường nôn sớm, nôn nhiều. Tắc thấp thường nôn muộn hay chỉ buồn nôn. Sau nôn bệnh nhân có thể bớt đau, dễ chịu hơn vì giảm bớt ứ đọng trên chỗ tắc, nhưng chỉ là tạm thời. Nôn ra chất có mùi phân là biểu hiện của tắc ruột thấp, đến trễ. Trong TRTN, nôn không chỉ do ứ đọng mà còn do phản xạ khi có tình trạng thắt nghẹt mạch máu mạc treo ruột nên có thể xảy ra sớm, dai dẳng, nôn xong không bớt đau.
 
-Bí trung đại tiện thường có ở bệnh nhân TRĐT hoàn toàn; tuy nhiên, nếu bệnh nhân đến sớm hay tắc chưa hoàn toàn thì có thể vẫn còn trung tiện hay đi cầu được. Trong TRTN, bí trung đại tiện thường không rõ vì thời gian từ lúc khởi đau đến khi vào viện thường ngắn hơn trong TRĐT. Riêng bệnh nhân bị lồng ruột có thể đi cầu ra chất nhày lẫn máu.
+Bí trung đại tiện thường có ở bệnh nhân TRĐT hoàn toàn; tuy nhiên, nếu bệnh nhân đến sớm hay tắc chưa hoàn toàn thì có thể vẫn còn trung tiện hay đi cầu được. Trong TRTN, bí trung đại tiện thường không rõ vì thời gian từ lúc khởi đau đến khi vào viện thường ngắn hơn trong TRĐT. Riêng bệnh nhân bị lồng ruột có thể đi cầu ra chất nhầy lẫn máu.
 
-### 5.1.2. Triệu chứng thực thể
+5.1.2. Triệu chứng thực thể
 
 Trướng bụng trong tắc ruột cũng thay đổi tùy vị trí và nguyên nhân tắc. Tắc cao thì trướng bụng ít hay không trướng, trong khi tắc thấp thì trướng bụng nhiều, trướng đều. Xoắn đại tràng sigma thường gây trướng bụng nhiều, trướng lệch một bên. Trong TRTN ở ruột non, trướng bụng thường không nhiều và có thể chỉ khu trú ở vùng có quai ruột bị thắt.
 
-Dấu hiệu rắn bò là dấu hiệu nhìn thấy được sóng nhu động của các quai ruột trên thành bụng (visible intestinal peristalsis). Thường chỉ gặp ở bệnh nhân TRCH có thành bụng mỏng, ở giai đoạn ruột trên chỗ tắc còn tăng co bóp. Đây là dấu hiệu thực thể khá quan trọng của TRCH vì giúp phân biệt với liệt ruột.
+Dấu hiệu rắn bò là dấu hiệu nhìn thấy được các sóng nhu động của các quai ruột trên thành bụng (visible intestinal peristalsis). Thường chỉ gặp ở bệnh nhân TRCH có thành bụng mỏng, ở giai đoạn ruột trên chỗ tắc còn tăng co bóp. Đây là dấu hiệu thực thể khá quan trọng của TRCH và giúp phân biệt với liệt ruột.
 
-Quai ruột nổi cũng là dấu hiệu một hay nhiều quai ruột dãn, in hằn lên thành bụng, cũng chỉ dễ thấy ở bệnh nhân gầy, thành bụng mỏng. Dấu hiệu quai ruột nổi khác dấu hiệu rắn bò ở chỗ nó thường không di động hay di động rất ít. Vì vậy, quai ruột nổi hay gặp trong liệt ruột, hay tắc ruột thắt nghẹt (do quai ruột thắt bằng nút xoắn hay dây thắt, lỗ thoát vị nội... giữ lại ở một chỗ). Quai ruột nổi ở một chỗ trên bụng, nằm im lìm, sờ thấy căng và ấn vào rất đau là các thành tố của dấu hiệu Von Wahl trong TRTN.
+Quai ruột nổi cũng là dấu hiệu một hay nhiều quai ruột dãn, in hằn lên thành bụng, cũng chỉ dễ thấy ở bệnh nhân gầy, thành bụng mỏng. Dấu hiệu quai ruột nổi khác dấu hiệu rắn bò ở chỗ nó thường không di động hay di động rất ít. Vì vậy, quai ruột nổi hay gặp trong liệt ruột, hay tắc ruột thắt nghẹt (do quai ruột thắt thường bị nút xoắn hay dây thắt, lỗ thoát vị nội...giữ lại ở một chỗ). Quai ruột nổi ở một chỗ trên bụng, nằm im lìm, sờ thấy căng và ấn vào rất đau là các thành tố của dấu hiệu Von Wahl trong TRTN.
 
-Sờ nắn bụng ngoài cơn đau trong TRĐT thường bệnh nhân không đau hay chỉ thấy tưng tức; trái lại, trong TRTN, có thể thấy ấn đau hay thậm chí có phản ứng thành bụng ở một vùng hay toàn thể, nhất là khi bệnh nhân đến muộn, ruột đã hoại tử. Ở bệnh nhân bị lồng ruột, sờ nắn bụng có thể phát hiện được một khối hơi cong, dài, mật độ chắc, di động dễ; còn gọi là **dấu hiệu khúc dồi hay xúc xích (Sausage-shaped lump)**.
+Sờ nắn bụng ngoài cơn đau trong TRĐT thường bệnh nhân không đau hay chỉ thấy tưng tức; trái lại, trong TRTN, có thể thấy ấn đau hay thậm chí có phản ứng thành bụng ở một vùng hay toàn thể, nhất là khi bệnh nhân đến muộn, ruột đã hoại tử. Ở bệnh nhân bị lồng ruột, sờ nắn bụng có thể phát hiện được một khối hơi cong, dài, mật độ chắc, di động dễ; còn gọi là dấu hiệu khúc dồi hay xúc xích (Sausage-shaped lump).
 
-[Hình: Hình 4. Dấu hiệu rắn bò hay nhìn thấy sóng nhu động ruột (visible intestinal peristalsis).]
+[Hình: Dấu hiệu rắn bò hay nhìn thấy sóng nhu động ruột (visible intestinal peristalsis).]
 
 Âm ruột tăng về tần số và âm sắc hay gặp trong TRĐT; tuy nhiên, khi bệnh nhân đến trễ, dấu hiệu này sẽ không còn rõ nữa. Trong TRTN, nhất là khi đã có hoại tử ruột, âm ruột có thể giảm hay mất.
 
@@ -1840,43 +1842,36 @@ Trên phim XQBKSS, có thể xác định được vị trí tắc dựa vào ph
 85
 
 - Ruột non bị ứ đọng khi tắc thường có bề rộng của mức nước lớn hơn chiều cao vòm hơi, trong khi đại tràng bị ứ đọng khi tắc thường có chiều cao vòm hơi lớn hơn bề rộng của mức nước.
-- Hổng tràng có rất nhiều nếp van, các nếp van hổng tràng trên phim bụng trong trường hợp tắc ruột là những đường mờ đi hết đường kính của ruột nên trông giống như hình đèn xếp. Càng về phía cuối hồi tràng, các nếp van ruột càng thưa ra và có thể không đi hết đường kính của ruột. Trong khi đó, nếp van của đại tràng thưa và chỉ chiếm 1/3 đến 1/2 đường kính của ruột.
 
-[Hình: 3 phim X-quang bụng đứng]
+- Hỗng tràng có rất nhiều nếp van, các nếp van hỗng tràng trên phim bụng trong trường hợp tắc ruột là những đường mờ đi hết đường kính của ruột nên trông giống như hình đèn xếp. Càng về phía cuối hồi tràng, các nếp van ruột càng thưa ra và có thể không đi hết đường kính của ruột. Trong khi đó, nếp van của đại tràng thưa và chỉ chiếm 1/3 đến 1/2 đường kính của ruột.
 
-**Hình 7.** Tắc ruột non ở cao (hình trái), giữa (hình giữa) và thấp (hình phải) ở ruột non: Lưu ý phân bố các quai ruột dãn và mức nước-hơi. Mức nước-hơi xếp hình bậc thang ở hình tắc thấp.
+[Hình: Tắc ruột non ở cao (hình trái), giữa (hình giữa) và thấp (hình phải): Lưu ý phân bố các quai ruột dãn và mức nước-hơi. Mức nước-hơi xếp hình bậc thang ở hình tắc thấp.]
 
-[Hình: 3 phim X-quang bụng đứng]
-
-**Hình 8.** Tắc ruột do ung thư đại tràng trái típ A (trái), típ B (giữa) và típ C (phải): lưu ý các mức nước hơi nằm dọc đường đi của khung đại tràng và kiểu van của đại tràng.
+[Hình: Tắc ruột do ung thư đại tràng trái típ A (trái), típ B (giữa) và típ C (phải): lưu ý các mức nước hơi nằm dọc đường đi của khung đại tràng và kiểu van của đại tràng.]
 
 [Hình: Hỗng tràng, Hồi tràng, Đại tràng]
-
 Hình 9. Phân biệt các kiểu van ruột.
 
 Trong TRTN, XQBKSS đôi khi cho thấy các dấu hiệu đặc thù như: quai ruột trướng hình hạt cà phê hay hình vòng, giả u, mức nước hơi không chênh cố định một chỗ qua các thời điểm chụp; hoặc có thể cho thấy các dấu hiệu của hoại tử ruột như: có hơi trên thành ruột, hơi trong tĩnh mạch cửa, mất nếp van ruột.
 
 [Hình: Hình hạt cà phê trên XQBKSS (trái) và trên CLVT (phải) ở 1 bệnh nhân xoắn đại tràng sigma.]
-
 Hình 10. Hình hạt cà phê trên XQBKSS (trái) và trên CLVT (phải) ở 1 bệnh nhân xoắn đại tràng sigma.
 
-XQBKSS có độ nhạy chỉ 60-80% trong chẩn đoán xác định tắc, 70% trong chẩn đoán vị trí và < 10% trong chẩn đoán nguyên nhân tắc $^([4])$. Tuy nhiên, do là phương pháp chẩn đoán hình ảnh đơn giản, dễ có ở mọi tuyến, nên cho đến nay vẫn là khảo sát hình ảnh đầu tiên nên làm ở một bệnh nhân nghi ngờ TRCH.
+XQBKSS có độ nhạy chỉ 60-80% trong chẩn đoán xác định tắc, 70% trong chẩn đoán vị trí và < 10% trong chẩn đoán nguyên nhân tắc [4]. Tuy nhiên, do là phương pháp chẩn đoán hình ảnh đơn giản, dễ có ở mọi tuyến, nên cho đến nay vẫn là khảo sát hình ảnh đầu tiên nên làm ở một bệnh nhân nghi ngờ TRCH.
 
-## 5.2.2. Chụp cắt lớp vi tính bụng
+5.2.2. Chụp cắt lớp vi tính bụng
 
 Chụp cắt lớp vi tính (CLVT) bụng với các lát cắt đi qua được ruột trên chỗ tắc, tại chỗ tắc, dưới chỗ tắc và giúp đánh giá tưới máu ruột (khi dùng chất cản quang tiêm tĩnh mạch) nên có ưu điểm hơn XQBKSS trong chẩn đoán TRCH. Đặc biệt, CLVT bụng có giá trị trong chẩn đoán TRTN cũng như những trường hợp nghi ngờ TRCH mà lâm sàng và XQBKSS không giúp xác định được, hay những trường hợp cần phân biệt TRCH với những nguyên nhân khác của bụng cấp ngoại khoa. Độ nhạy và độ đặc hiệu của CLVT bụng trong chẩn đoán xác định TRCH là trên 90%, ngoài ra, CLVT bụng có thể giúp xác định vị trí và nguyên nhân tắc ở phần lớn các trường hợp.
 
 Các dấu hiệu trên CLVT của tắc ruột là:
-
 - Ruột dãn nằm kế ruột xẹp (có thể là ruột non dãn nằm kế đại tràng xẹp trong tắc ruột non, hay đại tràng dãn to phía trên rồi xẹp phía dưới trong tắc đại tràng).
 - Thấy được vùng chuyển tiếp từ ruột dãn qua ruột xẹp. Dấu hiệu tại vùng chuyển tiếp giúp chẩn đoán nguyên nhân tắc.
 
-Trong tắc ruột non, CLVT bụng có thể thấy dấu hiệu "phân trong ruột non" (small bowel feces sign). Dấu hiệu này là do ứ đọng đồ ăn và hơi trên chỗ tắc mà khi lưu thông ruột non bình thường sẽ không thấy.
+Trong tắc ruột non, CLVT bụng có thể thấy dấu hiệu “phân trong ruột non” (small bowel feces sign). Dấu hiệu này là do ứ đọng đồ ăn và hơi trên chỗ tắc mà khi lưu thông ruột non bình thường sẽ không thấy.
 
 Trong tắc đại tràng do ung thư, CLVT bụng còn có thể giúp đánh giá mức độ xâm lấn của khối u, di căn hạch, di căn gan, di căn phúc mạc, ... - những thông tin mà XQBKSS hay chụp đại tràng không thể cung cấp được.
 
 Các dấu hiệu trên CLVT của TRTN là:
-
 - Quai ruột hình chữ U hay C
 - Ruột phân bố hình tia với các mạch máu mạc treo hội tụ về một điểm
 - Hẹp lòng ruột hình mỏ chim
@@ -1885,21 +1880,25 @@ Các dấu hiệu trên CLVT của TRTN là:
 - Mạc treo ruột dày lên nhưng mờ vì phù nề, ứ máu
 - Hơi trên thành ruột, trong tĩnh mạch mạc treo hay tĩnh mạch cửa khi ruột đã bị hoại tử; hơi trong ổ bụng khi ruột hoại tử đã thủng
 
-[Hình: Hình 11. Dấu hiệu CLVT tắc ruột non: ruột non dãn trên chỗ tắc (mũi tên dài) và xẹp dưới chỗ tắc (mũi tên ngắn), đại tràng lên và xuống xẹp (2 mũi tên cong), dấu hiệu phân trong ruột non (đầu mũi tên).]
+[Hình: Hai ảnh cắt lớp vi tính bụng]
+
+Hình 11. Dấu hiệu CLVT tắc ruột non: ruột non dãn trên chỗ tắc (mũi tên dài) và xẹp dưới chỗ tắc (mũi tên ngắn), đại tràng lên và xuống xẹp (2 mũi tên cong), dấu hiệu phân trong ruột non (đầu mũi tên).
 
 [Hình: Vùng chuyển tiếp trên CLVT ở tắc ruột non do dính (trái) và tắc đại tràng do ung thư (phải).]
 
-**Hình 12.** Vùng chuyển tiếp trên CLVT ở tắc ruột non do dính (trái) và tắc đại tràng do ung thư (phải).
+Hình 12. Vùng chuyển tiếp trên CLVT ở tắc ruột non do dính (trái) và tắc đại tràng do ung thư (phải).
 
 [Hình: CLVT bụng ở một bệnh nhân tắc ruột non do dây thắt: dấu hiệu quai ruột dãn hình chữ C, thành dày, bắt cản quang kém hơn ruột xẹp kế cận (trái), dấu mỏ chim ở đầu chữ C (giữa), trên lát cắt ngang trục, quai ruột thắt có thành dày, bắt cản quang kém hơn ruột kế cận, mạc treo ruột phù nề (phải).]
 
-**Hình 13.** CLVT bụng ở một bệnh nhân tắc ruột non do dây thắt: dấu hiệu quai ruột dãn hình chữ C, thành dày, bắt cản quang kém hơn ruột xẹp kế cận (trái), dấu mỏ chim ở đầu chữ C (giữa), trên lát cắt ngang trục, quai ruột thắt có thành dày, bắt cản quang kém hơn ruột kế cận, mạc treo ruột phù nề (phải).
+Hình 13. CLVT bụng ở một bệnh nhân tắc ruột non do dây thắt: dấu hiệu quai ruột dãn hình chữ C, thành dày, bắt cản quang kém hơn ruột xẹp kế cận (trái), dấu mỏ chim ở đầu chữ C (giữa), trên lát cắt ngang trục, quai ruột thắt có thành dày, bắt cản quang kém hơn ruột kế cận, mạc treo ruột phù nề (phải).
 
 [Hình: CLVT một trường hợp thoát vị nội hoại tử: Dấu hiệu các quai ruột phân bố hình tia (radial distribution) với mạc treo hội tụ về 1 điểm trên mặt phẳng ngang trục và mặt phẳng trán, lưu ý thành các quai ruột không đều, bắt quang kém, mạc treo ruột mờ do hậu quả của nghẹt mạch máu.]
 
-**Hình 14.** CLVT một trường hợp thoát vị nội hoại tử: Dấu hiệu các quai ruột phân bố hình tia (radial distribution) với mạc treo hội tụ về 1 điểm trên mặt phẳng ngang trục và mặt phẳng trán, lưu ý thành các quai ruột không đều, bắt quang kém, mạc treo ruột mờ do hậu quả của nghẹt mạch máu.
+Hình 14. CLVT một trường hợp thoát vị nội hoại tử: Dấu hiệu các quai ruột phân bố hình tia (radial distribution) với mạc treo hội tụ về 1 điểm trên mặt phẳng ngang trục và mặt phẳng trán, lưu ý thành các quai ruột không đều, bắt quang kém, mạc treo ruột mờ do hậu quả của nghẹt mạch máu.
 
-[Hình: Hình 15. CLVT một trường hợp xoắn gần toàn bộ ruột non chưa hoại tử. Hình trái: dấu hiệu vòng xoáy (mũi tên đỏ) và ruột dãn (các mũi tên trắng). Hình phải: ruột xoắn đã thẫm màu, mạch máu mạc treo cương tụ, nút xoắn là chỗ mũi tên trắng.]
+89
+
+[Hình: Hình 15. CLVT một trường hợp xoắn gần toàn bộ ruột non chưa hoại tử. Hình trái: dấu hiệu vòng xoáy (mũi tên đỏ) và ruột dãn (các mũi tên trắng). Hình phải: ruột xoắn đã thẩm màu, mạch máu mạc treo cương tụ, nút xoắn là chỗ mũi tên trắng.]
 
 [Hình: Hình 16. Dấu hiệu hơi trên thành ruột (các mũi tên ngắn) trên CLVT bụng ở một bệnh nhân tắc ruột non do dây thắt đã hoại tử ruột. Lưu ý phần ruột không bị thắt vẫn bắt quang bình thường (mũi tên dài ở hình bên trái).]
 
@@ -1908,46 +1907,54 @@ Các dấu hiệu trên CLVT của TRTN là:
 Nhược điểm của CLVT bụng là nhiễm tia xạ; ngoài ra, CLVT còn có chống chỉ định ở bệnh nhân suy thận, dị ứng chất cản quang, phụ nữ có thai. Vì thế, trên thực tế, phải cân nhắc giữa lợi ích của những thông tin mà CLVT mang lại cho quyết định xử trí ở từng trường hợp với nguy cơ tiềm tàng của nó chứ không nên lạm dụng.
 
 5.2.3. Chụp cản quang đường tiêu hóa
+
 Có 2 cách chụp mà có thể áp dụng tùy từng trường hợp:
-- Chụp sau khi uống hay bơm chất cản quang qua ống thông mũi-dạ dày hoặc ống thông mũi-ruột: chỉ định trong trường hợp tắc ruột cao hay bán tắc ruột non ở bệnh nhân ổn định trên lâm sàng. Sử dụng chất cản quang tan trong nước cho hình ảnh có thể không sắc nét bằng sử dụng barium vì chất cản quang bị hấp thu một phần, nhưng đổi lại, nhiều nghiên cứu sử dụng Gastrografin đã chứng minh chụp theo cách này không những giúp chuẩn đoán mà còn giúp điều trị ở những bệnh nhân tắc ruột non do dính. Ngoài việc xác định chỗ tắc, chụp cản quang cho biết mức độ tắc để tiên đoán khả năng điều trị bảo tồn thành công hay phải chuyển qua điều trị bằng phẫu thuật. Dấu hiệu xuất hiện chất cản quang ở đại tràng trong vòng 24 giờ sau uống hay bơm thuốc cản quang là dấu hiệu cho biết > 90% sẽ tự bớt tắc ruột.
+
+- Chụp sau khi uống hay bơm chất cản quang qua ống thông mũi-dạ dày hoặc ống thông mũi-ruột: chỉ định trong trường hợp tắc ruột cao hay bán tắc ruột non ở bệnh nhân ổn định trên lâm sàng. Sử dụng chất cản quang tan trong nước cho hình ảnh có thể không sắc nét bằng sử dụng barium vì chất cản quang bị hấp thu một phần, nhưng đổi lại, nhiều nghiên cứu sử dụng Gastrografin đã chứng minh chụp theo cách này không những giúp chẩn đoán mà còn giúp điều trị ở những bệnh nhân tắc ruột non do dính. Ngoài việc xác định chỗ tắc, chụp cản quang cho biết mức độ tắc để tiên đoán khả năng điều trị bảo tồn thành công hay phải chuyển qua điều trị bằng phẫu thuật. Dấu hiệu xuất hiện chất cản quang ở đại tràng trong vòng 24 giờ sau uống hay bơm thuốc cản quang là dấu hiệu cho biết > 90% sẽ tự bớt tắc ruột.
+
 - Chụp bằng cách thụt chất cản quang: chỉ định trong trường hợp tắc đại tràng mà chưa có biến chứng hoại tử ruột hay viêm phúc mạc. Chụp đại tràng bằng thụt chất cản quang có thể xác định được vị trí và nguyên nhân tắc (ung thư, xoắn đại tràng, lồng đại tràng...); tuy nhiên, hơi phiền phức trong cấp cứu vì phải thụt tháo đoạn ruột dưới chỗ tắc và phải có sự hợp tác tốt của bệnh nhân để giữ được thuốc khi chụp.
 
 [Hình: Một số dấu hiệu của tắc đại tràng trên chụp đại tràng: hình cắt cụt (trái) trong tắc do ung thư, hình mỏ chim (giữa) trong xoắn đại tràng sigma, hình càng cua (phải) trong lồng ruột.]
 
 Hiện nay, chụp đại tràng bằng thụt chất cản quang có thể được chỉ định khi nghi ngờ tắc đại tràng trên lâm sàng và XQBKSS mà tại chỗ không có điều kiện chụp CLVT, hay khi đã chụp CLVT mà vẫn không phân biệt được với giả tắc đại tràng.
+
 5.2.4. Siêu âm bụng
+
 Siêu âm bụng là khảo sát hình ảnh phổ biến, rẻ tiền, được áp dụng nhiều trong chẩn đoán bụng cấp ngoại khoa. Với tắc ruột hoàn toàn, siêu âm bụng có độ nhạy 85% trong chẩn đoán xác định; tuy nhiên, kết quả siêu âm còn tùy thuộc vào kinh nghiệm của người đọc. Dấu hiệu trên siêu âm của tắc ruột là: ruột dãn nằm kế ruột xẹp, ruột trên chỗ ứ trệ.
 
 tắc tăng nhu động (dấu hiệu máy giặt). Siêu âm cũng có thể phát hiện được nguyên nhân gây tắc ruột, nhất là lồng ruột, và cũng có thể cho các dấu hiệu của TRTN như: quai ruột dãn nằm im lìm (để đầu dò 5 phút không thấy nhu động), thành ruột dày, báng bụng thành lập nhanh. Siêu âm bụng có thể áp dụng cho những bệnh nhân nghi ngờ TRCH mà huyết động không ổn định hay có chống chỉ định khảo sát bằng tia X, ví dụ như thai phụ.
 
-[Hình: Hình 19. Dấu hiệu siêu âm của tắc ruột: ruột dãn với các đốm hơi echo dày và dịch ứ đọng di chuyển tới lui theo nhu động, còn gọi là dấu hiệu máy giặt (trái), các nếp van ruột nhìn thấy như phím đàn (phải).]
+[Hình: Dấu hiệu siêu âm của tắc ruột: ruột dãn với các đốm hơi echo dày và dịch ứ đọng di chuyển tới lui theo nhu động, còn gọi là dấu hiệu máy giặt (trái), các nếp van ruột nhìn thấy như phím đàn (phải).]
 
-[Hình: Hình 20. Dấu hiệu siêu âm của lồng ruột: Hình bia (trái) và bánh mì kẹp thịt (phải).]
+[Hình: Dấu hiệu siêu âm của lồng ruột: Hình bia (trái) và bánh mì kẹp thịt (phải).]
 
-## 5.2.5. Chụp cộng hưởng từ
+5.2.5. Chụp cộng hưởng từ
 
 Chụp cộng hưởng từ (CHT) có thể có độ nhạy cao hơn CLVT trong chẩn đoán xác định, chẩn đoán vị trí và nguyên nhân tắc ruột. Tuy nhiên, đây là phương pháp đắt tiền và không dễ có nên chỉ áp dụng hạn chế cho những trường hợp chống chỉ định khảo sát bằng tia X, ở nơi có sẵn máy móc và chuyên gia về CHT.
 
-## 5.2.6. Các xét nghiệm cận lâm sàng
+5.2.6. Các xét nghiệm cận lâm sàng
 
 Phân tích tế bào máu có thể thấy dung tích hồng cầu tăng do cô đặc máu. Bạch cầu máu tăng cao, chuyển trái là dấu hiệu của biến chứng nhiễm khuẩn, hoại tử ruột hay viêm phúc mạc.
 
 Mất nước nặng cũng có thể làm urê, creatinin/máu tăng. Nôn ói nhiều có thể dẫn đến nhiễm kiềm chuyển hóa, hạ $K^+$, $Cl^-$; trong khi đó, theo một số tác giả, nhiễm toan chuyển hóa với LDH tăng là một trong những dấu hiệu của TRTN.
 
-## 6. CHẨN ĐOÁN PHÂN BIỆT
+**6. CHẨN ĐOÁN PHÂN BIỆT**
 
 Đau bụng, nôn, bí trung đại tiện, trướng bụng cũng có thể gặp trong nhiều bệnh cảnh khác của bụng ngoại khoa. Vì vậy, trừ những trường hợp biểu hiện lâm sàng và hình ảnh đã đủ để kết luận chẩn đoán TRCH, các trường hợp khác phải được chẩn đoán phân biệt.
 
-- Thủng dạ dày: đau trong thủng dạ dày thường khởi phát đột ngột, dữ dội, đau liên tục nhưng bệnh nhân có xu hướng nằm yên vì đau sẽ tăng khi cử động; khám bụng có dấu hiệu bụng gồng cứng như gỗ, ấn đau, mất vùng đục trước gan; 70% có hơi tự do dưới hoành trên XQBKSS tư thế đứng. Trong TRTN, ví dụ như trong xoắn ruột non, bệnh nhân cũng có thể đau bụng đột ngột, đau liên tục hay quặn thắt từng cơn trên nền âm ỉ; đau có xu hướng lói sau lưng (do căng kéo rễ mạc treo ruột); đau dữ dội có thể làm bệnh nhân kêu la, vật vã chứ không nằm yên; khám bụng có thể thấy ấn đau và có phản ứng thành bụng khi ruột đã hoại tử. Chụp CLVT bụng nên được chỉ định sớm để phân biệt.
+- Thủng dạ dày: đau trong thủng dạ dày thường khởi phát đột ngột, dữ dội, đau liên tục nhưng bệnh nhân có xu hướng nằm yên vì đau sẽ tăng khi cử động; khám bụng có dấu hiệu bụng gồng cứng như gỗ, ấn đau, mất vùng đục trước gan; 70% có hơi tự do dưới hoành trên XQBKSS tư thế đứng. Trong TRTN, ví dụ như trong xoắn ruột non, bệnh nhân cũng có thể đau bụng đột ngột, đau liên tục hay quặn thắt từng cơn trên nền âm ỉ; đau có xu hướng lôi sau lưng (do căng kéo rễ mạc treo ruột); đau dữ dội có thể làm bệnh nhân kêu la, vật vã chứ không nằm yên; khám bụng có thể thấy ấn đau và có phản ứng thành bụng khi ruột đã hoại tử. Chụp CLVT bụng nên được chỉ định sớm để phân biệt.
+
 - Viêm tụy cấp: bệnh nhân viêm tụy cấp cũng có đau bụng nhiều, có nôn; nhưng thường là nôn khan do phản xạ, nôn xong không thấy đỡ như nôn do ứ đọng trong TRCH. Viêm tụy nặng cũng có thể làm bụng trướng do liệt ruột. Xét nghiệm amylase/máu, lipase/máu, siêu âm bụng, nhất là CLVT bụng sẽ giúp chẩn đoán.
-- Nhồi máu mạc treo ruột: bệnh nhân có thể nhập viện vì đau bụng đột ngột dữ dội, trướng bụng, nôn, tiêu máu; hỏi bệnh cần lưu ý thêm đến tiền sử rung nhĩ, xơ vữa mạch máu, huyết khối tĩnh mạch, chứng đau bụng quặn thắt sau ăn tái diễn ở người lớn tuổi. Khám lúc đầu có thể thấy tình trạng toàn thân có vẻ nặng, thậm chí có sốc, không tương xứng với tại chỗ chỉ là trướng bụng và ấn đau nhẹ giữa bụng; về sau, khi ruột đã hoại tử, mới có dấu hiệu viêm phúc mạc. XQBKSS có thể thấy ruột trướng với các dấu ấn ngón tay (thump printing), hay có hơi trên thành ruột, hơi trong tĩnh mạch mạc treo khi đã có hoại tử ruột. CLVT bụng có cản quang sẽ giúp phân định có TRCH hay không, cũng như đánh giá tình trạng tưới máu ruột. Khi cần có thể chụp thêm mạch máu số hóa xóa nền (DSA) để chẩn đoán thiếu máu/nhồi máu mạc treo.
+
+- Nhồi máu mạc treo ruột: bệnh nhân có thể nhập viện vì đau bụng đột ngột dữ dội, trướng bụng, nôn, tiêu máu; hỏi bệnh cần lưu ý thêm đến tiền sử rung nhĩ, xơ vữa mạch máu, huyết khối tĩnh mạch, chứng đau bụng quặn thắt sau ăn tái diễn ở người lớn tuổi. Khám lúc đầu có thể thấy tình trạng toàn thân có vẻ nặng, thậm chí có sốc, không tương xứng với tại chỗ chỉ là trướng bụng và ấn đau nhẹ giữa bụng; về sau, khi ruột đã hoại tử, mới có dấu hiệu viêm phúc mạc. XQBKSS có thể thấy ruột trướng với các dấu ấn ngón tay (thump printing), hay có hơi trên thành ruột, hơi trong tĩnh mạch mạc treo khi đã có hoại tử. CLVT bụng có cản quang sẽ giúp phân định có TRCH hay không, cũng như đánh giá tình trạng tưới máu ruột. Khi cần có thể chụp thêm mạch máu số hóa xóa nền (DSA) để chẩn đoán thiếu máu/nhồi máu mạc treo.
+
 - Viêm phúc mạc: viêm phúc mạc thứ phát từ viêm ruột thừa, viêm túi thừa đại tràng, thủng ruột non,...đôi khi có biểu hiện lâm sàng gần giống như TRCH đến trễ (khi TRCH đã chuyển thành liệt ruột). Khai thác bệnh sử kỹ; phân tích và đánh giá chi tiết các dấu hiệu toàn thân và tại chỗ; sử dụng siêu âm bụng, XQBKSS hay CLVT một cách thích hợp sẽ giúp chẩn đoán.
 
 - Liệt ruột sau mổ: liệt ruột sau mổ rất thường xảy ra sau một cuộc mổ bụng. Mức độ và thời gian hồi phục tùy thuộc nhiều yếu tố (tuổi bệnh nhân, vị trí mổ, phương pháp mổ, tính chất xâm hại, tình trạng bụng, vận động sau mổ,...). Nói chung, liệt ruột có thể hồi phục sau 1-3 ngày ở người trẻ nhưng có thể đến 4-5 ngày ở người già. Biểu hiện lâm sàng của liệt ruột sau mổ chủ yếu là đầy tức bụng, đau và nôn ít rõ, không trung tiện; khám thấy bụng trướng lan tỏa, âm ruột yếu hay không có; XQBKSS cho thấy trướng hơi lan tỏa cả ở dạ dày, ruột non và đại tràng và có thể có nhiều mức nước-hơi. Chẩn đoán phân biệt liệt ruột sau mổ với TRCH sớm sau mổ do dính nhiều khi khó, nếu XQBKSS không giúp chẩn đoán được thì nên chụp CLVT bụng.
 
 - Giả tắc đại tràng cấp (Hội chứng Ogilvie): bệnh nhân thường ở tuổi trung niên trở lên và đang điều trị một bệnh về hệ thống, bệnh chuyển hóa, chấn thương nặng, hay đang dùng thuốc (như phenothiazines, thuốc chống trầm cảm ba vòng,...). Bệnh cảnh điển hình thường giống như tắc đại tràng với chủ yếu là trướng bụng. Các triệu chứng khác gồm đau bụng, buồn nôn, nôn. Bí trung đại tiện có thể gặp ở 60% trường hợp. Khi khám có thể thấy ấn đau bụng trong 50% trường hợp, âm ruột có thể tăng hay bình thường, thăm trực tràng thấy bóng trực tràng trống. Khi xảy ra biến chứng thiếu máu nuôi hay thủng đại tràng, sẽ có triệu chứng tại chỗ của viêm phúc mạc kèm theo triệu chứng toàn thân của nhiễm khuẩn nhiễm độc. XQBKSS cho thấy dãn toàn bộ khung đại tràng, nhất là manh tràng. Chụp CLVT bụng và/hoặc chụp đại tràng cản quang có thể giúp loại trừ tắc đại tràng cơ học. Nội soi đại tràng cũng có thể áp dụng để chẩn đoán loại trừ tắc đại tràng cơ học nhưng phải hết sức thận trọng vì có thể gây thủng ruột.
 
-## 7. CHẨN ĐOÁN NGUYÊN NHÂN
+7. CHẨN ĐOÁN NGUYÊN NHÂN
 
 Chẩn đoán hội chứng TRCH có thể không khó nhưng chẩn đoán nguyên nhân lại có khi khó vì, như đã nói, nguyên nhân của tắc ruột cơ học rất đa dạng. Để chẩn đoán được nguyên nhân phải dựa vào tiền sử, bệnh sử, thăm khám kỹ lưỡng kết hợp với chẩn đoán hình ảnh. Yếu tố tiền sử và bệnh sử nhiều khi rất quan trọng như tiền sử mổ bụng, lao, ung thư, thoát vị, thói quen ăn uống, kiểu đau, diễn tiến đau, các triệu chứng đi kèm... XQBKSS kinh điển thường không cho thấy được hình ảnh chỗ tắc thực sự mà chỉ cho thấy ứ đọng phía trên, nhiều khi khá xa chỗ tắc, nên giá trị chẩn đoán nguyên nhân rất kém. Hiện nay, CLVT bụng, nhờ ưu thế cắt từng lát qua ruột trên chỗ tắc, tại chỗ tắc, dưới chỗ tắc và đánh giá được tưới máu mạc treo ruột nên giúp ích nhiều hơn trong xác định nguyên nhân tắc trước khi quyết định điều trị.
 
@@ -1962,6 +1969,7 @@ Chẩn đoán hội chứng TRCH có thể không khó nhưng chẩn đoán nguy
         - CT
           - Xác định rõ TRCH
             - ĐT nội
+            - Thất bại
             - Phẫu thuật
     - Có dấu TRCH
       - Chưa có BC
@@ -1970,11 +1978,13 @@ Chẩn đoán hội chứng TRCH có thể không khó nhưng chẩn đoán nguy
             - CT
               - Xác định rõ TRCH
                 - ĐT nội
+                - Thất bại
                 - Phẫu thuật
         - Tắc hoàn toàn
           - CT(*)
             - Xác định rõ TRCH
               - ĐT nội
+              - Thất bại
               - Phẫu thuật
       - Nghi có BC
         - Phẫu thuật
@@ -1993,6 +2003,8 @@ Chẩn đoán hội chứng TRCH có thể không khó nhưng chẩn đoán nguy
 (*) Khi cần xác định rõ nguyên nhân, kiểu tắc, tưới máu ruột.
 (**) Tăng áp lực bụng nặng, chèn ép khoang bụng, vỡ hay dọa vỡ ruột.
 
+> Lưu đồ 1. Tiếp cận chẩn đoán và xử trí tắc ruột cơ học.
+
 **8. ĐIỀU TRỊ TẮC RUỘT CƠ HỌC**
 
 Nguyên tắc điều trị TRCH là nội khoa kết hợp với ngoại khoa.
@@ -2003,19 +2015,19 @@ Nguyên tắc điều trị TRCH là nội khoa kết hợp với ngoại khoa.
 
 **8.1.1. Bù đắp nước và các chất điện giải, nuôi dưỡng qua đường tĩnh mạch**
 
-Đánh giá mức độ mất nước ban đầu thường dựa vào các dấu hiệu lâm sàng của mất nước, huyết áp, lượng nước tiểu. Kết quả xét nghiệm dung tích hồng cầu, điện giải đồ, lượng dịch mất qua ống thông mũi - dạ dày hay ống thông mũi - ruột cũng là các chỉ số cần quan tâm khi quyết định thể tích và thành phần dịch truyền. Thường thì dung dịch NaCl 0,9%, Ringer’s Lactate và Glucose 5% vẫn là các loại dung dịch chính dùng trong hồi sức bệnh nhân tắc ruột. Tùy kết quả điện giải đồ, có thể phối hợp dùng thêm các dung dịch khác như KCl 10%. Nếu bệnh nhân phải tiếp tục nhịn đói nhiều ngày, cần phải chú ý nuôi dưỡng qua đường tĩnh mạch bằng các loại dịch truyền thích hợp.
+Đánh giá mức độ mất nước ban đầu thường dựa vào các dấu hiệu lâm sàng của mất nước, huyết áp, lượng nước tiểu. Kết quả xét nghiệm dung tích hồng cầu, điện giải đồ, lượng dịch mất qua ống thông mũi - dạ dày hay ống thông mũi - ruột cũng là các chỉ số cần quan tâm khi quyết định thể tích và thành phần dịch truyền. Thường thì dung dịch NaCl 0,9%, Ringer's Lactate và Glucose 5% vẫn là các loại dung dịch chính dùng trong hồi sức bệnh nhân tắc ruột. Tùy kết quả điện giải đồ, có thể phối hợp dùng thêm các dung dịch khác như KCl 10%. Nếu bệnh nhân phải tiếp tục nhịn đói nhiều ngày, cần phải chú ý nuôi dưỡng qua đường tĩnh mạch bằng các loại dịch truyền thích hợp.
 
-**8.1.2. Giải áp ruột trên chỗ tắc**
+8.1.2. Giải áp ruột trên chỗ tắc
 
-Giải áp ruột trên chỗ tắc nhằm làm cho ruột đỡ căng trương. Ruột bớt trương thì đỡ đau, đè ép lên cơ hoành giảm đi nên bệnh nhân đỡ khó thở, tưới máu ruột được cải thiện hơn, tránh được nguy cơ hít chất nôn vào đường thở.
+Giải áp ruột trên chỗ tắc nhằm làm cho ruột đỡ căng trướng. Ruột bớt trướng thì đỡ đau, đè ép lên cơ hoành giảm đi nên bệnh nhân đỡ khó thở, tưới máu ruột được cải thiện hơn, tránh được nguy cơ hít sặc chất nôn vào đường thở.
 
-Đặt ống thông mũi – dạ dày là biện pháp thường được áp dụng nhất trên lâm sàng để giải áp trong trường hợp tắc ruột. Ông thông mũi – ruột cũng có thể sử dụng nếu có sẵn và có hỗ trợ nội soi khi cần để đặt được đầu ống thông qua môn vị. Nếu có đủ máy hút, nên cho hút ngắt quãng sau khi đặt được ống thông để giải áp được nhanh và hiệu quả hơn. Tổng lượng dịch hút ra qua ống thông phải được ghi nhận để tính tổng lượng dịch cần bù đắp cho bệnh nhân.
+Đặt ống thông mũi – dạ dày là biện pháp thường được áp dụng nhất trên lâm sàng để giải áp trong trường hợp tắc ruột. Ống thông mũi – ruột cũng có thể sử dụng nếu có sẵn và có hỗ trợ nội soi khi cần để đặt được đầu ống thông qua môn vị. Nếu có đủ máy hút, nên cho hút ngắt quãng sau khi đặt được ống thông để giải áp được nhanh và hiệu quả hơn. Tổng lượng dịch hút ra qua ống thông phải được ghi nhận để tính tổng lượng dịch cần bù đắp cho bệnh nhân.
 
-**8.1.3. Kháng sinh**
+8.1.3. Kháng sinh
 
 Vai trò của kháng sinh đường tĩnh mạch trong TRĐT còn bàn cãi. Nhiều tác giả cho rằng, khi niêm mạc ruột còn nguyên vẹn thì dù cho có nhiễm khuẩn trong lòng ruột trên chỗ tắc (theo sinh lý bệnh) đi nữa cũng chưa gây tác hại nghiêm trọng. Nhưng trong TRTN, dùng kháng sinh là bắt buộc. Nên chọn kháng sinh phổ rộng, bao vây cả vi trùng Gram (-), Gram (+) và có thể phối hợp cả kháng sinh diệt vi trùng yếm khí.
 
-**8.1.4. Theo dõi đáp ứng điều trị**
+8.1.4. Theo dõi đáp ứng điều trị
 
 Đây là nội dung không thể thiếu trong điều trị nội khoa ở bệnh nhân tắc ruột. Cứ mỗi vài giờ, bác sĩ điều trị phải khám lại bệnh nhân và, nếu cần, có thể chỉ định chụp XQBKSS nhắc lại sau 4-6 giờ hay lâu hơn để đánh giá xem tắc ruột có tiếp tục tiến triển hay đang thuyên giảm. Dấu hiệu của tắc ruột thuyên giảm là bớt đau, bớt trướng bụng, có trung tiện lại và XQBKSS cho thấy ruột trên chỗ tắc bớt trướng, bắt đầu có hơi ở phần ruột dưới chỗ tắc.
 
@@ -2241,7 +2253,7 @@ Siêu âm đánh giá trọng điểm trong chấn thương (Focused Assessment 
 
 Hiện nay, siêu âm gần như đã thay thế vai trò của chọc rửa ổ bụng trong xác định chảy máu trong ổ bụng trên bệnh nhân chấn thương có huyết động không ổn định.
 
-[Hình: Các vị trí siêu âm đánh giá trọng điểm trong chấn thương.]
+[Hình: Các vị trí siêu âm đánh giá trọng điểm trong chấn thương. (Hình vẽ minh họa 4 vị trí đặt đầu dò siêu âm trên cơ thể người, được đánh số từ 1 đến 4)]
 
 Hình 3. Các vị trí siêu âm đánh giá trọng điểm trong chấn thương.
 
@@ -2343,7 +2355,6 @@ Chấn thương gan nhỏ phát hiện trong mổ thường gặp trong tình hu
 Hình 6. Thắt mạch máu bị tổn thương trong nhu mô gan.
 
 10.3. Điều trị phẫu thuật chấn thương gan lớn
-
 10.3.1. Tiếp cận tổn thương và xử trí bước đầu
 
 Bệnh nhân chấn thương gan lớn có huyết động không ổn định cần được phẫu thuật cấp cứu. Ngay khi khoang phúc mạc được mở ra, lượng máu lớn trong ổ bụng tràn ra ngoài làm giảm đột ngột áp lực trong ổ bụng. Hồi sức tích cực bằng bù dịch, máu và điều chỉnh rối loạn đông máu rất quan trọng lúc này. Kiểm soát chảy máu tạm thời từ tổn thương vỡ gan bằng cách chẹn bằng tay trong khi thám sát ổ bụng và chờ bệnh nhân được hồi sức ổn định (hình 7). Nếu không có chảy máu nào khác đáng kể ngoài gan và
@@ -2358,24 +2369,24 @@ Bệnh nhân chấn thương gan lớn có huyết động không ổn định c
 
 **(1) Kỹ thuật chẹn gạc (packing):**
 
-Chẹn gạc chung quanh gan là kỹ thuật thường xuyên được sử dụng và đạt hiệu quả cao trong điều trị chấn thương gan nặng. Đây là kỹ thuật kiểm soát thương tổn (damage control) với mục đích cầm máu nhanh chóng mà không cần sửa chữa triệt để tổn thương nhằm có thời gian tập trung hồi sức giúp bệnh nhân nhanh chóng ổn định các rối loạn. Để đạt được hiệu quả chèn ép, phẫu thuật viên cần di động gan bằng cách cắt các dây chẳng liềm, vành và tam giác hai bên. Gạc lớn được chẹn chung quanh gan để tạo áp lực ép lên tổn thương vỡ gan giúp cầm máu (hình 9). Thông thường sau khi chẹn gạc, các rối loạn đông máu, kiềm toan, hạ thân nhiệt v..v... sẽ được điều chỉnh ổn định sau 24-48 giờ. Lưu gạc trong ổ bụng càng lâu càng tăng nguy cơ nhiễm khuẩn trong ổ bụng. Tuy nhiên, rút gạc quá sớm lại có nguy cơ chảy máu tái phát và cần phải chẹn gạc lại. Do đó, gạc thường được rút ở ngày thứ 2-3 sau khi chẹn.
+Chẹn gạc chung quanh gan là kỹ thuật thường xuyên được sử dụng và đạt hiệu quả cao trong điều trị chấn thương gan nặng. Đây là kỹ thuật kiểm soát thương tổn (damage control) với mục đích cầm máu nhanh chóng mà không cần sửa chữa triệt để tổn thương nhằm có thời gian tập trung hồi sức giúp bệnh nhân nhanh chóng ổn định các rối loạn. Để đạt được hiệu quả chèn ép, phẫu thuật viên cần di động gan bằng cách cắt các dây chằng liềm, vành và tam giác hai bên. Gạc lớn được chẹn chung quanh gan để tạo áp lực ép lên tổn thương vỡ gan giúp cầm máu (hình 9). Thông thường sau khi chẹn gạc, các rối loạn đông máu, kiềm toan, hạ thân nhiệt v.v... sẽ được điều chỉnh ổn định sau 24–48 giờ. Lưu gạc trong ổ bụng càng lâu càng tăng nguy cơ nhiễm khuẩn trong ổ bụng. Tuy nhiên, rút gạc quá sớm lại có nguy cơ chảy máu tái phát và cần phải chẹn gạc lại. Do đó, gạc thường được rút ở ngày thứ 2–3 sau khi chẹn.
 
 [Hình: Hình 9. Chẹn gạc quanh gan.]
 
-**(2) Khâu gan:**
+(2) Khâu gan:
 
 Các kỹ thuật xử trí chấn thương gan nhỏ thường không hiệu quả đối với vỡ gan độ III và IV. Khâu gan là một trong những kỹ thuật lâu đời nhất được sử dụng để cầm máu đường vỡ nhu mô gan. Nhu mô gan được khâu bằng chỉ O với kim có đường kính lớn và đầu tù. Kỹ thuật này thường phù hợp đối với các tổn thương vỡ gan sâu không quá 3 cm vì nếu khâu mù sâu hơn trong nhu mô gan có thể làm tổn thương ống mật hoặc mạch máu gây tụ máu hoặc tụ mật trong gan.
 
 [Hình: Hình 10. Khâu gan.]
 
 (3) Tìm và thắt mạch máu tổn thương trong nhu mô gan:
-
 Những trường hợp vỡ gan nặng có tổn thương các nhánh động mạch gan hay tĩnh mạch cửa thường không cầm máu được bằng kỹ thuật khâu ép nhu mô gan. Phẫu thuật viên có thể tách nhẹ đường vỡ, sử dụng 2 ngón tay hoặc dụng cụ kẹp mạch máu nhỏ để bóp nhu mô gan và tìm mạch máu đang chảy. Mạch máu bị tổn thương có thể xử trí bằng khâu phục hồi, cột hay kẹp bằng clip để cầm máu. Kỹ thuật này cầm máu hiệu quả nhưng có thể gây chảy máu thêm trong quá trình tìm mạch máu bị tổn thương ban đầu.
 
 [Hình: (A) Dùng 2 ngón tay bóp nhu mô gan tìm mạch máu bị tổn thương, (B) Kẹp mạch máu, (C) khâu phục hồi mạch máu.]
 
-*(4) Chẹn mạc nối lớn:*
+Hình 11. (A) Dùng 2 ngón tay bóp nhu mô gan tìm mạch máu bị tổn thương, (B) Kẹp mạch máu, (C) khâu phục hồi mạch máu.
 
+(4) Chẹn mạc nối lớn:
 Trước tiên, mạc nối lớn được di động khỏi mạc treo đại tràng ngang ở khoảng vô mạch. Tiếp theo, mạc nối lớn được di động khỏi bờ cong lớn dạ dày và bảo tồn cuống mạch máu vị mạc nối phải. Sau đó, mạc nối lớn được đặt vào chỗ vỡ gan và khâu cố định. Kỹ thuật này giúp lấp đầy khoảng trống trong nhu mô gan bằng mô sống, tạo lực ép giúp cầm máu đồng thời mạc nối lớn cũng có chức năng thực bào các tế bào chết ở vùng gan vỡ.
 
 [Hình: Chẹn mạc nối lớn và khâu cố định.]
@@ -2393,11 +2404,11 @@ Ghép gan là điều trị mạnh tay nhất và được chỉ định hạn h
 
 Tổn thương tĩnh mạch gan, tĩnh mạch chủ dưới:
 
-Chấn thương gan nặng có thể tổn thương tĩnh mạch gan ở đoạn trong gan, đoạn ngoài gan hay tĩnh mạch chủ dưới kèm rách cơ hoành và các dây chằng treo gan. Khi phẫu thuật, việc bộc lộ mạch máu bị tổn thương có thể làm mất đi cơ chế chèn ép tự nhiên, gây chảy máu dữ dội. Bệnh nhân có thể tử vong do mất máu nhiều hoặc thuyên tắc khí. Ba chiến lược có thể được lựa chọn để xử trí các tổn thương này gồm: (1) khâu phục hồi trực tiếp tổn thương tĩnh mạch, (2) cắt gan theo giải phẫu, và (3) tạo áp lực chèn vào tĩnh mạch đang chảy (khâu ép sâu nhu mô gan hoặc chẹn mạc nối và khâu cố định, kỹ thuật này thường chỉ sử dụng đối với tổn thương tĩnh mạch gan trong nhu mô).
+Chấn thương gan nặng có thể tổn thương tĩnh mạch gan ở đoạn trong gan, đoạn ngoài gan hay tĩnh mạch chủ dưới kèm rách cơ hoành và các dây chằng treo gan. Khi phẫu thuật, việc bộc lộ mạch máu bị tổn thương có thể làm mất đi cơ chế chèn ép tự nhiên, gây chảy máu dữ dội. Bệnh nhân có thể tử vong do mất máu nhiều hoặc thuyên tắc khí. Ba chiến lược có thể được lựa chọn để xử trí các tổn thương này gồm: (1) khâu phục hồi trực tiếp tổn thương tĩnh mạch, (2) cắt gan theo giải phẫu, và (3) tạo áp lực chèn ép vào tĩnh mạch đang chảy (khâu ép sâu nhu mô gan hoặc chẹn mạc nối và khâu cố định, kỹ thuật này thường chỉ sử dụng đối với tổn thương tĩnh mạch gan trong nhu mô).
 
-## 11. BIẾN CHỨNG SAU CHẤN THƯƠNG GAN
+11. BIẾN CHỨNG SAU CHẤN THƯƠNG GAN
 
-### 11.1. Biến chứng của chấn thương gan được điều trị bảo tồn
+11.1. Biến chứng của chấn thương gan được điều trị bảo tồn
 
 Hầu hết bệnh nhân chấn thương gan điều trị bảo tồn tự lành mà không xảy ra biến chứng. Theo dõi bằng CLVT có thể thấy tổn thương gan hồi phục sau 4 tháng. Tuy nhiên, có khoảng 12,6% xuất hiện biến chứng và thường gặp trong các trường hợp chấn thương gan nặng (độ V) và có rối loạn đông máu. Các biến chứng có thể gặp gồm:
 
@@ -2408,7 +2419,7 @@ Hầu hết bệnh nhân chấn thương gan điều trị bảo tồn tự làn
 - Chảy máu đường mật
 - Hội chứng đáp ứng viêm toàn thân
 
-### 11.2. Biến chứng liên quan phẫu thuật chấn thương gan
+11.2. Biến chứng liên quan phẫu thuật chấn thương gan
 
 - Chảy máu trong ổ bụng (2–7%)
 - Hội chứng khoang bụng (abdominal compartment syndrome)
@@ -2418,47 +2429,61 @@ Hầu hết bệnh nhân chấn thương gan điều trị bảo tồn tự làn
 - Hoại tử gan
 - Các loại rò khác: rò mật vào lồng ngực, rò tĩnh mạch chủ–màng phổi, rò động mạch gan–tĩnh mạch cửa, rò tĩnh mạch cửa–chủ.
 
-# TÀI LIỆU THAM KHẢO
+TÀI LIỆU THAM KHẢO
+
 1. John TG and Rees M (2005). Liver trauma, including caval injury. In: Surgical management of Hepatobiliary and Pancreatic disorders, Martin Dunitz, Chapter 29: 732-774.
+
 2. Rao R. Ivatury (2015). Operative techniques for Severe liver injury, Springer-Verlag, DOI: 10.1007/978-1-4939-1200-1.
+
 3. Bruns BR and Kozar RA (2017). Liver and Biliary tract. In: Traumar, 8th Edition, Mc Graw Hill Education, Chapter 29: 551-573, ISBN: 978-1-26-012860-4.
-4. Martin RS and Meredith JW (2017). Management of acute trauma. In: Sabiston textbook of surgery, $20^{\text{th}}$ Edition, Elsevier, Chapter 16: 408-448.
+
+4. Martin RS and Meredith JW (2017). Management of acute trauma. In: Sabiston textbook of surgery, 20th Edition, Elsevier, Chapter 16: 408-448.
+
 5. Melloul E, Denys A, Demartines N (2015). Management of severe blunt hepatic injury in the era of computed tomography and transarterial embolization: a systemic review and critical appraisal of the literature. J Trauma Acute Care Surg, 79(3): 468-474.
+
 6. Croce MA, Fabian TC, Menke PG et al (1995). Nonoperative management of blunt hepatic trauma is the treatment of choice for hemodynamically stable patients. Results of a prospective trial, Ann Surg, 221(6): 744-755.
+
 7. Coccolini F, Coimbra R, Ordonez C, et al (2020). Liver trauma: WSES 2020 guidelines. World Journal of Emergency Surgery, 15: 1-15.
+
 8. Stassen NA, Bhullar I, Cheng JD, et al (2012). Nonoperative management of blunt hepatic injury: an Eastern Association for the Surgery of Trauma practice management guideline. Journal of Trauma and Acute Care Surgery, 73(5): 288-293.
+
 9. Yoon W, Jeong YY, Kim JK, et al (2005). CT in blunt liver trauma. Radiographics, 25(1): 87-104
 
-## CÂU HỎI LƯỢNG GIÁ
+CÂU HỎI LƯỢNG GIÁ
+
 1. Các lý do nào sau đây khiến chấn thương vỡ gan dễ dẫn đến sốc mất máu?
-A. Cung lượng máu đi qua gan đến $2.500\text{ ml/phút}$
+
+A. Cung lượng máu đi qua gan đến 2.500 ml/phút
+
 B. Gan được cấp máu bởi động mạch gan và tĩnh mạch gan
-C. Lưu lượng máu qua gan lên đến $1/3$ cung lượng tim
+
+C. Lưu lượng máu qua gan lên đến 1/3 cung lượng tim
+
 D. Gan liên quan chặt chẽ tĩnh mạch chủ dưới, khi vỡ gan có thể kèm theo tổn thương tĩnh mạch này.
 
 2. Một bệnh nhân nam, 26 tuổi, nhập viện cấp cứu vì đi xe máy đụng với xe máy ngược chiều. Lúc nhập viện: vật vã, mạch 125 lần/phút, HA 80/60 mmHg, thở nhanh lần/phút. Bụng to, bầm máu vùng bờ sườn phải. FAST: dịch bụng lượng nhiều dưới lách, hai hố chậu và hạ vị, vỡ gan phải. Xử trí nào sau đây phù hợp?
-- A. Truyền dịch, truyền máu, truyền huyết tương, vận mạch và theo dõi sát
-- B. Chuyển phòng DSA chụp hình mạch máu tạng và thuyên tắc mạch
-- C. Mổ cấp cứu thực hiện phẫu thuật kiểm soát tổn thương
-- D. Mổ cấp cứu cắt bỏ phần gan bị vỡ
+A. Truyền dịch, truyền máu, truyền huyết tương, vận mạch và theo dõi sát
+B. Chuyển phòng DSA chụp hình mạch máu tạng và thuyên tắc mạch
+C. Mổ cấp cứu thực hiện phẫu thuật kiểm soát tổn thương
+D. Mổ cấp cứu cắt bỏ phần gan bị vỡ
 
 3. Phương pháp chụp động mạch gan bằng DSA và thuyên tắc mạch trong điều trị vỡ gan chỉ định trong trường hợp?
-- A. Vỡ gan có huyết động không ổn định
-- B. Vỡ gan có dấu thoát mạch trên chụp CLVT bụng có cản quang
-- C. Vỡ gan kèm hình ảnh tổn thương tĩnh mạch gan
-- D. Vỡ gan kèm hình ảnh tổn thương tĩnh mạch cửa
+A. Vỡ gan có huyết động không ổn định
+B. Vỡ gan có dấu thoát mạch trên chụp CLVT bụng có cản quang
+C. Vỡ gan kèm hình ảnh tổn thương tĩnh mạch gan
+D. Vỡ gan kèm hình ảnh tổn thương tĩnh mạch cửa
 
 4. Chỉ định phẫu thuật vỡ gan chấn thương?
-- A. Chấn thương gan có huyết động không ổn định
-- B. Chấn thương gan từ độ III trở lên
-- C. Chấn thương gan kèm dịch bụng lượng nhiều, chọc ra máu không đông
-- D. Chấn thương gan kèm chấn thương lách, thận
+A. Chấn thương gan có huyết động không ổn định
+B. Chấn thương gan từ độ III trở lên
+C. Chấn thương gan kèm dịch bụng lượng nhiều, chọc ra máu không đông
+D. Chấn thương gan kèm chấn thương lách, thận
 
 5. Biến chứng muộn thường gặp của vỡ gan lớn và phức tạp?
-- A. Viêm phúc mạc
-- B. Chảy máu đường mật
-- C. Suy gan
-- D. Rò mật
+A. Viêm phúc mạc
+B. Chảy máu đường mật
+C. Suy gan
+D. Rò mật
 
 # CHẤN THƯƠNG LÁCH
 Dương Bá Lập, Trần Hồ
@@ -2475,7 +2500,6 @@ Trong tình huống chấn thương bụng nói chung, lách là một trong nh�
 
 2. GIẢI PHẪU LÁCH
 Lách ở người trưởng thành nặng khoảng 150 g (80-300 g). Lách bắt đầu phát triển từ tế bào trung mô trong mạc treo lưng ở đoạn dạ dày trong tuần lễ thứ 5 phôi thai và nằm cố định phía trên cùng bên trái ổ bụng. Mặt trên của lách phủ bởi cơ hoành, tách khỏi màng phổi. Các tạng liên quan với lách gồm: bờ cong lớn dạ dày, đại tràng góc lách, cực trên thận trái, đuôi tụy. Lách được bảo vệ bởi xương sườn 9, 10, 11 và được treo tại vị trí bởi các dây chằng: hoành lách, lách dạ dày, lách thận, lách đại tràng.
-
 Lách được cấp máu bởi động mạch lách, bó mạch vị ngắn và động mạch vị mạc nối trái. Động mạch lách là một nhánh của động mạch thân tạng, cấp máu chủ yếu cho lách, khá ngoằn ngoèo, phân nhánh đa dạng. Có 3-5 mạch máu vị ngắn trong dây chằng vị lách và thường thông nối với nhánh cực trên của động mạch lách. Tương tự, có sự thông nối giữa nhánh cực dưới lách với bó mạch vị mạc nối trái.
 
 Năm 1942, Michels chia động mạch lách ra thành 2 dạng chính: dạng phân nhánh (distributed) và dạng thân chính (magistral).
@@ -2498,66 +2522,85 @@ Năm 1942, Michels chia động mạch lách ra thành 2 dạng chính: dạng p
 
 Động mạch lách còn có nhánh tụy rất đáng lưu ý. Tắc nhánh này, thường gặp sau thuyên tắc phía gần động mạch lách, có thể dẫn đến viêm tụy cấp.
 
-[Hình: A. Hình 2. Động mạch lách dạng phân nhánh. (Nguồn: The spleen, Maingot's Abdominal Operations, 13th Edition). Các nhãn: ĐM vị ngắn, ĐM cực trên, ĐM tận dưới, ĐM chủ, ĐM vị trái, ĐM gan chung, ĐM tụy lưng, Nhánh nối ngang, Nhánh áp cuối, Nhánh cuối, ĐM tận trên, ĐM cực dưới, ĐM vị mạc nối trái]
+[Hình: Hình 2. Động mạch lách dạng phân nhánh. (Nguồn: The spleen, Maingot's Abdominal Operations, 13th Edition).]
+- ĐM vị ngắn
+- Nhánh nối ngang
+- ĐM cực trên
+- Nhánh áp cuối
+- ĐM tận dưới
+- Nhánh cuối
+- ĐM chủ
+- ĐM tận trên
+- ĐM vị trái
+- Nhánh nối ngang
+- ĐM gan chung
+- ĐM cực dưới
+- ĐM vị mạc nối trái
+- ĐM tụy lưng
 
-[Hình: B. Hình 3. Động mạch lách dạng thân chính hay dạng bó. (Nguồn The spleen, Maingot's Abdominal Operations, 13th Edition). Các nhãn: ĐM vị ngắn, ĐM cực trên, ĐM tận trên, ĐM cực dưới, ĐM tận dưới, Nhánh cuối]
+[Hình: Hình 3. Động mạch lách dạng thân chính hay dạng bó. (Nguồn The spleen, Maingot's Abdominal Operations, 13th Edition).]
+- ĐM vị ngắn
+- ĐM cực trên
+- Nhánh cuối
+- ĐM tận trên
+- ĐM tận dưới
+- ĐM cực dưới
 
 Dẫn lưu tĩnh mạch của lách chủ yếu là tĩnh mạch lách. Tĩnh mạch lách nhận máu chủ yếu từ tĩnh mạch mạc treo tràng dưới, sau đó hợp lưu tĩnh mạch mạc treo tràng trên thành tĩnh mạch cửa. Các tĩnh mạch thường nằm sau động mạch, ngoại trừ tại rốn lách. Có nhiều biến thể giải phẫu về mối liên quan vị trí giữa động mạch và tĩnh mạch lách.
 
-Năm 1982, thông qua nghiên cứu thực nghiệm, tác giả Nguyễn Hữu một lần nữa xác định sự phân chia thùy trong lách theo dạng xếp chồng đĩa ("pile of plates") và ngăn cách giữa các thùy, tiểu thùy là vùng vô mạch (Hình 4a, 4b). Như vậy, đường vỡ nhu mô lách ngay ranh giới giữa các thùy sẽ ít chảy máu hơn vị trí khác. Nghiên cứu này được xem như cơ sở cho các phẫu thuật viên trên toàn thế giới áp dụng kỹ thuật bảo tồn lách và cắt lách bán phần.
+Năm 1982, thông qua nghiên cứu thực nghiệm, tác giả Nguyễn Hữu một lần nữa xác định sự phân chia thùy trong lách theo dạng xếp chồng đĩa (“pile of plates”) và ngăn cách giữa các thùy, tiểu thùy là vùng vô mạch (Hình 4a, 4b). Như vậy, đường vỡ nhu mô lách ngay ranh giới giữa các thùy sẽ ít chảy máu hơn vị trí khác. Nghiên cứu này được xem như cơ sở cho các phẫu thuật viên trên toàn thế giới áp dụng kỹ thuật bảo tồn lách và cắt lách bán phần.
 
-[Hình: Hình 4a. Lách người sau tiêm lipiodol cho thấy rõ ranh giới vỏ mạch giữa các thùy.
-Nguồn: Nguyễn Hữu, 1982 [11].]
+123
 
-[Hình: Hình 4b. Các nhánh động mạch xuyên và các thùy lách dạng "pile of plates".
-Nguồn: Nguyễn Hữu, 1982 [11].]
+[Hình: Hình 4a. Lách người sau tiêm lipiodol cho thấy rõ ranh giới vô mạch giữa các thùy. Nguồn: Nguyễn Hữu, 1982 [11]]
 
-## 3. SINH LÝ LÁCH
+[Hình: Hình 4b. Các nhánh động mạch xuyên và các thùy lách dạng "pile of plates". Nguồn: Nguyễn Hữu, 1982 [11]]
 
-Trong quá trình phát triển bào thai, lách có chức năng tạo máu quan trọng là sản xuất hồng cầu và bạch cầu. Đến tháng thứ 5 thai kỳ, chức năng này được tùy ra sản... [không rõ]
-đảm nhiệm. Ngoài ra, hệ thống mạch máu trong lách có chức năng bảo vệ và làm sạch (cleaning). Khả năng lọc cơ học của lách liên quan trực tiếp đến nhiễm khuẩn bằng cách loại bỏ tác nhân gây bệnh trong tế bào (ví dụ: sốt rét...) hay trong huyết tương. Sự lọc cơ học này rất quan trọng để loại bỏ các vi sinh vật trong kỳ chủ không có kháng thể đặc hiệu.
+3. SINH LÝ LÁCH
+
+Trong quá trình phát triển bào thai, lách có chức năng tạo máu quan trọng là sản xuất hồng cầu và bạch cầu. Đến tháng thứ 5 thai kỳ, chức năng này được tủy xương đảm nhiệm. Ngoài ra, hệ thống mạch máu đặc biệt trong lách liên quan trực tiếp đến chức năng bảo vệ và làm sạch (cleaning). Khả năng lọc cơ học của lách có thể kiểm soát nhiễm khuẩn bằng cách loại bỏ tác nhân gây bệnh trong tế bào (ví dụ: sốt rét...) hay trong huyết tương. Sự lọc cơ học này rất quan trọng để loại bỏ các vi sinh vật trong ký chủ không có kháng thể đặc hiệu.
 
 Bệnh nhân sau cắt lách có nguy cơ nhiễm khuẩn tăng lên so với người không cắt lách. Điều này cho thấy lách có chức năng miễn dịch. Di chứng nghiêm trọng nhất là nhiễm khuẩn nặng sau cắt lách (OPSI: overwhelming postsplenectomy Infection) như viêm màng não, viêm phổi hay nhiễm khuẩn huyết. Các nghiên cứu trước đây cho thấy nguy cơ mắc OPSI là cao nhất trong 2 năm đầu sau cắt lách nhưng những nghiên cứu gần đây xác nhận rằng nguy cơ OPSI vẫn có thể xảy ra cả cuộc đời. Một phần ba các trường hợp xảy ra hơn 5 năm sau mổ, với tỷ lệ mắc 3,2 - 3,5%. Tỷ lệ tử vong khi bị OPSI là 40 - 50%. Nguy cơ cao nhất ở những bệnh nhân thalassemia nặng và hồng cầu hình liềm.
 
-Tác nhân gây OPSI điển hình là các vi khuẩn có lớp vỏ ngoài là polysaccharide như Streptococcus pneumoniae, Neisseria meningitidis và Haemophilus influenzae. Các vi khuẩn này hay những sinh vật khác được định, sau đó được thực bào tại các đại thực bào. Tiếp tục kết dính nhưng không có hiện tượng thực bào.
+Tác nhân gây OPSI điển hình là các vi khuẩn có lớp vỏ ngoài là polysaccharide như Streptococcus pneumoniae, Neisseria meningitidis và Haemophilus influenzae. Các vi khuẩn này hay những sinh vật khác được kháng thể trên các bổ thể nhận biết và bắt dính, sau đó được thực bào tại các đại thực bào ở lách. Sau khi cắt lách, các kháng thể tiếp tục kết dính nhưng không có hiện tượng thực bào.
 
 Yếu tố khác liên quan đến đáp ứng miễn dịch là các opsonin như properdin và tuftsin được lách sản xuất. Các chất này giảm rõ trong máu sau cắt lách. Properdin, một globulin, được biết như yếu tố P, khởi động quá trình hoạt hóa bổ thể, làm tăng sự tiêu diệt vi khuẩn, vật lạ, hay các tế bào bất thường. Tuftsin làm tăng hoạt động thực bào của bạch cầu đa nhân và các thực bào đơn nhân.
 
-## 4. NGUYÊN NHÂN VÀ CƠ CHẾ BỆNH SINH
+4. NGUYÊN NHÂN VÀ CƠ CHẾ BỆNH SINH
 
 Vỡ lách là sự gián đoạn nhu mô lách hay bao lách. Nguyên nhân có thể là vỡ tự phát, do thầy thuốc, hay sau chấn thương.
 
 Nguyên nhân gây vỡ lách nhiều nhất là do chấn thương cơ học, có thể là chấn thương kín hay vết thương thấu bụng. Quỹ đạo của vết thương xuyên thấu có thể đi qua thành bụng trước, sau, cạnh sườn, hay qua thành ngực, xuyên qua khoang màng phổi, cơ hoành. Có thể chỉ gây tổn thương lách nhưng cũng có thể làm tổn thương các cơ quan xung quanh như: dạ dày, thận trái, tuyến thượng thận trái, đại tràng, tụy và rễ mạc treo. Vỡ lách sau chấn thương kín có thể do va đập trực tiếp vào vùng bụng 1/4 trên trái hay cơ chế hãm lại đột ngột (té từ trên cao, thắng xe gấp...) làm xé rách bao lách hay nhu mô lách tại vị trí bám dây chằng cố định lách.
 
-**Vỡ lách 2 thì:**
+Vỡ lách 2 thì:
 
 Sau chấn thương lách, có sự hình thành khối máu tụ trong nhu mô hay dưới bao lách, đồng thời không còn chảy máu tiếp diễn nhờ quá trình tạo cục máu đông. Sau chấn thương người bệnh quay trở lại vì đau bụng tăng trở lại, có dấu hiệu mất máu, chẩn đoán hình ảnh phát hiện khối máu tụ vỡ gây chảy máu vào ổ bụng (Hình 5). Bệnh cảnh này được gọi là vỡ lách 2 thì. Yếu tố khởi phát vỡ lách thì 2 là đụng chạm mạnh vùng bụng, vận động mạnh, đi xe trên đoạn đường giằng sốc. Thời điểm vỡ thì 2 trung bình là 25 ngày (7 ngày đến 90 ngày).
 
 [Hình: cắt lớp vi tính ngày thứ 20 sau chấn thương của một bệnh nhân vỡ lách thì 2.]
 
-## 5. BỆNH SỬ VÀ KHÁM LÂM SÀNG
+5. BỆNH SỬ VÀ KHÁM LÂM SÀNG
 
 Bệnh sử chấn thương vào vùng 1/4 bụng trên trái sẽ tăng khả năng tổn thương lách. Tuy nhiên, một bệnh sử không rõ ràng cũng không loại trừ nguy cơ này. Một vật xuyên thấu có thể gây tổn thương lách dù đường vào vết thương không gần lách.
 
 Bệnh nhân than phiền đau bụng trên trái, đau ngực trái hay đau vai trái (dấu hiệu Kehr). Dấu hiệu Kehr là kiểu đau quy chiếu, bệnh nhân cảm giác đau lên vai trái, đau tăng khi hít vào, nguyên nhân là do tụ máu ở sát cơ hoành trái gây kích thích thần kinh hoành.
 
-Bụng ấn đau và có các dấu hiệu kích thích phúc mạc cho thấy có tổn thương trong bụng. Tuy nhiên, không nhạy cũng như không đặc hiệu đối với tổn thương lách. Những triệu chứng thực thể liên quan đến chấn thương lách gồm: Bầm máu hay tụ máu thành bụng (dấu hiệu dây an toàn – seat belt sign), ấn đau $\frac{1}{4}$ bụng trên trái hay lan toàn bụng, đau vùng thấp ở thành ngực trái, ngực trái bầm máu, hay không ổn định (instability) do gãy xương sườn. Tuy nhiên, khám thực thể không rõ cũng không loại trừ được chấn thương lách.
+Bụng ấn đau và có các dấu hiệu kích thích phúc mạc cho thấy có tổn thương trong bụng. Tuy nhiên, không nhạy cũng như không đặc hiệu đối với tổn thương. Những triệu chứng thực thể liên quan đến chấn thương lách gồm: Bầm máu hay tụ thành bụng (dấu hiệu dây an toàn - seat belt sign), ấn đau ¼ bụng trên trái hay lan toàn bụng, đau vùng thấp ở thành ngực trái, ngực trái bầm máu, hay không ổn định (instability) do gãy xương sườn. Tuy nhiên, khám thực thể không rõ cũng không loại trừ được chấn thương lách.
 
-Trong hoàn cảnh đa chấn thương, nhiều bệnh nhân có thay đổi tri giác (ví dụ: chấn thương thần kinh, nhiễm độc) hay đã được đặt nội khí quản, dùng thuốc an thần nên không thuật lại triệu chứng hay kể lại bệnh sử được. Cần xác định tiền sử bệnh lý của bệnh nhân bằng cách khai thác từ thân nhân hay từ cơ sở y tế chăm sóc ban đầu. Phát hiện những bệnh nhân có bệnh lý đi kèm phải dùng thuốc kháng đông hay thuốc chống kết tập tiểu cầu là rất quan trọng vì nó ảnh hưởng đến quyết định điều trị. Ngoài ra, tiền căn dùng các thuốc thảo dược (bạch quả, cây cọ, dầu cá) cũng rất cần thiết vì chúng có chất chống đông máu.
+Trong hoàn cảnh đa chấn thương, nhiều bệnh nhân có thay đổi tri giác (ví dụ: do chấn thương thần kinh, nhiễm độc) hay đã được đặt nội khí quản, dùng thuốc an thần nên không thể thuật lại triệu chứng hay kể lại bệnh sử được. Cần xác định tiền sử bệnh lý của bệnh nhân bằng cách khai thác từ thân nhân hay từ cơ sở y tế chăm sóc ban đầu. Phát hiện những bệnh nhân có bệnh lý đi kèm phải dùng thuốc kháng đông hay thuốc chống kết tập tiểu cầu là rất quan trọng vì nó ảnh hưởng đến quyết định điều trị. Ngoài ra, tiền căn dùng các thuốc thảo dược (bạch quả, cây cọ, dầu cá) cũng rất cần thiết vì chúng có chất chống đông máu.
 
 Tổn thương đi kèm với chấn thương bụng có thể là gãy xương sườn, gãy khung chậu, tổn thương cột sống. Tổn thương tạng rỗng xảy ra trong 3% bệnh nhân chấn thương lách. Mặc dù gãy xương sườn làm tăng khả năng chấn thương lách, nhưng không có sự liên quan giữa độ nặng của chấn thương lách và số lượng xương sườn gãy.
 
 Những tổn thương liên quan với vết thương xuyên thấu tùy thuộc loại dụng cụ hay vật được phóng ra và đường đi của nó. Các tạng kế cận bị tổn thương đi kèm gồm: tim, thực quản, động mạch chủ, dạ dày, cơ hoành, tụy, ruột non, thận trái.
 
-## 6. CHẨN ĐOÁN
+# 6. CHẨN ĐOÁN
 
-### 6.1. Siêu âm có trọng điểm
+## 6.1. Siêu âm có trọng điểm
 
 Được sử dụng thường quy để đánh giá bệnh nhân chấn thương bụng, FAST (focused assessment with sonography in trauma, FAST) có lợi thế là có thể thực hiện ở bệnh nhân sinh hiệu không ổn định, thực hiện tại giường, khảo sát nhiều lần nếu cần thiết. Tuy nhiên, FAST không thấy tổn thương không đủ để loại trừ chấn thương lách, đặc biệt là các tổn thương trong nhu mô. Chọc dò hay chọc rửa ổ bụng ít sử dụng để chẩn đoán, và phần lớn được thay thế bằng FAST tại đa số các trung tâm chuyên về chấn thương. Các dấu hiệu gợi ý tổn thương lách khi khảo sát FAST bao gồm: Vệt giảm âm (hypoechic rim) quanh lách, có dịch dưới bao lách hay dịch ổ bụng quanh lách, hay dịch ở rãnh Morrison.
 
-### 6.2. Chụp cắt lớp vi tính
+## 6.2. Chụp cắt lớp vi tính
 
-Chụp CLVT không tiêm thuốc cản quang: có độ nhạy thấp với các tổn thương nhu mô và không xác định được có chảy máu hoạt động (ví dụ : contrast blush, dấu thoắt mạch hoạt động) hay không.
+Chụp CLVT không tiêm thuốc cản quang: có độ nhạy thấp với các tổn thương nhu mô và không xác định được có chảy máu hoạt động (ví dụ: contrast blush, dấu thoát mạch hoạt động) hay không.
 
 Chụp CLVT có tiêm thuốc cản quang là khảo sát hình ảnh chính để chẩn đoán và mô tả rõ mức độ chấn thương lách đối với bệnh nhân có huyết động ổn định. Tuy nhiên, cần cân nhắc giữa lợi ích và tác hại của chụp CLVT vì nguy cơ suy thận do thuốc cản quang, nhất là ở bệnh nhân lớn tuổi. Chụp thì tĩnh mạch cửa cho hình ảnh đặc trưng thấy rõ nhất tổn thương nhu mô và vẫn có thể thấy tổn thương mạch máu lách. Các hình ảnh cho thấy có tổn thương lách:
 
@@ -2565,86 +2608,63 @@ Chụp CLVT có tiêm thuốc cản quang là khảo sát hình ảnh chính đ�
 - Nhiều vùng giảm đậm độ cho thấy có dập vỡ nhu mô, tụ máu trong nhu mô hay tụ máu dưới bao.
 - Dấu thoát mạch: là vùng tăng đậm độ trong nhu mô, biểu hiện chấn thương vỡ hay giả phình mạch lách. Dấu thoát mạch hoạt động cho thấy chảy máu tiếp diễn và cần can thiệp khẩn.
 
-## 6.3. Công thức máu
+6.3. Công thức máu
 
 Giảm Hemoglobin và giảm dung tích hồng cầu, tăng bạch cầu. Rối loạn khí máu có thể là toan hay kiềm chuyển hóa tùy thuộc vào thời gian chảy máu và số lượng máu chảy.
 
-## 6.4. X quang bụng không sửa soạn
+6.4. X quang bụng không sửa soạn
 
 Ít có giá trị, không đặc hiệu.
-
 Có thể phát hiện: gãy xương sườn, bóng hơi dạ dày bị đẩy vào trong, vòm hoành lên cao, bóng lách lớn.
 
-## 6.5. Chụp cộng hưởng từ và siêu âm theo tạng
+6.5. Chụp cộng hưởng từ và siêu âm theo tạng
 
 Tốn nhiều thời gian thực hiện và có thể phải di chuyển bệnh nhân vào khu vực xa nơi sẵn sàng tiếp cận và can thiệp. Tuy nhiên, cộng hưởng từ (CHT) có thể áp dụng ở nhóm bệnh nhân có sinh hiệu ổn định mà vùng lách tổn thương chưa xác định được trên CLVT hay những bệnh nhân không chụp CLVT được (vd, dị ứng thuốc cản quang).
 
-# 7. PHÂN ĐỘ CHẤN THƯƠNG LÁCH
+7. PHÂN ĐỘ CHẤN THƯƠNG LÁCH
 
 Hội Ngoại khoa Chấn thương Hoa Kỳ (AAST) đưa ra phân loại mức độ tổn thương lách dựa trên hình ảnh CLVT xác định tổn thương giải phẫu hay xác định mức độ trong lúc mổ. Loại thương tổn và mức độ tụ máu trong phúc mạc trên CLVT liên quan đến khả năng điều trị bảo tồn thành công nhưng không chắc chắn khi dự đoán cần can thiệp mổ ngay từ đầu. Phân loại này được cải biên năm 2018 và được sử dụng rộng rãi hiện nay. Theo AAST, có 5 độ tổn thương lách
 
 7.1. Độ 1
-
 - Tụ máu dưới bao lách < 10% bề mặt
 - Rách sâu nhu mô < 1 cm
 - Xé bao lách
 
-[Hình: 
-- Laceration < 1 cm
-- Subcapsular hematoma < 10% of surface area
-- Grade I
-- Ba hình ảnh CT scan bụng
-]
+[Hình: Laceration < 1 cm, Subcapsular hematoma < 10% of surface area, Grade I]
+
+[Hình: Các ảnh chụp cắt lớp vi tính vùng bụng]
 
 7.2. Độ 2
-
 - Tụ máu dưới bao lách 10-50% bề mặt
 - Rách trong nhu mô < 5 cm
 - Rách sâu nhu mô 1-3 cm
 
-[Hình: 
-- Laceration 1-3 cm
-- Subcapsular hematoma 10-50% of surface area
-- Grade II
-- Hai hình ảnh CT scan bụng
-]
+[Hình: Laceration 1-3 cm, Subcapsular hematoma 10-50% of surface area, Grade II]
 
-[Hình: Hai ảnh cắt lớp vi tính (CT scan) ổ bụng có cản quang, khoanh tròn tổn thương ở lách]
+[Hình: Ảnh chụp cắt lớp vi tính vùng bụng]
 
-## 7.3. Độ 3
+7.3. Độ 3
 
 - Tụ máu dưới bao > 50% bề mặt
-- Vỡ dưới bao hay tụ máu trong nhu mô $\ge$ 5 cm
+- Vỡ dưới bao hay tụ máu trong nhu mô ≥ 5 cm
 - Rách sâu nhu mô > 3 cm
 
-[Hình: Sơ đồ giải phẫu tổn thương lách độ 3]
-- Laceration > 3 cm
-- Subcapsular hematoma > 50% of surface area
-- Ruptured subcapsular or parenchymal hematoma
-- Grade III
+[Hình: Laceration > 3 cm; Subcapsular hematoma > 50% of surface area; Ruptured subcapsular or parenchymal hematoma; Grade III]
 
-[Hình: Hai ảnh cắt lớp vi tính và một ảnh đại thể lách tổn thương]
-
-## 7.4. Độ 4
+7.4. Độ 4
 
 - Bất cứ thương tổn gây tổn thương mạch máu lách hay chảy máu hoạt động trong bao lách.
 - Rách nhu mô liên quan mạch máu thùy hay rốn lách, phá hủy > 25% phân bố mạch máu.
 
-[Hình: Segmental or hilar vascular injury, Devascularization > 25% of spleen]
-
-[Hình: Các lát cắt chụp cắt lớp vi tính (CT scan) vùng bụng hiển thị tổn thương lách]
+[Hình: Hình vẽ giải phẫu lách bị tổn thương mạch máu rốn lách và mất tưới máu > 25% lách; Hình ảnh CT lách bị tổn thương]
 
 7.5. Độ 5
-
 - Vỡ nát lách
 - Tổn thương mạch máu lách với chảy máu hoạt động lan rộng khỏi lách vào trong phúc mạc
 
-[Hình: Shattered spleen, Hilar injury]
-
-[Hình: Các lát cắt chụp cắt lớp vi tính (CT scan) và hình ảnh đại thể lách tổn thương]
+[Hình: Hình vẽ giải phẫu lách bị vỡ nát (Shattered spleen) và tổn thương rốn lách (Hilar injury); Hình ảnh CT lách bị vỡ nát; Hình ảnh CT lách bị tổn thương mạch máu; Hình ảnh đại thể lách bị vỡ nát]
 
 Tổn thương mạch máu (túi giả phình hay rò động-tĩnh mạch): xuất hiện khi một ổ cản quang trong mạch máu (a focal collection of vascular contrast) giảm xuống trong phim ở thì muộn.
-
 Chảy máu hoạt động: ổ cản quang điểm hay lan tỏa tăng kích thước hay giảm đi ở thì muộn.
 
 Phân loại AAST khi phẫu thuật không phải lúc nào cũng phù hợp với phân loại trên hình ảnh học do kỹ thuật và nhiều loại chụp CLVT. Hệ thống CLVT cải tiến phân độ tốt hơn và có thể can thiệp tắc mạch cho các bệnh nhân này.
@@ -2748,11 +2768,12 @@ BN chấn thương bụng có huyết động không ổn, BN không phù hợp 
           - Có --> Tắc mạch hiệu quả --> Lâm sàng, huyết động ổn, không có chỉ định khác để mở bụng
           - Có --> Tắc mạch không hiệu quả --> Mở bụng ± cắt lách / bảo tồn lách
   - Huyết động không ổn hay những đáp ứng thoáng qua
-    - Siêu âm (FAST) (+)
-      - Tổn thương nặng (Độ I-V) --> Mở bụng ± cắt lách / bảo tồn lách
+    - Siêu âm (FAST) (+) --> Tổn thương nặng (Độ I-V) --> Mở bụng ± cắt lách / bảo tồn lách
+      - Mở bụng ± cắt lách / bảo tồn lách
         - Không --> Tiếp tục điều trị không mổ
-        - Có --> Mở bụng ± cắt lách / bảo tồn lách
-  - Cân nhắc chụp mạch máu nếu điểm mạch (+) hay túi giả phình sớm --> Không --> Ưu tiên tắc mạch --> Đánh giá hàng loạt về lâm sàng / xét nghiệm / hình ảnh. Cân nhắc chụp mạch máu lại khi có chỉ định
+        - Có --> Tiếp tục điều trị không mổ
+
+135
 
 TÀI LIỆU THAM KHẢO
 
@@ -2890,64 +2911,58 @@ Theo Hội Thực quản Nhật Bản (Japan Esophageal Society, JES), ung thư 
 
 [Hình: Hình ảnh đại thể của ung thư thực quản theo Hội Thực quản Nhật.]
 
-[Hình: Type 1: dạng lồi]
-[Hình: Type 2: dạng loét khu trú]
-[Hình: Type 3: dạng loét thâm nhiễm]
-[Hình: Type 4: dạng thâm nhiễm lan tỏa]
-[Hình: Type 0-I: dạng nông, lồi]
-[Hình: Type 0-IIa: hơi cao lên nhẹ]
-[Hình: Type 0-IIb: phẳng]
-[Hình: Type 0-IIc: hơi lõm xuống nhẹ]
-[Hình: Type 0-III: dạng nông, lõm]
+[Hình: Các nhãn trong hình]
+- Type 1: dạng lồi
+- Type 2: dạng loét khu trú
+- Type 3: dạng loét thâm nhiễm
+- Type 4: dạng thâm nhiễm lan tỏa
+- Type 0-I: dạng nông, lồi
+- Type 0-IIa: hơi cao lên nhẹ
+- Type 0-IIb: phẳng
+- Type 0-IIc: hơi lõm xuống nhẹ
+- Type 0-II: dạng nông, phẳng
+- Type 0-III: dạng nông, lõm
+- Type 0: dạng nông
 
 Khi ung thư thực quản có đại thể là nhiều típ phối hợp, típ nào xâm lấn sâu hơn được xem là típ chính.
 
 Ung thư thực quản dạng nông (típ 0) lại được chia thành các típ 0-:
 
 - Típ 0-I: dạng nông, lồi
-  + Típ 0-Ip: có cuống
-  + Típ 0-Is: không có cuống (phẳng)
+    + Típ 0-Ip: có cuống
+    + Típ 0-Is: không có cuống (phẳng)
 - Típ 0-II: dạng nông, phẳng
-  + Típ 0-IIa: hơi cao lên nhẹ
-  + Típ 0-IIb: phẳng
-  + Típ 0-IIa: hơi lõm xuống nhẹ
+    + Típ 0-IIa: hơi cao lên nhẹ
+    + Típ 0-IIb: phẳng
+    + Típ 0-IIa: hơi lõm xuống nhẹ
 - Típ 0-III: dạng nông, lõm
 
 Nhiều ung thư thực quản típ 0 có đại thể là sự kết hợp của nhiều típ 0-. Đối với các dạng kết hợp này, típ 0- nào có diện tích lớn hơn sẽ được ưu tiên mô tả trước, ví dụ: 0-IIc + 0-Is,...
 
-## 3.3. Vi thể
+3.3. Vi thể
 
 Chủ yếu là ung thư biểu mô (carcinoma) gồm: ung thư tế bào gai (squamous cell carcinoma) và ung thư biểu mô tuyến (adenocarcinoma), chiếm 95% các trường hợp ung thư thực quản. Ở các nước thu nhập thấp (trong đó có Việt Nam), ung thư tế bào gai chiếm hơn 90%. Ngược lại, ở các nước có thu nhập cao, ung thư biểu mô tuyến thường gặp hơn.
 
 Hiếm gặp hơn: ung thư tế bào nhỏ, lymphoma, sarcoma, và u di căn từ nơi khác.
 
-# 4. TRIỆU CHỨNG LÂM SÀNG
+4. TRIỆU CHỨNG LÂM SÀNG
 
 Ung thư thực quản thường không có triệu chứng lâm sàng cho đến khi bệnh ở giai đoạn trễ.
 
 4.1. Triệu chứng cơ năng
-
-Bao gồm: nuốt khó tăng dần (từ thức ăn đặc đến lỏng dần), nuốt đau, khó tiêu 55 tuổi, sụt cân trên 10% trong vòng 6 tháng, đau sau xương ức, nấc cụt (gợi ý kích xuyên thành ảnh hưởng trung thất và cơ hoành).
-
+Bao gồm: nuốt khó tăng dần (từ thức ăn đặc đến lỏng dần), nuốt đau, khó tiêu 55 tuổi, sụt cân trên 10% trong vòng 6 tháng, đau sau xương ức, nấc cụt (gợi ý khối u xuyên thành ảnh hưởng trung thất và cơ hoành).
 Bệnh nhân thường đến gặp thầy thuốc sau vài tháng xuất hiện triệu chứng.
-
-Triệu chứng nuốt đau hoặc khó nuốt thường khởi phát đầu tiên với thức ăn đặc hoặc bánh mì.
-
+Triệu chứng nuốt đau hoặc khó nuốt thường khởi phát đầu tiên với thức ăn hoặc bánh mì.
 Đau ngực hoặc đau lưng khi nuốt có thể là triệu chứng sau cùng.
 
 4.2. Tiền sử
-
 Bệnh nhân có thể có những yếu tố nguy cơ như:
-
 - Ung thư đầu mặt cổ.
 - Hút thuốc lá và uống rượu.
 
 4.3. Triệu chứng thực thể
-
 Suy kiệt: nên đánh giá tình trạng dinh dưỡng trước mổ để nhận biết hoặc loại trừ tình trạng suy dinh dưỡng.
-
 Các dấu hiệu cho thấy bệnh ở giai đoạn tiến triển:
-
 - Hội chứng Horner một bên: co đồng tử, sụp mi, không đổ mồ hôi ở 1 bên mặt và cổ.
 - Hạch thượng đòn.
 - Khàn tiếng.
@@ -2956,63 +2971,68 @@ Các dấu hiệu cho thấy bệnh ở giai đoạn tiến triển:
 - Khám tứ chi: dấu hiệu to đầu chi là dấu hiệu thường xuất hiện trễ.
 
 5. CẬN LÂM SÀNG
-
 5.1. Nội soi thực quản dạ dày kết hợp với sinh thiết
-
 Giúp chẩn đoán xác định ung thư thực quản.
-
 Trong một số trường hợp u khó đánh giá bằng ánh sáng trắng qua nội soi, quan sát dưới ánh sáng có băng tần hẹp (narrow band imaging, NBI) tỏ ra nhạy và đặc hiệu hơn trong phân biệt tổn thương tăng sinh (neoplasm) và không tăng sinh; do đó phương pháp này chính xác hơn trong phát hiện các tổn thương ung thư bề mặt so với sử dụng ánh sáng trắng.
 
-5.2. Các phương tiện chẩn đoán hình ảnh [§§]
-5.2.1. X quang thực quản cản quang [§§]
-Việc ra đời của các phương tiện chẩn đoán mới khiến X quang thực quản cản quang chỉ còn vai trò hỗ trợ trong chẩn đoán ung thư thực quản. Phương pháp này có ích trong việc xác định vị trí và chiều dài u, do đó cần thiết khi xạ trị. [§§]
-Hình ảnh ung thư thực quản trên phim X quang thực quản cản quang gồm: hẹp lòng với niêm mạc không đều và giãn thực quản trên chỗ hẹp. Các dấu hiệu gợi ý ung thư giai đoạn tiến triển: xoắn vặn, gập góc, lệch trục khối u, lệch trục khỏi đường giữa, rò vào cây khí phế quản. [§§]
+5.2. Các phương tiện chẩn đoán hình ảnh
 
-[Hình: Trục xoắn vặn, Trục gập góc, Trục trên và dưới u lệch nhau, Trục khối u lệch, Lệch bất thường khỏi đường giữa, Lệch trục]
-Hình 3. Dấu hiệu X quang thực quản cản quang cho biết ung thư thực quản đã xâm lấn cơ quan lân cận theo H. Akiyama. [§§]
+5.2.1. X quang thực quản cản quang
 
-5.2.2. Chụp cắt lớp vi tính có cản quang [§§]
-Được khuyến cáo sử dụng để đánh giá giai đoạn ung thư thực quản nhằm đưa ra quyết định về khả năng phẫu thuật. [§§]
-Hình ảnh chung: [§§]
-- Thành thực quản bình thường dày <3 mm trên hình ảnh chụp cắt lớp vi tính (CLVT) với tình trạng thực quản căng. Bất cứ vị trí nào có độ dày >5 mm thì được xem là bất thường. Thành thực quản dày thường là dấu hiệu đầu tiên nhưng không đặc hiệu. [§§]
-- Hẹp lòng thực quản không đều, kèm phá hủy lớp niêm mạc [§§]
+Việc ra đời của các phương tiện chẩn đoán mới khiến X quang thực quản cản quang chỉ còn vai trò hỗ trợ trong chẩn đoán ung thư thực quản. Phương pháp này có ích trong việc xác định vị trí và chiều dài u, do đó cần thiết khi xạ trị.
 
-[Hình: Hình dày thành thực quản trong ung thư thực quản (dấu *).]
+Hình ảnh ung thư thực quản trên phim X quang thực quản cản quang gồm: hẹp lòng với niêm mạc không đều và dãn thực quản trên chỗ hẹp. Các dấu hiệu gợi ý ung thư giai đoạn tiến triển: xoắn vặn, gập góc, lệch trục khối u, lệch trục khỏi đường giữa, rò vào cây khí phế quản.
 
-**Hình 4.** Hình dày thành thực quản trong ung thư thực quản (dấu *).
+[Hình: Dấu hiệu X quang thực quản cản quang cho biết ung thư thực quản đã xâm lấn cơ quan lân cận theo H. Akiyama.
+- Trục xoắn vặn
+- Trục gập góc
+- Trục trên và dưới u lệch nhau
+- Trục khối u lệch
+- Lệch bất thường khỏi đường giữa
+- Lệch trục]
+
+5.2.2. Chụp cắt lớp vi tính có cản quang
+
+Được khuyến cáo sử dụng để đánh giá giai đoạn ung thư thực quản nhằm đưa ra quyết định về khả năng phẫu thuật.
+
+Hình ảnh chung:
+
+- Thành thực quản bình thường dày <3 mm trên hình ảnh chụp cắt lớp vi tính (CLVT) với tình trạng thực quản căng. Bất cứ vị trí nào có độ dày >5 mm thì được xem là bất thường. Thành thực quản dày thường là dấu hiệu đầu tiên nhưng không đặc hiệu.
+
+- Hẹp lòng thực quản không đều, kèm phá hủy lớp niêm mạc
+
+[Hình: Hình 4. Hình dày thành thực quản trong ung thư thực quản (dấu *).]
 
 Hình ảnh của ung thư thực quản xâm lấn tại chỗ:
 - Mất lớp mỡ giữa thực quản và các cấu trúc trong trung thất.
 - Đẩy lệch hay ấn lõm các cấu trúc trong trung thất.
-- Hình ảnh vùng tiếp xúc giữa thực quản và động mạch chủ $> 90^\circ$ (1/4 khẩu kính) giúp chẩn đoán u thực quản xâm lấn động mạch chủ.
+- Hình ảnh vùng tiếp xúc giữa thực quản và động mạch chủ > 90° (1/4 khẩu kính) giúp chẩn đoán u thực quản xâm lấn động mạch chủ.
 - Rò khí phế quản hay sự lan rộng của mô u vào trong đường dẫn khí là dấu hiệu xâm lấn vào khí phế quản. Dày thành khí quản cạnh u, di lệch khí phế quản, khối choán chỗ lồi vào trong lòng khí phế quản hay ấn lõm thành sau khí phế quản do u.
 - Xâm lấn màng ngoài tim khi có dấu hiệu dày, tràn dịch màng ngoài tim hay có sự ấn vào tim làm mất lớp mỡ quanh tim.
 
-[Hình: Ung thư thực quản xâm lấn màng ngoài tim (mất lớp mỡ ngăn cách (mũi tên)).]
+[Hình: Hình 5. Ung thư thực quản xâm lấn màng ngoài tim (mất lớp mỡ ngăn cách (mũi tên)).]
 
-**Hình 5.** Ung thư thực quản xâm lấn màng ngoài tim (mất lớp mỡ ngăn cách (mũi tên)).
+[Hình: Hình 6. Hình chụp CLVT của ung thư thực quản ngực giữa cho thấy sự xâm lấn quanh động mạch chủ (vùng xâm lấn chiếm hơn 1/4 chu vi động mạch chủ).]
 
-[Hình: Hình chụp CLVT của ung thư thực quản ngực giữa cho thấy sự xâm lấn quanh động mạch chủ (vùng xâm lấn chiếm hơn 1/4 chu vi động mạch chủ).]
+144
 
-**Hình 6.** Hình chụp CLVT của ung thư thực quản ngực giữa cho thấy sự xâm lấn quanh động mạch chủ (vùng xâm lấn chiếm hơn 1/4 chu vi động mạch chủ).
+Để đánh giá di căn hạch, cần chụp CLVT của cả 3 vùng: cổ, ngực và bụng. Chụp CLVT chủ yếu dựa vào tiêu chuẩn kích thước hạch. Nhìn chung độ nhạy của chụp CLVT trong chẩn đoán di căn hạch có độ nhạy từ 11% đến 77% và độ đặc hiệu từ 71% đến 95%. Hình ảnh của di căn hạch: Hạch ở vùng ngực bụng được xem là bất thường khi kích thước hạch lớn hơn 1 cm. Hạch trên đòn với đường kính trục ngắn >5 mm được xem là bất thường.
 
-Để đánh giá di căn hạch, cần chụp CLVT của cả 3 vùng: cổ, ngực và bụng. Chụp CLVT chủ yếu dựa vào tiêu chuẩn kích thước hạch. Nhìn chung độ nhạy của chụp CLVT trong chẩn đoán di căn hạch có độ nhạy từ 11% đến 77% và độ đặc hiệu từ 71% đến 95%. Hình ảnh của di căn hạch: Hạch ở vùng ngực bụng được xem là bất thường khi kích thước hạch lớn hơn 1 cm. Hạch trên đòn với đường kính trục ngắn > 5 mm được xem là bất thường.
+Chụp CLVT có khả năng chẩn đoán các khối di căn >2 cm với độ nhạy 70% đến 80%, nhưng đối với các khối <1 cm độ nhạy của chụp CLVT chỉ còn khoảng 50%. Hình ảnh của di căn xa: Di căn gan thường là những tổn thương có đậm độ thấp trên phim chưa tiêm thuốc và thấy rõ hơn trên phim tiêm thuốc cản quang thì tĩnh mạch. Phim chụp CLVT có độ nhạy cao trong đánh giá các nốt di căn phổi. Các nốt di căn phổi thường có dạng tròn, bờ trơn láng và không đóng vôi.
 
-Chụp CLVT có khả năng chẩn đoán các khối di căn > 2 cm với độ nhạy 70% đến 80%, nhưng đối với các khối < 1 cm độ nhạy của chụp CLVT chỉ còn khoảng 50%. Hình ảnh của di căn xa: Di căn gan thường là những tổn thương có đậm độ thấp trên phim chưa tiêm thuốc và thấy rõ hơn trên phim tiêm thuốc cản quang thì tĩnh mạch. Phim chụp CLVT có độ nhạy cao trong đánh giá các nốt di căn phổi. Các nốt di căn phổi thường có dạng tròn, bờ trơn láng và không đóng vôi.
-
-## 5.2.3. Siêu âm qua nội soi (EUS)
+5.2.3. Siêu âm qua nội soi (EUS)
 
 Siêu âm qua nội soi là phương pháp chính xác nhất giúp phân biệt mức độ xâm lấn của u với độ tin cậy khoảng 85%. Siêu âm qua nội soi giúp phân biệt được 5 lớp cản âm khác nhau của thành thực quản. Đối với các hạch quanh thực quản, siêu âm qua nội soi cũng có thể đánh giá được (khoảng 3 cm quanh thực quản).
 
-## 5.2.4. Siêu âm cổ
+5.2.4. Siêu âm cổ
 
 Siêu âm cổ giúp đánh giá hạch di căn hạch cổ với độ chính xác lên đến 87,6%.
 
-## 5.2.5. Chụp cộng hưởng từ
+5.2.5. Chụp cộng hưởng từ
 
 Các nghiên cứu hiện tại cho thấy độ nhạy, độ đặc hiệu và giá trị tiên đoán dương của chụp cộng hưởng từ (CHT) không hơn hình ảnh chụp CLVT.
 
-## 5.2.6. Chụp hình cắt lớp phát xạ Positron/Chụp cắt lớp vi tính
+5.2.6. Chụp hình cắt lớp phát xạ Positron/Chụp cắt lớp vi tính
 
 Chụp hình cắt lớp phát xạ Positron/Chụp cắt lớp vi tính (Positron emission tomographic, PET/CT) được sử dụng phối hợp với chụp CLVT và siêu âm qua nội soi để tăng độ chính xác khi đánh giá tổn thương di căn hạch và di căn xa.
 
@@ -3020,23 +3040,21 @@ Chụp hình cắt lớp phát xạ Positron/Chụp cắt lớp vi tính (Positr
 
 Như vậy, việc sử dụng PET/CT thường quy để chẩn đoán giai đoạn ung thư thực quản vẫn chưa được chấp nhận rộng rãi. Phần lớn các tác giả sử dụng PET/CT như một phương tiện hỗ trợ thêm trong trường hợp nghi ngờ nhiều có di căn (dẫn đến phải thay đổi phác đồ điều trị) nhưng các phương tiện khác không thăm dò được.
 
-[Hình: Hình X quang thực quản cản quang và PET/CT của một bệnh nhân ung thư thực quản ngực giữa. Hình trên cùng, dày thành trên chụp CLVT và tăng chuyển hóa 18F-FDG tương ứng trên PET; hình giữa, hình tăng chuyển hóa 18F-FDG của hạch trung thất sau; hình dưới cùng, hình tăng chuyển hóa 18F-FDG của hạch cạnh tâm vị.]
+[Hình: Hình 7. Hình X quang thực quản cản quang và PET/CT của một bệnh nhân ung thư thực quản ngực giữa. Hình trên cùng, dày thành trên chụp CLVT và tăng chuyển hóa 18F-FDG tương ứng trên PET; hình giữa, hình tăng chuyển hóa 18F-FDG của hạch trung thất sau; hình dưới cùng, hình tăng chuyển hóa 18F-FDG của hạch cạnh tâm vị.]
 
-Hình 7. Hình X quang thực quản cản quang và PET/CT của một bệnh nhân ung thư thực quản ngực giữa. Hình trên cùng, dày thành trên chụp CLVT và tăng chuyển hóa 18F-FDG tương ứng trên PET; hình giữa, hình tăng chuyển hóa 18F-FDG của hạch trung thất sau; hình dưới cùng, hình tăng chuyển hóa 18F-FDG của hạch cạnh tâm vị.
-
-### 5.2.7. Nội soi ổ bụng, nội soi phế quản và nội soi lồng ngực
+*5.2.7. Nội soi ổ bụng, nội soi phế quản và nội soi lồng ngực*
 
 Nội soi ổ bụng, nội soi phế quản và nội soi lồng ngực có thể hữu ích trong đánh giá giai đoạn. Ở những bệnh nhân ung thư giai đoạn tiến triển, nội soi ổ bụng hoặc nội soi lồng ngực giúp quan sát trực tiếp các tổn thương di căn gan, di căn phúc mạc hoặc di căn màng phổi, đồng thời đánh giá khả năng cắt được của khối u.
 
 Nội soi phế quản để đánh giá sự xâm lấn của khối u vào phế quản.
 
-### 5.2.8. Xạ hình xương
+*5.2.8. Xạ hình xương*
 
 Nên thực hiện nếu nghi ngờ hình ảnh hủy xương trên phương tiện hình ảnh khác.
 
-## 5.3. Cận lâm sàng khác
+*5.3. Cận lâm sàng khác*
 
-### 5.3.1. Đo chức năng hô hấp
+*5.3.1. Đo chức năng hô hấp*
 
 Nên thực hiện cho các bệnh nhân dự kiến cắt thực quản để đánh giá khả năng bệnh nhân có thể chịu được cuộc phẫu thuật lớn, kéo dài, có xâm lấn vào vùng ngực (cần xẹp phổi chủ động) hay không. Cũng nên nhớ rằng phần lớn bệnh nhân ung thư tế bào gai thực quản có hút thuốc là nên chức năng hô hấp thường giảm.
 
@@ -3058,73 +3076,84 @@ Bảng 1. Định nghĩa TNM của ung thư tế bào gai thực quản theo AJC
 | T0 | Không có bằng chứng của u |
 | Tis | Nghịch sản nặng |
 | T1 | U xâm lấn lớp cận niêm (lamina propria), cơ niêm (muscularis mucosae) hay lớp dưới niêm (submucosa) |
-| T1a | U xâm lấn lớp niêm hay cơ niêm |
+| T1a | U xâm lấn lớp cận niêm hay cơ niêm |
 | T1b | U xâm lấn lớp dưới niêm |
 | T2 | U xâm lấn lớp cơ (muscularis propria) |
 | T3 | U xâm lấn lớp áo ngoài (adventitia) |
 | T4 | U xâm lấn các cấu trúc lân cận |
 | T4a | U xâm lấn màng phổi, màng ngoài tim, tĩnh mạch đơn, cơ hoành hay phúc mạc |
 | T4b | U xâm lấn các cấu trúc lân cận khác không cắt được (động mạch chủ, thân sống, khí phế quản) |
-| N (nodes): hạch vùng | |
+| **N (nodes): hạch vùng** | |
 | NX | Hạch vùng không đánh giá được |
 | N0 | Không có di căn hạch vùng |
 | N1 | Di căn 1-2 hạch vùng |
 | N2 | Di căn 3-6 hạch vùng |
-| N3 | Di căn $\ge 7$ hạch vùng |
-| M (metastasis): di căn xa | |
+| N3 | Di căn ≥7 hạch vùng |
+| **M (metastasis): di căn xa** | |
 | M0 | Không có di căn xa |
 | M1 | Có di căn xa |
 
 6.2. Phân giai đoạn
 
-**Bảng 2.** Phân giai đoạn ung thư tế bào gai thực quản theo AJCC 8
+Bảng 2. Phân giai đoạn ung thư tế bào gai thực quản theo AJCC 8
 
 | T | N | M | Giai đoạn |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Tis | N0 | M0 | 0 |
 | T1 | N0-1 | M0 | I |
 | T2 | N0-1 | M0 | II |
 | T3 | N0 | M0 | III |
-| T3 | N1 | M0 | |
-| T1-T3 | N2 | M0 | |
+| T3 | N1 | M0 | III |
+| T1-T3 | N2 | M0 | III |
 | T4 | N0-N2 | M0 | IVA |
-| Bất kỳ | N3 | M0 | |
+| Bất kỳ | N3 | M0 | IVA |
 | Bất kỳ | Bất kỳ | M1 | IVB |
 
-## 7. ĐIỀU TRỊ UNG THƯ THỰC QUẢN
+7. ĐIỀU TRỊ UNG THƯ THỰC QUẢN
 
 Khác với nhiều ung thư tiêu hóa khác, điều trị ung thư tế bào gai thực quản cho đến nay vẫn còn rất nhiều điểm chưa thống nhất.
 
 Nguyên tắc điều trị:
-
 - Lựa chọn điều trị dựa chủ yếu vào giai đoạn u, độ mô học của u và tổng trạng bệnh nhân.
 - Mục tiêu điều trị là giúp bệnh nhân đạt được thời gian sống lâu nhất với ít biến chứng nhất và chất lượng cuộc sống tốt nhất.
 - Cần điều trị đa mô thức với sự phối hợp của nhiều chuyên khoa.
 
 Trước khi đi sâu vào điều trị theo từng giai đoạn, chúng ta cần có hiểu biết khái quát về các phương pháp được sử dụng trong điều trị ung thư thực quản.
 
-## 7.1. Tổng quan các phương pháp điều trị ung thư thực quản
+7.1. Tổng quan các phương pháp điều trị ung thư thực quản
 
-### 7.1.1. Cắt u qua nội soi thực quản
+7.1.1. Cắt u qua nội soi thực quản
 
 Cắt u qua nội soi thực quản chỉ dành cho những khối u giai đoạn sớm (còn khu trú ở niêm mạc và chưa di căn hạch). Phương pháp này được phát triển vì ít xâm lấn hơn so với phẫu thuật cắt thực quản. Hai phương pháp cắt u qua nội soi thường dùng là:
-
-- Cắt niêm mạc qua nội soi (*endoscopic mucosal resection, EMR*): cắt bỏ phần niêm mạc mang u.
-- Bóc tách dưới niêm mạc qua nội soi (*endoscopic submucosal dissection, ESD*): cắt bỏ u đến lớp dưới niêm.
+- Cắt niêm mạc qua nội soi (endoscopic mucosal resection, EMR): cắt bỏ phần niêm mạc mang u.
+- Bóc tách dưới niêm mạc qua nội soi (endoscopic submucosal dissection, ESD): cắt bỏ u đến lớp dưới niêm.
 
 Cần nhấn mạnh rằng cắt u qua nội soi thực quản chỉ loại bỏ u và mô quanh u, như vậy để có thể đạt được mục tiêu điều trị cần phải có các điều kiện sau:
-
 - Việc chẩn đoán giai đoạn bệnh trước mổ phải thật chính xác.
 - Xử lý bệnh phẩm sau cắt phải đúng và đạt tiêu chuẩn và cần sự phối hợp giữa nhà nội soi, nhà giải phẫu bệnh và nhà ung thư học.
 - Theo dõi sau mổ phải được thực hiện sát sao.
 
 Chính do một số khó khăn nêu trên nên thực tế phương pháp cắt u qua nội soi thực quản còn chưa được sử dụng nhiều tại Việt Nam.
 
-[Hình: Màng đáy, Biểu mô, Lamina propria, Lớp cơ niêm, Lớp dưới niêm, Lớp cơ, Áo ngoài (adventitia)]
+[Hình: Một kỹ thuật EMR. *, u giai đoạn sớm; #, dịch được tiêm làm phồng lớp dưới niêm.]
+- Màng đáy
+- Biểu mô
+- Lamina propria
+- Lớp cơ niêm
+- Lớp dưới niêm
+- Lớp cơ
+- Áo ngoài (adventitia)
 
 Hình 8. Một kỹ thuật EMR. *, u giai đoạn sớm; #, dịch được tiêm làm phồng lớp dưới niêm.
 
-[Hình: Biểu mô, Màng đáy, Lamina propria, Lớp cơ niêm, Lớp dưới niêm, Lớp cơ, Áo ngoài (adventitia)]
+[Hình: Kỹ thuật ESD. *, u giai đoạn sớm; #, dịch được tiêm làm phồng lớp dưới niêm.]
+- Màng đáy
+- Biểu mô
+- Lamina propria
+- Lớp cơ niêm
+- Lớp dưới niêm
+- Lớp cơ
+- Áo ngoài (adventitia)
 
 Hình 9. Kỹ thuật ESD. *, u giai đoạn sớm; #, dịch được tiêm làm phồng lớp dưới niêm.
 
@@ -3186,13 +3215,15 @@ Hóa trị cho các u không cắt được hoặc u tái phát: Hóa trị đi�
 - Giai đoạn trễ (T4 và/hoặc M1) --> Điều trị nâng đỡ
 
 7.2.1. Điều trị ung thư tế bào gai thực quản giai đoạn sớm
+
 Ung thư tế bào gai thực quản giai đoạn sớm được định nghĩa là ung thư còn khu trú ở lớp niêm mạc và chưa di căn hạch. Ở giai đoạn này, có thể cân nhắc một trong ba phương pháp:
 - Cắt u qua nội soi thực quản
 - Phẫu thuật cắt thực quản.
 - Hóa xạ trị.
 
 Ung thư thực quản thường có di căn hạch sớm, do đó tỷ lệ di căn hạch khá đáng kể dù u còn khu trú ở niêm mạc, đến 12,2% với u T1a và 45,9% với u T1b. Như vậy, như đã đề cập ở trên, cắt u qua nội soi thực quản là phương pháp có nguy cơ sót di căn hạch hoặc khó xử lý chính xác giải phẫu bệnh cũng như theo dõi bệnh nhân sau mổ, do đó với tình trạng thực tế ở Việt Nam, phương pháp này chưa được áp dụng nhiều.
-Phẫu thuật cắt thực quản mặc dù xâm lấn hơn nhưng khả năng cắt u triệt để lại cao hơn. Với sự phát triển của phẫu thuật xâm lấn tối thiểu và khả năng hồi sức trước và sau mổ, phẫu thuật cắt thực quản tại các trung tâm chuyên sâu hiện nay có kết quả khá tốt với tỷ lệ tử vong chu phẫu chỉ khoảng 1%. Hóa xạ trị là phương pháp không “triệt để” như cắt thực quản hay cắt u qua nội soi, tuy nhiên, đây là phương pháp phù hợp cho những bệnh nhân không thích hợp hoặc không đồng ý phẫu thuật.
+
+ Phẫu thuật cắt thực quản mặc dù xâm lấn hơn nhưng khả năng cắt u triệt để lại cao hơn. Với sự phát triển của phẫu thuật xâm lấn tối thiểu và khả năng hồi sức trước và sau mổ, phẫu thuật cắt thực quản tại các trung tâm chuyên sâu hiện nay có kết quả khá tốt với tỷ lệ tử vong chu phẫu chỉ khoảng 1%. Hóa xạ trị là phương pháp không “triệt để” như cắt thực quản hay cắt u qua nội soi, tuy nhiên, đây là phương pháp phù hợp cho những bệnh nhân không thích hợp hoặc không đồng ý phẫu thuật.
 
 7.2.2. Điều trị ung thư tế bào gai thực quản giai đoạn tiến triển tại chỗ
 
@@ -3200,7 +3231,7 @@ Ung thư tế bào gai thực quản giai đoạn tiến triển tại chỗ đ�
 
 7.2.3. Điều trị ung thư tế bào gai thực quản giai đoạn trễ
 
-Ung thư tế bào gai thực quản giai đoạn trễ được định nghĩa là ung thư xâm lấn mô lân cận và/hoặc có di căn xa. Ở giai đoạn này ung thư không còn chỉ định điều trị triệt căn. Phương pháp điều trị được áp dụng là hóa trị hoặc hóa xạ trị. Trong trường hợp bệnh nhân có tổng trạng kém, không thích hợp hóa trị, chỉ nên điều trị giảm nhẹ. Bệnh nhân ung thư giai đoạn này nói chung có tình trạng rất xấu. Một số trường hợp có đáp ứng với hóa trị, u giảm giai đoạn thành có thể cắt được, có thể xem xét cắt thực quản làm sạch (conversion esophagectomy hay salvage esophagectomy) cho bệnh nhân. Tuy nhiên, cách tiếp cận này cần phải cân nhắc lại một cách thận trọng vì lợi ích của nó chưa được chứng minh rõ ràng.
+Ung thư tế bào gai thực quản giai đoạn trễ được định nghĩa là ung thư xâm lấn mô lân cận và/hoặc có di căn xa. Ở giai đoạn này ung thư không còn chỉ định điều trị triệt căn. Phương pháp điều trị được áp dụng là hóa trị hoặc hóa xạ trị. Trong trường hợp bệnh nhân có tổng trạng kém, không thích hợp hóa trị, chỉ nên điều trị giảm nhẹ. Bệnh nhân ung thư giai đoạn này nói chung có tình trạng rất xấu. Một số trường hợp có đáp ứng với hóa trị, u giảm giai đoạn thành có thể cắt được, có thể xem xét cắt thực quản làm sạch (conversion esophagectomy hay salvage esophagectomy) cho bệnh nhân. Tuy nhiên, cách tiếp cận này cần phải cân nhắc lợi hại một cách thận trọng vì lợi ích của nó chưa được chứng minh rõ ràng.
 
 8. TIÊN LƯỢNG
 
@@ -3258,7 +3289,7 @@ B. Chọc hút hạch bằng kim nhỏ để xác định tế bào học
 C. Sinh thiết hạch thượng đòn phải để xác định giải phẫu bệnh
 D. Thực hiện điều trị tân hỗ trợ theo phác đồ dành cho ung thư giai đoạn tiến triển tại chỗ
 
-5. Bệnh nhân nam, 70 tuổi, nuốt nghẹn, hiện còn ăn được cháo, được chẩn đoán ung thư biểu mô tế bào gai thực quản giai đoạn cT2N1M0 (giai đoạn II). Bệnh nhân có tiền căn hút thuốc lá 30 gói-năm, tăng huyết áp điều trị không thường xuyên trong 15 năm. Đo chức năng hô hấp phát hiện bệnh nhân có hội chứng tắc nghẽn nặng, đáp ứng kém với thuốc giãn phế quản. Siêu âm tim thấy dãn thất trái, EF (phân suất tống máu) 30%, tăng áp phổi. Phương pháp điều trị nên được lựa chọn ở bệnh nhân này?
+5. Bệnh nhân nam, 70 tuổi, nuốt nghẹn, hiện còn ăn được cháo, được chẩn đoán ung thư tế bào gai thực quản giai đoạn cT2N1M0 (giai đoạn II). Bệnh nhân có tiền căn hút thuốc lá 30 gói-năm, tăng huyết áp điều trị không thường xuyên trong 15 năm. Đo chức năng hô hấp phát hiện bệnh nhân có hội chứng tắc nghẽn nặng, đáp ứng kém với thuốc giãn phế quản. Siêu âm tim thấy dãn thất trái, EF (phân suất tống máu) 30%, tăng áp phổi. Phương pháp điều trị nên được lựa chọn ở bệnh nhân này?
 A. Cắt u qua nội soi thực quản
 B. Điều trị tân hỗ trợ, sau đó phẫu thuật cắt thực quản
 C. Phẫu thuật cắt thực quản thì đầu
@@ -3284,7 +3315,7 @@ Co thắt tâm vị là bệnh ít gặp, tại Mỹ tỉ lệ mới mắc là 6
 
 Bệnh thấy ở cả nam và nữ, một số tài liệu mô tả phụ nữ trẻ có vẻ nhiều hơn. Bệnh có thể ở bất kì lứa tuổi nào nhưng hiếm khi khởi phát trước tuổi trưởng thành, thường gặp ở lứa tuổi 25-60 tuổi.
 
-# 2. ĐẶC ĐIỂM GIẢI PHẪU - SINH LÝ THỰC QUẢN
+# 2. ĐẶC ĐIỂM GIẢI PHẪU- SINH LÝ THỰC QUẢN
 
 ## 2.1. Giải phẫu
 
@@ -3309,17 +3340,20 @@ Hành trình của thức ăn qua thực quản bắt đầu và kết thúc ở
 
 Cơ thắt thực quản trên là một phức hợp gồm nhiều cơ liên kết lại: cơ thắt hầu trên, cơ thắt hầu giữa, cơ nhẫn phễu chéo - ngang - sau, vai trò chính là cơ nhẫn-hầu.
 
-Cơ thắt thực quản dưới (chỗ nối thực quản-dạ dày) được xác định bởi bốn mốc: hai mốc bên ngoài là cột cơ Helvetius (vòng Willis: nơi các sợi cơ vòng thực quản tiếp giáp với cơ chéo của thành dạ dày) và dải mỡ thực quản-dạ dày. Hai mốc bên trong chính là đường Z và vùng chuyển tiếp cơ trơn-nếp cuộn cơ dạ dày.
+Cơ thắt thực quản dưới (chỗ nối tiếp thực quản-dạ dày) được xác định bởi bốn mốc: hai mốc bên ngoài là cột cơ Helvetius (vòng Willis: nơi các sợi cơ vòng thực quản tiếp giáp với cơ chéo của thành dạ dày) và dải mỡ thực quản-dạ dày. Hai mốc bên trong chính là đường Z và vùng chuyển tiếp cơ trơn-nếp cuộn cơ dạ dày.
 
-[Hình: Chỗ nối thực quản- dạ dày ${}^{[7]}$]
-[Nhãn hình:
+[Hình: Chỗ nối thực quản- dạ dày]
+
+[Hình: Các nhãn]
 - Màng hoành-thực quản
 - Màng phổi
 - Cơ hoành
 - Phúc mạc
 - Đường Z
 - Nếp dạ dày
-- Cơ thắt dưới thực quản]
+- Cơ thắt dưới thực quản
+
+Hình 1. Chỗ nối thực quản- dạ dày [7].
 
 2.2. Sinh lý tiêu hóa tại thực quản
 
@@ -3331,9 +3365,11 @@ Nuốt là một động tác nửa tùy ý, nửa tự động có cơ chế ph
 
 - Giai đoạn họng không có ý thức: viên thức ăn kích thích vùng nhận cảm nuốt ở quanh vòm họng, đặc biệt trên các cột hạnh nhân. Xung động truyền về trung tâm nuốt ở hành não theo các sợi cảm giác của dây tam thoa, dây IX. Từ trung tâm, xung động theo các dây thần kinh V, IX, X và XII đến họng và thực quản gây co các cơ của họng theo trình tự sau:
 
-  + Họng mềm bị kéo lên trên để đóng lỗ mũi sau, ngăn sự trào ngược thức ăn vào khoang mũi.
++ Họng mềm bị kéo lên trên để đóng lỗ mũi sau, ngăn sự trào ngược thức ăn vào khoang mũi.
 
-  + Các nếp gấp của vòm họng ở hai bên được kéo vào giữa tạo thành một rãnh dọc để thức ăn qua đó vào họng sau. Rãnh này không cho những thức ăn hoặc vật có kích thước lớn đi qua.
++ Các nếp gấp của vòm họng ở hai bên được kéo vào giữa tạo thành một rãnh dọc để thức ăn qua đó vào họng sau. Rãnh này không cho những thức ăn hoặc vật có kích thước lớn đi qua.
+
+159
 
 + Các dây thanh âm nằm sát cạnh nhau, thanh quản bị kéo lên trên và ra trước bởi các cơ cổ. Động tác này cùng với sự có mặt của các dây chằng làm cho nắp thanh quản bị đưa ra sau che kín thanh môn, ngăn không cho thức ăn đi vào khí quản.
 
@@ -3343,31 +3379,35 @@ Toàn bộ giai đoạn này kéo dài từ 1 đến 2 giây.
 
 - Giai đoạn thực quản:
 
-Chức năng chủ yếu của thực quản là đưa thức ăn từ họng vào dạ dày nhờ các sóng nhu động. Khi cơ vòng thực quản trên mở ra, sóng nhu động đẩy thức ăn rơi vào thực quản. Sự chênh lệch áp lực giữa thực quản cổ khi cơ vòng thực quản trên đóng lại tạo ra áp lực dương (lên đến 90 mmHg) và thực quản ngực – áp lực âm sẽ hút khối thức ăn đi vào thực quản ngực. Thời gian thức ăn di chuyển trong thực quản khoảng 8 đến 10 giây. Nếu người ta ăn ở tư thế đứng thì thức ăn sẽ được chuyển nhanh hơn (chỉ mất khoảng 5 đến 8 giây) do tác dụng của trọng lực kéo thức ăn xuống.
+Chức năng chủ yếu của thực quản là đưa thức ăn từ họng vào dạ dày nhờ các sóng nhu động. Khi cơ vòng thực quản trên mở ra, sóng nhu động đẩy thức ăn rơi vào thực quản. Sự chênh lệch áp lực giữa thực quản cổ khi cơ vòng thực quản trên đóng lại tạo ra áp lực dương (lên đến 90 mmHg) và thực quản ngực - áp lực âm sẽ hút khối thức ăn đi vào thực quản ngực. Thời gian thức ăn di chuyển trong thực quản khoảng 8 đến 10 giây. Nếu người ta ăn ở tư thế đứng thì thức ăn sẽ được chuyển nhanh hơn (chỉ mất khoảng 5 đến 8 giây) do tác dụng của trọng lực kéo thức ăn xuống.
 
 Có ba loại nhu động co bóp ở thực quản: nhu động nguyên phát, thứ phát và co bóp loại thứ ba. Nhu động nguyên phát hay nhu động đầu tiên đi từ trên xuống dưới thực quản với tốc độ 2-4 cm/giây (cần 9 giây để đến cơ vòng thực quản dưới) và nó tạo ra một áp lực khoảng 40-80 mmHg để đẩy thức ăn đi xuống. Khi thức ăn vẫn còn chưa xuống hết thực quản thì nhu động thứ phát hay nhu động thứ hai sẽ xuất hiện do sự căng hay có sự kích thích thành thực quản, mục đích làm trống lòng thực quản như là một phản xạ tại chỗ, nó độc lập với nhu động nguyên phát. Co bóp loại thứ ba không có tính nhu động, không di chuyển và có thể một hay nhiều pha, nó có thể xảy ra sau hoạt động nuốt hay tự phát giữa những lần nuốt, đây là những co bóp không đồng bộ của cơ trơn thực quản, gây ra co thắt thực quản.
 
-Khi sóng nhu động của thực quản đến gần dạ dày, cơ thắt thực quản dưới giãn ra, đồng thời với sự giãn của phần trên dạ dày, sóng nhu động ở phía sau viên thức ăn đẩy nó vào dạ dày. Một mình nhu động không đủ lực để mở cơ thắt thực quản dưới mà phải cần đến thần kinh X tác động (1,5-2,5 giây sau khi thức ăn đến vùng hầu) làm dãn cơ thắt trong 4-6 giây, vừa đủ để thức ăn đi vào dạ dày, sau đó cơ thắt co lại. Bình thường cơ thắt thực quản dưới ở trạng thái co trươn lực để ngăn cản sự trào ngược của thức ăn acid từ dạ dày lên thực quản.
+Khi sóng nhu động của thực quản đến gần dạ dày, cơ thắt thực quản dưới giãn ra, đồng thời với sự giãn của phần trên dạ dày, sóng nhu động ở phía sau viên thức ăn đẩy nó vào dạ dày. Một mình nhu động không đủ lực để mở cơ thắt thực quản dưới mà phải cần đến thần kinh X tác động (1,5-2,5 giây sau khi thức ăn đến vùng hầu) làm giãn cơ thắt trong 4-6 giây, vừa đủ để thức ăn đi vào dạ dày, sau đó cơ thắt co lại. Bình thường cơ thắt thực quản dưới ở trạng thái co trương lực để ngăn cản sự trào ngược của thức ăn acid từ dạ dày lên thực quản.
 
 Các sóng nhu động của thực quản được kiểm soát bởi dây thần kinh số IX, dây X và đám rối thần kinh Auerbach ở thực quản.
 
-Thần kinh điều hòa ở thực quản:
-Hệ phó giao cảm: chủ yếu do thần kinh X, kính thích làm tăng vận động (tăng co thắt cơ trơn nhưng làm dãn cơ vòng), tăng chế tiết. Chất dẫn truyền thần kinh tại các noron vận động là achetylcholin (ACh) và Nitrit Oxit (NO).
+*Thần kinh điều hòa ở thực quản:*
+Hệ phó giao cảm: chủ yếu do thần kinh X, kích thích làm tăng vận động (tăng co thắt cơ trơn nhưng làm dãn cơ vòng), tăng chế tiết. Chất dẫn truyền thần kinh tại các noron vận động là achetylcholin (ACh) và Nitrit Oxit (NO).
+
 Hệ giao cảm: thực quản bị chi phối bởi các nhánh xuất phát từ hạch cổ trên đến 1/3 trên thực quản và các nhánh từ hạch thân tạng đến 1/3 dưới thực quản, không có nhánh cảm giác mà chỉ điều hòa hoạt động chế tiết và vận động. Kích thích hệ giao cảm thường làm giảm chế tiết và giảm vận động (giảm co thắt cơ trơn và tăng co thắt cơ vòng). Chất dẫn truyền thần kinh là norepinephrin.
+
 Có thể khảo sát hoạt động của cơ thắt thực quản, nhu động thực quản bằng cách đo áp lực thực quản.
 
 [Hình: Đo áp lực đồ thực quản]
 - Bắt đầu nuốt
+- Sóng nhu động tạo áp lực đẩy thức ăn đi xuống
 - Cơ thắt trên
 - Cơ vân
 - Dây đo áp lực
 - Cơ trơn
 - Cơ thắt dưới
 - Dạ dày
-- Sóng nhu động tạo áp lực đẩy thức ăn đi xuống
 - Cơ thắt dãn ra cho thức ăn vào dạ dày
 
 Hình 2. Đo áp lực đồ thực quản [7].
+
+161
 
 Bảng 1. Giá trị bình thường khi đo áp lực ở thực quản
 
@@ -3388,16 +3428,20 @@ Bảng 1. Giá trị bình thường khi đo áp lực ở thực quản
 | Biên độ áp lực | 40-80 mmHg |
 | Thời gian kéo dài | 2,3-3,6 giây |
 
-[Hình: Các giai đoạn hoạt động của cơ thắt thực quản dưới [7]]
+[Hình: A]
 
 Hình 3. Các giai đoạn hoạt động của cơ thắt thực quản dưới [7].
 
 [Hình: Hoạt động bình thường của thực quản trên áp lực đồ có độ phân giải cao [7].]
 
-[Hình:
+[Hình: Biểu đồ áp lực đồ thực quản với các nhãn:
 - Swallow
-- mmHg 150, 100, 50, 30, 0
-- Length along the esophagus (cm) 5, 10, 15, 20, 25, 30
+- mmHg
+- 150
+- 100
+- 50
+- 30
+- Length along the esophagus (cm)
 - Distal Contractile Integral (DCI)
 - Distal Latency
 - Integrated Relaxation Pressure (IRP)
@@ -3424,6 +3468,7 @@ Trong co thắt tâm vị, cơ vân của thực quản và chức năng hầu h
 Hình 5. (A) thực quản bình thường khi nghỉ (B) Thực quản bình thường khi nuốt (C) Thực quản khi bị co thắt tâm vị [3].
 
 3.1. Thương tổn giải phẫu bệnh
+
 Bệnh sinh của co thắt tâm vị là do thoái hóa của neuron vận động tại thành thực quản, trên mô học cho thấy có sự giảm số lượng tế bào thần kinh trong đám rối Auerbach, ngoài ra còn có các tế bào lympho hay bạch cầu ái toan bao quanh các tế bào thần kinh còn lại. Các hiện tượng viêm này xảy ra tại thần kinh ức chế liên quan đến việc sản xuất oxit nitric, dẫn đến cơ thắt thực quản dưới không thể mở ra hiệu quả. Ở một số bệnh nhân, các thay đổi thoái hóa tìm thấy trong hạch thần kinh ở nhân vận động thần kinh X tại hành não. Thoái hóa Wallerian cũng quan sát thấy tại các nhánh thần kinh X đi vào thực quản.
 
 Co thắt tâm vị được xem là yếu tố thuận lợi gây ung thư thực quản, 8% bệnh nhân có co thắt tâm vị sau 20 năm sẽ diễn tiến mắc ung thư thực quản dạng carcinom tế bào gai, hậu quả của tình trạng kích thích niêm mạc thực quản kéo dài do ứ đọng thức ăn.
@@ -3472,40 +3517,36 @@ Bảng 2. Phân loại Chicago về rối loạn vận động thực quản [10
 + Vận động thực quản không hiệu quả
 - Thứ phát: sau quá trình bệnh lý ảnh hưởng thần kinh-cơ, mạch máu, collagen của thực quản như xơ cứng bì, viêm đa cơ, lupus ban đỏ, bệnh nhược cơ, bệnh Chagas...
 
-**4.4. Phân loại theo vị trí giải phẫu**
+4.4. Phân loại theo vị trí giải phẫu
 - Rối loạn vận động tại thân thực quản:
-    + Co thắt thực quản lan tỏa
-    + Thực quản Jackhammer
-    + Rối loạn vận động tại chỗ nối thực quản-dạ dày
-    + Tăng trương lực cơ thắt thực quản dưới
++ Co thắt thực quản lan tỏa
++ Thực quản Jackhammer
++ Rối loạn vận động tại chỗ nối thực quản-dạ dày
++ Tăng trương lực cơ thắt thực quản dưới
 - Rối loạn vận động tại chỗ nối và thân thực quản:
-    + Co thắt tâm vị
-    + Vận động thực quản không hiệu quả
++ Co thắt tâm vị
++ Vận động thực quản không hiệu quả
 
-**5. LÂM SÀNG**
-
-**5.1. Triệu chứng cơ năng**
-
+5. LÂM SÀNG
+5.1. Triệu chứng cơ năng
 Nuốt khó, nghẹn: 95% người bệnh than phiền bị nuốt khó, thường bị nuốt khó cả thức ăn lỏng và đặc. Thường xảy ra đột ngột, có người sau xúc động mạnh. Thức ăn nuốt vào bị ứ lại đột ngột nhất là thức ăn đặc. Mức độ khó nuốt phụ thuộc vào tính chất lý hóa của thức ăn nhưng giữa các trường hợp không giống nhau. Có bệnh nhân uống sữa dễ, nhưng uống nước lại khó, có bệnh nhân ăn thức ăn nóng dễ nhưng ăn lạnh lại khó, có bệnh nhân lại ngược lại. Do nuốt nghẹn, nên có bệnh nhân vừa ăn, vừa đi lại, bữa ăn kéo dài hàng giờ. Người bệnh có thể bị sụt cân, nhưng sau đó thì họ có thể duy trì cân nặng được do thích nghi trong việc điều chỉnh chế độ ăn.
 
-Nôn ọe: 60-70% bệnh nhân có triệu chứng trào ngược thức ăn chưa tiêu hóa, không có chất chua của dịch vị. Trào ngược hay gặp về đêm khi bệnh nhân nằm, làm hít chất dịch vào đường thở và gây triệu chứng khác: ho, khàn tiếng, khò khè hay thậm chí là sặc, viêm phổi hít.
+Nôn ọe: 60-70% bệnh nhân có triệu chứng trào ngược thức ăn chưa tiêu hóa, không có chất chua của dịch vị. Trào ngược về đêm khi bệnh nhân nằm, làm hít chất dịch vào đường thở và gây triệu chứng khác: ho, khàn tiếng, khò khè hay thậm chí là sặc, viêm phổi hít.
 
-Ợ nóng: 40% bệnh nhân bị ợ nóng, nguyên nhân là do sự ứ đọng và lên men thức ăn ở đoạn xa thực quản hơn là do sự trào ngược. Triệu chứng ợ nóng cũng có ở bệnh nhân bị trào ngược dạ dày thực quản (GERD) nên rất dễ bỏ sót chẩn đoán co thắt tâm vị, nhất là giai đoạn sớm.
+Ợ nóng: 40% bệnh nhân bị ợ nóng, nguyên nhân là do sự ứ đọng và lên men thức ăn ở đoạn xa thực quản hơn là sự trào ngược. Triệu chứng ợ nóng cũng có ở bệnh nhân bị trào ngược dạ dày thực quản (GERD) nên rất dễ bỏ sót chẩn đoán co thắt tâm vị, nhất là giai đoạn sớm.
 
 Đau ngực: nhiều người bệnh co thắt tâm vị than đau ngực, vùng sau xương ức và tăng lên khi ăn. Nguyên nhân đau còn chưa giải thích được rõ nhưng nếu làm trống được thực quản hết ứ đọng thì bệnh nhân hết đau ngực.
 
 5.2. Triệu chứng thực thể
-
 Thường ít có triệu chứng thực thể, trong vài trường hợp có thể quan sát thấy bệnh nhân bị nấc cục. Bệnh nhân có thể có các triệu chứng do hậu quả của trào ngược, ứ đọng, tắc nghẽn như viêm họng, viêm phổi hoặc triệu chứng của bệnh nguyên gây hẹp, co thắt tâm vị. Các dấu hiệu của bệnh hệ thống (bệnh mô liên kết, bệnh chuyển hóa...) gây rối loạn vận động thực quản, giả co thắt tâm vị. Cần cho bệnh nhân thực hiện uống nước ngay tại giường khi khám để quan sát, đánh giá quá trình nuốt có bị khó khăn hay không.
 
 5.3. Triệu chứng toàn thân
-
 Bệnh diễn tiến mạn tính, sau nhiều tháng nhiều năm, người bệnh có thể sụt cân, gầy ốm, suy dinh dưỡng. Thang điểm Eckardt đánh giá các triệu chứng lâm sàng, phân giai đoạn bệnh và hiệu quả điều trị.
 
 Bảng 3. Thang điểm Eckardt
 
 | | 0 điểm | 1 điểm | 2 điểm | 3 điểm |
-| :--- | :--- | :--- | :--- | :--- |
+|---|---|---|---|---|
 | Nuốt khó | Không có | Thỉnh thoảng | Mỗi ngày | Mỗi bữa ăn |
 | Trào ngược | Không có | Thỉnh thoảng | Mỗi ngày | Mỗi bữa ăn |
 | Đau ngực | Không có | Thỉnh thoảng | Mỗi ngày | Mỗi bữa ăn |
@@ -3519,11 +3560,9 @@ Tổng điểm 7-12: Giai đoạn III (muộn)
 6. CẬN LÂM SÀNG
 
 6.1. X quang ngực
-
-X quang tim phổi thẳng thường không giúp xác định chẩn đoán nhưng có những dấu hiệu gợi ý gián tiếp như: Trung thất dãn rộng, mực nước hơi trong trung thất do thực quản dãn ứ đọng, mất bóng hơi dạ dày phình vị do cơ thắt dưới thực quản không dãn nở cho không khí vào dạ dày.
+X quang tim phổi thẳng thông thường không giúp xác định chẩn đoán nhưng có những dấu hiệu gợi ý gián tiếp như: Trung thất dãn rộng, mực nước hơi trong trung thất do thực quản dãn ứ đọng, mất bóng hơi dạ dày phình vị do cơ thắt dưới thực quản không dãn nở cho không khí vào dạ dày.
 
 6.2. Chụp X quang thực quản cản quang với baryt
-
 Hình ảnh gợi ý co thắt tâm vị: thực quản dãn nhiều mức độ, có khi dãn rất to, gập góc ngoằn ngoèo (thực quản hình sigmoid, megaesophagus). Đoạn dưới bị chít hẹp có dạng hình mỏ chim, củ cải. Không thấy sóng nhu động thực quản và thuốc cản quang bị ứ đọng. Khoảng 1/3 bệnh nhân có khi không có dấu hiệu điển hình như vậy trên phim, có khi có hình ảnh các co thắt tại thân thực quản xuất hiện trên X quang.
 
 6.3. Đo áp lực thực quản quy ước (manometry)
@@ -3562,24 +3601,21 @@ Trong vận động thực quản không hiệu quả: >50% lần nuốt có DCI
 
 Trong nhu động ngắt quãng: > 50% lần nuốt có DCI > 450 mmHg.s.cm ngắt quãng, không liên tục.
 
-[Hình: Type I, Type II, Type III]
+[Hình: Các dạng co thắt tâm vị trên áp lực đồ thực quản độ phân giải cao: (a) típ I, (b) típ II, (c) típ III.]
 
-Hình 6. Các dạng co thắt tâm vị trên áp lực đồ thực quản độ phân giải cao:
-(a) típ I, (b) típ II, (c) típ III.
-
-### 6.5. Nội soi tiêu hóa trên
+6.5. Nội soi tiêu hóa trên
 
 Khi các phương tiện đo áp lực thực quản chưa sẵn có, nội soi tiêu hóa là phương tiện giúp chẩn đoán hữu hiệu, phân biệt tổn thương khác co thắt tâm vị như: Ung thư thực quản tâm vị, túi thừa thực quản...
 
-Trong co thắt tâm vị: qua nội soi có thể quan sát thấy lòng thực quản dãn, ứ đọng dịch, thức ăn. Khi đầu ống soi đến đoạn cơ thắt dưới thực quản, cơ này không mở ra một cách tự nhiên để ống soi vào dạ dày dễ dàng mà thường cần một áp lực hơi mạnh hơn (bơm hơi, đẩy tới), khác với co tổn thương gây hẹp đoạn cuối thực quản thường có niêm mạc bất thường và ống soi rất khó qua được. Ngoài ra có thể quan sát thấy các vết viêm loét thành thực quản do ứ đọng.
+Trong co thắt tâm vị: qua nội soi có thể quan sát thấy lòng thực quản dãn, ứ đọng dịch, thức ăn. Khi đầu ống soi đến đoạn cơ thắt dưới thực quản, cơ này không mở ra một cách tự nhiên để ống soi vào dạ dày dễ dàng mà thường cần một áp lực hơi mạnh hơn (bơm hơi, đẩy tới), khác với có tổn thương gây hẹp đoạn cuối thực quản thường có niêm mạc bất thường và ống soi rất khó qua được. Ngoài ra có thể quan sát thấy các vết viêm loét thành thực quản do ứ đọng.
 
-### 6.6. Siêu âm qua nội soi
+6.6. Siêu âm qua nội soi
 
-Siêu âm qua nội soi thực quản thấy co thắt thực quản dãn thành độ dày nhẹ và đồng tâm, hoặc đánh giá có khối từ ngoài chèn ép vào thành thực quản.
+Siêu âm qua nội soi thực quản thấy cơ thắt thực quản dưới tăng độ dày nhẹ và đồng tâm, hoặc đánh giá có khối từ ngoài chèn ép vào thực quản.
 
-### 6.7. Chụp cắt lớp vi tính ngược
+6.7. Chụp cắt lớp vi tính ngực
 
-Chụp cắt lớp vi tính (CLVT) ngược chẩn đoán co thắt tâm vị thường không cần thiết, chỉ dùng khi chẩn đoán phân biệt các tổn thương thực thể khác: nghi ngờ do khối u từ dưới dạ dày tâm vị hay bên ngoài chèn ép vào.
+Chụp cắt lớp vi tính (CLVT) ngực chẩn đoán co thắt tâm vị thường không cần thiết, chỉ dùng khi chẩn đoán phân biệt các tổn thương thực thể khác: nghi ngờ do khối u từ dưới dạ dày tâm vị hay bên ngoài chèn ép vào.
 
 7. DIỄN TIẾN VÀ BIẾN CHỨNG
 7.1. Diễn tiến
@@ -3603,7 +3639,7 @@ Nếu không được điều trị kịp thời, sẽ dẫn đến các biến 
 8.1. Chẩn đoán xác định: dựa vào triệu chứng lâm sàng và cận lâm sàng.
 Triệu chứng lâm sàng chính là nuốt nghẹn, trào ngược và sụt cân.
 Triệu chứng cận lâm sàng chính là: chụp thực quản cản quang baryt và Đo áp lực thực quản.
-Đo áp lực thực quản là “tiêu chuẩn vàng” trong chẩn đoán xác định và giúp phân biệt với những rối loạn vận động khác của thực quản. Nội soi thực quản có giá trị nhằm loại trừ các tổn thương viêm hẹp thực quản hay ung thư.
+Đo áp lực thực quản là “tiêu chuẩn vàng” trong chẩn đoán xác định và giúp phân biệt với những rối loạn vận động khác của thực quản. Nội soi thực quản có giá trị nhằm loại trừ tổn thương viêm hẹp thực quản hay ung thư.
 
 8.2. Chẩn đoán phân biệt
 Bệnh trào ngược dạ dày thực quản
@@ -3768,78 +3804,83 @@ Yếu tố nguy cơ:
     + Thịt hoặc cá được chế biến dưới dạng thức ăn ngâm tẩm, muối
     + Chế độ ăn nhiều Nitrate, gặp trong các loại thức ăn xông khói, hoặc khói thuốc lá
 
-+ Chế độ nhiều tinh bột phức tạp
-+ Thức ăn nhiễm nấm Alfatoxin
+- Chế độ nhiều tinh bột phức tạp
+- Thức ăn nhiễm nấm Alfatoxin
 - Môi trường:
-+ Môi trường bảo quản thức ăn kém
-+ Môi trường nhiễm phóng xạ
-+ Môi trường sản xuất cao su, than đá
-+ Khói thuốc lá, nghiện rượu nặng
+    + Môi trường bảo quản thức ăn kém
+    + Môi trường nhiễm phóng xạ
+    + Môi trường sản xuất cao su, than đá
+    + Khói thuốc lá, nghiện rượu nặng
 - Yếu tố di truyền:
-+ Gia đình có người thân trực hệ (bố mẹ, con, anh chị em ruột) bị ung thư dạ dày: Tăng nguy cơ mắc ung thư dạ dày
-+ Ung thư dạ dày liên quan đến vài hội chứng di truyền hiếm gặp: Ung thư dạ dày thể thâm nhiễm lan tỏa di truyền, đa polyp tuyến có tính gia đình (FAP), hội chứng Li-Fraumeni, Ung thư đại trực tràng không polyp di truyền, Hội chứng Lynch, ung thư vú và buồng trứng di truyền (HBOC)...
+    + Gia đình có người thân trực hệ (bố mẹ, con, anh chị em ruột) bị ung thư dạ dày: Tăng nguy cơ mắc ung thư dạ dày
+    + Ung thư dạ dày liên quan đến vài hội chứng di truyền hiếm gặp: Ung thư dạ dày thể thâm nhiễm lan tỏa di truyền, đa polyp tuyến có tính gia đình (FAP), hội chứng Li-Fraumen, Ung thư đại trực tràng không polyp di truyền, Hội chứng Lynch, ung thư vú và buồng trứng di truyền (HBOC)...
 - Tiền căn:
-+ Nhiễm H.pylori: Tăng nguy cơ ung thư dạ dày 3,6 – 17 lần, đặc biệt là H.Pylori có mang yếu tố cagA
-+ Phẫu thuật dạ dày > 10 năm
-+ Viêm teo niêm mạc dạ dày và viêm chuyển sản niêm mạc dạ dày
-+ Polyp dạ dày, ngoại trừ polyp tuyến đáy vị
+    + Nhiễm H.pylori: Tăng nguy cơ ung thư dạ dày 3,6 – 17 lần, đặc biệt là H.Pylori có mang yếu tố cagA
+    + Phẫu thuật dạ dày > 10 năm
+    + Viêm teo niêm mạc dạ dày và viêm chuyển sản niêm mạc dạ dày
+    + Polyp dạ dày, ngoại trừ polyp tuyến đáy vị
 - Yếu tố khác:
-+ Nam giới
-+ Thiếu máu ác tính
-+ Nhóm máu A
+    + Nam giới
+    + Thiếu máu ác tính
+    + Nhóm máu A
 Các yếu tố làm giảm nguy cơ ung thư dạ dày:
 - Aspirin
 - Chế độ ăn nhiều rau xanh và trái cây tươi
 - Vitamin C và E
 - Nhiễm H.Pylori trên bệnh nhân có tiền sử loét tá tràng
 
-## 2. GIẢI PHẪU BỆNH HỌC
+**2. GIẢI PHẪU BỆNH HỌC**
+**2.1. Đại thể**
 
-### 2.1. Đại thể
 Có nhiều bảng phân loại cho giải phẫu bệnh học ung thư dạ dày đã được sử dụng. Hệ thống phân loại của Borrmann (hình 1) được phát triển từ năm 1926 và vẫn còn hữu ích cho đến ngày nay. Hệ thống này phân loại ung thư dạ dày thành 5 loại, tùy thuộc vào hình ảnh tổn thương đại thể. Trong đó, loại linitis plastica (loại 4) là loại tổn thương thâm nhiễm lan toả toàn bộ thành dạ dày, loại 5 là loại không thuộc 4 loại trên.
 
-[Hình: Phân loại đại thể ung thư dạ dày theo Borrmann]
-- Loại 1
-- Loại 2
-- Loại 3
-- Loại 4
-- Loại chồi sùi
-- Loại loét thâm nhiễm
+**Sơ đồ: Phân loại đại thể ung thư dạ dày theo Borrmann**
+- Loại 1 --> Loại chồi sùi
+- Loại 2 --> Loại loét thâm nhiễm
+- Loại 3 --> Loại loét thâm nhiễm
+- Loại 4 --> Loại loét thâm nhiễm
 
-**Hình 1. Phân loại đại thể ung thư dạ dày theo Borrmann.**
+[Hình: Phân loại đại thể ung thư dạ dày theo Borrmann.]
+
+Hình 1. Phân loại đại thể ung thư dạ dày theo Borrmann.
 
 Năm 2011, Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản đã phân chia về mặt đại thể ung thư dạ dày thành 6 loại, trong đó loại 0 là dạng ung thư dạ dày sớm (hình 2), 5 loại còn lại là dạng ung thư dạ dày tiến triển (hình 3). Trong loại 0, được phân chia thành 5 thể nhỏ. Có lẽ, đây là phân chia hợp lý và bao quát hơn cả vì thực ra ung thư dạ dày sớm hay tiến triển chỉ là 2 giai đoạn sớm và muộn của cùng 1 bệnh mà thôi.
 
-[Hình: Phân loại đại thể ung thư dạ dày sớm theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật bản]
+**Sơ đồ: Phân loại đại thể ung thư dạ dày sớm theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản**
 - Loại 0-I: Dạng lồi (dạng polyp)
-- Loại 0-IIa: Dạng nhô nông
-- Loại 0-IIb: Dạng phẳng
-- Loại 0-IIc: Dạng lõm nông
+- Loại 0-II: Bề mặt
+  - Loại 0-IIa: Dạng nhô nông
+  - Loại 0-IIb: Dạng phẳng
+  - Loại 0-IIc: Dạng lõm nông
+  - Loại 0: Dạng bề mặt, phẳng
 - Loại 0-III: Dạng lõm sâu
-- Loại 0-II: Bề mặt --> Loại 0: Dạng bề mặt, phẳng
 
-**Hình 2. Phân loại đại thể ung thư dạ dày sớm theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật bản.**
+[Hình: Phân loại đại thể ung thư dạ dày sớm theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản.]
+
+Hình 2. Phân loại đại thể ung thư dạ dày sớm theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản.
 
 179
 
-[Hình: Sơ đồ phân loại đại thể ung thư dạ dày gồm 5 loại với các hình minh họa cắt dọc qua tổn thương]
+[Hình: Sơ đồ phân loại đại thể ung thư dạ dày]
 - Loại 1: Dạng khối u
 - Loại 2: Ổ loét bờ cao
 - Loại 3: Ổ loét thâm nhiễm
 - Loại 4: Thâm nhiễm lan tỏa
 - Loại 5: Không thuộc 4 loại trên
 
-**Hình 3.** Phân loại đại thể ung thư dạ dày theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản.
+**Hình 3. Phân loại đại thể ung thư dạ dày theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản.**
 
-[Hình 4. Ung thư dạ dày loại 2.]
+[Hình: Ung thư dạ dày loại 2]
 
-## 2.2. Vi thể
+**Hình 4. Ung thư dạ dày loại 2.**
+
+**2.2. Vi thể**
 
 Có nhiều hệ thống phân loại khác đã được áp dụng. Tuy nhiên, hệ thống phân loại của Lauren được phát triển năm 1965 là hữu ích và được áp dụng rộng rãi nhất (bảng 1). Hệ thống phân loại này chia ung thư dạ dày thành loại chuyển sản ruột và loại lan tỏa.
 
 dựa vào mô bệnh học. Ung thư dạ dày có biểu hiện nhạy cảm khác nhau đối với các loại thuốc hóa trị, nên hệ thống phân loại của Lauren giúp cá thể hóa phác đồ hóa trị bệnh nhân ung thư dạ dày, đặc biệt là ung thư dạ dày giai đoạn tiến triển.
 
-**Bảng 1.** Phân loại vi thể ung thư dạ dày theo hệ thống của Lauren
+**Bảng 1. Phân loại vi thể ung thư dạ dày theo hệ thống của Lauren**
 
 | Loại chuyển sản ruột | Loại lan toả |
 | :--- | :--- |
@@ -3847,24 +3888,23 @@ dựa vào mô bệnh học. Ung thư dạ dày có biểu hiện nhạy cảm k
 | Viêm teo niêm mạc dạ dày, chuyển sản niêm mạc ruột ở dạ dày | Nhóm máu A |
 | Tỷ lệ mắc bệnh tăng dần theo tuổi | Nhóm tuổi trẻ |
 | Loại tế bào tuyến | Loại tế bào biệt hóa kém, tế bào nhẫn |
-| Dị căn theo đường mạch máu | Xâm lấn xung quanh và di căn đường bạch huyết |
+| Di căn theo đường mạch máu | Xâm lấn xung quanh và di căn đường bạch huyết |
 | Không ổn định về mặt vi thể | Thoái giáng E Cadherin |
-| Đột biến gen APC | Bất hoạt gen P53, P16 |
-| Bất hoạt gen P53, P16 | |
+| Đột biến gen APC | |
+| Bất hoạt gen P53, P16 | Bất hoạt gen P53, P16 |
 
 Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản đã phân chia về mặt vi thể ung thư biểu mô tuyến dạ dày thành:
-
 - Ung thư biểu mô tuyến dạ dày dạng nhú
 - Ung thư biểu mô tuyến dạ dày dạng ống
-  + Biệt hóa tốt
-  + Biệt hóa trung bình
+    + Biệt hóa tốt
+    + Biệt hóa trung bình
 - Ung thư biểu mô tuyến dạ dày biệt hóa kém
-  + Dạng đặc
-  + Dạng rời rạc (không đặc)
+    + Dạng đặc
+    + Dạng rời rạc (không đặc)
 - Ung thư biểu mô tuyến dạ dày dạng tế bào nhẫn
 - Ung thư biểu mô tuyến dạ dày dạng nhầy
 
-## 3. TRIỆU CHỨNG LÂM SÀNG
+**3. TRIỆU CHỨNG LÂM SÀNG**
 
 Ung thư dạ dày ở giai đoạn sớm thường không có triệu chứng lâm sàng đặc hiệu.
 
@@ -3872,7 +3912,7 @@ Triệu chứng sớm nhất là cảm giác nặng bụng mơ hồ sau ăn. B�
 
 Chán ăn thường xuất hiện sớm, và thường gặp nhất là chán ăn thịt. Sụt cân là triệu chứng thường gặp nhất. Đau sau ăn thường là triệu chứng của một ổ loét dạ dày lành tính, nhưng cũng có thể là triệu chứng bị nhầm lẫn.
 
-Nôn ói có thể gặp, và nếu bệnh nhân có tắc nghẽn môn vị thì đây là triệu chứng chính. Có thể gặp bệnh nhân đi cầu phân màu như “bã cà phê” nếu khối u chảy máu rỉ rả.
+Nôn ói có thể gặp, và nếu bệnh nhân có tắc nghẽn môn vị thì đây là triệu chứng chính. Có thể gặp bệnh nhân đi cầu phân màu như "bã cà phê" nếu khối u chảy máu rỉ rả.
 
 Nuốt khó có thể gặp ở bệnh nhân có thương tổn ở vùng tâm vị.
 
@@ -3922,50 +3962,56 @@ Bảng 2. Định nghĩa TNM của ung thư dạ dày
 | T1b | Khối u xâm lấn lớp dưới niêm |
 | T2 | Khối u xâm lấn lớp cơ |
 
-| | |
-|---|---|
-| T3 | Khối u xâm lấn mô liên kết dưới thanh mạc và không xâm lấn phúc mạc tạng hoặc cơ quan lân cận |
-| T4 | Khối u xâm lấn thanh mạc (phúc mạc tạng) hoặc cấu trúc lân cận |
-| T4a | Khối u xâm lấn thanh mạc (phúc mạc tạng) |
-| T4b | Khối u xâm lấn cấu trúc lân cận |
-| **Phân nhóm hạch vùng N** | |
-| Nx | Không thể đánh giá hạch vùng |
-| N0 | Không có di căn hạch vùng |
-| N1 | Di căn 1 – 2 hạch vùng |
-| N2 | Di căn 3 – 6 hạch vùng |
-| N3 | Di căn từ 7 hạch vùng trở lên |
-| N3a | Di căn 7 – 15 hạch vùng |
-| N3b | Di căn trên 15 hạch vùng |
-| **Di căn xa (M)** | |
-| M0 | Không có di căn xa |
-| M1 | Có di căn xa |
+T3 | Khối u xâm lấn mô liên kết dưới thanh mạc và không xâm lấn phúc mạc tạng hoặc cơ quan lân cận
+T4 | Khối u xâm lấn thanh mạc (phúc mạc tạng) hoặc cấu trúc lân cận
+T4a | Khối u xâm lấn thanh mạc (phúc mạc tạng)
+T4b | Khối u xâm lấn cấu trúc lân cận
+Phân nhóm hạch vùng N
+Nx | Không thể đánh giá hạch vùng
+N0 | Không có di căn hạch vùng
+N1 | Di căn 1 – 2 hạch vùng
+N2 | Di căn 3 – 6 hạch vùng
+N3 | Di căn từ 7 hạch vùng trở lên
+N3a | Di căn 7 – 15 hạch vùng
+N3b | Di căn trên 15 hạch vùng
+Di căn xa (M)
+M0 | Không có di căn xa
+M1 | Có di căn xa
 
-Bảng 3. Giai đoạn ung thư dạ dày
+**Bảng 3. Giai đoạn ung thư dạ dày**
 
-| | M0 | M1 |
+| | M0 | | | | | M1 |
 |---|---|---|---|---|---|---|
 | | N0 | N1 | N2 | N3a | N3b | Bất cứ N |
 | T1a/T1b | IA | IB | IIA | IIB | IIIB | IV |
-| T2 | IB | IIA | IIB | IIIA | IIIB | |
-| T3 | IIA | IIB | IIIA | IIIB | IIIC | |
-| T4a | IIB | IIIA | IIIA | IIIB | IIIC | |
-| T4b | IIIA | IIIB | IIIB | IIIC | IIIC | |
+| T2 | IB | IIA | IIB | IIIA | IIIB | IV |
+| T3 | IIA | IIB | IIIA | IIIB | IIIC | IV |
+| T4a | IIB | IIIA | IIIA | IIIB | IIIC | IV |
+| T4b | IIIA | IIIB | IIIB | IIIC | IIIC | IV |
 
 Riêng đối với ung thư vùng tâm vị thực quản (EGJ), hiện nay có hai hệ thống phân loại phổ biến, đó là phân loại của Siewert (hình 7) và hệ thống phân loại của Nishi (Nhật Bản). Hai phân loại này đều dựa trên vị trí của thương tổn so với vị trí của chỗ nối thực quản và dạ dày trên nội soi dạ dày, và từ hệ thống phân loại này giúp chọn lựa phương pháp điều trị cũng như theo dõi bệnh nhân sau điều trị.
 
-[Hình: 5 cm, Nhóm I, 1 cm, Đường Z, Nhóm II, -2 cm, Nhóm III, -5 cm]
+[Hình: Phân loại ung thư vùng tâm vị theo Siewert]
+- 5 cm
+- Nhóm I
+- 1 cm
+- Đường
+- Nhóm II
+- -2 cm
+- Nhóm III
+- -5 cm
 
-**Hình 7.** Phân loại ung thư vùng tâm vị theo Siewert.
+Hình 7. Phân loại ung thư vùng tâm vị theo Siewert.
 
-[Hình: Thương tổn ung thư vùng tâm vị phân loại Siewert II.]
+[Hình: Thương tổn ung thư vùng tâm vị phân loại Siewert II]
 
-**Hình 8.** Thương tổn ung thư vùng tâm vị phân loại Siewert II.
+Hình 8. Thương tổn ung thư vùng tâm vị phân loại Siewert II.
 
 6. ĐIỀU TRỊ
 Cho đến nay, phương pháp điều trị tối ưu nhất đối với ung thư dạ dày vẫn là phẫu thuật cắt dạ dày kèm nạo hạch triệt để. Các phương pháp khác như hóa trị, xạ trị hay liệu pháp miễn dịch trúng đích chỉ mang tính hỗ trợ cho phẫu thuật hoặc cho các trường hợp không còn khả năng phẫu thuật hoặc ung thư tái phát.
 Có nhiều phác đồ điều trị ung thư dạ dày trên thế giới. Mỗi phác đồ có những ưu và nhược điểm riêng, nhưng phác đồ của Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản năm 2014 (lưu đồ 1) dễ ứng dụng hơn.
 
-## 6.1. Nguyên tắc điều trị ung thư dạ dày
+6.1. Nguyên tắc điều trị ung thư dạ dày
 - Phẫu thuật cắt dạ dày mang thương tổn được lựa chọn trước tiên khi ung thư dạ dày còn chỉ định phẫu thuật triệt căn.
 - Phẫu thuật không triệt căn khi ung thư dạ dày cơ biến chứng và không còn chỉ định phẫu thuật triệt căn.
 - Nạo hạch triệt để trong phẫu thuật triệt căn vì tỷ lệ di căn hạch trong ung thư dạ dày khá cao.
@@ -3973,67 +4019,74 @@ Có nhiều phác đồ điều trị ung thư dạ dày trên thế giới. M�
 - Xạ trị chưa chứng minh hiệu quả trong điều trị ung thư dạ dày.
 - Miễn dịch liệu pháp (liệu pháp nhắm trúng đích) dùng trong những trường hợp cơ biểu hiện thụ thể HER-2.
 
-## 6.2. Nguyên tắc phẫu thuật điều trị ung thư dạ dày
+6.2. Nguyên tắc phẫu thuật điều trị ung thư dạ dày
 Phẫu thuật triệt căn điều trị ung thư dạ dày được chỉ định cho những trường hợp thương tổn còn khả năng cắt bỏ được và không có di căn xa. Mặc khác, cắt dạ dày triệt căn là một phẫu thuật lớn, nên tình trạng thể trạng bệnh nhân phải còn tốt, có thể chịu đựng được cuộc mổ lớn. Nguyên tắc phẫu thuật như sau:
 - Cắt bỏ hết mạc nối lớn và mạc nối nhỏ.
 - Nạo vét hạch hệ thống thành một khối tùy theo phương pháp phẫu thuật.
-- Bờ cắt dưới dưới môn vị # 2 cm. Ung thư dạ dày rất hiếm khi ăn xuống tá tràng quá giới hạn này.
+- Bờ cắt dưới dưới môn vị # 2 cm. Ung thư dạ dày rất hiếm ăn xuống tá tràng quá giới hạn này.
 - Bờ cắt trên cách thương tổn ít nhất là 5 cm.
 - Với thương tổn giai đoạn T4b thì phải cắt thành khối cùng với cơ quan bị xâm lấn.
 - Cắt lách thường quy hay dự phòng không có chỉ định. Việc cắt lách chỉ được thực hiện khi lách hoặc rốn lách bị xâm lấn.
 - Cắt lá trên mạc treo đại tràng ngang và lá trước bao tụy (bursectomy) được chỉ định cho thương tổn xâm lấn thanh mạc ở thành sau dạ dày nhằm mục đích loại bỏ ung thư vi thể ở hậu cung mạc nối. Chưa có bằng chứng cụ thể rằng bursectomy làm giảm
 
-tái phát tại chỗ hay di căn phúc mạc, nhưng cho thấy có cải thiện tỷ lệ sống còn ở
-thương tổn giai đoạn T3 và T4a.
+tái phát tại chỗ hay di căn phúc mạc, nhưng cho thấy có cải thiện tỷ lệ sống còn ở thương tổn giai đoạn T3 và T4a.
 
-**Sơ đồ: Lưu đồ 1. Điều trị ung thư dạ dày theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản.**
+**Sơ đồ: Điều trị ung thư dạ dày theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản.**
+
 - Carcinom tuyến dạ dày
-  - M0 --> cT1
-    - cN0 --> cT1a (M)
-      - Có biệt hóa, không loét, $\le 2$ cm --> Có --> EMR hay ESD
-      - Có biệt hóa, không loét, $\le 2$ cm --> Không --> Cắt dạ dày, D1
-    - cN0 --> cT1b (SM)
-      - Có biệt hóa, $\le 1,5$ cm --> Có --> Cắt dạ dày, D1+
-      - Có biệt hóa, $\le 1,5$ cm --> Không --> Cắt dạ dày tiêu chuẩn, D2
-    - cN+ --> Cắt dạ dày tiêu chuẩn, D2
-  - M0 --> cT2/T3/T4a --> Cắt dạ dày tiêu chuẩn, D2
-  - M0 --> cT4b --> Cắt dạ dày mở rộng, D2
+  - M0
+    - cT1
+      - cN0
+        - cT1a (M)
+          - Có biệt hóa, không loét, ≤ 2
+            - Có --> EMR hay ESD
+            - Không --> Cắt dạ dày, D1
+        - cT1b (SM)
+          - Có biệt hóa, ≤ 1,5 cm
+            - Có --> Cắt dạ dày, D1+
+            - Không --> Cắt dạ dày tiêu chuẩn, D2
+      - cN+ --> Cắt dạ dày tiêu chuẩn, D2
+    - cT2/T3/T4a --> Cắt dạ dày tiêu chuẩn, D2
+    - cT4b --> Cắt dạ dày mở rộng, D2
   - M1 --> Hóa trị, xạ trị, phẫu thuật tạm bợ, chăm sóc giảm nhẹ
-  - Sau phẫu thuật
-    - Giai đoạn I --> Theo dõi
-    - Giai đoạn II, III --> Hóa trị hỗ trợ
-    - Giai đoạn IV --> Hóa trị, chăm sóc giảm nhẹ
 
-## 6.3. Các định nghĩa phẫu thuật điều trị ung thư dạ dày
+**Sau phẫu thuật**
+- Giai đoạn I --> Theo dõi
+- Giai đoạn II, III --> Hóa trị hỗ trợ
+- Giai đoạn IV --> Hóa trị, chăm sóc giảm nhẹ
 
-### 6.3.1. Phẫu thuật triệt căn
+Lưu đồ 1. Điều trị ung thư dạ dày theo Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản.
 
-- Phẫu thuật cắt dạ dày tiêu chuẩn: là phẫu thuật cắt dạ dày triệt căn (cắt ít nhất $2/3$ dạ dày) cùng với nạo hạch D2.
+### 6.3. Các định nghĩa phẫu thuật điều trị ung thư dạ dày
+
+#### 6.3.1. Phẫu thuật triệt căn
+
+- Phẫu thuật cắt dạ dày tiêu chuẩn: là phẫu thuật cắt dạ dày triệt căn (cắt ít nhất 2/3 dạ dày) cùng với nạo hạch D2.
 - Phẫu thuật cắt dạ dày không theo tiêu chuẩn: mức độ cắt dạ dày và/hoặc nạo hạch thay đổi tùy theo đặc điểm thương tổn.
-  - Phẫu thuật cải tiến: mức độ cắt dạ dày và/hoặc nạo hạch ít hơn so với phẫu thuật tiêu chuẩn.
-  - Phẫu thuật mở rộng: cắt dạ dày kết hợp với cắt cơ quan kế cận bị xâm lấn hoặc nạo hạch $> \text{D2}$
+  + Phẫu thuật cải tiến: mức độ cắt dạ dày và/hoặc nạo hạch ít hơn so với phẫu thuật tiêu chuẩn.
+  + Phẫu thuật mở rộng: cắt dạ dày kết hợp với cắt cơ quan kế cận bị xâm lấn hoặc nạo hạch > D2
 
 6.3.2. Phẫu thuật không triệt căn
 
 - Áp dụng trong các trường hợp ung thư giai đoạn tiến triển, không còn khả năng phẫu thuật cắt bỏ được và bệnh nhân có biến chứng như chảy máu, hẹp môn vị, thủng...
-  + Phẫu thuật tạm bợ: nối vị tràng hay mở dạ dày hoặc mở hồng tràng nuôi ăn
-  + Phẫu thuật cắt giảm khối: cắt dạ dày không theo tiêu chuẩn kèm theo thương tổn, tuy nhiên hiệu quả chưa được chứng minh rõ ràng.
+    + Phẫu thuật tạm bợ: nối vị tràng hay mở dạ dày hoặc mở hổng tràng nuôi ăn
+    + Phẫu thuật cắt giảm khối: cắt dạ dày không theo tiêu chuẩn kèm theo thương tổn, tuy nhiên hiệu quả chưa được chứng minh rõ ràng.
 
-## 6.4. Các phương pháp cắt dạ dày điều trị ung thư dạ dày
+6.4. Các phương pháp cắt dạ dày điều trị ung thư dạ dày
 
-### 6.4.1. Cắt bán phần dưới dạ dày
+6.4.1. Cắt bán phần dưới dạ dày
 
 Là phẫu thuật cắt bỏ phần lớn đoạn dưới dạ dày cùng với thương tổn, môn vị và mạc nối lớn. Phẫu thuật này áp dụng cho những trường hợp thương tổn ở 1/3 dưới dạ dày hoặc 1/3 giữa dạ dày mà khoảng cách từ bờ trên thương tổn đến tâm vị trên 5 cm. Mặt cắt tá tràng được đóng lại bằng khâu tay hoặc dùng máy cắt nối thẳng. Phục hồi lưu thông tiêu hóa bằng cách nối mỏm cắt dạ dày với tá tràng (Billroth I) hoặc hổng tràng (Billroth II hay Roux en Y).
 
-### 6.4.2. Cắt bán phần trên dạ dày
+6.4.2. Cắt bán phần trên dạ dày
 
 Là phẫu thuật cắt bỏ phần trên dạ dày chứa thương tổn cùng với tâm vị và mạc nối lớn. Phẫu thuật này áp dụng cho những trường hợp ung thư dạ dày giai đoạn sớm mà thương tổn ở 1/3 trên dạ dày và phần còn lại phải ít nhất là 1/2 dạ dày. Phục hồi lưu thông tiêu hóa bằng cách nối thực quản bụng với phần dạ dày còn lại.
 
-### 6.4.3. Cắt toàn bộ dạ dày
+6.4.3. Cắt toàn bộ dạ dày
 
 Là phẫu thuật cắt bỏ toàn bộ dạ dày bao gồm cả tâm vị và môn vị cùng với mạc nối lớn. Phẫu thuật này áp dụng cho những trường hợp thương tổn ở 1/3 giữa dạ dày mà khoảng cách từ bờ trên thương tổn đến tâm vị dưới 5 cm hoặc thương tổn ở 1/3 trên hay toàn bộ dạ dày. Phục hồi lưu thông tiêu hóa bằng cách nối thực quản bụng với hổng tràng theo phương pháp Roux en Y hoặc kiểu Omega.
 
-### 6.4.4. Cắt dạ dày kèm theo cơ quan khác (cắt dạ dày mở rộng)
+6.4.4. Cắt dạ dày kèm theo cơ quan khác (cắt dạ dày mở rộng)
 
 Là phẫu thuật cắt bỏ 1 phần hay toàn bộ dạ dày cùng với cơ quan bị ung thư dạ dày xâm lấn. Các phẫu thuật này có thể là:
 - Cắt dạ dày + cắt lách
@@ -4058,14 +4111,14 @@ Bảng 4. Mức độ nạo hạch trong điều trị ung thư dạ dày
 | Bán phần dưới | 1, 3, 4sb, 4d, 5, 6, 7 | D1 _ 8a, 9 | D1 _ 8a, 9, 11p, 12a |
 | Bán phần trên | 1, 2, 3a, 4sa, 4sb, 7 | D1 _ 8a, 9, 11p | Không |
 
-Đối với những thương tổn nghi ngờ nhỏ hơn 2 cm, có thể cắt trọn thương tổn bằng kỹ thuật cắt niêm mạc (EMR) hoặc bóc tách dưới niêm mạc (ESD) qua nội soi. Kỹ thuật này có thể cắt trọn khối tổn thương cho nhà giải phẫu bệnh giúp chẩn đoán chính xác, đồng thời cũng có thể điều trị triệt căn cho những thương tổn ung thư sớm chỉ khu trú ở lớp niêm mạc, mà không cần phải can thiệp xâm lấn gì thêm về sau.
+Đối với những thương tổn nghi ngờ nhỏ hơn 2 cm, có thể cắt trọn thương tổn bằng kỹ thuật cắt niêm mạc (EMR) hoặc bóc tách dưới niêm mạc (ESD) qua nội soi. Kỹ thuật này có thể cắt trọn khối thương tổn cho nhà giải phẫu bệnh giúp chẩn đoán chính xác, đồng thời cũng có thể điều trị triệt căn cho những thương tổn ung thư sớm chỉ khu trú ở lớp niêm mạc, mà không cần phải can thiệp xâm lấn gì thêm về sau.
 
 6.6. Hóa trị trong ung thư dạ dày
 Mặc dù những tiến bộ gần đây trong hóa trị liệu làm giảm đáng kể kích thước thương tổn trong những trường hợp ung thư dạ dày tái phát hoặc không cắt bỏ được, nhưng vẫn chưa điều trị triệt căn được. Mục đích của hóa trị trong những trường hợp này là điều trị triệu chứng và kéo dài thời gian sống còn. Hiệu quả kéo dài thời gian sống còn của hóa trị trong ung thư dạ dày thường chỉ định trong những trường hợp thương tổn tái phát, không cắt bỏ được hay còn tế bào bờ mặt cắt sau mổ (R1, R2) với điều kiện là tổng trạng bệnh nhân và chức năng các cơ quan khác còn tốt. Hóa miễn dịch để phát hiện thụ thể HER 2 trong ung thư dạ dày được sử dụng thường quy để điều trị nhắm trúng đích trong những trường hợp ung thư dạ dày không còn cắt bỏ được hay đã di căn.
 
-6.7. Hóa trị tân hỗ trợ khi hạch bulky, hạch nhóm 16 D3 > 1 cm
+6.7. Hóa trị tân hỗ trợ khi hạch bulky, hạch nhóm 16 $D3 > 1\text{ cm}$
 
-Theo hướng dẫn mới nhất của Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản, hóa trị tân hỗ trợ được chỉ định cho những trường hợp thương tổn ung thư dạ dày có chỉ định phẫu thuật triệt để nhưng hạch to (đường kính > 3 cm) hoặc nghi di căn hạch nhóm 16a2/16b1 (đường kính > 1 cm). Bệnh nhân được dùng hóa trị trước mổ từ 3 - 6 đợt rồi tiến hành phẫu thuật. Các nghiên cứu cho thấy tỷ lệ sống còn sau mổ tốt hơn so với không hóa trị tân hỗ trợ.
+Theo hướng dẫn mới nhất của Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản, hóa trị tân hỗ trợ được chỉ định cho những trường hợp thương tổn ung thư dạ dày có chỉ định phẫu thuật triệt để nhưng hạch to (đường kính $> 3\text{ cm}$) hoặc nghi di căn hạch nhóm 16a2/16b1 (đường kính $> 1\text{ cm}$). Bệnh nhân được dùng hóa trị trước mổ từ 3 - 6 đợt rồi tiến hành phẫu thuật. Các nghiên cứu cho thấy tỷ lệ sống còn sau mổ tốt hơn so với không hóa trị tân hỗ trợ.
 
 6.8. Hóa trị hỗ trợ sau mổ
 
@@ -4073,13 +4126,13 @@ Hóa trị hỗ trợ sau mổ nhằm mục đích giảm tái phát do những 
 
 Các phác đồ thường được dùng ngày nay là:
 - Trường hợp HER 2 âm tính:
-    + S-1 + cisplatin
-    + Capecitabine + cisplatin
-    + S-1 + docetaxel
-    + 5FU + cisplatin + docetaxel
+  + S-1 + cisplatin
+  + Capecitabine + cisplatin
+  + S-1 + docetaxel
+  + 5FU + cisplatin + docetaxel
 - Trường hợp HER 2 dương tính:
-    + Trastuzumab, cisplatin + capecitabine hoặc 5FU
-    + Trastuzumab + S-1 mỗi 3 tuần + cisplatin.
+  + Trastuzumab, cisplatin + capecitabine hoặc 5FU
+  + Trastuzumab + S-1 mỗi 3 tuần + cisplatin.
 
 6.9. Các yếu tố ảnh hưởng đến tỷ lệ sống còn của bệnh nhân sau mổ cắt dạ dày
 
@@ -4091,11 +4144,12 @@ Mặc dù, đã có nhiều tiến bộ đáng kể trong chẩn đoán và đi�
 - Biến chứng sau mổ
 
 TÀI LIỆU THAM KHẢO
+
 1. Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A (2018). Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin; 68(6): 394-424.
 2. Zytoon, A., El-Atfey S, Hassanein S (2020). Diagnosis of gastric cancer by MDCT gastrography: diagnostic characteristics and management potential. Egypt J Radiol Nucl Med 51, 30. https://doi.org/10.1186/s43055-020-0148-y.
 3. Fernanda M, Almeida A, Verza L (2018). Computed tomography with a stomach protocol and virtual gastroscopy in the staging of gastric cancer: an initial experience. Radiol Bras; 51(4): 211–217. doi: 10.1590/0100-3984.2017.0097.
 4. Japanese Gastric Cancer Association (2020). Japanese gastric cancer treatment guidelines 2018 (5th edition). Gastric Cancer. https://doi.org/10.1007/s10120-020-01042.
-5. Japanese Gastric Cancer Association (2011). Japanese classification of gastric carcinoma – 3rd english edition. Gastric Cancer; 14, 101–112.
+5. Japanese Gastric Cancer Association (2011). Japanese classification of gastric carcinoma - 3rd english edition. Gastric Cancer; 14, 101–112.
 6. Berlth F, Bollschweiler E, Drebber U et al (2014). Pathohistological classification systems in gastric cancer: Diagnostic relevance and prognostic value. World J Gastroenterol; 20(19), 5679-5684.
 
 # CÂU HỎI LƯỢNG GIÁ
@@ -4129,39 +4183,21 @@ D. Thức ăn nhiễm nấm Alfatoxin
 A. Loại 1
 B. Loại 2
 C. Loại 3
-D. Loại 4
-
-# UNG THƯ ĐẠI TRÀNG
-Nguyễn Hữu Thịnh, La Minh Đức
-
-MỤC TIÊU
-1. Khai thác 2 nhóm yếu tố nguy cơ của bệnh nhân ung thư đại tràng.
-2. Nhận diện được rối loạn gen thuộc hai nhóm: gen sinh ung và gen ức chế khối u.
-3. Vận dụng triệu chứng lâm sàng và cận lâm sàng để chẩn đoán xác định ung thư đại tràng, chẩn đoán giai đoạn và chẩn đoán khi có biến chứng.
-4. Chỉ định phương pháp điều trị phù hợp với nguyên tắc điều trị (nói chung), chọn lựa được phương pháp phẫu thuật phù hợp giai đoạn bệnh, kích thước, vị trí ung thư và khi ung thư có biến chứng.
-5. Lập kế hoạch theo dõi sau điều trị ung thư đại tràng theo giai đoạn từ 0 đến IV.
-
-Từ khóa: đa polyp tuyến có tính gia đình, di truyền không liên quan đến đa polyp, cắt polyp, cắt niêm mạc qua nội soi đại tràng, cắt đại tràng, theo dõi sau điều trị.
-
-1. MỞ ĐẦU
-Ung thư đại tràng (UTĐT) là một bệnh ác tính thường gặp và cũng là một trong những nguyên nhân gây tử vong hàng đầu trong các loại ung thư. Các yếu tố nguy cơ của UTĐT liên quan đến cơ địa, môi trường và yếu tố gia đình. Quá trình từ đại tràng bình thường phát triển thành ung thư kéo dài trong nhiều năm và diễn tiến qua nhiều quá trình có thể ngăn chặn được. Cho đến nay, phẫu thuật vẫn là phương pháp điều trị chủ yếu cho UTĐT, hóa trị chỉ đóng vai trò hỗ trợ. Tiên lượng của bệnh phụ thuộc nhiều vào giai đoạn bệnh, chẩn đoán sớm giúp cải thiện hiệu quả điều trị. Tầm soát UTĐT có thể giúp phát hiện và loại bỏ những sang thương có thể phát triển thành UTĐT cũng như nhằm phát hiện bệnh ở giai đoạn sớm.
-
-2. DỊCH TỄ
-UTĐT là bệnh ác tính đường tiêu hóa thường gặp ở hầu hết các nước trên thế giới. Tại Mỹ, UTĐT đứng hàng thứ ba ở nam và thứ tư ở nữ trong các ung thư thường gặp, chiếm khoảng 11% các ung thư được chẩn đoán hàng năm. UTĐT cũng là loại ung thư thường gặp đứng hàng thứ ba ở các nước Châu Âu. Theo kết quả ghi nhận ung thư quần thể tại Thành phố Hồ Chí Minh năm 1997, UTĐT đứng hàng thứ năm trong các loại ung thư và sau ung thư dạ dày trong các ung thư đường tiêu hóa. Theo số liệu quốc gia về tỷ lệ mới mắc ung thư ở Việt Nam giai đoạn 2010-2018, UTĐT đứng hàng thứ tư ở nam giới và thứ hai ở nữ giới. Nguy cơ mắc phải UTĐT trong suốt đời người được ước tính khoảng 1/20.
+D. Loại 4 nam giới và thứ hai ở nữ giới. Nguy cơ mắc phải UTĐT trong suốt đời người được ước tính khoảng 1/20.
 
 UTĐT cũng là một trong những nguyên nhân hàng đầu gây tử vong do ung thư. Năm 2014, UTĐT là nguyên nhân tử vong do ung thư đứng hàng thứ ba tại Mỹ. Theo số liệu 40 nước Châu Âu năm 2010, tử vong do UTĐT đứng hàng thứ hai trong các nguyên nhân do ung thư.
 
 Các nghiên cứu dịch tễ cũng cho thấy tần suất UTĐT ngày càng tăng trên toàn thế giới. Ở các nước phương Tây, điều này có thể được giải thích bởi sự già đi của dân số; tuy nhiên, ngay cả ở những nước có dân số trẻ thì tần suất mắc UTĐT cũng gia tăng. Sang những năm đầu của thế kỷ XXI, tần suất UTĐT giảm dần ở các nước phát triển, trung bình giảm từ 2,1-2,8% mỗi năm. Nguyên nhân của hiện tượng này vẫn chưa rõ, có thể do hiệu quả của những chương trình tầm soát UTĐT. Số liệu quốc gia của Việt Nam về các ung thư mới mắc so sánh 2 thời điểm năm 2000 và 2010 cho thấy có sự gia tăng đáng kể tần suất UTĐT. Hiện nay, Việt Nam chưa có chương trình tầm soát ung thư đại trực tràng ở cấp quốc gia.
 
-3. CÁC YẾU TỐ NGUY CƠ
+## 3. CÁC YẾU TỐ NGUY CƠ
 
 Gồm các yếu tố bên ngoài như chế độ ăn, sinh hoạt, sử dụng thuốc... và các yếu tố nội tại như cơ địa, tiền sử bản thân và gia đình...
 
-3.1. Các yếu tố nguy cơ từ bên ngoài
+### 3.1. Các yếu tố nguy cơ từ bên ngoài
 
 Đại tràng tiếp xúc thường xuyên với các chất mà chúng ta ăn vào và những sản phẩm của quá trình tiêu hóa. Vì thế vai trò của chế độ ăn là yếu tố bệnh sinh được nghiên cứu rất nhiều trong UTĐT. Tuy nhiên, mối liên quan giữa chế độ ăn và UTĐT vẫn chưa được xác định rõ ràng. Những nghiên cứu trong lĩnh vực này rất khó thực hiện do những yếu tố tiếp xúc thường không đơn lẻ mà cùng lúc nhiều tác nhân, luôn thay đổi theo khẩu phần ăn và theo thời gian. Hơn nữa sự sinh ung ở đại tràng là một quá trình gồm nhiều bước, số lượng và sự kết hợp giữa các tác nhân có thể có ý nghĩa và những yếu tố về gen cũng góp phần trong quá trình này. Mặc dù có thể thấy rằng ở những người không có nguy cơ UTĐT, chế độ ăn nhiều chất xơ, trái cây, rau xanh và ít thịt, mỡ động vật thì nguy cơ UTĐT thấp hơn những người có chế độ ăn ngược lại. Tuy nhiên, rất khó xác định là các thành phần trong khẩu phần ăn hay sự kết hợp là yếu tố làm giảm nguy cơ ung thư.
 
-3.1.1. Chế độ ăn nhiều mỡ
+#### 3.1.1. Chế độ ăn nhiều mỡ
 
 Chế độ ăn nhiều mỡ, đặc biệt là mỡ động vật bão hòa, có liên quan đến UTĐT. Những nghiên cứu thực nghiệm trên động vật cho thấy chế độ ăn nhiều mỡ ảnh hưởng đến tình trạng sinh ung của niêm mạc đại tràng. Những quốc gia có thói quen ăn nhiều mỡ thì tần suất UTĐT cao hơn những quốc gia ít ăn mỡ.
 
@@ -4191,7 +4227,7 @@ Folate là một loại Vitamin B, đóng vai trò quan trọng trong tổng h�
 
 ### 3.1.7. Hút thuốc lá
 
-Những người hút thuốc lá kéo dài có nguy cơ UTĐT gấp hai đến ba lần so với những người không hút thuốc lá. Thuốc lá có thể tạo ra những bản sao lỗi của ADN, ảnh hưởng đến quá trình sửa lỗi của ADN. Hút thuốc lá đóng vai trò quan trọng trong việc hình thành và phát triển polyp tuyến của đại tràng, đây là một loại tổn thương tiền ung. Độ tuổi trung bình của những người mắc UTĐT có hút thuốc lá thấp hơn so với những người không hút thuốc.
+Những người hút thuốc lá kéo dài có nguy cơ UTĐT gấp hai đến ba lần so với những người không hút thuốc lá. Thuốc lá có thể tạo ra những bản sao lỗi của ADN, ảnh hướng đến quá trình sửa lỗi của ADN. Hút thuốc lá đóng vai trò quan trọng trong việc hình thành và phát triển polyp tuyến của đại tràng, đây là một loại tổn thương tiền ung. Độ tuổi trung bình của những người mắc UTĐT có hút thuốc là thấp hơn so với những người không hút thuốc.
 
 ### 3.1.8. Rượu
 
@@ -4207,7 +4243,7 @@ Nhiều nghiên cứu quan sát cho thấy có bằng chứng về việc sử d
 
 ## 3.2. Các yếu tố nguy cơ nội tại
 
-### 3.2.1. Tuổi $\ge 40 - 50$
+### 3.2.1. Tuổi $\ge 40-50$
 
 Tỷ lệ UTĐT bắt đầu tăng ở những người hơn 40 tuổi và tăng rõ rệt sau tuổi 50. Trên 90% các trường hợp xảy ra ở những người trên 50 tuổi và tỷ lệ mắc bệnh ở độ tuổi 60-79 cao gấp 50 lần so với những người dưới 40.
 
@@ -4215,7 +4251,7 @@ Tỷ lệ UTĐT bắt đầu tăng ở những người hơn 40 tuổi và tăng
 
 Polyp đại tràng là một sang thương nhô vào lòng ruột xuất phát từ lớp niêm mạc. Dựa theo hình dạng đại thể, polyp thường được chia thành loại có cuống và không có cuống. Theo mô học, polyp được chia thành loại polyp lành tính (polyp tăng sản, hamartoma, polyp viêm) polyp có tiềm năng ác tính (gồm polyp tuyến ống, tuyến nhánh và tuyến ống-nhánh). Khoảng 60-80% các polyp là loại tuyến ống, 10-25% là tuyến ống-nhánh, và khoảng 5-10% là tuyến nhánh. Các polyp tuyến ống thường là loại có cuống, polyp tuyến nhánh thường là loại không có cuống. Polyp tuyến là những polyp có tiềm năng hóa ác, được xem là những tổn thương tiền ung. Các polyp tuyến nhánh có nguy cơ phát triển thành ung thư cao hơn so với các polyp tuyến ống, 50% các polyp tuyến nhánh đường kính hơn 2cm chứa tế bào ung thư. Thời gian để một polyp tuyến phát triển thành ung thư khoảng từ 5 đến 10 năm, tùy thuộc vào loại mô học. Việc phát hiện và cắt bỏ các polyp tuyến trước khi nó biến đổi thành dạng ác tính làm giảm nguy cơ của ung thư đại tràng.
 
-[Hình: Polyp tuyến có cuống của đại tràng.] Hình 1A. Polyp tuyến có cuống của đại tràng. [Hình: Polyp tuyến ở đại tràng bị carcinôm ở bề mặt.] Hình 1B. Polyp tuyến ở đại tràng bị carcinôm ở bề mặt.
+[Hình: Polyp tuyến có cuống của đại tràng.] [Hình: Polyp tuyến ở đại tràng bị carcinôm ở bề mặt.]
 
 ## 3.2.3. Béo phì
 
@@ -4233,20 +4269,20 @@ Chuyển hóa axit mật bất thường có thể dẫn đến UTĐT và sỏi 
 
 Bệnh viêm ruột như bệnh viêm loét đại tràng, bệnh Crohn được xem là những yếu tố nguy cơ cao của UTĐT, mức độ nguy cơ liên quan đến tuổi khởi phát cũng như mức độ lan rộng và diễn tiến của bệnh. Tuy nhiên những nghiên cứu gần đây về vấn đề này cho kết quả rất khác nhau, viêm ruột kéo dài có ảnh hưởng đến UTĐT, nhưng chưa thể xác định nguy cơ chính xác của tình trạng này đối với UTĐT.
 
-3.2.7. Tiền sử gia đình
+### 3.2.7. Tiền sử gia đình
 
 Những người có một hay nhiều người thân ở thế hệ thứ nhất bị UTĐT sẽ có nguy cơ bị UTĐT cao hơn hai đến bốn lần so với những người không có tiền căn này. Có thể do liên quan đến yếu tố di truyền, chung môi trường tiếp xúc hoặc cả hai.
 
-Ung thư đại trực tràng có thể là kết quả của điều kiện di truyền. Các điều kiện di truyền chủ yếu thường gặp là bệnh đa polyp gia đình (*familial adenomatous polyposis, FAP*) và UTĐT di truyền không đa polyp (*hereditary non-polyposis colorectal cancer, HNPCC*). HNPCC liên quan đến đột biến gen ở con đường sửa chữa DNA, được gọi là gen MLH1 và gen MSH2. FAP là kết quả của đột biến ở gen ngăn ung thư – gen APC.
+Ung thư đại trực tràng có thể là kết quả của điều kiện di truyền. Các điều kiện di truyền chủ yếu thường gặp là bệnh đa polyp gia đình (*familial adenomatous polyposis*, FAP) và UTĐT di truyền không đa polyp (*hereditary non-polyposis colorectal cancer*, HNPCC). HNPCC liên quan đến đột biến gen ở con đường sửa chữa DNA, được gọi là gen MLH1 và gen MSH2. FAP là kết quả của đột biến ở gen ngăn ung thư – gen APC.
 
-3.2.8. Những yếu tố nguy cơ khác
+### 3.2.8. Những yếu tố nguy cơ khác
 
 Tia xạ
 Bệnh to đầu chi
 
-Những rối loạn ở mức độ phân tử: tất cả các ung thư có nền tảng từ gen. Sinh ung là một quá trình gồm nhiều bước, đòi hỏi phải có sự tích tụ những rối loạn gen do di truyền và mắc phải. Những rối loạn di truyền gặp trong UTĐT bao gồm đột biến gen sinh ung *K-ras, c-myc, c-erhB2*; gen ức chế khối u *APC, DCC, p53* và *MCC*.
+Những rối loạn ở mức độ phân tử: tất cả các ung thư có nền tảng từ gen. Sinh ung là một quá trình gồm nhiều bước, đòi hỏi phải có sự tích tụ những rối loạn gen do di truyền và mắc phải. Những rối loạn di truyền gặp trong UTĐT bao gồm đột biến gen sinh ung K-ras, c-myc, c-erhB2; gen ức chế khối u APC, DCC, p53 và MCC.
 
-4. SINH HỌC PHÂN TỬ CỦA UTĐT
+## 4. SINH HỌC PHÂN TỬ CỦA UTĐT
 
 Hầu hết các ung thư đều có cơ sở từ gen, trong đó sinh ung là một quá trình gồm nhiều giai đoạn, đòi hỏi sự tích tụ những biến đổi gen được thừa hưởng cũng như mắc phải. Tế bào bình thường phát triển và nhân đôi trong một quá trình được điều tiết chính xác, sự gián đoạn trong điều tiết quá trình này ở các mức độ khác nhau là nguyên nhân phát triển thành ung thư. Sáu loại rối loạn trong cơ chế điều tiết sinh sản tế bào thường xuất hiện trong các loại ung thư gồm:
 
@@ -4261,28 +4297,29 @@ Những đột biến hoặc rối loạn của gen như trên được chia th�
 
 Gen K-ras là gen sinh ung nằm trên nhánh ngắn của nhiễm sắc thể số 12, bị đột biến trong khoảng một nửa các ung thư đại trực tràng, những trường hợp này sẽ không nhạy với các thuốc điều trị nhắm trúng đích.
 
-Gen ức chế khối u bình thường sẽ ức chế tăng sinh tế bào cũng như thúc đẩy tế bào chết theo chương trình. Những gen ức chế khối u đóng vai trò quan trọng trong quá trình sinh ung thư đại trực tràng là APC, DCC, p53 và MCC.
+Gen ức chế khối u bình thường sẽ ức chế tăng sinh tế bào cũng như thúc đẩy tế bào chết theo chương trình. Những gen ức chế khối u đóng vai trò quan trọng trong quá trình sinh ung thư đại trực tràng là *APC*, *DCC*, *p53* và *MCC*.
 
-Gần đây, giả thuyết về tế bào gốc (stem cell) trong UTĐT được đặt ra. Theo lý thuyết này, không phải tất cả các tế bào trong khối u có đặc tính của tế bào ung thư mà đặc tính này chỉ có ở những tế bào gốc UTĐT. Đây là những tế bào gốc bình thường của cơ thể, bị đột biến gen (như đột biến gen APC). Điều trị tiệt căn ung thư đòi hỏi phải tiệt trừ được các tế bào gốc UTĐT này. Đây cũng là một hướng nghiên cứu mới trong cuộc chiến chống ung thư của nhân loại.
+Gần đây, giả thuyết về tế bào gốc (stem cell) trong UTĐT được đặt ra. Theo lý thuyết này, không phải tất cả các tế bào trong khối u có đặc tính của tế bào ung thư mà đặc tính này chỉ có ở những tế bào gốc UTĐT. Đây là những tế bào gốc bình thường của cơ thể, bị đột biến gen (như đột biến gen *APC*). Điều trị tiệt căn ung thư đòi hỏi phải tiệt trừ được các tế bào gốc UTĐT này. Đây cũng là một hướng nghiên cứu mới trong cuộc chiến chống ung thư của nhân loại.
 
-**Sơ đồ: Tác động của gen trong quá trình hình thành ung thư đại tràng.**
-
+**Sơ đồ: Tác động của gen trong quá trình hình thành ung thư đại trực tràng.**
 - APC --> Biểu mô bình thường --> Adenoma sớm
 - K-RAS --> Adenoma trung gian
 - DCC --> Adenoma muộn
 - P53 --> Carcinôm --> Di căn
 - Tế bào bình thường --> Hình thành khối u --> Khối u tiến triển --> Ung thư
 
-5. GIẢI PHẪU BỆNH
+## 5. GIẢI PHẪU BỆNH
 
-5.1. Đại thể
+### 5.1. Đại thể
 
 Tùy theo từng giai đoạn mà UTĐT có hình dạng đại thể khác nhau:
 - Giai đoạn ung thư tại chỗ thường có dạng polyp hoặc phẳng
 - Giai đoạn ung thư sớm (còn ở lớp dưới niêm): dạng polyp có cuống, cuống ngắn hoặc không cuống.
 - Giai đoạn tiến triển được chia thành 4 dạng: polyp, loét bờ rõ, loét bờ không xác định, thâm nhiễm lan tỏa.
 
-[Hình: Hình 2A. Ung thư dạng polyp.] [Hình: Hình 2B. Ung thư dạng loét bờ rõ.]
+[Hình: Hình 2A. Ung thư dạng polyp.]
+
+[Hình: Hình 2B. Ung thư dạng loét bờ rõ.]
 
 5.2. Vi thể
 
@@ -4293,7 +4330,7 @@ Ung thư biểu mô tuyến là loại mô học thường gặp nhất của UT
 Bảng 1. Phân loại mô học UTĐT theo Tổ Chức Y Tế Thế Giới (WHO)
 
 | Loại mô học | Tỷ lệ |
-| :--- | :--- |
+| --- | --- |
 | Carcinôm tuyến | 90-95% |
 | Carcinôm tuyến nhầy | 10% |
 | Carcinôm tế bào nhẫn | < 1% |
@@ -4315,32 +4352,24 @@ Những loại khác rất hiếm gặp không được đề cập trong bảng
 - G4: không biệt hóa
 WHO đề nghị một phân chia chỉ gồm hai loại là loại thấp (bao gồm G1 và G2) và loại cao (bao gồm G3 và G4). Hệ thống phân loại này đơn giản và đáp ứng được yêu cầu lâm sàng.
 
-**6. MỘT SỐ DẠNG LÂM SÀNG ĐẶC BIỆT CỦA UTĐT**
-Đa polyp tuyến có tính gia đình (*Familial adenomatous polyposis, FAP*).
-UTĐT di truyền không liên quan đến đa polyp (*Hereditary nonpolyposis colon cancer, HNCC*).
+## 6. MỘT SỐ DẠNG LÂM SÀNG ĐẶC BIỆT CỦA UTĐT
+Đa polyp tuyến có tính gia đình (*Familial adenomatous polyposis*, FAP).
+UTĐT di truyền không liên quan đến đa polyp (*Hereditary nonpolyposis colon cancer*, HNCC).
 Hội chứng đa polyp hamartoma.
 
-**7. NHỮNG KHỐI U ĐẠI TRÀNG KHÔNG XUẤT PHÁT TỪ BIỂU MÔ**
+## 7. NHỮNG KHỐI U ĐẠI TRÀNG KHÔNG XUẤT PHÁT TỪ BIỂU MÔ
 Các khối u khác ở đại tràng được mô tả trong bảng 2
 
 **Bảng 2. Các khối u khác ở đại tràng**
 
 | | |
-| :--- | :--- |
-| U không biểu mô lành tính | |
-| - U mỡ và đa polyp mỡ của đại tràng | Dạng mỡ, đơn độc hoặc lan tỏa ở cả ruột non |
-| U không biểu mô khả năng ác tính | |
-| - U thần kinh nội tiết (Carcinoid) | Mọi vị trí cơ thể, u lớn >2cm là u ác tính có thể xâm lấn và cho di căn hạch, gan. |
-| - U mô đệm đường tiêu hóa | U trung mô từ tế bào Cajal. Xảy ra mọi vị trí trên ống tiêu hóa. |
-| - Tăng sinh lympho dạng nốt | Nhiều nốt lympho phát triển nhô vào lòng ruột, thường được phát hiện tình cờ |
-| U không biểu mô ác tính | |
-| - Lymphoma | Rất ít gặp ở đại tràng, chủ yếu ở manh tràng. Đại thể có hình dạng rất giống ung thư biểu mô tuyến |
-| - U cơ trơn | Rất hiếm gặp, Sarcom cơ trơn có độ ác tính cao và phát triển nhanh |
-| U thứ phát | |
-| - Lạc nội mạc tử cung | Có thể phát triển nhô vào lòng ruột giống ung thư biểu mô, liên quan chu kỳ kinh nguyệt |
-| - Ung thư di căn đại tràng | Có thể từ vú, dạ dày, buồng trứng, Melanôm ác... |
+|---|---|
+| U không biểu mô lành tính<br>- U mỡ và đa polyp mỡ của đại tràng | Dạng mỡ, đơn độc hoặc lan tỏa ở cả ruột non |
+| U không biểu mô khả năng ác tính<br>- U thần kinh nội tiết (Carcinoid)<br><br>- U mô đệm đường tiêu hóa<br><br>- Tăng sinh lympho dạng nốt | Mọi vị trí cơ thể, u lớn >2cm là u ác tính có thể xâm lấn và cho di căn hạch, gan.<br>U trung mô từ tế bào Cajal. Xảy ra mọi vị trí trên ống tiêu hóa.<br>Nhiều nốt lympho phát triển nhô vào lòng ruột, thường được phát hiện tình cờ |
+| U không biểu mô ác tính<br>- Lymphoma<br><br>- U cơ trơn | Rất ít gặp ở đại tràng, chủ yếu ở manh tràng. Đại thể có hình dạng rất giống ung thư biểu mô tuyến<br>Rất hiếm gặp, Sarcom cơ trơn có độ ác tính cao và phát triển nhanh |
+| U thứ phát<br>- Lạc nội mạc tử cung<br>- Ung thư di căn đại tràng | Có thể phát triển nhô vào lòng ruột giống ung thư biểu mô, liên quan chu kỳ kinh nguyệt<br>Có thể từ vú, dạ dày, buồng trứng, Melanôm ác... |
 
-# 8. SỰ XÂM LẤN VÀ LAN RỘNG CỦA UTĐT
+# 8. SỰ XÂM LÁN VÀ LAN RỘNG CỦA UTĐT
 
 Kiến thức về sự lan rộng và xâm lấn của khối u là rất quan trọng đối với phẫu thuật điều trị UTĐT.
 
@@ -4352,15 +4381,15 @@ Sự lan rộng trong lớp cơ thường xảy ra nhanh theo chiều ngang hơn
 
 UTĐT có thể xâm lấn trực tiếp tới thanh mạc, xuyên qua thành đại tràng vào khoang phúc mạc, sau đó gieo rắc bất kỳ nơi nào trên bề mặt phúc mạc hoặc mạc nối. Khoảng 10% bệnh nhân UTĐT có gieo rắc tế bào ung thư trên bề mặt phúc mạc.
 
-UTĐT vị trí đại tràng di động như: manh tràng, đại tràng ngang, đại tràng chậu hông có thể gieo rắc tế bào ung thư vào khoang phúc mạc. UTĐT ở vị trí có mạc Told t niệu quản, tụy.
+UTĐT vị trí đại tràng di động như: manh tràng, đại tràng ngang, đại tràng chậu hông có thể gieo rắc tế bào ung thư vào khoang phúc mạc. UTĐT ở vị trí có mạc ToldT như đại tràng lên, đại tràng xuống thì có thể xâm lấn các tạng sau phúc mạc như: thận, niệu quản, tụy.
 
 Di căn phúc mạc là nguyên nhân tử vong đứng thứ hai sau di căn gan do UTĐT. Di căn phúc mạc có tiên lượng xấu, việc điều trị với những kỹ thuật hiện có thường không đem lại kết quả.
 
 ## 8.3. Sự lan rộng bằng đường bạch huyết
 
-Xâm nhập mạch bạch huyết thường thấy trong UTĐT hơn trong ung thư trực tràng. Tỉ lệ xâm nhập mạch lymphô vào khoảng từ 8 đến 73% và tăng theo giai đoạn bệnh cũng như độ mô học của u, tỉ lệ di căn hạch ở carcinôm đại tràng biệt hóa tốt, trung bình và kém lần lượt là 25%, 50% và 80%.
+Xâm nhập mạch bạch huyết thường thấy trong UTĐT hơn trong ung thư trực tràng. Tỉ lệ xâm nhập mạch lymphô vào khoảng từ 8 đến 73% và tăng theo đoạn bệnh cũng như độ mô học của u, tỉ lệ di căn hạch ở carcinôm đại tràng biệt hóa tốt, trung bình và kém lần lượt là 25%, 50% và 80%.
 
-Trong khi hầu hết các phần của đại tràng sẽ được dẫn lưu bạch huyết theo một hướng thì đại tràng góc gan, góc lách và phần ba phải, trái của đại tràng ngang có hai hướng dẫn lưu bạch huyết. Khối u ở đại tràng góc gan hoặc phần ba phải đại tràng ngang sẽ di căn hạch theo bó mạch hồi đại tràng và đại tràng giữa, trong khi UTĐT góc lách và phần ba trái của đại tràng ngang sẽ di căn hạch dọc theo bó mạch đại tràng giữa và đại tràng trái.
+Trong khi hầu hết các phần của đại tràng sẽ được dẫn lưu bạch huyết theo một hướng thì đại tràng góc gan, góc lách và phần ba phải, trái của đại tràng ngang có hai hướng dẫn lưu bạch huyết. Khối u ở đại tràng góc gan hoặc phần ba phải đại tràng ngang sẽ di căn hạch theo bó mạch hồi đại tràng và đại tràng giữa, trong khi đó UTĐT góc lách và phần ba trái của đại tràng ngang sẽ di căn hạch dọc theo bó mạch đại tràng giữa và đại tràng trái.
 
 ## 8.4. Sự lan rộng bằng đường máu
 
@@ -4370,28 +4399,24 @@ Sự xâm nhập của tế bào ung thư vào các nhánh tĩnh mạch cửa tr
 - Thể trôi nổi: các tế bào u nằm trong lòng mạch không dính vào thành.
 - Thể lấp: các tế bào u lấp đầy lòng tĩnh mạch.
 - Thể xâm nhiễm: các tế bào u phát triển trong lòng mạch, xâm nhiễm vào thành mạch kèm phản ứng viêm trên thành mạch và mô xung quanh.
-
 Tạng hay bị di căn nhất là gan (77%).
 
-8.5. Sự gieo rắc tế bào ung thư
+## 8.5. Sự gieo rắc tế bào ung thư
 
 Tế bào ung thư có thể bong tróc và gieo rắc vào các bề mặt bị tổn thương như các vết thương do cắt u hoặc qua vết mổ lấy bệnh phẩm.
 
 **Sơ đồ: Tóm tắt các hướng lan hay gieo rắc của ung thư đại tràng.**
-
 - Tại chỗ
   - Liên tục --> Xuyên thanh mạc --> Di căn phúc mạc
   - Vệ tinh
   - Giao rắc do phẫu thuật --> Tái phát tại chỗ
   - Trong lòng
-- Bạch huyết --> Hạch vùng --> Hạch xa --> Ông ngực/Tĩnh mạch chủ --> Di căn phổi
+- Bạch huyết --> Hạch vùng --> Hạch xa --> Ông ngực/ Tĩnh mạch chủ --> Di căn phổi
 - Tĩnh mạch --> Tĩnh mạch cửa --> Di căn gan --> Di căn các tạng khác
 
-9. ĐÁNH GIÁ GIAI ĐOẠN UNG THƯ ĐẠI TRÀNG
-
-9.1. Chẩn đoán ung thư đại tràng
-
-9.1.1. Vị trí u nguyên phát
+# 9. ĐÁNH GIÁ GIAI ĐOẠN UNG THƯ ĐẠI TRÀNG
+## 9.1. Chẩn đoán ung thư đại tràng
+## 9.1.1. Vị trí u nguyên phát
 
 Khung đại trực tràng bắt đầu từ van hồi manh tràng đến ống hậu môn. Đại tràng được chia làm bốn phần: bên phải (manh tràng và đại tràng lên), ở giữa (đại tràng ngang), bên trái (đại tràng xuống) và đại tràng chậu hông. Đại tràng gồm các phần:
 - Manh tràng (dài 6-9 cm)
@@ -4406,39 +4431,33 @@ Khung đại trực tràng bắt đầu từ van hồi manh tràng đến ống 
 [Hình: Giải phẫu đại tràng.]
 - Đại tràng ngang
 - Đại tràng góc gan
-- Đại tràng góc lách
 - Đại tràng lên
-- Đại tràng xuống
 - Manh tràng
 - Đại tràng sigma
+- Đại tràng xuống
+- Đại tràng góc lách
 
 **Hình 3. Giải phẫu đại tràng.**
 
-**9.1.2. Hạch vùng**
+## 9.1.2. Hạch vùng
 
 Theo Uỷ ban Liên hiệp Ung thư Hoa Kỳ 8 (American Joint Committee on Cancer, AJCC), hạch vùng được phân chia theo các vùng
+
 - Hạch ở mạch máu chính cấp máu cho đại tràng
 - Hạch ở mạch viền
 - Hạch ở cạnh đại tràng
 
-[Hình: Hạch vùng của đại tràng.]
+[Hình: Hạch vùng của đại tràng. Các chú thích: ĐM mạc treo tràng trên, ĐM đại tràng giữa, ĐM đại tràng phải, ĐM hồi đại tràng, ĐM chậu trong, ĐM mạc treo tràng dưới, ĐM đại tràng chậu hông, ĐM trực tràng trên]
 
-- ĐM mạc treo tràng trên
-- ĐM đại tràng giữa
-- ĐM đại tràng phải
-- ĐM hồi đại tràng
-- ĐM chậu trong
-- ĐM mạc treo tràng dưới
-- ĐM đại tràng chậu hông
-- ĐM trực tràng trên
+Hình 4. Hạch vùng của đại tràng.
 
-9.1.3. Di căn xa
+**9.1.3. Di căn xa**
 
 Ung thư đại tràng có thể di căn đến bất kỳ cơ quan nào, thường gặp nhất là ở gan và phổi.
 
-9.2. Phân giai đoạn ung thư đại tràng theo TNM
+**9.2. Phân giai đoạn ung thư đại tràng theo TNM**
 
-Hệ thống TNM xếp giai đoạn UTĐT dựa trên 3 yếu tố là độ sâu xâm lấn của u nguyên phát, số lượng hạch di căn và di căn xa. Đối với những trường hợp ung thư còn khu trú tại chỗ hay xâm lấn tại vùng thì hạch di căn là yếu tố tiên lượng quan trọng nhất. Hiện nay, các nhà ung thư sử dụng hệ thống xếp giai đoạn TNM năm 2018 của Ủy ban Liên hiệp Ung thư Hoa Kỳ 8 (American Joint Committee on Cancer, AJCC) để thống nhất trong việc trao đổi thông tin.
+**Hệ thống TNM** xếp giai đoạn UTĐT dựa trên 3 yếu tố là độ sâu xâm lấn của u nguyên phát, số lượng hạch di căn và di căn xa. Đối với những trường hợp ung thư còn khu trú tại chỗ hay xâm lấn tại vùng thì hạch di căn là yếu tố tiên lượng quan trọng nhất. Hiện nay, các nhà ung thư sử dụng hệ thống xếp giai đoạn TNM năm 2018 của Ủy ban Liên hiệp Ung thư Hoa Kỳ 8 (*American Joint Committee on Cancer, AJCC*) để thống nhất trong việc trao đổi thông tin.
 
 U nguyên phát (T):
 - Tx: U nguyên phát không thể đánh giá được
@@ -4458,10 +4477,9 @@ Di căn hạch vùng (N):
 - N1a Di căn 1 hạch vùng
 - N1b Di căn 2-3 hạch vùng
 - N1c U gieo rắc đến dưới thanh mạc/mạc treo ruột và không di căn hạch
-- N2 Di căn ≥ 4 hạch vùng
+- N2 Di căn $\ge 4$ hạch vùng
 - N2a Di căn 4-6 hạch vùng
-- N2b Di căn ≥ 7 hạch vùng
-
+- N2b Di căn $\ge 7$ hạch vùng
 Di căn xa (M):
 - M0 Không có di căn xa
 - M1 Có di căn xa
@@ -4475,18 +4493,18 @@ Di căn xa (M):
 | :--- | :--- | :--- | :--- |
 | 0 | Tis | N0 | M0 |
 | I | T1 | N0 | M0 |
-| | T2 | N0 | M0 |
-| IIA | T3 | N0 | M0 |
-| IIB | T4a | N0 | M0 |
-| IIC | T4b | N0 | M0 |
-| IIIA | T1-T2 | N1/N1c | M0 |
-| | T1 | N2a | M0 |
+| IIA | T2 | N0 | M0 |
+| IIB | T3 | N0 | M0 |
+| IIC | T4a | N0 | M0 |
+| IIIA | T4b | N0 | M0 |
+| IIIB | T1-T2 | N1/N1c | M0 |
+| IIIB | T1 | N2a | M0 |
 | IIIB | T3-T4a | N1/N1c | M0 |
-| | T2-T3 | N2a | M0 |
-| IIIC | T1-T2 | N2b | M0 |
-| | T4a | N2a | M0 |
-| | T3-T4a | N2b | M0 |
-| | T4b | N1-N2 | M0 |
+| IIIB | T2-T3 | N2a | M0 |
+| IIIB | T1-T2 | N2b | M0 |
+| IIIC | T4a | N2a | M0 |
+| IIIC | T3-T4a | N2b | M0 |
+| IIIC | T4b | N1-N2 | M0 |
 | IVA | Bất kì T | Bất kì N | M1a |
 | IVB | Bất kì T | Bất kì N | M1b |
 | IVC | Bất kì T | Bất kì N | M1c |
@@ -4499,11 +4517,9 @@ Triệu chứng thường gặp nhất của UTĐT là đau bụng. Cơn đau c�
 
 10.2. Thay đổi thói quen đi cầu
 Đây là triệu chứng thường gặp thứ hai của UTĐT. Ở ung thư giai đoạn sớm, sự thay đổi hầu như rất ít, có thể chỉ thay đổi số lần đi cầu. Ngoài ra, biểu hiện cũng có thể là thay đổi kích thước, hình dạng bất thường và tính chất phân. Triệu chứng lâm sàng sẽ tùy thuộc vào vị trí khối u. Ở đại tràng phải, nơi mà đại tràng rộng hơn và ung thư thường là dạng chồi sùi, phân thường lỏng và triệu chứng xảy ra muộn hơn. Ngược lại, ở nửa trái đại tràng có lòng hẹp hơn và ung thư thường ở dạng vòng nhẫn, phân thường cứng và biểu hiện lâm sàng thường xảy ra sớm hơn.
-Phải: phân lỏng, triệu chứng muộn
-T: phân cứng, triệu chứng sớm
 
 10.3. Đi cầu ra máu
-Có khoảng 25% UTĐT có triệu chứng đi cầu ra máu. Mức độ chảy máu và màu sắc máu khác nhau trên từng bệnh nhân. Đi cầu ra máu đỏ tươi gặp ở u nằm ở đoạn cuối của khung đại tràng. Đi cầu ra máu rất dễ nhầm lẫn với bệnh trĩ, và đó cũng là lý do mà ung thư được chẩn đoán chậm trễ, đặc biệt ở những người trẻ tuổi.
+Có khoảng 25% UTĐT có triệu chứng đi cầu ra máu. Mức độ chảy máu và màu sắc máu khác nhau trên từng bệnh nhân. Đi cầu ra máu đỏ tươi gặp ở u nằm ở đoạn cuối của khung đại tràng. Đi cầu ra máu rất dễ nhầm lẫn với bệnh trĩ, và đó cũng là lý do mà ung thư được chuẩn đoán chậm trễ, đặc biệt ở những người trẻ tuổi.
 
 10.4. Bệnh sử và thăm khám lâm sàng
 Hỏi bệnh sử và thăm khám lâm sàng kỹ lưỡng là một bước quan trọng trong chẩn đoán UTĐT ở những bệnh nhân có triệu chứng đường tiêu hóa. Không nên bỏ qua những triệu chứng không đặc hiệu như thay đổi thói quen đi cầu, thay đổi tính chất phân, mệt mỏi, sụt cân...
@@ -4513,39 +4529,40 @@ không chỉ đối với việc điều trị cho từng bệnh nhân mà còn 
 
 Thăm khám lâm sàng có thể sờ được khối u hay phát hiện các biến chứng của khối u. Có thể sờ thấy gan to (di căn gan?), bụng trướng và nhu động ruột tăng (trong tắc/bán tắc ruột). Những dấu hiệu phản ứng phúc mạc ở vị trí khối u gợi ý biến chứng thủng u. Hạch thượng đòn trái có thể là dấu hiệu trễ của bệnh ác tính đường tiêu hóa. Thăm hậu môn giúp phát hiện các sang thương ở trực tràng, đánh giá tính chất phân, sự hiện diện của máu.
 
-# 11. CẬN LÂM SÀNG
+## 11. CẬN LÂM SÀNG
 
-## 11.1. Nội soi đại tràng
+### 11.1. Nội soi đại tràng
 
 Nội soi đại tràng và sinh thiết là tiêu chuẩn vàng để chẩn đoán UTĐT. Nội soi đại tràng được chỉ định trong trường hợp có những triệu chứng lâm sàng nghi ngờ, cần xác minh những bất thường mà hình ảnh học ghi nhận, đánh giá những triệu chứng không lý giải được như thiếu máu, tầm soát và theo dõi những người có nguy cơ UTĐT. Nội soi đại tràng còn là phương tiện điều trị đối với các polyp và ung thư giai đoạn sớm.
 
-[Hình: Hình 5. Hình ung thư đại tràng qua nội soi đại tràng.]
+[Hình: Hình ung thư đại tràng qua nội soi đại tràng.]
 
-## 11.2. X quang đại tràng
+Hình 5. Hình ung thư đại tràng qua nội soi đại tràng.
+
+### 11.2. X quang đại tràng
 
 Ưu điểm của X quang đại tràng là có thể định vị chính xác vị trí u trên khung đại tràng. Hạn chế của phương pháp là có thể bỏ sót hoặc nhầm lẫn đối với các u nhỏ, nhất là trong trường hợp đại tràng không sạch. Với các thương tổn nhỏ hơn 1cm, độ nhạy của phương pháp này chỉ là 50%; trong khi với các thương tổn lớn hơn 1cm, độ nhạy có thể đạt 90%. Hình ảnh UTĐT có thể là hình khuyết thuốc hay lõi táo tùy theo hình dạng u. X quang đại tràng ngày càng ít được sử dụng do thông tin mang lại không nhiều và do hiệu quả của các phương tiện chẩn đoán hình ảnh khác.
 
-## 11.3. Chụp cắt lớp vi tính
+11.3. Chụp cắt lớp vi tính
 
 Hiện nay, chụp cắt lớp vi tính (CLVT) là phương tiện chẩn đoán thường quy đối với UTĐT. Chụp CLVT ngoài mục đích chẩn đoán bệnh còn giúp đánh giá giai đoạn bệnh.
 
 Chụp CLVT là phương tiện tốt để phát hiện di căn gan của UTĐT. Khối u di căn gan thường được cấp máu bởi động mạch gan trong khi nhu mô gan được cấp máu chủ yếu bởi tĩnh mạch cửa. Vì thế, ở thì tĩnh mạch cửa, sang thương di căn gan có hình ảnh đậm độ thấp không thay đổi tăng quang động học. Đặc điểm trên giúp phân biệt u di căn với các u khác ở gan. Chụp CLVT có độ nhạy 85% với khối u di căn gan do UTĐT.
 
 [Hình: Hình ung thư đại tràng xuống trên chụp CLVT.]
-
 Hình 6. Hình ung thư đại tràng xuống trên chụp CLVT.
 
-## 11.4. Chụp hình cắt lớp phát xạ positron
+11.4. Chụp hình cắt lớp phát xạ positron
 
 Không được xem là phương tiện chẩn đoán thường quy trong UTĐT vì đắt tiền và cho kết quả khác biệt không đáng kể so với cắt lớp vi tính. Chụp hình cắt lớp phát xạ positron (Positron emission tomographic, PET) được xem là phương pháp tốt để giúp chẩn đoán ung thư di căn, đặc biệt là di căn ngoài gan; còn được chỉ định để đánh giá ung thư tái phát dựa trên các gợi ý từ cắt lớp vi tính, CEA và nội soi đại tràng.
 
-## 11.5. Kháng nguyên ung thư phôi
+11.5. Kháng nguyên ung thư phôi
 
 Kháng nguyên ung thư phôi (CEA) không có giá trị trong chẩn đoán ung thư đại tràng. Hiện nay, CEA được dùng để tiên lượng và theo dõi sau điều trị UTĐT. Ở những bệnh nhân có CEA cao trước mổ, mức CEA sẽ xuống thấp sau phẫu thuật triệt căn. Nếu CEA không hạ xuống, bệnh nhân có thể có ung thư di căn chưa được phát hiện. CEA trước mổ cao cũng là yếu tố gợi ý khả năng di căn cao trên bệnh nhân ung thư đại tràng.
 
 11.6. Máu ẩn trong phân
 
-Những xét nghiệm tìm máu ẩn trong phân gần đây sử dụng công nghệ miễn dịch giúp giảm tỷ lệ dương tính giả. Máu ẩn trong phân chỉ phản ánh một tình trạng chảy máu rỉ rả trong đường tiêu máu, cần phải thực hiện các cận lâm sàng tiếp theo (như nội soi tiêu hóa,...) để xác định chắc chắn tình trạng chảy máu có nguồn gốc từ UTĐT hay từ các bệnh khác của ống tiêu hóa như viêm loét dạ dày, polyp đại tràng, viêm đại tràng, trĩ...
+Những xét nghiệm tìm máu ẩn trong phân gần đây sử dụng công nghệ miễn dịch giúp giảm tỷ lệ dương tính giả. Máu ẩn trong phân chỉ phản ánh một tình trạng chảy máu rỉ rá trong đường tiêu máu, cần phải thực hiện các cận lâm sàng tiếp theo (như nội soi tiêu hóa,...) để xác định chắc chắn tình trạng chảy máu có nguồn gốc từ UTĐT hay từ các bệnh khác của ống tiêu hóa như viêm loét dạ dày, polyp đại tràng, viêm đại tràng, trĩ...
 
 ## 12. ĐIỀU TRỊ
 
@@ -4564,39 +4581,44 @@ Theo hướng dẫn của Mạng lưới Ung thư Quốc gia Hoa kỳ (NCCN) nă
 **Sơ đồ: Lưu đồ 1. Phác đồ điều trị ung thư đại tràng theo NCCN 2020**
 
 - Ung thư đại tràng có thể phẫu thuật cắt u (không di căn) --> Nội soi đại tràng, sinh thiết, giải phẫu bệnh
+  - Nội soi đại tràng, sinh thiết, giải phẫu bệnh
   - Xét nghiệm huyết học, sinh hóa, CEA
   - CLVT ngực, bụng chậu, xem xét CHT bụng chậu
   - Không cần thiết chụp PET/CT
   - Xét nghiệm mất ổn định vi vệ tinh và sửa lỗi bắt cặp (MMR/MSI)
   - Tư vấn chăm sóc HMNT, đánh dấu vị trí HMNT trước mổ
   - Tư vấn nguy cơ tổn hại khả năng sinh sản
-  - Có thể cắt u, không tắc ruột --> Cắt đại tràng (kèm nạo hạch vùng en bloc) --> Hóa trị hỗ trợ hoặc theo dõi
+  - Có thể cắt u, không tắc ruột --> Cắt đại tràng (kèm nạo hạch vùng en bloc)
   - Có thể cắt u, có tắc ruột
     - Cắt đại tràng, cắt nối một thì
-    - Cắt đại tràng, làm HMNT --> Cắt đại tràng --> Hóa trị hỗ trợ hoặc theo dõi
+    - Cắt đại tràng, làm HMNT --> Làm HMNT --> Cắt đại tràng --> Hóa trị hỗ trợ hoặc theo dõi
     - Làm HMNT --> Cắt đại tràng --> Hóa trị hỗ trợ hoặc theo dõi
     - Đặt stent --> Cắt đại tràng --> Hóa trị hỗ trợ hoặc theo dõi
   - Hạch bulky hoặc cT4b --> Hóa trị FOLFOX hoặc CAPEOX
   - Không thể cắt u do xâm lấn hoặc do bệnh nền nặng
     - Hóa trị toàn thân
-    - 5-FU /Capecitabine /bolus5-FU-leucovorin và xạ trị --> Đánh giá lại sau điều trị --> Phẫu thuật $\pm$ xạ trị trong mổ
+    - 5-FU/Capecitabine/bolus5-FU-leucovorin và xạ trị --> Đánh giá lại sau điều trị --> Phẫu thuật ± xạ trị trong mổ
     - Đánh giá lại sau điều trị --> Hóa trị toàn thân
 
-**Sơ đồ: Lưu đồ 2. Điều trị ung thư đại tràng giai đoạn sớm**
-- Ung thư cTis (M) --> Ung thư cTis (M) / cT1 (SM) xâm lấn nhẹ --> Có thể cắt trọn u qua NSĐT (nguyên khối) --> Cắt u qua NSĐT --> Chẩn đoán GPB --> Theo dõi
-- Ung thư cTis (M) / cT1 (SM) xâm lấn nhẹ --> Không thể cắt trọn u qua NSĐT --> Phẫu thuật
-- Ung thư cT1 (SM) --> Ung thư cT1 (SM) xâm lấn sâu --> Phẫu thuật
+**Sơ đồ: Lưu đồ 2. Điều trị ung thư đại tràng giai đoạn sớm.**
+- Ung thư cTis (M) --> Ung thư cTis (M) / Ung thư cT1 (SM)
+  - Ung thư cT1 (SM) --> Ung thư cT1 (SM) xâm lấn sâu --> Phẫu thuật
+  - Ung thư cTis (M) / cT1 (SM) xâm lấn nhẹ --> Không thể cắt trọn u qua NSĐT --> Phẫu thuật
+  - Ung thư cTis (M) / cT1 (SM) xâm lấn nhẹ --> Có thể cắt trọn u qua NSĐT (nguyên khối) --> Cắt u qua NSĐT --> Chẩn đoán GPB --> Theo dõi
 
-**Sơ đồ: Lưu đồ 3. Điều trị ung thư đại tràng di căn**
-- U di căn / U nguyên phát --> Cắt được --> Cắt được --> Cắt u nguyên phát và di căn
-- U di căn / U nguyên phát --> Cắt được --> Không cắt được --> Phương pháp điều trị khác **
-- U di căn / Không cắt được --> Cắt được --> Có --> Phương pháp điều trị khác **
-- U di căn / Không cắt được --> Cắt được --> Không --> Cắt u nguyên phát và điều trị khác với di căn
-- U di căn / Không cắt được --> Không cắt được --> Phương pháp điều trị khác **
-- Triệu chứng u nguyên phát * --> Cắt u nguyên phát và di căn
+**Sơ đồ: Lưu đồ 3. Điều trị ung thư đại tràng di căn.**
+- U di căn
+  - Cắt được
+    - U nguyên phát --> Cắt được --> Cắt u nguyên phát và di căn
+    - U nguyên phát --> Không cắt được --> Phương pháp điều trị khác \*\*
+    - U nguyên phát --> Triệu chứng u nguyên phát\* --> Cắt u nguyên phát và di căn
+  - Không cắt được
+    - Cắt được --> Phương pháp điều trị khác \*\*
+    - Không cắt được --> Có --> Cắt u nguyên phát và điều trị khác với u di căn
+    - Không cắt được --> Không --> Phương pháp điều trị khác \*\*
 
-*Triệu chứng gồm chảy máu nhiều, thiếu máu nặng, thủng, hoặc hẹp.
-**Phương pháp điều trị khác: phẫu thuật làm sạch, hậu môn nhân tạo trên dòng, hóa trị, xạ trị
+\*Triệu chứng gồm chảy máu nhiều, thiếu máu nặng, thủng, hoặc hẹp.
+\*\*Phương pháp điều trị khác: phẫu thuật làm sạch, hậu môn nhân tạo trên dòng, hóa trị, xạ trị
 
 ## 12.2. Phẫu thuật
 
@@ -4607,7 +4629,7 @@ Có nhiều phương pháp phẫu thuật trong điều trị ung thư đại tr
 | Cắt đại tràng phải | U manh tràng, đại tràng lên | Hồi đại tràng, đại tràng phải |
 | Cắt đại tràng phải mở rộng | U góc gan, 1/3 phải đại tràng ngang | Hồi đại tràng, đại tràng phải, đại tràng giữa |
 | Cắt đại tràng ngang | 1/3 giữa đại tràng ngang | Đại tràng giữa |
-| Hiện nay ít được chỉ định | | |
+| | Hiện nay ít được chỉ định | |
 | Cắt đại tràng trái | U đại tràng góc lách, đại tràng xuống | Đại tràng trái, +/- đại tràng giữa, +/- đại tràng chậu hông |
 | Cắt đại tràng chậu hông | 1/3 giữa đại tràng chậu hông | Các nhánh chậu hông hoặc thắt tận gốc mạc treo tràng dưới |
 | Cắt trước | 1/3 cuối đại tràng chậu hông | Thắt tận gốc mạc treo tràng dưới |
@@ -4652,20 +4674,20 @@ Phương pháp điều trị bao gồm phẫu thuật cắt đại tràng mang u
 
 Chảy máu tiêu hóa dưới gặp ở 6-17% bệnh nhân UTĐT. Chảy máu nặng trong ung thư đại tràng là hiếm gặp. Biểu hiện lâm sàng thường là đi cầu phân đen. Ngoài ra bệnh nhân cũng có triệu chứng gợi ý ung thư như thay đổi thói quen đi cầu, sụt cân. Nếu bệnh nhân có biểu hiện đi cầu ra máu, nội soi đại tràng giúp đánh giá toàn bộ khung đại tràng và xác định vị trí chảy máu. Điều trị thường là điều trị nội khoa và lên kế hoạch phẫu thuật chương trình. Nếu chảy máu nhiều, ồ ạt, bệnh nhân cần được hồi sức và phẫu thuật cấp cứu.
 
-**14. THEO DÕI SAU ĐIỀU TRỊ**
-
-**14.1. Giai đoạn 0 và giai đoạn I**
+# 14. THEO DÕI SAU ĐIỀU TRỊ
+## 14.1. Giai đoạn 0 và giai đoạn I
 
 Nội soi đại tràng sau mổ 1 năm. Nếu nội soi đại tràng ghi nhận có polyp tuyến, thực hiện lại sau 1 năm. Nếu nội soi bình thường, thực hiện lại sau 3 năm và rồi mỗi 5 năm.
 
-**14.2. Giai đoạn II và giai đoạn III**
+## 14.2. Giai đoạn II và giai đoạn III
 
-- Tái khám: mỗi 3-6 tháng trong 2 năm đầu và mỗi 6 tháng trong 3 năm tiếp theo.
-- Mỗi lần tái khám cần thực hiện siêu âm bụng, CEA.
-- Chụp cắt lớp vi tính bụng: thực hiện mỗi năm trong 5 năm đầu cho bệnh nhân có nguy cơ tái phát cao hoặc có dấu hiệu nghi ngờ trên siêu âm bụng.
-- Nội soi đại tràng: thực hiện sau phẫu thuật 1 năm. Nếu bệnh nhân không có nội soi đại tràng hoặc chưa khảo sát hết khung đại tràng bằng nội soi trước mổ thì nội soi đại
+Tái khám: mỗi 3-6 tháng trong 2 năm đầu và mỗi 6 tháng trong 3 năm tiếp theo.
 
-tràng sau mổ 3-6 tháng. Nếu nội soi đại tràng ghi nhận polyp tuyến, thực hiện lại sau 1 năm. Nếu nội soi bình thường, thực hiện lại sau 3 năm và rồi mỗi 5 năm.
+Mỗi lần tái khám cần thực hiện siêu âm bụng, CEA.
+
+Chụp cắt lớp vi tính bụng: thực hiện mỗi năm trong 5 năm đầu cho bệnh nhân có nguy cơ tái phát cao hoặc có dấu hiệu nghi ngờ trên siêu âm bụng.
+
+Nội soi đại tràng: thực hiện sau phẫu thuật 1 năm. Nếu bệnh nhân không có nội soi đại tràng hoặc chưa khảo sát hết khung đại tràng bằng nội soi trước mổ thì nội soi đại tràng sau mổ 3-6 tháng. Nếu nội soi đại tràng ghi nhận polyp tuyến, thực hiện lại sau 1 năm. Nếu nội soi bình thường, thực hiện lại sau 3 năm và rồi mỗi 5 năm.
 
 ## 15. TIÊN LƯỢNG
 
@@ -4748,56 +4770,59 @@ Theo AJCC, tỷ lệ sống còn 5 năm của UTĐT giai đoạn I trên 90%, gi
 - C. Ung thư manh tràng
 - D. Ung thư đại tràng chậu hông 1/3 cuối
 
-# UNG THƯ TRỰC TRÀNG
-Ung Văn Việt, Trần Đức Huy
+# UNG THƯ TRỰC TRÀNG Ung Văn Việt, Trần Đức Huy
 
-MỤC TIÊU
+**MỤC TIÊU**
+
 1. Khai thác được từ người bệnh 3 nhóm yếu tố thuận lợi của ung thư trực tràng.
 2. Vận dụng triệu chứng lâm sàng và cận lâm sàng để chẩn đoán xác định ung thư trực tràng, chẩn đoán giai đoạn.
 3. Chỉ định phương pháp điều trị phù hợp với nguyên tắc điều trị đa mô thức.
 4. Chỉ định phương tiện tầm soát ung thư đại-trực tràng phù hợp cho từng nhóm đối tượng.
 
-Từ khóa: bảng phân loại mô học của WHO, đánh giá giai đoạn ung thư TNM, phẫu thuật ngả bụng (cắt trước) có bảo tồn cơ thắt, phẫu thuật cắt trước, cắt trước thấp, cắt-nối ống hậu môn, phẫu thuật Miles, đi tiêu phân đờm nhớt.
+**Từ khóa:** bảng phân loại mô học của WHO, đánh giá giai đoạn ung thư TNM, phẫu thuật ngả bụng (cắt trước) có bảo tồn cơ thắt, phẫu thuật cắt trước, cắt trước thấp, cắt-nối ống hậu môn, phẫu thuật Miles, đi tiêu phân đờm nhớt.
 
-1. DỊCH TỄ
+## 1. DỊCH TỄ
+
 Ung thư đại-trực tràng là một trong các bệnh lý thường gặp và có tỷ lệ tử vong cao trên thế giới. Theo thống kê của Tổ chức Y tế Thế giới năm 2019 tại Việt Nam (GLOBOCAN) thì ung thư đại trực tràng đứng hàng thứ ba, vượt qua ung thư dạ dày và ung thư vú, chỉ đứng sau ung thư gan và phổi. Mặc dù trực tràng là phần ống tiêu hóa dài khoảng 15cm nhưng ung thư trực tràng nhiều gấp 1,5 lần so với ung thư đại tràng và đứng hàng thứ năm với tỷ lệ tử vong là 4,1% [1].
 
 Tần suất ung thư đại-trực tràng ở người trẻ tại Việt Nam khác nhau ở một vài nghiên cứu. Nghiên cứu của Bùi Chí Viết và cộng sự tại Bệnh viện Ung Bướu TP. Hồ Chí Minh từ tháng trong 2 năm (1/2006-12/2007), tỷ lệ này chiếm khoảng 30% [2], tương đương tần suất với báo cáo của Đặng Trần Tiến tại bệnh viện E trong 3 năm (từ 4/2004-4/2007) [3]. Tại trung tâm Medic, báo cáo của Nguyễn Sào Trung trong năm 2004 khoảng 24% [4]. Tại bệnh viện Đại học Y Dược Thành phố Hồ Chí Minh, tỷ lệ này là 24,1% ở người nhỏ hơn 50 tuổi, và 11,7% ở người nhỏ hơn 40 tuổi [5].
 
-2. YẾU TỐ THUẬN LỢI
-2.1. Chế độ ăn và sinh hoạt
+## 2. YẾU TỐ THUẬN LỢI
+
+### 2.1. Chế độ ăn và sinh hoạt
 
 Yếu tố tăng nguy cơ: chế độ ăn nhiều mỡ (động vật), thịt đỏ, thức uống có cồn, béo phì, khói thuốc, viêm ruột (inflammatory bowel disease, IBD).
 
 Yếu tố giảm nguy cơ: rau, trái cây, nhiều chất xơ, canxi, Folate, Aspirin và NSAID, vận động thể lực.
 
-2.2. Yếu tố di truyền: khoảng 15 - 35% bệnh nhân ung thư trực tràng có yếu tố di truyền.
+**2.2. Yếu tố di truyền:** khoảng 15 - 35% bệnh nhân ung thư trực tràng có yếu tố di truyền.
 
-**Sơ đồ: Hình 1. Tổng quan về ung thư đại trực tràng [6]**
-- Ung thư đại-trực tràng
-  - 65% do môi trường
-  - 35% do di truyền
-    - 30% không hội chứng
-    - 5% có hội chứng
-      - 2% bệnh đa polyp
-      - 3% không polyp
+**Sơ đồ: Tổng quan về ung thư đại trực tràng**
+- Ung thư đại-trực tràng --> 65% do môi trường
+- Ung thư đại-trực tràng --> 35% do di truyền
+  - 30% không hội chứng
+  - 5% có hội chứng
+    - 2% bệnh đa polyp
+    - 3% không polyp
 
-2.3. Những thương tổn tiền ung thư
+Hình 1. Tổng quan về ung thư đại trực tràng [6].
 
-Polyp trực tràng: những polyp có kích thước càng lớn càng dễ ung thư hóa. Các u tuyến nhánh thường có kích thước lớn hơn 1 cm trong khi các u tuyến ống thường nhỏ hơn 1cm. Số lượng polyp càng nhiều, độ dị sản càng cao thì nguy cơ hóa ác càng cao.
+**2.3. Những thương tổn tiền ung thư**
+
+Polyp trực tràng: những polyp có kích thước càng lớn càng dễ ung thư hóa. Các u tuyến nhánh thường có kích thước lớn hơn $1\text{ cm}$ trong khi các u tuyến ống thường nhỏ hơn $1\text{cm}$. Số lượng polyp càng nhiều, độ dị sản càng cao thì nguy cơ hóa ác càng cao.
 
 Viêm loét đại trực tràng xuất huyết: nguy cơ ung thư hóa gia tăng theo thời gian tiến triển của bệnh. Ở người trẻ bị viêm loét đại trực tràng thì nguy cơ ung thư xảy ra sớm hơn.
 
-Bệnh Crohn: nguy cơ ung thư hóa là 1/500 – 1/200. Những người bị bệnh Crohn trước 40 tuổi có nguy cơ ung thư hóa nhiều hơn những người mắc sau 40 tuổi.
+Bệnh Crohn: nguy cơ ung thư hóa là $1/500 - 1/200$. Những người bị bệnh Crohn trước 40 tuổi có nguy cơ ung thư hóa nhiều hơn những người mắc sau 40 tuổi.
 
-3. GIẢI PHẪU TRỰC TRÀNG THEO QUAN ĐIỂM PHẪU THUẬT
+# 3. GIẢI PHẪU TRỰC TRÀNG THEO QUAN ĐIỂM PHẪU THUẬT
 
 Trực tràng là phần cuối của ống tiêu hóa, tiếp theo đại tràng chậu hông. Ranh giới giữa trực tràng và đại tràng chậu hông được mô tả rất khác nhau
 
-Trực tràng nằm rất sâu, sát với xương cùng và xương cụt. Trực tràng có 2 đoạn: Phần trên là bóng trực tràng phình to, phần dưới hẹp là ống hậu môn. Chiều dài trực tràng dài khoảng 15cm, chiều dài ống hậu môn 4-5cm. Ống hậu môn theo quan điểm của các nhà giải phẫu là từ bờ hậu môn đến đường lược, dài 2 - 3cm. Còn ống hậu môn, theo quan điểm của các nhà phẫu thuật, là từ bờ hậu môn đến vòng cơ mu trực tràng, dài khoảng 4 – 5 cm
+Trực tràng nằm rất sâu, sát với xương cùng và xương cụt. Trực tràng có 2 đoạn: Phần trên là bóng trực tràng phình to, phần dưới hẹp là ống hậu môn. Chiều dài trực tràng dài khoảng $15\text{cm}$, chiều dài ống hậu môn $4\text{-}5\text{cm}$. Ống hậu môn theo quan điểm của các nhà giải phẫu là từ bờ hậu môn đến đường lược, dài 2 - $3\text{cm}$. Còn ống hậu môn, theo quan điểm của các nhà phẫu thuật, là từ bờ hậu môn đến vòng cơ mu trực tràng, dài khoảng $4 - 5\text{ cm}$
 
 Về mặt phẫu thuật, trực tràng có 2 cách chia:
-- Chia 2 phần: trực tràng trong ổ bụng và trực tràng ngoài ổ bụng. Nếp phúc mạc chậu ngăn cách 2 phần cách bờ hậu môn 7-9cm
+- Chia 2 phần: trực tràng trong ổ bụng và trực tràng ngoài ổ bụng. Nếp phúc mạc chậu ngăn cách 2 phần cách bờ hậu môn $7\text{-}9\text{cm}$
 
 - Chia 3 phần:
   - 1/3 dưới: 0-5cm cách bờ hậu môn
@@ -4870,20 +4895,21 @@ Trực tràng bao gồm bóng trực tràng thuộc về hệ tiêu hóa, còn �
 
 Trong phẫu thuật trực tràng có nhiều vị trí thường gây tổn thương thần kinh tự trị của chậu hông, từ đám rối mạc treo tràng dưới đến tận đáy chậu, gây ra những biến chứng rối loạn đại tiện, tiểu tiện và sinh dục.
 
-**Sơ đồ: [Hình: Minh họa phân bố thần kinh quanh trực tràng]**
+[Hình: Minh họa phân bố thần kinh quanh trực tràng]
+
 - Thân giao cảm và hạch
 - Động mạch mạc treo tràng dưới
-- Đám rối hạ vị trên
 - Thần kinh giao cảm
-- Niệu quản
 - Thần kinh phó giao cảm
+- Đám rối hạ vị trên
+- Niệu quản
 - Đám rối hạ vị dưới
-- Đám rối chậu
 - Dây thần kinh tạng chậu (S2-S4)
+- Đám rối chậu
 - Trực tràng
 - Bàng quang
 
-Hình 3. Minh họa phân bố thần kinh quanh trực tràng.
+**Hình 3.** Minh họa phân bố thần kinh quanh trực tràng.
 
 4. GIẢI PHẪU BỆNH UNG THƯ TRỰC TRÀNG
 
@@ -4918,7 +4944,7 @@ Bảng 1. Độ biệt hóa của ung thư biểu mô tuyến đại trực trà
 
 ### 5.1. Xâm lấn tại chỗ
 
-Từ lớp niêm mạc, tế bào ung thư ăn lan nhanh vào các lớp sâu hơn, nhưng được lớp bao ngoài cùng ngăn cản nên phát triển chậm lại, lan theo chiều cao rất chậm, mỗi năm chỉ được khoảng 3-4 cm, nhưng theo chu vi rất nhanh, trong 6 tháng có thể được 1/4 chu vi.
+Từ lớp niêm mạc, tế bào ung thư ăn lan nhanh vào các lớp sâu hơn, nhưng được lớp bao ngoài cùng ngăn cản nên phát triển chậm lại, lan theo chiều cao rất chậm, mỗi năm chỉ được khoảng 3-4 cm, nhưng theo chu vi rất nhanh, trong 6 tháng có thể được ¼ chu vi.
 
 Khi u xâm lấn vượt quá thành trực tràng sẽ xâm lấn các cơ quan lân cận:
 
@@ -4946,12 +4972,12 @@ Triệu chứng của ung thư trực tràng nói chung thường không đặc 
 - Thay đổi thói quen đi cầu hàng ngày (43%): xuất hiện khi u phát triển lớn, thường dạng tiêu chảy.
 - Cảm giác buốt mót vùng hậu môn.
 - Đi cầu nhiều lần trong ngày, phân nhỏ dẹt, cảm giác đi không hết phân.
-- Ỉa són, ỉa dầm dề thường là triệu chứng ung thư đã xâm lấn cơ nâng, cơ thắt hậu môn.
-- Đau bụng có thể gặp trong 20% trường hợp. Lưu ý kiểu đau bụng từng cơn trong hội chứng tắc ruột... Tắc ruột là biến chứng của utrực tràng.
+- Ỉa són, ỉa dầm dề thường là triệu chứng ung thư đã xâm lấn cơ nâng, cơ thắt hậu môn
+- Đau bụng có thể gặp trong 20% trường hợp. Lưu ý kiểu đau bụng từng cơn trong hội chứng tắc ruột... Tắc ruột là biến chứng của utrực tràng
 - Biểu hiện ít gặp:
   + Các triệu chứng đường tiểu (tiểu lắt nhắt, tiểu gấp, tiểu gắt, tiểu són) do u xâm lấn bàng quang, tuyến tiền liệt.
   + Mệt mỏi, chán ăn, sụt cân ít gặp khi bệnh đến muộn.
-  + Đau vùng chậu có thể là biểu hiện muộn khi u xâm lấn thần kinh.
+  + Đau vùng chậu có thể là biểu hiện muộn khi u xâm lấn thần kinh
 
 Thăm trực tràng giúp chẩn đoán xác định trong trường hợp u nằm thấp. Khi thăm khám cần chú ý đánh giá:
 
@@ -4974,24 +5000,30 @@ Biểu hiện gợi ý của di căn xa trên lâm sàng thường là:
 - Rò: ở nam giới hay gặp rò trực tràng- bàng quang(tiểu ra phân), ở nữ giới gặp rò trực tràng-âm đạo (chảy dịch phân ở âm đạo).
 
 ## 6.2. Chẩn đoán phân biệt
-Về lâm sàng, cần chẩn đoán phân biệt với các bệnh lý gây đi cầu ra máu hoặc hoặc thay đổi thói quen đi cầu hàng ngày như trĩ, viêm loét đại tràng, hội chứng lị, polyp trực tràng lành tính.
+
+Về lâm sàng, cần chẩn đoán phân biệt với các bệnh lý gây đi cầu ra máu hoặc hoặc thay đổi thói quen đi cầu hàng ngày như trĩ, viêm loét đại trực tràng, hội chứng lị, polyp trực tràng lành tính.
+
 Nhìn chung do trực tràng nằm ở phần thấp, có thể tiếp cận được bằng thăm khám bằng ngón tay cũng như việc nội soi trực tràng cũng thực hiện được dễ dàng nên có thể giúp phân biệt được trong hầu hết các trường hợp. Một số đặc điểm lưu ý:
 - Người bệnh ung thư trực tràng có thể có triệu chứng đi cầu khó kéo dài, hậu quả có thể đưa đến trĩ triệu chứng. Vì vậy có thể thăm khám được trĩ đồng thời trên người bệnh có ung thư trực tràng.
 - Polyp ở trực tràng có thể gây nên triệu chứng hoàn toàn tương tự và nên được tiếp cận chẩn đoán như một trường hợp trực tràng giai đoạn sớm. Về mặt lâm sàng, cần nghĩ polyp ung thư hóa khi kích thước lớn, chảy máu, bề mặt sần sùi, kém di động.
 
 ## 6.3. Chẩn đoán cận lâm sàng
+
 ### 6.3.1. Nội soi đại trực tràng
+
 U trực tràng ở vị trí thấp, có thể dễ dàng tiếp cận bằng ống soi cứng (60 mm tính từ hậu môn). Qua nội soi, có thể xác định được dạng đại thể của u, kích thước u, có gây tắc hay không, khoảng cách bờ dưới u đến rìa hậu môn, đồng thời sinh thiết u để làm giải phẫu bệnh.
+
 Trên thực tế, bệnh nhân cũng cần được soi toàn bộ khung đại tràng để xác định có u đồng thời khác, tổn thương khác đi kèm.
 
 ### 6.3.2. Chụp cắt lớp vi tính
+
 Chụp cắt lớp vi tính (CLVT) cho hình ảnh toàn bộ khung chậu, sự tương quan của khối u trực tràng với cơ quan lân cận đặc biệt trong các trường hợp u tiến triển. Thường sử dụng cản quang đường tĩnh mạch. Có thể sử dụng cản quang đường uống hay bơm lòng đại tràng (ít làm), hoặc phối hợp cản quang tĩnh mạch với bơm hơi đại tràng. Ngoài ra, có thể dựng hình đại tràng (nội soi ảo) nhằm phát hiện các tổn thương phối hợp.
 
 **Khuyết điểm:**
 - Thiếu độ phân giải tương phản và không gian làm giảm độ chính xác đối với khối u còn nằm trong thành, khả năng xác định cân mạc treo trực tràng thấp (T1, T2, T3).
 - Khả năng đánh giá di căn hạch mạc treo trực tràng kém, đặc biệt với hạch < 1 cm chụp cắt lớp vi tính rất khó phát hiện.
 
-## 6.3.3. Cộng hưởng từ
+### 6.3.3. Cộng hưởng từ
 
 Chụp cộng hưởng từ (CHT) hiện có vai trò tốt nhất trong đánh giá trước mổ và theo dõi tái phát. Ưu điểm là an toàn, chính xác cao nhờ phân biệt được các lớp thành trực tràng, đánh giá xâm lấn tốt hơn chụp cắt lớp vi tính, có thể phát hiện các hạch nhỏ 2-3 mm.
 
@@ -4999,17 +5031,17 @@ Gần đây, cùng với khái niệm mạc treo trực tràng, xâm lấn u tro
 
 Do khả năng dựng trên nhiều mặt phẳng, CHT là phương tiện tốt nhất trong đánh giá xâm lấn cơ nâng và cơ thắt hậu môn.
 
-## 6.3.4. Siêu âm qua lòng trực tràng (TRUS)
+### 6.3.4. Siêu âm qua lòng trực tràng (TRUS)
 
 Đây là phương tiện an toàn, tin cậy và rẻ tiền. Tuy nhiên, rất khó phân biệt hình ảnh viêm quanh u hay u xâm lấn, nên khoảng 5% các trường hợp TRUS đánh giá giai đoạn muộn hơn thực tế. Xạ trị trước mổ gây tạo sợi và sẹo làm giảm độ chính xác của siêu âm, vì vậy nên thực hiện TRUS trước khi xạ trị tân hỗ trợ.
 
 Hạn chế của TRUS là trường khảo sát nhỏ, không thực hiện được khi u lớn gây hẹp lòng. Các nghiên cứu so sánh TRUS với CHT, TRUS tốt hơn trong đánh giá u xâm lấn thành ruột nên thường ưu tiên trong các trường hợp u phát triển tại chỗ và còn nhỏ. Chụp CHT chính xác hơn trong đánh giá di căn hạch, CRM.
 
-## 6.3.5. Xét nghiệm CEA
+### 6.3.5. Xét nghiệm CEA
 
-Xét nghiệm CEA ít có giá trị trong chẩn đoán ung thư đại trực tràng nguyên phát do có độ nhạy thấp (khi u giai đoạn sớm) và đặc hiệu thấp (tăng trong một số bệnh lành tính khác như viêm loét dạ dày tá tràng, viêm túi thừa, COPD, đái tháo đường).
+Xét nghiệm CEA ít có giá trị trong chẩn đoán ung thư - đại trực tràng nguyên phát do có độ nhạy thấp (khi u giai đoạn sớm) và đặc hiệu thấp (tăng trong một số bệnh lành tính khác như viêm loét dạ dày tá tràng, viêm túi thừa, COPD, đái tháo đường).
 
-Trong cùng giai đoạn bệnh, CEA tăng ($> 5$ ng/ml) có ý nghĩa tiên lượng kém hơn CEA bình thường.
+Trong cùng giai đoạn bệnh, CEA tăng (> 5 ng/ml) có ý nghĩa tiên lượng kém hơn CEA bình thường.
 
 Nồng độ CEA giảm sau phẫu thuật tương quan có ý nghĩa với hiệu quả phẫu thuật. Do đó có thể dùng kết quả này để đánh giá. Ngược lại nồng độ CEA tăng liên tiếp sau phẫu thuật cho thấy nguy cơ bệnh vẫn tiếp diễn và cần được đánh giá lại đầy đủ. Hội Ung thư Lâm sàng Hoa Kỳ (ASCO) khuyến cáo thử CEA trước, sau mổ để đánh giá hiệu quả phẫu thuật, theo dõi sau mổ và tiên lượng bệnh.
 
@@ -5017,13 +5049,12 @@ Nồng độ CEA giảm sau phẫu thuật tương quan có ý nghĩa với hi�
 
 Đánh giá giai đoạn của ung thư trực tràng cung cấp những thông tin chính xác về độ lan rộng của bệnh. Ngoài ra còn giúp xác định tiên lượng, hướng dẫn điều trị, đánh giá đáp ứng điều trị với các phương pháp trị liệu.
 
-Phân chia giai đoạn thường sử dụng hệ thống phân loại theo Ủy ban Liên hiệp Ung thư Hoa Kỳ 8 (*American Joint Committee on Cancer*, AJCC).
+Phân chia giai đoạn thường sử dụng hệ thống phân loại theo Ủy ban Liên hiệp Ung thư Hoa Kỳ 8 (American Joint Committee on Cancer, AJCC).
 
 Bảng 2. Định nghĩa TNM của ung thư trực tràng
 
-| | |
-|---|---|
 | TX | Không xác định được |
+| :--- | :--- |
 | Tis | Carcinoma in situ: khu trú lớp niêm mạc – lamina propria |
 | T1 | U xâm lấn lớp dưới niêm |
 | T2 | U xâm lấn lớp cơ |
@@ -5080,28 +5111,36 @@ Hầu hết các trường phái đều thống nhất ung thư giai đoạn I (
 HƯỚNG DẪN CỦA HỘI UNG BƯỚU NỘI KHOA CHÂU ÂU 2016 [7]
 
 **Sơ đồ: Ung thư trực tràng**
-- Ung thư trực tràng --> Nguy cơ thấp cT1-T2, N0 cT3a, N1 u cao Xâm lấn mạch máu(-) MRF(-) --> Phẫu thuật
-- Ung thư trực tràng --> Nguy cơ trung bình cT2 rất thấp, cT3 MRF(-) N1-2 Xâm lấn mạch máu(+) --> Xạ trị trước mổ --> Phẫu thuật --> Hóa trị sau mổ
-- Ung thư trực tràng --> Nguy cơ cao cT4 cT3 MRF(+) Hạch chậu bên(+) --> Hóa xạ trị trước mổ --> Phẫu thuật --> Hóa trị sau mổ
+- Ung thư trực tràng
+  - Nguy cơ thấp --> cT1-T2,N0 --> cT3a, N1 u cao --> Xâm lấn mạch máu(-) --> MRF(-) --> Phẫu thuật
+  - Nguy cơ trung bình --> cT2 rất thấp, cT3 MRF(-) --> N1-2 --> Xâm lấn mạch máu(+) --> Xạ trị trước mổ --> Phẫu thuật --> Hóa trị sau mổ
+  - Nguy cơ cao --> cT4 --> cT3 MRF(+) --> Hạch chậu bên(+) --> Hóa xạ trị trước mổ --> Phẫu thuật --> Hóa trị sau mổ
 
 7.2. Phẫu thuật trong ung thư trực tràng
-
 7.2.1. Các thuật ngữ
 
-**Sơ đồ 1. Các thuật ngữ trong điều trị phẫu thuật ung thư trực tràng.**
-- Local excision: cắt bỏ u tại chỗ
-- Sphincter sparing : PT bảo tồn cơ thắt
-- APR: PT Miles
-- Full-thickness : PT cắt trọn thành
-- ESD: cắt dưới niêm mạc qua NS trực tràng
-- EMR: cắt niêm mạc qua NS trực tràng
-- Transabdominal: PT ngả bụng
-- TA TME: Cắt toàn bộ mạc trực tràng ngả hậu môn
-- TAE : cắt u tại chỗ qua ngả HM
-- TEM: Transanal endoscopic mircosurgery
-- TEO: Transanal Endoscopic Operation --> PTNS ngả hậu môn cắt u tại chỗ
-- TAMIS: TransAnal Minimally Invasive Surgery
-- AR, LAR, ISR: cắt trước, cắt trước thấp, cắt gian cơ thắt.
+**Sơ đồ: Các thuật ngữ trong điều trị phẫu thuật ung thư trực tràng**
+- ESD, EMR --> Endoscopic --> TEM / TEO / TAMIS
+- Local excision --> Full-thickness --> TAE (FAIRVE) --> Kraske --> York-Mason
+- Sphincter sparing --> Transabdominal --> AR, LAR, ISR
+- Transabdominal --> Endoscopic
+- TA TME
+- APR
+
+Local excision: cắt bỏ u tại chỗ
+Sphincter sparing: PT bảo tồn cơ thắt
+APR: PT Miles
+Full-thickness: PT cắt trọn thành
+ESD: cắt dưới niêm mạc qua NS trực tràng
+EMR: cắt niêm mạc qua NS trực tràng
+Transabdominal: PT ngả bụng
+TA TME: Cắt toàn bộ mạc trực tràng ngả hậu môn
+TAE : cắt u tại chỗ qua ngả HM
+TEM: Transanal endoscopic mircosurgery
+TEO: Transanal Endoscopic Operation
+TAMIS: TransAnal Minimally Invasive Surgery
+AR, LAR, ISR: cắt trước, cắt trước thấp, cắt gian cơ thắt.
+} PTNS ngả hậu môn cắt u tại chỗ
 
 7.2.2. Cắt bỏ u tại chỗ
 
@@ -5114,7 +5153,7 @@ HƯỚNG DẪN CỦA HỘI UNG BƯỚU NỘI KHOA CHÂU ÂU 2016 [7]
 (2) Các phương pháp:
 - Cắt qua nội soi tiêu hóa: cắt polyp(polypectomy), cắt niêm mạc (EMR), cắt dưới niêm mạc (ERD).
 - Cắt u qua ngả hậu môn(TAE): phẫu thuật Fairve.
-- Nhóm PTNS cắt u qua ngả hậu môn : nhiều tên gọi, phụ thuộc vào hệ thống sử dụng. Nguyê tắc chung là sử dụng hệ thống nội soi và các dụng cụ nội soi ổ bụng với đường tiếp cận ngả hậu môn để cắt u.
+- Nhóm PTNS cắt u qua ngả hậu môn: nhiều tên gọi, phụ thuộc vào hệ thống sử dụng. Nguyên tắc chung là sử dụng hệ thống nội soi và các dụng cụ nội soi ổ bụng với đường tiếp cận ngả hậu môn để cắt u.
 - Nhóm phẫu thuật cắt ngả sau: gồm phẫu thuật Kraske, phẫu thuật York-Mason. Hiện nay ít sử dụng do xâm lấn nhiều hơn TAE và TEM nên biến chứng xảy ra nhiều hơn.
 
 7.2.3. Phẫu thuật ngả bụng (cắt trước) có bảo tồn cơ thắt
@@ -5138,15 +5177,17 @@ Chỉ định đưa ruột trên dòng để bảo vệ miệng nối trong trư
 
 Trong trường hợp u thấp, chưa xâm lấn cơ thắt, có thể thực hiện cắt trước cực thấp (nối ống hậu môn) hoặc cắt gian cơ thắt, Miệng nối với ống hậu môn có thể hiện kiểu tận bên, túi chứa J hay tạo hình đại tràng tùy thuộc kinh nghiệm phẫu thuật viên.
 
-## 7.2.4. Phẫu thuật cắt trực tràng ngả bụng - tầng sinh môn (Phẫu thuật Miles)
+7.2.4. Phẫu thuật cắt trực tràng ngả bụng - tầng sinh môn (Phẫu thuật Miles)
 
 Phẫu thuật cắt trực tràng qua ngả bụng - tầng sinh môn hay phẫu thuật Miles ra đời từ năm 1908 và là phương pháp phẫu thuật ung thư trực tràng duy nhất trong một thời gian dài, cho đến những năm 40 của thế kỷ trước, khi những phẫu thuật bảo tồn cơ thắt hậu môn ra đời. Mục đích phẫu thuật là lấy toàn bộ trực tràng có u và tổ chức xung quanh, bao gồm mạc treo, hạch, mỡ, cơ nâng hậu môn, cơ thắt hậu môn... và chuyển dòng phân ra hố chậu trái với hậu môn nhân tạo vĩnh viễn
 
-Ngày nay, chỉ định phẫu thuật Miles thu hẹp dần, chỉ còn được áp dụng cho ung thư trực tràng đoạn thấp đã có xâm lấn cơ nâng hậu môn, cơ thắt hậu môn và những ung thư trực tràng đã có xâm lấn rộng, u sát rìa hậu môn hoặc ung thư ống hậu môn. Đây là một phẫu thuật nặng nề ảnh hưởng đến chất lượng cuộc sống của bệnh nhân, bệnh nhân phải mang hậu môn nhân tạo suốt đời. Các tai biến - biến chứng như chảy máu, nhiễm khuẩn vùng tầng sinh môn có thể nguy hiểm.
+Ngày nay, chỉ định phẫu thuật Miles thu hẹp dần, chỉ còn được áp dụng cho ung thư trực tràng đoạn thấp đã có xâm lấn cơ nâng hậu môn, cơ thắt hậu môn và những ung thư trực tràng đã có xâm lấn rộng, u sát rìa hậu môn hoặc ung thư ống hậu môn. Đây là một phẫu thuật nặng nề ảnh hưởng đến chất lượng cuộc sống của bệnh nhân, bệnh nhân phải mang hậu môn nhân tạo suốt đời. Các tai biến – biến chứng như chảy máu, nhiễm khuẩn vùng tầng sinh môn có thể nguy hiểm.
 
-8. TIÊN LƯỢNG UNG THƯ TRỰC TRÀNG
+234
 
-Đối với ung thư trực tràng chẩn đoán lần đầu và được điều trị theo tiêu chuẩn, tỷ lệ sống còn toàn bộ sau 5 năm chung cho tất cả giai đoạn là 67% (số liệu từ 2009 - 2015) (bảng 4)
+## 8. TIÊN LƯỢNG UNG THƯ TRỰC TRÀNG
+
+Đối với ung thư trực tràng chẩn đoán lần đầu và được điều trị theo tiêu chuẩn, tỷ lệ sống còn toàn bộ sau 5 năm chung cho tất cả giai đoạn là 67% (số liệu từ 2009 - 2015) (bảng 4).
 
 **Bảng 4.** Tỷ lệ sống còn toàn bộ 5 năm của ung thư trực tràng [8]
 
@@ -5167,17 +5208,17 @@ Tại Nhật Bản, sống còn sau 5 năm sau điều trị tiêu chuẩn cũng
 | Tỷ lệ còn phẫu thuật triệt căn | 97,9% | 95% | 90,9% | 80,5% | - | 79,9% |
 | Sống còn | 90,6% | 83,1% | 73% | 53,5% | 14,8% | 71,3% |
 
-9. TẦM SOÁT
+## 9. TẦM SOÁT
 
-9.1. Các phương tiện tầm soát
+### 9.1. Các phương tiện tầm soát
 
-9.1.1. Tìm máu ẩn trong phân (FOBT)
+#### 9.1.1. Tìm máu ẩn trong phân (FOBT)
 
 Là xét nghiệm không xâm lấn. Tuy nhiên dễ cho dương tính giả và âm tính giả. Nếu xét nghiệm dương tính cần chỉ định soi toàn bộ đại tràng.
 
 Phương pháp mới sử dụng kháng thể đơn dòng nhận diện hemoglobin trong phân. Xét nghiệm có độ chính xác cao hơn FOBT truyền thống và có thể thay thế trong tầm soát ung thư đại-trực tràng.
 
-9.1.2. DNA trong phân (sDNA)
+#### 9.1.2. DNA trong phân (sDNA)
 
 Sử dụng kỹ thuật PCR để truy tìm các thay đổi về gen có thể đưa đến ung thư của các tế bào niêm mạc bị bong tróc trong mẫu phân. Xét nghiệm có độ nhạy cao tuy nhiên giá thành cao.
 
@@ -5267,43 +5308,38 @@ D. Tiêu ra máu 1 tháng nay
 Lê Huy Lưu, Nguyễn Tuấn Anh
 
 ## MỤC TIÊU
-
 1. Trình bày sự khác biệt về đặc điểm túi thừa, số lượng, phân bố và lứa tuổi mắc phải tại các nước Phương Tây, Phương Đông với nước ta.
 2. Giải thích được sinh bệnh học 2 loại túi thừa và cơ chế xảy ra 2 loại biến chứng.
 3. Khai thác được triệu chứng lâm sàng của người bệnh viêm túi thừa đại tràng.
 4. Phân biệt được ưu điểm, nhược điểm, giá trị chẩn đoán của 4 phương tiện hình ảnh và chỉ định phù hợp để chẩn đoán xác định bệnh túi thừa đại tràng và biến chứng.
 5. Chỉ định phương pháp điều trị của viêm túi thừa đại tràng theo giai đoạn, vị trí.
 
-Từ khóa: túi thừa thật, viêm túi thừa, phân độ viêm túi thừa, colonic diverticulitis.
+**Từ khóa:** túi thừa thật, viêm túi thừa, phân độ viêm túi thừa, colonic diverticulitis.
 
 ## 1. DỊCH TỄ
-
 Phương Tây, bệnh túi thừa đại tràng rất phổ biến ở Mỹ và Châu Âu. Ước tính hơn một nửa dân số trên 50 tuổi có túi thừa đại tràng. Đại tràng chậu hông là vị trí thường gặp túi thừa nhất. Chỉ khoảng 10-20% bệnh nhân túi thừa đại tràng có triệu chứng, nhưng mỗi năm có khoảng 300.000 ca nhập viện tại Mỹ và 1,5 triệu khám ngoại trú vì các biến chứng của bệnh túi thừa đại tràng, tiêu tốn chi phí y tế hơn 2 tỷ USD.
 
 Châu Á, báo cáo ngày càng nhiều tại các nước Hàn Quốc, Nhật bản, Đài Loan... Bệnh chủ yếu ở đại tràng phải, tỷ lệ viêm túi thừa so với viêm ruột thừa thay đổi trong khoảng 2,7-17 tùy theo báo cáo (cứ 2,7 - 17 ca viêm ruột thừa thì có một ca viêm túi thừa đại tràng phải).
 
-Tại Việt Nam, bệnh túi thừa đại tràng ít được nhắc đến. Do vậy chỉ có rất ít công trình nghiên cứu về bệnh túi thừa đại tràng tại các Trung tâm Ngoại khoa như: Bệnh viện Việt Đức, Bệnh viện Đại học Y Hà Nội, Bệnh viện Nhân Dân Gia Định. Với chiến lược chủ động chẩn đoán hiệu quả bằng khám lâm sàng và hình ảnh học trước mổ, nhóm nghiên cứu của Lê Huy Lưu báo cáo 45 trường hợp được mổ cắt túi thừa nội soi điều trị viêm túi thừa đại tràng phải tại Bệnh Viện Nhân Dân Gia Định. Theo tác giả dù nhóm nghiên cứu đã có kinh nghiệm chẩn đoán nhưng tỉ lệ chẩn đoán trước mổ cũng không cải thiện đáng kể. Chỉ 16 trường hợp được chẩn đoán trước mổ là viêm túi thừa trong khi có tới 29 trường hợp bị chẩn đoán nhầm với các thể của viêm ruột thừa (chiếm hơn 64,4%). Chính thái độ thường xuyên cập nhật kiến thức và kinh nghiệm quan sát túi thừa viêm qua mổ nội soi của Tác giả đã giúp làm tăng tỉ lệ phát hiện viêm túi thừa trong mổ một cách đáng kể.
+Tại Việt Nam, bệnh túi thừa đại tràng ít được nhắc đến. Do vậy chỉ có rất ít công trình nghiên cứu về bệnh túi thừa đại tràng tại các Trung tâm Ngoại khoa như: Bệnh viện Việt Đức, Bệnh viện Đại học Y Hà Nội, Bệnh viện Nhân Dân Gia Định. Với chiến lược chủ động chẩn đoán hiệu quả bằng khám lâm sàng và hình ảnh học trước mổ, nhóm nghiên cứu của Lê Huy Lưu báo cáo 45 trường hợp được mổ cắt túi thừa nội soi điều trị viêm túi thừa đại tràng phải tại Bệnh viện Nhân Dân Gia Định. Theo tác giả dù nhóm nghiên cứu đã có kinh nghiệm chẩn đoán nhưng tỉ lệ chẩn đoán trước mổ cũng không cải thiện đáng kể. Chỉ 16 trường hợp được chẩn đoán trước mổ là viêm túi thừa trong khi có tới 29 trường hợp bị chẩn đoán nhầm với các thể của viêm ruột thừa (chiếm hơn 64,4%). Chính thái độ thường xuyên cập nhật kiến thức và kinh nghiệm quan sát túi thừa viêm qua mổ nội soi của Tác giả đã giúp làm tăng tỉ lệ phát hiện viêm túi thừa trong mổ một cách đáng kể.
 
 2. CƠ CHẾ BỆNH SINH
-
 Dựa theo cấu trúc, túi thừa đại tràng được chia thành 2 loại là túi thừa thật và túi thừa giả. Túi thừa thật có đầy đủ các lớp của ống tiêu hóa trong khi túi thừa giả bị khiếm khuyết lớp cơ. Cơ chế hình thành 2 loại túi thừa này hoàn toàn khác nhau.
 
 2.1. Túi thừa giả
-
 Túi thừa giả không có lớp cơ nên cấu trúc của nó chỉ là lớp niêm mạc được bao phủ bên ngoài bởi thanh mạc. Túi thừa giả còn được xem là sự thoát vị của niêm mạc đại tràng ra bên ngoài xuyên qua lớp cơ. Việc hình thành túi thừa giả là sự kết hợp của nhiều yếu tố:
 
 2.1.1. Tồn tại các điểm yếu tự nhiên của thành đại tràng
+Khác với các phần khác của ống tiêu hóa, đại tràng có lớp cơ dọc bên ngoài không phủ toàn bộ chu vi mà tụ lại thành 3 dải, bao gồm 1 dải cơ dọc nằm ở bờ mạc treo và 2 dải cơ dọc ở bờ tự do đối diện 2 bên. Như vậy ở những chỗ thiếu lớp cơ dọc, thành đại tràng sẽ mỏng và yếu hơn.
 
-Khác với các phần khác của ống tiêu hóa, đại tràng có lớp cơ dọc bên ngoài không phủ toàn bộ chu vi mà tụ lại thành 3 dải, bao gồm 1 dải cơ dọc nằm ở bờ mạc treo và 2 dải cơ dọc ở bờ tự do đối diện 2 bên. Như vậy ở những chỗ thiếu lớp cơ, thành đại tràng sẽ mỏng và yếu hơn.
-
-[Hình: Động mạch xuyên, Túi thừa, Dải cơ dọc (bờ tự do), Dải cơ dọc (bờ mạc treo), Túi thừa mạc nối (bờm mỡ đại tràng), Vị trí ít gặp túi thừa (giữa 2 dải cơ dọc bờ tự do)]
+[Hình: Động mạch xuyên, Túi thừa, Dải cơ dọc (bờ tự do), Dải cơ dọc (bờ mạc treo), Túi thừa mạc nối (bờm mỡ đại tràng), Vị trí ít gặp túi thừa (giữa 2 dải cơ bờ tự do)]
 
 Hình 1. Túi thừa đại tràng.
 (Nguồn: Welch J.P., Cohen J.L. 2007).
 
-Mạch máu từ mạc treo sẽ toả ra cung cấp máu cho đại tràng, khi tới thành ruột các động mạch sẽ xuyên qua lớp cơ để vào lớp dưới niêm. Vị trí mạch máu xuyên qua tạo ra các chỗ yếu của thành đại tràng, niêm mạc có thể chui qua đó tạo thành túi thừa. Mạch máu xuyên ở gần bờ mạc treo thì lớn và nhỏ dần khi ra xa. Như vậy, tại 2 vùng khuyết cơ dọc ở gần mạc treo là nơi thuận lợi cho sự hình thành túi thừa. Trong khi đó, vùng khuyết dải cơ dọc còn lại ở đối diện mạc treo có các mạch máu xuyên nhỏ nên ít bị hình thành túi thừa (hình 1).
+Mạch máu từ mạc treo sẽ toả ra cung cấp máu cho đại tràng, khi tới thành ruột các động mạch sẽ xuyên qua lớp cơ đi vào lớp dưới niêm. Vị trí mạch máu xuyên qua tạo ra các chỗ yếu của thành đại tràng, niêm mạc có thể chui qua đó tạo thành túi thừa. Mạch máu xuyên ở gần bờ mạc treo thì lớn và nhỏ dần khi ra xa. Như vậy, tại 2 vùng vùng khuyết cơ dọc ở gần mạc treo là nơi thuận lợi cho sự hình thành túi thừa. Trong khi đó, hình thành túi thừa (hình 1).
 
-2.1.2. Sự thay đổi cấu trúc của thành ruột
+## 2.1.2. Sự thay đổi cấu trúc của thành ruột
 
 Collagen và elastin là các cấu trúc protein dạng sợi quan trọng của mô liên kết. Collagen đảm nhận chức năng chịu lực căng kéo của mô trong khi elastin thì có chức năng co để thu hồi mô về hình dạng ban đầu. Khi nghiên cứu cấu trúc thành của đại tràng có túi thừa, người ta thấy có sự gia tăng các liên kết chéo (cross-linkage) của các sợi collagen và sự tăng lắng đọng elastin tại các dải cơ dọc của đại tràng.
 
@@ -5313,13 +5349,13 @@ Sự gia tăng lắng đọng elastin cũng làm thay đổi cấu trúc của t
 
 Các thay đổi này gia tăng trong quá trình lão hóa tương ứng với việc gia tăng tần suất của bệnh túi thừa đại tràng theo tuổi. Điều này cũng giải thích việc xuất hiện bệnh túi thừa ở người trẻ bị các bệnh của mô liên kết như Ehlers-Danlos, hội chứng Marfan và bệnh thận đa nang di truyền trội trên nhiễm sắc thể thường.
 
-2.1.3. Tăng áp lực trong lòng ruột
+## 2.1.3. Tăng áp lực trong lòng ruột
 
 Sự hình thành túi thừa được cho là hậu quả của sự gia tăng áp lực trong lòng ruột. Theo định luật Laplace: Pressure = (2 x Thickness x Tension)/ Radius. Như vậy, áp suất P (Pressure) tỷ lệ thuận với sức căng T (Tension) lên thành ruột và tỷ lệ nghịch với bán kính R (Radius) của ruột. Trong tình huống thông thường, đại tràng là một ống dài liên tục thông suốt nên áp lực (P) sẽ như nhau trên khắp đại tràng. Do đó, sức căng (T) lên thành ruột lớn nhất là ở manh tràng và đại tràng phải (vì có bán kính lớn hơn) chứ không phải là đại tràng chậu hông. Nhưng thực tế, đại tràng chậu hông là nơi xuất hiện túi thừa nhiều nhất, cho nên phải có một lý do khác lý giải được sự gia tăng áp lực trong lòng đại tràng chậu hông.
 
 [Hình: Hiện tượng co cơ phân đoạn của đại tràng. (Nguồn: Welch J.P., Cohen J.L., 2007).]
 
-Điều này được làm sáng tỏ khi người ta thấy có sự tồn tại của hiện tượng phân đoạn của đại tràng. Hiện tượng phân đoạn được mô tả là những cơn co cơ mạnh của thành đại tràng nhằm đẩy hoặc ngăn chặn sự đi qua của các thành phần trong lòng của nó. Nếu như 2 cơn co cơ như vậy xảy ra trên 1 đoạn tương đối gần nhau thì sẽ tạo ra 1 buồng kín, áp lực trong buồng này có thể tăng vượt quá 90 mmHg. Áp lực tăng cao sẽ thúc đẩy niêm mạc thoát vị qua các chỗ yếu của thành ruột. Hiện tượng như vậy thường gặp ở đại tràng chậu hông (hình 2).
+Điều này được làm sáng tỏ khi người ta thấy có sự tồn tại của hiện tượng phân đoạn của đại tràng. Hiện tượng phân đoạn được mô tả là những cơn co cơ mạnh của thành đại tràng nhằm đẩy hoặc ngăn chặn sự đi qua của các thành phần trong lòng của nó. Nếu như 2 cơn co cơ như vậy xảy ra trên 1 đoạn tương đối gần nhau thì sẽ tạo ra 1 buồng kín, áp lực trong buồng này có thể tăng vượt quá $90\text{ mmHg}$. Áp lực tăng cao sẽ thúc đẩy niêm mạc thoát vị qua các chỗ yếu của thành ruột. Hiện tượng như vậy thường gặp ở đại tràng chậu hông (hình 2).
 
 ## 2.2. Túi thừa thật
 
@@ -5360,38 +5396,38 @@ Bảng 1. Tương quan tổn thương đại thể và hình ảnh chụp cắt 
 
 Gần đây, Hội Ngoại khoa Cấp cứu Thế Giới (WSES) đã đưa ra bảng phân loại mới và được sử dụng phổ biến hiện nay. Căn cứ vào hình ảnh chụp cắt lớp vi tính, viêm túi thừa đại tràng được chia thành 2 nhóm là không biến chứng và có biến chứng, trong đó nhóm có biến chứng lại được chia tiếp thành 4 mức độ tùy theo độ nặng. Dưới đây là phân loại WSES 2020:
 
-(1) **Viêm túi thừa không biến chứng:**
+(1) Viêm túi thừa không biến chứng:
 Giai đoạn 0: túi thừa dày thành, tăng đậm độ mỡ xung quanh
 
-(2) **Viêm túi thừa có biến chứng:**
-Giai đoạn 1a: có các bóng khí hoặc tụ dịch lượng ít quanh đại tràng trong phạm vi $5\text{ cm}$ từ vị trí viêm (chưa hình thành ổ áp xe)
+(2) Viêm túi thừa có biến chứng:
+Giai đoạn 1a: có các bóng khí hoặc tụ dịch lượng ít quanh đại tràng trong phạm vi 5 cm từ vị trí viêm (chưa hình thành ổ áp xe)
 Giai đoạn 1b: ổ áp xe $\le 4\text{ cm}$
 Giai đoạn 2a: ổ áp xe $> 4\text{ cm}$
-Giai đoạn 2b: có khí ở xa ngoài $5\text{ cm}$ tính từ vị trí túi thừa viêm
+Giai đoạn 2b: có khí ở xa ngoài 5 cm tính từ vị trí túi thừa viêm
 Giai đoạn 3: dịch lan tỏa khắp ổ bụng không kèm theo khí tự do
 Giai đoạn 4: dịch lan tỏa khắp ổ bụng kèm khí tự do
 
 Tuy nhiên, bảng phân loại WSES 2020 có thể gây lẫn lộn vì có giai đoạn chia thành các nhóm thứ cấp (1a, b và 2a, b) có giai đoạn không chia (3 và 4). Đặc biệt là cùng 1 thể lâm sàng lại được phân vào 2 giai đoạn khác nhau như áp xe có ở 1b và 2a hoặc thậm chí ở các giai đoạn không liên tiếp nhau như khí tự do có ở 1a, 2b và 4.
 
-Tất cả các phân loại này chủ yếu dành cho viêm túi thừa đại tràng trái, tuy nhiên, khá nhiều tác giả cũng sử dụng để phân loại cho viêm túi thừa đại tràng phải. Cho tới nay cũng có vài tác giả nhận biết sự khác biệt về đặc điểm bệnh cũng như diễn tiến của túi thừa đại tràng phải và túi thừa đại tràng trái nên đã đưa ra bảng phân loại riêng cho túi thừa đại tràng phải (thật ra là manh tràng) như Greaney và Snyder (1957) hoặc Thorson và Ternent (1998). Khác biệt cơ bản so với phân loại Hinchey là giai đoạn II không phải là áp xe và giai đoạn III là thủng khu trú chứ không phải là viêm phúc mạc mũ toàn thể.
+Tất cả các phân loại này chủ yếu dành cho viêm túi thừa đại tràng trái, tuy nhiên, khá nhiều tác giả cũng sử dụng để phân loại cho viêm túi thừa đại tràng phải. Cho tới nay cũng có vài tác giả nhận biết sự khác biệt về đặc điểm bệnh cũng như diễn tiến của túi thừa đại tràng phải và túi thừa đại tràng trái nên đã đưa ra bảng phân loại riêng cho túi thừa đại tràng phải (thật ra là manh tràng) như Greaney và Snyder (1957) hoặc Thorson và Ternent (1998). Khác biệt cơ bản so với phân loại Hinchey là giai đoạn II không phải là áp xe và giai đoạn III là thủng khu trú chứ không phải là viêm phúc mạc mủ toàn thể.
 
-**Bảng 2. Phân loại viêm túi thừa manh tràng**
+Bảng 2. Phân loại viêm túi thừa manh tràng
 
 | Mức độ | Greaney và Snyder (1957) | Thorson và Ternent (1998) |
-|---|---|---|
+| :---: | :--- | :--- |
 | I | Viêm cấp | Túi thừa viêm dễ nhận biết |
 | II | Khối viêm | Khối manh tràng viêm |
 | III | Thủng khu trú | Rò hoặc áp xe khu trú |
 | IV | Mủ khắp ổ bụng | Viêm phúc mạc lan toả do thủng hoặc vỡ áp xe |
 
-[Hình: Các sơ đồ giải phẫu thể hiện Giai đoạn I, Giai đoạn II, Giai đoạn III, Giai đoạn IV của viêm túi thừa manh tràng, có chú thích "Mủ"]
+[Hình: Giai đoạn I, Giai đoạn II, Giai đoạn III, Giai đoạn IV, Mủ]
 
-**Hình 3. Phân loại viêm túi thừa manh tràng.**  
-*(Nguồn: Welch J.P. và Cohen J.L., 2007).*
+Hình 3. Phân loại viêm túi thừa manh tràng.
+(Nguồn: Welch J.P. và Cohen J.L., 2007).
 
 ## 3.2. Chảy máu túi thừa
 
-Khi một túi thừa giả được hình thành, niêm mạc đại tràng thoát ra tại chỗ yếu của thành ruột, mạch máu xuyên tại điểm đó bị đẩy lên vòm của túi thừa và chỉ được ngăn cách với lòng ruột bởi lớp niêm mạc. Theo thời gian, mạch máu này tiếp xúc với các chấn thương tác động từ trong lòng túi thừa, dẫn tới dày không đồng tâm lớp nội mạc và mỏng lớp trung mạc. Các thay đổi này có thể tạo ra các đoạn yếu của động mạch, dẫn tới vỡ vào trong lòng túi thừa. Chảy máu túi thừa thông thường xảy ra không kèm theo viêm túi thừa.
+Khi một túi thừa giả được hình thành, niêm mạc đại tràng thoát ra tại chỗ yếu của thành ruột, mạch máu xuyên tại điểm đó bị đẩy lên vòm của túi thừa và chỉ được ngăn cách với lòng ruột bởi lớp niêm mạc. Theo thời gian, mạch máu này tiếp xúc với các chấn thương tác động từ trong lòng túi thừa, dẫn tới dày không đồng tâm lớp nội mạc và mỏng lớp trung mạc. Các thay đổi này có thể tạo ra các đoạn yếu của động mạch, dần tới vỡ vào trong lòng túi thừa. Chảy máu túi thừa thông thường xảy ra không kèm theo viêm túi thừa.
 
 Mối tương quan về giải phẫu của túi thừa và mạch máu thì giống nhau giữa túi thừa đại tràng phải và đại tràng trái. Tuy nhiên chảy máu ở túi thừa đại tràng phải thường xảy ra hơn, dù thực tế túi thừa chủ yếu nằm ở đại tràng bên trái. Một lý giải khả dĩ cho hiện tượng này đó là túi thừa ở đại tràng phải có cổ và vòm rộng hơn nên khả năng các mạch máu tiếp xúc với tác nhân gây chấn thương kéo dài và mạnh hơn. Một số tác giả khác giải thích là do thành đại tràng phải mỏng hơn.
 
@@ -5425,7 +5461,7 @@ Tắc đại tràng do túi thừa chiếm 10-20% ở phương Tây là hậu qu
 
 ## 4.6. Ung thư
 
-Chưa có bằng chứng rõ ràng khẳng định viêm túi thừa đại tràng sẽ dẫn đến ung thư đại tràng, tuy nhiên nghiên cứu tại Thuỵ Điển (2004) cho thấy có mối liên quan giữa viêm túi thừa đại tràng Sigma và tăng nguy cơ ung thư đại tràng bên trái trong thời gian dài ($\text{OR} = 4,2; 95\% \text{CI}$).
+Chưa có bằng chứng rõ ràng khẳng định viêm túi thừa đại tràng sẽ dẫn đến ung thư đại tràng, tuy nhiên nghiên cứu tại Thuỵ Điển (2004) cho thấy có mối liên quan giữa viêm túi thừa đại tràng Sigma và tăng nguy cơ ung thư đại tràng bên trái trong thời gian dài (OR = 4,2; 95% CI).
 
 # 5. CHẨN ĐOÁN VIÊM TÚI THỪA ĐẠI TRÀNG
 
@@ -5435,41 +5471,25 @@ Túi thừa đại tràng không biểu hiện lâm sàng khi không có các bi
 
 ### 5.1.1. Viêm túi thừa đại tràng ở mọi vị trí
 
-Biểu hiện lâm sàng của viêm túi thừa (túi thừa trở nên viêm và nhiễm khuẩn) tùy thuộc vào vị trí của túi thừa bị viêm, mức độ nặng của tình trạng viêm và sự xuất hiện các biến chứng. Đau $1/4$ dưới trái là biểu hiện phổ biến nhất và chiếm $70\%$ các trường hợp, đau kiểu quặn và thường kèm theo thay đổi thói quen đi cầu. Viêm túi thừa của manh tràng hoặc đại tràng lên có thể gây đau ở $1/4$ dưới, dễ gây nhầm lẫn với viêm ruột thừa.
+Biểu hiện lâm sàng của viêm túi thừa (túi thừa trở nên viêm và nhiễm khuẩn) tùy thuộc vào vị trí của túi thừa bị viêm, mức độ nặng của tình trạng viêm và sự xuất hiện các biến chứng. Đau ¼ dưới trái là biểu hiện phổ biến nhất và chiếm 70% các trường hợp, đau kiểu quặn và thường kèm theo thay đổi thói quen đi cầu. Viêm túi thừa của manh tràng hoặc đại tràng lên có thể gây đau ở ¼ dưới, dễ gây nhầm lẫn với viêm ruột thừa.
 
-Triệu chứng viêm túi thừa nhẹ có thể nhầm lẫn hoặc trùng lấp với triệu chứng của hội chứng ruột kích thích và nhiều bệnh lý khác. Một số triệu chứng khởi đầu bao gồm:
+Triệu chứng viêm túi thừa nhẹ có thể nhầm lẫn hoặc trùng lắp với triệu chứng của hội chứng ruột kích thích và nhiều bệnh lý khác. Một số triệu chứng khởi đầu bao gồm:
 
-- Đau bụng (thường đau $1/4$ dưới trái)
+- Đau bụng (thường đau ¼ dưới trái)
 - Buồn ói, ói
 - Sốt
 - Đầy hơi, chướng bụng
-- Các triệu chứng và dấu hiệu có thể tăng khi xuất hiện các biến chứng như áp xe, viêm phúc mạc.
+
+Các triệu chứng và dấu hiệu có thể tăng khi xuất hiện các biến chứng như áp xe, viêm phúc mạc.
+
 - Bệnh nhân suy giảm miễn dịch, dùng corticoid kéo dài, lớn tuổi có thể triệu chứng không điển hình hoặc không triệu chứng.
 - Khi bệnh diễn tiến mạn tính có thể gây ra rò (bàng quang, âm đạo...), hẹp lòng đại tràng...
-
-Bởi vì túi thừa có thể ở bất cứ vị trí nào nên khi viêm có thể nhầm lẫn với nhiều tình trạng khác:
-- Viêm túi thừa đại tràng phải hoặc đại tràng chậu hông dài có thể nhầm với viêm ruột thừa
-- Viêm túi thừa đại tràng ngang có thể nhầm với viêm dạ dày, viêm tụy, viêm túi mật
-- Viêm các túi thừa đại tràng nằm sau phúc mạc có thể nhầm lẫn với bệnh lý hệ niệu
-- Viêm túi thừa đại tràng ở phụ nữ có thể nhầm với các bệnh lý phụ khoa
-
-## 5.1.2. Viêm túi thừa đại tràng phải
-
-Túi thừa đại tràng phải khi viêm thường biểu hiện đau tại vùng bụng phải. Có khá nhiều bệnh lý biểu hiện triệu chứng đau ở vùng này như các bệnh lý của gan mật, đại tràng phải, hồi manh tràng, thận niệu quản phải... mà phổ biến nhất là viêm ruột thừa. Thực tế, ở nước ta hiện nay, túi thừa đại tràng vẫn được xem là bệnh quá hiếm nên ít khi được nghĩ tới. Chính vì vậy khi một bệnh nhân đến khám với biểu hiện đau hố chậu phải thì thường được nghĩ tới viêm ruột thừa chứ ít ai nghĩ tới viêm túi thừa.
-
-Tuy nhiên, vẫn có một số chi tiết khác biệt rất hữu ích để phân biệt viêm ruột thừa và viêm túi thừa: viêm ruột thừa thường khởi bệnh ở độ tuổi trẻ hơn, đau thường bắt đầu từ thượng vị hoặc quanh rốn sau đó mới di chuyển xuống hố chậu phải, quá trình bệnh thường là ngắn (vài giờ tới 1-2 ngày), các triệu chứng buồn nôn và ói gặp ở khoảng 70% trường hợp. Trong khi đó, viêm túi thừa thì thường đau khu trú ở bụng phải (tùy vị trí túi thừa) ngay từ đầu, quá trình bệnh dài hơn (do không rầm rộ nên bệnh nhân chưa đi khám), hiếm khi có triệu chứng buồn ói hoặc ói.
-
-Điểm đau nằm ngoài hoặc cao hơn điểm McBurney khi khám lâm sàng cũng là dấu hiệu gợi ý của viêm túi thừa. Ngoài ra các biểu hiện như đau mơ hồ, đau mức độ nhẹ, ít có các biểu hiện của đáp ứng viêm toàn thân như sốt cao, tăng bạch cầu.
-
-Kết quả nghiên cứu trong luận án Tiến sĩ mới được công bố năm 2019 ở nước ta cho thấy, bệnh thường biểu hiện ở độ tuổi khá trẻ với tuổi trung bình là 35,6 ± 12,8 tuổi. Phái nam chiếm ưu thế (nam: nữ = 2:1). Thời gian đau đến lúc nhập viện khoảng 1,7-1,8 ngày; khởi phát chủ yếu ở hông hoặc hố chậu phải chứ ít khi di chuyển; mức độ đau ít hoặc vừa; ít khi sốt cao và số lượng bạch cầu tăng vừa phải.
-
-Như vậy, các dấu hiệu lâm sàng đơn thuần không thể giúp chẩn đoán xác định viêm túi thừa đại tràng phải. Tuy nhiên, với việc hỏi kỹ bệnh sử, thăm khám kỹ càng, đánh giá tương quan giữa các dấu hiệu có thể giúp chúng ta sàng lọc được những bệnh nhân nghi ngờ viêm túi thừa đại tràng phải để chỉ định các phương tiện hình ảnh phù hợp giúp xác định chẩn đoán.
 
 5.2. Siêu âm
 
 5.2.1. Viêm túi thừa đại tràng trái
 
-Hình ảnh bất thường của một đoạn đại tràng (dày thành > 4 mm trên đoạn dài ≥ 5 cm) tại điểm đau nhất là dấu hiệu thường thấy nhất trên siêu âm, có ở gần 85% các bệnh nhân. Trên hình cắt ngang, đại tràng dày giống hình bia. Túi thừa viêm, các bóng khí, áp xe trong thành ruột, áp xe quanh túi thừa và hiện tượng viêm quanh đại tràng cũng có thể thấy. Độ nhạy của siêu âm thay đổi từ 85-98%, độ đặc hiệu 80-98%.
+Hình ảnh bất thường của một đoạn đại tràng (dày thành $> 4$ mm trên đoạn dài $\geq 5$ cm) tại điểm đau nhất là dấu hiệu thường thấy nhất trên siêu âm, có ở gần $85\%$ các bệnh nhân. Trên hình cắt ngang, đại tràng dày giống hình bia. Túi thừa viêm, các bóng khí, áp xe trong thành ruột, áp xe quanh túi thừa và hiện tượng viêm quanh đại tràng cũng có thể thấy. Độ nhạy của siêu âm thay đổi từ $85-98\%$, độ đặc hiệu $80-98\%$.
 
 5.2.2. Viêm túi thừa đại tràng phải
 
@@ -5477,7 +5497,7 @@ Về mặt giải phẫu, túi thừa có đường kính rất thay đổi, chi
 
 Dấu hiệu phổ biến nhất của túi thừa đại tràng phải viêm không biến chứng là 1 cấu trúc giảm âm hoặc gần như không phản âm, hình tròn hoặc hình bầu dục nhô ra khỏi thành của đoạn đại tràng (hình 4A). Một số trường hợp cấu trúc này chứa chất phản âm mạnh bên trong, đó có thể là khí hoặc sỏi phân trong lòng túi thừa (hình 4B). Khi túi thừa chứa mủ, mô mềm xung quanh tăng âm không đồng nhất biểu hiện phản ứng viêm mô mỡ quanh đại tràng (hình 4B). Với những đặc điểm này, đặc biệt là hình ảnh ruột thừa bình thường cũng được thấy trên siêu âm, thì nhiều khả năng đó là túi thừa.
 
-Chou và cộng sự báo cáo 934 bệnh nhân với lâm sàng đau bụng bên phải chưa rõ nguyên nhân được siêu âm bụng. Kết quả là siêu âm có thể phân biệt viêm ruột thừa với viêm túi thừa đại tràng phải với độ chính xác 100%. Báo cáo cũng cho biết độ nhạy là 91,3%, độ đặc hiệu là 99,8% và độ chính xác là 99,5%. Ngoài ra, giá trị tiên đoán dương là 95,5% và giá trị tiên đoán âm là 99,7%. Âm tính giả có thể do túi thừa nhỏ bị bỏ sót, khảo sát bị hạn chế do bệnh nhân mập, ruột chướng hơi hoặc do đề kháng thành bụng. Ngoài ra kinh nghiệm cũng như trình độ của người bác sĩ siêu âm cũng ảnh hưởng rất nhiều tới chẩn đoán bệnh.
+Chou và cộng sự báo cáo $934$ bệnh nhân với lâm sàng đau bụng bên phải chưa rõ nguyên nhân được siêu âm bụng. Kết quả là siêu âm có thể phân biệt viêm ruột thừa với viêm túi thừa đại tràng phải với độ chính xác $100\%$. Báo cáo cũng cho biết độ nhạy là $91,3\%$, độ đặc hiệu là $99,8\%$ và độ chính xác là $99,5\%$. Ngoài ra, giá trị tiên đoán dương là $95,5\%$ và giá trị tiên đoán âm là $99,7\%$. Âm tính giả có thể do túi thừa nhỏ bị bỏ sót, khảo sát bị hạn chế do bệnh nhân mập, ruột chướng hơi hoặc do đề kháng thành bụng. Ngoài ra kinh nghiệm cũng như trình độ của người bác sĩ siêu âm cũng ảnh hưởng rất nhiều tới chẩn đoán bệnh.
 
 [Hình: Hình 4. Túi thừa (mũi tên lớn) chứa dịch (hình A) và chứa sỏi phân (hình B), nằm kế bên đại tràng (ký hiệu chữ C). Mô mỡ viêm dày bao quanh túi thừa (mũi tên nhỏ hình B). (Nguồn: Chou và cộng sự, 2001).]
 
@@ -5487,17 +5507,17 @@ Siêu âm nên là phương tiện hình ảnh đầu tiên chỉ định cho b�
 
 ## 5.3. Chụp cắt lớp vi tính
 
-Chụp cắt lớp vi tính (CLVT) và các phương tiện hình ảnh cắt ngang (cross-sectional imaging) được xem là phương tiện tốt nhất dùng để chẩn đoán và theo dõi diễn tiến viêm túi thừa đại tràng. Tương tự như siêu âm, chụp CLVT cho những hình ảnh cắt qua cơ quan nên có thể đánh giá tất cả trong và bên ngoài đại tràng, là những chi tiết mà nội soi hay chụp đại tràng không thể có được. Chụp CLVT có ưu điểm hơn siêu âm là cho những hình ảnh khách quan và toàn diện hơn trong khi siêu âm phụ thuộc rất nhiều vào người làm siêu âm. Chính vì vậy, chụp CLVT không những có thể chẩn đoán tốt túi thừa đại tràng mà còn đánh giá tốt các biến chứng và độ nặng của nó.
+Chụp cắt lớp vi tính (CLVT) và các phương tiện hình ảnh cắt ngang (cross-sectional imaging) được xem là phương tiện tốt nhất dùng để chẩn đoán và theo dõi diễn tiến viêm túi thừa đại tràng Tương tự như siêu âm, chụp CLVT cho những hình ảnh cắt qua cơ quan nên có thể đánh giá tất cả trong và bên ngoài đại tràng, là những chi tiết mà nội soi hay chụp đại tràng không thể có được. Chụp CLVT có ưu điểm hơn siêu âm là cho những hình ảnh khách quan và toàn diện hơn trong khi siêu âm phụ thuộc rất nhiều vào người làm siêu âm. Chính vì vậy, chụp CLVT không những có thể chẩn đoán tốt túi thừa đại tràng mà còn đánh giá tốt các biến chứng và độ nặng của nó.
 
 Ngày nay, chụp CLVT được xem là tiêu chuẩn vàng để chẩn đoán và phân giai đoạn bệnh viêm túi thừa đại tràng, đặc biệt là trong tình huống cấp cứu. Các hướng dẫn của các quốc gia Âu Mỹ có sự đồng thuận và khuyến cáo mạnh về sử dụng chụp CLVT để chẩn đoán bệnh túi thừa đại tràng trái. Tuy nhiên, với túi thừa đại tràng phải thì là một câu chuyện khác. Theo báo cáo tổng kết của Graham vào năm 1987 thì chẩn đoán chính xác trước mổ viêm túi thừa đại tràng phải chỉ đạt được 6%, thậm chí kể cả ở nhóm đã cắt ruột thừa rồi thì chẩn đoán chính xác trước mổ cũng chỉ là 16,6%. Giai đoạn đầu, với chụp CLVT thế hệ cũ, Balthazar và cộng sự mô tả dấu hiệu của viêm túi thừa manh tràng trên chụp CLVT giống như cách mô tả của viêm túi thừa đại tràng Sigma. Với các dấu hiệu này (dày thành đại tràng, thâm nhiễm) thì chẩn đoán chính xác vẫn khó khăn do viêm ruột thừa cũng có các dấu hiệu tương tự như. Sau này, với chụp CLVT thế hệ mới, lát cắt mỏng thì hầu hết ruột thừa bình thường đều phát hiện được nên chẩn đoán phân biệt 2 bệnh lý này không còn là vấn đề với chụp CLVT hiện đại (hình 5).
 
 [Hình: Hình ảnh 2 túi thừa viêm (hình A) trong khi ruột thừa bình thường (hình B). (Nguồn: Jang và cộng sự, 1999).]
 
-Độ nhạy và đặc hiệu của chụp CLVT trong chẩn đoán viêm túi thừa đại tràng phải được báo cáo là trên 98%. Tiêu chuẩn chẩn đoán viêm túi thừa đại tràng phải trên chụp CLVT là dày thành đại tràng; thâm nhiễm mỡ quanh đại tràng; áp xe quanh đại tràng; các bóng khí trong niêm mạc đại tràng, thành đại tràng và khí bên ngoài lòng ống. Theo Jang, với chụp CLVT xoắn ốc lát cắt mỏng có thuốc cản quang, có thể chẩn đoán được viêm túi thừa đại tràng phải trong hầu hết các trường hợp. Đặc biệt, các dấu hiệu hữu ích cho chẩn đoán là sỏi phân trong túi thừa, tăng quang của thành túi thừa và kiểu bắt thuốc cản quang đặc trưng của thành đại tràng. Kiểu bắt thuốc của đại tràng (lớp ngoài và trong mỏng có đậm độ cao trong khi lớp giữa dày có đậm độ thấp) có thể là một dấu hiệu hỗ trợ hữu ích, có ý nghĩa để phân biệt với ung thư đại tràng. Khi quen thuộc các dấu hiệu này có thể giúp chúng ta chẩn đoán chính xác viêm túi thừa đại tràng phải. Lee và cộng sự đưa ra các tiêu chuẩn trên chụp CLVT tương tự trong đó lưu ý sự hiện diện của túi thừa viêm và hình ảnh ruột thừa bình thường. Qua nghiên cứu, tác giả ghi nhận có 60% TH có 2 tiêu chuẩn này.
+Độ nhạy và đặc hiệu của chụp CLVT trong chẩn đoán viêm túi thừa đại tràng phải được báo cáo là trên 98%. Tiêu chuẩn chẩn đoán viêm túi thừa đại tràng phải trên chụp CLVT là dày thành đại tràng; thâm nhiễm mỡ quanh đại tràng; áp xe quanh đại tràng; các bóng khí trong niêm mạc đại tràng, thành đại tràng và khí bên ngoài lòng ống. Theo Jang, với chụp CLVT xoắn ốc lát cắt mỏng có thuốc cản quang, có thể chẩn đoán được viêm túi thừa đại tràng phải trong hầu hết các trường hợp. Đặc biệt, các dấu hiệu hữu ích cho chẩn đoán là sỏi phân trong túi thừa, tăng quang của thành túi thừa và kiểu bắt thuốc cản quang đặc trưng của thành đại tràng. Kiểu bắt thuốc của đại tràng (lớp ngoài và trong mỏng có đậm độ cao trong khi lớp giữa dày có đậm độ thấp) có thể là một dấu hiệu hỗ trợ hữu ích, có ý nghĩa để phân biệt với ung thư đại tràng. Khi quen thuộc các dấu hiệu này có thể giúp chúng ta chẩn đoán chính xác viêm túi thừa đại tràng phải. Lee và cộng sự đưa ra tiêu chuẩn trên chụp CLVT tương tự trong đó lưu ý sự hiện diện của túi thừa viêm và hình ảnh ruột thừa bình thường. Qua nghiên cứu, tác giả ghi nhận có 60% TH có 2 tiêu chuẩn này.
 
 Sự hiện diện hình ảnh túi thừa viêm được cho là bằng chứng khách quan nhất của viêm túi thừa, nhưng cần phải phân biệt đúng là túi thừa gây ra viêm hay chỉ là sự hiện diện của 1 túi thừa trong môi trường viêm do nguyên nhân khác. Và khi đó, cần phải tìm nguyên nhân chính gây bệnh, túi thừa lúc này chỉ đơn thuần là bệnh kèm theo. Các túi thừa chứa sỏi phân hoặc chứa đầy chất phân thì dễ nhận biết trong khi các túi thừa viêm với hình ảnh bắt quang kém kiểu mô mềm sẽ rất khó để nhận ra. May mắn là đa số túi thừa thường bắt cản quang lớp niêm mạc mạnh, do đó chụp CLVT cần có sự hỗ trợ của thuốc cản quang đường tĩnh mạch.
 
-Tuy nhiên, có nhiều ý kiến cho rằng việc áp dụng chụp CLVT để chẩn đoán tất cả các trường hợp đau hố chậu phải hoặc tất cả các trường hợp nghi ngờ viêm ruột thừa để phân biệt với viêm túi thừa là khó khăn thi và làm tăng chi phí y tế đồng thời ít nhiều khiến bệnh nhân tiếp xúc với tia xạ, do vậy hiện nay hầu hết viêm ruột thừa vẫn được chẩn đoán dựa vào lâm sàng, xét nghiệm máu và siêu âm bụng, như vậy khả năng lầm với viêm túi thừa vẫn có thể xảy ra. Để hạn chế điều này, người lâm sàng phải hỏi và khám kỹ lâm sàng và chỉ định chụp CLVT khi nghi ngờ như thời gian đau dài, vị trí đau bất thường, mức độ đau không tương xứng thời gian đau, biểu hiện toàn thân không rõ...
+Tuy nhiên, có nhiều ý kiến cho rằng việc áp dụng chụp CLVT để chẩn đoán tất cả các trường hợp đau hố chậu phải hoặc tất cả các trường hợp nghi ngờ viêm ruột thừa để phân biệt với viêm túi thừa là khó khả thi và làm tăng chi phí y tế đồng thời ít nhiều khiến bệnh nhân tiếp xúc với tia xạ, do vậy hiện nay hầu hết viêm ruột thừa vẫn được chẩn đoán dựa vào lâm sàng, xét nghiệm máu và siêu âm bụng, như vậy khả năng lầm với viêm túi thừa vẫn có thể xảy ra. Để hạn chế điều này, người lâm sàng phải hỏi và khám kỹ lâm sàng và chỉ định chụp CLVT khi nghi ngờ như thời gian đau, vị trí đau bất thường, mức độ đau không tương xứng thời gian đau, biểu hiện toàn thân không rõ...
 
 ## 5.4. Chụp X quang đại tràng
 
@@ -5507,13 +5527,13 @@ Khi bơm thuốc cản quang vào đại tràng, thuốc đi vào trong túi th�
 
 Một nhược điểm rất lớn của phương pháp này đó là các rủi ro khi thực hiện trong tình trạng túi thừa đang có biến chứng. Sẽ rất nguy hiểm nếu như túi thừa đang viêm hay thủng mà ta bơm áp lực vào trong lòng đại tràng, tạo ra nguy cơ chảy vào trong khoang bụng gây nhiễm bẩn, chưa kể thuốc cản quang thường là barium sulfate rất độc khi tràn vào trong phúc mạc.
 
-Không có nhiều nghiên cứu về phương pháp này trong chẩn đoán túi thừa đại tràng phải. Nghiên cứu của Gouge: chụp đại tràng cản quang được thực hiện cho 7 bệnh nhân, trước mổ chỉ có 1 bệnh nhân được chẩn đoán, hồi cứu lại sau mổ thì cũng chỉ có 5 bệnh nhân có hình ảnh chẩn đoán được, vẫn còn 2 bệnh nhân không có dấu hiệu để chẩn đoán. Vào năm 1991, Yap khảo sát tại Singapore trên 361 bệnh nhân (96% là người Châu Á) được chụp đại tràng cản quang vì nhiều lý do khác nhau. Kết quả có 102 bệnh nhân (28%) bệnh nhân có túi thừa đại tràng. Về vị trí và phân bố của túi thừa: 71% có túi thừa bên đại tràng phải (manh tràng, đại tràng lên, đại tràng góc gan), 15% có túi thừa đại tràng bên trái (đại tràng góc lách, đại tràng xuống, chậu hông), 14% có túi thừa ở khắp đại tràng. Tuổi trung bình người có túi thừa bên phải trẻ hơn bên trái và 2 bên, lần lượt là 54, 62, 67 tuổi. Đối với 72 bệnh nhân túi thừa bên phải, 25 bệnh nhân (35%) chỉ có 1 túi thừa, 21 bệnh nhân có trên 5 túi thừa.
+Không có nhiều nghiên cứu về phương pháp này trong chẩn đoán túi thừa đại tràng phải. Nghiên cứu cứu của Gouge: chụp đại tràng cản quang được thực hiện cho 7 bệnh nhân, trước mổ chỉ có 1 bệnh nhân được chẩn đoán, hồi cứu lại sau mổ thì cũng chỉ có 5 bệnh nhân có hình ảnh chẩn đoán được, vẫn còn 2 bệnh nhân không có dấu hiệu để chẩn đoán. Vào năm 1991, Yap khảo sát tại Singapore trên 361 bệnh nhân (96% là người Châu Á) được chụp đại tràng cản quang vì nhiều lý do khác nhau. Kết quả có 102 bệnh nhân (28%) bệnh nhân có túi thừa đại tràng. Về vị trí và phân bố của túi thừa: 71% có túi thừa bên đại tràng phải (manh tràng, đại tràng lên, đại tràng góc gan), 15% có túi thừa đại tràng bên trái (đại tràng góc lách, đại tràng xuống, chậu hông), 14% có túi thừa ở khắp đại tràng. Tuổi trung bình người có túi thừa bên phải trẻ hơn bên trái và 2 bên, lần lượt là 54, 62, 67 tuổi. Đối với 72 bệnh nhân túi thừa bên phải, 25 bệnh nhân (35%) chỉ có 1 túi thừa, 21 bệnh nhân có trên 5 túi thừa.
 
 Tóm lại, chụp đại tràng cản quang hoặc tốt hơn là đối quang kép nên được áp dụng khi muốn tầm soát hoặc khảo sát sự phân bố cũng như mật độ của túi thừa trên đại tràng. Nên thực hiện ngoài giai đoạn cấp do đó không có vai trò trong tình huống cấp cứu.
 
 ## 5.5. Nội soi đại tràng
 
-Nội soi đại tràng cũng là phương pháp chẩn đoán với độ đặc hiệu cao. Tuy nhiên, cũng như chụp đại tràng, nội soi cũng rất dè dặt chỉ định trong khi túi thừa viêm vì nguy cơ xì dịch vào ổ bụng gây nhiễm bẩn. Hình ảnh túi thừa thể hiện qua nội soi là các hốc lõm ra ngoài thành đại tràng. Sẽ rất dễ dàng phát hiện nếu bệnh nhân có nhiều túi thừa (sót cái này thì thấy cái khác). Tuy nhiên, nếu túi thừa ít, túi thừa ở đại tràng phải, thao tác soi khó khăn, nếu miệng túi thừa ẩn nấp sau các nếp niêm mạc ruột bị nhô lên thì cùng rất dễ bị bỏ sót, đặc biệt là khi chúng ta không có ý muốn tìm.
+Nội soi đại tràng cũng là phương pháp chẩn đoán với độ đặc hiệu cao. Tuy nhiên, cũng như chụp đại tràng, nội soi cũng rất dè dặt chỉ định trong khi túi thừa viêm vì nguy cơ xì dịch vào bụng gây nhiễm bẩn. Hình ảnh túi thừa thể hiện qua nội soi là các hốc lõm ra ngoài thành đại tràng. Sẽ rất dễ dàng phát hiện nếu bệnh nhân có nhiều túi thừa (sót cái này thì thấy cái khác). Tuy nhiên, nếu túi thừa ít, túi thừa ở đại tràng phải, thao cùng rất dễ bị bỏ sót, đặc biệt là khi chúng ta không có ý muốn tìm.
 
 Mặc dù không có vai trò trong tình huống cấp tính hoặc thậm chí bị chống chỉ định trong các trường hợp nghi ngờ viêm có biến chứng, nhưng phương pháp này gần như là bắt buộc phải làm sau giai đoạn cấp để xác định chẩn đoán và quan trọng hơn là để phân biệt với các bệnh lý khác của đại tràng, đặc biệt là loại trừ ung thư đại tràng.
 
@@ -5535,17 +5555,17 @@ Dưới đây là khuyến cáo của Hội Ngoại khoa Cấp cứu Thế Giớ
 + Đối với bệnh nhân có nguy cơ (lớn tuổi, có bệnh đi kèm, suy giảm miễn dịch...) thì có thể cho kháng sinh uống hoặc chuyển sớm từ kháng sinh chích sang đường uống.
 + Điều trị ngoại trú được đề nghị cho các bệnh nhân không có bệnh khác đi kèm. Theo dõi ngoại trú và đánh giá lại trong vòng 7 ngày, cần đánh giá sớm hơn nếu tình trạng xấu đi.
 - Điều trị viêm túi thừa với biến chứng khu trú:
-+ Bệnh nhân có dấu hiệu tụ dịch hoặc khí nhỏ cạnh đại tràng (**Giai đoạn 1a**) nên được điều trị với kháng sinh.
+  + Bệnh nhân có dấu hiệu tụ dịch hoặc khí nhỏ cạnh đại tràng (**Giai đoạn 1a**) nên được điều trị với kháng sinh.
 - Điều trị áp xe túi thừa:
-+ Bệnh nhân có áp xe nhỏ dưới 4-5 cm (**Giai đoạn 1b**) có thể điều trị với kháng sinh đơn thuần.
-+ Bệnh nhân có áp xe lớn hơn 4-5 cm (**Giai đoạn 2a**) tốt nhất là dẫn lưu mủ qua da kết hợp với điều trị kháng sinh.
-+ Khi bệnh nhân với áp xe lớn mà không thể dẫn lưu ra thì dựa theo tình trạng lâm sàng có thể điều trị với kháng sinh đơn thuần. Tuy nhiên, bắt buộc phải theo dõi lâm sàng cẩn thận.
-+ Các bệnh nhân áp xe túi thừa được điều trị bảo tồn nên được lên kế hoạch đánh giá đại tràng sớm 4-6 tuần.
-+ Những bệnh nhân viêm túi thừa không biến chứng đã được điều trị bảo tồn với hình ảnh cải thiện tốt trên chụp cắt lớp vi tính và không có các yếu tố nguy cơ nào khác thì không cần nội soi đại tràng sớm. Các bệnh nhân trên 50 tuổi nên được đưa vào chương trình tầm soát ung thư đại trực tràng.
+  + Bệnh nhân có áp xe nhỏ dưới 4-5 cm (**Giai đoạn 1b**) có thể điều trị với kháng sinh đơn thuần.
+  + Bệnh nhân có áp xe lớn hơn 4-5 cm (**Giai đoạn 2a**) tốt nhất là dẫn lưu mủ qua da kết hợp với điều trị kháng sinh.
+  + Khi bệnh nhân với áp xe lớn mà không thể dẫn lưu ra da thì dựa theo tình trạng lâm sàng có thể điều trị với kháng sinh đơn thuần. Tuy nhiên, bắt buộc phải theo dõi lâm sàng cẩn thận.
+  + Các bệnh nhân áp xe túi thừa được điều trị bảo tồn nên được lên kế hoạch đánh giá đại tràng sớm 4-6 tuần.
+  + Những bệnh nhân viêm túi thừa không biến chứng đã được điều trị bảo tồn với hình ảnh cải thiện tốt trên chụp cắt lớp vi tính và không có các yếu tố nguy cơ nào khác thì không cần nội soi đại tràng sớm. Các bệnh nhân trên 50 tuổi nên được đưa vào chương trình tầm soát ung thư đại trực tràng.
 - Điều trị viêm phúc mạc:
-+ Bệnh nhân có dịch lan xa > 5 cm nhưng chưa lan toả (**Giai đoạn 2b**) có thể chọn lọc điều trị bảo tồn cho các trường hợp nhất định. Tuy nhiên có nguy cơ thất bại cần phải mổ cấp cứu, theo dõi cẩn thận là bắt buộc. Chụp cắt lớp vi tính nên được lập lại sớm dựa theo lâm sàng và xét nghiệm. Nếu thất bại với điều trị nội thì cần mổ cấp cứu cắt đại tràng. Có thể nối ngay hoặc phẫu thuật Hartmann tùy theo tình trạng lâm sàng và bệnh kèm theo.
-+ Nội soi rửa bụng và dẫn lưu không được thực hiện đối với bệnh nhân viêm phúc mạc toàn thể (**Giai đoạn 3,4**).
-+ Phẫu thuật Hartmann được khuyến cáo đối với bệnh nhân viêm phúc mạc toàn thể trong tình trạng xấu hoặc nhiều bệnh kèm theo. Tuy nhiên, trong
+  + Bệnh nhân có dịch lan xa > 5 cm nhưng chưa lan toả (**Giai đoạn 2b**) có thể chọn lọc điều trị bảo tồn cho các trường hợp nhất định. Tuy nhiên có nguy cơ thất bại cần phải mổ cấp cứu, theo dõi cẩn thận là bắt buộc. Chụp cắt lớp vi tính nên được lập lại sớm dựa theo lâm sàng và xét nghiệm. Nếu thất bại với điều trị nội thì cần mổ cấp cứu cắt đại tràng. Có thể nối ngay hoặc phẫu thuật Hartmann tùy theo tình trạng lâm sàng và bệnh kèm theo.
+  + Nội soi rửa bụng và dẫn lưu không được thực hiện đối với bệnh nhân viêm phúc mạc toàn thể (**Giai đoạn 3,4**).
+  + Phẫu thuật Hartmann được khuyến cáo đối với bệnh nhân viêm phúc mạc toàn thể trong tình trạng xấu hoặc nhiều bệnh kèm theo. Tuy nhiên, trong
 
 trường hợp bệnh nhân ổn định và không có bệnh kèm theo thì có thể cắt nối và cân nhắc mở hoặc không mở thông ruột trên dòng.
 
@@ -5601,19 +5621,21 @@ C. Độ 3
 D. Độ 4
 
 4. BN nữ, 35 tuổi vào viện vì đau hố chậu (P) 3 ngày, đau âm ỉ liên tục, không sốt, không nôn ói. BN đã có nhiều lần đau tương tự như vậy nhưng tự mua thuốc uống, cơn đau tự khỏi. Lần này đau nhiều hơn nên BN khám cấp cứu tại BV. Khám lâm sàng ghi nhận da niêm hồng, bụng không chướng, ấn đau nhẹ vùng hông (P), không đề kháng, không sờ thấy u cục vùng bụng. Chẩn đoán bạn nghĩ đến nhiều nhất là?
+
 - A. Viêm túi thừa ĐT phải
 - B. Viêm ruột thừa cấp
 - C. K manh tràng xâm lấn
 - D. Cơn đau quặn thận (P)
 
 5. BN nam 85 tuổi có tiền căn rung nhĩ, tăng huyết áp và rối loạn đông máu, vào viện vì viêm túi thừa ĐT chậu hông biến chứng thủng, kích thước ổ áp xe là 2 cm, có 2 bóng khí nhỏ cạnh túi thừa viêm. Khám lâm sàng ấn đau hố chậu (T), không đề kháng. Lựa chọn điều trị thích hợp là?
+
 - A. Kháng sinh cephalosporin thế hệ 3 + metronidazol, theo dõi tại khoa Ngoại
 - B. Chọc dẫn lưu ổ áp xe dưới siêu âm
 - C. Mổ cắt túi thừa đại tràng
 - D. Chuyển khoa hồi sức điều trị tích cực
 
 # SỎI ĐƯỜNG MẬT CHÍNH
-Lê Quan Anh Tuấn, Vũ Quang Hưng
+**Lê Quan Anh Tuấn, Vũ Quang Hưng**
 
 ## MỤC TIÊU
 
@@ -5636,7 +5658,34 @@ Tỷ lệ mắc sỏi đường mật trong gan ở các nước phương Tây r
 
 Ở Việt Nam, trước những năm 1980 khi siêu âm chưa được phổ cập, hầu hết các tài liệu trong nước đều cho rằng sỏi túi mật có tỷ lệ rất thấp (khoảng 10%) và sỏi đường mật
 
-261
+261 chính có tỷ lệ rất cao (80-90%). Từ năm 1976 đến 1998, tỷ lệ sỏi đường mật chính là 78% (sỏi đường mật ngoài gan 46% + sỏi đường mật trong gan 32%) và sỏi túi mật là 22%.
+
+Khi đời sống kinh tế và xã hội ở châu Á thay đổi thì hình thái sỏi đường mật chính cũng có những biến đổi tương ứng: Tỷ lệ sỏi đường mật trong và ngoài gan giảm trong khi tỷ lệ sỏi túi mật ngày một tăng. Trước đây, sỏi đường mật trong gan đã số là sỏi sắc tố đen. Tuy nhiên, trong mấy thập niên qua đã có sự giảm đều đặn tỷ lệ sỏi sắc tố đen ở nhiều nước. Tuy nhiên, trong mấy thập niên qua đã có sự giảm đều đặn tỷ lệ sỏi sắc tố đen ở một số nơi như Hàn Quốc, Đài Loan, Nhật Bản,...
+
+## 3. PHÂN LOẠI SỎI ĐƯỜNG MẬT CHÍNH
+
+Có nhiều cách phân loại sỏi đường mật chính, dựa trên sinh bệnh học, sinh hóa, giải phẫu.
+
+### 3.1. Sinh bệnh học
+
+Có 2 loại:
+
+- Sỏi đường mật nguyên phát: sỏi đường mật hình thành tại các ống mật trong hoặc ngoài gan, thường gặp ở các nước phương Đông như Đài Loan, Trung Quốc, Việt Nam,...
+- Sỏi đường mật thứ phát: sỏi đường mật hình thành tại túi mật, sau đó di chuyển vào đường mật chính qua ống túi mật. Loại sỏi đường mật này thường gặp ở các nước phương Tây.
+
+### 3.2. Sinh hóa
+
+Có 3 loại: sỏi sắc tố đen, sỏi sắc tố nâu, sỏi cholesterol.
+
+Sỏi đường mật chính gồm chủ yếu là bilirubin, trong khi sỏi túi mật có thành phần chính là cholesterol. Do đó các sỏi ống mật chủ nguyên phát thường có thành phần bilirubin cao hơn và thành phần cholesterol thấp hơn sỏi ống mật chủ thứ phát.
+
+#### 3.2.1. Sỏi sắc tố đen
+
+Sỏi sắc tố đen (hình 1) điển hình giống đất, chủ yếu gồm **calci bilirubinat** (với bilirubin trung hợp lớn hơn các sỏi nâu), thường gặp trong các tình trạng bệnh như tán huyết, tạo huyết cầu không hiệu quả, xơ gan. Sỏi sắc tố đen cũng chứa vi khuẩn và
+
+#### 3.2.2. Sỏi sắc tố nâu
+
+Sỏi sắc tố nâu (hình 2) màu nâu thẫm, mềm và bở, trên mặt vỡ của sỏi nhìn thấy cấu trúc nhiều lớp, chủ yếu gồm calci bilirubinat, hầu như luôn luôn kết hợp với calci palmitat, còn kết hợp với mucus glycoprotein, một lượng nhỏ cholesterol, các mảnh vụn tế bào, các vi khuẩn chết và các chất không kết tinh. Ở phương Đông, sỏi sắc tố nâu rất phổ biến thường đi kèm với nhiễm ký sinh trùng đường mật rất cao và có khi do giun sán (*Ascaris lumbricoides*, *Clonorchis sinensis*, *Schistosoma japonicum*).
 
 Enzym của các vi khuẩn ly giải liên kết và đẩy nhanh sự kết tủa của bilirubin, cholesterol, các axit béo và glycoprotein.
 
@@ -5651,30 +5700,35 @@ Sỏi cholesterol (hình 3) thường có màu vàng và cứng hơn so với s�
 Có 2 loại theo vị trí sỏi: sỏi ống mật chủ (gồm sỏi ống mật chủ, ống gan chung), sỏi đường mật trong gan (sỏi nằm trong đường mật phía trên chỗ hợp lưu ống gan phải và trái) (hình 4).
 
 **Sơ đồ: Hình 4. Sơ đồ giải phẫu đường mật trong và ngoài gan.**
-- VII --> VIII
-- V --> Ông phân thùy trước
-- V --> Ông phân thùy sau
-- VI --> Ông gan phải
-- Túi mật --> Ông túi mật
+- VII --> Ông phân thùy trước
+- VIII --> Ông phân thùy sau
+- V
+- VI
+- Túi mật
+- Ông gan phải
+- Ông túi mật
 - Ông gan trái
 - Ông gan chung
 - Ông mật chủ
 - Ông tụy chính
-- Bóng Vater
+- Bong Vater
+- II
+- III
 
 4. SINH BỆNH HỌC SỎI ĐƯỜNG MẬT CHÍNH
-
 4.1. Sỏi ống mật chủ
 Sỏi ống mật chủ nguyên phát được hình thành chủ yếu liên quan đến sự ứ đọng mật và nhiễm khuẩn đường mật. Sỏi ống mật chủ thứ phát được tạo ra do sỏi hình thành ở túi mật, qua ống túi mật rơi xuống ống mật chủ.
 
 4.2. Sỏi đường mật trong gan
-Bệnh sinh của sỏi đường mật trong gan rất phức tạp, thường là sỏi nguyên phát được hình thành do các yếu tố liên quan như ứ đọng mật, nhiễm khuẩn mật, kém dinh dưỡng và nhiễm ký sinh trùng. Ứ đọng mật kết hợp với tắc mật đưa đến nhiễm khuẩn, nhất là nhiễm *Escherichia coli* và các chủng *Enterobacter* (>95%) đi đến gan qua đường tĩnh mạch cửa sau các tổn thương liên tiếp của niêm mạc ruột do ký sinh trùng gây ra. Các ký sinh trùng đường mật tương đối hay gặp ở các nước Đông Á, ở những nơi vệ sinh kém. Nhiễm ký sinh trùng đường mật do sản lá *Clonorchis sinensis* và giun đũa *Ascaris lumbricoides* đưa đến viêm biểu mô ống mật, làm tăng tiết mucin và cùng với các mảnh xác hoặc các trứng của ký sinh trùng sinh ra các ổ tạo sỏi.
+Bệnh sinh của sỏi đường mật trong gan rất phức tạp, thường là sỏi nguyên phát được hình thành do các yếu tố liên quan như ứ đọng mật, nhiễm khuẩn mật, kém dinh dưỡng và nhiễm ký sinh trùng. Ứ đọng mật kết hợp với tắc mật đưa đến nhiễm khuẩn, nhất là nhiễm Escherichia coli và các chủng Enterobacter (>95%) đi đến gan qua đường tĩnh mạch cửa sau các tổn thương liên tiếp của niêm mạc ruột do ký sinh trùng gây ra. Các ký sinh trùng đường mật tương đối hay gặp ở các nước Đông Á, ở những nơi vệ sinh kém. Nhiễm ký sinh trùng đường mật do sản lá Clonorchis sinensis và giun đũa Ascaris lumbricoides đưa đến viêm biểu mô ống mật, làm tăng tiết mucin và cùng với các mảnh xác hoặc các trứng của ký sinh trùng sinh ra các ổ tạo sỏi.
+
 Các enzym của vi khuẩn, ví dụ $\beta$-glucuronidase, thủy phân diglucuronid bilirubin tạo ra bilirubin không liên kết, kết hợp calci ion hóa tạo ra calci bilirubinat. Phospholipase của vi khuẩn cũng làm phân hủy phospholipid tự do và các lysophospholipid, cả hai đều không tan trong nước. Điều này làm tăng kết tủa các muối calci của các axít béo, cùng với làm tăng tiết mucin từ biểu bì ống mật. Như vậy, đa số các sỏi đường mật trong gan nguyên phát là sỏi sắc tố nâu gồm chủ yếu là calci bilirubinat.
-Sinh bệnh học của sỏi cholesterol trong gan nguyên phát vẫn chưa rõ ràng. Có hai quan điểm khác nhau: một là các quá trình tạo sỏi cholesterol ở đường mật trong gan cũng tương tự như những gì xảy ra ở túi mật; hai là khác với sỏi túi mật, tình trạng bảo hòa cholesterol của gan xuất phát từ tổng hợp mới cholesterol ở gan tăng và tổng hợp axít mật giảm và có thể kết hợp với sự giảm bài tiết phospholipid.
+
+Sinh bệnh học của sỏi cholesterol trong gan nguyên phát vẫn chưa rõ ràng. Có hai quan điểm khác nhau: một là các quá trình tạo sỏi cholesterol ở đường mật trong gan cũng tương tự như những gì xảy ra ở túi mật; hai là khác với sỏi túi mật, tình trạng bão hòa cholesterol của gan xuất phát từ tổng hợp mới cholesterol ở gan tăng và tổng hợp axít mật giảm và có thể kết hợp với sự giảm bài tiết phospholipid.
 
 5. YẾU TỐ NGUY CƠ
-
 5.1. Yếu tố nguy cơ sỏi ống mật chủ
+
 Các nguyên nhân gây ra ứ đọng mật kết hợp với nhiễm khuẩn đường mật là những yếu tố nguy cơ chủ yếu. Các yếu tố nguy cơ về mặt giải phẫu cũng góp phần quan trọng cho việc tạo sỏi túi mật nguyên phát lẫn thứ phát: ở phương Tây, dãn ống mật chủ phối hợp với sỏi ống mật chủ nguyên phát thường gặp ở những bệnh nhân đã cắt túi mật thời trẻ, người có sỏi túi mật kèm dãn ống túi mật có nguy cơ cao bị sỏi ống mật chủ thứ phát. Các yếu tố nguy cơ khác bao gồm: chủng tộc, tuổi, giới, rối loạn chuyển hóa mỡ, dinh dưỡng, béo phì, chế độ luyện tập, các tình trạng viêm nhiễm mạn tính như giảm chức năng cơ vòng Oddi, viêm đường mật xơ hóa nguyên phát, hội chứng suy giảm miễn dịch mắc phải và nhiễm các loại ký sinh trùng,...
 
 ## 5.2. Yếu tố nguy cơ sỏi đường mật trong gan
@@ -5714,7 +5768,7 @@ Trước đây, tam chứng Charcot (gồm đau bụng, sốt, vàng da) đượ
 Bảng 1. Chỉ định, chống chỉ định các phương tiện hình ảnh chẩn đoán sỏi đường mật chính
 
 | | Chỉ định | Chống chỉ định |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Siêu âm | - Là phương tiện trước tiên được sử dụng khi nghi ngờ có bệnh sỏi đường mật chính. | |
 | Chụp CLVT | - Xác định có sỏi và vị trí sỏi đường mật chính.<br>- Khảo sát các thương tổn khác của đường mật: u đường mật, áp xe gan đường mật.<br>- Khảo sát các cơ quan xung quanh: viêm tụy,... | - Suy thận nặng.<br>- Dị ứng thuốc cản quang. |
 | X quang đường mật trong mổ | - Bệnh nhân có chỉ định cắt túi mật + nghi ngờ sỏi ống mật chủ (dãn đường mật trong và ngoài gan, tăng Bilirubin máu, tăng Amylase hoặc Lipase máu, tăng men gan) | |
@@ -5722,7 +5776,7 @@ Bảng 1. Chỉ định, chống chỉ định các phương tiện hình ảnh 
 | Chụp X quang đường mật xuyên gan qua da (PTC) | - Xác định có sỏi và vị trí sỏi đường mật chính.<br>- Thực hiện khi có chỉ định dẫn lưu đường mật xuyên gan qua da hoặc lấy sỏi qua da. | - Rối loạn đông máu. |
 | Chụp X quang đường mật qua ống dẫn lưu Kehr | - Kiểm tra còn sỏi, vị trí sỏi, sự lành đường hầm Kehr sau phẫu thuật. | |
 | Siêu âm trong mổ | - Bệnh nhân có chỉ định cắt túi mật + nghi ngờ sỏi ống mật chủ. | |
-| MRCP | - Xác định có sỏi và vị trí sỏi đường mật chính nhất là sỏi đường mật trong gan tái phát nhiều lần.<br>- Nghi ngờ ung thư đường mật, hẹp đường mật. | - Trong cơ thể có kim loại (máy tạo nhịp,...)<br>- Dị ứng chất cản từ. |
+| MRCP | - Xác định có sỏi và vị trí sỏi đường mật chính nhất là sỏi đường mật trong gan tái phát nhiều lần.<br>- Nghi ngờ ung thư đường mật, hẹp đường mật. | - Trong cơ thể có kim loại (máy tạo nhịp,...).<br>- Dị ứng chất cản từ. |
 
 ## 7.1. Chẩn đoán hình ảnh trong chẩn đoán sỏi ống mật chủ:
 
@@ -5731,17 +5785,29 @@ Bảng 1. Chỉ định, chống chỉ định các phương tiện hình ảnh 
 Bảng 2. Các phương tiện hình ảnh chẩn đoán sỏi ống mật chủ
 
 | | Độ nhạy | Độ đặc hiệu | Ưu điểm | Khuyết điểm |
-| :--- | :--- | :--- | :--- | :--- |
-| Siêu âm [9] | 73 % | 91 % | - Có thể phát hiện sỏi hoặc cho hình ảnh tắc nghẽn đường mật (dãn đường mật trong và ngoài gan).<br>- Nhanh. | - Giới hạn do hơi đường ruột.<br>- Khó phát hiện sỏi khi đường mật không dãn hay dãn ít.<br>- Không tái tạo giải phẫu đường mật.<br>- Độ phân giải không cao. |
+| --- | --- | --- | --- | --- |
+| Siêu âm [19] | 73 % | 91 % | - Có thể phát hiện sỏi hoặc cho hình ảnh tắc nghẽn đường mật (dãn đường mật trong và ngoài gan).<br>- Nhanh. | - Giới hạn do hơi đường ruột.<br>- Khó phát hiện sỏi khi đường mật không dãn hay dãn ít.<br>- Không tái tạo giải phẫu đường mật.<br>- Độ phân giải không cao. |
 
 | Độ nhạy | Độ đặc hiệu | Ưu điểm | Khuyết điểm |
 | --- | --- | --- | --- |
 | | | - Không xâm lấn. | - Chủ quan: phụ thuộc người thực hiện. |
-| Chụp CLVT [9] <br>- Không cản quang <br>- Có cản quang | 65 % <br><br>92 % | 84 % <br><br>92 % | - Không giới hạn do hơi. <br>- Phát hiện sỏi ngay khi đường mật không dãn. <br>- Khách quan. <br>- Không xâm lấn. | - Khó phát hiện sỏi cùng đậm độ dịch mật (sỏi cholesterol). <br>- Không tái tạo giải phẫu đường mật (trừ chụp CLVT xoắn ốc). <br>- Hình ảnh không rõ khi có kim loại gần vùng cần khảo sát. |
-| X quang đường mật trong mổ [9] | 68 – 99 % | 92 – 99 % | - Phát hiện sỏi ngay khi đường mật không dãn. <br>- Tái tạo giải phẫu đường mật. <br>- Cho hình ảnh động dưới màn hình huỳnh quang. | - Không thấy phần giải phẫu đường mật phía sau tắc nghẽn (nếu tắc nghẽn hoàn toàn). <br>- Chỉ đánh giá cây đường mật, không khảo sát được cấu trúc xung quanh. |
-| Siêu âm trong mổ [9] | 95 % | 99 % | - Không giới hạn do hơi. <br>- Phát hiện sỏi ngay khi đường mật không dãn. | - Không tái tạo giải phẫu đường mật. <br>- Chủ quan: phụ thuộc người thực hiện. |
-| ERCP [9] | 80 – 93 % | 99 % | - Không giới hạn do hơi. <br>- Phát hiện sỏi ngay khi đường mật không dãn. <br>- Tái tạo giải phẫu đường mật. | - Không thấy phần đường mật phía sau tắc nghẽn. <br>- Chỉ đánh giá cây đường mật, không khảo sát được cấu trúc xung quanh. <br>- Xâm lấn, có biến chứng: viêm tụy cấp, thủng tá tràng, viêm đường mật ngược dòng, chảy máu đường mật. |
-| MRCP [9] | 93 – 96 % <br>Độ nhạy còn 57,1% (nếu sỏi nhỏ hơn 6mm) | 94 – 99 % | - Không giới hạn do hơi. <br>- Phát hiện sỏi ngay khi đường mật không dãn. <br>- Tái tạo giải phẫu đường mật. <br>- Thấy phần đường mật phía sau tắc nghẽn. | - Không sẵn có. <br>- Giá thành cao. |
+| Chụp CLVT [9] | 65 % | 84 % | | - Khó phát hiện sỏi cùng đậm độ dịch mật (sỏi cholesterol). |
+| - Không cản quang | 92 % | 92 % | - Không giới hạn do hơi. | - Không tái tạo giải phẫu đường mật (trừ chụp CLVT xoắn ốc). |
+| - Có cản quang | | | - Phát hiện sỏi ngay khi đường mật không dãn. | - Hình ảnh không rõ khi có kim loại gần vùng cần khảo sát. |
+| | | - Khách quan. | |
+| | | - Không xâm lấn. | |
+| X quang đường mật trong mổ [9] | 68 – 99 % | 92 – 99 % | - Phát hiện sỏi ngay khi đường mật không dãn. | - Không thấy phần giải phẫu đường mật phía sau tắc nghẽn (nếu tắc nghẽn hoàn toàn). |
+| | | - Tái tạo giải phẫu đường mật. | - Chỉ đánh giá cây đường mật, không khảo sát được cấu trúc xung quanh. |
+| | | - Cho hình ảnh động dưới màn hình huỳnh quang. | |
+| Siêu âm trong mổ [9] | 95 % | 99 % | - Không giới hạn do hơi. | - Không tái tạo giải phẫu đường mật. |
+| | | - Phát hiện sỏi ngay khi đường mật không dãn. | - Chủ quan: phụ thuộc người thực hiện. |
+| ERCP [9] | 80 – 93 % | 99 % | - Không giới hạn do hơi. | - Không thấy phần đường mật phía sau tắc nghẽn. |
+| | | - Phát hiện sỏi ngay khi đường mật không dãn. | - Chỉ đánh giá cây đường mật, không khảo sát được cấu trúc xung quanh. |
+| | | - Tái tạo giải phẫu đường mật. | - Xâm lấn, có biến chứng: viêm tụy cấp, thủng tá tràng, viêm đường mật ngược dòng, chảy máu đường mật. |
+| MRCP [9] | 93 – 96 % | 94 – 99 % | - Không giới hạn do hơi. | - Không sẵn có. |
+| | Độ nhạy còn 57,1 % (nếu sỏi nhỏ hơn 6mm) | | - Phát hiện sỏi ngay khi đường mật không dãn. | - Giá thành cao. |
+| | | | - Tái tạo giải phẫu đường mật. | |
+| | | | - Thấy phần đường mật phía sau tắc nghẽn. | |
 
 [Hình: Hình 5. Sỏi ống mật chủ (mũi tên).]
 
@@ -5795,7 +5861,7 @@ Sỏi tái phát khi bệnh nhân trước đây đã được chẩn đoán s�
 
 Sỏi sót khi bệnh nhân đã được chẩn đoán và điều trị sỏi đường mật chính, tuy nhiên không thể lấy hết sỏi (có thể do sỏi nằm ở những nhánh đường mật hẹp hay gập góc mà không thể can thiệp để lấy hết sỏi), lần này phát hiện sỏi ở vị trí tương ứng với lần trước.
 
-Thực tế, đôi khi rất khó xác định sỏi tái phát hay sỏi sót vì các phương tiện chẩn đoán hình ảnh có một tỷ lệ âm tính giả nhất định, làm chúng ta nghĩ đã sạch sỏi nhưng thực tế sỏi vẫn còn đó và sau này bệnh nhân tái khám vì triệu chứng của chính sỏi đường mật ở vị trí này gây ra. Tình huống này là sót sỏi nhưng chúng ta nghĩ đó là sỏi tái phát. Trong trường hợp không có được những thông tin xác thực về kiểm tra sạch sỏi sau điều trị trước đây thì không phân biệt được sỏi sót hay tái phát nhưng nên xử trí như là sỏi tái phát. Trường hợp phát hiện triệu chứng lại trong vòng dưới 3 tháng sau điều trị, nhiều khả năng là do sỏi sót. Sử dụng mốc thời gian 6 tháng đến 1 năm không triệu chứng sau điều trị để khẳng định sỏi tái phát hay sỏi sót là không chính xác vì thực tế cho thấy sỏi sót có thể tồn tại không triệu chứng lâu hơn thời gian trên trong khi tái phát sỏi sớm nhất có thể gặp là sau 3 tháng.
+Thực tế, đôi khi rất khó xác định sỏi tái phát hay sỏi sót vì các phương tiện chẩn đoán hình ảnh có một tỷ lệ âm tính giả nhất định, làm chúng ta nghĩ đã sạch sỏi nhưng thực tế sỏi vẫn còn đó và sau này bệnh nhân tái khám vì triệu chứng của chính sỏi đường mật ở vị trí này gây ra. Tình huống này là sót sỏi nhưng chúng ta nghĩ đó là sỏi tái phát. Trong trường hợp không có được những thông tin xác thực về kiểm tra sạch sỏi sau điều trị trước đây thì không phân biệt được sỏi sót hay tái phát nhưng nên xử trí như là sỏi tái phát. Trường hợp phát hiện triệu chứng tái lại trong vòng dưới 3 tháng sau điều trị, nhiều khả năng là do sỏi sót. Sử dụng mốc thời gian 6 tháng đến 1 năm không triệu chứng sau điều trị để khẳng định sỏi tái phát hay sỏi sót là không chính xác vì thực tế cho thấy sỏi sót có thể tồn tại không triệu chứng lâu hơn thời gian trên trong khi tái phát sỏi sớm nhất có thể gặp là sau 3 tháng.
 
 ## 8.3. Có biến chứng không?
 
@@ -5813,29 +5879,30 @@ Bảng 4. Các tiêu chuẩn chẩn đoán viêm đường mật cấp theo Toky
 
 | A. Dấu hiệu viêm toàn thân | |
 | :--- | :--- |
-| A-1 | Sốt ($>38^\circ\text{C}$) và/hoặc lạnh run |
-| A-2 | Cận lâm sàng: Bằng chứng của phản ứng viêm: 1 trong 2 tiêu chuẩn:<br>- Bạch cầu ($\text{x}1000/\mu\text{L}$) $<4$ hoặc $>10$<br>- CRP ($\text{mg/dL}$) $\ge1$ |
+| A-1 | Sốt ($> 38^\circ\text{C}$) và/hoặc lạnh run |
+| A-2 | Cận lâm sàng: Bằng chứng của phản ứng viêm: 1 trong 2 tiêu chuẩn: <br>- Bạch cầu ($\times 1000/\mu\text{L}$) $< 4$ hoặc $> 10$ <br>- CRP ($\text{mg/dL}$) $\ge 1$ |
 | **B. Tắc mật** | |
-| B-1 | Vàng da: Bilirubin toàn phần $\ge2$ ($\text{mg/dL}$) |
-| B-2 | Cận lâm sàng: Bất thường chức năng gan: 1 trong 4 tiêu chuẩn sau:<br>- ALP ($\text{IU}$) $>1,5\times\text{giới hạn trên}$<br>- $\gamma\text{GTP}$ ($\text{IU}$) $>1,5\times\text{giới hạn trên}$<br>- AST ($\text{IU}$) $>1,5\times\text{giới hạn trên}$<br>- ALT ($\text{IU}$) $>1,5\times\text{giới hạn trên}$ |
+| B-1 | Vàng da: Bilirubin toàn phần $\ge 2$ ($\text{mg/dL}$) |
+| B-2 | Cận lâm sàng: Bất thường chức năng gan: 1 trong 4 tiêu chuẩn sau: <br>- ALP ($\text{IU}$) $> 1,5 \times$ giới hạn trên <br>- $\gamma\text{GTP}$ ($\text{IU}$) $> 1,5 \times$ giới hạn trên <br>- AST ($\text{IU}$) $> 1,5 \times$ giới hạn trên <br>- ALT ($\text{IU}$) $> 1,5 \times$ giới hạn trên |
 | **C. Chẩn đoán hình ảnh** | |
 | C-1 | Dãn đường mật |
 | C-2 | Bằng chứng nguyên nhân sinh bệnh trên hình ảnh học (hẹp đường mật, sỏi, stent,...) |
-| **Chẩn đoán xác định** có viêm đường mật cấp khi: 1 tiêu chuẩn A + 1 tiêu chuẩn B + 1 tiêu chuẩn C | |
-| **Nghi ngờ** có viêm đường mật cấp khi: 1 tiêu chuẩn A + 1 tiêu chuẩn B (hoặc 1 tiêu chuẩn C) | |
 
-\* *Kích thước đường mật trong gan bình thường $<3\text{ mm}$ nên không thấy. Đối với bệnh nhân $<60$ tuổi, ống gan chung thường $\le4\text{ mm}$ và ống mật chủ $\le6\text{ mm}$. Đối với bệnh nhân $>60$ tuổi, các số đo trên cộng thêm $1\text{ mm}$ cho mỗi thập niên* [4].
+Chẩn đoán xác định có viêm đường mật cấp khi: 1 tiêu chuẩn A + 1 tiêu chuẩn B + 1 tiêu chuẩn C
+Nghi ngờ có viêm đường mật cấp khi: 1 tiêu chuẩn A + 1 tiêu chuẩn B (hoặc 1 tiêu chuẩn C)
+
+\* *Kích thước đường mật trong gan bình thường $< 3\text{ mm}$ nên không thấy. Đối với bệnh nhân $< 60$ tuổi, ống gan chung thường $\le 4\text{ mm}$ và ống mật chủ $\le 6\text{ mm}$. Đối với bệnh nhân $> 60$ tuổi, các số đo trên cộng thêm $1\text{ mm}$ cho mỗi thập niên* [4].
 
 **(2) Mức độ viêm đường mật cấp?**
 
 Bảng 5. Phân độ viêm đường mật cấp theo Tokyo Guidelines 2018 [6]
 
-| Viêm đường mật cấp nặng (Độ III) | Khi có 1 trong 6 tiêu chuẩn sau:<br>- Rối loạn chức năng thần kinh: rối loạn tri giác<br>- Rối loạn chức năng tuần hoàn: tụt huyết áp cần dopamin $\ge5\ \mu\text{g/phút}$ hoặc bất kỳ liều nào của norepinephrine<br>- Rối loạn chức năng hô hấp: $\text{PaO}_2/\text{FiO}_2<300$<br>- Rối loạn chức năng thận: thiểu niệu, creatinine máu $>2,0\text{ mg/dL}$<br>- Rối loạn chức năng gan: $\text{PT-INR}>1,5$<br>- Rối loạn huyết học: tiểu cầu $<100.000/\text{mm}^3$ |
+| Viêm đường mật cấp nặng (Độ III) | Khi có 1 trong 6 tiêu chuẩn sau: <br>- Rối loạn chức năng thần kinh: rối loạn tri giác <br>- Rối loạn chức năng tuần hoàn: tụt huyết áp cần dopamin $\ge 5\text{ }\mu\text{g/phút}$ hoặc bất kỳ liều nào của norepinephrine <br>- Rối loạn chức năng hô hấp: $\text{PaO}_2/\text{FiO}_2 < 300$ <br>- Rối loạn chức năng thận: thiểu niệu, creatinine máu $> 2,0\text{ mg/dL}$ <br>- Rối loạn chức năng gan: PT-INR $> 1,5$ <br>- Rối loạn huyết học: tiểu cầu $< 100.000/\text{mm}^3$ |
 | :--- | :--- |
-| Viêm đường mật cấp trung bình (Độ II) | Khi có 2 trong 5 tiêu chuẩn sau:<br>- Bạch cầu $>12.000/\text{mm}^3$ hoặc $<4.000/\text{mm}^3$<br>- Sốt cao $\ge39^\circ\text{C}$<br>- $\ge75$ tuổi<br>- Bilirubin máu toàn phần $\ge5\text{ mg/dL}$<br>- Albumin máu $<0,7\times\text{giới hạn dưới}$ |
+| Viêm đường mật cấp trung bình (Độ II) | Khi có 2 trong 5 tiêu chuẩn sau: <br>- Bạch cầu $> 12.000/\text{mm}^3$ hoặc $< 4.000/\text{mm}^3$ <br>- Sốt cao $\ge 39^\circ\text{C}$ <br>- $\ge 75$ tuổi <br>- Bilirubin máu toàn phần $\ge 5\text{ mg/dL}$ <br>- Albumin máu $< 0,7 \times$ giới hạn dưới |
 | Viêm đường mật cấp nhẹ (Độ I) | Khi không đủ tiêu chuẩn chẩn đoán viêm đường mật cấp nặng và trung bình, sẽ được chẩn đoán là viêm đường mật cấp nhẹ |
 
-### 8.3.2. Áp xe gan đường mật
+### 1.3.2. Áp xe gan đường mật
 
 Áp xe gan đường mật tạo nên do sự tắc nghẽn đường mật và vi khuẩn trong dịch mật. Áp xe gan đường mật cần được chẩn đoán sớm và can thiệp kịp thời vì những biến chứng nặng của nó có thể gây ra như: Sốc nhiễm khuẩn, chảy máu đường mật, áp xe gan vỡ lên lồng ngực (tràn mủ màng phổi, tràn mủ màng ngoài tim), áp xe gan vỡ vào ổ bụng gây áp xe dưới hoành hoặc viêm phúc mạc toàn thể.
 
@@ -5843,13 +5910,13 @@ Bệnh nhân cũng có biểu hiện tương tự các trường hợp áp xe ga
 
 Siêu âm và chụp CLVT bụng giữ vai trò quan trọng trong chẩn đoán áp xe gan đường mật với độ nhạy tương ứng là 85% và 95%. Siêu âm có ích trong việc phân biệt các tổn thương dạng đặc hay lỏng, nhanh hơn và giúp hướng dẫn điều trị chọc hút hay dẫn lưu áp xe gan.
 
-### 8.3.3. Viêm tụy cấp
+### 1.3.3. Viêm tụy cấp
 
 Viêm tụy cấp là một trong những biến chứng thường gặp, nhất là đối với sỏi ống mật chủ. Khi bệnh nhân có sỏi ống mật chủ, chúng ta phải đánh giá xem bệnh nhân có biến chứng viêm tụy cấp không. Tiêu chuẩn chẩn đoán viêm tụy cấp, đánh giá độ nặng sẽ được trình bày trong một bài riêng.
 
-### 8.3.4. Viêm hẹp đường mật
+### 1.3.4. Viêm hẹp đường mật
 
-(1) Nguyên nhân:
+**(1) Nguyên nhân:**
 
 Sỏi trong gan là nguyên nhân đưa đến hẹp và dãn đường mật trong gan. Ngược lại, hẹp đường mật trong gan có thể dẫn đến tái phát sỏi. Một số nghiên cứu ở châu Á cho thấy một số biến thể của giải phẫu đường mật cũng có ảnh hưởng đến dòng chảy của mật và gây ứ mật, dẫn đến nhiễm khuẩn thứ phát và viêm tái diễn, tạo ra sỏi trong gan. Ngoài ra, viêm mủ đường mật ngược dòng và viêm mủ đường mật tái diễn cũng có vai trò trong tạo sỏi và hẹp ở đường mật trong gan.
 
@@ -5857,7 +5924,7 @@ Viêm túi mật mạn với hội chứng Mirizzi típ I là nguyên nhân thư
 
 Viêm hẹp đoạn cuối ống mật chủ hay viêm hẹp Oddi được cho là do sang chấn gây ra bởi các sỏi nhỏ hay bùn mật đi qua bóng Vater, đưa đến viêm, xơ hóa, và gây hẹp.
 
-(2) Chẩn đoán:
+**(2) Chẩn đoán:**
 
 Trường hợp hẹp đường mật trong gan, bệnh nhân có biểu hiện lâm sàng không đặc hiệu như đau bụng trên rốn hoặc dưới sườn phải, sốt. Trường hợp hẹp ống gan chung hay ống mật chủ, bệnh nhân có thể có thêm hội chứng vàng da. Các triệu chứng trên có thể trùng lắp với tình trạng viêm đường mật do sỏi.
 
@@ -5886,9 +5953,11 @@ Ung thư đường mật gặp trong 2,4-5,2% trường hợp sỏi trong gan. V
 **9.1. Nguyên tắc điều trị bao gồm**
 
 **9.1.1. Sỏi đường mật chính không biến chứng**
+
 Lấy sỏi.
 
 **9.1.2. Sỏi đường mật chính có biến chứng**
+
 - Điều trị biến chứng và lấy sỏi cùng lúc hoặc ưu tiên điều trị biến chứng trước rồi lấy sỏi sau.
 - Việc lựa chọn phương pháp điều trị tùy thuộc vào 6 yếu tố quan trọng sau:
   + Vị trí sỏi đường mật chính.
@@ -5899,18 +5968,20 @@ Lấy sỏi.
   + Các bệnh lý đi kèm: tim mạch, hô hấp,...
 
 **9.2. Chỉ định lấy sỏi đường mật chính**
+
 - Đối với sỏi ống mật chủ: chỉ định lấy sỏi trong tất cả các trường hợp.
 - Đối với sỏi đường mật trong gan: chỉ định lấy sỏi khi có triệu chứng hoặc biến chứng.
 
 **9.3. Các phương pháp lấy sỏi đường mật chính**
 
 **9.3.1. Sỏi lần đầu**
+
 Tùy theo vị trí sỏi khác nhau, phương pháp điều trị được lựa chọn sẽ khác nhau. Các phương pháp điều trị được trình bày trong bảng 6 theo thứ tự ưu tiên.
 
 Bảng 6. Các phương pháp điều trị sỏi đường mật chính theo vị trí sỏi
 
 | Vị trí sỏi | Phương pháp điều trị |
-| :--- | :--- |
+| --- | --- |
 | Sỏi ống mật chủ | Nội soi mật tụy ngược dòng (ERCP) lấy sỏi.<br>Mở ống mật chủ lấy sỏi +/- dẫn lưu Kehr.<br>Lấy sỏi qua da.<br>Lấy sỏi ống mật chủ qua ống túi mật khi có chỉ định cắt túi mật. |
 | Sỏi đường mật trong gan | Mở ống mật chủ lấy sỏi +/- dẫn lưu Kehr +/- lấy sỏi qua đường hầm Kehr.<br>Lấy sỏi qua da.<br>Cắt gan khi có chỉ định. |
 | Sỏi ống mật chủ + Sỏi đường mật trong gan | Phối hợp các phương pháp trên |
@@ -5919,7 +5990,7 @@ Bảng 6. Các phương pháp điều trị sỏi đường mật chính theo v�
 
 Nguyên tắc: lấy sỏi đường mật chính qua chỗ đổ của ống mật chủ vào tá tràng, dùng ống nội soi nhìn nghiêng phối hợp chụp chiếu đường mật dưới màn huỳnh quang.
 
-[Hình: A, B, C. Hình 14. ERCP lấy sỏi ống mật chủ. A: Sỏi trong lòng ống mật chủ (mũi tên); B: Sỏi ống mật chủ được kéo vào lòng tá tràng (mũi tên); C: Kiểm tra sạch sỏi ống mật chủ.]
+[Hình: Hình 14. ERCP lấy sỏi ống mật chủ. A: Sỏi trong lòng ống mật chủ (mũi tên); B: Sỏi ống mật chủ được kéo vào lòng tá tràng (mũi tên); C: Kiểm tra sạch sỏi ống mật chủ.]
 
 ERCP là phương pháp vừa chẩn đoán vừa điều trị. Tỷ lệ thành công của ERCP là 80-90%. Tỷ lệ tử vong chung của ERCP chẩn đoán là 0,2% và điều trị là 0,5%. Biến chứng bao gồm viêm tụy cấp (1-7%), chảy máu do cắt cơ vòng (0,8-2%), thủng tá tràng (0,3-0,6%), viêm đường mật (1%), viêm túi mật (0,2-0,5%).
 
@@ -5932,13 +6003,13 @@ Nguyên tắc: lấy sỏi đường mật chính qua chỗ mở ống mật ch�
 Khuyết điểm: có thể có một số biến chứng như: chảy máu, tụ dịch sau mổ, rò mật, các biến chứng liên quan đến ống dẫn lưu Kehr (tuột ống, rò mật chân ống dẫn lưu Kehr,...)
 
 [Hình: Mở ống mật chủ lấy sỏi, dẫn lưu Kehr.]
-**Hình 15.** Mở ống mật chủ lấy sỏi, dẫn lưu Kehr.
+Hình 15. Mở ống mật chủ lấy sỏi, dẫn lưu Kehr.
 
 [Hình: Khâu kín ống mật chủ.]
-**Hình 16.** Khâu kín ống mật chủ.
+Hình 16. Khâu kín ống mật chủ.
 
-[Hình: Sỏi ống mật chủ + sỏi đường mật trong gan + sỏi túi mật]
-**Hình 17.** Sỏi ống mật chủ + sỏi đường mật trong gan + sỏi túi mật.
+[Hình: Sỏi ống mật chủ + sỏi đường mật trong gan + sỏi túi mật.]
+Hình 17. Sỏi ống mật chủ + sỏi đường mật trong gan + sỏi túi mật.
 
 **(3) Lấy sỏi ống mật chủ qua ống túi mật:**
 
@@ -5948,11 +6019,11 @@ Nguyên tắc: lấy sỏi đường mật chính qua ống túi mật (dùng d�
 
 Khuyết điểm: kỹ thuật khó, phải có dụng cụ chuyên dụng.
 
-[Hình: Lấy sỏi ống mật chủ qua ống túi mật]
-**Hình 18.** Lấy sỏi ống mật chủ qua ống túi mật.
+[Hình: Lấy sỏi ống mật chủ qua ống túi mật.]
+Hình 18. Lấy sỏi ống mật chủ qua ống túi mật.
 
-[Hình: Ống soi đường mật]
-**Hình 19.** Ống soi đường mật.
+[Hình: Ông soi đường mật.]
+Hình 19. Ông soi đường mật.
 
 **(4) Lấy sỏi qua da:**
 
@@ -5963,96 +6034,106 @@ Nguyên tắc: lấy sỏi đường mật chính qua đường hầm dẫn lưu
 Ưu điểm: là phương pháp ít xâm hại.
 
 Khuyết điểm: kỹ thuật thực hiện khó đòi hỏi người thực hiện phải quen với thủ thuật dẫn lưu đường mật xuyên gan qua da (PTBD), thời gian điều trị kéo dài.
+
 Biến chứng: chảy máu, rò mật, viêm phúc mạc mật.
 
-[Hình: Hình 20. Dẫn lưu đường mật xuyên gan qua da (PTBD); Ống dẫn lưu đường mật (mũi tên đen); Sỏi ống gan phải (mũi tên trắng).]
+[Hình: Dẫn lưu đường mật xuyên gan qua da (PTBD); Óng dẫn lưu đường mật (mũi tên đen); Sỏi ống gan phải (mũi tên trắng).]
+**Hình 20.** Dẫn lưu đường mật xuyên gan qua da (PTBD); Ống dẫn lưu đường mật (mũi tên đen); Sỏi ống gan phải (mũi tên trắng).
 
-[Hình: Hình 21. Sỏi đường mật trong gan quan sát với máy soi đường mật.]
+[Hình: Sỏi đường mật trong gan quan sát với máy soi đường mật.]
+**Hình 21.** Sỏi đường mật trong gan quan sát với máy soi đường mật.
 
-(5) Cắt gan:
-Chỉ định:
+(5) **Cắt gan:**
+
+Chi định:
+
 - Sỏi đường mật trong gan gây xơ, teo một vùng gan khu trú (một thùy, phân thùy hay hạ phân thùy).
 - Sỏi quá nhiều thành hốc trong một vùng gan khu trú (thường là 1 phân thùy) kèm hẹp các ống gan tương ứng.
 - Ung thư đường mật đi kèm trong vùng gan chứa sỏi.
+
 Ưu điểm: đây là phương pháp điều trị sỏi trong gan có tỷ lệ tái phát thấp và giải quyết triệt để được các tổn thương đi kèm.
+
 Khuyết điểm: là phẫu thuật lớn đòi hỏi phẫu thuật viên có kinh nghiệm, phẫu thuật nên được thực hiện ở những trung tâm lớn chuyên về gan mật.
+
 Biến chứng: có thể có các biến chứng như chảy máu, rò mật,...
 
-[Hình: Hình 22. Cắt thùy trái gan do sỏi.]
+[Hình: Cắt thùy trái gan do sỏi.]
+**Hình 22.** Cắt thùy trái gan do sỏi.
 
-### 9.3.2. Sỏi đường mật chính tái phát
+9.3.2. Sỏi đường mật chính tái phát
 
 Lựa chọn phương pháp điều trị lấy sỏi tương tự sỏi lần đầu, có thể thực hiện thêm các phương pháp phòng chống sỏi tái phát.
 
 3 phương pháp thường được áp dụng:
+
 - Làm mật - da bằng túi mật.
 - Làm mật - ruột - da bằng quai hỗng tràng.
 - Làm mật - ruột - da bằng quai ruột biệt lập.
 
 Nguyên tắc của 3 phương pháp này: tạo đường hầm bền vững giữa ống mật chủ và thành bụng để tiếp cận đường mật chính lấy sỏi. Để làm được điều này, chúng ta phải dùng cấu trúc dạng ống hoặc túi tự nhiên của cơ thể (cụ thể là sử dụng quai hỗng tràng hoặc túi mật) làm đường dẫn từ thành bụng đến ống mật chủ. Về lâu dài, nếu có sỏi tái phát, bệnh nhân sẽ được lấy sỏi qua các đường hầm này mà không cần mổ lại.
 
-[Hình: 23. Làm mật - da bằng túi mật.]
-[Hình: 24. Làm mật - ruột - da bằng quai hỗng tràng.]
-[Hình: 25. Làm mật - ruột - da bằng quai ruột biệt lập.]
+[Hình: Hình 23. Làm mật - da bằng túi mật.]
 
-### 9.3.3. Điều trị sỏi sót sau mổ
+[Hình: Hình 24. Làm mật - ruột - da bằng quai hỗng tràng.]
 
-**(1) Còn ống dẫn lưu Kehr:**
+[Hình: Hình 25. Làm mật - ruột - da bằng quai biệt lập.]
+
+9.3.3. Điều trị sỏi sót sau mổ
+
+(1) Còn ống dẫn lưu Kehr:
 
 Khi sỏi gan hoặc sỏi ống mật chủ quá nhiều không thể lấy hết trong mổ, bệnh nhân sẽ được đặt ống dẫn lưu Kehr. Sau mổ ít nhất 3 tuần, bệnh nhân sẽ được lấy sỏi qua đường hầm ống Kehr.
 
-[Hình: 26. Sỏi gan 2 bên/ chụp X quang đường mật qua ống dẫn lưu Kehr.]
+[Hình: Hình 26. Sỏi gan 2 bên/ chụp X quang đường mật qua ống dẫn lưu Kehr.]
 
 (2) Không còn ống dẫn lưu Kehr:
 Nếu không còn ống dẫn lưu trong lòng ống mật chủ, bệnh nhân sẽ được điều trị giống sỏi đường mật chính tái phát.
 
-9.4. Điều trị biến chứng
+## 9.4. Điều trị biến chứng
 
-9.4.1. Sỏi đường mật chính có biến chứng viêm đường mật cấp
+### 9.4.1. Sỏi đường mật chính có biến chứng viêm đường mật cấp
 
-Nguyên tắc điều trị viêm đường mật cấp:
+**Nguyên tắc điều trị viêm đường mật cấp:**
 - Kháng sinh.
 - Hồi sức, nâng đỡ tổng trạng.
 - Dẫn lưu đường mật.
 - Điều trị nguyên nhân gây viêm đường mật.
 
-Phác đồ điều trị theo Tokyo Guidelines 2018: Được trình bày trong lưu đồ 1.
+**Phác đồ điều trị theo Tokyo Guidelines 2018:** Được trình bày trong lưu đồ 1.
 
 **Sơ đồ: Hướng dẫn điều trị viêm đường mật cấp theo Tokyo Guidelines 2018**
 - Độ I (Nhẹ) --> Kháng sinh, Nâng đỡ tổng trạng
-  - Hoàn thành kháng sinh điều trị --> Điều trị nguyên nhân sinh bệnh nếu vẫn còn cần thiết (can thiệp qua nội soi, qua da hay phẫu thuật)
+  - Hoàn thành kháng sinh điều trị ※ --> Điều trị nguyên nhân sinh bệnh nếu vẫn còn cần thiết (can thiệp qua nội soi, qua da hay phẫu thuật)
   - Dẫn lưu đường mật --> Điều trị nguyên nhân sinh bệnh nếu vẫn còn cần thiết (can thiệp qua nội soi, qua da hay phẫu thuật)
 - Độ II (Trung bình) --> Kháng sinh, Nâng đỡ tổng trạng
-  - Hoàn thành kháng sinh điều trị --> Điều trị nguyên nhân sinh bệnh nếu vẫn còn cần thiết (can thiệp qua nội soi, qua da hay phẫu thuật)
+  - Hoàn thành kháng sinh điều trị ※ --> Điều trị nguyên nhân sinh bệnh nếu vẫn còn cần thiết (can thiệp qua nội soi, qua da hay phẫu thuật)
   - Dẫn lưu đường mật sớm --> Điều trị nguyên nhân sinh bệnh nếu vẫn còn cần thiết (can thiệp qua nội soi, qua da hay phẫu thuật)
 - Độ III (Nặng) --> Dẫn lưu đường mật khẩn, Kháng sinh, Hồi sức tích cực --> Điều trị nguyên nhân sinh bệnh nếu vẫn còn cần thiết (can thiệp qua nội soi, qua da hay phẫu thuật)
 
 Lưu đồ 1. Hướng dẫn điều trị viêm đường mật cấp theo Tokyo Guidelines 2018 [8].
-
-❈ Cấy máu nên được thực hiện trước khi sử dụng kháng sinh. Cấy dịch mật nên được thực hiện trong quá trình dẫn lưu mật.
-
+※ Cấy máu nên được thực hiện trước khi sử dụng kháng sinh. Cấy dịch mật nên được thực hiện trong quá trình dẫn lưu mật.
 † Đối với bệnh nhân viêm đường mật cấp nhẹ hay trung bình, điều trị lấy sỏi đường mật nên được làm đồng thời với dẫn lưu đường mật nếu có thể.
 
-Kháng sinh điều trị: Khi chưa có kết quả kháng sinh đồ, kháng sinh được lựa chọn theo Tokyo Guidelines 2018 (bảng 7) [5].
+**Kháng sinh điều trị:** Khi chưa có kết quả kháng sinh đồ, kháng sinh được lựa chọn theo Tokyo Guidelines 2018 (bảng 7) [5].
 
-Bảng 7. Lựa chọn kháng sinh khi chưa có kết quả kháng sinh đồ [5]
+**Bảng 7. Lựa chọn kháng sinh khi chưa có kết quả kháng sinh đồ** [5]
 
-| | Viêm đường mật mắc phải từ cộng đồng | | | Viêm đường mật mắc phải trong bệnh việnᵃ |
-| --- | --- | --- | --- | --- |
-| | Đô I | Độ II | Độ IIIᵃ | |
+| Nhóm | Viêm đường mật mắc phải từ cộng đồng | Viêm đường mật mắc phải trong bệnh việnᵃ |
+| :--- | :--- | :--- |
+| Độ I | Độ II | Độ IIIᵃ |
 | Nhóm Penicillin | Ampicillin/sulbactamᵇ không được khuyến cáo dùng nếu tỷ lệ kháng ở địa phương >20% | Piperacillin/ tazobactam | Piperacillin/ tazobactam | Piperacillin/ tazobactam |
-| Nhóm Cephalosporin | Cefazolinᶜ, hoặc cefotiamᶜ, hoặc cefuroximeᶜ, hoặc ceftriaxone, hoặc cefotaxime ± metronidazoleᵈ Cefmetazoleᶜ, Cefoxitinᶜ, Flomoxefᶜ, Cefoperazone/ sulbactam | Ceftriaxone, hoặc Cefotaxime, hoặc Cefepime, hoặc Cefozopran, hoặc Ceftazidime ± Metronidazoleᵈ Cefoperazone/ sulbactam | Cefepime, hoặc Ceftazidime, hoặc Cefozopran ± Metronidazoleᵈ | Cefepime, hoặc Ceftazidime, hoặc Cefozopran ± Metronidazoleᵈ |
+| Nhóm Cephalosporin | Cefazolinᶜ, hoặc cefotiamᶜ, hoặc cefuroximeᶜ, hoặc ceftriaxone, hoặc cefotaxime ± metronidazoleᵈ | Ceftriaxone, hoặc Cefotaxime, hoặc Cefepime, hoặc Cefozopran, hoặc Ceftazidime ± Metronidazoleᵈ | Cefepime, hoặc Ceftazidime, hoặc Cefozopran ± Metronidazoleᵈ | Cefepime, hoặc Ceftazidime, hoặc Cefozopran ± Metronidazoleᵈ |
+| | Cefmetazoleᶜ, Cefoxitinᶜ, Flomoxefᶜ, Cefoperazone/ sulbactam | Cefoperazone/ sulbactam | | |
 | Nhóm Carbapenem | Ertapenem | Ertapenem | Imipenem/cilastatin, Meropenem, Doripenem, Ertapenem | Imipenem/cilastatin, Meropenem, Doripenem, Ertapenem |
-| Nhóm Monobactam | | | Aztreonam ± metronidazoleᵈ | Aztreonam ± metronidazoleᵈ |
-| Nhóm Fluoroquinoloneᵉ | Ciprofloxacin, hoặc Levofloxacin, hoặc Pazufloxacin ± metronidazoleᵈ Moxifloxacin | Ciprofloxacin, hoặc Levofloxacin, hoặc Pazufloxacin ± metronidazoleᵈ Moxifloxacin | | |
+| Nhóm Monobactam | | | Aztreonam ± Metronidazoleᵈ | Aztreonam ± metronidazoleᵈ |
+| Nhóm Fluoroquinoloneᵉ | Ciprofloxacin, hoặc Levofloxacin, hoặc Pazufloxacin ± metronidazoleᵈ | Ciprofloxacin, hoặc Levofloxacin, hoặc Pazufloxacin ± metronidazoleᵈ | | |
+| | Moxifloxacin | Moxifloxacin | | |
 
-ᵃ Vancomycin được khuyến cáo để điều trị Enterococcus spp. đối với viêm túi mật cấp độ III mắc phải từ cộng đồng. Linezolid hoặc daptomycin được sử dụng nếu kết quả cấy ra Enterococcus kháng vancomycin (VRE), nếu trước đó đã điều trị vancomycin, và/hoặc nếu Enterococcus kháng vancomycin (VRE) phổ biến trong cộng đồng.
-ᵇ Ampicillin/sulbactam ít có tác dụng đối với Escherichia coli, nó không còn được sử dụng trong phác đồ điều trị ở Bắc Mỹ.
-ᶜ Nghiên cứu nhạy cảm kháng sinh của từng địa phương nên được sử dụng.
-ᵈ Nếu bệnh nhân có nối mật ruột, cần phối hợp kháng sinh để điều trị vi khuẩn kỵ khí như metronidazole, tinidazole, hoặc clindamycin. Các kháng sinh như carbapenems, piperacillin/tazobactam, ampicillin/sulbactam, cefmetazole, cefoxitin, flomoxef, và cefoperazone/sulbactam cũng có tác dụng chống vi khuẩn kỵ khí.
-ᵉ Fluoroquinolone được khuyến cáo sử dụng nếu bệnh nhân dị ứng với nhóm $\beta$-lactam và có bằng chứng nhạy với vi khuẩn trên kháng sinh đồ vì nhiều vi khuẩn Gram âm tiết ESBL cũng đề kháng với fluoroquinolone.
-
-281
+ᵃ *Vancomycin được khuyến cáo để điều trị Enterococcus spp. đối với viêm túi mật cấp độ III mắc phải từ cộng đồng. Linezolid hoặc daptomycin được sử dụng nếu kết quả cấy ra Enterococcus kháng vancomycin (VRE), nếu trước đó đã điều trị vancomycin, và/hoặc nếu Enterococcus kháng vancomycin (VRE) phổ biến trong cộng đồng.*
+ᵇ *Ampicillin/sulbactam ít có tác dụng đối với Escherichia coli, nó không còn được sử dụng trong phác đồ điều trị ở Bắc Mỹ.*
+ᶜ *Nghiên cứu nhạy cảm kháng sinh của từng địa phương nên được sử dụng.*
+ᵈ *Nếu bệnh nhân có nối mật ruột, cần phối hợp kháng sinh để điều trị vi khuẩn kỵ khí như metronidazole, tinidazole, hoặc clindamycin. Các kháng sinh như carbapenems, piperacillin/tazobactam, ampicillin/sulbactam, cefmetazole, cefoxitin, flomoxef, và cefoperazone/sulbactam cũng có tác dụng chống vi khuẩn kỵ khí.*
+ᵉ *Fluoroquinolone được khuyến cáo sử dụng nếu bệnh nhân dị ứng với nhóm $\beta$-lactam và có bằng chứng nhạy với vi khuẩn trên kháng sinh đồ vì nhiều vi khuẩn Gram âm tiết ESBL cũng đề kháng với fluoroquinolone.*
 
 Khi có kết quả kháng sinh đồ, việc lựa chọn kháng sinh tùy thuộc kháng sinh đồ và đáp ứng của bệnh nhân với kháng sinh ban đầu.
 
@@ -6102,7 +6183,7 @@ Sỏi đường mật chính là bệnh khá phổ biến ở nước ta. Ngày 
 
 10. Tenner S, Baillie J, DeWitt J, et al (2013). American College of Gastroenterology guideline: management of acute pancreatitis. Am J Gastroenterol; 108 (9): 1400-1416.
 
-# CÂU HỎI LƯỢNG GIÁ
+## CÂU HỎI LƯỢNG GIÁ
 
 1. Các phương pháp sau có thể giúp chẩn đoán hẹp đường mật trong gan, ngoại trừ?
 - A. Soi đường mật trong mổ.
@@ -6110,14 +6191,14 @@ Sỏi đường mật chính là bệnh khá phổ biến ở nước ta. Ngày 
 - C. Siêu âm bụng.
 - D. MRCP.
 
-2. Bệnh nhân nam 80 tuổi, nhập viện vì đau $1/4$ trên phải, bệnh 3 ngày, kèm vàng da, tiểu vàng sậm, sốt, không ói, tiêu bình thường. Tiền căn chưa ghi nhận bất thường. Khám: bệnh nhân tỉnh, tiếp xúc chậm; M: 102 lần/phút, HA: 130/70 mmHg, $t^0$: 39,4$^0$C, thở 24 lần/phút, $\text{SpO}_2$: 95%, tiểu $1.200\text{ mL/ngày}$, củng mạc mắt vàng, bụng mềm ấn đau $1/4$ trên phải, đề kháng, không sờ được túi mật. Kết quả cận lâm sàng: Bạch cầu: $16,1\text{ K/mm}^3$, Bilirubin toàn phần $2,4\text{ mg/dL}$, Creatinin: $0,9\text{ mg/dL}$, INR: 1,1, tiểu cầu $260\text{K/mm}^3$. MSCT Scan chụp cắt lớp vi tính bụng chậu có cản quang: túi mật căng $84\text{ x }110\text{ mm}$, vách dày $5\text{ mm}$, thành bắt thuốc đều, lòng không sỏi, ít dịch quanh túi mật, OMC đường kính $12\text{ mm}$, lòng có 2 sỏi $10\text{ mm}$. Theo Tokyo guideline 2018, bệnh nhân này có viêm đường mật cấp không? Phân độ?
+2. Bệnh nhân nam 80 tuổi, nhập viện vì đau $1/4$ trên phải, bệnh 3 ngày, kèm vàng da, tiểu vàng sậm, sốt, không ói, tiêu bình thường. Tiền căn chưa ghi nhận bất thường. Khám: bệnh nhân tỉnh, tiếp xúc chậm; M: 102 lần/phút, HA: 130/70 mmHg, $t^0$: 39,4$^0$C, thở 24 lần/phút, $\text{SpO}_2$: 95%, tiểu $1.200\text{ mL/ngày}$, củng mạc mắt vàng, bụng mềm ấn đau $1/4$ trên phải, đề kháng, không sờ được túi mật. Kết quả cận lâm sàng: Bạch cầu: 16,1 $\text{K/mm}^3$, Bilirubin toàn phần $2,4\text{ mg/dL}$, Creatinin: $0,9\text{ mg/dL}$, INR: 1,1, tiểu cầu $260\text{K/mm}^3$. MSCT Scan chụp cắt lớp vi tính bụng chậu có cản quang: túi mật căng $84\times110\text{ mm}$, vách dày $5\text{ mm}$, thành bắt thuốc đều, lòng không sỏi, ít dịch quanh túi mật, OMC đường kính $12\text{ mm}$, lòng có 2 sỏi $10\text{ mm}$. Theo Tokyo guideline 2018, bệnh nhân này có viêm đường mật cấp không? Phân độ?
 - A. Viêm đường mật cấp do sỏi, chưa phân độ được.
 - B. Viêm đường mật cấp do sỏi, độ I.
 - C. Viêm đường mật cấp do sỏi, độ II.
 - D. Viêm đường mật cấp do sỏi, độ III.
 
-3. Bệnh nhân nữ 79 tuổi, nhập viện vì đau dưới sườn phải, bệnh 2 ngày, kèm vàng da, tiểu vàng sậm, sốt, không ói, tiêu phân vàng. Tiền căn: chưa ghi nhận bất thường. Khám: bệnh nhân tỉnh, tiếp xúc tốt; M: 96 lần/phút, HA: 100/70 mmHg, $t^0$: 39,1$^0$C, thở 23 lần/phút, $\text{SpO}_2$: 98%, tiểu $1.300\text{ mL/ngày}$, củng mạc mắt vàng, bụng mềm ấn đau thượng vị, đề kháng, không sờ được túi mật. Kết quả cận lâm sàng: Bạch cầu: $13,6\text{ K/mm}^3$, Bilirubin toàn phần $3,1\text{ mg/dL}$, Creatinin: $1,0\text{ mg/dL}$, INR: 1,1, tiểu cầu 190 $\text{K/mm}^3$. MSCT Scan bụng chậu có cản quang: túi mật căng $62\text{ x }120\text{ mm}$, vách dày $3\text{ mm}$, thành bắt thuốc đều, lòng không sỏi, OMC đường kính $12\text{ mm}$, lòng có 3 sỏi 5-10 mm. Xử trí phù hợp nhất trên bệnh nhân này là?
-- A. Kháng sinh, thực hiện ERCP chương trình
+3. Bệnh nhân nữ 79 tuổi, nhập viện vì đau dưới sườn phải, bệnh 2 ngày, kèm vàng da, tiểu vàng sậm, sốt, không ói, tiêu phân vàng. Tiền căn: chưa ghi nhận bất thường. Khám: bệnh nhân tỉnh, tiếp xúc tốt; M: 96 lần/phút, HA: 100/70 mmHg, $t^0$: 39,1$^0$C, thở 23 lần/phút, $\text{SpO}_2$: 98%, tiểu $1.300\text{ mL/ngày}$, củng mạc mắt vàng, bụng mềm ấn đau thượng vị, đề kháng, không sờ được túi mật. Kết quả cận lâm sàng: Bạch cầu: 13,6 $\text{K/mm}^3$, Bilirubin toàn phần $3,1\text{ mg/dL}$, Creatinin: $1,0\text{ mg/dL}$, INR: 1,1, tiểu cầu 190 $\text{K/mm}^3$. MSCT Scan bụng chậu có cản quang: túi mật căng $62\times120\text{ mm}$, vách dày $3\text{ mm}$, thành bắt thuốc đều, lòng không sỏi, OMC đường kính $12\text{ mm}$, lòng có 3 sỏi 5-10 mm. Xử trí phù hợp nhất trên bệnh nhân này là?
+- A. Kháng sinh, thực hiện ERCP chương trình.
 - B. Kháng sinh, thực hiện ERCP cấp cứu.
 - C. Kháng sinh, mổ mở mở ống mật chủ lấy sỏi.
 - D. ERCP khẩn sau đó dùng kháng sinh điều trị sau.
@@ -6141,14 +6222,17 @@ Nguyễn Hồng Sơn, Đặng Quốc Việt, Phan Minh Trí
 1. Sử dụng kiến thức giải phẫu và sinh lý của túi mật giúp nhận diện các triệu chứng lâm sàng và giúp chẩn đoán phân biệt với bệnh lý của tạng lận cận.
 2. Vận dụng cơ chế sinh bệnh sỏi túi mật trong điều trị và phòng bệnh.
 3. Tiếp cận người bệnh bằng lâm sàng và cận lâm sàng để chẩn đoán sỏi túi mật, chẩn đoán biến chứng của sỏi túi mật.
-4. Chỉ định điều trị phù hợp cho người bệnh sỏi túi mật không triệu chứng hay khi có biến chứng.
+4. Chỉ định điều trị phù hợp cho người bệnh sỏi túi mật không triệu chứng, có triệu chứng hay khi có biến chứng.
 
-**Từ khóa:** sỏi cholesterol, viêm túi mật cấp do sỏi, điểm Murphy, hội chứng Mirizzi, chẩn đoán và phân độ theo Tokyo Guideline, viêm tụy cấp do sỏi túi mật di trú,
+**Từ khóa:** sỏi cholesterol, viêm túi mật cấp do sỏi, điểm Murphy, hội chứng Mirizzi, chẩn đoán và phân độ theo Tokyo Guideline, viêm tụy cấp do sỏi túi mật di trú.
 
 **1. MỞ ĐẦU**
-Sỏi túi mật rất hay gặp ở các nước Âu Mỹ. Ở Hoa Kỳ, có khoảng 25-30 triệu người, tức 10-12% dân số bị sỏi túi mật. Hàng năm có thêm khoảng 800.000 trường hợp mới, tương đương với số trường hợp phải cắt túi mật, chi phí cho những bệnh nhân này là 8 – 10 tỷ đô la mỗi năm, chỉ đứng sau bệnh trào ngược dạ dày thực quản.
+Sỏi túi mật rất hay gặp ở các nước Âm Mỹ. Ở Hoa Kỳ, có khoảng 25-30 triệu người tức 10-12% dân số bị sỏi túi mật. Hàng năm có thêm khoảng 800.000 trường hợp mới, tương đương với số trường hợp phải cắt túi mật, chi phí cho những bệnh nhân này là 8 - 10 tỷ đô la mỗi năm, chỉ đứng sau bệnh trào ngược dạ dày thực quản.
+
 Các điều tra ở châu Âu cho tỷ lệ chung của sỏi túi mật vào khoảng 10%. Ở Pháp, hàng năm có 80.000 người mổ cắt túi mật. Mỗi năm Đức có 150.000 trường hợp mổ cắt túi mật.
-Tỷ lệ mắc sỏi mật ở Việt Nam qua một số điều trị trong cộng đồng là từ 3,32% đến 6,11%, trong đó sỏi túi mật chiếm đa số. Sỏi túi mật đỉnh cao ở lứa tuổi 50 – 60 (trong khi sỏi trong gan gặp nhiều nhất ở lứa tuổi 30 – 40). Yếu tố thuận lợi cho sự hình thành sỏi túi mật: giới nữ, sinh đẻ nhiều lần, tình trạng béo phì, tuổi từ 40 trở lên.
+
+Tỷ lệ mắc sỏi mật ở Việt Nam qua một số điều trị trong cộng đồng là từ 3,32% đến 6,11%, trong đó sỏi túi mật chiếm đa số. Sỏi túi mật đỉnh cao ở lứa tuổi 50 - 60 (trong khi sỏi trong gan gặp nhiều nhất ở lứa tuổi 30 - 40). Yếu tố thuận lợi cho sự hình thành sỏi túi mật: giới nữ, sinh đẻ nhiều lần, tình trạng béo phì, tuổi từ 40 trở lên.
+
 Về phương diện dịch tễ, sỏi túi mật có 2 thay đổi rất cơ bản:
 - Tỷ lệ sỏi túi mật ngày một tăng, trong khi đó sỏi trong và ngoài gan giảm. Mô hình tần suất sỏi mật kiểu nông thôn (sỏi túi mật có tần suất thấp, sỏi ống mật chủ và sỏi trong gan có tần suất cao) đã thay đổi và trở nên giống với sỏi túi mật kiểu thành thị, đồng thời có nhiều điểm tương đồng với các nước phương Tây.
 - Có sự thay đổi rõ rệt về thành phần hóa học của sỏi túi mật theo thời gian. Các yếu tố dinh dưỡng (chế độ ăn theo phương Tây) và vệ sinh môi trường (giảm nhiễm vi trùng, ký sinh trùng đường ruột) đưa đến giảm tỷ lệ mắc sỏi calci bilirubinat, tăng tỷ lệ mắc sỏi cholesterol của túi mật.
@@ -6165,23 +6249,21 @@ Túi mật được cung cấp máu bởi một động mạch túi mật duy nh
 
 Động mạch túi mật có thể xuất phát từ động mạch gan trái, động mạch gan chung, động mạch vị tá tràng, hay động mạch mạc treo tràng trên. Động mạch túi mật được chia thành các nhánh nông và các nhánh sâu trước khi đi vào túi mật. Động mạch túi mật thường nằm mặt trên ống túi mật và đi ở mặt sau ống gan chung, nhưng cũng có thể có những biến thể tùy thuộc vào nơi xuất phát của động mạch túi mật.
 
-Ống gan chung, gan, và ống túi mật hợp thành các cạnh của tam giác Calot. Tam giác này chứa những cấu trúc quan trọng bên trong là động mạch túi mật, động mạch gan phải, và hạch bạch huyết của ống túi mật. Hạch Calot là nơi hợp lưu chính của các ống bạch huyết của túi mật và do đó nơi đây thường liên quan đến những bệnh lý viêm và ung thư của túi mật.
+ Ông gan chung, gan, và ống túi mật hợp thành các cạnh của tam giác Calot. Tam giác này chứa những cấu trúc quan trọng bên trong là động mạch túi mật, động mạch gan phải, và hạch bạch huyết của ống túi mật. Hạch Calot là nơi hợp lưu chính của các ống bạch huyết của túi mật và do đó nơi đây thường liên quan đến những bệnh lý viêm và ung thư của túi mật.
 
-[Hình: Các ống gan (Phải, Trái), Ống túi mật, Phần xoắn, Phần trơn, Cổ, Phễu (túi Hartmann), Thân, Đáy, Túi mật, Phần xuống (thứ hai) của tá tràng, Bóng (Vater), Nhú tá lớn (Vater), Tam giác Calot, Ống gan chung, Các lỗ tuyến, Ống túi mật, Óng tụy]
+[Hình: Các ống gan, Phải, Trái, Ống túi mật, Phần xoắn, Phần trơn, Cổ, Phễu (túi Hartmann), Thân, Đáy, Túi mật, Phần xuống (thứ hai) của tá tràng, Bóng (Vater), Nhú tá lớn (Vater), Ống gan chung, Các lỗ tuyến, Ống túi mật, Tam giác Calot, Ông tụy]
 
 Hình 2. Tam giác Calot bao gồm ống gan chung, ống túi mật và bờ dưới gan. (Nguồn: Frank Netter Atlas of Human Anotomy)
 
-## 2.2. Sinh lý
-
-Túi mật là nơi cô đặc và dự trữ mật trong khi đói và bài tiết mật vào tá tràng khi ăn. Trong khi thể tích chứa của túi mật chỉ vào khoảng 30 đến 60 ml, nhờ sự hấp thu đáng kể của niêm mạc túi mật mà túi mật có thể chứa và bài tiết hơn 600 ml dịch mật mỗi ngày. Niêm mạc túi mật là nơi có khả năng hấp thu dịch tính trên một đơn vị diện tích lớn nhất trong cơ thể.
+2.2. Sinh lý Túi mật là nơi cô đặc và dự trữ mật trong khi đói và bài tiết mật vào tá tràng khi ăn. Trong khi thể tích chứa của túi mật chỉ vào khoảng 30 đến 60 ml, nhờ sự hấp thu đáng kể của niêm mạc túi mật mà túi mật có thể chứa và bài tiết hơn 600 ml dịch mật mỗi ngày. Niêm mạc túi mật là nơi có khả năng hấp thu dịch tính trên một đơn vị diện tích lớn nhất trong cơ thể.
 
 Dịch mật thường được cô đặc từ 5 đến 10 lần nhờ sự hấp thu nước và chất điện giải dẫn đến sự thay đổi đáng kể thành phần của dịch mật.
 
-Sự vận chuyển tích cực NaCl bởi lớp biểu mô túi mật là quá trình có sử dụng năng lượng cho quá trình cô đặc mật. Nước được thẩm thụ động theo chiều gradient nồng độ. Quá trình cô đặc mật có tác động đến khả năng hòa tan của hai thành phần quan trọng của sỏi túi mật: calcium và cholesterol. Mặc dù niêm mạc túi mật có thể hấp thu calcium, quá trình này không thực sự hiệu quả như sự hấp thu natri hay nước, dẫn đến gia tăng nồng độ calcium trong dịch mật.
+Sự vận chuyển tích cực NaCl bởi lớp biểu mô túi mật là quá trình có sử dụng năng lượng cho quá trình cô đặc. Nước được thẩm thấu động theo chiều gradient nồng độ. Quá trình cô đặc mật có tác động đến khả năng hòa tan của hai thành phần quan trọng của sỏi túi mật: calcium và cholesterol. Mặc dù niêm mạc túi mật có thể hấp thu calcium, quá trình này không thực sự hiệu quả như sự hấp thu natri hay nước, dẫn đến gia tăng nồng độ calcium trong dịch mật.
 
 Khi dịch mật trở nên cô đặc, một sự thay đổi lớn xảy ra tại khoang túi mật dẫn đến hòa tan cholesterol. Sự hòa tan trong các hạt micellar được gia tăng, nhưng sự ổn định của các hạt nhũ tương phospholipid- cholesterol thì giảm. Bởi vì sự kết tủa các hạt cholesterol xảy ra ưu thế bởi quá trình hình thành các vesicular (hạt có màng phospholipid đôi) hơn hình thành hạt micelle (hạt có màng phospholipid đơn), mạng lưới tác động của quá trình cô đặc mật là một xu hướng gia tăng của các hạt cholesterol.
 
-Tế bào thượng bì của túi mật bài tiết ít nhất hai sản phẩm quan trọng vào lòng túi mật là glycoproteins và ion H⁺. Sự tiết glycoprotein xảy ra ban đầu từ các tuyến của cổ túi mật và ống túi mật. Kết quả của sự bài tiết nhầy này được cho là một thành phần quan trọng của màng rào bảo vệ mà nó phân tách màng tế bào thành túi mật với dịch mật. Lớp dịch nhầy có thể rất quan trọng trong việc bảo vệ biểu mô thành túi mật bởi tác động mạnh của dịch muối mật cô đặc trong túi mật. Tuy nhiên, những bằng chứng tin cậy cũng cho rằng dịch nhầy glycoproteins đóng vai trò như một yếu tố ban đầu cho sự hình kết tủa cholesterol. Sự vận chuyển ion H+ bởi biểu mô thành túi mật dẫn đến sự giảm pH dịch mật thông qua cơ chế trao đổi Na+. Sự acid hóa dịch mật thúc đẩy sự hòa tan calcium. Qua đó ngăn chặn sự kết tủa muối calcium. Quá trình acid hóa dịch mật làm giảm pH dịch mật ở gan từ 7,5-7,8 xuống còn 7,1-7,3.
+Tế bào thượng bì của túi mật bài tiết ít nhất hai sản phẩm quan trọng vào lòng túi mật là glycoproteins và ion $H^+$. Sự tiết glycoprotein xảy ra ban đầu từ các tuyến của cổ túi mật và ống túi mật. Kết quả của sự bài tiết nhày này được cho là một thành phần quan trọng của hàng rào bảo vệ mà nó phân tách màng tế bào thành túi mật với dịch mật. Lớp dịch nhầy có thể rất quan trọng trong việc bảo vệ biểu mô thành túi mật bởi tác động mạnh của dịch muối mật cô đặc trong túi mật. Tuy nhiên, những bằng chứng tin cậy cũng cho rằng dịch nhầy glycoproteins đóng vai trò như một yếu tố ban đầu cho sự hình kết tủa cholesterol. Sự vận chuyển ion H+ bởi biểu mô thành túi mật dẫn đến sự giảm pH dịch mật thông qua cơ chế trao đổi Na+. Sự acid hóa dịch mật thúc đẩy sự hòa tan calcium. Qua đó ngăn chặn sự kết tủa muối calcium. Quá trình acid hóa dịch mật làm giảm pH dịch mật ở gan từ 7,5-7,8 xuống còn 7,1-7,3.
 
 Túi mật căng đầy bởi sự sản xuất dịch mật liên tục từ gan chống lại lực co thắt của cơ vòng Oddi. Khi áp suất trong lòng ống mật chủ vượt quá áp suất trong lòng túi mật, dịch mật từ gan đi vào túi mật bởi dòng dịch mật ngược dòng vào ống túi mật, tại đây dịch mật được nhanh chóng được làm cô đặc. Chu kỳ của quá trình làm đầy được lập lại bởi những chu kỳ của quá trình làm trống (10-15% thể tích) của quá trình cô đặc dịch mật.
 
@@ -6229,7 +6311,7 @@ Bilirubin có thể chia làm 2 dạng: liên hợp và không liên hợp, cho 
 
 X quang bụng không sửa soạn rất hạn chế để khảo sát bệnh lý đường mật. Sỏi mật thường không thấy trên phim và cho dù có được tìm thấy trên phim, cũng hiếm khi làm thay đổi điều trị. Vì vậy, vai trò của phim không sửa soạn trong khảo sát bệnh lý đường mật chỉ để loại trừ các chẩn đoán khác, như thủng ổ loét tá tràng, tắc ruột non, hoặc viêm phổi thùy dưới phải gây đau 1/4 trên phải.
 
-[Hình: Sỏi túi mật phát hiện tình cờ qua phim X quang bụng]
+[Hình: Sỏi túi mật phát hiện tình cờ qua phim X quang bụng.]
 
 ### (2) Siêu âm:
 
@@ -6239,11 +6321,11 @@ Siêu âm bụng là xét nghiệm nhạy, chi phí thấp, độ tin cậy cao 
 
 **Hình 6.** Sỏi túi mật ở 2 mặt phẳng cắt dọc và cắt ngang túi mật, mũi tên trắng: Sỏi mật, mũi tên đen: Bóng lưng.
 
-[Hình: Hai ảnh siêu âm đen trắng thể hiện sỏi túi mật và bùn túi mật thay đổi theo tư thế]
+[Hình: Hai ảnh siêu âm]
 
 **Hình 7.** Sỏi túi mật và bùn túi mật thay đổi theo tư thế.
 
-[Hình: GB (trái) và hình ảnh đại thể khối sỏi lớn (phải)]
+[Hình: GB (trái) và Ảnh đại thể (phải)]
 
 **Hình 8.** Wall Echo Sign (WES) Dấu hiệu bóng lưng nổi bật với khối sỏi lớn.
 
@@ -6253,44 +6335,45 @@ Siêu âm có độ nhạy và độ đặc hiệu cao trong khảo sát sỏi t
 
 Mặc dù siêu âm rõ ràng là cận lâm sàng đầu tiên được lựa chọn để phân định bệnh lý đường mật, chụp cắt lớp vi tính (CLVT) cung cấp thông tin giải phẫu vượt trội và do đó được chỉ định khi cần xác định giải phẫu đường mật chi tiết hơn. Bởi vì hầu hết sỏi mật đều có khác biệt đậm độ đối với mật, nhiều sỏi sẽ không thể phân biệt được với mật. Tuy nhiên, vì siêu âm phụ thuộc vào người thực hiện và không cung cấp cấu trúc giải phẫu của đường mật, chụp CLVT có thể được sử dụng để xác định nguyên nhân và vị trí tắc nghẽn đường mật.
 
-[Hình: 2 ảnh chụp cắt lớp vi tính]
+[Hình: 2 ảnh cắt ngang ổ bụng trên hình chụp cắt lớp vi tính]
+
 Hình 9. Sỏi túi mật cản quang trên hình chụp cắt lớp vi tính.
 
 (4) Cộng hưởng từ và cộng hưởng từ mật tụy (Magnetic Resonance Imaging - MRI and Magnetic Resonance Cholangiopancreatography - MRCP):
 
 Chụp cộng hưởng từ (CHT) sử dụng nước trong mật để mô tả đường mật và do đó cung cấp hình ảnh giải phẫu vượt trội của đường mật trong và ngoài gan và tụy. Mặc dù hầu hết những người bệnh mắc bệnh lý đường mật không đòi hỏi quá chi tiết về đánh giá giải phẫu được thể hiện bằng hình ảnh cắt ngang, chụp CHT là cận lâm sàng không xâm lấn, không cần tiếp xúc với bức xạ và có thể được chứng minh là cực kỳ hữu ích trong việc lên kế hoạch cắt bỏ u mật hoặc tụy hoặc trong bệnh lý đường mật phức tạp.
 
-[Hình: 4 ảnh chụp MRI và MRCP]
+[Hình: 4 ảnh chụp MRI và MRCP vùng bụng]
+
 Hình 10. Hình sỏi túi mật trên MRI và MRCP.
 
 295
 
 5. ĐIỀU TRỊ SỎI TÚI MẬT
 
-Nguyên tắc điều trị: việc điều trị sỏi túi mật không triệu chứng rất đa dạng, phụ thuộc vào kích thước viên sỏi, số lượng sỏi, bệnh lý đi kèm và đôi khi một số trường hợp phụ thuộc vào sự chọn lựa của bệnh nhân. Có thể chọn lựa một trong 2 phương pháp dùng thuốc tan sỏi hay phẫu thuật.
+Nguyên tắc điều trị: việc điều trị sỏi túi mật không triệu chứng rất đa dạng, phụ thuộc vào kích thước viên sỏi, số lượng sỏi, bệnh lý đi kèm và đôi khi một số trường hợp phụ thuộc vào sự lựa chọn của bệnh nhân. Có thể chọn lựa một trong 2 phương pháp dùng thuốc tan sỏi hay phẫu thuật.
 
-5.1. Điều trị không phẫu thuật
+## 5.1. Điều trị không phẫu thuật
 
 Điều trị nội khoa của bệnh lý sỏi mật thường không thành công và hiếm khi được áp dụng. Các biện pháp được lựa chọn như làm tan sỏi bằng liệu pháp muối mật đường uống chỉ có hiệu quả đối với sỏi có các đặc điểm như kích thước dưới 5 mm, 1 viên duy nhất và không ngấm canxi. Tán sỏi ngoài cơ thể có tỷ lệ tái phát thấp hơn, khoảng 20% và có thể sử dụng ở nhóm bệnh nhân có 1 viên sỏi kích thước từ 0,5 đến 2 cm. Nhìn chung các liệu pháp làm tan sỏi có tỷ lệ thất bại và tái phát lên đến 50%.
 
-Tuy nhiên một số nhóm bệnh nhân có nguy cơ cao được khuyên cáo cắt túi mật dự phòng khi có sỏi túi mật. Ví dụ, những bệnh nhân bị thiếu máu tán huyết như thiếu máu hồng cầu nhỏ nhược sắc vì những bệnh nhân này có tỷ lệ hình thành sỏi sắc tố rất cao và viêm túi mật cấp do sỏi ở những bệnh nhân này thực sự nguy hiểm.
+Tuy nhiên một số nhóm bệnh nhân có nguy cơ cao được khuyến cáo cắt túi mật dự phòng khi có sỏi túi mật. Ví dụ, những bệnh nhân bị thiếu máu tán huyết như thiếu máu hồng cầu nhỏ nhược sắc vì những bệnh nhân này có tỷ lệ hình thành sỏi sắc tố rất cao và viêm túi mật cấp do sỏi ở những bệnh nhân này thực sự nguy hiểm.
 
 Bệnh nhân có vách túi mật bị vôi hóa (túi mật sứ), những người có sỏi túi mật lớn (>2,5 cm) và những người có kênh chung mật tụy dài làm tăng nguy cơ ung thư túi mật và nên xem xét cắt túi mật. Cuối cùng, bởi vì nhiễm khuẩn nặng do viêm túi mật cấp có thể ảnh hưởng tính mạng ở bệnh nhân dùng thuốc ức chế miễn dịch, cắt túi mật dự phòng được thực hiện trước phẫu thuật ghép tạng.
 
-5.2. Điều trị phẫu thuật
+## 5.2. Điều trị phẫu thuật
 
-5.2.1. Phẫu thuật nội soi cắt túi mật
+### 5.2.1. Phẫu thuật nội soi cắt túi mật
 
 Sự ra đời của phẫu thuật nội soi với các vết mổ nhỏ hơn, ít đau hơn và thời gian nằm viện ngắn hơn, các phẫu thuật viên đã thực hiện ngày càng nhiều ca phẫu thuật nội soi cắt túi mật. Ngày nay việc áp dụng rộng rãi, an toàn và hiệu quả của phẫu thuật nội soi cắt túi mật đã loại bỏ điều trị sỏi túi mật bằng phương pháp không phẫu thuật.
 
 Hầu hết các ca cắt túi mật nội soi được chỉ định ở bệnh nhân có cơn đau quặn mật, nhưng phẫu thuật có thể thực hiện an toàn trong bệnh cảnh viêm túi mật cấp. Phẫu thuật nội soi cắt túi mật trong viêm túi mật cấp có thời gian phẫu thuật lâu hơn, có tỷ lệ chuyển phẫu thuật mở và nguy cơ tổn thương đường mật cao hơn khi thực hiện phẫu thuật chương trình các ca bệnh sỏi túi mật có triệu chứng.
 
-Gây mê toàn thân là cần thiết khi phẫu thuật cắt túi mật nội soi. Do đó, chống chỉ định đối với phẫu thuật này là bệnh nhân không có khả năng dung nạp với gây mê toàn thân. Những bệnh nhân bệnh gan giai đoạn cuối với tăng áp lực tĩnh mạch cửa gây cản trở việc phẫu tích vùng cuống gan, và rối loạn đông máu. Bởi vì các ca phẫu thuật nội soi có sử dụng $\text{CO}_2$ để bơm hơi ổ bụng nên các bệnh nhân bệnh phổi tắc nghẽn mạn tính nghiêm trọng với khả năng trao đổi khí kém và suy tim sung huyết được coi là chống chỉ định tương đối.
+Gây mê toàn thân là cần thiết khi phẫu thuật cắt túi mật nội soi. Do đó, chống chỉ định đối với phẫu thuật này là bệnh nhân không có khả năng dung nạp với gây mê toàn thân. Những bệnh nhân bệnh gan giai đoạn cuối với tăng áp lực tĩnh mạch cửa gây cản trở việc phẫu tích vùng cuống gan, và rối loạn đông máu. Bởi vì các ca phẫu thuật nội soi có sử dụng $CO_2$ để bơm hơi ổ bụng nên các bệnh nhân bệnh phổi tắc nghẽn mạn tính nghiêm trọng với khả năng trao đổi khí kém và suy tim sung huyết được coi là chống chỉ định tương đối.
 
 Chỉ định chụp hình đường mật trong mổ bao gồm bất kỳ dấu hiệu nghi ngờ có sỏi đường mật được xác định trước hay trong mổ mà trước mổ không đánh giá chính xác được, bất kỳ câu hỏi nào về biến thể giải phẫu trong phẫu thuật cắt túi mật, tăng men gan trước phẫu thuật, giãn ống gan chung được xác định trước phẫu thuật, và nghi ngờ tổn thương đường mật trong mổ.
 
-[Hình: Chụp X quang đường mật trong mổ qua ống túi mật]
-
+[Hình: Chụp X quang đường mật trong mổ qua ống túi mật.]
 **Hình 11.** Chụp X quang đường mật trong mổ qua ống túi mật.
 
 ## 5.2.2. Cắt túi mật mổ mở
@@ -6311,10 +6394,7 @@ Các triệu chứng thường gặp ở bệnh nhân viêm túi mật cấp là
 
 Vàng da rất hiếm gặp trong viêm túi mật cấp, nếu có vàng da kèm theo cần tìm kiếm bằng chứng của viêm đường mật, hoặc hội chứng Mirizzi.
 
-[Hình: 4 hình minh họa mặt trước và sau cơ thể người đánh dấu các con số tỷ lệ phần trăm]
-
-**Hình 12. A:** Vị trí đau trong cơn đau quặn mật (Tỷ lệ theo % và có tổng lớn hơn 100% do có bệnh nhân đau hai vị trí). **B:** Hướng lan của cơn đau.
-(Nguồn: Schwartz’s Principles Surgery 2019)
+[Hình: A. vị trí đau trong cơn đau quặn mật (Tỷ lệ theo % và có tổng lớn hơn 100% do có bệnh nhân đau hai vị trí). B: hướng lan của cơn đau. (Nguồn: Schwartz's Principles Surgery 2019)]
 
 ## 6.1.3. Cận lâm sàng
 
@@ -6324,43 +6404,35 @@ Ngoài việc xác định sự hiện diện của sỏi, siêu âm bụng còn
 
 Trong hầu hết các ca, một bệnh sử chính xác và thăm khám bệnh nhân, cùng với xét nghiệm cận lâm sàng và siêu âm là đủ để chẩn đoán viêm túi mật cấp.
 
-[Hình: Hình 13. Viêm túi mật cấp trên siêu âm (túi mật thành dày phù nề, sỏi kẹt vùng cổ và sỏi trong túi mật, hình siêu âm Doppler có sự gia tăng tưới máu vùng thành túi mật viêm cấp).]
+[Hình: Viêm túi mật cấp trên siêu âm (túi mật thành dày phù nề, sỏi kẹt vùng cổ và sỏi trong túi mật, hình siêu âm Doppler có sự gia tăng tưới máu vùng thành túi mật viêm cấp).]
 
 Chụp CLVT có thể có những phát hiện tương tự như siêu âm với tụ dịch quanh túi mật, dầy thành túi mật, hoại tử thành túi mật, nhưng chụp CLVT ít nhạy hơn siêu âm trong chẩn đoán viêm túi mật cấp.
 
-[Hình: Hình 14. Hình siêu âm trong viêm túi mật hoại tử thủng.]
+[Hình: Hình siêu âm trong viêm túi mật hoại tử thủng.]
 
-[Hình: Hình 15. Viêm túi mật cấp trên chụp CLVT (a: Sỏi kẹt cổ, b: Rối loạn tưới máu, c: Thành dày).]
+[Hình: Viêm túi mật cấp trên chụp CLVT (a: Sỏi kẹt cổ, b: Rối loạn tưới máu, c: Thành dày).]
 
-### 6.1.4. Tiêu chuẩn chẩn đoán và phân độ
+299
 
+6.1.4. Tiêu chuẩn chẩn đoán và phân độ
 Viêm túi mật cấp hiện nay được chẩn đoán và phân độ theo Tokyo Guideline 2018.
 
-**Bảng 1.** Tiêu chuẩn chẩn đoán viêm túi mật cấp theo Tokyo Guideline 2018
+Bảng 1. Tiêu chuẩn chẩn đoán viêm túi mật cấp theo Tokyo Guideline 2018
+| A | Dấu hiệu viêm tại chỗ <br> 1. Dấu Murphy <br> 2. Đau/ấn đau/khối u $1/4$ trên phải ổ bụng |
+| --- | --- |
+| B | Viêm toàn thân <br> 1. Sốt <br> 2. Tăng CRP <br> 3. Tăng số lượng bạch cầu |
+| C | Chẩn đoán hình ảnh <br> Trên hình ảnh học ghi nhận các đặc điểm của viêm túi mật cấp |
+| Nghi ngờ Viêm túi mật cấp khi có 1 dấu hiệu A + 1 dấu hiệu B |
+| Xác định Viêm túi mật cấp khi có 1 dấu hiệu A + 1 dấu hiệu B + C |
 
-| | Dấu hiệu viêm tại chỗ |
-|---|---|
-| **A** | 1. Dấu Murphy |
-| | 2. Đau/ấn đau/khối u $1/4$ trên phải ổ bụng |
-| | ~~Đau/ấn đau/khối u 1/4 trên phải ổ bụng~~ Viêm toàn thân |
-| **B** | 1. Sốt |
-| | 2. Tăng CRP |
-| | 3. Tăng số lượng bạch cầu |
-| **C** | Chẩn đoán hình ảnh |
-| | Trên hình ảnh học ghi nhận các đặc điểm của viêm túi mật cấp |
-| **Nghi ngờ** | Viêm túi mật cấp khi có $1$ dấu hiệu A + $1$ dấu hiệu B |
-| **Xác định** | Viêm túi mật cấp khi có $1$ dấu hiệu A + $1$ dấu hiệu B + C |
-
-**Bảng 2.** Phân độ viêm túi mật cấp theo Tokyo Guideline 2018
-(Khi bệnh nhân có một trong các tiêu chuẩn)
-
+Bảng 2. Phân độ viêm túi mật cấp theo Tokyo Guideline 2018 <br> (Khi bệnh nhân có một trong các tiêu chuẩn)
 | | |
-|---|---|
-| **Độ III: Viêm túi mật cấp nặng** | 1. Rối loạn chức năng tim mạch (huyết áp tụt cần điều trị với dopamine $\geq 5$ $\mu\text{g}$/ kg/ phút, hoặc dobutamin với liều bất kỳ).<br>2. Rối loạn chức năng thần kinh<br>3. Rối loạn chức năng hô hấp ($\text{PaO}_2$/ $\text{FiO}_2 < 300$)<br>4. Rối loạn chức năng thận (thiểu niệu, creatinine $> 2$ mg%)<br>5. Rối loạn chức năng gan ($\text{INR} > 1,5$)<br>6. Rối loạn chức năng huyết học (tiểu cầu $< 100.000$/ $\text{mm}^3$) |
-| **Độ II: Viêm túi mật cấp trung bình** | 1. $\text{WBC} > 18.000$ G/L<br>2. Ấn đề kháng hạ sườn phải<br>3. Triệu chứng kéo dài $> 72\text{h}$<br>4. Kết hợp với các triệu chứng tại chỗ (Viêm phúc mạc mật, áp xe quanh túi mật, áp xe gan, viêm túi mật hoại tử) |
+| --- | --- |
+| **Độ III: Viêm túi mật cấp nặng** | 1. Rối loạn chức năng tim mạch (huyết áp tụt cần điều trị với dopamine $\ge 5$ $\mu\text{g}$/ kg/ phút, hoặc dobutamin với liều bất kỳ. <br> 2. Rối loạn chức năng thần kinh <br> 3. Rối loạn chức năng hô hấp ($\text{PaO}_2$/ $\text{FiO}_2 < 300$) <br> 4. Rối loạn chức năng thận (thiểu niệu, creatinine $> 2$ mg%) <br> 5. Rối loạn chức năng gan ($\text{INR} > 1,5$) <br> 6. Rối loạn chức năng huyết học (tiểu cầu $< 100.000$/ $\text{mm}^3$) |
+| **Độ II: Viêm túi mật cấp trung bình** | 1. WBC $> 18.000$ G/L <br> 2. Ấn đề kháng hạ sườn phải <br> 3. Triệu chứng kéo dài $> 72\text{h}$ <br> 4. Kết hợp với các triệu chứng tại chỗ (Viêm phúc mạc mật, áp xe quanh túi mật, áp xe gan, viêm túi mật hoại tử) |
 | **Độ I: Viêm túi mật cấp nhẹ** | Không có các tiêu chuẩn của độ 2 và độ 3 |
 
-### 6.1.5. Điều trị
+6.1.5. Điều trị
 
 Nguyên tắc điều trị: khi bệnh nhân có tình trạng viêm túi mật cấp xảy ra, cần phải phối hợp cùng lúc việc điều trị nội khoa kèm theo việc phẫu thuật hoặc các thủ thuật nhằm ổn định tình trạng cấp tính cho bệnh nhân, việc chọn lựa thường cần phối hợp theo phân loại và mức độ nặng của bệnh nhân
 
@@ -6368,39 +6440,38 @@ Nguyên tắc điều trị: khi bệnh nhân có tình trạng viêm túi mật
 
 Vi khuẩn gram âm hiếu khí thường được tìm thấy trong viêm túi mật cấp, tiếp theo là vi khuẩn kỵ khí và hiếu khí gram dương nên kháng sinh phổ rộng theo kinh nghiệm được chỉ định.
 
-Bảng 3. Vi khuẩn thường gặp được cấy từ dịch mật của bệnh nhân theo Tokyo Guideline 18
+**Bảng 3.** Vi khuẩn thường gặp được cấy từ dịch mật của bệnh nhân theo Tokyo Guideline 18
 
 | Vi khuẩn | Tỷ lệ (%) |
-| :--- | :--- |
+| --- | --- |
 | **Vi khuẩn gram âm** | |
-| Escherichia coli | 31 – 44 |
-| Klebsiella spp. | 9 – 20 |
-| Pseudomonas spp. | 0.5 – 19 |
-| Enterobacter spp. | 5 – 9 |
+| Escherichia coli | $31 - 44$ |
+| Klebsiella spp. | $9 - 20$ |
+| Pseudomonas spp. | $0.5 - 19$ |
+| Enterobacter spp. | $5 - 9$ |
 | Acinetobacter spp. | - |
 | Citrobacter spp. | - |
 | **Vi khuẩn gram dương** | |
-| Enterococcus spp. | 3 – 34 |
-| Streptococcus spp. | 2 – 10 |
+| Enterococcus spp. | $3 - 34$ |
+| Streptococcus spp. | $2 - 10$ |
 | Staphylococcus spp. | 0 |
-| **Vi khuẩn kỵ khí** | 4 – 20 |
+| **Vi khuẩn kỵ khí** | $4 - 20$ |
 | **Vi khuẩn khác** | - |
 
-Bảng 4. Chọn lựa sử dụng kháng sinh ban đầu theo Tokyo Guideline 18
+**Bảng 4.** Chọn lựa sử dụng kháng sinh ban đầu theo Tokyo Guideline 18
 
 | Mức độ/ Nhóm kháng sinh | Độ I (Nhẹ) | Độ II (Trung Bình) | Độ III (Nặng) |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Nhóm Penicillin | Ampicillin/sulbactamb không được khuyến cáo dùng mà không kèm với aminoglycoside | Piperacillin/tazobactam | Piperacillin/tazobactam |
-| Nhóm Cephalosporin | Cefazolina<br>Cefotiama<br>Cefuroximea<br>Ceftriaxone<br>Cefotaxime ± metronidazole<br>Cefmetazole<br>Cefoxitin<br>Flomoxef<br>Cefoperazone/sulbactam | Ceftriaxone<br>Cefotaxime<br>Cefepime<br>Cefozopran<br>Ceftazidime±metronidazole | Cefepime<br>Ceftazidime<br>Cefozopran±metronidazole |
+| Nhóm Cephalosporin | Cefazolina<br>Cefotiama<br>Cefuroximea<br>Ceftriaxone<br>Cefotaxime ± metronidazole<br>Cefmetazole<br>Cefoxitin<br>Flomoxef<br>Cefoperazone/ sulbactam | Ceftriaxone<br>Cefotaxime<br>Cefepime<br>Cefozopran<br>Ceftazidime±metronidazole | Cefepime<br>Ceftazidime<br>Cefozopran±metronidazole |
 | Nhóm Carbapenem | Ertapenem | Ertapenem | Cefoperazone/sulbactam |
 | Nhóm | --- | --- | Imipenem/cilastatin |
 
-| Monobactam | Meropenem Doripenem Ertapenem |
-| --- | --- | --- |
-| Nhóm Fluoroquinolone | Ciprofloxacin Levofloxacin Pazufloxacin±metronidazole Moxifloxacin | Ciprofloxacin Levofloxacin Pazufloxacin±metronidazole Moxifloxacin | --- |
+| Monobactam | | Meropenem Doripenem Ertapenem |
+|:--- |:--- |:--- |
+| Nhóm Fluoroquinolo ne | Ciprofloxacin Levofloxacin Pazufloxacin±metronida zole Moxifloxacin | Ciprofloxacin Levofloxacin Pazufloxacin±metronida zole Moxifloxacin | --- |
 
 (2) Phẫu thuật:
-
 Cắt túi mật mổ mở hay nội soi được lựa chọn điều trị cho viêm túi mật cấp. Ngày nay, cắt túi mật mổ mở chỉ còn áp dụng khi thất bại với mổ nội soi hoặc cơ sở điều trị không đủ điều kiện phẫu thuật nội soi nhưng không chuyển viện được. Thời điểm can thiệp phẫu thuật từ lâu đã là một đề tài được tranh luận. Trong quá khứ, nhiều bác sĩ ủng hộ việc cắt túi mật trì hoãn, các bệnh nhân được điều trị với kháng sinh, giảm đau trong thời gian nằm viện và xuất viện, phẫu thuật được thực hiện sau đó 6 tuần từ lúc có triệu chứng. Ngoài ra, khoảng 20% bệnh nhân không đáp ứng với điều trị nội khoa ban đầu trong khoảng thời gian dự kiến và cần can thiệp cắt túi mật.
 
 Một số bệnh nhân bị viêm túi mật cấp do sỏi nhưng có nguy cơ phẫu thuật cao. Đối với những bệnh nhân này, dẫn lưu túi mật xuyên gan qua da (PTGBD) nên được xem xét. Thủ thuật này được thực hiện dưới hướng dẫn của siêu âm dưới gây tê tại chỗ, dẫn lưu túi mật là biện pháp tạm thời bằng việc rút hết dịch mật nhiễm khuẩn. Dẫn lưu qua da giúp cải thiện triệu chứng và cho phép cắt túi mật sau 6 tuần. Khi đó tình trạng bệnh nhân được tối ưu cho cuộc mổ.
@@ -6410,6 +6481,7 @@ Một số bệnh nhân bị viêm túi mật cấp do sỏi nhưng có nguy cơ
 Viêm túi mật cấp độ I: phẫu thuật nội soi cắt túi mật sớm (trong vòng 72 giờ kể từ thời điểm khởi phát) là lựa chọn hàng đầu cho những trường hợp này. Tuy nhiên ở bệnh nhân có nguy cơ phẫu thuật cao, kháng sinh điều trị và hồi sức nội khoa là lựa chọn đầu tiên. Khi tình trạng bệnh nhân cải thiện với điều trị nội khoa ban đầu, phẫu thuật nội soi cắt túi mật được chỉ định thực hiện.
 
 **Sơ đồ: Lưu đồ 1. Xử trí viêm túi mật cấp độ I.**
+
 - Viêm túi mật cấp độ I (Nhẹ)
   - CCI 6 trở lên và/hoặc ASA loại III trở lên (có nguy cơ phẫu thuật) --> Kháng sinh, Điều trị hỗ trợ --> Theo dõi
   - CCI 5 trở xuống và/hoặc ASA loại II trở xuống (rủi ro thấp) --> Cắt túi mật nội soi sớm
@@ -6417,32 +6489,38 @@ Viêm túi mật cấp độ I: phẫu thuật nội soi cắt túi mật sớm 
 Viêm túi mật cấp độ II: viêm túi mật cấp ở giai đoạn này thường có tình trạng viêm tại chỗ nặng nề. Do đó phẫu thuật viên nên cân nhắc dựa trên mức độ khó của việc cắt túi mật để lựa chọn phương pháp điều trị thích hợp. Phẫu thuật nội soi cắt túi mật sớm có thể được chỉ định ở cơ sở có kinh nghiệm. Nếu bệnh nhân có nguy cơ phẫu thuật cao cần dẫn lưu đường mật khẩn nếu không nên chuyển bệnh nhân đến trung tâm có kinh nghiệm.
 
 **Sơ đồ: Lưu đồ 2. Xử trí viêm túi mật cấp độ II.**
-- Viêm túi mật cấp độ II (trung bình)
-  - Kháng sinh, Điều trị hỗ trợ
-    - PTV có tay nghề --> Cắt túi mật nội soi khẩn/sớm $\Delta$
-    - $\alpha \lambda$ --> Cắt túi mật nội soi khẩn/sớm $\Delta$
-    - $\alpha \mu$ $\dagger$ --> Cắt túi mật nội soi hoãn/chương trình $\Delta$
-    - $\phi$ --> Dẫn lưu túi mật khẩn/sớm
+
+- Viêm túi mật cấp độ II (trung bình) --> Kháng sinh, Điều trị hỗ trợ
+  - PTV có tay nghề --> Cắt túi mật nội soi khẩn/sớm $\Delta$
+  - $\alpha \lambda$ --> Cắt túi mật nội soi khẩn/sớm $\Delta$
+  - $\alpha \mu$ --> Cắt túi mật nội soi hoãn/chương trình $\Delta$
+  - $\phi$ --> Dẫn lưu túi mật khẩn/sớm
 
 $\alpha$, Kháng sinh và chăm sóc hỗ trợ chung thành công;
 $\phi$, Kháng sinh và chăm sóc hỗ trợ chung không kiểm soát viêm;
-$\Delta$, CCI 5 trở xuống và / hoặc ASA - PS loại II trở xuống (rủi ro thấp);
+$\lambda$, CCI 5 trở xuống và / hoặc ASA - PS loại II trở xuống (rủi ro thấp);
 $\mu$, CCI 6 trở lên và / hoặc ASA loại III trở lên (có nguy cơ phẫu thuật);
-$\text{X}$, Nên cấy máu trước khi dùng kháng sinh;
+$\aleph$, Nên cấy máu trước khi dùng kháng sinh;
 $\dagger$, Cấy dịch mật nên được thực hiện trong khi dẫn lưu túi mật;
 $\Delta$, Trong trường hợp khó khăn nghiêm trọng trong phẫu thuật, nên thực hiện các phương pháp đảm bảo an toàn bao gồm cả việc chuyển mổ mở
 
 Viêm túi mật cấp độ III: viêm túi mật có kèm rối loạn chức năng cơ quan. Hồi sức nội khoa thích hợp như hỗ trợ thông khí, tuần hoàn kết hợp với kháng sinh là cần thiết.
 
-Cắt túi mật sớm hoặc khẩn có thể được thực hiện trong điều kiện hồi sức tích cực và đánh giá bằng các thang điểm FOSF, CCI và ASA - PS. Phẫu thuật cắt túi mật sớm được thực hiện ở bệnh nhân có tình trạng suy chức năng tim mạch, thận hồi phục nhanh chóng, được đánh giá bằng FOSF có nghĩa là tình trạng suy hệ thống tim mạch và thận nhanh chóng hồi phục sau nhập viện và trước phẫu thuật. Vì bệnh nhân viêm túi mật cấp grade III có một hoặc nhiều cơ quan bị rối loạn chức năng, CCI 4 điểm và ASA - PS 3 trở lên là yếu tố đủ để thực hiện cắt túi mật. Nếu không, dẫn lưu túi mật khẩn hay sớm nên được thực hiện (sau 6 tuần kể từ thời điểm chẩn đoán xác định) có thể được thực hiện sau khi tình trạng bệnh cấp tính được cải thiện bởi dẫn lưu túi mật. Cắt túi mật ở bệnh nhân viêm đường mật cấp độ III nên được thực hiện bởi phẫu thuật viên có kinh nghiệm.
+303
 
-[Hình: Chọc dẫn lưu túi mật xuyên gan qua da.]
+Cắt túi mật sớm hoặc khẩn có thể được thực hiện trong điều kiện hồi sức tích cực và đánh giá bằng các thang điểm FOSF, CCI và ASA - PS. Phẫu thuật cắt túi mật sớm được thực hiện ở bệnh nhân có tình trạng suy chức năng tim mạch, thận hồi phục nhanh chóng, được đánh giá bằng FOSF có nghĩa là tình trạng suy hệ thống tim mạch và thận nhanh chóng hồi phục sau nhập viện và trước phẫu thuật. Vì bệnh nhân viêm túi mật cấp grade III có một hoặc nhiều cơ quan bị rối loạn chức năng, CCI 4 điểm và ASA - PS 3 trở lên là yếu tố đủ để thực hiện cắt túi mật. Nếu không, dẫn lưu túi mật khẩn hay sớm nên được thực hiện. Cắt túi mật trì hoãn (sau 6 tuần kể từ thời điểm chẩn đoán xác định) có thể được thực hiện sau khi tình trạng bệnh cấp tính được cải thiện bởi dẫn lưu túi mật. Cắt túi mật ở bệnh nhân viêm đường mật cấp độ III nên được thực hiện bởi phẫu thuật viên có kinh nghiệm.
+
+[Hình: Chọc dẫn lưu túi mật xuyên gan qua da. Chú thích: 18-G needle, Liver, Gallbladder, drainage tube]
 
 **Sơ đồ: Lưu đồ 3. Xử trí viêm túi mật cấp độ III.**
-- Viêm túi mật cấp độ III (Nặng) --> Kháng sinh *, Điều trị hỗ trợ --> Không có yếu tố tiên đoán xấu #, và không có suy cơ quan Φ --> Trung tâm lớn, đáp ứng điều trị * --> Cắt túi mật nội soi khẩn
-- Viêm túi mật cấp độ III (Nặng) --> Kháng sinh *, Điều trị hỗ trợ --> Không có yếu tố tiên đoán xấu #, và không có suy cơ quan Φ --> Đáp ứng kém, không có phương tiện * --> Theo dõi
-- Viêm túi mật cấp độ III (Nặng) --> Kháng sinh *, Điều trị hỗ trợ --> Có yếu tố tiên đoán xấu #, ± Suy cơ quan Φ --> Dẫn lưu túi mật khẩn/sớm † --> Đáp ứng kém * --> Theo dõi
-- Viêm túi mật cấp độ III (Nặng) --> Kháng sinh *, Điều trị hỗ trợ --> Có yếu tố tiên đoán xấu #, ± Suy cơ quan Φ --> Dẫn lưu túi mật khẩn/sớm † --> Đáp ứng tốt * --> Cắt túi mật nội soi trì hoãn
+
+- Viêm túi mật cấp độ III (Nặng) --> Kháng sinh ❈, Điều trị hỗ trợ
+  - Không có yếu tố tiên đoán xấu #, và không có suy cơ quan Φ
+    - Trung tâm lớn, đáp ứng điều trị * --> Cắt túi mật nội soi khẩn
+    - Đáp ứng kém, không có phương tiện * --> Theo dõi
+  - Có yếu tố tiên đoán xấu #, ± Suy cơ quan Φ --> Dẫn lưu túi mật khẩn/sớm †
+    - Đáp ứng kém * --> Theo dõi
+    - Đáp ứng tốt * --> Cắt túi mật nội soi hoãn
 
 ❈, Nên cấy máu trước khi dùng kháng sinh;
 #, Yếu tố tiên đoán tiêu cực: vàng da (Bilirubin toàn phần ≥ 2), rối loạn chức năng thần kinh, rối loạn chức năng hô hấp;
@@ -6453,18 +6531,27 @@ Cắt túi mật sớm hoặc khẩn có thể được thực hiện trong đi�
 Ψ, Trung tâm tiên tiến có hồi sức chuyên sâu và kỹ thuật nội soi nâng cao;
 
 (4) Quản lý viêm túi mật cấp theo Tokyo Guideline 18:
-Đối với VTMC độ I, khuyến nghị PTNS cắt túi mật sớm nếu bệnh nhân đáp ứng các tiêu chí về chỉ số Charlson (Charlson Comorbidity Index, CCI) $\le$ 5 và ASA - PS (American Society of Anesthesiologists physical status classification) $\le$ 2.
-Đối với VTMC độ II, nếu bệnh nhân đáp ứng các tiêu chí CCI $\le$ 5 và ASA - PS $\le$ 2, kinh nghiệm; hoặc sau khi điều trị nội khoa và/hoặc dẫn lưu túi mật, PTNS cắt túi mật sẽ được chỉ định.
-Tokyo Guideline 18 đề xuất PTNS cắt túi mật được chỉ định ở bệnh nhân độ III nếu đáp ứng các tiêu chí nghiêm ngặt như CCI $\le$ 3, ASA - PS $\le$ 2 và đang được điều trị tại một trung tâm tiên tiến nơi có bác sĩ phẫu thuật có kinh nghiệm.
+Đối với VTMC độ I, khuyến nghị PTNS cắt túi mật sớm nếu bệnh nhân đáp ứng các tiêu chí về chỉ số Charlson (Charlson Comorbidity Index, CCI) ≤ 5 và ASA - PS (American Society of Anesthesiologists physical status classification) ≤ 2.
+
+Đối với VTMC độ II, nếu bệnh nhân đáp ứng các tiêu chí CCI ≤ 5 và ASA - PS ≤ 2, khuyến nghị PTNS cắt túi mật sớm được thực hiện sớm bởi các bác sĩ phẫu thuật có kinh nghiệm; hoặc sau khi điều trị nội khoa và/hoặc dẫn lưu túi mật, PTNS cắt túi mật sẽ được chỉ định.
+
+Tokyo Guideline 18 đề xuất PTNS cắt túi mật được chỉ định ở bệnh nhân độ III nếu đáp ứng các tiêu chí nghiêm ngặt như CCI ≤ 3, ASA - PS ≤ 2 và đang được điều trị tại một trung tâm tiên tiến nơi có bác sĩ phẫu thuật có kinh nghiệm.
+
 Nếu bệnh nhân không thể phẫu thuật, nên dẫn lưu đường mật sớm/khẩn cấp, sau đó PTNS cắt túi mật trì hoãn khi tình trạng chung của bệnh nhân đã được cải thiện.
 
-## 6.2. Viêm tụy cấp do sỏi túi mật di trú
+6.2. Viêm tụy cấp do sỏi túi mật di trú
+
 Khi sỏi mật đi qua ống mật chủ để xuống tá tràng chúng phải đi qua nhú Vater. Trong quá trình đó, sỏi có thể gây tổn thương thứ phát cho tuyến tụy. Một cơ chế sinh lý bệnh được chấp nhận liên quan đến việc làm tăng tạm thời áp lực ống tụy gây ra tình trạng viêm thứ phát của nhu mô tụy. Ngay cả sự gia tăng áp lực tạm thời trong lòng ống tụy cũng có thể gây tổn thương cho tuyến tụy, vì vậy các triệu chứng viêm tụy vẫn còn mặc dù sỏi đã thoát khỏi nhú Vater vào tá tràng.
+
 Chẩn đoán nguyên nhân viêm tụy có thể không rõ ràng, siêu âm có thể cho thấy sỏi túi mật, hoặc giãn đường mật. Sỏi túi mật di trú gây viêm tụy cấp thường tự rớt xuống tá tràng nhưng vẫn có thể gây viêm tụy nặng.
+
 Cơn đau bụng cấp tính trong viêm tụy cấp do sỏi túi mật di trú cũng giống như trong viêm tụy cấp do nguyên nhân khác: đau thượng vị lan sau lưng, kèm nôn ói nhiều, có thể kèm sốt nhẹ, xét nghiệm có amylase và lipase máu tăng kèm men gan và bilirubin máu tăng nhẹ.
+
 Hầu hết các trường hợp viêm tụy cấp do sỏi mật, tình trạng viêm tụy thường tự giới hạn do sỏi thường tự rơi xuống tá tràng. MRCP rất cần thiết trong trường hợp này để đánh giá sỏi đã rơi xuống tá tràng hay còn nằm ở đoạn cuối ống mật chủ, để xét chỉ định ERCP lấy sỏi.
+
 Nếu theo đánh giá lâm sàng có tình trạng viêm tụy cấp nặng, ERCP sớm để loại bỏ sỏi là cần thiết và được chứng minh làm giảm diễn tiến nặng của viêm tụy cấp.
-Để dự phòng một đợt viêm tụy cấp do sỏi mật trong tương lai, phẫu thuật cắt túi mật được khuyến cáo. Thời điểm tiến hành phẫu thuật cắt túi mật tùy thuộc vào còn hay không tình trạng viêm tụy cấp. Do nghi ngờ sỏi túi mật di trú xuống ống mật chủ, chụp
+
+Để phòng một đợt viêm tụy cấp do sỏi túi mật trong tương lai, phẫu thuật cắt túi mật được khuyến cáo. Thời điểm tiến hành phẫu thuật cắt túi mật tùy thuộc vào còn hay không tình trạng viêm tụy cấp. Do nghi ngờ sỏi túi mật di trú xuống ống mật chủ, chụp
 
 X quang đường mật trong mổ nên được thực hiện nếu không có phương tiện hình ảnh nào trước đó xác định được tình trạng sạch sỏi trong đường mật.
 
@@ -6478,7 +6565,7 @@ Hình ảnh siêu âm của viêm túi mật mạn tính do sỏi là dày thàn
 
 6.3.1. Chẩn đoán
 
-Siêu âm thường dùng để xác định sự hiện diện của sỏi mật. Siêu âm có thể cung cấp những thông tin quan trọng như là sự dãn ống mật chủ, polyps túi mật, túi mật sứ, hoặc các bằng chứng bệnh lý nhu mô gan.
+Siêu âm thường dùng để xác định sự hiện diện của sỏi mật. Siêu âm có thể cung cấp những thông tin quan trọng như là sự giãn ống mật chủ, polyps túi mật, túi mật sứ, hoặc các bằng chứng bệnh lý như mô gan.
 
 Tăng cholesterol thành túi mật, là bệnh lý mà cholesterol được tìm thấy ở các đại thực bào ở niêm mạc thành túi mật, cũng được nhìn thấy. Siêu âm có thể thấy bùn túi mật với những triệu chứng lâm sàng phù hợp trong cơn đau quặn mật.
 
@@ -6488,34 +6575,36 @@ Bệnh nhân có sỏi túi mật có đủ bằng chứng viêm túi mật mạ
 
 [Hình: Viêm túi mật mạn.]
 
-## 6.4. Các biến chứng ít gặp khác
+6.4. Các biến chứng ít gặp khác
 
-Ung thư túi mật: $70 - 90\%$ bệnh nhân ung thư túi mật có sỏi túi mật. Bệnh nhân sỏi túi mật có triệu chứng tăng 34 lần nguy cơ ung thư túi mật.
+Ung thư túi mật: 70 – 90% bệnh nhân ung thư túi mật có sỏi túi mật. Bệnh nhân sỏi túi mật có triệu chứng tăng 34 lần nguy cơ ung thư túi mật.
 
-**Sỏi ống mật chủ:** đây là sỏi thứ phát từ sỏi túi mật, thường là dạng sỏi nhỏ nhiều viên, di chuyển dần qua ống túi mật và rơi xuống ống mật chủ. Nếu các sỏi này không gây viêm đường mật cấp hoặc viêm tụy cấp, có thể bị bỏ sót. Dấu hiệu gợi ý sỏi ống mật chủ kèm theo sỏi túi mật là có dãn nhẹ đường mật trong ngoài gan, tăng bilirubin máu nhẹ. Phương tiện hữu hiệu không xâm lấn để chẩn đoán xác định là MRCP. Đôi khi, không có dấu hiệu gợi ý sỏi ống mật chủ nhưng trong lúc phẫu thuật phẫu thuật viên chủ động kiểm tra khi thấy ống túi mật to hoặc ống mật chủ dãn.
+Sỏi ống mật chủ: đây là sỏi thứ phát từ sỏi túi mật, thường là dạng sỏi nhỏ nhiều viên, di chuyển dần qua ống túi mật và rơi xuống ống mật chủ. Nếu các sỏi nhỏ này không gây viêm đường mật cấp hoặc viêm tụy cấp, có thể bị bỏ sót. Dấu hiệu gợi ý sỏi ống mật chủ kèm theo sỏi túi mật là có dãn nhẹ đường mật trong ngoài gan, tăng bilirubin máu nhẹ. Phương tiện hữu hiệu không xâm lấn để chẩn đoán xác định là MRCP. Đôi khi, không có dấu hiệu gợi ý sỏi ống mật chủ nhưng trong lúc phẫu thuật phẫu thuật viên chủ động kiểm tra khi thấy ống túi mật to hoặc ống mật chủ dãn.
 
-**Hội chứng Mirizzi:** gây ra do sỏi to kẹt ở ống hoặc phễu túi mật chèn ép vào đường mật lân cận và kết quả là gây tắc ống gan chung. Chẩn đoán xác định hội chứng Mirizzi bằng cộng hưởng từ đường mật. (MRCP)
+Hội chứng Mirizzi: gây ra do sỏi to kẹt ở ống hoặc phễu túi mật chèn ép vào đường mật lân cận và kết quả là gây tắc ống gan chung. Chẩn đoán xác định hội chứng Mirizzi bằng cộng hưởng từ đường mật (MRCP).
 
-[Hình: Bốn hình ảnh y khoa minh họa cho hội chứng Mirizzi và sỏi mật]
+[Hình: Các hình ảnh minh họa hội chứng Mirizzi]
 
 Hình 18. Hội chứng Mirizzi.
 
 Tắc ruột do sỏi mật: đây là biến chứng hiếm gặp. Cơ chế gây tắc ruột là viên sỏi sau khi thoát qua lỗ rò giữa túi mật và ống tiêu hóa di chuyển đến ruột non và gây tắc tại đây.
 
-[Hình: Hình 19. Tắc ruột do sỏi mật.]
+[Hình: Các hình ảnh chẩn đoán hình ảnh (CT scan) và hình ảnh phẫu thuật minh họa tắc ruột do sỏi mật]
 
-# TÀI LIỆU THAM KHẢO
+Hình 19. Tắc ruột do sỏi mật.
 
+309
+
+TÀI LIỆU THAM KHẢO
 1. Gomi H., Solomkin J. S., Schlossberg D., et al (2018), Tokyo Guidelines 2018: antimicrobial therapy for acute cholangitis and cholecystitis, *J Hepatobiliary Pancreat Sci*, 25 (1), 3-16.
 2. Hsing A. W., Gao Y. T., Han T. Q., et al (2007), Gallstones and the risk of biliary tract cancer: a population-based study in China, *Br J Cancer*, 97 (11), 1577-82.
 3. Yokoe M., Hata J., Takada T., et al (2018), Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis (with videos), *J Hepatobiliary Pancreat Sci*, 25 (1), 41-54.
-4. Nguyễn Đình Hối (2012), Sỏi túi mật, Sỏi đường mật, Nhà xuất bản Y học.
+4. Nguyễn Đình Hối (2012), Sỏi túi mật, Nhà xuất bản Y học.
 5. Townsend Courtney M, Beauchamp R Daniel, Evers B Mark, et al (2016), "Sabiston textbook of surgery E-book", Elsevier Health Sciences.
 6. Charles Brunicardi F, Andersen DK, Billia TR et al (2019), "Schwartz's Principles Surgery", Mc Graw Hill.
 7. Gurusamy K, Davidson C, Gluud C, Davidson BR. "Early versus delayed laparoscopic cholecystectomy for people with acute cholecystitis". Cochrane Database of Systematic Reviews (2013), Issue 6. Art. No.: CD005440. DOI: 10.1002/14651858.CD005440.pub3.
 
-## CÂU HỎI LƯỢNG GIÁ
-
+CÂU HỎI LƯỢNG GIÁ
 1. Triệu chứng chủ yếu nhất của sỏi túi mật?
 A. Đau hạ sườn P
 B. Sốt
@@ -6537,52 +6626,53 @@ B. a+b
 C. a+b+c
 D. b+c
 
-4. Viêm túi mật mức độ trung bình (chọn câu sai)?
-A. BC > 18.000/ $mm^3$
-B. Đề kháng, co cứng 1/4 bụng trên P
+Viêm túi mật mức độ trung bình (chọn câu sai)?
+A. BC > 18.000/ mm³
+B. Đề kháng, co cứng ¼ bụng trên P
 C. Có dấu hiệu: viêm túi mật hoại tử, áp xe quanh túi mật, áp xe gan, viêm phúc mạc mật, thủng túi mật
 D. INR > 1,5
 
-5. Theo Tokyo Guideline, thời điểm cắt túi mật trì hoãn đối với viêm túi mật mức độ trung bình?
+Theo Tokyo Guideline, thời điểm cắt túi mật trì hoãn đối với viêm túi mật mức độ trung bình?
 A. Sau dẫn lưu túi mật 24 giờ
 B. Sau dẫn lưu túi mật 48 giờ
 C. 6 – 12 tuần
 D. Càng sớm càng tốt khi tình trạng bệnh nhân cải thiện
 
 # UNG THƯ QUANH BÓNG VATER
-Phan Minh Trí, Võ Trường Quốc
+*Phan Minh Trí, Võ Trường Quốc*
 
-## MỤC TIÊU
+MỤC TIÊU
 1. Khai thác được các yếu tố nguy cơ của ung thư quanh bóng Vater.
 2. Vận dụng các triệu chứng lâm sàng và cận lâm sàng để chẩn đoán xác định, chẩn đoán giai đoạn ung thư quanh bóng Vater.
 3. Chỉ định phương pháp điều trị phù hợp với các giai đoạn bệnh theo Ủy Ban Liên Hiệp Ung thư Hoa kỳ (AJCC).
 4. Lập kế hoạch điều trị trước phẫu thuật và theo dõi sau phẫu thuật cắt khối tá tụy.
 5. Trình bày được các biến chứng sớm và tiên lượng sau phẫu thuật cắt khối tá tụy.
 
-**Từ khóa**: Ung thư quanh bóng Vater, đánh giá giai đoạn ung thư TNM, phẫu thuật cắt khối tá tụy, đánh giá dinh dưỡng theo SGA, u tụy giáp biên, đái tháo đường sau phẫu thuật tụy.
+Từ khóa: Ung thư quanh bóng Vater, đánh giá giai đoạn ung thư TNM, phẫu thuật cắt khối tá tụy, đánh giá dinh dưỡng theo SGA, u tụy giáp biên, đái tháo đường sau phẫu thuật tụy.
 
 ## 1. GIỚI THIỆU
+
 Ung thư quanh bóng Vater là tập hợp những tân sinh ác tính của vùng quanh bóng Vater. Do ung thư quanh bóng Vater xét về mặt vi thể có thể gồm nhiều loại như ung thư biểu mô tuyến, u thần kinh nội tiết, u mô đệm (GIST).... Trong phạm vi bài giảng này, chúng tôi chủ yếu đề cập đến ung thư biểu mô tuyến (adenocarcinoma), là loại ung thư thường gặp nhất. Các ung thư quanh bóng Vater được mô tả chung do biểu hiện lâm sàng, chẩn đoán và điều trị giống nhau.
 
-Halsted năm 1898 định nghĩa vùng quanh Vater được giới hạn trong vòng bán kính 2 cm quanh nhú tá lớn [8]. Ông cũng là người đầu tiên thực hiện ca phẫu thuật cắt u vùng quanh bóng Vater [2]. Theo đó, ung thư quanh bóng Vater bao gồm ung thư biểu mô tuyến của đầu tụy, bóng Vater, đoạn cuối ống mật chủ và tá tràng D2.
+Halsted năm 1898 định nghĩa vùng quanh bóng Vater được giới hạn trong vòng bán kính 2 cm quanh nhú tá lớn [8]. Ông cũng là người đầu tiên thực hiện ca phẫu thuật cắt u vùng quanh bóng Vater [2]. Theo đó, ung thư quanh bóng Vater bao gồm ung thư biểu mô tuyến của đầu tụy, bóng Vater, đoạn cuối ống mật chủ và tá tràng D2.
 
-Tỷ lệ sống còn sau 5 năm của các ung thư quanh bóng Vater khá thấp: ít hơn 15% đối với ung thư đầu tụy, ung thư đoạn cuối ống mật chủ (27%), ung thư bóng Vater (39%) và ung thư tá tràng (59%). Trong đó, chỉ có khoảng 10-20% bệnh nhân được phẫu thuật cắt khối tá tụy triệt để [9]. Tại bệnh viện Chợ Rẫy, theo số liệu thống kê trong 5 năm 2012 – 2016, có tổng số 226 bệnh nhân được phẫu thuật cắt khối tá tụy do ung thư quanh bóng Vater, trong số đó ung thư bóng Vater được phẫu thuật chiếm đa số [2].
+Tỷ lệ sống còn sau 5 năm của các ung thư quanh bóng Vater khá thấp: ít hơn 15% đối với ung thư đầu tụy, ung thư đoạn cuối ống mật chủ (27%), ung thư bóng Vater (39%) và ung thư tá tràng (59%). Trong đó, chỉ có khoảng 10-20% bệnh nhân được phẫu thuật triệt để [9]. Tại bệnh viện Chợ Rẫy, theo số liệu thống kê trong 5 năm 2012 – 2016, có tổng số 226 bệnh nhân được phẫu thuật cắt khối tá tụy do ung thư quanh bóng Vater, trong số đó ung thư bóng Vater được phẫu thuật chiếm đa số [2].
 
 Điều trị ung thư quanh bóng Vater là phối hợp giữa các chuyên khoa Chẩn đoán hình ảnh, Ngoại khoa và Ung thư học. Vài năm gần đây, những tiến bộ về chất lượng chẩn đoán và hiệu quả điều trị đã góp phần nâng cao tỷ lệ điều trị triệt để và thời gian sống thêm đối với bệnh nhân ung thư quanh bóng Vater.
 
 ## 2. DỊCH TỄ
 
-Tỷ lệ lưu hành bệnh khoảng 10/100.000 dân số $^{[2]}$. Tại Hoa Kỳ, ước tính có trên 30.000 bệnh nhân mới mắc ung thư quanh bóng Vater hàng năm. Trong đó ung thư đầu tụy chiếm hơn 95%, đứng hàng thứ tư trong các nguyên nhân gây tử vong do ung thư tại Hoa Kỳ. Tỷ lệ mắc ung thư quanh bóng Vater gia tăng theo tuổi, đa phần bệnh nhân ở độ tuổi 60 hay lớn hơn, và thường nam mắc bệnh nhiều hơn nữ. Tần suất của bốn loại ung thư theo thứ tự: ung thư đầu tụy chiếm 40-60%, ung thư bóng Vater 10-20%, ung thư đoạn cuối ống mật chủ 10% và ung thư tá tràng chiếm 5-10%.
+Tỷ lệ lưu hành bệnh khoảng 10/100.000 dân số [2]. Tại Hoa Kỳ, ước tính có trên 30.000 bệnh nhân mới mắc ung thư quanh bóng Vater hàng năm. Trong đó ung thư đầu tụy chiếm hơn 95%, đứng hàng thứ tư trong các nguyên nhân gây tử vong do ung thư tại Hoa Kỳ. Tỷ lệ mắc ung thư quanh bóng Vater gia tăng theo tuổi, đa phần bệnh nhân ở độ tuổi 60 hay lớn hơn, và thường nam mắc bệnh nhiều hơn nữ. Tần suất của bốn loại ung thư theo thứ tự: ung thư đầu tụy chiếm 40-60%, ung thư bóng Vater 10-20%, ung thư đoạn cuối ống mật chủ 10% và ung thư tá tràng chiếm 5-10%.
 
 ## 3. YẾU TỐ NGUY CƠ
 
 ### 3.1. Ung thư đầu tụy
 
-**Yếu tố di truyền:**
+*Yếu tố di truyền:*
 
 Một số hội chứng ung thư di truyền như ung thư đại trực tràng di truyền không đa polyp, ung thư vú có mang đột biến gen BRCA2 được xác định làm tăng nguy cơ ung thư tụy. Những trường hợp đột biến gene có liên quan đến khoảng 20% các trường hợp ung thư tụy có tính di truyền.
 
-**Yếu tố môi trường:**
+*Yếu tố môi trường:*
 
 Hút thuốc lá là yếu tố nguy cơ quan trọng vì người ta nhận thấy số lượng thuốc lá hút mỗi ngày và thời gian hút thuốc lá đều làm gia tăng nguy cơ mắc ung thư tụy. Hút thuốc lá và di truyền chiếm khoảng 5-10% các nguyên nhân gây ung thư tụy.
 
@@ -6594,16 +6684,13 @@ Viêm tụy mạn cũng là yếu tố liên quan đến ung thư tụy.
 
 ### 3.2. Ung thư bóng Vater và ung thư tá tràng
 
-Ung thư bóng Vater và ung thư tá tràng thường gặp hơn ở những bệnh nhân có hội chứng đa polyp có tính di truyền bao gồm ung thư đại trực tràng di truyền không đa polyp, hội chứng Peutz - Jeghers, đa polyp tuyến gia đình và hội chứng Gardner.
+Ung thư bóng Vater và ung thư tá tràng thường gặp hơn ở những bệnh nhân có hội chứng đa polyp có tính di truyền bao gồm ung thư đại trực tràng di truyền không đa polyp, hội chứng Peutz – Jeghers, đa polyp tuyến gia đình và hội chứng Gardner.
 
-### 3.3. Ung thư đoạn cuối ống mật chủ
-
+3.3. Ung thư đoạn cuối ống mật chủ
 Ung thư đoạn cuối ống mật chủ có thể liên quan đến một số yếu tố như hội chứng ruột kích thích, viêm xơ hóa đường mật, nang ống mật chủ và sỏi mật.
 
-## 4. CHẨN ĐOÁN VÀ ĐÁNH GIÁ TRƯỚC PHẪU THUẬT
-
-### 4.1. Đặc điểm lâm sàng
-
+4. CHẨN ĐOÁN VÀ ĐÁNH GIÁ TRƯỚC PHẪU THUẬT
+4.1. Đặc điểm lâm sàng
 Khoảng 75% bệnh nhân ung thư quanh bóng Vater có biểu hiện vàng da, kèm theo các triệu chứng khác liên quan tới tình trạng tắc mật như ngứa, tiểu sậm màu và tiêu phân bạc màu.
 
 Người bệnh thường cảm giác đau mơ hồ vùng bụng, đặc biệt lan ra sau lưng ngang với vị trí của tụy. Vào giai đoạn muộn của bệnh, đau trở nên liên tục và không đáp ứng với thuốc giảm đau thông thường như nhóm paracetamol hay NSAID.
@@ -6622,19 +6709,19 @@ Bảng 1. Triệu chứng cơ năng trong u quanh bóng Vater
 | Sốt | 3 |
 | Xuất huyết tiêu hóa | 1 |
 
-Triệu chứng thực thể: kết mạc mắt vàng, sang thương ở da do cào gãi, túi mật to sờ thấy là triệu chứng hay gặp, các dấu hiệu ít gặp hơn như sờ được nốt ở gan, hạch thượng đòn (Virchow), nốt di căn ở vùng quanh rốn (Sister Mary Joseph), và di căn tiểu khung khi thăm khám trực tràng (Blumer's shelf).
+Triệu chứng thực thể: kết mạc mắt vàng, sang thương ở da do cào gãi, túi mật to sờ thấy là triệu chứng hay gặp, các dấu hiệu ít gặp hơn như sờ được nốt ở gan, hạch thượng đòn (Virchow), nốt di căn ở vùng quanh rốn (Sister Mary Joseph), và di căn tiểu khung khi thăm khám trực tràng (Blumer’s shelf).
 
 Đánh giá tổng trạng người bệnh bao gồm mức độ sụt cân, tình trạng dinh dưỡng, các triệu chứng ảnh hưởng tình trạng dinh dưỡng (chán ăn, buồn nôn, nôn ói), tiền căn (bệnh lý tim phổi, suy thận, suy giảm miễn dịch...) qua bảng câu hỏi PG-SGA (Patient-Generated Subjective Global Assessment). Tình trạng dinh dưỡng có liên quan tới giai đoạn bệnh trong ung thư quanh bóng Vater và ảnh hưởng đến quyết định thực hiện phẫu thuật cắt khối tá tụy [9].
 
 [Hình: (A) Kết mạc mắt vàng, (B) Vết cào gãi da.]
 
-## 4.2. Đặc điểm cận lâm sàng
+4.2. Đặc điểm cận lâm sàng
 
-### 4.2.1. Xét nghiệm sinh hóa
+4.2.1. Xét nghiệm sinh hóa
 
-Nồng độ $CA19-9$: tăng trong 75% trường hợp ung thư quanh bóng Vater $^{[2]}$. Tuy nhiên, CA 19-9 cũng tăng trong các bệnh lành tính khác của tụy, gan và đường mật. CA 19 – 9 là kháng nguyên có độ nhạy và độ đặc hiệu cao hơn CEA trong chẩn đoán ung thư quanh bóng Vater với độ nhạy 81% và độ đặc hiệu 90%, giá trị tiên đoán dương khoảng 72% ở ngưỡng 37 IU/L. Khi nồng độ CA 19-9 trên 100 UI/mL, độ nhạy cho ung thư tụy là 68%, độ đặc hiệu 98%, giá trị tiên đoán dương là 97%, giá trị tiên đoán âm là 89%. Vai trò chính yếu của CA 19 – 9 là theo dõi và tiên lượng vì CA 19 – 9 trở về gần bình thường sau phẫu thuật 2 tuần, gia tăng trở lại khi u tái phát.
+Nồng độ CA19-9: tăng trong 75% trường hợp ung thư quanh bóng Vater [2]. Tuy nhiên, CA 19-9 cũng tăng trong các bệnh lành tính khác của tụy, gan và đường mật. CA 19 – 9 là kháng nguyên có độ nhạy và độ đặc hiệu cao hơn CEA trong chẩn đoán ung thư quanh bóng Vater với độ nhạy 81% và độ đặc hiệu 90%, giá trị tiên đoán dương khoảng 72% ở ngưỡng 37 IU/L. Khi nồng độ CA 19-9 trên 100 UI/mL, độ nhạy cho ung thư tụy là 68%, độ đặc hiệu 98%, giá trị tiên đoán dương là 97%, giá trị tiên đoán âm là 89%. Vai trò chính yếu của CA 19 – 9 là theo dõi và tiên lượng vì CA 19 – 9 trở về gần bình thường sau phẫu thuật 2 tuần, gia tăng trở lại khi u tái phát.
 
-Đối với ung thư đầu tụy: theo Marius (2013) và Reitz (2015), sự kết hợp giữa CEA và CA 19 – 19 trước mổ thông qua trị số $(CEA\times85 + CA\text{ }19-9)$ lớn hơn 845 có ý nghĩa tiên lượng làm giảm thời gian sống còn sau mổ.
+Đối với ung thư đầu tụy: theo Marius (2013) và Reitz (2015), sự kết hợp giữa CEA và CA 19 – 19 trước mổ thông qua trị số (CEA x 85 + CA 19 – 9) lớn hơn 845 có ý nghĩa tiên lượng làm giảm thời gian sống còn sau mổ.
 
 Đối với ung thư đoạn cuối ống mật chủ, có sự liên quan giữa CA19-9 với khả năng cắt được u, giai đoạn ung thư và tình trạng di căn hạch. Mối tương quan thể hiện rõ chủ yếu khi nồng độ CA19-9 từ 100 U/ml trở lên.
 
@@ -6642,19 +6729,21 @@ Các xét nghiệm sinh hóa khác: bệnh nhân vàng da tắc mật có tăng 
 
 4.2.2. Hình ảnh học trong ung thư quanh bóng Vater
 
-Hình ảnh học được sử dụng cho bệnh nhân nghi ngờ tân sinh quanh bóng Vater gồm: siêu âm bụng, chụp cắt lớp vi tính bụng chậu có cản quang, chụp cộng hưởng từ mật tụy, chụp mật tụy ngược dòng qua nội soi, chụp đường mật xuyên gan qua da, ngoài ra còn có siêu âm qua ngả nội soi, chụp xạ hình cắt lớp $^([1])$.
+Hình ảnh học được sử dụng cho bệnh nhân nghi ngờ tân sinh quanh bóng Vater gồm: siêu âm bụng, chụp cắt lớp vi tính bụng chậu có cản quang, chụp cộng hưởng từ mật tụy, chụp mật tụy ngược dòng qua nội soi, chụp đường mật xuyên gan qua da, ngoài ra còn có siêu âm qua ngả nội soi, chụp xạ hình cắt lớp [1].
 
 Siêu âm bụng: siêu âm có độ nhạy khoảng 25% trong phát hiện u quanh bóng Vater. Siêu âm cho biết có dãn đường mật, ghi nhận nốt di căn ở gan, khối u quanh bóng Vater, hạch vùng quanh tụy, hạch rốn gan và dịch báng. Độ nhạy trong phát hiện u quanh bóng Vater không cao.
 
 Chụp cắt lớp vi tính (CLVT) có cản quang: có thể phát hiện trực tiếp u quanh bóng Vater dựa vào vị trí, đặc điểm bắt thuốc, bờ khối u.
 
-Đối với thư tụy, trên phim chưa có thuốc cản quang thường có đậm độ ngang với nhu mô tụy, trừ khi có hoại tử u hay tạo nang trong u. Trên các thì cản quang, u có dạng khối không đồng nhất, giảm đậm độ so với mô tụy xung quanh.
+Đối với ung thư tụy, trên phim chưa có thuốc cản quang thường có đậm độ ngang với nhu mô tụy, trừ khi có hoại tử u hay tạo nang trong u. Trên các thì cản quang, u có dạng khối không đồng nhất, giảm đậm độ so với mô tụy xung quanh.
 
 Các lát cắt trên CLVT chỉ dày 0,1 mm, có thể dựng hình mạch máu. CLVT phase tụy (Pancreatic phase) được chụp sau khi tiêm chất cản quang 30-40 giây, đảm bảo lấy được hình ảnh thì động mạch (15-30 giây) và thì tĩnh mạch cửa (45 giây). Hình ảnh thì muộn sau tiêm chất cản quang 120 giây có thể giúp phân biệt các hemangioma và các nốt di căn.
 
-Độ nhạy của CLVT trong phát hiện ung thư đầu tụy là 90-95% nhờ hình ảnh giảm đậm độ mô u trên phim phase tụy. Các hình ảnh thứ phát là dãn ống tụy và ống mật chủ. Ngoài ra CLVT còn giúp phân biệt các tổn thương tân sinh dạng nang và các u thần kinh nội tiết khác ở tụy như SCNs (serous cystic neoplasms - nang đồng đậm độ kích thước 1-20 mm, vôi hóa thành nang, dạng tổ ong, có thể xuất huyết bên trong), MCNs (mucinous cystic neoplasms - các nang to > 20 mm, ít nang, giảm đậm độ trên CLVT), IPMNs (Intraductal Papillary Mucinous Neoplasms - nang lớn, nhiều thành vách, giảm đậm độ trên CLVT), Insulinoma (u tăng đậm độ sau tiêm thuốc cản quang).
+Độ nhạy của CLVT trong phát hiện ung thư đầu tụy là 90-95% nhờ hình ảnh giảm đậm độ mô u trên phim phase tụy. Các hình ảnh thứ phát là dãn ống tụy và ống mật chủ. Ngoài ra CLVT còn giúp phân biệt các tổn thương tân sinh dạng nang và các u thần kinh nội tiết khác ở tụy như SCNs (serous cystic neoplasms - nang đồng đậm độ kích thước 1-20 mm, vôi hóa thành nang, dạng tổ ong, có thể xuất huyết bên trong), MCNs (Mucinous cystic neoplasms - các nang to > 20 mm, ít nang, giảm đậm độ trên CLVT), IPMNs (Intraductal Papillary Mucinous Neoplasms - nang lớn, nhiều thành vách, giảm đậm độ trên CLVT), Insulinoma (u tăng đậm độ sau tiêm thuốc cản quang).
 
 [Hình: Chụp CLVT cho u đầu tụy (Nguồn: Bệnh viện Chợ Rẫy).]
+
+Hình 2. Chụp CLVT cho u đầu tụy (Nguồn: Bệnh viện Chợ Rẫy).
 
 Trên phim chụp CLVT sau tiêm thuốc cản quang, ung thư bóng Vater thường có hình ảnh khối giảm đậm độ chia thùy hay thâm nhiễm. Hình ảnh ống đôi (double-sign duct) thường gặp trong ung thư bóng Vater, thậm chí ở giai đoạn u kích thước nhỏ.
 
@@ -6666,13 +6755,13 @@ Ung thư đoạn cuối ống mật chủ trên phim CLVT sau tiêm thuốc cả
 
 Ung thư tá tràng thường phát hiện ở giai đoạn muộn, ghi nhận trên CLVT là hình ảnh đoạn hẹp ngắn ở tá tràng, dạng vòng với bờ không đều, gây dãn tá tràng và dạ dày.
 
-Chụp CLVT ngoài phát hiện u còn giúp phát hiện di căn hạch. Hạch bạch huyết được xem là di căn khi có 1 trong 3 đặc điểm sau: đường kính trên phim cắt ngang của hạch bạch huyết $\ge 10\text{ mm}$, hạch có hình ảnh hoại tử trung tâm bất kể kích thước, hay hạch có đậm độ cao hơn nhu mô gan trong phim thì tĩnh mạch cửa.
+Chụp CLVT ngoài phát hiện u còn giúp phát hiện di căn hạch. Hạch bạch huyết được xem là di căn khi có 1 trong 3 đặc điểm sau: đường kính trên phim cắt ngang của hạch bạch huyết ≥ 10 mm, hạch có hình ảnh hoại tử trung tâm bất kể kích thước, hay hạch có đậm độ cao hơn nhu mô gan trong phim thì tĩnh mạch cửa.
+
+317
 
 [Hình: Hạch trên CLVT (Nguồn: Bệnh viện Chợ Rẫy).]
 
-Hình 5. Hạch trên CLVT
-
-Chụp CLVT còn giúp đánh giá ung thư đầu tụy có thể phẫu thuật triệt để được hay không dựa trên các dấu hiệu sau: di căn xa (gan, phúc mạc, các nhóm hạch không thuộc hạch vùng...), xâm lấn động mạch thân tạng, động mạch mạc treo tràng trên (ĐMMTT), động mạch gan chung (dưới $180^\circ$ chu vi động mạch), xâm lấn tĩnh mạch mạc treo tràng trên (TMMMTT), tĩnh mạch cửa (dưới $180^\circ$ chu vi tĩnh mạch, hay có huyết khối tĩnh mạch) . Giá trị tiên đoán dương của chụp CLVT trong phát hiện u không thể cắt được là 89-100%, và trong u có thể cắt được là 45-79%. Giá trị tiên đoán dương cho khả năng tái tạo mạch máu là 93%, giá trị tiên đoán âm là 86%, độ chính xác 88%.
+Chụp CLVT còn giúp đánh giá ung thư đầu tụy có thể phẫu thuật triệt để được hay không dựa trên các dấu hiệu sau: di căn xa (gan, phúc mạc, các nhóm hạch không thuộc hạch vùng...), xâm lấn động mạch thân tạng, động mạch mạc treo tràng trên (ĐMMTTT), động mạch gan chung (dưới $180^\circ$ chu vi động mạch), xâm lấn tĩnh mạch mạc treo tràng trên (TMMMTT), tĩnh mạch cửa (dưới $180^\circ$ chu vi tĩnh mạch, hay có huyết khối tĩnh mạch). Giá trị tiên đoán dương của chụp CLVT trong phát hiện u không thể cắt được là 89-100%, và trong u có thể cắt được là 45-79%. Giá trị tiên đoán dương cho khả năng tái tạo mạch máu là 93%, giá trị tiên đoán âm là 86%, độ chính xác 88%.
 
 Chụp mật tụy ngược dòng qua nội soi - ERCP: cũng thường được chỉ định trong chẩn đoán ung thư quanh bóng Vater. ERCP hữu ích khi có tắc nghẽn ống tụy, nhưng không phát hiện khối u trên chụp CLVT hoặc cộng hưởng từ (CHT). ERCP giúp ghi nhận sự chít hẹp bất thường của ống tụy, sự dãn phần xa ống tụy hoặc dãn cả ống tụy và ống mật chủ. ERCP có thể giúp đặt stent giải áp đường mật.
 
@@ -6680,27 +6769,26 @@ Chụp cộng hưởng từ mật tụy - MRCP: giúp ghi nhận hình ảnh câ
 
 Chụp đường mật xuyên gan qua da – PTC: Trong trường hợp ống mật chít hẹp, cho thấy hình ảnh phía trên của ống mật chủ. Bất lợi là phương tiện chẩn đoán xâm lấn, chảy máu, rò máu-đường mật, không đánh giá được ống tụy.
 
-Siêu âm nội soi – EUS: ngày càng được sử dụng phổ biến trong những trường hợp tổn thương quanh bóng Vater do có thể kết hợp với sinh thiết hay lấy mẫu làm mô bệnh học trước khi hóa trị tân hỗ trợ (EUS – FNA). EUS còn có vai trò nổi trội hơn CLVT khi đánh giá xâm lấn mạch máu, di căn hạch và khảo sát được những khối u dưới $2\text{ cm}$ mà CLVT có thể bỏ sót. Độ nhạy của EUS – FNA trong chẩn đoán ung thư tụy là 80-95%, thậm chí lên đến 98,3%, đặc biệt các trường hợp không có tắc mật. Độ nhạy giảm còn 92,5% trong các trường hợp kèm viêm tụy mạn. Độ chính xác trong đánh giá giai đoạn T là 78-94%, trong đánh giá giai đoạn N là 64-82% $^ {[3]}$. Hạn chế của EUS là tùy thuộc vào người thực hiện nội soi cũng như đọc kết quả siêu âm. Vì đây là thủ thuật xâm lấn, EUS có nguy cơ gây biến chứng chảy máu, thủng tá tràng, viêm tụy (0,1-1%).
+Siêu âm nội soi – EUS: ngày càng được sử dụng phổ biến trong những trường hợp tổn thương quanh bóng Vater do có thể kết hợp với sinh thiết hay lấy mẫu làm mô bệnh học trước khi hóa trị tân hỗ trợ (EUS – FNA). EUS còn có vai trò nổi trội hơn CLVT khi đánh giá xâm lấn mạch máu, di căn hạch và khảo sát được những khối u dưới 2 cm mà CLVT có thể bỏ soát. Độ nhạy của EUS – FNA trong chẩn đoán ung thư tụy là 80-95%, 92,5% trong các trường hợp không có tắc mật. Độ nhạy giảm còn T là 78-94%, trong đánh giá giai đoạn N là 64-82% [3]. Hạn chế của EUS là tùy thuộc vào người thực hiện nội soi cũng như đọc kết quả siêu âm. Vì đây là thủ thuật xâm lấn, EUS có nguy cơ gây biến chứng chảy máu, thủng tá tràng, viêm tụy (0,1-1%).
 
-[Hình: Hình 6. EUS ghi nhận hẹp đoạn cuối OMC (Nguồn: Bệnh viện Chợ Rẫy).]
-*(Dấu *: Ống tụy chính, Dấu mũi tên: Bóng Vater).*
+[Hình: Hình 6. EUS ghi nhận hẹp đoạn cuối OMC (Nguồn: Bệnh viện Chợ Rẫy). (Dấu *: Ống tụy chính, Dấu mũi tên: Bóng Vater).]
 
-PET/CT (*Positron emission tomographic, PET/CT*): giúp đánh giá di căn với độ nhạy là 87-95%, và độ đặc hiệu 51-81%. PET/CT đánh giá giai đoạn ung thư và phát hiện di căn xa tốt hơn chụp CLVT hay EUS: độ nhạy của PET/CT là 89% so với chỉ 56% của CLVT, độ nhạy trong phát hiện di căn xa của PET/CT là 95% so với chỉ 85% trong EUS $^{[3]}$.
+PET/CT (Positron emission tomographic, PET/CT): giúp đánh giá di căn với độ nhạy là 87-95%, và độ đặc hiệu 51-81%. PET/CT đánh giá giai đoạn ung thư và phát hiện di căn xa tốt hơn chụp CLVT hay EUS: độ nhạy của PET/CT là 89% so với chỉ 56% của CLVT, độ nhạy trong phát hiện di căn xa của PET/CT là 95% so với chỉ 85% trong EUS [3].
 
-## 4.3. Phân giai đoạn ung thư
+4.3. Phân giai đoạn ung thư
 
 Giai đoạn ung thư quanh bóng Vater được xếp theo Hiệp hội ung thư Hoa Kỳ (AJCC) lần thứ tám (2016) dựa trên mức độ xâm lấn (T), di căn hạch (N) và di căn xa (M). Sau khi có bằng chứng mô học là ung thư (dựa trên sinh thiết qua ERCP hay EUS – FNA) bệnh nhân sẽ được chụp CLVT bụng chậu có tiêm cản quang kèm dựng hình để đánh giá giai đoạn chính xác. CLVT ngực được chỉ định để tầm soát khi nghi ngờ di căn phổi.
 
-## 4.3.1. Ung thư đầu tụy
+### 4.3.1. Ung thư đầu tụy
 
 Giai đoạn T:
-- Tx - Không xác định được u nguyên phát, T0 - Không có bằng chứng của u nguyên phát, Tis - Ung thư tại chỗ (bao gồm các tăng sinh trong biểu mô tụy biệt hóa tốt - PanIN, tăng sinh chế tiết dịch nhầy dạng nhú trong lòng ống tụy biệt hóa tốt - IPMNs, tăng sinh dạng nang chế tiết dịch nhầy biệt hóa tốt - MCNs), T1 - Ung thư giới hạn trong tụy, đường kính tối đa của u $\le 2$ cm (T1a: đường kính u $\le 0,5$ cm, T1b: đường kính u $> 0,5$ cm và $< 1$ cm, T1c: đường kính u từ 1-2 cm), T2 - Ung thư giới hạn trong tụy, đường kính tối đa của u $> 2$ cm và $\le 4$ cm), T3 - đường kính $> 4$ cm), T4 - Ung thư xâm lấn ĐM thân tạng hay ĐM mạc treo tràng trên và/hoặc ĐM gan chung, bất kể kích thước, T(m): hai u nguyên phát đồng thời (synchronous primary tumor) tại tụy.
+Tx - Không xác định được u nguyên phát, T0 - Không có bằng chứng của u nguyên phát, Tis - Ung thư tại chỗ (bao gồm các tăng sinh trong biểu mô tụy biệt hóa tốt - PanIN, tăng sinh chế tiết dịch nhầy dạng nhú trong lòng ống tụy biệt hóa tốt - IPMNs, tăng sinh dạng nang chế tiết dịch nhầy biệt hóa tốt - MCNs), T1 - Ung thư giới hạn trong tụy, đường kính tối đa của u ≤ 2 cm (T1a: đường kính u ≤ 0,5 cm, T1b: đường kính u > 0,5 cm và < 1 cm, T1c: đường kính u từ 1-2 cm), T2 - Ung thư giới hạn trong tụy, đường kính tối đa của u > 2 cm và ≤ 4 cm), T3 - đường kính > 4 cm), T4 - Ung thư xâm lấn ĐM thân tạng hay ĐM mạc treo tràng trên và/hoặc ĐM gan chung, bất kể kích thước, T(m): hai u nguyên phát đồng thời (synchronous primary tumor) tại tụy.
 
 Giai đoạn N:
-- Nx - Hạch vùng không đánh giá được, N0-Không di căn hạch vùng, N1-Có di căn 1-3 hạch vùng, N2-Có di căn 4 hạch vùng trở lên, N (sn): Di căn hạch vùng được phát hiện qua sinh thiết đơn thuần (sentinal lymph node biopsy), N(f): Di căn hạch vùng được phát hiện qua sinh thiết lõi (core biopsy) hay FNA.
+Nx - Hạch vùng không đánh giá được, N0-Không di căn hạch vùng, N1-Có di căn 1-3 hạch vùng, N2-Có di căn 4 hạch vùng trở lên, N (sn): Di căn hạch vùng được phát hiện qua sinh thiết đơn thuần (sentinal lymph node biopsy), N(f): Di căn hạch vùng được phát hiện qua sinh thiết lõi (core biopsy) hay FNA.
 
 Giai đoạn M:
-- M0 - Không di căn xa, M1 - Có di căn xa.
+M0 - Không di căn xa, M1 - Có di căn xa.
 
 | Giai đoạn | T | N | M |
 | :--- | :--- | :--- | :--- |
@@ -6709,68 +6797,59 @@ Giai đoạn M:
 | IB | T2 | N0 | M0 |
 | IIA | T3 | N0 | M0 |
 | IIB | T1, T2, T3 | N1 | M0 |
-| III | T1,T2 | N2 | M0 |
+| III | T1, T2 | N2 | M0 |
 | | T4 | Bất kì N | M0 |
 | IV | Bất kì T | Bất kì N | M1 |
 
-Bảng 2. Giai đoạn ung thư đầu tụy
-
-## 4.3.2. Ung thư bóng Vater
+### 4.3.2. Ung thư bóng Vater
 
 Giai đoạn T:
-- Tx - U nguyên phát không đánh giá được, T0 - Không có bằng chứng của u nguyên phát, Tis - Ung thư tại chỗ, T1a - U khu trú tại bóng Vater hay cơ vòng Oddi, T1b - U
-
-xâm lấn ngoài cơ vòng Oddi đến dưới niêm mạc tá tràng, T2 - U xâm lấn lớp cơ niêm tá tràng, T3a - U xâm lấn tụy (0,5 cm), T3b: U xâm lấn tụy (hơn 0,5 cm) hoặc ngoài nhu mô tụy hoặc thanh mạc tá tràng, T4 - U xâm lấn ĐM thân tạng, ĐM mạc treo tràng trên hay ĐM gan chung, T(m): hai u nguyên phát đồng thời (synchronous primary tumor).
+Tx - U nguyên phát không đánh giá được, T0 - Không có bằng chứng của u nguyên phát, Tis - Ung thư tại chỗ, T1a - U khu trú tại bóng Vater hay cơ vòng Oddi, T1b - U xâm lấn ngoài cơ vòng Oddi đến dưới niêm mạc tá tràng, T3a - U xâm lấn tụy (0,5 cm), T3b: U xâm lấn tụy (hơn 0,5 cm) hoặc ngoài nhu mô tụy hoặc thanh mạc tá tràng, T4 - U xâm lấn ĐM thân tạng, ĐM mạc treo tràng trên hay ĐM gan chung, T(m): hai u nguyên phát đồng thời (synchronous primary tumor).
 
 Giai đoạn N:
-
-Nx - Hạch vùng không đánh giá được, N0-Không di căn hạch vùng, N1-Có di căn 1-3 hạch vùng, N2-Có di căn 4 hạch vùng trở lên, N (sn): Di căn hạch vùng được phát hiện qua sinh thiết đơn thuần (sentinel lymph node biopsy), N(f): Di căn hạch vùng được phát hiện qua sinh thiết lõi (core biopsy) hay FNA.
+Nx - Hạch vùng không đánh giá được, N0-Không di căn hạch vùng, N1-Có di căn 1-3 hạch vùng, N2-Có di căn 4 hạch vùng trở lên, N (sn): Di căn hạch vùng được phát hiện qua sinh thiết đơn thuần (sentinal lymph node biopsy), N(f): Di căn hạch vùng được phát hiện qua sinh thiết lõi (core biopsy) hay FNA.
 
 Giai đoạn M:
-
 M0 - Không di căn xa, M1 - Có di căn xa.
 
 **Bảng 3. Giai đoạn ung thư bóng Vater**
 
 | Giai đoạn | T | N | M |
-|---|---|---|---|
+| :--- | :--- | :--- | :--- |
 | 0 | Tis | N0 | M0 |
 | IA | T1a | N0 | M0 |
 | IB | T1b, T2 | N0 | M0 |
 | IIA | T3a | N0 | M0 |
 | IIB | T3b | N0 | M0 |
 | IIIA | T1a, T1b, T2, T3a, T3b | N1 | M0 |
-| IIIB | T4 | Bất kỳ N | M0 |
-| IV | Bất kỳ T | N2 | M0 |
-| | Bất kỳ T | Bất kỳ N | M1 |
+| IIIB | T4 | N2 | M0 |
+| IV | Bất kỳ T | Bất kỳ N | M1 |
 
-## 4.3.3. Ung thư đoạn cuối OMC
+4.3.3. Ung thư đoạn cuối OMC
 
 Giai đoạn T:
-
-Tx - Không xác định được u nguyên phát, Tis - Ung thư tại chỗ, T1 - Ung thư xâm lấn thành ống mật chủ dày dưới 5 mm, T2 - Ung thư lấn thành ống mật chủ dày 5 – 12 mm, T3 - Ung thư xâm lấn thành ống mật chủ dày trên 12 mm, T4 - U xâm lấn ĐM thân tạng, ĐM mạc treo tràng trên hay ĐM gan chung, T(m): hai u nguyên phát đồng thời (synchronous) trên đường mật.
+Tx - Không xác định được u nguyên phát, Tis - Ung thư tại chỗ, T1 - Ung thư xâm lấn thành ống mật chủ dày dưới 5 mm, T2 - Ung thư xâm lấn thành ống mật chủ dày 5 – 12 mm, T3 - Ung thư xâm lấn thành ống mật chủ dày trên 12 mm, T4 - U xâm lấn ĐM thân tạng, ĐM mạc treo tràng trên hay ĐM gan chung, T(m): hai u nguyên phát đồng thời (synchronous) trên đường mật.
 
 Giai đoạn N:
-
-Nx - Hạch vùng không đánh giá được, N0-Không di căn hạch vùng, N1-Có di căn 1-3 hạch vùng, N2-Có di căn 4 hạch vùng trở lên, N (sn): Di căn hạch vùng được phát hiện qua sinh thiết đơn thuần (sentinel lymph node biopsy), N(f): Di căn hạch vùng được phát hiện qua sinh thiết lõi (core biopsy) hay FNA.
+Nx - Hạch vùng không đánh giá được, N0-Không di căn hạch vùng, N1-Có di căn 1-3 hạch vùng, N2-Có di căn 4 hạch vùng trở lên, N (sn): Di căn hạch vùng được phát hiện qua sinh thiết đơn thuần (sentinal lymph node biopsy), N(f): Di căn hạch vùng được phát hiện qua sinh thiết lõi (core biopsy) hay FNA.
 
 Giai đoạn M - M0 - Không di căn xa, M1 - Có di căn xa.
+
+321
 
 Bảng 4. Giai đoạn ung thư đoạn cuối OMC
 
 | Giai đoạn | T | N | M |
-| :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :--- |
 | 0 | Tis | N0 | M0 |
 | I | T1 | N0 | M0 |
 | IIA | T1 | N1 | M0 |
-| IIB | T2 | N0 | M0 |
-| | T2 | N1 | M0 |
-| | T3 | N0, N1 | M0 |
-| IIIA | T1, T2, T3 | N2 | M0 |
-| IIIB | T4 | N0, N1, N2 | M0 |
-| IV | Bất kỳ T | Bất kỳ N | M1 |
+| IIB | T2 | N0,N1 | M0 |
+| IIIA | T2,T3 | N2 | M0 |
+| IIIB | T1,T2,T3 | N0,N1,N2 | M0 |
+| IV | T4 | Bất kỳ N | M1 |
 
-## 4.3.4. Ung thư tá tràng
+4.3.4. Ung thư tá tràng
 
 Giai đoạn T:
 Tx - Không xác định được u nguyên phát, T0 - Không có bằng chứng của u nguyên phát, Tis - Ung thư tại chỗ, T1a - U xâm lấn lớp màng đáy, T1b - U xâm lấn lớp dưới niêm, T2 - U xâm lấn lớp cơ niêm, T3 - U xâm lấn qua lớp qua lớp cơ niêm đến dưới thanh mạc, vào mạc treo hay ra sau phúc mạc nhưng chưa qua phúc mạc thành, T4 - U xâm lấn qua phúc mạc thành hay các cơ quan lân cận như ống mật chủ, tụy.
@@ -6784,7 +6863,7 @@ M0 - Không di căn xa, M1 - Có di căn xa.
 Bảng 5. Giai đoạn ung thư tá tràng
 
 | Giai đoạn | T | N | M |
-| :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :--- |
 | 0 | Tis | N0 | M0 |
 | I | T1, T2 | N0 | M0 |
 | IIA | T3 | N0 | M0 |
@@ -6793,14 +6872,12 @@ Bảng 5. Giai đoạn ung thư tá tràng
 | IIIB | Bất kì T | N2 | M0 |
 | IV | Bất kì T | Bất kì N | M1 |
 
-## 4.4. U tân sinh giáp biên (Borderline tumor)
+4.4. U tân sinh giáp biên (Borderline tumor)
 
 Định nghĩa u tân sinh giáp biên dựa vào hình ảnh CLVT và MRCP như sau: (a) giảm trên 50% bán kính tĩnh mạch (chỉ tĩnh mạch cửa hoặc kèm TMMTTT) còn khả năng cắt nối được hoặc thuyên tắc một đoạn ngắn chiều dài tĩnh mạch, còn khả năng cắt nối được (b). Xâm lấn dưới 180 độ chu vi ĐMMTTT (c) xâm lấn động mạch thân tạng hoặc động mạch gan chung nhưng không làm giãn cấu trúc mạch máu, không có bất thường giải phẫu mạch máu, và không liên quan tới vị trí chia nhánh mạch máu [10].
 
 # 5. ĐIỀU TRỊ
-
 ## 5.1. Nguyên tắc điều trị
-
 Phẫu thuật cắt khối tá tụy kèm nạo hạch là phương pháp điều trị triệt để cho các khối u còn khả năng phẫu thuật.
 
 Điều trị đa mô thức cho các khối ung thư giáp biên: kết hợp hóa xạ trị tân bổ trợ trước phẫu thuật, phẫu thuật cắt khối tá tụy và hóa xạ trị hỗ trợ sau phẫu thuật.
@@ -6808,19 +6885,15 @@ Phẫu thuật cắt khối tá tụy kèm nạo hạch là phương pháp đi�
 Điều trị giảm nhẹ cho các khối u không còn khả năng phẫu thuật và/hoặc di căn xa.
 
 ## 5.2. Chỉ định phẫu thuật
-
 ### 5.2.1. Trường hợp giải phẫu bệnh trước mổ là ung thư và còn khả năng cắt được
-
 Phẫu thuật cắt khối tá tụy vẫn là phương pháp điều trị triệt để duy nhất đối với ung thư quanh bóng Vater. Tuy nhiên, phẫu thuật này chỉ có thể thực hiện khi khối u vẫn còn khu trú, chưa xâm lấn các cấu trúc xung quanh và chưa di căn xa. Đánh giá khả năng cắt khối tá tụy phải dựa trên rất nhiều yếu tố: tổng trạng của bệnh nhân, các bệnh lý đi kèm, đánh giá trên hình ảnh học, đánh giá trong mổ.
 
 ### 5.2.2. Trường hợp chưa có giải phẫu bệnh trước mổ, hình ảnh học nghi ngờ ung thư
-
-Phẫu thuật thám sát, sinh thiết tức thì trong mổ, nếu kết quả là ung thư và khả năng còn cắt được u: tiến hành phẫu thuật cắt khối tá tụy
+Phẫu thuật thám sát, sinh thiết tức thì trong mổ, nếu kết quả là ung thư và khả năng còn cắt được u: tiến hành phẫu thuật cắt khối tá tụy.
 
 Nếu sinh thiết tức thì cho kết quả viêm mạn tính: thực hiện nối tắt mật ruột, vị tràng. Trong trường hợp bệnh nhân có tắc nghẽn đường mật là hậu quả của một khối tổn thương sờ thấy rõ tại vùng quanh bóng Vater, phẫu thuật viên dựa trên kinh nghiệm để đưa ra quyết định có thực hiện cắt khối tá tụy dù kết quả sinh thiết tức thì là viêm mạn tính hay nghịch sản.
 
 ### 5.2.3. Hình ảnh học ghi nhận u tân sinh giáp biên
-
 Theo NCCN guidelines năm 2019, đối với u tân sinh giáp biên ở tụy, hóa trị tân bổ trợ trước phẫu thuật với FOLFIRINOX hoặc Gemcitabine kết hợp xạ trị liều 30 Gray trong 2 tuần.
 
 Sau hóa xạ trị 4 - 6 tuần, chụp lại CLVT nhằm đánh giá khả năng cắt được u.
@@ -6851,15 +6924,15 @@ C. Giải quyết hẹp đường thoát dạ dày bằng cách nối tắt vị
 
 Phẫu thuật cắt khối tá tụy là phẫu thuật phức tạp và thời gian mổ kéo dài. Vì tụy là cơ quan thành hóa sau phúc mạc, mạng lưới mạch máu quanh khối tá tụy nhiều và có biến thể, nhiều miệng nối được thực hiện, biến chứng sau mổ còn cao; do đó, phẫu thuật này thường được thực hiện bởi các phẫu thuật viên có kinh nghiệm tại các trung tâm hồi sức tốt. Việc chọn bệnh, chuẩn bị bệnh trước phẫu thuật và theo dõi sau mổ phải được thực hiện tốt.
 
-## 5.3.1. Chuẩn bị bệnh nhân trước phẫu thuật
+### 5.3.1. Chuẩn bị bệnh nhân trước phẫu thuật
 
 Hiện chưa có khuyến cáo dẫn lưu đường mật thường quy trước mổ vì lợi ích chưa rõ ràng nhưng lại có nguy cơ tăng các biến chứng [3]. Khi Bilirubin toàn phần trong máu tăng gây vàng da, thường dẫn đến rối loạn đông máu (do kém hấp thu vitamin K), viêm đường mật, khi đó thường đặt vấn đề ERCP hoặc PTBD để giải áp đường mật. Tuy nhiên, nhiều nghiên cứu cho thấy ERCP làm tăng biến chứng nhiễm khuẩn vết mổ và làm thay đổi chủng vi khuẩn đường mật, một vài tác giả do đó khuyến cáo ưu tiên dùng PTBD. Sau khi dẫn lưu giải áp đường mật, mỗi ngày Bilirubin toàn phần trong máu giảm trung bình 1-2 mg/dL.
 
 Chuẩn bị bệnh nhân trước mổ ngoài xem xét khả năng cắt được u, còn đánh giá các yếu tố nguy cơ rò tụy sau mổ.
 
-A. Yếu tố nguy cơ trước mổ: bệnh nhân trên 70 tuổi có liên quan đến tăng nguy cơ rò tụy. Tình trạng dinh dưỡng kém và BMI cao ($>25\text{ kg/m}^2$) làm tăng nguy cơ rò tụy. Albumin trước phẫu thuật thấp ($<4\text{ g/dl}$) liên quan tới biến chứng rò tụy.
+A. Yếu tố nguy cơ trước mổ: bệnh nhân trên 70 tuổi có liên quan đến tăng nguy cơ rò tụy. Tình trạng dinh dưỡng kém và BMI cao (> 25 kg/m²) làm tăng nguy cơ rò tụy. Albumin trước phẫu thuật thấp (< 4 g/dl) liên quan tới biến chứng rò tụy.
 
-B. Yếu tố trong và sau mổ: thang điểm về nguy cơ rò tụy (fistula risk score – FRS) được Callery mô tả đầu tiên vào năm 2013 bao gồm:
+B. Yếu tố trong và sau mổ: thang điểm về nguy cơ rò tụy (fistula risk score –FRS) được Callery mô tả đầu tiên vào năm 2013 bao gồm:
 
 | Các yếu tố nguy cơ | Điểm | Ý nghĩa |
 | :--- | :--- | :--- |
@@ -6870,40 +6943,38 @@ B. Yếu tố trong và sau mổ: thang điểm về nguy cơ rò tụy (fistula
 | - Adenocarcinoma tụy | 0 | |
 | - Ung thư Vater, tá tràng, OMC... | 1 | |
 | **Đường kính ống tụy (mm)** | | |
-| - $\ge 5$ | 0 | **0 điểm**: Không có nguy cơ rò tụy |
-| - 4 | 1 | **1-2 điểm**: nguy cơ thấp (6,6%) |
-| - 3 | 2 | **3-6 điểm**: nguy cơ trung bình (12,9%) |
-| - 2 | 3 | **7-10 điểm**: nguy cơ cao rò tụy (28,1%) |
-| - $\le 1$ | 4 | |
+| - ≥ 5 | 0 | 0 điểm: Không có nguy cơ rò tụy |
+| - 4 | 1 | 1-2 điểm: nguy cơ thấp (6,6%) |
+| - 3 | 2 | 3-6 điểm: nguy cơ trung bình (12,9%) |
+| - 2 | 3 | 7-10 điểm: nguy cơ cao rò tụy (28,1%) |
+| - ≤ 1 | 4 | |
 | **Lượng máu mất trong mổ (ml)** | | |
-| - $\le 400$ | 0 | |
+| - ≤ 400 | 0 | |
 | - 401-700 | 1 | |
 | - 701-1.000 | 2 | |
-| - $>1.000$ | 3 | |
+| - > 1.000 | 3 | |
 
 5.3.2. Phẫu thuật cắt khối tá tụy
 
-Mổ mở: các bệnh nhân đủ tiêu chuẩn sẽ được phẫu thuật cắt khối tá tụy. Phẫu thuật bao gồm cắt bỏ phần dưới dạ dày, phần đầu hồng tràng, cắt túi mật, ống gan chung, phần đầu tụy ngang mức bờ trái tĩnh mạch mạc treo tràng trên.
+Mổ mở: các bệnh nhân đủ tiêu chuẩn sẽ được phẫu thuật cắt khối tá tụy. Phẫu thuật bao gồm cắt bỏ phần dưới dạ dày, phần đầu hổng tràng, cắt túi mật, ống gan chung, phần đầu tụy ngang mức bờ trái tĩnh mạch mạc treo tràng trên.
 
-Sau đó sẽ tái lập lưu thông tiêu hóa với các miệng nối tụy - hồng tràng, ống gan chung - hồng tràng, dạ dày - hồng tràng. Có thể thực hiện các miệng nối kiểu Roux-en-Y hoặc kiểu chữ C như hình bên dưới.
+Sau đó sẽ tái lập lưu thông tiêu hóa với các miệng nối tụy - hổng tràng, ống gan chung - hổng tràng, dạ dày - hổng tràng. Có thể thực hiện các miệng nối kiểu Roux-en-Y hoặc kiểu chữ C như hình bên dưới.
 
-[Hình: A. U quanh bóng Vater trước phẫu thuật. B. Tái lập lưu thông tiêu hóa sau khi cắt bỏ khối tá tụy]
+[Hình: (A) U quanh bóng Vater trước phẫu thuật. (B) Tái lập lưu thông tiêu hóa sau khi cắt bỏ khối tá tụy]
 
 - Hướng dịch mật lưu thông cùng chiều nhu động
---- Hướng dịch mật lưu thông ngược chiều nhu động
-
-Hình 8. (A): U quanh bóng Vater trước phẫu thuật. (B): Tái lập lưu thông tiêu hóa sau khi cắt bỏ khối tá tụy
+- Hướng dịch mật lưu thông ngược chiều nhu động
 
 Mổ nội soi: phẫu thuật nội soi cắt khối tá tụy được thực hiện lần đầu tiên vào năm 1994 do Gagner và Pomp. Tiêu chuẩn chọn bệnh bao gồm các bệnh nhân đủ tiêu chuẩn phẫu thuật cắt khối tá tụy mổ mở, u không xâm lấn mạch máu và bệnh nhân không có nguy cơ cao phẫu thuật.
 
 Mổ robot: năm 2003, Giulianotti thực hiện phẫu thuật robot cắt khối tá tụy đầu tiên tại châu Âu. Tiêu chuẩn chọn bệnh giống phẫu thuật cắt khối tá tụy mổ mở, u không xâm lấn mạch máu và bệnh nhân không có nguy cơ cao phẫu thuật. Ưu điểm của phẫu thuật robot là giúp phẫu tích và khâu nối được các cấu trúc nằm trong sâu tốt hơn so với mổ nội soi.
 
 [Hình: Bệnh phẩm khối tá tụy (Nguồn: BV Chợ Rẫy).]
+- Hang môn vị
 - Túi mật
 - OMC dãn
 - Tá tràng
 - U bóng Vater
-- Hang môn vị
 - Tụy
 - Hỗng tràng
 
@@ -6917,9 +6988,9 @@ Tử vong sau cắt khối tá tụy đã giảm dưới 1% tại các trung tâ
 
 Rò tụy:
 - Theo nhóm nghiên cứu quốc tế về phẫu thuật tụy định nghĩa “Rò tụy khi amylase trong dịch dẫn lưu kể từ ngày hậu phẫu thứ ba gấp 3 lần giá trị amylase bình thường trong huyết thanh, với bất kỳ hàm lượng nào”. Có 3 mức độ rò tụy:
-  + Mức độ A: rò không triệu chứng, tăng amylase trong dịch ống dẫn lưu, điều trị nội khoa.
-  + Mức độ B: rò triệu chứng rõ, điều trị kháng sinh, dinh dưỡng, somatostatin, dẫn lưu ra da.
-  + Mức độ C: rò tụy kèm triệu chứng nặng, nhiễm khuẩn huyết, suy đa tạng. Thường phải phẫu thuật lại.
+    + Mức độ A: rò không triệu chứng, tăng amylase trong dịch ống dẫn lưu, điều trị nội khoa.
+    + Mức độ B: rò triệu chứng rõ, điều trị kháng sinh, dinh dưỡng, somatostatin, dẫn lưu ra da.
+    + Mức độ C: rò tụy kèm triệu chứng nặng, nhiễm khuẩn huyết, suy đa tạng. Thường phải phẫu thuật lại.
 
 Chậm tống xuất dạ dày:
 - Chậm tống xuất dạ dày là biến chứng phổ biến, kéo dài thời gian nằm viện và chi phí điều trị. Chậm tống xuất dạ dày định nghĩa: “Khi cần lưu thông mũi - dạ dày trên 10 ngày và một trong các tiêu chuẩn sau: nôn ói sau khi rút thông mũi dạ dày, cần sử dụng thuốc chống nôn ói sau ngày hậu phẫu 10, cần đặt lại thông mũi dạ dày, không thể cải thiện khẩu phần ăn từ ngày hậu phẫu 14”.
@@ -6940,11 +7011,11 @@ Rò mật:
 
 đòi hỏi phải can thiệp”. Rò mật được phân loại dựa vào mức độ rò và ảnh hưởng của biến chứng này lên tổng trạng bệnh nhân.
 
-**Rò dưỡng trấp:**
+*Rò dưỡng trấp:*
 
-Theo định nghĩa của Nhóm nghiên cứu quốc tế về phẫu thuật tụy, rò dưỡng trấp là khi có sự hiện diện của dịch đục như sữa trong ống dẫn lưu, dịch chọc hút hay dịch chảy ra từ vết mổ từ ngày hậu phẫu thứ ba, với nồng độ triglycerid trong dịch lớn hơn hoặc bằng 110 mg/dl (1,2 mmol/L). Rò dưỡng trấp được chia làm ba mức độ: mức độ A – chỉ thời gian nằm viện, dinh dưỡng đường tĩnh mạch hoàn toàn, duy trì ống dẫn lưu ổ bụng hoặc chọc dẫn lưu qua da, mức độ C – cần phẫu thuật lại, săn sóc đặc biệt hoặc tử vong.
+Theo định nghĩa của Nhóm nghiên cứu quốc tế về phẫu thuật tụy, rò dưỡng trấp là khi có sự hiện diện của dịch đục như sữa trong ống dẫn lưu, dịch chọc hút hay dịch chảy ra từ vết mổ từ ngày hậu phẫu thứ ba, với nồng độ triglycerid trong dịch lớn hơn hoặc bằng 110 mg/dl (1,2 mmol/L). Rò dưỡng trấp được chia làm ba mức độ: mức độ A – chỉ cần hạn chế ăn bằng đường miệng, không cần can thiệp đặc hiệu, mức độ B – làm tăng thời gian nằm viện, dinh dưỡng đường tĩnh mạch hoàn toàn, duy trì ống dẫn lưu ổ bụng hoặc chọc dẫn lưu qua da, mức độ C – cần phẫu thuật lại, săn sóc đặc biệt hoặc tử vong.
 
-## 5.5. Đái tháo đường sau phẫu thuật
+5.5. Đái tháo đường sau phẫu thuật
 
 Sau phẫu thuật cắt khối tá tụy, sẽ làm rối loạn cân bằng glucose nội môi bởi vì tụy là cơ quan chịu trách nhiệm điều chỉnh các hormon và điều chỉnh glucose máu. Đái tháo đường liên quan đến phẫu thuật tụy được định nghĩa là các trường hợp đái tháo đường xuất hiện sau các phẫu thuật cắt nhu mô tụy, tỷ lệ dao động từ 20-50%, tùy thuộc vào loại phẫu thuật cũng như bệnh lý nền [6]. Phẫu thuật cắt khối tá tụy có cắt vùng đầu tụy, mang theo các tiểu đảo tụy và làm xấu đi tình trạng ổn định đường huyết. Đái tháo đường thứ phát sau phẫu thuật thường được gọi là đái tháo đường típ 3c (để phân biệt với đái tháo đường típ 1 và 2 như đã biết).
 
@@ -6952,35 +7023,35 @@ Sau phẫu thuật cắt khối tá tụy, sẽ làm rối loạn cân bằng gl
 
 Đối với các trường hợp có bệnh lý nền đái tháo đường nguyên phát trước mổ, việc sử dụng insulin trước mổ càng làm xấu đi tình trạng cân bằng đường huyết sau mổ và làm khó khăn trong điều chỉnh đường huyết, giảm tỷ lệ thành công trong điều trị đái tháo đường sau mổ.
 
-## 6. TIÊN LƯỢNG
+6. TIÊN LƯỢNG
 
 Tỷ lệ sống còn 5 năm sau mổ đối với ung thư quanh bóng Vater có khả năng phẫu thuật triệt để là: 15% đối với ung thư đầu tụy, ung thư bóng Vater (39%), ung thư đoạn cuối ống mật chủ (27%) và ung thư tá tràng (59%) [10]. Tỷ lệ sống còn 10 năm sau mổ đối với các ung thư quanh bóng Vater được phẫu thuật triệt để là: 5% đối với ung thư tụy (tỷ lệ này cao hơn ở trường hợp giải phẫu bệnh sau mổ là u biệt hóa tốt và diện cắt không còn tế bào ung thư (14%) ), 25% đối với ung thư bóng Vater, 21% đối với ung thư đoạn cuối ống mật chủ và 59% đối với ung thư tá tràng.
 
-## 7. KẾT LUẬN
+7. KẾT LUẬN
 
 Triệu chứng lâm sàng của các bệnh nhân ung thư quanh bóng Vater không đặc hiệu và mơ hồ. Vàng da và sụt cân là các triệu chứng thường gặp nhưng thường ở giai đoạn muộn. Chẩn đoán thường dựa vào sự kết hợp giữa lâm sàng, hình ảnh học và giải phẫu bệnh trước hoặc trong mổ. Khó khăn chủ yếu khi đánh giá trước mổ đó là khối u còn có khả năng cắt được hay không và tình trạng bệnh nhân có cho phép phẫu thuật triệt để hay không. Mặc dù tỷ lệ tử vong sau mổ đã giảm dưới 1%, tuy nhiên biến chứng sau mổ còn cao, do đó vấn đề chọn lựa bệnh nhân trước phẫu thuật cắt khối tá tụy là rất quan trọng. Nếu ung thư quanh bóng Vater được phát hiện và điều trị sớm, sẽ giúp cải thiện tiên lượng bệnh và đem lại chất lượng cuộc sống tốt hơn.
 
-## TÀI LIỆU THAM KHẢO
+TÀI LIỆU THAM KHẢO
 
 1. Phan Minh Trí, Võ Nguyên Phong (2017). Nghiên cứu di căn hạch trong phẫu thuật triệt để điều trị ung thư bóng Vater. Luận văn thạc sĩ y học, Đại học Y Dược TP. Hồ Chí Minh.
-2. Phan Minh Trí, Nguyễn Quốc Vinh, Võ Trường Quốc và cộng sự (2017). Các yếu tố liên quan đến biến chứng sớm của phẫu thuật cắt khối tá tụy điều trị ung thư quanh bóng Vater. Tạp chí Y học thành phố Hồ Chí Minh; 26 (2):110-112.
+2. Phan Minh Trí, Nguyễn Quốc Vinh, Võ Trường Quốc và cộng sự (2017). Các yếu tố liên quan đến biến chứng sớm của phẫu thuật cắt khối tá tụy điều trị ung thư quanh bóng Vater. Tạp chí Y học thành phố Hồ Chí Minh; 26 (2): 110-112.
 3. Ashish Verma, Sunit Shukla, Nimisha Verma, et al (2015). Diagnosis, Preoperative Evaluation, and Assessment of Resectability of Pancreatic and Periampullelary Cancer. Indian J Surg; 77(5): 362-370.
 4. Diego A.S. Toesca, Amanda J. Koong (2018). Management of Borderline Resectable Pancreatic Cancer. International Journal of Radiation Oncology; 100(5): 1156-1170.
-5. Fan Lin, Prichard Jeffrey (2015). Pancreas, in Handbook of practical Immunohistochemistry frequently asked questions, $2^\text{nd}$ Edit, Springer Science, 237-282.
+5. Fan Lin, Prichard Jeffrey (2015). Pancreas, in Handbook of practical Immunohistochemistry frequently asked questions, 2nd Edit, Springer Science, 237-282.
 6. Jin Ming Wu, Te Wei Ho, Ting-Chung Kuo, et al (2015). Glycemic Change After Pancreaticoduodenectomy. Medicine; 94 (27): 1109 – 1116.
 7. Joshua Cornman, Daniel J.Holzwanger, Kyungmouk S.Lee, et al (2017). Celiac Plexus Block and Neurolysis in the Management of Chronic Upper Abdominal Pain. Semin Intervent Radiol; 34 (1): 376-386.
-8. Katherine E. Poruk, John L. Cameron (2019). Pancreatic and Periampullary Cancer, in Shackelford's Surgery of the Alimentary Tract, 8th Edit, Elsevier, 1136 – 1148.
+8. Katherine E. Poruk, John L. Cameron (2019). Pancreatic and Periampullary Cancer, in Shackelford’s Surgery of the Alimentary Tract, 8th Edit, Elsevier, 1136 – 1148.
 
 9. Makowski, Liza (2019). Correlation Between Quality of Life, Nutrition Status, and Disease Stage Among Pancreatic and Periampullary Cancer Patients. Master Degree of Public Health, University of North Carolina at Chapel Hill.
 10. Nicolas Bacalbasa, Irina Balescu, Simona Dima, et al (2019). Pancreatosplenectomy Em Bloc with vascular resections in Borderline resectable Pancreatic Cancer. In Vivo; 33 (6): 2303-2308.
 
-## CÂU HỎI LƯỢNG GIÁ
+CÂU HỎI LƯỢNG GIÁ
 
 1. Chọn đáp án SAI trong ung thư quanh bóng Vater?
 A. Đột biến gen BRCA2 làm tăng nguy cơ ung thư tụy.
 B. Tình trạng dinh dưỡng bệnh nhân lúc nhập viện có liên quan đến giai đoạn ung thư.
-C. Đối với ung thư đầu tụy, CA 19 – 19 trước mổ (trị số $(\text{CEA}x85 + \text{CA } 19 - 9) > 845$) có ý nghĩa tiên lượng thời gian sống còn sau mổ.
-D. Ung thư tụy chiếm tỷ lệ khoảng 5-10% tổng số ung thư quanh bóng Vater.
+C. Đối với ung thư đầu tụy, CA 19 – 19 trước mổ (trị số (CEAx85 + CA 19 – 9) > 845) có ý nghĩa tiên lượng thời gian sống còn sau mổ.
+D. Ung thư tụy chiếm tỷ lệ khoảng 5-10% tổng số ung thư quanh bóng Vater
 
 2. Theo AJCC Đánh giá giai đoạn T (tumor) của ung thư đoạn cuối ống mật chủ, chọn đáp án đúng?
 A. T1 - Ung thư khu trú trong lòng ống mật chủ.
@@ -6989,7 +7060,7 @@ C. T3 - Ung thư xâm lấn thành ống mật chủ dày dưới 5 mm
 D. T4 - U xâm lấn ĐM thân tạng, ĐM mạc treo tràng trên hay ĐM gan chung
 
 3. Chọn đáp án SAI trong ung thư quanh bóng Vater?
-A. Siêu âm có độ nhạy cao ($> 50\%$) trong phát hiện u quanh bóng Vater.
+A. Siêu âm có độ nhạy cao (> 50%) trong phát hiện u quanh bóng Vater.
 B. Hình ảnh ung thư tá tràng trên chụp CLVT là hẹp đoạn ngắn ở tá tràng, dạng vòng với bờ nhô ra, gây dãn tá tràng và dạ dày.
 C. EUS có vai trò nổi trội hơn chụp CLVT trong đánh giá xâm lấn mạch máu và di căn hạch.
 D. MRCP có thể giúp phân biệt viêm tụy mạn với ung thư tụy.
@@ -7004,93 +7075,97 @@ D. Đối với trường hợp quá chỉ định phẫu thuật, Gemcitabine k
 A. Dẫn lưu đường mật trước mổ bằng ERCP không làm tăng biến chứng nhiễm khuẩn sau mổ cắt khối tá tụy
 B. Thang điểm FRS bao gồm đánh giá nồng độ Albumin và Bilirubin trước phẫu thuật.
 C. Có thể hóa xạ trị tân bổ trợ trước phẫu thuật làm giảm giai đoạn bệnh.
-D. Biến chứng rò tụy có thể được chẩn đoán sớm bảo ngày hậu phẫu đầu tiên sau cắt khối tá tụy
+D. Biến chứng rò tụy có thể được chẩn đoán sớm bào ngày hậu phẫu đầu tiên sau cắt khối tá tụy
 
 # UNG THƯ TẾ BÀO GAN
-**Trần Công Duy Long, Lê Tiến Đạt**
+*Trần Công Duy Long, Lê Tiến Đạt*
 
-## MỤC TIÊU
+**MỤC TIÊU**
 1. Khai thác được từ người bệnh các yếu tố nguy cơ mắc bệnh ung thư tế bào gan.
 2. Thực hiện đúng chiến lược tầm soát ung thư tế bào gan ở bệnh nhân có yếu tố nguy cơ.
 3. Hiểu được vai trò của các chất chỉ điểm ung thư, chẩn đoán hình ảnh và sinh thiết u trong việc chẩn đoán ung thư tế bào gan.
 4. Vận dụng các triệu chứng lâm sàng và cận lâm sàng để xác định chẩn đoán ung thư tế bào gan theo phác đồ khuyến cáo.
 5. Chọn lựa được phương pháp điều trị phù hợp cho người bệnh có ung thư tế bào gan (Y6).
 
-**Từ khóa:** Ung thư tế bào gan (HCC); viêm gan siêu vi B, viêm gan siêu vi C (Viral Hepatitis); xơ gan (Cirrhosis); phẫu thuật cắt gan; ghép gan; hủy khối u gan bằng sóng điện cao tần (RFA); bơm hóa chất và làm tắc mạch nuôi khối u (TACE).
+Từ khóa: Ung thư tế bào gan (HCC); viêm gan siêu vi B, viêm gan siêu vi C (Viral Hepatitis); xơ gan (Cirrhosis); phẫu thuật cắt gan; ghép gan; hủy khối u gan bằng sóng điện cao tần (RFA); bơm hóa chất và làm tắc mạch nuôi khối u (TACE).
 
-## 1. MỞ ĐẦU
+**1. MỞ ĐẦU**
+
 Theo thống kê của tổ chức thống kê ung thư thế giới (GLOBOCAN), năm 2018, ung thư tế bào gan là loại bệnh ác tính có tỷ lệ mới mắc và tử vong cao nhất ở Việt Nam. Điều này có thể hiểu được do nước ta thuộc vùng dịch tễ của viêm gan siêu vi B và C, đây là một trong những yếu tố nguy cơ chính của loại ung thư này. Hơn nữa, đây là loại bệnh có biểu hiện lâm sàng rất kín đáo nên người mắc bệnh phát hiện muộn, đến bệnh viện ở giai đoạn trễ nên có tiên lượng xấu. Gần đây, nhờ sự phát triển của Y học, đặc điểm về bệnh được hiểu biết rõ hơn. Các chương trình tầm soát cho phép phát hiện ung thư sớm ở các nhóm nguy cơ. Các phương tiện chẩn đoán hình ảnh hiện đại có thể xác định bệnh mà không cần sinh thiết. Nhiều phương pháp điều trị mới, hiệu quả cao đáp ứng với từng bệnh nhân riêng biệt tùy theo mỗi giai đoạn bệnh.
 
 Nắm vững được các kiến thức mới này, giúp nhân viên y tế áp dụng trong thực tiễn lâm sàng, chăm sóc bệnh nhân tốt hơn, góp phần cải thiện tiên lượng của loại ung thư hay gặp.
 
-## 2. DỊCH TỄ VÀ CÁC YẾU TỐ NGUY CƠ GÂY BỆNH UNG THƯ TẾ BÀO GAN
-Ung thư gan đứng vị trí thứ sáu trong bảng xếp hạng các loại ung thư thường gặp trên thế giới (thứ năm ở giới nam và thứ chín ở giới nữ). Tuy vậy đây lại là loại ung thư gây tử vong nhiều thứ hai khi so sánh với các loại ung thư khác. Khoảng 75% ung thư gan thế giới tập trung ở châu Á. Đặc biệt, các nước Đông Á (Bắc Hàn, Nam Hàn, Việt Nam và Trung Quốc- chiếm hơn 50% số lượng thế giới) và lục địa Phi phía Nam Sahara là những nơi có mật độ ung thư gan cao nhất. Mỗi năm trên thế giới có khoảng 78.200 ca ung thư gan mới được chẩn đoán, phần lớn là ung thư tế bào gan. Trong số đó, khoảng 80% liên quan đến viêm gan siêu vi B hay C. Ung thư tế bào gan hay gặp ở nam hơn nữ giới (tỷ lệ khoảng 2/1 đến 4/1). Lứa tuổi mắc bệnh rất thay đổi tùy theo từng vùng, tùy thuộc vào độ tuổi nhiễm siêu vi viêm gan ở mỗi nơi.
+**2. DỊCH TỄ VÀ CÁC YẾU TỐ NGUY CƠ GÂY BỆNH UNG THƯ TẾ BÀO GAN**
 
-Tại Việt Nam, theo thống kê của Tổ chức thống kê Ung thư toàn cầu (GLOBCAN) năm 2018, ung thư tế bào gan là bệnh ác tính có tỷ lệ mới mắc cao nhất khi tính chung cho cả hai giới (cao nhất ở giới nam và xếp thứ năm ở giới nữ) đồng thời cũng là nguyên nhân gây tử vong nhiều nhất trong các loại ung thư. Hầu hết ung thư tế bào gan cũng liên quan đến viêm gan siêu vi, khoảng 60% liên quan đến viêm gan B, 20% liên quan đến viêm gan C và 20% liên quan đến các yếu tố nguy cơ còn lại như rượu, nấm mốc Aflatoxin, độc chất, bệnh gan nhiễm mỡ...)
+Ung thư gan đứng vị trí thứ sáu trong bảng xếp hạng các loại ung thư thường gặp trên thế giới (thứ năm ở giới nam và thứ chín ở giới nữ). Tuy vậy đây lại là loại ung thư gây tử vong nhiều thứ hai khi so sánh với các loại ung thư khác. Khoảng 75% ung thư gan thế giới tập trung ở châu Á. Đặc biệt, các nước Đông Á (Bắc Hàn, Nam Hàn, Việt Nam và Trung Quốc- chiếm hơn 50% số lượng thế giới) và lục địa châu Phi phía Nam Sahara là những nơi có mật độ ung thư gan cao nhất. Mỗi năm trên thế giới có khoảng 78.200 ca ung thư gan mới được chẩn đoán, phần lớn là ung thư tế bào gan. Trong số đó, khoảng 80% liên quan đến viêm gan siêu vi B hay C. Ung thư tế bào gan hay gặp ở nam hơn nữ giới (tỷ lệ khoảng 2/1 đến 4/1). Lứa tuổi mắc bệnh rất thay đổi tùy theo từng vùng, tùy thuộc vào độ tuổi nhiễm siêu vi viêm gan ở mỗi nơi.
+
+Tại Việt Nam, theo thống kê của Tổ chức thống kê Ung thư toàn cầu (GLOBOCAN) năm 2018, ung thư tế bào gan là bệnh ác tính có tỷ lệ mới mắc cao nhất khi tính chung cho cả hai giới (cao nhất ở giới nam và xếp thứ năm ở giới nữ) đồng thời cũng là nguyên nhân gây tử vong nhiều nhất trong các loại ung thư. Hầu hết ung thư tế bào gan cũng liên quan đến viêm gan siêu vi, khoảng 60% liên quan đến viêm gan B, 20% liên quan đến viêm gan C và 20% liên quan đến các yếu tố nguy cơ còn lại như rượu, nấm mốc Aflatoxin, độc chất, bệnh gan nhiễm mỡ...)
 
 ## 2.1. Nhiễm siêu vi viêm gan B
 
 Người nhiễm siêu vi viêm gan B có khả năng mắc ung thư tế bào gan cao hơn người bình thường 15-20 lần (dao động từ 5-103 lần) [9].
 
-Các yếu tố làm tăng nguy cơ ung thư trên người mang siêu vi B bao gồm giới nam, lớn tuổi, người gốc Á hoặc Phi, tiền sử gia đình ung thư tế bào gan, Nhiễm HBV từ mẹ truyền sang con, nồng độ virus cao ($HBsAg$ trên 1000 IU/mL, HBV-DNA trên 2000 IU/mL), típ gen HBV (Genotype C có nguy cơ cao hơn genotype A, B và D), thời gian nhiễm HBV, kháng nguyên vỏ HBeAg dương tính kéo dài, đồng nhiễm HCV, HIV hoặc HDV, xơ gan, một số yếu tố liên quan môi trường và lối sống (aflatoxin, uống rượu, hút thuốc lá) [3].
+Các yếu tố làm tăng nguy cơ ung thư trên người mang siêu vi B bao gồm giới nam, lớn tuổi, người gốc Á hoặc Phi, tiền sử gia đình ung thư tế bào gan, Nhiễm HBV từ mẹ truyền sang con, nồng độ virus cao (HBsAg trên 1000 IU/mL, HBV-DNA trên 2000 IU/mL), típ gen HBV (Genotype C có nguy cơ cao hơn genotype A, B và D), thời gian nhiễm HBV, kháng nguyên vỏ HBeAg dương tính kéo dài, đồng nhiễm HCV, HIV hoặc HDV, xơ gan, một số yếu tố liên quan môi trường và lối sống (aflatoxin, uống rượu, hút thuốc lá) [3].
 
 Điều trị kháng virus làm giảm nhưng không loại trừ nguy cơ ung thư tế bào gan ở bệnh nhân nhiễm HBV mạn có hoặc chưa có xơ gan.
 
 ## 2.2. Nhiễm siêu vi viêm gan C
 
-Các bệnh nhân có anti - HCV dương tính có nguy cơ bị ung thư tế bào gan cao gấp 17 lần người âm tính. Nhiễm siêu vi viêm gan C làm tăng nguy cơ ung thư tế bào gan thông qua quá trình xơ hóa gan. Nhiều nghiên cứu cho thấy từ khi nhiễm siêu vi viêm gan đến lúc xơ gan phải trải qua quá trình lâu dài. Sau 25-30 năm theo dõi những trường hợp nhiễm siêu vi viêm gan C người ta thấy tỷ lệ bệnh nhân có xơ gan là 15-35%. Từ khi xuất hiện xơ gan do siêu vi viêm gan C, tỷ lệ hình thành ung thư tế bào gan mỗi năm là $1-7\%$ [9].
+Các bệnh nhân có anti - HCV dương tính có nguy cơ bị ung thư tế bào gan cao gấp 17 lần người âm tính. Nhiễm siêu vi viêm gan C làm tăng nguy cơ ung thư tế bào gan thông qua quá trình xơ hóa gan. Nhiều nghiên cứu cho thấy từ khi nhiễm siêu vi viêm gan đến lúc xơ gan phải trải qua quá trình lâu dài. Sau 25-30 năm theo dõi những trường hợp nhiễm siêu vi viêm gan C người ta thấy tỷ lệ bệnh nhân có xơ gan là 15-35%. Từ khi xuất hiện xơ gan do siêu vi viêm gan C, tỷ lệ hình thành ung thư tế bào gan mỗi năm là 1 – 7% [9].
 
 Các yếu tố làm tăng nguy cơ ung thư tế bào gan trên bệnh nhân nhiễm HCV bao gồm giới nam, lớn tuổi, đồng nhiễm HIV, HBV, genotype 1b, đái tháo đường và béo phì cũng như uống rượu nhiều. Chưa có bằng chứng rõ ràng nồng độ HCV cao làm tăng nguy cơ tiến triển HCC.
 
-## 2.3. Bệnh gan nhiễm mỡ không do rượu
+2.3. Bệnh gan nhiễm mỡ không do rượu
 
-Bệnh gan nhiễm mỡ không do rượu (**Non-Alcoholic Fatty Liver Disease, NAFLD**) là 1 rối loạn rất phổ biến, đề cập đến các tình trạng tích tụ chất béo dư thừa trong gan ở những người uống ít hoặc không uống rượu.
+Bệnh gan nhiễm mỡ không do rượu (Non-Alcoholic Fatty Liver Disease, NAFLD) là 1 rối loạn rất phổ biến, đề cập đến các tình trạng tích tụ chất béo dư thừa trong gan ở những người uống ít hoặc không uống rượu.
 
 Gần đây, tại các nước tiên tiến có nhiều nghiên cứu cho thấy ung thư tế bào gan xảy ra phần lớn ở phụ nữ, những người béo phì hay đái tháo đường.
 
 Đái tháo đường làm tăng nguy cơ HCC từ 2-2,5 lần độc lập với các yếu tố nguy cơ khác. Thừa cân làm tăng nguy cơ HCC 17% trong khi béo phì làm tăng nguy cơ HCC 89%. HCC có tần suất cao hơn ở bệnh nhân béo phì và đề kháng insulin và có thể xuất hiện trên bệnh nhân có bệnh gan thoái hóa mỡ không do rượu không kèm xơ gan (AASLD 2017).
 
-## 2.4. Các bệnh gan khác
+2.4. Các bệnh gan khác
 
 Tất cả các bệnh gan nào dẫn đến xơ gan đều làm tăng nguy cơ ung thư tế bào gan. Bệnh nhân xơ gan do ứ sắt bẩm sinh có nguy cơ ung thư gan cao hơn gấp 20 lần. Các nguyên nhân gây xơ gan khác như xơ hóa đường mật nguyên phát, viêm gan tự miễn, bệnh Wilson cũng có khả năng tăng nguy cơ HCC.
 
-## 2.5. Aflatoxin
+2.5. Aflatoxin
 
-Aflatoxin là độc tố được sản sinh tự nhiên bởi một số loài nấm mốc **Aspergillus**. Trong đó đáng chú ý nhất là Aspergillus flavus và Aspergillus parasiticus. Vì 2 loại này tiết Aflatoxin B1. Đây là loại độc tố Aflatoxin mạnh nhất trong số 16 loại còn lại. Sau khi vào cơ thể người hoặc động vật, nó chủ yếu được gan xử lý và chuyển thành một loại dẫn xuất khác, có khả năng gắn chèn với DNA nên gây ra đột biến cho DNA. Vì chủ yếu được chuyển hóa ở gan, nên Aflatoxin B1 là chất gây ung thư gan mạnh nhất.
+Aflatoxin là độc tố được sản sinh tự nhiên bởi một số loài nấm mốc Aspergillus. Trong đó đáng chú ý nhất là Aspergillus flavus và Aspergillus parasiticus. Vì 2 loại này tiết Aflatoxin B1. Đây là loại độc tố Aflatoxin mạnh nhất trong số 16 loại còn lại. Sau khi vào cơ thể người hoặc động vật, nó chủ yếu được gan xử lý và chuyển thành một loại dẫn xuất khác, có khả năng gắn chèn với DNA nên gây ra đột biến cho DNA. Vì chủ yếu được chuyển hóa ở gan, nên Aflatoxin B1 là chất gây ung thư gan mạnh nhất.
 
-Aflatoxin có đặc tính là bền với nhiệt độ. Với nhiệt độ lớn hơn $160^\circ\text{C}$ thì Aflatoxin mới phân huỷ hoàn toàn. Điều này chứng tỏ là Aflatoxin vẫn tồn tại trong thức ăn đã qua chế biến. Những hạt lạc, ngô bị mốc khi được rang với nhiệt độ cao sẽ làm cho các bào tử nấm mốc bị tiêu diệt nhưng độc tố của chúng vẫn không bị phá hủy hoàn toàn. Chính vì thế, khi ngũ cốc đã bị mốc thì nên loại bỏ, vì dù có chế biến ở nhiệt độ cao thì ăn vào vẫn gây nguy hiểm. Con người bị phơi nhiễm với Aflatoxin không chỉ qua con đường trực tiếp là tiếp xúc với sản phẩm bị mốc, mà còn gián tiếp thông qua việc tiêu thụ thực phẩm từ gia súc, gia cầm ăn thức ăn chứa Aflatoxin.
+Aflatoxin có đặc tính là bền với nhiệt độ. Với nhiệt độ lớn hơn $160^{\circ}\text{C}$ thì Aflatoxin mới phân huỷ hoàn toàn. Điều này chứng tỏ là Aflatoxin vẫn tồn tại trong thức ăn đã qua chế biến. Những hạt lạc, ngô bị mốc khi được rang với nhiệt độ cao sẽ làm cho các bào tử nấm mốc bị tiêu diệt nhưng độc tố của chúng vẫn không bị phá hủy hoàn toàn. Chính vì thế, khi ngũ cốc đã bị mốc thì nên loại bỏ, vì dù có chế biến ở nhiệt độ cao thì ăn vào vẫn gây nguy hiểm. Con người bị phơi nhiễm với Aflatoxin không chỉ qua con đường trực tiếp là tiếp xúc với sản phẩm bị mốc, mà còn gián tiếp thông qua việc tiêu thụ thực phẩm từ gia súc, gia cầm ăn thức ăn chứa Aflatoxin.
 
-Aflatoxin cùng làm tăng nguy cơ mắc ung thư tế bào gan ở người nhiễm viêm gan B hay nghiện rượu [2, 8].
+Aflatoxin cũng làm tăng nguy cơ mắc ung thư tế bào gan ở người nhiễm viêm gan B hay nghiện rượu [2, 8].
 
-## 2.6. Rượu
+**2.6. Rượu**
 
 Có nhiều nghiên cứu cho thấy sử dụng rượu thường xuyên và kéo dài cũng là yếu tố nguy cơ ung thư tế bào gan [3]. Dùng rượu trên 80 gam mỗi ngày hơn 10 năm làm tăng nguy cơ mắc ung thư tế bào gan gấp 5 lần [8]. Một nghiên cứu ở đại học Michigan của Hoa Kỳ ghi nhận uống rượu 26 gam mỗi ngày trong ít nhất 25 năm là yếu tố độc lập làm tăng nguy cơ ung thư tế bào gan. Người nữ uống 2,3 gam rượu mỗi ngày đã làm tăng nguy cơ ung thư gan so với người bình thường. Người mắc viêm gan C uống rượu làm tăng nguy cơ xuất hiện ung thư gan [2].
 
-## 2.7. Thuốc lá
+**2.7. Thuốc lá**
 
 Nghiên cứu của Cơ quan Nghiên cứu Ung thư Quốc tế (IARC) năm 2004 cho thấy thuốc lá có liên quan và làm tăng nguy cơ mắc ung thư tế bào gan lên gấp 1,5 lần so với bình thường, nguyên nhân chưa thể xác định rõ.
 
-# 3. CHẨN ĐOÁN
+**3. CHẨN ĐOÁN**
 
-## 3.1. Chẩn đoán bệnh ung thư tế bào gan
+**3.1. Chẩn đoán bệnh ung thư tế bào gan**
 
-### 3.1.1. Khai thác tiền căn bệnh
+**3.1.1. Khai thác tiền căn bệnh**
 
 Cần khai thác tiền căn bản thân bệnh nhân về viêm gan B, C, uống rượu, tiếp xúc độc chất, Aflatoxin... thói quen ăn uống... tương tự, có thể khai thác được tiền căn gia đình về vấn đề viêm gan B, C, ung thư gan...
 
-### 3.1.2. Triệu chứng cơ năng và thực thể
+**3.1.2. Triệu chứng cơ năng và thực thể**
 
 Ở giai đoạn sớm, bệnh nhân ung thư tế bào gan giai đoạn sớm gần như không có triệu chứng lâm sàng. Nếu khai thác cẩn trọng, có thể ghi nhận các triệu chứng của tình trạng viêm và xơ gan như vàng da vàng mắt, báng bụng, tuần hoàn bàng hệ, sao mạch, lòng bàn tay son.
 
 Ở giai đoạn muộn, biểu hiện lâm sàng là tình trạng xơ gan mất bù với các triệu chứng báng bụng, phù chân, nôn ra máu do vỡ tĩnh mạch thực quản, thể trạng suy kiệt... Khám bụng có thể phát hiện gan to cứng chắc hoặc sờ thấy khối u ở vùng dưới sườn phải hay thượng vị trong trường hợp khối u xuất phát từ vùng thấp của gan...
 
-### 3.1.3. Cận lâm sàng
+**3.1.3. Cận lâm sàng**
 
-(1) Chất chỉ điểm ung thư: Alpha-fetophotein (AFP)
+(1) Chất chỉ điểm ung thư:
+
+Alpha-fetophotein (AFP)
 
 AFP là một loại protein do tế bào gan tiết ra trong giai đoạn nhau thai, chất này thường được dùng trong chẩn đoán HCC từ những năm 1970, khi hầu hết các bệnh nhân HCC được chẩn đoán ở giai đoạn muộn với nồng độ ngưỡng là 500 ng/mL. Sự gia tăng nồng độ AFP trong máu tùy thuộc vào kích thước, độ biệt hóa và mức độ xâm lấn của khối u. Do đó AFP không hữu ích để chẩn đoán các sang thương HCC nhỏ giai đoạn sớm. Bên cạnh đó, nồng độ AFP cũng tăng cao trong một số trường hợp viêm gan mạn tính, ung thư tinh hoàn, ung thư tế bào ống mật...
 
-Trong các phác đồ của Hội Nghiên cứu Bệnh Gan Châu Á Thái Bình Dương và Âu Mỹ, AFP không được xem có vai trò chẩn đoán xác định ung thư tế bào gan mặc dù ngưỡng nồng độ 200 ng/ml được cho có khả năng cảnh báo ung thư tế bào gan xuất hiện.
+Trong các phác đồ của Hội Nghiên cứu Bệnh Gan Châu Á Thái Bình Dương và Âu Mỹ, AFP không được xem có vai trò chẩn đoán xác định ung thư tế bào gan mặc dù ngưỡng nồng độ 200 ng/mL được cho có khả năng cảnh báo ung thư tế bào gan xuất hiện.
 
 Theo phác đồ chẩn đoán và điều trị ung thư tế bào gan của Bộ Y Tế Việt Nam năm 2020 [1], ngưỡng 400 ng/ml được xem mang giá trị chẩn đoán khi kết hợp với hình ảnh CLVT hay CHT điển hình ở những bệnh nhân không có viêm gan B hay C.
 
@@ -7104,26 +7179,24 @@ DCP còn có tên là PIVKA-II (Prothrombin induced by vitamin K absence-II), l�
 
 **Lens culinaris agglutinin-reatcive fraction of AFP (AFP-L3)**
 
-AFP-L3 là một biến thể fucosyl hóa của AFP, phản ứng với *Lens culianris agglutinin* A và có thể giúp phân biệt được tăng AFP do HCC hay do các bệnh gan lành tính. Với ngưỡng phần trăm 15%, AFP-L3 có thể đạt độ đặc hiệu lên đến 94-100%.
+AFP-L3 là một biến thể fucosyl hóa của AFP, phản ứng với Lens culianris agglutinin A và có thể giúp phân biệt được tăng AFP do HCC hay do các bệnh gan lành tính. Với ngưỡng phần trăm 15%, AFP-L3 có thể đạt độ đặc hiệu lên đến 94-100%.
 
 Hầu hết các tác giả trên thế giới ghi nhận kết hợp vai trò của ba chất chỉ điểm này làm tăng độ nhạy và đặc hiệu trong chẩn đoán ung thư tế bào gan.
 
-(2) **Siêu âm:**
+(2) Siêu âm:
 
 Siêu âm là phương tiện cận lâm sàng có vai trò chính trong việc tầm soát phát hiện ung thư. Đây là phương tiện chẩn đoán ít xâm hại, phổ biến, ít tốn kém, dễ dàng thực hiện cho mọi bệnh nhân. Ở các bệnh nhân có nguy cơ ung thư tế bào gan, siêu âm kết hợp các chất chỉ điểm ung thư được chỉ định thực hiện mỗi 3 đến 6 tháng nhằm phát hiện sớm các khối u khi mới xuất hiện, mang đến cơ hội điều trị triệt căn cho bệnh nhân. Siêu âm chẩn đoán ung thư tế bào gan có độ nhạy thay đổi từ 65-80%, độ đặc hiệu hơn 90%. Chính vì vậy siêu âm không phải là phương tiện chẩn đoán xác định bệnh, khi phát hiện được khối u bất thường trong gan, các phương tiện chẩn đoán hình ảnh chuyên sâu hơn được chỉ định.
 
 (3) Chụp cắt lớp vi tính hay chụp cộng hưởng từ:
-
 Đối với ung thư tế bào gan, khối u được cung cấp máu chủ yếu từ động mạch gan. Khác với nhu mô gan lành tính được cung cấp máu chủ yếu bởi tĩnh mạch cửa và một phần bởi động mạch gan. Dựa vào đặc tính này, các phương tiện chẩn đoán hình ảnh có thể phát hiện và xác định ung thư tế bào gan tương đối chính xác.
 
 Trên phim chụp cắt lớp vi tính (CLVT) hay cộng hưởng từ (CHT), ung thư tế bào gan điển hình thể hiện hình ảnh tăng bắt thuốc cản quang hay cản từ trong thì động mạch và thải thuốc trong thì tĩnh mạch hay thì muộn.
 
 Theo khuyến cáo của các Hiệp hội nghiên cứu bệnh gan trên thế giới, ở bệnh nhân mắc bệnh gan mạn tính hay xơ gan, nếu xuất hiện khối u biểu hiện các tính chất điển hình như trên khi chụp CLVT hay CHT thì có thể chẩn đoán xác định ung thư tế bào gan mà không cần sinh thiết.
 
-[Hình: Tính chất bắt thuốc điển hình của ung thư tế bào gan.]
+[Hình: Hình 1. Tính chất bắt thuốc điển hình của ung thư tế bào gan.]
 
-**(4) Sinh thiết gan:**
-
+(4) Sinh thiết gan:
 Sinh thiết gan để xác định bản chất giải phẫu bệnh khối u là tiêu chuẩn vàng để chẩn đoán bệnh ung thư. Tuy nhiên đối với khối u ở gan, khả năng sinh thiết phụ thuộc nhiều vào vị trí, kích thước khối u. Một số vị trí rất khó sinh thiết khối u qua da như ngay bên dưới cơ hoành, cạnh mạch máu lớn, sát bề mặt gan (nguy cơ thủng khối u, chảy máu, gieo rắc tế bào lạ vào khoang bụng).
 
 Khi kích thước khối u càng nhỏ, khả năng sinh thiết không chính xác càng cao.
@@ -7131,36 +7204,44 @@ Khi kích thước khối u càng nhỏ, khả năng sinh thiết không chính 
 Chính vì vậy sinh thiết gan chỉ được chỉ định khi sang thương ở gan không biểu hiện các tính chất điển hình trên hình ảnh chẩn đoán và kích thước lớn hơn 1-2 cm.
 
 (5) Các cận lâm sàng cần để đánh giá tình trạng di căn xa:
-Chụp CLVT ngực không cản quang có thể được chỉ định để tầm soát di căn phổi. Di căn hệ thống xương khớp có thể phát hiện dựa vào xạ hình xương. Chụp PET/CT là phương tiện hiệu quả để tầm soát, định vị di căn khắp bộ cơ thể, có thể chỉ định đối với một số trường hợp nguy cơ cao hay có triệu chứng nghi ngờ.
+Chụp CLVT ngực không cản quang có thể được chỉ định để tầm soát di căn phổi. Di căn hệ thống xương khớp có thể phát hiện dựa vào xạ hình xương. Chụp PET/CT là phương tiện hiệu quả để tầm soát, định vị di căn trên khắp bộ cơ thể, có thể chỉ định đối với một số trường hợp nguy cơ cao hay có triệu chứng nghi ngờ.
+
 (6) Các cận lâm sàng cần để đánh giá chức năng gan:
 Tình trạng viêm gan, chức năng chuyển hóa, tổng hợp, đào thải của gan được đánh giá qua các xét nghiệm máu: AST, ALT, Bilirubin (toàn phần, trực tiếp, gián tiếp), Albumin, Thời gian đông máu ngoại sinh (TQ, INR).
-Chức năng thanh lọc của gan có thể được đánh giá gián tiếp bằng cách đo độ thanh thải chất Indocyanine Green trong máu.
+
+Chức năng thanh lọc của gan có thể được đánh giá gián tiếp bằng cách đo độ thanh thải Indocyanine Green trong máu.
+
 Tình trạng tăng áp lực tĩnh mạch cửa có thể được đánh giá gián tiếp qua độ dãn của tĩnh mạch thực quản, kích thước lách, số lượng tiểu cầu trong máu...
 
 ## 3.2. Chẩn đoán phân biệt
 
 Một khối u ở gan có thể lành tính hay ác tính. Khối u ác tính có thể nguyên phát (phần lớn xuất phát từ tế bào gan hay ống mật) hay thứ phát do các ung thư từ nơi khác di căn đến như dạ dày, đại tràng, tụy...
+
 Trước đây, chẩn đoán ung thư tế bào gan dựa trên dấu hiệu lâm sàng như hội chứng ung thư tế bào gan và sờ thấy khối u gan cùng với xét nghiệm tăng cao của chất chỉ điểm ung thư AFP. Tuy nhiên, bệnh đã ở giai đoạn trễ, tiên lượng xấu.
+
 Ngày nay, chẩn đoán dựa trên tính chất bắt thuốc của khối u trên phim chụp cắt lớp điện toán hay phim cộng hưởng từ. Một vài trường hợp khối u nhỏ hay tính chất bắt thuốc không điển hình, sinh thiết gan được chỉ định thực hiện để xác định bản chất bệnh.
 
 ### 3.2.1. Chẩn đoán phân biệt với một số loại u lành tính thường gặp trong gan
 
-#### (1) U mạch máu gan (Hepatic Hemangioma):
-Là loại u lành tính hay gặp nhất ở gan, chiếm tỷ lệ 1-20% dân số, hay gặp ở giới nữ (tỷ lệ nữ/nam: 5/1). Cơ chế sinh bệnh của khối u không được rõ. Bên trong u mạch máu chủ yếu là các xoang tĩnh mạch và mô sợi. Loại khối u này có thể tăng kích thước nhưng rất chậm, không bao giờ hóa ác.
+(1) U mạch máu gan (Hepatic Hemangioma):
+Là loại u lành tính hay gặp nhất ở gan, chiếm tỷ lệ 1-20% dân số, hay gặp ở giới nữ (tỷ lệ nữ/nam: 5/1). Cơ chế sinh bệnh của khối u không được biết rõ. Bên trong u mạch máu chủ yếu là các xoang tĩnh mạch và mô sợi. Loại khối u này có thể tăng kích thước nhưng rất chậm, không bao giờ hóa ác.
+
 U mạch máu gan hầu như không có biểu hiện triệu chứng lâm sàng trừ khi khối u quá lớn có thể gây triệu chứng chèn ép các cấu trúc lân cận hay nhồi máu, xuất huyết bên trong u hay chảy máu vào xoang bụng nhưng rất hiếm gặp.
+
 Chẩn đoán xác định khối u hiện nay chủ yếu dựa vào hình ảnh CLVT hay CHT điển hình: ngấm thuốc cản quang hay cản từ dần dần từ ngoại vi vào trung tâm, gần như lấp đầy thuốc trong thì mao mạch. Hình ảnh tăng sáng của khối u trong thì T2 khi chụp cộng hưởng từ là dấu hiệu khá điển hình của loại u này.
 
 [Hình: U mạch máu gan ngấm thuốc cản quang dần qua các thì trên phim chụp CLVT.]
 
-Hình 2. U mạch máu gan ngấm thuốc cản quang dần qua các thì trên phim chụp CLVT.
-
 Không có chỉ định điều trị u mạch máu gan trừ khi có các triệu chứng hay biến chứng như nhồi máu, xuất huyết... dù rất hiếm gặp.
 
-(2) **Sang thương tăng sản dạng nốt (Focal Nodule Hyperplasia):**
+(2) Sang thương tăng sản dạng nốt (Focal Nodule Hyperplasia):
 
 Đây cũng là loại u lành tính hoàn toàn hay gặp thứ hai sau u mạch máu gan (khoảng 1% trong dân số), xuất hiện ở phụ nữ lứa tuổi 30-40, với tỷ lệ nữ/nam là 9/1. Bản chất khối u được nghĩ do phản ứng tăng sản tế bào gan thứ phát gây ra bởi dị dạng động mạch gan. Loại u lành này không bị tác động bởi yếu tố nội tiết, khác với u tuyến gan được mô tả ở bên dưới.
 
-[Hình: Hình chụp CLVT và giải phẫu bệnh đại thể khối u FNH.]
+[Hình: Body 5:1]
+[Hình: Body 75:1]
+[Hình: Body 5:1]
+[Hình: 08/14/2012]
 
 Hình 3. Hình chụp CLVT và giải phẫu bệnh đại thể khối u FNH.
 
@@ -7168,36 +7249,33 @@ Có thể chẩn đoán dựa vào hình ảnh CLVT hay CHT (tăng bắt thuốc
 
 Thông thường không cần điều trị loại u lành tính này.
 
-(3) **U tuyến gan (Hepatic Adenoma):** Đây là loại u lành tính cũng hay gặp ở phụ nữ, có mối liên quan chặt chẽ với việc dùng thuốc ngừa thai dạng uống. Tuy nhiên loại u này có thể lớn nhanh, gây ra các biến chứng xuất huyết, hoại tử hay nhồi máu, thậm chí chuyển ác tính.
+340
 
+(3) U tuyến gan (Hepatic Adenoma):
+Đây là loại u lành tính cũng hay gặp ở phụ nữ, có mối liên quan chặt chẽ với việc dùng thuốc ngừa thai dạng uống. Tuy nhiên loại u này có thể lớn nhanh, gây ra các biến chứng xuất huyết, hoại tử hay nhồi máu, thậm chí chuyển ác tính.
 Thông thường khối u này không có một đặc tính đặc trưng nào trên các hình ảnh CLVT hay CHT. Vì thế chẩn đoán thường được xác định dựa vào kết quả sinh thiết gan.
 
-[Hình: Hình chụp CLVT khối u tuyến gan.]
-
-**Hình 4.** Hình chụp CLVT khối u tuyến gan.
+[Hình: Hình 4. Hình chụp CLVT khối u tuyến gan.]
 
 Do đặc tính diễn tiến của khối u này nên phẫu thuật cắt bỏ được chỉ định cho các khối u lớn hơn 5cm sau khi xác định chẩn đoán.
 
-3.2.2. **Một số loại u ác tính hay gặp, cần chẩn đoán phân biệt với ung thư tế bào gan**
+3.2.2. Một số loại u ác tính hay gặp, cần chẩn đoán phân biệt với ung thư tế bào gan
 
-(1) **Ung thư tế bào ống mật trong gan:**
-
+(1) Ung thư tế bào ống mật trong gan:
 Đây là loại ung thư nguyên phát thường gặp thứ hai sau ung thư tế bào gan. Các khối u này thường không bắt thuốc cản quang hay cản từ trên hình ảnh CLVT hay CHT qua các thì chụp. Một số tính chất có thể gợi ý loại ung thư này như: gây co rút vỏ bao Glisson của gan, có dãn đường mật ngoại vi trên dòng, tăng nồng độ CA19.9 trong máu. Chẩn đoán xác định sau cùng thường dựa vào kết quả giải phẫu bệnh của mô u khi sinh thiết hay khi phẫu thuật cắt bỏ.
 
-[Hình: Hình chụp CLVT và đại thể ung thư đường mật trong gan.]
-
-**Hình 5.** Hình chụp CLVT và đại thể ung thư đường mật trong gan.
+[Hình: Hình 5. Hình chụp CLVT và đại thể ung thư đường mật trong gan.]
 
 341
 
 (2) Ung thư thứ phát (di căn gan, đa số từ tuyến và ống tiêu hóa):
 Các loại ung thư từ tuyến và ống tiêu hóa rất hay di căn đến gan qua tĩnh mạch cửa. Biểu hiện của khối u di căn ở gan trong các bệnh cảnh này thường đa ổ, bắt thuốc kém, chỉ tăng quang viền quanh khối u.
 
-[Hình: Hình 6. Ung thư gan thứ phát trên phim chụp CLVT thì động và tĩnh mạch.]
+[Hình: Ung thư gan thứ phát trên phim chụp CLVT thì động và tĩnh mạch.]
 
 Chẩn đoán thường dựa vào bệnh cảnh ung thư tiêu hóa đã được chẩn đoán trước đó, biểu hiện hình ảnh trên phim CLVT hay CHT, chất chỉ điểm ung thư (CEA, CA19.9, CA125...) nhưng đôi khi cũng cần sinh thiết để khẳng định chẩn đoán trước khi bắt đầu chọn lựa chiến lược điều trị phù hợp.
 
-## 3.3. Các phác đồ chẩn đoán ung thư tế bào gan
+3.3. Các phác đồ chẩn đoán ung thư tế bào gan
 
 Dựa trên các đặc tính về dịch tễ, bệnh học, lâm sàng và biểu hiện hình ảnh của ung thư tế bào gan trên các phương tiện chẩn đoán, Hiệp hội Nghiên cứu Bệnh gan Hoa Kỳ đã đưa ra phác đồ chẩn đoán một khối u trong gan [5, 8]. Chúng tôi nhận thấy đây là phác đồ hướng dẫn chẩn đoán tương đối dễ áp dụng vào thực tiễn hiện nay ở nước ta.
 
@@ -7240,7 +7318,7 @@ Trong bảng phân loại, thể trạng bệnh nhân được đánh giá dựa
 Bảng 1. Chỉ số ECOG, đánh giá thể trạng bệnh nhân
 
 | Phân độ | Tình trạng bệnh nhân |
-| --- | --- |
+| :--- | :--- |
 | 0 | Hoạt động đầy đủ, cuộc sống bình thường, không có triệu chứng |
 | 1 | Một ít triệu chứng, có thể hoạt động thể lực nhẹ, đi lại bình thường |
 | 2 | Có khả năng tự chăm sóc bản thân nhưng không thể hoạt động thể lực nặng, nằm tại giường < 50% thời gian |
@@ -7412,7 +7490,7 @@ Chúng tôi nhận thấy phác đồ điều trị của Hội Nghiên cứu B�
         - C --> Liệu pháp toàn thân
     - Có
       - A/B --> Ghép gan, Điều trị nâng đỡ
-      - C --> Điều trị nâng đỡ
+      - C --> Liệu pháp toàn thân, Điều trị nâng đỡ
 
 - Phương pháp điều trị chuẩn
 - Phương pháp điều trị được áp dụng rộng rãi ở vùng châu Á – Thái Bình Dương
@@ -7423,112 +7501,142 @@ Gần đây nhất, Bộ Y tế Việt Nam đã ban hành phác đồ hướng d
 
 Bên cạnh các yếu tố liên quan chế độ ăn uống và các bệnh gây ra tình trạng gan nhiễm mỡ, hầu hết ung thư tế bào gan ở Việt Nam liên quan đến bệnh viêm gan siêu vi mạn tính và xơ gan (70% viêm gan B, 20% viêm gan C). Nắm rõ các yếu tố dịch tễ và nguy cơ mắc bệnh có thể đề ra các giải pháp nhằm ngăn ngừa, cải thiện tiên lượng bệnh ung thư tế bào gan. Các vấn đề sau cần được tuyên truyền khuyến cáo thực hiện trong cộng đồng:
 
-1) Tuân thủ chủng ngừa tốt viêm gan siêu vi B ngay từ sơ sinh. Khuyến khích người lớn chủng ngừa nếu chưa thực hiện hay chủng ngừa chưa hiệu quả.
+1) Tuân thủ chủng ngừa tốt viêm gan siêu vi B ngay từ sơ sinh.
+Khuyến khích người lớn chủng ngừa nếu chưa thực hiện hay chủng ngừa chưa hiệu quả.
+
 2) Tầm soát viêm gan siêu vi (B và C) trong khám sức khỏe định kỳ.
+
 3) Điều trị sớm và hiệu quả viêm gan siêu vi B và C.
+
 4) Thực hiện tầm soát ung thư cho các trường hợp viêm gan B, C mạn hay xơ gan.
+
 5) Chẩn đoán sớm ung thư tế bào gan.
+
 6) Chọn lựa phương pháp điều trị hiệu quả.
+
 7) Tiếp tục theo dõi định kỳ sau điều trị và tiếp tục điều trị nếu ung thư gan tái phát.
 
 Làm thế nào để tầm soát, phát hiện sớm ung thư tế bào gan?
 - Cần xác định những bệnh nhân có yếu tố nguy cơ.
 - Tầm soát các bệnh nhân mang yếu tố nguy cơ theo chiến lược phù hợp.
 
-Các tác giả Nhật Bản phân bệnh nhân thành hai nhóm có nguy cơ mắc bệnh khác nhau, mỗi nhóm được thực hiện chương trình tầm soát khác nhau.
+Các tác giả Nhật bản phân bệnh nhân thành hai nhóm có nguy cơ mắc bệnh khác nhau, mỗi nhóm được thực hiện chương trình tầm soát khác nhau.
 
-**Nhóm nguy cơ rất cao mắc ung thư tế bào gan**
+Nhóm nguy cơ rất cao mắc ung thư tế bào gan
 - Xơ gan do nhiễm siêu vi viêm gan B mạn tính.
 - Xơ gan do nhiễm siêu vi viêm gan C mạn tính.
 
 Nhóm này cần tầm soát mỗi 3 tháng (siêu âm khảo sát gan và xét nghiệm các chất chỉ điểm ung thư), mỗi 6 tháng chụp cắt lớp điện toán hoặc cộng hưởng từ.
 
-**Nhóm nguy cơ cao mắc ung thư tế bào gan**
+Nhóm nguy cơ cao mắc ung thư tế bào gan
 - Nhiễm siêu vi viêm gan B mạn tính.
 - Nhiễm siêu vi viêm gan C mạn tính.
 - Xơ gan do nguyên nhân khác.
 
 Nhóm này cần tầm soát mỗi 6 tháng (siêu âm khảo sát gan và xét nghiệm chất chỉ điểm ung thư). Nếu phát hiện sang thương bất thường trong gan hay tăng nồng độ chất chỉ điểm ung thư, sẽ được chỉ định thực hiện chụp cắt lớp điện toán hoặc cộng hưởng từ.
 
-## 6. KẾT LUẬN
+6. KẾT LUẬN
 
 Ung thư tế bào gan là một trong những loại ung thư hay gặp nhất ở nước ta và có tiên lượng xấu. Bệnh gần như không có biểu hiện lâm sàng nên thường được phát hiện ở giai đoạn trễ. Tuy vậy, bệnh lại có một số đặc điểm đặc trưng về dịch tễ và có yếu tố nguy cơ mắc bệnh rất rõ như viêm gan B, C, xơ gan... Nắm rõ các đặc điểm này giúp tư vấn tầm soát nhằm phát hiện sớm ung thư. Phương tiện hình ảnh hiện đại cho phép xác định chẩn đoán khi khối u còn nhỏ nếu thể hiện các tính chất điển hình mà không cần sinh thiết. Nhiều phương pháp điều trị mới, cho phép thầy thuốc có thể chọn lựa, kết hợp sao cho phù hợp và mang kết quả tốt nhất với mỗi bệnh nhân riêng biệt. Nắm rõ các kiến thức về bệnh ung thư tế bào gan, áp dụng trong thực tiễn lâm sàng góp phần làm cải thiện tiên lượng của loại bệnh ác tính hay gặp này.
 
-## HƯỚNG DẪN ĐIỀU TRỊ CỦA HỘI NGHIÊN CỨU BỆNH GAN HOA KỲ 2018^[8] (Dựa theo bảng phân loại giai đoạn của BCLC)
+# HƯỚNG DẪN ĐIỀU TRỊ CỦA HỘI NGHỊÊN CỨU BỆNH GAN HOA KỲ 2018
+(Dựa theo bảng phân loại giai đoạn của BCLC)$^{[8]}$
 
-**Sơ đồ: HƯỚNG DẪN ĐIỀU TRỊ CỦA HỘI NGHIÊN CỨU BỆNH GAN HOA KỲ 2018 (Dựa theo bảng phân loại giai đoạn của BCLC)**
-- UNG THƯ BIỂU MÔ TẾ BÀO GAN --> Giai đoạn rất sớm (0)
-  - 1 u < 2 cm --> Chức năng gan tốt --> PS 0 --> Là ứng viên tiềm năng để ghép gan
-    - Không đúng --> Tiên lượng
-    - Đúng --> Bình thường --> Phẫu thuật
-    - Đúng --> Tăng --> Bình thường --> Phẫu thuật
-- UNG THƯ BIỂU MÔ TẾ BÀO GAN --> Giai đoạn sớm (A)
-  - 1 u hoặc 2-3 u < 3 cm --> Chức năng gan tốt --> PS 0
+**Sơ đồ: UNG THƯ BIỂU MÔ TẾ BÀO GAN**
+
+- UNG THƯ BIỂU MÔ TẾ BÀO GAN
+  - Giai đoạn rất sớm (0)
+    - 1 u < 2 cm
+    - Chức năng gan tốt
+    - PS 0
+    - Là ứng viên tiềm năng để ghép gan
+      - Không đúng --> Tiên lượng
+      - Đúng --> Phẫu thuật
+  - Giai đoạn sớm (A)
+    - 1 u hoặc 2-3 u < 3 cm
+    - Chức năng gan tốt
+    - PS 0
     - U đơn độc
-      - Áp lực TM cửa Bilirubin --> Bình thường --> Phẫu thuật
-      - Áp lực TM cửa Bilirubin --> Tăng --> Có bệnh lý kèm theo --> Không --> Ghép gan
-      - Áp lực TM cửa Bilirubin --> Tăng --> Có bệnh lý kèm theo --> Có --> Hủy u
-    - $\le 3$ u ($\le 3$ cm) --> TACE
-- UNG THƯ BIỂU MÔ TẾ BÀO GAN --> Giai đoạn trung gian (B)
-  - Nhiều U
-  - Không phẫu thuật được
-  - Chức năng gan tốt
-  - PS 0
+      - Là ứng viên tiềm năng để ghép gan
+        - Đúng --> Ghép gan
+    - ≤ 3 u (≤ 3 cm)
+      - Áp lực TM cửa Bilirubin
+        - Bình thường --> Có bệnh lý kèm theo
+          - Không --> Hủy u
+          - Có --> TACE
+        - Tăng --> TACE
+  - Giai đoạn trung gian (B)
+    - Nhiều U
+    - Không phẫu thuật được
+    - Chức năng gan tốt
+    - PS 0
+    - TACE
+  - Giai đoạn tiến triển (C)
+    - Xâm nhập tĩnh mạch cửa/di căn ngoài gan
+    - Chức năng gan tốt
+    - PS 1-2
+    - Điều trị toàn thân
+  - Giai đoạn cuối (D)
+    - Chức năng gan giai đoạn cuối
+    - PS 3-4
+    - Điều trị giảm nhẹ
+
+- Điều trị
+  - Hủy u
+  - Phẫu thuật
+  - Ghép gan
+  - Hủy u
   - TACE
-- UNG THƯ BIỂU MÔ TẾ BÀO GAN --> Giai đoạn tiến triển (C)
-  - Xâm nhập tĩnh mạch cửa/di căn ngoài gan
-  - Chức năng gan tốt
-  - PS 1-2
   - Điều trị toàn thân
-- UNG THƯ BIỂU MÔ TẾ BÀO GAN --> Giai đoạn cuối (D)
-  - Chức năng gan giai đoạn cuối
-  - PS 3-4
   - Điều trị giảm nhẹ
+  - Điều trị hiệu quả và ảnh hưởng đến tiên lượng
 
-Điều trị hiệu quả và ảnh hưởng đến tiên lượng:
-- Giai đoạn rất sớm (0): Hủy u --> > 5 năm
-- Giai đoạn sớm (A): Phẫu thuật / Ghép gan / Hủy u --> > 5 năm
-- Giai đoạn trung gian (B): TACE --> 2-5 năm
-- Giai đoạn tiến triển (C): Điều trị toàn thân --> > 1 năm
-- Giai đoạn cuối (D): Điều trị giảm nhẹ --> 3 tháng
+- Sống còn
+  - > 5 năm
+  - 2-5 năm
+  - > 1 năm
+  - 3 tháng
 
-HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ UNG THƯ BIỂU MÔ TẾ BÀO GAN CỦA BỘ Y TẾ VIỆT NAM 2020 (1)
+HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ UNG THƯ BIỂU MÔ TẾ BÀO GAN CỦA BỘ Y TẾ VIỆT NAM 2020 [1]
 
-**Sơ đồ: Hướng dẫn chẩn đoán và điều trị ung thư biểu mô tế bào gan**
+**Sơ đồ: Chẩn đoán và điều trị ung thư biểu mô tế bào gan**
+
 - Khối u gan
   - Hình ảnh CLVT/CHT điển hình
-    - AFP $\geq$ 400 ng/ml --> UNG THƯ BIỂU MÔ TẾ BÀO GAN
-    - AFP tăng nhưng < 400 ng/ml
-    - Có nhiễm HBV hay HCV --> UNG THƯ BIỂU MÔ TẾ BÀO GAN
+    - AFP ≥ 400 ng/ml --> UNG THƯ BIỂU MÔ TẾ BÀO GAN
+    - AFP tăng nhưng < 400 ng/ml --> Có nhiễm HBV hay HCV --> UNG THƯ BIỂU MÔ TẾ BÀO GAN
   - Hình ảnh CLVT/CHT điển hình + AFP không tăng
-  - Hình ảnh CLVT/CHT không điển hình --> Sinh thiết khối u gan
-    - (+) --> UNG THƯ BIỂU MÔ TẾ BÀO GAN
-    - (-) --> Sinh thiết lại --> (-) --> Theo dõi mỗi 2 tháng
+  - Hình ảnh CLVT/CHT không điển hình
+    - Sinh thiết khối u gan
       - (+) --> UNG THƯ BIỂU MÔ TẾ BÀO GAN
+      - (-) --> Sinh thiết lại
+        - (+) --> UNG THƯ BIỂU MÔ TẾ BÀO GAN
+        - (-) --> Theo dõi mỗi 2 tháng
 
 - UNG THƯ BIỂU MÔ TẾ BÀO GAN
   - Khối u cắt được, Không có di căn
     - Bất kể kích thước, PS 0-1
-      - Có huyết khối tĩnh mạch cửa cùng bên với u\*\*
+      - Có huyết khối tĩnh mạch cửa cùng bên với u**
       - Có di căn ngoài gan có thể lấy được
-        - Child A/B \*\*\* --> Cắt gan
-      - Dễ tiếp cận, Có bệnh lý đi kèm\* --> RFA, MWA
-    - $\le$ 3 u, $\le$ 3 cm, 1 u $\le$ 5 cm, PS 0-2
-      - Child A/B --> TACE, DEB-TACE, SIRT
-    - $\le$ 3 u, $\le$ 3 cm, 1 u $\le$ 5 cm, PS 0-2 --> Child C --> Ghép gan
+      - Child A/B *** --> Cắt gan
+    - ≤ 3 u, ≤ 3 cm; 1 u ≤ 5 cm; PS 0-2
+      - Child A/B --> Cắt gan
+      - Dễ tiếp cận, Có bệnh lý đi kèm* --> RFA, MWA
   - Khối u không cắt được, Không có di căn
+    - ≤ 3 u, ≤ 3 cm; 1 u ≤ 5 cm; PS 0-2
+      - Child A/B --> TACE, DEB-TACE, SIRT
+      - Child C --> Ghép gan
     - Nhiều u rải rác trong gan, PS 0-2
       - Child A/B --> TACE, DEB-TACE, SIRT
-    - PS 1-2, Child A/B --> Sorafenib, Lenvatinib
-    - Regorafenib, Cabozantinib, Nivolumab, Pembrolizumab
   - Khối u bất kể kích thước, Huyết khối tĩnh mạch cửa, Có di căn ngoài gan
+    - PS 1-2, Child A/B --> Sorafenib, Lenvatinib, Regorafenib, Cabozantinib, Nivolumab, Pembrolizumab
     - PS > 2, Child C --> Điều trị giảm nhẹ
 
-\* Bệnh lý đi kèm có nguy cơ cao khi phẫu thuật
-\*\* Xem xét chỉ định cắt gan
-\*\*\* Chức năng gan Child A đến B7
+* Bệnh lý đi kèm có nguy cơ cao khi phẫu thuật
+** Xem xét chỉ định cắt gan
+*** Chức năng gan Child A đến B7
 
-# TÀI LIỆU THAM KHẢO
+TÀI LIỆU THAM KHẢO
 
 1. Bộ Y Tế. Hướng dẫn chẩn đoán và điều trị ung thư tế bào gan. 2020.
 2. Bruix J, Sherman M, American Association for the Study of Liver D. Management of hepatocellular carcinoma: an update. Hepatology. 2011;53(3):1020-2.
@@ -7541,16 +7649,16 @@ HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ UNG THƯ BIỂU MÔ TẾ BÀO GAN
 9. CRAMP ME. HBV + HCV = HCC? Gut. 1999;45(2):168-9.
 10. Omata M, Cheng AL, Kokudo N, Kudo M, Lee JM, Jia J, et al. Asia-Pacific clinical practice guidelines on the management of hepatocellular carcinoma: a 2017 update. Hepatol Int. 2017;11(4):317-70.
 
-## CÂU HỎI LƯỢNG GIÁ
+CÂU HỎI LƯỢNG GIÁ
 
 1. Ung thư tế bào gan ở Việt Nam hiện nay chủ yếu xuất hiện ở bệnh nhân?
-   A. Xơ gan do rượu
-   B. Viêm gan siêu vi B mạn tính
-   C. Viêm gan siêu vi C mạn tính
-   D. Bệnh gan nhiễm mỡ
+A. Xơ gan do rượu
+B. Viêm gan siêu vi B mạn tính
+C. Viêm gan siêu vi C mạn tính
+D. Bệnh gan nhiễm mỡ
 
 2. Phương tiện tốt nhất để tầm soát ung thư tế bào gan ở bệnh nhân có nguy cơ là?
-   A. Xét nghiệm máu định lượng AFP
+A. Xét nghiệm máu định lượng AFP
 
 B. Siêu âm bụng
 C. Chụp cắt lớp vi tính
@@ -7579,8 +7687,8 @@ A. Ghép gan, cắt gan, TACE
 B. Cắt gan, ghép gan, RFA
 C. Cắt gan, hóa trị tại chỗ, RFA
 D. Cắt gan, TACE, RFA.
-- RFA: hủy khối ung thư gan bằng sóng điện cao tần
-- TACE: bơm hóa chất và làm tắc động mạch nuôi khối u
+RFA: hủy khối ung thư gan bằng sóng điện cao tần
+TACE: bơm hóa chất và làm tắc động mạch nuôi khối u
 
 7. Một bệnh nhân nam, 60 tuổi, khi đi kiểm tra sức khỏe, siêu âm bụng phát hiện một khối u trong gan, đường kính 4 cm, bạn cần cho bệnh nhân làm phương tiện cận lâm sàng ngay sau đó là?
 A. Xét nghiệm kiểm tra viêm gan siêu vi B, C, định lượng AFP
@@ -7610,60 +7718,59 @@ D. TACE
 # THOÁT VỊ BẸN ĐÙI
 Phạm Hữu Thông, Trần Quang Đại
 
-**MỤC TIÊU**
-
+MỤC TIÊU
 1. Định nghĩa được thoát vị bẹn đùi và nêu tần suất theo 5 yếu tố: Dân số, loại thoát vị vùng bẹn, giới, tuổi, biến chứng.
 2. Phát hiện được triệu chứng lâm sàng và cận lâm sàng của thoát vị bẹn đùi và biến chứng của nó.
 3. Thực hiện được tiếp cận chẩn đoán và điều trị thoát vị bẹn đùi chưa có biến chứng và có biến chứng.
-4. Trình bày được phân loại thoát vị bẹn theo **Hội Thoát vị Châu Âu (2007)** và ứng dụng phân loại này trên lâm sàng.
+4. Trình bày được phân loại thoát vị bẹn theo Hội Thoát vị Châu Âu (2007) và ứng dụng phân loại này trên lâm sàng.
 
 Từ khóa: Thoát vị bẹn gián tiếp, thoát vị bẹn trực tiếp, thoát vị đùi, thoát vị nghẹt, thoát vị trượt, thoát vị hai bên, thoát vị tái phát
 
-## 1. MỞ ĐẦU
-
+1. MỞ ĐẦU
 Khoang bụng giống như một cái hộp, bao gồm: ở phía trước là thành bụng trước, hai bên là vùng hông, ở phía sau là lưng, ở trên là cơ hoành và ở dưới là sàn chậu. Thoát vị (TV) có thể xảy ra ở tất cả các thành của cái hộp. Có khoảng 5% dân số bị thoát vị thành bụng, trong đó đa số xảy ra ở vùng bẹn (chiếm 75%). Hai phần ba là thoát vị bẹn gián tiếp (TVBGT), phần còn lại là thoát vị bẹn trực tiếp (TVBTT), thoát vị đùi (TVĐ) chỉ chiếm khoảng 3% trong thoát vị bẹn.
 
 Thoát vị bẹn (TVB) ở nam nhiều hơn nữ 25 lần. Thoát vị bẹn gián tiếp thường gặp trong cả hai giới. Ở nam thoát vị bẹn gián tiếp nhiều hơn thoát vị bẹn trực tiếp 2 lần. Thoát vị bẹn trực tiếp ít gặp ở nữ giới. Mặc dù thoát vị đùi ở nữ nhiều hơn nam, nhưng thoát vị bẹn vẫn thường gặp nhất ở nữ giới. Thoát vị đùi hiếm gặp ở nam giới.
 
-Tần suất thoát vị tăng theo tuổi, đặc biệt là thoát vị bẹn, thoát vị rốn và thoát vị đùi. Thoát vị bẹn gián tiếp và thoát vị đùi thường gặp ở bên phải hơn (do sự phát triển của phôi thai và do đại tràng chậu hông). *Strangulated herniae*
+Tần suất thoát vị tăng theo tuổi, đặc biệt là thoát vị bẹn, thoát vị rốn và thoát vị đùi. Thoát vị bẹn gián tiếp và thoát vị đùi thường gặp ở bên phải hơn (do sự phát triển của phôi thai và do đại tràng chậu hông). *Strangulated herni hernias*
 
 Thoát vị nghẹt là biến chứng thường gặp nhất trong thoát vị, chiếm 1-3% trong thoát vị bẹn. Thoát vị nghẹt thường gặp nhất trong thoát vị bẹn gián tiếp, tuy nhiên thoát vị đùi có tỷ lệ nghẹt rất cao (15-20%).
 
 Tuy thoát vị bẹn là bệnh chiếm phần lớn ở khu vực này, nhưng các bệnh khác như viêm tinh hoàn, xoắn tinh hoàn... cũng là những bệnh cấp cứu quan trọng, cần phải chẩn đoán chính xác và điều trị kịp thời.
 
+Hỏi bệnh --> sờ nắn --> n. pháp --> CĐHA
+
 Các bệnh lý ở khu vực này có thể được chẩn đoán chính xác nhờ vào sự hỏi bệnh, thăm khám cẩn thận bằng sờ nắn, làm các nghiệm pháp và chẩn đoán hình ảnh.
 
-## 2. GIẢI PHẪU VÙNG BẸN
+# 2. GIẢI PHẪU VÙNG BẸN
 
-### 2.1. Giải phẫu vùng bẹn nhìn từ trước
+## 2.1. Giải phẫu vùng bẹn nhìn từ trước
 
-**Vùng bẹn**: được giới hạn phía trên là đường nối hai gai chậu trước trên, phía dưới là đường kẻ ngang qua hai củ mu, bên trong là bờ ngoài cơ thẳng bụng và bao của nó. Nếp bẹn nằm trong vùng này, bên dưới nếp bẹn tương ứng là dây chằng bẹn (hình 19). Thành bụng trong vùng này bao gồm: da, mô dưới da, cân nông, cân cơ chéo bụng ngoài, cơ chéo bụng trong, cơ ngang bụng, mạc ngang, khoang tiền phúc mạc và phúc mạc; vùng giữa bụng có cơ thẳng bụng và hai lá cân trước và sau kết nối với hai lá cân cơ thẳng bụng bên kia tạo thành đường trắng giữa (hình 18).
+Vùng bẹn: được giới hạn phía trên là đường nối hai gai chậu trước trên, phía dưới là đường kẻ ngang qua hai củ mu, bên trong là bờ ngoài cơ thẳng bụng và bao của nó. Nếp bẹn nằm trong vùng này, bên dưới nếp bẹn tương ứng là dây chằng bẹn (hình 19). Thành bụng trong vùng này bao gồm: da, mô dưới da, cân nông, cân cơ chéo bụng ngoài, cơ chéo bụng trong, cơ ngang bụng, mạc ngang, khoang tiền phúc mạc và phúc mạc; vùng giữa bụng có cơ thẳng bụng và hai lá cân trước và sau kết nối với hai lá cân cơ thẳng bụng bên kia tạo thành đường trắng giữa (hình 18).
 
-**Ống bẹn** (hình 1, 2, 3, 4): là một lộ trình tạo ra giữa các lớp cân, cơ, mạc khác nhau của thành bụng. Ống bẹn nằm chéo từ ngoài vào trong, từ sau ra trước và từ trên xuống dưới, dài khoảng 3-5 cm. Ống bẹn có bốn thành: thành trước – là cân cơ chéo bụng ngoài; thành sau – là mạc ngang; thành trên – là bờ dưới cơ chéo trong và cơ ngang bụng; thành dưới – là dây chằng bẹn và dải chậu mu (iliopubic tract); lỗ bẹn nông – là giới hạn bởi hai trụ của cân cơ chéo bụng ngoài và lỗ bẹn sâu – là một chỗ lõm trên mạc ngang, các thành phần của thừng tinh làm mạc ngang lõm xuống ở vị trí này để lộn vào cùng với mạc ngang, lỗ bẹn sâu nằm khoảng 18 mm trên động mạch chậu ngoài và nằm ở phần giữa dây chằng bẹn; bờ dưới của lỗ bẹn sâu là dải chậu mu; bờ trên của lỗ bẹn sâu được hình thành bởi cân cơ ngang bụng; bờ bên ngoài của lỗ bẹn sâu được kết nối với cơ ngang bụng, tạo thành một cơ chế màn trập để hạn chế sự phát triển của thoát vị gián tiếp. Ống bẹn cho thừng tinh (ở nam giới) hay dây chằng tròn (ở nữ giới) và vài nhánh thần kinh đi qua.
+Ống bẹn (hình 1, 2, 3, 4): là một lộ trình tạo ra giữa các lớp cân, cơ, mạc khác nhau của thành bụng. Ống bẹn nằm chéo từ ngoài vào trong, từ sau ra trước và từ trên xuống dưới, dài khoảng 3-5 cm. Ống bẹn có bốn thành: thành trước – là cân cơ chéo bụng ngoài; thành sau – là mạc ngang; thành trên – là bờ dưới cơ chéo trong và cơ ngang bụng; thành dưới – là dây chằng bẹn và dải chậu mu (iliopubic tract) – là giới hạn bởi hai trụ của cân cơ chéo bụng ngoài và lỗ bẹn sâu – là một chỗ lõm trên mạc ngang, các thành phần của thừng tinh làm mạc ngang lõm xuống ở vị trí này để lộn vào cùng với mạc ngang, lỗ bẹn sâu nằm khoảng 18 mm trên động mạch chậu ngoài và nằm ở phần giữa dây chằng bẹn; bờ dưới của lỗ bẹn sâu là dải chậu mu; bờ trên của lỗ bẹn sâu được hình thành bởi cân cơ ngang bụng; bờ bên ngoài của lỗ bẹn sâu được kết nối với cơ ngang bụng, tạo thành một cơ chế màn trập để hạn chế sự phát triển của thoát vị gián tiếp. Ống bẹn cho thừng tinh (ở nam giới) hay dây chằng tròn (ở nữ giới) và vài nhánh thần kinh đi qua.
 
 Thần kinh ở vùng bẹn gồm có:
-- **Nhánh sinh dục của thần kinh sinh dục đùi**: là một dây thần kinh hỗn hợp xuất phát từ thần kinh thắt lưng 1 và 2. Trong ống bẹn, nhánh thần kinh sinh dục nằm trên dải chậu mu (phía sau ngoài của thừng tinh), lẫn trong cơ biu cùng với bó mạch cơ bìu.
-- **Thần kinh chậu bẹn**: là dây thần kinh cảm giác từ thần kinh thắt lưng 1, đi ra bề mặt cơ chéo bụng trong ở gai chậu trước trên, rồi đi theo ống bẹn, nằm ở bề mặt thừng tinh, dưới cân cơ chéo bụng ngoài, sau đó đi ra khỏi lỗ bẹn nông để đến lớp dưới da và da của vùng bìu.
-
-**Thần kinh chậu hạ vị**: cũng là một dây thần kinh cảm giác, xuất phát từ thần kinh ngực 12 và thắt lưng 1. Trong vùng bẹn, thần kinh này nằm ở bề mặt cơ chéo bụng
+- Nhánh sinh dục của thần kinh sinh dục đùi: là một dây thần kinh hỗn hợp xuất phát từ thần kinh thắt lưng 1 và 2. Trong ống bẹn, nhánh thần kinh sinh dục nằm trên dải chậu mu (phía sau ngoài của thừng tinh), lẫn trong cơ bìu cùng với bó mạch cơ bìu.
+- Thần kinh chậu bẹn: là dây thần kinh cảm giác từ thần kinh thắt lưng 1, đi ra bề mặt cơ chéo bụng trong ở gai chậu trước trên, rồi đi theo ống bẹn, nằm ở bề mặt thừng tinh, dưới cân cơ chéo bụng ngoài, sau đó đi ra khỏi lỗ bẹn nông để đến lớp dưới da và da của vùng bìu.
+- Thần kinh chậu hạ vị: cũng là một dây thần kinh cảm giác, xuất phát từ thần kinh ngực 12 và thắt lưng 1. Trong vùng bẹn, thần kinh này nằm ở bề mặt cơ chéo bụng.
 
 trong, đến gần bờ ngoài cơ thẳng bụng thì đâm xuyên cân cơ chéo bụng ngoài để đến lớp dưới da và da ở vùng hạ vị.
 
-**Thành trước**: tạo nên bởi phần trước cân cơ chéo bụng ngoài mà các sợi trong đến bao cơ thẳng bụng và đường trắng giữa; và các sợi dưới đến xương mu bằng cách tách xa thành hai bó tạo thành hai trụ của lỗ bẹn nông. Cân cơ chéo bụng ngoài tận hết ở dưới tạo nên dây chằng bẹn đi từ gai chậu trước trên đến củ mu. Các sợi của cân cơ chéo bụng ngoài quặt xuống dưới và ra sau để bám vào mào lược xương mu, các sợi này tạo nên dây chằng khuyết (hay dây chằng Gimbernat).
+Thành trước: tạo nên bởi phần trước cân cơ chéo bụng ngoài mà các sợi trong đến bao cơ thẳng bụng và đường trắng giữa; và các sợi dưới đến xương mu bằng cách tách xa thành hai bó tạo thành hai trụ của lỗ bẹn nông. Cân cơ chéo bụng ngoài tận hết ở dưới tạo nên dây chằng bẹn đi từ gai chậu trước trên đến củ mu. Các sợi của cân cơ chéo bụng ngoài quặt xuống dưới và ra sau để bám vào mào lược xương mu, các sợi này tạo nên dây chằng khuyết (hay dây chằng Gimbernat).
 
-**Thành sau**: tạo nên bởi mạc ngang, tức là tấm mạc che phủ sau cơ ngang bụng, tiếp tục đi xuống phía dưới để tận hết ở bên ngoài của mạc chậu, ở giữa và bên trong trên bờ sau của dây chằng bẹn.
+Thành sau: tạo nên bởi mạc ngang, tức là tấm mạc che phủ sau cơ ngang bụng, tiếp tục đi xuống phía dưới để tận hết ở bên ngoài của mạc chậu, ở giữa và bên trong trên bờ sau của dây chằng bẹn.
 
-**Thành dưới**: tạo nên do sự kết hợp của dây chằng bẹn với dải chậu mu và mạc ngang.
+Thành dưới: tạo nên do sự kết hợp của dây chằng bẹn với dải chậu mu và mạc ngang.
 
 Dây chằng bẹn là phần thấp nhất của cân cơ chéo bụng ngoài, bám bên ngoài ở gai chậu trước trên và bên trong ở củ mu. Dải chậu mu là một dải cân được hình thành bởi mạc ngang và cân cơ ngang bụng. Dải chậu mu nằm sau dây chằng bẹn là một cấu trúc chủ yếu trong sự vững chắc của ống bẹn và lỗ đùi.
 
-**Thành trên**: tạo nên bởi bờ dưới của cơ chéo bụng trong và cơ ngang bụng, hoà lẫn với nhau thành gân kết hợp, cấu trúc này chỉ chiếm khoảng 5-10%. Bờ dưới cân cơ chéo bụng trong hoà vào cân cơ thẳng bụng càng gần củ mu thì thoát vị ít khi xảy ra.
+Thành trên: tạo nên bởi bờ dưới của cơ chéo bụng trong và cơ ngang bụng, hoà lẫn với nhau thành gân kết hợp, cấu trúc này chỉ chiếm khoảng 5-10%. Bờ dưới cân cơ chéo bụng trong hoà vào cân cơ thẳng bụng càng gần củ mu thì thoát vị ít khi xảy ra.
 
-**Ống đùi (hình 8)**
+Ống đùi (hình 8)
 
 Ranh giới của ống đùi là dải chậu mu ở trước, dây chằng lược ở phía sau, và tĩnh mạch đùi ở phía ngoài. Củ mu tạo thành đỉnh của tam giác ống đùi. Ống này thường chứa mô liên kết và mô bạch huyết.
 
-## 2.2. Giải phẫu vùng bẹn qua ngả sau
+2.2. Giải phẫu vùng bẹn qua ngả sau
 
 [Hình 1. Cân cơ chéo bụng ngoài (mũi tên) A - gần đầu, B - gần chân.]
 
@@ -7671,58 +7778,57 @@ Ranh giới của ống đùi là dải chậu mu ở trước, dây chằng lư
 
 [Hình 3. Túi thoát vị gián tiếp. 6 - thừng tinh, 10 - ống dẫn tinh, 11 - túi thoát vị gián tiếp.]
 
-[Hình: Hình 4. Ống bẹn]
-Hình 4. Ống bẹn. 1-cân chéo bụng ngoài (đã cắt), 2-bờ dưới cơ chéo bụng trong, 3-bờ ngoài cơ thẳng bụng, 4-lỗ bẹn sâu, 5-bó mạch thượng vị dưới, 6-thừng tinh, 7-dây chằng bẹn, 8-tam giác Hesselbach.
+361
 
-[Hình: Hình 5. Tam giác Hesselbach]
-Hình 5. Tam giác Hesselbach. 1-cân chéo bụng ngoài (đã cắt), 2-bờ dưới cơ chéo bụng trong, 3-bờ ngoài cơ thẳng bụng, 4-lỗ bẹn sâu, 5-bó mạch thượng vị dưới, 6-thừng tinh, 7-dây chằng bẹn, 8-tam giác Hesselbach, 9-củ mu.
+[Hình: Hình 4. Ống bẹn. 1-cân chéo bụng ngoài (đã cắt), 2-bờ dưới cơ chéo bụng trong, 3-bờ ngoài cơ thẳng bụng, 4-lỗ bẹn sâu, 5-bó mạch thượng vị dưới, 6-thừng tinh, 7-dây chằng bẹn, 8-tam giác Hesselbach.]
 
-## 2.2.1. Phúc mạc (hình 6)
+[Hình: Hình 5. Tam giác Hesselbach. 1-cân chéo bụng ngoài (đã cắt), 2-bờ dưới cơ chéo bụng trong, 3-bờ ngoài cơ thẳng bụng, 4-lỗ bẹn sâu, 5-bó mạch thượng vị dưới, 6-thừng tinh, 7-dây chằng bẹn, 8-tam giác Hesselbach, 9-củ mu.]
 
-Phúc mạc của thành bụng trước có các nếp gấp, do hậu quả của các cấu trúc nằm bên dưới. Các nếp gấp này cấu tạo bởi: *(1)* Dây chằng rốn giữa (dây treo bàng quang): là di tích của ống niệu rốn, nằm từ đỉnh bàng quang đến rốn trên đường giữa; *(2)* Dây chằng rốn trong: là động mạch rốn trong thời kỳ phôi thai, bị tắc lại sau khi sinh; và *(3)* Dây chằng rốn ngoài: cấu tạo bởi mạch máu thượng vị dưới. Giữa các nếp gấp này là các hố: *Hố trên bàng quang*, nằm giữa nếp gấp của ống niệu rốn (nếp rốn giữa) và nếp gấp của động mạch rốn (nếp rốn trong); *Hố bẹn trong* (hố giữa), nằm giữa nếp rốn trong và nếp gấp mạch máu thượng vị dưới (nếp rốn ngoài), đây là nơi xảy ra thoát vị bẹn trực tiếp; *Hố bẹn ngoài*, nằm ngoài nếp rốn ngoài, đây là nơi xảy ra thoát vị bẹn gián tiếp.
+### 2.2.1. Phúc mạc (hình 6)
 
-[Hình: Hình 6. Vị trí thoát vị nhìn từ sau]
+Phúc mạc của thành bụng trước có các nếp gấp, do hậu quả của các cấu trúc nằm bên dưới. Các nếp gấp này cấu tạo bởi: (1) Dây chằng rốn giữa (dây treo bàng quang): là di tích của ống niệu rốn, nằm từ đỉnh bàng quang đến rốn trên đường giữa; (2) Dây chằng rốn trong: là động mạch rốn trong thời kỳ phôi thai, bị tắc lại sau khi sinh; và (3) Dây chằng rốn ngoài: cấu tạo bởi mạch máu thượng vị dưới. Giữa các nếp gấp này là các hố: Hố trên bàng quang, nằm giữa nếp gấp của ống niệu rốn (nếp rốn giữa) và nếp gấp của động mạch rốn (nếp rốn trong); Hố bẹn trong (hố giữa), nằm giữa nếp rốn trong và nếp gấp mạch máu thượng vị dưới (nếp rốn ngoài), đây là nơi xảy ra thoát vị bẹn trực tiếp; Hố bẹn ngoài, nằm ngoài nếp rốn ngoài, đây là nơi xảy ra thoát vị bẹn gián tiếp.
+
+[Hình: Hình 6. Vị trí thoát vị nhìn từ sau.]
 - Động mạch thượng vị dưới (nếp rốn ngoài)
 - Nếp rốn trong
 - Vị trí thoát vị bẹn trực tiếp
 - Lỗ bẹn sâu (vị trí TVGT)
 - Động mạch và tĩnh mạch tinh hoàn
 
-Hình 6. Vị trí thoát vị nhìn từ sau.
-
 2.2.2. Khoang tiền phúc mạc (hình 8)
-
 Bao gồm khoang Retzius và khoang Bogros.
-
 Khoang Retzius được mô tả năm 1858 bởi Retzius, là nhà giải phẫu Thụy Điển. Khoang này nằm giữa mạc ngang và xương mu ở phía dưới và bàng quang ở phía sau, bên trong có chứa dây chằng mu-bàng quang của sàn chậu, dây chằng này có thể cắt bỏ được.
-
 Khoang Bogros được mô tả năm 1823 bởi Bogros, là nhà giải phẫu và phẫu thuật người Pháp. Khoang này là một khoang hình tam giác, giới hạn bên ngoài là mạc chậu; bên dưới là mạc ngang; và bên trong là phúc mạc thành. Khoang Bogros là sự mở rộng ra bên ngoài của khoang Retzius, quan sát rõ ràng trên mặt phẳng cắt ngang qua vùng bẹn.
 
 2.2.3. Mạc ngang
-
 Là một màng sợi, nằm sâu và bền, đóng kín thành sau lỗ cơ lược. Ở trong, mạc ngang đóng kín tam giác Hesselbach (giới hạn bên ngoài là mạch máu thượng vị dưới, bên dưới là dây chằng bẹn và dải chậu mu và bên trong là bờ ngoài cơ thẳng bụng) (hình 5). Tam giác Hesselbach là nơi xảy ra thoát vị bẹn trực tiếp. Lúc mở mạc ngang trong vùng tam giác này từ đường trước, phẫu thuật viên ngay lập tức đến khoang Bogros và dây chằng lược.
 
 Lỗ cơ lược (musculopectineal) (hình 8): năm 1956 Fruchaud mô tả vùng bẹn đùi chỉ có một lỗ gọi là lỗ cơ lược, lỗ này được giới hạn phía trên là bờ dưới cơ chéo bụng trong và cơ ngang bụng; ở ngoài là cơ thắt lưng chậu và mạc chậu; ở trong là cơ thẳng bụng và bao của nó; và ở dưới là đường lược của xương mu. Lỗ cơ lược được phân chia làm hai vùng bởi dây chằng bẹn - là chỗ tận cùng của cơ chéo bụng ngoài. Vùng trên là vùng bẹn dành cho thừng tinh, vùng dưới là lỗ đùi dành cho mạch máu đùi. Lỗ cơ lược được che phủ bởi mạc ngang.
 
-Dây chằng lược (dây chằng Cooper) (hình 7): nằm trên mào lược xương mu, được tạo nên do sự hoà lẫn vào nhau của lớp chu cốt mạc của mào lược, từ các thớ tụ lại của mạc ngang và dải chậu mu. Dây chằng lược là phần quan trọng nhất của lỗ cơ lược qua đường nội soi, nó dày và rất chắc, giúp cho sự cố định mảnh ghép.
+Dây chằng lược (dây chằng Cooper) (hình 7): nằm trên mào lược xương mu, được tạo nên do sự hoà lẫn vào nhau của lớp chu cốt mạc của mào lược, từ các thớ tự tại của mạc ngang và dải chậu mu. Dây chằng lược là phần quan trọng nhất của lỗ cơ lược qua đường nội soi, nó dày và rất chắc, giúp cho sự cố định mảnh ghép.
 
-[Hình: Dây chằng lược-mũi tên đen, thần kinh bịt & lỗ bịt-mũi tên đỏ (chụp trên xác).]
+[Hình: Hình 7. Dây chằng lược-mũi tên đen, thần kinh bịt & lỗ bịt-mũi tên đỏ (chụp trên xác).]
 
-[Hình: Động mạch và tĩnh mạch thượng vị dưới, Lỗ cơ lược, Dây chằng lược, Ông đùi, Ông dẫn tinh, Động mạch và tĩnh mạch tinh hoàn, Động mạch chậu ngoài]
+[Hình: Giải phẫu vùng bẹn (nhìn từ sau).]
+- Động mạch và tĩnh mạch thượng vị dưới
+- Lỗ cơ lược
+- Dây chằng lược
+- Ống dẫn tinh
+- Ống đùi
+- Động mạch và tĩnh mạch tinh hoàn
+- Động mạch chậu ngoài
 
-**Hình 8.** Giải phẫu vùng bẹn (nhìn từ sau).
+[Hình 9. Tam giác tử (chụp trên xác), bó mạch tinh hoàn-mũi tên đỏ, ống dẫn tinh - mũi tên vàng, MM chậu ngoài - mũi tên cam.]
 
-[Hình: Hình 9. Tam giác tử (chụp trên xác), bó mạch tinh hoàn-mũi tên đỏ, ống dẫn tinh - mũi tên vàng, MM chậu ngoài - mũi tên cam.] [Hình: Hình 10. Tam giác đau (chụp trên xác), thần kinh đùi-1, bó mạch tinh hoàn - mũi tên đỏ.]
+[Hình 10. Tam giác đau (chụp trên xác), thần kinh đùi-1, bó mạch tinh hoàn - mũi tên đỏ.]
 
-**Hình 9.** Tam giác tử (chụp trên xác): bó mạch tinh hoàn-mũi tên đỏ, ống dẫn tinh - mũi tên vàng, MM chậu ngoài - mũi tên cam.
+*Triangle of doom*
+Tam giác tử (hình 9): được mô tả bởi Colborn và Skandalakis. Tam giác này được giới hạn bên trong là ống dẫn tinh; bên ngoài là mạch máu tinh hoàn; và bên dưới là nếp gấp phúc mạc, tương ứng với đi xuống từ vùng mà mảnh ghép nằm. Động mạch và tĩnh mạch chậu ngoài đi qua tam giác này. Ngành sinh dục của thần kinh sinh dục đùi nằm trên động mạch chậu ngoài trước khi đi vào lỗ bẹn sâu.
 
-**Hình 10.** Tam giác đau (chụp trên xác): thần kinh đùi-1, bó mạch tinh hoàn - mũi tên đỏ.
-
-Tam giác tử (hình 9): được mô tả bởi Colborn và Skandalakis. Tam giác này được giới hạn bên trong là ống dẫn tinh; bên ngoài là mạch máu tinh hoàn; và bên dưới là nếp gấp phúc mạc, tương ứng với sự đi xuống từ vùng mà mảnh ghép nằm. Động mạch và tĩnh mạch chậu ngoài đi qua tam giác này. Ngành sinh dục của thần kinh sinh dục đùi nằm trên động mạch chậu ngoài trước khi đi vào lỗ bẹn sâu.
-
+*Triangle of pain*
 Tam giác đau (hình 10): giới hạn ở dưới trong là mạch máu sinh dục và trên ngoài là dải chậu mu. Mũi khâu hoặc stapler đặt vào tam giác này có thể gây thương tổn ngành đùi của thần kinh sinh dục đùi, thần kinh da đùi ngoài và thần kinh đùi.
 
-## 3. ĐỊNH NGHĨA THOÁT VỊ BẸN ĐÙI
+**3. ĐỊNH NGHĨA THOÁT VỊ BẸN ĐÙI**
 
 Thoát vị bẹn đùi là sự thoát ra ngoài của các tạng trong ổ bụng qua lỗ cơ lược của Fruchaud. Phúc mạc qua vùng bị yếu của thành bụng (như lỗ cơ lược) đội ra ngoài kéo theo nội tạng chứa bên trong tạo nên túi thoát vị, cổ thoát vị là lớp cơ vân hay lớp cân bên trong nhất của thành bụng.
 
@@ -7731,25 +7837,32 @@ Thoát vị bẹn gián tiếp là thoát vị qua lỗ bẹn sâu.
 Thoát vị bẹn trực tiếp là thoát vị qua tam giác Hesselbach.
 Thoát vị đùi là thoát vị qua lỗ đùi, bên trong tĩnh mạch đùi.
 
-## 4. CÁC LOẠI THOÁT VỊ ĐẶC BIỆT
-Thoát vị trượt: là thoát vị tạng ngoài phúc mạc như: manh tràng, đại tràng chậu hông, bàng quang...; các tạng này tham gia vào việc tạo nên thành của túi thoát vị.
-Thoát vị trượt bên phải thường gặp nhất là manh tràng; bên trái thì hay gặp đại tràng chậu hông.
+**4. CÁC LOẠI THOÁT VỊ ĐẶC BIỆT**
+
+Thoát vị trượt: là thoát vị tạng ngoài phúc mạc như: manh tràng, đại tràng chậu hông, bàng quang...; các tạng này tham gia vào việc tạo nên thành của túi thoát vị. Thoát vị trượt bên phải thường gặp nhất là manh tràng; bên trái thì hay gặp đại tràng chậu hông.
+
 Thoát vị Richter: thường gặp ở thoát vị đùi, ở đây bờ đối diện mạc treo ruột non chui vào túi thoát vị, nhưng không bao giờ toàn bộ tiết diện chu vi ruột bị lôi kéo vào hết trong túi. Dạng thoát vị này vẫn có thể bị nghẹt gây hoại tử, áp-xe hay rò ruột nhưng thường khó nhận biết trước mổ.
+
 Thoát vị Littré: là dạng thoát vị đặc biệt mà trong túi thoát vị chỉ chứa duy nhất túi thừa Meckel. Dạng thoát vị này rất hiếm gặp và cũng rất khó chẩn đoán, vì không có triệu chứng tắc ruột, trong khi vẫn có thể bị nghẹt và gây hoại tử ruột dẫn đến viêm phúc mạc, áp-xe hay rò ruột.
+
 Thoát vị kẽ: là dạng thoát vị có túi thoát vị nằm giữa các lớp của thành bụng.
-5. YẾU TỐ THUẬN LỢI
+
+**5. YẾU TỐ THUẬN LỢI**
+
 - Tiền sử gia đình có người bị thoát vị bẹn.
 - Nam giới.
 - Tuổi: tỷ lệ thoát vị bẹn gia tăng theo tuổi tác, càng lớn tuổi thoát vị bẹn càng nhiều, đặc biệt là từ sau 75 tuổi thoát vị tăng lên hơn hai lần so với trước 65 tuổi.
-- Sự trao đổi chất collagen bất thường. Vd HC Ehler Danlos
+- Sự trao đổi chất collagen bất thường. vd HC Ehler Danlos
 - Phẫu thuật mở cắt tuyến tiền liệt tận gốc.
 - Chỉ số khối cơ thể thấp.
 
-## 6. TRIỆU CHỨNG THOÁT VỊ BẸN ĐÙI
-### 6.1. Triệu chứng cơ năng
+**6. TRIỆU CHỨNG THOÁT VỊ BẸN ĐÙI**
+
+**6.1. Triệu chứng cơ năng**
+
 Đa số bệnh nhân đến khám vì một khối phồng ở vùng bẹn. Lúc đầu, khối phồng xuất hiện khi làm việc nặng, khi chạy nhảy, khi rặn hoặc ho và tự biến mất. Nhiều tháng sau khối phồng to dần, xuất hiện dễ khi đứng và mất khi nằm hoặc lấy tay đè ép. Có thể có kèm theo triệu chứng đau tức ở vùng bẹn và khi khối thoát vị to thì có thể có khó chịu ở vùng thượng vị do sự kéo căng của mạc treo ruột.
 
-## 6.2. Triệu chứng thực thể
+6.2. Triệu chứng thực thể
 
 Thăm khám vùng bẹn bằng nhìn và sờ kỹ vùng này. Khám bệnh nhân thoát vị ở cả hai tư thế: đứng và nằm. Và phải khám tinh hoàn hai bên, xác định: số lượng có đủ hai tinh hoàn? kích thước bình thường hay bị teo? mật độ chắc hay mềm?
 
@@ -7761,47 +7874,45 @@ Lưu ý: nếu thăm khám vùng bẹn ở cả hai tư thế nằm và đứng,
 
 Thoát vị đùi: khối phồng nằm dưới nếp bẹn, thể hiện dưới dạng giống như một u mỡ hay hạch bẹn, ít khi ấn xẹp.
 
-**Nghiệm pháp chẹn lỗ bẹn sâu**: ấn cho xẹp khối phồng, rồi dùng ngón tay số 1 ấn vào lỗ bẹn sâu (từ vị trí ở giữa nếp bẹn đi thẳng lên trên 2 cm), sau đó cho bệnh nhân rặn hay làm phình bụng lên, nếu khối phồng không xuất hiện là thoát vị bẹn gián tiếp; nếu khối phồng vẫn xuất hiện là thoát vị bẹn trực tiếp (hình 13).
+Nghiệm pháp chẹn lỗ bẹn sâu: ấn cho xẹp khối phồng, rồi dùng ngón tay số 1 ấn vào lỗ bẹn sâu (từ vị trí ở giữa nếp bẹn đi thẳng lên trên 2 cm), sau đó cho bệnh nhân rặn hay làm phình bụng lên, nếu khối phồng không xuất hiện là thoát vị bẹn gián tiếp; nếu khối phồng vẫn xuất hiện là thoát vị bẹn trực tiếp (hình 13).
 
-**Nghiệm pháp chạm ngón**: ấn khối phồng cho xẹp, rồi dùng ngón tay số 2 đẩy từ da bìu đi vào lỗ bẹn nông, đầu ngón tay hướng về lỗ bẹn sâu, lòng ngón tay hướng về trong bụng, sau đó cho bệnh nhân rặn hay phình bụng lên, nếu khối phồng chạm vào đầu ngón tay là thoát vị bẹn gián tiếp; nếu khối phồng chạm vào mặt lòng ngón tay là thoát vị bẹn trực tiếp (hình 14, 15).
+Nghiệm pháp chạm ngón: ấn khối phồng cho xẹp, rồi dùng ngón tay số 2 đẩy từ da bìu đi vào lỗ bẹn nông, đầu ngón tay hướng về lỗ bẹn sâu, lòng ngón tay hướng về trong bụng, sau đó cho bệnh nhân rặn hay phình bụng lên, nếu khối phồng chạm vào đầu ngón tay là thoát vị bẹn gián tiếp; nếu khối phồng chạm vào mặt lòng ngón tay là thoát vị bẹn trực tiếp (hình 14, 15).
 
-[Hình 11. Vùng bẹn chưa phình bụng.]
+[Hình: Hình 11. Vùng bẹn chưa phình bụng.]
 
-[Hình 12. Khối phồng khi phình bụng.]
+[Hình: Hình 12. Khối phồng khi phình bụng.]
 
 6.3. Triệu chứng toàn thân
 Thường không có biểu hiện gì, nếu có là do các bệnh kèm theo hoặc do biến chứng.
+
 Cận lâm sàng
-**Siêu âm**: Là chẩn đoán hình ảnh thường được sử dụng, có độ nhạy (77 - 81.5%) và độ đặc hiệu (86 - 94.5%) cao trong chẩn đoán thoát vị bẹn không nghẹt và có nghẹt. Siêu âm cũng chẩn đoán chính xác các bệnh như là: tràn dịch tinh hoàn, dãn tĩnh mạch thừng tinh, tinh hoàn lạc chỗ, viêm mào tinh hoàn, bướu mỡ, tụ máu, bướu bã, bệnh hạch bạch huyết. Các trường hợp như xoắn tinh hoàn, phình động mạch hay giả phình động thì cần thêm siêu âm Doppler (hình 16).
--> Tầm văn thoát vị
--> Phân biệt với các bệnh lý của tinh hoàn
+Siêu âm: Là chẩn đoán hình ảnh thường được sử dụng, có độ nhạy (77 - 81.5%) và độ đặc hiệu (86 - 94.5%) cao trong chẩn đoán thoát vị bẹn không nghẹt và có nghẹt. Siêu âm cũng chẩn đoán chính xác các bệnh như là: tràn dịch tinh hoàn, dãn tĩnh mạch thừng tinh, tinh hoàn lạc chỗ, viêm mào tinh hoàn, bướu mỡ, tụ máu, bướu bã, bệnh hạch bạch huyết. Các trường hợp như xoắn tinh hoàn, phình động mạch hay giả phình động thì cần thêm siêu âm Doppler (hình 16).
 
-[Hình: NP Chẹn lỗ bẹn sâu, nếp bẹn-đầu mũi tên.] Hình 13. NP Chẹn lỗ bẹn sâu, nếp bẹn-đầu mũi tên.
+[Hình: Hình 13. NP Chẹn lỗ bẹn sâu, nếp bẹn-đầu mũi tên.] [Hình: Hình 14. NP chạm ngón.] [Hình: Hình 15. Sờ vào lỗ bẹn nông.]
 
-[Hình: NP chạm ngón.] Hình 14. NP chạm ngón.
+Chụp cắt lớp vi tính (CLVT) và Chụp cộng hưởng từ (CHT): ít khi dùng đến, chỉ dành cho các trường hợp không rõ thoát vị hay u vùng bẹn không điển hình, có độ nhạy (94%) và độ đặc hiệu (96%) cao trong chẩn đoán thoát vị (hình 17).
 
-[Hình: Sờ vào lỗ bẹn nông.] Hình 15. Sờ vào lỗ bẹn nông.
-
-**Chụp cắt lớp vi tính (CLVT) và Chụp cộng hưởng từ (CHT)**: ít khi dùng đến, chỉ dành cho các trường hợp không rõ thoát vị hay u vùng bẹn không điển hình, có độ nhạy (94%) và độ đặc hiệu (96%) cao trong chẩn đoán thoát vị (hình 17).
 Khi siêu âm không phát hiện được, có thể chụp CLVT động hay chụp CHT động (có làm và không làm vận động của Valsalva) có thể phát hiện được các túi thoát vị nhỏ.
 
-[Hình: Siêu âm xác định thoát vị bẹn.] Hình 16. Siêu âm xác định thoát vị bẹn.
-[Hình: Chụp CLVT bụng, khối thoát vị - mũi tên.] Hình 17. Chụp CLVT bụng, khối thoát vị - mũi tên.
+[Hình: Hình 16. Siêu âm xác định thoát vị bẹn.] [Hình: Hình 17. Chụp CLVT bụng, khối thoát vị - mũi tên.]
 
-[Hình: Giải phẫu cơ thành bụng, cơ chéo bụng ngoài-mũi tên vàng, cơ chéo bụng trong-mũi tên cam, cơ ngang bụng - mũi tên xanh, cơ thẳng bụng-mũi tên đỏ]
+[Hình: Giải phẫu cơ thành bụng, cơ chéo bụng ngoài-mũi tên vàng, cơ chéo bụng trong-mũi tên cam, cơ ngang bụng - mũi tên xanh, cơ thẳng bụng-mũi tên đỏ.]
 
 7. BIẾN CHỨNG THOÁT VỊ BẸN
+
 Biến chứng thường gặp nhất là thoát vị nghẹt (strangulated hernia).
+
 Thoát vị nghẹt: khối thoát vị căng đau và không đẩy lên được, chỗ nghẹt thường là lỗ bẹn nông và lỗ đùi. Yếu tố nguy cơ của thoát vị nghẹt là: nữ giới, thoát vị đùi và tiền sử nhập viện liên quan đến thoát vị bẹn. Chẩn đoán dựa vào: tiền sử có khối phồng xuất hiện nhiều tháng, đè ép thì mất đi; trong vòng vài giờ: khối phồng xuất hiện, kèm đau tăng dần, ấn không mất đi. Khám: khối phồng xuất hiện từ trên nếp bẹn chui ra lỗ bẹn nông, có thể xuống đến bìu, ấn đau nhiều từ lỗ bẹn nông đến điểm cuối của khối phồng hay khối u. Nếu sờ được tinh hoàn trong bìu và không đau thì đây là thoát vị bẹn nghẹt, nếu không sờ được tinh hoàn hay sờ được tinh hoàn đau thì cần chẩn đoán phân biệt với xoắn tinh hoàn, viêm tinh hoàn và mào tinh hoàn. Nếu khối phồng hay khối u xuất hiện bên dưới nếp bẹn bên trong động mạch đùi, ấn đau nhiều, không xẹp đi và không dính da thì là thoát vị đùi nghẹt, cần chẩn đoán phân biệt với viêm hạch bẹn. Trường hợp có khối áp-xe vùng bẹn từ vài ngày thì cần chẩn đoán phân biệt thoát vị đùi nghẹt với áp xe hạch hay da vùng này.
+
 Đối với khối thoát vị to và để lâu dài, có thể gây dính tạng vào túi thoát vị và chèn ép thừng tinh gây thiếu máu và teo tinh hoàn cùng bên.
 
 8. CHẨN ĐOÁN VÀ CHẨN ĐOÁN PHÂN BIỆT
 
-## 8.1. Chẩn đoán xác định
+8.1. Chẩn đoán xác định
 
 Chủ yếu dựa vào thăm khám lâm sàng nhìn và sờ thấy khối phồng vùng bẹn đùi khi phình bụng (làm vận động của Valsalva) hay khi đứng lên; đè ép thì khối phồng xẹp đi và làm các nghiệm pháp. Thăm khám lâm sàng có độ nhạy 75% và độ đặc hiệu 96% trong chẩn đoán thoát vị bẹn. Chẩn đoán hình ảnh để xác định là siêu âm vùng bẹn bìu (lưu ý khi siêu âm thì cần làm thêm vận động của Valsalva hay cho bệnh nhân đứng lên khi không nhìn thấy rõ hình ảnh thoát vị).
 
-## 8.2. Chẩn đoán phân biệt
+8.2. Chẩn đoán phân biệt
 
 Nhóm liên quan với tinh hoàn:
 - Tràn dịch tinh hoàn: Hydrocele
@@ -7819,18 +7930,18 @@ Nhóm liên quan đến u bướu:
 
 Chẩn đoán phân biệt dựa vào hỏi bệnh sử và thăm khám lâm sàng.
 
+[Hình: Hình 19. Vùng bẹn giữa 2 đường màu đỏ.]
+- Đường nối giữa 2 gai chậu trước trên
+- Nếp bẹn
+- Xương mu
+- Động mạch đùi
+- Đường nối giữa 2 củ mu
+
 Đối với nhóm liên quan đến u bướu thì khối u xuất hiện mới đây như là tụ máu do chấn thương hay xuất hiện vài tháng như hạch, bướu mỡ, bướu bã, phình động mạch. Các khối u này thì không tự mất đi và đè ép thì không xẹp.
 
 Đối với nhóm liên quan đến tinh hoàn thì bìu căng to trong trường hợp tràn dịch màng tinh hoàn nhưng không đau, còn đối với dãn tĩnh mạch tinh hoàn thì bìu to hơn ở bên trái kèm đau tức khi chạy nhảy nhiều. Tinh hoàn lạc chỗ thì không có khó chịu gì và bệnh nhân thường đã biết là không có đủ hai tinh hoàn trong bìu.
 
 Bệnh nhân bị đau vùng bìu mới đây thì có thể do viêm mào tinh hoàn, xoắn tinh hoàn hay thoát vị nghẹt; nếu do viêm thì có thể có kèm tiểu gắt buốt, tiểu đục và sốt nhẹ; còn xoắn tinh hoàn hay thoát vị nghẹt thì đau nhiều và có kèm đau dọc theo thừng tinh khi sờ nắn.
-
-[Hình: Vùng bẹn giữa 2 đường màu đỏ.]
-- Nếp bẹn
-- Động mạch đùi
-- Đường nối giữa 2 gai chậu trước trên
-- Xương mu
-- Đường nối giữa 2 củ mu
 
 Tràn dịch tinh hoàn: thấy bìu to, sờ nắn không đau, không sờ được tinh hoàn. Nghiệm pháp soi đèn sẽ thấy ánh sáng xuyên qua. Còn nếu do u hay thoát vị sẽ không thấy ánh sáng xuyên qua.
 
@@ -7844,42 +7955,38 @@ Xoắn tinh hoàn: sờ thấy tinh hoàn bên xoắn nằm cao hơn bên kia k�
 
 Nhóm u bướu: sờ sẽ thấy khối u kích thước từ một đến vài cm, giới hạn rõ, mật độ chắc hay mềm, dính da như là bướu bã, tụ máu; không dính da như là hạch, bướu mỡ; đập theo nhịp mạch như là phình động mạch.
 
-## 9. PHÂN LOẠI THOÁT VỊ BẸN ĐÙI
+9. PHÂN LOẠI THOÁT VỊ BẸN ĐÙI
 
 Có rất nhiều phân loại thoát vị bẹn như: Gilbert, Stoppa, Nyhus..., mỗi phân loại có những ưu và nhược điểm riêng, nhưng phân loại mới nhất là theo Hội Thoát vị Châu Âu.
 
 Bảng 1. Phân loại thoát vị bẹn theo Hội Thoát vị Châu Âu (2007)
 
-| PL TVB EHS | Primary (Thoát vị lần đầu)/Recurrent (Thoát vị tái phát) |
-| --- | --- |
-| 0 | 1 | 2 | 3 | x |
+| PL TVB EHS | Primary (Thoát vị lần đầu)/Recurrent (Thoát vị tái phát) | | | | |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| | 0 | 1 | 2 | 3 | x |
 | L (Lateral): Thoát vị gián tiếp | | | | | |
 | M (Medial): Thoát vị trực tiếp | | | | | |
 | F (Femoral): Thoát vị đùi | | | | | |
 
 0: Không có thoát vị
-Kích thước lớn nhất của lỗ thoát vị
-3: $\ge 2$ ngón tay
-
-1: $\le 1$ ngón tay
-x: không đánh giá được
-
-2: 1-2 ngón tay
+Kích thước lớn nhất của lỗ thoát vị 1: ≤ 1 ngón tay 2: 1-2 ngón tay
+3: ≥ 2 ngón tay x: không đánh giá được
 
 Phân loại này đơn giản, dễ nhớ, dễ sử dụng và đánh giá được loại thoát vị cũng như mức độ nghiêm trọng của thoát vị; có thể áp dụng khi mổ trên người bệnh, khi thực hiện các nghiên cứu và so sánh các loại phẫu thuật với nhau cũng như so sánh các nghiên cứu giữa các tác giả. Tuy nhiên, nhược điểm của phân loại này là không đánh giá chính xác phân loại thoát vị trước phẫu thuật.
 
-## 10. NGUYÊN TẮC ĐIỀU TRỊ
+# 10. NGUYÊN TẮC ĐIỀU TRỊ
 
 Thoát vị bẹn có triệu chứng thì điều trị bằng phẫu thuật, còn không có triệu chứng thì có thể chờ đợi vì nguy cơ thoát vị nghẹt thấp (0.3%). Phần lớn bệnh nhân thoát vị không có triệu chứng cuối cùng sẽ yêu cầu phẫu thuật, do đó rủi ro phẫu thuật và chiến lược chờ đợi nên thảo luận với bệnh nhân.
 
-- Chờ đợi được đề xuất ở phụ nữ mang thai vì nguy cơ phẫu thuật đối với thai và dây chằng tròn sẽ tự giới hạn thoát vị.
+* Chờ đợi được đề xuất ở phụ nữ mang thai vì nguy cơ phẫu thuật đối với thai và dây chằng tròn sẽ tự giới hạn thoát vị.
 
 Điều trị phẫu thuật nên điều chỉnh phù hợp với chuyên môn của bác sĩ, đặc điểm của bệnh nhân, loại thoát vị và nguồn lực của bệnh viện
 
 Các phương pháp phẫu thuật hiện nay: phương pháp Lichtenstein (hình 20, 22), phương pháp phẫu thuật nội soi (TEP: Total extraperitoneal repair (hình 23), TAPP: Transabdominal preperitoneal repair (hình 24)), phương pháp Shouldice, phương pháp Bassini (hình 20, 21), phương pháp Mac Vay...
 
-- Phẫu thuật với mảnh ghép (MG) được khuyến khích là sự lựa chọn đầu tiên bằng phẫu thuật mở hoặc nội soi.
-- Phẫu thuật Lichtenstein và phẫu thuật nội soi được đánh giá là tốt nhất, các kỹ thuật khác cần đánh giá thêm.
+* Phẫu thuật với mảnh ghép (MG) được khuyến khích là sự lựa chọn đầu tiên bằng phẫu thuật mở hoặc nội soi.
+
+* Phẫu thuật Lichtenstein và phẫu thuật nội soi được đánh giá là tốt nhất, các kỹ thuật khác cần đánh giá thêm.
 
 Phẫu thuật nội soi có thời gian hồi phục nhanh hơn và nguy cơ đau mạn tính thấp hơn mổ mở, nhưng cần có tài nguyên về y tế và bác sĩ phẫu thuật chuyên sâu.
 
@@ -7887,7 +7994,7 @@ Phẫu thuật nội soi có thời gian hồi phục nhanh hơn và nguy cơ đ
 
 Sử dụng mô tại chỗ (như phương pháp Shouldice, Bassini, Mac Vay...): chỉ còn hạn chế trong một số trường hợp như: thoát vị nghẹt có hoại tử ruột, có nhiễm khuẩn đang hoặc mới xảy ra...
 
-Đối với thoát vị tái phát sau khi phẫu thuật ngã trước thì phẫu thuật ngã sau được khuyến khích, còn thoát vị tái phát sau khi phẫu thuật ngả sau thì phẫu thuật ngả trước được khuyến khích, và tốt nhất là nên được một bác sĩ chuyên sâu về phẫu thuật thoát vị điều trị.
+Đối với thoát vị tái phát sau khi phẫu thuật ngã trước thì phẫu thuật ngã sau được khuyến khích, còn thoát vị tái phát sau khi phẫu thuật ngã sau thì phẫu thuật ngã trước được khuyến khích, và tốt nhất là nên được một bác sĩ chuyên sâu về phẫu thuật thoát vị điều trị.
 
 Bệnh nhân nên tiếp tục các hoạt động bình thường ngay sau khi họ cảm thấy thoải mái sau phẫu thuật.
 
@@ -7901,7 +8008,7 @@ Theo dõi bệnh nhân sau mổ để phát hiện và điều trị sớm các 
 
 [Hình: Hình 22. PP Lichtenstein (khâu MG vào dây chằng bẹn - 7, củ mu - 9, bờ ngoài cơ thẳng bụng - 3, bờ dưới cơ chéo bụng trong - 2, cắt lỗ MG cho thừng tinh & khâu tạo lỗ bẹn sâu mới, khâu cân chéo bụng ngoài, khâu cân nông, khâu da.]
 
-## 10.1. Điều trị các thoát vị đặc biệt
+**10.1. Điều trị các thoát vị đặc biệt**
 
 **Thoát vị bẹn ở trẻ em:** là do còn ống phúc tinh mạc, xử trí là khâu đóng ống phúc tinh mạc ở lỗ bẹn sâu, để hở túi thoát vị ở phần xa.
 
@@ -7910,20 +8017,20 @@ Theo dõi bệnh nhân sau mổ để phát hiện và điều trị sớm các 
 Thoát vị nghẹt: cần phải đánh giá tạng bị nghẹt có cần cắt bỏ hay không? Cách đánh giá tốt nhất là tiếp cận ngả sau, sẽ quan sát được toàn bộ các tạng nghi ngờ và dễ dàng giải phóng tạng bị nghẹt; nếu cần cắt bỏ ruột, thì vẫn cắt được với đường mổ ngả sau và phục hồi thành bụng bằng mô tự thân với các phương pháp mổ ngả sau (hình 24, 25). Ví dụ như thoát vị Richter là chỉ có một thành bên của ruột chui vào lỗ thoát vị như lỗ đùi và gây nghẹt, thì chỉ có cách tiếp cận ngả qua phúc mạc mới có thể giải phóng ruột, cắt bỏ ruột hoại tử và khâu nối ruột được. Và phục hồi thành bụng bằng cách khâu dây chằng lược với dải chậu mu và khâu dải chậu mu với cân cơ ngang bụng.
 
 [Hình: Hình 23. PP TEP: NS vào khoang tiền PM, phẫu tích lỗ cơ lược, đặt MG lớn che phủ lỗ này.]
-
 [Hình: Hình 24. PP TAPP: NS vào ổ bụng, đánh giá tạng & lỗ TV-mũi tên, rạch PM trên lỗ cơ lược, phẫu tích lỗ này, đặt MG lớn che phủ lỗ cơ lược, cố định MG & khâu phúc mạc.]
 
 [Hình: Hình 25. Khối phồng do TVBGT bị nghẹt.]
-
 [Hình: Hình 26. Thám sát qua NS, tạng nghẹt là mạc nối lớn.]
 
 Thoát vị trượt: là tạng thoát vị làm thành của túi thoát vị, nếu không nhận ra sẽ làm tổn thương tạng thoát vị - thường là đại tràng và bàng quang. Do đó cần phải nhìn rõ phúc mạc khi phẫu tích túi thoát vị, nếu phần phúc mạc bị dày hơn bình thường thì khả năng đó là tạng bị trượt. Cách xử lý là cắt phúc mạc đến gần tạng bị trượt, khâu lại phần phúc mạc này (đầu gần) để che kín phúc mạc, đẩy tạng bị trượt vào khoang bụng và cắt phần thừa của túi thoát vị và nên phục hồi thành bụng bằng mảnh ghép.
 
-Thoát vị hai bên: mổ cùng lúc thoát vị hai bên không làm tăng nguy cơ biến chứng hơn so với mổ 2 lần khác nhau. Cách tốt nhất để điều trị thoát vị hai bên là mổ nội soi đặt 2 mảnh ghép lớn cho hai bên. Bệnh nhân cũng ra viện vào ngày hôm sau và hồi phục trong vòng $1 - 2$ tuần.
+Thoát vị hai bên: mổ cùng lúc thoát vị hai bên không làm tăng nguy cơ biến chứng hơn so với mổ 2 lần khác nhau. Cách tốt nhất để điều trị thoát vị hai bên là mổ nội soi đặt 2 mảnh ghép lớn cho hai bên. Bệnh nhân cũng ra viện vào ngày hôm sau và hồi phục trong vòng 1 – 2 tuần.
 
-Thoát vị đùi: nên mổ khi có chuẩn đoán vì nguy cơ nghẹt rất cao. Lựa chọn tốt nhất là phẫu thuật với mảnh ghép để giảm đau, giảm tỷ lệ tái phát cũng như phòng ngừa thoát vị bẹn về sau.
+373
 
-Thoát vị tái phát: là bệnh nhân bị thoát vị cùng bên của vùng mổ cũ, cho dù là thoát vị khác loại. Ví dụ: bệnh nhân đã thoát vị đùi bây giờ bị thoát vị trực tiếp hay gián tiếp cùng bên cũng gọi là thoát vị tái phát. Cách điều trị tốt nhất là tiếp cận ngả mổ khác lần mổ trước. Nếu bệnh nhân đã mổ ngả trước thì sẽ mổ lại ngả sau và ngược lại. Và tốt nhất là dùng mảnh ghép khi mổ thoát vị tái phát để làm giảm khả năng bị thoát vị tái phát tiếp theo.
+Thoát vị đùi: nên mổ khi có chẩn đoán vì nguy cơ nghẹt rất cao. Lựa chọn tốt nhất là phẫu thuật với mảnh ghép để giảm đau, giảm tỷ lệ tái phát cũng như phòng ngừa thoát vị bẹn về sau.
+
+Thoát vị tái phát: là bệnh nhân bị thoát vị cùng bên của vùng mổ cũ, cho dù là thoát vị khác loại. Ví dụ: bệnh nhân đã mổ thoát vị đùi bây giờ bị thoát vị trực tiếp hay gián tiếp cùng bên cũng gọi là thoát vị tái phát. Cách điều trị tốt nhất là tiếp cận ngả mổ khác lần mổ trước. Nếu bệnh nhân đã mổ ngả trước thì sẽ mổ lại ngả sau và ngược lại. Và tốt nhất là dùng mảnh ghép khi mổ thoát vị tái phát để làm giảm khả năng bị thoát vị tái phát tiếp theo.
 
 ## 10.2. Kết quả
 
@@ -7931,39 +8038,40 @@ Thông thường thì bệnh nhân nằm ở bệnh viện một đêm sau mổ,
 
 ## 10.3. Các biến chứng sau mổ thoát vị bẹn
 
-**Tinh hoàn**: có hai biến chứng là viêm tinh hoàn do thiếu máu và teo tinh hoàn.
-- Viêm tinh hoàn sau phẫu thuật thoát vị bẹn thường xảy ra trong mổ mở và ít hơn trong mổ nội soi. Biểu hiện lâm sàng sau $24 - 72$ giờ, tinh hoàn sưng to gấp $2 - 3$ lần, đau, mật độ cứng chắc, kèm theo sốt nhẹ. Cơ chế là do tắc nghẽn tĩnh mạch bên trong tinh hoàn, thứ phát từ huyết khối tĩnh mạch bên trong thừng tinh do chấn thương trong lúc phẫu tích túi thoát vị khỏi thừng tinh.
+Tinh hoàn: có hai biến chứng là viêm tinh hoàn do thiếu máu và teo tinh hoàn.
+- Viêm tinh hoàn sau phẫu thuật thoát vị bẹn thường xảy ra trong mổ mở và ít hơn trong mổ nội soi. Biểu hiện lâm sàng sau 24 – 72 giờ, tinh hoàn sưng to gấp 2 – 3 lần, đau, mật độ cứng chắc, kèm theo sốt nhẹ. Cơ chế là do tắc nghẽn tĩnh mạch bên trong tinh hoàn, thứ phát từ huyết khối tĩnh mạch bên trong thừng tinh do chấn thương trong lúc phẫu tích túi thoát vị khỏi thừng tinh.
 - Viêm thiếu máu tinh hoàn có thể dẫn đến teo tinh hoàn sau vài tháng. Kết quả không thể dự đoán được. Trong vài trường hợp, tinh hoàn hậu phẫu bình thường, trở nên teo sau khoảng 12 tháng.
-- Đau tinh hoàn, sưng, viêm mào tinh và teo có thể phức tạp trong phục hồi thành bụng qua nội soi, với tỷ lệ từ $0 - 5\%$. Nhưng teo tinh hoàn ít gặp hơn trong phẫu thuật nội soi.
+- Đau tinh hoàn, sưng, viêm mào tinh và teo có thể phức tạp trong phục hồi thành bụng qua nội soi, với tỷ lệ từ 0 – 5%. Nhưng teo tinh hoàn ít gặp hơn trong phẫu thuật nội soi.
 
-**Ống dẫn tinh**: thương tổn có thể là cắt ngang hoặc tắc nghẽn. Cắt ngang thường xảy ra trong mổ mở, đặc biệt trong thoát vị tái phát. Tắc nghẽn có kết quả từ sự kẹp ống dẫn tinh làm xơ hóa cơ của thành ống dẫn tinh. Ống dẫn tinh có thể bị dính vào thành bẹn sau trong tư thế gấp khúc hoặc xoắn, có thể làm tắc nghẽn dòng chảy và vì vậy làm rối loạn sự phóng tinh.
+Ống dẫn tinh: thương tổn có thể là cắt ngang hoặc tắc nghẽn. Cắt ngang thường xảy ra trong mổ mở, đặc biệt trong thoát vị tái phát. Tắc nghẽn có kết quả từ sự kẹp ống dẫn tinh làm xơ hóa cơ của thành ống dẫn tinh. Ống dẫn tinh có thể bị dính vào thành bẹn sau trong tư thế gấp khúc hoặc xoắn, có thể làm tắc nghẽn dòng chảy và vì vậy làm rối loạn sự phóng tinh.
 
-**Mạch bạch huyết**:
-- Tràn dịch màng tinh hoàn: ít gặp ($0,7\%$), nó có liên quan đến sự làm nhỏ thừng tinh, phẫu tích túi thoát vị. Cơ chế có thể là do cắt đứt sự dẫn lưu của mạch lympho.
+Mạch bạch huyết:
+- Tràn dịch màng tinh hoàn: ít gặp (0,7%), nó có liên quan đến sự làm nhỏ thừng tinh, phẫu tích túi thoát vị. Cơ chế có thể là do cắt đứt sự dẫn lưu của mạch lympho.
 
-Tụ thanh dịch là do sự tiết dịch (thành phần gồm: chất tan, nước, protein huyết tương, kể cả fibrin và bạch cầu). Tụ thanh dịch có kết quả từ chấn thương do dao mổ, đốt điện và vật lạ (chỉ, mảnh ghép), tỷ lệ: $0 - 17\%$. Tụ thanh dịch có thể đủ to làm thoát vị tái phát và nó thường tự hấp thu trong vòng 8 tuần.
+Tụ thanh dịch là do sự tiết dịch (thành phần gồm: chất tan, nước, protein huyết tương, kể cả fibrin và bạch cầu). Tụ thanh dịch có kết quả từ chấn thương do dao mổ, đốt điện và vật lạ (chỉ, mảnh ghép), tỷ lệ: 0 – 17%. Tụ thanh dịch có thể đủ to làm thoát vị tái phát và nó thường tự hấp thu trong vòng 8 tuần.
 
-Mạch máu: chảy máu từ động mạch hoặc tĩnh mạch có thể xảy ra ở tất cả các cấu trúc giải phẫu trong lúc mổ thoát vị bẹn, cả trong mổ mở và mổ nội soi. Theo sau nó là biến chứng huyết khối, tắc mạch và hoại tử. Biến chứng muộn hơn là hẹp, phình mạch giả và rò động tĩnh mạch. Thương tổn mạch máu do phục hồi thành bụng nội soi là nhánh sâu của mạch máu thượng vị dưới và mạch máu thừng tinh. Nhưng cũng có với mạch máu chậu ngoài, mũ châụ sâu và mạch bịt...
+Mạch máu: chảy máu từ động mạch hoặc tĩnh mạch có thể xảy ra ở tất cả các cấu trúc giải phẫu trong lúc mổ thoát vị bẹn, cả trong mổ mở và mổ nội soi. Theo sau nó là biến chứng huyết khối, tắc mạch và hoại tử. Biến chứng muộn hơn là hẹp, phình mạch và rò động tĩnh mạch. Thương tổn mạch máu do phục hồi thành bụng nội soi là nhánh sâu của mạch máu thượng vị dưới và mạch máu thừng tinh. Nhưng cũng có với mạch máu chậu ngoài, mũ chậu sâu và mạch bịt...
 
 Thần kinh: thương tổn thần kinh có thể do cắt, kẹp hoặc cột. Các thần kinh có thể bị thương tổn là thần kinh chậu bẹn, chậu hạ vị, thần kinh sinh dục đùi và ít hơn là thần kinh đùi. Triệu chứng tê, đau tồn tại lâu dài sau mổ, cần phải thăm khám cẩn thận và lấy bỏ các stapler hoặc chỉ khâu gây thương tổn.
 
-Bàng quang: bị chấn thương gây bí tiểu, tiểu máu hoặc rách. Tỷ lệ từ $0 - 5\%$ trong mổ mở và nội soi.
+Bàng quang: bị chấn thương gây bí tiểu, tiểu máu hoặc rách. Tỷ lệ từ 0 – 5% trong mổ mở và nội soi.
 
-Ruột: thương tổn bao gồm: rách đại tràng hoặc ruột non; thoát vị lỗ trocar với kiểu thoát vị Richter; dính tạng; rò ruột và thoát vị trong. Tỷ lệ biến chứng ruột trong phục hồi thành bụng là $0 - 0,2\%$.
+Ruột: thương tổn bao gồm: rách đại tràng hoặc ruột non; thoát vị lỗ trocar với kiểu thoát vị Richter; dính tạng; rò ruột và thoát vị trong. Tỷ lệ biến chứng ruột trong phục hồi thành bụng là 0 – 0,2%.
 
 Da: ngoài biến chứng nhiễm khuẩn ở các vết mổ, trong phẫu thuật nội soi còn có sự bầm máu và tràn khí dưới da rộng rãi. Tuy nhiên cả hai đều tự giới hạn và không để lại di chứng.
 
 Nhiễm khuẩn: là biến chứng thường gặp cho tất cả các loại phẫu thuật. Trong thoát vị bẹn, có vài yếu tố làm tăng nguy cơ nhiễm khuẩn đã được công nhận như: nữ giới; người lớn tuổi; dẫn lưu và thời gian lưu ống dẫn lưu; thoát vị nghẹt; thoát vị tái phát; thoát vị đùi; và thời gian phẫu thuật.
 
 - Nhiễm khuẩn nông dưới da không ảnh hưởng đến tỷ lệ tái phát, nhưng cần xem có kết hợp với nhiễm khuẩn sâu hay không.
-- Tỷ lệ nhiễm khuẩn mảnh ghép là $0 - 0,6\%$. Sử dụng vật liệu đơn sợi (Prolene, Optilene, Dyna) có lợi hơn vật liệu đa sợi. Về mặt lý thuyết, sợi đa sợi chứa đựng các khe hở nhỏ $1 - 2\text{ }\mu\text{m}$, làm cho các đại thực bào (kích thước $10\text{ }\mu\text{m}$) không vào được. Gore-tex cũng có các lỗ nhỏ hơn đại thực bào. Đây là lý do mà các mảnh ghép đa sợi cần được lấy ra lúc nó nhiễm khuẩn. Còn đối với các mảnh ghép đơn sợi (polypropylene hoặc polyester) thì không cần phải lấy ra, trừ khi mảnh ghép tắm trong mủ. Điều trị nhiễm khuẩn mảnh ghép là phải tấn công tích cực bằng cách: cấy và kháng sinh đồ, cắt lọc để bộc lộ mảnh ghép, kháng sinh hệ thống, tưới rửa tại chỗ bằng dung dịch Povidine và có thể cắt bỏ một phần hoặc toàn bộ mảnh ghép.
+
+- Tỷ lệ nhiễm khuẩn mảnh ghép là 0 – 0,6%. Sử dụng vật liệu đơn sợi (Prolene, Optilene, Dyna) có lợi hơn vật liệu đa sợi. Về mặt lý thuyết, sợi đa sợi chứa đựng các khe hở nhỏ 1 – 2 µm, làm cho các đại thực bào (kích thước 10 µm) không vào được. Gore-tex cũng có các lỗ nhỏ hơn đại thực bào. Đây là lý do mà các mảnh ghép đa sợi cần được lấy ra lúc nó nhiễm khuẩn. Còn đối với các mảnh ghép đơn sợi (polypropylene hoặc polyester) thì không cần phải lấy ra, trừ khi mảnh ghép tắm trong mủ. Điều trị nhiễm khuẩn mảnh ghép là phải tấn công tích cực bằng cách: cấy và kháng sinh đồ, cắt lọc để bộc lộ mảnh ghép, kháng sinh hệ thống, tưới rửa tại chỗ bằng dung dịch Povidine và có thể cắt bỏ một phần hoặc toàn bộ mảnh ghép.
 
 - Nhiễm khuẩn muộn cũng có thể xảy ra ở mảnh ghép sau vài tháng hoặc vài năm. Mặc dù cơ chế trong nhiễm khuẩn muộn chưa được hiểu rõ, nhưng điều trị cũng không thay đổi.
 - Khi có mặt nhiễm khuẩn, thường chống chỉ định sử dụng mảnh ghép.
 - Kháng sinh dự phòng thường được sử dụng khi dùng mảnh ghép, được tiêm tĩnh mạch 30 – 60 phút trước phẫu thuật.
 
 **Mảnh ghép nhân tạo:**
-- Các mảnh ghép dùng trong thoát vị bẹn đùi là loại không tan, đơn sợi, có trọng lượng từ nhẹ đến vừa ($36-60\text{ g/m}^2$) và có lỗ lớn ($\ge 1\text{ mm}$). Các mảnh ghép đều dung nạp tốt, sự thải loại mảnh ghép rất hiếm gặp.
+- Các mảnh ghép dùng trong thoát vị bẹn đùi là loại không tan, đơn sợi, có trọng lượng từ nhẹ đến vừa (36 – 60 g/m²) và có lỗ lớn (≥ 1 mm). Các mảnh ghép đều dung nạp tốt, sự thải loại mảnh ghép rất hiếm gặp.
 - Mặt hạn chế của mảnh ghép là khi có nhiễm khuẩn và khi ở gần nội tạng, vì các mảnh ghép đều gây ra sự dính, nếu tiếp xúc trực tiếp với ruột có thể ăn mòn và gây rò ruột.
 - Kể từ khi polypropylene được tổng hợp năm 1954 (được sử dụng năm 1958); PTFE được khám phá năm 1938 (ứng dụng lâm sàng năm 1982); và Mersilene được dùng năm 1960, cho đến nay đã hơn 60 năm, các tác giả không nhận thấy một chứng cứ thuyết phục nào nói lên sự sinh ung thư của các mảnh ghép.
 
@@ -7971,46 +8079,64 @@ Nhiễm khuẩn: là biến chứng thường gặp cho tất cả các loại p
 - Tỷ lệ tái phát thường thấp trong sử dụng mảnh ghép (0-3%). Sau khi đặt mảnh ghép, thoát vị tái phát thường xảy ra trong năm đầu tiên.
 - Nguyên nhân tái phát chủ yếu là do lỗi kỹ thuật: phẫu tích không đủ, kích thước mảnh ghép nhỏ, cố định không đủ, đặt không đúng chỗ, mảnh ghép chồng lên nhau, hoặc từ kết quả của biến chứng nhiễm khuẩn, tụ dịch.
 
-**Các biến chứng liên quan đến khí $\text{CO}_2$:** gắn liền với nội soi là bơm khí $\text{CO}_2$ và có thể gây ra thuyên tắc khí tĩnh mạch. Nếu cơ hoành có khiếm khuyết, có thể gây ra tràn khí màng phổi. Ngoài ra còn có tăng $\text{CO}_2$ máu, giảm huyết áp do bơm hơi phúc mạc quá mức và rối loạn nhịp tim.
+Các biến chứng liên quan đến khí CO₂: gắn liền với nội soi là bơm khí CO₂ và có thể gây ra thuyên tắc khí tĩnh mạch. Nếu cơ hoành có khiếm khuyết, có thể gây ra tràn khí màng phổi. Ngoài ra còn có tăng CO₂ máu, giảm huyết áp do bơm hơi phúc mạc quá mức và rối loạn nhịp tim.
 
-# LƯU ĐỒ CHẨN ĐOÁN & ĐIỀU TRỊ THOÁT VỊ BẸN ĐÙI
+LƯU ĐỒ CHẨN ĐOÁN & ĐIỀU TRỊ THOÁT VỊ BẸN ĐÙI
 
-**Sơ đồ: Lưu đồ 1. Chẩn đoán và điều trị (ĐT) thoát vị bẹn đùi.**
-- Khối phồng vùng bẹn đùi --> Thăm khám lâm sàng --> Siêu âm bẹn đùi
-  - +
-    - TVĐ --> Nữ --> Mổ nội soi
-    - TVĐ --> Nam --> Mổ với MG
-  - +
-    - TVB --> Có TC
-      - Nam --> Mổ với MG
-      - Nữ --> Mổ nội soi
-    - TVB --> Không TC --> Chờ đợi thận trọng
-  - - --> Chụp CT/MRI
-    - Bệnh khác --> ĐT theo CK
+**Sơ đồ: Lưu đồ 1. Chẩn đoán và điều trị (ĐT) thoát vị bẹn đùi**
+- Khối phồng vùng bẹn đùi
+  - Thăm khám lâm sàng
+    - Siêu âm bẹn đùi
+      - TVĐ
+        - Nữ --> Mổ nội soi
+        - Nam --> Mổ với MG
+      - TVB
+        - Có TC
+          - Nam --> Mổ với MG
+          - Nữ --> Mổ nội soi
+        - Không TC --> Chờ đợi thận trọng
+      - Bệnh khác --> ĐT theo CK
 
+Lưu đồ 1. Chẩn đoán và điều trị (ĐT) thoát vị bẹn đùi.
 TC: Triệu chứng, MG: Mảnh ghép, CK: Chuyên khoa, TVĐ: Thoát vị đùi, TVB: Thoát vị bẹn.
 
-**Sơ đồ: Lưu đồ 2. Chẩn đoán & điều trị thoát vị nghẹt, SA: siêu âm, ĐT: điều trị, CK: chuyên khoa.**
-- Khối phồng bẹn đùi bị đau --> Thăm khám lâm sàng --> SA + SA Doppler
-  - Bệnh khác --> ĐT theo CK
-  - Thoát vị nghẹt --> Thám sát ngả sau
-    - Không hoại tử ruột --> Mổ với mảnh ghép
-    - Hoại tử ruột/cắt ruột --> Phục hồi thành bụng bằng mô tự phân
+**Sơ đồ: Lưu đồ 2. Chẩn đoán & điều trị thoát vị nghẹt**
+- Khối phồng bẹn đùi bị đau
+  - Thăm khám lâm sàng
+    - SA + SA Doppler
+      - Bệnh khác --> ĐT theo CK
+      - Thoát vị nghẹt
+        - Thám sát ngả sau
+          - Không hoại tử ruột --> Mổ với mảnh ghép
+          - Hoại tử ruột/cắt ruột --> Phục hồi thành bụng bằng mô tự phân
 
-# TÀI LIỆU THAM KHẢO
+Lưu đồ 2. Chẩn đoán & điều trị thoát vị nghẹt, SA: siêu âm, ĐT: điều trị, CK: chuyên khoa.
+
+377
+
+TÀI LIỆU THAM KHẢO
 
 1. Avisse C, Delattre JF, Flament JB (2000). The inguinofemoral area from a laparoscopic standpoint history, anatomy & surgical application. Surg Clin North Am, 80(1), pp. 35-48.
+
 2. Bendavid R (1998). Complications of groin hernia surgery. Surg Clin North Am, 78(6), pp. 1089-1103.
-3. Ferdinand Köckerling* and Christine Schug-Pass (2014). Tailored approach in inguinal hernia repair - decision tree based on the guidelines. 10.3389/fsurg.2014.00020.
-4. HerniaSurge Group, OLVG Hospital, Eerste Oosterparkstraat 9, 1091 AC Amsterdam, The Netherlands (2018). International guidelines for groin hernia management. Hernia 22:1–165,
+
+3. Ferdinand Köckerling* and Christine Schug-Pass (2014). Tailored approach in inguinal hernia repair – decision tree based on the guidelines. 10.3389/fsurg.2014.00020.
+
+4. HerniaSurge Group, OLVG Hospital, Eerste Oosterparkstraat 9, 1091 AC Amsterdam, The Netherlands (2018). International guidelines for groin hernia management. Hernia 22:1–165.
+
 5. Köckerling F., C. Schug-Pass (2014). Review: What do we know about titanized polypropylene meshes? An evidence-based review of the literature. Hernia 18:445–457.
-6. Mark A. Malangoni and Michael. J. Rosen, (2017). Hernias. In Sabiston's Textbook of Surgery, 20th Edit, Elsevier, Chapter 44: 1092-1106.
+
+6. Mark A. Malangoni and Michael. J. Rosen, (2017). Hernias. In Sabiston’s Textbook of Surgery, 20th Edit, Elsevier, Chapter 44: 1092-1106.
+
 7. Martin F Bjurstrom, Andrea L Nicol, Parviz K Amid, David C Chen (2014). Review: Pain control following inguinal herniorrhaphy: current perspectives. Journal of Pain Research.
-8. Miserez M. • J. H. Alexandre • G. Campanelli • F. Corcione • D. Cuccurullo • M. Hidalgo Pascual • A. Hoeferlin • A. N. Kingsnorth • V. Mandala • J. P. Palot • V. Schumpelick • R. K. J. Simmermacher • R. Stoppa • J. B. Flament (2007). The European hernia society groin hernia classication: simple and easy to remember. Hernia, © Springer-Verlag.
+
+8. Miserez M. • J. H. Alexandre • G. Campanelli • F. Corcione • D. Cuccurullo •, M. Hidalgo Pascual • A. Hoeferlin • A. N. Kingsnorth • V. Mandala • J. P. Palot • V. Schumpelick • R. K. J. Simmermacher • R. Stoppa • J. B. Flament (2007). The European hernia society groin hernia classication: simple and easy to remember. Hernia, © Springer-Verlag.
+
 9. Simons M. P, T. Aufenacker, M. Bay-Nielsen, J. L. Bouillot, G. Campanelli, J. Conze, D. de, Lange, R. Fortelny, T. Heikkinen, A. Kingsnorth, J. Kukleta, S. Morales-Conde, P. Nordin, V. Schumpelick, S. Smedberg, M. Smietanski, G. Weber, M. Miserez (2009). European Hernia Society guidelines on the treatment of inguinal hernia in adult patients. Hernia 13:343–403.
+
 10. Sri Vengadesh Gopal, Achuthan Warrier (2013). Review: Recurrence after groin hernia repair-revisited. International Journal of Surgery 11. 374-377.
 
-# CÂU HỎI LƯỢNG GIÁ
+CÂU HỎI LƯỢNG GIÁ
 
 1. Bệnh nhân nam 60 tuổi, bị thoát vị bẹn gián tiếp bên phải, không nghẹt, được mổ mở ngả trước, lỗ thoát vị rộng hơn 1 ngón tay. (tình huống này sử dụng cho câu 1 và 2)
 Chẩn đoán là gì? (theo phân loại thoát vị bẹn của Hội Thoát vị Châu Âu)
@@ -8043,26 +8169,24 @@ B. Viêm tinh hoàn và mào tinh hoàn
 C. Thoát vị bẹn nghẹt
 D. Khối viêm hạch bẹn
 
-# ÁP XE CANH HẬU MÔN
-
+# ÁP XE CẠNH HẬU MÔN
 Nguyễn Trung Tín
 
-## MỤC TIÊU
-
+**MỤC TIÊU**
 1. Kết hợp với kiến thức giải phẫu về 5 khoang quanh hậu môn trực tràng để giải thích bệnh sinh của áp xe hậu môn.
-2. Áp dụng vào lâm sàng phân loại của nhóm áp xe hậu môn trên cơ nâng và quanh hậu môn.
+2. Áp dụng vào lâm sàng phân loại của nhóm áp xe hậu môn trên cơ năng và quanh hậu môn.
 3. Tiếp cận người bệnh qua thăm khám lâm sàng và chẩn đoán hình ảnh để chẩn đoán xác định áp xe hậu môn và chẩn đoán phân biệt.
 4. Áp dụng nguyên tắc chung điều trị áp xe hậu môn và vận dụng nguyên tắc này theo vị trí giải phẫu của áp xe.
 
 Từ khóa: tuyến trong khe hậu môn, áp xe hậu môn, phẫu thuật cắt mở đường rò đồng thời, đường rạch áp xe hậu môn, phẫu thuật Hanley.
 
-## 1. ĐẠI CƯƠNG
+**1. ĐẠI CƯƠNG**
 
 Áp xe hậu môn là bệnh thường gặp của hậu môn trực tràng. Áp xe bắt nguồn từ các tuyến trong khe hậu môn bị nhiễm khuẩn và tắc nghẽn, tạo các ổ áp xe trong mô dưới da, trong khoang gian cơ thắt hoặc xa hơn trong các khoang sâu quanh hậu môn trực tràng như khoang ngồi hậu môn, khoang sau hậu môn sâu và khoang trên cơ nâng. Sau khi được chẩn đoán, áp xe hậu môn phải được phẫu thuật thật sớm. Áp xe hậu môn không được rạch dẫn lưu có thể tiếp tục lan rộng sang các khoang liền kề cũng như tiến triển thành nhiễm khuẩn toàn thân [4].
 
 Áp xe hậu môn trực tràng là giai đoạn cấp tính của bệnh nhiễm khuẩn hậu môn trực tràng, nếu không được can thiệp ngoại khoa, nó có thể vỡ tự nhiên và chuyển sang rò mủ mạn tính hoặc tái phát lại áp xe sau đó. Khoảng 40-50% trường hợp rạch áp xe hậu môn trong giai đoạn cấp sẽ chuyển thành rò hậu môn. Áp xe hậu môn móng ngựa chiếm khoảng 15-20% tổng số áp xe hậu môn trực tràng. Lành tự nhiên với rò hậu môn là cực kỳ hiếm, do đó chỉ có cách điều trị duy nhất là can thiệp phẫu thuật mới có thể chữa khỏi bệnh [1].
 
-## 2. DỊCH TỄ
+**2. DỊCH TỄ**
 
 Áp xe hậu môn trực tràng là một bệnh nhiễm khuẩn cấp tính của hậu môn trực tràng thường gặp ở người lớn, đứng hàng thứ hai sau bệnh trĩ. Số trường hợp áp xe hậu môn mỗi năm ở nước Anh là 14.000 đến 20.000 người, một nghiên cứu tại Thụy Điển ước tính tỷ lệ mắc bệnh áp xe hậu môn là 16,1/100.000 dân [4].
 
@@ -8070,13 +8194,13 @@ Từ khóa: tuyến trong khe hậu môn, áp xe hậu môn, phẫu thuật cắ
 
 Tuổi trung bình của bệnh nhân là 40 tuổi (từ 20 đến 60). Nam giới trưởng thành có khả năng bị áp xe hậu môn trực tràng gấp đôi so với nữ giới [4].
 
-## 3. GIẢI PHẪU VÀ BỆNH SINH
+3. GIẢI PHẪU VÀ BỆNH SINH
 
 Áp xe hậu môn trực tràng thường bắt nguồn từ một tuyến trong khe hậu môn bị nhiễm khuẩn. Có 8 đến 10 tuyến trong khe hậu môn được sắp xếp theo chu vi trong ống hậu môn ở mức đường lược. Các tuyến nằm trong cơ thắt trong và kết thúc trong mặt phẳng gian cơ thắt. Áp xe phát triển khi một tuyến trong khe tuyến hậu môn bị tắc nghẽn với các mảnh mô hoại tử, cho phép sự phát triển của vi khuẩn và hình thành áp xe. Một số áp xe di chuyển xuống rãnh gian cơ thắt vào khoang dưới da quanh hậu môn, áp xe biểu hiện như một khối mềm, dao động (áp xe quanh hậu môn). Áp xe hậu môn có thể đi theo con đường khác là hướng lên trên cơ nâng hay xuyên cơ thắt tạo thành áp xe trong khoang gian cơ thắt, áp xe trong khoang ngồi hậu môn và trên cơ nâng để tạo thành áp xe quanh trực tràng [2].
 
 Khoảng một nửa áp xe hậu môn trực tràng sẽ dẫn đến hình thành rò hậu môn mạn tính kết nối từ tuyến hậu môn đến da hậu môn chỗ dẫn lưu áp xe ra da.
 
-[Hình: Giải phẫu hậu môn - trực tràng và khe tuyến hậu môn.]
+[Hình: Giải phẫu hậu môn – trực tràng và khe tuyến hậu môn]
 - Cơ mu trực tràng
 - Đám rối trĩ nội
 - Cơ thắt trong hậu môn
@@ -8088,21 +8212,26 @@ Khoảng một nửa áp xe hậu môn trực tràng sẽ dẫn đến hình th�
 - Khe hậu môn
 - Tuyến hậu môn
 
-Hình 1. Giải phẫu hậu môn - trực tràng và khe tuyến hậu môn.
+Hình 1. Giải phẫu hậu môn – trực tràng và khe tuyến hậu môn.
 
 [Hình: Hướng lan của áp xe hậu môn do nguyên nhân khe tuyến. (1. Khoang trên cơ nâng, 2. Khoang dưới niêm mạc, 3. Khoang ngồi – hậu môn, 4. Khoang quanh hậu môn, 5. Khoang gian cơ thắt).]
 
-Hình 2. Hướng lan của áp xe hậu môn do nguyên nhân khe tuyến.
-
-## 4. PHÂN LOẠI ÁP XE HẬU MÔN
+**4. PHÂN LOẠI ÁP XE HẬU MÔN**
 
 Áp xe quanh hậu môn là áp xe hậu môn trực tràng đơn giản. Áp xe quanh trực tràng phức tạp hơn và có thể liên quan đến các khoang khác nhau trong hậu môn trực tràng, có các bệnh cảnh lâm sàng đặc trưng và đòi hỏi xử trí thích hợp hơn [3]. Việc phân loại áp xe hậu môn dựa trên vị trí giải phẫu của chúng:
 
-[Hình: Giải phẫu các khoang quanh hậu môn trực tràng với các chú thích: Khoang quanh trực tràng, Cơ nâng, Cơ bịt trong, Khoang ngồi hậu môn]
+[Hình: Giải phẫu các khoang quanh hậu môn trực tràng. Các nhãn: Khoang quanh trực tràng, Cơ nâng, Cơ bịt trong, Khoang ngồi hậu môn]
 
-Hình 3. Giải phẫu các khoang quanh hậu môn trực tràng.
+**Hình 3. Giải phẫu các khoang quanh hậu môn trực tràng.**
 
-[Hình: Vị trí các áp xe hậu môn - trực tràng. Các nhãn gồm: Trên cơ nâng, Gian cơ thắt, Ngồi hậu môn, Quanh hậu môn, Dưới niêm mạc]
+383
+
+[Hình: Vị trí các áp xe hậu môn – trực tràng.]
+- Trên cơ nâng
+- Gian cơ thắt
+- Ngồi hậu môn
+- Quanh hậu môn
+- Dưới niêm mạc
 
 Hình 4. Vị trí các áp xe hậu môn – trực tràng.
 
@@ -8110,79 +8239,73 @@ Hình 4. Vị trí các áp xe hậu môn – trực tràng.
 - Áp xe khoang quanh hậu môn: ổ mủ nằm hai bên quanh ống hậu môn, giới hạn phía dưới là da quanh hậu môn, giới hạn trên là vách ngang.
 - Áp xe khoang ngồi hậu môn hay còn gọi là áp xe khoang ngồi trực tràng: áp xe xuyên qua cơ thắt ngoài hậu môn vào khoang ngồi hậu môn và biểu hiện dưới dạng khối lan tỏa, mềm, phập phều và ấn đau cạnh hậu môn.
 - Áp xe gian cơ thắt: áp xe gian cơ thắt nằm trong rãnh giữa cơ thắt trong và ngoài hậu môn. Do đó, áp xe gian cơ thắt thường không gây ra thay đổi da quanh hậu môn nhưng có thể sờ thấy khi thăm khám trực tràng bằng ngón tay như một khối mềm ấn đau nhô ra trong lòng hậu môn trực tràng.
-- Áp xe trên cơ nâng: áp xe nằm hai bên trực tràng, thành trên là cơ mu – cụt, thành dưới là cơ mu – trực tràng. Áp xe trên cơ nâng có thể bắt nguồn từ hai nguồn khác nhau: nhiễm khuẩn khe tuyến có thể lan lên trên cơ nâng trong theo khoảng gian cơ thắt hoặc xuyên cơ thắt ngoài vào khoang ngồi hậu môn rồi lan lên trên cơ nâng qua chỗ bám của cơ nâng vào khoảng trên cơ nâng hay nhiễm khuẩn trong khe tuyến xuyên cơ thắt ngoài vào khoang sau hậu môn sâu và lan lên trên cơ nâng qua các thớ cơ của cơ mu trực tràng. Áp xe trên cơ nâng được phân thành 4 loại theo Ortega (2017) [3]:
-  + Loại I: áp xe trên cơ nâng gian cơ thắt với ổ nhiễm khuẩn nguyên phát từ ổ nhiễm gian cơ thắt lan xuyên lên trên cơ nâng, có thể kèm hoặc không kèm lan xuống khoang ngồi – hậu môn cùng bên.
-
-384
+- Áp xe trên cơ nâng: áp xe nằm hai bên trực tràng, thành trên là cơ mu – cụt, thành dưới là cơ mu – trực tràng. Áp xe trên cơ nâng có thể bắt nguồn từ hai nguồn khác nhau: nhiễm khuẩn khe tuyến có thể lan lên trên cơ nâng trong theo khoang gian cơ thắt hoặc xuyên cơ thắt ngoài vào khoang ngồi hậu môn rồi lan lên trên cơ nâng qua chỗ bám của cơ nâng vào khoang trên cơ nâng hay nhiễm khuẩn trong khe tuyến xuyên cơ thắt ngoài vào khoang sau hậu môn sâu và lan lên trên cơ nâng qua các thớ cơ của cơ mu trực tràng. Áp xe trên cơ nâng được phân thành 4 loại theo Ortega (2017) [3].
+    + Loại I: áp xe trên cơ nâng gian cơ thắt với ổ nhiễm khuẩn nguyên phát từ ổ nhiễm gian cơ thắt lan xuyên lên trên cơ nâng, có thể kèm hoặc không kèm lan xuống khoang ngồi – hậu môn cùng bên.
 
 - Loại II: áp xe trên cơ nâng có ổ áp xe nguyên phát từ khoang ngồi – hậu môn lan lên trên xuyên cơ nâng cùng bên.
 - Loại III: áp xe trên cơ nâng phía sau ngoài cơ thắt lan từ ổ áp xe nguyên phát là áp xe khoang sau hậu môn sâu.
 - Loại IV: áp xe trên cơ nâng phía ngoài cơ thắt lan đồng thời từ cả hai khoang sau hậu môn sâu và khoang ngồi – hậu môn (một bên hoặc cả hai bên).
 - Áp xe khoang sau trực tràng: ổ mủ nằm phía sau trực tràng, thành dưới là cơ mu cụt, thành trên là phúc mạc, hai bên là mạc chậu.
 
-[Hình: Sơ đồ giải phẫu các vị trí áp xe hậu môn trực tràng]
-- Sau trực tràng (1)
+[Hình: Áp xe hậu môn khoang sau trực tràng (1) và khoang sau hậu môn sâu (2).]
+- 1: Sau trực tràng
+- 2: Sau hậu môn sâu
 - Trên cơ nâng
-- Sau hậu môn sâu (2)
 - Sau hậu môn nông
 - Trước
 
-**Hình 5.** Áp xe hậu môn khoang sau trực tràng (1) và khoang sau hậu môn sâu (2).
+Hình 5. Áp xe hậu môn khoang sau trực tràng (1) và khoang sau hậu môn sâu (2).
 
-[Hình: Hình 6. Phân loại áp xe hậu môn trên cơ nâng. II, III, IV, Q.O]
+[Hình: Phân loại áp xe hậu môn trên cơ nâng. Hình minh họa các vị trí I, II, III, IV và OO]
 
 Hình 6. Phân loại áp xe hậu môn trên cơ nâng.
 
 - Áp xe móng ngựa:
-  + Áp xe móng ngựa là một áp xe hậu môn phức tạp thường hình thành ở phía sau ống hậu môn. Khoang quanh hậu môn nơi áp xe hình thành được giới hạn phía trên là sàn chậu, phía dưới là dây chằng hậu môn cụt, và phía trước là hậu môn trực tràng. Áp xe trong khoang sau hậu môn sâu này có khuynh hướng mở rộng san khoang ngồi hậu môn, một bên hai hai bên.
-  + Áp xe hình móng ngựa: áp xe ít nhất ở hai khoang liên tục nhau theo mặt phẳng cắt ngang ống hậu môn, ổ nhiễm khuẩn nguyên phát ở đường giữa nhưng vì không được tháo lưu mủ ra ngoài nên mủ lan theo áp lực ra hai bên gây ra bệnh cảnh áp xe hậu môn hình móng ngựa. Các ổ áp xe chiếm 5/12 chu vi hay gần phân nửa chu vi hậu môn cũng được gọi là áp xe hậu môn hình móng ngựa.
-  + Phân loại áp xe hậu môn hình móng ngựa theo Ortega (2017) [3]:
-    - Áp xe hình móng ngựa ở phía trước: áp xe hình móng ngựa ở phía trước mặt cắt ngang ống hậu môn.
-    - Áp xe hình móng ngựa ở phía sau: áp xe hình móng ngựa ở phía sau mặt cắt ngang ống hậu môn, bao gồm:
-      - Áp xe khoang sau hậu môn nông
-      - Áp xe khoang sau hậu môn sâu
+    + Áp xe móng ngựa là một áp xe hậu môn phức tạp thường hình thành ở phía sau ống hậu môn. Khoang quanh hậu môn nơi áp xe hình thành được giới hạn phía trên là sàn chậu, phía dưới là dây chằng hậu môn cụt, và phía trước là hậu môn trực tràng. Áp xe trong khoang sau hậu môn sâu này có khuynh hướng mở rộng san khoang ngồi hậu môn, một bên hai hai bên.
+    + Áp xe hình móng ngựa: áp xe ít nhất ở hai khoang liên tục nhau theo mặt phẳng cắt ngang ống hậu môn, ổ nhiễm khuẩn nguyên phát ở đường giữa nhưng vì không được tháo lưu mủ ra ngoài nên mủ lan theo áp lực ra hai bên gây ra bệnh cảnh áp xe hậu môn hình móng ngựa. Các ổ áp xe chiếm 5/12 chu vi hay gần phân nửa chu vi hậu môn cũng được gọi là áp xe hậu môn hình móng ngựa.
+    + Phân loại áp xe hậu môn hình móng ngựa theo Ortega (2017) [3]:
+        - Áp xe hình móng ngựa ở phía trước: áp xe hình móng ngựa ở phía trước mặt cắt ngang ống hậu môn.
+        - Áp xe hình móng ngựa ở phía sau: áp xe hình móng ngựa ở phía sau mặt cắt ngang ống hậu môn, bao gồm:
+            - Áp xe khoang sau hậu môn nông
+            - Áp xe khoang sau hậu môn sâu
 
 - Áp xe khoang trên cơ nâng
 - Áp xe khoang sau trực tràng
 
-## 5. BỆNH CẢNH LÂM SÀNG
+# 5. BỆNH CẢNH LÂM SÀNG
 
 Bệnh nhân bị áp xe hậu môn trực tràng thường xuất hiện đau rất nhiều ở vùng hậu môn hoặc trực tràng. Cơn đau không đổi và có thể đau tăng khi đi cầu trong trường hợp áp xe trong khoảng gian cơ thắt. Các triệu chứng cơ bản của nhiễm khuẩn như sốt và ớn lạnh là các triệu chứng thường gặp. Rỉ dịch mủ từ hậu môn có thể do áp xe đã vỡ hay được dẫn lưu tự phát [2].
 
 Khi thăm khám hậu môn, phát hiện một vùng phập phều hoặc một mảng da sưng đỏ, sạm da quá mức quanh hậu môn có thể được ghi nhận ở những bệnh nhân bị áp xe trong các khoang nông quanh hậu môn.
 
 [Hình: Hình 7. Áp xe quanh hậu môn là một khối mềm, đỏ da chung quanh phù nề.]
+
 [Hình: Hình 8. Áp xe hậu môn móng ngựa.]
 
 Bệnh nhân có áp xe trong khoang sâu hơn (ví dụ, áp xe trên cơ nâng), có thể không có bất kỳ phát hiện thực thể nào khi thăm khám bên ngoài hậu môn và áp xe chỉ có thể được cảm nhận thông qua thăm khám hậu môn trực tràng bằng ngón tay hoặc bằng các phương tiện chẩn đoán hình ảnh [4].
 
 Bốn triệu chứng, chứng tỏ bệnh nhân có áp xe trong các khoang sâu quanh hậu môn trực tràng: đau hậu môn nhiều, nhiễm khuẩn rõ (sốt và ớn lạnh), nhìn bên ngoài da quanh hậu môn không phát hiện áp xe và tăng cảm giác da hậu môn khi thăm khám bằng ngón tay.
 
-## 6. CHẨN ĐOÁN
+# 6. CHẨN ĐOÁN
 
-### 6.1. Thăm khám thực thể
+## 6.1. Thăm khám thực thể
 
-Áp xe hậu môn trực tràng nên được nghi ngờ trong những trường hợp bệnh nhân bị đau dữ dội ở vùng hậu môn hoặc trực tràng. Chẩn đoán áp xe hậu môn trực tràng khi khám thực thể phát hiện một vùng sưng đỏ quanh hậu môn và sờ thấy một khối mềm đau quanh hậu môn. Áp xe trong khoang sâu hơn có thể được chẩn đoán bằng cách thăm khám hậu môn trực tràng bằng ngón tay hay các phương tiện chẩn đoán hình ảnh [4, 6]
+Áp xe hậu môn trực tràng nên được nghi ngờ trong những trường hợp bệnh nhân bị đau dữ dội ở vùng hậu môn hoặc trực tràng. Chẩn đoán áp xe hậu môn trực tràng khi khám thực thể phát hiện một vùng sưng đỏ quanh hậu môn và sờ thấy một khối mềm đau quanh hậu môn. Áp xe trong khoang sâu hơn có thể được chẩn đoán bằng cách thăm khám hậu môn trực tràng bằng ngón tay hay các phương tiện chẩn đoán hình ảnh [4, 6].
 
 [Hình: Thăm khám hậu môn – trực tràng bằng 2 ngón tay (ngón trỏ và ngón cái) để chẩn đoán áp xe hậu môn.]
 
-## 6.2. Chẩn đoán hình ảnh
-
+6.2. Chẩn đoán hình ảnh
 Các nghiên cứu hình ảnh, chẳng hạn như chụp cắt lớp vi tính (CLVT), chụp cộng hưởng từ (CHT) và siêu âm trong lòng hậu môn, có thể xác nhận chẩn đoán khi nghi ngờ áp xe hậu môn trực tràng trong khoang sâu nhưng không thể sờ thấy bằng thăm khám bên ngoài hoặc thăm khám trực tràng kỹ bằng ngón tay.
 
 Siêu âm qua ngả hậu môn thường được chỉ định vì giá thành rẻ, tuy nhiên điều trở ngại của siêu âm là hạn chế đánh giá cơ thắt và những vị trí nhiễm khuẩn sâu của sàn chậu. Chụp CHT có vai trò quan trọng trong đánh giá các bệnh hậu môn-trực tràng, đánh giá các khoang nằm trong sâu và nhiễm khuẩn phức tạp. Chụp CLVT có vai trò giới hạn trong đánh giá áp xe hậu môn và rò hậu môn vì độ phân giải kém khi đánh giá mô mềm. Trong khi đó, CHT có độ phân giải rất tốt để đánh giá và phân biệt các cấu trúc mô mềm, đồng thời cộng hưởng từ còn giúp phát hiện được các vị trí ổ nhiễm khuẩn nằm sâu, hay những ổ áp xe thứ phát [4, 5, 6].
 
 Chỉ định chụp CHT trong các trường hợp sau:
-
-1. Bệnh nhân có tứ chứng nhiễm khuẩn hậu môn trực tràng ẩn
-
+1. Bệnh nhân có chứng nhiễm khuẩn hậu môn trực tràng ẩn
 - Đau hậu môn trực tràng
 - Triệu chứng nhiễm khuẩn rõ
 - Không nhìn thấy áp xe cạnh hậu môn
 - Tăng cảm giác da hậu môn, nên không thể khám hậu môn bằng ngón tay
-
 2. Áp xe hậu môn trên cơ nâng
-
 - Áp xe hậu môn trên cơ nâng loại I – IV
 - Áp xe hậu môn không do nguyên nhân khe tuyến
 - Áp xe hậu môn do hoại tử u
@@ -8197,22 +8320,21 @@ Chỉ định chụp CHT trong các trường hợp sau:
 
 [Hình: Áp xe gian cơ thắt và dưới niêm mạc hậu môn trên Cộng hưởng từ (ảnh cắt ngang và cắt đứng dọc).]
 
-## 7. CHẨN ĐOÁN PHÂN BIỆT
+7. CHẨN ĐOÁN PHÂN BIỆT
 
 Áp xe hậu môn trực tràng nên được chẩn đoán phân biệt với các bệnh khác có thể gây đau hoặc rò rỉ dịch trong vùng trước, quanh hậu môn, đáy chậu và phía sau hậu môn gần vùng cùng cụt [2, 4, 5]. Những bệnh này bao gồm:
 
-**Nứt hậu môn** - Vết nứt hậu môn là vết rách ở vùng da hậu môn phía dưới đường lược. Hầu hết các vết nứt hậu môn xảy ra tại vị trí đường giữa sau. Một vết nứt ở da hậu môn có thể đơn độc hay kết hợp với rò hậu môn hay áp xe hậu môn gian cơ thắt phía sau. Bệnh nhân bị một vết nứt hậu môn cấp tính đơn thuần với đau rát đi kèm với đi tiêu, trong khi đau liên quan đến áp xe hậu môn là liên tục và thường không liên quan đến việc đi tiêu. Nếu nứt hậu môn kết hợp với áp xe hậu môn gian cơ thắt phía sau, triệu chứng đau khi đi cầu sẽ không có giá trị để chẩn đoán phân biệt.
+**Nứt hậu môn** - Vết nứt hậu môn là vết rách ở vùng da hậu môn phía dưới đường lược. Hầu hết các vết nứt hậu môn xảy ra tại vị trí đường giữa sau. Một vết nứt ở hậu môn có thể đơn độc hay kết hợp với rò hậu môn hay áp xe hậu môn gian cơ thắt phía sau. Bệnh nhân bị một vết nứt hậu môn cấp tính đơn thuần với đau rát đi kèm với đi tiêu, trong khi đau liên quan đến áp xe hậu môn là liên tục và thường không liên quan đến việc đi tiêu. Nếu nứt hậu môn kết hợp với áp xe hậu môn gian cơ thắt phía sau, triệu chứng đau khi đi cầu sẽ không có giá trị để chẩn đoán phân biệt.
 
-[Hình: Nứt hậu môn mạn tính và bệnh trĩ, đáy vết nứt là cơ thắt trong và da thừa hậu môn theo vết nứt.] Hình 11. Nứt hậu môn mạn tính và bệnh trĩ, đáy vết nứt là cơ thắt trong và da thừa hậu môn theo vết nứt.
+[Hình: Hình 11. Nứt hậu môn mạn tính và bệnh trĩ, đáy vết nứt là cơ thắt trong và da thừa hậu môn theo vết nứt.]
 
-[Hình: Rò hậu môn với nhiều lỗ rò ngoài.] Hình 12. Rò hậu môn với nhiều lỗ rò ngoài.
+[Hình: Hình 12. Rò hậu môn với nhiều lỗ rò ngoài.]
 
 **Rò hậu môn** - Rò hậu môn là một đường rò được biểu mô hóa, kết nối áp xe với da vùng đáy chậu. Áp xe hậu môn trực tràng có thể xuất hiện đồng thời với rò hậu môn. Rò hậu môn mạn tính được đặc trưng bởi rò mủ mạn tính và tổn thương giống như mụn mủ ở khu vực quanh hậu môn hoặc mông (lỗ rò ngoài). Bệnh nhân có một lỗ rò hậu môn thường đau hậu môn trực tràng tái lại, thay vì liên tục, rỉ dịch hôi và ngứa hậu môn.
 
 **Bệnh trĩ ngoại huyết khối**
-
 - Bệnh nhân bị bệnh trĩ ngoại có huyết khối xuất hiện cấp tính khởi phát cơn đau quanh hậu môn và sờ thấy một "khối nhỏ" quanh hậu môn do huyết khối của một hoặc nhiều búi trĩ ngoại tạo nên.
-- Mặc dù cả áp xe và bệnh trĩ ngoại có biến chứng huyết khối đều bị đau hậu môn trực tràng, bệnh trĩ ngoại có thể được phân biệt với áp xe quanh hậu môn do sự xuất hiện của một “khối nhỏ” (trĩ ngoại) ở rìa hậu môn.
+- Mặc dù cả áp xe và bệnh trĩ ngoại có biến chứng huyết khối đều bị đau hậu môn trực tràng, bệnh trĩ ngoại có thể được phân biệt với áp xe quanh hậu môn do sự xuất hiện của một "khối nhỏ" (trĩ ngoại) ở rìa hậu môn.
 
 [Hình: Hình 13. Bệnh trĩ ngoại có huyết khối.]
 
@@ -8220,7 +8342,7 @@ Chỉ định chụp CHT trong các trường hợp sau:
 
 **Bệnh trĩ nội sa nghẹt** - Trĩ nội là một cấu trúc mạch máu bình thường trong ống hậu môn có thể tăng sinh, tăng kích thước, sa và nghẹt (dẫn đến hoại tử), chứ không phải áp xe hậu môn.
 
-**Áp xe da mông** - Áp xe da mông có thể phát triển như nhọt hoặc nang bã bị nhiễm khuẩn. So với áp xe quanh hậu môn, áp xe da kín đáo và bệnh cảnh lâm sàng nhẹ hơn, ít đau hơn và ít gây ra các triệu chứng toàn thân (ví dụ như sốt).
+**Áp xe da mông** - Áp xe da mông có thể phát triển như nhọt hoặc nang bã bị nhiễm khuẩn. So với áp xe quanh hậu môn, áp xe da kín đáo và bệnh cảnh lâm sàng nhẹ hơn, ít đau hơn và ít gây ra các triệuệu chứng toàn thân (ví dụ như sốt).
 
 **Áp xe tuyến Bartholin** - Một ống tuyến Bartholin có thể bị nhiễm khuẩn tắc nghẽn và tạo thành áp xe. Áp xe tuyến Bartholin có thể được phân biệt với áp xe quanh hậu môn nhờ vào vị trí ở âm hộ.
 
@@ -8230,52 +8352,55 @@ Chỉ định chụp CHT trong các trường hợp sau:
 
 **Viêm mủ tuyến mồ hôi** - Viêm mủ tuyến mồ hôi là một bệnh nhiễm khuẩn tuyến mồ hôi do tắc nghẽn mạn tính liên quan đến vùng nếp gấp da ở nách, bẹn, quanh hậu môn, đáy chậu và dưới vú. Viêm mủ tuyến mồ hôi quanh hậu môn có thể tạo nhiễm khuẩn và rỉ dịch mủ. Tuy nhiên, viêm mủ tuyến mồ hôi thường có biểu hiện thay đổi da
 
-đặc trưng như các nốt viêm, đường rò xoang và sẹo gây biến dạng da. Các biểu hiện này không gặp trong áp xe quanh hậu môn.
+391 đặc trưng như các nốt viêm, đường rò xoang và sẹo gây biến dạng da. Các biểu hiện này không gặp trong áp xe quanh hậu môn.
 
-**Bệnh tổ lông** - Bệnh nhân mắc bệnh tổ lông vùng cùng cụt có thể biểu hiện lâm sàng là một áp xe cấp tính. Tuy nhiên, áp xe trong bệnh tổ lông thường xảy ra trong rãnh gian mông và trong khu vực xương cùng trên hậu môn, thay vì ở khu vực quanh hậu môn.
+Bệnh tổ lông - Bệnh nhân mắc bệnh tổ lông vùng cùng cụt có thể biểu hiện lâm sàng là một áp xe cấp tính. Tuy nhiên, áp xe trong bệnh tổ lông thường xảy ra trong rãnh gian mông và trong khu vực xương cùng trên hậu môn, thay vì ở khu vực quanh hậu môn.
 
 [Hình: Hình 17. Bệnh viêm mủ tuyến mồ hôi quanh hậu môn, biểu hiện lâm sàng là các nốt, đường rò xoang, nhiễm khuẩn và viêm.]
 
 [Hình: Hình 18. Bệnh tổ lông vùng cùng cụt giai đoạn cấp tính gây áp xe.]
 
-## 8. ĐIỀU TRỊ ÁP XE HẬU MÔN
+8. ĐIỀU TRỊ ÁP XE HẬU MÔN
 
-Điều trị chính của áp xe hậu môn là phẫu thuật dẫn lưu. Sau khi được chẩn đoán, tất cả các áp xe quanh hậu môn và trực tràng phải được dẫn sớm kịp thời; không phập phều không phải là một lý do để trì hoãn điều trị. Bất kỳ áp xe hậu môn nào không được rạch và dẫn lưu có thể tiếp tục lan rộng sang các khoang liền kề cũng như tiến triển thành nhiễm khuẩn toàn thân^[3, 4].
+Điều trị chính của áp xe hậu môn là phẫu thuật dẫn lưu. Sau khi được chẩn đoán, tất cả các áp xe quanh hậu môn và trực tràng phải được dẫn sớm kịp thời; không phập phều không phải là một lý do để trì hoãn điều trị. Bất kỳ áp xe hậu môn nào không được rạch và dẫn lưu có thể tiếp tục lan rộng sang các khoang liền kề cũng như tiến triển thành nhiễm khuẩn toàn thân [3, 4].
 
 Tất cả các phẫu thuật rạch và dẫn lưu cho áp xe hậu môn trực tràng đều tuân theo cùng các nguyên tắc chung nhưng có thể thay đổi theo phương pháp tiếp cận phẫu thuật (rạch dẫn lưu ra da hoặc vào trực tràng) tùy thuộc vào vị trí giải phẫu của áp xe.
 
-### 8.1. Các nguyên tắc phẫu thuật
+8.1. Các nguyên tắc phẫu thuật
 
-#### 8.1.1. Đường rạch
+8.1.1. Đường rạch
 
 Tất cả các vết rạch trên da phải được thực hiện càng gần rìa hậu môn càng tốt để giảm thiểu chiều dài đường rò hậu môn trong khi vẫn đáp ứng dẫn lưu đầy đủ ổ áp xe.
 
-#### 8.1.2. Nhét gạc chặt trong vết thương
+8.1.2. Nhét gạc chặt trong vết thương
 
-Nhét gạc chặt trong vết thương thường được thực hiện sau khi rạch và dẫn lưu áp xe hậu môn trực tràng. Tuy nhiên, kết quả từ các thử nghiệm ngẫu nhiên cho thấy không có lợi mà đôi khi còn kéo dài tình trạng nhiễm khuẩn và gây mất tự chủ hậu môn do gây tổn thương mạch máu và thần kinh của ống hậu môn. Áp xe sau rạch dẫn lưu và nhét bấc chặt có tỷ lệ tái phát và rò hậu môn tương tự như các trường hợp không nhét gạc.
+Nhét gạc chặt trong vết thương thường được thực hiện sau khi rạch và dẫn lưu áp xe hậu môn trực tràng. Tuy nhiên, kết quả từ các thử nghiệm ngẫu nhiên cho thấy không có lợi mà đôi khi còn kéo dài tình trạng nhiễm khuẩn và gây mất tự chủ hậu môn do gây tổn thương mạch máu và thần kinh của ống hậu môn. Áp xe sau rạch dẫn lưu và nhét gạc chặt có tỷ lệ tái phát và rò hậu môn tương tự như các trường hợp không nhét gạc.
 
-## 8.1.3. Phẫu thuật cắt mở đường rò đồng thời
+### 8.1.3. Phẫu thuật cắt mở đường rò đồng thời
 
 30% đến 70% bệnh nhân bị áp xe hậu môn trực tràng có đồng thời lỗ rò hậu môn. Ở những bệnh nhân đó, có hay không thực hiện dẫn lưu áp xe với cắt mở đường rò ngay thì đầu còn gây tranh cãi. Thông thường cắt mở lỗ rò có thể được thực hiện một cách thận trọng đối với các lỗ rò hậu môn đơn giản hoặc khi nguy cơ tái phát cao (ví dụ, áp xe móng ngựa). Đối với những bệnh nhân khác, tốt nhất là giai đoạn cắt bỏ lỗ rò như một phẫu thuật thứ hai sau khi dẫn lưu áp xe làm giảm viêm và phù nề.
 
-Một tổng quan của Cochrane năm 2010 về 6 thử nghiệm, bao gồm 479 bệnh nhân, kết luận rằng sự phân chia cơ thắt trong (cắt mở đường rò) được thực hiện với phẫu thuật rạch dẫn lưu áp xe làm giảm tỷ lệ lỗ rò áp xe kéo dài, tái phát áp xe và phẫu thuật tiếp theo, nhưng tăng tỷ lệ không tự chủ sau một năm theo dõi.
+Một tổng quan của Cochrane năm 2010 về 6 thử nghiệm, bao gồm 479 bệnh nhân, kết luận rằng sự phân chia cơ thắt trong (cắt mở đường rò) được thực hiện với phẫu thuật rạch dẫn lưu áp xe làm giảm tỷ lệ lỗ rò hay áp xe kéo dài, tái phát áp xe và phẫu thuật tiếp theo, nhưng tăng tỷ lệ không tự chủ sau một năm theo dõi.
 
 Do đó, quyết định thực hiện phẫu thuật cắt bỏ đường rò đồng thời so với trì hoãn nên được đưa ra sau khi cân nhắc lợi ích (lành bệnh) so với nguy cơ (không tự chủ) cho mỗi bệnh nhân. Điều kiện tại chỗ thuận lợi hơn khi tình trạng phù và viêm đã giảm để thực hiện một phẫu thuật cắt bỏ lỗ rò hay cắt mở lỗ rò trì hoãn.
 
-## 8.1.4. Kháng sinh
+### 8.1.4. Kháng sinh
 
 Nên điều trị một đợt kháng sinh theo kinh nghiệm cho tất cả bệnh nhân sau khi rạch và dẫn lưu áp xe hậu môn trực tràng. Việc điều trị như vậy có thể làm giảm tỷ lệ hình thành rò hậu môn. Kháng sinh thường được sử dụng là amoxicillin-clavulanate 4-5 ngày hoặc kết hợp ciprofloxacin và metronidazole [4].
 
 Hội Phẫu Thuật (Viên) Đại Trực Tràng Hoa kỳ (ASCRS) đề xuất một đợt điều trị bằng kháng sinh theo kinh nghiệm sau khi dẫn lưu áp xe hậu môn trực tràng ở những trường hợp sau:
+
 - Viêm mô tế bào quanh hậu môn hay quanh trực tràng
 - Có dấu hiệu nhiễm khuẩn toàn thân
 - Bệnh tiểu đường
 - Bệnh hở van tim
 - Suy giảm miễn dịch
 
-## 8.1.5. Cấy vết thương
+### 8.1.5. Cấy vết thương
 
 Cấy vết thương thông thường là không cần thiết đối với hầu hết bệnh nhân được rạch dẫn lưu áp xe hậu môn trực tràng [4]. Tuy nhiên, cấy vết thương có thể được thực hiện trong các trường hợp sau:
+
+393
 
 - Ở những bệnh nhân sẽ được điều trị kháng sinh.
 - Ở những bệnh nhân đã dùng nhiều đợt kháng sinh, những người có thể bị kháng kháng sinh.
@@ -8289,40 +8414,41 @@ Cấy vết thương thông thường là không cần thiết đối với hầ
 
 Áp xe quanh hậu môn phải được dẫn lưu qua vết rạch da. Phẫu thuật có thể được thực hiện ngoại trú như phòng khám, khoa cấp cứu hoặc phòng thủ thuật trong trường hợp ổ áp xe nằm nông sát da.
 
-Sau khi tiêm thấm vào da trên ổ áp xe bằng thuốc gây tê tại chỗ (ví dụ, lidocain), Một vết mổ hình chữ thập được thực hiện càng gần rìa hậu môn càng tốt để dẫn lưu mủ ra khỏi khoang áp xe. Khoang áp xe được bơm rửa bằng nước muối vô trùng và vết thương được băng bằng gạc vô trùng; không cần nhét gạc chặt vết thương. Sau phẫu thuật, vùng mổ được giữ sạch bằng ngâm hậu môn với nước ấm hoặc rửa bằng vòi hoa sen cầm tay thường xuyên cho đến khi vết mổ lành $^-[5]$.
+Sau khi tiêm thấm vào da trên ổ áp xe bằng thuốc gây tê tại chỗ (ví dụ, lidocain), một vết mổ hình chữ thập được thực hiện càng gần rìa hậu môn càng tốt để dẫn lưu mủ ra khỏi khoang áp xe. Khoang áp xe được bơm rửa bằng nước muối vô trùng và vết thương được băng bằng gạc vô trùng; không cần nhét gạc chặt vết thương. Sau phẫu thuật, vùng mổ được giữ sạch bằng ngâm hậu môn với nước ấm hoặc rửa bằng vòi hoa sen cầm tay thường xuyên cho đến khi vết mổ lành [5].
 
-[Hình: Rạch dẫn lưu áp xe khoang quanh hậu môn. A, B, C]
-
-**Hình 19.** Rạch dẫn lưu áp xe khoang quanh hậu môn.
+[Hình: A, B, C]
+**Hình 19. Rạch dẫn lưu áp xe khoang quanh hậu môn.**
 
 **8.2.2. Áp xe quanh trực tràng**
 
 Hầu hết các áp xe quanh trực tràng rất phức tạp và cần được dẫn lưu trong phòng mổ, tốt nhất là tê tủy sống hoặc vô cảm toàn thân.
 
 Các phương pháp phẫu thuật khác nhau tùy theo vị trí của áp xe:
-- **Áp xe khoang ngồi hậu môn** - Áp xe khoang ngồi hậu môn nên được dẫn lưu qua vết rạch da. Vết rạch da hình chữ thập được thực hiện càng gần phức hợp cơ thắt
+- Áp xe khoang ngồi hậu môn - Áp xe khoang ngồi hậu môn nên được dẫn lưu qua vết rạch da. Vết rạch da hình chữ thập được thực hiện càng gần phức hợp cơ thắt
 
 càng tốt để giảm thiểu chiều dài của đường rò hậu môn do tái phát. Các khoang áp xe được bơm rửa bằng nước muối vô trùng và vết thương băng gạc vô trùng; không cần thiết phải nhét gạc chặt vết thương. Sau phẫu thuật, vùng mổ được giữ sạch bằng cách ngâm hậu môn với nước ấm hoặc rửa bằng vòi hoa sen cầm tay thường xuyên cho đến khi vết mổ lành.
 
-- **Áp xe khoang gian cơ thắt** - Áp xe khoang gian cơ thắt phải được dẫn lưu vào trực tràng thông qua một phẫu thuật cắt đôi cơ thắt trong của hậu môn - trực tràng.
+- **Áp xe khoang gian cơ thắt** - Áp xe khoang gian cơ thắt phải được dẫn lưu vào trực tràng thông qua một phẫu thuật cắt đôi cơ thắt trong của hậu môn – trực tràng.
 
 Sau khi bệnh nhân được vô cảm đầy đủ, một dụng cụ banh hậu môn được đặt trong ống hậu môn bộc lộ áp xe gian cơ thắt. Đường rạch da - niêm mạc được thực hiện bên dưới đường lược, và cơ thắt trong được cắt mở cho đến đường lược. Chỏm của khoang áp xe được cắt bỏ. Các khoang áp xe sau đó bị mở rộng để dẫn lưu mủ. Tiếp theo đó, bờ cắt của niêm mạc và cơ thắt trong có thể được khâu kiểu mở thông khoang (marsupialized) để cầm máu. Khoang áp xe được để mở để dẫn lưu mủ, không nhét gạc chặt hoặc không cần đặt ống dẫn lưu. Bệnh nhân nên thực hiện ngâm hậu môn nước ấm thường xuyên để giữ vết thương sạch sẽ. Vết mổ lành trong 3-4 tuần mà không cần bất kỳ phẫu thuật bổ sung nào [2].
 
-[Hình: b, c]
+[Hình: b c]
 
-**Hình 20.** Rạch dẫn lưu khoang gian cơ thắt vào trong lòng hậu môn - trực tràng.
+**Hình 20. Rạch dẫn lưu khoang gian cơ thắt vào trong lòng hậu môn – trực tràng.**
 
-## 8.2.3. Áp xe trên cơ nâng
+8.2.3. **Áp xe trên cơ nâng**
 
 Áp xe trên cơ nâng có thể được dẫn lưu theo một trong hai cách tùy thuộc vào nguồn gốc của áp xe: áp xe hình thành như một phần mở rộng lên phía trên của áp xe khoang ngồi hậu môn nên được dẫn lưu qua một vết rạch da (xem áp xe khoang ngồi hậu môn phía trên). Áp xe bắt nguồn như một phần mở rộng của một áp xe gian cơ thắt nên được dẫn lưu vào trực tràng thông qua một vết mổ ở thành trực tràng hoặc hậu môn để tránh tạo ra một lỗ rò ngoài cơ thắt ngoài hay trên cơ thắt [3].
 
-[Hình: Hình 21. Áp xe trên cơ nâng loại I, được dẫn lưu vào trong trực tràng. Nếu phát hiện lỗ rò trong có thể cắt mở đường rò hay dẫn lưu bằng seton.]
+[Hình: Hai hình minh họa giải phẫu vùng hậu môn trực tràng, hình bên trái có chú thích "Đường rạch dẫn lưu", hình bên phải có chú thích "Đường rạch dẫn lưu"]
 
-- [Hình: Đường rạch dẫn lưu]
+Hình 21. Áp xe trên cơ nâng loại I, được dẫn lưu vào trong trực tràng. Nếu phát hiện lỗ rò trong có thể cắt mở đường rò hay dẫn lưu bằng seton.
 
-[Hình: Hình 22. Áp xe trên cơ nâng loại II, được dẫn lưu ra da, trong trường hợp phát hiện lỗ rò trong có thể đặt seton dẫn lưu.]
+[Hình: Hai hình minh họa giải phẫu vùng hậu môn trực tràng, hình bên trái có mũi tên chỉ xuống, hình bên phải có hình ảnh đặt seton]
 
-## 8.2.4. Áp xe móng ngựa
+Hình 22. Áp xe trên cơ nâng loại II, được dẫn lưu ra da, trong trường hợp phát hiện lỗ rò trong có thể đặt seton dẫn lưu.
+
+8.2.4. Áp xe móng ngựa
 
 Hầu hết áp xe móng ngựa bắt nguồn từ khoang hậu môn sâu lan qua khoang ngồi hậu môn một hay hai bên. Do đó, điều cơ bản để điều trị áp xe móng ngựa là dẫn lưu đầy đủ khoang sau hậu môn sâu. Đường mổ để điều trị áp xe khoang sau hậu môn sâu là đường rạch sau giữa đi từ xương cụt đến hậu môn, nhưng vết mổ thường khó lành.
 
@@ -8332,23 +8458,27 @@ Hầu hết bệnh nhân không có áp xe khoang sau hậu môn sâu đơn thu�
 
 Khi phát hiện được lỗ rò, có thể đặt seton dẫn lưu. Cắt mở đường rò có thể được thực hiện đồng thời với rạch dẫn lưu để làm giảm nguy cơ tái phát nhưng tăng nguy cơ không tự chủ hậu môn và do đó chỉ được thực hiện cho những bệnh nhân được lựa chọn phù hợp. Khi mô chung quanh áp xe nhiễm khuẩn và phù nề nhiều có thể thực hiện phẫu thuật lần 2 để cắt bỏ đường rò.
 
-[Hình: Phẫu thuật Hanley điều trị áp xe trên cơ nâng loại III, tiếp cận khoang sau hậu môn sâu và khoang sau trực tràng.]
-- Đường rạch da sau giữa
+[Hình: Phẫu thuật Hanley điều trị áp xe trên cơ nâng loại III, tiếp cận khoang sau hậu môn sâu và khoang sau trực tràng]
+
 - Tiếp cận khoang sau hậu môn sâu và sau trực tràng
 - Đường xẻ dây chằng hậu môn-cụt
+- Đường rạch da sau giữa
 
-**Hình 23.** Phẫu thuật Hanley điều trị áp xe trên cơ nâng loại III, tiếp cận khoang sau hậu môn sâu và khoang sau trực tràng.
+**Hình 23. Phẫu thuật Hanley điều trị áp xe trên cơ nâng loại III, tiếp cận khoang sau hậu môn sâu và khoang sau trực tràng.**
 
-[Hình: Hình 24. Phẫu thuật Hanley kết hợp dẫn lưu khoang ngồi hậu môn, khoang sau hậu môn sâu, khoang sau trực tràng và đặt seton dẫn lưu.]
-- Ông dẫn lưu khoang trên cơ nâng và sau trực tràng
+[Hình: Phẫu thuật Hanley kết hợp dẫn lưu khoang ngồi hậu môn, khoang sau hậu môn sâu, khoang sau trực tràng và đặt seton dẫn lưu.]
+
+- Ống dẫn lưu khoang trên cơ nâng và sau trực tràng
 - Đường rạch dẫn lưu khoang ngồi hậu môn
 - Seton dẫn lưu lỗ rò
 
-## 9. KẾT LUẬN
+Hình 24. Phẫu thuật Hanley kết hợp dẫn lưu khoang ngồi hậu môn, khoang sau hậu môn sâu, khoang sau trực tràng và đặt seton dẫn lưu.
+
+9. KẾT LUẬN
 
 Áp xe hậu môn trực tràng là bệnh nhiễm khuẩn của hậu môn trực tràng cần phải phẫu thuật sớm. Việc chẩn đoán chính xác vị trí các ổ áp xe trong các khoang giải phẫu, thực hiện đúng các nguyên lý điều trị và tiếp cận phẫu thuật phù hợp theo vị trí áp xe quanh hậu môn trực tràng là điều cần thiết để tránh áp xe kéo dài, áp xe tái phát hay rò hậu môn phức tạp khó điều trị.
 
-## TÀI LIỆU THAM KHẢO
+TÀI LIỆU THAM KHẢO
 
 1. Sahnan, K., Adegbola, S. O., Tozer, P. J., et al (2017). Perianal abscess. Bmj, 356, j475.
 2. Saur, N. M., & Sands, D. R. (2016). Anorectal Abscess. In Anorectal Disease. Springer International Publishing, Chaper 4: 79-94 .
@@ -8357,9 +8487,9 @@ Khi phát hiện được lỗ rò, có thể đặt seton dẫn lưu. Cắt m�
 5. Pescatori, M. (2012). Prevention and treatment of complications in proctological surgery. Springer Science & Business Media, Chapter 3: 57-85.
 6. Cohen, R., & Windsor, A. (2016). Anus. Springer London Limited, Chapter 17: 221-231.
 
-# CÂU HỎI LƯỢNG GIÁ
+CÂU HỎI LƯỢNG GIÁ
 
-1. Bệnh nhân nam 20 tuổi, đau hậu môn nhiều 3 ngày nay, hậu môn khám có khối áp xe 2 cm vị trí 6 g, trĩ huyết khối vị trí 4 giờ, xử trí chọn lựa là?
+1. Bệnh nhân nam 20 tuổi, đau hậu môn nhiều 3 ngày nay, hậu môn khám có khối áp xe 2 cm vị trí 6 giờ, trĩ huyết khối vị trí 4 giờ, xử trí chọn lựa là?
 A. Cắt trĩ và điều trị kháng sinh để thu gọn áp xe, sau đó rạch tháo mủ
 B. Rạch tháo mủ và điều trị nội khoa trĩ huyết khối
 C. Rạch tháo mủ và cắt trĩ cùng lúc trong 1 lần mổ
@@ -8389,8 +8519,10 @@ B. Áp xe nguyên phát từ khoang ngồi hậu môn
 C. Áp xe nguyên phát từ khoang sau hậu môn sâu
 D. Áp xe nguyên phát từ khoang sau trực tràng
 
+399
+
 # RÒ HẬU MÔN
-Lê Châu Hoàng Quốc Chương, Trần Hoàng Ngầu
+Lê Châu Hoàng Quốc Chương, Trần Hoàng Ngâu
 
 MỤC TIÊU
 1. Nêu lên được giải phẫu vùng hậu môn liên quan bệnh rò hậu môn.
@@ -8403,47 +8535,49 @@ MỤC TIÊU
 Từ khóa: rò hậu môn, áp xe hậu môn, phẫu thuật mở đường rò, siêu âm ngả trực tràng.
 
 1. ĐẠI CƯƠNG
-
 Đường rò (fistula) được định nghĩa là đường thông nối giữa hai bề mặt bao phủ bởi biểu mô (chẳng hạn như biểu mô đường tiêu hóa hay mạch máu) mà trong trường hợp bình thường không thông nối với nhau. Như vậy, rò hậu môn được định nghĩa là đường thông nối giữa đoạn cuối ống tiêu hóa và biểu mô da.
 
 Rò hậu môn và áp xe quanh hậu môn tương ứng với cùng một khởi điểm là nhiễm khuẩn của khe-tuyến hậu môn. Áp xe hậu môn thể hiện tình trạng cấp tính và là hậu quả của lỗ khe tuyến bị tắt. Áp xe hậu môn chữa trị không tốt sẽ diễn tiến thành rò hậu môn với lỗ trong nằm trên đường lược và lỗ ngoài nằm ở da quanh hậu môn. Trong quá trình diễn tiến, áp xe hậu môn lại xuất hiện nếu đường đường rò lành bên ngoài da gây ứ đọng mủ. Như thế diễn biến có thể lặp lại cho đến khi bệnh được điều trị triệt để.
 
-> Nguyên nhân của rò hậu môn bao gồm 90% do nhiễm khuẩn khe-tuyến, do chấn thương hoặc sau phẫu thuật vùng hậu môn - trực tràng (3%), bệnh lý viêm ruột (3%), sau nứt hậu môn (3%) và do lao trong ít hơn 1%.
+> Nguyên nhân của rò hậu môn bao gồm 90% do nhiễm khuẩn khe-tuyến, do chấn thương hoặc sau phẫu thuật vùng hậu môn – trực tràng (3%), bệnh lý viêm ruột (3%), sau nứt hậu môn (3%) và do lao trong ít hơn 1%.
 
-Tần suất của rò hậu môn rất khó đánh giá, cho đến nay không có một nghiên cứu dịch tễ nào tính được chính xác tần suất của bệnh rò hậu môn. Tỷ lệ mới mắc của rò hậu môn ở Mỹ là 2/10.000 người mỗi năm, tương đương 20.000 - 25.000 mỗi năm. Tỷ lệ mắc bệnh ở nam cao hơn ở nữ. Tỷ lệ mắc bệnh nam/nữ: 2/1 đến 4/1, tỷ lệ cao nhất được báo cáo ở Ấn Độ là 4/1. Lứa tuổi thường bị là dưới 40 tuổi (từ 30-50 tuổi), tỷ lệ xuất hiện ở người nhỏ tuổi hơn xảy ra theo báo cáo ở Nigeria và người Mỹ da đen.
+Tần suất của rò hậu môn rất khó đánh giá, cho đến nay không có một nghiên cứu dịch tễ nào tính được chính xác tần suất của bệnh rò hậu môn. Tỷ lệ mới mắc của rò hậu môn ở Mỹ là 2/10.000 người mỗi năm, tương đương 20.000 – 25.000 mỗi năm. Tỷ lệ mắc bệnh ở nam cao hơn ở nữ. Tỷ lệ mắc bệnh nam/nữ: 2/1 đến 4/1, tỷ lệ cao nhất được báo cáo ở Ấn Độ là 4/1. Lứa tuổi thường bị là dưới 40 tuổi (từ 30-50 tuổi), tỷ lệ xuất hiện ở người nhỏ tuổi hơn xảy ra theo báo cáo ở Nigeria và người Mỹ da đen.
 
 Mặc dù bệnh sinh và nguyên nhân của rò hậu môn được hiểu biết từ rất lâu, nhưng điều trị rò hậu môn vẫn là một thách thức với các phẫu thuật viên chuyên ngành hậu môn - trực tràng. Gần đây, với các phương tiện chẩn đoán hình ảnh đặc hiệu đã giúp chẩn đoán rò hậu môn chính xác hơn và đưa ra nhiều phương pháp phẫu thuật mới.
 
-## 2. NHẮC LẠI GIẢI PHẪU LIÊN QUAN RÒ HẬU MÔN
+# 2. NHẮC LẠI GIẢI PHẪU LIÊN QUAN RÒ HẬU MÔN
 
-### 2.1. Tuyến hậu môn
+## 2.1. Tuyến hậu môn
 
-Ở phần dưới niêm mạc của ống hậu môn có những tuyến hậu môn (anal glands), những ống của tuyến hậu môn này đổ vào trong ống hậu môn ở khe hậu môn (crypts of Morgagni). Đa số tuyến hậu môn này tập trung ở phần sau của ống hậu môn. Thông thường có khoảng từ 4-12 tuyến hậu môn được tìm thấy tại đường lược. Những tuyến này được lót bởi biểu mô lát tầng không sừng hóa và được mô tả lần đầu tiên bởi Chiari năm 1878. Có thể một hoặc nhiều tuyến cùng đổ vào một khe hậu môn. Ngược lại, có đến phân nửa các khe hậu môn không có liên kết với tuyến hậu môn. Những ống của các tuyến này phát triển xuống bên dưới ở lớp dưới niêm mạc hậu môn và ra ngoài với 2/3 các tuyến hậu môn xuyên qua cơ thắt trong hậu môn. Có khoảng 1/2 các tuyến hậu môn sẽ phát triển ra ngoài đến khoang gian cơ thắt. Hầu hết các tuyến hậu môn nằm ở bán phần sau, điều này được minh chứng trên lâm sàng là các áp xe hậu môn thường ở vị trí này. Bệnh sinh của áp xe và rò hậu môn có liên quan đến nhiễm khuẩn các tuyến hậu môn được Parks mô tả đầu tiên.
+Ở phần dưới niêm mạc của ống hậu môn có những tuyến hậu môn (anal glands), những ống của tuyến hậu môn này đổ vào trong ống hậu môn ở khe hậu môn (crypts of Morgagni). Đa số tuyến hậu môn này tập trung ở phần sau của ống hậu môn. Thông thường có khoảng từ 4-12 tuyến hậu môn được tìm thấy tại đường lược. Những tuyến này được lót bởi biểu mô lát tầng không sừng hóa và được mô tả lần đầu tiên bởi Chiari năm 1878. Có thể một hoặc nhiều tuyến cùng đổ vào một khe hậu môn. Ngược lại, có đến phân nửa các khe hậu môn không có liên kết với tuyến hậu môn. Những ống của các tuyến này phát triển xuống bên dưới ở lớp dưới niêm mạc hậu môn và ra ngoài với 2/3 các tuyến hậu môn xuyên qua cơ thắt trong hậu môn. Có khoảng 1/2 các tuyến hậu môn sẽ phát triển ra ngoài đến khoang gian cơ thắt. Hầu hết các tuyến hậu môn nằm ở bản phần sau, điều này được minh chứng trên lâm sàng là các áp xe hậu môn thường ở vị trí này. Bệnh sinh của áp xe và rò hậu môn có liên quan đến nhiễm khuẩn các tuyến hậu môn được Parks mô tả đầu tiên.
 
-Chức năng của các tuyến hậu môn hiện nay vẫn chưa được biết rõ. Với phương pháp nhuộm hóa mô miễn dịch cho thấy có sự hiện diện của các tế bào tiết nhầy trong tuyến hậu môn. Tuy nhiên, các tuyến này tiết ra chất nhầy (mucin) nhưng có thành phần khác với chất tiết nhầy (mucus) của niêm mạc trực tràng có nhiệm vụ bôi trơn cho khối phân khi đi qua vùng trực tràng – hậu môn. Từ nghiên cứu so sánh về giải phẫu của McColl, thì tuyến hậu môn là cấu trúc riêng biệt có liên quan với sự bài tiết chất tạo mùi (scent secretion) và nó không phải là vết tích còn lại của tuyến tạo mùi sinh dục. Shafik cho là đây không phải là tuyến thật mà chỉ là vết tích còn lại từ sự xếp nếp niêm mạc trực tràng đoạn cuối.
+Chức năng của các tuyến hậu môn hiện nay vẫn chưa được biết rõ. Với phương pháp nhuộm hóa mô miễn dịch cho thấy có sự hiện diện của các tế bào tiết nhầy trong tuyến hậu môn. Tuy nhiên, các tuyến này tiết ra chất nhầy (mucin) nhưng có thành phần khác với chất tiết nhầy (mucus) của niêm mạc trực tràng có nhiệm vụ bôi trơn cho khối phân khi đi qua vùng trực tràng - hậu môn. Từ nghiên cứu so sánh về giải phẫu của McColl, thì tuyến hậu môn là cấu trúc riêng biệt có liên quan với sự bài tiết chất tạo mùi (scent secretion) và nó không phải là vết tích còn lại của tuyến tạo mùi sinh dục. Shafik cho là đây không phải là tuyến thật mà chỉ là vết tích còn lại từ sự xếp nếp niêm mạc trực tràng đoạn cuối.
 
-### 2.2. Cơ thắt hậu môn
+## 2.2. Cơ thắt hậu môn
 
-Hiểu rõ về giải phẫu của cơ thắt hậu môn là điều rất quan trọng đối với phẫu thuật viên khi phẫu thuật rò hậu môn. Người ta thường nói, danh tiếng của phẫu thuật viên hậu môn – trực tràng liên quan đến các biến chứng sau mổ rò hậu môn hơn tất cả các loại phẫu thuật khác. Biến chứng của phẫu thuật rò hậu môn có thể bao gồm són phân, rỉ dịch hậu môn kéo dài, đi tiêu mất kiểm soát ở các mức độ khác nhau (mất kiểm soát hơi, phân lỏng...), áp xe hậu môn tái phát hoặc rò hậu môn tái phát.
+Hiểu rõ về giải phẫu của cơ thắt hậu môn là điều rất quan trọng đối với phẫu thuật viên khi phẫu thuật rò hậu môn. Người ta thường nói, danh tiếng của phẫu thuật viên hậu môn - trực tràng liên quan đến các biến chứng sau mổ rò hậu môn hơn tất cả các loại phẫu thuật khác. Biến chứng của phẫu thuật rò hậu môn có thể bao gồm són phân, rò dịch hậu môn kéo dài, đi tiêu mất kiểm soát ở các mức độ khác nhau (mất kiểm soát hơi, phân lỏng...), áp xe hậu môn tái phát hoặc rò hậu môn tái phát.
 
 2.2.1. Cơ thắt trong hậu môn
-Cơ thắt trong hậu môn là phần tiếp nối của lớp cơ vòng trực tràng, bắt đầu từ chỗ vòng hậu môn-trực tràng. Cơ thắt trong hậu môn kéo dài xuống bên dưới và dầy lên một cách rõ ràng. Giới hạn dưới hình vòng tròn của nó có thể sờ được cách 1-1,5 cm trên đường lược. Cơ thắt trong hậu môn cũng giống như cơ mu trực tràng, luôn co thắt hay còn gọi là có trương lực lúc nghỉ.
+Cơ thắt trong hậu môn là phần tiếp nối của lớp cơ vòng trực tràng, bắt đầu từ chỗ vòng hậu môn-trực tràng. Cơ thắt trong hậu môn kéo dài xuống bên dưới và dầy lên một cách rõ ràng. Giới hạn dưới hình vòng tròn của nó có thể sờ được cách 1-1,5 cm trên đường lược. Cơ thắt trong hậu môn cũng giống như cơ mu trực tràng, luôn co thắt hay còn gọi là trương lực lúc nghỉ.
 
 2.2.2. Cơ thắt ngoài hậu môn
 Cơ thắt ngoài hậu môn thuộc loại cơ vân, tạo thành một ống cơ nằm bên ngoài cơ thắt trong hậu môn. Theo Goligher, cơ thắt ngoài hậu môn được chia thành 3 phần: phần dưới da, phần nông và phần sâu. Trong đó, phần nông là phần dầy nhất và đóng vai trò quan trọng nhất.
 
-Gần đây với việc sử dụng chụp cộng hưởng từ độ phân giải cao và xem hình ảnh theo chiều không gian, hình ảnh trên người sống (in vivo) của cơ thắt ngoài hậu môn được khảo sát kỹ càng hơn. Theo kết quả nghiên cứu của Russel Pearl, chiều dài của cơ thắt ngoài hậu môn ở bán phần trước ở nam gần gấp đôi so với ở nữ (27 mm so với 14 mm). Bề dày của các thành phần của cơ thắt ngoài hậu môn ở cả hai giới tương đương nhau. Nhưng sự sắp xếp các sợi cơ ở bán phần trước khác biệt nhau đáng kể giữa hai giới. Ở nam, cân đáy chậu trung tâm là một cấu trúc rất vững chắc, đan xen một cách trực tiếp ngay phía trước cơ thắt ngoài hậu môn. Trong khi đó, ở nữ thì cân đáy chậu trung tâm ít sợi cân cơ hơn và nằm phía trên so với cơ thắt ngoài hậu môn. Ý nghĩa của nghiên cứu này là trong khi sanh ngả âm đạo vết rách tầng sinh môn sâu có thể ảnh hưởng nhiều đến sự tự chủ khi đại tiện. Đặc điểm cấu trúc giải phẫu ở bán phần trước của cơ thắt ngoài hậu môn cũng như không có cơ mu trực tràng ở nữ như vậy cũng cảnh báo cho các phẫu thuật viên không nên tiến hành phẫu thuật cắt đường rò hậu môn xuyên cơ thắt hậu môn ở bán phần trước trừ khi đường rò rất ngắn và đơn giản.
+Gần đây với việc sử dụng chụp cộng hưởng từ độ phân giải cao và xem hình ảnh theo chiều không gian, hình ảnh trên người sống (in vivo) của cơ thắt ngoài hậu môn được khảo sát kỹ càng hơn. Theo kết quả nghiên cứu của Russel Pearl, chiều dài của cơ thắt ngoài hậu môn ở bán phần trước ở nam gần gấp đôi so với nữ (27 mm so với 14 mm). Bề dày các thành phần của cơ thắt ngoài hậu môn ở cả hai giới tương đương nhau. Nhưng sự sắp xếp các sợi cơ ở bán phần trước khác biệt nhau đáng kể giữa hai giới. Ở nam, cân đáy chậu trung tâm là một cấu trúc rất vững chắc, đan xen một cách trực tiếp ngay phía trước cơ thắt ngoài hậu môn. Trong khi đó, ở nữ thì cân đáy chậu trung tâm ít sợi cân cơ hơn và nằm phía trước so với cơ thắt ngoài hậu môn. Ý nghĩa của nghiên cứu này là trong khi sanh ngả âm đạo vết rách tầng sinh môn sâu có thể ảnh hưởng nhiều đến sự tự chủ khi đại tiện. Đặc điểm cấu trúc giải phẫu ở bán phần trước của cơ thắt ngoài hậu môn cũng như không có cơ mu trực tràng ở nữ như vậy cũng cảnh báo cho các phẫu thuật viên không nên tiến hành phẫu thuật cắt đường rò hậu môn xuyên cơ thắt hậu môn ở bán phần trước trừ khi đường rò rất ngắn và đơn giản.
 
 2.2.3. Các trường hợp nên lưu ý không cắt đường rò ngay thì đầu
-
 Thăm khám hậu môn sau khi đã vô cảm là bước rất quan trọng để đánh giá vị trí và mức độ liên quan đến cơ thắt hậu môn của đường rò hậu môn. Trong nhiều trường hợp, động tác này sẽ giúp ích cho phẫu thuật viên đưa ra quyết định cắt cơ thắt hậu môn ngay hay không để tránh biến chứng mất tự chủ đại tiện sau mổ. Trong các trường hợp sau đây cần tránh các cơ thắt hậu môn ngay thì đầu mà cần sử dụng các phương pháp khác để bảo tồn cơ thắt hậu môn (cột dây thun, nút đường rò, bơm keo sinh học có fibrin hoặc vạt niêm mạc...)
 
 - Rò hậu môn xuyên cơ thắt cao có thể được định nghĩa là đường rò xuyên > 50% cơ thắt ngoài hậu môn ở bán phần sau hoặc > 30% cơ thắt ngoài hậu môn ở bán phần trước
 
 - Rò hậu môn xuyên cơ thắt nhưng đi kèm với một ổ áp xe hậu môn rất rộng lan xung quanh chu vi ống hậu môn làm cho các cấu trúc giải phẫu thông thường bị mất và nếu tiến hành cắt đường rò có thể dẫn đến khi lành vết thương sẽ gây biến dạng hậu môn.
+
 - Rò hậu môn xuyên cơ thắt cao ở bán phần trước ở nữ. Do ở nữ thì cơ thắt ngoài hậu môn ở vùng này ngắn hơn và không có cơ mu trực tràng ở bán phần trước nên cắt đường rò thì đầu sẽ dẫn đến đi tiêu mất tự chủ.
+
 - Rò hậu môn xuyên cơ thắt cao ở bệnh nhân bị hội chứng suy giảm miễn dịch mắc phải (nhiễm HIV/ AIDS). Sự lành vết thương ở các bệnh nhân này rõ ràng kém hơn bình thường. Hơn nữa, những người này thường bị tiêu chảy kéo dài làm cho vấn đề càng xấu hơn.
+
 - Rò hậu môn xuyên cơ thắt cao ở bệnh nhân bị Crohn. Trong trường hợp này, nên đặt dây thun và để rất lâu nên dùng các sợi dây luồn mạch máu giúp dẫn lưu tốt và ngăn hình thành các ổ áp xe tái phát.
+
 - Nên cột dây thun cơ thắt trong bất kỳ tình huống nào khi mà có sự nghi ngờ trên lâm sàng rằng nếu cắt đường ngay thì đầu có thể ảnh hưởng sự tự chủ khi đi tiêu.
 
 # 3. NGUYÊN NHÂN
@@ -8457,6 +8591,7 @@ Do viêm nhiễm xuất phát từ tuyến hậu môn do vi khuẩn như trực 
 ## 3.2. Nguyên nhân đặc hiệu
 
 Nhiều bệnh lý có thể đưa đến rò hậu môn:
+
 - Bệnh lao
 - Bệnh Crohn
 - Nấm actinomycosis
@@ -8468,30 +8603,37 @@ Nhiều bệnh lý có thể đưa đến rò hậu môn:
 - Lymphogranuloma venereum
 - Bệnh tổ lông (pilonidal disease)
 
-**4. SINH BỆNH HỌC**
-**4.1. Nhiễm khuẩn khe tuyến**
+403
+
+# 4. SINH BỆNH HỌC
+4.1. Nhiễm khuẩn khe tuyến
 
 Theo Chiari, Herrmann và Defosses thì tuyến hậu môn và đường dẫn của tuyến là nguồn gốc của rò hậu môn. Parks và Eisenhammer đã nêu giả thuyết nhiễm khuẩn khe tuyến để giải thích cơ chế bệnh sinh của rò hậu môn:
 
 - Trong 100 mẫu bệnh phẩm giải phẫu, tuyến hậu môn hiện diện ở 55%; trong đó 33% các ống của tuyến xuyên qua cơ thắt trong hậu môn
+
 - Có 6-12 tuyến hậu môn sản xuất ra chất nhầy đổ vào các khe tuyến hậu môn
+
 - Đầu tận của ống tuyến hậu môn có thể nằm ở dưới niêm mạc, xuyên cơ thắt trong hoặc đến khoang gian cơ thắt
+
 - Ống tuyến hậu môn là một đường dẫn làm cho nhiễm khuẩn từ lòng hậu môn đi vào trong cơ thắt hậu môn
+
 - Khe tuyến hậu môn bị tắc nghẽn bởi mô hoại tử hoặc do hạt phân
+
 - Nhiễm khuẩn khởi phát từ ống tuyến hậu môn sẽ phát triển theo hướng ít bị cản trở nhất hình thành nên ổ áp xe ở khoang gian cơ thắt và dẫn đến rò hậu môn (nguy cơ từ 36 – 66%).
 
-Eisenhammer đã cho là tất cả áp xe không đặc hiệu và rò là kết quả của sự nhiễm khuẩn từ trong tuyến hậu môn và ổ nhiễm khuẩn này không thể dẫn lưu theo đường tự nhiên vào trong lòng ống hậu môn, bởi vì sự nhiễm khuẩn của ống dẫn đã làm tắc nghẽn ống này ở chỗ đổ vào lòng hậu môn. Parks cũng ghi nhận ổ mủ đơn độc có liên quan đến tuyến hậu môn ở giữa hai cơ thắt, bệnh của tuyến này sẽ trở thành ổ nhiễm mạn tính và hình thành đường rò.
+Eisenhammer đã cho là tất cả áp xe không đặc hiệu và rò là kết quả của sự nhiễm khuẩn từ trong tuyến hậu môn và ổ nhiễm khuẩn này không thể dẫn lưu theo đường tự nhiên vào trong ống hậu môn, bởi vì sự nhiễm khuẩn của ống dẫn đã làm tắc nghẽn ống này ở chỗ đổ vào lòng hậu môn. Parks cũng ghi nhận ổ mủ đơn độc có liên quan đến tuyến hậu môn ở giữa hai cơ thắt, bệnh của tuyến này sẽ trở thành ổ nhiễm mạn tính và hình thành đường rò.
 
 Sự lan rộng ổ nhiễm khuẩn từ nhiễm khuẩn cấp tính tuyến hậu môn xảy ra theo ba chiều: ngang, dọc và vòng quanh. Sự lan rộng theo chiều hướng xuống dưới xảy ra thường nhất, đơn giản nhất và gây ra áp xe quanh hậu môn. Sự lan rộng theo chiều hướng lên trên sẽ tạo ra ổ áp xe cao giữa các cơ hay trên cơ nâng hậu môn ở hai bên trực tràng tùy thuộc vào sự liên quan của ổ nhiễm khuẩn lan theo lớp cơ dọc. Sự lan rộng theo chiều ngang sẽ xuyên cơ vòng ngoài tới hố ngồi và có thể xuyên lên trên qua cơ nâng hậu môn.
 
 Eisenhammer lưu ý chúng ta là ngoài các nhiễm khuẩn có nguồn gốc từ khe tuyến thì vẫn có các nhiễm khuẩn cấp tính ở hậu môn trực tràng từ nhóm hỗn hợp ngoài khe tuyến, như các áp xe dưới niêm mạc mà nguồn gốc nguyên ủy từ nhiễm khuẩn mô trĩ, chích xơ điều trị trĩ, chấn thương, ổ máu tụ thặng nhiễm, áp xe quanh hậu môn do nhiễm khuẩn nang ở da, áp xe ụ ngồi do vật lạ và ổ áp xe chậu trực tràng có nguyên ủy từ bệnh lý vùng chậu.
 
-[Hình: Hình 1. Thuyết khe tuyến trong bệnh sinh rò hậu môn.]
+[Hình: Thuyết khe tuyến trong bệnh sinh rò hậu môn.]
 
 4.2. Các yếu tố nguy cơ
 
 - Tuổi dưới 40 tuổi
-- $\text{BMI} > 25\text{ kg/m}^2$
+- BMI > 25 kg/m²
 - Đái tháo đường
 - Rối loạn lipid máu
 - Lối sống ít vận động
@@ -8501,11 +8643,11 @@ Eisenhammer lưu ý chúng ta là ngoài các nhiễm khuẩn có nguồn gốc 
 - Ngồi nhiều trong bồn cầu hoặc khi đại tiện
 - Tiền sử có bệnh viêm ruột
 
-## 5. PHÂN LOẠI
+5. PHÂN LOẠI
 
 Rò hậu môn có thể được phân loại thành đơn giản hoặc phức tạp. Định nghĩa rò hậu môn phức tạp vẫn chưa thống nhất. Hội Phẫu Thuật (Viên) Đại Trực Tràng Hoa kỳ (ASCRS) đưa ra định nghĩa rò hậu môn phức tạp năm 2005. Parks (1976) đưa ra bảng phân loại sau khi phân tích 400 trường hợp rò hậu môn trong 15 năm; bảng phân loại này dựa trên lý thuyết cơ chế bệnh sinh nhiễm khuẩn khe-tuyến hậu môn và tương quan giữa đường rò hậu môn và cơ thắt ngoài hậu môn vì vai trò quan trọng của cơ thắt ngoài trong sự tự chủ khi đại tiện sau mổ. Bảng phân loại của Parks cho đến nay vẫn còn được sử dụng thường xuyên nhất.
 
-# 5.1. Phân loại rò hậu môn theo Parks
+5.1. Phân loại rò hậu môn theo Parks
 
 Bảng 1. Phân loại rò hậu môn
 
@@ -8538,25 +8680,23 @@ Bảng phân loại này gồm 4 nhóm chính:
 
 Các nhóm này có thể chia thêm các nhánh phụ hay những đường rò thứ phát (hình 2).
 
-**Rò gian cơ thắt:** chiếm tỷ lệ 20 - 45%, thường là rò đơn giản, nhưng đôi khi cho các đường rò cao hơn đổ vào trực tràng hay không có lỗ rò ngoài.
+**Rò gian cơ thắt**: chiếm tỷ lệ 20 - 45%, thường là rò đơn giản, nhưng đôi khi cho các đường rò cao hơn đổ vào trực tràng hay không có lỗ rò ngoài.
 
-**Rò xuyên cơ thắt:** chiếm tỷ lệ 30-60%, có đường rò nguyên phát xuyên cơ thắt ngoài bên dưới cơ mu trực tràng với các lỗ rò ngoài ở vùng khoang ngồi trực tràng. Đa số các đường rò này không có biến chứng và chỉ có một đường rò nguyên phát. Đôi khi vẫn có đường rò đổ vào trực tràng ở trên hay dưới cơ nâng hậu môn. Trong trường hợp
+**Rò xuyên cơ thắt**: chiếm tỷ lệ 30-60%, có đường rò nguyên phát xuyên cơ thắt ngoài bên dưới cơ mu trực tràng với các lỗ rò ngoài ở vùng khoang ngồi trực tràng. Đa số các đường rò này không có biến chứng và chỉ có một đường rò nguyên phát. Đôi khi vẫn có đường rò đổ vào trực tràng ở trên hay dưới cơ nâng hậu môn. Trong trường hợp
 
-này cẩn thận không được gây nên thủng trực tràng do thầy thuốc gây ra hoặc thủng cơ nâng hậu môn và dẫn đến đường rò ngoài cơ thắt.
+này cần thận trọng không được gây nên thủng trực tràng do thầy thuốc gây ra hoặc thủng cơ nâng hậu môn và dẫn đến đường rò ngoài cơ thắt.
 
-Rò trên cơ thắt: chiếm tỷ lệ 20% trong các trường hợp ở bv St Mark, nhưng các nghiên cứu khác cho tỷ lệ < 2%, đường rò này chạy lên trên cơ mu trực tràng và đổ xuống xuyên cơ nâng và hố ngồi trực tràng để tới da. Nếu áp xe được hình thành trong khoang này thì có thể phát triển sang bên đối diện để tạo thành **đường rò hậu môn hình móng ngựa**.
+**Rò trên cơ thắt**: chiếm tỷ lệ 20% trong các trường hợp ở bv St Mark, nhưng các nghiên cứu khác cho tỷ lệ < 2%, đường rò này chạy lên trên cơ mu trực tràng và đổ xuống xuyên cơ nâng và hố ngồi trực tràng để tới da. Nếu áp xe được hình thành trong khoang này thì có thể phát triển sang bên đối diện để tạo thành đường rò hậu môn hình móng ngựa.
 
-Rò ngoài cơ thắt: chiếm tỷ lệ 2-5%, đường rò này không liên quan đến cơ thắt và phân loại dựa trên bệnh lý nguyên ủy của nó. Đường rò từ da vùng tầng sinh môn xuyên qua mô mỡ khoang ngồi trực tràng và cơ nâng hậu môn để vào trực tràng. Rò hậu môn ngoài cơ thắt có thể được hình thành từ đường rò xuyên cơ thắt với nhánh cao đi xuyên qua bản cơ nâng hậu môn. Nguyên nhân có thể do chấn thương, bệnh viêm ruột, ung thư hoặc viêm vùng chậu mà lan xuống xuyên qua cơ nâng hậu môn và đến ngoài da (viêm ruột thừa vỡ, bệnh Crohn ở đoạn cuối hồi tràng hoặc viêm túi thừa là các nguyên nhân thường gặp nhất loại này).
+**Rò ngoài cơ thắt**: chiếm tỷ lệ 2-5%, đường rò này không liên quan đến cơ thắt và phân loại dựa trên bệnh lý nguyên ủy của nó. Đường rò từ da vùng tầng sinh môn xuyên qua mô mỡ khoang ngồi trực tràng và cơ nâng hậu môn để vào trực tràng. Rò hậu môn ngoài cơ thắt có thể được hình thành từ đường rò xuyên cơ thắt với nhánh cao đi xuyên qua bản cơ nâng hậu môn. Nguyên nhân có thể do chấn thương, bệnh viêm ruột, ung thư hoặc viêm vùng chậu mà lan xuống xuyên qua cơ nâng hậu môn và đến ngoài da (viêm ruột thừa vỡ, bệnh Crohn ở đoạn cuối hồi tràng hoặc viêm túi thừa là các nguyên nhân thường gặp nhất loại này).
 
-[Hình: 4 sơ đồ giải phẫu mô tả phân loại rò hậu môn theo Parks]
-- Rò hậu môn gian cơ thắt với các nhánh đường rò đi lên trên.
-- Rò hậu môn xuyên cơ thắt với nhánh đi lên xuyên cơ nâng hoặc dưới cơ nâng.
-- Rò hậu môn trên cơ thắt.
-- Rò hậu môn ngoài cơ thắt.
+[Hình: Rò hậu môn gian cơ thắt với các nhánh đường rò đi lên trên.]
+[Hình: Rò hậu môn xuyên cơ thắt với nhánh đi lên xuyên cơ nâng hoặc dưới cơ nâng.]
+[Hình: Rò hậu môn trên cơ thắt.]
+[Hình: Rò hậu môn ngoài cơ thắt.]
+**Hình 2. Phân loại rò hậu môn theo Parks.**
 
-**Hình 2.** Phân loại rò hậu môn theo Parks.
-
-## 5.2. Rò hậu môn phức tạp
+5.2. Rò hậu môn phức tạp
 
 Theo phân loại của Hội Phẫu Thuật (Viên) Đại Trực Tràng Hoa kỳ (ASCRS) năm 2005 thì rò hậu môn được gọi là “phức tạp” khi có một hay nhiều các yếu tố sau:
 
@@ -8568,37 +8708,39 @@ Theo phân loại của Hội Phẫu Thuật (Viên) Đại Trực Tràng Hoa k�
 - Bệnh nhân có xạ trị trước đó
 - Bệnh nhân bị mất tự chủ đại tiện
 - Rò trực tràng – âm đạo, rò trực tràng – niệu đạo, rò miệng nối sau phẫu thuật đại trực tràng, rò do chấn thương và rò do bệnh ung thư.
+
 Mục tiêu trong điều trị rò hậu môn phức tạp cần phải lấy hết đường rò, ngăn ngừa tái phát, giảm thiểu biến chứng nhiễm khuẩn sau mổ và làm ít ảnh hưởng nhất đến sự tự chủ khi đại tiện cho bệnh nhân.
 
-## 6. CHẨN ĐOÁN
+**6. CHẨN ĐOÁN**
 
-Với bệnh sử đầy đủ và thăm khám lâm sàng bao gồm cả nội soi hậu môn trực tràng là điều kiện thiết yếu khi làm chẩn đoán bệnh nhân rò hậu môn. Về bệnh sử, bệnh nhân bị nhiễm khuẩn quanh hậu môn thường có xu hướng đến khám sớm, 2-3 ngày sau triệu chứng đầu tiên xuất hiện, với triệu chứng đau và có một khối căng sờ được ở ria lỗ hậu môn. Bệnh nhân với áp xe ở ụ ngồi có xu hướng đến bệnh viện trễ hơn, nhưng bởi vì với ổ tụ mủ tương đối lớn ở mô quanh ụ ngồi nên thường có dấu hiệu sốt và ảnh hưởng đến tổng trạng chung. Khám hậu môn của áp xe ụ ngồi ghi nhận một khối căng, đổi màu da quanh hậu môn. Nếu ổ nhiễm khuẩn cao hơn ở trên cơ nâng hậu môn thì bệnh nhân có triệu chứng đau ở trực tràng, rối loạn đi cầu. Trường hợp áp xe dưới niêm mạc ở ống hậu môn khi thăm trực tràng sẽ phát hiện một khối căng ở ống hậu môn và bệnh nhân sẽ cảm thấy giảm đau và dễ chịu khi có mủ chảy ra ở hậu môn. Bệnh nhân với lỗ rò đã hình thành thường có tiền sử có những cơn đau ngắt quãng và mủ chảy ra từ một lỗ ở tầng sinh môn, cơn đau tăng lên khi mủ không chảy ra và giảm đau khi có mủ thoát ra. Trường hợp có lỗ trong ở trực tràng thì có thể thấy phân chảy ra ở lỗ rò ngoài.
-Theo Goodsal và Miles có 5 điểm thiết yếu trong chẩn đoán rò hậu môn:
+Với bệnh sử đầy đủ và thăm khám lâm sàng bao gồm cả nội soi hậu môn trực tràng là điều thiết yếu khi làm chẩn đoán bệnh nhân rò hậu môn. Về bệnh sử, bệnh nhân bị nhiễm khuẩn quanh hậu môn thường có xu hướng đến khám sớm, 2-3 ngày sau triệu chứng đầu tiên xuất hiện, với triệu chứng đau và có một khối căng sờ được ở rìa lỗ hậu môn. Bệnh nhân với áp xe ở ụ ngồi có xu hướng đến bệnh viện trễ hơn, với những than phiền mơ hồ hơn, nhưng bởi vì với ổ tụ mủ tương đối lớn ở mô quanh ụ ngồi nên thường có dấu hiệu sốt và ảnh hưởng đến tổng trạng chung. Khám hậu môn của áp xe ụ ngồi ghi nhận một khối căng, đổi màu da quanh hậu môn. Nếu ổ nhiễm khuẩn cao hơn ở trên cơ nâng hậu môn thì bệnh nhân có triệu chứng đau ở trực tràng, rối loạn đi cầu. Trường hợp áp xe dưới niêm mạc ở ống hậu môn khi thăm trực tràng sẽ phát hiện một khối căng ở ống hậu môn và bệnh nhân sẽ cảm thấy giảm đau và dễ chịu khi có mủ chảy ra ở hậu môn. Bệnh nhân với lỗ rò đã hình thành thường có tiền sử có những cơn đau ngắt quãng và mủ chảy ra từ một lỗ ở tầng sinh môn, cơn đau tăng lên khi mủ không chảy ra và giảm đau khi có mủ thoát ra. Trường hợp có lỗ trong ở trực tràng to thì có thể thấy phân chảy ra ở lỗ rò ngoài.
+
+Theo Goodsall và Miles có 5 điểm thiết yếu trong chẩn đoán rò hậu môn:
 - Xác định vị trí lỗ rò ngoài
 - Xác định vị trí lỗ rò trong
 - Phát hiện đường đi của đường rò nguyên phát
 - Phát hiện sự hiện diện các đường rò thứ phát (đường nhánh)
-- Phát hiện sự hiện diện của bệnh lý khác gây ra rò (bệnh Crohn, lao...)
+- Phát hiện sự hiện diện của bệnh lý khác gây ra rò (bệnh Crohn, lao ...)
 
 Khoảng cách giữa lỗ rò ngoài với rìa hậu môn có thể giúp ta phân biệt được rò giữa cơ thắt và rò xuyên cơ thắt. Vị trí lỗ rò ngoài càng xa rìa hậu môn là dấu hiệu giúp nghĩ đến đường rò phức tạp và rò lên cao.
 
-**Định luật Goodall**: trong loại rò mà lỗ rò ngoài nằm ở nửa sau của đường thẳng ngang đi qua lỗ hậu môn thì có lỗ rò trong nằm ở giữa đường sau. Trong loại rò mà lỗ rò ngoài nằm ở nửa trước của đường trên, đường rò đi thẳng vào trong ống hậu môn theo đường hướng tâm.
+Định luật Goodsall: trong loại rò mà lỗ rò ngoài nằm ở nửa sau của đường thẳng ngang đi qua lỗ hậu môn thì có lỗ rò trong nằm ở giữa đường sau. Trong loại rò mà lỗ rò ngoài nằm ở nửa trước của đường trên, đường rò đi thẳng vào trong ống hậu môn theo đường hướng tâm.
 
 Bước đầu tiên thăm khám là xác định vị trí của lỗ ngoài, tiếp đó là sờ một cách cẩn thận vùng quanh hậu môn bằng ngón tay có thể cảm giác được sự hiện diện của đường rò thể hiện như một dây thừng xơ và hướng đi nguyên phát của đường rò. Khám bằng ngón tay trong lòng trực tràng có thể phát hiện lỗ trong dựa trên cảm giác dọc theo đường rò đến điểm tận cùng. Với bác sĩ chuyên khoa hậu môn học có kinh nghiệm có thể phát hiện 85% đường rò nguyên phát bằng thăm khám hậu môn trực tràng.
 
-Định luật Goodall giúp ta tìm được lỗ rò trong khi thấy được lỗ rò ngoài. Tuy nhiên định luật này có một ngoại trừ là nếu lỗ rò ngoài xa rìa hậu môn > 3cm và đường rò kèm với bệnh lý khác như bệnh Crohn's và bệnh lý ác tính.
+Định luật Goodsall giúp ta tìm được lỗ rò trong khi thấy được lỗ rò ngoài. Tuy nhiên định luật này có một ngoại trừ là nếu lỗ rò ngoài xa rìa hậu môn > 3cm và đường rò kèm với bệnh lý khác như bệnh Crohn’s và bệnh lý ác tính.
 
-[Hình: Sơ đồ minh họa định luật Goodall với hình ống hậu môn và các đường rò]
+[Hình: Định luật Goodsall]
 
-Hình 3. Định luật Goodall.
+Hình 3. Định luật Goodsall.
 
-## 7. CHẨN ĐOÁN HÌNH ẢNH
+7. CHẨN ĐOÁN HÌNH ẢNH
 
-### 7.1. Chụp X quang đường rò có cản quang
+7.1. Chụp X quang đường rò có cản quang
 
 Thuốc cản quang tan trong nước được bơm vào đường rò qua lỗ rò ngoài bằng một ống feeding tube nhỏ hoặc kim luồn. Hình ảnh được theo dõi dưới màn huỳnh quang và chụp ảnh trên ít nhất hai bình diện thẳng và nghiêng. Theo Kuypers, báo cáo trong 25 trường hợp bệnh nhân được chụp đường rò trước mổ có thể xác định chính xác được 25% các đường rò. Kết quả dương tính giả cho các ca có lỗ rò đổ cao trên trực tràng là 12%. Các tác giả lưu ý là kỹ thuật chụp X quang đường rò với áp lực bơm thuốc cản quang cao với mục đích phát hiện tất cả đường rò dễ có nguy cơ cao trong việc làm lan rộng ổ nhiễm khuẩn. Hơn nữa, do hạn chế của chụp ảnh X quang trên chỉ hai bình diện nên gần đây các tác giả thường áp dụng bơm thuốc cản quang vào đường rò rồi chụp cắt lớp vi tính (CLVT) để khảo sát đường rò. Hiện nay, chụp X quang đường rò ít được sử dụng. Tuy nhiên, trong điều kiện không có phương tiện khác thì chụp X quang đường rò vẫn là một chọn lựa.
 
-## 7.2. Siêu âm qua lòng hậu môn
+7.2. Siêu âm qua lòng hậu môn
 
 Siêu âm trong hậu môn bằng đầu dò 7 hoặc 10 MHz giúp ta đánh giá được và phát hiện các ổ áp xe cũng như các đường rò giữa cơ thắt và xuyên cơ thắt. Ngày nay siêu âm qua lòng hậu môn là phương pháp được đánh giá là rẻ tiền nhất và là tiêu chuẩn vàng trong việc đánh giá toàn bộ cơ vòng trong và ngoài cũng như phát hiện các đường rò hậu môn.
 
@@ -8609,19 +8751,26 @@ Hiệu quả của siêu âm lòng hậu môn khác nhau giữa các nghiên c�
 [Hình: Hình 4. Siêu âm qua lòng hậu môn.]
 
 7.3. Chụp cộng hưởng từ rò hậu môn
+
 Chỉ định chụp cộng hưởng từ (CHT) đường rò hậu môn nên được dành cho:
 - Bệnh nhân có nhiều lỗ rò ngoài
 - Không xác định được lỗ rò trong khi khám lâm sàng trước mổ hoặc trong mổ (rò tái phát).
-- Rò hậu môn tái phát hoặc rò hậu môn sau các phẫu thuật khác vùng hậu môn - trực tràng.
+- Rò hậu môn tái phát hoặc rò hậu môn sau các phẫu thuật khác vùng hậu môn – trực tràng.
+
 Với việc sử dụng các máy cộng hưởng từ 1,6Tesla và 3,0 T để ghi nhận hình ảnh thì không cần thiết phải có coil đặt vào trong hậu môn để đánh giá các bệnh lý của hậu môn hay trực tràng.
-Cộng hưởng từ để đánh giá hệ thống cơ thắt hậu môn có những ưu điểm sau:
+
+Cộng hưởng từ đánh giá hệ thống cơ thắt hậu môn có những ưu điểm sau:
 - Không cần đưa dụng cụ vào trong lòng hậu môn và kết quả hình ảnh không tùy thuộc vào người làm
 - Có thể phát hiện được các thương tổn nhiễm khuẩn ở xa mà siêu âm lòng hậu môn không nhìn thấy được (do đầu dò tần số càng cao thì độ xuyên thấu càng ít) và các nhánh phụ của đường rò. Xác định được cả hai yếu tố này góp phần làm giảm tái phát sau mổ.
-- CHT có thể giúp xác định mối tương quan về giải phẫu của đường rò với khối cơ thắt, giúp dự đoán khả năng ảnh hưởng của phẫu thuật đến sự tự chủ khi đại tiện sau mổ.
+- CHT có thể giúp xác định mối tương quan về giải phẫu của đường rò với khối cơ thắt, giúp dự đoán khả năng ảnh hưởng của phẫu thuật đến sự tự chủ khi đại tiện sau mổ
+
 Tóm lại, nhiều nghiên cứu đã xác nhận CHT là một phương pháp đánh giá chính xác các đường rò hậu môn cũng như các biến chứng của rò hậu môn.
+
 Tuy nhiên, hạn chế của CHT đường rò hậu môn là giá thành cao và đòi hỏi phương tiện nhiều nên chưa thể áp dụng rộng rãi ở mọi nơi.
 
 [Hình: Cộng hưởng từ đường rò hậu môn.]
+
+Hình 5. Cộng hưởng từ đường rò hậu môn.
 
 8. ĐIỀU TRỊ
 8.1. Nguyên tắc điều trị
@@ -8646,7 +8795,10 @@ Dùng que thăm bằng kim loại thân nhỏ, dễ uốn cong, đầu tròn, đ
 
 Que thăm có thể bắt đầu từ lỗ trong để xác định đường rò đi đến khoang gian cơ thắt (không có lỗ rò ngoài).
 
-[Hình: Các loại que thăm dò đường rò hậu môn. (Nguồn: Ky AJ. and Steinhagen E. (2013). Anal fistula. In: Corman's colon and rectal surgery. Marvin L. Corman. $6^{th}$ edition. LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER business).]
+[Hình: Các loại que thăm dò đường rò hậu môn. A, B, C, F, G, H]
+
+**Hình 6. Các loại que thăm dò đường rò hậu môn.**
+(Nguồn: Ky AJ. and Steinhagen E. (2013). Anal fistula. In: Corman's colon and rectal surgery. Marvin L. Corman. 6th edition. LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER business).
 
 Khi đã luồn được que thăm từ lỗ ngoài vào ống hậu môn hay theo chiều ngược lại từ trong lòng ống hậu môn ra ngoài thì công việc đánh giá thương tổn đường rò tương đối thuận lợi. Khi đánh giá đường rò cần kết hợp cả với sờ nắn chung quanh lỗ hậu môn, thăm hậu môn trực tràng, hình ảnh học trước mổ.
 
@@ -8654,9 +8806,11 @@ Khi thăm dò đường rò cần phải cẩn thận không tạo ra đường 
 
 Quyết định chọn lựa phương pháp phẫu thuật sau cùng tùy thuộc vào mức độ khối cơ thắt ngoài hậu môn bị ảnh hưởng nếu cắt đường rò. Phẫu thuật cắt đường rò nên dành cho rò hậu môn gian cơ thắt hay xuyên cơ thắt thấp; các trường hợp còn lại thì cần chọn phương pháp không cắt cơ thắt ngay thì đầu.
 
-## 8.3. Các phương pháp phẫu thuật rò hậu môn
+413
 
-### 8.3.1. Mở đường rò
+8.3. Các phương pháp phẫu thuật rò hậu môn
+
+8.3.1. Mở đường rò
 
 Nong rộng hậu môn, dùng một que thông có rãnh đưa từ lỗ rò ngoài theo đường rò nguyên phát vào đến lỗ rò trong, sau đó rạch trên que thông suốt dọc đường đi từ lỗ ngoài đến lỗ trong, đường rò được mở hoàn toàn và để đường rò đó lành tự phát. Khi áp dụng phương pháp này, vấn đề quan trọng hàng đầu là không để có biến chứng đi cầu mất tự chủ. Vì vậy các loại rò xuyên cơ thắt cao, nhất là đường rò ở phía trước ở phái nữ và rò trên cơ thắt thường không áp dụng được phương pháp này. Phương pháp này áp dụng tốt cho loại rò gian cơ thắt và xuyên cơ thắt thấp nhưng còn phải tùy thuộc vào kinh nghiệm của phẫu thuật viên trong việc nhận định thương tổn.
 
@@ -8666,28 +8820,23 @@ Tỷ lệ tái phát sau mổ: 3-4% với rò hậu môn gian cơ thắt; 7-10% 
 
 Đại tiện mất tự chủ sẽ tăng dần theo mức độ phức tạp của đường rò. Thấp nhất trong rò hậu môn gian cơ thắt (0-34%) và cao nhất trong rò ngoài cơ thắt (65-73%). Thường gặp hơn ở nữ, rò tái phát (đã mổ cắt đường rò trước đó).
 
-[Hình: Phẫu thuật cắt mở đường rò.] [Hình: Niêm mạc ống hậu môn được khâu viền.]
+[Hình: Hình 7. Phẫu thuật cắt mở đường rò.]
+[Hình: Hình 8. Niêm mạc ống hậu môn được khâu viền.]
 
-Hình 7. Phẫu thuật cắt mở đường rò.
-
-Hình 8. Niêm mạc ống hậu môn được khâu viền.
-
-*(Nguồn: Ky AJ. and Steinhagen E. (2013). Anal fistula. In: Corman's colon and rectal surgery. Marvin L. Corman. $6^{\text{th}}$ edition. LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER business).*
+(Nguồn: Ky AJ. and Steinhagen E. (2013). Anal fistula. In: Corman's colon and rectal surgery. Marvin L. Corman. 6th edition. LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER business).
 
 ### 8.3.2. Cắt đường rò
-
 Là kỹ thuật mổ lấy trọn mô xơ đường rò, khởi đầu cắt từ lỗ rò ngoài và theo mô đường rò đi lần vào đến lỗ rò trong bằng dao thường hay dao điện. Cho đến hiện nay, vẫn còn nhiều bàn cãi trong kết quả của mở đường rò hoặc cắt đường rò. Một vài nghiên cứu cho thấy cắt đường rò có thời gian lành vết thương kéo dài hơn, khuyết trên cơ thắt hậu môn lớn hơn và nguy cơ đại tiện mất tự chủ cao hơn; trong khi tỷ lệ tái phát tương đương với mở đường rò.
 
 Một điều cần lưu ý nữa trong cắt đường rò là đối với rò hậu môn phức tạp hoặc rò hậu môn do bệnh Crohn thì sau mổ sẽ ảnh hưởng nghiêm trọng đến sự tự chủ đại tiện và vết thương có thể không lành trong bệnh Crohn.
 
 [Hình: Phẫu thuật mở đường rò so với phẫu thuật cắt trọn đường rò.]
 
-**Hình 9.** Phẫu thuật mở đường rò so với phẫu thuật cắt trọn đường rò. (Nguồn: Ky AJ. and Steinhagen E. (2013). Anal fistula. In: Corman's colon and rectal surgery. Marvin L. Corman. $6^{th}$ edition. LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER business).
+Hình 9. Phẫu thuật mở đường rò so với phẫu thuật cắt trọn đường rò.
+(Nguồn: Ky AJ. and Steinhagen E. (2013). Anal fistula. In: Corman's colon and rectal surgery. Marvin L. Corman. 6th edition. LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER business).
 
 ### 8.3.3. Cột dây thun
-
 Đặt một dây thun vào đường rò sau khi đã cắt được đường rò nhưng không thể cắt được khối cơ vòng ngoài liên quan với đường rò do ảnh hưởng đến sự tự chủ đại tiện, việc cột dây thun này còn có tác dụng dẫn lưu mủ và an toàn cho phẫu thuật đường rò ở lần mổ sau. Chất liệu được sử dụng làm dây thun có thể là chỉ không tan (chỉ silk), dây thun, dây luồn mạch máu, các ống nhỏ bằng silicone (feeding tube 6Fr). Việc cột dây thun này có 3 tác dụng:
-
 - Bảo vệ sự toàn vẹn cơ vòng ngoài.
 - Dẫn lưu ổ nhiễm khuẩn và làm thay đổi tình trạng nhiễm khuẩn cấp tính.
 - Như là phương pháp mở rộng đường rò nhưng giảm bớt hậu quả của việc cắt tổng số cơ trong một phẫu thuật
@@ -8698,65 +8847,83 @@ Chìa khóa của phương pháp cột dây thun là tổng số cơ bị cắt 
 
 Cột dây thun để cắt cơ thắt (cutting seton hay tight seton): dây thun cột chặt sẽ cắt cơ thắt hậu môn dần dần qua nhiều ngày hoặc nhiều tuần. Cơ thắt hậu môn bị cắt nhưng vẫn bảo tồn sự tự chủ đại tiện do mô sẹo hình thành giữa hai đầu cắt của cơ thắt.
 
-## 8.3.4. Chuyển vạt niêm mạc trực tràng
+8.3.4. Chuyển vạt niêm mạc trực tràng
 
 Phẫu thuật chuyển vạt niêm mạc trực tràng để che lỗ rò trong được chứng minh là một phương pháp hiệu quả để điều trị rò hậu môn trên cơ thắt hoặc rò hậu môn ngoài cơ thắt.
 
 Các nguyên tắc chính trong phẫu thuật này bao gồm:
-- Cắt lọc sạch hoặc cắt bỏ một phần đường rò
+
+- Cắt lọc hoặc cắt bỏ một phần đường rò
 - Bóc tách và di động một vạt niêm mạc (cần đảm bảo vạt niêm mạc có máu nuôi tốt và di động đủ)
-- Khâu vạt niêm mạc vào cơ thắt trong hậu môn ngay tại vị trí lỗ rò trong để che lỗ rò trong bằng chỉ tan.
+- Khâu niêm mạc vào cơ thắt trong hậu môn ngay tại vị trí lỗ rò trong để che lỗ rò trong bằng chỉ tan.
 
-[Hình: b, c]
+[Hình: b] [Hình: c]
 
-**Hình 10.** Phẫu thuật chuyển vạt niêm mạc trực tràng.
+Hình 10. Phẫu thuật chuyển vạt niêm mạc trực tràng.
+(Nguồn: Davis BR. và Kasten KR. (2019). Anorectal abscess and fistula. In: The ASCRS manual of colon and rectal surgery. Scott R. Steele. Third edition. https://doi.org/10.1007/978-3-030-01165-9).
 
-*(Nguồn: Davis BR. và Kasten KR. (2019). Anorectal abscess and fistula. In: The ASCRS manual of colon and rectal surgery. Scott R. Steele. Third edition. https://doi.org/10.1007/978-3-030-01165-9).*
-
-## 8.3.5. Cắt đường rò gian cơ thắt
+8.3.5. Cắt đường rò gian cơ thắt
 
 Xác định lỗ rò trong bằng cách đặt van Ferguson kích thước nhỏ và bơm oxy già vào lỗ rò ngoài. Sau đó đường đi của đường rò được nhận định bằng thăm dò một cách nhẹ nhàng bằng que thăm. Sau khi xác định được đường đi của đường rò bằng que thăm, mở đường mổ gian cơ thắt hình cung. Bóc tách thật tỉ mỉ để bộc lộ được đường rò. Đường rò được móc lên bằng kiềm bóc tách nhỏ, khâu cột đường rò bằng Vicryl 3/0 và cắt sát lỗ rò trong. Phần bên ngoài của đường rò cho đến lỗ rò ngoài được nạo sạch và có thể kèm theo việc lấy bỏ phần đường rò này. Cuối cùng bơm oxy già vào lỗ rò ngoài một lần nữa để chắc chắn rằng đường rò đã được cắt đứt hoàn toàn. Vết mổ được khâu lại bằng Vicryl 3.0.
 
-[Hình: Phẫu thuật cột đường rò gian cơ thắt]
+[Hình: Phẫu thuật cột đường rò gian cơ thắt.]
 
-**Hình 11.** Phẫu thuật cột đường rò gian cơ thắt.
+Hình 11. Phẫu thuật cột đường rò gian cơ thắt.
 
-## 8.3.6. Các phương pháp điều trị rò hậu môn mới
+8.3.6. Các phương pháp điều trị rò hậu môn mới
 
-**Bơm keo sinh học có fibrin:** ưu điểm của bơm keo sinh học là kỹ thuật đơn giản và bảo tồn cơ thắt hậu môn. Keo sinh học có fibrin được bơm vào đường rò sẽ tạo thành chất làm đầy sinh học bít kín đường rò. Keo sinh học còn giúp kích thích các tế bào fibroblast và tế bào nội mạc phát triển để hình thành sẹo chắc sau 7-14 ngày. Lỗ rò trong có thể được khâu kín bằng Vicryl hoặc để mở.
+Bơm keo sinh học có fibrin: ưu điểm của bơm keo sinh học là kỹ thuật đơn giản và bảo tồn cơ thắt hậu môn. Keo sinh học có fibrin được bơm vào đường rò sẽ tạo thành chất làm đầy sinh học bít kín đường rò. Keo sinh học còn giúp kích thích các tế bào fibroblast và tế bào nội mạc phát triển để hình thành sẹo chắc sau 7-14 ngày. Lỗ rò trong có thể được khâu kín bằng Vicryl hoặc để mở.
 
-**Tế bào gốc từ mỡ tự thân:** được áp dụng để điều trị cho rò hậu môn phức tạp và rò hậu môn do bệnh Crohn. Mỡ được lấy bằng cách hút mỡ của bệnh nhân nên không gây tác dụng phụ gì. Garcia-Olmo và cs. đã báo cáo kết quả nghiên cứu đa trung tâm, phân nhóm ngẫu nhiên tỷ lệ thành công là 71% khi dùng tế bào gốc từ mô mỡ tự thân so với nhóm chứng 16% chỉ sử dụng keo sinh học có fibrin. Sau 1 năm thì tỷ lệ này giảm còn 65,2% và sau 3 năm là 33%.
+Tế bào gốc từ mỡ tự thân: được áp dụng để điều trị cho rò hậu môn phức tạp và rò hậu môn do bệnh Crohn. Mỡ được lấy bằng cách hút mỡ của bệnh nhân nên không gây tác dụng phụ gì. Garcia-Olmo và cs. đã báo cáo kết quả nghiên cứu đa trung tâm, phân nhóm ngẫu nhiên tỷ lệ thành công là 71% khi dùng tế bào gốc từ mô mỡ tự thân so với nhóm chứng 16% chỉ sử dụng keo sinh học có fibrin. Sau 1 năm thì tỷ lệ này giảm còn 65,2% và sau 3 năm là 33%.
 
 417
 
 **Sơ đồ: Lưu đồ 1. Xử trí rò hậu môn.**
-- Rò hậu môn --> Khám sau khi vô cảm
-  - Phức tạp
-    - Đặt dây thun dẫn lưu
-      - Bơm keo sinh học --> Lành --> Theo dõi tiếp
-      - Tái phát
-        - Đặt dây thun dẫn lưu --> Lành --> Theo dõi tiếp
-        - Chuyển vạt niêm mạc
-          - Tái phát --> Cột dây thun cắt cơ thắt --> Lành --> Theo dõi tiếp
-      - LIFT
-        - Tái phát --> Chuyển vạt niêm mạc
-        - Lành --> Theo dõi tiếp
-  - Đơn giản
-    - Cắt mở đường rò
-      - Lành --> Theo dõi tiếp
 
+- Rò hậu môn
+  - Khám sau khi vô cảm
+    - Phức tạp
+      - Đặt dây thun dẫn lưu
+        - Bơm keo sinh học
+          - Lành
+            - Theo dõi tiếp
+          - Tái phát
+            - Đặt dây thun dẫn lưu
+              - Lành
+                - Theo dõi tiếp
+            - Chuyển vạt niêm mạc
+              - Tái phát
+                - Cột dây thun cắt cơ thắt
+                  - Lành
+                    - Theo dõi tiếp
+        - LIFT
+          - Lành
+            - Theo dõi tiếp
+          - Tái phát
+            - Chuyển vạt niêm mạc
+              - Tái phát
+                - Cột dây thun cắt cơ thắt
+                  - Lành
+                    - Theo dõi tiếp
+    - Đơn giản
+      - Cắt mở đường rò
+        - Lành
+          - Theo dõi tiếp
+
+Lưu đồ 1. Xử trí rò hậu môn.
 (Nguồn: Abcarian H. (2015). Classification and management strategies. In: Anal Fistula – Principles and management. Herand Abcarian. Springer New York Heidelberg Dordrecht London. DOI 10.1007/978-1-4614-9014-2).
 
-## TÀI LIỆU THAM KHẢO
-
+TÀI LIỆU THAM KHẢO
 1. Dương Phước Hưng. Điều trị ngoại khoa bệnh rò hậu môn. Bài giảng ngoại khoa. Nhà xuất bản Y học 2004: tr 165-173
 2. Nguyễn Đình Hối. Áp xe và rò hậu môn. Hậu môn trực tràng học. Nhà xuất bản Y học 2002: 116-46.
 3. Abcarian H. (2015). Classification and management strategies. In: Anal Fistula – Principles and management. Herand Abcarian. Springer New York Heidelberg Dordrecht London. DOI 10.1007/978-1-4614-9014-2
 
-4. Davis BR., Kasten KR. (2019). Anorectal abscess and fistula. In: The ASCRS manual of colon and rectal surgery. Scott R. Steele. Third edition. https://doi.org/10.1007/978-3-030-01165-9 5. Garcia-Olmo D., Garcia-Arranz M., Herreros, D. (2008), "Expanded adipose-derived stem cells for the treatment of complex perianal fistula including Crohn's disease". Expert Opin Biol Ther, 8(9), 1417-1423. 6. Ky AJ. and Steinhagen E. (2013). Anal fistula. In: Corman's colon and rectal surgery. Marvin L. Corman. $6^{\text{th}}$ edition. LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER business 7. Steele, S. R., Kumar, R., Feingold, D. L., Rafferty, J. L., Buie, W. D. (2011), "Practice parameters for the management of perianal abscess and fistula-in-ano". Dis Colon Rectum, 54(12), 1465-1474.
+4. Davis BR., Kasten KR. (2019). Anorectal abscess and fistula. In: The ASCRS manual of colon and rectal surgery. Scott R. Steele. Third edition. https://doi.org/10.1007/978-3-030-01165-9
+5. Garcia-Olmo D., Garcia-Arranz M., Herreros, D. (2008), "Expanded adipose-derived stem cells for the treatment of complex perianal fistula including Crohn's disease". Expert Opin Biol Ther, 8(9), 1417-1423.
+6. Ky AJ. and Steinhagen E. (2013). Anal fistula. In: Corman's colon and rectal surgery. Marvin L. Corman. 6th edition. LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER business
+7. Steele, S. R., Kumar, R., Feingold, D. L., Rafferty, J. L., Buie, W. D. (2011), "Practice parameters for the management of perianal abscess and fistula-in-ano". Dis Colon Rectum, 54(12), 1465-1474.
 
 CÂU HỎI TRẮC NGHIỆM
-
 1. Nguyên nhân của bệnh rò hậu môn, NGOẠI TRỪ?
 A. Do dị vật gây chấn thương vùng hậu môn - trực tràng
 B. Do trĩ
@@ -8781,18 +8948,20 @@ B. X quang đường rò có bơm chất cản quang
 C. Cộng hưởng từ đường rò vùng chậu
 D. Siêu âm qua tầng sinh môn
 
-5. Bệnh nhân nam 45 tuổi, làm nông, nhập viện vì đau hậu môn. Bệnh sử cách 2 tháng bệnh nhân bị đau vùng hậu môn, đau tăng lên khi bệnh nhân ngồi nhiều, khi đại tiện hoặc khi đi xe máy. Mức độ đau nhiều làm bệnh nhân không dám ngồi nhiều hay đi xe máy lâu. Kèm theo bệnh nhân sờ được một khối cứng cạnh hậu môn, sưng, đau. Bệnh nhân không bị sốt, đi tiêu mỗi ngày, phân vàng, không có máu. Bệnh nhân tự mua thuốc giảm đau để uống thì đau giảm dần sau 1 tuần. Nhưng sau đó đau vùng hậu môn tái lại nhiều lần trong vòng 2 tháng $\Rightarrow$ nhập viện để khám và điều trị.
+5. Bệnh nhân nam 45 tuổi, làm nông, nhập viện vì đau hậu môn. Bệnh sử cách 2 tháng bệnh nhân bị đau vùng hậu môn, đau tăng lên khi bệnh nhân ngồi nhiều, khi đại tiện hoặc khi đi xe máy. Mức độ đau nhiều làm bệnh nhân không dám ngồi nhiều hay đi xe máy lâu. Kèm theo bệnh nhân sờ được một khối cứng cạnh hậu môn, sưng, đau. Bệnh nhân không bị sốt, đi tiêu mỗi ngày, phân vàng, không có máu. Bệnh nhân tự mua thuốc giảm đau để uống thì đau giảm dần sau 1 tuần. Nhưng sau đó đau vùng hậu môn tái lại nhiều lần trong vòng 2 tháng => nhập viện để khám và điều trị.
 
 Tiền sử: không mắc bệnh gì. Gia đình không ai mắc bệnh ung thư đường tiêu hóa.
 
-Khám lâm sàng: Bệnh nhân tỉnh táo, tiếp xúc tốt. Sinh hiệu M 85l/ phút, HA: 120/80 mmHg, nhiệt độ $37^\circ\text{C}$
+Khám lâm sàng: Bệnh nhân tỉnh táo, tiếp xúc tốt. Sinh hiệu M 85l/ phút, HA: 120/80 mmHg, nhiệt độ 37°C.
 
 Khám hậu môn: Lỗ rò ngoài ở 2 g, cách rìa hậu môn 2 cm. Sờ thấy mảng viêm sưng ở 2 g, kích thước 2x2 cm. Không sờ được lỗ trong. Trực tràng không u. Cơ thắt hậu môn tốt. Rút găng không dính máu.
 
 Bệnh nhân được chẩn đoán rò hậu môn và được chụp cộng hưởng từ đường rò. Kết quả: Ống hậu môn có chiều cao 3,5 cm, các lớp cơ thắt có hình thái, độ dày và tín hiệu bình thường.
 
 - Rò hậu môn loại xuyên cơ thắt. Lỗ trong ở vị trí 1 g cách rìa hậu môn 1,5 cm, hướng ra trước xuống dưới, xuyên bờ dưới cơ thắt ngoài vào trong khoang ngồi trực tràng và lan ra trước đến sát gốc bìu.
+
 - Không thấy đường rò phân nhánh trong khoang gian cơ thắt, khoang ngồi trực tràng hay khoang ngồi hậu môn.
+
 - Không thấy rò hay áp xe khoang quanh trực tràng.
 
 a) Chẩn đoán hợp lý trên người bệnh này là?
@@ -8808,47 +8977,55 @@ C. Cắt mở đường rò
 D. Cắt đường rò
 
 # BỆNH TRĨ
+Lê Châu Hoàng Quốc Chương, Trần Hoàng Ngâu
 
-Lê Châu Hoàng Quốc Chương, Trần Hoàng Ngẫu
-
-## MỤC TIÊU
-
-1. Nêu lên được các mốc giải phẫu: ống kết hợp và mạch máu vùng hậu môn.
+MỤC TIÊU
+1. Nêu lên được các mốc giải phẫu: ống hậu môn, đường lược, cơ Trietz, cơ dọc kết hợp và mạch máu vùng hậu môn.
 2. Trình bày được 4 cơ chế sinh bệnh học của bệnh trĩ.
 3. Mô tả và giải thích nguyên tắc điều trị nội khoa.
 4. Trình bày và mô tả được 3 thủ thuật điều trị bệnh trĩ.
 5. Nêu được nguyên tắc điều trị, chỉ định trong điều trị ngoại khoa bệnh trĩ.
 
-**Từ khóa:** bệnh trĩ, tiêu máu, trĩ tắc mạch, phẫu thuật Longo, chích xơ trĩ, tạo bòn
+Từ khóa: bệnh trĩ, tiêu máu, trĩ tắc mạch, phẫu thuật Longo, chích xơ trĩ, táo bón
 
-## 1. ĐẠI CƯƠNG
+1. ĐẠI CƯƠNG
+Trĩ là sự phình dãn bất thường của đám rối mạch máu ở phần thấp trực tràng và ống hậu môn. Trĩ rất phổ biến, thường gặp nhất trong các bệnh lý vùng hậu môn trực tràng. Đệm tĩnh mạch trĩ (hemorrhoidal venous cushion) là cấu trúc giải phẫu bình thường ở vùng da hậu môn (anoderm), rất giàu mạch máu mặc dù vùng này chức năng chuyển hóa thấp, chúng có tính cương cũ, nhạy cảm cao và giữ vai trò khép kín ống hậu môn ở trạng thái nghỉ. Chẩn đoán bệnh trĩ còn nhiều sai lầm do sự khác biệt về quan niệm bệnh trĩ giữa người bệnh, bác sĩ gia đình, bác sĩ tiêu hóa và các phẫu thuật viên. Khảo sát của Grucela (2010) cho thấy tỷ lệ chính xác chung trong chẩn đoán trĩ của các bác sĩ gia đình là 53,5%, các phẫu thuật viên là 70,4% và các bác sĩ còn lại khoảng 50%. Do vị trí đặc biệt của bệnh trĩ nên người bệnh thường thẹn, ít chịu đi khám bệnh nên hiện nay rất ít nghiên cứu chính xác về xuất độ của bệnh trĩ. Điều trị bệnh trĩ có nhiều phương pháp nhưng việc chọn lựa các phương pháp không hợp lý có thể đưa đến các biến chứng nặng nề hơn so với bệnh trĩ.
 
-Trĩ là sự phình dãn bất thường của đám rối tĩnh mạch ở phần thấp trực tràng và ống hậu môn. Trĩ rất phổ biến, thường gặp nhất trong các bệnh lý vùng hậu môn trực tràng.
-
-Đệm tĩnh mạch trĩ (hemorrhoidal venous cushion) là cấu trúc giải phẫu bình thường ở vùng da hậu môn (anoderm), rất giàu mạch máu mặc dù vùng này chức năng chuyển hóa thấp, chúng có tính cương cứ, nhạy cảm cao và giữ vai trò khép kín ống hậu môn ở trạng thái nghỉ. Chẩn đoán bệnh trĩ còn nhiều sự khác biệt về quan niệm bệnh trĩ giữa người bệnh, bác sĩ gia đình, bác sĩ tiêu hóa và các phẫu thuật viên. Khảo sát của Grucela (2010) cho thấy tỷ lệ chính xác chung trong chẩn đoán trĩ của các bác sĩ gia đình là 53,5%, các phẫu thuật viên là 70,4% và các bác sĩ còn lại khoảng 50%. Do vị trí đặc biệt của bệnh trĩ nên người bệnh thường ngại đi khám bệnh nên hiện nay rất ít nghiên cứu chính xác về xuất độ của bệnh trĩ. Điều trị bệnh trĩ có nhiều phương pháp nhưng việc chọn lựa các phương pháp nào hợp lý có thể đưa đến các biến chứng nặng nề hơn so với bệnh trĩ.
-
-## 2. GIẢI PHẪU
-
-Giải phẫu giúp lý giải nguyên nhân sinh bệnh của bệnh trĩ và nắm rõ giải phẫu vùng hậu môn – trực tràng là điều bắt buộc đối với các phẫu thuật viên trong thực hành. Các cấu trúc có liên quan về bệnh trĩ bao gồm: cơ thắt trong hậu môn, cơ thắt ngoài hậu môn, niêm mạc, đệm tĩnh mạch hậu môn và các cơ vân sàn chậu (cơ mu trực tràng và cơ nâng hậu môn).
+2. GIẢI PHẪU
+Giải phẫu giúp lý giải nguyên nhân sinh bệnh của bệnh trĩ và nắm rõ giải phẫu vùng hậu môn – trực tràng là điều bắt buộc đối với các phẫu thuật viên trong thực hành. Các cấu trúc có liên quan về bệnh trĩ bao gồm: cơ Treitz, cơ dọc kết hợp, cơ thắt trong hậu môn, cơ thắt ngoài hậu môn, niêm mạc, đệm tĩnh mạch hậu môn và các cơ vân sàn chậu (cơ mu trực tràng và cơ nâng hậu môn).
 
 2.1. Phôi thai học
+Ông hậu môn là phần nối tiếp với trực tràng đoạn dưới của ống tiêu hóa, về phôi thai học nó xuất phát từ các u hậu môn (anal tubercles) thuộc ngoại phôi bì. Yang HK (2014) mô tả ống hậu môn trong phôi thai học giống như hai lòng ống bao trùm lên nhau. Ống bên ngoài được tạo bởi cơ thắt ngoài hậu môn và cơ nâng hậu môn. Cơ nâng hậu môn có dạng hình phễu che phủ lỗ thoát của khung chậu. Bên dưới của ống ngoài là cơ thắt ngoài hậu môn bản chất là cơ vân được chi phối bởi hệ thần kinh bản thể (somatic nerve).
 
-Ống hậu môn là phần nối tiếp với trực tràng đoạn dưới của ống tiêu hóa, về phôi thai học nó xuất phát từ các củ hậu môn (anal tubercles) thuộc ngoại phôi bì. Yang HK (2014) mô tả ống hậu môn trong phôi thai học giống như hai lòng ống bao trùm lên nhau. Ống bên ngoài được tạo bởi cơ thắt ngoài hậu môn và cơ nâng hậu môn. Cơ nâng hậu môn có dạng hình phễu che phủ lỗ thoát của khung chậu. Bên dưới của ống ngoài là cơ thắt ngoài hậu môn bản chất là cơ vân được chi phối bởi hệ thần kinh bản thể (somatic nerve).
+Ông trong được phân bố bởi thần kinh tự động và có nguồn gốc tạng không tự ý. Ống trong bao gồm niêm mạc, lớp dưới niêm, cơ thắt trong hậu môn và cơ dọc kết hợp.
 
-Ống trong được phân bố bởi thần kinh tự động và có nguồn gốc tạng không tự ý. Ống trong bao gồm niêm mạc, lớp dưới niêm, cơ thắt trong hậu môn và cơ dọc kết hợp.
+**Sơ đồ: Hai thành phần chính của ống hậu môn**
+- a --> Ống trong
+- b --> Ống ngoài
+- c --> Kết hợp
 
-[Hình: Hai thành phần chính của ống hậu môn. Ống hậu môn bao gồm hai ống. (a) ống trong có nguồn gốc tạng không tự ý, được phân bố bởi thần kinh tự động và bao gồm cơ trơn (b) ống ngoài có dạng hình phễu được tạo thành bởi cơ vân và được phân bố bởi thần kinh bản thể (c) ống hậu môn bình thường. (Nguồn: H.K. Yang (2014), Hemorrhoids, DOI 10.1007/978-3-642-41798-6_2, © Springer-Verlag Berlin Heidelberg 2014).]
+[Hình: Hai thành phần chính của ống hậu môn. Ống hậu môn bao gồm hai ống. (a) ống trong có nguồn gốc tạng không tự ý, được phân bố bởi thần kinh tự động và bao gồm cơ trơn (b) ống ngoài có dạng hình phễu được tạo thành bởi cơ vân và được phân bố bởi thần kinh bản thể (c) ống hậu môn bình thường.]
+(Nguồn: H.K. Yang (2014), Hemorrhoids, DOI 10.1007/978-3-642-41798-6_2, © Springer-Verlag Berlin Heidelberg 2014).
 
 2.2. Giới hạn của ống hậu môn
-
 Ranh giới giữa ống hậu môn và trực tràng được mô tả khác nhau giữa các nhà giải phẫu và phẫu thuật. Theo các nhà giải phẫu, ranh giới giữa ống hậu môn và trực tràng là đường lược, còn đối với các nhà phẫu thuật ranh giới giữa ống hậu môn và trực tràng là vòng cơ hậu môn trực tràng, vòng cơ này được tạo nên chủ yếu bởi cơ mu trực tràng nên còn được gọi là vòng cơ mu trực tràng. Vì vậy ống hậu môn theo quan điểm của các nhà giải phẫu là từ bờ hậu môn đến đường lược, dài khoảng 2,5-3 cm, còn ống hậu môn theo quan điểm của các nhà phẫu thuật là từ bờ hậu môn đến vòng cơ mu trực tràng, dài khoảng 4-5 cm.
 
 [Hình: Giải phẫu ống hậu môn và trực tràng]
-- Nhãn: 1, 2, 3, 4, 5, 6, 7, Van Houston, Bóng trực tràng, Ống hậu môn theo nhà giải phẫu, Ống hậu môn theo nhà phẫu thuật, 1.0-1.5cm, 1.0-1.5cm.
+- 1. Chỗ nối sigma-trực tràng
+- 2. Van trực tràng trên
+- 3. Van trực tràng giữa
+- 4. Van trực tràng dưới
+- 5. Vòng hậu môn trực tràng
+- 6. Đường lược
+- 7. Lỗ hậu môn
+- Van Houston
+- Bóng trực tràng
+- 1.0-1.5cm
+- 1.0-1.5cm
+- Ống hậu môn theo nhà giải phẫu
+- Ống hậu môn theo nhà phẫu thuật
 
-1. Chỗ nối sigma-trực tràng, 2. Van trực tràng trên, 3. Van trực tràng giữa, 4. Van trực tràng dưới, 5. Vòng hậu môn trực tràng, 6. Đường lược, 7. Lỗ hậu môn.
-
-**Hình 3.** Giải phẫu ống hậu môn và trực tràng.
+Hình 3. Giải phẫu ống hậu môn và trực tràng.
 
 ## 2.3. Niêm mạc ống hậu môn và da hậu môn (anoderm)
 
@@ -8856,31 +9033,31 @@ Phía trên vòng hậu môn – trực tràng là niêm mạc trực tràng, c�
 
 Vùng biểu mô chuyển tiếp nằm giữa vòng hậu môn – trực tràng và đường lược. Vùng biểu mô chuyển tiếp này có từ 8-10 chỗ nhô lên gọi là cột hậu môn Morgagni, có chiều dài khoảng 1 cm. Đây được xem là vết tích của màng ổ nhớp, nơi phân chia giữa nội phôi bì và ngoại phôi bì trong thời kỳ phôi thai. Niêm mạc bên dưới vùng chuyển tiếp này là biểu mô lát tầng không sừng hóa.
 
-Biểu mô từ đường lược ra đến rãnh gian cơ thắt được gọi là da hậu môn (anoderm) hay “pectin” và được bao phủ bởi biểu mô tế bào vẩy. Giống như cấu trúc ở da, nhưng vùng này không có cấu trúc phụ của da như lông, tuyến bã, tuyến mồ hôi, tuyến tạo mùi và sừng hóa. Vùng da hậu môn được chi phối bởi hệ thần kinh bản thể, do vậy rất nhạy cảm đau. Nó cũng có chức năng quan trọng trong phản xạ kích thích cơ thắt hậu môn dù chỉ với một kích thích nhẹ.
+Biểu mô từ đường lược ra đến rãnh gian cơ thắt được gọi là da hậu môn (anoderm) hay “pectin” và được bao phủ bởi biểu mô tế bào vảy. Giống như cấu trúc ở da, nhưng vùng này không có cấu trúc phụ của da như lông, tuyến bã, tuyến mồ hôi, tuyến tạo mùi và sừng hóa. Vùng da hậu môn được chi phối bởi hệ thần kinh bản thể, do vậy rất nhạy.
+
+423 cảm đau. Nó cũng có chức năng quan trọng trong phản xạ kích thích cơ thắt hậu môn dù chỉ với một kích thích nhẹ.
 
 2.4. Cơ treitz
 
 Treitz đã đặt tên cho cơ trơn nằm giữa niêm mạc hậu môn hay da hậu môn và cơ thắt trong hậu là cơ Treitz. Cơ Treitz đi xuyên qua cơ vòng trong và cố định mô dưới da (đệm hậu môn) vào cơ dọc kết hợp. Khi bệnh trĩ tiến triển và trở nên sa xuống ống hậu môn, cơ Treitz bị kéo dài và tách ra thành từng mảnh, mà không thể hồi phục được. Vì vậy, nó là cơ quan quan trọng nhất trong sự hình thành bệnh trĩ. Cơ Treitz bao gồm hai thành phần là cơ dưới niêm hậu môn và dây chằng treo niêm mạc.
 
-[Hình: Giải phẫu cơ Treitz. (Nguồn: H.K. Yang (2014), Hemorrhoids, DOI 10.1007/978-3-642-41798-6_2, © Springer-Verlag Berlin Heidelberg 2014).]
-
-Nhãn hình:
-- **a**: Cơ Treitz
-- **b**: Dây chằng treo niêm mạc, Cơ thắt trong hậu môn, Cơ dọc kết hợp
-- **c**: Cơ dưới niêm hậu môn
-- **d**: Cơ thắt ngoài hậu môn
+[Hình: Giải phẫu cơ Treitz.
+- a Cơ Treitz
+- Dây chằng treo niêm mạc
+- Cơ dưới niêm hậu môn
+- b Cơ thắt trong hậu môn
+- c Cơ dọc kết hợp
+- d Cơ thắt ngoài hậu môn]
 
 Hình 4. Giải phẫu cơ Treitz. (Nguồn: H.K. Yang (2014), Hemorrhoids, DOI 10.1007/978-3-642-41798-6_2, © Springer-Verlag Berlin Heidelberg 2014).
 
 2.5. Cơ dọc kết hợp
 
-Ở đoạn dưới trực tràng, các sợi cơ dọc (cơ trơn) hoà lẫn vào các sợi cơ vân của cơ nâng hậu môn (phần cơ mu trực tràng) và các mô sợi đàn hồi để tạo nên cơ dọc kết hợp của ống hậu môn, cơ dọc kết hợp này tiếp tục đi xuống phía dưới cho ra các bó sợi xơ cơ xuyên qua cơ thắt trong để hòa lẫn vào lớp niêm, một số sợi tiếp tục đến bám vào niêm mạc vùng lược làm cho niêm mạc vùng này dính chặt vào lớp cơ niêm. Các sợi đàn hồi này được gọi là dây chằng Parks. Vì vậy dây chằng Parks chia khoảng dưới niêm mạc tại ống hậu môn thành 2 khoang: Khoang dưới niêm mạc ở phía trên dây chằng là nơi có đám rối tĩnh mạch trĩ nội và khoang dưới da ở phía dưới dây chằng là nơi có đám rối tĩnh mạch trĩ ngoại.
+Ở đoạn dưới trực tràng, các sợi cơ dọc (cơ trơn) hoà lẫn vào các sợi cơ vân của cơ nâng hậu môn (phần cơ mu trực tràng) và các mô sợi đàn hồi để tạo nên cơ dọc kết hợp của ống hậu môn, cơ dọc kết hợp này tiếp tục đi xuống phía dưới cho ra các bó sợi xơ cơ xuyên qua cơ thắt trong để hòa lẫn vào lớp niêm mạc, một số sợi tiếp tục đến bám vào niêm mạc vùng lược làm cho niêm mạc vùng này dính chặt vào lớp cơ niêm. Các sợi xơ đàn hồi này được gọi là dây chằng Parks. Vì vậy dây chằng Parks chia khoảng dưới niêm mạc tại ống hậu môn thành 2 khoang: Khoang dưới niêm mạc ở phía trên dây chằng là nơi có đám rối tĩnh mạch trĩ nội và khoang dưới da ở phía dưới dây chằng là nơi có đám rối tĩnh mạch trĩ ngoại.
 
-[Hình: Hình giải phẫu vùng hậu môn trực tràng]
+[Hình: Hình giải phẫu vùng hậu môn trực tràng.]
 
-1. Cơ dọc trực tràng, 2. Cơ tròn trực tràng, 3. Lớp dưới niêm mạc, 4. Niêm mạc, 5. Cơ mu trực tràng, 6. Cột trực tràng, 7. Vòng hậu môn trực tràng, 8. Đám rối trĩ nội, 9. Lớp sâu cơ vòng ngoài, 10. Khoảng giữa 2 cơ thắt, 11. Cơ vòng trong, 12. Khe tuyến, 13. Tuyến hậu môn, 14. Lớp nông cơ vòng ngoài, 15. Lớp dưới da cơ vòng ngoài, 16. Đám rối trĩ ngoại, 17. Đường lược.
-
-**Hình 5.** Hình giải phẫu vùng hậu môn trực tràng.
+1. Cơ dọc trực tràng, 2. Cơ tròn trực tràng, 3. Lớp dưới niêm mạc, 4. Niêm mạc, 5. Cơ mu trực tràng, 6. Cột trực tràng, 7. Vòng hậu môn trực tràng, 8. Đám rối trĩ nội, 9. Lớp sâu cơ vòng ngoài, 10. Khoảng giữa 2 cơ thắt, 11. Cơ vòng trong, 12. Khe tuyến, 13. Tuyến hậu môn, 14. Lớp nong cơ vòng ngoài, 15. Lớp dưới da cơ vòng ngoài, 16. Đám rối trĩ ngoại, 17. Đường lược.
 
 ## 2.6. Lớp đệm mạch máu trĩ
 
@@ -8890,60 +9067,65 @@ Các đệm hậu môn nhận máu chủ yếu từ các nhánh tận của ĐM 
 
 Các nghiên cứu giải phẫu của Haas và cs. giải thích cơ chế hình thành trĩ là do sự neo và nâng đỡ mô bị suy giảm cùng với sự lão hóa, hiện tượng này trở nên rõ ràng ở những người sau 30 tuổi. Điều này cuối cùng sẽ tạo ra các búi tĩnh mạch giãn, bề mặt bị viêm loét, chảy máu và huyết khối.
 
-## 2.7. Mạch máu
+**2.7. Mạch máu**
 
-### 2.7.1. Động mạch
+**2.7.1. Động mạch**
 
-Động mạch trực tràng (trĩ) trên: là 2 nhánh tận của động mạch mạc treo tràng dưới, đi dọc xuống 2 bên trực tràng, sau đó xuyên qua lớp cơ thành trực tràng và đi đến lớp dưới niêm mạc ở các cột hậu môn và tận cùng ngay phía trên các van hậu môn. Trên đường đi các nhánh của động mạch trực tràng trên nối với các nhánh của động mạch trực tràng giữa và dưới tạo nên mạng mạch máu cung cấp cho trực tràng và ống hậu môn.
+Động mạch trực tràng (trĩ) trên: là 2 nhánh tận của động mạch mạc treo tràng dưới, đi dọc xuống 2 bên trực tràng, sau đó xuyên qua lớp cơ thành trực tràng và đi đến lớp dưới niêm mạc ở các cột hậu môn và tận cùng ngay phía trên các van hậu môn. Trên đường đi các nhánh của động mạch trực tràng giữa và dưới tạo nên mạng mạch máu cung cấp cho trực tràng và ống hậu môn.
 
 Động mạch trực tràng (trĩ) giữa: thường không có hoặc ít phát triển và không có ý nghĩa thật sự trong việc cung cấp máu cho trực tràng và ống hậu môn. Thường xuất phát ở mặt trước động mạch chậu trong, đi đến thành trước bên của phần giữa trực tràng và cho các nhánh nối với động mạch trực tràng trên và dưới.
 
 Động mạch trực tràng (trĩ) dưới: xuất phát từ động mạch thẹn, cho các nhánh đi vào cơ thắt trong và cơ thắt ngoài, nhánh tận cung cấp máu cho lớp dưới niêm mạc ống hậu môn và lớp dưới da quanh hậu môn.
 
-### 2.7.2. Tĩnh mạch
+**2.7.2. Tĩnh mạch**
 
 Dẫn lưu tĩnh mạch ở trực tràng và ống hậu môn đặc biệt quan trọng trong sự hình thành các búi trĩ. Các tĩnh mạch ở ống hậu môn và trực tràng tập hợp thành 2 đám rối: đám rối tĩnh mạch dưới niêm mạc (ở bên trong) và đám rối tĩnh mạch quanh lớp cơ (ở bên ngoài):
 
-- **Đám rối tĩnh mạch dưới niêm mạc:** gồm 2 nhóm dẫn lưu máu theo 2 chiều ngược nhau và được ngăn cách bởi dây chằng Parks. Nhóm trên dẫn lưu máu lên trên đổ vào tĩnh mạch trực tràng trên, nhóm tĩnh mạch này khi giãn tạo nên trĩ nội. Nhóm dưới dẫn lưu máu xuống dưới đổ vào tĩnh mạch trực tràng dưới rồi tĩnh mạch thẹn trong, nhóm tĩnh mạch này khi giãn tạo nên trĩ ngoại.
-- **Đám rối tĩnh mạch quanh lớp cơ:** dẫn lưu máu chủ yếu của vách trực tràng và đổ vào tĩnh mạch trực tràng trên.
+Đám rối tĩnh mạch dưới niêm mạc: gồm 2 nhóm dẫn lưu máu theo 2 chiều ngược nhau và được ngăn cách bởi dây chằng Parks. Nhóm trên dẫn lưu máu lên trên đổ vào tĩnh mạch trực tràng trên, nhóm tĩnh mạch này khi giãn tạo nên trĩ nội. Nhóm dưới dẫn lưu máu xuống dưới đổ vào tĩnh mạch trực tràng dưới rồi tĩnh mạch thẹn trong, nhóm tĩnh mạch này khi giãn tạo nên trĩ ngoại.
 
-A. SINH BỆNH HỌC
+Đám rối tĩnh mạch quanh lớp cơ: dẫn lưu máu chủ yếu của vách trực tràng và đổ vào tĩnh mạch trực tràng trên.
+
+# SINH BỆNH HỌC
 Sau đây là bốn lý thuyết chính liên quan đến nguyên nhân gây bệnh trĩ:
 1) Sự giãn nở bất thường của các tĩnh mạch của đám rối tĩnh mạch trĩ nội, một mạng lưới các nhánh của tĩnh mạch trĩ trên và giữa.
-2) Rối loạn bất thường của thông nối động - tĩnh mạch nằm cùng vị trí với đệm hậu môn
+2) Rối loạn bất thường của thông nối động-tĩnh mạch nằm cùng vị trí với đệm hậu môn
 3) Dịch chuyển xuống dưới hoặc sa trượt của đệm hậu môn
 4) Phá hủy hệ thống mô liên kết neo và nâng đỡ
 Tăng cung cấp mạch máu và tân sinh mạch có thể đóng một vai trò trong việc làm cho bệnh trĩ nhiều triệu chứng hơn.
+
 - Các nhánh tận của động mạch trĩ trên có đường kính lớn hơn, có lưu lượng lớn hơn và vận tốc cực đại cao hơn và vận tốc tăng tốc cao hơn ở bệnh nhân bệnh trĩ.
 - Sự dày đặc của vi tuần hoàn cũng được tìm thấy ở bệnh nhân bệnh trĩ
 - Endoglin (CD105) (vị trí gắn kết của TGF-B và là một dấu hiệu cho tân sinh mạch) và biểu hiện cao hơn của yếu tố tăng trưởng nội mạch (VEGF) (protein liên quan sự hình thành mạch) đã được tìm thấy trong bệnh phẩm trĩ.
-Cơ chế của sự phình giãn tĩnh mạch là do sự gia tăng áp lực tĩnh mạch có thể do các yếu tố như tư thế đứng lâu, di truyền, mất van tĩnh mạch và sự tắc nghẽn hệ thống tĩnh mạch. Gần đây qua các nghiên cứu về mô học và quan sát trên kính hiển vi điện tử, người ta đã ghi nhận ở diện vi tuần hoàn của ống hậu môn có chứa các shunt động tĩnh mạch. Các shunt này chịu tác động của các kích thích nội tiết hoặc sinh lý thần kinh. Bình thường các shunt động tĩnh mạch đóng lại, giúp cho sự trao đổi máu trong mô xảy ra. Khi có các kích thích chuyên biệt liên quan đến sự gia tăng lưu lượng máu trong tĩnh mạch trĩ trên (ví dụ như thay đổi áp suất trong xoang bụng, thức ăn nhiều gia vị), dẫn đến hiện tượng co thắt các cơ trước mao mạch và các shunt động tĩnh mạch mở ra, hậu quả là mô không được nuôi dưỡng, gia tăng áp lực đột ngột ở các đám rối tĩnh mạch trĩ làm giãn các tĩnh mạch trĩ này. Điều này giải thích tại sao chảy máu trong bệnh trĩ có màu đỏ tươi (do động mạch hóa các tĩnh mạch do hiện tượng mở các shunt động tĩnh mạch này).
+
+Cơ chế của sự phình giãn tĩnh mạch là do sự gia tăng áp lực tĩnh mạch có thể do các yếu tố như tư thế đứng lâu, di truyền, mất van tĩnh mạch và sự tắc nghẽn hệ thống tĩnh mạch. Gần đây qua các nghiên cứu về mô học và quan sát trên kính hiển vi điện tử, người ta đã ghi nhận ở diện vi tuần hoàn của ống hậu môn có chứa các shunt động tĩnh mạch. Các shunt này chịu tác động của các kích thích nội tiết hoặc sinh lý thần kinh. Bình thường các shunt động tĩnh mạch đóng lại, giúp cho trao đổi máu trong mô xảy ra. Khi có các kích thích chuyên biệt liên quan đến sự gia tăng lưu lượng máu trong tĩnh mạch trĩ trên (ví dụ như thay đổi áp suất trong xoang bụng, thức ăn nhiều gia vị), dẫn đến hiện tượng co thắt các cơ trước mao mạch và các shunt động tĩnh mạch mở ra, hậu quả là mô không được nuôi dưỡng, gia tăng áp lực đột ngột ở các đám rối tĩnh mạch trĩ làm giãn các tĩnh mạch trĩ này. Điều này giải thích tại sao chảy máu trong bệnh trĩ có màu đỏ tươi (do động mạch hóa các tĩnh mạch do hiện tượng mở các shunt động tĩnh mạch này).
+
 Các đám rối tĩnh mạch trĩ nằm ở lớp dưới niêm mạc được giữ tại chỗ bởi các mô sợi cơ đàn hồi. Với tuổi tác lớn dần, các mô sợi cơ đàn hồi có hiện tượng thoái hóa keo làm các mô sợi cơ này chùng nhão dần, dẫn đến tình trạng mô lỏng lẻo bất thường. Sự lỏng lẻo này sẽ làm đám rối trĩ di chuyển nhiều hơn, mỗi khi áp lực trong xoang bụng tăng lên do táo bón hay do rối loạn đi cầu, gây ra trĩ nội sa. Điều này giải thích cho triệu chứng điển hình của trĩ là sa trĩ.
+
 - Matrix metalloproteinases (MMP) là các enzyme hiện diện trong khoảng ngoại bào và có thể phá hủy collagen, elastin và fibronectin
 
 - MMP-9 được tìm thấy có nhiều trong mô trĩ đi kèm với sự phá hủy các sợi đàn hồi
 - Một khi trĩ đã bắt đầu bị sa xuống thì cơ thắt trong hậu môn sẽ làm chậm tốc độ của dòng hồi lưu tĩnh mạch và làm cho búi trĩ càng bị phình to ra hơn.
 
-## 4. THƯƠNG TỔN VÀ PHÂN LOẠI
+4. THƯƠNG TỔN VÀ PHÂN LOẠI
 
-### 4.1. Trĩ nội
+4.1. Trĩ nội
 
-Trĩ nội được hình thành do giãn quá mức đám rối tĩnh mạch trĩ nằm trên đường lược. Lúc đầu búi trĩ còn nhỏ, nằm trên đường lược, về sau dần dần to lên và sa xuống. Tùy theo kích thước và độ sa, trĩ nội được chia làm 4 mức độ (phân loại theo Golinger):
+Trĩ nội được hình thành do giãn quá mức đám rối tĩnh mạch trĩ trong nằm trên đường lược. Lúc đầu búi trĩ còn nhỏ, nằm trên đường lược, về sau dần dần to lên và sa xuống. Tùy theo kích thước và độ sa, trĩ nội được chia làm 4 mức độ (phân loại theo Golinger):
 
-- **Trĩ độ 1:** búi trĩ nằm hoàn toàn trong ống hậu môn.
-- **Trĩ độ 2:** lúc thường thì búi trĩ nằm gọn trong ống hậu môn, khi rặn đại tiện thì búi trĩ thập thò ở lỗ hậu môn hay lòi ít ra ngoài, khi đại tiện xong đứng dậy búi trĩ tự thụt vào.
-- **Trĩ độ 3:** mỗi lần đại tiện hay đi lại nhiều, ngồi xổm, làm việc nặng thì búi trĩ lại sa ra ngoài. Khi đã sa ra ngoài thì phải nằm nghỉ một lúc búi trĩ mới tụt vào hay phải dùng tay ấn nhẹ mới vào.
-- **Trĩ độ 4:** búi trĩ gần như thường xuyên nằm ngoài ống hậu môn. Lúc này các búi trĩ khá to, thường liên kết với nhau tạo thành trĩ vòng.
+- Trĩ độ 1: búi trĩ nằm hoàn toàn trong ống hậu môn.
+- Trĩ độ 2: lúc thường thì búi trĩ nằm gọn trong ống hậu môn, khi rặn đại tiện thì búi trĩ thập thò ở lỗ hậu môn hay lòi ít ra ngoài, khi đại tiện xong đứng dậy búi trĩ tự thụt vào.
+- Trĩ độ 3: mỗi lần đại tiện hay đi lại nhiều, ngồi xổm, làm việc nặng thì búi trĩ lại sa ra ngoài. Khi đã sa ra ngoài thì phải nằm nghỉ một lúc búi trĩ mới tụt vào hay phải dùng tay ấn nhẹ mới vào.
+- Trĩ độ 4: búi trĩ gần như thường xuyên nằm ngoài ống hậu môn. Lúc này các búi trĩ khá to, thường liên kết với nhau tạo thành trĩ vòng.
 
-### 4.2. Trĩ ngoại
+4.2. Trĩ ngoại
 
 Trĩ ngoại được hình thành do giãn quá mức đám rối tĩnh mạch trĩ ngoại. Trĩ ngoại bao giờ cũng nằm ngoài ống hậu môn, phủ trên búi trĩ là da quanh hậu môn.
 
-### 4.3. Trĩ hỗn hợp
+4.3. Trĩ hỗn hợp
 
 Lúc đầu trĩ nội nằm trong ống hậu môn trên đường lược, trĩ ngoại nằm dưới đường lược, phân cách nhau bởi vùng lược, ở đây có dây chằng Parks. Lâu ngày dây chằng Parks chùng ra, khi đó trĩ nội và trĩ ngoại gặp nhau tạo thành trĩ hỗn hợp (hình 6).
 
-### 4.4. Trĩ vòng
+4.4. Trĩ vòng
 
 Thông thường vị trí của trĩ là vị trí của các đám rối tĩnh mạch trĩ. Lúc mới phát sinh, các búi trĩ còn nhỏ, phân cách riêng biệt. Về sau giữa các búi trĩ chính xuất hiện các búi trĩ phụ. Sau nữa các búi trĩ chính và búi trĩ phụ tụt ra và gặp nhau tạo thành trĩ vòng. Tuy là vòng nhưng có chỗ to chỗ nhỏ. Chỗ to chỗ nhỏ là dấu hiệu tốt để phân biệt trĩ vòng với sa trực tràng.
 
@@ -8959,7 +9141,7 @@ Phân loại theo mức độ của trĩ ngoại:
 - E2: chiếm hơn phân nửa chu vi hậu môn.
 Phân loại theo mức độ liên quan chu vi hậu môn:
 - C0: các búi trĩ riêng lẻ, không liên kết với nhau
-- C1: các búi trĩ riêng lẻ liên kết với nhau một phần
+- C1: các búi trĩ riêng lẻ liên kết với nhau tạo thành phần
 - C2: các búi trĩ riêng lẻ liên kết với nhau tạo thành vòng
 Ví dụ, trĩ được phân loại là P1E1C2 nếu bị trĩ nội sa ra nhưng tự tụt vào, trĩ ngoại liên quan ít hơn 50% chu vi hậu môn và bệnh trĩ được kết nối với nhau chiếm trọn chu vi hậu môn. Điều này sẽ hữu ích trong việc quyết định phương pháp phẫu thuật và so sánh kết quả khách quan trước và sau phẫu thuật.
 
@@ -8972,37 +9154,1512 @@ Thường dựa vào các triệu chứng cơ năng như chảy máu, chiếm t�
 - Không điều trị trĩ triệu chứng, trừ khi có biến chứng.
 - Chỉ điều trị trĩ khi bệnh nhân có những rối loạn ảnh hưởng tới cuộc sống, tinh thần và thể chất.
 - Trước khi điều trị bệnh trĩ, phải điều trị các rối loạn được coi là những yếu tố thuận lợi phát sinh bệnh trĩ.
-- Điều trị bệnh trĩ kết hợp với các bệnh lý khác vùng hậu môn - trực tràng (rò hậu môn, nứt hậu môn, sa trực tràng kiểu túi...) chỉ nên được thực hiện tại các cơ sở y tế chuyên sâu.
+- Điều trị bệnh trĩ kết hợp với các bệnh lý khác vùng hậu môn - trực tràng (rò hậu môn, nứt hậu môn, sa trực tràng kiểu túi...) chỉ nên được thực hiện tại các cơ sở y tế chuyên sâu
 - Bệnh trĩ có nhiều loại thương tổn, nhiều hình thái, nhiều mức độ, khi điều trị phải chọn phương pháp thích hợp cho từng loại.
 - Không gây nên các hậu quả xấu hơn những rối loạn của bệnh trĩ.
 
 6.2. Điều trị nội khoa
-Vệ sinh tại chỗ tốt bằng phương pháp ngâm nước ấm 2-3 lần/ngày, mỗi lần 15 phút. Tập thói quen đi cầu đều đặn hàng ngày. Điều chỉnh thói quen ăn uống:
+Vệ sinh tại chỗ tốt bằng phương pháp ngâm nước ấm 2-3 lần/ngày, mỗi lần 15 phút.
+Tập thói quen đi cầu đều đặn hàng ngày.
+Điều chỉnh thói quen ăn uống:
 - Tránh các chất kích thích như cà phê, rượu, trà.
 - Tránh các thức ăn nhiều gia vị như ớt, tiêu.
 - Uống nước đầy đủ.
 - Ăn nhiều chất xơ.
 Vận động thể lực: nên tập thể dục và chơi các môn thể thao nhẹ như bơi lội, đi bộ...
-
 Thuốc uống: gồm các thuốc có tác nhân trợ tĩnh mạch, dẫn xuất từ flavonoid. Các hiệu quả lâm sàng đã được chứng minh trong nhiều công trình nghiên cứu trong nước, cải thiện đáng kể các triệu chứng. Cơ chế tác động của các thuốc này là làm gia tăng trương lực tĩnh mạch, bảo vệ vi tuần hoàn, giảm phù nề nhờ tác động kháng viêm tại chỗ.
-
 Thuốc tại chỗ: gồm các loại thuốc mỡ (pommade) và đạn dược (suppositoire) bao gồm các tác nhân kháng viêm, vô cảm tại chỗ và dẫn xuất trợ tĩnh mạch. Tuy nhiên đến nay không có nghiên cứu nào xác nhận hiệu quả của thuốc tại chỗ và ta cần chú ý đến khả năng dị ứng mạnh đối với tác nhân vô cảm tại chỗ nếu có.
 
 6.3. Điều trị bằng thủ thuật
 Có nhiều phương pháp điều trị bằng thủ thuật:
 
-6.3.1. Chích xơ hóa búi trĩ
+### 6.3.1. Chích xơ hóa búi trĩ
 
-Chích xơ là tạo phản ứng xơ hóa vùng dưới niêm. Hiện tượng xơ sẽ chèn làm búi trĩ nhỏ lại và trở về vị trí cũ. Thường áp dụng trong trĩ nội độ 1, độ 2. Tiêm xơ vào đỉnh búi trĩ. Khi chích không được chích cạn quá vì sẽ làm hoại tử niêm mạc, cũng không được chích quá sâu vào lớp cơ sẽ làm hẹp hậu môn, có thể nhiễm khuẩn gây viêm tấy lan rộng tầng sinh môn, nếu chích ở khoảng 12g có thể gây viêm tuyến tiền liệt và rò âm đạo trực tràng.
+Chích xơ là tạo phản ứng xơ hóa vùng dưới niêm. Hiện tượng xơ sẽ chèn làm búi trĩ nhỏ lại và trở về vị trí cũ. Thường áp dụng trong trĩ nội độ 1, độ 2. Tiêm xơ vào đỉnh búi trĩ. Khi chích không được chích cạn vì sẽ làm hoại tử niêm mạc, cũng không được chích quá sâu vào lớp cơ sẽ làm hẹp hậu môn, có thể nhiễm khuẩn gây viêm tấy lan rộng tầng sinh môn, nếu chích ở khoảng 12g có thể gây viêm tuyến tiền liệt và rò âm đạo trực tràng.
 
 Các chất dùng để tiêm xơ cũ như dầu Phenol, Polidocanol thường chỉ hiệu quả đối với các búi trĩ độ 2 hoặc độ 3 kích thước nhỏ. Gần đây aluminum potassium sulfate and tannic acid (ALTA) đã được chứng minh hiệu quả tiêm xơ đối với trĩ độ 3 và độ 4. Tiêm xơ bằng ALTA còn được khuyến cáo ưu tiên sử dụng ở các bệnh nhân đang sử dụng thuốc kháng đông mà bị chảy máu do trĩ do cơ chế của thuốc tiêm xơ làm tăng đông máu.
 
-6.3.2. Liệu pháp làm đông nhiệt bằng tia hồng ngoại
+### 6.3.2. Liệu pháp làm đông nhiệt bằng tia hồng ngoại
 
 Dùng một bóng đèn tungsten-halogen phát ra tia hồng ngoại hội tụ trên búi trĩ, tia hồng ngoại xuyên qua mô đến lớp dưới niêm biến thành nhiệt năng gây hiện tượng viêm, phá hủy và tạo sẹo tại vùng chiếu tia. Có thể làm đông nhiệt bằng đốt điện với máy đốt điện một cực hay hai cực. Phương pháp này áp dụng cho trĩ độ 1 và độ 2.
 
-[Hình: Hai hình chụp thao tác chiếu tia hồng ngoại và sơ đồ vị trí búi trĩ]
+[Hình: Hai ảnh chụp thiết bị và thao tác làm đông nhiệt búi trĩ]
 
-[Hình: Sơ đồ giải phẫu quá trình làm nhiệt đông búi trĩ bằng tia hồng ngoại]
+[Hình: Sơ đồ minh họa vị trí chiếu tia hồng ngoại vào búi trĩ]
 
-Hình 6. Làm nhiệt đông búi trĩ bằng tia hồng ngoại.
+**Hình 6. Làm nhiệt đông búi trĩ bằng tia hồng ngoại.**
+
+6.3.3. Thắt trĩ bằng vòng cao su
+
+Theo phương pháp Barron (1963), sử dụng dụng cụ để đưa vòng cao su vào thắt ở gốc búi trĩ. Búi trĩ thiếu máu, hoại tử dần và rụng đi. Cần chú ý là phải thắt đúng gốc búi trĩ ở trên cao vào niêm mạc, nếu thắt thấp vừa không lấy hết trĩ vừa gây đau dữ dội.
+
+[Hình: Thắt trĩ bằng vòng cao su]
+
+Hình 7. Thắt trĩ bằng vòng cao su.
+
+6.3.4. Đốt trĩ bằng Laser
+
+Với sự ra đời của máy phát laser hai bước sóng thì điều trị trĩ bằng tia laser đã đạt thêm được bước tiến mới. Đây là phương pháp mới, ít xâm hại, hiệu quả cao. Máy phát laser cho phép phát đồng thời tia laser ở hai bước sóng 980 nm và 1.470 nm giúp tăng hiệu quả điều trị: mô bị teo nhanh hơn và ít chảy máu. Hạn chế của phương pháp này là chi phí cao.
+
+[Hình: Diode Laser "Leonardo", Biolitec. Áp đầu sợi quang học dẫn tia laser lên động mạch trĩ.]
+
+Hình 8. Diode Laser "Leonardo", Biolitec. Áp đầu sợi quang học dẫn tia laser lên động mạch trĩ.
+
+6.4. Điều trị phẫu thuật
+
+Cắt trĩ không phải là phẫu thuật lớn nhưng cũng không phải là phẫu thuật đơn giản vì nếu không có kinh nghiệm sẽ không đạt được yêu cầu điều trị được bệnh trĩ hoặc sẽ dẫn đến các biến chứng nặng nề hơn so với bệnh trĩ. Không được coi phẫu thuật cắt trĩ là “Phẫu thuật góc bàn”. Nó không phải là phẫu thuật của các phẫu thuật viên tập sự mà người mổ phải là các phẫu thuật viên chuyên khoa tiêu hóa có kinh nghiệm.
+
+### 6.4.1. Phẫu thuật cắt trĩ
+Về nguyên tắc có hai loại phẫu thuật:
+Cắt bỏ một khoanh vòng niêm mạc ống hậu môn có búi trĩ nội: Phương pháp Whitehead và những cải biên.
+Cắt riêng từng búi: Phương pháp Milligan Morgan, bệnh viện Saint Mark và những cải biên
+
+Hiện nay phẫu thuật Whitehead ít được sử dụng do biến chứng biến dạng hậu môn gây tình trạng tăng tiết chất nhờn từ niêm mạc trực tràng ra da xung quanh hậu môn.
+
+Kết quả của phẫu thuật cắt trĩ từng búi vẫn là tiêu chuẩn vàng trong điều trị phẫu thuật cho bệnh trĩ mà tất cả các phương pháp khác đều phải so sánh. Các biến chứng sau phẫu thuật cắt trĩ có thể là chảy máu, bí tiểu, tiêu mất tự chủ, nhiễm khuẩn vết mổ và hẹp hậu môn. Nhược điểm của phương pháp cắt trĩ từng búi là gây đau nhiều sau mổ. Kỹ thuật cắt bên cơ thắt trong, bôi nitroglycerin sau mổ có thể giúp giảm đau sau mổ cắt trĩ.
+
+[Hình: Các hình vẽ minh họa phẫu thuật cắt trĩ từng búi]
+
+**Hình 9. Cắt trĩ từng búi theo phương pháp bệnh viện Saint Mark.**
+
+### 6.4.2. Phẫu thuật Longo
+Nguyên tắc của phẫu thuật là cắt và khâu niêm mạc sa của trĩ độ 2-3-4, kể cả trĩ vòng với máy khâu vòng. Đường cắt và khâu ở niêm mạc trên đường lược bị sa xuống nằm trong lòng ống hậu môn. Không cắt và khâu niêm mạc và da ở ống hậu môn, hệ thống cơ thắt không bị thương tổn.
+
+Ưu điểm của phương pháp này là không đau, bệnh nhân ra viện sớm. Vì sau mổ đau rất ít nên bệnh nhân dễ chấp nhận cuộc mổ.
+Nhược điểm là khó khăn khi điều trị trĩ hỗn hợp có thừa nhiều da.
+
+[Hình: Phẫu thuật khâu treo trĩ bằng máy bấm (phẫu thuật Longo).]
+
+Hình 10. Phẫu thuật khâu treo trĩ bằng máy bấm (phẫu thuật Longo).
+
+7. CHỌN LỰA ĐIỀU TRỊ
+
+Sau đây là các cơ sở để đưa ra quyết định điều trị:
+- Trĩ có triệu chứng: tiêu ra máu, trĩ sa hoặc đau hậu môn
+- Xác nhận trĩ là nguyên nhân của các triệu chứng: cần chẩn đoán phân biệt với các nguyên nhân khác gây triệu chứng tương tự như polyp trực tràng, u nhú hậu môn, viêm loét trực tràng hc nứt hậu môn.
+- Bản chất và hiệu quả của các điều trị trước đó: bệnh nhân đã từng được điều trị bằng các phương pháp nội khoa hay thủ thuật nào trước đó, kết quả của lần điều trị trước như thế nào
+- Có hay không có đồng thời trĩ ngoại có triệu chứng
+- Triệu chứng nổi trội
+    + Trĩ sa nhiều gây phiền toái cho người bệnh thì cần chọn các phương pháp phẫu thuật cắt búi trĩ
+    + Chảy máu là triệu chứng kiến bệnh nhân cần điều trị thì chọn lựa các phương pháp nhắm đến mạch máu như phẫu thuật Longo, thắt trĩ, tiêm xơ trĩ
+    + Đau hậu môn là biểu hiện của trĩ biến chứng cần điều trị phẫu thuật cấp cứu
+- Mức độ bệnh
+    + Chọn lựa phương pháp điều trị từ ít xâm hại đến phẫu thuật
+    + Tránh các biến chứng gây hại hơn sau khi phẫu thuật.
+
+Lưu đồ chẩn đoán và điều trị trĩ (dựa trên lưu đồ của hội phẫu thuật viên đại tràng Mỹ và hướng dẫn của châu Âu).
+
+435
+
+**Sơ đồ: Lưu đồ 1. Điều trị trĩ.**
+
+- Điều trị trĩ có triệu chứng
+  - Hỏi bệnh sử đầy đủ, khám lâm sàng bao gồm khám trực tràng bằng ngón tay
+    - Loại trừ ung thư với các phương tiện chẩn đoán hình ảnh thích hợp
+    - Trĩ độ 1
+      - Điều trị cơ bản
+        - Thất bại
+          - Thắt trĩ
+          - Tiêm xơ ALTA
+          - Nhiệt đông bằng tia hồng ngoại
+    - Trĩ độ 2
+      - Điều trị cơ bản: thay đổi chế độ ăn, thói quen đại tiện và dùng thuốc bôi tại chỗ
+        - Thất bại
+          - Thắt trĩ
+          - Tiêm xơ ALTA
+          - THD
+            - Thất bại --> *Phẫu thuật cắt trĩ Hoặc *Phẫu thuật Longo * Phẫu thuật THD ± khâu treo niêm mạc * Thắt trĩ nếu có CCĐ phẫu thuật
+    - Trĩ độ 3
+      - *Phẫu thuật cắt trĩ Hoặc *Phẫu thuật Longo * Phẫu thuật THD ± khâu treo niêm mạc * Thắt trĩ nếu có CCĐ phẫu thuật
+    - Trĩ độ 4
+      - Phẫu thuật cắt trĩ Hoặc Thắt trĩ nếu có CCĐ phẫu thuật
+    - Trĩ hỗn hợp
+      - Phẫu thuật cắt trĩ Hoặc Thắt trĩ nếu có CCĐ phẫu thuật
+
+CCĐ: chống chỉ định, THD: khâu triệt ĐM trĩ dưới hướng dẫn siêu âm.
+
+TÀI LIỆU THAM KHẢO
+
+1. Dương Phước Hưng. Điều trị ngoại khoa bệnh trĩ. Bài giảng ngoại khoa. Nhà xuất bản Y học 2004: tr 153-164
+2. Nguyễn Đình Hối. Bệnh trĩ. Bách khoa thư bệnh học, tập 2. Nhà xuất bản từ điển bách khoa Hà Nội 2000: 121-6.
+3. Nguyễn Đình Hối. Bệnh trĩ. Hậu môn trực tràng học. Nhà xuất bản Y học 2002: 73-105.
+4. Corman ml (2016). Hemorrhoids. In: corman's colon and rectal surgery. Lippincott Williams & Wilkins. Philadelphia. Pp 273-344
+5. Davis, b. R., Lee-kong, s. A., Migaly, j., Feingold, d. L., Steele, s. R. (2018), "The American society of colon and rectal surgeons clinical practice guidelines for the management of hemorrhoids". Dis colon rectum, 61(3), 284-292.
+
+6. Grucela a, Salinas h, Khaitov s, Steinhagen rm, Gorfine sr, Chessin db. (2010) Prospective analysis of clinician accuracy in the diagnosis of benign anal pathology: comparison across specialties and years of experience. DIS COLON RECTUM. 2010 jan. 53(1):47-52. [MEDLINE]
+7. Luchtefeld m. (2019) Hemorrhoids. In: the ASCRS manual of colon and rectal surgery https://doi.org/10.1007/978-3-030-01165-9 pp 153-169.
+8. Muldoon, r. (2020), "Review of American society of colon and rectal surgeons clinical practice guidelines forthe management of hemorrhoids". Jama surg.
+9. Van tol, r. R., Kleijnen, j., Watson, a. J. M., Jongen, j., Altomare, d. F., Qvist, n., et al. (2020), "European society of coloproctology: Guideline for haemorrhoidal disease". Colorectal dis, 22(6), 650-662.
+10. Yang hk (2014), Hemorrhoids, doi 10.1007/978-3-642-41798-6_2, © springer-verlag berlin heidelberg 2014 pp: 47-63
+11. Yamana, t. (2018), "Japanese practice guidelines for anal disorders ii. Anal fistula". J anus rectum colon, 2(3), 103-109.
+
+CÂU HỎI LƯỢNG GIÁ
+1. Ống hậu môn phẫu thuật?
+A. Từ đường rìa hậu môn đến đường lược
+B. Từ đường rìa hậu môn đến đường vòng hậu môn-trực tràng
+C. Từ đường gian cơ thắt đến đường lược
+D. Dài 5-7 cm
+2. Cơ thắt ngoài hậu môn?
+A. Cấu tạo chủ yếu từ cơ vân
+B. Cấu tạo chủ yếu từ cơ trơn
+C. Gồm 2 lớp nông và sâu
+D. Nếu bị tổn thương sẽ gây mất kiểm soát đại tiện hoàn toàn
+3. Đám rối trĩ nhận máu cung cấp chủ yếu từ?
+A. ĐM trực tràng trên
+B. ĐM trực tràng giữa
+C. ĐM trực tràng dưới
+D. ĐM thẹn trong
+4. Tĩnh mạch trĩ có đặc điểm (chọn câu sai)?
+A. Phân bố chủ yếu ở vị trí 4g, 7g và 11g
+B. Cấu tạo kiểu đám tĩnh mạch, có nhiều nhánh thông nối
+
+C. Là chỗ nối hệ TM cửa – chủ
+D. Dẫn lưu máu cho ống hậu môn
+
+5. Bệnh nhân nam 34 tuổi, làm nghề tài xế, nhập viện vì trĩ sa khi đi tiêu. Bệnh sử # 1 năm nay bệnh nhân thấy khối sa ở hậu môn khi đi tiêu, lúc đầu tự tụt vào, không đau. Cách 1 tháng, khối sa này tăng kích thước và không tự tụt vào được sau khi đi tiêu mà bệnh nhân phải dùng tay ấn nhẹ vào thì khối này mới tụt vào hậu môn. Thỉnh thoảng bệnh nhân có bị tiêu ra máu đỏ tươi nhỏ giọt xuống bồn cầu khi uống rượu bia hoặc táo bón. Bệnh nhân không bị táo bón, đi tiêu mỗi ngày, phân bình thường. Bệnh nhân thấy khối sa ngày càng thường xuyên, gần như lần nào đi tiêu cũng bị khối sa ra khỏi hậu môn nên đến khám và điều trị.
+
+Tiền sử: Không mắc bệnh gì. Gia đình không ai mắc bệnh ung thư đường tiêu hóa
+
+Khám lâm sàng: Bệnh nhân tỉnh táo, tiếp xúc tốt. Sinh hiệu M 85l/ phút, HA: 120/80 mmHg, nhiệt độ 37°C
+
+Khám hậu môn: Trĩ nội ở vị trí 4g, 7g và 2g. Trĩ ngoại ở 7g. Trực tràng không u. Cơ thắt hậu môn tốt. Rút găng không dính máu.
+
+a) Chẩn đoán hợp lý trên người bệnh này là ?
+A. Trĩ nội độ 3
+B. Trĩ hỗn hợp
+C. Trĩ xuất huyết
+D. Trĩ P2E2C1
+
+b) Điều trị phù hợp nhất cho bệnh nhân này là?
+A. Thắt trĩ bằng vòng cao su
+B. Phẫu thuật Longo
+C. Cắt trĩ từng búi
+D. Thay đổi chế độ ăn và dùng thuốc bôi tại chỗ
+
+# PHẦN II
+
+[Hình: Sơ đồ giải phẫu tụy và các ống dẫn]
+
+## SINH BỆNH HỌC VÀ TỔN THƯƠNG MÔ HỌC CỦA VIÊM TỤY MẠN
+
+1. Viêm tụy mạn có thể do nhiều nguyên nhân, tuy nhiên, cơ chế bệnh sinh đều dẫn đến tắc nghẽn ống tụy.
+
+Các thuyết về cơ chế bệnh sinh của viêm tụy mạn được chấp nhận rộng rãi là sự biến đổi của các tế bào hình sao của tụy trong viêm tụy mạn. Theo giả thuyết này, các tế bào hình sao của tụy khi bị kích thích bởi các yếu tố như rượu, các chất chuyển hóa của rượu, các cytokine, các yếu tố tăng trưởng, sẽ chuyển dạng thành các tế bào dạng nguyên bào sợi, tăng sinh và sản xuất nhiều mô sợi, đồng thời tăng tiết các chất nền ngoại bào. Sự tích tụ các chất này dẫn đến hẹp dần lòng ống tụy. Mặc dù các nguyên nhân gây viêm tụy cấp đã được loại bỏ, các tế bào hình sao và cytokine vẫn được duy trì và tiếp tục hoạt động, tạo ra một vòng xoắn bệnh lý giải thích tại sao viêm tụy mạn vẫn tiến triển ngay cả khi bệnh nhân đã ngưng rượu.
+
+Bên cạnh đó, thành phần Ethanol trong rượu có thể gây độc trực tiếp lên các tế bào nang tụy, làm thay đổi thành phần dịch tụy, làm giảm tiết các chất ức chế trypsin, dẫn đến sự hình thành các nút protein trong lòng ống tụy. Các nút protein này sau đó bị vôi hóa, gây tắc nghẽn ống tụy, dẫn đến sự phá hủy các tế bào nang tụy và thay thế bằng mô xơ.
+
+# VIÊM TỤY MẠN – SỎI TỤY
+*Phan Minh Trí, Phạm Hồng Phú*
+
+Từ khóa: tắc nghẽn ống tụy, xơ hóa nhu mô tụy, suy tụy ngoại tiết, suy tụy nội tiết, sỏi tụy, tiêu chuẩn chẩn đoán viêm tụy mạn theo Buchler.
+
+## 1. ĐỊNH NGHĨA
+Viêm tụy mạn là tình trạng viêm tụy diễn tiến dẫn đến tổn thương các cấu trúc của tụy không hồi phục, gây nên sự mất cân bằng chức năng bài tiết enzym tụy nội tiết và ngoại tiết. Triệu chứng lâm sàng nổi bật của viêm tụy mạn là đau bụng liên tục hoặc từng đợt, kèm theo các rối loạn chuyển hóa do thiếu hụt enzym tụy nội và ngoại tiết gây ảnh hưởng rất lớn đến chất lượng sống của người bệnh.
+
+Khoảng 50% trường hợp viêm tụy mạn sẽ hình thành sỏi tụy, bao gồm 1 nhân chính ở giữa được bao quanh bởi nhiều lớp Calci Carbonate. Sỏi tụy được tạo thành nhanh và nhiều hơn ở những trường hợp viêm tụy mạn do rượu. Sỏi tụy có thể ở xuất hiện ở bất kỳ vị trí nào trong ống tụy và nhu mô tụy.
+
+[Hình: Viêm tụy mạn và sỏi tụy]
+- Tắc OMC
+- Giãn và sỏi OTC
+- Nang giả tụy
+- Tắc OTC
+- Tắc tá tràng
+
+Hình 1. Viêm tụy mạn và sỏi tụy [3].
+(OMC: ống mật chủ, OTC: ống tụy chính).
+
+## 2. NGUYÊN NHÂN VÀ BỆNH SINH
+Nguyên nhân gây viêm tụy mạn thường gặp nhất là sử dụng rượu bia, khoảng 60-70%, tuy nhiên tần suất xuất hiện bệnh phụ thuộc vào thời gian và lượng rượu bia tiêu thụ. Lượng rượu uống tối thiểu 80 gram mỗi ngày trong 6 -12 năm tăng nguy cơ hình thành viêm tụy mạn. Nguy cơ viêm tụy mạn cao nhất ở những người sử dụng quá mức trên 150 gram/ngày. Tuy nhiên, nhiều trường hợp sử dụng lượng rượu ít, khoảng 1 -20 gram/ngày, được ghi nhận viêm tụy mạn.
+
+Các nguyên nhân khác tự miễn, khoảng 20-30%, như Hội chứng Sjögren, xơ gan đường mật nguyên phát, viêm hẹp đường mật nguyên phát...
+
+Di truyền do đột biến gen Serine Protease 1 - PRSS1, hoặc gen ức chế Serine Protease Kazal nhóm 1 - SPINK1, chiếm 10%.
+
+Khoảng 10% các nguyên nhân còn lại bao gồm viêm tụy cấp nhiều lần gây xơ hóa tụy, nhiễm độc, ung thư chèn ép ống tụy, cường tuyến cận giáp gây tăng Calci máu, tăng Triglycerid máu.
+
+3. DỊCH TỄ
+
+Sự liên quan giữa viêm tụy mạn và rượu bia rất có ý nghĩa ở những quốc gia có số lượng tiêu thụ rượu bia cao, ví dụ Việt Nam đứng thứ 2 ở Đông Nam Á và nằm trong nhóm quốc gia có số lượng tiêu thụ rượu bia tăng nhanh nhất thế giới.
+
+Giới tính: viêm tụy mạn ở nam giới thường do rượu bia vì tần suất tiêu thụ rượu bia gấp 3 lần so với nữ giới. Đối với nữ giới, nguyên nhân thường liên quan đến bệnh tự miễn hoặc vô căn, thường biểu hiện bằng sự hình thành sỏi Calci đơn thuần trong ống tụy chính.
+
+4. SINH LÝ BỆNH VÀ TỔN THƯƠNG MÔ HỌC CỦA VIÊM TỤY MẠN
+
+4.1. Viêm tụy mạn có thể do nhiều nguyên nhân dẫn đến, tuy nhiên tất cả các cơ chế bệnh sinh đều dẫn đến sự tắc nghẽn ống tụy
+
+Giả thuyết vấn đề quanh viêm tụy cấp (Sentinel Acute Pancreatitis Event, SAPE) được chấp nhận rộng rãi về sự diễn tiến của quá trình hình thành xơ hóa nhu mô tụy trong viêm tụy mạn. Theo giả thuyết, khi tình trạng viêm nhiễm diễn ra ở nhu mô tụy sẽ kích thích tế bào đảo tụy tiết ra nhiều loại Cytokin, kích thích các tế bào hình sao sản xuất nhiều mô sợi, đồng thời tăng thấm nhập các tế bào viêm như bạch cầu đa nhân và đơn nhân làm hẹp dần lòng ống tụy. Mặc dù tình trạng viêm tụy cấp cải thiện, các tế bào viêm và Cytokin vẫn được tạo ra dẫn đến tình trạng xơ hóa nhu mô tụy, mặc dù tụy đã ngừng phơi nhiễm với các độc chất như rượu hoặc thuốc lá. Điều này giải thích tại sao những bệnh nhân đã ngưng rượu vẫn tiến triển thành viêm tụy mạn sau thời gian dài.
+
+Bệnh cạnh đó, thành phần Ethanol trong rượu và trong bệnh di truyền kích thích các tế bào đảo tụy tiết 1 loại Protein làm giảm tiết dịch tụy trong ống tụy dẫn đến đông đặc dịch tụy và tăng tiết Carbonate từ các ống tuyến tụy ngoại vi. Hai yếu tố này gây tắc nghẽn ống tụy dẫn đến thiểu dưỡng tế bào đảo tụy và xơ hóa nhu mô tụy, lâu dần dẫn đến hình thành sỏi tụy. Ngược lại, các yếu tố tự miễn gây giảm tiết dịch tụy trong ống tụy, nhưng không tăng tiết Carbonate. Do đó, sỏi tụy thường gặp trong viêm tụy mạn do rượu và bệnh di truyền.
+
+**Sơ đồ: Viêm cấp --> xơ hóa --> Viêm mạn**
+
+Quá trình viêm diễn ra lâu ngày hoặc tái phát nhiều lần sẽ làm nhu mô tụy xơ hóa phì đại, chủ yếu ở vùng đầu tụy (khoảng 40% trường hợp) tạo thành khối viêm đầu tụy, cũng góp phần gây tắc nghẽn ống tụy.
+
+[Hình: Tổn thương đại thể của viêm tụy mạn [3].]
+- Giãn ống tụy chính
+- Khối viêm đầu tụy
+
+Hình 2. Tổn thương đại thể của viêm tụy mạn [3].
+
+4.2. Tình trạng xơ hóa nhu mô tụy kéo dài ảnh hưởng đến chức năng nội tiết và ngoại tiết của tụy
+
+Rối loạn hấp thu chất béo: đi tiêu phân mỡ rất thường xuất hiện khoảng 90% ở bệnh nhân viêm mạn, do sự ly giải chất béo giảm nhanh hơn sự ly giải Protein. Dẫn đến thiếu hụt các Vitamin hòa tan trong chất béo như A, D, E, K và có thể giảm hấp thu Vitamin B12.
+
+Đái tháo đường do tụy: thường xuất hiện giai đoạn trễ của viêm tụy mạn, và thường thấy ở những bệnh nhân có sỏi tụy. Các tiểu đảo tụy nội tiết vẫn giữ được cấu trúc và chức năng mặc dù các thùy tụy ngoại tiết dần bị phá hủy khi viêm tụy mạn diễn tiến, chỉ khi khối lượng nhu mô tụy bình thường bị mất trên 90%, tình trạng suy tụy nội tiết sẽ xuất hiện. Về mặt bệnh học đái tháo đường do tụy giống như bệnh đái tháo đường nhóm 1 đó là bệnh nhân luôn phải sử dụng Insulin (khoảng 40%) do các tế bào Beta bị tổn thương khi nhu mô tụy bị xơ hóa, tuy nhiên đái tháo đường do tụy có điểm khác biệt do cùng ảnh hưởng lên các tế bào Alpha tiết Glucagon, do đó bệnh nhân có nguy cơ hạ đường huyết. Biến chứng đái tháo đường do tụy thường thấy ở thần kinh, và võng mạc nhiều hơn toan chuyển hóa và tổn thương thận.
+
+4.3. Tổn thương xơ hóa nhu mô tụy diễn tiến kéo dài sẽ dẫn đến hình thành các tế bào ác tính ở tụy
+
+Nhiều nghiên cứu cho thấy nguy cơ chuyển thành ung thư tụy trong 2 năm sau khi chẩn đoán viêm tụy mạn khoảng 12-20%, và tăng cao gấp 8 lần sau 5 năm.
+
+5. LÂM SÀNG
+5.1. Triệu chứng lâm sàng
+5.1.1. Khám bụng
+
+Đau bụng là triệu chứng nổi bật và thường gặp ở 70-80% bệnh nhân. Đau bụng là triệu chứng khiến người bệnh phải đi khám bệnh và cũng là chỉ định phẫu thuật thường gặp nhất của viêm tụy mạn.
+
+Đặc điểm của cơn đau:
+- Cơn đau thường xuất hiện khoảng 15-30 phút sau bữa ăn, đặc biệt nhiều dầu mỡ hoặc uống nhiều rượu.
+- Khởi phát tại vùng thượng vị hoặc 1/4 bụng trên trái, thường lan ra sau lưng (do tụy nằm vùng thượng vị và hạ sườn trái, và sau phúc mạc gần đám rối thần kinh tạng quanh cột sống).
+
+[Hình: Hình 3. Vị trí đau và hướng lan trong viêm tụy mạn [3].]
+
+- Cơn đau tăng nhanh và đạt đỉnh sau 30 đến 60 phút, giảm đau khi bệnh nhân gập người hoặc ngồi cúi về trước.
+- Diễn tiến kéo dài cơn đau viêm tụy mạn chia thành 2 nhóm:
+    + Có những cơn kéo dài 7-10 ngày, giữa những cơn đau có những khoảng thời gian không xuất hiện triệu chứng có thể kéo dài vài tuần hay hơn 1 năm. Kiểu đau này thường liên quan đến các đợt viêm tụy tái diễn, có thể viêm tụy hoại tử.
+    + Những đợt đau bụng cấp tính trên nền đau bụng âm ỉ kéo dài dai dẳng vài tháng đến vài năm, thường liên quan đến khối viêm đầu tụy, nang giả tụy, tắc mật.
+- Triệu chứng kèm theo: buồn nôn và nôn (do thần kinh tạng bị kích thích) thường xuất hiện trong cơn đau bụng cấp tính.
+
+Khám bụng ấn đau vùng thượng vị nhiều, đề kháng trong cơn đau cấp của viêm tụy. Ấn điểm Mayo-Robson (+).
+
+443
+
+Ngoài ra, trong trường hợp người bệnh có nang giả tụy, khi khám có thể sờ được 1 khối vùng thượng vị và hạ sườn trái, giới hạn rõ, ấn đau tức, không di động theo nhịp thở.
+
+5.1.2. Suy tụy ngoại tiết
+
+Khi chức năng tụy ngoại tiết giảm dưới 10%, người bệnh sẽ có triệu chứng tiêu phân sống do giảm hấp thu chất béo: Phân lỏng, nhiều, màu xám, trơn nhớt, có mùi chua hoặc đồ ăn và cảm giác đi tiêu không hết phân, có thể thấy váng mỡ. Ngoài ra bệnh nhân còn có các rối loạn tiêu hóa khác như chán ăn, buồn nôn, đầy hơi, táo bón và sụt cân.
+
+Sụt cân và suy dinh dưỡng thường gặp do ăn uống kém khi xuất hiện đau mạn tính và giảm hấp thu do suy tụy ngoại tiết.
+
+Thời gian trung bình xuất hiện suy tụy ngoại tiết khoảng 5-6 năm sau khi triệu chứng đau xuất hiện, có thể sau khoảng 13 năm đối với viêm tụy mạn do rượu hoặc khoảng 26 năm đối với viêm tụy mạn vô căn.
+
+5.1.3. Suy tụy nội tiết
+
+Thường xuất hiện ở giai đoạn trễ của viêm tụy mạn, trong đó, rối loạn đường huyết gặp trong 70% trường hợp và đái tháo đường chiếm 20%, ngoài ra người bệnh có thể xuất hiện triệu chứng của hạ đường huyết.
+
+Rối loạn đường huyết: bệnh nhân có thể có triệu chứng của tăng đường huyết (ăn nhiều, uống nhiều, tiểu nhiều, sụt cân,...) hoặc hạ đường huyết (vã mồ hôi, chóng mặt, tim đập nhanh, chóng mặt, da tái nhạt).
+
+Thời gian xuất hiện suy tụy nội tiết phụ thuộc nguyên nhân. Triệu chứng đái tháo đường xuất hiện sau khoảng 11,9 đến 27,5 năm đối với viêm tụy mạn vô căn và khoảng 19,8 năm đối với viêm tụy mạn rượu.
+
+5.2. Các thể lâm sàng của viêm tụy mạn và sỏi tụy
+
+5.2.1. Sỏi tụy và giãn ống tụy
+
+Sỏi tụy xuất hiện trên 50% trường hợp và là biểu hiện muộn của viêm tụy mạn. Bên cạnh đó, sỏi tụy là nguyên nhân chính gây triệu chứng đau bụng do cơ chế gây tắc nghẽn các ống tụy, dẫn đến tăng áp ngược dòng và hậu quả gây tăng áp toàn bộ nhu mô tụy. Do đó trên hình ảnh học, sỏi tụy thường đi kèm giãn ống tụy chính, có thể giãn toàn bộ hoặc khu trú từng đoạn xen kẽ tạo thành hình ảnh “chuỗi hồ”.
+
+Sỏi tụy được phân loại dựa trên đặc điểm:
+- Thành phần: cản quang, thấu quang, hay hỗn hợp.
+- Số lượng: một viên hay nhiều viên.
+- Vị trí:
+
++ Ống tụy chính, ống nhánh hay nhu mô tụy.
++ Đầu, thân hay đuôi tụy.
+
+### 5.2.2. Nang giả tụy
+Khoảng 25% trường hợp viêm tụy mạn có nang giả tụy kèm theo. Vách nang không có tế bào biểu mô mà được tạo nên do mô hạt viêm, dịch trong nang thường có dịch tụy do nhiều nang thông thương với ống tụy. Các nang này thường xuất hiện ở thân và đuôi tụy, nằm ngoài nhu mô tụy. Nang giả tụy thường xuất hiện ở giai đoạn sớm và liên quan đến đợt cấp của viêm tụy.
+
+### 5.2.3. Khối viêm đầu tụy
+Đây là hình thái đặc biệt, chiếm khoảng 30 - 45% trường hợp viêm tụy mạn và 80% nguyên nhân liên quan đến rượu. Vùng đầu tụy tăng kích thích ≥ 4 cm do phản ứng viêm, có thể chèn ép các tạng xung quanh, như:
+- Viêm đường mật, hội chứng vàng da do chèn ép ống mật chủ (50%).
+- Hội chứng hẹp môn vị do chèn ép gây tắc nghẽn tá tràng (5-10%).
+- Chèn ép tĩnh mạch cửa hoặc tĩnh mạch mạc treo tràng trên (8-15%), và tĩnh mạch lách (3-5%).
+
+Những trường hợp viêm tụy mạn kèm khối viêm đầu tụy thường có triệu chứng đau nhiều hơn, tuy nhiên chức năng tụy ngoại tiết và nội tiết được bảo tồn so với nhóm không có khối viêm đầu tụy.
+
+### 5.2.4. Hội chứng vàng da tắc mật
+Hội chứng vàng da tắc mật ít gặp, khoảng 9% trường hợp viêm tụy mạn. Nguyên nhân có thể do:
+- Sỏi ống tụy chính nằm ngả ba mật tụy gây tắc nghẽn ống mật chủ.
+- Xơ sẹo đầu tụy gây sẹo hẹp ống mật chủ thứ phát.
+- Khối viêm đầu tụy chèn ép tắc ống mật chủ.
+
+Lựa chọn phương pháp điều trị phụ thuộc nguyên nhân, thường kết hợp giải áp đường mật và điều trị viêm tụy mạn.
+
+### 5.2.5. Giả phình mạch máu trong viêm tụy mạn
+Giả phình mạch máu là biến chứng hiếm gặp, khoảng 4-10% trường hợp, nhưng nguy hiểm đến tính mạng.
+Cơ chế tạo giả phình có thể do:
+- Quá trình viêm diễn tiến ăn mòn thành mạch máu quanh tụy tạo thành khối giả phình.
+- Nang giả tụy ăn mòn mạch máu quanh tụy tạo thành khối giả phình mạch máu.
+
+- Nang giả tụy ăn mòn mạch máu của thành ruột gây ra những đợt xuất huyết tiêu hóa.
+Các vị trí mạch máu thường tạo giả phình trong viêm tụy mạn: động mạch lách, động mạch vị tá, các nhánh động mạch tá - tụy, động mạch gan.
+
+6. CẬN LÂM SÀNG
+6.1. Xét nghiệm máu
+Công thức máu:
+- Bạch cầu có thể tăng ưu thế bạch cầu đa nhân trung tính trong hội đáp ứng viêm toàn thân.
+- Tiểu cầu có thể giảm do rối loạn đông máu trong sốc nhiễm khuẩn.
+Hóa sinh:
+- CRP hoặc Pro-Calcintonin có thể tăng trong hội đáp ứng viêm toàn thân.
+- Chức năng gan, thận: men gan có thể tăng và chức năng thận có thể giảm do nhiễm khuẩn nặng.
+- Men tụy (Amylase, Lipase máu) thường không tăng hoặc có thể tăng nhẹ; trong trường hợp đợt viêm cấp tính trên nền viêm tụy mạn, men tụy có thể tăng cao trên 3 lần ngưỡng trên xét nghiệm.
+- Đường huyết: theo dõi đường huyết mỗi ngày đánh giá tình trạng đái tháo đường và sử dụng Insulin.
+- Mỡ máu: Triglyceride, Cholesterol, L-DL, H-DL.
+- Dinh dưỡng: Albumin, Pre-Albumin.
+- Dấu ấn chỉ điểm ung thư: CA19-9 có giá trị gợi ý bệnh lý ung thư tụy, hỗ trợ theo dõi điều trị.
+Miễn dịch: ESR, IgG4, ANA, ASA.
+
+6.2. Xét nghiệm phân
+Định lượng mỡ trong phân trong 72 giờ với hàm lượng mỡ nhiều hơn 7 g/ngày là tiêu chuẩn vàng chẩn đoán rối loạn hấp thu mỡ. Hầu hết các trường hợp bệnh nhân có rối loạn hấp thu mỡ đều đi tiêu trên 10 g mỡ/ngày.
+
+6.3. Chẩn đoán hình ảnh
+Chẩn đoán hình ảnh đóng vai trò quan trọng trong chẩn đoán viêm tụy mạn, bao gồm X quang bụng đứng không sửa soạn, siêu âm bụng, cắt lớp vi tính (CLVT) bụng có thuốc cản quang, cộng hưởng từ (CHT) bụng có thuốc tương phản, nội soi mật tụy ngược dòng, siêu âm qua nội soi tiêu hóa. Tuy nhiên, tùy theo điều kiện của từng cơ sở y tế nhằm lựa chọn phương tiện chẩn đoán hình ảnh thích hợp.
+
+(1) X quang bụng đứng không sửa soạn:
+Hình ảnh vôi hóa của sỏi trên phim X quang bụng nằm tại vị trí tương ứng tụy, độ đặc hiệu càng cao khi có nhiều sỏi trong ống tụy. Phương pháp này có độ nhạy rất thấp, chỉ chẩn đoán được viêm tụy mạn giai đoạn trễ khi hình thành sỏi tụy. Hiện nay không còn dùng để chẩn đoán viêm tụy mạn trên lâm sàng.
+
+[Hình: Sỏi vôi hóa trong nhu mô và trong ống tụy (mũi tên) [7].]
+
+(2) Siêu âm bụng:
+Siêu âm bụng là phương tiện chẩn đoán hình ảnh đầu tiên được sử dụng đối với các trường hợp đau bụng cấp. Tuy nhiên, việc khảo sát viêm tụy mạn ở giai đoạn sớm bị hạn chế do hơi trong khung tá tràng và đại tràng ngang che phía trước tụy.
+Độ nhạy là 60-70% và độ đặc hiệu là 80-90%.
+Bên cạnh đó, siêu âm bụng rất khó các sang thương ác tính ở nhu mô tụy có kích thước nhỏ.
+Các dấu hiệu viêm tụy mạn trên siêu âm bụng bao gồm:
+- Dãn ống tụy chính và ngoại vi (45-60%).
+- Bề mặt nhu mô tụy phẳng, mất hình dạng răng cưa (15%).
+- Kích thước tụy tăng lan tỏa (27-45%) hoặc khu trú (12-32%), giảm ở giai đoạn trễ.
+- Bóng lưng của sỏi trong ống tụy, nhu mô tụy (40%).
+- ± Ống mật chủ dãn, có sỏi.
+- ± Nang giả tụy.
+
+[Hình: Dãn ống tụy (mũi tên ngắn) và sỏi tụy (mũi tên dài) [7].]
+
+(3) Chụp cắt lớp vi tính bụng có thuốc cản quang:
+Chụp CLVT bụng có thuốc cản quang thường được sử dụng trên lâm sàng trong chẩn đoán viêm tụy mạn, tuy nhiên cần tránh những trường hợp có chức năng thận kém vì tăng nguy cơ suy thận cấp do thuốc cản quang.
+Độ nhạy là 75-90% và đặc hiệu là 85-95%.
+Chụp CLVT có thể xác định các sang thương ác tính giảm đậm độ trong nhu mô tụy, tuy nhiên rất khó nhận ra các tổn thương cùng đậm độ nhu mô.
+Các dấu hiệu viêm tụy mạn trên CLVT bao gồm:
+- Dãn ống tụy ở đầu tụy ≥ 5 mm, ở thân và đuôi tụy ≥ 2 mm (68%).
+- Sỏi tụy (50%).
+- Tăng kích thước nhu mô tụy (30%).
+- Tụ dịch quanh tụy (30%).
+- Thâm nhiễm mỡ quanh tụy (16%).
+- Teo nhu mô tụy (54%).
+- Dãn đường mật (29%).
+- ± Khó khảo sát các ung thư tụy chèn ép ống tụy.
+- Các biến chứng của viêm tụy mạn:
+  + Nang giả tụy.
+  + Tắc nghẽn đường mật.
+  + Chèn ép và huyết khối tĩnh mạch.
+  + Dãn tá tràng và dạ dày do chèn ép.
+  + Tràn dịch ổ bụng.
+
+[Hình: Hình 6. Sỏi vôi hóa trong nhu mô và trong ống tụy (bên trái) và dãn ống tụy (bên phải) [7]]
+
+(4) Cộng hưởng từ bụng có thuốc tương phản:
+Cộng hưởng từ (CHT) bụng có thuốc tương phản dựng hình đường mật và ống tụy (Magnetic Resonance Cholangiopancreatography, MRCP) giúp khảo sát tốt hơn về hình ảnh ống tụy và đường mật, nhu mô tụy, sỏi tụy đồng thời khảo sát chính xác các sang thương ác tính ở tụy so chụp CLVT. Bên cạnh khả năng khảo sát hình ảnh học của tụy, MRCP có thể khảo sát được chức năng bài tiết men tụy ngoại tiết, bằng cách tiêm tĩnh mạch Secretin và quan sát sự bài tiết Secretin từ ống tụy vào tá tràng nhằm đánh giá mức độ tổn thương tế bào đảo tụy, giúp hỗ trợ điều trị và tiên lượng.
+Độ nhạy là 69-85% và đặc hiệu là 90-98%.
+Tuy nhiên, nhược điểm của MRCP là khi chụp phối hợp nhịp thở bệnh nhân, thời gian chụp kéo dài và không phổ biến ở nhiều trung tâm y tế.
+
+[Hình: Hình 7. Sỏi tụy (bên trái) và hẹp ống tụy (bên phải) [7]]
+
+(5) Siêu âm qua đầu dò nội soi tiêu hóa:
+Siêu âm qua đầu dò nội soi tiêu hóa (Endoscopic Ultrasound – EUS) là phương tiện chẩn đoán hình ảnh quan trọng có độ nhạy cao trong khảo sát thay đổi hình ảnh nhu mô và ống tụy, phát hiện sớm các tổn thương hơn chụp CLVT và MRCP vì đầu dò siêu âm tiếp cận sát nhu mô tụy hơn. Bên cạnh đó, đầu dò nội soi có kênh thao tác sinh thiết sang thương nghi ngờ ác tính trong nhu mô tụy giúp tăng giá trị chẩn đoán.
+
+449
+
+Độ nhạy là 70-89% và đặc hiệu là 82-95%.
+Các đặc điểm viêm tụy mạn trên EUS:
+- Nhu mô: tăng âm khu trú hoặc thành chuỗi, phì đại nhu mô, và nang tụy.
+- Ống tụy: dãn ống tụy chính ≥ 3,5 mm, dãn ống tụy ngoại vi ≥ 1 mm, sỏi trong ống tụy.
+
+[Hình: Sỏi nhỏ trong ống tụy (hình giữa) và dãn ống tụy chính (bên phải, mũi tên dài) [7]]
+
+[Hình: Sinh thiết sang thương tụy qua đầu dò EUS [4,7]]
+
+7. CHẨN ĐOÁN
+Bệnh nhân viêm tụy mạn thường đến khám vì triệu chứng đau bụng và/hoặc rối loạn hấp thu.
+Diễn tiến của bệnh có thể cấp tính như cơn đau bụng cấp của viêm tụy hoặc mạn tính kéo dài với các triệu chứng của rối loạn hấp thu.
+Tiền căn khai thác đa số trường hợp có uống rượu bia lượng nhiều trong thời gian dài, có thể đã phát hiện và theo dõi bệnh đái tháo đường, kèm theo những đợt đau bụng tái phát nhiều lần.
+Ngoài khám bụng để đánh giá tình trạng bụng ngoại khoa, cần khai thác các triệu chứng của rối loạn hấp thu nhằm tăng giá trị chẩn đoán và đưa ra hướng điều trị lâu dài.
+Cận lâm sàng:
+- Hình ảnh học đầu tiên thường sử dụng là siêu âm và/hoặc X quang bụng => Chụp CLVT hoặc MRCP => ERCP hoặc EUS và sinh thiết (phụ thuộc điều kiện cơ sở y tế).
+
+- Hình ảnh gợi ý:
+    - Viêm tụy: thâm nhiễm và tụ dịch quanh tụy, tăng kích thước tụy, bề mặt nhu mô tụy phẳng.
+    - Mạn tính: sỏi tụy, nhu mô tụy teo, dãn ống tụy, nang nhu mô tụy.
+    - Biến chứng: nang giả tụy, dãn đường mật, dãn tá tràng và dạ dày, xâm nhiễm và huyết khối tĩnh mạch lách, mạc treo tràng trên, lách.
+- Chẩn đoán phân biệt:
+    - Ung thư đầu tụy với viêm tụy mạn phì đại khu trú đầu tụy, và/hoặc có chèn ép tạng xung quanh, và/hoặc có huyết khối hoặc xâm nhiễm tĩnh mạch cửa, mạch treo tràng trên hay lách.
+    - Nang gan, nang mạc treo và túi phình động mạch chủ bụng với nang giả tụy.
+
+**Bảng 1. Tiêu chuẩn chẩn đoán viêm tụy mạn theo Buchler [9,10]**
+
+| Tiêu chuẩn lâm sàng | |
+| :--- | :--- |
+| 1. Đau thượng vị mạn. | |
+| 2. Các đợt đau tái phát của viêm tụy cấp. | |
+| 3. Các biến chứng của viêm tụy mạn. | |
+| 4. Tiêu phân mỡ. | |
+| 5. Đái tháo đường. | |
+| **Các biến chứng viêm tụy mạn** | |
+| 1. Hội chứng vàng da tắc mật. | |
+| 2. Hội chứng hẹp môn vị do tắc tá tràng. | |
+| 3. Huyết khối tĩnh mạch cửa với triệu chứng lâm sàng hoặc thay đổi hình thái học theo hướng tăng áp lực tĩnh mạch cửa hoặc tĩnh mạch lách. | |
+| 4. Nang giả tụy với triệu chứng lâm sàng. | |
+| 5. Rò tụy. | |
+| 6. Tràn dịch ổ bụng do viêm tụy. | |
+| 7. Các biến chứng hiếm gặp khác (tắc đại tràng, nang giả lách, v.v...). | |
+| **Tiêu chuẩn hình ảnh học** | |
+| 1. Thay đổi ống tụy: ống tụy chính hoặc các nhánh bên giãn, không đều ± khuyết thuốc lòng ống, sỏi, hẹp hoặc tắc lòng ống, ống dãn > 3 mm. | |
+| 2. Thay đổi nhu mô: vôi hóa, tính chất không đồng nhất, đường viền chu vi không đều. | |
+
+# 8. ĐIỀU TRỊ
+
+## 8.1. Nội khoa
+
+**Giảm đau**
+- Quan trọng nhất của điều trị giảm đau là xác định nguyên nhân gây viêm tụy mạn, việc giải quyết nguyên nhân gây viêm tụy sẽ giúp điều trị nội khoa đạt hiệu quả.
+
+- Dùng các thuốc giảm đau toàn thân kết hợp thuốc kháng tiết khi bệnh nhân có tình trạng đau bụng cấp do viêm tụy.
+
+Giảm tiết: sử dụng các thuốc giảm dịch tụy ngoại tiết như Somatostatin giúp giảm đau bụng do viêm tụy.
+
+Dinh dưỡng:
+- Dịch truyền: cung cấp dịch truyền để tránh mất nước ít nhất trong 24 giờ đầu của đợt đau bụng cấp do viêm tụy, hoặc đến khi bệnh nhân có thể ăn uống lại đường miệng.
+- Chế độ ăn uống:
+- Không được sử dụng rượu bia và thuốc lá.
+- Nhịn ăn trong thời gian đau bụng cấp. Khi tình trạng đau bụng giảm, người bệnh có thể ăn lại đường miệng, chia nhỏ khẩu phần ăn, không hoặc giảm thành phần chất béo, uống nước đủ theo cân nặng.
+
+Nội tiết: kiểm soát và theo dõi chặt chẽ đường huyết.
+
+Thuốc bổ sung men tụy giúp giảm tình trạng rối loạn hấp thụ.
+
+**8.2. Điều trị can thiệp không phẫu thuật**
+
+Nội soi mật tụy ngược dòng (Endoscopic Retrograde Cholangio-Pancreatography, ERCP): là phương tiện chẩn đoán hình ảnh có vai trò chẩn đoán nguyên nhân gây tắc nghẽn ống tụy, vừa là phương pháp can thiệp giải quyết tắc nghẽn như lấy sỏi hoặc đặt stent qua chỗ hẹp trong ống tụy chính.
+
+Chỉ định:
+- Tắc nghẽn ống tụy chính đoạn gần (tá tràng) và dãn ống tụy sau tắc nghẽn (không có chỗ tắc nghẽn khác ở đoạn xa).
+- Sỏi hoặc hẹp ống tụy chính (không tổn thương ở nhánh ống tụy phụ).
+
+[Hình: ERCP lấy sỏi tụy. Nhãn: Sỏi tụy]
+
+**8.3. Phẫu thuật**
+
+Chỉ định điều trị phẫu thuật:
+- Đau bụng do viêm tụy mạn không đáp ứng điều trị nội khoa.
+
+- Khối viêm đầu tụy.
+- Hẹp ống mật chủ đoạn trong tụy không can thiệp được bằng ERCP.
+- Hẹp nhiều đoạn ống tụy chính.
+- Chèn ép tĩnh mạch cửa hoặc tĩnh mạch mạc treo tràng trên.
+- Hẹp nặng vùng quanh nhú tá tràng.
+- Nang giả tụy lớn còn tồn tại sau ERCP.
+- Viêm tụy mạn nghi ngờ ác tính.
+
+Nguyên tắc của điều trị phẫu thuật là giảm đau lâu dài, đồng thời bảo tồn chức năng tụy nội tiết và ngoại tiết. Trong đó, phương cách mở ống tụy chính dãn, dọc theo chiều dài ống tụy và nối với quai hỗng tràng đảm bảo mỗi nhánh ống tụy đều được dẫn lưu giúp giảm đau lâu dài cho người bệnh. Bên cạnh đó, đối với trường hợp có sỏi tụy, phẫu thuật cắt bỏ rộng phần nhu mô tụy, để lại vạt nhu mô mỏng ở mặt sau đầu tụy và dọc mặt trong tá tràng giúp loại trừ gần toàn bộ sỏi tụy, nhưng vẫn đảm bảo chức năng tụy nội tiết và ngoại tiết.
+
+Các phương pháp phẫu thuật:
+- Dẫn lưu ống tụy (nối ống tụy chính vào quai ruột, có thể lấy hết sỏi tụy): khi ống tụy chính dãn ≥ 7 mm.
+    + Phẫu thuật Partington-Rochelle.
+    + Phẫu thuật Frey.
+    + Phẫu thuật Puestov.
+    + Phẫu thuật Izbicki.
+    + Nối nang giả tụy - hỗng tràng.
+- Phẫu thuật cắt bỏ một phần tụy:
+    + Cắt đầu tụy bảo tồn tá tràng.
+    + Khoét đầu tụy.
+    + Cắt thân - đuôi tụy bảo tồn lách.
+    + Cắt tụy trung tâm.
+- Phẫu thuật cắt tụy lớn:
+    + Cắt đầu tụy bảo tồn hoặc không bảo tồn môn vị.
+    + Cắt toàn bộ tụy bảo tồn tá tràng.
+    + Cắt khối tá - tụy.
+
+Phẫu thuật điều trị giảm đau tạm thời: bằng nội soi lồng ngực cắt đốt hạch giao cảm, áp dụng cho những trường hợp không thể phẫu thuật dẫn lưu hay cắt tụy.
+
+Bảng 2. Lựa chọn phương pháp phẫu thuật điều trị viêm tụy mạn [9,10]
+
+| Hình thái tổn thương | Phương pháp điều trị |
+| :--- | :--- |
+| Dãn ống tụy chính, không có tắc các nhánh bên, không có khối viêm đầu tụy | Dẫn lưu ống tụy: Partington-Rochelle |
+| Tắc các nhánh bên | Xẻ dọc nhu mô tụy chữ V: Izbicki |
+| Khối viêm đầu tụy | Cắt đầu tụy bảo tồn tá tràng: Beger |
+| Khối viêm đầu tụy | Khoét đầu tụy: Berne |
+| Khối viêm đầu tụy và dãn ống tụy chính | Khoét đầu tụy kèm dẫn lưu ống tụy: Frey |
+| Khối viêm đầu tụy nghi ngờ ác tính | Cắt khối tá tụy: Whipple |
+| Tụy đôi (Pancreas divisum) | Cắt đầu tụy bảo tồn tá tràng: Beger |
+
+8.4. Kết quả điều trị và tiên lượng
+
+Điều trị nội khoa chủ yếu điều trị triệu chứng, giảm đau và làm chậm quá trình suy chức năng tụy.
+
+Nhiều nghiên cứu thế giới và trong nước cho thấy triệu chứng đau trong viêm tụy mạn sau nội soi mật tụy ngược dòng giải áp thấp hơn điều trị phẫu thuật, không có sự khác biệt về tỷ lệ biến chứng, thời gian nằm viện và chức năng tụy sau can thiệp.
+
+Trong các phương pháp phẫu thuật, cắt khối tá-tụy đem lại kết quả giảm đau thấp hơn, tuy nhiên, tỷ lệ biến chứng cao hơn so với các phương pháp khác.
+
+Phẫu thuật Frey và Beger là hai phương pháp phẫu thuật được sử dụng rộng rãi hiện nay nhờ ưu điểm giảm đau lâu dài, bảo tồn được chức năng tụy nội tiết và ngoại tiết.
+
+TÀI LIỆU THAM KHẢO
+
+1. Freedman SD. Clinical manifestations and diagnosis of chronic pancreatitis in adults. In: Whitcomb DC, editor. UpToDate2019.
+2. Manu Tandan, Rupjyoti Talukdar, Reddy DN. Management of Pancreatic Calculi: An Update. Gut Liver. 2016;10(6):873-80.
+3. Đoàn Tiến Mỹ, Nguyễn Quốc Vinh, Mai Đại Ngà. Đặc điểm hình thái tổn thương những trường hợp viêm tụy mạn được điều trị ngoại khoa. Y Học TP HCM. 2018;22(2).
+4. Huffman JL. Chronic Pancreatitis. Gastroenterology. 2019.
+5. Beger HG, Gansauge F, Schwarz M, Poch B. Chronic Pancreatitis: Inflammatory Mass in the Head of the Pancreas - Pacemaker of Chronic Pancreatitis. 2008. In: Disease of the Pancreas - Current Surgical Therapy [Internet]. Springer; [312-8].
+6. Whitcomb. Hereditary pancreatitis: New insights into acute and chronic pancreatitis. Gut. 1999;45(3):317-22.
+
+7. Rohan Kamat PG, Surinder Rana. Imaging in chronic pancreatitis: State of the art review. Indian J Radiol Imaging. 2019;29(2):201-10.
+8. Kun-chung Chiang, Tsung-Hsing Chen, Jun-Te Hsu. Management of chronic pancreatitis complicated with a bleeding pseudoaneurysm. World L Gastroenterol. 2014;20(43):16132-7.
+9. Beger HG, Poch B. Indication to Surgical Treatment of Chronic Pancreatitis. In: Berger HG, editor. Diseases of the Pancreas: Current Surgical Therapy: Springer Berlin Heidelberg, Berlin, Heidelberg; 2008. p. 381-5.
+10. Phan Minh Trí, Võ Trường Quốc. Tổng quan về điều trị phẫu thuật điều trị viêm tụy mạn và sỏi tụy. Y Học TP HCM. 2019;23(2):145-9.
+
+[Hình: Hình 1. Hình ảnh đa thế đa polyp đại trực tràng]
+
+2. Chẩn đoán
+
+Do đa số các polyp trong hội chứng đa polyp đại trực tràng, triệu chứng lâm sàng của bệnh nhân mắc hội chứng đa polyp gia đình liên quan đến triệu chứng của polyp đại trực tràng.
+
+[Hình: Hình 2. Hình ảnh nội soi đại tràng của bệnh nhân hội chứng đa polyp đại trực tràng]
+
+Hội chứng đa polyp đại trực tràng (FAP)
+
+- Hội chứng đa polyp đại trực tràng (FAP) là một bệnh di truyền trội trên nhiễm sắc thể thường, gây ra bởi đột biến gen APC (Adenomatous Polyposis Coli).
+- Bệnh đặc trưng bởi sự xuất hiện hàng trăm đến hàng ngàn polyp tuyến ở đại trực tràng.
+- Nếu không được điều trị, nguy cơ tiến triển thành ung thư đại trực tràng là gần 100% ở tuổi 40.
+- Chẩn đoán FAP thường dựa trên nội soi đại tràng với sự hiện diện của hơn 100 polyp ở đại trực tràng.
+
+455
+
+# BỆNH ĐA POLYP ỐNG TIÊU HÓA
+Nguyễn Tạ Quyết
+
+Từ khóa: hội chứng đa polyp gia đình, hội chứng Peutz-Jeghers, hội chứng đa polyp thiếu niên, hội chứng đa polyp tăng sản, tiêu chuẩn chẩn đoán hội chứng đa polyp ống tiêu hóa.
+
+**1. ĐẠI CƯƠNG**
+
+Polyp ống tiêu hóa là thuật ngữ lâm sàng dùng để mô tả các khối u nhô lên từ niêm mạc, có cuống hay không cuống.
+
+Sự xuất hiện của một vài polyp đại tràng riêng lẻ là một hiện tượng thường xuyên, liên quan đến tuổi. Số lượng polyp cần thiết cho chẩn đoán đa polyp chưa được xác định rõ ràng và tùy thuộc vào mức độ phổ biến của loại polyp trong dân số, vào vị trí của polyp và tuổi của bệnh nhân.
+
+Các bệnh nhân mắc hội chứng đa polyp ống tiêu hóa có nguy cơ cao mắc ung thư tại đường tiêu hóa và ngoài đường tiêu hóa. Họ hàng thế hệ thứ nhất của bệnh nhân có nguy cơ thừa hưởng đặc điểm di truyền này rất cao. Việc hiểu biết và chẩn đoán phân biệt chính xác về các hội chứng đa polyp ống tiêu hóa giúp sàng lọc, chẩn đoán sớm các tổn thương tiền ung thư, góp phần hiệu quả vào việc ngăn ngừa ung thư. Các hội chứng đa polyp có thể gặp ở mọi lứa tuổi và có thể khác nhau rất nhiều trong biểu hiện lâm sàng; ngay cả trong một gia đình.
+
+Hội chứng đa polyp ống tiêu hóa có thể là thể di truyền hoặc không di truyền. Một số hội chứng đa polyp di truyền thường gặp:
+- Hội chứng đa polyp có tính gia đình: FAP, AFAP
+- Hội chứng Peutz-Jeghers
+- Hội chứng đa polyp thiếu niên
+
+**2. HỘI CHỨNG ĐA POLYP GIA ĐÌNH**
+
+Hội chứng đa polyp dạng u tuyến gia đình (*Familial Adenomatous Polyposis, FAP*) là rối loạn nhiễm sắc thể, mang tính trội, gây ra do đột biến dòng mầm của gen u tuyến (gen APC). Đa polyp dạng u tuyến gia đình được đặc trưng bởi sự xuất hiện của nhiều u tuyến (> 100) ở khắp đại trực tràng. Các rối loạn này xảy ra tương đương nhau ở 2 giới và có xuất độ 1/8.300 – 1/14.025 trẻ được sinh ra. Khoảng 50% trường hợp đa polyp tuyến gia đình xuất hiện các tổn thương u tuyến vào 15 tuổi, tăng đến 95% vào 35 tuổi. Tất cả bệnh nhân đều tiến triển ung thư đại trực tràng nếu không được loại bỏ các polyp u tuyến.
+
+2.1. Nguyên nhân
+Khoảng 80% trường hợp đa polyp tuyến gia đình có đột biến dòng mầm của gen ức chế sinh ung (gen APC) trên nhiễm sắc thể số 5. Các đột biến này di truyền qua thế hệ sau, trở thành các cá thể mang gen bệnh. Một số trường hợp là kết quả của đột biến mới xuất hiện riêng lẻ.
+
+2.2. Đại thể và mô bệnh
+Về đại thể, các polyp trong hội chứng đa polyp dạng u tuyến gia đình có hình dạng tương tự như các trường hợp polyp đơn độc, kích thước đa dạng, xuất hiện chủ yếu ở đại trực tràng. Nhiều tổn thương kích thước lớn có thể tiến triển ác tính với thể chồi sùi.
+Về vi thể, các polyp đại trực tràng có dạng u tuyến ống, tuyến nhánh với độ loạn sản từ thấp đến cao. Nhiều trường hợp có hình ảnh mô bệnh học của ung thư biểu mô tuyến.
+
+[Hình: PHẠM QUỐC T... 40 t
+Đa polyp đại tràng (FAP)
+HS: 210/13228 (20/7/2010)]
+Hình 1. Hình ảnh đại thể đa polyp đại trực tràng.
+
+[Hình: Hình ảnh mô bệnh học u tuyến nhánh của đại tràng.]
+Hình 2. Hình ảnh mô bệnh học u tuyến nhánh của đại tràng.
+
+2.3. Chẩn đoán
+Do đa số các polyp trong hội chứng đa polyp u tuyến gia đình phân bố chủ yếu tại đại trực tràng; triệu chứng lâm sàng của bệnh nhân mắc hội chứng đa polyp gia đình liên quan đến triệu chứng của polyp đại tràng như: đau bụng, tiêu phân máu. Những trường hợp phát hiện trễ có thể xuất hiện triệu chứng của ung thư đại tràng, hội chứng tắc ruột.
+Cận lâm sàng chủ yếu dựa vào nội soi đại tràng như là tiêu chuẩn vàng trong chẩn đoán polyp đại trực tràng. Qua nội soi nội tràng có thể đánh giá được các đặc tính về hình dạng đại thể, kích thước, số lượng polyp; hay thậm chí là các tổn thương polyp hóa ác của đại trực tràng.
+Chẩn đoán Hội chứng đa polyp dạng u tuyến gia đình dựa vào số lượng và tiền sử polyp u tuyến đại trực tràng. Những cá nhân có từ 100 polyp trở lên ở đại trực tràng, hoặc ít hơn 100 polyp nhưng có tiền sử gia đình, được chẩn đoán lâm sàng là hội chứng đa polyp dạng u tuyến gia đình.
+
+Polyp tuyến đáy vị được phát hiện ở 50% các trường hợp đa polyp dạng u tuyến gia đình. Tuy nhiên, tỷ lệ ung thư biểu mô của các polyp tuyến đáy vị dạ dày hiếm gặp (chiếm tỷ lệ 0,6%). Bên cạnh đó, xuất độ u tuyến ở tá tràng chiếm tỷ lệ 90% với nguy cơ phát triển thành ung thư biểu mô là 5%.
+
+Bệnh lý ngoài ống tiêu hóa: 10 – 20% các bệnh nhân đa polyp dạng u tuyến gia đình có biểu hiện bệnh ở ngoài ống tiêu hóa: u xương, nang thượng bì, thương tổn u sợi. Cùng với ung thư tá tràng, u sợi là nhóm nguyên nhân gây tử vong nhiều nhất ở những bệnh nhân đa polyp dạng u tuyến gia đình sau phẫu thuật cắt đại tràng phòng ngừa.
+
+Các thương tổn u sợi này là u tân sinh không di căn, xuất phát từ nguyên bào sợi cơ và xảy ra ở các dạng khác nhau của mô liên kết. Triệu chứng lâm sàng xuất hiện khi u xâm lấn và chèn ép cơ quan lân cận. Vị trí thường gặp nhất là ở mạc treo ruột non và thành bụng. Phần lớn các thương tổn u sợi phát triển chậm hoặc có thể tự thoái triển, 10% tự tiêu và 10% phát triển liên tục. Do vậy, chỉ định điều trị cho các thương tổn phát triển nhanh hay gây ra triệu chứng lâm sàng.
+
+## 2.4. Tầm soát đa polyp u tuyến gia đình
+
+Tầm soát phát hiện polyp trong hội chứng đa polyp gia đình thực hiện chủ yếu qua nội soi ống mềm có độ phân giải cao. Các cá nhân được thực hiện nội soi tiêu hóa trên, nội soi đại tràng, nội soi ruột non bằng bóng kép, hay thậm chí dùng nội soi viên nang để phát hiện sớm các polyp.
+
+**Hướng dẫn tầm soát bệnh nhân đa polyp tuyến có tính gia đình:**
+- Thế hệ thứ nhất: bắt đầu từ 10 tuổi
+- Xét nghiệm di truyền (độ nhạy 80–90%)
+- Không đột biến gen: nội soi đại tràng chậu hông từ độ tuổi 12 – 50; sau đó nội soi đại tràng tầm soát thường quy
+- Nội soi tiêu hóa trên mỗi 6 tháng - 4 năm
+- Khám tuyến giáp hằng năm
+- Trẻ em có nguy cơ: xét nghiệm AFP
+
+## 2.5. Theo dõi bệnh nhân đa polyp u tuyến gia đình
+
+### 2.5.1. U tuyến và ung thư đại trực tràng
+
+Xét nghiệm di truyền xác định đột biến gen APC là một trong những chiến lược tầm soát bệnh đa polyp tuyến gia đình. Những cá thể có tiền sử gia đình bệnh FAP nên được tham vấn và xét nghiệm di truyền tầm soát đa polyp dạng u tuyến gia đình vào độ tuổi 10 – 12 để tìm ra người mang đột biến gen APC. Chiến lược giám sát và điều trị nên dựa trên nền tảng của tiền sử gia đình của mỗi bệnh nhân:
+
+- Bệnh nhân có bệnh sử của FAP kinh điển được theo dõi và phẫu thuật vào thời điểm thích hợp.
+
+- Bệnh nhân không có tiền sử gia đình có đột biến gen, mang đột biến gen: Chỉ định nội soi đại tràng chậu hông chẩn đoán mỗi 12 tháng, bắt đầu từ độ tuổi 10 – 15.
+
+- Bệnh nhân không có tiền sử gia đình có đột biến gen, xét nghiệm di truyền học âm tính: Thực hiện giám sát như những bệnh nhân có nguy cơ trung bình của ung thư đại trực tràng.
+
+- Bệnh nhân không có tiền sử gia đình có đột biến gen, không thực hiện xét nghiệm di truyền học: thực hiện nội soi đại tràng khảo sát từ 15 tuổi.
+
+Hướng dẫn thực hành hiện nay đề nghị phẫu thuật cắt đại tràng cho những trường hợp có trên 100 u tuyến kích thước từ 2 mm trở lên, hoặc xuất hiện các thương tổn u tuyến có độ loạn sản cao.
+
+### 2.5.2. U tân sinh dạ dày
+
+Nhiều polyp tuyến đáy vị được phát hiện ở bệnh nhân đa polyp dạng u tuyến gia đình, số lượng có thể lên đến hàng trăm polyp. Tỷ lệ phát hiện 12,5 – 84% trường hợp. Các polyp này có thể che phủ gần toàn bộ bề mặt niêm mạc của dạ dày, tiến triển thành ung thư biểu mô tuyến với xuất độ 0,6%.
+
+Các polyp dạng u tuyến có thể phát triển thành ung thư biểu mô dạ dày. Các thương tổn này thường ở hang vị. Mặc dù nguy cơ ung thư dạ dày ở người bệnh đa polyp dạng u tuyến gia đình ở Phương Tây là thấp; ngược lại với nhóm dân số Nhật Bản và Hàn Quốc thì nguy cơ của các bệnh nhân này cao gấp 10 lần so với dân số bình thường. Do vậy, nội soi tiêu hóa trên được đề nghị cho những bệnh nhân đa polyp dạng u tuyến gia đình tuổi từ 25 trở lên, lặp lại sau mỗi 1 đến 3 năm sau đó.
+
+### 2.5.3. U tân sinh tá tràng
+
+Polyp dạng u tuyến của tá tràng được quan sát thấy ở 50 - 90% cá nhân mắc đa polyp dạng u tuyến gia đình và thường xuất hiện ở đoạn thứ hai và thứ ba của tá tràng. U tuyến tá tràng được phân bố khắp tá tràng với phần lớn ở quanh nhú Vater. Polyp này có thể gây tắc nghẽn ống tụy, dẫn đến viêm tụy hoặc tắc nghẽn đường mật. Tỷ lệ ung thư tá tràng chiếm 4% trong số các bệnh nhân đa polyp dạng u tuyến gia đình, là nguyên nhân hàng đầu gây tử vong ở những trường hợp đã được phẫu thuật cắt đại tràng.
+
+Tuổi trung bình của ung thư tá tràng khoảng 50. Tần suất nội soi tiêu hóa trên chẩn đoán các u tuyến tá tràng dựa theo bảng phân thoại theo Spigelman; theo đó dựa vào giai đoạn bệnh sẽ có tần suất nội soi cụ thể cho các trường hợp bệnh.
+
+Bảng 1. Phân loại theo chỉ số Spigelman
+
+| | Phân độ bệnh lý tá tràng (Điểm) | | |
+| :--- | :--- | :--- | :--- |
+| | 1 | 2 | 3 |
+| Số lượng polyp | 1-4 | 5-20 | >20 |
+| Kích thước polyp (mm) | 1-4 | 5-10 | >10 |
+| Mô bệnh học | Tuyến ống | Tuyến ống nhánh | Tuyến nhánh |
+| Độ loạn sản | Thấp | - | Cao |
+
+Giai đoạn 0: 0 điểm; Giai đoạn I: 1–4 điểm; Giai đoạn II: 5–6 điểm, Giai đoạn III: 7–8 điểm; Giai đoạn IV: 9–12 điểm.
+
+Bảng 2. Khoảng cách thời gian khảo sát ống tiêu hóa trên
+
+| Giai đoạn bệnh theo Spigelman | Khoảng cách thời gian nội soi |
+| :--- | :--- |
+| 0 | 5 năm |
+| I | 5 năm |
+| II | 3 năm |
+| III | 1 năm |
+| IV | 6 tháng |
+
+### 2.5.4. U tân sinh ruột non
+Ung thư ruột non trong bệnh FAP rất ít gặp. nội soi ruột non là phương pháp tầm soát tốt cho các polyp ở ruột non. Tuy nhiên, chưa có hướng dẫn cụ thể cho việc tầm soát polyp ở ruột non.
+
+### 2.6. Điều trị
+Với những bệnh nhân đa polyp dạng u tuyến gia đình, phẫu thuật cắt toàn bộ đại tràng hay cắt toàn bộ đại trực tràng được khuyến cáo. Thời điểm phẫu thuật thường sau 18 tuổi. Những bệnh nhân đa polyp nhẹ không có tiền sử gia đình ung thư sớm hoặc đột biến gen trầm trọng, thời điểm phẫu thuật theo từng cá nhân riêng lẻ. Nói chung, phẫu thuật cắt toàn bộ đại tràng với miệng nối hồi tràng-trực tràng thường chỉ định cho các trường hợp đa polyp dạng u tuyến gia đình thể nhẹ và phẫu thuật cắt toàn bộ đại trực tràng với miệng nối hồi tràng-ống hậu môn thường chỉ định cho các trường hợp đa polyp dạng u tuyến gia đình.
+
+Phẫu thuật cắt toàn bộ đại trực tràng với hậu môn nhân tạo hồi tràng; kỹ thuật này chỉ định cho các trường hợp thương tổn ung thư ở vị trí không thích hợp để thực hiện miệng nối hồi tràng-ống hậu môn.
+
+# 3. HỘI CHỨNG PEUTZ-JEGHERS
+
+## 3.1. Nguyên nhân
+
+Hội chứng Peutz-Jeghers (Peutz-Jeghers syndrome, PJS) là một hội chứng di truyền theo tính trội trên nhiễm sắc thể thường; với đặc trưng là sự xuất hiện các polyp tân sinh chủ yếu ở ruột non, chấm sắc tố da niêm, và tăng nguy cơ ung thư tại và ngoài đường tiêu hóa. Tỷ lệ xuất hiện hội chứng Peutz-Jeghers là 1/200.000 đến 1/8.000 trẻ sinh ra; phân bố đều ở nam và nữ. Nguyên nhân thường gặp là đột biến gen STK11 trên nhánh ngắn nhiễm sắc thể 19 (50- 80% trường hợp). 10-20% trường hợp không có yếu tố gia đình và được cho là do những đột biến mới xuất hiện. Nguy cơ tiến triển ung thư khoảng 57% ở tuổi 70.
+
+## 3.2. Đại thể và mô bệnh học
+
+Hội chứng Peutz-Jeghers đặc trưng bởi đột biến gen STK 11. Trong đó: 70% trường hợp có tính gia đình, 30 – 67% trường hợp có tính đơn lẻ. Các polyp này thường được gọi là polyp tồn dư; hình ảnh đại thể các polyp này có cuống dài, nhiều thùy, có thể có hình ảnh "giả xâm lấn", nhầm lẫn với ung thư biểu mô xâm lấn. Mô bệnh học của các polyp là hình ảnh tăng sinh tế bào tuyến trưởng thành, có mô cơ trơn trong các phân nhánh.
+
+[Hình: Hình ảnh đại thể có nhiều thùy và mô bệnh học đặc trưng của cơ trơn trong các phân nhánh polyp trong hội chứng Peutz-Jeghers.]
+
+## 3.3. Triệu chứng lâm sàng
+
+Chấm sắc tố: hình ảnh tăng sắc tố dạng chấm ở da và niêm mạc có ở 95% các trường hợp, xuất hiện vào tuổi nhi đồng. Vị trí thường gặp ở niêm mạc môi, má. Ngoài ra, chấm sắc tố còn xuất hiện ở vùng quanh hậu môn, ngón chân, bàn tay và bàn chân. Các chấm sắc tố có khuynh hướng nhạt màu dần sau tuổi dậy thì nhưng tồn tại lâu dài ở vị trí niêm mạc môi và má.
+
+[Hình: Chấm sắc tố ở niêm mạc môi và má.]
+
+Đau bụng, tiêu ra máu, sa polyp qua ngả hậu môn là các triệu chứng liên quan đến polyp, thường xuất hiện vào lứa tuổi nhi đồng trong khoảng 33% trường hợp, đến tuổi 20 khoảng 50% các trường hợp. Có đến 70% các bệnh nhân có triệu chứng của lồng ruột trước 18 tuổi. Các polyp xuất hiện trên khắp các đoạn của ống tiêu hóa, chủ yếu ở ruột non (60 – 90%) và đại tràng (50 – 64%). Ngoài ra, có thể tìm thấy các polyp ở túi mật, khí quản, niệu quản và bàng quang. Các polyp này có thể gây nên các hội chứng chảy máu tiêu hóa, thiếu máu, lồng ruột hay tắc ruột.
+
+3.4. Triệu chứng cận lâm sàng
+
+Các polyp ống tiêu hóa được chẩn đoán bằng phương pháp nội soi (nội soi dạ dày tá tràng, nội soi đại tràng, nội soi ruột non) hay bằng nội soi viên nang. Trong trường hợp tắc ruột có thể có hình ảnh tắc ruột hay hình ảnh polyp trên chụp phim bụng không sửa soạn, hình chụp cắt lớp vi tính.
+
+[Hình: Hình ảnh chụp cắt lớp vi tính polyp hỗng tràng ở bệnh nhân có hội chứng Peutz-Jeghers.]
+
+3.5. Chẩn đoán
+
+Chẩn đoán hội chứng Peutz-Jeghers dựa vào xét nghiệm di truyền hay các biểu hiện lâm sàng, mô bệnh học:
+
+- Tiêu chuẩn chẩn đoán: 2 trong 3 yếu tố
+    + Tiền sử gia đình có HC Peutz-Jeghers.
+    + Polyp ruột non.
+    + Chấm sắc tố da, niêm mạc đặc trưng.
+
+- Tiêu chuẩn chẩn đoán đối với từng cá nhân riêng lẻ:
+    + Có từ 2 polyp với hình ảnh mô học đặc trưng của HC Peutz-Jeghers, hoặc
+    + Polyp HC Peutz-Jeghers + tiền sử gia đình HC Peutz-Jeghers, hoặc
+    + Chấm sắc tố da niêm điển hình + tiền sử gia đình HC Peutz-Jeghers, hoặc
+    + Polyp HC Peutz-Jeghers + chấm sắc tố da niêm điển hình
+
+Bệnh lý ngoài ống tiêu hóa: ngoài biểu hiện các polyp ống tiêu hóa, hội chứng Peutz-Jeghers còn có nguy cơ phát triển thành các bệnh lý ung thư ngoài ống tiêu hóa như: ung thư tuyến tụy, tuyến vú.
+
+3.6. Điều trị
+
+Với hội chứng Peutz-Jeghers; do đặc điểm xuất hiện sớm của các polyp ống tiêu hóa. Việc điều trị đạt được kết quả tốt khi có sự theo dõi tầm soát sớm các polyp ngay từ lứa tuổi nhi đồng. Polyp ruột non có kích thước từ 2 cm (hoặc nhỏ hơn nếu có triệu chứng) nên được loại bỏ qua ngả nội soi, hoặc bằng phẫu thuật nội soi kết hợp nội soi ruột non.
+
+Bệnh nhân có bệnh cảnh lồng ruột hay tắc ruột được phẫu thuật cấp cứu để loại bỏ polyp gây tắc ruột hoặc có thể phải cắt bỏ đoạn ruột tổn thương. Toàn bộ ruột non phải được kiểm tra bằng nội soi trong phẫu thuật để loại bỏ các polyp đi kèm; giúp bệnh nhân tránh phải trải qua phẫu thuật nhiều lần.
+
+Đối với các trường hợp biểu hiện bệnh lý ngoài ống tiêu hóa, các tổn thương ung thư của tụy, tuyến giáp hay ung thư tuyến vú; phẫu thuật được chỉ định cho từng tổn thương cụ thể.
+
+3.7. Theo dõi và tầm soát
+
+Chương trình tầm soát ở các bệnh nhân mắc hội chứng Peutz-Jeghers nhằm 2 mục đích: chẩn đoán các tổn thương polyp ở giai đoạn trước khi gây nên biến chứng và phát hiện các bệnh lý ung thư ở giai đoạn sớm. Đối với thế hệ thứ nhất của những bệnh nhân có hội chứng Peutz-Jeghers, xét nghiệm di truyền học là cần thiết để thực hiện chương trình tầm soát phù hợp; nhằm phát hiện bệnh sớm, giảm tỷ lệ biến chứng và tử vong do bệnh.
+
+Tầm soát các polyp ruột non bằng nội soi nên bắt đầu từ 8 tuổi hoặc sớm hơn nếu có triệu chứng tiêu máu. Nếu phát hiện polyp qua nội soi, lần nội soi kế tiếp sẽ được lặp lại 3 năm một lần. Nếu không phát hiện polyp qua nội soi, lần nội soi tiếp theo có thể thực hiện vào năm 18 tuổi, trừ khi có triệu chứng tiêu máu.
+
+**Bảng 3.** Tầm soát ung thư ở bệnh nhân mắc hội chứng Peutz-Jeghers
+
+| Cơ quan tổn thương | Tuổi | Khoảng cách | Phương pháp tầm soát |
+| :--- | :--- | :--- | :--- |
+| Đại tràng | 15 | 2 | Nội soi đại tràng, CA 19.9 |
+| Dạ dày, tá tràng | 15 | 2 | Nội soi dạ dày |
+| Ruột non | 15 | 2 | Nội soi viên nang, chụp cộng hưởng từ |
+| Tuyến vú | 21 | Mỗi tháng <br> 6 – 12 tháng | Tự thăm khám <br> Nhũ ảnh, CA 125 |
+| Tuyến giáp | 18 | 1 | Thăm khám, siêu âm |
+| Tử cung, buồng trứng | 18 | 1 | Thăm khám, siêu âm |
+| Tinh hoàn | 18 | 1 | Thăm khám, siêu âm |
+| Phổi | 18 | 5 | Thăm khám, X quang |
+
+## 4. HỘI CHỨNG ĐA POLYP THIẾU NIÊN
+
+### 4.1. Nguyên nhân
+
+Hội chứng đa polyp thiếu niên (*Juvenile Polyposis Syndrome, JPS*) hội chứng phổ biến nhất của các bệnh lý đa polyp dạng tồn dư. Đây là bệnh lý di truyền theo tính trạng trội với khoảng $20-50\%$ cá nhân có yếu tố tiền sử gia đình. Xuất độ của hội chứng đa polyp thiếu niên $1/100.000$. Tên gọi “thiếu niên” liên quan đặc điểm mô bệnh học hơn là tuổi khởi phát bệnh.
+
+2 gen *SMAD4* và *BMPR1A* được xác định là gen gây đột biến của hội chứng đa polyp thiếu niên. Các xét nghiệm di truyền có thể giúp chẩn đoán được 2 đột biến gen này.
+
+Ngược với hội chứng Peutz-Jeghers, các polyp ở hội chứng đa polyp thiếu niên phân bố chủ yếu ở đại tràng, nổi bật ở đại tràng phải; nhưng có thể tìm thấy polyp ở ống tiêu hóa trên. Các polyp u tuyến ở hội chứng này có thể phát triển thành ung thư biểu mô tuyến đại tràng, nguy cơ ung thư tăng dần từ $20 - 70$ tuổi. Nguy cơ tích lũy ung thư trong cả cuộc đời là $30\%$.
+
+4.2. Đại thể và mô bệnh
+
+Hình ảnh xuất hiện trên nội soi của polyp thiếu niên có dạng hình cầu, có cuống, bề mặt bóng láng; kích thước có thể lên đến vài centimet.
+
+Đặc điểm mô bệnh học nổi bật ở các polyp thiếu niên là hiện tượng lấp đầy các chất nhầy trong ống tuyến, các ống tuyến giãn rộng với các cấu trúc tuyến có loạn sản; phù nề, thấm nhập bạch cầu ở mô đệm niêm mạc.
+
+[Hình: Hình ảnh mô bệnh học polyp thiếu niên. (Nguồn: Kevin M. Z., (2007)).]
+
+**Hình 6.** Hình ảnh mô bệnh học polyp thiếu niên.
+
+4.3. Biểu hiện lâm sàng
+
+Tuổi trung bình xuất hiện triệu chứng lâm sàng là 27. Phần lớn bệnh nhân đa polyp thiếu niên có biểu hiện tiêu máu, sa polyp, thiếu máu, đau bụng hoặc tiêu lỏng.
+
+Các trường hợp biểu hiện thể nặng của bệnh ở bệnh nhi 1 tuổi với triệu chứng thiếu máu, đa polyp ống tiêu hóa và giảm albumin trong máu.
+
+4.4. Chẩn đoán
+
+Chẩn đoán hội chứng đa polyp thiếu niên dựa vào một trong các tiêu chuẩn sau:
+
+- Có nhiều hơn 5 polyp thiếu niên của đại trực tràng
+- Sự xuất hiện của các polyp thiếu niên khắp ống tiêu hóa
+- Sự xuất hiện của bất kỳ polyp thiếu niên kèm với yếu tố tiền sử gia đình.
+
+Một số tổn thương ở vị trí khác cũng được tìm thấy ở bệnh nhân đa polyp thiếu niên bao gồm các bệnh lý tim mạch (sa van 2 lá, dị dạng động-tĩnh mạch, túi phình mạch máu) và một số dị dạng thần kinh (chứng đầu to, não úng thủy, hở hàm ếch).
+
+4.5. Điều trị
+
+Hầu hết các polyp phát hiện được loại bỏ qua nội soi đại tràng. Phẫu thuật được chỉ định cho các tổn thương có kích thước lớn hay các trường hợp ung thư đại tràng.
+
+Hướng dẫn điều trị cho hội chứng đa polyp thiếu niên:
+- Nội soi đại tràng, cắt polyp mỗi $1-3$ năm
+- Phẫu thuật cắt đại tràng:
+  + Số lượng lớn các polyp
+  + Polyp có độ loạn sản cao
+  + Chảy máu từ các polyp không kiểm soát được
+  + Tuổi $20$
+- Phẫu thuật cắt toàn bộ đại trực tràng: polyp trực tràng tái phát
+- Nội soi dạ dày tá tràng
+- Xét nghiệm di truyền
+
+## 4.6. Tầm soát
+
+Những gia đình được xác định có đột biến gen của hội chứng đa polyp thiếu niên nên được tầm soát các bệnh lý nguy cơ từ độ tuổi $12-14$.
+
+Nội soi đại tràng bắt đầu vào $13$ tuổi (có thể sớm hơn nếu có triệu chứng lâm sàng), sau đó lặp lại mỗi $1-3$ năm.
+
+Nội soi dạ dày tá tràng nên bắt đầu từ độ tuổi $18$.
+
+# 5. HỘI CHỨNG ĐA POLYP TĂNG SẢN
+
+Hội chứng đa polyp tăng sản đặc trưng bởi nhiều polyp tăng sản kích thước lớn, phân bố chủ yếu ở đại tràng chậu hông và trực tràng. Ngoài ra, có thể có một số ít tổn thương u tuyến răng cưa, u tuyến/tăng sản hỗn hợp.
+
+Về nguyên nhân; đột biến gen MBD4 có liên quan đến sự hình thành các polyp tăng sản. Đột biến gen MYH cũng được cho rằng có liên quan đến bệnh lý này.
+
+Đặc tính di truyền của hội chứng này vẫn chưa thống nhất. Một số nghiên cứu ghi nhận có nhiều cá nhân trong cùng gia đình có biểu hiện của hội chứng đa polyp tăng sản. Thành phần u tuyến răng cưa và u tuyến hỗn hợp trong các polyp tăng sản là yếu tố nguy cơ tiến triển ác tính của bệnh lý này.
+
+Chẩn đoán hội chứng đa polyp tăng sản dựa vào các triệu chứng của polyp đại tràng như đau bụng, tiêu máu, rối loạn đi tiêu.
+
+Điều trị các polyp tăng sản được phát hiện qua nội soi đại tràng bao gồm: cắt polyp qua ngả nội soi; đặc biệt lưu ý các tổn thương kích thước lớn hơn $10\text{ mm}$, số lượng nhiều hơn $20$ polyp vì đây là những bệnh cảnh có nguy cơ tiến triển ác tính cao. Phẫu thuật cắt đại tràng áp dụng cho các trường hợp có số lượng nhiều polyp tăng sản, u tuyến răng cưa đi kèm, hoặc thương tổn u tuyến nguy cơ cao (lớn hơn $10\text{ mm}$, có thành phần phân nhánh, độ loạn sản cao).
+
+Theo dõi nội soi áp dụng cho những cá nhân đa polyp tăng sản mỗi $1 - 3$ năm; tùy thuộc vào số lượng, kích thước, độ mô học của polyp.
+
+Tầm soát tổn thương polyp áp dụng cho những cá nhân có tiền sử gia đình. Tuổi bắt đầu thực hiện tầm soát khoảng 40 hay sớm hơn 10 tuổi so với tuổi phát hiện người mang đa polyp tăng sản của thế hệ trước.
+
+**Bảng 4.** Tiêu chuẩn chẩn đoán hội chứng đa polyp ống tiêu hóa (Nguồn: Stefan Aretz, (2010))
+
+| |
+| --- |
+| **Đa polyp u tuyến** |
+| >10 đến 20 u tuyến đại trực tràng đồng thời |
+| **Đa polyp tuyến gia đình thể kinh điển (FAP)** |
+| >100 u tuyến, khởi phát lâm sàng sớm (thể điển hình) |
+| Biểu hiện ngoài ruột (u xương, u sợi, phì đại bẩm sinh biểu mô sắc tố võng mạc |
+| Di truyền theo tính trội (ảnh hưởng nhiều người, qua nhiều thế hệ) |
+| **Đa polyp tuyến gia đình thể nhẹ (AFAP)** |
+| >10 đến 100 u tuyến đại trực tràng hoặc >100 u tuyến nếu khởi phát lâm sàng muộn (>45 tuổi) |
+| **Hội chứng Peutz-Jeghers** |
+| 2 hoặc nhiều polyp có mô bệnh học khẳng định là polyp Peutz-Jeghers polyps, hoặc |
+| Một polyp Peutz-Jeghers và chấm sắc tố điển hình ở niêm mạc miệng, hoặc |
+| Một polyp Peutz-Jeghers và tiền sử gia đình có hội chứng Peutz-Jeghers |
+| **Hội chứng đa polyp vị thành niên** |
+| >5 polyp thành niên ở đại trực tràng hoặc |
+| Nhiều polyp thành niên khắp ống tiêu hóa hoặc |
+| Một hoặc nhiều polyp thành niên và tiền sử gia đình có hội chứng đa polyp thành niên |
+| **Đa polyp tăng sản** |
+| Ít nhất 5 polyp tăng sản ở đại tràng chậu hông và trực tràng, ít nhất 2 trong số đó >1 cm, hoặc |
+| Bất kể số lượng polyp tăng sản ở đại tràng chậu hông và trực tràng và họ hàng thế hệ đầu tiên có đa polyp tăng sản, hoặc |
+| Có nhiều hơn 20 đến 30 polyp tăng sản phân bố khắp đại tràng |
+
+## TÀI LIỆU THAM KHẢO
+
+1. Aihara H, Kumar N, Thompson C, (2014), "Diagnosis, surveillance, and treatment strategies for familial adenomatous polyposis: rationale and update", *Eur J Gastroenterol Hepatol*, 26(3): 255–262. doi:10.1097/MEG.0000000000000010
+2. Beggs AD, Latchford AR, Vasen HF (2009), "Peutz-Jeghers syndrome: a systematic review and recommendations for management", *Gut*, 59: 975-986.
+
+3. Dinarvand P, Davaro EP, et al (2019), "Familial Adenomatous Polyposis Syndrome. An Update and Review of Extraintestinal Manifestations", Arch Pathol Lab Med, 1-17.
+4. Elizabeth c., Lara l. et al (2006), "Hyperplastic Polyposis Syndrome: Phenotypic Presentations and the Role of MBD4 and MYH", Gastroenterol, 131:30-39.
+5. Kevin M. Z., Charis E. (2007), "Hartmamatous polyposis syndromes", Gastroenterol Hepatol, 4(9): 492-502.
+6. Knudsen AL, Bisgaard ML, Bülow S (2003), "Attenuated familial adenomatous polyposis (AFAP). A review of the literature", Familial Cancer, 2: 43-55.
+7. Kopacova M., et al. (2009), "Peutz-Jeghers syndrome: Diagnostic and therapeutic approach", World J Gastroenterol, 15(43): 5397-5408.
+8. Michael J. Z., Stanley W. A. (2013), Maingot's Abdominal Operations, The McGraw-Hill, New York.
+9. Patel R., Hyer W. (2019), "Practical management of polyposis syndromes", Gastroenterol, 10: 379-387. doi: 10.1136/flgastro-2018-101053
+10. Stefan A. (2010), "The Differential Diagnosis and Surveillance of Hereditary Gastrointestinal Polyposis Syndromes", Dtsch Arztebl Int, 107(10): 163-73, doi: 10.3238/arztebl.2010.0163.
+
+# U MÔ ĐỆM ĐƯỜNG TIÊU HÓA
+
+Nguyễn Hồng Sơn, Phan Minh Trí
+
+Từ khóa: u mô đệm đường tiêu hóa, đột biến gene, khuyến cáo về việc chẩn đoán của Hội Điều trị GIST Anh quốc, khuyến cáo của NCCN, siêu âm qua ngả nội soi, phẫu thuật nội soi cắt dạ dày hình chêm, phối hợp phẫu thuật nội soi và nội soi tiêu hóa.
+
+Các thuật ngữ trong bài: UMĐĐTH (GIST), yếu tố phát triển từ tiểu cầu (KIT/platelet-derived growth factor alpha PDGFRA), phức hợp enzym SDH (succinate dehydrogenase), Đột biến CD117(KIT), đột biến $D842V$ exon 18 của PDGFRA, Hiệp hội Quốc tế Phòng Chống Ung thư (Union for International Cancer Control tumour), 50 HPF, phân loại Viện Bệnh học Quân đội Hoa kỳ AFIP (Armed Forces Institute of Pathology), Siêu âm bụng sử dụng phối hợp 2 loại chất tương phản Double Contrast-enhanced Ultrasound (DCUS), Siêu âm qua ngả nội soi endoscopic ultrasound (EUS), Sinh thiết bằng kim nhỏ qua siêu âm nội soi - endoscopic ultrasonography guided fine needle aspiration biopsy (EUS-FNAB), Chụp cắt lớp vi tính (CT Scan), Chụp cộng hưởng từ (MRI), Sự khác biệt về tỷ trọng khuếch tán trong từ trường (Diffusion weighted MRI - DWI), hệ số khuếch tán ADC (apparent diffusion coefficient), Chụp hình cắt lớp phát xạ Positron/Chụp cắt lớp vi tính (Positron emission tomographic, PET/CT), fluorine-18-fluorodeoxyglucose trong PET/CT ($^{18}\text{F-FDG PET/CT}$), cắt u dưới niêm bằng dây thắt (endoscopic band ligation, EBL), cắt lớp dưới niêm dạ dày (Endoscopic submucosal dissection, ESD), đào sầu lấy u dưới niêm (Endoscopic submucosal excavation, ESE), cắt trọn thành dạ dày (Endoscopic full-thickness resection, EFTR), đường hầm lấy u dưới niêm (Submucosal tunneling endoscopic resection, STER), Phối hợp nội soi dạ dày và phẫu thuật nội soi một đường vào (Hybrid endoscopic full-thickness resection, EFTR)
+
+## 1. ĐẠI CƯƠNG
+
+U mô đệm đường tiêu hóa (UMĐĐTH-GIST) là một loại u dưới niêm, thường gặp nhất ở dạ dày, tiếp theo sau đó là ở thực quản, ruột non, đại tràng, phúc mạc...
+
+Hiện nay có rất nhiều hướng dẫn trên thế giới mô tả cách đánh giá, chẩn đoán, điều trị và tiên lượng GIST, mỗi hướng dẫn có cách nhìn và xử lý rất khác nhau và đa dạng. Điều này phản ánh mức độ hấp dẫn của GIST đối với các nghiên cứu lâm sàng và sinh học phân tử. Việc lên kế hoạch điều trị cần được phối hợp đa mô thức bởi các chuyên gia về bệnh học, hình ảnh học, phẫu thuật viên, bác sĩ ung thư, tiêu hóa và sinh học phân tử. Việc điều trị cần được tiến hành tại các trung tâm lớn có kinh nghiệm về GIST.
+
+2. TẦN SUẤT VÀ DỊCH TỄ
+
+U mô đệm đường tiêu hóa (GIST) là các loại khối u hiếm gặp, với tỷ lệ mới mắc ước tính khoảng 1/100000 mỗi năm. Tỷ lệ này chỉ liên quan đến các trường hợp có biểu hiện lâm sàng còn nếu tính các các trường hợp các có các khối u có đường kính từ 1 cm trở lên được phát hiện qua nội soi của người bệnh trung niên hay lớn tuổi thì còn lớn hơn rất nhiều. Có một sự tăng nhẹ ở nam cao hơn nữ, với độ tuổi trung bình từ 60 – 65 tuổi, với khoảng dao động mắc bệnh rất rộng, có thể xuất hiện ở trẻ em với tỷ lệ rất hiếm. Nhóm u mô đệm đường tiêu hóa ở trẻ em biểu hiện với các đặc trưng về lâm sàng và phân tử học khác biệt, bệnh xuất hiện ưu thế ở bé gái, với sự vắng mặt của yếu tố phát triển từ tiểu cầu (KIT/platelet-derived growth factor alpha PDGFRA), có đột biến hoặc im lặng 4 gen mã hóa liên quan đến phức hợp enzym SDH (succinate dehydrogenase), dạ dày có nhiều khối u, có thể di căn hạch.
+
+Một vài hội chứng có liên quan tới u mô đệm đường tiêu hóa:
+- Tam chứng Carney: biểu hiện bởi nhiều u mô đệm ở dạ dày, u cận hạch và u sụn ở phổi (có thể xuất hiện ở các độ tuổi khác nhau)
+- Hội chứng Carney-Stratakis: biểu hiện bằng đa u mô đệm đường tiêu hóa và u cận hạch
+- Bệnh u xơ thần kinh típ 1(NF1) có thể dẫn tới típ wild (NT), thường u mô đệm nằm ở đa tạng, tập trung nhiều ở ruột non.
+
+[Hình: Đa khối u mô đệm ở dạ dày trong hội chứng Carney và hình ảnh di căn hạch. (A) (B) hình ảnh của nhiều khối u mô đệm ở dạ dày mặt trước và mặt trong dạ dày, (C) mặt cắt cho thấy nhiều khối u sau cắt ra, hình ảnh GPB 1 khối hạch là u mô đệm di căn.]
+
+Biểu hiện đặc tính di truyền theo gia đình với đột biến gen trội KIT là cực kỳ hiếm gặp, biểu hiện bởi đa khối u mô đệm đường tiêu hóa xuất hiện ở độ tuổi trẻ, có thể kèm theo các biểu hiện lâm sàng kèm theo như: các nốt sắc tố ở da, mảng mề đay tăng sắc tố và tăng sinh các tế bào mô kẽ Cajal trong thành ruột.
+
+# 3. CHẨN ĐOÁN, BỆNH HỌC VÀ SINH HỌC PHÂN TỬ
+
+Chẩn đoán GIST hoàn chỉnh là một quá trình tổng hợp các yếu tố lâm sàng, hình ảnh học, giải phẫu bệnh và phân tích đột biến gene với hóa mô miễn dịch có dương tính với CD117(KIT) hoặc DOG1. Có 1 tỷ lệ GIST âm tính với CD117 (khoảng 5%). Ngoài ra số lượng phân bào trên quang trường 40 là một yếu tố quan trọng để tiên lượng bệnh. Số lượng phân bào nên được đánh giá tối thiểu trên $5\text{ mm}^2/\text{tổng diện tích}$ khối u, tương đương với đếm liên tục 50 quang trường 40 (50 highpower field - HPF). Phân tích đột biến liên quan tới KIT và PDGFRA có thể xác định là GIST, nếu nghi ngờ khi (CD117/DOG1 âm tính). Kết quả hóa mô miễn dịch trên có thể được sử dụng để đánh giá cũng như tiên lượng tất cả các loại u mô đệm đường tiêu hóa (trừ u mô đệm ở trực tràng).
+
+[Hình: Cấu trúc thụ thể CD 117 và PDGFRE nằm trong cùng 1 gen.]
+
+## Khuyến cáo về việc chẩn đoán của Hội Điều trị GIST Anh quốc
+
+- Các khối u có đường kính $> 2\text{ cm}$ cần phải được đánh giá chẩn đoán. Việc này thường phải được thực hiện qua siêu âm ngả nội soi và sinh thiết bằng chọc hút tế bào đặc biệt là các khối u nằm ở dạ dày.
+- Việc chẩn đoán phải dựa vào một nhà bệnh học có kinh nghiệm, bao gồm cả hóa mô miễn dịch và phân tích đột biến được thực hiện tại khoa giải phẫu bệnh có uy tín
+- Nếu việc điều trị với imatinib đã được lên kế hoạch. Bệnh nhân phải được chẩn đoán xác định trước đó bởi vì rất có nhiều loại đột biến khác nhau. Có thể cần phải sinh thiết lõi bằng kim qua da nếu đường sinh thiết qua nội soi không tiếp cận được khối u. Phân tích đột biến bắt buộc phải được thực hiện vì có các đột biến không đáp ứng với imatinib (ví dụ người có đột biến D842V exon 18 của PDGFRA).
+
+**4. ĐÁNH GIÁ GIAI ĐOẠN**
+
+Trong khi đó, Mạng lưới Ung thư Quốc gia Hoa kỳ (NCCN) sử dụng bảng phân loại cổ điển theo TNM như sau đối với u mô đệm đường tiêu hóa
+
+**Đối với u mô đệm đường tiêu hóa ở dạ dày**
+
+Bảng 1. Giai đoạn ung thư của GIST dạ dày
+
+| Giai đoạn | T | N | M | Chỉ số phân bào |
+| :---: | :---: | :---: | :---: | :---: |
+| IA | T1 hoặc T2 | N0 | M0 | Thấp |
+| IB | T3 | N0 | M0 | Thấp |
+| II | T1 | N0 | M0 | Cao |
+| | T2 | N0 | M0 | Cao |
+| | T4 | N0 | M0 | Thấp |
+| IIIA | T3 | N0 | M0 | Cao |
+| IIIB | T4 | N0 | M0 | Cao |
+| IV | Bất kỳ T | N1 | M0 | Bất kỳ |
+| | Bất kỳ T | Bất kỳ N | M1 | Bất kỳ |
+
+**Đối với u mô đệm đường tiêu hóa ở ruột non đại tràng, thực quản, mạc nối, mạc treo:**
+
+Bảng 2. Phân độ TNM GIST ruột non, đại tràng, thực quản và mạc treo
+
+| Giai đoạn | T | N | M | Chỉ số phân bào |
+| :---: | :---: | :---: | :---: | :---: |
+| I | T1 hoặc T2 | N0 | M0 | Thấp |
+| II | T3 | N0 | M0 | Thấp |
+| IIIA | T1 | N0 | M0 | Cao |
+| | T4 | N0 | M0 | Thấp |
+| IIIB | T2 | N0 | M0 | Cao |
+| | T3 | N0 | M0 | Cao |
+| | T4 | N0 | M0 | Cao |
+| IV | Bất kỳ T | N1 | M0 | Bất kỳ |
+| | Bất kỳ T | Bất kỳ N | M1 | Bất kỳ |
+
+Một số bảng phân loại dự đoán các yếu tố nguy cơ khác cũng được xác lập, được chấp nhận rộng rãi nhất là bảng phân loại Viện Bệnh học Quân đội Hoa kỳ (Armed Forces Institute of Pathology, AFIP) nó liên quan tới số lượng phân bào, kích thước khối u và vị trí của khối u là 3 yếu tố quan trọng tiên lượng cho khối u mô đệm còn tại chỗ
+
+## 5. TRIỆU CHỨNG LÂM SÀNG
+
+Dạ dày là vị trí u thường xuất hiện nhất, tiếp theo sau đó là ruột non, đại tràng, thực quản, mạc treo... vì vậy triệu chứng lâm sàng rất thay đổi và tùy theo vị trí xuất hiện của khối u.
+
+U có thể không có triệu chứng lâm sàng dù kích thước đã lớn. Đa số các trường hợp phát hiện tình cờ qua nội soi dạ dày và triệu chứng trùng lắp với nguyên nhân nội soi như đau thượng vị hay triệu chứng của viêm dạ dày. Các triệu chứng thường gặp trong u mô đệm đường tiêu hóa là: đau bụng mơ hồ (đôi khi bệnh nhân thấy khó chịu vùng bụng), chảy máu tiêu hóa và sờ thấy u bụng. Chảy máu thường là do khối u ăn mòn vào trong niêm mạc đường tiêu hóa hay do có loét niêm mạc bề mặt và khối u hoại tử chảy máu thông vào trong lòng ống tiêu hóa. U có thể vỡ gây chảy máu trong ổ bụng và làm cho tế bào ung thư gieo rắc khắp ổ bụng. Chảy máu tiêu hóa hay chảy máu trong ổ bụng đôi khi rất nặng, có thể đe dọa tính mạng bệnh nhân và tử vong nếu không cấp cứu kịp thời. Ngoài ba triệu chứng nêu trên còn có thể có những triệu chứng ít gặp hơn như là nuốt nghẹn, đau sau xương ức, sụt cân, tắc ruột, thủng ruột, rò tiêu hóa hay vàng da...
+
+Trường hợp u xâm lấn hay di căn cơ quan khác sẽ có những triệu chứng như tiểu máu, dò tiêu hóa, dò mật, thậm chí có thể xâm lấn thành bụng hình thành đường dò ra da. Di căn thường thấy nhất là di căn gan và phúc mạc. khi đã có di căn phúc mạc thì thường có triệu chứng báng bụng, vàng da và suy kiệt...
+
+## 6. TRIỆU CHỨNG CẬN LÂM SÀNG
+
+### 6.1. Siêu âm
+
+Siêu âm bụng không phải là phương tiện đầu tay để chẩn đoán u dưới niêm ở dạ dày, đa số các trường hợp u được quan sát thấy qua nội soi dạ dày, siêu âm bụng được ghi nhận là có giá trị rất thấp trong chẩn đoán. Ngày nay, để gia tăng giá trị của siêu âm bụng trong việc chẩn đoán các loại u ở dạ dày nhiều tác giả đề xuất ra các phương pháp như: siêu âm bụng phối hợp với uống chất tương phản làm căng thành dạ dày với mục đích có thể quan sát rõ các lớp của dạ dày, từ đó phát hiện các tổn thương nằm trong vùng này.
+
+6.2. Nội soi và Siêu âm qua ngả nội soi endoscopic ultrasound (EUS)
+
+## 6.2.1. Nội soi dạ dày
+
+Nội soi dạ dày là phương tiện đầu tiên để phát hiện các loại u dưới niêm ở vùng này. Mặc dù, nội soi bình thường không giúp xác định được bản chất của khối u, nhưng nó cung cấp các manh mối quan trọng cho việc xác lập các bước tiếp theo để chẩn đoán. Bước đầu tiên, nội soi để xác định là có thương tổn và vị trí của nó. Vị trí của khối u đôi khi phản ánh bản chất của nó. Ví dụ: Đối với một khối u có độ phản âm kém, nằm ở thực quản thường là u cơ trơn lành tính, trong khi khối này nằm ở dạ dày lại thường là u mô đệm, nếu nằm ở vùng khác như: u tuyến Brunner lại hay gặp ở tá tràng, trong khi nếu ở trực tràng thì 40% là u thần kinh nội tiết... Một vài trường hợp ngoại lệ cần chú ý là tất cả các u dạng đặc ở lớp dưới niêm đều cần phải sinh thiết để loại trừ nó có nguồn gốc từ biểu mô, sinh thiết niêm mạc thường là không ra kết quả với các dạng u này trừ khi một số trường hợp u có loét ra bề mặt của niêm mạc. Loét niêm mạc thường thấy trong các thương tổn viêm và trong các trường hợp u lớn quá nhanh và đây là một đặc điểm chính của u mô đệm dạ dày lớn. Tuy vậy, loét có thể gặp trong các thương tổn lành tính như trong khối u do viêm xơ lành tính. Cần phải cẩn thận trong khi sinh thiết vào vùng loét, đặc biệt là các khối u mô đệm lớn có loét trung tâm vì khả năng chảy máu là rất cao do có tăng sinh mạch máu trong các vùng này. Thực tế là các loại u mô đệm lớn có loét đều có hiện tượng chảy máu rỉ rả dù cấp hay mạn tính. Các kềm sinh thiết kín có thể sử dụng để đánh giá bản chất của khối u là cứng hay mềm, nếu khối u có màu vàng, mềm, dễ bị hút vào kềm sinh thiết (dấu hiệu pillow) thì chẩn đoán là u mỡ chính xác hơn 95% mà bệnh nhân không cần làm gì thêm. Trong trường hợp u sâu có thể sử dụng phương pháp “sinh thiết nhồi” (bite on bite) để sinh thiết vào đúng mô u. Trong trường hợp u nang hay u mạch máu, không nên sinh thiết, thương tổn này thường khó thấy do bị ép xẹp khi dạ dày bị bơm căng trong nội soi. Các dạng phình giãn tĩnh mạch dạ dày thường thấy màu xanh, dễ quan sát thấy và dễ bị ép xẹp. Sinh thiết cũng nên tránh nếu dự trù sẽ tiến hành thủ thuật nội soi cắt u dưới niêm qua đường dưới niêm vì sẹo sinh thiết sẽ gây khó khăn trong quá trình đào hay lốc u. U tụy lạc chỗ thường có hình ảnh giống cái rốn, nằm ở vùng hang vị. Việc tiến hành sinh thiết qua nội soi cũng nên cân nhắc kỹ lưỡng, dựa vào kích thước kềm nội soi # 7 – 8 mm khi mở miệng. Những khối u có kích thước dưới 1 cm thường rất hiếm khi gây triệu chứng hay ác tính, có thể theo dõi qua nội soi mỗi năm. Những khối u > 1 cm, trừ khi đã đánh giá kỹ theo các tiêu chuẩn nội soi là lành tính (u mỡ, dãn tĩnh mạch dạ dày...) cần được thực hiện siêu âm qua ngả nội soi để đánh giá thêm về mặt bản chất.
+
+[Hình: Hình 3. U dưới niêm dạ dày: (A) U mô đệm dạ dày với loét trung tâm (B) Polyp sợi viêm có loét (D) U hạch lympho (E) U tụy lạc chỗ.]
+
+## 6.2.2. Siêu âm qua ngả nội soi
+
+Siêu âm qua ngả nội soi đóng vai trò quyết định trong việc chẩn đoán u dưới niêm dạ dày. Qua siêu âm nội soi, khối u dưới niêm được đánh giá về mặt kích thước, sự liên quan của khối u với mô xung quanh, bản chất khối u, nguồn gốc khối u nằm ở lớp nào của dạ dày hay khối u có bản chất từ bên ngoài chèn ép vào thành dạ dày, hạch vùng và xâm nhiễm với các mô chung quanh. Siêu âm nội soi giúp xác định bản chất khối u thông qua sự phản âm của nó khác biệt với thành dạ dày chung quanh và các mô lân cận.
+
+Để xác định rõ các thương tổn trong thành dạ dày, qua siêu âm người ta chia thành dạ dày ra làm 5 lớp tương ứng 5 lớp giải phẫu của dạ dày.
+
+[Hình: 1st, 3rd, 4th, 5th, Lớp niêm mạc, Lớp cơ niêm, Lớp dưới niêm, Lớp cơ trơn, Lớp thanh mạc]
+
+[Hình: Lớp niêm mạc, Lớp cơ niêm, Lớp dưới niêm, Lớp cơ trơn, Lớp thanh mạc]
+
+Hình 4. Năm lớp của thành dạ dày qua siêu âm theo giải phẫu.
+
+Thành dạ dày có 5 lớp riêng biệt, 2 lớp trong (tăng phản âm và giảm phản âm) đại diện cho lớp niêm mạc và lớp cơ niêm. Lớp thứ 3 tăng phản âm tương ứng với lớp dưới niêm, lớp thứ tư giảm phản âm tương ứng là lớp cơ trơn của dạ dày. Lớp thứ 5 tăng phản âm tương ứng với lớp thanh mạc, thường lớp này khó phân biệt với các mô tăng phản âm ở vùng lân cận dạ dày.
+
+Siêu âm qua nội soi là bước thứ 2 trong việc chẩn đoán u dưới niêm và sẽ cung cấp các thông tin giúp cho việc xử lý loại u này. Qua siêu âm sẽ đánh gia được các loại khối u là phát triển từ trong lòng hay phát triển ra bên ngoài hay từ bên ngoài chèn vào với độ chính xác > 90%
+
+[Hình: A, B, C, D]
+
+Hình 5. Các loại u dưới niêm dạ dày.
+(A): U mỡ dưới niêm nằm ở lớp thứ 3 của thành dạ dày, (B) U cơ trơn dạ dày có vôi hóa (không điển hình) nằm ở lớp thứ 4 của thành dạ dày, (C): U mô đệm nhỏ ở dạ dày nằm ở lớp phản âm 4, (D) U mô đệm lớn, có tăng sinh mạch máu, nằm ở lớp 4 của thành dạ dày
+
+6.3. Sinh thiết bằng kim nhỏ qua siêu âm nội soi
+
+Mặc dù siêu âm nội soi cho chúng ta hình ảnh rất rõ về mặt thương tổn cũng như đánh giá chính xác vị trí thương tổn nằm ở lớp nào của thành dạ dày cũng như dựa trên các thang điểm bên trên cho kết quả tương đối chính xác về các loại u dưới niêm. Tuy nhiên, để đánh giá chính xác cũng như xác định cuối cùng các kết quả cần có kết quả giải phẫu bệnh lý cũng như nhuộm hóa mô miễn dịch các loại u dưới niêm này. Vì vậy, sinh thiết bằng kim nhỏ qua siêu âm nội soi (endoscopic ultrasonography guided fine needle aspiration biopsy, EUS-FNAB) dưới hướng dẫn của của siêu âm là rất cần thiết, đặc biệt là các khối u đặc có hình ảnh phản âm kém.
+
+| | Chỉ định |
+| :--- | :--- |
+| Lớp 1 | Sinh thiết qua siêu âm |
+| Lớp 2 | |
+| Lớp 3 | - U nang<br>- Bạch mạch, mạch máu |
+| Lớp 4 | |
+| Lớp 5 | |
+
+- U thần kinh nội tiết
+- U mô đệm
+- U hạch ác tính
+- U tụy lạc chỗ
+- U cơ trơn
+- U di căn
+- U dưới niêm giống ác tính
+
+- U mỡ
+
+Mức phản âm | Không phản âm | Giảm phản âm | Tăng phản âm
+--- | --- | --- | ---
+
+**Hình 6.** Chỉ định của sinh thiết bằng kim với siêu âm nội soi.
+
+[Hình: A, B, C, D - Hình ảnh khối u mô đệm được sinh thiết qua nội soi siêu âm]
+
+**Hình 7.** Hình ảnh khối u mô đệm được sinh thiết qua nội soi siêu âm (khối u dưới niêm 3 cm dưới siêu âm cho hình ảnh giảm phản âm, được sinh thiết thẳng góc vào trung tâm và mẫu mô được hút ra quan sát dưới kính hiển vi sau nhuộm Giemsa).
+
+477
+
+Kazuya Akahoshi nghiên cứu đánh giá vai trò của sinh thiết với nội soi cho kết luận để phân biệt khối u mô đệm dạ dày, qua đó cho kết quả cuối cùng khẳng định bằng phẫu thuật thì sinh thiết cho kết quả chính xác 97% 28/29 các trường hợp. Nhìn chung thì độ nhạy là 100%, độ đặc hiệu là 80%, giá trị tiên đoán dương là 96%, giá trị tiên đoán âm là 100%. Và tác giả cũng cho thấy rằng tỷ lệ chẩn đoán chính xác tăng tương ứng với kích thước khối u, đối với các khối u có kích thước > 4 cm thì tỷ lệ chẩn đoán chính xác lên tới 100%. Và tương ứng với khối u $0 - 2$ cm và $2 - 4$ cm là 71 và 86%.
+
+## 6.4. Chụp cắt lớp vi tính và cộng hưởng từ
+
+### 6.4.1. Chụp cắt lớp vi tính
+
+Về khuynh hướng phát triển, u có thể phát triển vào trong lòng, phát triển ra bên ngoài thành dạ dày hoặc là phát triển hỗn hợp (hình ảnh quả chùy). Tuy nhiên, đa số các khối u có khuynh hướng phát triển ra ngoài thành dạ dày cho nên, nội soi dạ dày là không đủ mà cần có các phương tiện để đánh giá như phối hợp với siêu âm, cộng hưởng từ hay đặc biệt là chụp cắt lớp vi tính (CLVT).
+
+Các tính chất của U mô đệm dạ dày trên chụp cắt lớp vi tính biểu hiện rất khác nhau, điều này tùy thuộc vào kích thước, mức độ xâm lấn, thời gian xuất hiện của khối u. Các khối u nguyên phát thường có kích thước lớn, tăng sinh mạch máu, tăng quang khi chụp với chất tương phản, thường là không đồng nhất vì có thể có hoại tử trong u, xuất huyết hay thoái hóa dạng nang. Loét và rò vào trong lòng dạ dày cũng là các hình ảnh thường gặp. Nếu hoại tử lan rộng, sẽ thấy các dấu hiệu dịch và khí bên trong khối u. U mô đệm ác tính thường cho di căn gan và trong phúc mạc, rất hiếm khi nào di căn hạch bạch huyết và các cơ quan khác bên ngoài ổ bụng.
+
+[Hình: Hình A, Hình B, Hình C]
+
+**Hình 8.** A: khối u mô đệm có nằm ở thành sau dạ dày (khối tăng sinh, mật độ đồng nhất nằm ở dạ dày gợi ý khối u mô đệm khả năng ác tính thấp). Hình 8.B: khối u mô đệm có độ ác tính cao. Hình 8.C: u mô đệm có độ ác tính cao xâm lấn, di căn (khối u phát triển ra bên ngoài thành dạ dày, mật độ tương phản không đồng nhất, loét thủng dính vào thùy T của gan và có một khối di căn to bên gan P).
+
+## 4.4.2. Chụp cộng hưởng từ
+
+Chụp cộng hưởng từ (CHT) ổ bụng được sử dụng khá rộng rãi trong việc đánh giá các bệnh lý bên trong ổ bụng vì khả năng cho các hình ảnh tương phản mô mềm cao, làm gia tăng khả năng phát hiện nguồn gốc của khối u mô mềm lớn và sự liên quan của khối u với các cơ quan khác trong ổ bụng cũng như liên quan đến các mạch máu lớn. Sự khác biệt về tỉ trọng khuếch tán trong từ trường (Diffusion weighted MRI - DWI) rất hữu ích trong việc đánh giá các đặc tính về tế bào bên trong các khối u đặc ở trong ổ bụng.
+
+Trong nghiên cứu của Mi Hye Yu mô tả: Hình ảnh của các khối u mô đệm nhỏ sẽ có hình tròn với độ tương phản mạnh, tương phản đồng nhất ở thì động mạch. Các khối u lớn sẽ có hình dạng thùy với độ tương phản trung bình, có đặc điểm tương phản không đồng nhất hay thoái hóa dạng nang.
+
+Ưu điểm của CHT là có thể thực hiện với các xung chuỗi khác nhau từ đó cho ra các hình ảnh khác biệt, giúp phân biệt được các đặc tính và thành phần của khối u chẳng hạn như chất lỏng, chất nhầy, thành phần sợi bên trong khối u (điều này không làm được trên chụp CLVT).
+
+[Hình: A, B, C]
+
+**Hình 9.** Hình ảnh CHT khối u mô đệm đường tiêu hóa.
+(A) (B) khối u dưới niêm ở thì T1, hình tròn, mật độ đồng nhất, bắt thuốc tương phản mạnh ở thì động mạch, không có thay đổi dạng nang hay xuất huyết trong u. (C) hệ số khuếch tán ADC (apparent diffusion coefficient) $1.56 \times 10^{-3} \text{ mm}^2/\text{s}$ (CAO)
+
+[Hình: Khối u mô đệm dạ dày có độ ác tính cao thời gian T1 và thời gian T2. T1: (A),(B) Khối u mô đệm nhiều thùy, bắt thuốc tương phản trung bình, không đồng nhất, (D) có dấu hiệu xuất huyết bên trong khối u. T2: (A) khối u có phần thoái hóa nang, xuất huyết trong lòng, (B) hình ảnh di căn gan ở thời gian T1, (C) hệ số khuếch tán ADC (apparent diffusion coefficient) $0,57 \times 10^{-3}\text{ mm}^2\text{/s}$ (thấp).]
+
+**Bảng 3.** Liên quan giữa hệ số khuếch tán ADC và mức độ tiên lượng ác tính trên chụp CHT
+
+| | Hệ số khuếch tán ADC<br>(apparent diffusion coefficient) |
+| :--- | :--- |
+| Nhóm ác tính cao | $0,93 \pm 0,18 \times 10^{-3}\text{ mm}^2\text{/s}$ |
+| Nhóm ác tính trung bình | $1,14 \pm 0,11 \times 10^{-3}\text{ mm}^2\text{/s}$ |
+| Nhóm ác tính thấp | $1,19 \pm 0,27 \times 10^{-3}\text{ mm}^2\text{/s}$ |
+| Nhóm ác tính rất thấp | $1,38 \pm 0,17 \times 10^{-3}\text{ mm}^2\text{/s}$ |
+
+Như vậy, đặc điểm trên chụp CHT của các khối u mô đệm ở dạ dày khác biệt nhiều giữa các khối u nhỏ và các khối u lớn. U nhỏ thường cho hình ảnh đồng nhất, độ tương phản cao, các khối u lớn có thoái hóa dạng nang, hệ số khuếch tán thấp liên quan đến mức độ ác tính của loại u này.
+
+## 6.4.3. Chụp hình cắt lớp phát xạ Positron/Chụp cắt lớp vi tính
+
+Chụp hình cắt lớp phát xạ Positron/Chụp cắt lớp vi tính (Positron emission tomographic, PET/CT): chụp cắt lớp vi tính có vai trò quan trọng trong việc đánh giá số lượng khối u, vị trí, tính chất và giai đoạn của khối u. Tuy nhiên, chụp cắt lớp vi tính không thể đánh giá các ổ di căn tiềm ẩn bên ngoài ổ bụng và đặc biệt hoạt động tế bào nội tại của khối u cũng như ước lượng độ ác tính dựa vào độ phân bào của khối u (điều này liên quan trực tiếp đến các loại u mô đệm đường tiêu hóa). Thực tế, có một số nghiên cứu đánh giá sử dụng chụp cắt lớp vi tính với bức xạ Positron (PET/CT) để đánh giá sự chuyển hóa glucose bên trong khối u, điều này liên quan đến sức sống của khối u. Vì vậy PET/CT rất quan trọng trong việc đánh giá ban đầu trước khi quyết định điều trị cũng như đánh giá sự đáp ứng của hóa trị đối với khối u.
+
+Sử dụng PET/CT với chất fluorine-18-fluorodeoxyglucose (FDG) đánh giá độ hấp thu tối đa của chất này trong khối u có thể tiên lượng trước mổ độ ác tính của khối u. Khối u mô đệm đường tiêu hóa được chẩn đoán xác định khi kết quả hóa mô miễn dịch cuối cùng dương tính với CD 117 (c-kit) hoặc CD 34. Việc đánh giá mức độ ác tính của khối u dựa vào các yếu tố như: kích thước khối u, độ phân bào của khối u, chỉ số tăng sinh Ki-67 (chỉ số Ki-67 được định nghĩa dựa vào tỷ lệ hiện diện của nhân tế bào so với tổng số 1000 tế bào khối u do chuyên gia hóa mô miễn dịch đọc), vị trí khối u, mức độ hoại tử...
+
+Isis Gayed nghiên cứu vai trò của sử dụng chất fluorine-18-fluorodeoxyglucose trong PET/CT ($^{18}\text{F}$-FDG PET/CT) để đánh giá độ hấp thu tối đa của chất này trong khối u để tiên lượng mức độ ác tính của khối u cũng như độ hấp thu của FDG của khối u để tiên lượng mức độ đáp ứng ban đầu trong việc điều trị các khối u mô đệm đường tiêu hóa với Imatinib qua đó tiên lượng mức độ tái phát hay di căn.
+
+Như vậy, sử dụng PET/CT với FDG là một biện pháp không xâm hại có giá trị rất cao trong việc đánh giá khả năng ác tính trước mổ của các khối u mô đệm đường tiêu hóa ở dạ dày. Với độ nhạy và độ đặc hiệu cao, dựa vào độ hấp thu của FDG của khối u để đánh giá tiềm năng ác tính của nó cũng như đánh giá khả năng đáp ứng điều trị với imatinib. Độ hấp thu cao FDG có liên quan trực tiếp đến độ ác tính của của khối u mô đệm này.
+
+## 7. ĐIỀU TRỊ
+
+Phương pháp điều trị UMĐĐTH rất đa dạng và phong phú, việc lựa chọn phương pháp điều trị tùy thuộc vào kích thước khối u, vị trí khối u nằm ở vùng nào trên đường tiêu hóa. Ngày nay, với sự phát triển vượt bậc của kỹ thuật cũng như trang thiết bị, có nhiều lựa chọn hơn cho việc xử trí nhóm bệnh lý này.
+
+7.1. Xử trí khối u tại chỗ nguyên tắc xử lý
+
+Tiêu chuẩn điều trị các khối u GIST tại chỗ là phẫu thuật cắt trọn phần tạng mang khối u và không cần nạo hạch nếu không có bằng chứng hạch di căn. Một khi kế hoạch cắt u bằng phẫu thuật nội soi thì việc phẫu thuật phải tuân theo tiêu chuẩn về mặt ung thư học. Cắt bỏ khối u với bờ cắt an toàn R0 là mục tiêu của phẫu thuật điều trị.
+
+- Chỉ cần cắt phần tạng mang khối u, việc tiến hành cắt rộng rãi phần tạng mang u hoặc cắt toàn bộ cơ quan (dạ dày) rất hiếm khi được chỉ định, cắt một phần hay cắt kiểu Wedge với bờ cắt sạch là chỉ định tốt nhất
+- Việc nạo hạch là không cần thiết vì tỷ lệ di căn hạch là rất thấp, cần phải lấy các hạch phát triển lớn nhất là trong trường hợp bệnh nhân có khối u mô đệm và bệnh thiếu SHD
+- Bởi vì các khối u GIST rất dễ vỡ nên mọi thao tác trên khối u nên nhẹ nhàng, không được làm vỡ bao khối u trong lúc phẫu thuật
+- Việc chỉ định phẫu thuật lại trong trường hợp kết quả giải phẫu bệnh cuối cùng về mặt vi thể bờ cắt còn tế bào u là không có chỉ định
+- Phẫu thuật nội soi không được khuyến khích trong trường hợp các khối u lớn do quan sát bờ cắt không rõ ràng do đó nguy cơ vỡ u sẽ rất cao và điều này liên quan trực tiếp đến sự tái phát của bệnh.
+
+### 7.1.1. Cắt phần dạ dày mang u qua nội soi tiêu hóa
+
+Có rất nhiều kỹ thuật được mô tả khi sử dụng các phương tiện nội soi để cắt u như: cắt u dưới niêm bằng dây thắt (*endoscopic band ligation, EBL*), cắt lớp dưới niêm dạ dày (*endoscopic submucosal dissection, ESD*), đào sâu lấy u dưới niêm (*endoscopic submucosal excavation, ESE*), cắt trọn thành dạ dày (*endoscopic full-thickness resection, EFTR*), đường hầm lấy u dưới niêm (*submucosal tunneling endoscopic resection, STER*), Phối hợp nội soi dạ dày và phẫu thuật nội soi 1 đường vào (*Hybrid endoscopic full-thickness resection, EFTR*)...
+
+[Hình: A, B, C các hình ảnh nội soi tiêu hóa]
+
+[Hình: Kỹ thuật xử lý u mô đệm dạ dày qua cắt dưới niêm. (Endoscopic submucosal dissection).]
+
+Hình 11. Kỹ thuật xử lý u mô đệm dạ dày qua cắt dưới niêm. (Endoscopic submucosal dissection).
+A: khối u quan sát qua nội soi, B,C: cắt lớp niêm và cơ niêm, D: khối u đã lấy trọn, E: kéo niêm mạc đóng đường cắt, F: khối u đã lấy ra ngoài.
+
+[Hình: Nội soi tiêu hóa cắt trọn thành dạ dày. (Endoscopic full-thickness resection).]
+
+Hình 12. Nội soi tiêu hóa cắt trọn thành dạ dày. (Endoscopic full-thickness resection).
+
+[Hình: Tạo kênh dưới niêm cắt khối u tâm vị.]
+
+Hình 13. Tạo kênh dưới niêm cắt khối u tâm vị.
+
+**Sơ đồ: Lưu đồ 1. Các phương pháp xử trí u dưới niêm ở dạ dày.**
+- U dưới niêm --> Siêu âm qua nội soi
+  - Nằm nông trong lớp cơ --> < 3,5 cm --> ESD, ESE, STER
+  - Nằm nông trong lớp cơ --> 3,5-5 cm --> ESD, ESE
+  - Nằm sâu trong lớp cơ --> Còn khu trú dạ dày --> < 3,5 cm --> ESE, EFR, STER
+  - Nằm sâu trong lớp cơ --> Còn khu trú dạ dày --> 3,5-5 cm --> EFR, LECS
+  - Nằm sâu trong lớp cơ --> Phát triển ra ngoài thành dạ dày --> < 3,5 cm --> EFR, STER
+  - Nằm sâu trong lớp cơ --> Phát triển ra ngoài thành dạ dày --> 3,5-5 cm --> EFR, LECS
+
+7.1.2. Phẫu thuật nội soi
+
+(1) Phẫu thuật nội soi cắt dạ dày hình chêm Laparoscopic wedge resection – LWR:
+
+Hiện nay, tất cả các hướng dẫn điều trị u dưới niêm đều đồng thuận trong việc cắt phần dạ dày mang khối u và không cần nạo hạch là tiêu chuẩn xử lý triệt để. Kitano đã mô tả kỹ thuật này đầu tiên vào năm 2005. Phẫu thuật nội soi cắt dạ dày kiểu Wedge hay còn gọi là cắt hình chêm được coi như là lựa chọn tiêu chuẩn trong xử trí u dưới niêm, thông qua phẫu thuật nội soi, phần dạ dày chứa khối u được cắt trọn vẹn với tất cả các lớp, việc phục hồi thành dạ dày có thể thông qua nhiều chọn lựa như khâu, hoặc dụng cụ cắt nối...
+
+[Hình: Hình 14. Tư thế bệnh nhân và vị trí của phẫu thuật viên, phối hợp với nội soi để xác định chính xác vị trí u dưới niêm cần cắt.]
+
+[Hình: Hình 15. Quy trình cắt khối u dưới niêm dạ dày.]
+
+(2) Phẫu thuật nội soi cắt một phần dạ dày với “kỹ thuật nâng và cắt”:
+
+Phẫu thuật qua nội soi cắt một phần dạ dày bằng “kỹ thuật nâng và cắt” (*Laparoscopic partial gastrectomy by the ‘lift-and-cut method’*) có mục đích của lấy trọn khối u và bảo tồn tối đa hình thái cũng như chức năng của phần dạ dày còn lại, kỹ thuật này ra đời với việc cắt phần dạ dày mang khối u kiểu kín với việc chỉ cắt vào lớp thanh mạc và lớp cơ dạ dày sau đó thực hiện nâng khối u để cắt trọn khối ‘lift-and-cut method’ kèm với lợi điểm không làm dây nhiễm dịch dạ dày trong khoang bụng làm hạn chế việc nhiễm khuẩn cũng như tụ dịch sau mổ và tiết kiệm tối đa phần dạ dày còn lại.
+
+Năm 2016 Shintaro Okumura, báo cáo thực hiện thành công 16 trường hợp với kỹ thuật này và hiện đang tiếp tục gia tăng về số lượng.
+
+[Hình: Kỹ thuật nâng cắt khối u dưới niêm. Chú thích các góc ảnh: C, D, A, B]
+
+Hình 16. Kỹ thuật nâng cắt khối u dưới niêm.
+
+(3) Phối hợp phẫu thuật nội soi và nội soi tiêu hóa (Laparoscopic and endoscopic cooperative surgery – LECS):
+
+LECS cổ điển
+
+[Hình: Tiêm dịch vào khoang dưới niêm, Niêm mạc, Dưới niêm, Cơ dạ dày (MP), Thanh mạc, Nội soi cắt lớp dưới niêm --> Phẫu thuật nội soi cắt thanh mạc và cơ --> Khâu qua phẫu thuật nội soi]
+
+Hình 17. Phẫu thuật LECS cổ điển: Qua kênh nội soi tiến hành cắt lớp niêm và dưới niêm sau khi bơm căng, qua phẫu thuật nội soi cắt lớp thanh mạc và cơ dạ dày, lỗ thủng được khâu qua phẫu thuật nội soi.
+
+[Hình: Tùy theo vị trí khối u mà chọn lựa phương pháp phẫu thuật.]
+- Phối hợp phẫu thuật nội soi Hỗ trợ hay mổ mở
+- Phát triển ra bên ngoài
+- Phát triển vào trong lòng
+- Phẫu thuật nội soi đơn thuần
+- Phối hợp 2 phương pháp
+- Phẫu thuật nội soi
+- Phẫu thuật một lỗ
+
+**Sơ đồ: Lưu đồ 2. Xử lý các khối u mô đệm tại chỗ.**
+- GIST KHU TRÚ
+  - Phẫu thuật với bờ cắt R0 --> Nguy cơ phẫu thuật thấp --> Phẫu thuật (III,A)
+  - Phẫu thuật không đạt được R0 --> Nguy cơ phẫu thuật cao --> Đột biến nhạy cảm --> Imatinib 6-12 tháng (III,A)
+    - Phẫu thuật R0/R1 khả thi --> Phẫu thuật (IV,B)
+    - Phẫu thuật R0/R1 không khả thi
+  - Đột biến nhạy cảm --> Nguy cơ tái phát cao / GIST nguy cơ cao --> Hóa trị bổ trợ Imatinib 36 tháng (I,A)
+  - Đột biến nhạy cảm --> Theo dõi
+
+7.2. Xử trí các khối u mô đệm đường tiêu hóa tiến triển hay di căn
+
+Imatinib là chọn lựa tiêu chuẩn cho các trường hợp khối u mô đệm tại chỗ tiến triển không phẫu thuật được hay các trường hợp có di căn. Liều chuẩn của imatinib là 400 mg/ngày.
+
+Bệnh nhân có đột biến PDGFRA D842V không đáp ứng với imatinib, có thể sử dụng Sunitinib trong trường hợp nghi ngờ có nhóm đột biến này.
+
+Đối với các trường hợp có di căn, imatinib được khuyên sử dụng vô thời hạn vì nói chung khối u sẽ tiến triển rất nhanh các trường hợp ngưng thuốc cho dù có tiến hành phẫu thuật lại cắt bỏ được. Khi việc điều trị bắt đầu, bệnh nhân phải được cảnh báo tầm quan trọng của việc duy trì tiếp tục điều trị, tác dụng phụ, ảnh hưởng của thuốc với các loại thức ăn và cách xử trí tác dụng phụ. Cường độ liều thuốc nên được điều chỉnh dựa theo các tác dụng phụ, có chiến lược sử dụng, tăng giảm liều hoặc tạm ngưng khi có các dấu hiệu có độc tính xuất hiện quá mức hay kéo dài. Một nghiên cứu hồi cứu cho rằng có sự liên quan tới nồng độ imatinib tối ưu trong huyết tương với kết quả tồi tệ của điều trị mặc dù sự liên quan với kết quả điều trị chưa được thiết lập ở các nghiên cứu tiền cứu. Mặc dù có thể chỉnh liều sử dụng và sử dụng nồng độ imatinib trong huyết thanh có thể có ích trong: bệnh nhân đang được sử dụng đồng thời nhiều loại thuốc điều trị mà có nguy cơ tương tác thuốc cao hoặc những bệnh nhân đã được phẫu thuật trước nên có thể giảm nồng độ thuốc trong huyết tương; nhóm bệnh nhân xuất hiện các phản ứng độc tính không mong đợi; sử dụng liều kéo dài 400 mg hay một số trường hợp phải sử dụng liều 800 mg/ngày.
+
+Đối với trường hợp bệnh tiến triển sau khi sử dụng sunitinib, một thử nghiệm lâm sàng ngẫu nhiên về việc sử dụng regorafenib với liều 160 mg mỗi 3 tuần/4 tuần được chứng minh có thể làm tăng thời gian sống còn. Do đó liệu pháp này được xem là bước thứ 3 trong điều trị các trường hợp không đáp ứng với imatinib và sunitinib.
+
+**Khuyến cáo của Hội Điều trị GIST Anh quốc:**
+- Imatinib là thuốc được chọn lựa điều trị cho bệnh nhân các trường hợp không còn phẫu thuật được hay di căn cho đến khi bệnh tiến triển với liều chuẩn cơ bản là 400 mg/ngày. Những bệnh nhân với đột biến KIT exon 9 cần được sử dụng với liều cao hơn, mặc dù điều này chưa được NICE khuyến cáo
+- Đối với những khối u đơn độc xuất hiện trong giai đoạn bệnh tiến triển có thể chọn lựa phẫu thuật cắt bỏ hoặc hủy u với đốt bằng sóng cao tần
+- Điều trị tiêu chuẩn bước 2 là sử dụng sunitinib, trong đó được khuyến cáo sử dụng với liều 50 mg/ngày trong 4 tuần/mỗi 6 tuần hoặc 37,5 mg/ngày sử dụng liên tục
+- Thuốc điều trị bước 3 tiêu chuẩn là Regorafenib.
+
+**Khuyến cáo của Mạng lưới Ung thư Quốc gia Hoa kỳ (NCCN):**
+Đối với các trường hợp GIST không thể phẫu thuật được hay đã di căn
+
+Imatinib là lựa chọn đầu tay cho các trường hợp này, việc chỉ định phẫu thuật chỉ nhằm vào:
+- Làm giảm sự tiến triển của bệnh hay làm giảm việc đề kháng với imatinib
+- Khối u có dấu hiệu tiến triển tại chỗ hoặc tình trạng khối u trước đây không cắt được nhưng có thể cắt sau khi điều trị với imatinib
+- Xử trí các biến chứng: chảy máu, xuất huyết tiêu hóa hay tắc ruột.
+
+**Sơ đồ: Lưu đồ 3. Khuynh hướng điều trị GIST tiến triển.**
+- GIST tiến triển
+  - Giới hạn --> Tiếp tục sử dụng imatinib liều cũ và xem xét việc phối hợp:
+    - Cắt bỏ (nếu khả thi)
+    - RFA, TAE, TACE
+    - Điều trị nâng đỡ (di căn xương)
+    - Tăng liều Imatinib nếu còn khả năng hấp thu hoặc đổi sang Sunitinib
+    - Sử dụng CT, MRI đánh giá đáp ứng
+  - Không giới hạn Giao rắc --> Cho bệnh nhân PS 1-2:
+    - Tăng liều Imatinib nếu còn khả năng hấp thu hoặc đổi sang Sunitinib
+    - Nếu Sunitinib không đáp ứng thì đổi Regorafenib
+    - Sử dụng CT, MRI đánh giá đáp ứng
+
+**Sơ đồ: Lưu đồ 4. Xử lý các khối u mô đệm tiến xa.**
+- GIST TIẾN TRIỂN/DI CĂN
+  - Đột biến nhạy cảm
+    - Đột biến exon 11 --> Imatinib 400 mg (I,A)
+      - Không đáp ứng --> Đáp ứng
+        - Tiếp tục Imatinib (6-12 tháng)
+          - Đáp ứng --> Phẫu thuật phần còn lại --> Tiếp tục Imatinib cho đến khi bệnh tiến triển (I,A)
+          - Không đáp ứng --> Tiến triển giới hạn --> Cắt, đốt tổn thương tiến triển --> Tiếp tục Imatinib cho đến khi bệnh tiến triển (I,A)
+          - Không đáp ứng --> Tiến triển không giới hạn --> Đáp ứng 1 phần --> [không rõ] --> Tìm kiếm TKI mới (II,B), thử nghiệm lâm sàng, chăm sóc nâng đỡ
+          - Không đáp ứng --> Đáp ứng chậm --> Tìm kiếm TKI mới (II,B), thử nghiệm lâm sàng, chăm sóc nâng đỡ
+          - Không đáp ứng --> Không đáp ứng --> Tìm kiếm TKI mới (II,B), thử nghiệm lâm sàng, chăm sóc nâng đỡ
+      - Đáp ứng --> Tiếp tục Imatinib (6-12 tháng)
+    - Đột biến exon 9 --> Imatinib 800 mg (III,B)
+      - Không đáp ứng --> Sunitinib (I,A)
+        - Không đáp ứng --> Regorafenib (I,A)
+          - Đáp ứng 1 phần --> Tìm kiếm TKI mới (II,B), thử nghiệm lâm sàng, chăm sóc nâng đỡ
+          - Không đáp ứng --> Tìm kiếm TKI mới (II,B), thử nghiệm lâm sàng, chăm sóc nâng đỡ
+        - Đáp ứng 1 phần --> [không rõ]
+      - b --> [không rõ]
+  - Đột biến không nhạy cảm --> Imatinib hoặc Sunitinib Các thử nghiệm lâm sàng
+
+8. TIÊN LƯỢNG
+
+Hiệp hội Quốc tế Phòng Chống Ung thư (UICC) đưa ra các yếu tố tiên lượng u mô đệm
+
+Bảng 4. Các yếu tố tiên lượng u mô đệm đường tiêu hóa theo UICC
+| Các yếu tố tiên lượng | Đặc tính khối u | Bệnh liên quan | Các yếu tố liên quan |
+| :--- | :--- | :--- | :--- |
+| Chính yếu | - Vị trí giải phẫu<br>- Kiểu mô học<br>- Kích thước khối u<br>- Độ sâu xâm lấn<br>- Cấp độ (biệt hóa tốt $\rightarrow$ biệt hóa kém)<br>- Di căn xa (M)<br>- Mức độ phân bào | | |
+| Yếu tố thêm vào | - Hiện diện đột biến KIT<br>- Vị trí đột biến trên gen KIT hay PDGFRA<br>- Bờ cắt của phẫu thuật<br>- Tình trạng hiện tại (khối u là nguyên phát hay tái phát) | NF1<br>(Bệnh u xơ thần kinh típ 1) | Chất lượng cuộc phẫu thuật |
+| Các yếu tố mới và triển vọng | - TP53<br>- Ki-67<br>- Sự thiếu oxi mô u | | |
+
+Các yếu tố tiên lượng cho GIST là: mức độ phân bào, kích thước khối u, vị trí khối u (u ở dạ dày thì tốt hơn ở ruột non và xấu nhất là ở trực tràng). Vỡ khối u là một yếu tố quan trọng cần ghi nhận để tiên lượng, cho dù là yếu tố này đã xuất hiện trước khi phẫu thuật, trong lúc phẫu thuật... Các tình trạng đột biến gen cho tới hiện tại không thấy có liên quan đến nguy cơ của khối u mặc dù mỗi kiểu gen có một lịch sử tự nhiên riêng biệt. Các khối u mô đệm khu trú có đột biến PDGFRA D842V thì liên quan tới tiên lượng tốt và khả năng đề kháng với Imaninib.
+
+9. KẾT LUẬN
+
+Trong vòng một thập kỷ vừa qua, kết quả điều trị những bệnh nhân GIST có những tiến bộ ngoạn mục, đem lại cho bệnh nhân chất lượng cuộc sống và thời gian sống không bệnh được kiểm soát thời gian dài. Với sự xuất hiện các thuốc TKIs mang lại kết quả điều trị tốt hơn cho bệnh nhân, nhất là các trường hợp tái phát, việc phân tích các đột biến gen và vai trò của hóa mô miễn dịch là không còn bàn cãi, từ đó đưa ra các loại thuốc chính xác hơn trong điều trị trúng đích. Kèm với các tiến bộ của kỹ thuật phẫu thuật xử lý kết hợp với nội soi tiêu hóa làm cho việc xử lý các trường hợp u dưới niêm nhẹ nhàng hơn mang lại chất lượng cuộc sống sau mổ cao do hạn chế việc phẫu thuật quá mức cần thiết gây tàn phế sau mổ. Việc phối hợp điều trị với các TKIs mới phối hợp với phẫu thuật ở trên những trường hợp GIST tiến triển (tái phát hoặc di căn) đem lại hiệu quả điều trị tốt hơn và làm gia tăng thời gian sống không bệnh cho bệnh nhân. Tuy vậy, vẫn cần rất nhiều thử nghiệm lâm sàng và tìm ra các TKIs mới trong các trường hợp kháng thuốc và không đáp ứng với điều trị.
+
+**Bảng 5. Tóm tắt các khuyến cáo điều trị GIST**
+
+| Bảng tóm tắt các khuyến cáo |
+| :--- |
+| **Chẩn đoán/giải phẫu bệnh lý/Sinh học phân tử** |
+| Siêu âm qua ngả nội soi là tiêu chuẩn đánh giá chính xác các khối u dưới niêm ở thực quản, dạ dày hay tá tràng < 2 cm [IV,C] |
+| Tiến hành sinh thiết hay phẫu thuật lấy u đối với các khối u ≥ 2cm [IV,C] |
+| Cần có kết quả hóa mô miễn dịch và phân tích đột biến tất cả các khối u GIST [II,A] ( tính cả các khối u < 2 cm đối với GIST trực tràng) |
+| **Điều trị các khối u GIST tại chỗ, khu trú** |
+| Điều trị tiêu chuẩn cho các khối u GIST tại chỗ, khu trú là tiến hành phẫu thuật cắt bỏ hoàn toàn phần tạng mang khối u, không cần thiết phải nạo hạch trừ khi có bằng chứng di căn hạch [III,A]. Nếu phẫu thuật nội soi được chọn lựa thì tiến trình phẫu thuật phải tuân theo các nguyên tắc phẫu thuật ung thư [III,A] |
+| Khi việc phẫu thuật không thể đạt mức R0 và các phương pháp điều trị trước mổ không hiệu quả, có thể quyết định phẫu thuật với R1 [IV,B] |
+| Điều trị bổ trợ với imatinib trong vòng 3 năm nếu bệnh nhân nằm trong nhóm có nguy cơ tái phát đáng kể [I,A] |
+| Không nên điều trị với imatinib với nhóm bệnh nhân có đột biến PDGFRA D842V (kháng imatinib) [IV,D] |
+| Nên tránh điều trị bổ trợ với nhóm đột biến âm tính liên quan với NF1 và SDH [IV,D] |
+| Bệnh nhân nên được xếp vào nhóm nguy cơ tái phát rất cao đối với các trường hợp khối u vỡ trong lúc phẫu thuật, nên được xem xét điều trị với imatinib [IV,A] |
+| Nếu việc thực hiện có khả năng không đạt được R0 thì việc điều trị trước mổ với imatinib là tiêu chuẩn [III,A] |
+| **Điều trị các trường hợp bệnh tiến triển, di căn** |
+| Imatinib là thuốc điều trị tiêu chuẩn cho các trường hợp bệnh tiến triển tại chỗ hay di căn [I,A] |
+| Imatinib cũng được xem là thuốc điều trị tiêu chuẩn trong các trường hợp bệnh tiến triển di căn đã được phẫu thuật cắt sạch tất cả các thương tổn tiến triển di căn này mặc dù phẫu thuật trong trường hợp này không được xem là phương pháp chọn lựa đầu tay, liều dùng imatinib là 400mg/ngày [I,A] |
+| Điều trị chuẩn cho GIST có đột biến KIT exon 9 là imatinib 800mg/ngày [III,B] |
+| Trong trường hợp đã di căn, việc điều trị với imatinib là vô thời hạn, trừ khi có vấn đề liên quan tới việc hấp thu hay bệnh nhân không đồng ý điều trị [I,A] |
+| Phẫu thuật lấy đi phần di căn được quyết định trong các trường hợp không chắc chắn tùy từng bệnh nhân cụ thể [III,C] |
+
+Bảng tóm tắt các khuyến cáo
+
+Phẫu thuật có thể được cân nhắc trong trường hợp những bệnh nhân được hạn chế sự tiến triển của bệnh trong quá trình vẫn đang dùng imatinib [IV,C]
+
+Trong trường hợp khối u vẫn tiếp tục tiến triển dù đang dùng thuốc với liều 400 mg/ngày thì có thể tăng liều lên 800 mg/ngày (phải loại trừ các đột biến không nhạy thuốc) [III,B]
+
+Trong trường hợp bệnh tiến triển, được xác định là do hiếm gặp do không dung nạp imatinib thì sunitinib được xem là lựa chọn bước 2 [I,A]
+
+Regorafenib với liều 160 mg/ngày mỗi 3 tuần/ 4 tuần được xem là lựa chọn bước 3 cho những bệnh nhân bệnh tiến triển thất bại với imatinib và sunitinib [I,A]
+
+Có thể tiếp tục sử dụng lại với imatinib đối với các bệnh nhân bệnh đang tiến triển vượt quá kiểm soát nếu trước đây đã sử dụng thuốc này [II,B]
+
+GIST: u mô đệm đường tiêu hóa; NF1: neurofibromatosis type 1 (bệnh u xơ thần kinh típ 1); PDGFRA: platelet-derived growth factor alpha (yếu tố tăng trưởng có nguồn gốc từ tiểu cầu anpha); R0: không còn khối u về mặt vi thể; R1: diện phẫu thuật còn sót tế bào u; SDH: succinate dehydrogenase
+
+**Bảng 6. Tóm tắt các mức độ chứng cứ và khuyến cáo của y học bằng chứng**
+
+**Các mức độ của y học bằng chứng (theo hệ thống thang điểm của Hội bệnh truyền nhiễm Hoa Kỳ/The Infectious Diseases Society of America-United States Public Health Service Grading System) của Hội bệnh Truyền nhiễm Hoa Kỳ (Infectious Diseases Society of America, IDSA)**
+
+**Mức độ bằng chứng**
+
+I: Bằng chứng từ ít nhất một thử nghiệm ngẫu nhiên lớn, thử nghiệm có kiểm soát về chất lượng phương pháp tốt (khả năng sai lệch thấp) hoặc phân tích gộp các thử nghiệm ngẫu nhiên và không đồng nhất
+
+II: Thử nghiệm ngẫu nhiên nhỏ hay lớn với nghi ngờ có sự sai lệch (chất lượng phương pháp thấp hơn) hoặc phân tích gộp các thử nghiệm đó hoặc các thử nghiệm không đồng nhất đã được chứng minh
+
+III: Nghiên cứu tiền cứu đoàn hệ
+
+IV: Nghiên cứu hồi cứu đoàn hệ hay các trường hợp lâm sàng có kiểm soát
+
+V: Nghiên cứu không kiểm soát, báo cáo hàng loạt ca, ý kiến của chuyên gia
+
+**Các cấp độ khuyến cáo**
+
+A: Có bằng chứng mạnh mẽ cũng như hiệu quả về lợi ích lâm sàng đáng kể, khuyến cáo mạnh
+
+B: Bằng chứng mạnh hay trung bình về hiệu quả, lợi ích lâm sàng hạn chế, mức khuyến cáo trung bình
+
+C: Bằng chứng không đầy đủ về hiệu quả hay lợi ích không vượt quá rủi ro (tác dụng phụ, chi phí...) có thể xem như là một lựa chọn
+
+D: Bằng chứng vừa phải chống lại các hiệu quả hoặc cho kết quả bất lợi, thường không được khuyến cáo sử dụng
+
+E: Có những bằng chứng mạnh mẽ chống lại chuyện này, không bao giờ được sử dụng.
+
+# TÀI LIỆU THAM KHẢO
+
+1. Chia SC et al. Gastrointestinal Stromal Tumors: How to Increase the Preoperative Endoscopic Ultrasonography Diagnostic Rate J Med Ultrasound. 2018 Oct-Dec; 26(4): 177-180.
+2. Demetri GD, Wang Y, Wehrle E et al. Imatinib plasma levels are correlated with clinical benefit in patients with unresectable/metastatic gastrointestinal stromal tumors. J Clin Oncol 2009; 27: 3141-3147.
+3. Group EESNW. Gastrointestinal stromal tumours: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2018. doi: 10.1093/annonc/mdy095.
+4. Ian J, Ramesh B, Beatrice S et al. UK clinical practice guidelines for the management of gastrointestinal stromal tumours (GIST). Clin Sarcoma Res (2017) 7:6 DOI 10.1186/s13569-017-0072-8.
+5. IS Papanikolaou, K Triantafyllou, A Kourikou et al. Endoscopic ultrasonography for gastric submucosal lesions. World J Gastrointest Endosc. 2011 May 16; 3(5): 86–94.
+6. Joensuu H, Vehtari A, Riihimäki J et al. Risk of recurrence of gastrointestinal stromal tumour after surgery: an analysis of pooled populationbased cohorts. Lancet Oncol 2012; 13: 265–274.
+7. Joensuu H, Wardelmann E, Sihto H et al. Effect of KIT and PDGFRA mutations on survival in patients with gastrointestinal stromal tumors treated with adjuvant imatinib: an exploratory analysis of a randomized clinical trial. JAMA Oncol 2017; 3: 602–609.
+8. M H Yu, J M Lee, J H Baek et al. MRI Features of Gastrointestinal Stromal Tumors. A J Jour of Roent (2014) 203;980-991.
+9. National Comprehensive Cancer Network (NCCN): Clinical Practice Guidelines in Oncology Soft Tissue Sarcoma Version (2019).
+10. Shintaro O, Seiichiro K, Hisahiro H et al Our experience with laparoscopic partial gastrectomy by the 'lift-and-cut method' for gastric gastrointestinal stromal tumor with maximal preservation of the remnant stomach Surg Endosc DOI 10.1007/s00464-016-5367-y.
+
+# ĐÁP ÁN CÂU HỎI LƯỢNG GIÁ
+
+**BÀI 1: VIÊM RUỘT THỪA CẤP**
+1. B
+2. A
+3. C
+4. B
+5. C
+
+**BÀI 3: HỘI CHỨNG Ứ ĐỌNG DẠ DÀY – HẸP MÔN VỊ**
+1. D
+2. B
+3. C
+4. C
+5. D
+
+**BÀI 5: CHẤN THƯƠNG GAN**
+1. D
+2. C
+3. B
+4. A
+5. D
+
+**BÀI 7: UNG THƯ THỰC QUẢN**
+1. A
+2. D
+3. B
+4. D
+5. D
+
+**BÀI 9: UNG THƯ DẠ DÀY**
+1. D
+2. A
+3. A
+4. C
+5. C
+
+**BÀI 2: THỦNG Ổ LOÉT DẠ DÀY TÁ TRÀNG**
+1. C
+2. A
+3. C
+4. C
+5. D
+
+**BÀI 4: TẮC RUỘT CƠ HỌC**
+1. A
+2. D
+3. B
+4. C
+5. C
+
+**BÀI 6: CHẤN THƯƠNG LÁCH**
+1. B
+2. D
+3. A
+4. C
+5. B
+
+**BÀI 8: CO THẮT TÂM VỊ**
+1. C
+2. D
+3. C
+4. D
+5. D
+
+**BÀI 10: UNG THƯ ĐẠI TRÀNG**
+1. D
+2. C
+3. D
+4. D
+5. A
+6. C
+7. A
+8. B
+9. D
+10. D
+
+BÀI 11: UNG THƯ TRỰC TRÀNG
+1. C
+2. B
+3. C
+4. B
+5. B
+
+BÀI 13: SỎI ĐƯỜNG MẬT CHÍNH
+1. C
+2. C
+3. B
+4. C
+5. C
+
+BÀI 15: UNG THƯ QUANH BÓNG VATER
+1. D
+2. D
+3. A
+4. B
+5. C
+
+BÀI 17: THOÁT VỊ BẸN ĐÙI
+1. B
+2. C
+3. A
+4. D
+5. C
+
+BÀI 19: RÒ HẬU MÔN
+1. B
+2. C
+3. D
+4. A
+5. a) D, b) C
+
+BÀI 12: VIÊM TÚI THỪA ĐẠI TRÀNG
+1. C
+2. B
+3. D
+4. A
+5. A
+
+BÀI 14: SỎI TÚI MẬT
+1. D
+2. A
+3. B
+4. D
+5. C
+
+BÀI 16: UNG THƯ TẾ BÀO GAN
+1. B
+2. B
+3. D
+4. C
+5. D
+6. B
+7. A
+8. B
+9. A
+10. D
+
+BÀI 18: ÁP XE CẠNH HẬU MÔN
+1. C
+2. A
+3. A
+4. A
+5. B
+
+BÀI 20: BỆNH TRĨ
+1. B
+2. A
+3. A
+4. D
+5. a) D, b) B
+
+NHÀ XUẤT BẢN Y HỌC Chi nhánh Thành phố Hồ Chí Minh 699 Trần Hưng Đạo - Phường 1 - Quận 5 VPGD: 139A Triệu Quang Phục - Phường 11 - Quận 5 Điện thoại: 028-39235648 Email: cnxuatbanyhoc@gmail.com
+
+GIÁO TRÌNH GIẢNG DẠY ĐẠI HỌC
+
+BỆNH HỌC NGOẠI KHOA TIÊU HÓA
+
+Chịu trách nhiệm xuất bản Tổng Giám đốc: Chu Hùng Cường Chịu trách nhiệm nội dung BSCKI. Nguyễn Tiến Dũng
+
+Biên tập: Trần Thúy Hồng Sửa bản in: Trần Thúy Hồng Trình bày bìa: Mai Xuân Hoài Kỹ thuật vi tính: Phan Danh Thanh
+
+Đối tác liên kết xuất bản: Bộ môn Ngoại - Đại học Y Dược TP. Hồ Chí Minh
+
+In 2.500 cuốn khổ 19 x 26,5 cm tại Công ty Cổ phần Thương mại In Nhật Nam, 007 Lô I, KCN Tân Bình, phường Tây Thạnh, quận Tân Phú. Xưởng in: 410 Tân Kỳ Tân Quý, phường Sơn Kỳ, quận Tân Phú, TP. Hồ Chí Minh. Số xác nhận đăng ký xuất bản: 52-2021/CXBIPH/6-03/YH ngày 07/01/2021. Quyết định xuất bản số: 11/QĐ-XBYH ngày 22/01/2021. In xong và nộp lưu chiều năm 2021. Mã ISBN: 978-604-66-4742-3
+
+NHÀ XUẤT BẢN Y HỌC
+CHI NHÁNH THÀNH PHỐ HỒ CHÍ MINH
+Địa chỉ: 699 Trần Hưng Đạo - Phường 1 - Quận 5
+VPGD: 139A Triệu Quang Phục - Phường 11 - Quận 5
+Điện thoại: 028.3923 5648
+Email: cnxuatbanyhoc@gmail.com
+
+## NỘI DUNG
+Quyển sách này tổng hợp các kiến thức cơ bản và hệ thống về Bệnh học Ngoại khoa Tiêu hóa. Những kiến thức mới được cập nhật thêm phù hợp với thực tiễn Ngoại khoa tại Việt Nam.
+
+## NGƯỜI ĐỌC
+Quyển sách là tài liệu dành cho sinh viên Y khoa nói chung và chủ yếu dành cho sinh viên năm thứ 3 và năm thứ 6 nói riêng. Kiến thức trong quyển sách phục vụ cho sinh viên ôn bài để tham dự các kỳ kiểm tra tín chỉ và tốt nghiệp Y khoa.
+
+Mặt khác, các bài viết trong quyển sách Bệnh học Ngoại khoa Tiêu hóa bao gồm những nội dung cần thiết nhất cho thực hành Y khoa của bác sĩ lâm sàng, bác sĩ gia đình và bác sĩ Ngoại Tổng Quát.
+
+## BAN BIÊN TẬP
+Tất cả các bài viết là sự nỗ lực của tập thể giảng viên Bộ môn Ngoại nhằm mang đến kiến thức đã được chất lọc và minh chứng bằng thực hành Ngoại khoa. Quyển sách này được biên tập bởi hai chủ biên Phan Minh Trí và Đỗ Đình Công, đây là những giảng viên có nhiều năm kinh nghiệm trong giáo dục Y khoa và thực hành Ngoại khoa.
+
+ISBN: 978-604-66-4742-3
+Giá: 290.000 đ

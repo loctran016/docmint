@@ -56,6 +56,286 @@ LỜI NÓI ĐẦU ..............................................................
 9. CÁC CÂU HỎI TỔNG HỢP – ỨNG DỤNG LÂM SÀNG .................. 171
 10. ĐÁP ÁN ................................................................................................. 189
 
+# Module GIẢI PHẪU ĐẠI CƯƠNG
+
+1. Giải phẫu học là môn học nghiên cứu về các vấn đề sau, **ngoại trừ**:
+    A. Cấu tạo của cơ thể
+    B. Liên quan giữa các cơ quan trong cơ thể
+    C. Liên quan giữa cơ thể với môi trường
+    D. Sự biến đổi của cơ thể khi bị bệnh
+
+2. Ngày nay, phương tiện tốt nhất để học Giải phẫu là:
+    A. Xác
+    B. Phần mềm vi tính
+    C. Phim video
+    D. Mô hình
+
+3. Mặt phẳng đứng dọc giữa
+    A. Song song với mặt phẳng trán
+    B. Chia cơ thể thành hai phần trước và sau
+    C. Chia cơ thể thành hai phần phải và trái
+    D. Chia cơ thể thành hai nửa phải và trái tương đương
+
+4. Trong giải phẫu, để xác định vị trí “trong – ngoài” ta căn cứ vào
+    A. Mặt phẳng ngang
+    B. Mặt phẳng đứng ngang
+    C. Mặt phẳng đứng dọc
+    D. Mặt phẳng đứng dọc giữa
+
+5. Mặt phẳng đứng ngang là mặt phẳng
+    A. Chia cơ thể thành hai phần trước và sau
+    B. Chia cơ thể thành hai phần trên và dưới
+    C. Song song với mặt phẳng đứng dọc
+    D. Song song với mặt phẳng ngang
+
+6. Đặc điểm nào sau đây **không đúng** với mặt phẳng ngang?
+    A. Thẳng góc với mặt phẳng đứng dọc
+    B. Song song với mặt đất
+    C. Song song với mặt phẳng đứng ngang
+    D. Chia cơ thể thành hai phần trên và dưới
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+7. Đặc điểm nào sau đây không đúng với mặt phẳng đứng dọc giữa?
+- A. Đi qua đường giữa cơ thể
+- B. Thẳng góc với mặt phẳng đứng ngang
+- C. Chia cơ thể thành hai nửa phải và trái
+- D. Có nhiều mặt phẳng đứng dọc giữa song song nhau
+
+8. Động tác nào sau đây đưa một chi ra xa đường giữa cơ thể?
+- A. Sấp
+- B. Ngửa
+- C. Dạng
+- D. Khép
+
+9. Người đưa ra quan điểm học Giải phẫu cần phải mổ xác người là ai?
+- A. Hippocrates
+- B. Andreas Vesalius
+- C. Henry Gray
+- D. Frank Netter
+
+10. Trong một bài Giải phẫu, người ta mô tả các lớp cơ từ nông vào sâu và mô tả mạch máu, thần kinh đi trong các lớp cơ này. Đây là cách mô tả của?
+- A. Giải phẫu học hệ thống
+- B. Giải phẫu học định khu
+- C. Giải phẫu học cắt ngang
+- D. Giải phẫu học lâm sàng
+
+11. Tên gọi “hàm trên, hàm dưới” trong giải phẫu là dựa vào?
+- A. Mặt phẳng ngang
+- B. Mặt phẳng đứng ngang
+- C. Mặt phẳng đứng dọc
+- D. Mặt phẳng đứng dọc giữa
+
+12. Mặt phẳng trán là cách gọi khác của mặt phẳng nào?
+- A. Mặt phẳng ngang
+- B. Mặt phẳng đứng ngang
+- C. Mặt phẳng đứng dọc
+- D. Mặt phẳng đứng dọc giữa
+
+13. Khi mô tả vị trí của hai xương cẳng tay, người ta nói rằng xương trụ ở trong xương quay. Điều này dựa vào mặt phẳng nào?
+- A. Mặt phẳng ngang
+- B. Mặt phẳng đứng ngang
+
+C. Mặt phẳng đứng dọc
+D. Mặt phẳng đứng dọc giữa
+14. Trên một hình vẽ giải phẫu cho thấy tim ở giữa, hai bên là phổi phải và phổi trái. Vậy hình vẽ này dựa trên mặt cắt nào sau đây?
+A. Mặt cắt ngang hoặc mặt cắt đứng dọc
+B. Mặt cắt ngang hoặc mặt cắt đứng dọc giữa
+C. Mặt cắt ngang hoặc mặt cắt đứng ngang
+D. Mặt cắt đứng ngang hoặc mặt cắt đứng dọc giữa
+15. Mặt gan tay còn được gọi là mặt trước của bàn tay. Người ta gọi như vậy là dựa vào mặt phẳng nào?
+A. Mặt phẳng ngang
+B. Mặt phẳng đứng ngang
+C. Mặt phẳng đứng dọc
+D. Mặt phẳng đứng dọc giữa
+16. Trong các mức độ tổ chức của cơ thể, cá thể là mức độ tổ chức cao nhất. Điểm đặc trưng của cá thể là gì?
+A. Tự trao đổi chất
+B. Tự hô hấp được
+C. Hoạt động độc lập với cá thể khác
+D. Được hình thành từ nhiều hệ cơ quan
+17. Đơn vị sống nhỏ nhất của cơ thể là gì?
+A. Cá thể
+B. Tế bào
+C. Phân tử
+D. Bào quan
+18. Tên gọi “cơ gấp ngón cái dài” được đặt dựa vào
+A. Chức năng của cơ
+B. Hình dạng của cơ
+C. Chức năng và vị trí của cơ
+D. Chức năng và hình dạng của cơ
+19. Tên gọi “cơ răng sau trên” là dựa vào?
+A. Chức năng của cơ
+B. Hình dạng của cơ
+C. Hình dạng và vị trí của cơ
+D. Chức năng và vị trí của cơ
+
+**TRẮC NGHIỆM GIẢI PHẪU HỌC**
+
+**20.** Trên thiết đồ cắt ngang, ta có thể xác định mối liên quan nào sau đây giữa hai cấu trúc?
+- **A.** Trước – sau và trong – ngoài
+- **B.** Trên – dưới và trước – sau
+- **C.** Trên – dưới
+- **D.** Trong – ngoài
+
+**21.** Trên thiết đồ cắt đứng ngang, ta có thể xác định mối liên quan nào sau đây giữa hai cấu trúc?
+- **A.** Trước – sau và trong – ngoài
+- **B.** Trên – dưới và trong – ngoài
+- **C.** Trên – dưới
+- **D.** Trong – ngoài
+
+**22.** Chức năng nào sau đây không phải là chức năng của xương?
+- **A.** Bảo vệ
+- **B.** Dự trữ khoáng chất
+- **C.** Điều hòa huyết áp
+- **D.** Tạo máu
+
+**23.** Xương nào sau đây thuộc nhóm xương phụ?
+- **A.** Xương vai
+- **B.** Xương ức
+- **C.** Xương sườn
+- **D.** Xương móng
+
+**24.** Về hình dạng, xương nào sau đây thuộc nhóm xương dẹt?
+- **A.** Các xương ở cổ tay
+- **B.** Xương sườn
+- **C.** Xương bàn chân
+- **D.** Xương ngón chân
+
+**25.Xương nào sau đây có vai trò làm giảm lực ma sát của các gân cơ?
+- **A.** Xương bàn
+- **B.** Xương đốt ngón
+- **C.** Xương vừng
+- **D.** Xương phụ
+
+**26.** Vị trí nào sao đây là nơi tập trung nhiều mô xương đặc?
+- **A.** Bờ các xương dẹt
+- **B.** Trung tâm các xương dẹt
+- **C.** Đầu các xương dài
+
+**D.** Thân các xương dài
+
+**27.** Đặc tính nào sau đây không thuộc về xương xốp?
+- **A.** Tập trung ở xương dẹt, đầu xương dài
+- **B.** Tủy của xương xốp là loại tủy đỏ
+- **C.** Không hiện diện ở thân xương dài
+- **D.** Có vai trò hấp thu lực tác động lên xương
+
+**28.** Nhìn chung, vị trí nào sau đây thường là nơi bám của các gân cơ?
+- **A.** Chỏm
+- **B.** Lồi cầu
+- **C.** Mào
+- **D.** Mỏm trên lồi cầu
+
+**29.** Hình dạng của diện khớp phù hợp với
+- **A.** Cấu tạo của khớp
+- **B.** Cử động của khớp
+- **C.** Vị trí của khớp
+- **D.** Kích thước của khớp
+
+**30.** Đặc tính nào sau đây đúng với sụn?
+- **A.** Không có màng sụn
+- **B.** Không có mạch máu riêng
+- **C.** Dễ lành sau chấn thương
+- **D.** Thành phần chủ yếu là sợi collagen
+
+**31.** Sụn chun hiện diện ở cấu trúc nào sau đây?
+- **A.** Khí quản
+- **B.** Loa tai
+- **C.** Đĩa gian đốt sống
+- **D.** Chỏm xương đùi
+
+**32.** Ở thân xương dài, thành phần chính của vỏ xương là?
+- **A.** Mô xương đặc
+- **B.** Mô xương xốp
+- **C.** Màng xương
+- **D.** Tổ chức sợi
+
+**33.** Trên xương dài, hành xương là vùng ở vị trí nào sau đây?
+- **A.** Trên bề mặt đầu xương
+- **B.** Giữa đầu xương và sụn khớp
+- **C.** Mặt trong ống tủy
+- **D.** Giữa đầu xương và thân xương
+
+# TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+34. Sẹo sụn tiếp hợp hình thành do
+- A. Sự liền chỗ gãy ở đầu xương
+- B. Sự liền chỗ gãy ở sụn khớp
+- C. Sự hóa xương của sụn tiếp hợp
+- D. Sự hóa xương của sụn khớp
+
+35. Sẹo sụn tiếp hợp xuất hiện thời điểm nào?
+- A. Sau gãy xương đã lành
+- B. Sau bong sụn khớp đã lành
+- C. Khi đến tuổi dậy thì
+- D. Khi đến tuổi trưởng thành
+
+36. Sụn khớp là loại sụn nào?
+- A. Sụn trong
+- B. Sụn chun
+- C. Sụn xơ
+- D. Sụn tiếp hợp
+
+37. Ở người trưởng thành, thành phần chủ yếu của tủy xương trong ống tủy là gì?
+- A. Tế bào máu
+- B. Chất khoáng
+- C. Mỡ
+- D. Tế bào tạo xương
+
+38. Đặc tính nào sau đây không đúng với màng xương ngoài của xương dài?
+- A. Phủ hầu hết trên bề mặt xương
+- B. Không có mạch máu
+- C. Có chức năng giúp xương gãy mau lành
+- D. Còn là nơi bám của gân cơ, dây chằng
+
+39. Hiện tượng nào sau đây xảy ra trước nhất trong quá trình liền xương?
+- A. Hình thành các bè xương xốp
+- B. Hình thành các sợi collagen
+- C. Chảy máu và hình thành khối máu tụ
+- D. Hấp thụ các tế bào chết vùng xương gãy
+
+40. Phần ngoài của vỏ xương được cấp máu bởi động mạch nào?
+- A. Động mạch màng xương ngoài
+- B. Động mạch nuôi xương
+- C. Động mạch hành xương
+- D. Động mạch đầu xương
+
+41. Sụn tiếp hợp là lớp sụn là lớp sụn trong nằm ở đâu?
+- A. Đầu các xương dài, nơi khớp với các xương khác
+- B. Hành xương dài, nơi tiếp giáp giữa đầu xương và thân xương
+- C. Dưới màng ngoài xương của thân xương dài
+- D. Trên bề mặt của ống tủy của thân xương dài
+42. Loại khớp nào sau đây hiện diện nhiều nhất trong cơ thể?
+- A. Khớp hoạt dịch
+- B. Khớp dây chằng
+- C. Khớp sụn
+- D. Khởi màng gian cốt
+43. Khớp nào sau đây không có khả năng cử động?
+- A. Khớp dây chằng
+- B. Khớp đường ráp
+- C. Khớp sụn
+- D. Khớp hoạt dịch
+44. Chọn lựa nào sau đây phù hợp nhất đối với khớp giữa các xương cổ tay?
+- A. Khớp động
+- B. Khớp xoay
+- C. Khớp sụn
+- D. Khớp yên ngựa
+45. Chọn lựa nào sau đây phù hợp nhất đối với khớp giữa xương thuyền và đầu dưới xương quay?
+- A. Khớp xoay
+- B. Khớp sụn
+- C. Khớp sợi
+- D. Khớp lồi cầu
+46. Chọn lựa nào sau đây phù hợp nhất đối với khớp giữa xương thang và xương bàn I ở bàn tay?
+- A. Khớp phẳng
+- B. Khớp xoay
+- C. Khớp yên ngựa
+- D. Khớp bán động
+47. Chọn lựa nào sau đây phù hợp nhất đối với khớp mu?
+- A. Khớp động
+- B. Khớp xoay
+- C. Khớp sụn sợi
+- D. Khớp sợi
+
 # TRẮC NGHIỆM GIẢI PHẪU HỌC
 
 **48. Chọn lựa nào sau đây phù hợp nhất đối với khớp chày mác dưới?**
@@ -100,6 +380,657 @@ LỜI NÓI ĐẦU ..............................................................
 - C. Mạc sâu
 - D. Mạc hoạt dịch
 
+55. Tên gọi cơ răng trước dựa vào đâu?
+A. Vị trí của cơ
+B. Chức năng của cơ
+C. Hình dạng của cơ
+D. Hình dạng và vị trí
+
+56. Cơ nào sau đây được đặt tên dựa theo hình dạng và chức năng?
+A. Cơ nhị đầu cánh tay
+B. Cơ răng sau trên
+C. Cơ duỗi ngón trỏ
+D. Cơ gấp ngón cái ngắn
+
+57. Dựa vào sự phân bố mạch máu, cơ vân xếp thành mấy dạng?
+A. 3 dạng
+B. 4 dạng
+C. 5 dạng
+D. 6 dạng
+
+58. Thông thường, bó mạch thần kinh cho cơ gồm những thành phần nào?
+A. 1 động mạch, 1 tĩnh mạch, 2 thần kinh
+B. 1 động mạch, 2 tĩnh mạch, 1 thần kinh
+C. 2 động mạch, 1 tĩnh mạch, 2 thần kinh
+D. 2 động mạch, 2 tĩnh mạch, 1 thần kinh
+
+59. Sự phân bố thần kinh cho cơ phụ thuộc vào
+A. Vị trí của cơ
+B. Hình dạng của cơ
+C. Chức năng của cơ
+D. Cấu trúc của cơ
+
+60. Cấu trúc nào sau đây nằm giữa cơ và lớp mỡ dưới da
+A. Mạc nông
+B. Mạc sâu
+C. Vách gian cơ
+D. Mạc bọc cơ
+
+61. Một vết thương gây rách da và cơ, cấu trúc còn nguyên vẹn nếu có sẽ là
+A. Mạc nông
+B. Mỡ dưới da
+C. Vách gian cơ
+D. Mạc bọc cơ
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+62. Sự khác biệt giữa thành động mạch và thành tĩnh mạch chủ yếu là
+- A. Cấu trúc của lớp ngoài
+- B. Cấu trúc của lớp giữa
+- C. Cấu trúc của lớp trong
+- D. Cấu trúc của lớp ngoài và lớp trong
+
+63. Lớp mô liên kết hiện diện ở lớp nào của động mạch?
+- A. Lớp ngoài
+- B. Lớp giữa
+- C. Lớp trong
+- D. Lớp ngoài và lớp trong
+
+64. Lớp cơ trơn hiện diện ở lớp nào của động mạch?
+- A. Lớp ngoài
+- B. Lớp giữa
+- C. Lớp trong
+- D. Lớp ngoài và lớp trong
+
+65. Khi ở tư thế đứng, yếu tố nào sau đây giúp máu tĩnh mạch từ chi dưới đổ về tim?
+- A. Trương lực cơ chi dưới
+- B. Trọng lực của cơ thể
+- C. Sức hút của tim
+- D. Áp lực âm của ổ bụng
+
+66. Khi lấy máu xét nghiệm, nơi nào sau đây có nồng độ $CO_2$ trong máu thấp nhất?
+- A. Tĩnh mạch
+- B. Tiểu tĩnh mạch
+- C. Mao mạch
+- D. Mạch bạch huyết
+
+67. Cơ quan nào sau đây chứa mao mạch dạng xoang, có các hồ chứa máu?
+- A. Ruột
+- B. Tim
+- C. Não
+- D. Gan
+
+68. Mạch nào sau đây đổ vào giường mao mạch?
+- A. Động mạch đàn hồi
+- B. Động mạch vào cơ quan
+- C. Tiểu động mạch nhỏ nhất
+- D. Tiểu tĩnh mạch nhỏ nhất
+
+Module GIẢI PHẪU ĐẠI CƯƠNG
+
+69. Mao mạch dạng xuyên thấu được tìm thấy nhiều nhất ở
+- A. Cơ
+- B. Gan
+- C. Ruột non
+- D. Dạ dày
+
+70. Tiểu động mạch được hình thành là do
+- A. Các động mạch hợp nhất lại
+- B. Các mao mạch hợp nhất lại
+- C. Các tĩnh mạch hợp nhất lại
+- D. Các động mạch phân chia nhỏ ra
+
+71. Shunt động mạch tồn tại ở vị trí nào sau đây?
+- A. Mao mạch gan
+- B. Mao mạch lách
+- C. Mao mạch ruột
+- D. Mao mạch cầu thận
+
+72. Khi bị viêm, nhiễm trùng tại mô, cơ thể sẽ đáp ứng bằng cách
+- A. Tiểu cầu tập trung ở mao mạch
+- B. Tiểu cầu tập trung ở tiểu tĩnh mạch
+- C. Bạch cầu tập trung ở tiểu tĩnh mạch
+- D. Bạch cầu tập trung ở tiểu động mạch
+
+73. Một cấu trúc có bản chất là mô liên kết đặc, tổ chức sợi sắp xếp theo từng lớp chạy theo các hướng khác nhau, đó là
+- A. Mạc nông
+- B. Bao
+- C. Mạc sâu
+- D. Tổ chức dưới da
+
+74. Lớp biểu mô lót mặt trong của ống tiêu hóa, đường hô hấp được gọi là
+- A. Lớp niêm mạc
+- B. Lớp thanh mạc
+- C. Lớp dưới thanh mạc
+- D. Lớp bao xơ
+
+75. Nam thanh niên 21 tuổi có một vết rách ở một dải xơ bao quanh cơ cánh tay phải. Cấu trúc nào sau đây bị tổn thương trong trường hợp này?
+- A. Mạc
+- B. Bao gân
+- C. Cân mạc
+
+**TRẮC NGHIỆM GIẢI PHẪU HỌC**
+
+**D. Dây chằng**
+
+**76. Các màng được cấu tạo bởi**
+- **A. Lớp tế bào biểu mô**
+- **B. Các mô liên kết**
+- **C. Tấm dưới da**
+- **D. Tế bào biểu mô và mô liên kết**
+
+**77. Niêm mạc có đặc điểm sau đây, ngoại trừ**
+- **A. Không lót các đường thông với bên ngoài**
+- **B. Ngăn cản các tác nhân gây bệnh**
+- **C. Thực hiện chức năng hấp thu**
+- **D. Có chức năng bài tiết**
+
+**78. Cầu mô liên kết lỏng lẻo của niêm mạc, nối biểu mô với các cấu trúc bên dưới, nâng đỡ các mạch máu và thần kinh được gọi là:**
+- **A. Lớp riêng**
+- **B. Lá riêng**
+- **C. Cơ riêng**
+- **D. Mạc riêng**
+
+**79. Bệnh nhân nam được chẩn đoán bướu phổi phải, trên phim chụp cắt lớp của ngực, hình ảnh khối bướu nằm ở**
+- **A. Bên trên**
+- **B. Bên dưới**
+- **C. Bên phải**
+- **D. Bên trái**
+
+**80. Mạc nối lớn không có đặc điểm nào sau đây?**
+- **A. Dự trữ năng lượng**
+- **B. Cách nhiệt**
+- **C. Bảo vệ**
+- **D. Có thể bị xoắn**
+
+**81. Mặt ngoài của dạ dày được bao bọc bởi**
+- **A. Niêm mạc**
+- **B. Thanh mạc**
+- **C. Phúc mạc thành**
+- **D. Lá riêng**
+
+**82. Bên trong đường hô hấp được lót bởi**
+- **A. Thanh mạc**
+- **B. Trung bì**
+
+C. Niêm mạc
+D. Nội bì
+
+83. Màng nào sau đây không là màng thanh mạc?
+A. Phúc mạc thành
+B. Màng ngoài tim
+C. Màng trong tim
+D. Màng phổi thành
+
+84. Mạc phát triển từ
+A. Trung mô
+B. Ngoại mô
+C. Nội mô
+D. Các khoang cơ thể
+
+85. Các mô liên kết phát triển từ
+A. Ngoại bì
+B. Trung bì
+C. Nội bì
+D. Ngoại bì và trung bì
+
+86. Điều nào sau đây không đúng với thượng bì?
+A. Có thần kinh chi phối
+B. Có nhiều mạch máu
+C. Lót ở hầu hết ống tiêu hóa
+D. Có thể biệt hóa thành thượng bì tuyến
+
+87. Cấu trúc nào sau đây thuộc mô liên kết?
+A. Mô lỏng lẻo
+B. Mô mỡ
+C. Mô lưới
+D. Cả ba loại trên
+
+88. Màng thanh mạc nào sau đây không có lớp thượng bì
+A. Màng phổi
+B. Màng tim
+C. Phúc mạc
+D. Màng hoạt mạc
+
+89. Mô bạch huyết liên kết niêm mạc (MALT) của ống tiêu hóa liên kết với
+A. Lớp niêm mạc
+B. Lá riêng của niêm mạc
+C. Lớp dưới niêm mạc
+D. Lớp thanh mạc
+
+# TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+**90.** Lớp mô tìm thấy ở bề mặt một cơ quan là
+- A. Biểu mô
+- B. Mô liên kết
+- C. Mô cơ
+- D. Mô thần kinh
+
+**91.** Mô làm dạ dày co thắt để tiêu hóa thức ăn là
+- A. Mô biểu mô
+- B. Mô liên kết
+- C. Mô cơ
+- D. Mô thần kinh
+
+**92.** Mô có chức năng nâng đỡ hoặc vận chuyển trong cơ thể là
+- A. Mô biểu mô
+- B. Mô liên kết
+- C. Mô cơ
+- D. Mô thần kinh
+
+**93.** Hai hệ cơ quan điều tiết chức năng của cơ thể bằng xung động thần kinh và kích thích tố (hormone) là:
+- A. Hệ xương và hệ cơ
+- B. Hệ tiêu hóa và hệ tiết niệu
+- C. Hệ thần kinh và hệ nội tiết
+- D. Hệ tuần hoàn và hệ tiết niệu
+
+**94.** Hai hệ cơ quan bảo vệ cơ thể chống tác nhân gây bệnh là
+- A. Da và hệ bạch huyết
+- B. Hệ xương và hệ tuần hoàn
+- C. Hệ tiêu hóa và hệ tiết niệu
+- D. Hệ cơ và hệ nội tiết
+
+**95.** Cấu trúc nào sau đây không phải là tổ chức cơ quan?
+- A. Động mạch
+- B. Gan
+- C. Máu
+- D. Thận
+
+**96.** Tuyến nào sau đây là tuyến ngoại tiết?
+- A. Tuyến nước bọt
+- B. Tuyến giáp
+- C. Tuyến yên
+- D. Tuyến thượng thận
+
+Module GIẢI PHẪU ĐẠI CƯƠNG
+
+97. Loại biểu mô bề mặt có thể thay đổi hình dạng từ tròn đến dẹt là
+    A. Biểu mô vuông
+    B. Biểu mô trụ
+    C. Biểu mô lát tầng
+    D. Biểu mô chuyển tiếp
+
+98. Loại cơ vận động tự ý là
+    A. Cơ tim
+    B. Cơ trơn
+    C. Cơ nội tạng
+    D. Cơ vân
+
+99. Màng thanh mạc bao bọc xoang ngực là
+    A. Màng phổi tạng
+    B. Phúc mạc
+    C. Màng phổi thành
+    D. Mạc treo
+
+100. Lớp mô vững chắc tạo nên gân và dây chằng là
+    A. Mô cơ vân
+    B. Mô liên kết xơ
+    C. Mô xương
+    D. Mô liên kết chun
+
+101. Cơ tạo ra nhu động ruột là
+    A. Cơ bám xương
+    B. Cơ vận động tự ý
+    C. Cơ vân
+    D. Cơ trơn
+
+102. Câu nào nào sai khi nói về tuyến?
+    A. Tuyến nội tiết không có ống tuyến
+    B. Chất tiết của tuyến nội tiết là kích thích tố (hormone)
+    C. Kích thích tố của tuyến nội tiết đi vào mào mạch
+    D. Tuyến giáp là một tuyến ngoại tiết
+
+Module TIM MẠCH
+
+103. Tim và màng ngoài tim nằm trong
+A. Trung thất trên
+B. Trung thất trước
+C. Trung thất giữa
+D. Trung thất sau
+
+104. Về hình thể ngoài của tim, câu nào sau đây đúng?
+A. Đáy tim nằm trên cơ hoành
+B. Trong rãnh gian thất sau có tĩnh mạch tim giữa
+C. Xoang tĩnh mạch vành nằm ở mặt ức sườn của tim
+D. Tâm nhĩ trái có tĩnh mạch phổi và tĩnh mạch chủ trên đổ vào
+
+105. Về động mạch và tĩnh mạch vành, câu nào sau đây sai?
+A. Tĩnh mạch tim lớn đi trong rãnh gian thất trước
+B. Tĩnh mạch tim giữa đổ vào xoang tĩnh mạch vành
+C. Động mạch vành trái cho nhánh động mạch gian thất trước
+D. Nhánh gian thất sau thường xuất phát từ động mạch mũ
+
+106. Về hình thể trong của tim, câu nào sau đây sai?
+A. Giữa hai tâm nhĩ thông nhau qua lỗ bầu dục
+B. Giữa tâm nhĩ và tâm thất cùng bên thông nhau qua lỗ nhĩ – thất
+C. Giữa hai tâm thất ngăn cách nhau bởi vách gian thất
+D. Lỗ động mạch chủ và lỗ động mạch phổi đều có van
+
+107. Về phía sau, tâm nhĩ trái liên quan với
+A. Thực quản
+B. Phế quản chính trái
+C. Phổi và màng phổi
+D. Động mạch chủ ngực
+
+108. Các động mạch vành
+A. Nằm trên bề mặt bao xơ màng ngoài tim
+B. Nằm dưới bao xơ màng ngoài tim
+C. Nằm trong khoang màng ngoài tim
+D. Nằm giữa lá tạng bao thanh mạc màng ngoài tim và bề mặt cơ tim
+
+109. Trong hệ thống động mạch vành, nhánh bờ trái xuất phát từ
+A. Thân chung động mạch vành trái
+B. Động mạch mũ
+C. Động mạch gian thất trước
+D. Động mạch gian thất sau
+
+110. Trong rãnh gian thất trước có động mạch gian thất trước và
+A. Tĩnh mạch tim lớn
+B. Tĩnh mạch tim giữa
+C. Tĩnh mạch tim trước
+D. Tĩnh mạch tim chếch
+
+111. Nút xoang nhĩ
+A. Nằm ở thành trái của tâm nhĩ trái
+B. Nằm ở thành phải của tâm nhĩ phải
+C. Có bản chất là các tế bào thần kinh
+D. Nối với nút nhĩ – thất bởi bó nhĩ – thất
+
+112. Mô tả về các buồng của tim, chi tiết nào sau đây sai?
+A. Đổ vào tâm nhĩ trái có các tĩnh mạch phổi
+B. Thành tâm thất phải dày hơn thành tâm trái
+C. Tâm nhĩ thông với tâm thất cùng bên qua lỗ nhĩ thất
+D. Van nhĩ thất phải còn gọi là van ba lá
+
+113. Rãnh tận cùng
+A. Ở đáy tim và là ranh giới của tâm nhĩ phải và tâm nhĩ trái
+B. Nối bờ phải tĩnh mạch chủ trên và tĩnh mạch chủ dưới
+C. Ở bên trái vách liên nhĩ
+D. Tương ứng với bó nhĩ thất
+
+114. Hố bầu dục
+A. Nằm ở mặt phải vách gian nhĩ
+B. Vừa thuộc tâm nhĩ phải vừa thuộc tâm nhĩ trái
+C. Có viền hố bầu dục giới hạn ở phía trước và trên của hố
+D. Có van của hố bầu dục là phần kéo dài của van tĩnh mạch chủ dưới
+
+115. Hiện tượng nào sau đây xảy ra vào thì tâm trương?
+A. Van hai lá mở
+B. Van động mạch chủ mở
+C. Máu từ tâm thất trái lên động mạch chủ
+D. Máu từ tâm thất phải lên động mạch phổi
+
+# TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+**116. Rãnh gian nhĩ nằm ở**
+A. Mặt ức sườn
+B. Đỉnh tim
+C. Mặt hoành
+D. Đáy tim
+
+**117. Mô tả về mặt ức sườn của tim, điểm nào sau đây sai?**
+A. Liên quan với xương ức và các sụn sườn
+B. Có rãnh vành nằm giữa phần tâm nhĩ và phần tâm thất
+C. Có rãnh gian thất trước chạy dọc giữa hai tâm thất
+D. Có động mạch gian thất trước và tĩnh mạch tim giữa
+
+**118. Mỏm tim thường nằm tương ứng với mức nào sau đây?**
+A. Khoảng gian sườn 3 trên đường trung đòn trái
+B. Khoảng gian sườn 4 trên đường trung đòn trái
+C. Khoảng gian sườn 5 cạnh bờ trái xương ức
+D. Khoảng gian sườn 4 cạnh bờ trái xương ức
+
+**119. Nơi gặp nhau giữa rãnh gian thất trước và rãnh gian thất sau được gọi là**
+A. Khuyết tĩnh tim
+B. Rãnh tận cùng
+C. Xoang ngang
+D. Xoang tĩnh mạch vành
+
+**120. Rãnh gian thất sau của tim nằm ở**
+A. Đáy tim
+B. Mặt trái của tim
+C. Mặt trước của tim
+D. Mặt hoành của tim
+
+**121. Mô tả về hình thể ngoài và liên quan của tim, câu nào sau đây sai?**
+A. Mặt tim hướng ra trước, xuống dưới và sang trái
+B. Đáy tim nằm liên quan với cơ hoành và còn gọi là mặt hoành
+C. Mặt trước tim liên quan với xương ức và các sụn sườn
+D. Mặt trái tim liên quan với phổi và màng phổi trái
+
+**122. Chi tiết giải phẫu nào sau đây chạy từ mặt trước đến mặt hoành của tim?**
+A. Rãnh vành
+B. Rãnh gian thất trước
+C. Rãnh gian thất sau
+D. Rãnh tận cùng
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+C. Van động mạch phổi
+D. Van động mạch chủ
+130. Khi khám tim cho bệnh nhân, bác sĩ nghe âm thổi bất thường ở khoảng gian sườn 2 cạnh bờ trái xương ức. Âm thổi này có khả năng xuất phát từ
+A. Van nhĩ thất trái
+B. Van nhĩ thất phải
+C. Van động mạch phổi
+D. Van động mạch chủ
+131. Vị trí bình thường của lỗ động mạch vành là
+A. Lỗ động mạch vành phải trên đường SJ, lỗ động mạch vành trái dưới đường SJ
+B. Lỗ động mạch vành phải dưới đường SJ, lỗ động mạch vành trái trên đường SJ
+C. Cả lỗ động mạch phải và động mạch vành trái đều ngang đường SJ
+D. Cả lỗ động mạch vành phải và động mạch vành trái đều dưới đường SJ
+132. Xoang động mạch chủ nào sau đây gọi là xoang không vành?
+A. Xoang phải và xoang trái
+B. Xoang phải và xoang sau
+C. Xoang sau
+D. Xoang phải
+133. Về mặt lâm sàng, bờ phải (hay bờ sắc) của tim là ranh giới giữa
+A. Mặt hoành và mặt phổi
+B. Mặt hoành và mặt ức sườn
+C. Mặt ức sườn và mặt phổi
+D. Mặt phổi và mặt đáy
+134. Thông thường, động mạch nào sau đây bị tắc sẽ gây thiếu máu cơ tim ở mặt hoành?
+A. Động mạch vành phải
+B. Động mạch vành trái
+C. Động mạch mũ
+D. Động mạch gian thất trước
+135. Đặc điểm nào sau đây đúng với tĩnh mạch tim giữa?
+A. Đi cùng động mạch gian thất trước
+B. Đi trong rãnh nhĩ thất trái
+C. Đổ vào xoang tĩnh mạch vành
+
+D. Đổ vào tâm nhĩ phải
+136. Đặc điểm nào sau đây đúng với lá thành ngoại tâm mạc thanh mạc?
+A. Nằm trong trung thất giữa
+B. Nối tim với cơ hoành, xương ức
+C. Chỗ dày lên tạo nên dây chằng hoành-ngoại tâm mạc
+D. Nằm ngay trên bề mặt cơ tim và các động mạch vành
+137. Trên lâm sàng, bờ trái của tim chính là ranh giới giữa
+A. Mặt hoành và mặt phổi
+B. Mặt hoành và mặt ức sườn
+C. Mặt ức sườn và mặt phổi
+D. Mặt phổi và đáy tim
+138. Động mạch nào sau đây bị tắc sẽ gây thiếu máu vùng mỏm tim?
+A. Động mạch mũ
+B. Động mạch vành phải
+C. Động mạch gian thất sau
+D. Động mạch gian thất trước
+139. Động mạch gian thất trước đi cùng với
+A. Tĩnh mạch tim lớn
+B. Tĩnh mạch tim nhỏ
+C. Tĩnh mạch tim giữa
+D. Tĩnh mạch tim chếch
+140. Nút nhĩ thất sẽ bị thiếu máu nuôi trong trường hợp tắc động mạch nào sau đây?
+A. Động mạch mũ
+B. Động mạch vành phải
+C. Động mạch vành trái
+D. Động mạch gian thất trước
+141. Trong trường hợp ưu thế trái động mạch vành, mặt hoành thất trái được cấp máu bởi
+A. Động mạch mũ
+B. Động mạch gian thất sau
+C. Động mạch gian thất trước
+D. Động mạch vành phải
+142. Điều nào sau đây đúng đối với mặt dưới của tim?
+A. Tiếp xúc với vòm hoành trái
+B. Có thân chung động mạch vành trái chạy trong rãnh vành
+
+**TRẮC** **NGHIỆM** **GIẢI** **PHẪU** **HỌC**
+
+**C.** **Có** **tĩnh** **mạch** **tim** **lớn** **chạy** **trong** **rãnh** **gian** **thất** **sau**
+
+**D.** **Có** **một** **đoạn** **của** **động** **mạch** **gian** **thất** **trước**
+
+**143.** **Trong** **trường** **hợp** **ưu** **thế** **phải** **động** **mạch** **vành,** **các** **nhánh** **sau** **thất** **trái** **xuất** **phát** **từ** **đâu?**
+
+**A.** **Động** **mạch** **vành** **phải**
+
+**B.** **Động** **mạch** **mũ**
+
+**C.** **Nhánh** **gian** **thất** **sau**
+
+**D.** **Nhánh** **bờ** **trái**
+
+**144.** **Khi** **khám** **tim,** **bác** **sĩ** **sờ** **thấy** **mỏm** **tim** **đập** **ở** **vị** **trí** **nào** **sau** **đây** **thì** **cho** **là** **bình** **thường?**
+
+**A.** **Khoảng** **liên** **sườn** **3** **trên** **đường** **trung** **đòn** **trái**
+
+**B.** **Khoảng** **liên** **sườn** **4** **hoặc** **5** **trên** **đường** **trung** **đòn** **trái**
+
+**C.** **Ngang** **góc** **ức** **trên** **đường** **trung** **đòn** **trái**
+
+**D.** **Ngang** **mỏm** **mũi** **kiếm** **trên** **đường** **trung** **đòn** **trái**
+
+**145.** **Nhánh** **nào** **sau** **đây** **được** **xem** **là** **nhánh** **chính** **của** **động** **mạch** **vành** **phải?**
+
+**A.** **Nhánh** **nút** **xoang**
+
+**B.** **Nhánh** **nón**
+
+**C.** **Nhánh** **gian** **thất** **sau**
+
+**D.** **Nhánh** **bờ** **phải**
+
+[Hình: Tâm thất trái - 2 - 1 - 3 - Tim nhìn từ sau dưới]
+
+Module TIM MẠCH
+
+Dùng hình vẽ trên để trả lời ba câu sau bằng cách điền vào chỗ trống
+146. Chi tiết số 1 là:...
+147. Chi tiết số 2 là:,.
+148. Chi tiết số 3 là:
+149. Nhánh đầu tiên của cung động mạch chủ là
+- A. Động mạch cảnh chung phải
+- B. Động mạch cảnh chung trái
+- C. Thân động mạch cánh tay đầu
+- D. Động mạch dưới đòn trái
+
+150. Động mạch nào sau đây xuất phát trực tiếp từ cung động mạch chủ?
+- A. Động mạch cảnh chung phải
+- B. Động mạch dưới đòn phải
+- C. Động mạch dưới đòn trái
+- D. Động mạch cảnh trong trái
+
+151. Tĩnh mạch đơn đổ vào đâu?
+- A. Tâm nhĩ trái
+- B. Tĩnh mạch chủ trên
+- C. Tĩnh mạch chủ dưới
+- D. Tâm nhĩ phải
+
+152. Động mạch gian sườn sau xuất phát từ?
+- A. Động mạch chủ ngực
+- B. Động mạch ngực trong
+- C. Động mạch trung thất
+- D. Động mạch ngực ngoài
+
+153. Thân động mạch cánh tay đầu chia thành hai nhánh là?
+- A. Động mạch cảnh chung trái, động mạch cảnh chung phải
+- B. Động mạch cảnh chung trái, động mạch dưới đòn trái
+- C. Động mạch cảnh chung phải, động mạch dưới đòn phải
+- D. Động mạch cảnh trong phải; động mạch cảnh ngoài phải
+
+154. Cung động mạch chủ cho thân động mạch cánh tay đầu và?
+- A. Động mạch cảnh chung phải, động mạch cảnh chung trái
+- B. Động mạch cảnh chung phải, động mạch dưới đòn phải
+- C. Động mạch cảnh chung trái, động mạch dưới đòn trái
+- D. Động mạch dưới đòn phải, động mạch dưới đòn trái
+
+# TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+155. Ở vị trí ngang đốt sống cổ 3, trong bao cảnh có chứa các thành phần nào sau đây?
+- A. Động mạch cảnh chung, tĩnh mạch cảnh trong, thần kinh lang thang
+- B. Động mạch cảnh trong, tĩnh mạch cảnh trong, thần kinh lang thang
+- C. Động mạch cảnh chung, tĩnh mạch cảnh trong, thân giao cảm cổ
+- D. Động mạch cảnh trong, tĩnh mạch cảnh trong, thân giao cảm cổ
+
+156. Động mạch cảnh chung chia thành động mạch cảnh ngoài ở ngang mức
+- A. Đốt sống cổ C2
+- B. Đốt sống cổ C1
+- C. Bờ trên sụn giáp
+- D. Bờ dưới sụn giáp
+
+157. Vị trí xuất phát của động mạch cảnh trong và động mạch cảnh ngoài thường ở ngang mức với bộ phận nào?
+- A. Sụn nhẫn
+- B. Xương móng
+- C. Đốt sống cổ 4
+- D. Đốt sống cổ 6
+
+158. Chọn câu đúng:
+- A. Ở vùng cổ, động mạch cảnh ngoài đi kèm với tĩnh mạch cảnh ngoài
+- B. Động mạch cảnh trong không cho nhánh bên ở vùng cổ
+- C. Đi cùng với bó mạch cảnh trong bao cảnh là thần kinh hoành và thần kinh lang thang
+- D. Động mạch cảnh trong cấp máu cho hầu hết phần mềm ở đầu và cổ
+
+159. Tiêu chuẩn chắc chắn nhất để phân biệt động mạch cảnh ngoài và động mạch cảnh trong ở vùng cổ là gì?
+- A. Động mạch cảnh ngoài nằm phía ngoài động mạch cảnh trong
+- B. Động mạch cảnh ngoài nằm phía sau động mạch cảnh trong
+- C. Động mạch cảnh ngoài có nhánh bên ở cổ
+- D. Động mạch cảnh ngoài đi cùng với tĩnh mạch cảnh ngoài
+
+160. Động mạch cảnh chung thường chia đôi thành động mạch cảnh trong và động mạch cảnh ngoài ở?
+- A. Tam giác dưới hàm
+- B. Tam giác chẩm
+- C. Tam giác cảnh
+- D. Tam giác vai đòn
+
+Module TIM MẠCH
+
+161. Động mạch nào sau đây không phải là nhánh của động mạch cảnh trong?
+A. Động mạch não trước
+B. Động mạch não giữa
+C. Động mạch não sau
+D. Động mạch mạch mạc trước
+
+162. Các động mạch sau đây là nhánh của động mạch cảnh ngoài, ngoại trừ?
+A. Động mạch mặt
+B. Động mạch lưỡi
+C. Động mạch giáp dưới
+D. Động mạch hầu lên
+
+163. Về động mạch cảnh ngoài, câu nào sau đây sai?
+A. Động mạch cảnh ngoài bắt đầu từ bờ trên sụn giáp
+B. Ở chỗ xuất phát, động mạch cảnh ngoài nằm phía ngoài động mạch cảnh trong
+C. Động mạch cảnh ngoài không nằm trong bao cảnh
+D. Động mạch cảnh ngoài cấp máu cho tuyến giáp qua động mạch giáp trên
+
+164. Động mạch cảnh ngoài có đặc điểm gì?
+A. Là động mạch chính cấp máu cho các cơ, tuyến vùng đầu, mặt, cổ
+B. Vùng mang tai, đi xuyên qua phần nông tuyến mang tai
+C. Cấp máu cho tuyến giáp bằng động mạch giáp trên và động mạch giáp dưới
+D. Chia thành hai nhánh tận ở ngang bờ trên sụn giáp
+
+165. Liên quan giữa động mạch cảnh ngoài và cơ hai thân, câu nào sau đây đúng?
+A. Bụng trước cơ hai thân bắt chéo phía ngoài động mạch cảnh ngoài
+B. Bụng trước cơ hai thân đi phía trong động mạch cảnh ngoài
+C. Bụng sau cơ hai thân bắt chéo phía ngoài động mạch cảnh ngoài
+D. Bụng sau cơ hai thân đi phía trong động mạch cảnh ngoài
+
+166. Nhánh bên đầu tiên của động mạch cảnh ngoài là
+A. Động mạch giáp trên
+B. Động mạch lưỡi
+C. Động mạch mặt
+D. Động mạch tai sau
+
+167. Khi cần thắt động mạch giáp trên trong phẫu thuật tuyến giáp, cần chú ý nhánh ngoài thần kinh thanh quản trên vì
+A. Thần kinh nằm phía ngoài động mạch
+
 TRẮC NGHIỆM GIẢI PHẪU HỌC
 
 B. Thần kinh nằm phía sau động mạch
@@ -141,6 +1072,86 @@ A. Động mạch hầu lên
 B. Động mạch đốt sống
 C. Động mạch lưỡi
 D. Động mạch mặt
+
+# Module TIM MẠCH
+
+**174.** Động mạch cảnh ngoài chia thành hai nhánh tận là động mạch hàm và động mạch thái dương nông ở vị trí nào?
+A. Phía sau cổ xương hàm dưới
+B. Ngang gốc hàm dưới
+C. Ngang bờ trên sụn giáp
+D. Phía trước lỗ tai ngoài
+
+**175.** Sau khi đi qua khỏi cổ xương hàm dưới, động mạch hàm đi ngang qua mặt ngoài của?
+A. Cơ chân bướm trong
+B. Cơ hàm móng
+C. Cơ chân bướm ngoài
+D. Cơ cắn
+
+**176.** Động mạch dưới ổ mắt là nhánh của?
+A. Động mạch mặt
+B. Động mạch mắt
+C. Động mạch trên ổ mắt
+D. Động mạch hàm
+
+**177.** Động mạch nào sau đây xuất phát từ động mạch hàm trước khi động mạch này đi bắt ngang qua cơ chân bướm ngoài?
+A. Động mạch huyết răng dưới
+B. Động mạch huyết răng trên sau
+C. Động mạch cơ cắn
+D. Động mạch khẩu cái xuống
+
+**178.** Sau khi đi qua khỏi cơ chân bướm ngoài, động mạch hàm cho nhánh nào sau đây?
+A. Động mạch má
+B. Động mạch bướm khẩu cái
+C. Động mạch thái dương sâu
+D. Động mạch màng não giữa
+
+**179.** Động mạch ngang mặt là nhánh của
+A. Động mạch mặt
+B. Động mạch thái dương nông
+C. Động mạch hàm
+D. Động mạch gốc
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+180. Khi cần, ta có thể bắt mạch ở phía trên mỏm gò má, ngay trước lỗ tai ngoài
+Đó là vị trí của động mạch nào?
+A. Động mạch ngang mặt
+B. Động mạch mặt
+C. Động mạch thái dương nông
+D. Động mạch thái dương sâu
+
+181. Một động mạch đi vào tuyến mang tai từ sau ra trước rồi bắt chéo phía ngoài cơ cắn và ở phía dưới cung gò má, đó là
+A. Động mạch ngang mặt
+B. Động mạch cơ cắn
+C. Động mạch hàm
+D. Động mạch má
+
+182. Thân động mạch cánh tay đầu chia thành động mạch cảnh chung phải và động mạch dưới đòn phải ở ngang vị trí
+A. Sau khớp sụn sườn 1 bên phải
+B. Sau khớp ức đòn bên phải
+C. Bờ trên mỏm gai đốt sống cổ 4
+D. Bờ trên xương đòn bên phải
+
+183. Sau khi cho nhánh động mạch giáp trên, động mạch cảnh ngoài sẽ cho nhánh kế tiếp là
+A. Động mạch lưỡi
+B. Động mạch mặt
+C. Động mạch hầu lên
+D. Động mạch hàm
+
+184. Về các động mạch cảnh, câu nào sau đây đúng?
+A. Hai động mạch cảnh chung xuất phát từ cung động mạch chủ
+B. Động mạch cảnh chung tận hết ở ngang mức củ cảnh
+C. Ở vùng cổ, động mạch cảnh ngoài đi kèm với tĩnh mạch cảnh ngoài
+D. Ở vùng cổ, động mạch cảnh trong không cho nhánh bên
+
+185. Động mạch môi dưới là nhánh bên của
+A. Động mạch lưỡi
+B. Động mạch mặt
+C. Động mạch hàm
+D. Động mạch bướm khẩu cái
+
+186. Thành phần nào sau đây đi trong phần sâu tuyến nước bọt mang tai?
+A. Động mạch hàm
 
 B. Thần kinh lang thang
 C. Động mạch cảnh ngoài
@@ -185,6 +1196,81 @@ D. Thần kinh mặt
 193. Động mạch dưới đòn khi đi qua khe sườn đòn thì đổi tên thành gì?
 - A. Động mạch nách
 - B. Động mạch cánh tay
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+C. Động mạch ngực trong
+D. Động mạch trên vai
+194. Động mạch nào sau đây xuất phát từ động mạch dưới đòn?
+A. Động mạch ngực ngoài
+B. Động mạch ngực trong
+C. Động mạch ngực trên
+D. Động mạch cùng vai ngực
+195. Động mạch nào sau đây xuất phát trực tiếp từ cung động mạch chủ?
+A. Động mạch cảnh chung phải
+B. Động mạch dưới đòn phải
+C. Động mạch dưới đòn trái
+D. Động mạch cảnh trong trái
+196. Khi mô tả đường đi và liên quan của động mạch dưới đòn, người ta chia động mạch dưới đòn thành ba đoạn dựa vào?
+A. Cơ thang
+B. Cơ ức đòn chũm
+C. Cơ bậc thang trước
+D. Cơ bậc thang giữa
+197. Động mạch màng ngoài tim hoành là nhánh của
+A. Động mạch cơ hoành
+B. Động mạch ngực trong
+C. Động mạch trung thất
+D. Động mạch chủ ngực
+198. Về động mạch ngực trong, điều nào sau đây sai?
+A. Xuất phát từ động mạch dưới đòn ở đoạn sau cơ bậc thang
+B. Cho nhánh động mạch thượng vị trên
+C. Góp phần cấp máu cho cơ hoành
+D. Nối với động mạch chủ ngực qua các động mạch gian sườn
+199. Động mạch đốt sống là nhánh bên của
+A. Động mạch dưới đòn
+B. Động mạch cảnh chung
+C. Động mạch cảnh trong
+D. Động mạch cánh tay đầu
+200. Mô tả động mạch dưới đòn, câu nào sau đây sai?
+A. Động mạch dưới đòn đi trong rãnh dưới đòn của xương đòn
+B. Động mạch dưới đòn phải xuất phát từ thân động mạch cánh tay đầu
+
+Module TIM MẠCH
+
+C. Động mạch dưới đòn trái xuất phát từ cung động mạch chủ
+D. Động mạch dưới đòn trái dài hơn động mạch dưới đòn phải
+201. Động mạch nào sau đây không phải là nhánh của động mạch dưới đòn?
+A. Thân giáp cổ
+B. Thân sườn cổ
+C. Động mạch dưới vai
+D. Động mạch ngực trong
+202. Tĩnh mạch cảnh ngoài đổ vào
+A. Tĩnh mạch dưới đòn
+B. Tĩnh mạch cảnh trước
+C. Tĩnh mạch cảnh trong
+D. Tĩnh mạch tay đầu
+203. Tĩnh mạch tay đầu được hình thành do sự hợp lưu giữa
+A. Tĩnh mạch cảnh trong và tĩnh mạch cảnh ngoài
+B. Tĩnh mạch cảnh trong và tĩnh mạch cảnh trước
+C. Tĩnh mạch cảnh trong và tĩnh mạch cảnh dưới đòn
+D. Tĩnh mạch cảnh trong và tĩnh mạch sau hàm
+204. Tĩnh mạch nào sau đây đi bắt chéo phía ngoài cơ ức đòn chũm?
+A. Tĩnh mạch cảnh trước
+B. Tĩnh mạch cảnh trong
+C. Tĩnh mạch cảnh sau
+D. Tĩnh mạch cảnh ngoài
+205. Các tĩnh mạch sau đây được xem là nhóm các tĩnh mạch nông của đầu mặt cổ, ngoại trừ?
+A. Tĩnh mạch mặt chung
+B. Tĩnh mạch sau hàm
+C. Tĩnh mạch giáp trên
+D. Tĩnh mạch cảnh ngoài
+206. Tĩnh mạch mặt chung được tạo thành từ
+A. Tĩnh mạch mặt và nhánh trước tĩnh mạch sau hàm
+B. Tĩnh mạch mặt và nhánh sau tĩnh mạch sau hàm
+C. Tĩnh mạch mặt và tĩnh mạch thái dương nông
+D. Tĩnh mạch mặt và tĩnh mạch cảnh ngoài
+207. Tĩnh mạch mặt chung đổ về
+A. Tĩnh mạch cảnh ngoài
+B. Tĩnh mạch cảnh trong
 
 TRẮC NGHIỆM GIẢI PHẪU HỌC
 
@@ -740,6 +1826,87 @@ TRẮC NGHIỆM GIẢI PHẪU HỌC
 
 Module TIM MẠCH
 
+B. Động mạch cánh tay sâu
+C. Động mạch mũ cánh tay trước
+D. Động mạch mũ cánh tay sau
+
+301. Ở vòng nối quanh khuỷu, động mạch bên giữa nối với
+A. Động mạch bên trụ trên
+B. Động mạch quặt ngược gian cốt
+C. Động mạch quặt ngược quay
+D. Động mạch quặt ngược trụ
+
+302. Ở vòng nối quanh khuỷu, động mạch bên quay nối với
+A. Động mạch quặt ngược trụ
+B. Động mạch quặt ngược quay
+C. Động mạch bên trụ trên
+D. Động mạch quặt ngược gian cốt
+
+303. Ở vòng nối quanh khuỷu, động mạch bên trụ dưới nối với
+A. Động mạch quặt ngược trụ
+B. Động mạch bên giữa
+C. Động mạch bên quay
+D. Động mạch quặt ngược quay
+
+304. Động mạch nào sau đây không tham gia vào vòng nối quanh mỏm trên lồi cầu ngoài xương cánh tay?
+A. Động mạch quặt ngược trụ
+B. Động mạch bên giữa
+C. Động mạch bên quay
+D. Động mạch quặt ngược gian cốt
+
+305. Động mạch nào sau đây không tham gia vào vòng nối quanh ngực?
+A. Động mạch cùng vai ngực
+B. Động mạch ngực lưng
+C. Động mạch ngực ngoài
+D. Động mạch ngực trong
+
+306. Vị trí nào sau đây trên động mạch nách được khuyên không nên thắt để cầm máu khi phẫu thuật vì có thể gây thiếu máu bên dưới chỗ thắt?
+A. Đoạn từ bờ dưới xương đòn đến nơi xuất phát của động mạch cùng vai ngực
+B. Đoạn từ động mạch cùng vai ngực đến nơi xuất phát của động mạch ngực ngoài
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+C. Đoạn từ động mạch dưới vai đến nơi xuất phát động mạch mũ cánh tay trước
+D. Đoạn từ động mạch mũ cánh tay trước đến nơi xuất phát động mạch mũ cánh tay sau
+
+307. Động mạch cánh tay sâu có các đặc điểm sau đây, ngoại trừ
+A. Là một nhánh của động mạch cánh tay
+B. Chui qua lỗ tam giác vai tam đầu
+C. Đi trong rãnh thần kinh quay cùng với thần kinh quay
+D. Có hai nhánh tận là động mạch bên giữa và động mạch bên quay
+
+308. Động mạch bên trụ trên là nhánh của động mạch nào sau đây?
+A. Động mạch trụ
+B. Động mạch cánh tay
+C. Động mạch cánh tay sâu
+D. Động mạch mũ cánh tay sau
+
+309. Động mạch trụ có các đặc điểm sau đây, ngoại trừ
+A. Ở cẳng tay, đi phía trong thần kinh trụ
+B. Đến bàn tay, đi phía trước mạc giữ gân gấp
+C. Là động mạch chính tạo nên cung gan tay nông
+D. Cho nhánh nối với động mạch quay
+
+310. Cung động mạch gan tay nông được tạo bởi
+A. Động mạch trụ và động mạch quay ngón trỏ
+B. Động mạch trụ và nhánh gan tay nông của động mạch quay
+C. Động mạch trụ và nhánh gan cổ tay của động mạch quay
+D. Động mạch trụ và động mạch ngón cái chính
+
+311. Cung động mạch gan tay sâu được tạo bởi
+A. Động mạch trụ và động mạch quay ngón trỏ
+B. Động mạch quay và động mạch gian cốt trước
+C. Động mạch quay và nhánh gan tay sâu của động mạch trụ
+D. Động mạch trụ và nhánh gan cổ tay của động mạch quay
+
+312. Động mạch quay ngón trỏ xuất phát từ bộ phận nào sau đây?
+A. Động mạch trụ
+B. Động mạch quay
+C. Cung gan tay nông
+D. Cung gan tay sâu
+
+Module TIM MẠCH
+
 313. Tĩnh mạch nào sau đây được xếp vào nhóm tĩnh mạch nông của chi trên?
 - A. Tĩnh mạch đầu
 - B. Tĩnh mạch quay
@@ -828,6 +1995,88 @@ Module TIM MẠCH
 
 Module TIM MẠCH
 
+327. Tĩnh mạch hiển bé đổ vào
+A. Tĩnh mạch khoeo
+B. Tĩnh mạch chày trước
+C. Tĩnh mạch chày sau
+D. Tĩnh mạch đùi
+
+328. Động mạch nào sau đây vòng quanh phía trước cổ xương đùi?
+A. Động mạch mũ đùi ngoài
+B. Động mạch mũ đùi trong
+C. Động mạch thẹn trong
+D. Động mạch mũ chậu sâu
+
+329. Động mạch nào sau đây vòng quanh phía sau cổ xương đùi?
+A. Động mạch mũ đùi ngoài
+B. Động mạch mũ đùi trong
+C. Động mạch bịt
+D. Động mạch thẹn trong
+
+330. Động mạch nào sau đây là nhánh của động mạch đùi?
+A. Động mạch chày trước
+B. Động mạch mác
+C. Động mạch gối giữa
+D. Động mạch gối xuống
+
+331. Động mạch chày sau có các đặc điểm sau đây, ngoại trừ
+A. Ở cẳng chân sau, đi trước cơ dép
+B. Đến cổ chân, đi trước gân cơ gấp ngón cái dài
+C. Chia hai nhánh tận ở gan bàn chân
+D. Đi cùng thần kinh chày mác sâu
+
+332. Tĩnh mạch hiển lớn bắt đầu từ
+A. Mu chân
+B. Mặt sau cẳng chân
+C. Cạnh ngoài bàn chân
+D. Cạnh trong bàn chân
+
+333. Động mạch cấp máu chủ yếu cho vùng đùi sau là
+A. Động mạch mông dưới
+B. Động mạch đùi sâu
+C. Động mạch mũ đùi trong
+D. Động mạch bịt
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+334. Động mạch mông trên nối với động mạch đùi sâu qua nhánh động mạch nào?
+A. Động mạch mũ đùi ngoài
+B. Động mạch mũ đùi trong
+C. Động mạch mũ chậu sâu
+D. Động mạch mũ chậu nông
+
+335. Động mạch mông trên nối với động mạch chậu ngoài qua nhánh
+A. Động mạch mũ đùi ngoài
+B. Động mạch mũ đùi trong
+C. Động mạch mũ chậu sâu
+D. Động mạch mũ chậu nông
+
+336. Bệnh nhân được chẩn đoán chèn ép khoang sau cẳng chân, dấu hiệu nào sau đây có thể gặp ở bệnh nhân này?
+A. Tê cạnh trong ngón cái
+B. Tê mu bàn chân
+C. Mất mạch mu chân
+D. Mất mạch sau mắt cá trong
+
+337. Các động mạch cấp máu cho khớp gối xuất phát từ động mạch nào sau đây?
+A. Động mạch gối xuống
+B. Động mạch đùi
+C. Động mạch khoeo
+D. Động mạch chày sau
+
+338. Đoạn ngang của động mạch gan chân ngoài đi
+A. Giữa cơ gấp các ngón chân ngắn và vuông gan chân
+B. Giữa cơ gấp các ngón chân dài và cơ khép ngón cái
+C. Giữa cơ khép ngón cái và cơ gian cốt
+D. Giữa cơ gian cốt mu chân và cơ gian cốt gan chân
+
+339. Mô tả về động mạch chày sau, câu nào sau đây câu đúng?
+A. Động mạch chày sau là động mạch khoeo đổi tên khi qua cung gân cơ dép
+B. Khi qua khỏi mắt cá trong, động mạch chày sau cho hai nhánh tận vào vùng mu chân
+C. Ta có thể sờ thấy được mạch đập của động mạch chày sau ở phía trước mắt cá trong
+D. Động mạch chày sau chia hai nhánh là động mạch gan chân trong và động mạch gan chân ngoài
+
+Module TIM MẠCH
+
 **340. Mô tả động mạch vùng cẳng chân, câu nào sau đây sai?**
 - **A.** Động mạch chày trước và động mạch chày sau là hai nhánh tận của động mạch khoeo
 - **B.** Động mạch chày sau cho nhánh bên là động mạch mác cấp máu cho các cơ khu ngoài
@@ -863,6 +2112,648 @@ Module TIM MẠCH
 - **B.** Động mạch chày trước
 - **C.** Động mạch chày sau
 - **D.** Động mạch mũ đùi trong
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+346. Trong các động mạch tạo nên mạng mạch khớp gối, động mạch nào xuất phát từ động mạch đùi sâu?
+A. Động mạch gối xuống
+B. Động mạch gối giữa
+C. Động mạch mũ đùi ngoài
+D. Động mạch mũ mác
+
+347. Tĩnh mạch nào sau đây đổ trực tiếp vào tĩnh mạch khoeo?
+A. Tĩnh mạch hiển lớn
+B. Tĩnh mạch hiển bé
+C. Tĩnh mạch đùi sâu
+D. Tĩnh mạch mác
+
+348. Động mạch nào sau đây không phải là nhánh của động mạch khoeo?
+A. Động mạch gối trên trong
+B. Động mạch gối dưới trong
+C. Động mạch gối dưới ngoài
+D. Động mạch gối xuống
+
+349. Mô tả động mạch gan chân trong, câu nào sau đây sai?
+A. Là một trong hai nhánh của động mạch chày sau
+B. Đi dọc theo bờ ngoài gân cơ gấp ngón cái dài
+C. Tận hết ở nền đốt bàn I
+D. Nối với động mạch gan đốt bàn chân I
+
+350. Động mạch nào sau đây có hai tĩnh mạch cùng tên đi kèm?
+A. Động mạch đùi
+B. Động mạch khoeo
+C. Động mạch chày trước
+D. Động mạch chậu trong
+
+# Module HÔ HẤP
+
+351. Đường hô hấp trên gồm thành phần nào?
+A. Mũi và hầu
+B. Mũi, hầu và thanh quản
+C. Mũi, hầu, thanh quản và khí quản
+D. Mũi, hầu, thanh quản và khí quản gốc
+
+352. Một bệnh nhân đến khám vì bị khàn tiếng, nếu nghi ngờ bệnh ở đường hô hấp thì cơ quan nào sau đây được nghĩ đến nhiều nhất?
+A. Hầu
+B. Phế quản
+C. Khí quản
+D. Thanh quản
+
+353. Xương nào sau đây góp phần tạo nên vách mũi?
+A. Xương bướm
+B. Xương khẩu cái
+C. Xương lá mía
+D. Xương hàm trên
+
+354. Phần trên của vách mũi được tạo bởi xương nào sau đây?
+A. Xương sàng
+B. Xương bướm
+C. Xương khẩu cái
+D. Xương hàm trên
+
+355. Thành trong ổ mũi được tạo bởi các thành phần sau đây, ngoại trừ?
+A. Sụn vách mũi
+B. Sụn cánh mũi lớn
+C. Xương khẩu cái
+D. Xương lá mía
+
+356. Xương xoăn mũi dưới
+A. Là phần thấp nhất của xương sàng
+B. Tạo nên phần dưới của vách mũi
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+C. Góp phần tạo nên thành ngoài ổ mũi
+D. Tạo nên ngách mũi giữa với thành ngoài ổ mũi
+357. Các xương sau đây có xoang đổ vào ổ mũi, ngoại trừ?
+A. Xương thái dương
+B. Xương bướm
+C. Xương sàng
+D. Xương hàm trên
+358. Xương nào sau đây không có xoang?
+A. Xương trán
+B. Xương mũi
+C. Xương khẩu cái
+D. Xương hàm trên
+359. Ngách mũi trên có lỗ đổ của
+A. Xoang trán, xoang bướm
+B. Xoang bướm, xoang sàng sau
+C. Xoang sàng sau, xoang hàm
+D. Xoang bướm, xoang hàm
+360. Vách mũi được tạo bởi
+A. Xương lá mía, xương sàng, sụn vách mũi, sụn cánh mũi lớn
+B. Xương khẩu cái, xương bướm, sụn vách mũi, sụn cánh mũi nhỏ
+C. Mảnh trong mỏm chân bướm, xương sàng, sụn vách mũi
+D. Mảnh ngoài mỏm chân bướm, xương sàng, sụn vách mũi, sụn cánh mũi lớn
+361. Ngách mũi giữa có lỗ đổ của xoang sàng trước và
+A. Xoang hàm trên, xoang trán
+B. Xoang bướm, xoang sàng sau
+C. Xoang sàng giữa, xoang sàng sau
+D. Xoang bướm, xoang hàm trên
+362. Các phát biểu sau về ổ mũi là đúng, ngoại trừ?
+A. Các xương xoăn mũi ở thành ngoài ổ mũi
+B. Xương sàng góp phần tạo nên trần, thành trong, thành ngoài ổ mũi
+C. Phần trước nền ổ mũi được tạo bởi xương khẩu cái
+D. Một phần thành trên được tạo nên bởi xương lá mía
+363. Điểm mạch (nơi thường hay chảy máu mũi ở một số bệnh nhi) ở vách mũi là nhánh của động mạch nào sau đây?
+A. Nhánh vách của động mạch sàng trước
+
+Module HÔ HẤP
+
+B. Động mạch bướm khẩu cái
+C. Nhánh bên của động mạch sàng trước
+D. Động mạch khẩu cái lớn
+
+364. Điểm mạch (nơi thường hay chảy máu mũi ở một số bệnh nhi) là nhánh của động mạch bướm khẩu cái và nằm ở
+A. Thành ngoài ổ mũi
+B. Quanh lỗ mũi sau
+C. Vách mũi
+D. Trần ổ mũi
+
+365. Điểm mạch (nơi thường hay chảy máu mũi ở một số bệnh nhi) là nhánh nào của động mạch bướm khẩu cái?
+A. Nhánh ngoài trước
+B. Nhánh ngoài sau
+C. Nhánh vách mũi trước
+D. Nhánh vách mũi sau
+
+366. Xoang nào sau đây đổ vào ngách mũi trên ở thành ngoài ổ mũi?
+A. Xoang trán
+B. Xoang sàng trước
+C. Xoang hàm trên
+D. Xoang bướm
+
+367. Xoang cạnh mũi nào sau đây có lỗ đổ vào ngách mũi trên?
+A. Xoang trán
+B. Xoang chũm
+C. Xoang hàm
+D. Xoang sàng sau
+
+368. Xoang nào sau đây không đổ vào ngách mũi giữa?
+A. Xoang trán
+B. Xoang sàng trước
+C. Xoang hàm
+D. Xoang bướm
+
+369. Khí quản chia thành hai phế quản chính trái và phải ở ngang đốt sống nào?
+A. Đốt sống cổ 6 – cổ 7
+B. Đốt sống ngực 4 – ngực 5
+C. Đốt sống ngực 8 – ngực 9
+D. Đốt sống ngực 10 – ngực 11
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+370. Câu sau đây là câu liên quan nhân quả, chọn:
+A. Nếu (I) đúng, (II) đúng, (I) và (II) có liên quan nhân quả;
+B. Nếu (I) đúng, (II) đúng, (I) và (II) không có liên quan nhân quả;
+C. Nếu (I) đúng, (II) sai;
+D. Nếu (I) sai, (II) đúng
+
+(I): Khi viêm xoang hàm trên có thể thấy dịch chảy vào ổ mũi, VÌ:
+(II): Lỗ xoang hàm trên thông với ngách mũi giữa
+
+371. Hố hạnh nhân là một hố nằm giữa hai nếp của khẩu cái mềm trong ổ miệng chính, nếp phía trước là
+A. Lưỡi gà khẩu cái
+B. Cung khẩu cái – hầu
+C. Cung khẩu cái – lưỡi
+D. Nếp khẩu cái – hầu
+
+372. Tuyến hạnh nhân khẩu cái nằm trong hố hạnh nhân, hố hạnh nhân nằm ở vị trí nào?
+A. Ngay sau eo họng
+B. Ngay trước eo họng
+C. Cạnh lỗ hầu vòi tai
+D. Trong khẩu cái mềm
+
+373. Khi mô tả về hầu, câu nào sau đây sai?
+A. Tỵ hầu nằm ngay phía sau lỗ mũi sau và phía trên khẩu cái mềm
+B. Khẩu hầu nằm phía sau ổ miệng, phía trên thanh hầu
+C. Thanh hầu ngay phía sau thanh quản, là cửa ngõ đi vào thực quản
+D. Khoang sau hầu mở vào lồng ngực qua trung thất sau
+
+374. Về ngách hình lê, mô tả nào sau đây đúng?
+A. Nằm ở vùng tiền đình thanh quản, cạnh dây thanh âm
+B. Giới hạn bên ngoài là sụn giáp và màng giáp móng
+C. Giới hạn bên trong là nếp phễu nắp, sụn giáp và sụn phễu
+D. Là ổ dưới thanh môn, bên cạnh khe tiền đình
+
+375. Thành phần nào sau đây đi qua khe giữa cơ khít hầu dưới và cơ khít hầu giữa?
+A. Động mạch giáp dưới
+B. Động mạch thanh quản dưới
+C. Thần kinh thanh quản dưới
+D. Nhánh trong thần kinh thanh quản trên
+
+Module HÔ HẤP
+
+376. Khi mô tả về khoang sau hầu, điểm nào sau đây sai?
+A. Là khoang đóng kín phía trên bởi nền sọ
+B. Là khoang mở thông vào bên dưới qua trung thất trên
+C. Có thành trước là lá trước cột sống của mạc cổ
+D. Mạc má hầu tham gia tạo nên khoang sau hầu
+
+377. Về hầu, mô tả nào sau đây là sai?
+A. Các cơ ở hầu thuộc loại cơ vân
+B. Phía sau có khoang sau hầu mở vào trung thất
+C. Phần khẩu hầu có lỗ hầu vòi tai thông hầu với hòm nhĩ
+D. Chỗ nối với thực quản là chỗ hẹp nhất của hầu
+
+378. Cơ nào sau đây là cơ có nhiệm vụ mở thanh môn?
+A. Cơ nhẫn phễu sau
+B. Cơ giáp phễu
+C. Cơ phễu ngang
+D. Cơ nhẫn giáp
+
+379. Cơ nào sau đây có nhiệm vụ đóng thanh môn?
+A. Cơ nhẫn phễu bên
+B. Cơ giáp phễu
+C. Cơ phễu chéo
+D. Cơ giáp nhẫn
+
+380. Tổn thương đoạn tủy cổ nào sau đây có thể gây liệt cơ hoành?
+A. Tủy cổ 5
+B. Tủy cổ 6
+C. Tủy cổ 7
+D. Tủy cổ 8
+
+381. Cơ nhẫn phễu bên được chi phối bởi thần kinh nào sau đây?
+A. Thần kinh hoành
+B. Thần kinh thanh quản trên
+C. Thần kinh thiệt hầu
+D. Thần kinh thanh quản dưới
+
+382. Về khí quản, câu nào sau đây sai?
+A. Được tạo bởi các vòng sụn hình chữ C
+B. Đi từ cổ vào trung thất
+C. Ở ngực, đi phía trước cung động mạch chủ
+Đ. Chia thành hai phế quản ở khoảng gian đốt sống ngực 4 – ngực 5
+
+57
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+383. Nhu mô phổi được cấp máu bởi động mạch nào sau đây?
+A. Động mạch phổi
+B. Động mạch phế quản
+C. Động mạch cảnh trong
+D. Động mạch dưới đòn
+
+384. Ở đường nách giữa, bờ dưới phổi và màng phổi lần lượt ở ngang mức các xương sườn nào?
+A. 6 và 8
+B. 7 và 9
+C. 8 và 10
+D. 9 và 11
+
+385. So với lồng ngực, đỉnh phổi nằm ở vị trí nào sau đây?
+A. Ở ngang với mặt dưới xương đòn
+B. Ở phía trên xương đòn khoảng 3 cm
+C. Ở phía trên xương sườn 1 khoảng 3 cm
+D. Ở phía dưới xương sườn 1
+
+386. Thông thường, thùy giữa phổi phải có bao nhiêu phân thùy?
+A. 1 phân thùy
+B. 2 phân thùy
+C. 3 phân thùy
+D. 4 phân thùy
+
+387. Về mô tả phổi, câu nào sau đây sai?
+A. Phổi phải có ba thùy, phổi trái có hai thùy
+B. Rốn phổi nằm ở mặt trong của phổi
+C. Đỉnh phổi nằm ngay phía dưới xương đòn
+D. Đáy phổi lõm và liên quan với mặt trên cơ hoành
+
+388. Thành phần nào sau đây không đi qua rốn phổi?
+A. Phế quản chính
+B. Tĩnh mạch phổi
+C. Dây chằng phổi
+D. Động mạch phế quản
+
+389. Thùy dưới phổi phải thường có mấy phân thùy?
+A. Hai phân thùy
+B. Ba phân thùy
+C. Bốn phân thùy
+D. Sáu phân thùy
+
+Module HÔ HẤP
+
+390. Thông thường, thùy dưới phổi trái có mấy phân thùy?
+A. Hai phân thùy
+B. Ba phân thùy
+C. Bốn phân thùy
+D. Sáu phân thùy
+
+391. Chọn câu đúng:
+A. Động mạch phế quản xuất phát từ động mạch dưới đòn
+B. Tĩnh mạch phế quản đổ vào tĩnh mạch dưới đòn
+C. Dây chằng phổi tạo bởi hai lá màng phổi sát vào nhau
+D. Phế quản chính bên phải dài hơn phế quản chính bên trái
+
+392. Mô tả về màng phổi thành, chi tiết nào sau đây đúng?
+A. Lách vào các khe gian thùy
+B. Dính chặt vào nhu mô phổi
+C. Đỉnh màng phổi luôn thấp hơn xương sườn 1
+D. Ngách sườn hoành tương ứng mức xương sườn 10 ở đường nách giữa
+
+393. Mô tả về màng phổi tạng, chi tiết nào sau đây sai?
+A. Dính chặt vào nhu mô phổi
+B. Lách vào các khe gian thùy
+C. Không liên tục với màng phổi thành
+D. Tham gia tạo dây chằng phổi
+
+394. Đặc điểm nào sau đây của màng phổi và ổ màng phổi là đúng?
+A. Áp suất trong ổ màng phổi nhỏ hơn áp suất khí trời
+B. Ổ màng phổi chứa nhiều dịch giúp nuôi dưỡng màng phổi
+C. Màng phổi thành lách vào khe gian thùy phổi
+D. Giới hạn dưới của phổi cũng là giới hạn dưới của màng phổi
+
+395. Mô tả về hình thể ngoài của phổi, chi tiết nào sau đây sai?
+A. Gồm một đỉnh, một đáy, hai mặt và hai bờ
+B. Phổi phải có khe chếch và khe ngang
+C. Mặt trong phổi bên phải có rãnh động mạch chủ ngực
+D. Đáy phổi liên quan với cơ hoành
+
+396. Ở đường cạnh cột sống, bờ dưới phổi và màng phổi lần lượt ở ngang mức các xương sườn
+A. 6 và 8
+B. 7 và 9
+C. 8 và 10
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+D. 10 và 12
+
+397. Câu nào sau đây mô tả đúng về liên quan giữa động mạch phổi và phế quản chính bên trái?
+A. Động mạch phổi ở trên phế quản chính
+B. Động mạch phổi ở dưới phế quản chính
+C. Động mạch phổi ở trước phế quản chính
+D. Động mạch phổi ở sau phế quản chính
+
+398. Câu nào sau đây mô tả đúng về liên quan giữa động mạch phổi và phế quản chính ở bên phải?
+A. Động mạch phổi ở trên phế quản chính
+B. Động mạch phổi ở dưới phế quản chính
+C. Động mạch phổi ở trước phế quản chính
+D. Động mạch phổi ở sau phế quản chính
+
+399. Chi tiết nào sau đây không có ở mặt trong phổi trái?
+A. Rãnh động mạch dưới đòn
+B. Rãnh động mạch chủ ngực
+C. Rãnh tĩnh mạch đơn
+D. Rãnh thực quản
+
+400. Chi tiết nào sau đây không có ở mặt trong phổi phải?
+A. Rãnh động mạch dưới đòn
+B. Rãnh thực quản
+C. Rãnh tĩnh mạch tay đầu
+D. Rãnh động mạch chủ ngực
+
+401. Trước khi vào rốn phổi, động mạch phổi bên phải đi
+A. Phía trước tĩnh mạch chủ trên
+B. Phía sau tĩnh mạch chủ trên
+C. Phía trên tĩnh mạch chủ trên
+D. Phía dưới tĩnh mạch chủ trên
+
+402. Động mạch phế quản trái thường xuất phát từ động mạch nào?
+A. Động mạch gian sườn sau bên trái
+B. Động mạch phổi trái
+C. Động mạch chủ ngực
+D. Động mạch màng ngoài tim hoành
+
+403. Thân động mạch phổi chia thành động mạch phổi phải và động mạch phổi trái ở vị trí ngang với vị trí nào?
+A. Góc ức
+
+Module HÔ HẤP
+
+B. Nền xương ức
+C. Bờ trên xương đòn trái
+D. Bờ trên xương sườn 1
+
+404. Bờ trước của phổi là ranh giới giữa các cấu trúc nào?
+A. Mặt trước và mặt trong
+B. Đáy phổi và màng phổi
+C. Rãnh động mạch chủ và rãnh tĩnh mạch chủ
+D. Thùy trên và thùy dưới
+
+405. Tĩnh mạch phế quản bên phải thường đổ về tĩnh mạch nào?
+A. Tĩnh mạch ngực trong
+B. Tĩnh mạch đơn
+C. Tĩnh mạch bán đơn
+D. Tĩnh mạch gian sườn
+
+406. Cơ nào sau đây không tham gia vào động tác thở ra gắng sức?
+A. Cơ hoành
+B. Các chéo bụng trong
+C. Cơ thẳng bụng
+D. Cơ ức đòn chũm
+
+407. Cơ nào sau đây không tham gia vào động tác hít vào gắng sức?
+A. Cơ chéo bụng ngoài
+B. Cơ ức đòn chũm
+C. Các cơ gian sườn
+D. Cơ ngực lớn
+
+408. Cơ nào sau đây không hoạt động góp phần tham gia vào động tác hít vào gắng sức?
+A. Cơ ức đòn chũm
+B. Cơ chéo bụng trong
+C. Các cơ gian sườn
+D. Cơ ngực lớn
+
+409. Cơ nào sau đây có tác dụng làm tăng đường kính ngang của lồng ngực?
+A. Cơ hoành
+B. Cơ ngực lớn
+C. Cơ ngực bé
+D. Cơ gian sườn ngoài
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+410. Cơ hoành là giới hạn dưới của lồng ngực đồng thời ngăn cách lồng ngực với ổ bụng. Đi xuyên qua cơ hoành có các thành phần sau, ngoại trừ?
+A. Động mạch chủ
+B. Tĩnh mạch chủ dưới
+C. Thần kinh lang thang
+D. Chuỗi hạch giao cảm ngực
+
+411. Cơ nào sau đây đóng vai trò quan trọng nhất trong cả quá trình hô hấp bình thường và hô hấp gắng sức?
+A. Cơ ngực lớn
+B. Cơ thẳng bụng
+C. Cơ hoành
+D. Cơ ức đòn chũm
+
+412. Các hiện tượng sau đây xảy ra ở đầu thì hít vào, ngoại trừ?
+A. Cơ hoành bắt đầu giãn nghỉ
+B. Áp suất khoang ngực giảm xuống
+C. Áp suất khoang bụng tăng lên
+D. Thể tích khoang bụng giảm xuống
+
+413. Cơ nào sau đây có tác dụng hỗ trợ động tác thở ra?
+A. Cơ ức đòn chũm
+B. Cơ gian sườn ngoài
+C. Cơ ngực bé
+D. Cơ thẳng bụng
+
+414. Hiện tượng nào sau đây xảy ra khi cơ hoành co?
+A. Vòm hoành nhô cao
+B. Áp suất khoang ngực tăng
+C. Áp suất khoang bụng giảm
+D. Thể tích khoang ngực tăng
+
+415. Cơ nào sau đây có tác dụng làm tăng áp suất khoang ngực ở thì thở ra?
+A. Cơ ức đòn chũm
+B. Cơ hoành
+C. Cơ thẳng bụng
+D. Cơ gian sườn ngoài
+
+# Module TIÊU HÓA
+
+416. Về phôi thai, đoạn nào sau đây của ống tiêu hóa được hình thành một phần từ ruột trước và một phần từ ruột giữa?
+A. Thực quản
+B. Dạ dày
+C. Tá tràng
+D. Đại tràng
+
+417. Về chi phối thần kinh đối giao cảm, dây thần kinh lang thang chi phối ống tiêu hóa đoạn nào?
+A. Từ thực quản đến dạ dày
+B. Từ thực quản đến góc tá hỗng tràng
+C. Từ thực quản đến đại tràng ngang
+D. Từ thực quản đến đại tràng chậu hông
+
+418. Phần xương của khẩu cái cứng gồm mỏm khẩu cái xương hàm trên và bộ phận nào?
+A. Mảnh ngang xương khẩu cái
+B. Mảnh thẳng xương sàng
+C. Phần trai xương thái dương
+D. Mảnh thẳng xương khẩu cái
+
+419. Các cơ sau đây là cơ nội tại của lưỡi, ngoại trừ
+A. Cơ dọc lưỡi trên
+B. Cơ móng lưỡi
+C. Cơ thẳng lưỡi
+D. Cơ ngang lưỡi
+
+420. Tuyến nước bọt mang tai có ống tiết đổ vào lỗ nằm ở vị trí nào?
+A. Ổ miệng chính, ngay trước cung khẩu cái lưỡi
+B. Ổ miệng chính, ngay sau cung khẩu cái lưỡi
+C. Tiền đình miệng, đối diện với răng hàm trên thứ hai
+D. Tiền đình miệng, đối diện với răng hàm dưới thứ hai
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+421. Trước khi đổ vào miệng, ống tuyến mang tai xuyên qua cơ nào?
+A. Cơ gò má lớn
+B. Cơ mút
+C. Cơ cắn
+D. Cơ vòng miệng
+
+422. Tuyến nước bọt mang tai được chia thành hai phần nông và sâu, giữa hai phần này có
+A. Động mạch thái dương nông
+B. Động mạch cảnh ngoài
+C. Thần kinh mặt
+D. Ống tuyến mang tai
+
+423. Cảm giác vị giác 2/3 trước lưỡi được chi phối bởi thần kinh nào?
+A. Thần kinh trung gian
+B. Thần kinh lưỡi
+C. Thần kinh thiệt hầu
+D. Thần kinh lang thang
+
+424. Eo họng có đặc điểm gì?
+A. Ranh giới giữa ổ miệng và phần miệng của hầu
+B. Được giới hạn phía sau bởi cung khẩu cái lưỡi
+C. Được giới hạn phía trước bởi cung khẩu cái hầu
+D. Được giới hạn hai bên bởi hạnh nhân khẩu cái
+
+425. Cơ nào sau đây nằm giữa phần nông và phần sâu của tuyến nước bọt dưới hàm?
+A. Cơ hàm móng
+B. Cơ cằm lưỡi
+C. Cơ móng lưỡi
+D. Cơ trâm lưỡi
+
+426. Về ổ miệng, mô tả nào sau đây là sai?
+A. Ổ miệng thông với bên ngoài qua khe miệng
+B. Giới hạn sau của ổ miệng gọi là eo họng
+C. Thành trên ổ miệng gọi là khẩu cái
+D. Sàn miệng có hai cơ là cơ hàm móng và cơ móng lưỡi
+
+427. Mô tả về thực quản, chi tiết nào sau đây sai?
+A. Đi qua trung thất trên và xuống trung thất sau
+B. Có đoạn liên quan phía trước với tâm nhĩ trái
+C. Đi phía sau cung động mạch chủ
+
+Module TIÊU HÓA
+
+D. Chui qua cơ hoành ở ngang đốt sống ngực 12
+
+428. Trên phim X-quang ngực hoặc bụng trong tư thế đứng, ta thấy có hình ảnh một bóng hơi trong dạ dày. Hình ảnh này chính là hình ảnh của không khí chứa trong cấu trúc nào của dạ dày?
+A. Tâm vị
+B. Hang môn vị
+C. Đáy vị
+D. Thân vị
+
+429. Mặt sau dạ dày không liên quan với cấu trúc nào?
+A. Thận trái
+B. Lách
+C. Túi mạc nối
+D. Gan
+
+430. Chọn câu đúng về dạ dày?
+A. Đáy vị là phần thấp nhất của dạ dày
+B. Lỗ tâm vị có van ngăn dịch vị từ dạ dày lên thực quản
+C. Lớp cơ vòng của dạ dày dày nhất ở môn vị
+D. Lớp cơ dọc của dạ dày dày nhất ở bờ cong lớn
+
+431. Đáy vị của dạ dày có đặc điểm nào sau đây?
+A. Phần nối thân vị với hang vị
+B. Phần nối thân vị với ống môn vị
+C. Phía trên mặt phẳng ngang qua khuyết tâm vị
+D. Phần có mạc nối nhỏ bám
+
+432. Câu nào sau đây đúng khi mô tả dạ dày?
+A. Đáy vị thường là nơi thức ăn hay dịch vị đọng lại
+B. Tâm vị nằm về bên phải cột sống
+C. Khuyết tâm vị nằm bên phải tâm vị
+D. Khuyết góc nằm ở giữa phần đứng và phần ngang của bờ cong nhỏ
+
+433. Đối chiếu lên cột sống, tâm vị và môn vị lần lượt tương ứng với mức của đốt sống
+A. Ngực 10 và thắt lưng 1
+B. Ngực 11 và thắt lưng 1
+C. Ngực 11 và thắt lưng 2
+D. Ngực 12 và thắt lưng 2
+
+434. Chọn câu đúng khi nói về môn vị:
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+A. Môn vị nằm bên trái đốt sống thắt lưng 1
+B. Ta không thể sờ bằng tay để xác định môn vị
+C. Lỗ môn vị có van ngăn dịch và thức ăn đi từ tá tràng về dạ dày
+D. Lớp cơ vòng ở môn vị dày lên tạo thành cơ thắt môn vị
+435. Đối chiếu lên cột sống, vị trí của lỗ môn vị ở vị trí nào?
+A. Bên phải đốt sống thắt lưng 1
+B. Bên trái đốt sống thắt lưng 1
+C. Bên phải đốt sống thắt lưng 2
+D. Bên trái đốt sống thắt lưng 2
+436. Mô tả về khối tá tụy, câu nào sau đây đúng?
+A. Tá tràng và đầu tụy nằm hoàn toàn sau phúc mạc
+B. Tụy có một phần nằm phía sau động mạch mạc treo tràng trên
+C. Ống tụy phụ đổ vào phần ngang của tá tràng
+D. Ống tụy chính đổ vào nhú tá lớn ở thành trước phần xuống tá tràng
+437. Chọn câu đúng:
+A. Ống tụy chính bắt đầu từ đầu tụy và đổ vào phần xuống tá tràng
+B. Ống mật chủ có đoạn đi phía sau đầu tụy và đây là đoạn hẹp nhất
+C. Nhú tá lớn ở phía trên nhú tá bé
+D. Bóng gan tụy là đoạn chung của ông mật chủ và ống tụy chính
+438. Thành phần nào sau đây ở phía trước phần xuống tá tràng?
+A. Động mạch thận phải
+B. Kết tràng ngang
+C. Niệu quản phải
+D. Tĩnh mạch cửa
+439. Thành phần nào sau đây bắt chéo trước phần ngang tá tràng?
+A. Động mạch thận phải
+B. Động mạch kết tràng trái
+C. Động mạch mạc treo tràng trên
+D. Động mạch mạc treo tràng dưới
+440. Nhú tá lớn có đặc điểm nào sau đây?
+A. Ở phía trên nhú tá bé
+B. Cách lỗ môn vị khoảng 15 cm
+C. Ở thành sau trong phần xuống tá tràng
+D. Ở đỉnh nhú có lỗ của ống tụy phụ
+
+441. Về tụy, câu nào sau đây sai?
+
+Module TIÊU HÓA
+
+A. Tụy nằm vắt ngang cột sống đoạn thắt lưng, sau hậu cung mạc nối
+B. Bó mạch mạc treo tràng dưới ấn vào tụy tạo nên cổ tụy
+C. Sau cổ tụy liên quan với đoạn đầu tiên của tĩnh mạch cửa
+D. Bờ trên của thân tụy liên quan với bó mạch lách
+
+442. Về tá tràng, câu nào sau đây sai?
+A. Là đoạn đầu của ruột non
+B. Có dạng hình chữ C ôm lấy đầu tụy
+C. Hoàn toàn cố định do dính vào thành bụng sau
+D. Có đường kính lớn hơn hổng tràng và hồi tràng
+
+443. Góc tá hổng tràng dính vào thành bụng sau bởi cấu trúc nào?
+A. Cơ treo tá tràng
+B. Mạc nối nhỏ
+C. Mạc nối lớn
+D. Mạc dính tá tụy
+
+444. Tá tràng có các đặc điểm sau, ngoại trừ?
+A. Hầu hết cố định do dính vào thành bụng sau
+B. Thành sau của phần xuống (D2) có lỗ đổ của ống tụy
+C. Trong chấn thương bụng, đoạn dễ bị tổn thương nhất là đoạn ngang (D3)
+D. Đoạn lên (D4) đi hướng lên trên và sang trái
+
+445. Phần nào sau đây nối từ tá tràng đến rốn gan?
+A. Cơ treo tá tràng
+B. Phần dày của mạc nối nhỏ
+C. Mạc nối lớn
+D. Mạc dính tá tụy
+
+446. Phần nào của tá tràng dính chặt vào đầu tụy nhất?
+A. Phần trên
+B. Phần xuống
+C. Phần lên
+D. Phần ngang
+
+447. Phần nào của tá tràng đi phía trước cột sống thắt lưng?
+A. Phần trên
+B. Phần xuống
+C. Phần lên
+D. Phần ngang
+
+448. Mặt sau khối tá tụy không liên quan với cấu trúc nào?
 
 TRẮC NGHIỆM GIẢI PHẪU HỌC
 
@@ -908,6 +2799,184 @@ TRẮC NGHIỆM GIẢI PHẪU HỌC
 - D. Kết tràng xích-ma và trực tràng
 
 **455.** Đoạn nào sau đây của đại tràng gọi là tạng sau phúc mạc thứ phát?
+
+Module TIÊU HÓA
+
+A. Kết tràng góc gan
+B. Kết tràng ngang
+C. Kết tràng xuống
+D. Kết tràng chậu hông
+
+456. Kết tràng xích-ma có các đặc điểm sau, ngoại trừ
+A. Nằm bên trái và phần dưới ổ bụng
+B. Tiếp theo kết tràng xuống
+C. Liên tục với trực tràng
+D. Dính vào thành bụng sau
+
+457. Vị trí của gốc ruột thừa có thể xác định bằng cách nào?
+A. Nơi hội tụ ba dải cơ dọc của manh tràng
+B. Ở mặt sau manh tràng, ngang góc hồi manh tràng
+C. Ở mặt trước manh tràng, ngang góc hồi manh tràng
+D. Phía dưới góc hồi manh tràng 1 cm
+
+458. Mô tả về đại tràng lên (kết tràng lên), câu nào sau đây sai?
+A. Nối tiếp với manh tràng đến đại tràng góc gan
+B. Không có mạc treo nên không di động
+C. Hợp với thành bụng để tạo nên rãnh cạnh kết tràng phải
+D. Ở mặt sau không có phúc mạc phủ
+
+459. Phần nào sau đây là phần dài nhất và di động nhất của đại tràng?
+A. Đại tràng lên
+B. Đại tràng ngang
+C. Đại tràng xuống
+D. Đại tràng chậu hông
+
+460. Van hậu môn
+A. Là hai nếp niêm mạc nằm ở ranh giới của trực tràng và ống hậu môn
+B. Là một nếp niêm mạc che kín một phần lỗ hậu môn
+C. Là những nếp niêm mạc hình cung nối liền chân của hai cột hậu môn
+D. Là ba nếp ngang ở trong lòng trực tràng
+
+461. Mô tả nào sau đây về bóng trực tràng là đúng?
+A. Là phần trực tràng giãn rộng ở phía trên cơ nâng hậu môn
+B. Là phần trực tràng giãn rộng ở phía dưới cơ nâng hậu môn
+C. Là phần mô mềm ở giữa trực tràng và trước xương cùng
+D. Là phần nối với ống hậu môn và tạo nên góc hậu môn – trực tràng
+
+462. Đoạn nào sau đây có túi thừa mạc nối?
+
+69
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+A. Hồi tràng
+B. Tá tràng
+C. Đại tràng ngang
+D. Hỗng tràng
+
+463. Đoạn nào sau đây của đại tràng gọi là tạng bị thành hóa?
+A. Manh tràng
+B. Đại tràng lên
+C. Đại tràng góc gan
+D. Đại tràng chậu hông
+
+464. Kết tràng chậu hông
+A. Không còn các dải cơ dọc
+B. Liên tục với trực tràng ở khoảng đốt sống thắt lưng 3
+C. Cố định vì dính vào thành bụng sau
+D. Được cấp máu bởi động mạch mạc treo tràng trên
+
+465. Về mạc treo ruột thừa, mô tả nào sau đây sai?
+A. Đi từ mặt sau của mạc treo đoạn cuối hồi tràng
+B. Có một bờ dính vào manh tràng
+C. Ở bờ tự do có động mạch ruột thừa
+D. Mặt sau dính vào phúc mạc thành
+
+466. Mô tả nào sau đây đúng với đường lược ở hậu môn trực tràng?
+A. Đường răng cưa nối liền các van hậu môn
+B. Các nếp dọc ở thành trực tràng
+C. Đường nằm giữa cơ thắt trong và cơ thắt ngoài hậu môn
+D. Đường nối giữa đầu trên các cột hậu môn
+
+467. Kết tràng phải gồm:
+A. Manh tràng, kết tràng lên và 2/3 phải kết tràng ngang
+B. Manh tràng, kết tràng lên và 1/2 phải kết tràng ngang
+C. Kết tràng lên và 1/2 phải kết tràng ngang
+D. Kết tràng lên và toàn bộ kết tràng ngang
+
+468. Nói về tụy và tá tràng, câu nào sau đây đúng?
+A. Tụy và tá tràng nằm hoàn toàn sau phúc mạc
+B. Hành tá tràng còn gọi là phần trên tá tràng
+C. Thành sau phần xuống tá tràng có hai nhú tá tràng
+D. Phần lên tá tràng nằm bên trái cột sống
+
+469. Tụy có các đặc điểm sau, ngoại trừ?
+
+Module TIÊU HÓA
+
+A. Phần lớn nằm ở tầng trên mạc treo kết tràng ngang
+B. Cổ tụy chính là vết ấn của bó mạch mạc treo tràng trên
+C. Mặt sau thân tụy liên quan với hậu cung mạc nối
+D. Bờ trước của thân tụy có mạc treo kết tràng ngang bám
+470. Chọn câu đúng về tụy:
+A. Tụy là một tạng rỗng nằm ở tầng trên mạc treo kết tràng ngang
+B. Mỏm móc tụy nằm sau bó mạch mạc treo tràng trên
+C. Đuôi tụy luôn luôn tiếp xúc trực tiếp với rốn lách
+D. Toàn bộ tụy được cấp máu bởi động mạch lách
+471. Về gan, mô tả nào sau đây đúng?
+A. Gan được chia làm bốn thùy dựa vào sự phân bố của đường mật trong gan
+B. Gan có hai bờ bờ trước và bờ dưới
+C. Toàn bộ bề mặt gan được phủ bởi phúc mạc
+D. Dây chằng liềm, dây chằng vành, dây chằng tam giác liên tục với nhau
+
+472. Ngách gan thận còn có tên là gì?
+A. Khoang dưới hoành
+B. Ngách tá tràng trên
+C. Khoang Morison
+D. Ngách tá tràng dưới
+
+473. Mô tả về gan, câu nào sau đây đúng?
+A. Gan có 2 bờ là bờ phải và bờ trái
+B. Gan có 2 bờ là bờ trên và bờ dưới
+C. Gan có 1 bờ bờ trước
+D. Gan có 1 bờ là bờ dưới
+
+474. Dây chằng liềm của gan có các đặc điểm sau, ngoại trừ?
+A. Nằm ở mặt hoành và được xem là khe giữa gan
+B. Cấu tạo gồm hai lá của phúc mạc
+C. Treo gan vào cơ hoành và thành bụng
+D. Liên tiếp với dây chằng vành
+
+475. Trong cách phân thùy gan theo phẫu thuật, khe giữa gan có đặc điểm nào sau đây?
+A. Đi theo dây chằng liềm ở mặt hoành
+B. Nối từ giữa tĩnh mạch chủ dưới đến điểm giữa bờ dưới gan
+C. Nối từ điểm giữa hố túi mật đến giữa tĩnh mạch chủ dưới
+
+71
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+D. Chia gan phải thành phân thùy trước và phân thùy sau
+
+476. Phân thùy trước của gan có hai hạ phân thùy nào?
+A. Hạ phân thùy V và hạ phân thùy VIII
+B. Hạ phân thùy VI và hạ phân thùy VII
+C. Hạ phân thùy II và hạ phân thùy III
+D. Hạ phân thùy I và hạ phân thùy IV
+
+477. Ở mặt hoành của gan, nằm giữa khe giữa và khe trái là hạ phân thùy nào?
+A. Hạ phân thùy III
+B. Hạ phân thùy IV
+C. Hạ phân thùy V
+D. Hạ phân thùy VI
+
+478. Thành phần hiện diện trong khoang gian tiểu thùy gan gồm cấu trúc nào?
+A. Động mạch gan, tĩnh mạch cửa, ống mật
+B. Động mạch gan, tĩnh mạch gan, tĩnh mạch cửa
+C. Động mạch gan, tĩnh mạch gan, ống mật
+D. Tĩnh mạch gan, tĩnh mạch cửa, ống mật
+
+479. Lớp xơ của gan có đặc điểm gì?
+A. Là bao xơ bao bọc ngoài phúc mạc gan
+B. Bao bọc cả túi mật
+C. Đi len lỏi vào nhu mô gan theo các đường mạch mật
+D. Dính lỏng lẻo vào phúc mạc nên dễ bóc tách
+
+480. Sự thông nối giữa hệ tĩnh mạch cửa và hệ tĩnh mạch chủ có thể gặp ở cấu trúc nào?
+A. Rốn lách
+B. Khuyết tụy
+C. Phần cuối của thực quản
+D. Vùng hang môn vị
+
+481. Thông thường, ống mật chủ hẹp nhất ở vị trí nào?
+A. Ngay bờ trên phần trên (D1) tá tràng
+B. Đoạn đi sau phần trên (D1) tá tràng
+C. Đoạn đi sau đầu tụy
+D. Đoạn trong thành tá tràng
+
+482. Về phân chia hạ phân thùy gan, câu nào sau đây đúng?
+A. Hạ phân thùy II chỉ thấy ở mặt tạng
+B. Hạ phân thùy IV chính là thùy đuôi
+C. Hạ phân thùy VI thuộc phân thùy sau
 
 D. Hạ phân thùy VII thuộc phân thùy trước
 
@@ -997,6 +3066,52 @@ TRẮC NGHIỆM GIẢI PHẪU HỌC
 - **B.** Nối gan với phần thực quản bụng, dạ dày và tá tràng
 - **C.** Phần dây chằng gan-tá tràng mỏng hơn phần dây chằng gan – vị
 
+Module TIÊU HÓA
+
+D. Tạo nên thành trước tiền đình hậu cung mạc nối
+
+497. Đoạn nào sau đây của đại tràng tạo với thành bụng thành rãnh cạnh kết tràng?
+A. Đại tràng ngang
+B. Đại tràng chậu hông
+C. Đại tràng xuống
+D. Đại tràng góc lách
+
+498. Tạng nào sau đây gọi là tạng sau phúc mạc?
+A. Bàng quang
+B. Thận
+C. Tử cung
+D. Túi tinh
+
+499. Mô tả về diện tích phúc mạc, câu nào sau đây đúng?
+A. Diện tích của phúc mạc tương đương diện tích da của cơ thể
+B. Diện tích phúc mạc bằng diện tích thành ổ bụng
+C. Diện tích phúc mạc bằng diện tích khoang ngực
+D. Diện tích phúc mạc bằng một nửa diện tích da của cơ thể
+
+500. Các tạng nào sau đây được gọi là tạng dưới thanh mạc?
+A. Thận, niệu quản
+B. Tá tràng, tụy
+C. Túi mật, ruột thừa
+D. Tử cung, trực tràng, bàng quang
+
+501. Cuống gan nằm ở đâu?
+A. Dây chằng gan – vị
+B. Dây chằng gan – tá tràng
+C. Dây chằng vị – hoành
+D. Dây chằng vị – kết tràng
+
+502. Về túi mạc nối, câu nào sau đây đúng?
+A. Túi mạc nối nằm sau dạ dày và mạc nối nhỏ
+B. Túi mạc nối nằm giữa tụy và cột sống
+C. Túi mạc nối không thông với ổ phúc mạc
+D. Lỗ túi mạc nối nằm bên trái của túi
+
+503. Mạc nối nhỏ gồm hai phần nào?
+A. Dây chằng gan – vị và dây chằng vành
+B. Dây chằng gan – vị và dây chằng gan – tá tràng
+C. Dây chằng gan – tá tràng và dây chằng vị – lách
+D. Dây chằng gan – vị và dây chằng vị – lách
+
 # TRẮC NGHIỆM GIẢI PHẪU HỌC
 
 **504.** Thành trên của tiền đình túi mạc nối là cấu trúc nào?
@@ -1041,6 +3156,260 @@ TRẮC NGHIỆM GIẢI PHẪU HỌC
 - **C.** Phúc mạc tạng nhạy cảm với cảm giác đau
 - **D.** Phúc mạc thành không có cảm giác đau
 
+# Module TIẾT NIỆU
+
+511. Đối chiếu lên xương sườn, đầu trên thận phải tương ứng với vị trí nào?
+- A. Bờ trên xương sườn XI
+- B. Bờ dưới xương sườn XI
+- C. Bờ trên xương sườn XII
+- D. Bờ dưới xương sườn XII
+
+512. Khi chia thận thành các phân thùy dựa theo động mạch thận, ta được mấy phân thùy?
+- A. 8 phân thùy thận
+- B. 6 phân thùy thận
+- C. 5 phân thùy thận
+- D. 4 phân thùy thận
+
+513. Để lấy sỏi thận, đường mổ nào sau đây vào thận ít gây tổn thương mạch máu thận nhất?
+- A. Đường ngang trên rốn thận
+- B. Đường ngang dưới rốn thận
+- C. Đường dọc phía sau bờ ngoài thận
+- D. Đường dọc phía trước bờ ngoài thận
+
+514. Bình thường, đầu dưới thận phải cách mào chậu khoảng bao nhiêu cm?
+- A. 3 cm
+- B. 5 cm
+- C. 6 cm
+- D. 8 cm
+
+515. Phía sau thận bên phải không liên quan với
+- A. Xương sườn XI
+- B. Màng phổi Cơ hoành
+- C. Gan
+
+516. Bao xơ của thận là lớp mô xơ
+- A. Bao bọc mặt ngoài thận
+- B. Bao bọc bên ngoài bao mỡ
+- C. Bao bọc bên ngoài lớp mỡ quanh thận
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+D. Liên tục với phúc mạc
+
+517. Về cấu trúc và hình thể trong của thận, mô tả nào sau đây đúng?
+A. Xoang thận còn được gọi là rốn thận
+B. Tủy thận là phần nhu mô tạo nên các tháp thận
+C. Cột thận là phần tủy thận nằm giữa các tháp thận
+D. Vỏ thận gồm hai phần là phần tia và phần lượn
+
+518. Các tiểu thể thận chủ yếu nằm trong cấu trúc nào sau đây?
+A. Phần tia của vỏ thận
+B. Phần lượn của vỏ thận
+C. Cột thận
+D. Tủy thận
+
+519. Để chia thận thành các phân thùy, người ta dựa vào điều gì?
+A. Sự phân bố của các ống sinh niệu
+B. Sự phân bố của các đài thận
+C. Sự phân bố của động mạch thận
+D. Sự phân bố của tĩnh mạch thận
+
+520. Câu nào sau đây đúng khi mô tả về vị trí và liên quan của thận?
+A. Thận bên trái thấp hơn bên phải
+B. Thận được bao hoàn toàn bởi phúc mạc
+C. Mặt trước của thận trái tiếp xúc với tụy
+D. Bờ trong thận trái liên quan với tĩnh mạch chủ dưới
+
+521. Về cột thận, mô tả nào sau đây đúng?
+A. Là phần vỏ nằm ở bờ ngoài của tháp thận
+B. Là phần vỏ thận nằm ở giữa hai tháp thận
+C. Là phần tủy thận ở đỉnh của tháp thận
+D. Là phần tủy thận ở đáy của tháp thận
+
+522. Thành phần nào sau đây đổ vào nhú thận?
+A. Ống lượn gần
+B. Ống lượn xa
+C. Quai Henle
+D. Ống góp
+
+523. Niệu quản có các chỗ hẹp tại vị trí nào sau đây?
+A. Nơi bắt chéo động mạch tử cung, giữa đoạn bụng, đoạn trong thành bàng quang
+B. Nơi bắt chéo động mạch sinh dục, nơi bắt chéo ống dẫn tinh, đoạn sau bàng quang
+
+Module TIẾT NIỆU
+
+C. Nơi nối với bể thận, nơi bắt chéo động mạch chậu, đoạn trong thành bàng quang
+D. Nơi nối giữa bể thận, nơi bắt chéo động mạch tử cung, đoạn trong thành bàng quang
+
+524. Niệu quản bên phải đoạn bụng bắt chéo trước cấu trúc nào sau đây?
+A. Động mạch chậu ngoài
+B. Động mạch chậu chung
+C. Động mạch sinh dục
+D. Động mạch mạc treo tràng trên
+
+525. Niệu quản bên trái đoạn bụng bắt chéo trước cấu trúc nào sau đây?
+A. Động mạch chậu ngoài
+B. Động mạch chậu chung
+C. Động mạch sinh dục
+D. Động mạch mạc treo tràng dưới
+
+526. Phương tiện cố định vững chắc nhất của bàng quang là cấu trúc nào
+A. Hoành chậu và hoành niệu dục
+B. Dây chằng mu – tiền liệt
+C. Dây chằng rốn giữa
+D. Dây chằng rốn trong
+
+527. Tam giác bàng quang được giới hạn bởi cấu trúc nào?
+A. Hai lỗ niệu quản và lỗ niệu đạo trong
+B. Cổ bàng quang, lưỡi bàng quang và lỗ niệu đạo ngoài
+C. Lỗ niệu đạo trong, lưỡi bàng quang và lỗ niệu quản phải
+D. Lỗ niệu đạo trong, lưỡi bàng quang và lỗ niệu quản trái
+
+528. Động mạch nào sau đây không cấp máu cho bàng quang?
+A. Động mạch trực tràng giữa
+B. Động mạch trực tràng dưới
+C. Động mạch thẹn trong
+D. Động mạch bịt
+
+529. Một trong những chỗ phình của niệu đạo nam là gì?
+A. Xoang tiền liệt
+B. Lỗ niệu đạo ngoài
+C. Niệu đạo đoạn màng
+D. Niệu đạo ở cổ bàng quang
+
+530. Niệu đạo đoạn màng có đặc điểm nào sau đây?
+A. Đoạn niệu đạo đi qua hoành chậu
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+B. Đoạn niệu đạo đi qua hoành niệu dục
+C. Đoạn niệu đạo ngay dưới hoành niệu dục
+D. Đoạn niệu đạo trong vật xốp
+
+531. Cấu trúc nào sau đây ở phía sau tuyến tiền liệt?
+A. Trực tràng
+B. Túi tinh
+C. Bàng quang
+D. Mào tinh
+
+532. Mô tả niệu đạo nam, câu nào sau đây đúng?
+A. Niệu đạo sau gồm niệu đạo tiền liệt, niệu đạo màng và một phần niệu đạo xốp
+B. Đoạn niệu đạo xốp có lỗ đổ của ống phóng tinh
+C. Ở đoạn màng có lỗ đổ của tuyến hành niệu đạo
+D. Một trong các chỗ hẹp của niệu đạo có lỗ niệu đạo ngoài
+
+533. Về bàng quang, câu nào sau đây sai?
+A. Hình dạng thay đổi tùy theo lượng nước tiểu trong bàng quang
+B. Khi chứa đầy nước tiểu thì bàng quang có hình cầu
+C. Thành bàng quang có 2 lớp cơ vòng và 1 lớp cơ dọc
+D. Cổ bàng quang có cấu tạo là cơ vân
+
+534. Khi chấn thương nếu có tổn thương niệu đạo, đoạn nào sau đây thường xảy ra tổn thương nhất?
+A. Niệu đạo sau
+B. Niệu đạo xốp
+C. Niệu đạo màng
+D. Niệu đạo tiền liệt
+
+535. Chọn câu đúng về bàng quang?
+A. Bàng quang nằm giữa xương mu và khoang sau xương mu
+B. Thành bàng quang chỉ có cơ vòng, không có cơ dọc
+C. Đáy bàng quang quay xuống dưới và liên quan với hoành chậu
+D. Bàng quang được cấp máu bởi các nhánh của động mạch chậu trong
+
+536. Khi phẫu thuật từ mặt sau của thận, phân thùy nào sau đây khó quan sát và tiếp cận nhất?
+A. Phân thùy trên
+B. Phân thùy dưới
+C. Phân thùy trước dưới
+D. Phân thùy sau
+
+Module TIẾT NIỆU
+
+537. Shunt động mạch tồn tại ở vị trí nào sau đây của thận?
+A. Giữa các động mạch gian thùy
+B. Giữa các động mạch gian tiểu thùy
+C. Giữa động mạch đến và động mạch đi
+D. Giữa động mạch thận và tĩnh mạch thận
+
+538. Vùng cột thận thường có loại mạch nào sau đây?
+A. Động mạch cung
+B. Động mạch gian tiểu thùy
+C. Động mạch thùy
+D. Động mạch gian thùy
+
+539. Khi niệu quản có sỏi di chuyển, vị trí nào sau đây của niệu quản có thể gây cản trở sự di chuyển của sỏi nhiều nhất?
+A. Nơi nối giữa niệu quản và bể thận
+B. Nơi niệu quản cắm vào bàng quang
+C. Nơi niệu quản bắt chéo động mạch sinh dục
+D. Nơi niệu quản bắt chéo động mạch chậu
+
+540. Đặc điểm nào sau đây đúng với niệu quản?
+A. Niệu quản nằm ở trong phúc mạc
+B. Đoạn bụng bắt chéo trước động mạch sinh dục
+C. Chỗ bắt chéo với động mạch sinh dục là một chỗ hẹp của niệu quản
+D. Một trong những chỗ hẹp của niệu quản là đoạn nội thành bàng bàng
+
+541. Ở nữ, niệu quản đoạn chậu có đặc điểm gì?
+A. Là đoạn từ cực dưới thận đến bàng quang
+B. Bắt chéo phía trước động mạch buồng trứng
+C. Bắt chéo phía sau động mạch tử cung
+D. Nhận máu nuôi từ các nhánh của động mạch âm đạo
+
+542. Ở nam, niệu quản đoạn chậu bắt chéo với cấu trúc nào sau đây?
+A. Động mạch chậu ngoài
+B. Động mạch tinh hoàn
+C. Động mạch bàng quang trên
+D. Ống dẫn tinh
+
+543. Chi tiết nào sau đây có ở cổ bàng quang?
+A. Cơ thắt trong
+B. Mào niệu đạo
+C. Lỗ ống phóng tinh
+D. Xoang tuyến tiền liệt
+
+# TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+544. Một bệnh nhân nữ bị sỏi kẹt niệu đạo, vị trí sỏi thường gặp là?
+A. Tại vị trí cơ thắt
+B. Ở đoạn sau cơ thắt
+C. Ở cổ bàng quang
+D. Tại lỗ niệu đạo ngoài
+
+545. Ống lượn gần thường tập trung ở vị trí nào của nhu mô thận?
+A. Cột thận
+B. Vỏ thận
+C. Tủy thận
+D. Nhú thận
+
+546. Về bạch huyết ở thận, câu nào sau đây đúng?
+A. Mạch bạch huyết thận phải đổ về theo trục tĩnh mạch chủ
+B. Mạch bạch huyết thận trái đổ về theo trục động mạch chủ
+C. Hạch bạch huyết rải rác khắp thận và rốn thận
+D. Ở thận không có hệ thống bạch huyết
+
+547. Chọn câu đúng về bàng quang:
+A. Bàng quang là tạng ngoài phúc mạc
+B. Động mạch bàng quang dưới là phần không xơ hóa của động mạch rốn
+C. Dây treo bàng quang đi từ đáy bàng quang tới xương mu
+D. Liên quan trước của bàng quang khác nhau giữa nam và nữ
+
+548. Tĩnh mạch nào sau đây ít khi tạo vòng nối tĩnh mạch quanh thận?
+A. Tĩnh mạch hoành dưới
+B. Tĩnh mạch sinh dục
+C. Tĩnh mạch thượng thận
+D. Các tĩnh mạch mạc treo
+
+549. Cơ thắt trong của vùng cổ bàng quang được cấu tạo chủ yếu bởi
+A. Cơ dọc ngoài
+B. Cơ vòng
+C. Cơ dọc trong
+D. Cơ dọc trong và cơ vòng
+
+550. Thần kinh nào sau đây chi phối cho cơ thắt vân niệu đạo?
+A. Thần kinh thẹn
+B. Thần kinh sinh dục
+C. Thần kinh bịt
+D. Thần kinh tạng chậu hông
+
 **551.** Về bàng quang, điều nào sau đây đúng?
 - **A.** Mặt sau dưới còn gọi là đáy
 - **B.** Đỉnh bàng quang ở dưới và có lỗ niệu đạo
@@ -1052,6 +3421,42 @@ TRẮC NGHIỆM GIẢI PHẪU HỌC
 - **B.** Bờ trước và sau
 - **C.** Bờ trên và bờ dưới
 - **D.** Bờ trong và bờ trên
+
+# Module SINH SẢN
+
+553. Về đường sinh dục ở nữ, đường sinh dục trên gồm những phần nào?
+A. Tử cung và buồng trứng
+B. Tử cung và vòi tử cung
+C. Tử cung, vòi tử cung và buồng trứng
+D. Tử cung, vòi tử cung, buồng trứng và âm đạo
+
+554. Về giới hạn hố buồng trứng, điều nào sau đây sai?
+A. Ở trước dưới là dây chằng rộng
+B. Ở trên là động mạch chậu ngoài
+C. Ở sau là động mạch chậu trong
+D. Đáy hố có bó mạch thần kinh bịt và niệu quản
+
+555. Đầu vòi của buồng trứng là nơi bám của dây chằng nào?
+A. Dây chằng treo buồng trứng
+B. Dây chằng riêng buồng trứng
+C. Dây chằng rộng
+D. Dây chằng tròn
+
+556. Mạc treo buồng trứng treo buồng trứng vào cấu trúc nào?
+A. Thành bên chậu hông
+B. Hoành chậu
+C. Bờ bên của thân tử cung
+D. Dây chằng rộng
+
+557. Động mạch buồng trứng có đặc điểm nào sau đây?
+A. Đi phía trước phúc mạc
+B. Có đoạn bắt chéo phía sau niệu quản
+C. Đi trong dây chằng riêng buồng trứng
+D. Cho nhánh nối với động mạch tử cung
+
+558. Về các dây chằng của tử cung, câu nào sau đây sai?
+A. Dây chằng rộng là một nếp gồm hai lá phúc mạc
+B. Ở đáy dây chằng rộng có niệu quản bắt chéo phía trước động mạch tử cung
 
 C. Dây chằng tử cung – cùng bám vào mặt trước xương cùng
 D. Dây chằng ngang cổ tử cung đi trước dây chằng rộng
@@ -1097,6 +3502,388 @@ A. Động mạch chậu trong
 B. Động mạch chậu ngoài
 C. Động mạch thẹn trong
 
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+D. Động mạch bàng quang trên
+
+566. Khi cần chọc dò túi cùng trực tràng - tử cung qua ngã âm đạo, người ta thường chọc dò qua cấu trúc nào sau đây?
+A. Túi bịt trước của vòm âm đạo
+B. Túi bịt bên phải của vòm âm đạo
+C. Túi bịt bên trái của vòm âm đạo
+D. Túi bịt sau của vòm âm đạo
+
+567. Tiền đình âm đạo được giới hạn phía trước bởi cấu trúc nào?
+A. Âm vật
+B. Lỗ niệu đạo
+C. Hãm môi âm hộ
+D. Môi bé
+
+568. Về tuyến vú ở nữ, câu nào sau đây sai?
+A. Có nguồn gốc như tuyến mồ hôi
+B. Có nguồn gốc như tuyến bã
+C. Xoang sữa là nơi phình ra của ống tiết sữa
+D. Mô liên kết dưới da tạo thành các hố mỡ
+
+569. Thành phần nào sau đây có vai trò chính trong co hồi tử cung và cầm máu sau sinh?
+A. Nội mạc
+B. Cơ vòng
+C. Cơ dọc
+D. Cơ rối
+
+570. Về động mạch tử cung, điều nào sau đây đúng?
+A. Bắt chéo phía trước niệu quản cách thân tử cung 1,5 cm
+B. Bắt chéo phía sau niệu quản cách thân tử cung 1,5 cm
+C. Bắt chéo phía trước niệu quản cách cổ tử cung 1,5 cm
+D. Bắt chéo phía sau niệu quản cách cổ tử cung 1,5 cm
+
+571. Phần nào sau đây của tử cung giãn ra nhiều nhất khi mang thai?
+A. Đáy tử cung
+B. Cổ tử cung
+C. Thân tử cung
+D. Eo tử cung
+
+572. Mạch máu của vòi tử cung đi dọc theo?
+A. Bờ trên của vòi
+B. Bờ dưới của vòi
+
+Module SINH SẢN
+
+C. Bờ trước của vòi
+D. Bờ sau của vòi
+
+573. Dây chằng tròn tử cung bám ở vị trí nào trên tử cung?
+A. Cổ tử cung và thân tử cung
+B. Góc bên của thân tử cung
+C. Thân tử cung và eo tử cung
+D. Đáy tử cung và cổ tử cung
+
+574. Phần nào sau đây của dây chằng rộng sẽ liên quan tới ruột non và kết tràng nhiều nhất?
+A. Mặt trước dưới
+B. Mặt sau trên
+C. Bờ ngoài
+D. Bờ trên
+
+575. Động mạch tử cung xuất phát từ động mạch chậu trong và sẽ đi qua các đoạn theo trình tự nào sau đây?
+A. Đoạn chậu hông, đoạn bờ bên tử cung, đoạn đáy dây chằng rộng
+B. Đoạn đáy dây chằng rộng, đoạn chậu hông, đoạn bờ bên tử cung
+C. Đoạn bờ bên tử cung, đoạn chậu hông, đoạn đáy dây chằng rộng
+D. Đoạn chậu hông, đoạn đáy dây chằng rộng, đoạn bờ bên tử cung
+
+576. Điều nào sau đây đúng khi nói về động mạch buồng trứng?
+A. Xuất phát từ động mạch chủ bụng, dưới động mạch mạc treo tràng dưới
+B. Đi trong dây chằng riêng buồng trứng để đến buồng trứng
+C. Không đi cùng với tĩnh mạch buồng trứng
+D. Cho nhánh nối với động mạch tử cung
+
+577. Dây chằng nào sau đây bám từ bờ bên cổ tử cung đến thành bên chậu hông?
+A. Dây chằng rộng
+B. Dây chằng tử cung cùng
+C. Dây chằng ngang cổ tử cung
+D. Dây chằng treo buồng trứng
+
+578. Động mạch tử cung cho nhánh nối với động mạch buồng trứng khi đến vị trí nào sau đây?
+A. Thành bên chậu hông
+B. Đáy dây chằng rộng
+C. Cổ tử cung
+D. Góc bên tử cung
+
+87
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+579. Lỗ đổ của tuyến tiền đình lớn (tuyến Bartholin) nằm ở vị trí nào sau đây?
+A. Cạnh âm vật
+B. Cạnh niệu đạo
+C. Giữa môi lớn và môi bé
+D. Giữa môi bé và màng trinh
+
+580. Đoạn nào sau đây của vòi tử cung là đoạn dài nhất?
+A. Đoạn trong thành tử cung
+B. Đoạn phễu
+C. Đoạn bóng
+D. Đoạn eo
+
+581. Ở nữ, túi cùng Douglas ở vị trí nào sau đây?
+A. Giữa bàng quang và tử cung
+B. Giữa tử cung và trực tràng
+C. Giữa xương mu và bàng quang
+D. Sau trực tràng
+
+582. Thành phần nào sau đây nằm trong mào tinh hoàn?
+A. Ống sinh tinh xoắn
+B. Ống sinh tinh thẳng
+C. Lưới tinh
+D. Ống xuất
+
+583. Động mạch nào sau đây cấp máu cho ống dẫn tinh?
+A. Động mạch thẹn
+B. Động mạch tinh hoàn
+C. Động mạch rốn
+D. Động mạch thượng vị dưới
+
+584. Động mạch tinh hoàn có các đặc điểm, ngoại trừ?
+A. Xuất phát từ động mạch chủ bụng, dưới động mạch thận
+B. Đi sau phúc mạc
+C. Chui qua lỗ bẹn sâu
+D. Cấp máu cho tinh hoàn và cơ bìu
+
+585. Thành phần nào sau đây không có trong thừng tinh?
+A. Ống dẫn tinh
+B. Động mạch tinh hoàn
+C. Đám rối tĩnh mạch hình dây leo
+D. Động mạch thượng vị dưới
+
+Module SINH SẢN
+
+586. Thành phần nào sau đây có chức năng sản xuất tinh trùng?
+A. Ống sinh tinh thẳng
+B. Ống sinh tinh xoắn
+C. Lưới tinh
+D. Mào tinh
+
+587. Hiện tượng cương dương vật là do đâu?
+A. Máu chứa đầy trong vật hang và vật xốp
+B. Tinh dịch chứa đầy trong mô liên kết ở dương vật
+C. Máu ứ giữa lớp mạc nông và lớp mạc sâu dương vật
+D. Máu ứ ở các tĩnh mạch nông của dương vật
+
+588. Động mạch nào sau đây cấp máu cho tuyến tiền liệt?
+A. Động mạch bàng quang trên
+B. Động mạch trực tràng giữa
+C. Động mạch trực tràng dưới
+D. Động mạch thẹn
+
+589. Đoạn nào sau đây của ống dẫn tinh là đoạn phình to nhất?
+A. Đoạn thừng tinh
+B. Đoạn chậu hông
+C. Đoạn sau bàng quang
+D. Đoạn trong tuyến tiền liệt
+
+590. Động mạch nào sau đây có nguyên ủy từ động mạch thượng vị dưới?
+A. Động mạch cơ bìu
+B. Động mạch ống dẫn tinh
+C. Động mạch tinh hoàn
+D. Động mạch mu dương vật
+
+591. Khi bị ung thư tinh hoàn, vùng hạch nào sau đây sẽ di căn sớm nhất?
+A. Hạch bẹn nông
+B. Hạch bẹn sâu
+C. Hạch chậu ngoài
+D. Hạch chậu trong
+
+592. Trong quá trình di chuyển của tinh hoàn xuống bìu, cơ bìu được hình thành từ thành phần nào sau đây?
+A. Cơ chéo bụng ngoài
+B. Cơ chéo bụng trong
+C. Cơ ngang bụng
+D. Cơ chéo bụng ngoài và cơ chéo bụng trong
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+593. Động mạch nào sau đây trong thừng tinh có nguyên ủy từ động mạch rốn?
+A. Động mạch cơ bìu
+B. Động mạch ống dẫn tinh
+C. Động mạch tinh hoàn
+D. Động mạch mu dương vật
+
+594. Trong phẫu thuật, khi cần bóc tách ống dẫn tinh, chúng ta sẽ thấy đoạn nào sau đây của ống dẫn tinh liên quan tới niệu quản nhiều nhất?
+A. Đoạn trong ống bẹn
+B. Đoạn chậu hông
+C. Đoạn sau bàng quang
+D. Đoạn trong tuyến tiền liệt
+
+595. Theo Mc Neal, vùng nào sau đây của tuyến tiền liệt chiếm thể tích lớn nhất?
+A. Vùng trung tâm
+B. Vùng ngoại vi
+C. Vùng chuyển tiếp
+D. Vùng đệm
+
+596. Trong quá trình di chuyển của tinh hoàn xuống bìu, mạc tinh ngoài được hình thành từ thành phần nào sau đây?
+A. Cơ chéo bụng trong
+B. Cơ ngang bụng
+C. Cơ chéo bụng ngoài
+D. Mạc ngang
+
+597. Thành phần nào sau đây nằm ngoài tinh hoàn?
+A. Ống sinh tinh
+B. Ống dẫn tinh
+C. Tế bào Leydig
+D. Tế bào Sertoli
+
+598. Tinh trùng được sản xuất chủ yếu tại?
+A. Ống sinh tinh xoắn
+B. Ống sinh tinh thẳng
+C. Lưới tinh
+D. Túi tinh
+
+# Module CƠ XƯƠNG KHỚP
+
+599. Các xương sau đây thuộc khối xương sọ, ngoại trừ?
+A. Xương sàng
+B. Xương chẩm
+C. Xương lá mía
+D. Xương trán
+
+600. Các chi tiết sau đây thuộc xương sàng, ngoại trừ?
+A. Xương xoăn mũi trên cùng
+B. Xương xoăn mũi trên
+C. Xương xoăn mũi giữa
+D. Xương xoăn mũi dưới
+
+601. Phần nào sau đây của xương sàng chứa xoang sàng?
+A. Mảnh sàng
+B. Mê đạo sàng
+C. Mảnh thẳng
+D. Phễu sàng
+
+602. Xương nào sau đây không tham gia tạo nên sàn sọ?
+A. Xương bướm
+B. Xương thái dương
+C. Xương khẩu cái
+D. Xương chẩm
+
+603. Hố sọ trước được tạo chủ yếu bởi cấu trúc nào sau đây?
+A. Mảnh sàng của xương sàng
+B. Mảnh ngang xương khẩu cái
+C. Phần ổ mắt xương trán
+D. Phần trai xương thái dương
+
+604. Về xương thái dương, điều nào sau đây sai?
+A. Phần trai tạo nên thành ngoài hố sọ giữa
+B. Mỏm trâm mọc ra từ nền của phần đá
+C. Đi qua lỗ trâm chẩm có thần kinh thiệt hầu
+D. Phần nhĩ tạo thành một phần của ống tai ngoài
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+605. Lỗ trên ổ mắt thuộc xương nào sau đây?
+A. Xương trán
+B. Xương lệ
+C. Xương bướm
+D. Xương sàng
+
+606. Xương nào sau đây có rãnh xoang dọc trên?
+A. Xương trán
+B. Xương lệ
+C. Xương bướm
+D. Xương sàng
+
+607. Xương nào sau đây là xương chính tạo nên trần ổ mắt?
+A. Xương lệ
+B. Xương bướm
+C. Xương trán
+D. Xương sàng
+
+608. Rãnh xoang tĩnh mạch xích-ma nằm ở đâu?
+A. Xương thái dương
+B. Xương chẩm
+C. Xương bướm
+D. Xương sàng
+
+609. Khe ổ mắt trên thuộc xương nào sau đây?
+A. Xương thái dương
+B. Xương trán
+C. Xương bướm
+D. Xương sàng
+
+610. Một trường hợp chấn thương và được ghi nhận là vỡ xương thành dưới ổ mắt. Xương nào sau đây có khả năng là xương bị tổn thương nhất?
+A. Xương gò má
+B. Xương hàm trên
+C. Xương bướm
+D. Xương lệ
+
+611. Ở nền sọ, thần kinh hàm dưới đi qua
+A. Khe ổ mắt trên
+B. Lỗ bầu dục
+C. Lỗ gai
+D. Lỗ tròn
+
+Module CƠ XƯƠNG KHỚP
+
+612. Thành phần nào sau đây đi qua lỗ tròn ở nền sọ?
+A. Thần kinh hàm trên
+B. Thần kinh hàm dưới
+C. Thần kinh mắt
+D. Thần kinh thiệt hầu
+
+613. Thành phần nào sau đây đi qua lỗ trâm chũm?
+A. Dây thần kinh sọ số V
+B. Dây thần kinh sọ số VII
+C. Dây thần kinh sọ số IX
+D. Dây thần kinh sọ số X
+
+614. Lỗ gian đốt sống là gì?
+A. Lỗ giữa thân đốt sống và cuống cung đốt sống
+B. Lỗ giữa khuyết sống trên và khuyết sống dưới
+C. Lỗ ở mỏm ngang các đốt sống
+D. Lỗ bao quanh tủy gai
+
+615. Ở đốt sống, chi tiết nào sau đây có thể sờ và nhận biết được dưới da?
+A. Mỏm khớp trên
+B. Mỏm khớp dưới
+C. Mỏm gai
+D. Mỏm ngang
+
+616. Đoạn nào của cột sống có đĩa gian đốt sống dày nhất?
+A. Đoạn cổ
+B. Đoạn ngực
+C. Đoạn thắt lưng
+D. Đoạn cùng
+
+617. Đĩa gian đốt sống ở đoạn nào ở phía trước dày hơn phía sau?
+A. Đoạn cổ
+B. Đoạn ngực
+C. Đoạn thắt lưng
+D. Đoạn ngực và đoạn thắt lưng
+
+618. Dây chằng vàng bám vào vị trí nào sau đây?
+A. Bám ở mặt trước thân đốt sống và các đĩa gian đốt sống
+B. Bám ở mặt sau thân đốt sống và các đĩa gian đốt sống
+C. Bám ở mảnh cung giữa hai đốt sống liên tiếp
+D. Bám ở đỉnh mỏm gai giữa hai đốt sống liên tiếp
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+619. Dây chằng nào sau đây giúp cột sống hạn chế gập quá mức?
+A. Dây chằng dọc trước
+B. Dây chằng liên gai
+C. Dây chằng liên mỏm ngang
+D. Dây chằng vàng
+
+620. Điểm nào sau đây không đúng với các cơ vùng đầu mặt?
+A. Các cơ mặt còn được gọi là cơ bám da mặt
+B. Các cơ bám da khi co tạo nên những nếp nhăn ở da mặt
+C. Các cơ nhai bám vào xương hàm dưới
+D. Các cơ vùng đầu mặt đều do thần kinh mặt vận động
+
+621. Cơ nào sau đây không nằm trong nhóm cơ làm động tác nhai?
+A. Cơ chân bướm ngoài
+B. Cơ chân bướm trong
+C. Cơ hạ góc miệng
+D. Cơ thái dương
+
+622. Cơ nào sau đây là cơ khỏe nhất trong các cơ nhai?
+A. Cơ cắn
+B. Cơ thái dương
+C. Cơ chân bướm trong
+D. Cơ chân bướm ngoài
+
+623. Cơ nào sau đây có tác dụng mở hàm dưới?
+A. Cơ cắn
+B. Cơ thái dương
+C. Cơ chân bướm trong
+D. Cơ chân bướm ngoài
+
+624. Tổn thương bao khớp của khớp thái dương hàm có thể ảnh hưởng đến cơ nào sau đây?
+A. Cơ cắn
+B. Cơ thái dương
+C. Cơ chân bướm trong
+D. Cơ chân bướm ngoài
+
+625. Cơ nào sau đây có động tác đưa hàm dưới ra trước?
+A. Cơ chân bướm trong
+B. Cơ chân bướm ngoài
+C. Cơ cắn
+D. Cơ thái dương
+
 **626.** Cơ nào sau đây làm động tác duỗi cổ?
 - A. Cơ ức đòn chũm
 - B. Cơ thang
@@ -1138,6 +3925,96 @@ C. Động mạch thẹn trong
 - B. Cơ ức đòn chũm
 - C. Cơ bậc thang trước
 - D. Cơ hai thân
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+633. Tam giác cảnh được giới hạn bởi cấu trúc nào sau đây?
+A. Cơ ức đòn chũm, đường giữa cổ, xương hàm dưới
+B. Cơ ức đòn chũm, cơ hai thân, đường giữa cổ
+C. Cơ ức đòn chũm, cơ hai thân, cơ vai móng
+D. Cơ ức đòn chũm, cơ vai móng, đường giữa cổ
+
+634. Tam giác dưới hàm được giới hạn bởi cấu trúc nào sau đây?
+A. Xương hàm dưới, cơ hai thân
+B. Cơ ức đòn chũm, cơ hai thân
+C. Xương hàm dưới, cơ hai thân
+D. Cơ hai thân, đường giữa cổ
+
+635. Thành phần nào sau đây nằm trong tam giác dưới hàm?
+A. Động mạch giáp trên
+B. Động mạch mặt
+C. Tĩnh mạch cảnh ngoài
+D. Thân giao cảm cổ
+
+636. Tam giác cơ (của tam giác cổ trước) được giới hạn bởi cấu trúc nào sau đây?
+A. Bụng trên cơ vai móng, cơ ức đòn chũm, đường giữa cổ
+B. Bụng dưới cơ vai móng, cơ ức đòn chũm, đường giữa cổ
+C. Bụng dưới cơ vai móng, cơ ức đòn chũm, xương đòn
+D. Bụng trên cơ vai móng, cơ thang, xương đòn
+
+637. Trong tam giác cơ (của tam giác cổ trước) có chứa các thành phần sau, ngoại trừ?
+A. Tuyến giáp
+B. Cơ giáp
+C. Thần kinh hạ thiệt
+D. Cơ ức móng
+
+638. Tam giác cổ sau được giới hạn bởi
+A. Cơ ức đòn chũm, cơ thang, xương đòn
+B. Cơ ức đòn chũm, cơ vai móng, xương đòn
+C. Cơ ức đòn chũm, cơ vai móng, cơ thang
+D. Cơ ức đòn chũm, cơ thang, đường giữa cổ
+
+639. Tam giác cổ sau chia thành tam giác chẩm và tam giác vai đòn bởi
+A. Bụng trên cơ vai móng
+B. Bụng dưới cơ vai móng
+C. Bờ trước cơ ức đòn chũm
+D. Bờ sau cơ ức đòn chũm
+
+Module CƠ XƯƠNG KHỚP
+
+640. Các thành phần sau đây có thể tìm thấy ở tam giác cổ sau, ngoại trừ?
+A. Thần kinh phụ
+B. Thần kinh lang thang
+C. Đám rối cổ
+D. Đám rối cánh tay
+
+641. Về tam giác cổ sau, điều nào sau đây sai?
+A. Giới hạn sau là bờ trước cơ thang
+B. Có chứa bụng trước cơ vai móng
+C. Có chứa thần kinh phụ
+D. Có chứa động mạch chẩm
+
+642. Các cơ sau đây đều tham gia vào động tác gập thân mình, ngoại trừ
+A. Cơ chéo bụng ngoài
+B. Cơ chéo bụng trong
+C. Cơ ngang bụng
+D. Cơ thẳng bụng
+
+643. Cơ nào sau đây có chức năng chống lại tư thế ưỡn cột sống?
+A. Cơ chéo bụng ngoài
+B. Cơ chéo bụng trong
+C. Cơ ngang bụng
+D. Cơ thẳng bụng
+
+644. Ở đoạn 3/4 trên, lá trước bao cơ thẳng bụng gồm
+A. Lá trước cân cơ chéo bụng ngoài
+B. Toàn bộ cân cơ chéo bụng ngoài
+C. Toàn bộ cân cơ chéo bụng ngoài và lá trước cân cơ chéo bụng trong
+D. Toàn bộ cân cơ chéo bụng ngoài và hai lá cân cơ chéo bụng trong
+
+645. Cơ nào sau đây thuộc nhóm cơ thành bụng sau?
+A. Cơ vuông thắt lưng
+B. Cơ răng sau trên
+C. Cơ răng sau dưới
+D. Cơ thang
+
+646. Cơ nào sau đây ở khoang đáy chậu sâu?
+A. Cơ ngồi hang
+B. Cơ hành xốp
+C. Cơ thắt niệu đạo
+D. Cơ thắt ngoài hậu môn
+
+97
 
 # TRẮC NGHIỆM GIẢI PHẪU HỌC
 
@@ -1223,6 +4100,157 @@ D. Ròng rọc
 A. Ổ chảo
 B. Củ dưới ổ chảo
 
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+C. Khuyết vai
+D. Gai vai
+
+661. Trong khớp vai, dây chằng nào là dây chằng khỏe nhất?
+A. Dây chằng nón
+B. Dây chằng quạ – cánh tay
+C. Dây chằng cùng – đòn
+D. Dây chằng quạ – đòn
+
+662. Cơ nào sau đây không thuộc khối cơ xoay?
+A. Cơ trên gai
+B. Cơ dưới gai
+C. Cơ tròn bé
+D. Cơ tròn lớn
+
+663. Cơ nào sau đây thực hiện động tác đưa cánh ra trước và đập mạnh xuống nước trong bơi lội?
+A. Cơ ngực lớn
+B. Cơ lưng rộng
+C. Cơ đen-ta
+D. Cơ tam đầu cánh tay
+
+664. Động tác đưa tay lên cao và với ra trước để ném hoặc đẩy được thực hiện chủ yếu bởi cơ nào?
+A. Cơ đen-ta
+B. Cơ nhị đầu cánh tay
+C. Cơ răng trước
+D. Cơ ngực lớn
+
+665. Cơ nào sau đây thực hiện động tác đưa cánh tay ra sau để chuẩn bị ném bowling?
+A. Cơ ngực bé
+B. Cơ ngực lớn
+C. Cơ lưng rộng
+D. Cơ nhị đầu cánh tay
+
+666. Lỗ tam giác cánh tay tam đầu được giới hạn bởi những cơ nào?
+A. Cơ tròn bé, cơ tròn lớn, bờ ngoài xương vai
+B. Cơ tròn bé, đầu dài cơ tam đầu cánh tay, xương cánh tay
+C. Cơ tròn lớn, cơ lưng rộng, xương cánh tay
+D. Cơ tròn lớn, đầu dài cơ tam đầu cánh tay, xương cánh tay
+
+Module CƠ XƯƠNG KHỚP
+
+667. Lỗ tam giác vai tam đầu được giới hạn bởi
+A. Cơ tròn bé, cơ tròn lớn, bờ ngoài xương vai
+B. Cơ tròn bé, cơ tròn lớn, đầu dài cơ tam đầu cánh tay
+C. Cơ tròn bé, cơ tròn lớn, xương cánh tay
+D. Cơ tròn lớn, cơ lưng rộng, đầu dài cơ tam đầu cánh tay
+
+668. Thành phần nào sau đây đi qua lỗ tam giác cánh tay tam đầu?
+A. Động mạch cánh tay và thần kinh giữa
+B. Động mạch cánh tay và thần kinh quay
+C. Động mạch cánh tay sâu và thần kinh quay
+D. Động mạch cánh tay sâu và thần kinh giữa
+
+669. Động mạch nào sau đây đi quanh cổ phẫu thuật xương cánh tay?
+A. Động mạch mũ vai và động mạch ngực lưng
+B. Động mạch mũ vai và động mạch mũ cánh tay sau
+C. Động mạch mũ vai và động mạch mũ cánh tay trước
+D. Động mạch mũ cánh tay trước và động mạch mũ cánh tay sau
+
+670. Động tác gấp khuỷu được thực hiện bởi những cơ nào?
+A. Cơ nhị đầu cánh tay và cơ quạ cánh tay
+B. Cơ nhị đầu cánh tay và cơ cánh tay
+C. Cơ tam đầu cánh tay và cơ nhị đầu cánh tay
+D. Cơ cánh tay và cơ quạ cánh tay
+
+671. Mạch và thần kinh vùng cánh tay đi trong ống cánh tay. Thành sau ống cánh tay được tạo bởi thành phần nào?
+A. Cơ tam đầu cánh tay
+B. Xương cánh tay
+C. Vách gian cơ trong
+D. Vách gian cơ ngoài
+
+672. Mạch và thần kinh vùng cánh tay đi trong ống cánh tay. Thành trong ống cánh tay được tạo bởi
+A. Da và tổ chức dưới da
+B. Xương cánh tay
+C. Vách gian cơ trong
+D. Vách gian cơ ngoài
+
+673. Về phía trước, ống cánh tay được tạo bởi cấu trúc nào sau đây?
+A. Da và tổ chức dưới da
+B. Các cơ vùng cánh tay trước
+C. Vách gian cơ trong
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+D. Vách gian cơ ngoài
+
+674. Trên thiết đồ cắt ngang qua 1/3 dưới cánh tay, thành phần nào sau đây hiện diện trong ống cánh tay?
+
+A. Động mạch cánh tay, thần kinh giữa, thần kinh trụ
+
+B. Động mạch cánh tay, thần kinh quay, thần kinh trụ
+
+C. Động mạch cánh tay, thần kinh giữa
+
+D. Động mạch cánh tay, thần kinh giữa
+
+675. Trên thiết đồ cắt ngang qua 1/3 trên cánh tay, thành phần nào sau đây hiện diện trong ống cánh tay?
+
+A. Động mạch cánh tay, thần kinh giữa
+
+B. Động mạch cánh tay sâu, thần kinh giữa
+
+C. Động mạch cánh tay, thần kinh giữa, thần kinh trụ
+
+D. Động mạch cánh tay, thần kinh quay, thần kinh trụ
+
+676. Cấu trúc nào sau đây trong ống cánh tay chọc qua vách gian cơ trong để ra sau?
+
+A. Thần kinh giữa
+
+B. Động mạch cánh tay
+
+C. Động mạch bên trụ dưới
+
+D. Thần kinh trụ
+
+677. Khuyết ròng rọc nằm ở
+
+A. Mặt trước đầu trên xương trụ
+
+B. Mặt sau đầu trên xương trụ
+
+C. Mặt trong đầu dưới xương quay
+
+D. Mặt trong đầu trên xương quay
+
+678. Chi tiết nào sau đây không thuộc xương trụ?
+
+A. Mỏm vẹt
+
+B. Khuyết ròng rọc
+
+C. Khuyết trụ
+
+D. Khuyết quay
+
+679. Về xương trụ, điều nào sau đây sai?
+
+A. Dài hơn xương quay và nằm phía ngoài xương quay
+
+B. Mỏm khuỷu nằm trong hố khuỷu khi khuỷu duỗi
+
+C. Mỏm vẹt nằm trong hố vẹt khi khuỷu gấp
+
+D. Có khuyết ròng rọc khớp với ròng rọc xương cánh tay
+
+680. Chi tiết nào sau đây không phải của xương quay?
+
+A. Chỏm quay
+
 B. Lồi củ quay
 C. Khuyết quay
 D. Vành quay
@@ -1307,6 +4335,44 @@ D. Lồi củ quay
 - **C.** Xương hộp
 - **D.** Xương thuyền
 
+Module CƠ XƯƠNG KHỚP
+
+694. Một phụ nữ 55 tuổi vấp ngã ở tư thế chống bàn tay phải xuống đất. Sau đó người này thấy sưng đau cổ tay phải, bàn tay hơi lệch trục so với cẳng tay. Nếu có gãy xương ở bệnh nhân này thì khả năng cao nhất là gì?
+A. Gãy đầu dưới xương trụ
+B. Gãy đầu dưới xương quay
+C. Gãy nền các xương bàn
+D. Gãy một hoặc nhiều xương cổ tay
+
+695. Một phụ nữ 56 tuổi vấp ngã ở tư thế vùng vai, cánh tay bên phải chạm đất. Sau đó người này thấy sưng đau vùng vai và cánh tay phải, không cử động được tay phải. Nếu có gãy xương ở bệnh nhân này thì khả năng cao nhất là gì?
+A. Gãy cổ xương vai
+B. Gãy cổ giải phẫu xương cánh tay
+C. Gãy cổ phẫu thuật xương cánh tay
+D. Gãy mỏm quạ xương vai
+
+696. Thành phần nào sau đây không nằm trong ống cổ tay?
+A. Gân cơ gấp cổ tay trụ
+B. Gân cơ gấp các ngón nông
+C. Gân cơ gan tay dài
+D. Gân cơ gấp ngón cái dài
+
+697. Khi bàn tay làm động tác sấp – ngửa sẽ có sự tham gia của các khớp nào sau đây?
+A. Khớp cánh tay quay, khớp quay – trụ dưới
+B. Khớp cánh tay quay, khớp quay – trụ trên, khớp quay – trụ dưới
+C. Khớp cánh tay quay, khớp quay – trụ trên, khớp cổ tay – quay
+D. Khớp cánh tay quay, khớp quay – trụ dưới, khớp cổ tay – quay
+
+698. Trong khớp khuỷu có
+A. Hai khớp
+B. Ba khớp
+C. Bốn khớp
+D. Năm khớp
+
+699. Dây chằng nào sau đây là dây chằng của khớp quay trụ trên?
+A. Dây chằng vòng
+B. Dây chằng bên quay
+C. Dây chằng bên trụ
+D. Dây chằng sau
+
 # TRẮC NGHIỆM GIẢI PHẪU HỌC
 
 **700.** Cơ nào sau đây được cho là cơ tùy hành của động mạch trụ?
@@ -1350,6 +4416,46 @@ D. Lồi củ quay
 - B. Cơ nhị đầu cánh tay
 - C. Cơ cánh tay
 - D. Cơ cánh tay quay
+
+707. Gân cơ nào sau đây nằm giữa rãnh nhị đầu ngoài và rãnh nhị đầu trong?
+- A. Gân cơ sấp tròn
+- B. Gân cơ nhị đầu cánh tay
+- C. Gân cơ cánh tay quay
+- D. Gân cơ gấp cổ tay trụ
+
+708. Khi phẫu tích vào vùng khuỷu trước và đã xác định được gân cơ nhị đầu cánh tay, lúc này chúng tay sẽ tìm thấy động mạch cánh tay
+- A. Ở phía trước gân cơ nhị đầu cánh tay
+- B. Ở phía sau gân cơ nhị đầu cánh tay
+- C. Ở phía trong gân cơ nhị đầu cánh tay
+- D. Ở phía ngoài gân cơ nhị đầu cánh tay
+
+709. Khi phẫu tích vào vùng khuỷu trước và đã xác định được thần kinh giữa, lúc này chúng tay sẽ tìm thấy động mạch cánh tay ở vị trí nào?
+- A. Ở phía trước thần kinh giữa
+- B. Ở phía sau thần kinh giữa
+- C. Ở phía trong thần kinh giữa
+- D. Ở phía ngoài thần kinh giữa
+
+710. Các cơ sau đây thuộc vùng cẳng tay, ngoại trừ?
+- A. Cơ sấp vuông
+- B. Cơ duỗi các ngón
+- C. Cơ gan tay dài
+- D. Cơ khép ngón cái
+
+711. Cơ nào sau đây nằm ở lớp sâu vùng cẳng tay sau?
+- A. Cơ gấp cổ tay quay
+- B. Cơ dạng ngón cái dài
+- C. Cơ duỗi cổ tay quay dài
+- D. Cơ duỗi các ngón
+
+712. Ở vùng cẳng tay trước có tám cơ xếp thành ba lớp, cơ nào sau đây thuộc lớp giữa?
+- A. Cơ gấp các ngón nông
+- B. Cơ gấp ngón cái dài
+- C. Cơ gấp cổ tay trụ
+- D. Cơ gấp cổ tay quay
+
+713. Cơ nào sau đây được vận động bởi thần kinh quay?
+- A. Cơ sấp tròn
+- B. Cơ sấp vuông
 
 **TRẮC NGHIỆM GIẢI PHẪU HỌC**
 C. Cơ gan tay dài
@@ -1433,6 +4539,135 @@ Module CƠ XƯƠNG KHỚP
 - **A.** Đường cung
 - **B.** Diện nguyệt
 
+**TRẮC NGHIỆM** **GIẢI PHẪU** **HỌC**
+
+C. Hố ổ cối
+D. Ổ cối
+
+**727.** **Diện nguyệt** là một chi tiết trên xương nào?
+- **A.** Xương hông
+- **B.** Xương vai
+- ~~**C.**~~ Xương đùi
+- **D.** Xương bánh chè
+
+**728.** **Eo chậu** trên là mặt phẳng đi qua mỏm nhô xương cùng, mào lược xương mu và bộ phận nào?
+- **A.** Đường mông trên
+- **B.** Rãnh bịt
+- **C.** Gai ngồi
+- **D.** Đường cung
+
+**729.** **Gai chậu** trước trên của xương chậu tương ứng với đốt sống nào?
+- **A.** Thắt lưng 2
+- **B.** Thắt lưng 3
+- **C.** Cùng 1
+- **D.** Cùng 2
+
+**730.** **Gai chậu** sau trên của xương chậu tương ứng với đốt sống nào?
+- **A.** Thắt lưng 5
+- **B.** Cùng 1
+- **C.** Cùng 2
+- **D.** Cùng 3
+
+**731.** **Các thành** phần sau đây ở bờ sau xương chậu, ngoại trừ?
+- **A.** Gò chậu mu
+- **B.** Khuyết ngồi bé
+- **C.** Gai ngồi
+- **D.** Gai chậu sau dưới
+
+**732.** **Xương hông** có các đặc điểm sau đây, ngoại trừ?
+- **A.** Về hình dạng, được xếp vào nhóm xương dẹt
+- **B.** Cấu tạo chủ yếu bởi mô xương xốp
+- **C.** Có ý nghĩa quan trọng về sản khoa
+- **D.** Khớp với cột sống thắt lưng tạo nên khung chậu
+
+**733.** **Mạc nông** ở vùng mông bọc lấy cơ nào sau đây?
+- **A.** Cơ mông lớn
+- **B.** Cơ mông nhỡ
+
+Module CƠ XƯƠNG KHỚP
+
+C. Cơ hình lê
+D. Cơ bịt trong
+734. Khi phẫu tích vào vùng mông người ta thấy bó mạch và thần kinh ở đây chia thành hai nhóm khá rõ ràng do vị trí của chúng so với cơ nào?
+A. Cơ bịt trong
+B. Cơ hình lê
+C. Cơ mông nhỡ
+D. Hai cơ sinh đôi
+
+735. Về nguyên ủy – bám tận, cơ nào sau đây thuộc nhóm cơ ụ ngồi – xương mu – mấu chuyển?
+A. Cơ mông nhỡ
+B. Cơ vuông đùi
+C. Cơ căng mạc đùi
+D. Cơ hình lê
+
+736. Các cơ sau đây bám vào mấu chuyển lớn xương đùi, ngoại trừ:
+A. Cơ mông lớn
+B. Cơ mông nhỡ
+C. Cơ mông bé
+D. Cơ bịt trong
+
+737. Ở vùng mông, lớp nông gồm cơ mông lớn và cơ gì?
+A. Cơ bịt ngoài
+B. Cơ mông nhỡ
+C. Cơ căng mạc đùi
+D. Cơ vuông đùi
+
+738. Cơ nào sau đây thuộc nhóm cơ chậu – mấu chuyển?
+A. Cơ hình lê
+B. Cơ sinh đôi
+C. Cơ vuông đùi
+D. Cơ bịt ngoài
+
+739. Cơ nào sau đây bám vào hố mấu chuyển xương đùi?
+A. Cơ bịt trong
+B. Cơ vuông đùi
+C. Cơ khép ngắn
+D. Cơ lược
+
+740. Cơ nào sau đây nằm trong hai lá của mạc nông ở vùng mông?
+A. Cơ bịt ngoài
+
+# TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+B. Cơ căng mạc đùi
+C. Cơ sinh đôi trên
+D. Cơ vuông đùi
+
+**741.** Cơ nào sau đây vận động bởi thần kinh mông dưới?
+A. Cơ hình lê
+B. Cơ mông nhỡ
+C. Cơ mông lớn
+D. Cơ bịt ngoài
+
+**742.** Cơ nào sau đây thuộc nhóm cơ làm chức năng duỗi, dạng và xoay đùi?
+A. Cơ mông lớn
+B. Cơ vuông đùi
+C. Cơ căng mạc đùi
+D. Cơ cơ bịt trong
+
+**743.** Vùng mông được cấp máu bởi động mạch mông trên và động mạch mông dưới, hai động mạch này đều là nhánh của động mạch nào?
+A. Động mạch đùi sâu
+B. Động mạch chậu ngoài
+C. Động mạch chậu trong
+D. Động mạch mũ chậu nông
+
+**744.** Mạch máu và thần kinh vùng mông xuất phát từ trong chậu hông, để đi ra vùng mông, chúng phải đi qua đâu?
+A. Các lỗ cùng sau
+B. Khuyết ngồi lớn
+C. Khuyết ngồi bé
+D. Lỗ bịt
+
+**745.** Khi phẫu tích vùng mông, ta xác định được thần kinh mông trên tại bờ trên cơ hình lê, từ đó ta có thể tìm động mạch mông trên ở đâu?
+A. Phía sau thần kinh
+B. Phía trước thần kinh
+C. Phía trong thần kinh
+D. Phía ngoài thần kinh
+
+**746.** Để xác định hướng trước - sau của xương đùi nhanh và chính xác nhất, ta dựa vào?
+A. Cổ xương đùi
+B. Chỏm đùi
+C. Mấu chuyển bé
+
 Module CƠ XƯƠNG KHỚP
 
 D. Đường ráp
@@ -1513,6 +4748,130 @@ D. Dây chằng ngồi đùi
 760. Dây chằng nào sau đây có chức năng hạn chế sự duỗi quá mức của khớp hông?
 A. Dây chằng chậu đùi
 B. Dây chằng mu đùi
+
+C. Dây chằng chỏm đùi
+**D.** Dây chằng ngồi đùi
+
+**761.** Dây chằng nào sau đây có chức năng hạn chế sự dạng quá mức của khớp hông?
+- **A.** Dây chằng chậu đùi
+- **B.** Dây chằng mu đùi
+- **C.** Dây chằng chỏm đùi
+- **D.** Dây chằng ngồi đùi
+
+**762.** Vùng đùi chia thành ba khoang nhưng ranh giới giữa các khoang không thực sự rõ ràng. Cơ nào sau đây từ khoang trong liên tục ra khoang sau?
+- **A.** Cơ khép lớn
+- **B.** Cơ khép dài
+- **C.** Cơ lược
+- **D.** Cơ thon
+
+**763.** Ở đùi, cơ nào sau đây từ khoang trong liên tục ra khoang trước?
+- **A.** Cơ khép lớn
+- **B.** Cơ khép dài
+- **C.** Cơ lược
+- **D.** Cơ thon
+
+**764.** Ống cơ khép được hình thành từ các cơ sau đây, ngoại trừ:
+- **A.** Cơ may
+- **B.** Cơ khép lớn
+- **C.** Cơ rộng trong
+- **D.** Cơ lược
+
+**765.** Cơ nào sau đây được xem là cạnh trong tam giác đùi?
+- **A.** Cơ thon
+- **B.** Cơ lược
+- **C.** Cơ khép ngắn
+- **D.** Cơ khép dài
+
+**766.** Cơ nào sau đây được xem là cạnh ngoài tam giác đùi?
+- **A.** Cơ may
+- **B.** Cơ rộng ngoài
+- **C.** Cơ rộng trong
+- **D.** Cơ thẳng đùi
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+767. Đáy của tam giác đùi là cấu trúc nào?
+A. Mào chậu
+B. Dây chằng bẹn
+C. Mào lược xương mu
+D. Dây chằng khuyết
+
+768. Đỉnh của tam giác đùi là nơi có các cơ nào bắt chéo nào?
+A. Cơ may bắt chéo cơ khép dài
+B. Cơ khép dài bắt chéo cơ thon
+C. Cơ khép lớn bắt chéo cơ may
+D. Cơ may bắt chéo cơ thon
+
+769. Tam giác đùi được hình thành bởi các cấu trúc nào?
+A. Cơ rộng trong, cơ may, cơ lược
+B. Dây chằng bẹn, cơ thẳng đùi, cơ khép dài
+C. Dây chằng bẹn, cơ rộng trong, cơ khép dài
+D. Dây chằng bẹn, cơ may, cơ khép dài
+
+770. Mô tả về tam giác đùi, câu nào sau đây đúng?
+A. Bờ trong là cơ khép dài
+B. Bờ ngoài là cơ khép lớn
+C. Thành sau là khớp hông
+D. Thành trước là cơ thắt lưng chậu
+
+771. Cơ nào sau đây có động tác khép đùi?
+A. Cơ may
+B. Cơ lược
+C. Cơ rộng trong
+D. Cơ rộng giữa
+
+772. Cơ nào sau đây thuộc vùng đùi sau?
+A. Cơ lược
+B. Cơ nhị đầu đùi
+C. Cơ khép dài
+D. Cơ thon
+
+773. Các cơ sau đây thuộc khu trong vùng đùi trước, ngoại trừ?
+A. Cơ rộng trong
+B. Cơ khép ngắn
+C. Cơ lược
+D. Cơ khép dài
+
+774. Cơ nào sau đây **không thuộc** cơ tứ đầu đùi?
+- A. Cơ vuông đùi
+- B. Cơ thẳng đùi
+- C. Cơ rộng giữa
+- D. Cơ rộng trong
+
+775. Vùng đùi sau có ba cơ là cơ nào?
+- A. Cơ nhị đầu đùi, cơ bán gân, cơ thon
+- B. Cơ nhị đầu đùi, cơ bán gân, cơ bán màng
+- C. Cơ bán màng, cơ cơ khép dài, cơ thon
+- D. Cơ bám gân, cơ khép lớn, cơ rộng trong
+
+776. Cơ nào sau đây thuộc vùng đùi trước?
+- A. Cơ vuông đùi
+- B. Cơ bán gân
+- C. Cơ thẳng đùi
+- D. Cơ nhị đầu đùi
+
+777. Cơ nào sau đây thực hiện được cùng lúc động tác gấp đùi và gấp cẳng chân?
+- A. Cơ thon
+- B. Cơ tứ đầu đùi
+- C. Cơ rộng giữa
+- D. Cơ may
+
+778. “Chân ngỗng” hay “gân cơ chân ngỗng” là từ để chỉ sự hòa lẫn các gân của các cơ nào sau đây?
+- A. Cơ may, cơ thon, cơ bán gân
+- B. Cơ may, cơ thon, cơ khép dài
+- C. Cơ khép dài, cơ thon, cơ bán gân
+- D. Cơ khép dài, cơ may, cơ bán gân
+
+779. Lỗ cơ khép, nơi có động mạch đùi chui qua, được giới hạn bởi xương đùi và gân của cơ nào?
+- A. Cơ khép dài
+- B. Cơ khép lớn
+- C. Cơ khép ngắn
+- D. Cơ khép dài và cơ khép lớn
+
+780. Thần kinh bịt vận động các cơ sau đây, **ngoại trừ**?
+- A. Cơ khép dài
+- B. Cơ khép ngắn
+- C. Cơ lược
+- D. Cơ thon
 
 TRẮC NGHIỆM GIẢI PHẪU HỌC
 
@@ -1902,6 +5261,38 @@ TRẮC NGHIỆM GIẢI PHẪU HỌC
 - **C.** Gân cơ duỗi các ngón chân dài
 - **D.** Gân cơ mác ngắn
 
+Module THẦN KINH – NỘI TIẾT – GIÁC QUAN
+
+842. Hệ thần kinh trung ương gồm những thành phần nào?
+- A. Não bộ và tủy gai
+- B. Não bộ và 12 đôi dây thần kinh sọ
+- C. Não bộ, tủy gai và 12 đôi dây thần kinh sọ
+- D. Não bộ, tủy gai, 12 đôi dây thần kinh sọ và 31 đôi dây thần kinh gai sống
+
+843. Về giải phẫu, hệ thần kinh ngoại biên gồm những thành phần nào?
+- A. Thần kinh vận động và thần kinh cảm giác
+- B. Thần kinh gai sống và thần kinh sọ
+- C. Thần kinh vận động, thần kinh cảm giác và thần kinh thực vật
+- D. Thần kinh hướng tâm và thần kinh ly tâm
+
+844. Thân não gồm các phần não nào sau đây hợp thành?
+- A. Trung não, hành não, cầu não
+- B. Hành não, cầu não, tiểu não
+- C. Hành não, tiểu não, trung não
+- D. Hành não, cầu não, tiểu não, não thất tư
+
+845. Tủy gai bắt đầu từ bờ trên đốt đội (C1) và tận cùng ở ngang mức nào?
+- A. Bờ dưới đốt sống ngực 11 hay bờ trên đốt sống ngực 12
+- B. Bờ dưới đốt sống ngực 12 hay bờ trên đốt sống thắt lưng 1
+- C. Bờ dưới đốt sống thắt lưng 1 hay bờ trên đốt sống thắt lưng 2
+- D. Bờ dưới đốt sống thắt lưng 2 hay bờ trên đốt sống thắt lưng 3
+
+846. Rãnh trung gian sau chia thừng sau của tủy gai thành hai phần là bó thon và bó chêm. Rãnh trung gian sau hiện diện ở đoạn tủy nào sau đây?
+- A. Tủy cổ
+- B. Tủy cổ và tủy ngực trên
+- C. Tủy ngực trên và tủy ngực dưới
+- D. Tủy ngực dưới và chóp tủy
+
 **TRẮC NGHIỆM GIẢI PHẪU HỌC**
 
 **847.** Bệnh nhân nhập viện vì chấn thương cột sống cổ. Kết quả cộng hưởng từ ghi nhận hình ảnh tổn thương ngang mức mỏm gai cổ 5. Tổn thương này sẽ tương ứng đoạn tủy nào?
@@ -1942,6 +5333,35 @@ TRẮC NGHIỆM GIẢI PHẪU HỌC
 
 **853.** Bó nào của tủy gai đảm nhận chức năng dẫn truyền cảm giác sâu có ý thức?
 - **A.** Bó lưng bên
+
+B. Bó gai đồi thị bên
+C. Bó thon và bó chêm
+D. Bó tiền đình gai và bó mái gai
+854. Rễ thần kinh gai sống đi qua lỗ liên hợp tạo bởi cuống cung đốt sống cổ 7 và cuống cung đốt sống ngực 1 là rễ thần kinh nào?
+A. Rễ thần kinh gai sống cổ 6
+B. Rễ thần kinh gai sống cổ 7
+C. Rễ thần kinh gai sống cổ 8
+D. Rễ thần kinh gai sống ngực 1
+855. Thoát vị đĩa đệm chui vào lỗ liên hợp tạo bởi cuống cung đốt sống thắt lưng L4 và cuống cung đốt sống thắt lưng L5, thần kinh nào sau đây sẽ bị chèn ép?
+A. Thần kinh gai sống L3
+B. Thần kinh gai sống L4
+C. Thần kinh gai sống L5
+D. Thần kinh gai sống S1
+856. Tủy gai được chia thành bốn đoạn, đó là gì?
+A. Phần cổ, phần ngực, phần thắt lưng, và nón tủy
+B. Phần cổ, phần ngực, phần thắt lưng và phần cùng
+C. Phần cổ, phần ngực, phần cùng và phần cụt
+D. Phần cổ, phần ngực, phần cùng và nón tủy
+857. Bệnh nhân bị chấn thương cột sống cổ. Trên hình ảnh chụp cộng hưởng từ, bác sĩ ghi nhận hình ảnh tổn thương tủy ngang mức mỏm gai đốt sống cổ C3. Đoạn tủy tương ứng bị tổn thương là đoạn tủy nào?
+A. Đoạn tủy cổ C3
+B. Đoạn tủy cổ C4
+C. Đoạn tủy cổ C5
+D. Đoạn tủy cổ C6
+858. Một bệnh nhân được chẩn đoán là bị viêm tủy. Bác sĩ khám thấy bệnh nhân mất cảm giác đau và cảm giác nóng lạnh hai chân. Cấu trúc nào sau đây có khả năng bị tổn thương nhất?
+A. Bó thon
+B. Bó chêm
+C. Bó vỏ gai
+D. Bó gai đồi thị bên
 
 **TRẮC NGHIỆM GIẢI PHẪU HỌC**
 
@@ -2274,6 +5694,74 @@ Module THẦN KINH – NỘI TIẾT – GIÁC QUAN
 - A. Thùy nhộng
 - B. Xoang tĩnh mạch dọc trên
 - C. Động mạch não giữa
+
+TRẮC NGHIỆM GIẢI PHẪU HỌC
+
+D. Các hồi ổ mắt
+
+912. Bệnh nhân bị tổn thương hồi trước trung tâm bên trái có thể có triệu chứng nào sau đây?
+
+A. Yếu liệt nửa người bên trái
+
+B. Tê nửa người bên trái
+
+C. Yếu liệt nửa người bên phải
+
+D. Tê nửa người bên phải
+
+913. Bệnh nhân nhập viện vì đột ngột đau đầu. Trên phim chụp cắt lớp vi tính bệnh nhân này ghi nhận hình ảnh xuất huyết đồi thị bên phải. Bệnh nhân có thể có triệu chứng nào sau đây?
+
+A. Liệt nửa người bên trái
+
+B. Tê nửa người bên trái
+
+C. Liệt nửa người bên phải
+
+D. Tê nửa người bên phải
+
+914. Khoang dưới nhện là một khoang giữa màng nào sau đây?
+
+A. Màng cứng và màng nhện
+
+B. Hai lá của màng nhện
+
+C. Màng nhện và màng mềm
+
+D. Màng mềm và nhu mô não
+
+915. Dịch não tủy lưu thông ở đâu?
+
+A. Khoang ngoài màng cứng
+
+B. Khoang dưới màng cứng
+
+C. Khoang dưới nhện
+
+D. Giữa màng màng mềm và mô não
+
+916. Mô tả về màng cứng ở não, chi tiết nào sau đây sai?
+
+A. Có đặc tính dày, chắc và rất đàn hồi
+
+B. Dính sát vào mặt trong xương sọ
+
+C. Tạo nên các trẽ màng cứng
+
+D. Hình thành các xoang tĩnh mạch màng cứng
+
+917. Màng mềm ở não có các đặc điểm sau, ngoại trừ?
+
+A. Là mô liên kết lỏng lẻo nhưng chứa nhiều vi mạch
+
+B. Tạo nên lều tiểu não
+
+C. Bao quanh các tiểu động mạch và tiểu tĩnh mạch não
+
+D. Hình thành nên các đám rối mạc mạch
+
+918. Đáy túi màng cứng của tủy gai ở ngang mức đốt sống nào?
+
+A. Thắt lưng 1
 
 B. Thắt lưng 2
 C. Cùng 1
@@ -3259,6 +6747,42 @@ Module THẦN KINH – NỘI TIẾT – GIÁC QUAN
 - C. Thần kinh lang thang
 - D. Thần kinh hàm dưới
 
+1074. Thần kinh sọ số IX tên là gì?
+- A. Thần kinh thiệt hầu
+- B. Thần kinh lang thang
+- C. Thần kinh tiền đình ốc tai
+- D. Thần kinh hạ thiệt
+
+1075. Thần kinh sinh ba cho ba nhánh. Nhánh V1 của thần kinh sinh ba có tên là gì?
+- A. Thần kinh trán
+- B. Thần kinh mắt
+- C. Thần kinh huyệt răng trên
+- D. Thần kinh hàm dưới
+
+1076. Tổn thương thần kinh nào sau đây có thể gây liệt bụng trước cơ hai thân?
+- A. Thần kinh thiệt hầu
+- B. Thần kinh mặt
+- C. Thần kinh sinh ba
+- D. Thần kinh phụ
+
+1077. Bệnh nhân nhập viện vì đỏ mắt trái. Bác sĩ khám thấy có dấu hiệu cương tụ kết mạc mắt trái, sụp mi trái, giãn đồng tử trái, dị cảm vùng trán trái, liệt các dây thần kinh vận động nhãn cầu. Tổn thương có thể nằm ở vị trí nào sau đây?
+- A. Xoang ngang
+- B. Xoang thẳng
+- C. Xoang xích ma
+- D. Xoang hang
+
+1078. Thần kinh nào sau đây là nhánh vận động của đám rối thần kinh cổ?
+- A. Thần kinh hoành
+- B. Thần kinh tai lớn
+- C. Thần kinh chẩm nhỏ
+- D. Thần kinh trên đòn
+
+Dùng các chọn lựa sau để trả lời 5 câu liên tiếp bên dưới. Mỗi chọn lựa có thể được dùng cho một câu, nhiều câu hoặc không được dùng:
+- A. Thần kinh sọ số III
+- B. Thần kinh sọ số V
+- C. Thần kinh sọ số VII
+- D. Thần kinh sọ số XI
+
 # TRẮC NGHIỆM GIẢI PHẪU HỌC
 
 1079. Là đây thần kinh hỗn hợp, có chức năng vận động cơ thái dương
@@ -3376,6 +6900,49 @@ D. Động mạch thận phải
 1097. Ở phía trước tuyến thượng thận trái liên quan với thành phần nào?
 A. Môn vị
 
+B. Thùy trái gan
+C. Tụy
+D. Bờ cong nhỏ dạ dày
+
+1098. Tuyến thượng thận nhận máu từ các động mạch sau đây, *ngoại trừ*?
+- A. Động mạch chủ
+- B. Động mạch hoành dưới
+- C. Động mạch thận
+- D. Động mạch thân tạng
+
+1099. Eo tuyến giáp nằm phía trước sụn nào?
+- A. Sụn giáp
+- B. Sụn nhẫn
+- C. Sụn khí quản 2-3
+- D. Sụn khí quản 4-5
+
+1100. Cấu trúc nào sau đây đi phía trong tuyến giáp?
+- A. Thần kinh thanh quản quặt ngược
+- B. Thần kinh lang thang
+- C. Động mạch cảnh trong
+- D. Tĩnh mạch cảnh trong
+
+1101. Động mạch giáp dưới xuất phát từ đâu?
+- A. Động mạch cảnh ngoài
+- B. Động mạch cổ sâu
+- C. Thân giáp cổ của động mạch dưới đòn
+- D. Thân sườn cổ của động mạch dưới đòn
+
+1102. Về liên quan giữa bao cảnh và tuyến giáp, câu nào sau đây đúng?
+- A. Bao cảnh ở trong tuyến giáp
+- B. Bao cảnh ở trước ngoài tuyến giáp
+- C. Bao cảnh ở sau tuyến giáp
+- D. Bao cảnh ở sau ngoài tuyến giáp
+
+1103. Thành dưới ổ mắt liên quan với cấu trúc nào sau đây?
+- A. Xoang hàm trên
+- B. Tuyến lệ
+- C. Cánh lớn xương bướm
+- D. Cánh nhỏ xương bướm
+
+1104. Thành ngoài ổ mắt được tạo bởi xương bướm và xương nào?
+- A. Xương trán
+
 TRẮC NGHIỆM GIẢI PHẪU HỌC
 
 B. Xương gò má
@@ -3421,6 +6988,49 @@ D. Giữa mặt trước thấu kính và giác mạc
 1111. Kết mạc không hiện diện ở đâu?
 A. Mặt trong mi mắt
 B. Mặt trước củng mạc
+
+C. Rìa giác mạc
+D. Mặt trước giác mạc
+
+1112. Tuyến lệ nằm ở đâu?
+- A. Thành trên của ổ mắt
+- B. Thành ngoài ổ mắt
+- C. Từ thành trên xuống thành ngoài ổ mắt
+- D. Từ thành trên xuống thành trong ổ mắt
+
+1113. Thần kinh nào sau đây chi phối cảm giác ống tai ngoài?
+- A. Thần kinh hàm trên và thần kinh hàm dưới
+- B. Thần kinh hàm dưới và thần kinh lang thang
+- C. Thần kinh lang thang và thần kinh thiệt hầu
+- D. Thần kinh thiệt hầu và thần kinh hàm dưới
+
+1114. Phía trước ống tai ngoài liên quan với?
+- A. Tuyến nước bọt mang tai
+- B. Mỏm gò má xương thái dương
+- C. Mỏm trán xương gò má
+- D. Khớp thái dương hàm
+
+1115. Hòm nhĩ chứa trong xương nào sau đây?
+- A. Xương sàng
+- B. Xương thái dương
+- C. Xương sàng
+- D. Xương bướm
+
+1116. Thành dưới hòm nhĩ liên quan với cấu trúc nào sau đây?
+- A. Tĩnh mạch cảnh trong
+- B. Động mạch cảnh trong
+- C. Thần kinh mặt
+- D. Thần kinh tiền đình ốc tai
+
+1117. Thành nào của hòm nhĩ liên quan với động mạch cảnh trong?
+- A. Thành dưới hòm nhĩ
+- B. Thành trên hòm nhĩ
+- C. Thành trước hòm nhĩ
+- D. Thành sau hòm nhĩ
+
+1118. Cơ căng màng nhĩ do thần kinh nào sau đây vận động?
+- A. Thần kinh mặt
+- B. Thần kinh hàm dưới
 
 **TRẮC NGHIỆM GIẢI PHẪU HỌC**
 
@@ -5766,3 +9376,51 @@ TRẮC NGHIỆM GIẢI PHẪU
 1198. A
 1199. B
 1200. D
+
+Trắc nghiệm Giải phẫu học – Theo chương trình y đa khoa đổi mới
+Ấn bản lần 2 – Chủ biên: TS.BS. Nguyễn Hoàng Vũ
+Bộ môn Giải phẫu học – Đại học Y Dược TP. Hồ Chí Minh
+
+**NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH**
+
+Trụ sở:
+Phòng 501, Nhà Điều hành ĐHQG-HCM,
+phường Linh Trung, thành phố Thủ Đức,
+Thành phố Hồ Chí Minh.
+ĐT: 028 62726361
+E-mail: vnuhp@vnuhcm.edu.vn
+
+Văn phòng đại diện:
+Tòa nhà K-Trường Đại học Khoa Xã hội & Nhân
+văn, số 10-12 Đình Tiên Hoàng, phường Bến Nghé,
+Quận 1, Thành phố Hồ Chí Minh
+ĐT: 028 62726390
+Website: www.vnuhcmpress.edu.vn
+
+**Chịu trách nhiệm xuất bản và nội dung**
+**PGS.TS NGUYỄN MINH TÂM**
+
+**Biên tập**
+**NGUYỄN THỊ NGỌC ANH**
+
+**Sửa bản in**
+**VIỄN KHUYÊN**
+
+**Trình bày bìa**
+**GIANG HƯƠNG**
+
+**Đối tác liên kết**
+**BỘ MÔN GIẢI PHẪU HỌC, ĐẠI HỌC Y DƯỢC TP. HCM**
+
+Xuất bản lần thứ 2. Số lượng in: 3.000 cuốn, khổ 16 x 24 cm. Số XNĐKXB:
+1456-2024/CXBIPH/33-13/ĐHQGTPHCM. QĐXB số: 26/QĐ-NXB-TB
+cấp ngày 09/5/2024. In tại: Công ty TNHH Thương mại Dịch vụ Đầu
+tư Thành Đạt; Địa chỉ: 352/24 Lê Văn Quới, phường Bình Hưng
+Hòa A, quận Bình Tân, TP.HCM. Nộp lưu chiểu: Năm 2024. ISBN:
+**978-604-479-550-8.**
+
+Bản quyền tác phẩm đã được bảo hộ bởi Luật Xuất bản và Luật Sở
+hữu trí tuệ Việt Nam. Nghiêm cấm mọi hình thức xuất bản, sao chụp, phát tán nội
+dung khi chưa có sự đồng ý của Tác giả và Nhà xuất bản.
+
+**ĐỂ CÓ SÁCH HAY, CẦN CHUNG TAY BẢO VỆ TÁC QUYỀN!**

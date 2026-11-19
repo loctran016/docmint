@@ -111,7 +111,38 @@ Sinh viên hiểu được cấu trúc – chức năng và cơ chế hoạt đ�
 - Vi khuẩn thường trú (liên quan đến Ruột non và Ruột già)
 
 # Chương 1
-HÌNH THÁI VÀ CHỨC NĂNG CỦA ỐNG TIÊU HÓA nuốt, cơ sẽ kéo khẩu cái mềm và lưỡi gà khẩu cái lên trên, làm đóng lỗ thông giữa mũi và hầu, giúp ngăn thức ăn lên ổ mũi. Ở mỗi bên lưỡi gà có cung khẩu cái lưỡi (*palatoglossal arch*) ở phía trước và cung khẩu cái hầu (*palatopharyngeal arch*) ở phía sau. Giữa hai cung có hạnh nhân khẩu cái (*palatine tonsils*).
+HÌNH THÁI VÀ CHỨC NĂNG CỦA ỐNG TIÊU HÓA
+
+# GIẢI PHẪU MIỆNG VÀ THỰC QUẢN
+
+TS.BS. Nguyễn Hoàng Vũ
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Mô tả giải phẫu ổ miệng và các cấu trúc liên quan.
+2. Mô tả giải phẫu thực quản.
+3. Xác định và giải thích vị trí thức ăn hoặc dị vật thường bị vướng ở thực quản.
+4. Giải thích cơ chế giãn tĩnh mạch thực quản trong trường hợp có tăng áp lực tĩnh mạch cửa.
+
+**NỘI DUNG BÀI GIẢNG**
+
+## 1. Ổ MIỆNG
+
+Ổ miệng *(oral cavity)*, là phần đầu tiên của ống tiêu hóa, có nhiệm vụ nếm, nhai, nuốt và nói (Hình 1). Ổ miệng cũng diễn ra quá trình tiêu hóa hóa học nhờ tác động của nước bọt.
+
+Ổ miệng thông ra ngoài qua khe miệng ở trước và thông với hầu qua eo họng ở phía sau. Eo họng hay eo miệng hầu *(oropharyngeal isthmus)* là ranh giới giữa miệng và hầu, nằm giữa khẩu cái mềm ở trên, lưng lưỡi ở dưới và hai bên là cung khẩu cái hầu. Phía trên ổ miệng, gọi là trần ổ miệng được tạo thành bởi khẩu cái, ở dưới là sàn miệng. Miệng được chia thành hai phần là tiền đình miệng và ổ miệng chính. Tiền đình miệng là một khoang hẹp nằm giữa má, môi và cung răng lợi. Ổ miệng chính là khoang nằm giữa khẩu cái và lưỡi.
+
+Ổ miệng được lót bởi lớp biểu mô lát tầng không sừng hóa giúp niêm mạc miệng không bị tác động gây hại bởi thức ăn.
+
+### 1.1. Má và môi
+
+Má *(cheek)* tạo nên thành bên của miệng, được cấu tạo bởi da, các cơ bám da, khối mỡ má và lớp niêm mạc liên tục với niêm mạc miệng.
+
+Môi *(lip)* gồm có môi trên và môi dưới, bao xung quanh khe miệng và gặp nhau ở hai bên gọi là mép môi. Mặt trong của môi có hãm môi trên và hãm môi dưới, nối môi với nướu răng. Từ ngoài vào, môi được cấu tạo bởi lớp da, cơ vân và niêm mạc.
+
+### 1.2. Khẩu cái
+
+Khẩu cái *(palate)* ngăn giữa ổ miệng và ổ mũi, gồm khẩu cái cứng *(hard palate)* ở trước và khẩu cái mềm *(soft palate)* liên tục phía sau. Khẩu cái cứng được tạo bởi mảnh khẩu cái xương hàm trên và mảnh ngang xương khẩu cái. Trên bề mặt khẩu cái cứng có những gờ ngang gọi là nếp khẩu cái. Khẩu cái mềm được tạo bởi cơ vân và mô tuyến. Ở phía sau, giữa khẩu cái mềm có một nếp nhô xuống dưới gọi là lưỡi gà khẩu cái. Trong khi nuốt, cơ sẽ kéo khẩu cái mềm và lưỡi gà khẩu cái lên trên, làm đóng lỗ thông giữa mũi và hầu, giúp ngăn thức ăn lên ổ mũi. Ở mỗi bên lưỡi gà có cung khẩu cái lưỡi (*palatoglossal arch*) ở phía trước và cung khẩu cái hầu (*palatopharyngeal arch*) ở phía sau. Giữa hai cung có hạnh nhân khẩu cái (*palatine tonsils*).
 
 [Hình: Ô miệng [1]]
 - Môi trên
@@ -136,7 +167,79 @@ Cơ cảm móng nằm phía trên phần giữa cơ hàm móng, bám từ gai c�
 
 ## 1.4. Lưỡi
 
-Lưỡi nằm ở sàn miệng và chiếm gần hết ổ miệng chính khi miệng ngậm (Hình 2). Lưỡi có nhiều chức năng như nếm, tham gia động tác nhai, nuốt, nói. Hai phần ba trước với tâm vị, một số sợi cơ hình thành cơ vòng dưới thực quản (lower esophageal sphincter) giúp ngăn cản dịch và thức ăn trào ngược từ dạ dày lên thực quản. Ngoài ra, lỗ thực quản của cơ hoành được giới hạn bởi hai trụ của cơ hoành nên cũng có tác dụng góp phần ngăn sự trào thức ăn và dịch vị từ dạ dày lên thực quản.
+Lưỡi nằm ở sàn miệng và chiếm gần hết ổ miệng chính khi miệng ngậm (Hình 2). Lưỡi có nhiều chức năng như nếm, tham gia động tác nhai, nuốt, nói. Hai phần ba trước lưỡi gọi là thân lưỡi, một phần ba sau gọi là rễ lưỡi. Giữa thân và rễ lưỡi là rãnh tận cùng (terminal sulcus) có dạng chữ “V” mà định hướng ra sau. Thân lưỡi thon nhỏ dần về phía trước và tận hết bằng đỉnh lưỡi. Rễ lưỡi dính vào nắp thanh môn bởi ba nếp, một nếp giữa và hai nếp bên gọi là nếp lưỡi - nắp thanh môn (glossoepiglottic fold). Giữa các nếp có hai hố nhỏ gọi là thung lũng nắp thanh môn mà xương hay dị vật có thể bị vướng ở đây. Mặt trên rễ lưỡi có nhiều nang bạch huyết gọi là hạnh nhân lưỡi. Mặt trên thân lưỡi lởm chởm vì có nhiều gai lưỡi (lingual papillae). Ở giữa mặt dưới thân lưỡi có một nếp gọi là hãm lưỡi (lingual frenulum), nối lưỡi với sàn miệng.
+
+[Hình: Lưỡi nhìn từ trên [4]]
+- Sụn nắp
+- Nếp lưỡi nắp giữa
+- Thung lũng nắp thanh môn
+- Nếp lưỡi nắp bên
+- Hạnh nhân khẩu cái
+- Rễ lưỡi
+- Nếp khẩu cái lưỡi
+- Thân lưỡi
+- Rãnh tận cùng
+- Đỉnh lưỡi
+
+Lưỡi được cấu tạo bởi khung của lưỡi và các cơ lưỡi.
+
+Khung của lưỡi gồm xương móng, cân lưỡi và vách lưỡi. Cân lưỡi nằm theo mặt phẳng đứng ngang, bám từ bờ trên xương móng đi thẳng lên và lẫn vào bề dày của lưỡi. Vách lưỡi nằm theo mặt phẳng đứng dọc, dính vào giữa mặt trước cân lưỡi và chia các cơ lưỡi làm hai nhóm phải và trái.
+
+Cơ của lưỡi gồm hai nhóm là nhóm cơ nội tại (intrinsis muscles) và nhóm cơ ngoại lai (extrinsic muscles). Các cơ nội tại bám vào khung của lưỡi và tận hết trong lưỡi, gồm một cơ dọc lưỡi trên (superior longitudinal muscle), hai cơ dọc lưỡi dưới (inferior longitudinal muscle), hai cơ ngang lưỡi (transverse muscle), hai cơ thẳng lưỡi (verticle muscle). Nhóm cơ ngoại lai là các cơ bám từ các cấu trúc lân cận (theo tên gọi của cơ) đến lưỡi, gồm cơ cằm lưỡi (genioglossus muscle), cơ móng lưỡi (hyoglossus muscle), cơ trâm lưỡi (styloglossus muscle), cơ khẩu cái lưỡi (palatoglossus muscle).
+
+Lưỡi được cấp máu bởi động mạch lưỡi, nhánh của động mạch cảnh ngoài (xem Module Tim mạch).
+
+Các cơ ở lưỡi được vận động bởi thần kinh hạ thiệt.
+
+Cảm giác ở hai phần ba trước lưỡi có dây thần kinh lưỡi là nhánh của thần kinh sinh ba làm nhiệm vụ cảm giác thân thể và thừng nhĩ thuộc thần kinh trung gian làm nhiệm vụ cảm giác vị giác. Cảm giác một phần ba sau của lưỡi có các dây thần kinh mặt, thần kinh thiệt hầu, thần kinh lang thang làm nhiệm vụ cảm giác vị giác lẫn thân thể (xem Module Thần kinh).
+
+## 1.5. Răng – lợi
+
+Lợi (gingiva hay gum), còn gọi là nướu, che phủ các lỗ huyệt răng của xương hàm trên và xương hàm dưới. Lợi được cấu tạo bởi mô xơ và được phủ bởi niêm mạc liên tục với niêm mạc của tiền đình miệng, khẩu cái và sàn miệng.
+
+Răng (teeth) là cấu trúc cứng nhất của cơ thể, có nhiệm vụ cắn, xé, nhai (Hình 3). Trong quá trình phát triển của cá thể có hai loại răng là răng sữa (deciduous teeth) và răng vĩnh viễn (permanent teeth).
+
+[Hình: Hình 3. Răng [1]]
+- Men răng
+- Ngà răng
+- Buồng thân răng
+- Thân răng
+- Chân răng
+- Nướu
+- Ông chân răng
+- Xương răng
+
+Răng sữa xuất hiện từ 6 tháng tuổi đến 2 tuổi, đôi khi đến 4 tuổi. Có tất cả 20 răng sữa, mỗi hàm có 10 răng. Ở mỗi bên của mỗi hàm, tính từ đường giữa trở ra là 2 răng cửa, 2 răng nanh, 2 răng cối. Răng cửa ở hàm dưới mọc đầu tiên.
+
+Răng vĩnh viễn: có tất cả 32 răng vĩnh viễn, ở mỗi bên của mỗi hàm theo thứ tự từ đường giữa ra là 2 răng cửa, 1 răng nanh, 2 răng tiền hàm, 3 răng hàm (còn gọi là răng cối). Răng vĩnh viễn bắt đầu thay thế răng sữa từ lúc 6 tuổi và răng sữa sẽ hoàn toàn được thay thế vào khoảng 12 tuổi. Tuy nhiên, răng hàm cuối cùng, tức răng hàm thứ ba, còn gọi là răng khôn (wisdom teeth) thường xuất hiện từ 17 đến 25 tuổi.
+
+Mỗi răng gồm có phần thân răng (crown) nhô lên trên nướu răng và phần chân răng (root) chôn trong lỗ huyệt răng. Giữa thân răng và chân răng là cổ (neck) răng.
+
+Răng được cấu tạo bởi một loại mô gần giống mô xương nhưng hơi cứng hơn xương, gọi là ngà răng (dentin). Ngà răng bao lấy một khoang bên trong gọi là buồng tủy răng (dental cavity). Phần buồng tủy tương ứng với thân răng gọi buồng thân răng (pulp cavity hoặc coronary cavity); phần buồng tủy tương ứng với chân răng gọi là ống chân răng (root canal). Ống chân răng mở ra bởi một hay nhiều lỗ gọi là lỗ đỉnh chân răng (apical foramen). Qua các lỗ này có thần kinh, mạch máu chui vào buồng tủy.
+
+Bên ngoài thân răng có lớp men răng (enamel) rất cứng và có màu trắng bóng, được cấu tạo chủ yếu là muối calci. Men răng sẽ không được tái tạo hoặc thay thế khi bị mài mòn hay chấn thương bề vỡ. Men răng cũng bị mài mòn dần theo tuổi. Ở cổ răng không có men răng mà có lớp xương răng (cementum) mỏng bao xung quanh.
+
+## 1.6. Tuyến nước bọt
+
+Có ba cặp tuyến nước bọt chính là tuyến mang tai, tuyến dưới hàm, tuyến dưới lưỡi.
+
+**Tuyến mang tai (parotid salivary glands)** là tuyến nước bọt lớn nhất, trọng lượng trung bình khoảng 20 g. Tuyến có hình không đều, nằm từ cung gò má đến bờ trước cơ ức đòn chùm và từ mỏm chùm đến mặt ngoài cơ cắn. Nước bọt tiết ra từ tuyến mang tai được tập trung vào ống tuyến mang tai, còn gọi là ống Stensens, rồi đổ vào tiền đình miệng tại vị trí đối diện với răng hàm trên thứ hai.
+
+**Tuyến dưới hàm (submandibular salivary glands)** nằm ở sàn miệng, mặt trong xương hàm dưới, ngay dưới đường hàm móng (mylohyoid line). Ống tuyến dưới hàm, còn gọi là ống Wharton, đổ vào dưới lưỡi, hai bên hãm lưỡi.
+
+**Tuyến dưới lưỡi (sublingual salivary glands)** nằm ở mặt dưới lưỡi. Ống tuyến dưới lưỡi, còn gọi là ống Rivinus, có nhiều ống nhỏ và cũng đổ vào hai bên hãm lưỡi.
+
+Ngoài ba cặp tuyến trên, còn có nhiều tuyến nhỏ nằm rải rác trong niêm mạc má, niêm mạc lưỡi và khẩu cái. Chúng tiết nước bọt liên tục giúp làm ẩm niêm mạc miệng.
+
+# 2. THỰC QUẢN
+
+## 2.1. Đường đi, liên quan
+
+Thực quản (esophagus) là ống cơ đi từ hầu đến dạ dày, dài khoảng 25 cm, đường kính khoảng 2 cm và dẹp theo chiều trước sau (Hình 4). Từ vùng cổ, bắt đầu ở vị trí ngang với bờ dưới thực quản và đốt sống cổ 6, thực quản đi qua trung thất trên rồi trung thất sau, phía sau khí quản và hơi lệch trái so với đường giữa. Thực quản đi xuyên qua cơ hoành ở lỗ thực quản của cơ này, ngang với đốt sống ngực 10 để vào bụng và nối với dạ dày ở tâm vị. Trên đường đi, thực quản có ba chỗ hẹp: chỗ bắt chéo cung động mạch chủ, chỗ đi phía sau phế quản trái và chỗ đi qua cơ hoành. Khi đi vào trung thất, thực quản đi phía sau tâm nhĩ trái. Vì vậy, khi có tình trạng lớn nhĩ trái có thể đè vào thực quản gây nuốt nghẹn.
+
+Vì đường đi của thực quản từ vùng cổ qua ngực rồi xuống bụng nên thực quản được chia làm ba đoạn là thực quản cổ, thực quản ngực và thực quản bụng.
+
+Thành thực quản được cấu tạo bởi cơ trơn và cơ vân. Ở đoạn 1/3 trên chỉ có cơ vân, ở đoạn 1/3 giữa gồm cơ vân và cơ trơn, ở đoạn 1/3 dưới chỉ có cơ trơn. Tại phía trên chỗ nổi với tâm vị, một số sợi cơ hình thành cơ vòng dưới thực quản (lower esophageal sphincter) giúp ngăn cản dịch và thức ăn trào ngược từ dạ dày lên thực quản. Ngoài ra, lỗ thực quản của cơ hoành được giới hạn bởi hai trụ của cơ hoành nên cũng có tác dụng góp phần ngăn sự trào thức ăn và dịch vị từ dạ dày lên thực quản.
 
 Niêm mạc thực quản được lót bởi lớp biểu mô lát tầng không sừng hóa. Lớp dưới niêm mạc có các tuyến thực quản có chức năng tiết chất nhầy làm trơn niêm mạc thực quản.
 
@@ -383,6 +486,66 @@ Thoát vị hoành (hiatus hernia, hiatal hernia) là hiện tượng một ph�
 Trong thoát vị cạnh thực quản, tâm vị vẫn ở vị trí bình thường nhưng một phần của dạ dày, thường là đáy vị, chui qua lỗ thực quản cơ hoành, phía trước thực quản. Trong trường hợp này, dịch và thức ăn không bị trào ngược lên thực quản vì lỗ tâm vị vẫn ở vị trí bình thường.
 
 Trong thoát vị trượt, thực quản đoạn bụng, tâm vị, một phần đáy vị trượt lên trên qua lỗ thực quản cơ hoành. Trường hợp này, dịch và thức ăn trong dạ dày có thể trào ngược lên thực quản. Thoát vị trượt thường gặp hơn thoát vị cạnh thực quản.
+
+16 BÀI GIẢNG HỆ TIÊU HÓA
+
+6. HẸP MÔN VỊ PHÌ ĐẠI BẨM SINH
+
+Phì đại môn vị bẩm sinh hay hẹp môn vị phì đại bẩm sinh (*congenital hypertrophic pyloric stenosis*) là tình trạng cơ thắt môn vị dày lên bất thường gây hẹp lỗ môn vị. Khi đó, dịch và thức ăn từ dạ dày sẽ không qua được lỗ môn vị để xuống ruột làm cho bệnh nhân phải nôn ói và dần dần gây căng giãn dạ dày.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Khuyết tâm vị nằm ở vị trí nào?
+
+A. Giữa niêm mạc tâm vị và niêm mạc đáy vị
+
+B. Giữa phần tâm vị và đoạn cuối thực quản
+
+C. Giữa phần niêm mạc dạ dày và niêm mạc thực quản
+
+D. Giữa đáy vị và thực quản
+
+2. Hình ảnh “bóng hơi dạ dày” trên phim X-quang là hình ảnh khí trong vùng nào?
+
+A. Hang vị
+
+B. Đáy vị
+
+C. Khuyết góc
+
+D. Ông môn vị
+
+3. Ở bờ cong nhỏ dạ dày có hai động mạch nào sau đây?
+
+A. Động mạch vị trái, động mạch vị phải
+
+B. Động mạch vị trái, động mạch vị mạc nối trái
+
+C. Động mạch vị phải, động mạch vị mạc nối phải
+
+D. Động mạch vị trái, động mạch vị mạc nối trái
+
+4. Điểm khác nhau cơ bản giữa thoát vị cạnh thực quản và thoát vị trượt là gì?
+
+A. Vị trí của thực quản
+
+B. Vị trí của lỗ tâm vị
+
+C. Độ lớn của lỗ tâm vị
+
+D. Độ lớn của lỗ cơ hoành
+
+5. Đối chiếu lên cột sống, lỗ môn vị ở ngang với đốt sống nào?
+
+A. Ngực 10
+
+B. Ngực 12
+
+C. Thắt lưng 1
+
+D. Thắt lưng 3
+
+ĐÁP ÁN: 1.D, 2.B, 3.A, 4.B, 5.C
 
 # GIẢI PHẪU RUỘT NON
 TS.BS. Nguyễn Hoàng Vũ, GS.TS.BS. Lê Văn Cường
@@ -857,6 +1020,72 @@ Lòng trực tràng có ba nếp ngang, gọi là nếp trực tràng trên *(su
 
 Trong ống hậu môn có từ 6 đến 10 nếp niêm mạc theo chiều dọc gọi là cột hậu môn *(anal column)*. Trong cột hậu môn có chứa nhánh tận của động mạch và tĩnh mạch trực tràng và các bó cơ dọc. Các chân cột hậu môn được nối nhau bởi những nếp ngang hình cung gọi là van hậu môn *(anal valve)*, các van hậu môn giới hạn các hố nhỏ phía trên gọi là xoang hậu môn *(anal sinus)*. Các van hậu môn và xoang hậu môn liên tục tạo thành đường răng cưa gọi là đường lược *(pectinate line)*. Phía trên các van hậu môn có các tĩnh mạch dưới niêm mạc mà khi bị căng giãn sẽ hình thành đám rối tĩnh mạch trĩ trong *(internal haemorrhoidal venous plexus)*. Niêm mạc dưới đường lược trơn láng và khi đến gần rìa hậu môn thì hơi lõm tạo thành một rãnh. Đó là rãnh gian cơ thắt *(xem bên dưới)*. Dưới đường lược cũng có các tĩnh mạch dưới niêm mạc mà khi giãn sẽ tạo nên đám rối tĩnh mạch trĩ ngoài *(external haemorrhoidal venous plexus)*.
 
+Cơ thắt trong hậu môn: bắt đầu từ chỗ nối trực tràng – ống hậu môn, lớp cơ vòng dày lên tạo thành cơ thắt trong hậu môn (internal anal sphincter). Bờ dưới hay giới hạn dưới của cơ thắt trong hậu môn là rãnh gian cơ thắt (intersphincteric groove) vì nó nằm giữa cơ thắt trong và phần dưới da của cơ thắt ngoài hậu môn (external anal sphincter). Cơ thắt ngoài hậu môn là cơ vân và thuộc nhóm cơ vùng đáy chậu.
+
+## CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Đặc điểm nào sau đây KHÔNG phải là đặc trưng của đại tràng?
+- A. Có lớp thanh mạc
+- B. Có các dải cơ dọc
+- C. Có túi thừa mạc nối
+- D. Có các túi phình
+
+2. Góc kết tràng phải là phần nằm giữa các cấu trúc giải phẫu nào sau đây?
+- A. Manh tràng và kết tràng lên
+- B. Kết tràng lên và kết tràng ngang
+- C. Kết tràng ngang và kết tràng xuống
+- D. Kết tràng xuống và trực tràng
+
+3. Ranh giới giữa đám rối tĩnh mạch trĩ trong và đám rối tĩnh mạch trĩ ngoài là gì?
+- A. Van hậu môn
+- B. Cột hậu môn
+- C. Đường lược
+- D. Rãnh gian cơ thắt
+
+4. Động mạch ruột thừa xuất phát từ động mạch nào?
+- A. Manh tràng trước
+- B. Manh tràng sau
+- C. Hồi kết tràng
+- D. Kết tràng phải
+
+5. Tĩnh mạch trực tràng giữa đổ về tĩnh mạch nào?
+- A. Mạc treo tràng dưới
+- B. Trực tràng trên
+- C. Mạc treo tràng trên
+- D. Chậu trong
+
+**ĐÁP ÁN:** 1.A, 2.B, 3.C, 4.C, 5.D
+
+# GIẢI PHẪU PHÚC MẠC VÀ CÁC CẤU TRÚC NÂNG ĐỠ ỐNG TIÊU HÓA
+
+GS.TS.BS. Lê Văn Cường
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Phân biệt phúc mạc thành và phúc mạc tạng.
+
+2. Phân biệt tạng trong phúc mạc, tạng ngoài phúc mạc, tạng dưới thanh mạc và tạng bị thành hóa.
+
+3. Mô tả mạc nối lớn, mạc nối nhỏ và túi mạc nối.
+
+4. Giải thích các khái niệm túi cùng, hố, ngách và các nếp phúc mạc.
+
+5. Mô tả các phân khu ổ bụng.
+
+**NỘI DUNG BÀI GIẢNG**
+
+Phúc mạc hay màng bụng (*peritoneum*) là một màng thanh mạc trơn láng che phủ tất cả các thành ổ bụng, bao bọc các tạng thuộc hệ tiêu hóa (kể cả các bó mạch thần kinh của tạng đó) và che phủ phía trước hay phía trên các tạng thuộc hệ tiết niệu sinh dục.
+
+**1. HÌNH TƯỢNG VỀ PHÚC MẠC**
+
+Để có một ý niệm hình tượng về phúc mạc, ta xem ổ bụng như vỏ da của một quả banh. Nếu ta bỏ vào vỏ da này các tạng trong ổ bụng rồi nhét ruột quả banh vào vỏ da. Ruột quả banh là một túi kín mà thành túi áp sát vào nhau sẽ len lỏi giữa các tạng, phủ các mặt của các tạng và thành trong của vỏ da. Ruột quả banh tương đương với phúc mạc.
+
+Sau khi ruột quả banh đã bao bọc các tạng và che phủ thành bụng, chúng ta hút hết hơi trong ruột quả banh, khi đó các tạng sẽ áp sát vào nhau và áp sát vào thành trong vỏ da như một khoang ảo thật sự trong ổ bụng.
+
+[Hình: Vỏ quả banh (thành bụng), Lòng quả banh (ổ bụng), Lòng ruột quả banh (ổ phúc mạc), Ruột quả banh (phúc mạc), Vật (tạng)]
+
+Hình 15. Hình tượng về phúc mạc
+
 Cũng có người ví phúc mạc như một lớp sơn quét toàn bộ thành trong ổ bụng kể cả các tạng, các mạch máu và thần kinh đi vào các tạng đó (Hình 15).
 
 Theo Bichat (1802), phúc mạc được ví như một túi kín bao phủ mặt trong thành bụng, nếu không có tạng (Hình 16A), có tạng xuất hiện và phát triển trong ổ bụng (Hình 16B), phúc mạc sẽ bao bọc quanh tạng nếu tạng di chuyển vào trong kéo theo nếp phúc mạc trong đó có cuống mạch máu nuôi tạng đó gọi là mạc treo (Hình 16C).
@@ -875,6 +1104,207 @@ Phúc mạc là một màng liên tục gồm hai phần:
 **Phúc mạc tạng** *(visceral peritoneum)* là phần phúc mạc bao bọc mặt ngoài các tạng.
 
 Liên tiếp giữa phúc mạc thành và phúc mạc tạng là các mạc treo, mạc nối, mạc chằng, mạc dính. Các mạc này thường gồm hai lá phúc mạc treo hoặc chằng các tạng vào thành
+
+Ứng dụng trong phẫu thuật để cắt tạng dưới thanh mạc khi tạng bị viêm. Những tạng với thanh mạc là ruột thừa, túi mật. Trong viêm ruột thừa, mạc nối lớn và các tạng khác ruột non đến áp dính vào sát quanh ruột thừa thành một đám quánh. Trong phẫu thuật, rất khó gỡ dính vì dễ gây tổn thương các tạng. Do đó, ứng dụng đặc điểm tạng dưới thanh mạc ta tìm gốc ruột thừa và tách ruột thừa ra khỏi lớp thanh mạc để cắt gốc ruột thừa và lột vỏ thanh mạc lại như lấy ruột quả chuối chín ra khỏi vỏ chuối.
+
+2.4. Các cấu trúc khác của phúc mạc
+
+Túi cùng (excavatio): túi cùng là do lá phúc mạc lách giữa các tạng ở chậu hông tạo thành một túi sâu của phúc mạc. Đây là những nơi thấp nhất của ổ phúc mạc mà dịch trong ổ bụng (nếu có) sẽ đọng lại tại đó. Ví dụ, túi cùng trực tràng – tử cung (excavatio rectouterina), túi cùng bàng quang – tử cung (excavatio vesicouterina), túi cùng trực tràng – bàng quang (excavatio rectovesicalis).
+
+Hố (fossa): hố là do phúc mạc thành lót vào chỗ lõm xuống của ổ bụng. Ví dụ, hố trên bàng quang (fossa supravesicalis), hố bẹn trong (fossa inguinalis), hố bẹn ngoài (fossa inguinalis lateralis).
+
+Ngách (recessus): ngách cũng do lá phúc mạc lách giữa các tạng hay giữa các tạng với thành bụng để tạo thành một rãnh hoặc một hốc nhưng những rãnh, hốc này không phải là chỗ thấp nhất của ổ bụng. Ví dụ, ngách tá tràng trên (recessus doudenalis superior), ngách tá tràng dưới (recessus doudenalis inferior), ngách gian sigma (recessus interisgmoideus), ngách sau manh tràng (recessus retrocecalis), ngách dưới hoành (recessus subphrenici), ngách dưới gan (recessus subhepaticci), ngách gan thận (recessus hepatorenalis).
+
+Nếp (plica): nếp là nơi phúc mạc bị đội lên bởi một tổ chức hay một mạch máu nổi lên trong ổ bụng. Ví dụ, nếp rốn trong (plica umbilicalis medialis) do phúc mạc phủ lên thừng động mạch rốn, nếp rốn ngoài (plica umbilicalis lateralis) do phúc mạc phủ lên động mạch thượng vị dưới. Hai nếp này giới hạn nên hố bẹn ngoài và hố bẹn trong.
+
+CẤU TẠO CỦA PHÚC MẠC
+
+3.1. Cấu tạo của phúc mạc
+
+Phúc mạc được cấu tạo bởi hai lớp:
+
+Lớp bề mặt được tạo bởi một lớp tế bào biểu mô gọi là lớp thanh mạc. Lớp tế bào biểu mô này làm cho phúc mạc trơn láng và óng ánh. Mặt khác, lớp biểu mô này tiết ra một lớp dịch mỏng giúp phúc mạc ẩm ướt. Nhờ đó mà bề mặt phúc mạc tiếp xúc trực tiếp với nhau nhưng lại trượt lên nhau rất dễ dàng, tạo điều kiện cho các tạng di động không có sự ma sát trong ổ bụng. Khi lớp biểu mô này bị tổn thương do viêm nhiễm hay bị chấn thương làm trầy xước thì các tạng rất dễ bị dính với nhau hoặc dính vào thành bụng.
+
+Lớp trong hay tấm dưới thanh mạc là lớp mô sợi liên kết, lớp này có độ đàn hồi cao. Lớp mô sợi liên kết này rất dày ở phúc mạc thành còn ở phúc mạc tạng và mạc treo thì mỏng. Nhờ lớp sợi liên kết mà phúc mạc có độ chắc chắn và đàn hồi, giúp ta khâu nối các tạng có phúc mạc che phủ (tạng trong phúc mạc) rất dễ dàng so với tạng ngoài phúc mạc.
+
+3.2. Kích thước phúc mạc
+Tuy ổ phúc mạc nằm trong ổ bụng nhưng vì phúc mạc gấp thành nếp, tạo thành những mạc treo, mạc nối, mạc chằng, túi cùng,... nên diện tích phúc mạc rất lớn, tương đương với diện tích da của cơ thể.
+
+3.3. Mạch và thần kinh của phúc mạc
+
+3.3.1. Mạch máu
+Phúc mạc không có mạch máu riêng biệt mà được nuôi bởi các nhánh thành bụng lân cận (phúc mạc thành) và mạch máu từ các tạng mà nó bao bọc (phúc mạc tạng).
+
+Phúc mạc cũng có hệ thống bạch mạch ở lớp dưới thanh mạc và trong thanh mạc như mạch máu, hệ thống bạch mạch này liên kết với hệ thống bạch huyết lân cận ở thành bụng hay ở các tạng.
+
+3.3.2. Thần kinh
+Thần kinh cung cấp cho phúc mạc gồm có các nhánh từ thần kinh hoành, thần kinh gian sườn VII đến XII, các nhánh từ thần kinh thắt lưng. Đó là hệ thống thần kinh tự chủ và vận mạch.
+
+Phúc mạc thành rất nhạy cảm với cảm giác đau. Ngược lại, phúc mạc tạng giống màng phổi, màng tim không có cảm giác.
+
+4. MẠC NỐI NHỎ VÀ MẠC NỐI LỚN
+
+4.1. Mạc nối nhỏ
+Mạc nối nhỏ (*lesser omentum*) là màng gồm hai lá phúc mạc nối từ gan vào bờ cong nhỏ dạ dày và vào tá tràng.
+
+4.1.1. Mô tả
+Mạc nối nhỏ có bốn bờ và hai mặt.
+
+Bờ gan dính vào gan theo một góc vuông, gồm đoạn ngang và đoạn thẳng. *Đoạn ngang* ở mặt dưới gan bám dọc theo rãnh ngang (rãnh dây chằng của gan) liên quan với cửa gan và gần bờ gan ở phía sau hơn phía trước. *Đoạn thẳng* ở mặt sau gan dọc theo rãnh của dây chằng tĩnh mạch. Hai lá của mạc nối sẽ tiếp liền với lá dưới của mạc chằng vành.
+
+Bờ vị dính vào bờ phải thực quản, bờ cong nhỏ dạ dày và vào phần di động của phần trên tá tràng. Ở tá tràng, mạc nối không dính đúng vào giữa bờ trên mà hơi lấn ra mặt sau. Hai lá sau khi bám vào thực quản và dạ dày tiếp nối ở dưới theo dọc bờ cong lớn và mạc nối lớn.
+
+Bờ trên (bờ hoành) rất ngắn, chạy ngang từ bờ gan tới thực quản. Hai lá liên tiếp với phúc mạc gan.
+
+Bờ phải căng từ rốn gan tới tá tràng nên gọi là dây chằng gan tá tràng (*hepatoduodenal ligament*). Bờ này giới hạn ở phía trước lỗ mạc nối.
+
+Mặt trước hướng sang trái và bị thùy trái gan che như một mái hiên.
+
+Mặt sau tạo nên thành trước của tiền đình hậu cung mạc nối, liên quan với thùy đuôi của gan.
+
+**4.1.2. Cấu tạo**
+
+Mạc nối nhỏ gồm có hai phần:
+
+Dây chằng gan vị (*hepatogastric ligament*) là phần nối từ rãnh của dây chằng tĩnh mạch gan đến bờ cong nhỏ dạ dày. Ở bên phải, mạc nối mỏng hơn vì không có mạch thần kinh gọi là phần mỏng của mạc nối nhỏ.
+
+Dây chằng gan tá tràng (*hepatoduodenal ligament*) là phần phúc mạc nối từ rãnh cửa của gan (rãnh ngang) đến với phần trên của tá tràng. Phần này dày, chứa cuống gan gồm ống mật chủ, động mạch gan riêng và tĩnh mạch cửa.
+
+**4.1.3. Ứng dụng**
+
+Mạc nối nhỏ cùng dạ dày tạo một vách dựng ngang ở tầng trên của ổ phúc mạc, chia ổ phúc mạc thành hai khoang. Khoang trước là ổ phúc mạc lớn, khoang sau là tiền đình túi mạc nối (*vestibulum bursa omentalis*). Muốn vào túi mạc nối có thể làm sập phần mỏng của mạc nối nhỏ, phần này có ít mạch máu.
+
+Áp-xe gan ở phía trước mạc nối có thể vỡ và chảy dịch vào ổ phúc mạc lớn, còn áp-xe ở phía sau thì tụ ở hậu cung mạc nối.
+
+Ở bờ phải mạc nối nhỏ có ống dẫn mật, có thể lấy bờ này làm đích để đặt ngón tay vào lỗ mạc nối thăm dò ống mật.
+
+Lỗ mạc nối bị bít có thể làm sập phần mỏng và chọc ngón tay sang bên phải để tách và mở lại lỗ.
+
+**4.2. Mạc nối lớn**
+
+Mạc nối lớn (*greater omentum*) là một phần của mạc treo vị sau bị trĩu xuống bởi sự phát triển xuống dưới của ngách gan ruột. Mạc nối lớn đi từ bờ cong lớn của dạ dày tới kết tràng ngang nên còn được gọi là dây chằng vị kết tràng (*gastrocolic ligament*). Mạc nối lớn trông như một tấm khăn ở phía sau thành bụng trước và phủ lên các tạng ở ổ bụng.
+
+**4.2.1. Cấu tạo**
+
+Hai lá phúc mạc của mạc treo vị dính vào nhau theo dọc bờ cong lớn của dạ dày, chạy xuống dưới, tỏa ra như một tấm khăn dài và dày, rồi quặt ngược lên tới kết tràng ngang, và dính vào mạc treo của kết tràng ngang. Sau đó, hai lá lại tách ra để bao phủ tá tràng và tụy, rồi tiếp tục chạy lên trên tới cơ hoành. Ở đây, hai lá lại dính vào nhau để tạo thành mạc chằng treo vị hay dây chằng vị – hoành.
+
+Bốn lá (hai lá trước và hai lá sau) của túi mạc nối dính vào nhau tạo thành mạc nối lớn. Túi mạc nối rộng hay hẹp tùy theo sự dính đó. Nhưng thường dính nhiều ở bên phải hơn bên trái, vì rạch vào túi nên rạch ở bên trái.
+
+Giữa các lá có tổ chức liên kết mỡ. Nếu có ít mỡ thì mạc nối lớn trông như một tấm khăn lốm đốm từng mảng. Giữa hai lá trước và dọc theo bờ cong vị lớn có động mạch vị mạc nối phải, là nhánh của động mạch vị tá tràng. Giữa hai lá sau có động mạch vị mạc nối trái, nhánh của động mạch lách.
+
+44 ♦ BÀI GIẢNG HỆ TIÊU HÓA
+
+**4.2.2. Tính chất**
+
+Mạc nối lớn có tính thấm hút và tính dính. Vì vậy, mạc nối lớn là một hàng rào chống đỡ và tiêu hủy vi trùng. Mạc nối lớn thường di chuyển tới cô lập các tạng bị viêm bằng cách bao phủ chung quanh, cách ly không cho viêm nhiễm lan truyền hoặc tới bít những lỗ thủng của tạng hay của thành bụng. Ngoài ra, mạc nối lớn đóng vai trò tóm bắt hay “chải” các tế bào ung thư.
+
+**5. PHÂN KHU Ô BỤNG**
+
+Mạc nối lớn và các mạc nối khác (mạc nối nhỏ, mạc nối vị – lách, mạc nối tụy – lách) quây ở trong ổ phúc mạc lớn một hậu cung gọi là túi mạc nối hay hậu cung mạc nối *(omental bursa)*.
+
+Mạc treo kết tràng ngang chia ô phúc mạc ra làm hai tầng, tầng trên mạc treo kết tràng ngang và tầng dưới mạc treo kết tràng ngang. Ở tầng trên, các tạng như gan, dạ dày, lách, tá tràng, tụy đều vây quanh túi mạc nối. Tầng trên này được dây chằng treo gan chia làm hai ô, là ô dưới hoành phải hay ô gan thông xuống dưới theo rãnh thành kết tràng phải và ô dưới hoành trái mở thông vào ô dạ dày, ô lách.
+
+Ở tầng dưới mạc treo kết tràng ngang, mạc treo ruột non chạy chếch từ trái sang phải như một vách đi từ đốt thắt lưng 2 tới khớp cùng chậu, chia ổ phúc mạc ở tầng dưới mạc treo kết tràng ngang làm hai khu, khu phải mạc treo ruột non và khu trái mạc treo ruột non.
+
+Kết tràng lên và kết tràng xuống tạo với thành bụng bên một rãnh gọi là rãnh thành kết tràng phải và rãnh thành kết tràng trái (thành ở đây có nghĩa là thành bụng). Rãnh thành kết tràng phải thông ô gan với hố chậu phải. Rãnh thành kết tràng trái thông ô dạ dày, ô lách với hố chậu trái.
+
+Mạc treo kết tràng chậu hông tùy theo lớn hay nhỏ đậy như một cái nắp kín hay mở trên chậu hông bé, tạo thành ô chậu hông bé tách riêng các tạng ở đây khỏi ổ phúc mạc lớn.
+
+Tóm lại, các cấu trúc của phúc mạc phân chia ổ phúc mạc thành các ô hay các khu sau:
+
+- Ở ổ phúc mạc lớn có ô dưới hoành phải, ô dưới hoành trái, ô dạ dày, ô lách, ô phải mạc treo ruột non, ô trái mạc treo ruột non, rãnh thành kết tràng phải, rãnh thành kết tràng trái, hố chậu phải, hố chậu trái.
+- Ở dưới ổ phúc mạc lớn có ô chậu hông bé.
+- Ở sau ổ phúc mạc lớn có túi mạc nối.
+
+**6. TÚI MẠC NÓI**
+
+Túi mạc nối hay hậu cung mạc nối là một ngách của ổ phúc mạc tạo nên bởi sự phát triển của ngách gan ruột. Có các mạc nối quây ở mặt trước, ở bên trái và ở mặt sau. Còn ở bên phải, túi mạc nối thông với ổ phúc mạc lớn bởi lỗ túi mạc nối (Hình 18).
+
+Bài 5. Giải phẫu phúc mạc và các cấu trúc nâng đỡ ống tiêu hóa ♦ 45
+
+[Hình: Sơ đồ cắt ngang qua túi mạc nối với các chú thích: TM chủ dưới, ĐM chủ bụng, Gan, Thận, ĐM lách, Thận, Tụy, Lách, Lỗ mạc nối, Lá tạng, Lá thành, Cuống gan (ĐM gan, TM cửa, Óng mật chủ), Mạc nối nhỏ, Dây chằng vị lách, Túi mạc nối, Dạ dày]
+
+Hình 18. Sơ đồ cắt ngang qua túi mạc nối
+
+6.1. Các ô của túi mạc nối
+
+Túi mạc nối gồm có hai phần: tiền đình và túi chính. Tiền đình thông với ổ bụng bởi lỗ mạc nối và liên tục với túi chính bởi lỗ nếp vị tụy.
+
+6.1.1. Lỗ mạc nối (omental foramen)
+
+Còn gọi là khe Winslow, là một khe dọc từ gan tới tá tràng, thông túi mạc nối với ổ phúc mạc lớn. Lỗ mạc nối được giới hạn bởi bờ trước là bờ phải của mạc nối nhỏ, bờ này chếch lên trên và sang phải; bờ sau là tĩnh mạch chủ dưới; bờ trên là gan; bờ dưới là bờ trên của mạc dính tá tràng.
+
+6.1.2. Tiền đình
+
+Tiền đình mạc nối (vestibulum bursae omentalis) là một khoang đi từ lỗ mạc nối tới lỗ giới hạn bởi các nếp vị tụy (gastropancreatic plica). Tiền đình có một ngách trên, thọc giữa cơ hoành và gan. Tiền đình có bốn thành: thành trước là phần mỏng của mạc nối nhỏ; thành sau là khoảng giữa động mạch chủ bụng và tĩnh mạch chủ dưới; thành trên là thùy đuôi của gan; thành dưới rất hẹp và liên quan với bờ trên của mạc dính tá tràng và nếp vị tụy dưới (liềm động mạch gan).
+
+**Bài 5. Giải phẫu phúc mạc và các cấu trúc nâng đỡ ống tiêu hóa ♦ 47**
+
+**6.2. Đường vào mạc nối**
+Tùy theo mục đích của phẫu thuật, có nhiều đường để vào túi mạc nối (Hình 19).
+- Qua lỗ mạc nối: để lách ngón tay thám sát cuống gan
+- Làm sập phần mỏng của mạc nối nhỏ để quan sát mặt sau dạ dày
+- Rạch mạc nối lớn theo bờ cong lớn dạ dày trên hay dưới vòng động mạch vị mạc nối. Đường rạch dưới vòng nổi động mạch vị mạc nối là đường vào túi mạc nối thường được ứng dụng nhất.
+- Bóc mạc dính giữa mạc nối lớn và mạc treo kết tràng ngang.
+- Làm một lỗ thủng ở mạc treo kết tràng ngang để nối dạ dày với hỗng tràng.
+
+**7. CHỨC NĂNG VÀ SINH LÝ CỦA PHÚC MẠC**
+
+**7.1. Chức năng**
+Phúc mạc lót mặt trong ổ bụng và bao bọc các tạng để che chở các tạng và làm cho thành của các tạng thêm vững chắc. Nhờ đặc tính trơn láng giúp cho các tạng di động dễ dàng trong ổ bụng, giảm thiểu sự ma sát.
+
+Phúc mạc có vai trò đề kháng với sự nhiễm trùng. Khi có nhiễm trùng thì phúc mạc có khuynh hướng làm tường vây quanh để khu trú ổ nhiễm trùng hay tổn thương. Phúc mạc và ổ phúc mạc đáp ứng với nhiễm trùng bằng các cách như sau:
+- Vi trùng được nhanh chóng lấy đi từ ổ phúc mạc qua phúc mạc ở mặt dưới cơ hoành và lên hệ bạch huyết ở ngực như đã mô tả ở trên.
+- Có sự gia tăng của bạch cầu vào xoang phúc mạc từ các vi mạch lân cận. Vi trùng trong phúc mạc sẽ bị tiêu diệt qua thực bào.
+- Có sự phóng thích histamin và các yếu tố vận mạch gây nên giãn mạch khu trú tạo ra sự thoát dịch có nhiều protein chứa immunoglobulin vào trong phúc mạc.
+- Vi trùng trong ổ phúc mạc bị cô lập và bao vây bởi hàng rào tạo bởi các sợi fibrin để khu trú ổ nhiễm trùng tạo viêm phúc mạc khu trú hoặc các ổ áp-xe.
+
+Phúc mạc có khả năng hấp thụ rất nhanh nhờ có diện tích bề mặt rộng nên khi tiêm dịch vào phúc mạc sẽ được hấp thụ ngay.
+
+Ngoài ra, phúc mạc còn là nơi dự trữ mỡ, rõ nhất là mạc nối lớn nên người ta còn gọi mạc nối lớn là mỡ chài.
+
+**7.2. Sinh lý của phúc mạc**
+Phúc mạc là một màng bán thấm hai chiều để điều hòa dịch trong ổ phúc mạc. Phúc mạc có khả năng thu thập và lấy đi vi trùng trong ổ phúc mạc, phúc mạc là phương tiện chuyển tế bào viêm từ vi mạch vào ổ phúc mạc.
+
+Bình thường, phúc mạc tiết dưới $100\text{ mL}$ dịch nhầy vào ổ phúc mạc, nhờ đó, các tạng có thể chuyển động tự do mà không có sự ma sát giữa các tạng và thành bụng.
+
+Những vi mao trên bề mặt của lớp tế bào biểu mô làm gia tăng bề mặt của phúc mạc, giúp chức năng hấp thu nhanh chóng dịch từ ổ phúc mạc vào hệ thống bạch mạch, hệ thống tĩnh mạch cửa và vào hệ tuần hoàn.
+
+Lượng dịch trong ổ phúc mạc có thể gia tăng nhiều lít trong các bệnh lý như xơ gan, hội chứng thận hư, ung thư lan tỏa trong phúc mạc.
+
+Sự lưu thông của dịch trong ổ phúc mạc được điều khiển một phần bởi sự chuyển động của cơ hoành. Khoảng trống giữa các tế bào trong lớp phúc mạc phủ mặt dưới cơ hoành còn gọi là Stomata, kết nối với những bể bạch huyết trong cơ hoành. Sự di chuyển bạch huyết dưới màng phổi đến các bạch huyết và cuối cùng đổ về ống ngực.
+
+Sự chùn của cơ hoành trong thì thở sẽ mở Stomata và áp lực âm trong ngực làm cho dịch có vi trùng vào Stomata. Sự co lại trong thì hít vào, bạch huyết sẽ qua các kênh bạch huyết trong trung thất để đổ vào ống ngực. Điều đó cho thấy là cơ hoành bơm vào tạo nên sự di chuyển của dịch từ ổ phúc mạc được đẩy lên trên xuyên qua cơ hoành và đi vào hệ tuần hoàn bạch huyết ở ngực.
+
+Sự tuần hoàn của dịch phúc mạc qua cơ hoành và vào kênh bạch huyết trung tâm là phù hợp với sự xuất hiện nhanh chóng của hiện tượng nhiễm khuẩn trong các bệnh nhân với sự nhiễm trùng lan rộng trong ổ bụng như viêm quanh gan của hội chứng Fitz-Hugh-Curtis trong bệnh nhân bị viêm phần phụ cấp.
+
+## 8. MỘT SỐ BẤT THƯỜNG CỦA PHÚC MẠC
+
+Sự thông thương giữa ổ phúc mạc với khoang màng phổi và màng tim: trong quá trình phát triển, phôi thai cơ hoành có thể không phát triển hoàn toàn tạo lỗ thông thương giữa ổ phúc mạc với khoang màng phổi. Sự khiếm khuyết này của cơ hoành có thể có lỗ thông thương với khoang màng tim nhưng sự thông thương này hiếm hơn.
+
+Dải phúc mạc (peritoneal band): trong quá trình phát triển của ống tiêu hóa trong thời kỳ phôi thai, một vài phần của mạc treo tiên phát hay mạc treo nguyên thủy được thu hút lại gần nhau và tạo sự dính thứ phát của phúc mạc. Sự dính này sẽ tạo ra các dải hay các dây chằng phúc mạc (Hình 20).
+
+Những màng, dải phúc mạc hay dây chằng phúc mạc này đôi khi rất khó phân biệt với sự dính của phúc mạc do bệnh lý viêm phúc mạc. Các dải phúc mạc, các dây chằng phúc mạc bản thân nó không gây nên một triệu chứng nào, tuy nhiên, nó có thể gây tắc ruột.
+
+Thông thường, chỗ dính thấy ở gần tá tràng, ở góc tá hồng tràng, ở đoạn cuối hồi tràng, ở vùng nối giữa manh tràng và kết tràng lên và ở chỗ nối giữa kết tràng xuống và kết tràng chậu hông.
+
+Bài 5. Giải phẫu phúc mạc và các cấu trúc nâng đỡ ống tiêu hóa ♦ 49
+
+[Hình: Dải phúc mạc ở các vị trí khác nhau]
+
+Dây chằng túi mật – tá – kết tràng (cystoduodenocolic ligament): do sự tồn tại một phần của mạc treo bụng tiên phát hay nguyên thủy tạo ra một màng như một màng che đi từ túi mật đến kết tràng ngang, trên đường đi màng có thể đi qua môn vị, phần đầu và phần thứ hai của tá tràng nên được gọi là dây chằng túi mật – tá – kết tràng.
+
+## CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Tạng nào sau đây là tạng ngoài phúc mạc?
+   - A. Gan
+   - B. Thận
+   - C. Dạ dày
+   - D. Tá tràng
+
+2. Thành trước của tiền đình túi mạc nối là cấu trúc nào?
+   - A. Mạc nối nhỏ
+   - B. Mạc nối lớn
 
 C. Dạ dày
 D. Kết tràng ngang
@@ -1141,7 +1571,97 @@ Ví dụ trong Hình 27, tần số những sóng nhọn trên nền nhịp đi�
 
 Ngoài ra, ống tiêu hóa còn có hiện tượng co thắt cơ liên tục, ổn định ở mức thấp gọi là trương lực cơ (smooth muscle tone). Trương lực cơ cao nhất ở các cơ thắt, có vai trò làm hẹp lòng ống tiêu hóa. Nguyên nhân gây ra trương lực cơ chưa được biết rõ, nhưng các cơ thắt có nhiều ti thể và có nồng độ calci cao hơn các cơ khác.
 
-mạch máu trong thành ruột, gây thiếu máu cơ. Các dây thần kinh tạng bị kích thích gây tăng tiết mồ hôi, hạ huyết áp và nôn. Hậu quả là bệnh nhân có thể bị kiềm chuyển hóa và mất nước, tình trạng nguy hiểm nếu không xử trí kịp thời có thể dẫn đến tử vong.
+1.2. Các cử động của ruột
+1.2.1. Nhu động
+Nhu động (peristaltism) là chuyển động nhằm vận chuyển thức ăn dọc theo ống tiêu hóa với vận tốc thích hợp cho sự tiêu hóa và hấp thu thức ăn (Hình 28). Nhu động ruột do tầng cơ phụ trách.
+[Hình: Nhu động; Sóng gây giãn cơ; Thời điểm 0; 5 giây sau; Hình 28. Nhu động ruột [4]]
+[Hình: Cách quãng đều nhau; Đơn độc; Cách quãng không đều nhau; Yếu cách quãng đều nhau; Hình 29. Cử động phân đoạn của ruột [4]]
+
+Nhu động xuất hiện tại bất cứ đoạn ruột nào khi đoạn này bị kích thích. Kích thích thường gặp nhất là sự căng thành ruột, ngoài ra, còn có thể do kích thích cơ học đối với niêm mạc ruột hay kích thích hệ phó giao cảm. Ở những vị trí có đám rối thần kinh cơ không hoàn hảo, nhu động ở đó xảy ra rất yếu.
+
+Nhu động có khuynh hướng đẩy các chất về phía hậu môn. Khi một đoạn ruột bị căng ra, thì có phản xạ co cơ ở đoạn ruột phía trước nơi bị căng, đồng thời có phản xạ giãn cơ ở đoạn ruột phía sau đoạn bị căng.
+
+1.2.2. Phân đoạn
+Cử động phân đoạn (segmentation) rất khác nhau ở những nơi khác nhau của ống tiêu hóa (Hình 29). Đó là những co thắt tại chỗ có vai trò nhào trộn thức ăn và giúp cho thức ăn luân phiên tiếp xúc với niêm mạc ruột. Ở một số nơi, chính nhu động cũng giữ vai trò nhào trộn thức ăn, nhất là khi gặp các cơ thắt (sphincter) vì khi các cơ này co, nhu động không đẩy tới được phải đẩy lùi, thức ăn như thế giống như được nhào trộn. Cử động phân đoạn là do lớp cơ vòng phụ trách.
+
+2. HOẠT ĐỘNG CƠ HỌC CỤ THỂ Ở TỪNG ĐOẠN ỐNG TIÊU HÓA
+
+2.1. Miệng, thực quản
+
+2.1.1. Cử động nhai
+Nhai là một hành động tự ý, nhưng lại được điều khiển bởi các trung tâm phản xạ tại cuống não. Khi nhai, hàm trên cố định, hàm dưới di động, nghiền vào hàm trên.
+
+Nhai có vai trò nghiền nhỏ thức ăn do hoạt động của răng: răng hàm để nghiền, răng nanh để xé và răng cửa để cắn. Như vậy, nhai giúp làm tăng diện tích tiếp xúc của các mảnh thức ăn nhỏ với men tiêu hóa ở miệng, tránh cho thức ăn làm trầy niêm mạc ống tiêu hóa và làm cho thức ăn trở nên dễ nuốt hơn. Rau và trái cây có vỏ cellulose là thành phần không chịu sự tiêu hóa của men, nên cử động nhai giúp phá vỡ lớp vỏ này, nhờ đó men tiêu hóa có thể tiếp xúc với phần dinh dưỡng bên trong.
+
+**2.1.2. Cử động nuốt**
+
+Nuốt khởi đầu là một hành động tự ý, nhưng sau đó hoàn toàn mang tính chất phản xạ. Cử động nuốt diễn tiến qua ba giai đoạn: miệng, hầu và thực quản (Hình 30).
+
+- Giai đoạn miệng: đây là giai đoạn tự ý. Lưỡi ngắt một phần của viên thức ăn rồi cong lên, áp vào khẩu cái cứng, đẩy viên thức ăn về phía hầu. Sau giai đoạn miệng, hoạt động nuốt diễn ra một cách tự động.
+- Giai đoạn hầu: hoạt động nuốt ở vùng hầu được điều khiển bởi trung tâm nuốt ở cuống não. Khi viên thức ăn tiếp xúc với các thụ thể nuốt ở vùng hầu, sẽ gây ra một loạt phản xạ co các cơ vùng hầu. Khẩu cái mềm được kéo lên trên để bít lối thông với mũi, không cho thức ăn trào ngược vào mũi. Các nếp khẩu hầu (oropharyngeal folds) ở hai bên được kéo vào trong, tạo ra một khe để thức ăn bắt buộc phải đi qua. Khe này chỉ cho thức ăn đã được nhai kỹ đi qua, còn chặn lại các mảnh thức ăn lớn. Các dây thanh âm đóng lại, thanh quản được kéo lên trên và ra trước, khiến nắp thanh quản (thanh thiệt) đậy lên lỗ thanh quản, để thức ăn không lọt được vào khí quản. Khi thanh quản được kéo lên, cơ vòng trên thực quản (upper esophageal sphincter) giãn ra và toàn bộ cơ hầu co lại; sóng nhu động lan nhanh từ hầu xuống thực quản, đẩy viên thức ăn vào thực quản. Giai đoạn hầu diễn ra trong vòng 1 – 2 giây. Chính trong giai đoạn này hô hấp bị ức chế vì đường thông giữa hầu, mũi và khí quản bị bịt lại tạm thời.
+- Giai đoạn thực quản: thực quản có nhiệm vụ đưa thức ăn xuống dạ dày. Bình thường có hai loại nhu động thực quản, nguyên phát và thứ phát. Nhu động nguyên phát (primary peristalsis) chỉ là sự tiếp tục của nhu động hầu lan truyền xuống thực quản, đưa thức ăn từ hầu xuống dạ dày trong khoảng 8 – 10 giây. Trên thực tế, thức ăn xuống nhanh hơn do còn có tác dụng của trọng lực. Nếu nhu động nguyên phát vẫn chưa đưa hết thức ăn xuống được thì phần thức ăn còn sót lại sẽ làm căng thành thực quản gây ra nhu động thứ phát (secondary peristalsis) để hoàn tất việc đưa thức ăn xuống dạ dày.
+
+[Hình: Khẩu cái cứng, Khẩu cái cứng, Hầu, Thức ăn, Thanh thiệt, Lưỡi, Thanh quản, Cơ vòng trên thực quản, Thực quản, Khí quản. (a): giai đoạn miệng; (b, c): giai đoạn hầu; (d): giai đoạn thực quản]
+
+Hình 30. Các giai đoạn nuốt [3]
+
+Nơi tiếp giáp thực quản và dạ dày có cơ vòng dưới thực quản. Vị trí cơ vòng nằm ngay dưới cơ hoành giúp cho cơ hoàn thành nhiệm vụ của một cái van. Bình thường, cơ này luôn ở trạng thái co thắt và có nhiệm vụ ngăn ngừa sự trào ngược thức ăn từ dạ dày lên thực quản. Khi áp suất trong ổ bụng tăng sẽ làm áp suất trong dạ dày tăng theo, nhưng đồng thời thực quản cũng bị ép lại tại nơi có cơ vòng dưới thực quản, nhờ đó, sự trào ngược không xảy ra. Khi nuốt nhu động thực quản làm giãn cơ thắt này và thức ăn đi vào dạ dày một cách dễ dàng.
+
+Trương lực cơ vòng dưới thực quản được điều hòa bởi hệ thần kinh và hệ nội tiết. Xung động thần kinh cholinergic và alpha-adrenergic làm tăng trương lực cơ. Xung động beta-adrenergic, các hormone secretin và progesteron làm giảm trương lực cơ. Khi trương lực cơ giảm, sẽ gây trào ngược dạ dày thực quản.
+
+Trong bệnh co thắt tâm vị (achalasia), có sự tăng trương lực của cơ vòng dưới thực quản làm cho cơ này giãn ra không đủ khi nuốt và nhu động thực quản yếu. Hậu quả là thức ăn tích tụ trong thực quản và phần dưới thực quản bị giãn rộng.
+
+Trường hợp ngược lại, tình trạng giảm trương lực cơ vòng dưới thực quản có thể dẫn đến bệnh trào ngược dạ dày thực quản (gastroesophageal reflux disease). Hậu quả có thể dẫn đến viêm loét thực quản do dịch trào ngược từ dạ dày có chứa acid và men tiêu hóa protein.
+
+## 2.2. Dạ dày
+
+Thức ăn được lưu trữ trong dạ dày, trộn với acid, chất nhầy, pepsin. Sau đó được đưa xuống tá tràng từ từ với lượng nhỏ có kiểm soát.
+
+### 2.2.1. Hoạt động cơ học
+
+Ở trạng thái nghỉ, dạ dày chứa khoảng 50 mL dịch. Khi thức ăn vào đến dạ dày, các thụ thể căng bị kích thích, gây phản xạ dây thần kinh X-X (vagovagal reflex), làm giảm trương lực cơ ở đáy vị và thân vị gây tình trạng giãn tiếp nhận (receptive relaxation). Nhờ đó, dạ dày có thể giãn ra để chứa một thể tích thức ăn lên đến 1,5 lít mà áp suất dạ dày không tăng.
+
+Khi dạ dày đã đầy thức ăn, phần giữa thân vị xuất hiện các sóng nhu động với tần số khoảng 3 – 4 lần/phút. Nhu động di chuyển về phía môn vị và càng đến gần môn vị càng trở nên mạnh hơn để đẩy thức ăn qua cơ thắt môn vị. Tuy nhiên, mỗi lần cơ này chỉ cho đi qua vài milit dưỡng trấp nên phần lớn thức ăn lại bị đẩy ngược lên thân vị. Các cử động đẩy tới (propulsion) và đẩy lui (retropulsion) làm cho thức ăn bị vỡ thành các mảnh ngày càng nhỏ hơn và được trộn kỹ với dịch vị (Hình 31).
+
+[Hình: Môn vị mở - Môn vị đóng; Phối hợp hoạt động co thắt cơ ở dạ dày và sự đóng mở cơ vòng môn vị giúp thức ăn được nhào trộn và nghiền nhỏ [1]]
+
+Khi dạ dày đã trống một thời gian dài (12 – 24 giờ sau lần ăn cuối cùng), ở thân vị xuất hiện các sóng co thắt lưu động (migrating motor complex: MMC), khoảng 60 – 90 phút một lần. Hormone điều hòa là motilin, do niêm mạc tá tràng bài tiết giữa các bữa ăn. Các sóng này sau đó sẽ lan truyền xuống ruột non, có khi trở nên rất mạnh gây cảm giác đói và cả cảm giác đau.
+
+2.2.2. Điều hòa sự thoát thức ăn
+
+Thức ăn chỉ ra khỏi dạ dày khi các hạt trong dưỡng trấp đã đủ nhỏ (đường kính < 2 mm) để có thể đi qua lỗ cơ thắt môn vị. Do đó, thức ăn lỏng thoát nhanh hơn nhiều so với thức ăn đặc. Trong quá trình dạ dày nhào trộn thức ăn bằng các sóng nhu động bình thường, có thời điểm các sóng này trở nên mạnh mẽ hơn và đẩy thức ăn xuống tá tràng (khoảng 20% thời gian thức ăn ở trong dạ dày). Nếu trương lực cơ thắt bình thường, mỗi lần có 2 – 7 mL dưỡng trấp đi qua lỗ cơ thắt môn vị. Nhưng trương lực này có thể thay đổi do tác dụng của các chất thần kinh hay nội tiết.
+
+Các yếu tố điều hòa thoát thức ăn ở dạ dày là tình trạng căng thành dạ dày và gastrin. Khi thức ăn làm căng thành dạ dày, dây X và hệ thần kinh ruột bị kích thích gây ra phản xạ tăng nhu động môn vị. Thể tích bữa ăn càng lớn thì nhu động môn vị càng mạnh. Thêm vào đó, khi thành phần thức ăn giàu protein sẽ kích thích tế bào G của dạ dày tiết ra gastrin, và gastrin sau đó lại tiếp tục làm tăng thêm nhu động thân vị và môn vị.
+
+Khi thức ăn xuống tới tá tràng, các phản xạ ruột – dạ dày ức chế mạnh nhu động môn vị và làm tăng trương lực cơ thắt môn vị. Các phản xạ này là do sự căng thành tá tràng, kích thích niêm mạc tá tràng, dưỡng trấp ưu trương, dưỡng trấp acid và sản phẩm tiêu hóa protein. Sự hiện diện của chất béo, carbohydrate và acid trong tá tràng còn gây ức chế sự bài tiết acid, pepsin và ức chế nhu động dạ dày (có lẽ thông qua hormone peptide YY).
+
+Bằng các cơ chế điều hòa trên đây, sự thoát thức ăn ra khỏi dạ dày được thực hiện sao cho phù hợp với khả năng xử lý thức ăn của ruột non. Sự thoát thức ăn chậm lại khi đã có quá nhiều dưỡng trấp trong tá tràng, dưỡng trấp quá acid, chứa nhiều protein hoặc mỡ, dưỡng trấp ưu trương hoặc các kích thích niêm mạc ruột non.
+
+Ở bệnh nhân đã phẫu thuật cắt bán phần dạ dày, thức ăn hầu như không có nơi lưu trữ. Vì vậy, những bệnh nhân này cần phải ăn nhiều bữa nhỏ. Nếu ăn một lượng thức ăn lớn, các chất dinh dưỡng sẽ được hấp thu nhanh chóng gây ra một số biểu hiện bất lợi. Ví dụ, glucose được hấp thu quá nhanh dẫn đến tăng đường huyết đột ngột và tăng tiết insulin nên bệnh nhân có thể có triệu chứng hạ đường huyết 2 giờ sau khi ăn. Ngoài ra, do ruột hấp thu lượng lớn dưỡng trấp và nước làm cho thể tích tuần hoàn tăng lên nên cơ thể điều chỉnh bằng cách hạ huyết áp.
+
+Nôn là hiện tượng tống thức ăn ra khỏi dạ dày ruột theo chiều ngược lại lên miệng. Nôn xảy ra khi bất cứ một đoạn nào của phần trên ống tiêu hóa bị kích thích quá mức, bị giãn quá mức hay trở nên nhạy cảm quá mức. Nguyên nhân nôn là do sự kích thích trung tâm nôn (vomiting center) nằm ở hành não. Trung tâm này nhận các xung động hướng tâm từ rất nhiều nơi khác nhau trong cơ thể (hệ tiêu hóa, hầu họng, hệ tiết niệu – sinh dục,...) hoặc có thể bị kích thích bởi tổn thương tại não hoặc khi có tăng áp suất nội sọ. Đặc biệt, trung tâm nôn nhận tín hiệu từ vùng CTZ (chemoreceptor trigger zone).
+
+Bài 7. Hoạt động cơ học của ống tiêu hóa 65
+
+2.3. Hoạt động cơ học của ruột non
+
+Trong ruột non, dưỡng trấp được nhào trộn với dịch tiêu hóa, dịch tụy, mật và sau đó bị đẩy dần dần xuống ruột già (Hình 32).
+
+2.3.1. Hoạt động cơ học
+
+Các sóng co thắt lưu động lan truyền xuống ruột non khoảng 60 – 90 phút một lần, và được thay thế bởi những nhu động ruột và những sự co cơ dựa trên nền nhịp điện cơ bản đã nêu trên. Nhịp điện căn bản xuất hiện khoảng 12 lần/phút ở tá tràng và 8 lần/phút ở hồi tràng. Tần số cao hơn ở tá tràng giúp đẩy dưỡng trấp về phía hồi tràng. Nhu động ruột non thường rất yếu, chỉ đẩy được dưỡng trấp với vận tốc 1 cm/phút nên phải mất 3 – 5 giờ dưỡng trấp mới đi qua hết được ruột non.
+
+Khi dưỡng trấp làm căng một đoạn ruột non, sẽ gây ra những cử động phân đoạn. Đó là những co thắt tại chỗ với mỗi chỗ co thắt dài khoảng 1 cm chia ruột thành những đoạn tương đương nhau. Các cử động này giúp dưỡng trấp được nhào trộn kỹ với dịch tiêu hóa và làm tăng tiếp xúc của dưỡng trấp với diện tích hấp thu của ruột non. Các sóng co thắt lưu động còn có vai trò đẩy các dịch tiêu hóa dư thừa và các thức ăn còn sót lại vào ruột già, đồng thời cũng ngăn chặn sự trào ngược của vi khuẩn từ ruột già về ruột non.
+
+[Hình: Cử động của ruột non [3]]
+
+2.3.2. Điều hòa cử động ruột non
+
+Nhu động ruột non tăng lên sau bữa ăn do phản xạ dạ dày – ruột và do các hormone gastrin, cholecystokinin, motilin và insulin. Trái lại, secretin và glucagon làm giảm nhu động ruột.
+
+Khi ruột non bị tổn thương, cơ trơn ruột bị ức chế trực tiếp dẫn đến giảm cử động ruột, đồng thời mảng bụng bị kích thích cũng gây phản xạ ức chế cử động ruột do tăng xung động noradrenergic trong các dây thần kinh tạng. Cả hai loại ức chế này dẫn đến liệt ruột sau phẫu thuật bụng. Nhu động ruột non sẽ trở lại sau 6 – 8 giờ, tiếp theo là nhu động dạ dày, còn nhu động ruột già phải mất 2 – 3 ngày.
+
+Tắc ruột do nguyên nhân cơ học thường gây đau bụng dữ dội từng cơn. Đoạn ruột phía trên chỗ bị tắc phình to do chứa dịch và hơi, áp suất trong đoạn ruột này tăng cao, ép các mạch máu trong thành ruột, gây thiếu máu cơ. Các dây thần kinh tạng bị kích thích gây tăng tiết mồ hôi, hạ huyết áp và nôn. Hậu quả là bệnh nhân có thể bị kiềm chuyển hóa và mất nước, tình trạng nguy hiểm nếu không xử trí kịp thời có thể dẫn đến tử vong.
 
 ## 2.4. Hoạt động cơ học của ruột già
 
@@ -1170,7 +1690,39 @@ Phần lớn thời gian trực tràng không chứa phân. Khi có cử động
 
 ### 2.4.2. Sự tống thoát phân
 
-Khi phân làm căng thành trực tràng, các tín hiệu hướng tâm dẫn đến sự co thắt của kết tràng xuống, kết tràng sigma và trực tràng. Khi nhu động đi về phía hậu môn, cơ thắt hậu
+Khi phân làm căng thành trực tràng, các tín hiệu hướng tâm dẫn đến sự co thắt của kết tràng xuống, kết tràng sigma và trực tràng. Khi nhu động đi về phía hậu môn, cơ thắt hậu môn trong giãn ra, gây cảm giác muốn đại tiện (Hình 33). Nếu chưa thuận tiện, cơ chế điều khiển tự ý vẫn duy trì sự co thắt của cơ thắt hậu môn ngoài. Khi đó, cơ thắt hậu môn trong sẽ co trở lại và trực tràng lại giãn ra để chứa lượng phân chưa được tống thoát. Khi thuận tiện, cả hai cơ thắt đều giãn cùng với cơ hoành và cơ bụng co lại làm tăng áp suất bên trong bụng giúp tống thoát phân ra ngoài.
+
+Các hành động tự ý cũng giúp tống thoát phân như gây giãn tự ý cơ thắt hậu môn ngoài, hít vào sâu, đóng nắp thanh môn, co cơ hô hấp và cơ thành bụng để làm tăng áp suất trong ổ bụng.
+
+## CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Sóng chậm có đặc điểm nào sau đây?
+- A. Là những dao động của điện thế màng tế bào cơ trơn
+- B. Là những co thắt có tác dụng đẩy thức ăn dọc theo thành ruột
+- C. Có tần số khoảng 9 lần/phút trong dạ dày
+- D. Là do acetylcholine kích thích trực tiếp tế bào cơ trơn
+
+2. Nhu động nguyên phát ở thực quản có đặc điểm nào sau đây?
+- A. Là sự tiếp tục của nhu động hầu
+- B. Không xảy ra nếu cắt dây X
+- C. Khởi sinh do căng thành thực quản
+- D. Không làm giãn cơ vòng thực quản dưới
+
+3. Tốc độ thoát thức ăn ra khỏi dạ dày có đặc điểm nào sau đây?
+- A. Nhanh hơn khi dưỡng trấp làm căng thành tá tràng nhiều hơn
+- B. Giảm khi dưỡng trấp ra khỏi dạ dày chứa nhiều lipid
+- C. Tăng khi có sự bài tiết của cholecystokinin
+- D. Giảm khi có sự bài tiết của gastrin
+
+4. Ở người bình thường phản xạ ruột – dạ dày KHÔNG xảy ra trong trường hợp nào sau đây?
+- A. Tăng áp suất trong tá tràng
+- B. Dưỡng trấp ưu trương trong tá tràng
+- C. Thừa sản phẩm tiêu hóa của protein trong tá tràng
+- D. Dịch tụy kiềm trong tá tràng
+
+5. Sự tống phân có đặc điểm nào sau đây?
+- A. Căng thành trực tràng làm giãn cơ thắt hậu môn trong
+- B. Giãn cơ vòng hậu môn trong và ngoài là do sự điều khiển tự động
 
 C. Căng thành trực tràng kích thích thần kinh giao cảm gây phản xạ tống phân
 D. Chỉ do hệ thần kinh nội tại của ruột già điều khiển
@@ -1559,6 +2111,40 @@ $\text{Na}^+$ và $\text{Cl}^-$ chưa được hấp thu tại ruột non đư�
 1. Lượng $\text{K}^+$ trong nước bọt khác biệt như thế nào so với huyết tương?
 - A. Nhiều hơn trong huyết tương 7 lần
 - B. Nhiều hơn trong huyết tương 3 lần
+
+C. K⁺ được tế bào ống dẫn bài tiết chủ động ít hơn trong huyết tương 3 lần
+D. Cl⁻ được tái hấp thu thụ động khi đi qua ống dẫn ít hơn trong huyết tương 7 lần
+Hiện tượng nào sau đây xảy ra trong giai đoạn dạ dày của sự bài tiết HCl?
+A. Máu đi ra khỏi dạ dày có pH kiềm
+B. Căng thành dạ dày ức chế sự bài tiết gastrin
+C. Acid ức chế sự bài tiết acetylcholine
+D. Sản phẩm tiêu hóa của protein kích thích sự bài tiết histamin
+3. Tế bào ống dẫn của tụy bài tiết chất nào sau đây?
+A. Trypsin
+C. Lipase
+B. NaHCO₃
+D. Lipase
+4. Sự co túi mật được điều khiển bởi hormone nào sau đây?
+A. Cholecystokinin
+C. Secretin
+B. Gastrin
+D. Histamin
+5. Sự hấp thu Na⁺ và bài tiết K⁺ ở ruột già chịu tác động của hormone nào sau đây?
+A. Testosterone
+C. Cortisol
+B. Aldosterol
+D. Insulin
+
+ĐÁP ÁN: 1.A, 2.B, 3.D, 4.A, 5.B
+
+# TÀI LIỆU THAM KHẢO
+. Bruce MK, Bruce AS. Berne & Levy Physiology, 6th edition, pp. 496-541, Mosby Inc., St. Louis, 2008.
+. Bullock J. Physiology, 4th edition, pp. 523-534, Williams & Wilkins, Philadelphia, 2001.
+. Costanzo L. Physiology, 6th edition, pp. 356-375, Elsevier Inc., Philadelphia, 2018.
+. Ganong WF. Review of Medical Physiology, 23rd edition, pp. 429-499, The McGraw-Hill, New York, 2010.
+5. Guyton AC, Hall JE. Textbook of Medical Physiology, 12th edition, pp. 773-788, Elsevier Inc., China, 2006.
+6. Nguyễn Thị Lệ, Trần Văn Ngọc. Sinh lý học y khoa, trang 232-276, Nhà xuất bản Y học, TP. Hồ Chí Minh, 2019.
+7. Rodney AR, David RB. Medical Physiology- Principles for clinical medicine, 4th edition, pp. 505-535, Williams & Wilkins, Philadelphia, 2013.
 
 # GIẢI PHẪU BỆNH MỘT SỐ BỆNH ỐNG TIÊU HÓA THƯỜNG GẶP
 
@@ -2210,9 +2796,113 @@ Tuy nhiên, những độc tính trên không được báo cáo với bismuth s
 
 *Liều dùng:* $300 - 600\text{ mg} \times 3 - 4$ lần/ngày, cần H$^+$ để tác dụng nên cần uống thuốc lúc đói.
 
+110 ♦ BÀI GIẢNG HỆ TIÊU HÓA
+
+**CÂU HỎI TỰ LƯỢNG GIÁ**
+
+1. Tác dụng phụ nào của thuốc trung hòa acid dạ dày sau đây là đúng?
+- A. $\text{NaHCO}_3$, gây đầy hơi
+- B. $\text{Al(OH)}_3$, gây tiêu chảy
+- C. $\text{Mg(OH)}_2$, gây táo bón
+- D. $\text{Mg(OH)}_2$, gây tiêu phân đen
+
+2. Phát biểu nào sau đây về thuốc ức chế bơm proton là đúng?
+- A. Thuốc nên sử dụng vào buổi sáng, sau lúc ăn khoảng 1 giờ để đạt hiệu quả tốt nhất
+- B. Liều càng cao càng hiệu quả
+- C. Có thể sử dụng kéo dài vì hầu như không có tác dụng phụ
+- D. Ức chế hơn 90% sự bài tiết acid 24 giờ ở liều tiêu chuẩn
+
+3. Phát biểu nào sau đây về thời điểm uống thuốc antacid là SAI?
+- A. Trước ăn 30 phút
+- C. Sau ăn 1 giờ
+- B. Ngay sau ăn
+- D. Sau ăn 2 giờ
+
+4. Vị trí tác động của misoprostol lên trên thụ thể nào sau đây?
+- A. $\text{H}_2$
+- C. $\text{M}_3$
+- B. $\text{M}_1$
+- D. $\text{EP}_3$
+
+5. Nhóm thuốc nào sau đây có hiệu quả ức chế tiết acid mạnh nhất?
+- A. Antacid
+- C. PPI
+- B. Kháng $\text{H}_2$
+- D. Thuốc tác động lên prostaglandin
+
+**ĐÁP ÁN:** 1.A, 2.D, 3.B, 4.D, 5.C
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Bardal KS et al. *Applied Pharmacology*, pp. 177-192, Saunders Elsevier, St. Louis, 2011.
+2. Brunton LL, Chabner BA, Knollmann BC. *Goodman & Gilman’s The Pharmacological Basis of Therapeutics*, $8^{\text{th}}$ edition, pp. 907-920, The McGraw-Hill, New York, 2011.
+3. Châu Ngọc Hoa. *Điều trị học nội khoa*, trang 209-224, Nhà xuất bản Y học, TP. Hồ Chí Minh, 2012.
+4. Eugene CT. *Case Files^{\text{TM}} Pharmacology*, $2^{\text{nd}}$ edition, pp. 907-920, The McGraw-Hill, New York, 2008.
+5. Jameson JL, Fauci A et al. *Harrison’s principal of Internal Medicine*, $20^{\text{th}}$ edition, pp. 2177- 2781, The McGraw-Hill, New York, 2018.
+6. Trevor JA, Katzung GB et al. *Katzung & Trevor’s Pharmacology Examination and Board Review*, $10^{\text{th}}$ edition, pp. 1087-1096, The McGraw-Hill, New York, 2013.
+7. Tripathy KD. *Essentials of Medical Pharmacology*, $6^{\text{th}}$ edition, pp. 627-638, Jaypee Brothers Medical Publishers, New Delhi, 2013.
+
 # Chương 2
 
 # HÌNH THÁI VÀ CHỨC NĂNG CỦA CÁC TUYẾN TIÊU HÓA
+
+# GIẢI PHẪU GAN, MẬT VÀ HỆ TĨNH MẠCH CỬA
+TS.BS. Nguyễn Hoàng Vũ, GS.TS.BS. Lê Văn Cường
+
+**MỤC TIÊU HỌC TẬP**
+1. Mô tả hình thể ngoài của gan.
+2. Mô tả các dây chằng của gan.
+3. Mô tả phân thùy gan theo giải phẫu và theo phẫu thuật.
+4. Mô tả giải phẫu đường dẫn mật ngoài gan.
+5. Mô tả hệ thống tĩnh mạch cửa.
+6. Giải thích cơ chế giãn tĩnh mạch thực quản và giãn tĩnh mạch trực tràng trong trường hợp tăng áp lực tĩnh mạch cửa.
+
+**NỘI DUNG BÀI GIẢNG**
+Gan *(liver)* là tạng to nhất cơ thể, nằm trong ổ bụng nhưng liên quan nhiều với thành ngực. Về sinh lý, gan có rất nhiều chức năng như tạo mật, chống độc, tham gia vào quá trình chuyển hóa các chất đường, đạm, mỡ.
+Gan ở tầng trên mạc treo kết tràng ngang, trong ô dưới hoành phải nhưng lấn sang ô thượng vị và ô dưới hoành trái. Mặt trên gan như đúc theo khuôn vòm hoành. Nếu đối chiếu lên thành ngực thì gan lên tận khoảng gian sườn IV trên đường trung đòn phải, bờ dưới chạy dọc bờ sườn phải.
+
+**1. HÌNH THỂ NGOÀI**
+Gan có hai mặt là mặt hoành *(diaphragmatic surface)* ở trên, mặt tạng *(visceral surface)* ở dưới và một bờ.
+**1.1. Mặt hoành**
+Mặt hoành lồi và chia thành bốn phần: phần trên, phần trước, phần phải và phần sau. Một số tài liệu mô tả bốn phần của mặt hoành tương ứng thành bốn mặt riêng biệt.
+**1.1.1. Phần trên**
+Phần trên *(superior part)* của mặt hoành lồi, trơn láng, áp sát mặt dưới cơ hoành và qua cơ hoành liên quan với phổi, màng phổi, tim, màng tim. Ở khoảng giữa phần trên hơi lõm, tương ứng với vị trí của tim trên trung tâm gân cơ hoành.
+**1.1.2. Phần trước**
+Phần trước *(anterior part)* lồi, liên quan với cơ hoành và thành bụng trước.
+**1.1.3. Phần phải**
+Phần phải *(right part)* liên tục với phần trên và phần trước. Qua cơ hoành, phần phải liên quan với phổi và màng phổi phải, với các cung xương sườn từ VII đến XI phải.
+
+Bài 11. Giải phẫu gan, mật và hệ tĩnh mạch cửa ♦ 113
+
+**1.1.4. Phần sau**
+
+Phần sau *(posterior part)* lồi, rộng về bên phải và hẹp về bên trái. Ở khoảng giữa hơi lõm, bên phải có rãnh tĩnh mạch chủ dưới, bên trái có khe dây chằng tĩnh mạch. Phần sau cũng được phúc mạc phủ, trừ vùng trần *(bare area)* là khoảng giữa hai lá của dây chằng vành.
+
+Mặt hoành của gan được phúc mạc phủ, trừ vùng trần và nơi bám của dây chằng liềm. Mặt hoành liên quan với ngách dưới hoành *(subphrenic recess)* và ngách gan thận *(hepatorenal recess)*. Ngách dưới hoành nằm giữa cơ hoành và mặt hoành của gan, được phân chia thành vùng bên phải và vùng bên trái bởi dây chằng liềm. Ngách gan thận, còn gọi là khoang Morison, là một phần của ổ phúc mạc nằm giữa phần phải mặt tạng của gan và thận phải, tuyến thượng thận phải. Ngách gan thận thông với ngách dưới hoành phải phía trước.
+
+**2. Mặt tạng**
+
+Mặt tạng của gan được bao phủ bởi phúc mạc tạng, ngoại trừ hố túi mật *(fossa for the gallbladder)*, nơi có túi mật nằm và cửa gan *(porta hepatis)*. Mặt tạng của gan liên quan vị thực quản, dạ dày, phần trên của tá tràng, mạc nối nhỏ, góc kết tràng phải, ẩn phải của kết tràng ngang, thận phải và tuyến thượng thận phải.
+
+Mặt tạng của gan có hai rãnh dọc và một rãnh ngang tạo thành hình chữ H.
+
+Rãnh dọc phải *(right sagittal fissure)* tạo bởi phía trước là hố túi mật, phía sau là rãnh tĩnh mạch chủ, giữa hai rãnh có mỏm đuôi của thùy đuôi.
+
+Rãnh dọc trái *(left sagittal fissure)* hẹp và sâu, cách rãnh dọc phải khoảng 6 cm. Phía trước là khuyết dây chằng tròn *(fissure for the round ligament)* và phía sau là khe dây chằng tĩnh mạch *(fissure for the ligamentum venosum)*. Dây chằng tròn gan là di tích của tĩnh mạch rốn bị tắc lại. Dây chằng tĩnh mạch là di tích của ống tĩnh mạch nối tĩnh mạch cửa vào tĩnh mạch chủ dưới lúc phôi thai.
+
+Rãnh ngang là cửa gan, nằm lệch về phía sau hơn phía trước, dài khoảng 6 cm chạy từ phải sang trái. Cửa gan là nơi động mạch gan, tĩnh mạch cửa đi vào gan và các ống gan đi ra.
+
+**1.3. Bờ gan**
+
+Gan chỉ có một bờ là bờ dưới *(inferior border)*. Bờ này rõ và sắc, là ranh giới giữa phần trước của mặt hoành và mặt tạng, chạy từ phải sang trái. Khi gan to, ta có thể sờ được bờ này ở thành bụng trước, dưới hạ sườn phải. Bờ dưới có hai chỗ khuyết là khuyết của dây chằng tròn và khuyết của đáy túi mật.
+
+**2. CÁC DÂY CHẰNG VÀ PHƯƠNG TIỆN CỐ ĐỊNH GAN**
+
+Gan được cố định tại chỗ bởi các thành phần sau:
+
+**2.1. Tĩnh mạch chủ dưới**
+
+Tĩnh mạch chủ dưới dính vào tổ chức gan và nối với các tĩnh mạch gan.
 
 ### 2.2. Dây chằng hoành gan
 Dây chằng hoành gan gồm nhiều thớ sợi nối vùng trần của gan với cơ hoành.
@@ -2625,6 +3315,60 @@ Chi phối thần kinh cho tụy do các sợi giao cảm xuất phát từ đá
 
 Các sợi trước hạch xuất phát từ các thần kinh tạng (ngực) lớn và thần kinh tạng (ngực) bé. Các sợi này xuyên qua cơ hoành để đến các hạch tạng và các hạch mạc treo tràng trên.
 
+Từ các hạch này cho ra các sợi sau hạch đi theo các nhánh của động mạch thân tạng và động mạch mạc treo tràng trên để đến tụy. Có lẽ do sự thông nối giữa các nhánh cảm giác của tụy với các nhánh thần kinh cảm giác ở thành bụng sau cho bệnh nhân cảm giác đau lan ra sau lưng trong những cơn đau bụng do tụy.
+
+3.4.2. Thần kinh đối giao cảm
+
+Phân bố thần kinh đối giao cảm ở tụy do các nhánh tạng của thân thần kinh lang thang sau. Các sợi trước hạch xuất phát từ nhân vận động của thần kinh lang thang trên hành não. Các sợi trước hạch này đi vào các hạch tận cùng (terminal ganglion) bên trong tụy. Các sợi sau hạch tận hết ở các tế bào của tụy.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Cấu trúc nào sau đây nằm phía sau cổ tụy?
+
+A. Tĩnh mạch chủ dưới
+
+B. Động mạch chủ bụng
+
+C. Bó mạch mạc treo tràng trên
+
+D. Bó mạch thân tạng
+
+2. Phần nào sau đây của tụy có thể di động?
+
+A. Đầu tụy
+
+B. Cổ tụy
+
+C. Thân tụy
+
+D. Đuôi tụy
+
+3. Bóng Vater là đoạn cấu trúc giải phẫu nào?
+
+A. Đoạn ống tụy chính trong thành tá tràng
+
+B. Đoạn ống mật chủ trong thành tá tràng
+
+C. Đoạn chung giữa ống tụy chính và ống mật chủ
+
+D. Đoạn chung giữa ống tụy chính và ống tụy phụ
+
+4. Động mạch nào sau đây xuất phát từ động mạch mạc treo tràng trên?
+
+A. Tá tụy trên sau
+
+B. Tá tụy dưới sau
+
+C. Tụy lớn
+
+D. Đuôi tụy
+
+5. Các động mạch cấp máu cho thân tụy xuất phát từ động mạch nào?
+
+A. Lách
+
+B. Vị tá tràng
+
 C. Mạc treo tràng trên
 D. Mạc treo tràng dưới
 
@@ -2832,6 +3576,115 @@ Chụp cắt lớp vi tính có trường quan sát rộng, tương phản rõ t
 
 [Hình: Hình chụp cắt lớp vi tính ngang qua tụy. Nhu mô tụy đồng nhất, bờ đều hay có dạng răng cưa ở người lớn tuổi (A). Ống tụy chính có thể thấy rõ là cấu trúc đậm độ thấp đi giữa nhu mô tụy (B). Mốc giải phẫu thường được dùng để xác định tụy là tĩnh mạch lách (C) nằm ở mặt sau của tụy và chỗ hợp lưu vào tĩnh mạch cửa giúp xác định mỏm móc và cổ tụy.]
 
+4.4. Cộng hưởng từ
+Nhu mô tụy bình thường có tín hiệu cao giống như gan trên hình T1W và cao nhẹ hơn nhu mô gan trên hình T2W, đồng nhất. Các ống tụy tín hiệu cao trên T2W và thấp trên T1W. Hình MRCP tương tự như đã trình bày ở phần đường mật. Các đoạn của các ống tụy cũng như hợp lưu mật tụy và chỗ đổ vào nhú tá lớn của ống tụy chính hay nhú tá bé đối với ống tụy phụ cũng có thể nhận định được trên các hình T2W.
+
+[Hình: Hình 98. Cộng hưởng từ tụy bình thường (A) trên các xung T1 in-phase (B), T1 opposed phase (C), T2W (D) và T1 sau tiêm gadolinium (E).]
+
+Hình ảnh giải phẫu cắt ngang của tụy cũng như các mạch máu nuôi và liên quan với tạng lân cận tương tự như chụp cắt lớp vi tính có tiêm cản quang.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Bình thường, hình ảnh nhu mô gan trên siêu âm có độ phản âm như thế nào?
+- A. Tương đương hoặc thấp nhẹ hơn lách và tụy
+- B. Tương đương nhu mô thận
+- C. Thấp hơn nhu mô thận
+- D. Tương đương thanh dịch
+
+2. Tĩnh mạch cửa phải, trái và các tĩnh mạch gan phải, giữa, trái được nhận diện dễ dàng trên hình ảnh siêu âm, chụp cắt lớp vi tính, cộng hưởng từ bằng mặt cắt nào?
+- A. Dọc
+
+B. Ngang
+C. Vành
+D. Chếch trái
+3. Đường mật trong và ngoài gan dễ nhận diện nhất trên hình ảnh nào?
+A. Siêu âm
+B. Hình T1W của cộng hưởng từ
+C. Hình T2W của cộng hưởng từ
+D. Hình chụp cắt lớp vi tính không tiêm cản quang tĩnh mạch
+4. Túi mật bình thường KHÔNG thể thấy được bằng kỹ thuật hình ảnh nào?
+A. Cộng hưởng từ
+B. Chụp cắt lớp vi tính
+C. Siêu âm
+D. X quang bụng không sửa soạn
+5. Người lớn tuổi, tuy thoái hóa mỡ cho hình ảnh bờ răng cưa, dễ thấy được đặc điểm này bằng kỹ thuật hình ảnh nào?
+A. Chụp X-quang mật – tụy ngược dòng qua nội soi
+B. Siêu âm có chức năng Doppler
+C. Chụp cắt lớp vi tính
+D. Cộng hưởng từ
+
+**ĐÁP ÁN:** 1.A, 2.B, 3.C, 4.D, 5.C
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Adam A, Dixon AK et al. Grainger & Allison's Diagnostic Radiology. 6th edition, pp. 722-831, Churchill Livingstone, Edinburgh, 2014.
+2. Clarke C. Abdominal X-Rays for Medical Students, 1st edition, pp. 4-14, Wiley Blackwell, Somerset, 2015.
+3. Roth C, Deshmukh S. Fundamentals of Body MRI, 2nd edition, pp. 45-46, 137, 142-146, 163- 165, Elsevier, Philadelphia, 2020.
+4. Rumack LC. Diagnostic Ultrasound, 5th edition, pp. 74-251, Elsevier, Philadelphia, 2017.
+5. Semelka CR. Abdominal - pelvic MRI, 4th edition, pp. 39-55, 395-404, 401-464, Wiley Blackwell, West Sussex, 2016.
+6. Webb WR, Brant EW, Major MN. Fundamentals of Body CT, 5th edition, pp. 212-272, Elsevier, St. Louis, 2019.
+
+# CẤU TRÚC VI THỂ BÌNH THƯỜNG CỦA CÁC TUYẾN TIÊU HÓA
+
+PGS.TS.BS. Hoàng Anh Vũ
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Mô tả cấu tạo chung và đặc điểm riêng của ba tuyến nước bọt chính.
+2. Mô tả các thành phần của nang tụy ngoại tiết và tiểu đảo tụy.
+3. Mô tả các thành phần của tiểu thùy gan cổ điển.
+
+**NỘI DUNG BÀI GIẢNG**
+
+**1. TUYẾN NƯỚC BỌT**
+
+Các tuyến nước bọt chính bao gồm tuyến mang tai, tuyến dưới hàm và tuyến dưới lưỡi; chúng tiết ra khoảng 90% nước bọt của khoang miệng. Ngoài ra, còn có các tuyến nước bọt nhỏ nằm rải rác trong lớp niêm mạc và lớp dưới niêm mạc của khoang miệng, tiết ra 10% nước bọt của khoang miệng. Chức năng chính của nước bọt là làm ẩm và bôi trơn thức ăn cũng như niêm mạc miệng, khởi đầu quá trình tiêu hóa đường, chất béo nhờ có amylase và lipase, tiết ra các chất kiềm khuẩn có tính bảo vệ như globuline miễn dịch IgA, lysozyme và lactoferrin.
+
+Các tuyến nước bọt là tuyến ngoại tiết, có cấu trúc túi kiểu chùm nho, được bọc bởi vỏ liên kết có nhiều sợi tạo keo. Các vách liên kết gian tiểu thùy chia tuyến thành những tiểu thùy. Trong mỗi tiểu thùy có chứa các đơn vị tuyến nước bọt, bao gồm phần chế tiết và phần bài xuất.
+
+[Hình: Cấu trúc vi thể của tuyến nước bọt [1]]
+
+- Tế bào cơ - biểu mô
+- Vi quản gian bào
+- Tế bào cơ - biểu mô
+- Nang dịch trong
+- Ông trung gian
+- Liềm Giannuzzi
+- Ống vân
+- Màng đáy
+- Nang dịch nhầy
+
+Hình 99. Cấu trúc vi thể của tuyến nước bọt [1]
+
+Phần chế tiết (nang tuyến nước bọt): các tế bào biểu mô xếp thành hàng quanh lòng tuyến, mặt đáy tế bào tiếp xúc với màng đáy hay với tế bào cơ - biểu mô (Hình 99). Có hai loại nang tuyến nước bọt chính là nang tiết dịch trong và nang tiết dịch nhầy; nang hỗn hợp hay nang pha là dạng kết hợp của hai loại này lại. Nang tiết dịch trong có hình bầu dục, lòng hẹp, thành dày, phía ngoài có các tế bào cơ - biểu mô tạo thành giỏ Boll bao bọc. Tế bào tiết dịch trong là những tế bào có hình tháp, phía cực đáy có nhân hình cầu, trong bào tương chứa nhiều ti thể và lưới nội chất có hạt, phía cực ngọn có nhiều hạt sinh men và bộ Golgi. Nang tiết dịch trong chủ yếu tiết men tiêu hóa và các protein khác. Trái lại, nang tiết dịch nhầy có lòng nang tuyến rộng, tế bào hình tháp hay khối vuông, nhân dẹt nằm sát cực đáy, bào tương sáng màu. Các nang pha (hỗn hợp) có tế bào tiết dịch trong tạo thành liềm Gianuzzi bọc bên ngoài những nang dịch nhầy.
+
+Phần bài xuất của các tuyến nước bọt được bắt đầu bằng ống trung gian ngắn và nhỏ, nối tiếp với ống vân. Thành ống trung gian là biểu mô vuông đơn nằm trên màng đáy hoặc trên tế bào cơ - biểu mô. Ống vân nằm trong tiểu thùy và gian tiểu thùy, thành biểu mô trụ đơn. Cực đáy tế bào có những vạch song song với trục đứng của tế bào (do bào tương có những nếp gấp lồi vào trong, tạo nhiều khoang rất giàu ti thể). Các ống lớn xuất lớn do những ống vân hợp thành, có thành ống bắt đầu bằng biểu mô vuông tầng giả tầng, chuyển dần thành biểu mô trụ tầng rồi kết thúc bằng biểu mô lát tầng không sừng hóa khi đổ vào khoang miệng.
+
+Phần mô liên kết của các tuyến nước bọt có nhiều tế bào lympho và tương bào. Tương bào phóng thích IgA để tạo thành một phức hợp với các thành phần chế tiết từ tế bào biểu mô của nang tiết dịch trong và của các ống gian tiểu thùy. Phức hợp IgA - chất tiết có trong nước bọt là một phần quan trọng của cơ chế đề kháng miễn dịch chống lại tác nhân gây bệnh trong khoang miệng.
+
+Mạch máu và dây thần kinh đi vào tuyến nước bọt ở vùng rốn của tuyến và phân nhánh dần vào các tiểu thùy. Có các đám rối mạch máu và thần kinh phong phú bao quanh phần chế tiết và bài xuất của mỗi tiểu thùy.
+
+Tuyến nước bọt mang tai là cặp tuyến nước bọt lớn nhất, mở vào tiền đình của miệng bởi ống bài xuất Sténo. Phần chế tiết của tuyến mang tai chỉ gồm nang tiết dịch trong, chất tiết chứa nhiều amylase và các protein giàu proline. Amylase giúp tiêu hóa đường; trong khi các protein giàu proline có tính kháng khuẩn và gắn Ca²⁺, giúp bảo vệ bề mặt men răng.
+
+Tuyến nước bọt dưới hàm có nhiều ống vân dài và chia nhiều nhánh, đổ nước bọt vào dưới lưỡi qua ống bài xuất Wharton. Phần chế tiết của tuyến dưới hàm chủ yếu là nang tiết dịch trong, một số phần có nang hỗn hợp (10%). Ngoài amylase và các protein giàu proline, tuyến dưới hàm còn tiết ra các men khác như lysozyme có khả năng phá hủy vách tế bào của nhiều loại vi khuẩn.
+
+Tuyến nước bọt dưới lưỡi có nhiều ống vân, đổ nước bọt vào dưới lưỡi qua ống bài xuất Bartholin. Phần chế tiết có số lượng tế bào tiết nhầy vượt trội so với tế bào tiết dịch trong, không có nang tiết dịch trong đơn thuần. Thành phần chính của nước bọt tuyến dưới lưỡi là chất nhầy, nhưng cũng có một ít amylase và lysozyme do loại tế bào tiết dịch trong tạo ra.
+
+2. TUYẾN TỤY
+
+Tụy là cơ quan có cả chức năng ngoại tiết và nội tiết vì tiết ra cả men tiêu hóa và các hormone. Là cơ quan được tạo ra từ nguồn gốc nội bì trong giai đoạn phôi thai, tụy có một bao mô liên kết mỏng bọc bên ngoài, từ đó các vách liên kết xâm nhập để phân tụy thành các tiểu thùy. Trong mỗi tiểu thùy, phần tụy ngoại tiết chiếm đa số, phần nhỏ còn lại là tụy nội tiết nằm rải rác (gọi là tiểu đảo tụy hay tiêu đảo Langerhans).
+
+Phần ngoại tiết của mô tụy có cấu trúc dạng tuyến túi chia nhánh kiểu chùm nho, với các nang bài tiết và hệ thống ống bài xuất. Các nang tụy ngoại tiết có dạng túi nhỏ hình cầu, lòng rất hẹp. Tế bào chế tiết (tế bào nang tuyến) có hình dạng giống với tế bào tiết dịch trong của tuyến nước bọt. Tuy nhiên, khác với các nang tuyến nước bọt, ở nang tụy ngoại tiết có thêm các tế bào trung tâm nang tuyến để nối nang tuyến vào ống trung gian (Hình 100). Các ống trung gian có cấu trúc biểu mô vuông đơn, đổ dịch tụy vào các ống bài xuất trong tiểu thùy có biểu mô trụ đơn (nhưng không có vân ở cực đáy tế bào như của ống vân trong tuyến nước bọt). Các ống bài xuất nhỏ tập trung vào ống bài xuất lớn hơn nằm trong vách gian tiểu thùy (ống bài xuất gian tiểu thùy) vẫn có cấu trúc biểu mô trụ đơn, cuối cùng đổ vào hai ống bài xuất cái là ống Wirsung (chính) và ống Santorini (phụ) có cấu trúc biểu mô trụ đơn giống ruột non (tế bào dài và tế bào mâm khía). Dịch tụy có tính kiềm, chứa các muối Ca, Na và men tiêu hóa, bao gồm một số protease (trypsinogens, chymotrypsinogen, proelastases, protease E, kallikreinogen, procarboxypeptidases), amylase, lipase và các nucleases (Dnase và RNase).
+
+[Hình: Cấu trúc vi thể của nang tụy ngoại tiết [1]]
+- Màng đáy
+- Hạt tiền men
+- Tế bào trung tâm nang tuyến
+- Ông trung gian
+- Tế bào nang tuyến
+
+Hình 100. Cấu trúc vi thể của nang tụy ngoại tiết [1]
+
 Tiểu đảo tụy là những khối có cấu trúc hình cầu hoặc hình trứng nhỏ, nằm rải rác giữa các nang tụy ngoại tiết, tập trung nhiều ở đuôi tụy. Có hơn 1 triệu tiểu đảo tụy ở tụy của người. Trong tiểu đảo tụy, các dây tế bào nối với nhau thành lưới, xen kẽ với lưới mao mạch kiểu xoang. Mỗi tiểu đảo tụy có đường kính khoảng 100 – 300 µm, chỉ chứa vài trăm tế bào, nhưng bao gồm nhiều loại tế bào khác nhau (Hình 101). Các tế bào có dạng tròn hoặc đa diện, tương đối nhỏ hơn và sáng màu hơn so với tế bào của nang tụy ngoại tiết xung quanh. Tế bào A (hay α) có kích thước lớn nhất, nhân lớn và sáng, bào tương chứa hạt α tiết glucagon (làm tăng đường huyết). Tế bào B (hay β) chiếm số lượng nhiều nhất trong tiểu đảo, nhân nhỏ nhưng đậm, bào tương chứa hạt β tiết insulin (làm giảm đường huyết). Tế bào D (hay δ) chiếm số lượng ít, bào tương chứa hạt δ tiết somatostatin (điều hòa tiết glucagon và insulin). Tế bào PP (hay F) có rất ít trong tiểu đảo tụy, tiết polypeptid tụy (điều hòa tiết dịch tụy). Về vị trí trong tiểu đảo tụy, các tế bào phân bố khác nhau tùy theo loài (ví dụ, ở chuột, tế bào B được phân bố trong vùng trung tâm; còn ở người, tế bào B được phân bố rộng khắp từ ngoại biên vào trung tâm của tiểu đảo tụy).
 
 [Hình: Hình 101. Các loại tế bào chính của tiểu đảo tụy [1]]
@@ -2844,7 +3697,70 @@ Tiểu đảo tụy là những khối có cấu trúc hình cầu hoặc hình 
 
 ## 3. GAN
 
-Gan là tuyến lớn nhất trong cơ thể, có thể nặng tới 1.500 g, được bao bọc bởi bao liên kết mỏng (bao Glisson). Gan có cả chức năng nội tiết (tạo ra các hormone như somatomedin, angiotensinogen, thrombopoetin và hepcidin) và chức năng ngoại tiết (tạo ra dịch mật). Gan là cơ quan đảm nhiệm nhiều vai trò quan trọng trong cơ thể, bao gồm khử độc, tổng hợp protein, tích trữ glycogen, sắt, vitamin A,... Khoảng 70 – 80% lượng máu đến gan là từ tĩnh mạch cửa (từ dạ dày, ruột non và lách); phần còn lại của động mạch
+Gan là tuyến lớn nhất trong cơ thể, có thể nặng tới 1.500 g, được bao bọc bởi bao liên kết mỏng (bao Glisson). Gan có cả chức năng nội tiết (tạo ra các hormone như somatomedin, angiotensinogen, thrombopoetin và hepcidin) và chức năng ngoại tiết (tạo ra dịch mật). Gan là cơ quan đảm nhiệm nhiều vai trò quan trọng trong cơ thể, bao gồm khử độc, tổng hợp protein, tích trữ glycogen, sắt, vitamin A,... Khoảng 70 – 80% lượng máu đến gan là từ tĩnh mạch cửa (từ dạ dày, ruột non và lách); phần còn lại của động mạch gan. Gan là cơ quan dễ bị tổn thương do nhiều tác nhân khác nhau như độc chất, virus,... nhưng cũng có khả năng tái tạo rất cao: mô gan tái tạo có tổ chức và chức năng như những tiểu thùy nguyên gốc (có thể hiến một thùy gan).
+
+[Hình: Cấu trúc vi thể của tiểu thùy gan cổ điển [1]]
+- Tỉnh mạch trung tâm tiểu thùy
+- Vi quản mật
+- Tế bào Kupffer
+- Xoang gan
+- Tế bào gan
+- Bộ ba khoảng cửa
+- Nhánh ống mật
+- Nhánh tĩnh mạch cửa
+- Nhánh động mạch gan
+
+**Hình 102.** Cấu trúc vi thể của tiểu thùy gan cổ điển [1]
+
+Đơn vị cấu trúc và chức năng căn bản của gan là tiểu thùy gan. Có nhiều cách phân chia tiểu thùy gan, như tiểu thùy cửa hoặc nang cửa. Tuy nhiên, cách mô tả tiểu thùy gan cổ điển vẫn được sử dụng rộng rãi nhất (Hình 102). Mỗi tiểu thùy gan cổ điển có hình khối đa diện, đường kính 1 – 2 mm. Ở gan người, ranh giới giữa các tiểu thùy không rõ, trừ ở vùng khoảng cửa. Nằm giữa tiểu thùy là tĩnh mạch trung tâm tiểu thùy, đó là nhánh tận cùng của tĩnh mạch gan, chỉ được lợp bởi một lớp tế bào nội mô mỏng. Từ tĩnh mạch trung tâm tiểu thùy, các bè tế bào gan (bè Remak) tỏa ra ngoại vi. Đây là dây tế bào gan có chứa vi quản mật (tiểu quản mật) ở gần tĩnh mạch trung tâm tiểu thùy, là khoảng gian bào để nhận mật được bài tiết từ các tế bào gan. Các vi quản mật dắt mật vào ống trung gian Hering có cấu trúc biểu mô vuông đơn, rồi vào các ống mật có cấu trúc biểu mô trụ đơn khi ra vùng ngoại vi của mỗi tiểu thùy. Nằm giữa hai bè tế bào gan kế cận nhau là xoang gan (mao mạch nan hoa), nhận máu trộn từ động mạch gan và tĩnh mạch cửa rồi về tĩnh mạch trung tâm tiểu thùy. Xoang gan có các tế bào nội mô với nhiều lỗ thủng tạo nên thành mạch và các tế bào Kupffer đảm nhận chức năng của đại thực bào trong lòng xoang. Khoảng giữa các tế bào gan và thành mao mạch nan hoa được gọi là khoảng quanh xoang (khoảng Disse). Khoảng quanh xoang có các tế bào Ito dự trữ mỡ (tế bào hình sao: stella cell), nơi tích trữ vitamin A cho cơ thể (các tác nhân gây bệnh có thể cảm ứng tế bào Ito biệt hóa theo hướng nguyên bào sợi – cơ trong quá trình xơ hóa gan).
+
+Bài 14. Cấu trúc vi thể bình thường của các tuyến tiêu hóa 151
+
+Các tế bào gan là tế bào đa năng bậc nhất trong cơ thể. Chúng là những tế bào có kích thước lớn, hình thái đa diện, đường kính 20 - 30 µm, chứa 1 hoặc 2 nhân hình cầu với hạt nhân rõ. Một số nhân mang bộ nhiễm sắc thể đa bội. Bào tương tế bào gan chứa rất nhiều bào quan và chất vùi (lưới nội chất có hạt và không hạt, ti thể, bộ Golgi, các hạt glycogen và hạt mỡ). Cấu trúc và chức năng của những tế bào gan ở vùng trung tâm và vùng ngoại vi tiểu thùy gan không giống nhau. Ở bề mặt phía khoảng quanh xoang, các tế bào gan có nhiều vi nhung mao để trao đổi chất.
+
+Ở gan người, mỗi tiểu thùy gan cổ điển có 3 - 6 khoảng cửa nằm ở góc ngoại vi. Đó là nơi các vách liên kết xơ dày lên, có chứa bộ ba khoảng cửa bao gồm nhánh của tĩnh mạch cửa (lòng rộng và không đều, thành mỏng chỉ có một lớp nội mô, ngoài cùng là lớp chun mỏng), nhánh của động mạch gan (tròn đều, thành dày, lòng hẹp) và ống mật (từ các ống trung gian Hering hợp thành).
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+Ở tuyến nước bọt, tế bào của nang tiết dịch trong có hình thái nào?
+
+A. Tế bào tròn đều
+
+B. Tế bào hình tháp
+
+C. Tế bào hình đa diện
+
+D. Tế bào hình trụ cao
+
+2. Tế bào trung tâm nang tuyến thuộc cơ quan nào?
+
+A. Tuyến nước bọt mang tai
+
+B. Tuyến nước bọt dưới hàm
+
+C. Tuyến nước bọt dưới lưỡi
+
+D. Tuyến tụy ngoại tiết
+
+3. Vi quản mật là cấu trúc có đặc điểm nào?
+
+A. Có thành riêng là biểu mô lát đơn
+
+B. Là khoảng gian bào của bè gan, không có thành riêng
+
+C. Nằm ở vùng ngoại vi của một tiểu thùy gan cổ điển
+
+D. Có thành riêng là biểu mô lát tầng
+
+4. Vị trí nào hay thấy được tế bào Kupffer của gan?
+
+A. Khoảng quanh xoang
+
+B. Xoang gan
+
+C. Bè gan
+
+D. Khoảng cửa
 
 5. Thành phần nào sau đây không thuộc bộ ba khoảng cửa?
 - A. Nhánh của tĩnh mạch cửa
@@ -2899,7 +3815,63 @@ Ngoài ra, trong xơ gan còn có các hiện tượng: thoái hóa, hoại tử
 
 Diễn tiến bệnh quan trọng nhất trong xơ gan là quá trình xơ hóa tiến triển và tái tổ chức hệ thống vi mạch máu của gan. Ở gan bình thường, collagen loại I và loại III tập trung quanh khoảng cửa, tĩnh mạch trung tâm và rải rác trong các khoảng Disse. Trong xơ gan, collagen loại I và loại III lắng đọng trong các tiểu thùy tạo thành các dải xơ hay các vách xơ dày. Hệ thống vi mạch máu mới trong các vách xơ sẽ kết nối với các mạch máu ở khoảng cửa (động mạch gan và tĩnh mạch cửa) và với tĩnh mạch trung tâm tiểu thùy (Hình thành các shunt mạch xung quanh nhu mô gan). Đồng thời, sự lắng đọng collagen loại I và loại III trong khoảng Disse cũng ngăn cản sự trao đổi chất thông qua các tế bào nội mô của xoang gan. Tế bào sao ở khoảng Disse chính là nơi tạo ra các collagen trong quá trình tăng sản quá mức collagen loại I và loại III trong xơ gan.
 
-Trong suốt quá trình phá hủy nhu mô gan và xơ hóa, tế bào gan vẫn tiếp tục tăng sinh và tái tạo với các dải xơ bao xung quanh hình thành các nốt bất thường. Quá trình trao đổi
+Trong suốt quá trình phá hủy nhu mô gan và xơ hóa, tế bào gan vẫn tiếp tục tăng sinh và tái tạo với các dải xơ bao xung quanh hình thành các nốt bất thường. Quá trình trao đổi chất qua máu cũng như hệ thống đường mật với các nốt tế bào gan này trong xơ gan bị suy giảm nghiêm trọng. Vì vậy, bệnh nhân xơ gan thường có các biểu hiện của tình trạng suy giảm chức năng gan và tăng áp tĩnh mạch cửa.
+Hầu hết các bệnh nhân xơ gan tử vong do suy gan tiến triển, do các biến chứng của tình trạng tăng áp tĩnh mạch cửa hoặc ung thư tế bào gan. Ở nước ta, gần 2/3 trường hợp ung thư gan xuất hiện trên nền xơ gan.
+
+[Hình: Tăng sản nhiều ống mật]
+
+Hình 105. Xơ gan. Tăng sản nhiều ống mật trên nền mô sợi và thấm nhập các tế bào viêm
+
+## 1.1. Xơ gan do rượu
+
+Xơ gan rượu (còn được gọi là xơ gan cửa, xơ gan Laennec hay xơ gan dinh dưỡng) chiếm 50% nguyên nhân xơ gan. Bệnh liên quan đến tình trạng suy dinh dưỡng hoặc lạm dụng rượu mạn tính. Rất khó xác định thế nào là lạm dụng rượu mạn tính. Tuy nhiên, mức trung bình một người nghiện rượu mạn tính uống là 180 g ethanol mỗi ngày trong khoảng 25 năm.
+Về sinh hóa, có các biến đổi như sau:
+- Tăng vận chuyển mỡ ngoại biên vào gan
+- Giảm sự oxyt hóa các acid béo trong gan
+- Tăng sự tổng hợp triglycerides nhưng giảm sự chuyển hóa lipid thành lipoprotein.
+Bệnh diễn tiến qua các quá trình sau đây:
+- Gan nhiễm mỡ: tích tụ mỡ trong tế bào gan, gan to nặng, có khi tới 6 kg, bào tương tế bào gan có các không bào. Phân tích siêu cấu trúc thấy tế bào gan phình ra và biến dạng, có những thể vùi thể, lưới nội nguyên sinh không hạt phát triển và giãn rộng.
+- Xơ cứng quanh tĩnh mạch trung tâm gây các biểu hiện của tình trạng tăng áp lực tĩnh mạch cửa.
+- Viêm gan, bào tương tế bào gan có những hạt thoái hóa trong, hình móng ngựa, ái toan. Xung quanh các tế bào này thấm nhập nhiều bạch cầu đa nhân. Dần dần, tế bào gan phồng to rồi hoại tử.
+- Xơ gan: mô sợi tăng sản và làm biến đổi cấu trúc gan, gan teo dần và có dạng đầu đinh đường kính 0,1 - 1 cm.
+
+Vi thể
+Mô sợi tăng sản chia cắt gan thành nhiều tiểu thùy giả. Khoảng cửa cũng tăng sản sợi và thấm nhập nhiều tế bào viêm như tế bào lympho. Các ống mật tăng sản.
+
+Phần lớn bệnh nhân ở giai đoạn gan nhiễm mỡ không có triệu chứng lâm sàng. Ở giai đoạn viêm gan, gan to, đau, kèm chán ăn, buồn nôn, nôn, vàng da, bánh bụng và suy gan. Suy gan có thể xuất hiện rất sớm trước khi xơ gan. Khi báng bụng và các triệu chứng của tăng áp lực tĩnh mạch cửa xuất hiện thì xơ gan đã nặng.
+
+## 1.2. Xơ gan sau hoại tử
+
+Hậu quả của quá trình hoại tử gan. Nguyên nhân thường gặp là:
+- Viêm gan siêu vi B, viêm gan siêu vi C
+- Các bệnh tự miễn
+- Ngộ độc hoặc do thuốc như: oxyphenisate, methyldopa và isoniazide.
+
+Mô sợi tăng sản chia cắt gan thành những nốt to nhỏ không đều. Dưới kính hiển vi thấy các dải xơ quanh những tế bào thoái hoá.
+
+Trong các dải xơ các tế bào viêm mạn tính thấm nhập và các ống mật cũng tăng sản.
+
+## 1.3. Xơ gan sắc tố (xơ gan do lắng đọng hemosiderin)
+
+Gan có màu sô-cô-la do lắng đọng hemosiderin. Nhuộm đặc biệt thấy bào tương tế bào gan và cả tế bào Kupffer có chứa sắc tố. Khoảng 10% bệnh nhân diễn tiến thành carcinom tế bào gan.
+
+## 1.4. Xơ gan trong bệnh Wilson
+
+Do rối loạn chuyển hóa đồng, xơ gan kèm nhiễm độc não, thận và mắt. Bệnh khởi phát từ lúc sơ sinh nhưng các dấu hiệu tổn thương gan chỉ xuất hiện sau 6 tuổi và các dấu hiệu thần kinh xuất hiện ở tuổi vị thành niên.
+
+Vi thể
+Bào tương tế bào gan có các hạt triglycerid, nhân phồng to do chứa đầy glycogen. Kính hiển vi điện tử cho thấy đồng ứ đọng trong tiêu thể.
+
+## 1.5. Xơ gan do bệnh đường mật (xơ gan mật)
+
+Gồm hai loại:
+- Xơ gan mật thứ phát: tắc mật thứ phát do sỏi đường mật, u đầu tụy, u bóng Vater.
+- Xơ gan mật nguyên phát: thường gặp ở phụ nữ trung niên (40 – 59 tuổi). Khởi phát với triệu chứng ngứa, vài tháng sau xuất hiện vàng da. Gan to màu xanh, mềm. Bệnh nguyên chưa rõ nhưng có liên quan đến tự miễn vì ghi nhận xuất hiện các tự kháng thể và các tế bào lympho T.
+
+Bệnh diễn tiến qua bốn giai đoạn:
+- Tổn thương tế bào ống mật ở vách liên tiểu thùy. Các ống mật bị bao quanh bởi các tế bào viêm như tế bào lympho, tương bào, bạch cầu đơn nhân. Đôi khi có cả bạch cầu đa nhân ưa acid và đại bào nhiều nhân.
+- Tăng sản sợi và tăng sản tế bào ống mật
+- Các vách sợi tăng sản lan rộng tới khoảng cửa và quanh các tiểu thùy
 
 - Xơ gan toàn bộ.
 
@@ -2944,7 +3916,68 @@ Các tổn thương trong viêm tụy cấp (Hình 106) gồm:
 
 ## 2.2. Viêm tụy mạn
 
-Viêm tụy mạn xảy ra với hiện tượng mô tụy ngoại tiết bị phá hủy, xơ hóa và giai đoạn trễ có thể phá hủy cả mô tụy nội tiết. Vi thể: mô tụy xơ hóa; các nang tuyến giảm số lượng, kích thước các nang tuyến có thể nhỏ hơn bình thường; các tiểu đảo tụy còn sót lại nằm rải rác; các ống tụy giãn rộng, tế bào ống tuyến có thể chuyển sản gai; thấm nhập tế bào lympho, tương bào. Viêm tụy mạn thường là hậu quả của những đợt viêm tụy cấp tái phát
+Viêm tụy mạn xảy ra với hiện tượng mô tụy ngoại tiết bị phá hủy, xơ hóa và giai đoạn trễ có thể phá hủy cả mô tụy nội tiết. Vi thể: mô tụy xơ hóa; các nang tuyến giảm số lượng, kích thước các nang tuyến có thể nhỏ hơn bình thường; các tiểu đảo tụy còn sót lại nằm rải rác; các ống tụy giãn rộng, tế bào ống tuyến có thể chuyển sản gai; thấm nhập tế bào lympho, tương bào. Viêm tụy mạn thường là hậu quả của những đợt viêm tụy cấp tái phát nhiều lần, nguyên nhân chủ yếu là do lạm dụng rượu trong thời gian dài. Viêm tụy mạn có hai thể chính: viêm tụy mạn ở người lạm dụng rượu và viêm tụy mạn do tắc mật.
+
+2.2.1. Viêm tụy mạn do rượu
+
+Mô tụy bị chia cắt thành nhiều tiểu thùy, các ống liên thùy giãn rộng, lắng đọng các hạt protein trong lòng ống, các nang tuyến teo, tế bào ống tuyến có thể chuyển sản gai. Tuy nhiên, các tiểu đảo tụy ít bị ảnh hưởng. Sờ nắn thấy tụy cứng hơn bình thường vì có nhiều vùng vôi hóa hoặc do sỏi carbonate calci trong ống tụy. Thể viêm tụy này hay dẫn tới hình thành nang giả tụy.
+
+2.2. Viêm tụy mạn do tắc mật
+
+[không rõ] cơ vòng Oddi hoặc sỏi mật gây tắc mật và biến chứng viêm tụy mạn. Tổn thương chủ yếu ở đầu tụy, các nang tuyến ít bị hủy hoại hơn trong thể viêm tụy mạn do lạm dụng rượu.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Bệnh nhân nam, 55 tuổi, nghiện rượu, được sinh thiết gan do có tổn thương nghi ngờ u ở gan. Đại thể thấy mô sinh thiết dễ vỡ vụn, vi thể có hình ảnh tăng sản nhiều dải xơ, mô gan có nhiều nốt tế bào gan không đồng nhất, các tế bào gan thoái hóa mỡ rải rác trong các nốt, thấm nhập các tế bào viêm mạn. Khảo sát toàn bộ mẫu mỏ không thấy tổn thương gì khác. Chẩn đoán nào sau đây hợp lý nhất?
+
+A. Xơ gan
+
+B. Lao gan
+
+C. Viêm gan siêu vi C
+
+D. Nhiễm sán lá gan
+
+2. Tổn thương nào KHÔNG thấy trên mẫu mô sinh thiết gan ở bệnh nhân xơ gan?
+
+A. Hoại tử tế bào gan
+
+B. Tái tạo tế bào gan
+
+C. Xơ hóa khoảng cửa
+
+D. Hình thành các nốt mô xơ ở gan
+
+3. Bệnh nhân nam, 43 tuổi, nghiện rượu, được phẫu thuật do có tổn thương nghi ngờ u ở tụy. Đại thể thấy mô tụy chắc, vi thể có hình ảnh xơ hóa mô tụy, các tuyến tụy thưa thót, tiểu đảo tụy rải rác, thấm nhập các tế bào viêm mạn. Khảo sát toàn bộ mẫu mỏ không thấy tổn thương gì khác. Chẩn đoán nào sau đây hợp lý nhất?
+
+A. Ung thư tụy
+
+B. U lành tính
+
+C. Viêm tụy mạn tính
+
+D. U tiểu đảo tụy
+
+4. Tổn thương nào KHÔNG thấy trên mẫu mô viêm tụy mạn tính?
+A. Ống tuyến có thể chuyển sản gai
+B. Các nang tuyến tăng sản bù trừ mô tụy bị phá hủy
+C. Các nang tuyến có thể nhỏ hơn bình thường
+D. Các ống tụy giãn rộng
+5. Vết nến là đặc điểm của:
+A. Viêm tụy cấp do rượu
+B. Viêm tụy cấp do virus
+C. Viêm tụy mạn do chấn thương
+D. Viêm tụy mạn do ký sinh trùng
+
+ĐÁP ÁN: 1.A, 2.D, 3.C, 4.B, 5.A
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Alastair B, Linda F, Stefan H. MacSween's Pathology of the Liver, $7^{th}$ edition, pp. 1-87, Elsevier Saunders, Philadelphia, 2018.
+2. Eric DH. Gastrointestinal and Liver pathology: a volume in the series foundations in diagnostic pathology, pp. 514-525, 622-625, Elsevier Saunders, Philadelphia, 2012.
+3. Goldblum RJ, Odze DR. Surgical Pathology of the GI Tract, Liver, Biliary Tract and Pancreas, pp. 1055-1080, 1356-1383, Elsevier Saunders, Philadelphia, 2015.
+4. Kumar K, Abul K. Robbins and Cotran Pathologic Basic of disease, $9^{th}$ edition, pp. 821-830, 884-888, Elsevier Saunders, Philadelphia, 2014.
+5. Trần Phương Hạnh, Nguyễn Sào Trung. Giải phẫu bệnh học, Nhà xuất bản Giáo dục Việt Nam, trang 354-383, TP. Hồ Chí Minh, 2015.
 
 # HOẠT ĐỘNG TIÊU HÓA VÀ HẤP THU CỦA HỆ TIÊU HÓA
 BS. Nguyễn Bình Thư, ThS.BS. Đặng Huỳnh Anh Thư
@@ -3060,7 +4093,31 @@ Sau khi ruột hấp thu dipeptides và tripeptides, peptidase trong tế bào c
 - 2K⁺
 - Dipeptides, Tripeptides -- Peptidases --> Amino acids
 
-Bệnh Harnup là bệnh di truyền gây khiếm khuyết các kênh vận chuyển acid amin ở màng đáy bên dẫn đến sự kém hấp thu protein. Hoặc tình trạng rối loạn vận chuyển của
+Bệnh Harnup là bệnh di truyền gây khiếm khuyết các kênh vận chuyển acid amin ở màng đáy bên dẫn đến sự kém hấp thu protein. Hoặc tình trạng rối loạn vận chuyển của một số acid amin như lysine, arginine, cysteine,... có thể gây tình trạng bệnh thận như sỏi cystine.
+
+**4. TIÊU HÓA VÀ HẤP THU LIPID**
+
+Lipid là một nhóm các phân tử có trong chế độ ăn uống bao gồm chất béo, sterols, monoglycerides, diglycerides, phospholipid và các vitamin tan trong mỡ (A, D, E và K). Chức năng sinh lý của lipid bao gồm dự trữ năng lượng, góp phần cấu tạo nên tế bào não và phân tử truyền tín hiệu tế bào. Cơ thể người có khả năng tổng hợp hầu hết các chất béo mà cơ thể cần ngoại trừ các acid béo thiết yếu (tức là các acid béo mà cơ thể người không thể tự tổng hợp và phải được cung cấp qua chế độ ăn) để đảm bảo hoạt động chức năng tế bào bình thường. Có ba loại acid béo thiết yếu là acid linolenic, acid linoleic và acid arachidonic.
+
+Lipid trong thức ăn hàng ngày chủ yếu là triglyceride, ngoài ra còn có cholesterol, phospholipid và các vitamin tan trong mỡ.
+
+**Sơ đồ: Hình 113. Tiêu hóa lipid [4]**
+- Mỡ + Cử động nhào trộn --> Mỡ nhũ tương hóa
+- Mỡ nhũ tương hóa Lipase tụy --> Acid béo và 2-monoglycerid
+
+**4.1. Tiêu hóa lipid**
+
+Phần lớn sự tiêu hóa lipid là do các men tiêu hóa mỡ của tụy (lipase, cholesterol esterase và phospholipase). Trước khi được tiêu hóa, các phân tử lipid phải được phân tán thành các hạt mỡ nhỏ để tăng diện tích tiếp xúc với các men. Hiện tượng này được gọi là sự nhũ tương hóa (emulsification).
+
+Dưới tác dụng cơ học của dạ dày và ruột non, các giọt mỡ được phân thành các hạt mỡ nhỏ. Muối mật và lecithin là những phân tử lưỡng cực gồm một cực ưa nước và một cực kỵ nước. Khi kết hợp với các hạt mỡ, chúng sẽ quay đầu ưa nước ra ngoài và đầu kỵ nước vào trong. Kết quả là làm giảm sức căng bề mặt của các hạt mỡ, khiến chúng không tập hợp trở lại thành các giọt mỡ (Hình 114).
+
+Phần lớn lipid được tiêu hóa thành acid béo và monoglyceride.
+
+Các chất béo ở dạng nhũ tương rất thuận lợi cho việc thủy phân bằng lipase tụy. Lipase tụy hoạt động hiệu quả nhất ở pH $7-8$. Lipase tụy sau đó thủy phân các phân tử triglyceride để tạo thành một 2-monoglyceride và hai acid béo.
+
+Phospholipase A2 là các men tụy có tác dụng tiêu hóa phospholipid và hình thành lysophospholipids và acid béo. Ví dụ, phosphatidylcholine (lecithin) được thủy phân thành lysophosphatidylcholine (lysolecithin) và acid béo.
+
+Cholesterol trong thức ăn là các sterol tự do hoặc sterol ester (cholesterol ester). Men tụy carboxylester hydrolase (còn được gọi là cholesterol esterase) xúc tác cho quá trình thủy phân cholesterol este thành dạng có thể được hấp thu là các cholesterol và acid béo.
 
 [Hình: Hình 114. Sự nhũ tương hóa mỡ bởi các phân tử muối mật và phospholipid [7]]
 - Giọt mỡ
@@ -3266,6 +4323,239 @@ Nguồn cung cấp chính của vitamin C là các loại rau xanh và hoa quả
 **Hình 122. Hấp thu vitamin $B_{12}$ [1]**
 
 Vitamin $B_{12}$ (cobalamin) có vai trò quan trọng trong việc tạo ra hồng cầu. Vitamin $B_{12}$ được hấp thu bằng cách gắn với yếu tố nội tại ở dạ dày được bài tiết từ tế bào thành ở dạ dày, phức hợp vitamin $B_{12}$ - yếu tố nội tại đến đoạn cuối của hồi tràng thì được hấp thu (Hình 122). Nếu không có yếu tố nội tại, chỉ có một ít $B_{12}$ được hấp thu theo cơ chế khuếch tán. Thiếu hụt vitamin $B_{12}$ do cơ thể thiếu yếu tố nội tại một thời gian dài sẽ dẫn đến bị thiếu máu.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+1. Sự bài tiết và hấp thu nước trong ống tiêu hóa có đặc điểm nào sau đây?
+A. Phần lớn nước được hấp thu có nguồn gốc từ các chất dịch uống vào
+B. Ruột non và ruột già có khả năng hấp thu nước giống nhau
+C. Cân bằng thẩm thấu của dưỡng trấp xảy ra tại dạ dày
+D. Hấp thu nước phụ thuộc sự hấp thu điện giải và chất dinh dưỡng
+2. Sự hấp thu glucose ở bờ bàn chải ruột non tùy thuộc vào sự hiện diện của chất nào sau đây?
+A. $K^+$ trong tế bào
+B. pH kiềm trong lòng ruột
+C. Insulin
+D. $Na^+$ trong lòng ruột
+3. Sự tiêu hóa và hấp thu carbohydrate trong thức ăn có đặc điểm nào sau đây?
+A. Chuyên chở đến gan theo tĩnh mạch cửa dưới dạng monosaccharides
+B. Tiêu hóa nhanh chóng bởi enterokinase ở tá tràng
+C. Vận chuyển bằng cơ chế đồng vận chuyển với $Na^+$ vào mạch bạch huyết
+D. Hấp thu qua niêm mạc ruột khi pH dưới 3,0
+4. Sự thành lập mixen cần thiết cho sự hấp thu của chất nào sau đây?
+A. Muối mật
+B. Sắt
+C. Cholesterol
+D. Vitamin B
+5. Triglyceride nội sinh được chuyển hóa trong tế bào biểu mô niêm mạc ruột non như thế nào?
+A. Thủy phân thành 2-monoglyceride và acid béo tự do
+B. Nhập vào chylomicron và sau đó được xuất bào
+C. Nhập vào mixen cùng với muối mật
+D. Khuếch tán thụ động vào máu tĩnh mạch cửa
+
+ĐÁP ÁN: 1.D, 2.D, 3.A, 4.C, 5.B
+
+# THUỐC ĐIỀU TRỊ TIÊU CHẢY
+
+ThS.DS. Nguyễn Minh Phúc, ThS.BS. Đặng Minh Luân
+
+## MỤC TIÊU HỌC TẬP
+
+1. Trình bày cơ chế sinh lý bệnh của bệnh tiêu chảy.
+2. Trình bày cơ chế tác dụng của các thuốc điều trị tiêu chảy thường dùng.
+3. Trình bày nguyên tắc điều trị tiêu chảy và áp dụng trị liệu của các thuốc điều trị tiêu chảy.
+
+## NỘI DUNG BÀI GIẢNG
+
+## 1. ĐẠI CƯƠNG
+
+Tiêu chảy là tình trạng đi tiêu phân lỏng $\geq$ 3 lần/ngày với lượng phân > 200 g/ngày.
+
+Tiêu chảy được phân loại tùy thời gian diễn tiến: cấp (< 2 tuần), dai dẳng (2 – 4 tuần) và mạn tính (> 4 tuần).
+
+Tiêu chảy cấp là một trong những nguyên nhân gây bệnh và tử vong cao nhất trên toàn thế giới, đặc biệt là ở các nước đang phát triển. Bệnh thường gặp ở trẻ em hơn người lớn.
+
+Tiêu chảy có thể do một trong bốn cơ chế sinh bệnh là thẩm thấu, tiết dịch, viêm (dịch rỉ) hay rối loạn vận động ruột. Trên thực tế, tiêu chảy có thể do phối hợp các cơ chế nêu trên.
+
+## 2. SINH LÝ BỆNH
+
+Nước và các chất điện giải được bài tiết và hấp thu trong lòng ruột. Tại hồi tràng, nước và muối được hấp thu thụ động theo sự hấp thu các chất dinh dưỡng (glucose hay acid amin). Nước sẽ được hấp thu theo áp lực thẩm thấu do sự hấp thu muối tạo ra. Ngoài ra, sự hấp thu $\text{Na}^+$ và glucose cũng diễn ra ở hồi tràng nhờ đồng vận chuyển $\text{Na}^+$-glucose ($\text{Na}^+$-glucose cotransporter): một ion $\text{Na}^+$ được vận chuyển cùng với một phân tử glucose. Cơ chế đồng vận chuyển này vẫn còn nguyên vẹn trong những trường hợp tiêu chảy nặng và là một cơ sở quan trọng để áp dụng biện pháp điều trị bù nước và điện giải (xem thêm sự hấp thu nước và điện giải trong bài *Hoạt động tiêu hóa và hấp thu của hệ tiêu hóa*).
+
+Độ thẩm thấu các chất trong lòng ruột đóng vai trò quan trọng trong xác định lượng nước trong phân. Lượng nước trong phân sẽ tăng lên nếu trong lòng ruột có các chất hòa tan không được hấp thu hoặc khi có sự thiếu hụt các men thủy phân đường đôi disacchaaridase (xuất hiện khi nhịn ăn). Ức chế men $\text{Na}^+\text{K}^+\text{ATPase}$ và phá hủy cấu trúc tế bào niêm mạc (ví dụ, do Rota virus) có thể gây tiêu chảy do làm giảm hấp thu các chất.
+
+Các nucleotide vòng nội bào đóng vai trò quan trọng giúp điều hòa quá trình hấp thu và bài tiết các chất điện giải (Hình 123). Các kích thích làm tăng hoạt động của $\text{cAMP}$ hoặc $\text{cGMP}$ sẽ gây mất muối và nước do ức chế hấp thu $\text{NaCl}$ ở các tế bào nhung mao, cũng như tăng tiết các anion ($\text{Na}^+$ sẽ đi kèm các anion này) trong các tế bào khe tuyến.
+
+Độc tổ bền với nhiệt (ST) của ETEC, Clostridium difficile và E. histolytica gây ra sự tích tụ cGMP dẫn đến tăng tiết anion (yếu hơn so với tích tụ cAMP) và ức chế sự hấp thu Na. Nhiều loại độc tố vi khuẩn (ví dụ: độc tố vi khuẩn tả, ngoại độc tố của Enterotoxigenic E. coli, S. aureus, Salmonella sp.,...) hoạt hóa adenylyl cyclase và thúc đẩy sự bài tiết. Quá trình này đạt đỉnh điểm sau 3 – 4 giờ và tồn tại cho đến khi các tế bào đã bị kích thích bởi độc tố bị phá hủy (36 giờ sau một lần phơi nhiễm). Sự ức chế đồng thời quá trình hấp thu có thể làm tăng nặng tình trạng mất muối và nước. Các prostaglandin và Ca$^{2+}$ nội bào cũng kích thích quá trình bài tiết.
+
+Tăng nhu động ruột hiện nay được xem là có vai trò thứ yếu trong cơ chế gây tiêu chảy và cũng có thể là hệ quả do tích tụ dịch trong lòng ống tiêu hóa.
+
+[Hình: Tác động của nucleotide vòng trên vận chuyển các chất điện giải ở tế bào niêm mạc ruột. Trong các tế bào khe tuyến, cAMP đóng vai trò chủ đạo [4]]
+
+**3. ĐIỀU TRỊ TIÊU CHẢY**
+
+**3.1. Nguyên tắc**
+
+Bù dịch và điện giải là một trong những mục tiêu điều trị hàng đầu ở bệnh nhân tiêu chảy. Do đa số trường hợp tiêu chảy đều tự giới hạn, điều trị đặc hiệu theo nguyên nhân chỉ cần thiết trong một số trường hợp.
+
+Các biện pháp điều trị tiêu chảy gồm có bù dịch và điện giải, duy trì tình trạng dinh dưỡng và điều trị bằng thuốc. Tầm quan trọng của mỗi biện pháp điều trị tùy thuộc mức độ nặng và tính chất của tiêu chảy.
+
+**3.2. Bù dịch**
+
+Trong nhiều trường hợp, đây là biện pháp cần thiết duy nhất. Việc bù dịch có thể được thực hiện bằng đường uống hoặc tĩnh mạch.
+
+Bù dịch đường tĩnh mạch: được chỉ định khi có mất nước nặng hoặc khi bệnh nhân không thể uống được (ví dụ: do nôn ói hay rối loạn tri giác). Mất nước nặng có thể được định nghĩa là mất > 10% trọng lượng cơ thể hoặc > 10 mL/kg/giờ (nếu không bù kịp thời có dẫn đến sốc). Tổng lượng dịch truyền tương đương với 10% trọng lượng cơ thể và cần được truyền trong vòng 2 – 4 giờ. Tốc độ truyền dịch tiếp theo phụ thuộc vào tốc độ mất dịch. Trong hầu hết trường hợp, có thể bù dịch bằng đường uống sau khi đã bù dịch đường tĩnh mạch.
+
+Bù dịch đường uống: bù dịch đường uống được xem là một bước tiến lớn trong điều trị tiêu chảy. Nếu mất nước ở mức độ nhẹ (5 – 7% trọng lượng cơ thể) hoặc trung bình (7,5 – 10% trọng lượng cơ thể), có thể bù dịch qua đường uống từ đầu. Phương pháp bù dịch đường uống cũng được chỉ định đối với những trường hợp tiêu chảy mất nước nặng sau khi đã được bù dịch tĩnh mạch trong giai đoạn đầu.
+
+Cơ sở luận của thành phần dịch bù đường uống (dung dịch Oresol – ORS): nguyên tắc chung là bù đường uống bằng dung dịch có glucose và muối do cơ chế đồng hấp thu glucose và $\text{Na}^+$ vẫn còn nguyên vẹn ở bệnh nhân tiêu chảy ngay cả khi các cơ chế khác đã bị tổn thương.
+
+- ORS nên đẳng trương hoặc hơi nhược trương, tức là độ thẩm thấu khoảng 200 – 310 mOsm/L (dịch tiêu chảy gần đẳng trương với huyết tương).
+- Tỉ lệ mol glucose bằng hoặc cao hơn một ít so với $\text{Na}^+$ (glucose dư thừa sẽ được sử dụng để hấp thu $\text{Na}^+$ có trong dịch tiết ruột bên cạnh hấp thu $\text{Na}^+$ trong dung dịch ORS), nhưng không vượt quá 110 mM.
+- $\text{K}^+$ (15 – 25 mM) và bicarbonate/citrate (8 – 12 mM) phải đủ để bù đắp lượng mất trong phân.
+
+Tổ chức Y tế thế giới (WHO) khuyến cáo một công thức chuẩn có thành phần: $\text{Na}^+$ 90 mM, $\text{K}^+$ 20 mM, $\text{Cl}^-$ 80 mM, citrate (base) 10 mM, glucose 110 mM và có nồng độ thẩm thấu 310 mOsm/L. Công thức này được đưa ra vào năm 1984 dựa trên thành phần phân do tả ở trẻ em. Tuy nhiên, khi dùng cho trẻ bị tiêu chảy không do tả, dung dịch ORS theo công thức này thường gây phù quanh mi mắt do tình trạng hấp thu $\text{Na}^+$ dư thừa.
+
+Năm 2002, WHO đưa ra công thức một loại ORS mới có nồng độ glucose và $\text{Na}^+$ thấp hơn dựa trên kết quả nghiên cứu cho thấy sự hấp thu nước tối đa xảy ra với dung dịch hơi nhược trương và khi nồng độ glucose vào khoảng 60 – 110 mM. Công thức ORS mới đã được chứng minh là hiệu quả và an toàn trong bệnh tả, nhưng có nguy cơ gây hạ natri máu ở người lớn mắc bệnh tả (Bảng 2).
+
+Do $\text{K}^+$ bị mất một lượng đáng kể trong tiêu chảy cấp nên kali cũng là thành phần quan trọng của ORS. Các chất kiềm (bicarbonate, citrate, lactate) được thêm vào để điều chỉnh tình trạng nhiễm toan do mất $\text{HCO}_3^-$ trong phân. Ngoài ra, các chất kiềm này cũng có thể thúc đẩy sự hấp thu $\text{Na}^+$ và nước.
+
+Cách bù dịch bằng đường uống: bệnh nhân được khuyến khích uống ORS mỗi 30 phút – 1 giờ. Lượng dịch bù khởi đầu tương đương 5 – 7,5% trọng lượng cơ thể trong 2 – 4 giờ (5 mL/kg/giờ ở trẻ em). Khát nước là triệu chứng báo hiệu bù dịch chưa đủ. Sau đó, dịch được bù theo nhu cầu, nhưng ít nhất nên bù đủ lượng dịch mất theo phân. Đối với trẻ quá yếu và không thể uống ORS với tốc độ mong muốn, có thể nhỏ giọt qua ống thông mũi – dạ dày. Mục tiêu là bồi hoàn đủ nước bị mất trong vòng 6 giờ.
+
+Bài 17. Thuốc điều trị tiêu chảy ♦ 179
+
+**Bảng 2.** Thành phần các chất trong dung dịch ORS theo công thức chuẩn và công thức mới
+| Thành phần các chất | ORS chuẩn | ORS mới |
+| --- | --- | --- |
+| NaCl | 3,5 g | 2,6 g |
+| KCl | 1,5 g | 1,5 g |
+| Trisodium citrate | 2,9 g | 2,9 g |
+| Glucose | 20 g | 13,5 g |
+| Nước | 1 L | 1 L |
+| Na⁺ | 90 mmol/L | 75 mmol/L |
+| K⁺ | 20 mmol/L | 20 mmol/L |
+| Cl⁻ | 80 mmol/L | 65 mmol/L |
+| Citrate | 10 mmol/L | 10 mmol/L |
+| Glucose | 111 mmol/L | 75 mmol/L |
+| Áp lực thẩm thấu | 311 mosm/L | 245 mosm/L |
+
+Bù dịch đường uống không nhằm mục tiêu làm giảm lượng phân hay điều trị hết tiêu chảy. Phương pháp này giúp phục hồi tình trạng mất dịch cũng như cân bằng điện giải và pH cho đến khi hết tiêu chảy (trong đa số trường hợp, tiêu chảy sẽ tự giới hạn). Đây là cách bù dịch tốt nhất.
+
+**3.3. Kẽm trong điều trị tiêu chảy ở trẻ em**
+
+Cơ chế của kẽm trong tiêu chảy vẫn chưa rõ. Các nghiên cứu in vitro cho thấy kẽm có tác động trên các kênh K⁺ ở màng đáy bên, từ đó ức chế kênh vận chuyển Cl⁻ phụ thuộc cAMP để làm giảm tiết dịch trong lòng ruột và làm giảm tiêu chảy. Ngoài ra, kẽm còn giúp tăng cường đáp ứng miễn dịch và tái tạo biểu mô ruột.
+
+Kẽm khi được bổ sung cùng với dung dịch ORS có áp lực thẩm thấu thấp giúp làm giảm thời gian và mức độ nặng của các đợt tiêu chảy cấp ở trẻ em dưới 5 tuổi. Do đó, tất cả trẻ em bị tiêu chảy cấp nên được bổ sung kẽm cùng với ORS và tiếp tục sử dụng kẽm trong 10 – 14 ngày sau khi hết tiêu chảy.
+
+**3.4. Duy trì dinh dưỡng**
+
+Trái với quan điểm truyền thống, không nên nhịn ăn uống khi bị tiêu chảy. Nhịn ăn làm giảm các men disaccharidase ở bờ bàn chải cũng như làm giảm hấp thu muối, nước và các chất dinh dưỡng. Nhịn ăn còn có thể dẫn đến suy dinh dưỡng nếu tình trạng tiêu chảy kéo dài hoặc tái diễn. Ngược lại, cho ăn trong khi bị tiêu chảy được chứng minh là làm tăng men tiêu hóa và tăng sinh tế bào biểu mô ở niêm mạc đường tiêu hóa. Nên cho ăn những thực phẩm đơn giản (ví dụ, khoai tây luộc, cơm, súp gà, chuối,...) khi bệnh nhân có thể ăn trở lại. Trẻ bị tiêu chảy nên được cho bú mẹ lại ngay khi trẻ có thể uống. Nên tránh một số thực phẩm có thể kích thích đi tiêu (ví dụ, các thức ăn nhiều chất xơ, mỡ, thức ăn cay, rượu, trà hay cà phê,...).
+
+3.5. Điều trị bằng thuốc
+Các nhóm thuốc điều trị tiêu chảy gồm có kháng sinh, probiotic (men vi sinh sống) và thuốc chống tiêu chảy không đặc hiệu.
+3.5.1. Kháng sinh
+Kháng sinh thường được kê toa cho bệnh nhân tiêu chảy, đặc biệt là tiêu chảy cấp. Tuy nhiên, chưa đến 10% các trường hợp tiêu chảy cấp có lợi khi dùng kháng sinh. Kháng sinh có vai trò hạn chế trong điều trị tiêu chảy vì các lý do sau:
+- Nhiều trường hợp tiêu chảy không phải do vi khuẩn
+- Ngay cả trong trường hợp tiêu chảy do vi khuẩn, kháng sinh chỉ làm thay đổi diễn tiến trong một số trường hợp.
+- Kháng sinh có thể làm kéo dài tình trạng mang mầm bệnh.
+- Kháng sinh có thể gây tác dụng phụ tiêu chảy.
+Bệnh nhân tiêu chảy cấp có thể được chia thành hai nhóm:
+- Tiêu chảy cấp không do viêm (noninflammatory acute diarrhea): tiêu chảy phân nhiều nước không kèm nhầy hoặc máu. Bệnh nhân bị mất nước nhiều, có kèm buồn nôn hay nôn, không sốt hay sốt nhẹ. Tình trạng này thường do các vi khuẩn sinh độc tố ruột (enterotoxin) như tả, ETEC, Salmonella enteritidis. Tiêu chảy cấp không do viêm còn có thể do virus (rota virus và các loại virus khác) vi virus gây tăng tiết rất nhiều dịch bằng cách kích hoạt cAMP trong tế bào niêm mạc ruột. ORS (chứ không phải kháng sinh) là phương pháp điều trị chính trong trường hợp này.
+- Tiêu chảy cấp do viêm (inflammatory acute diarrhea): tiêu phân hơi lỏng với lượng nước trong phân ít hơn. Phân thường kèm nhầy và/hoặc máu. Bệnh nhân bị mất nước nhẹ nhưng kèm sốt cao và đau bụng, ít gặp buồn nôn và nôn. Những triệu chứng này gợi ý tác nhân gây bệnh xâm nhập vào niêm mạc ruột như Shigella, EPEC, Campylobacter jejuni, Salmonella typhimurium, Yersinia enteratioitica, E. histolytica và Clostridium difficile. Kháng sinh cần thiết trong trường hợp này.
+Chọn lựa kháng sinh:
+- Tiêu chảy của khách du lịch (traveller's diarrhea): chủ yếu là do ETEC, Campylobacter hoặc virus. Cotrimoxazole, norfloxacin, doxycycline làm giảm thời gian tiêu chảy và lượng dịch bù cho các trường hợp nặng.
+- EPEC: ít phổ biến hơn, nhưng gây tiêu chảy xâm nhập giống Shigella. Cotrimoxazole hay fluoroquinolone có thể được dùng cho các trường hợp cấp tính và trẻ sơ sinh.
+- Viêm ruột do Shigella: chỉ dùng ciprofloxacin hoặc norfloxacin khi phân có nhầy và máu. Cotrimoxazole và ampicillin là những lựa chọn thay thế, nhưng nhiều chủng vi khuẩn đã kháng.
+- Viêm ruột do Salmonella không phải thương hàn (Nontyphoid Salmonella): vi khuẩn thường xâm lấn niêm mạc ruột. Có thể dùng fluoroquinolone, cotrimoxazole hoặc ampicillin cho các trường hợp nặng.
+- Yersinia enterocolitica: phổ biến ở vùng lạnh hơn là nhiệt đới. Cotrimoxazole là thuốc phù hợp nhất trong trường hợp nặng. Ciprofloxacin là thuốc được lựa chọn thay thế.
+
+Thuốc kháng sinh cũng thường hữu ích trong các trường hợp sau:
+
+- Dịch tả (Cholera): bù dịch là điều trị quan trọng hàng đầu. Tetracyclin có thể giúp giảm khoảng 50% lượng phân. Cotrimoxazole là một lựa chọn thay thế, đặc biệt là ở trẻ em. Gần đây, các chủng dịch tả đa kháng thuốc đã xuất hiện. Các chủng này có thể được điều trị bằng norfloxacin/ciprofloxacin. Ampicillin và erythromycin cũng có hiệu quả.
+
+- Campylobacter jejuni: norfloxacin và các fluoroquinolone khác giúp loại trừ vi khuẩn và kiểm soát tiêu chảy. Erythromycin cũng khá hiệu quả và được ưu chuộng ở trẻ em.
+
+- Clostridium difficile: gây viêm đại tràng màng giả liên quan đến kháng sinh. Cần ngưng sử dụng kháng sinh gây tình trạng này. Thuốc được lựa chọn điều trị viêm đại tràng màng giả là metronidazole. Vancomycin uống là một lựa chọn thay thế.
+
+- Tiêu chảy liên quan đến sự phát triển của vi khuẩn trong các quai ruột hay viêm túi thừa có thể được điều trị bằng tetracyclin hoặc metronidazole.
+
+- Tiêu chảy do Entamoeba histolytica hoặc Giardia: metronidazole, diloxanide furoate.
+
+## 3.5.2. Probiotic
+
+Probiotics là các chế phẩm vi sinh sống giúp tăng cường sức khỏe cho ký chủ khi được bổ sung đủ số lượng. Các vi sinh sống này có thể ở dạng nuôi cấy sống hoặc bột đông khô nhằm mục tiêu phục hồi và duy trì hệ sinh vật chí đường tiêu hóa. Tình trạng tiêu chảy và sử dụng kháng sinh có thể làm thay đổi số lượng, thành phần cũng như sự cân bằng của hệ vi khuẩn chí đường tiêu hóa. Tái phục hồi hệ vi khuẩn chí này bằng các tác nhân không gây bệnh (chủ yếu là các trùng sinh acid lactic và nấm men) có thể giúp khôi phục lại sự cân bằng trong đường tiêu hóa. Các sinh vật thường được sử dụng bao gồm Lactobacillus sp., Bifidobacterium, Streptococcus faecalis, Enterococcus sp. và nấm men Sacaromyces bouardii....
+
+Tuy thường được sử dụng kèm với các thuốc điều trị tiêu chảy khác, các bằng chứng thuyết phục về hiệu quả của probiotics vẫn còn thiếu. Kết quả từ một vài phân tích gộp gợi ý rằng probiotics giúp làm giảm có ý nghĩa thống kê tiêu chảy liên quan đến kháng sinh, tiêu chảy cấp do vi trùng và nguy cơ mắc tiêu chảy của khách du lịch. Chứng cứ thuyết phục nhất của probiotics đến từ các nghiên cứu tiêu chảy liên quan đến kháng sinh. Tuy nhiên, hiện tại chưa có khuyến cáo dùng probiotics kèm với kháng sinh. Về phương diện an toàn, probiotics có ít tác dụng phụ.
+
+## 3.5.3. Thuốc chống tiêu chảy không đặc hiệu
+
+Các thuốc này giúp bệnh nhân giảm số lần đi tiêu và giảm khối lượng phân. Các nhóm thuốc chống tiêu chảy không đặc hiệu bao gồm: chất tạo khối phân và hút nước, chất hấp thu muối mật, bismuth, những chất kháng vận động và kháng tiết, racecadotril, những chất đồng vận thụ thể $\alpha2$ adrenergic, octreotide/somatostatin,...
+
+### 3.5.3.1. Chất tạo khối phân và hút nước
+
+Những chất keo hay polymer hút nước và kém lên men (carboxymethylcellulose và calci polycarbophil) có tác dụng hấp thu nước và làm tăng khối phân. Chúng thường được sử dụng trong điều trị táo bón nhưng đôi khi lại hữu ích trong các đợt tiêu chảy cấp hoặc tiêu chảy mạn mức độ nhẹ ở các bệnh nhân bị hội chứng ruột kích thích. Các chất này cũng gắn kết với độc tố của vi khuẩn và muối mật. Đất sét như kaolin (nhôm silicate được hydrate hóa) và những silicates khác như attapulgite có thể gắn kết với nước và độc tố ruột. Do những chất này có thể gắn kết với thuốc và các chất dinh dưỡng khác nên cần được sử dụng cách các thuốc khác 2 – 3 giờ. Hỗn hợp kaolin và pectin (một loại polysaccharide thực vật) có thể làm giảm triệu chứng hữu hiệu nếu tiêu chảy mức độ nhẹ.
+
+3.5.3.2. Chất hấp thu muối mật
+
+Cholestyramine, colestipol và colesevelam gắn kết hiệu quả với acid mật và độc tố của vi khuẩn. Cholestyramine có vai trò trong điều trị tiêu chảy do muối mật như ở bệnh nhân đã phẫu thuật cắt đoạn xa hồi tràng. Ở những bệnh nhân này, nồng độ muối mật đến đại tràng cao sẽ gây kích thích bài tiết nước và điện giải. Bệnh nhân bị cắt > 100 cm đoạn cuối hồi tràng sẽ bị mất muối mật. Tình trạng này làm hình thành không đủ các hạt mixen cần thiết cho hấp thu mỡ dẫn đến tiêu phân mỡ. Nếu dùng cholestyramine ở những bệnh nhân này sẽ làm nặng thêm tình trạng tiêu chảy. Ở bệnh nhân bị tiêu chảy do muối mật, có thể uống cholestyramine với liều là 4 g, 4 lần/ngày. Nếu thành công thì giảm dần liều cho đến khi đạt được số liều đi tiêu như mong muốn.
+
+3.5.3.3. Bismuth
+
+Bismuth được cho là có tác dụng kháng bài tiết, kháng viêm và kháng khuẩn. Bismuth cũng làm giảm buồn nôn và đau bụng. Bismuth subsalicylate được sử dụng để phòng ngừa và điều trị tiêu chảy ở những người đi du lịch. Thuốc cũng được chỉ định trong viêm dạ dày ruột cấp tính. Liều khuyến cáo của bismuth subsalicylate (30 mL dạng dịch thường quy hay 2 viên nén) có chứa đủ lượng bismuth và salicylate (262 mg cho mỗi chất). Để kiểm soát tình trạng khó tiêu, buồn nôn hay tiêu chảy thì cần lặp lại liều thuốc mỗi 30 – 60 phút khi cần thiết, có thể lên đến 8 lần trong ngày. Tác dụng phụ của thuốc là phân và lưỡi có màu đen, là do bismuth sulfide được hình thành từ phản ứng giữa thuốc và các sulfide của vi khuẩn ở trong đường tiêu hóa.
+
+3.5.3.4. Chất kháng vận động và kháng tiết
+
+Opioids: opioid là nhóm thuốc được sử dụng rộng rãi trong điều trị tiêu chảy. Opioid tác dụng theo nhiều cơ chế khác nhau, thông qua các thụ thể opiod dạng µ hay δ lên thần kinh ruột cũng như những tế bào biểu mô ruột và cơ. Các cơ chế này bao gồm tác dụng lên sự vận động của ruột (thông qua thụ thể µ), bài tiết của ruột (thông qua thụ thể δ) hay hấp thu ở ruột (thông qua thụ thể µ và δ). Nhóm thuốc này làm giảm co thắt trong ống tiêu hóa nên còn được gọi là các thuốc kháng nhu động (antiperistaltic agents). Diphenoxylate, defenoxin và loperamide tác dụng chủ yếu trên những thụ thể opioid dạng µ ở ngoại biên và được ưa chuộng trong điều trị tiêu chảy hơn những opioid xâm nhập vào hệ thần kinh trung ương
+
+- Loperamide: có tác dụng làm giảm co thắt ống tiêu hóa nên làm tăng thời gian vận chuyển các chất và cho phép quá trình hấp thu diễn ra lâu hơn. Thuốc cũng có tác dụng làm giảm bài tiết ở ruột thông qua tác dụng ức chế calmodulin. Thuốc còn làm tăng trương lực cơ thắt hậu môn. Ngoài ra, loperamide cũng có tác dụng kháng tiết chống lại độc tố của vi khuẩn và một số độc tố của Escherichia coli. Loperamide là chất kháng tiêu chảy ít xâm nhập vào hệ thần kinh trung ương với hiệu lực gấp 40 – 50 lần so với morphine. Loperamide (viên nang, dung dịch và viên nhai) có tác dụng nhanh sau khi uống với nồng độ đỉnh trong huyết tương đạt được trong vòng 3 – 5 giờ và thời gian bán hủy khoảng 11
+
+giờ. Thuốc được chuyển hóa ở gan. Liều khởi đầu thông thường của người lớn là 4 mg và sau đó là 2 mg sau mỗi lần đi tiêu phân lỏng tiếp theo (có thể lên đến 16 mg/ngày). Nếu tình trạng tiêu chảy không cải thiện sau 48 giờ thì nên ngưng sử dụng loperamide. Liều tối đa được khuyến cáo cho trẻ em là 3 mg cho trẻ từ 2 – 5 tuổi, 4 mg cho trẻ 6 – 8 tuổi, và 6 mg cho trẻ 8 – 12 tuổi. Loperamide không được khuyến cáo sử dụng cho trẻ dưới 2 tuổi. Loperamide được chỉ định điều trị tiêu chảy ở người đi du lịch (sử dụng đơn lẻ hay kết hợp với kháng sinh), điều trị hỗ trợ trong những trường hợp tiêu chảy mạn tính. Cần thận trọng khi dùng loperamide ở bệnh nhân bị bệnh viêm ruột đang hoạt động do thuốc có thể gây biến chứng phình đại tràng. Không sử dụng loperamide ở bệnh nhân tiêu chảy do cơ chế xâm nhập vì thuốc gây ứ đọng trong lòng ruột làm tăng nguy cơ xâm nhập của các tác nhân gây bệnh vào cơ thể. Trên lâm sàng, những trường hợp tiêu chảy cấp có máu kèm sốt cao không nên chỉ định dùng loperamide.
+
+- Diphenoxylate và difenoxin (chất chuyển hóa của diphenoxylate): là những chất kháng tiêu chảy có hiệu lực mạnh hơn morphine. Cả hai chất đều được hấp thu tốt sau khi uống, với nồng độ đỉnh đạt được trong vòng 1 – 2 giờ. Trong cơ thể, diphenoxylate nhanh chóng được khử ester hóa và tạo thành difenoxin. Difenoxin có thời gian bán hủy là 12 giờ. Cả hai thuốc có thể có tác dụng lên hệ thần kinh trung ương khi sử dụng liều cao (40 – 60 mg/ngày), do đó, có khả năng sẽ bị lạm dụng thuốc và/hoặc nghiện thuốc. Một lượng nhỏ atropine (dưới mức điều trị) được kết hợp trong chế phẩm thuốc điều trị nhằm hạn chế tình trạng lạm dụng thuốc và quá liều: 25 µg atropine sulfate trong mỗi viên nén chứa 2.5 mg diphenoxylate hydrochloride (Lomotil®) hay 1 mg difenoxin hydrochloride (Motofen®). Liều khởi đầu thường dùng là 2 viên, sau đó là 1 viên mỗi 3 – 4 giờ, không vượt quá 8 viên mỗi ngày. Khi sử dụng quá liều thì có thể xảy ra táo bón và phình đại tràng. Với liều cao thì các thuốc này có thể gây tác dụng phụ lên hệ thần kinh trung ương cũng như các tác dụng phụ kháng cholinergic của atropine (khô miệng, nhìn mờ,...).
+
+- Các opioid khác: các opioid khác được sử dụng trong tiêu chảy bao gồm codeine (với liều 30 mg dùng 3 – 4 lần trong ngày) và những hợp chất có chứa opium. Paregoric là một opium được camphor hóa có chứa tương đương 2 mg morphine trong mỗi 5 mL (0,4 mg/mL); opium được khử mùi có chứa tương đương 50 mg morphine trong mỗi 5 ml. (10 mg/mL). Liều chống tiêu chảy của opium ở người lớn là 0,6 mL (tương đương 6 mg morphine) 4 lần mỗi ngày. Paregoric được sử dụng cho người lớn với liều 5 – 10 mL (tương đương 2 – 4 mg morphine) 1 đến 4 lần mỗi ngày và cho trẻ em với liều 0,25 – 0,5 mg/kg (tương đương 0,1 – 0,2 mg morphine/kg) 1 đến 4 lần mỗi ngày.
+
+Racecadotril: enkahalins là một opioid nội sinh và là một chất dẫn truyền thần kinh quan trọng ở ruột có tác dụng ức chế sự bài tiết ở ruột non mà không ảnh hưởng đến vận động ruột. Enkephalinase là một men peptidase trên màng tế bào có ở nhiều mô khác nhau, đáng chú ý là biểu mô của ruột non. Men này có vai trò trong việc tiêu hóa các peptide ngoại sinh và phá vỡ các peptide nội sinh như enkephalin. Racecadotril có tác dụng ức chế men enkephalinase, nhờ đó kéo dài tác động của enkephalin tại các synapse enkephalinergic trong ruột non và làm giảm sự tăng tiết của ruột non. Racecadotril cũng giúp giảm sự tăng tiết nước và điện giải gây ra bởi độc tố hoặc quá trình viêm. Thuốc làm giảm nhanh tình trạng tiêu chảy mà không làm ảnh hưởng đến nhu động ruột. Kết quả từ hai nghiên cứu ở trẻ em cho thấy, racecadotril giúp giảm 40 – 46% trọng lượng phân trong 48 giờ đầu sau khi dùng thuốc.
+
+3.5.3.5. Berberine
+
+Berberine là một alkaloid thực vật có tác dụng dược lý phức tạp, bao gồm kháng khuẩn, kích thích dòng chảy của mật, ức chế nhịp nhanh thất và chống u tân sinh. Chất này được sử dụng phổ biến trong tiêu chảy do vi khuẩn, nhưng cũng có tác dụng trên ký sinh trùng đường ruột. Tác dụng chống tiêu chảy một phần có liên quan đến hoạt tính kháng khuẩn, ức chế co thắt cơ trơn, trì hoãn quá trình vận chuyển qua ruột bằng cách đổi kháng với tác động của acetylcholine và chọn dòng $Ca^{2+}$ đi vào trong tế bào. Ngoài ra, chất này còn ức chế sự bài tiết của ruột.
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+1. Sự thành công của liệu pháp bù nước đường uống điều trị tiêu chảy phụ thuộc vào quá trình nào sau đây trong niêm mạc đường ruột?
+- A. Sự hấp thu $Na^+$ qua trung gian bơm natri
+- B. Sự hấp thu glucose kết hợp với $Na^+$
+- C. Sự hấp thu bicarbonate kết hợp với $Na^+$
+- D. Sự hấp thu thụ động $Na^+$ khuếch tán thứ cấp theo chất dinh dưỡng
+2. Bệnh nhân nữ 18 tuổi sau khi đi du lịch về thì bị đau quặn bụng và đi tiêu bốn lần phân lỏng, không máu. Loại thuốc nào sau đây sẽ thích hợp để điều trị tiêu chảy của bệnh nhân?
+- A. Magnesium sulfate
+- B. Bismuth subsalicylate
+- C. Vancomycin
+- D. Metoclopramide
+3. Câu nào sau đây đúng về tác dụng của các nucleotide vòng nào lên sự vận chuyển muối qua tế bào niêm mạc ruột?
+- A. Cả cAMP và cGMP đều làm tăng tiết $Cl^-$ và $HCO_3^-$
+- B. cAMP tăng cường nhưng cGMP ức chế bài tiết $Cl^-$ và $HCO_3^-$
+- C. cAMP ức chế nhưng cGMP tăng cường tái hấp thu $Na^+$ và $Cl^-$
+- D. Cả cAMP và cGMP đều tăng cường tái hấp thu $Na^+$ và $Cl^-$
+4. Điều trị kháng khuẩn giúp làm thay đổi diễn tiến tiêu chảy do nguyên nhân nào sau đây?
+- A. Độc tố nhẹ của tiêu chảy do E. coli
+- B. Tiêu chảy do Campylobacter
+- C. Tiêu chảy do bệnh Celiac
+- D. Tiêu chảy ngộ độc thực phẩm
+
+5. Phát biểu nào sau đây chính xác về vai trò của nhóm thuốc opioid trong điều trị bệnh tiêu chảy?
+A. Được sử dụng để kiểm soát tiêu chảy bất kể nguyên nhân nào
+B. Có thể dùng trong thời gian ngắn nếu tiêu chảy không do nhiễm trùng
+C. Được sử dụng như chất phụ trợ trong điều trị tiêu chảy nhiễm trùng
+D. Được dùng điều trị tiêu chảy do hội chứng ruột kích thích
+
+ĐÁP ÁN: 1.B, 2.B, 3.A, 4.B, 5.B
+
+## TÀI LIỆU THAM KHẢO
+
+1. Brunton LL, Knollmann CB et al. Goodman & Gilman's The Pharmacological Basis of Therapeutics, 13th edition, pp. 921-944, McGraw-Hill, New York, 2018.
+2. Quách Trọng Đức, Bùi Hữu Hoàng. Tiêu chảy và táo bón. Trong: Triệu chứng học Nội khoa, trang 158-161, Nhà xuất bản Y học, TP. Hồ Chí Minh, 2012.
+3. Trevor JA, Katzung GB. Katzung & Trevor's Pharmacology Examination and Board Review, 14th edition, pp. 1100-1106, McGraw-Hill, New York, 2018.
+4. Tripathi KD. Essentials of Medical Pharmacology. 8th edition, pp. 651-666, Jaypee Brothers Medical Publishers, New Delhi, 2018.
+5. WGO. World Gastroenterology Organisation Global Guideline - Acute Diarrhea, pp. 468-470, 2012.
 
 # CHỨC NĂNG GAN
 BS. Nguyễn Bình Thư, ThS.BS. Đặng Huỳnh Anh Thư
@@ -3823,10 +5113,65 @@ Xét nghiệm về tình trạng tắc mật:
 - C. Phosphatase kiềm
 - D. Gamma-glutamyl transpeptidase
 
+Bài 19. Xét nghiệm hóa sinh gan ♦ 209
+
+3. Ở bệnh nhân có bệnh gan mạn, thông số nào sau đây KHÔNG gợi ý tình trạng suy gan mạn?
+A. Albumin giảm
+B. Thời gian prothrombin kéo dài
+C. Tăng bilirubin
+D. Tăng các aminotransferase
+
+4. Hoạt tính của cả ALP và GGT đều tăng trong huyết thanh gặp trong tình huống nào sau đây?
+A. Xơ gan do rượu
+B. Ung thư tuyến tiền liệt
+C. Tam cá nguyệt thứ ba của thai kì
+D. Nhuyễn xương
+
+5. Một trường hợp vàng da không phát hiện sắc tố mật trong nước tiểu, nghĩ nhiều nhất đến nguyên nhân nào sau đây?
+A. Vàng da tắc mật
+B. Vàng da tán huyết
+C. Viêm gan siêu vi A
+D. Viêm gan siêu vi B
+
+ĐÁP ÁN: 1.C, 2.D, 3.D, 4.A, 5.B
+
+**TÀI LIỆU THAM KHẢO**
+1. Friedman LS. Approach to the patient with abnormal liver biochemical and function tests. In S. Grover (Ed.), UpToDate. Retrieved May 8, 2018, from https://www.uptodate.com/
+2. Friedman LS. Liver biochemical tests that detect injury to hepatocytes. In S. Grover (Ed.). UpToDate. Retrieved May 8, 2018, from https://www.uptodate.com/
+3. Friedman LS. Tests of the liver's biosynthetic capacity (eg. albumin, coagulation factors, prothrombin time). In S. Grover (Ed.), UpToDate. Retrieved May 8, 2018, from https://www.uptodate.com/
+4. Friedman LS. Clinical aspects of serum bilirubin determination. In S. Grover (Ed.), UpToDate. Retrieved May 8, 2018, from https://www.uptodate.com/
+5. Friedman LS. Enzymatic measures of cholestasis (eg. alkaline phosphatase, 5'-nucleotidase, gamma-glutamyl transpeptidase). In S. Grover (Ed.), UpToDate. Retrieved May 8, 2018, from https://www.uptodate.com/
+
 # Chương 3
 VI KHUẨN THƯỜNG TRÚ
 ĐƯỜNG TIÊU HÓA
-VÀ HELICOBACTER PYLORI kiện vệ sinh của mỗi người. Tất cả những thay đổi sinh lý này sẽ ảnh hưởng, thậm chí phá vỡ thể cân bằng mong manh được duy trì bằng mối quan hệ tay ba giữa các vi sinh vật ngoại lai, vi khuẩn thường trú và cơ thể con người. Ví dụ, trẻ bú mẹ có vi khuẩn thường trú là **Streptococci** và **Lactobaccilli** sinh acid lactic ở ống tiêu hóa, trong khi trẻ bú bình lại có nhiều loại vi sinh vật thường trú khác nhau.
+VÀ HELICOBACTER PYLORI
+
+# VI KHUẨN THƯỜNG TRÚ ĐƯỜNG TIÊU HÓA
+
+ThS.BS. Nguyễn Ngọc Lân
+
+## MỤC TIÊU HỌC TẬP
+
+1. Trình bày định nghĩa hệ vi khuẩn thường trú ở người.
+2. Mô tả hệ vi khuẩn thường trú đường ruột.
+3. Trình bày các đặc tính và chức năng của hệ vi khuẩn thường trú đường ruột.
+
+## NỘI DUNG BÀI GIẢNG
+
+### 1. ĐẠI CƯƠNG
+
+Thuật ngữ “hệ vi khuẩn thường trú” hay “vi hệ” (normal flora) dùng để mô tả tập hợp các loài vi khuẩn, vi nấm (fungi) hiện diện thường xuyên ở các vị trí khác nhau trên cơ thể người khỏe mạnh. Chúng thường chung sống hòa bình với ký chủ trong mối tương quan cân bằng. Trong hệ này, vi khuẩn thường trú chiếm ưu thế, vi nấm chỉ chiếm một tỉ lệ nhỏ. Do vậy, thuật ngữ “hệ vi khuẩn thường trú” được dùng phổ biến hơn cả. Hai nhóm lớn vi sinh vật khác là virus và sinh vật đơn bào (protozoa) không được xếp vào hệ vi khuẩn thường trú dù chúng có thể hiện diện ở người khỏe mạnh.
+
+Vi khuẩn thường trú là những vi sinh vật hội sinh (commensals), thu lợi từ ký chủ nhưng chung sống hòa bình và không gây tổn hại cho ký chủ.
+
+Thành phần của hệ vi khuẩn thường trú thay đổi về số lượng và chủng loại tùy theo vị trí của cơ thể. Vi khuẩn thường trú hiện diện ở khắp các vùng cơ thể (da, vòm họng, đại tràng, âm đạo,...) nhưng không xuất hiện ở các mô và cơ quan nội tạng của người khỏe mạnh. Hệ thần kinh trung ương, máu, đoạn dưới phế quản, phế nang, gan, lách, thận, bàng quang là những nơi không có sự hiện diện của bất kỳ loài vi khuẩn thường trú nào.
+
+Cần phân biệt vi khuẩn thường trú với tình trạng người lành mang mầm bệnh (carrier state). Đây là những người mang vi sinh vật nhưng không dùng thuật ngữ “thường trú” trong y văn. Thuật ngữ “mang” hàm ý một người chứa tác nhân có khả năng gây bệnh, sau đó có thể gây nhiễm khuẩn cho người khác hoặc cho chính mình. Thuật ngữ này thường dùng cho những người đã khỏi bệnh nhưng vẫn chưa hoàn toàn loại bỏ được vi sinh vật khỏi cơ thể và chúng còn có thể phát tán trong một thời gian dài.
+
+Cũng cần phân biệt vi khuẩn thường trú với sự tạo khuẩn lạc (colonization) của một vi khuẩn mới xâm nhập. Đây là tình trạng một vi khuẩn mới xâm nhập (thường là tại niêm mạc), tạo khuẩn lạc, gắn kết và phát triển, sau đó có thể gây bệnh nhiễm khuẩn hoặc bị thải loại tùy theo sự đáp ứng của ký chủ. Hơn nữa, vi khuẩn ở những người này có thể lan đến các cơ quan khác và là nguồn gốc của các nhiễm khuẩn cơ quan khác nhau.
+
+Ở người, hệ vi khuẩn thường trú xuất hiện nhanh trong thời gian ngắn ngay sau sinh và thay đổi liên tục trong suốt cuộc đời, phụ thuộc nhiều vào các yếu tố như: tuổi, chế độ ăn uống, tình trạng hormone, tình trạng sức khỏe, điều kiện vệ sinh môi trường và điều kiện vệ sinh của mỗi người. Tất cả những thay đổi sinh lý này sẽ ảnh hưởng, thậm chí phá vỡ thể cân bằng mong manh được duy trì bằng mối quan hệ tay ba giữa các vi sinh vật ngoại lai, vi khuẩn thường trú và cơ thể con người. Ví dụ, trẻ bú mẹ có vi khuẩn thường trú là **Streptococci** và **Lactobaccilli** sinh acid lactic ở ống tiêu hóa, trong khi trẻ bú bình lại có nhiều loại vi sinh vật thường trú khác nhau.
 
 ## 2. VI KHUẨN THƯỜNG TRÚ ĐƯỜNG RUỘT
 
@@ -4353,6 +5698,79 @@ Các dị tật của ruột sau bao gồm rò trực tràng – niệu đạo, 
    - B. Ở thành bên phải
    - C. Ở thành trước
 
+D. Ở thành sau
+3. Mầm gan xuất hiện giữa tuần thứ 3, có nguồn gốc từ đâu?
+A. Nội bì của đoạn xa ruột trước
+B. Ngoại bì của đoạn xa ruột trước
+C. Nội bì của ruột giữa
+D. Ngoại bì của ruột giữa
+4. Ông tụy chính có nguồn gốc từ đâu?
+A. Phần gần của ống tụy lưng và phần gần của ống tụy bụng
+B. Toàn bộ ống tụy lưng và phần gần của ống tụy bụng
+C. Toàn bộ ống tụy lưng và phần xa của ống tụy bụng
+D. Phần xa của ống tụy lưng và toàn bộ ống tụy bụng
+5. Phát biểu nào sau đây là đúng khi nói về sự hình thành và phát triển của tá tràng?
+A. Tá tràng xuất phát từ ruột trước và ruột giữa
+B. Tá tràng xoay qua trái, nằm trong phúc mạc
+C. Động mạch thân tạng không nuôi dưỡng tá tràng
+D. Tá tràng xoay qua trái, nằm sau phúc mạc
+
+ĐÁP ÁN: 1.B, 2.C, 3.A, 4.D, 5.A
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Nguyễn Trí Dũng. Phôi thai học tạng và hệ thống, trang 172 – 198, Nhà xuất bản Khoa học và Kỹ thuật, Hà Nội, 2009.
+2. Phan Chiến Thắng và cs. Phôi thai học, trang 114 – 126, Nhà xuất bản Hồng Đức, Hà Nội, 2013.
+3. Sadler TW. *Langman's Medical Embryology*, $12^{\text{nd}}$ edition, Chapter 15, pp 208-231, Lippincott Williams & Wilkins, Philadelphia, 2012.
+
+# CƠ CHẾ ĐIỀU HÒA THẦN KINH NỘI TIẾT CỦA HỆ TIÊU HÓA
+
+BS. Nguyễn Bình Thư, ThS.BS. Đặng Huỳnh Anh Thư
+
+## MỤC TIÊU HỌC TẬP
+
+1. Trình bày cơ chế thần kinh điều hòa hoạt động hệ tiêu hóa.
+2. Trình bày cơ chế nội tiết điều hòa hoạt động hệ tiêu hóa.
+
+## NỘI DUNG BÀI GIẢNG
+
+### 1. ĐIỀU HÒA CỦA HỆ THẦN KINH
+
+#### 1.1. Thần kinh phó giao cảm
+
+Hệ phó giao cảm chi phối ruột được chia thành loại thuộc sọ và thuộc tủy cùng, từ não theo dây thần kinh sọ số X (dây phế vị) và từ tủy cùng theo dây thần kinh chậu hông hướng đến đám rối tại ruột. Ngoại trừ một số ít sợi phó giao cảm tới vùng miệng và hầu của bộ máy tiêu hóa, các sợi thần kinh phó giao cảm sọ hầu như nằm toàn bộ trong thần kinh phế vị. Những sợi này phân bố kéo dài cho tới thực quản, dạ dày và tụy và một số ít xuống vùng ruột cho tới nửa đầu tiên của đại tràng. Thần kinh phó giao cảm tủy cùng xuất phát từ đốt sống tủy 2, 3, 4 của vùng tủy cùng và đi qua các dây thần kinh chậu hông tới nửa còn lại của đại tràng cho tới tận hậu môn. Dây phó giao cảm trong thần kinh chậu hông có chức năng chủ yếu trong hoạt động tổng phân.
+
+Sợi tiền hạch của dây ly tâm hệ đối giao cảm rất dài. Các neuron hậu hạch của hệ phó giao cảm nằm chủ yếu ở đám rối thần kinh cơ ruột và đám rối dưới niêm mạc, từ đó tác động lên hoạt động cơ trơn thành ống tiêu hóa, tế bào nội tiết và các tế bào ngoại tiết của ống tiêu hóa.
+
+Các neuron hậu hạch của hệ đối giao cảm được chia thành hai loại: cholinergic tiết ra chất dẫn truyền thần kinh là acetylcholine và peptidegic tiết ra một số peptide như substance P và vasoactive intestinal peptide (VIP).
+
+Dây thần kinh phế vị là một dây hỗn hợp chứa 75% là các sợi hướng tâm và 25% là các sợi ly tâm. Sợi hướng tâm dẫn truyền cảm giác nhận được từ các thụ thể cơ học và thụ thể hóa học tại niêm mạc ống tiêu hóa. Các sợi ly tâm dẫn tín hiệu thần kinh đến các tế bào đích như tế bào cơ, các tế bào nội tiết và ngoại tiết tại ống tiêu hóa.
+
+Kích thích thần kinh đối giao cảm gây chức năng chung là tăng hoạt động của toàn bộ hệ thần kinh ruột và làm tăng hoạt động đường tiêu hóa.
+
+#### 1.2. Thần kinh giao cảm
+
+Các sợi giao cảm của đường tiêu hóa xuất phát từ đốt sống tủy T5 tới L2. Phần lớn các sợi tiền hạch giao cảm ngắn, tiếp nối với sợi hậu hạch tại chuỗi giao cảm cạnh cột sống và các hạch trước sống. Thân của sợi hậu hạch nằm tại hạch, sợi trục thì tới tất cả các đoạn ruột. Hệ giao cảm chi phối gần như tất cả ống tiêu hóa. Đầu tận của dây thần kinh giao cảm tiết chủ yếu là norepinephrine (Hình 142). Dây giao cảm là dây hỗn hợp chứa 50% các sợi hướng tâm và 50% các sợi ly tâm.
+
+Về cơ bản, sự kích thích hệ giao cảm sẽ ức chế hoạt động của đường tiêu hóa (ngược với khi kích thích hệ phó giao cảm) theo hai đường: ở phạm vi hẹp, do tác dụng trực tiếp của norepinephrine gây ức chế cơ trơn đường ruột (trừ đối với cơ niêm là gây tác dụng kích thích). Ở phạm vi rộng, do norepinephrine ức chế các toàn bộ neuron của hệ thần kinh ruột. Kích thích mạnh vào hệ giao cảm gây ức chế vận động ruột có thể dẫn đến ứ đọng thức ăn ở đường tiêu hóa.
+
+**Sơ đồ: Hình 142. Hệ thần kinh tự chủ (Ach: Acetylcholine) [2]**
+- Hệ thần kinh tự chủ --> Lớp niêm mạc
+- Lớp niêm mạc --> Cơ niêm --> Tế bào ngoại tiết --> Tế bào nội tiết
+- Đám rối thần kinh dưới niêm mạc --> Lớp cơ vòng --> Đám rối thần kinh cơ --> Lớp cơ dọc --> Dây phế vị --> Dây tủy cùng --> Đối giao cảm --> Giao cảm
+- NE --> Đám rối thần kinh dưới niêm mạc
+- NE --> Lớp cơ vòng --> Đám rối thần kinh cơ --> Hạch giao cảm --> Giao cảm
+
+Hình 142. Hệ thần kinh tự chủ (Ach: Acetylcholine) [2]
+
+## 1.3. Thần kinh ruột
+
+Đám rối thần kinh ruột bao gồm đám rối thần kinh cơ ruột và đám rối thần kinh dưới niêm có thể tự hoạt động mà không cần đến sự chi phối của hệ thần kinh giao cảm và đối giao cảm (Hình 143).
+
+Đám rối thần kinh cơ ruột nằm giữa lớp cơ dọc và cơ vòng của cơ trơn đường tiêu hóa, trải dài trên tất cả vị trí của thành ruột kiểm soát hoạt động co cơ. Khi kích thích đám rối thần kinh cơ ruột sẽ làm tăng trương lực của thành ruột, tăng cường độ nhịp co cơ, tăng nhẹ tốc độ nhịp co cơ, tăng tính dẫn truyền của sóng kích thích và làm tăng sóng nhu động ruột.
+
+Đám rối thần kinh dưới niêm mạc đối lập với đám rối thần kinh cơ ruột, chủ yếu kiểm soát chức năng tại chỗ của từng đoạn ruột nhỏ, chi phối hoạt động mạch máu và các sự bài tiết của các tế bào nội tiết và ngoại tiết.
+
 **Sơ đồ: Hệ thống thần kinh nội tại tại ruột**
 - Lớp niêm mạc
   - Tế bào ngoại tiết
@@ -4387,6 +5805,18 @@ Các peptide được bài tiết tại đường tiêu hóa có ba dạng: ch�
 Hormone là các chất được tiết từ các tế bào nội tiết và thấm vào máu, đi vào tĩnh mạch cửa vào gan, thông qua tĩnh mạch gan vào tuần hoàn hệ thống. Từ đó, hormone đến các tế bào đích có thụ thể gắn kết với nó (Hình 144). Có bốn hormone được bài tiết từ hệ tiêu hóa là gastrin, cholecystokinin (CCK), secretin, peptide phụ thuộc glucose có ái lực với insulin (hay peptide ức chế dạ dày (GIP) (Bảng 6).
 
 - **Gastrin** là một hormone được bài tiết ra bởi các tế bào G ở tuyến môn vị của dạ dày. Gastrin là một polypeptid lớn được bài tiết ra dưới hai dạng: một dạng lớn gọi là G-34, chứa 34 amino acid và một dạng nhỏ hơn, G-17, chứa 17 amino acid. Khi ăn thức ăn có chứa protein, protein sẽ kích thích tế bào G tiết gastrin giải phóng gastrin vào máu, hoặc tế bìa G bị kích bởi gastrin-releasing peptide (GRP) được giải phóng từ đầu tận của sợi đối giao cảm. Tác dụng chính của gastrin là kích thích bài tiết dịch vị và kích thích sự phát triển lớp niêm mạc dạ dày.
+
+- CCK được bài tiết bởi tế bào “I” ở lớp niêm mạc tá tràng và hồng tràng. CCK là một polypeptid chứa 33 acid amin. Khi các proteose và pepton (các sản phẩm được phân giải một phần của protein) và các acid béo chuỗi dài trong dịch nhũ trấp từ dạ dày xuống tá tràng sẽ kích thích tế bào I tiết ra CCK. Tác dụng chính của CCK là tiêu hóa chất béo, acid béo và các mono-glyceride tại ruột non. CCK gây co thắt túi mật, tống dịch mật vào ruột non, ức chế dạ dày co bóp, làm chậm quá trình tống thức ăn từ dạ dày để có thời gian tiêu hóa chất béo và kích thích các nang tụy bài tiết men tiêu hóa. Ngoài ra, CCK cũng ức chế sự thèm ăn để ngăn tình trạng ăn nhiều quá mức bằng cách kích thích các sợi thần kinh cảm giác ở tá tràng. Những sợi này sẽ chuyển tín hiệu theo dây thần kinh phế vị ức chế trung tâm thèm ăn ở não.
+
+**Sơ đồ: Peptide đường tiêu hóa**
+- Hormone --> Tế bào nội tiết đường tiêu hóa --> Bài tiết --> Hệ cửa --> Gan --> Tuần hoàn hệ thống --> Tế bào đích
+- Chất cận tiết --> Tế bào nội tiết đường tiêu hóa --> Khuếch tán --> Tế bào đích
+- Chất dẫn truyền thần kinh --> Tế bào thần kinh đường tiêu hóa --> Điện thế động --> Tế bào đích
+
+[Hình: Hình 144. Các peptide tiết ra từ đường tiêu hóa [2]]
+
+- Secretin được bài tiết bởi tế bào “S” ở lớp niêm mạc tá tràng. Secretin là một polypeptid chứa 27 acid amin. Khi dịch nhũ trấp chứa acid với pH < 4,5 – 5 từ dạ dày đi tới tá tràng kích thích tế bào I tiết secretin. Secretin kích thích tuyến tụy bài tiết một lượng lớn dịch tụy chứa nồng độ cao ion HCO3-, giúp trung hòa acid trong ruột non.
+- GIP được tiết ra tá tràng và đoạn đầu hồng tràng khi có sự hiện diện của acid béo, amino acid và carbohydrat. GIP làm giảm sự co bóp tại dạ dày nên làm chậm quá trình
 
 tổng thức ăn từ dạ dày vào tá tràng khi phần cao ruột non đang đầy thức ăn. GIP còn kích thích tế bào beta tụy tiết insulin và giảm sự bài tiết acid từ dạ dày.
 

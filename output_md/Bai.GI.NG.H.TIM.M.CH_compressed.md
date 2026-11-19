@@ -277,6 +277,43 @@ dụng cơ chế điều hòa hoạt động của hệ tuần hoàn để giả
 # Chương 1
 ## GIẢI PHẪU HỆ TIM MẠCH
 
+# TIM
+
+TS.BS. Nguyễn Hoàng Vũ
+
+## MỤC TIÊU HỌC TẬP
+
+1. Mô tả vị trí, hình thể ngoài, liên quan, hình thể trong của tim.
+2. Mô tả hệ thống động mạch vành.
+3. Mô tả hệ thống thần kinh của tim.
+4. Xác định vị trí nghe của các van tim.
+
+Tim là một khối cơ, rỗng bên trong, được xem là một máy bơm vừa hút vừa đẩy máu đi khắp cơ thể. Tim nằm trong lồng ngực và hơi lệch sang trái, giữa hai phổi, trên cơ hoành, sau xương ức và các sụn sườn, trước cột sống ngực.
+
+Ở người trưởng thành, tim nặng khoảng 260 gam ở nữ và 280 gam ở nam.
+
+## 1. HÌNH THỂ NGOÀI VÀ LIÊN QUAN
+
+Tim có hình tháp gồm ba mặt, một đáy và một đỉnh. Đáy tim hướng ra sau và sang phải, đỉnh tim hướng ra trước, sang trái và xuống dưới. Vì vậy, trục tim là một đường chếch xuống dưới, sang trái và ra trước.
+
+Nhìn chung, tim gồm có hai phần, phần tâm nhĩ ở trên và phần tâm thất ở dưới. Phần tâm nhĩ gồm tâm nhĩ phải và tâm nhĩ trái, phần tâm thất gồm thất phải và thất trái.
+
+Giữa phần tâm nhĩ và phần tâm thất có rãnh nhĩ thất, thường gọi là rãnh vành.
+
+### 1.1. Mặt ức sườn
+
+Mặt ức sườn hay mặt trước, hướng ra trước, lên trên và hơi sang trái. Rãnh vành ở mặt trước chạy ngang, chia phần tâm nhĩ ở trên và phần tâm thất ở dưới.
+
+Phần tâm nhĩ chỉ thấy rõ tâm nhĩ phải. Tâm nhĩ trái thì được che bởi các mạch máu lớn như thân động mạch phổi ở bên trái, động mạch chủ nằm lệch về bên phải.
+
+Phần tâm thất có rãnh gian thất trước chạy giữa hai tâm thất, hướng từ sau ra trước và xuống dưới, tới đỉnh tim. Trong rãnh gian thất trước có động mạch gian thất trước và tĩnh mạch tim lớn.
+
+Mặt ức sườn liên quan với mặt sau thân xương ức, các sụn sườn thứ 3 đến thứ 6, bó mạch ngực trong phải và trái.
+
+### 1.2. Mặt hoành
+
+Mặt hoành hay mặt dưới, hướng xuống dưới và hơi ra sau, được tạo chủ yếu bởi hai tâm thất. Mặt dưới cũng có rãnh vành liên tục với rãnh vành từ mặt trước. Giữa hai tâm thất có rãnh gian thất sau đi từ sau ra trước. Trong rãnh gian thất sau có nhánh động mạch gian thất sau và tĩnh mạch tim giữa.
+
 Mặt hoành nằm trên trung tâm gân cơ hoành, qua cơ hoành liên quan với thùy trái gan và đáy vị.
 
 ### 1.3. Mặt phổi
@@ -306,6 +343,84 @@ Giữa hai tâm nhĩ có rãnh gian nhĩ chạy dọc từ trên xuống.
 ### 1.6. Các bờ tim
 Các bờ tim không rõ ràng.
 
+Theo mô tả của các tài liệu về giải phẫu, tim có bốn bờ:
+
+- Bờ trên: đi từ mặt sau động mạch chủ và thân động mạch phổi đến tĩnh mạch chủ trên.
+- Bờ phải: tương ứng với bờ phải của tâm nhĩ phải, gần như thẳng đứng từ trên xuống dưới và hơi lồi sang phải khi đến gần phần tâm thất.
+- Bờ dưới: liên tục từ đầu dưới của bờ phải đến đỉnh tim, là giới hạn giữa mặt ức sườn và mặt hoành của tim. Bờ này mỏng, sắc và rõ ràng.
+- Bờ trái: đi từ tiểu nhĩ trái đến đỉnh tim, giới hạn giữa mặt ức sườn và mặt trái của tim. Bờ này không được rõ ràng như bờ phải và hơi lồi sang trái khi đến gần đỉnh tim.
+
+Tuy nhiên, trên thực tế lâm sàng, tim được mô tả có hai bờ là bờ phải và bờ trái. Bờ phải chính là bờ dưới theo mô giải phẫu như trên và thường được gọi là bờ sắc (acute border); bờ trái cũng chính là bờ trái nói trên nhưng thường được gọi là bờ tù (obtuse border).
+
+[Hình: Tim nhìn từ phía trước (Nguồn: Theo Brizon J. và Castaing J.)]
+- Tĩnh mạch phổi trái
+- Tâm nhĩ trái
+- Tĩnh mạch chủ trên
+- Tĩnh mạch phổi phải
+- Tâm nhĩ phải
+- Tĩnh mạch chủ dưới
+- Tâm thất phải
+- Rãnh gian thất sau
+- Tâm thất trái
+
+## 2. HÌNH THỂ TRONG
+
+Tim có bốn buồng, hai tâm nhĩ và hai tâm thất. Các buồng tim ngăn cách nhau bằng các vách như vách gian nhĩ, vách gian thất và các van nhĩ thất.
+
+Vách gian nhĩ ngăn cách giữa hai tâm nhĩ. Mặt bên phải vách gian nhĩ có hố bầu dục, mặt bên trái có van lỗ bầu dục. Nếu vách gian nhĩ khiếm khuyết sẽ có lỗ thông giữa hai tâm nhĩ, đó là tật thông liên nhĩ.
+
+Vách gian thất ngăn cách giữa hai tâm thất. Phần gần lỗ nhĩ thất mỏng, gọi là phần màng; phần còn lại dày hơn, gọi là phần cơ. Vách gian thất cong hơi lồi sang phía bên tâm thất phải nên tâm thất trái lớn hơn tâm thất phải. Khi vách gian thất bị khiếm khuyết, tạo nên lỗ thông giữa hai tâm thất, đó là tật thông liên thất.
+
+Giữa tâm nhĩ và tâm thất cùng bên là lỗ nhĩ thất, có van nhĩ thất.
+
+## 2.1. Tâm nhĩ phải
+
+Thành trong tâm nhĩ phải là mặt phải vách gian nhĩ. Phía trước, tâm nhĩ phải thông với tâm thất phải qua lỗ nhĩ thất phải. Trên lỗ nhĩ thất phải có lỗ tiểu nhĩ phải, thông tâm nhĩ phải với tiểu nhĩ phải. Phía trên tâm nhĩ phải có lỗ đổ của tĩnh mạch chủ trên, phía dưới có lỗ tĩnh mạch chủ dưới. Lỗ tĩnh mạch chủ dưới có van tĩnh mạch chủ dưới, lỗ tĩnh mạch chủ trên không có van. Vì vậy, khi suy tim phải, máu ứ lại ở tâm thất phải và tâm nhĩ phải sẽ dội ngược lên các tĩnh mạch vùng cổ. Gần lỗ nhĩ thất có lỗ đổ của xoang tĩnh mạch vành, lỗ này cũng có van. Ngoài ra, tâm nhĩ phải còn có những lỗ nhỏ nhận máu trực tiếp từ các tĩnh mạch từ thành tim đổ vào.
+
+## 2.2. Tâm nhĩ trái
+
+Thành trong tâm nhĩ trái là mặt trái của vách gian nhĩ, có van lỗ bầu dục. Phía trước, tâm nhĩ trái thông với thất trái qua lỗ nhĩ – thất trái, được đậy bởi van nhĩ – thất trái, còn gọi là van hai lá vì có hai lá là lá trước và lá sau. Phía trên, tâm nhĩ trái thông với tiểu nhĩ trái. Tâm nhĩ trái có bốn lỗ tĩnh mạch phổi đổ vào.
+
+## 2.3. Tâm thất phải
+
+Tâm thất phải có hình tháp ba mặt (mặt trước, mặt sau và mặt trong), một nền quay ra sau và đỉnh hướng ra trước. Nền thông với tâm nhĩ phải qua lỗ nhĩ – thất phải. Lỗ nhĩ thất phải được đậy bởi van nhĩ – thất phải, van có tác dụng chỉ cho máu chảy từ nhĩ phải xuống thất phải mà không dội ngược từ tâm thất lên tâm nhĩ. Van nhĩ thất phải có ba lá (lá trước, lá sau và lá trong) nên thường được gọi là van ba lá. Mỗi lá van được tạo bởi một nếp nội tâm mạc. Đáy của các lá van dính vào vòng sợi của lỗ nhĩ – thất, đỉnh của lá van hướng vào trong tâm thất. Mỗi lá van có hai mặt, mặt nhĩ và mặt thất. Mặt thất và đỉnh của các lá van có các sợi gân nhỏ bám vào gọi là thừng gân.
+
+Phía trước trên lỗ nhĩ thất phải có lỗ động mạch phổi, có van động mạch phổi đậy, ngăn máu từ động mạch phổi chảy về tâm thất phải. Van động mạch phổi gồm ba van hợp lại là van bán nguyệt trước, van bán nguyệt phải và van bán nguyệt trái. Mỗi lá van có hai bờ, một bờ dính vào bờ của lỗ thân động mạch phổi và bờ tự do của lá van có cục van bán nguyệt. Phần tâm thất phải ngay dưới lỗ thân động mạch phổi loe rộng dần gọi là nón động mạch, còn gọi là phễu.
+
+Mặt trong của mỗi thành tâm thất phải có cơ nhú tương ứng, nền cơ nhú dính vào thành tâm thất, đỉnh lồi vào buồng tâm thất, là nơi bám của các thừng gân của van ba lá.
+
+## 2.4. Tâm thất trái
+
+Tâm thất trái lớn hơn và có thành dày hơn tâm thất phải vì tâm thất trái có nhiệm vụ đẩy máu vào động mạch chủ đi nuôi cơ thể.
+
+Tâm thất trái có hình nón hơi dẹt, có hai thành: thành trước và thành sau, một đáy và một đỉnh.
+
+Đáy tâm thất trái có lỗ nhĩ thất trái, lỗ được đậy bởi van nhĩ thất trái. Van nhĩ thất trái có hai lá (nên thường được gọi là van hai lá), là lá trước và lá sau. Cấu tạo các lá van hai lá cũng tương tự như các lá của van ba lá nhưng rộng hơn, dày hơn và chắc hơn lá van ba lá.
+
+Bên phải và phía trước lỗ nhĩ thất trái có lỗ động mạch chủ, lỗ được đậy bởi van động mạch chủ. **Van động mạch chủ có ba lá van bán nguyệt là lá phải, lá trái và lá sau.** Bờ của các lá van vừa bám vào thành động mạch chủ vừa bám vào thành tâm thất. Bờ tự do của các lá van có dạng hình lưỡi liềm và gặp nhau ở trung tâm lỗ động mạch chủ. Trên bờ tự do của mỗi lá van có cục van bán nguyệt. Nhìn từ phía động mạch chủ, phần trung tâm của các lá van lõm xuống tạo thành các xoang động mạch chủ, còn gọi là xoang Valsalva. Ứng với ba lá van có ba xoang động mạch chủ là xoang phải, xoang trái và xoang sau. Xoang phải và xoang trái tương ứng có lỗ động mạch vành phải và lỗ động mạch vành trái.
+
+Mặt trong thành tâm thất trái có hai cơ nhú, cơ nhú trước và cơ nhú sau. Đỉnh của các cơ nhú cũng là nơi bám của các thừng gân van hai lá.
+
+## Bệnh van tim
+
+Bệnh van tim là những tổn thương ở van tim gây ảnh hưởng đến chức năng bơm máu của tim, có thể là hẹp van hoặc hở van.
+
+Hẹp van là tình trạng van mở ra không hoàn toàn, gây giảm sự tống máu từ một buồng tim nào đó, làm ứ máu ở buồng tim. Trái lại, hở van tim là hiện tượng van tim đóng không kín, gây hiện tượng máu dội ngược về buồng tim ngay sau khi nó vừa được tống ra. Cả hai trường hợp hẹp và hở van đều đưa đến hậu quả cuối cùng là tăng gánh cho tim.
+
+Ví dụ, trong trường hợp hẹp van hai lá, ở thì tâm trương, máu từ nhĩ trái xuống thất trái bị hạn chế do lỗ nhĩ thất mở ra không hoàn toàn. Hậu quả là máu sẽ còn ứ lại ở tâm nhĩ trái. Máu ứ ở nhĩ trái dần dần làm nhĩ trái to ra và còn làm cho máu từ phổi về nhĩ trái hạn chế, lại gây ứ máu ở phổi,...
+
+Trong trường hợp hở van hai lá, van hai lá sẽ không đóng kín hoàn toàn ở thì tâm thu, gây hiện tượng máu từ thất trái dội ngược về nhĩ trái. Hiện tượng này dần dần cũng gây ứ máu ở nhĩ trái và kéo theo ứ máu ở phổi.
+
+Ví dụ khác, trường hợp hẹp van động mạch chủ chẳng hạn, hạn chế sự tống máu từ thất trái ra động mạch chủ ở thì tâm thu. Hiện tượng này gây ra ứ máu ở thất trái, dần dần làm thất trái to ra.
+
+# 3. CẤU TẠO CỦA TIM
+
+Thành của tim được cấu tạo gồm ba lớp, từ ngoài vào trong là ngoại tâm mạc, cơ tim và nội tâm mạc.
+
+## 3.1. Ngoại tâm mạc
+
+Ngoại tâm mạc là một bao kín bọc quanh tim và phần đầu các mạch máu lớn ở tim. **Ngoại tâm mạc gồm hai bao là ngoại tâm mạc sợi và ngoại tâm mạc thanh mạc.**
+
 ### 3.1.1. Ngoại tâm mạc sợi
 
 Ngoại tâm mạc sợi là bao sợi bao bọc ngoài cùng, liên tiếp với lớp áo ngoài các mạch mạch máu lớn của tim và mạc trước khí quản. Đáy của bao sợi dính với trung tâm gân và một phần cơ bên trái cơ hoành. Mặt ngoài của ngoại tâm mạc sợi dính vào các cơ quan lân cận như xương ức, khí quản, thực quản, cơ hoành, cột sống bởi các thớ sợi (riêng các thớ sợi dính với xương ức gọi là dây chằng ức - ngoại tâm mạc).
@@ -327,6 +442,80 @@ Khi bị tổn thương, bị viêm, lớp nội tâm mạc có thể bị bong 
 [Hình: Cung động mạch chủ, Tĩnh mạch chủ trên, Động mạch phổi, Nhĩ trái, Vách gian thất, Thất trái, Thất phải, Nhĩ phải, Tĩnh mạch chủ dưới]
 
 Hình 1.3. Tim nhìn từ phía trước [4]
+
+4. MẠCH VÀ THẦN KINH CỦA TIM
+
+## 4.1. Động mạch
+
+Cơ tim, van tim, nội tâm mạc, lá tạng ngoại tâm mạc, phần đầu các mạch máu lớn ở tim được cấp máu bởi hệ thống động mạch là động mạch vành (riêng lá thành ngoại tâm mạc được cấp máu bởi động mạch màng ngoài tim). Động mạch vành đi dưới ngoại tâm mạc, trên bề mặt cơ tim. Có hai động mạch vành là động mạch vành phải và động mạch vành trái.
+
+## 4.1.1. Động mạch vành phải
+
+Động mạch vành phải xuất phát từ lỗ động mạch vành phải nằm trong xoang phải động mạch chủ. Động mạch vành phải đi ra gần như thẳng góc với thành động mạch chủ, giữa thân động mạch phổi ở phía trước và tiểu nhĩ phải ở phía sau. Động mạch đi dưới một lớp mỡ trong rãnh vành đến bờ phải tim, ôm lấy bờ phải rồi tiếp tục đi trong rãnh vành ở mặt hoành của tim đến giao điểm giữa rãnh vành và rãnh gian thất sau (sau đây gọi tắt là "giao điểm").
+
+Trên đường đi, động mạch vành phải cho các nhánh sau đây:
+
+- Nhánh nón động mạch (còn được gọi là nhánh nón, động mạch nón, động mạch phễu). Nhánh nón xuất phát từ phần đầu tiên của động mạch vành phải, giữa thân động mạch phổi ở phía trước và tiểu nhĩ phải ở phía sau, đến vùng phễu động mạch của thất phải và nối với một nhánh của động mạch gian thất trước. Nhánh nón có thể không xuất phát từ động mạch vành phải mà xuất phát trực tiếp từ động mạch chủ và được gọi là động mạch vành thứ ba.
+
+- Nhánh nút xoang nhĩ đi sang phải vào nhĩ phải, cấp máu cho nút xoang nhĩ và cơ của hai tâm nhĩ
+
+- Các nhánh cho tâm nhĩ phải
+
+- Các nhánh trước thất phải đi ở mặt trước tâm thất phải
+
+- Nhánh bờ phải (có thể có nhiều hơn một nhánh bờ phải), lâm sàng thường gọi là nhánh bờ sắc. Nhánh này thường có kích thước lớn, xuất phát trước khi động mạch vành phải đi đến bờ phải tim. Nhánh này đi dọc bờ phải tim và thường kết thúc ở mỏm tim.
+
+- Các nhánh sau thất phải: các nhánh này đi ở mặt hoành thất phải, thường xuất phát sau khi động mạch vành phải đi qua khỏi bờ phải tim.
+
+- Nhánh nút nhĩ thất: nếu động mạch vành phải đi đến vùng “giao điểm” trong những trường hợp ưu thế phải thì nó cho nhánh nút nhĩ thất.
+
+- Nhánh gian thất sau (còn được gọi bằng các tên khác như động mạch xuống sau, nhánh xuống sau phải): khi động mạch vành phải đến “giao điểm” thì cho nhánh gian thất sau, nhánh này đi trong rãnh gian thất sau cùng với tĩnh mạch tim giữa.
+
+- Các nhánh sau thất trái: sau khi cho nhánh gian thất sau, động mạch vành phải có thể tiếp tục đi trong rãnh vành, qua khỏi vùng “giao điểm” và cho các nhánh sau thất trái cấp máu cho mặt hoành thất trái.
+
+4.1.2. Động mạch vành trái
+
+Động mạch vành trái xuất phát từ xoang trái động mạch chủ, đi ra giữa thành sau thân động mạch phổi và tiểu nhĩ trái. Đoạn đầu tiên được gọi là thân chung động mạch vành trái.
+
+Thân chung động mạch vành trái chia hai nhánh là động mạch gian thất trước và động mạch mũ. Thân chung động mạch vành trái có thể không tồn tại, khi đó, động mạch gian thất trước và động mạch mũ xuất phát trực tiếp từ động mạch chủ.
+
+4.1.2.1. Động mạch gian thất trước
+
+Động mạch gian thất trước, còn được gọi là động mạch xuống trước trái, đi trong rãnh gian thất trước cùng tĩnh mạch tim lớn.
+
+Động mạch gian thất trước thường đi hết rãnh gian thất trước, vòng qua mỏm tim và xuống mặt hoành, tiếp tục đi trong rãnh gian thất sau một đoạn vài cen-ti-mét.
+
+Động mạch gian thất trước cho các nhánh bên như sau:
+
+- Các nhánh trước thất trái, thường được gọi là các nhánh chéo
+
+- Các nhánh trước thất phải thường rất ít và ngắn, đôi khi không có
+
+- Các nhánh vách trước, xuyên vào vách gian thất và cung cấp máu cho 2/3 trước vách gian thất.
+
+4.1.2.2. Động mạch mũ
+
+Động mạch mũ là một trong hai nhánh chính của động mạch vành trái, đi trong rãnh vành trái của tim.
+
+Động mạch mũ cho các nhánh bên sau đây:
+
+- Các nhánh cho tâm nhĩ trái
+
+- Nhánh nút xoang nhĩ: có thể có hoặc không
+
+- Các nhánh trước thất trái, có tác giả gọi là nhánh trước ngoài tâm thất
+
+- Nhánh bờ trái, thường được gọi là nhánh bờ tù, có thể có nhiều nhánh bờ trái
+
+- Các nhánh sau thất trái: còn được gọi bằng các tên khác như các nhánh sau ngoài thất trái, các nhánh sau ngoài trái. Các nhánh này thường là những nhánh cuối cùng của động mạch mũ, ở mặt hoành thất trái. Như đã nói ở trên, các nhánh sau thất trái cũng có thể xuất phát từ động mạch vành phải.
+
+- Có khi, động mạch mũ tiếp tục đi trong rãnh vành, đến vùng “giao điểm” rồi cho nhánh gian thất sau và nhánh nút nhĩ thất.
+
+4.1.2.3. Nhánh trung gian
+
+Một số trường hợp, thân chung động mạch vành trái cho các nhánh nhỏ, đi ra giữa động mạch gian thất trước và động mạch mũ. Các nhánh này được gọi là các nhánh trung gian.
+
+Các động mạch vành không có sự thông nối với nhau hoặc sự thông nối không được dồi dào. Vì vậy, khi xảy ra hiện tượng tắc đột ngột một nhánh nào đó của động mạch vành sẽ rất dễ đưa đến tình trạng hoại tử vùng cơ tim tương ứng, gọi là nhồi máu cơ tim và có thể tử vong.
 
 [Hình: Hình 1.4. Động mạch vành [4]]
 - Thân chung động mạch vành trái
@@ -465,6 +654,35 @@ Hình chiếu của tim lên thành ngực là một hình tứ giác, gọi là
 6. Martini FH, Timmons MJ, Tallitsch RB (2012). *Anatomy General*, 7th edition, Bejnaming Cumming.
 7. Saladin KS. (2014). *Human Anatomy*. 4th edition, McGraw Hill.
 
+# ĐỘNG MẠCH VÀ TĨNH MẠCH CHỦ
+
+TS.BS. Nguyễn Hoàng Vũ, ThS.BS. Nguyễn Xuân Anh
+
+## MỤC TIÊU HỌC TẬP
+
+1. Mô tả đặc điểm giải phẫu và phân nhánh của động mạch, tĩnh mạch chủ.
+2. Mô tả đặc điểm giải phẫu và các phân nhánh của động mạch thân tạng.
+3. Mô tả đặc điểm giải phẫu và các phân nhánh của động mạch mạc treo tràng trên, động mạch mạc treo tràng dưới.
+4. Mô tả đặc điểm giải phẫu động mạch thận.
+5. Mô tả đặc điểm giải phẫu và phân nhánh của động mạch chậu trong.
+6. Mô tả tĩnh mạch cửa. Giải thích rối loạn xảy ra khi tăng áp lực tĩnh mạch cửa.
+
+## ĐỘNG MẠCH CHỦ
+
+Động mạch chủ là thân của cây động mạch, mang máu giàu oxy đến các bộ phận của cơ thể. Động mạch chủ có đường kính khoảng 3 cm, đi ra từ tâm thất trái, đi hướng lên trên, sang phải và ra sau, tạo thành hình cong lồi lên trên, ôm lấy cuống phổi trái, rồi đi xuống đến bên trái thân đốt sống ngực IV. Từ đây, động mạch chủ đi xuống tới cơ hoành ở gần đường giữa, chui qua cơ này để vào ổ bụng. Khi xuống đến ngang mức đốt sống thắt lưng IV thì tận hết bằng cách tách ra ba nhánh tận là động mạch cùng giữa, động mạch chậu chung phải và động mạch chậu chung trái.
+
+Để thuận tiện cho việc mô tả, người ta chia động mạch chủ thành bốn đoạn: động mạch chủ lên, cung động mạch chủ, động mạch chủ ngực và động mạch chủ bụng.
+
+### 1. ĐỘNG MẠCH CHỦ LÊN
+
+Động mạch chủ lên dài khoảng 5 cm bắt đầu từ đáy tâm thất trái, ngang mức bờ dưới sụn sườn trái thứ 3, chạy cong ra trước và sang phải tới ngang mức bờ trên sụn sườn trái thứ 2. Động mạch chủ có hai lỗ động mạch vành, từ đây xuất phát hai động mạch vành là động mạch vành phải và động mạch vành trái.
+
+### 2. CUNG ĐỘNG MẠCH CHỦ
+
+Cung động mạch chủ tiếp theo động mạch chủ lên, bắt đầu từ ngang mức bờ trên của khớp ức sườn phải thứ 2, lúc đầu chạy chéo lên trên và ra sau tới phía trái mặt trước khí quản, rồi bắt chéo phía sau bờ trái khí quản, cuối cùng chạy tới bờ trái đốt sống ngực IV để tiếp nối với động mạch chủ ngực.
+
+Cung động mạch chủ nằm hoàn toàn trong trung thất trên, cong vòng lên trên tới khoảng giữa cán xương ức, ôm lấy phía trên cuống phổi trái. Từ cung động mạch chủ tách ra thân động mạch cánh tay đầu, động mạch cảnh chung trái và động mạch dưới đòn trái.
+
 3. ĐỘNG MẠCH CHỦ NGỰC
 
 Động mạch chủ ngực tiếp theo cung động mạch chủ tại vị trí ngang với bờ trái đốt sống ngực IV. Động mạch chủ ngực đi trong trung thất sau và chui qua lỗ động mạch chủ của cơ hoành ngang bờ dưới đốt sống ngực 12. Lúc đầu, động mạch chủ ngực nằm bên trái cột sống, càng xuống dưới tiến dần ra đường giữa và cuối cùng thì nằm ngay trước cột sống.
@@ -501,6 +719,152 @@ Nhãn trong hình:
 - Động mạch chủ ngực
 - Cơ hoành
 
+[Hình: Các động mạch gian sườn sau [7]]
+
+**4. ĐỘNG MẠCH CHỦ BỤNG**
+
+Động mạch chủ bụng bắt đầu ở lỗ động mạch chủ cơ hoành, phía trước bờ dưới đốt sống ngực 12 và đĩa gian đốt sống ngực 12 - thắt lưng 1. Động mạch chủ bụng đi phía trước cột sống đến ngang mức đốt sống thắt lưng 4 thì tận hết bằng cách tách ra thành hai động mạch chậu chung và một động mạch cùng giữa.
+
+**4.1. Liên quan**
+
+- Ở phía trước, từ trên xuống dưới động mạch chủ bụng liên quan hậu cung mạc nối, tụy, phần ngang tá tràng và các quai ruột non
+- Ở phía sau động mạch là ống ngực và cột sống
+- Ở bên phải, động mạch liên quan với hạ phân thùy I của gan và tĩnh mạch chủ dưới
+- Ở bên trái động mạch là tuyến thượng thận và thận trái.
+
+Ngoài ra, dọc theo động mạch chủ bụng có nhiều hạch bạch huyết bụng – động mạch chủ và các đám rối thần kinh giao cảm ở mặt trước và hai bên.
+
+**4.2. Phân nhánh**
+
+Có thể chia các nhánh của động mạch chủ bụng thành bốn nhóm:
+
+- Nhánh bụng: động mạch thân tạng, động mạch mạc treo tràng trên, động mạch mạc treo tràng dưới
+- Nhánh lưng: các động mạch thắt lưng
+- Nhánh bên: động mạch hoành dưới, động mạch thượng thận giữa, động mạch thận, động mạch tinh hoàn ở nam hoặc động mạch buồng trứng ở nữ
+- Nhánh tận: các động mạch chậu chung, động mạch cùng giữa.
+
+5. DỘNG MẠCH THÂN TẠNG
+
+Động mạch thân tạng cấp máu cho gan, dạ dày, mạc nối lớn, lách, tụy.
+
+Động mạch thân tạng là nhánh bụng lớn tách ra từ mặt trước của động mạch chủ bụng, ngay dưới khe động mạch chủ của cơ hoành.
+
+Động mạch thân tạng thường rất ngắn, khoảng $1\text{ cm}$. Từ nơi xuất phát, động mạch đi ra trước và hơi sang phải, ở phía trên tụy và tĩnh mạch lách. Động mạch cho ba nhánh là động mạch vị trái, động mạch gan chung và động mạch lách.
+
+Đôi khi, động mạch thân tạng cũng cho một hoặc cả hai động mạch hoành dưới.
+
+## 5.1. Liên quan
+
+Phía trước động mạch là hậu cung mạc nối.
+
+Về bên phải, động mạch thân tạng liên quan với trụ phải cơ hoành và thùy đuôi của gan.
+
+Bên trái động mạch là trụ trái cơ hoành và tâm vị.
+
+Phía dưới động mạch có tụy và tĩnh mạch lách.
+
+## 5.2. Phân nhánh
+
+### 5.2.1. Động mạch vị trái
+
+Động mạch vị trái là nhánh nhỏ nhất trong ba nhánh của động mạch thân tạng. Động mạch đi lên trên, sang trái, đến bờ cong nhỏ dạ dày, động mạch đi giữa hai lá phúc mạc của mạc nối nhỏ. Động mạch vị trái cho các nhánh mặt trước và mặt sau dạ dày, dọc theo bờ cong nhỏ, các nhánh cho tâm vị và thực quản đoạn bụng, nhánh đáy vị trước cấp máu cho mặt trước đáy vị. Cuối cùng, động mạch vị trái cho các nhánh nối với động mạch vị phải.
+
+> Khi ở sau hậu cung mạc nối, động mạch vị trái đội phúc mạc lên tạo thành nếp vị tụy trái (còn gọi là liềm động mạch vị trái).
+
+### 5.2.2. Động mạch gan chung
+
+Động mạch gan chung có đường kính lớn hơn động mạch vị trái. Đường đi của động mạch gan chung có thể chia thành hai đoạn:
+
+Đoạn thứ nhất: từ nguyên ủy, động mạch đi ra trước rồi sang phải, đi trên bờ trên thân tụy, bắt chéo phía trước tĩnh mạch cửa và đi giữa hai lá của mạc nối nhỏ. Khi đi từ thành bụng tới mạc nối nhỏ, động mạch đội phúc mạc lên tạo thành nếp vị tụy phải (còn gọi là liềm động mạch gan).
+
+Đoạn thứ hai: động mạch đổi hướng, đi ngược lên trên, chếch sang phải về phía rốn gan. Trong đoạn này, động mạch nằm trong phần dày của mạc nối nhỏ, phía trước tĩnh mạch cửa và ở bên trái ống gan. Khi đến gần rốn gan, động mạch gan riêng tách ra hai nhánh là động mạch gan phải và động mạch gan trái đi vào thùy phải và thùy trái gan.
+
+Ở đoạn thứ hai, động mạch gan chung cho nhánh động mạch vị tá tràng. Sau khi cho nhánh động mạch vị tá tràng, phần còn lại của động mạch gan chung gọi là động mạch gan riêng. Vi vậy, nhiều tài liệu còn mô tả là động mạch gan chung chia hai nhánh là động mạch gan riêng và động mạch vị tá tràng.
+
+[Hình: Động mạch vị trái, Động mạch thân tạng, Động mạch lách, Động mạch gan riêng, Động mạch vị tá tràng, Động mạch gan chung, Động mạch mạc treo tràng trên]
+
+**Hình 2.3.** Động mạch thân tạng [6]
+
+Động mạch gan chung cho các nhánh sau:
+
+- Động mạch vị tá tràng: xuất phát tại vị trí động mạch gan chung đổi hướng đi, nghĩa là giữa đoạn thứ nhất và đoạn thứ hai. Động mạch chạy chệch xuống dưới và sang phải, nằm sau phần trên tá tràng, giữa tá tràng và cổ tụy. Khi tới bờ dưới phần trên tá tràng, động mạch tách thành hai nhánh: động mạch vị mạc nối phải (nối với động mạch vị mạc nối trái của động mạch lách), động mạch tá tụy trên trước, động mạch tá tụy trên sau đi phía trước và sau đầu tụy. Động mạch tá tụy trên trước và trên sau tương ứng nối với động mạch tá tụy dưới trước và động mạch tá tụy dưới sau của động mạch mạc treo tràng trên. Ngoài ra, động mạch vị tá tràng còn tách ra các nhánh sau tá tràng, cấp máu cho mặt sau tá tràng.
+
+- Động mạch vị phải: là một nhánh nhỏ, tách ra từ động mạch gan riêng, chạy trong mạc nối nhỏ tới môn vị, rồi chạy sang trái dọc bờ cong nhỏ dạ dày, cho các nhánh vào mặt trước và mặt sau dạ dày và nối với động mạch vị trái.
+
+- Động mạch túi mật: thường tách từ nhánh phải của động mạch gan riêng, chạy sang phải, ở phía sau ống gan chung và phía trên ống túi mật để tới mặt trên cổ túi mật.
+
+## 5.2.3. Động mạch lách
+
+Động mạch lách là nhánh lớn nhất của động mạch thân tạng và có dạng ngoằn ngoèo. Từ nguyên ủy, động mạch đi sang trái, phía sau dạ dày và hậu cung mạc nối, dọc bờ trên tụy, đi vào dây chằng lách thận đến rốn lách. Khi gần đến gần rốn lách thì động mạch tách ra các nhánh để vào lách.
+
+Trên đường đi, động mạch lách cho các nhánh cung cấp máu cho các tạng lận cận như:
+
+- Các động mạch cho tụy: động mạch tụy lưng, động mạch tụy lớn, động mạch tụy dưới, động mạch đuôi tụy.
+- Các động mạch vị ngắn: có khoảng 5 – 7 nhánh, xuất phát từ phần cuối của động mạch lách, cấp máu cho đáy vị và nối với các động mạch vị trái và động mạch vị mạc nối trái.
+- Động mạch vị mạc nối trái: thường là nhánh lớn nhất của động mạch lách, xuất phát gần cuống lách, đi ra trước, xuống dưới và sang phải, cho các nhánh chạy qua mạc nối vị lách để cấp máu cho $1/3$ trên bờ cong lớn dạ dày.
+- Động mạch đáy vị sau: đi trong dây chằng vị hoành tới cấp máu cho đáy vị và mặt sau dạ dày.
+
+## 6. ĐỘNG MẠCH MẠC TREO TRÀNG TRÊN
+
+Động mạch mạc treo tràng trên cấp máu cho toàn bộ ruột non, đại tràng lên và nửa phải đại tràng ngang.
+
+Động mạch thân tạng xuất phát từ mặt trước động mạch chủ bụng, khoảng $1\text{ cm}$ dưới động mạch thân tạng, ngang mức đĩa gian đốt thắt lưng 1 và 2.
+
+### 6.1. Đường đi và liên quan
+
+Từ phía sau tụy, động mạch chạy thẳng xuống dưới và ra trước, ở phía trước mỏm móc tụy và phần ngang tá tràng, rồi chạy vào rễ mạc treo tràng, chạy trong mạc treo tới tận hố chậu phải, cách góc hồi manh tràng khoảng $80\text{ cm}$.
+
+Động mạch mạc treo tràng trên ở bên trái và hơi phía sau tĩnh mạch mạc treo tràng trên suốt đường đi.
+
+### 6.2. Liên quan
+
+Động mạch mạc treo tràng trên được mô tả thành làm bốn đoạn là đoạn sau tụy, đoạn trước tá tràng, đoạn trong rễ mạc treo ruột non và đoạn trong mạc treo ruột non.
+
+#### 6.2.1. Đoạn sau tụy
+
+Động mạch mạc treo tràng trên nằm giữa động mạch chủ bụng ở phía sau và tụy ở phía trước, trong một tứ giác được tạo bởi các tĩnh mạch. Các tĩnh mạch này xếp theo hai bình diện trước và sau phúc mạc.
+
+Ở phía trước phúc mạc có tĩnh mạch lách ở trên và tĩnh mạch mạc treo tràng dưới ở bên trái.
+
+Ở phía sau phúc mạc có tĩnh mạch chủ dưới ở bên phải, tĩnh mạch thận trái ở dưới.
+
+6.2.2. Đoạn trước tá tụy
+
+Đoạn này động mạch mạc treo tràng trên có liên quan như sau:
+
+- Bên phải là tĩnh mạch mạc treo tràng trên,
+- Bên trái là phần lên tá tràng,
+- Phía sau là mỏm móc và phần ngang tá tràng,
+- Bên trái là tĩnh mạch mạc treo tràng trên.
+
+Vì phần ngang tá tràng nằm giữa động mạch mạc treo tràng trên ở phía trước và động mạch chủ bụng ở phía sau nên có thể bị kẹp giữa hai động mạch này gây ra tình trạng tắc tá tràng. Đó là hội chứng động mạch mạc treo tràng trên được mô tả năm 1861 bởi Von Rokitansky.
+
+6.2.3. Đoạn trong rễ mạc treo ruột
+
+Động mạch chạy xuống vào trong rễ của mạc treo, cố định ở thành bụng sau. Ở đây tĩnh mạch chạy phía trước động mạch.
+
+6.2.4. Đoạn trong mạc treo ruột
+
+Động mạch lách giữa hai lá của mạc treo, chạy theo một đường cong lồi sang trái, tách ra nhiều nhánh bên và tận cùng bằng một nhánh nối với nhánh hồi tràng của động mạch hồi kết tràng.
+
+6.3. Phân nhánh
+
+Động mạch mạc treo tràng trên cho các nhánh cấp máu cho tụy, ruột non, nửa bên phải ruột già.
+
+6.3.1. Động mạch tá tụy dưới
+
+Động mạch tá tụy dưới xuất phát từ động mạch mạc treo tràng trên ở gần bờ trên phần ngang tá tràng. Sau khi xuất phát, động mạch tá tụy dưới chia thành hai nhánh trước và sau, chạy ngược lên ở trước và sau đầu tụy để nối với các nhánh tương ứng của động mạch tá tụy trên của động mạch vị tá tràng như mô tả ở trên.
+
+6.3.2. Các nhánh hổng hồi tràng
+
+Các động mạch hồi tràng xuất phát từ bờ trái của động mạch mạc treo tràng trên. Thông thường có từ 12 đến 15 nhánh, phân phối cho hổng tràng và hồi tràng, trừ đoạn cuối hồi tràng được cấp máu bởi động mạch hồi kết tràng.
+
+6.3.3. Động mạch hồi kết tràng
+
+Động mạch hồi kết tràng xuất phát từ bờ phải của động mạch mạc treo tràng trên, chạy sang phải, dưới lá phúc mạc thành tới hố chậu phải. Tại đây, động mạch hồi kết tràng tách ra 5 nhánh:
+
+- Động mạch kết tràng lên đi dọc theo bờ mạc treo kết tràng lên, nối với nhánh của động mạch kết tràng phải
+
 - Động mạch manh tràng trước đến mặt trước manh tràng
 - Động mạch manh tràng sau đến mặt sau manh tràng
 - Động mạch ruột thừa đi phía sau hồi tràng đến bờ tự do của mạc treo ruột thừa
@@ -532,6 +896,36 @@ Từ nguyên ủy, động mạch đi xuống dưới, sang trái, nằm trong h
 
 Nhánh lên đi dọc kết tràng ngang sang phải để nối với động mạch kết tràng giữa tạo nên cung mạch Riolan theo cách nói của các tác giả Pháp. Theo các tác giả Anh, Mỹ thì gọi đó là động mạch bờ Drummond (the marginal artery of Drummond). Nhánh xuống đi xuống dọc bờ trong kết tràng trái nối với động mạch kết tràng sigma thành cung mạch dọc kết tràng xuống.
 
+**Ứng dụng:** Cung động mạch Riolan nằm trong hai lá của mạc treo kết tràng ngang nhưng ở gần bờ ruột, vì vậy có một khoảng ở giữa cung mạch và rễ mạc treo có ít mạch máu mà ta có thể chọc thủng để làm phẫu thuật nối vị tràng xuyên mạc treo kết tràng.
+
+## 7.2.2. Các động mạch sigma
+
+Thường có từ $2 - 3$ nhánh, mỗi nhánh lại tách làm hai nhánh lên và xuống. Nhánh lên nối với nhánh xuống của động mạch kết tràng trái và nhánh xuống cuối cùng nối với một nhánh của động mạch trực tràng trên.
+
+## 7.2.3. Động mạch trực tràng trên
+
+Động mạch trực tràng trên là nhánh tận của động mạch mạc treo tràng dưới. Động mạch đi xuống, tách ra hai nhánh cho hai mặt bên trực tràng và nối với động mạch trực tràng giữa (nhánh của động mạch chậu trong) và động mạch trực tràng dưới (nhánh của động mạch thẹn trong).
+
+# 8. ĐỘNG MẠCH THẬN
+
+Động mạch thận phải và động mạch thận trái đều xuất phát từ mặt bên của động mạch chủ bụng. Thông thường, mỗi thận có một động mạch nhưng đôi khi có hai hay ba động mạch.
+
+Nguyên ủy của động mạch thận ở ngang thân đốt sống thắt lưng $\text{L}_1$ phía dưới nguyên ủy của động mạch mạc treo tràng trên. Từ đó, động mạch đi chếch xuống dưới và hơi ra sau.
+
+Động mạch thận phải dài hơn động mạch thận trái, đi sau tĩnh mạch chủ dưới, tĩnh mạch thận phải, đầu tuỵ và phần xuống của tá tràng.
+
+Động mạch thận trái chạy sau tĩnh mạch thận trái, thân tuỵ và tĩnh mạch lách, tĩnh mạch mạc treo tràng dưới bắt chéo phía trước động mạch thận trái.
+
+# 9. ĐỘNG MẠCH TINH HOÀN
+
+Có hai động mạch tinh hoàn phải và trái, hai động mạch này tương đối nhỏ và khá dài.
+
+Động mạch tinh hoàn xuất phát từ mặt trước động mạch chủ bụng, phía dưới động mạch thận và trên động mạch mạc treo tràng dưới. Động mạch đi chếch xuống dưới và ra ngoài, sau phúc mạc và trước cơ thắt lưng lớn.
+
+Động mạch tinh hoàn phải đi phía trước tĩnh mạch chủ dưới, sau phần ngang tá tràng, các động mạch kết tràng phải và động mạch hồi kết tràng, rễ mạc treo ruột non và phần cuối hồi tràng.
+
+Động mạch tinh hoàn trái đi sau tĩnh mạch mạc treo tràng dưới, động mạch kết tràng trái và phần dưới của kết tràng xuống.
+
 [Hình: Động mạch chủ bụng và các nhánh bên [7]]
 - Động mạch chủ bụng
 - Động mạch thân tạng
@@ -549,6 +943,66 @@ Tinh hoàn không chỉ được cấp máu bởi động mạch tinh hoàn mà 
 Tương tự động mạch tinh hoàn, động mạch buồng trứng xuất phát từ động mạch chủ bụng, đi qua dây chằng treo buồng trứng để vào cấp máu cho buồng trứng.
 
 Động mạch buồng trứng tách ra các nhánh bên cho niệu quản, vòi trứng và một nhánh đi vào mặt bên tử cung để nối với động mạch tử cung. Ngoài ra, động mạch buồng trứng còn một số nhánh nhỏ chạy theo dây chằng tròn qua ống bẹn để cấp máu cho da môi lớn và vùng bẹn.
+
+**11. ĐỘNG MẠCH CHẬU CHUNG**
+
+Động mạch chủ bụng chia thành hai động mạch chậu chung ở ngang bờ trái của đốt sống thắt lưng 4. Hai động mạch này tiếp tục chạy chếch xuống dưới và ra ngoài, khi tới ngang đĩa gian đốt thắt lưng – cùng thì mỗi động mạch lại chia thành động mạch chậu trong và động mạch chậu ngoài. Động mạch chậu ngoài đi qua vùng bẹn để xuống đùi cấp máu cho chi dưới. Động mạch chậu trong ngắn và nhỏ hơn động mạch chậu ngoài, cấp máu cho các tạng trong chậu hông bé, đáy chậu và vùng mông.
+
+Ngoài hai ngành cùng, mỗi động mạch chậu chung còn tách ra các nhánh nhỏ cho phúc mạc, cơ thắt lưng lớn, niệu quản và đôi khi cho cả động mạch thận phụ.
+
+**12. ĐỘNG MẠCH CHẬU TRONG**
+
+Động mạch chậu trong cấp máu cho các thành của chậu hông bé, các tạng trong chậu hông bé, vùng mông, các cơ quan sinh sản và khu cơ trong của đùi. Các nhánh bàng quang của động mạch chậu trong cấp máu cho bàng quang.
+
+**12.1. Nguyên ủy, đường đi**
+
+Động mạch chậu trong dài khoảng 4 cm, bắt đầu từ chỗ chia đôi của động mạch chậu chung ngang mức đĩa gian đốt thắt lưng – cùng, phía trước khớp cùng chậu. Động mạch đi xuống dưới, ra sau đến bờ trên khuyết ngồi lớn thì chia thành thân trước và thân sau. Thân trước tiếp tục hướng đi của động mạch chậu chung tới gai ngồi, thân sau chạy ra sau tới khuyết ngồi lớn.
+
+Phía trước động mạch chậu trong có niệu quản, ở nữ có thêm buồng trứng và vòi trứng; phía sau có tĩnh mạch chậu trong, thân thần kinh thắt lưng cùng và khớp cùng chậu; phía ngoài là tĩnh mạch chậu ngoài và phía trong là phúc mạc thành.
+
+**12.2. Nhánh bên**
+
+Từ thân trước động mạch chậu trong cho 8 nhánh:
+
+- Động mạch bịt: chạy qua ống bịt, đi kèm với tĩnh mạch và thần kinh bịt, cấp máu cho các cơ bịt và các cơ khu trong vùng đùi trước.
+- Động mạch rốn: phần bị tắc lại tạo thành dây chằng rốn trong, còn phần không bị tắc trở thành động mạch bàng quang trên cấp máu cho đáy bàng quang, niệu quản, ở nam giới động mạch còn tách ra cho các nhánh nuôi túi tinh và ống dẫn tinh.
+- Động mạch bàng quang dưới: cấp máu cho mặt dưới bàng quang. Ở nam giới, động mạch còn cho nhánh cấp máu cho tuyến tiền liệt và túi tinh.
+- Động mạch âm đạo: cấp máu cho âm đạo, ngoài ra còn cho các nhánh cho trực tràng và mặt dưới bàng quang.
+- Động mạch tử cung chạy trong đáy dây chằng rộng tới cổ tử cung, bắt chéo phía trước và phía trên niệu quản. Chỗ bắt chéo này cách cổ tử cung khoảng 1,5 cm.
+- Động mạch trực tràng giữa.
+
+- Động mạch thẹn trong: được coi là một trong hai nhánh tận (cùng với động mạch mông dưới) của động mạch chậu trong, chạy xuống dưới rồi thoát ra khỏi chậu hông bé qua khuyết ngồi lớn ở bờ dưới cơ hình lê, sau đó chạy vòng ôm lấy gai ngồi để trở vào trong chậu hông nhỏ. Cùng đi với động mạch có thần kinh thẹn. Đây là động mạch chính cấp máu cho đáy chậu, ngoài ra, còn cấp máu cho các cơ quan sinh dục ngoài.
+
+- Động mạch mông dưới: là nhánh tận nhỏ hơn của thân trước, chạy ra vùng mông ở dưới cơ hình lê, cấp máu cho các cơ vùng mông và mặt sau đùi.
+
+Từ thân sau tách ra ba nhánh:
+
+- Động mạch chậu thắt lưng
+- Các động mạch cùng bên
+- Động mạch mông trên: là nhánh tận của thân sau, chạy ra vùng mông qua khuyết ngồi lớn ở bờ dưới cơ hình lê, cấp máu cho các cơ vùng mông.
+
+## 13. ĐỘNG MẠCH CHẬU NGOÀI
+
+Động mạch chậu ngoài lớn hơn động mạch chậu trong, từ chỗ chia đôi của động mạch chậu chung chạy xuống dưới, ra ngoài, dọc theo bờ trong cơ thắt lưng lớn, tới điểm giữa gai chậu trước trên và khớp mu thì chạy vào vùng đùi dưới dây chằng bẹn và đổi tên thành động mạch đùi.
+
+Động mạch chậu ngoài cho hai nhánh bên là động mạch thượng vị dưới và động mạch mũ chậu sâu.
+
+Động mạch thượng vị dưới chạy ngược lên trên nối với động mạch thượng vị trên của động mạch ngực trong và các động mạch dưới sườn. Động mạch đội lá phúc mạc thành của thành bụng trước tạo nên nếp rốn ngoài. Ống dẫn tinh ở nam hoặc dây chằng tròn ở nữ chạy đi phía ngoài động mạch.
+
+Động mạch tách thượng vị dưới cho nhánh sau:
+
+- Động mạch cơ bìu
+- Nhánh mu nối với nhánh mu của động mạch bịt
+- Các nhánh cơ cho cơ thẳng bụng nối với động mạch mũ chậu
+- Các nhánh bì nối với các nhánh bì của động mạch thượng vị nông.
+
+Động mạch mũ chậu sâu đi lên trên và ra ngoài về phía gai chậu trước trên, nối với nhánh lên của động mạch mũ đùi ngoài và động mạch thượng vị dưới.
+
+## TĨNH MẠCH CHỦ
+
+## 1. TĨNH MẠCH CHỦ TRÊN
+
+Các tĩnh mạch cảnh nhận máu từ đầu, mặt, cổ cùng với tĩnh mạch dưới đòn nhận máu từ chi trên hợp lại thành tĩnh mạch cánh tay đầu. Mỗi bên có một tĩnh mạch cánh tay đầu.
 
 Hai tĩnh mạch cánh tay đầu hợp lại với nhau tạo nên tĩnh mạch chủ trên đổ vào tâm nhĩ phải. Đổ vào tĩnh mạch chủ trên còn có tĩnh mạch đơn. Đổ vào tĩnh mạch đơn có các tĩnh mạch bán đơn và tĩnh mạch bán đơn phụ. Các tĩnh mạch đơn nhận máu của các tĩnh mạch gian sườn. Các tĩnh mạch đơn được xem là cầu nối giữa tĩnh mạch chủ trên và tĩnh mạch chủ dưới.
 
@@ -634,6 +1088,45 @@ TÀI LIỆU THAM KHẢO
 7. Putz R., Pabst R. (2008). Sobotta Atlas of Human Anatomy. 14th edition, Elsevier, Munich.
 8. Standing S. (2015). Gray's Anatomy 41st edition, Elsevier.
 
+# MẠCH MÁU VÙNG ĐẦU CỔ TS.BS. Nguyễn Hoàng Vũ
+
+## MỤC TIÊU HỌC TẬP
+
+1. Mô tả giải phẫu hệ động mạch cảnh.
+2. Giải thích nguyên tắc thắt động mạch cảnh.
+3. Mô tả giải phẫu động mạch dưới đòn.
+4. Xác định các vị trí bắt mạch vùng đầu cổ.
+5. Mô tả hệ thống tĩnh mạch nông và hệ tĩnh mạch sâu vùng đầu cổ.
+6. Mô tả hệ bạch huyết vùng đầu cổ.
+
+## ĐỘNG MẠCH
+
+Vùng đầu cổ được cấp máu chủ yếu bởi hệ động mạch cảnh và một phần từ các nhánh của động mạch dưới đòn, đặc biệt là động mạch đốt sống.
+
+## CÁC TAM GIÁC CỔ
+
+Cơ vùng cổ là một trong những mốc quan trọng trong mô tả đường đi, liên quan của mạch máu vùng đầu cổ.
+
+Các cơ vùng cổ chia thành hai khu có hình tam giác, gọi là tam giác cổ trước và tam giác cổ sau (Hình 3.1).
+
+### Tam giác cổ trước
+
+Tam giác cổ trước được giới hạn phía trước là đường giữa cổ, phía sau là cơ ức đòn chũm, phía trên là xương hàm dưới.
+
+Tam giác cổ trước lại được chia thành ba tam giác nhỏ hơn là tam giác dưới hàm, tam giác cơ và tam giác cảnh.
+
+Tam giác dưới hàm giới hạn bởi xương hàm dưới, bụng trước và bụng sau cơ hai thân.
+
+Tam giác cơ được giới hạn bởi đường giữa cổ, bụng trên cơ vai móng, cơ ức đòn chũm.
+
+Tam giác cảnh được giới hạn bởi bụng sau cơ hai thân, cơ ức đòn chũm và bụng trên cơ vai móng.
+
+### Tam giác cổ sau
+
+Tam giác cổ sau được giới hạn phía sau là cơ thang, trước là cơ ức đòn chũm, dưới là xương đòn.
+
+Bụng dưới cơ vai móng chia tam giác cổ sau thành hai tam giác là tam giác trên đòn và tam giác chẩm.
+
 Tam giác trên đòn được giới hạn bởi cơ ức đòn chũm, bụng dưới cơ vai móng và xương đòn.
 
 Tam giác chẩm được giới hạn bởi cơ thang, bụng dưới cơ vai móng, cơ ức đòn chũm.
@@ -667,6 +1160,120 @@ Các động mạch cảnh và các tĩnh mạch, thần kinh đi kèm nằm tro
 
 Về nguyên ủy, động mạch cảnh chung bên phải và động mạch cảnh chung bên trái xuất phát khác nhau. Động mạch cảnh chung phải xuất phát từ thân động mạch cảnh tay đầu, ngay phía sau khớp ức đòn. Động mạch cảnh chung trái xuất phát trực tiếp từ cung động mạch chủ, trong trung thất trên. Vì vậy, động mạch cảnh chung bên phải chỉ có đoạn cổ, trong khi động mạch cảnh chung bên trái có thêm đoạn trong ngực.
 
+1.2. Phân nhánh Khi đi lên đến bờ trên sụn giáp, ngang với đốt sống cổ 4, động mạch cảnh chung chia thành động mạch cảnh ngoài và động mạch cảnh trong (Hình 3.2).
+
+[Hình: Các động mạch cảnh (Theo Brizon J. và Castaing J.)]
+- Xương hàm dưới
+- Động mạch cảnh trong (P)
+- Động mạch cảnh trong (T)
+- Động mạch cảnh ngoài (P)
+- Động mạch cảnh ngoài (T)
+- Xương móng
+- Sụn giáp
+- Động mạch cảnh chung (P)
+- Tuyến giáp
+- Khí quản
+- Động mạch cảnh chung (T)
+- Động mạch dưới đòn (P)
+- Xương đòn (T)
+- Động mạch dưới đòn (T)
+- Thân động mạch cánh tay đầu
+
+**2. ĐỘNG MẠCH CẢNH NGOÀI**
+
+**2.1. Đường đi và liên quan**
+Động mạch cảnh ngoài là một trong hai nhánh của động mạch cảnh trong, bắt đầu ở ngang bờ trên sụn giáp, trong tam giác cảnh. Tại nguyên ủy, động mạch cảnh ngoài nằm phía trước trong động mạch cảnh trong nhưng sau đó ngả ra sau và ra ngoài và nằm ngoài động mạch cảnh trong. Mỏm trâm, cơ trâm hầu, cơ trâm lưỡi, thần kinh lưỡi hầu, nhánh hầu thần kinh lang thang nằm giữa hai động mạch. Động mạch cảnh ngoài đi lên đến khoảng giữa đỉnh mỏm chũm và góc xương hàm dưới thì xuyên vào phần sâu tuyến nước bọt mang tai, đến sau cổ xương hàm dưới thì chia thành động mạch hàm và động mạch thái dương nông.
+Đặt ngón tay ở tam giác cảnh có thể sở thấy nhịp đập của mạch, đó là điểm cuối của động mạch cảnh chung, nơi bắt đầu của động mạch cảnh ngoài và động mạch cảnh trong.
+Trong tam giác cảnh, động mạch cảnh ngoài nằm sâu hơn mạc nông, các nhánh cổ của thần kinh mặt, mạc sâu của cổ, cơ ức đòn chũm. Khi qua khỏi tam giác cảnh, động mạch cảnh ngoài bị bắt chéo phía ngoài bởi bụng sau cơ hai thân, cơ trâm móng. Khi vào tuyến mang tai, động mạch cảnh ngoài đi phía trong thần kinh mặt và nơi hợp lưu giữa tĩnh mạch sau hàm và tĩnh mạch thái dương nông.
+
+2.2. Phân nhánh
+
+Động mạch cảnh ngoài cho 6 nhánh bên: động mạch giáp trên, động mạch lưỡi, động mạch mặt, động mạch hầu lên, động mạch tai sau, động mạch chẩm và hai nhánh tận là động mạch hàm, động mạch thái dương nông (Hình 3.3).
+
+2.2.1. Động mạch giáp trên
+
+Động mạch giáp trên là nhánh đầu tiên của động mạch cảnh ngoài, xuất phát từ mặt trước động mạch cảnh ngoài, ngay dưới sừng lớn xương móng. Động mạch đi xuống, dọc theo bờ ngoài cơ giáp móng để vào đỉnh của thùy giáp. Phía trong động mạch là cơ khít hầu dưới và nhánh ngoài thần kinh thanh quản trên; thần kinh thường nằm phía sau trong động mạch nên có thể bị tổn thương khi thắt động mạch giáp trên.
+
+Nhánh bên:
+
+- Nhánh dưới móng: đi ở bờ dưới xương móng, sâu hơn tuyến giáp và nối với nhánh bên đối diện, góp phần cấp máu cho các cơ dưới móng.
+- Động mạch thanh quản trên: đi cùng với nhánh trong thần kinh thanh quản trên, xuyên qua màng giáp móng. Nó cung cấp máu cho phần trên của hầu, cho các nhánh nối với động mạch bên đối diện, các nhánh nối với động mạch thanh quản dưới của động mạch giáp dưới.
+- Động mạch cho cơ ức đòn chũm: đi xuống, phía ngoài bao cảnh, cấp máu cho đoạn giữa cơ ức đòn chũm.
+- Nhánh nhẫn giáp: đi ngang phía trên màng nhẫn giáp và nối với nhánh bên đối diện.
+
+2.2.2. Động mạch lưỡi
+
+Động mạch lưỡi là động mạch chính cấp máu cho lưỡi và sàn miệng, xuất phát từ mặt trước trong của động mạch cảnh ngoài, phía trên động mạch giáp trên. Lúc đầu, động mạch hướng lên trên rồi uốn xuống dưới và ra trước rồi lại hướng thẳng lên đến mặt dưới lưỡi. Thần kinh hạ thiệt đi từ trên xuống dưới và uốn cong ra trước, bắt chéo phía ngoài động mạch lưỡi hai lần (bắt chéo qua hai đoạn của động mạch lưỡi).
+
+Nhánh bên:
+
+- Nhánh trên móng: là nhánh nhỏ, đi dọc bờ trên xương móng, nối với nhánh bên đối diện.
+- Các nhánh lưng lưỡi: thường có hai, ba nhánh đi ở phần sau mặt trên lưỡi, cấp máu cho cung khẩu cái lưỡi, tuyến hạnh nhân khẩu cái, khẩu cái mềm, sụn nắp thanh quản.
+- Nhánh dưới lưỡi: đi giữa cơ cằm lưỡi và cơ hàm móng đến tuyến dưới lưỡi, cấp máu cho tuyến dưới lưỡi, niêm mạc má và lợi.
+- Động mạch lưỡi sâu: là nhánh tận của động mạch lưỡi, đi ở mặt dưới lưỡi, gần hãm lưỡi.
+
+2.2.3. Động mạch mặt
+
+Động mạch mặt là động mạch chính cấp máu cho da và cơ vùng mặt. Động mạch mặt xuất phát từ mặt trước động mạch cảnh ngoài, uốn theo bờ dưới thân xương hàm dưới.
+
+ngay bờ trước cơ cắn. Tại đây, động mạch nằm rất nông, ngay dưới cơ bám da cổ. Sau đó, động mạch mặt đi hướng lên theo hình sin, ngang qua xương hàm dưới, cơ mút, xương hàm trên và đến góc trong của mắt (đoạn động mạch mặt ở đây được gọi là động mạch góc). Ở đoạn đi qua cơ mút, động mạch đi ngoằn ngoèo, phía ngoài góc miệng và cách góc miệng khoảng một khoát ngón tay. Động mạch mặt nằm dưới lớp mỡ má, cơ gò má lớn, cơ cười nhưng nông hơn cơ mút và cơ nâng góc miệng.
+
+Nhánh bên: động mạch mặt cho các nhánh chính sau:
+
+- Động mạch khẩu cái lên: đi dọc thành bên của hầu, giữa cơ khít hầu trên và cơ chân bướm trong, đến nền sọ. Động mạch cấp máu cho khẩu cái mềm, hạnh nhân khẩu cái, vòi tai, cho các nhánh nối với động mạch khẩu cái lớn của động mạch hàm, nhánh nối với động mạch hầu lên và nối với động mạch bên đổi diện.
+
+- Nhánh hạnh nhân khẩu cái đi vào cực dưới hạnh nhân khẩu cái, cho các nhánh vào hạnh nhân khẩu cái và các nhánh cơ vào phần sau lưỡi.
+
+- Nhánh dưới cằm: cấp máu cho vùng dưới cằm, môi dưới và nối với nhánh dưới lưỡi của động mạch lưỡi, nhánh hàm móng của động mạch huyết răng dưới.
+
+- Các nhánh tuyến cấp máu cho tuyến dưới hàm.
+
+- Các nhánh môi dưới, nhánh môi trên, nhánh mũi ngoài.
+
+Cuối cùng, động mạch mặt tận hết bằng động mạch góc ở góc trong của mắt.
+
+**Giải phẫu ứng dụng:**
+
+Ta có thể ép vào động mạch mặt tại điểm động mạch này bắt chéo xương hàm dưới để cầm máu. Vì sự thông nối giữa động mạch mặt và các động mạch khác ở vùng mặt rất dồi dào nên khi ép động mạch mặt một bên vẫn không xảy ra hiện tượng thiếu máu nuôi. Trong trường hợp vết thương ở môi, cần phải đè ép động mạch mặt ở cả hai bên mới làm ngưng chảy máu.
+
+### 2.2.4. Động mạch hầu lên
+
+Động mạch hầu lên là nhánh nhỏ nhất, xuất phát từ mặt trong, tại vị trí gần nguyên ủy của động mạch cảnh ngoài, đi thẳng lên trên nền sọ.
+
+Động mạch hầu lên cho các nhánh cấp máu cho các cơ dài đầu, cơ dài cổ. Ngoài ra, nó còn cho các nhánh hầu cấp máu cho các cơ của hầu, các nhánh màng não sau, nhánh nhĩ dưới.
+
+### 2.2.5. Động mạch chẩm
+
+Động mạch chẩm xuất phát từ mặt sau động mạch cảnh ngoài, đi hướng lên trên và ra sau, sâu hơn bụng sau cơ hai thân. Động mạch bắt chéo phía ngoài động mạch cảnh trong, tĩnh mạch cảnh trong, thần kinh lang thang, thần kinh hạ thiệt và thần kinh phụ. Động mạch đi lên mỏm chũm vào mạc cổ sâu và chia nhiều nhánh nhỏ.
+
+Động mạch chẩm cho các nhánh chũm, nhánh tai, các nhánh cho cơ ức đòn chũm, các nhánh chẩm, nhánh xuống.
+
+2.2.6. Động mạch tai sau
+
+Động mạch tai sau có kích thước nhỏ, xuất phát từ mặt sau động mạch cảnh ngoài, ngay phía trên cơ hai thân và cơ trâm móng. Động mạch đi lên, giữa tuyến mang tai và mỏm trâm vào rãnh giữa sụn loa tai và mỏm chũm rồi chia hai nhánh, nhánh chẩm và nhánh tai.
+
+Ở vùng cổ, động mạch tai sau cho các nhánh cấp máu cho cơ hai thân, cơ trâm móng, cơ ức đòn chũm, tuyến mang tai. Nó còn cho nhánh động mạch trâm chũm, đi vào lỗ trâm chũm cấp máu cho thần kinh mặt, hòm nhĩ, các tế bào xoang chũm, các ống bán khuyên.
+
+2.2.7. Động mạch hàm
+
+Động mạch hàm là một trong hai nhánh tận của động mạch cảnh ngoài. Bắt đầu từ phía sau cổ xương hàm dưới, động mạch hàm đi hướng ra trước, tiếp xúc mặt trong ngành hàm. Tiếp theo, động mạch hàm đi khúc khuỷu ngang qua mặt ngoài cơ chân bướm ngoài rồi đi vào hố chân bướm khẩu cái. Dựa vào cơ chân bướm ngoài, người ta chia động mạch hàm thành ba đoạn: đoạn trước khi bắt ngang, đoạn bắt ngang và đoạn sau khi bắt ngang cơ chân bướm ngoài.
+
+Đoạn thứ nhất, trước khi bắt ngang cơ chân bướm ngoài, động mạch hàm cho các nhánh động mạch tai sâu, động mạch nhĩ trước, động mạch huyệt răng dưới, động mạch màng não giữa và nhánh màng não phụ.
+
+Đoạn thứ hai, động mạch hàm bắt ngang phía ngoài cơ chân bướm ngoài, cho các nhánh động mạch cơ cắn, động mạch thái dương sâu, các nhánh chân bướm, động mạch má.
+
+Đoạn thứ ba, sau khi bắt ngang cơ chân bướm ngoài, động mạch hàm cho các nhánh động mạch huyệt răng trên sau, động mạch huyệt răng trên trước, động mạch dưới ổ mắt, động mạch ống chân bướm, động mạch khẩu cái xuống, động mạch bướm khẩu cái, các động mạch mũi sau, mũi ngoài và vách mũi.
+
+2.2.8. Động mạch thái dương nông
+
+Là nhánh tận thứ hai của động mạch cảnh ngoài, nhỏ hơn động mạch hàm, động mạch thái dương nông cũng bắt đầu từ phía sau cổ xương hàm dưới, trong tuyến mang tai. Ở đây, động mạch thái dương nông có nhánh gò má và thái dương của thần kinh mặt bắt chéo phía ngoài. Lúc đầu, động mạch nằm ở sâu nhưng sau khi đi qua mỏm gò má xương thái dương thì đi ra nông, ta có thể sờ được động mạch đập ở đây. Động mạch đi vào hố thái dương, tận hết bằng cách chia thành nhánh trán ở phía trước và nhánh đính ở phía sau.
+
+Động mạch thái dương nông cấp máu cho da và cơ vùng mặt, da đầu, tuyến mang tai, khớp thái dương – hàm.
+
+Các nhánh bên của động mạch thái dương nông gồm: nhánh mang tai; động mạch ngang mặt đi vào tuyến mang tai; nhánh nhĩ trước; động mạch thái dương giữa; động mạch gò má ổ mắt đi trong mạc thái dương đến góc ngoài ổ mắt; nhánh trán và nhánh đính.
+
+Động mạch ngang mặt từ trong tuyến mang tai, đi ra trước, bắt chéo phía ngoài cơ cắn và ở phía dưới cung gò má khoảng một khoát ngón tay.
+
 Giải phẫu ứng dụng:
 
 Vết thương da đầu có thể chảy máu dữ dội, gây mất nhiều máu, thậm chí nguy hiểm tính mạng nếu không được xử trí đúng và kịp thời. Nguyên nhân là mạch máu không tự co lại do sự co kéo của mô liên kết dưới da đầu. Ngoài ra, sự co cơ chẩm trán có thể làm dãn rộng vết thương da đầu và làm máu chảy nhiều hơn.
@@ -695,6 +1302,149 @@ Từ nguyên ủy, động mạch cảnh trong đi lên, phía trước mỏm ng
 Động mạch cảnh trong bắt đầu ở tam giác cảnh, ban đầu ở nông, sau đó đi sâu dần, phía trong bụng sau cơ hai thân. Động mạch cảnh trong nằm trong bao cảnh cùng tĩnh mạch cảnh trong và thần kinh lang thang, động mạch nằm phía trong thần kinh và tĩnh mạch.
 
 Phía sau, động mạch cảnh trong liên quan với hạch giao cảm cổ và cơ dài đầu. Thần kinh thanh quản trên bắt chéo phía sau và vào trong động mạch cảnh trong.
+
+Phía trong, động mạch cảnh trong liên quan với thành hầu, lớp mỡ quanh hầu, các tĩnh mạch hầu, động mạch hầu lên, thần kinh thanh quản trên.
+
+Phía trước ngoài, động mạch cảnh trong được che phủ bởi cơ ức đòn chũm.
+
+Ở phía dưới bụng sau cơ hai thân, động mạch cảnh trong liên quan phía ngoài với thần kinh hạ thiệt, rễ trên quai cổ, tĩnh mạch lưỡi, tĩnh mạch mặt.
+
+Ở ngang bụng sau cơ hai thân, động mạch bị bắt chéo phía ngoài bởi cơ trâm móng, động mạch chẩm, động mạch tai sau.
+
+Phía trên cơ hai thân, động mạch cảnh trong ngăn cách với động mạch cảnh ngoài bởi mỏm trâm, cơ trâm lưỡi, cơ trâm hầu, thần kinh thiệt hầu, nhánh hầu thần kinh lang thang và phần sâu tuyến nước bọt mang tai.
+
+Ở dưới nền sọ, thần kinh thiệt hầu, thần kinh lang thang, thần kinh hạ thiệt nằm giữa động mạch cảnh trong và tĩnh mạch cảnh trong.
+
+Giải phẫu ứng dụng
+
+1. Xơ vữa động mạch cảnh thường hình thành một cách từ từ và thường xảy ra ở đoạn xa động mạch cảnh chung hoặc đoạn đầu của động mạch cảnh ngoài hay động mạch cảnh trong. Hậu quả là làm giảm lượng máu đến não. Đôi khi mảng xơ vữa di chuyển đến những mạch máu nhỏ ở võng mạc gây mù một bên mắt hoặc đến các nhánh của động mạch não giữa làm tắc mạch gây liệt nửa người bên đối diện.
+
+2. Phình động mạch cảnh vùng cổ ít gặp và thường gây ra do xơ vữa động mạch. Vị trí thường gặp là chỗ chia đôi của động mạch cảnh chung. Túi phình có thể lớn dần, gây chèn ép các cấu trúc lân cận như thần kinh lang thang (gây biểu hiện khàn tiếng), thần kinh thiệt hầu (gây triệu chứng khó nuốt), thần kinh hạ thiệt (gây yếu các cơ ở lưỡi). Khi túi phình chèn ép thân giao cảm cổ sẽ gây hội chứng Horner. Trường hợp vỡ túi phình, khối máu tụ có thể làm chèn ép đường thở.
+
+3. Vết thương vùng cổ có thể ảnh hưởng đến các động mạch cảnh và gây chảy máu dữ dội, có thể gây sốc hoặc tử vong. Những vết thương ảnh hưởng đến động mạch cảnh trong sẽ làm thiếu máu nuôi đến não. Ngược lại, vết thương ở động mạch cảnh chung ít ảnh hưởng đến tươi máu ở não vì máu có thể được cấp qua sự thông nối từ động mạch cảnh ngoài bên đối diện.
+
+# ĐỘNG MẠCH DƯỚI ĐÒN
+
+Động mạch dưới đòn phải xuất phát từ thân tay đầu, động mạch dưới đòn trái xuất phát từ cung động mạch chủ. Động mạch dưới đòn đi đến khe sườn đòn thì đổi tên thành động mạch nách. Cơ bậc thang trước bắt chéo phía trước động mạch dưới đòn. Dựa vào cơ bậc thang trước, người ta chia động mạch dưới đòn thành ba đoạn:
+
+- Đoạn thứ nhất: từ nguyên ủy đến bờ trong cơ bậc thang, gọi là đoạn trong cơ bậc thang.
+
+- Đoạn thứ hai: phía sau cơ bậc thang.
+
+- Đoạn thứ ba: từ bờ ngoài cơ bậc thang trước đến bờ ngoài xương sườn 1, gọi là đoạn ngoài cơ bậc thang.
+
+38 BÀI GIẢNG HỆ TIM MẠCH
+
+**1. ĐƯỜNG DI VÀ LIÊN QUAN**
+
+Về đường đi và liên quan, động mạch dưới đòn bên phải và động mạch dưới đòn bên trái khác nhau ở đoạn thứ nhất trong khi hai đoạn còn lại thì tương tự nhau.
+
+**1.1. Đoạn trong cơ bậc thang**
+
+**1.1.1. Động mạch dưới đòn phải**
+
+Động mạch dưới đòn phải xuất phát từ thân tay đầu, ngay phía sau bờ trên khớp ức đòn rồi đi lên trên và ra ngoài đến bờ trong cơ bậc thang trước.
+
+Về liên quan, động mạch dưới đòn đi sâu dưới da, sâu hơn các thành phần như mạc nông, cơ bám da cổ, các nhánh thần kinh trên đòn, mạc sâu, nguyên ủy cơ ức đòn chũm, cơ ức móng, cơ ức giáp. Phía dưới và sau động mạch dưới đòn là đỉnh phổi và màng phổi. Thần kinh quặt ngược thanh quản phải quặt ngược từ trước ra sau động mạch.
+
+**1.1.2. Động mạch dưới đòn trái**
+
+Động mạch dưới đòn trái xuất phát từ quai động mạch chủ, phía sau động mạch cảnh chung, ngang mức đĩa gian đốt sống ngực 3 và ngực 4. Từ đó, động mạch dưới đòn trái đi lên cổ, uốn cong ra ngoài đến bờ trong cơ bậc thang trước.
+
+Về liên quan, khi đến gần cơ bậc thang trước, động mạch dưới đòn trái bị chéo phía trước bởi thần kinh hoành trái và phần cuối của ống ngực. Ở đoạn này, thần kinh quặt ngược thanh quản trái đi ở phía trong động mạch dưới đòn trái.
+
+**1.2. Đoạn sau cơ bậc thang**
+
+Đoạn này ngắn, phía trước động mạch là da, mạc nông, cơ bám da cổ, mạc sâu, cơ ức đòn chũm và cơ bậc thang trước. Ở đoạn này, thần kinh hoành phải thường phía trước cơ bậc thang, trái lại, thần kinh hoành bên trái đi phía trong cơ bậc thang. Do đó, thần kinh hoành phải cách động mạch dưới đòn bởi cơ bậc thang, thần kinh hoành trái thì ngay phía trước động mạch.
+
+Phía sau, động mạch liên quan với đỉnh phổi, đỉnh màng phổi, màng trên màng phổi, thân dưới đám rối thần kinh cánh tay.
+
+Phía trên động mạch là thân trên và thân giữa đám rối thần kinh cánh tay.
+
+Phía trước dưới, động mạch dưới đòn liên quan với tĩnh mạch dưới đòn qua cơ bậc thang trước.
+
+**1.3. Đoạn ngoài cơ bậc thang**
+
+Từ bờ ngoài cơ bậc thang, động mạch dưới đòn uốn xuống dưới và ra ngoài đến bờ ngoài xương sườn 1 và trở thành động mạch nách. Đoạn thứ ba là đoạn nông nhất của động mạch dưới đòn và có một phần nằm trong tam giác trên đòn. Đây cũng là phần có thể sờ được mạch của động mạch dưới đòn, cũng là phần dễ tiếp cận nhất, dễ đè ép nhất.
+
+Phía trước động mạch là da, mạc nông, cơ bám da cổ, các nhánh thần kinh trên đòn, mạc sâu, tĩnh mạch cảnh ngoài. Phía trước dưới là tĩnh mạch dưới đòn. Phía sau dưới, thân dưới đám rối cánh tay nằm giữa động mạch dưới đòn và cơ bậc thang giữa. Phía sau trên, động mạch liên quan với thân trên, thân giữa đám rối thần kinh cánh tay và bụng dưới cơ vai móng. Phía dưới động mạch là xương sườn 1.
+
+**2. NHÁNH BÊN**
+
+**2.1. Động mạch đốt sống**
+
+Động mạch đốt sống xuất phát ở mặt trên sau của đoạn thứ nhất động mạch dưới đòn, đi vào lỗ ngang của đốt sống cổ từ cổ 6 đến cổ 1 rồi đi vào hộp sọ qua lỗ lớn xương chẩm. Hai động mạch đốt sống hợp với nhau hình thành động mạch nền đi ở rãnh nền cầu não.
+
+Trên đường đi, động mạch đốt sống cho các nhánh gai đi vào ống sống qua các lỗ gian đốt sống để cấp máu cho tủy sống và màng tủy. Ngoài ra, động mạch đốt sống còn cho các nhánh cơ để cấp máu cho cơ vùng dưới xương chẩm và thông nối với động mạch chẩm, động mạch cổ lên, động mạch cổ sâu.
+
+**2.2. Động mạch ngực trong**
+
+Động mạch ngực trong xuất phát từ mặt dưới đoạn thứ nhất động mạch dưới đòn, khoảng 2 cm phía trên đầu ức xương đòn. Động mạch đi xuống dưới, phía sau đầu ức xương đòn, tĩnh mạch cảnh trong, tĩnh mạch tay đầu và sụn sườn 1. Trong ngực, thần kinh hoành bắt chéo phía trước động mạch từ ngoài vào trong. Động mạch đi thẳng xuống dưới, phía sau cơ ngực lớn, cơ gian sườn ngoài, cơ gian sườn trong và 6 sụn sườn đầu tiên.
+
+Động mạch ngực trong cấp máu cho thành ngực, thành bụng, cơ hoành, màng ngoài tim. Trên đường đi, động mạch ngực trong cho các nhánh bên như động mạch màng ngoài tim hoành, các động mạch gian sườn trước, các nhánh xuyên và hai nhánh tận là nhánh cơ hoành và động mạch thượng vị trên.
+
+**2.3. Thân giáp cổ**
+
+Thân giáp cổ thường ngắn, xuất phát từ bờ trên của đoạn thứ nhất, gần bờ trong cơ bậc thang trước. Động mạch chia thành ba nhánh là động mạch giáp dưới, động mạch ngang cổ, động mạch trên vai.
+
+**2.3.1. Động mạch giáp dưới**
+
+Động mạch giáp dưới là nhánh lớn nhất của thân giáp cổ và có thể xuất phát trực tiếp từ động mạch dưới đòn. Động mạch đi sau bao cảnh, dọc theo bờ trong cơ bậc thang trước đến ngang mức sụn nhẫn hoặc đốt sống cổ 6 rồi uốn vào trong. Sau đó, động mạch uốn cong xuống dưới, trước động mạch đốt sống, xuyên vào lá trước cột sống, dọc theo bờ ngoài khí quản và thực quản rồi đi vào tuyến giáp ở mặt sau và trong của tuyến.
+
+**2.3.2. Động mạch ngang cổ**
+
+Động mạch ngang cổ có thể xuất phát từ động mạch vai sau. Động mạch bắt chéo phía trước cơ bậc thang trước và thần kinh hoành, động mạch dưới đòn, đám rối cánh tay. Khi đến bờ trên xương vai, động mạch cho hai nhánh là động mạch cổ nông đi ngay dưới cơ thang và động mạch vai sau đi dọc bờ trong xương vai.
+
+### 2.3.3. Động mạch trên vai
+
+[Hình: Hình 3.4. Động mạch dưới đòn và các nhánh bên [2]]
+- Động mạch đốt sống
+- Động mạch cảnh chung
+- Thần giáp cổ
+- Động mạch dưới đòn
+- Động mạch ngực trong
+- Thần sườn cổ
+- Động mạch nách
+
+**Động mạch trên vai** có thể chung thân với **động mạch ngang cổ** ra ngoài, thấp hơn **động mạch ngang cổ** của bên đối diện. **Động mạch nối** với **động mạch dưới vai** của **động mạch nách** tạo thành vòng nối quanh vai.
+
+### 2.4. Thần sườn cổ
+
+Thần sườn cổ thường ngắn, xuất phát từ mặt sau của đoạn thứ hai **động mạch dưới đòn** (đối với bên phải) hoặc phần cuối của **đoạn thứ nhất** (đối với bên trái). Lúc đầu, thần sườn cổ đi hướng lên trên và vào trong rồi xuống dưới, tạo thành một cung phía trên đỉnh màng phổi. Thần sườn cổ cho hai nhánh là **động mạch cổ sâu** và **động mạch gian sườn trên cùng**.
+
+**Động mạch cổ sâu** đi hướng ra sau, giữa thân kinh gai sống cổ 7 và 8 rồi đi giữa móm ngang đốt sống cổ thứ 7 và cơ xương sườn (của **động mạch cảnh ngoài**).
+
+**Động mạch gian sườn trên cùng** như **động mạch cổ sâu**, đi xuống phía trước của xương sườn sau 1 và 2.
+
+#### Giải phẫu ứng dụng
+
+1. Ở nền cổ, đám rối thần kinh cánh tay và **động mạch dưới đòn** chui qua khoảng tam giác được giới hạn bởi cơ bậc thang trước (ở trước), cơ bậc thang giữa (ở sau) và xương sườn 1 (ở dưới). Trong trường hợp có tồn tại xương sườn cổ (được ghi nhận là xảy ra với tỉ lệ 0,6 – 0,8% dân số), **động mạch dưới đòn** (và cả dây thần kinh gai sống ngực 1) sẽ bị đẩy lên cao hơn bình thường, gây gấp góc và có thể làm giảm
+
+lượng máu vào động mạch. Tình trạng này có thể gây đau do thiếu máu cung cấp cho các cơ vùng cánh tay, đặc biệt trong trường hợp vận động nhiều hoặc tập thể dục, thể thao. Hiếm hơn, hiện tượng chèn ép này có thể gây ảnh hưởng đến dây thần kinh ngực 1, gây cảm giác đau ở cẳng tay, bàn tay hoặc teo cơ ở bàn tay.
+
+2. Ta có thể làm giảm chảy máu các vết thương động mạch nách, động mạch cánh tay bằng cách ép vào động mạch dưới đòn. Cụ thể, có thể dùng một vật đủ chắc (nhưng không làm tổn thương da) ép vào động mạch dưới đòn ở đoạn ngoài cơ bậc thang theo hướng xuống dưới và ra sau. Khi đó, động mạch dưới đòn sẽ bị ép giữa lực ép và mặt trên xương sườn 1.
+
+# TĨNH MẠCH
+
+Tĩnh mạch vùng đầu cổ có thể chia thành hai nhóm: nhóm nông và nhóm sâu. Nhóm nông dẫn lưu máu từ các cấu trúc nông ở vùng mặt, da đầu. Nhóm sâu dẫn lưu máu từ các cấu trúc sâu. Tất cả tĩnh mạch vùng đầu cổ cuối cùng sẽ đổ về tĩnh mạch cảnh trong hay tĩnh mạch dưới đòn hoặc đổ trực tiếp vào tĩnh mạch tay đầu.
+
+## 1. NHÓM TĨNH MẠCH NÔNG
+
+Tĩnh mạch nông vùng đầu cổ rất thay đổi. Nói chung, máu tĩnh mạch từ phần trước da đầu, toàn bộ da mặt đổ vào tĩnh mạch mặt và tĩnh mạch sau hàm rồi vào tĩnh mạch mặt chung, sau đó đổ vào tĩnh mạch cảnh trong. Máu từ phần sau da đầu, toàn bộ da cổ đổ về tĩnh mạch cảnh ngoài rồi đổ về tĩnh mạch dưới đòn.
+
+### 1.1. Tĩnh mạch trên ròng rọc
+
+Mạng tĩnh mạch trên vùng trán nối với các nhánh trán của tĩnh mạch thái dương nông hình thành tĩnh mạch trên ròng rọc. Từ vùng trán, tĩnh mạch đi xuống, đến sống mũi thì đi gần đường giữa, song song và cho các nhánh nối với tĩnh mạch bên đối diện. Tĩnh mạch trên ròng rọc sau đó nối với tĩnh mạch trên ổ mắt gần góc trong của mắt để hình thành tĩnh mạch mặt.
+
+### 1.2. Tĩnh mạch trên ổ mắt
+
+Tĩnh mạch trên ổ mắt bắt đầu gần mỏm gò má của xương trán, nối với các nhánh của tĩnh mạch thái dương giữa và tĩnh mạch thái dương nông. Tĩnh mạch đi hướng vào trong, xuyên qua lỗ trên ổ mắt rồi nối với tĩnh mạch trên ròng rọc.
+
+### 1.3. Tĩnh mạch mặt
+
+Tĩnh mạch mặt là tĩnh mạch chính của vùng mặt. Từ chỗ hợp lưu của tĩnh mạch trên ròng rọc và tĩnh mạch trên ổ mắt ở góc trong của mắt, tĩnh mạch mặt đi chéo xuống dưới, bên cạnh mũi, đi dưới cơ gò má lớn, cơ cười, cơ bám da cổ, đến bờ trước rồi đi ở mặt ngoài cơ cắn. Tiếp theo, tĩnh mạch đi ngang thân xương hàm dưới, xuống nền cổ và nối với tĩnh mạch cảnh trong.
+
+Tĩnh mạch mặt ban đầu đi phía sau động mạch mặt, khi đến bờ dưới thân xương hàm dưới thì bắt chéo động mạch.
 
 Phần đầu của tĩnh mạch, phía trên chỗ đổ vào của tĩnh mạch môi trên, gọi là tĩnh mạch góc. Đoạn tĩnh mạch góc này thường thông nối với tĩnh mạch mắt. Vì vậy, các nhiễm trùng vùng mặt hoặc quanh mũi miệng đều có thể lan theo tĩnh mạch góc đến tĩnh mạch mắt và đến xoang hang.
 
@@ -787,6 +1537,34 @@ Các tĩnh mạch hầu hình thành từ đám rối tĩnh mạch bên ngoài h
 Tĩnh mạch giáp trên đi cùng động mạch tương ứng, nhận thêm nhánh tĩnh mạch thanh quản trên, tĩnh mạch mảng giáp móng rồi đổ vào tĩnh mạch cảnh trong hoặc tĩnh mạch mặt.
 
 Tĩnh mạch giáp giữa dẫn lưu máu phần dưới tuyến giáp và cũng nhận máu tĩnh mạch từ thanh quản, khí quản. Tĩnh mạch giáp giữa bắt chéo phía trước động mạch cảnh trong và đổ vào tĩnh mạch cảnh trong tại vị trí phía sau bụng trên cơ vai móng.
+
+[Hình: Tỉnh mạch vùng cổ [3] (P: phải; T: trái)
+- Thần kinh hạ thiệt
+- Tỉnh mạch mặt
+- Tỉnh mạch chẩm
+- Tỉnh mạch giáp trên
+- Tỉnh mạch cảnh ngoài (P)
+- Tỉnh mạch cảnh trong (T)
+- Tỉnh mạch cảnh trong (P)
+- Tỉnh mạch giáp dưới
+- Tỉnh mạch tay đầu (P)
+- Tỉnh mạch tay đầu (T)
+- Tỉnh mạch cảnh trước
+- Tỉnh mạch chủ trên]
+
+2.5. Tĩnh mạch đốt sống
+
+Các tĩnh mạch trong ống sống đi ra ở bờ trên cung sau đốt đội (đốt sống cổ 1) hợp thành một tĩnh mạch đi xuống dưới, chui qua lỗ ngang các đốt sống từ đốt đội đến đốt sống cổ 6. Lúc đầu tĩnh mạch đi ở phía trước, sau đó đi ra phía trước ngoài động mạch đốt sống rồi đổ vào tĩnh mạch tay đầu.
+
+Tĩnh mạch đốt sống nhận các nhánh tĩnh mạch nhỏ vùng dưới chẩm, các tĩnh mạch chẩm, các tĩnh mạch từ các cơ trước cột sống. Tĩnh mạch đốt sống còn nối với tĩnh mạch xích-ma bởi một tĩnh mạch nhỏ ở phía sau ống lồi cầu chẩm.
+
+2.6. Tĩnh mạch cổ sâu
+
+Tĩnh mạch cổ sâu hình thành ở vùng dưới chẩm, do sự hợp lưu của các tĩnh mạch chẩm, các tĩnh mạch cơ vùng dưới chẩm, các tĩnh mạch quanh các mỏm gai. Tĩnh mạch đi xuống dưới và ra trước, giữa mỏm ngang đốt sống cổ 7 và cổ xương sườn 1 rồi đổ vào tĩnh mạch đốt sống.
+
+Giải phẫu ứng dụng
+
+Vết thương rách tĩnh mạch cảnh trong có thể hình thành khối máu tụ trong lớp mô liên kết lỏng lẻo nằm dưới lá sâu mạc cổ. Biến chứng thuyên tắc mạch do khí cũng có thể xảy ra và là một biến chứng rất nguy hiểm. Lớp cơ ở thành tĩnh mạch mỏng, tĩnh mạch lại dính với mô liên kết của bao cảnh nên sẽ khó co rút lại khi bị rách. Tĩnh mạch cảnh trong đi cùng với thần kinh lang thang và thần kinh hạ thiệt nên việc kẹp cầm máu tĩnh mạch cần hết sức thận trọng, tránh làm tổn thương các thần kinh này.
 
 **BẠCH HUYẾT**
 
@@ -890,6 +1668,39 @@ TÀI LIỆU THAM KHẢO
 4. Standing S. (2016). *Gray's Anatomy* 41st edition, Elsevier.
 5. Skandalakis' Surgical Anatomy, Mc GrawHill, 2004.
 6. Moore K.L., et al (2014). *Clinically Anatomy* 7th edition, Lippincott William and Willkins, Philadenphia.
+
+# MẠCH MÁU CHI TRÊN TS.BS. Nguyễn Hoàng Vũ, ThS.BS. Nguyễn Xuân Anh
+
+**MỤC TIÊU HỌC TẬP**
+
+> 1. Mô tả nguyên ủy, đường đi, phân nhánh của động mạch chi trên.
+> 2. Mô tả vòng nối động mạch chi trên.
+> 3. Mô tả hệ thống tĩnh mạch nông chi trên.
+> 4. Xác định vị trí không nên thắt của động mạch chi trên và giải thích vì sao.
+
+**ĐỘNG MẠCH**
+
+Chi trên được cấp máu chủ yếu từ động mạch dưới đòn.
+
+Động mạch dưới đòn trái xuất phát từ cung động mạch chủ, động mạch dưới đòn phải xuất phát từ thân động mạch cánh tay đầu.
+
+Động mạch dưới đòn sau khi chui qua khe sườn đòn ở phía sau điểm giữa xương đòn thì đổi tên thành động mạch nách, nằm trong hố nách. Khi đến bờ dưới cơ ngực lớn, động mạch nách đổi tên thành động mạch cánh tay. Động mạch cánh tay cấp máu cho vùng cánh tay và khi xuống dưới nếp khuỷu khoảng 3 cm thì chia thành hai ngành cùng là động mạch quay và động mạch trụ. Hai động mạch này đi qua vùng cẳng tay trước xuống tới bàn tay thì tận hết bằng cách nối với nhau tạo thành hai cung động mạch gan tay nông và gan tay sâu để cấp máu cho bàn tay và ngón tay.
+
+**1. ĐỘNG MẠCH NÁCH**
+
+**1.1. Nguyên ủy, đường đi**
+
+Động mạch nách do động mạch dưới đòn đổi tên sau khi chui qua khe sườn đòn, đi trong vùng nách, khi chạy tới bờ dưới cơ ngực lớn (một số tài liệu cho là bờ dưới cơ tròn lớn) thì đổi tên thành động mạch cánh tay.
+
+Cơ ngực bé bắt chéo phía trước động mạch nách và chia động mạch nách thành ba đoạn:
+
+- Đoạn thứ nhất: trên cơ ngực bé
+- Đoạn thứ hai: sau cơ ngực bé
+- Đoạn thứ ba: dưới cơ ngực bé.
+
+Đường xác định mốc của động mạch nách là đường nối từ điểm giữa xương đòn tới điểm giữa nếp gấp khuỷu khi dạng tay vuông góc với thân mình và bàn tay để ngửa.
+
+**1.2. Nhánh bên:** động mạch nách cho sáu nhánh bên, theo thứ tự từ trên xuống là:
 
 ### 1.2.1. Động mạch ngực trên
 
@@ -1761,6 +2572,18 @@ Các nhãn trong hình:
 - B
 - C
 
+4.3. Sự hình thành vách liên thất
+Vào cuối tuần thứ 4, hai tâm thất nguyên thủy bắt đầu phát triển và được hoàn thành bởi sự phát triển liên tục của cơ tim bên ngoài và sự hình thành các bè ở bên trong.
+**Vách liên thất cơ** được hình thành do thành tâm thất nằm giữa hai tâm thất nguyên thủy phát triển sát lại với nhau và dần dần hợp nhất. Đôi khi hai thành này không hợp nhất hoàn toàn, tạo nên các dạng khe mỏm tim. Lúc này, lỗ tạo bởi vách liên thất cơ và gờ nón cho phép máu lưu thông giữa hai tâm thất (Hình 6.8, Hình 6.9).
+Khi **vách nón** được hình thành xong, lỗ liên thất nhỏ lại. Sau đó, lỗ này được bít kín bởi **vách liên thất màng**, được hình thành từ sự hợp nhất của một màng xuất phát từ gờ nội tâm mạc lót quanh phần trên của vách liên thất cơ và hợp nhất với phần dưới vách nón (Hình 6.8).
+[Hình: Vách thứ phát; Van tĩnh mạch phải; Lỗ bầu dục; Tâm nhĩ phải; Vách nón; Đường ra của tâm thất phải; Tâm thất phải; Vách liên thất cơ; Vách nguyên phát; Tâm nhĩ trái; Đường ra của tâm thất trái; Tâm thất trái; 7 tuần]
+
+Hình 6.9. Thiết đồ cắt qua mặt phẳng trán của tim ở phôi cuối tuần thứ 7
+
+**5. TUẦN HOÀN TRƯỚC VÀ SAU SINH**
+**5.1. Tuần hoàn bào thai (Hình 6.10)**
+Trước sinh, máu từ bánh nhau (khoảng 80% lượng máu này bão hòa oxy) trở về thai nhi qua tĩnh mạch rốn. Đến gan, phần lớn lượng máu này đi tắt qua gan (không đi vào các xoang gan), theo ống tĩnh mạch đến tĩnh mạch chủ dưới. Một lượng nhỏ hơn đi vào các xoang gan và lẫn với máu của hệ cửa. Tại ống tĩnh mạch có *cơ chế cơ vòng* làm đóng lối vào của tĩnh mạch rốn, do đó, máu sẽ đi vào các xoang gan. Cơ chế này giúp điều hòa lượng máu đến các xoang gan. Cơ vòng này đóng lại khi cơn co tử cung làm cho lượng máu trở về quá nhiều, máu sẽ phải đi vào các xoang gan rồi mới về tim, tránh sự quá tải đột ngột của tim.
+
 Tại tĩnh mạch chủ dưới, máu từ bánh nhau lẫn với máu đen từ chi dưới và đi vào tâm nhĩ phải. Tại đây, máu được hướng đến lỗ bầu dục bằng van tĩnh mạch chủ dưới, vì vậy, hầu hết lượng máu đi trực tiếp qua lỗ bầu dục vào nhĩ trái. Một lượng nhỏ ở lại tâm nhĩ phải do bị chặn lại bởi bờ dưới của vách thứ phát, lượng này tiếp tục lẫn với máu có ít oxy từ tĩnh mạch chủ trên.
 
 [Hình: Tĩnh mạch phổi V, Ông động mạch, Tĩnh mạch chủ trên, Tĩnh mạch phổi, Mảo vách ngăn, Lỗ bầu dục, II, Tĩnh mạch chủ dưới, Ông tĩnh mạch, Cơ vòng ở ống tĩnh mạch, Tĩnh mạch chủ dưới, Tĩnh mạch cửa, Tĩnh mạch rốn, Động mạch rốn, Động mạch chủ xuống, Động mạch phổi]
@@ -2234,6 +3057,22 @@ Tính trơ của tế bào cơ tim tùy thuộc điện thế động là loại
 
 Khi đáp ứng nhanh đã được khơi mào, tế bào đang bị khử cực sẽ không thể bị kích thích nữa cho đến khi đạt đến khoảng giữa giai đoạn tái cực nhanh. Khoảng thời gian từ lúc bắt đầu điện thế động cho đến khi sợi cơ tim không thể dẫn truyền một điện thế động khác gọi là thời kỳ trơ tuyệt đối. Giai đoạn này bắt đầu khởi điểm của pha 0 đến điểm giữa ở pha 3, lúc mà tái cực khoảng $-50\text{ mV}$. Giai đoạn còn lại của pha 3 gọi là thời kỳ trơ tương đối, trong giai đoạn này, có thể gây ra điện thế động, nhưng kích thích phải mạnh hơn kích thích gây đáp ứng trong pha 4. Tính hưng phấn không trở lại hoàn toàn cho tới khi sợi cơ tim hoàn toàn tái cực.
 
+[Hình: Hình 7.9. Tính trạng của một sợi cơ tim đáp ứng nhanh và chậm. ERP (effective refractory period): thời gian trơ tuyệt đối. RRP (relative refractory period): thời gian trơ tương đối.]
+
+### 3.3.5. Đáp ứng chậm
+
+Giai đoạn trơ tương đối của loại đáp ứng chậm khá dài, ngay cả sau khi tế bào đã hoàn toàn tái cực, do đó, đôi khi khó gây ra một đáp ứng lan truyền kế tiếp. Điện thế động tạo ra sớm trong thời kỳ trơ tương đối thường nhỏ và có đỉnh thấp. Giai đoạn hồi phục tính hưng phấn hoàn toàn chậm hơn đáp ứng nhanh.
+
+## 4. ĐIỆN TÂM ĐỒ
+
+Cũng như mọi tế bào sống, khi cơ tim nghỉ ngơi, ở trạng thái phân cực, mặt ngoài mang điện (+), mặt trong mang điện (-). Khi có kích thích đi qua, có hiện tượng tái cực. Ghi điện tâm đồ tức là ghi những thay đổi điện thế của tim ở nhiều vị trí khác nhau trên bề mặt cơ thể.
+
+Khi phân tích những chi tiết của các dạng động điện thế này, bác sĩ có thông tin về hướng cơ thể học của tim, kích thước tương đối của buồng tim, rối loạn về nhịp và dẫn truyền, tổn thương do thiếu máu ở cơ tim (vị trí, mức độ, sự tiến triển), ảnh hưởng của các rối loạn về nồng độ ion, tác dụng của một số thuốc trên tim.
+
+### 4.1. Các chuyển đạo chuẩn
+
+Chuyển đạo được định nghĩa là cách mắc một cặp điện cực, gồm một điện cực dương (hay điện cực thăm dò) và một điện cực âm để ghi nhận sự thay đổi điện thế giữa hai vị trí khác nhau trên bề mặt cơ thể. Để ghi điện tâm đồ bình thường, người ta sử dụng các hệ thống chuyển đạo được định hướng trên một vài mặt phẳng của cơ thể. Lực điện học của tim tại một thời điểm nào đó có thể được biểu diễn bằng một vector ba chiều. Một hệ thống chuyển đạo được định hướng trong một mặt phẳng cho phép ghi được hình chiếu của vector ba chiều ấy trên mặt phẳng đó. ECG gồm 12 chuyển đạo, trong đó có 6 chuyển đạo chi (limb leads) và 6 chuyển đạo trước ngực (precordial leads).
+
 4.1.1. Chuyển đạo chi: có sáu chuyển đạo chi, gồm ba chuyển đạo lưỡng cực (bipolar leads) có nguồn gốc từ tam giác Einthoven và ba chuyển đạo đơn cực (unipolar leads) được phát triển vào những năm 1940.
 
 - Chuyển đạo lưỡng cực: tam giác Einthoven (DI, DII, DIII). Đây là hệ thống chuyển đạo đầu tiên được sử dụng để ghi điện tim. Einthoven xem trái tim nằm ở trọng tâm của một tam giác đều mà ba đỉnh là vai phải, vai trái và đỉnh xương mu. Tuy nhiên, đặt điện cực ở ba vị trí này gặp nhiều khó khăn. Vì vậy, vào cuối những năm 1920, Wilson đã chỉ ra rằng: nếu dạng hai cánh tay ra và đặt điện cực ở cổ tay, có thể xem như cánh tay chính là dây dẫn với điện trở không đáng kể, không làm thay đổi điện thế ghi được từ các chuyển đạo. Tác giả Einthoven đo sự chênh lệch điện thế giữa tay phải và tay trái (gọi là chuyển đạo DI), giữa tay phải và chân trái (chuyển đạo DII), giữa tay trái và chân trái (chuyển đạo DIII). Đối với chuyển đạo DI, tay trái là nơi đặt điện cực dương, tay phải là nơi đặt điện cực âm. Như vậy, trục DI là đường thẳng nối vai phải – vai trái và có chiều dương hướng từ phải sang trái. Đối với chuyển đạo DII và DIII, điện cực dương được đặt ở chân trái. Do đó, DII và DIII có chiều dương hướng từ trên xuống dưới. Do cách bố trí các trục chuyển đạo như trên, Einthoven đã đưa ra công thức: DII = DI + DIII. Nghĩa là biên độ sóng ở DI cộng với ở DIII phải bằng biên độ sóng tương ứng ở DII. Nếu đo thấy không đúng như thế thì có thể là do ghi sai. Công thức này gọi là định luật Einthoven.
@@ -2536,6 +3375,32 @@ Phân suất tống máu (ejection fraction) là tỉ lệ giữa thể tích m�
 - C. Áp suất nền mao mạch phổi
 - D. Thể tích thất trái cuối tâm trương
 
+2. Yếu tố nào sau đây là chỉ số chính của hậu tải?
+A. Áp suất thất trái cuối tâm trương
+B. Áp suất động mạch chủ trong lúc van động mạch chủ mở.
+C. Áp suất nền mao mạch phổi
+D. Tổng kháng lực ngoại biên
+3. Câu nào sau đây đúng với tốc độ bơm máu từ thất ra ngoài trong lúc tâm thu?
+A. Cao nhất ở đầu của kỳ tâm thu
+B. Cao nhất ở giữa
+C. Cao nhất ở cuối
+D. Bằng nhau trong suốt kỳ tâm thu
+4. Khi nghỉ ngơi, ở người đàn ông khỏe mạnh, tim bơm bao nhiêu lít trong một phút?
+A. 0,9
+B. 2 đến 3
+C. 5 đến 6
+D. 8 đến 10
+5. Tiếng tim thứ hai xảy ra trong thời kỳ nào sau đây?
+A. Co đẳng trương
+B. Co đẳng trường (co đồng thể tích)
+C. Dãn đẳng trường
+D. Dãn đẳng trương
+
+## TÀI LIỆU THAM KHẢO
+1. Đặng Huỳnh Anh Thư (2016). Chức năng bơm máu của tim. Sinh lý học y khoa. Nhà xuất bản Y học.
+2. Guyton A.C., Hall J.E (2016). Cardiac Muscle; The Heart as a Pump and Function of the Heart Valves. Textbook of Medical Physiology, 13th ed., Elsevier Inc., pp.109-122.
+3. Barrett KE, Barman SM (2010). The Heart as a Pump. Ganong's Review of Medical Physiology, 23th, Appleton & Lange, pp.507-520.
+
 # ĐIỀU HÒA HOẠT ĐỘNG TIM
 
 ThS.BS. Đặng Huỳnh Anh Thư
@@ -2759,6 +3624,25 @@ Kích thích thụ thể áp suất xoang cảnh và quai động mạch chủ c
 2. Câu nào sau đây diễn tả đúng ảnh hưởng của hô hấp lên nhịp tim?
 - A. Nhịp tim giảm khi hít vào và tăng khi thở ra
 - B. Nhịp tim tăng khi hít vào và giảm khi thở ra
+
+C. Nhịp tim tăng khi hít vào và tăng khi thở ra
+D. Nhịp tim giảm khi hít vào và giảm khi thở ra
+3. Phản xạ do thụ thể ở thất có tác dụng nào sau đây?
+   A. Giảm nhịp tim và giảm kháng lực ngoại biên
+   B. Tăng nhịp tim và tăng kháng lực ngoại biên
+   C. Giảm nhịp tim và tăng kháng lực ngoại biên
+   D. Tăng nhịp tim và giảm kháng lực ngoại biên
+4. Nồng độ epinephrin trong máu tăng, gây hậu quả nào sau đây?
+   A. Giảm lượng máu trong một nhát bóp B. Giảm nhịp tim
+   C. Tăng cung lượng tim D. Giảm co thắt cơ tim
+5. Ở người bình thường, lượng máu do tim bơm ra trong một nhịp sẽ tăng khi nào?
+   A. Tăng kích thích giao cảm đến tim B. Tăng kích thích phó giao cảm đến tim
+   C. Giảm co thắt D. Giảm thể tích cuối tâm trương
+
+# TÀI LIỆU THAM KHẢO
+
+1. Đặng Huỳnh Anh Thư (2016). Điều hòa hoạt động tim. Sinh lý học y khoa. Nhà xuất bản Y học.
+2. Barrett KE, Barman SM (2010). Cardiovascular Regulatory Mechanisms. Ganong's Review of Medical Physiology, 23th, Appleton & Lange, pp.555–567.
 
 # SINH LÝ HỆ MẠCH
 ThS.BS. Đặng Huỳnh Anh Thư
@@ -3014,6 +3898,66 @@ Do đó, phương pháp nghe cho biết cả hai trị số: huyết áp tâm th
 [Hình: Tiếng Korotkoff (ở vùng khuỷu); Huyết áp tâm thu; Áp suất động mạch cánh tay; Huyết áp tâm trương; Không nghe được tiếng; 150; 125; 100; 75; 0; mmHg; Thời gian]
 
 Hình 10.11. Tiếng động Korotkoff trong đo huyết áp
+
+[Hình: Đo huyết áp động mạch gián tiếp. (A) Bắt mạch quay và bơm hơi vào túi khí cho đến khi không còn thấy mạch đập, bơm thêm 30 mmHg trên mức mất mạch. Đặt ống nghe lên trên vị trí động mạch cảnh tay, ống nghe không nhét dưới băng quấn. (B) Sau đó, mở van làm giảm áp suất từ từ, khoảng 2 mmHg mỗi giây. Đến khi nghe tiếng động đầu tiên, đó là huyết áp tâm thu. Tiếp tục giảm áp suất trong túi khí, tiếng động to dần đến cực đại sau đó giảm dần cường độ. (C) Trị số tương ứng với lúc tiếng động mất hẳn là huyết áp tâm trương]
+
+**3. SINH LÝ VI TUẦN HOÀN**
+
+Máu từ tiểu động mạch vào mao mạch, sau đó về các tiểu tĩnh mạch, các tiểu tĩnh mạch tụ lại thành tĩnh mạch lớn dần và cuối cùng về tim. Vi tuần hoàn hay tuần hoàn mao mạch là nơi thực hiện mục tiêu cuối cùng của tuần hoàn máu là đem chất dinh dưỡng cho mô và lấy đi các chất thải của các tế bào. Ở một thời điểm nhất định, chỉ có 5% máu tuần hoàn là trong mao mạch, nhưng 5% này là phần quan trọng nhất vì tại mao mạch có sự trao đổi các chất dinh dưỡng, oxy, $CO_2$ giữa máu và mô. Có khoảng 10 ti mao mạch và tổng diện tích trao đổi vào khoảng 500 – 700 $m^2$. Rất hiếm khi một tế bào có chức năng của cơ thể mà ở cách xa mao mạch. Bất kỳ tế bào hoạt động chức năng nào cũng có một mao mạch nuôi nó không cách xa quá 20 đến 30 $\mu m$.
+
+[Hình: Lưu lượng máu - Tiểu động mạch - Mạch nổi động - tĩnh mạch - Tiểu tĩnh mạch - Mao mạch - Mạch nổi thẳng]
+
+**Hình 10.13. Hệ vi tuần hoàn**
+
+[Hình: Từ tim đến - Cơ trơn - Tiểu tĩnh mạch - Gian mạch - Cơ thắt tiền mao mạch - Mao mạch thật sự - Kênh ưu tiên - Sợi cơ trơn - Về tim - Tĩnh mạch]
+
+**Hình 10.14. Cơ vòng tiền mao mạch**
+
+3.1. Cấu trúc mao mạch
+Mỗi cơ quan có một mạng lưới vi tuần hoàn đặc biệt, phù hợp với nhu cầu riêng của mình. Thường động mạch nuôi cơ quan chia nhánh từ 6 đến 8 lần thành tiểu động mạch có đường kính trong dưới 20 µm, nhánh cuối cùng chuyển vào mao mạch. Thành mao mạch không có cơ trơn, đường kính mao mạch vào khoảng 5 – 10 mm đủ để một hồng cầu ép mình kéo dài ra đi qua, cấu trúc thay đổi tùy mô. Đầu mao mạch có cơ vòng tiền mao mạch có thể co thắt, làm đóng hoặc mở mao mạch.
+Thành mao mạch có một lớp tế bào nội mô, bên ngoài là màng đáy. Giữa các tế bào nội mô có những khe liên bào, thông giữa trong và ngoài mao mạch. Các khe chiếm khoảng 1/1.000 tổng diện tích của mao mạch. Hầu hết nước và điện giải có thể xuyên qua khe. Khe hẹp chỉ chừng 6 – 7 nm, nhỏ hơn đường kính phân tử albumin. Trong tế bào nội mô mao mạch còn có những không bào ẩm bào. Các không bào này được thành lập ở một mặt của tế bào và di chuyển về phía đổi diện. Đôi khi các không bào hòa vào nhau thành một kênh liên tục qua màng gọi là kênh ẩm bào (pinocytic channel). Trong một vài màng mao mạch như ở tiểu cầu thận, các khe có hình trứng (oval) giữa các tế bào nội mô, cho phép một lượng vật chất khá lớn đi qua.
+
+[Hình: Sơ đồ một thiết diện mao mạch]
+- Tế bào nội mô
+- Kênh ẩm bào
+- Không bào ẩm bào
+- Màng đáy
+- Khe liên bào
+
+**Hình 10.15.** Sơ đồ một thiết diện mao mạch
+Tại mao mạch, máu không qua liên tục mà từng đợt, do sự co thắt các cơ vòng tiền mao mạch và cơ trơn ở thành các mạch nối thẳng, các cơ này co dãn với chu kỳ 5 – 10 lần/phút. Yếu tố quan trọng ảnh hưởng đến sự đóng mở của mao mạch là nồng độ oxy của mô. Nhu cầu sử dụng của mô càng lớn, thì lượng máu đến mô càng lớn. Đó là hiện tượng tự điều chỉnh tại mao mạch.
+Ngoài mao mạch, còn có các mạch nối thẳng từ tiểu động mạch sang tiểu tĩnh mạch mà không qua mạng lưới mao mạch.
+3.2. Chức năng của mao mạch: là trao đổi vật chất giữa máu và mô, thực hiện qua ba cơ chế: khuếch tán, ẩm bào và siêu lọc.
+3.2.1. Cơ chế khuếch tán
+Khuếch tán là phương thức quan trọng nhất của trao đổi chất giữa huyết tương và dịch kẽ. Khi máu qua mao mạch, một lượng nước và chất hòa tan khuếch tán qua thành mao mạch, tạo nên một sự trộn lẫn liên tục giữa máu và dịch kẽ của mô. Sự khuếch tán là do các chuyển động nhiệt của phân tử nước và chất hòa tan di chuyển theo hai chiều, chủ yếu do hai áp suất chi phối: áp suất thủy tĩnh của mao mạch – có tác dụng đẩy nước và các chất hòa tan trong nước ra khỏi mao mạch vào dịch kẽ và áp suất keo của protein huyết tương – có tác dụng giữ nước và các chất hòa tan ở lại trong mao mạch.
+
+**Các hình thức khuếch tán:**
+
+- Khuếch tán qua màng tế bào nội mô: các chất tan trong mỡ sẽ khuếch tán trực tiếp qua màng tế bào, không cần qua các khe hở. $O_2$, $CO_2$,... di chuyển qua cơ chế này.
+
+- Khuếch tán qua khe: có nhiều chất cần cho mô, tan trong nước, nhưng khó qua màng lipid của tế bào nội mô như $Na^+$, $Cl^-$, glucose,... sẽ khuếch tán qua khe.
+
+- Khuếch tán qua màng và khe: nước được khuếch tán nhanh theo hai chiều qua màng và các khe ở màng. Nhịp độ di chuyển nước qua màng mao mạch gấp 80 lần nhịp độ huyết tương chảy dọc mao mạch.
+
+Sự khuếch tán qua màng mao mạch ngoài hai loại áp suất trên còn tùy thuộc: kích thước của vật chất, tính thấm của thành mao mạch: khác nhau tùy loại mô, bậc thang nồng độ và nhịp độ khuếch tán chính qua màng mao mạch.
+
+## 3.2.2. Cơ chế ẩm bào
+
+Nhiều chất có trọng lượng phân tử lớn (lớn hơn 7 nm) như phân tử lipoprotein, các phân tử polysaccharide lớn như dextran, proteoglycan không thể qua các khe. Chúng thường có thể qua màng một ít bằng cơ chế ẩm bào.
+
+## 3.2.3. Cơ chế siêu lọc
+
+Động học của trao đổi chất qua thành mao mạch phụ thuộc bốn loại lực chi phối là áp suất thủy tĩnh mao mạch, áp suất thủy tĩnh dịch kẽ, áp suất keo mao mạch, áp suất keo dịch kẽ.
+
+### 3.2.3.1. Tại mao mạch
+
+Áp suất lọc (net filtration pressure) tại mao mạch được tính như sau:
+
+Áp suất lọc (NFP) = $P_c - P_{if} - \Pi_p + \Pi_{if}$
+
+Với (1) $P_c$ (capillary pressure) là áp suất thủy tĩnh tại mao mạch, thay đổi từ 35 mmHg ở đầu động mạch đến 15 mmHg ở đầu tĩnh mạch của mao mạch; (2) $P_{if}$ (interstitial fluid pressure) là áp suất thủy tĩnh của mô kẽ, thay đổi tùy cơ quan, đôi khi có thể âm so với áp suất khí trời (ví dụ, 2 mmHg ở mô dưới da); (3) $\Pi_p$ (plasma colloid osmotic pressure) là áp suất keo tại mao mạch, bình thường từ 25 – 28 mmHg; $\Pi_{if}$ (interstitial fluid colloid osmotic pressure) là áp suất keo tại mô kẽ, trung bình vào khoảng 3 – 8 mmHg.
+
+Nếu áp suất lọc là dương thì dịch sẽ được lọc đẩy ra khỏi mao mạch. Ngược lại, áp suất lọc là âm thì dịch sẽ hấp thu trở lại mao mạch.
 
 [Hình 10.16. Các yếu tố ảnh hưởng đến quá trình lọc và hấp thu qua thành mao mạch]
 (a)
@@ -3499,6 +4443,60 @@ D. Đáp ứng mạch lệ thuộc vào tế bào nội mô thành mạch
 1. Đặng Huỳnh Anh Thư (2016). Điều hòa hoạt động mạch. *Sinh lý học y khoa*. Nhà xuất bản Y học.
 2. Barrett KE, Barman SM (2010). Cardiovascular Regulatory Mechanisms. *Ganong's Review of Medical Physiology*, 23th, Appleton & Lange, pp.555 – 567.
 
+# CÁC CƠ CHẾ ĐÁP ỨNG BÙ TRỪ TRONG SUY TIM
+ThS.BS. Lý Khánh Vân
+
+MỤC TIÊU HỌC TẬP
+
+1. Định nghĩa suy tim và nêu được một số nguyên nhân chính gây suy tim.
+2. Giải thích được cơ chế bệnh sinh của suy tim.
+3. Trình bày được các đáp ứng bù trừ tại tim trong suy tim.
+4. Trình bày được các đáp ứng bù trừ ngoài tim trong suy tim.
+
+## 1. ĐẠI CƯƠNG
+
+Suy tim không phải là một bệnh lý mà là một hội chứng lâm sàng thường gặp trong nhiều bệnh về tim mạch như: bệnh van tim, bệnh cơ tim, bệnh mạch vành, bệnh tim bẩm sinh và một số bệnh khác có ảnh hưởng nhiều đến tim. Biểu hiện của suy tim là tổn thương thực thể và tổn thương chức năng của tim. Suy tim là hậu quả cuối cùng của các bệnh tim mạch và một số bệnh khác. Hiểu được cơ chế gây suy tim, chúng ta sẽ có hướng điều trị đúng, tích cực, ngăn ngừa sự tiến triển của bệnh, cải thiện chất lượng cuộc sống cho người bệnh suy tim.
+
+Ngày nay, suy tim là một hội chứng đe dọa sức khỏe cộng đồng nghiêm trọng vì:
+(1) Tần suất mắc bệnh ngày càng cao. Bệnh lý tim mạch là nguyên nhân hàng đầu gây tử vong trên toàn thế giới, nhiều hơn cả bệnh lý ung thư, dù là ở các nước đã hay đang phát triển. Tại Việt Nam, theo thống kê của Bộ Y tế mỗi năm có khoảng 200.000 người tử vong vì bệnh tim mạch, chiếm 33% ca tử vong.
+(2) Ảnh hưởng đến sinh hoạt không chỉ của cá nhân người bệnh mà còn ảnh hưởng đến sinh hoạt chung của gia đình và xã hội.
+(3) Làm tăng chi phí điều trị, tăng gánh nặng cho gia đình và xã hội. Các chuyên gia về tim mạch học Việt Nam cho biết, hiện nay, bệnh tim mạch đã và đang là một gánh nặng cho xã hội với tỉ lệ tử vong và tàn phế cao nhất. Bên cạnh đó, chi phí cho chăm sóc, điều trị bệnh tim mạch cũng là gánh nặng đáng kể với hàng trăm tỉ USD mỗi năm.
+
+## 2. ĐỊNH NGHĨA SUY TIM
+
+Bình thường khi chúng ta cần làm một hoạt động gắng sức nào đó (lao động, chạy nhảy, tập thể dục,...) thì lập tức tim sẽ tăng tần số và tăng sức co bóp để đưa nhiều oxy đến cho các mô của cơ thể. Khi tim bị suy nghĩa là tim không còn khả năng cung cấp máu theo nhu cầu của cơ thể nữa. Vì vậy, người ta có thể định nghĩa: suy tim là trạng thái bệnh lý trong đó tim không có khả năng bơm một lượng máu thích hợp với đòi hỏi của cơ thể.
+
+Định nghĩa suy tim mới: suy tim là một hội chứng lâm sàng do những rối loạn về cấu trúc hay chức năng (di truyền hay mắc phải) làm suy giảm khả năng đổ đầy hay tống máu của tim và từ đó làm giảm cung lượng tim, không đáp ứng được nhu cầu chuyển hóa của cơ thể.
+
+## 3. NGUYÊN NHÂN GÂY SUY TIM
+
+### 3.1. Tổn thương nguyên phát trong các thành phần co cơ: thiếu máu cơ tim, bệnh cơ tim nguyên phát,...
+
+### 3.2. Nguyên nhân thứ phát
+
+- Tăng gánh tâm thu: hẹp van động mạch chủ, tăng huyết áp đối với suy tim trái, hẹp van động mạch phổi, tăng áp lực động mạch phổi trước mao mạch nguyên phát hoặc thứ phát sau tắc mạch phổi hay bệnh phổi – phế quản mạn tính, tăng áp lực động mạch phổi sau mao mạch do suy tim trái đối với suy tim phải.
+- Tăng gánh tâm trương: hở van hai lá, hở van động mạch chủ đối với suy tim trái, hở van ba lá, thông liên nhĩ, thông liên thất đối với suy tim phải. Tổn thương sức co bóp cơ tim nói chung đến muộn.
+- Giảm độ dãn tâm trương của thất: bệnh co thắt màng ngoài tim, bệnh hẹp khít van hai lá,... làm máu không về tim đầy đủ, sức co bóp cơ tim cũng giảm.
+
+## 4. NHỮNG YẾU TỐ THÚC ĐẨY SUY TIM
+
+- Nghẽn động mạch phổi: thường hay gặp ở những người bệnh nằm bất động kéo dài dẫn đến sự xuất hiện huyết khối. Huyết khối này có thể làm nghẽn mạch phổi gây nhồi máu phổi, suy tim phải.
+- Nhiễm khuẩn: tình trạng sốt cao làm tăng nhu cầu sử dụng oxy ở mô, làm tăng nhịp tim dẫn đến sự quá tải cho trái tim còn đang bù trừ tốt.
+- Thiếu máu nặng
+- Nhiễm độc giáp
+- Có thai
+- Rối loạn nhịp tim: nhịp tim quá nhanh hay quá chậm làm giảm cung lượng tim
+- Tăng huyết áp
+- Nhồi máu cơ tim
+- Rối loạn dinh dưỡng (bệnh Beri Beri, thiếu vitamin B1, nghiện rượu, thuốc lá).
+
+## 5. CÁC DẠNG SUY TIM
+
+Có nhiều cách phân loại suy tim, bao gồm:
+- Theo vị trí của buồng tim: suy tim trái, suy tim phải và suy tim toàn bộ
+- Theo chức năng sinh lý tâm thu và tâm trương của tim: suy tim tâm thu và suy tim tâm trương
+- Theo tải gánh đối với tim: suy tim do tăng tiền tải và suy tim do tăng hậu tải
+
 - Theo cung lượng tim: suy tim cung lượng thấp (còn gọi là suy tim ứ huyết) và suy tim cung lượng cao
 - Theo mức độ rối loạn chức năng:
     + Theo Hội Tim New York (NYHA): được sử dụng dựa vào triệu chứng cơ năng và khả năng gắng sức
@@ -3620,6 +4618,38 @@ Hệ thống này có thể được hoạt hóa khi có sự giảm thể tích
  - Tại thận, AG II gây co tiểu động mạch đi nhiều hơn tiểu động mạch đến nên duy trì được mức lọc cầu thận.
  - Kích thích vỏ thượng thận tăng tiết aldosterone gây tái hấp thu Na+.
  - Tăng tiết ADH gây tái hấp thu nước.
+
+- Tăng tiết vasopressin gây co mạch mạnh
+- Kích thích trung tâm khát thông qua tác động lên hệ thần kinh trung ương
+- Hoạt hóa hệ thần kinh giao cảm gây tăng huyết áp thông qua việc kích thích sinh tổng hợp và giải phóng noradrenaline ở đầu tận cùng các sợi thần kinh giao cảm hậu hạch và adrenaline từ tủy thượng thận.
+
+**Sơ đồ: Hình 12.2. Tác động của hệ RAA**
+- Huyết áp hạ --> GAN --> Angiotensin --> THẠN --> Renin --> Angiotensin I --> ACE --> PHỔI --> Angiotensin II --> HOẠT HÓA HỆ RAA
+  - Co mạch --> lượng máu đến thận giảm
+  - Tuyến thượng thận --> 1, 2, 3, 4
+  - THẠN
+    - Mạch máu --> HỆ GIAO CẢM --> Co mạch máu --> Tăng hoạt động --> Tăng huyết áp
+    - Aldosterone --> Tái hấp thu nước và Na+
+- Angiotensinogen --> Giữ muối
+  - Tiết renin --> Khát
+  - Angiotensin I --> Co mạch
+  - Men chuyển --> Tiết Aldosterone
+  - Angiotensin II --> Noradrenaline, Adrenaline
+
+## 7.2.3. Hệ arginin – vasopressin
+
+Trong suy tim giai đoạn muộn, vùng dưới đồi – tuyến yên được kích thích để tiết ra arginin – vasopressin làm tăng thêm tác dụng co mạch của AG II, đồng thời làm tăng tái hấp thu nước ở ống thận.
+
+## 7.2.4. Các peptid bài niệu natri (NPs)
+
+Đáp ứng với tình trạng tăng áp lực buồng tim
+- ANP (atrial natriuretic peptid) tích trữ trong TB tâm nhĩ, phóng thích khi tâm nhĩ bị căng.
+- BNP (B-type natriuretic peptid) tạo ra khi TB cơ tim tâm thất quá tải về áp lực hay thể tích.
+- Tác dụng: tăng thải Na và nước, dãn mạch, (-) tiết renin, chống AGII.
+
+Tuy nhiên, tác dụng của các NPs này không nhiều.
+
+Như vậy, các hệ thống bù trừ trên đều nhằm mục đích duy trì cung lượng tim. Tuy nhiên theo thời gian, các hệ thống bù trừ này lại làm tăng tiền tải và hậu tải, tăng ứ nước và $Na^+$, tăng công và mức tiêu thụ $O_2$ của cơ tim, dẫn đến vòng xoắn bệnh lý, làm tình trạng suy tim ngày càng nặng hơn.
 
 CÂU HỎI LƯỢNG GIÁ
 
@@ -4641,6 +5671,16 @@ Khi có tăng kích thước của buồng thất dẫn đến sự gia tăng ho
 - R ở V1 > 7 mm
 - Trục lệch phải
 
+[Hình: Điện tâm đồ - Lớn thất phải] Hình 16.22. Lớn thất phải. Điện thế QRS thấp bất thường khi < 5 mm ở các chuyển đạo chi và < 10 mm ở các chuyển đạo trước tim. Nguyên nhân có thể là bệnh phổi tắc nghẽn mạn tính, tràn dịch màng ngoài tim, béo phì, bệnh cơ tim thâm nhiễm, bệnh mạch vành nhiều nhánh.
+
+[Hình: QRS điện thế thấp trong bệnh mạch vành nhiều nhánh] Hình 16.23. QRS điện thế thấp trong bệnh mạch vành nhiều nhánh.
+
+2.4.4. Đoạn ST
+
+Là khoảng thời gian cơ tâm thất không còn trong giai đoạn khử cực, được tính từ cuối QRS (điểm J) đến sóng T. Điểm quan trọng nhất của đoạn ST chính là sự thay đổi vị trí của nó so với đường đẳng điện và hình dạng của đoạn ST. Bình thường đoạn ST nằm ngang với đoạn TP (đường đẳng điện) hay chênh rất ít. Đôi khi đoạn ST được nâng lên cao < 1 mm ở chuyển đạo chi và < 2 mm ở chuyển đạo trước ngực nhưng không bao giờ nằm dưới đường đẳng điện > 0,5 mm.
+
+Nguyên nhân gây ST chênh lên: bệnh mạch vành, bao gồm cả nhồi máu cơ tim cấp, cơn đau thắt ngực Prinzmetal, phình vách thất sau nhồi máu, viêm màng ngoài tim cấp, hội chứng Brugada, viêm cơ tim, xuất huyết nội sọ, dày thất trái, block nhánh trái, tái cực sớm,...
+
 [Hình: Cách xác định đoạn ST chênh lên trên điện tâm đồ. Mũi tên 1 chỉ khởi đầu sóng Q, mũi tên 2 chỉ khởi đầu đoạn ST hay điểm J. Sự khác biệt giữa điểm số 1 và số 2 cho thấy hình ảnh đoạn ST chênh lên]
 
 **Bảng 16.4. Tiêu chuẩn điện tâm đồ trong nhồi máu cơ tim (ACC/AHA 2013)**
@@ -5512,7 +6552,27 @@ Tín hiệu hồi âm được thể hiện bằng các xung hình gai trên dao
 
 [Hình: Kiểu ghi hình A trong siêu âm]
 
-Hình 19.1. Kiểu ghi hình A trong siêu âm nguồn phát sóng và/hoặc người quan sát tiến lại gần nhau, tần số này sẽ giảm xuống trong trường hợp ngược lại.
+Hình 19.1. Kiểu ghi hình A trong siêu âm
+
+1.1.2. B-mode
+
+Tín hiệu hồi âm được thể hiện bởi những chấm sáng, độ sáng của các chấm này thể hiện biên độ tín hiệu hồi âm, vị trí các chấm sáng xác định khoảng cách từ đầu dò đến mặt phản hồi.
+
+[Hình: Kiểu ghi hình B trong siêu âm]
+
+Hình 19.2. Kiểu ghi hình B trong siêu âm
+
+1.1.3. M-mode
+
+Dùng để thể hiện sự chuyển động cùng phương với tia siêu âm của các vật thể theo thời gian bằng cách thể hiện hình ảnh B-mode theo diễn biến thời gian với tốc độ quét khác nhau. Kết quả là nếu nguồn hồi âm đứng yên thì sẽ tạo ra đường thẳng ngang qua màn hình, còn nếu mặt phản hồi chuyển động thì sẽ ra đường cong phản ánh sự chuyển động của mặt phản hồi.
+
+[Hình: Kiểu ghi hình TM trong đánh giá tĩnh mạch chủ dưới]
+
+Hình 19.3. Kiểu ghi hình TM trong đánh giá tĩnh mạch chủ dưới
+
+1.2. Siêu âm Doppler
+
+Định nghĩa: Hiệu ứng Doppler là sự thay đổi tần số của sóng khi có sự dịch chuyển tương quan giữa nguồn phát sóng và người quan sát, tần số sóng phản hồi tăng lên khi nguồn phát sóng và/hoặc người quan sát tiến lại gần nhau, tần số này sẽ giảm xuống trong trường hợp ngược lại.
 
 [Hình: Minh họa hiệu ứng Doppler]
 - Nguồn phát âm di chuyển đến gần người nhận
@@ -5612,6 +6672,23 @@ Bài 19. Giải phẫu hình ảnh mạch máu nội tạng 277
 [Hình: Siêu âm màu cắt đứng dọc thận]
 
 **Hình 19.19.** Hình siêu âm màu cắt đứng dọc thận cho thấy các động mạch thùy (mũi tên dài), các động mạch gian tiểu thùy
+
+[Hình: A, B]
+[Hình: A động mạch chủ bụng, S cột sống, VC tĩnh mạch chủ dưới, L gan, K thận phải]
+Hình 19.20. Nhìn thấy toàn bộ động mạch thận phải bằng lớp cắt trước bên (qua gan) trên siêu âm thang xám. Đôi khi các nhiễu ảnh lóe màu do chuyển động của người bệnh có thể làm mờ động mạch thận phải. Độ phân giải không gian của siêu âm thang xám tốt hơn Doppler màu và tốc độ ảnh cũng nhanh hơn nên giúp nhìn rõ động mạch hơn
+
+**2. CT MẠCH MÁU (COMPUTED TOMOGRAPHY ANGIOGRAPHY)**
+CT là một phương tiện chẩn đoán hình ảnh có một nguồn phát tia X và những bộ phận nhận tia ở phía đối diện của khung chụp (gantry) mà nó quay xung quanh người bệnh. Trong suốt quá trình chụp, người bệnh được di chuyển dọc theo khung. Rồi sau đó, nguồn phát tia X được điều chỉnh chính xác thành dòng hình quạt, sau khi được hấp thu và phát tán một phân, được tiếp nhận bởi bộ phận nhận tia. Hệ thống vi tính xử lý những số liệu này thành những hình ảnh hình khối ba chiều (3D), hình ảnh có thể được chuyển đến trung tâm xử lý CT và được phân tích sử dụng nhiều kĩ thuật hậu xử lý.
+
+CTA là kĩ thuật ứng dụng CT trong khảo sát mạch máu và ngày nay đóng vi trò quan trọng trong thám sát các bệnh lý mạch máu.
+*Ưu điểm:*
+- Độ phân giải cao cho phép đánh giá được phần lớn các đoạn của mạch máu, đủ để đưa ra hướng xử trí thích hợp cho người bệnh.
+- Sự kết hợp giữa CT đa dãy đầu dò và khả năng xử lý tăng giúp rút ngắn thời gian chụp nhưng vẫn tạo ra được hình ảnh có độ phân giải không gian cao.
+- CTA giúp đánh giá mạch máu với đánh giá nhu mô, cung cấp một bản đồ tưới máu cho kế hoạch điều trị, các bệnh lý dị dạng, thoái hóa, thiếu máu, xuất huyết, u tăng tưới máu.
+- Ít xâm lấn vì chỉ cần phải tiêm chất cản quang đường tĩnh mạch.
+*Nhược điểm:*
+Tia X ngày nay được giảm thiểu bằng các quy trình chụp với liều tia thấp.
+Các kĩ thuật phức tạp để dựng hình và xử lý hình sau khi chụp phải thực hiện tốt bởi kĩ thuật viên khoa X-quang nhằm xử lý tối ưu các thông tin hình ảnh sau khi chụp.
 
 [Hình: Hình 19.21. CTA tái tạo 3D MIP (Maximum intensity projection): 1. Động mạch chủ bụng, 2. Động mạch thân tạng, 3. Túi phình động mạch thân tạng, 4. Động mạch gan chung, 5. Động mạch lách]
 
@@ -5916,7 +6993,31 @@ Mặt cắt dọc trục từ hướng khảo sát thích hợp ở ngang mức 
 
 **2. CT MẠCH MÁU (COMPUTED TOMOGRAPHY ANGIOGRAPHY)**
 
-CT là một phương tiện chẩn đoán hình ảnh có một nguồn phát tia X và những bộ phận nhận tia ở phía đối diện của khung chụp (gantry) mà nó quay xung quanh người bệnh. Trong suốt quá trình chụp, người bệnh di chuyển dọc theo khung. Sau đó, nguồn tia X được điều chỉnh chính xác thành dòng hình quạt, sau khi được hấp thu và phát tán một phần, được tiếp nhận bởi bộ phận nhận tia. Hệ thống vi tinh xử lý những số liệu này thành
+CT là một phương tiện chẩn đoán hình ảnh có một nguồn phát tia X và những bộ phận nhận tia ở phía đối diện của khung chụp (gantry) mà nó quay xung quanh người bệnh. Trong suốt quá trình chụp, người bệnh di chuyển dọc theo khung. Sau đó, nguồn tia X được điều chỉnh chính xác thành dòng hình quạt, sau khi được hấp thu và phát tán một phần, được tiếp nhận bởi bộ phận nhận tia. Hệ thống vi tinh xử lý những số liệu này thành những hình ảnh hình khối ba chiều (3D), hình ảnh có thể được chuyển đến trung tâm xử lý CT và được phân tích sử dụng nhiều kĩ thuật hậu xử lý.
+
+CTA là kĩ thuật ứng dụng CT trong khảo sát mạch máu và ngày nay đóng vai trò quan trọng trong thám sát các bệnh lý mạch máu.
+
+*Ưu điểm:*
+
+- Độ phân giải cao cho phép đánh giá được phần lớn các đoạn của mạch máu, đủ để đưa ra hướng xử trí thích hợp cho người bệnh
+
+- Sự kết hợp giữa CT đa dãy đầu dò và khả năng xử lý tăng giúp rút ngắn thời gian chụp nhưng vẫn tạo ra được hình ảnh có độ phân giải không gian cao
+
+- CTA giúp đánh giá mạch máu với đánh giá nhu mô, cung cấp một bản đồ tưới máu cho kế hoạch điều trị, các bệnh lý dị dạng, thoái hóa, thiếu máu, xuất huyết, u tăng tưới máu.
+
+- Ít xâm lấn vì chỉ cần phải tiêm chất cản quang đường tĩnh mạch.
+
+*Nhược điểm:*
+
+Ngày nay, tia X được giảm thiểu bằng các quy trình chụp với liều tia thấp.
+
+Các kĩ thuật phức tạp để dựng hình và xử lý hình sau khi chụp phải thực hiện tốt bởi kĩ thuật viên khoa X-quang nhằm xử lý tối ưu các thông tin hình ảnh sau khi chụp.
+
+## 2.1. Hình CTA mạch máu chi dưới
+
+[Hình: Hình tái tạo 3D VRT màu: 1. Động mạch chậu ngoài, 2. Động mạch đùi sâu, 3. Động mạch đùi (đùi nông)]
+
+Hình 20.27. Hình tái tạo 3D VRT màu: 1. Động mạch chậu ngoài, 2. Động mạch đùi sâu, 3. Động mạch đùi (đùi nông)
 
 [Hình: Hình CTA tái tạo 3D VRT. 1. Động mạch khoeo, 2. Động mạch chày sau, 3 - 5. Động mạch mác, 4 - 6. Động mạch chày trước]
 
