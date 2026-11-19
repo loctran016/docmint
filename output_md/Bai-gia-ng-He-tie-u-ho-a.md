@@ -1103,7 +1103,37 @@ Phúc mạc là một màng liên tục gồm hai phần:
 **Phúc mạc thành** *(parital peritoneum)* là phần phúc mạc lót mặt trong thành bụng.
 **Phúc mạc tạng** *(visceral peritoneum)* là phần phúc mạc bao bọc mặt ngoài các tạng.
 
-Liên tiếp giữa phúc mạc thành và phúc mạc tạng là các mạc treo, mạc nối, mạc chằng, mạc dính. Các mạc này thường gồm hai lá phúc mạc treo hoặc chằng các tạng vào thành
+Liên tiếp giữa phúc mạc thành và phúc mạc tạng là các mạc treo, mạc nối, mạc chằng, mạc dính. Các mạc này thường gồm hai lá phúc mạc treo hoặc chằng các tạng vào thành bụng hoặc nối hai tạng với nhau. Giữa hai lá của các mạc thường có mạch và thần kinh đi vào các tạng.
+
+2.3. Tạng trong ổ phúc mạc, tạng trong phúc mạc, tạng ngoài phúc mạc, tạng bị thành hóa và tạng dưới thanh mạc
+
+Tạng trong ổ phúc mạc là tạng nằm hoàn toàn trong ổ phúc mạc, không có phúc mạc tạng bao phủ. Buồng trứng là tạng duy nhất nằm trong ổ phúc mạc. Chúng ta biết, khởi đầu buồng trứng cũng được phúc mạc che phủ gần hết nên là tạng trong phúc mạc nhưng để thích ứng với việc rụng trứng, lớp phúc mạc bao quanh buồng trứng bị tiêu đi nên buồng trứng không còn phúc mạc che phủ, do đó, buồng trứng được xem như một tạng nằm trong ổ phúc mạc.
+
+Tạng trong phúc mạc là tạng được phúc mạc che phủ gần hết mặt ngoài và có mạc treo hoặc mạc chằng. Ví dụ, ống tiêu hóa từ dạ dày đến phần trên trực tràng đều là tạng trong phúc mạc. Gan, tụy, lách cũng là những tạng trong phúc mạc.
+
+Tạng ngoài phúc mạc là tạng chỉ được phúc mạc che phủ một phần mặt ngoài của tạng và không có mạc treo hoặc mạc chằng. Có hai loại tạng ngoài phúc mạc là:
+
+Tạng sau phúc mạc như thận, niệu quản.
+
+Tạng dưới phúc mạc gồm các tạng thuộc hệ niệu sinh dục ở chậu hông như bàng quang, tử cung, túi tinh,...
+
+Tạng bị thành hóa là tạng lúc đầu được phúc mạc che phủ gần hết nhưng sau đó cả mạc treo và phúc mạc tạng che phủ tạng này bị dính vào phúc mạc thành của thành bụng sau. Lúc đầu, tạng di động nhưng sau đó trở lên cố định sát thành bụng sau và tạng như bị đẩy ra ngoài phúc mạc. Những tạng bị thành hóa là tá tràng, kết tràng lên, kết tràng xuống (Hình 17).
+
+[Hình: Hình tượng về các thành phần của phúc mạc]
+- Tạng trong phúc mạc
+- Mạc treo
+- Lá thành
+- Lá tạng
+- Dây chằng
+- Mạc nối
+- Mạc dính
+- Tạng trong ổ phúc mạc
+- Tạng sau phúc mạc
+- Túi cùng
+- Tạng dưới phúc mạc
+- Tạng dính (tạng bị thành hóa)
+
+Tạng dưới thanh mạc là những tạng nằm trong phúc mạc nhưng phúc mạc che phủ tạng này rất dễ bóc tách ra khỏi tạng, nhất là khi bị viêm nhiễm, lá phúc mạc này dày lên lại càng dễ bóc tách.
 
 Ứng dụng trong phẫu thuật để cắt tạng dưới thanh mạc khi tạng bị viêm. Những tạng với thanh mạc là ruột thừa, túi mật. Trong viêm ruột thừa, mạc nối lớn và các tạng khác ruột non đến áp dính vào sát quanh ruột thừa thành một đám quánh. Trong phẫu thuật, rất khó gỡ dính vì dễ gây tổn thương các tạng. Do đó, ứng dụng đặc điểm tạng dưới thanh mạc ta tìm gốc ruột thừa và tách ruột thừa ra khỏi lớp thanh mạc để cắt gốc ruột thừa và lột vỏ thanh mạc lại như lấy ruột quả chuối chín ra khỏi vỏ chuối.
 
@@ -1237,6 +1267,43 @@ Còn gọi là khe Winslow, là một khe dọc từ gan tới tá tràng, thôn
 6.1.2. Tiền đình
 
 Tiền đình mạc nối (vestibulum bursae omentalis) là một khoang đi từ lỗ mạc nối tới lỗ giới hạn bởi các nếp vị tụy (gastropancreatic plica). Tiền đình có một ngách trên, thọc giữa cơ hoành và gan. Tiền đình có bốn thành: thành trước là phần mỏng của mạc nối nhỏ; thành sau là khoảng giữa động mạch chủ bụng và tĩnh mạch chủ dưới; thành trên là thùy đuôi của gan; thành dưới rất hẹp và liên quan với bờ trên của mạc dính tá tràng và nếp vị tụy dưới (liềm động mạch gan).
+
+**Sơ đồ: Hình 19. Sơ đồ cắt đứng dọc qua túi mạc nối**
+- Dây chằng hoành gan
+- Gan
+- Mạc nối nhỏ
+- Dạ dày
+- Vòng ĐM bờ cong lớn
+- Mạc nối lớn
+- Tụy
+- Mạc dính tá tràng
+- Tá tràng
+- Rễ mạc treo đại tràng ngang
+- 1
+- 2
+- 3
+- 4
+- 5
+
+Hình 19. Sơ đồ cắt đứng dọc qua túi mạc nối. Các mũi tên chỉ đường vào túi mạc nối (1: sấp phần mỏng của mạc nối nhỏ, 2: rạch mạc nối lớn trên vòng mạch bờ cong lớn dạ dày, 3: rạch mạc nối lớn dưới mạch bờ cong lớn dạ dày, 4: bóc phần đỉnh của mạc nối lớn và mạc treo kết tràng ngang, 5: làm thủng mạc treo kết tràng ngang)
+
+### 6.1.3. Lỗ nếp vị tụy
+
+Lỗ nếp vị tụy là một lỗ bầu dục ở trên, hạn ở trước là bờ cong bé của dạ dày, ở trên và dưới bởi các nếp vị – tụy.
+
+### 6.1.4. Túi mạc nối chính
+
+Túi chính hay hậu cung mạc nối gồm hai phần: một phần ở sau dạ dày và một phần ở trong hai thành của mạc nối lớn. Túi có ba ngách: ngách trên (*recessus superior omentalis*), ngách dưới (*recessus inferior omentalis*) và ngách lách (*recessus lienalis*).
+
+Túi chính thông ở bên phải với tiền đình và có ba mặt (trước, sau và trái), một đáy dưới và một bờ trên. Thành trước là dạ dày ở trong hai lá phúc mạc) và mạc nối lớn ở dưới (hai lá trước).
+
+Thành sau liên quan với tụy và thận. đính vào lá thành. Thận trái ở sau là phúc mạc.
+
+Thành trái là mạc nối (dây chằng) vị lách và có ba mặt (trước, sau và trái), một đáy dưới và một bờ trên. Thành trước là dạ dày ở trong hai lá phúc mạc) và mạc nối lớn ở dưới (hai lá trước).
+
+Đáy dưới nằm trên kết tràng ngang ra trước, thì đáy treo căng như một sát vào nhau, đáy dưới ở trên một bình d
+
+Ở bờ trên, hai lá phúc mạc tụm vào r treo dạ dày.
 
 **Bài 5. Giải phẫu phúc mạc và các cấu trúc nâng đỡ ống tiêu hóa ♦ 47**
 

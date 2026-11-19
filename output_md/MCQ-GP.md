@@ -804,6 +804,48 @@ B. Rãnh gian thất trước
 C. Rãnh gian thất sau
 D. Rãnh tận cùng
 
+Module TIM MẠCH
+
+123. Thành phần nào sau đây đi cùng với động mạch gian thất sau ở rãnh gian thất sau?
+- A. Tĩnh mạch tim lớn
+- B. Tĩnh mạch tim giữa
+- C. Tĩnh mạch tim nhỏ
+- D. Xoang tĩnh mạch vành
+
+124. Chi tiết giải phẫu nào sau đây không thấy ở tâm nhĩ phải?
+- A. Van lỗ bầu dục
+- B. Mào tận cùng
+- C. Lỗ xoang tĩnh mạch vành
+- D. Hố bầu dục
+
+125. Mô tả về động mạch vành, câu nào sau đây sai?
+- A. Động mạch vành phải xuất phát từ xoang phải động mạch chủ
+- B. Nhánh gian thất sau xuất phát từ động mạch vành trái
+- C. Động mạch gian thất trước cho các nhánh chéo
+- D. Động mạch mũ xuất phát từ thân chung động mạch vành trái
+
+126. Mô tả hình thể ngoài của tim, câu nào sau đây đúng?
+- A. Đáy tim nằm trên cơ hoành nên còn gọi là mặt hoành
+- B. Vị trí mỏm tim tương ứng với giao điểm giữa đường thẳng đi qua điểm giữa xương đòn trái và khoảng gian sườn 4 hoặc 5 bên trái
+- C. Mặt trước tim liên quan với xương ức và các sụn sườn thứ 2 đến thứ 7
+- D. Trên lâm sàng, bờ phải tim là ranh giới giữa mặt trước và đáy tim
+
+127. Chi tiết nào sau đây được nhìn thấy ở mặt hoành lẫn mặt phổi của tim?
+- A. Rãnh nhĩ thất
+- B. Rãnh gian thất sau
+- C. Xoang tĩnh mạch vành
+- D. Khuyết đỉnh tim
+
+128. Yếu tố nào sau đây không ảnh hưởng đến kích thước của tim?
+- A. Tuổi
+- B. Giới
+- C. Huyết áp
+- D. Nhóm máu
+
+129. Khi khám tim cho bệnh nhân, bác sĩ nghe âm thổi bất thường ở mỏm mũi kiếm xương ức. Âm thổi này có khả năng xuất phát từ
+- A. Van nhĩ thất trái
+- B. Van nhĩ thất phải
+
 TRẮC NGHIỆM GIẢI PHẪU HỌC
 C. Van động mạch phổi
 D. Van động mạch chủ

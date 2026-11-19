@@ -4183,7 +4183,25 @@ D. Thức ăn nhiễm nấm Alfatoxin
 A. Loại 1
 B. Loại 2
 C. Loại 3
-D. Loại 4 nam giới và thứ hai ở nữ giới. Nguy cơ mắc phải UTĐT trong suốt đời người được ước tính khoảng 1/20.
+D. Loại 4
+
+# UNG THƯ ĐẠI TRÀNG
+Nguyễn Hữu Thịnh, La Minh Đức
+
+MỤC TIÊU
+1. Khai thác 2 nhóm yếu tố nguy cơ của bệnh nhân ung thư đại tràng.
+2. Nhận diện được rối loạn gen thuộc hai nhóm: gen sinh ung và gen ức chế khối u.
+3. Vận dụng triệu chứng lâm sàng và cận lâm sàng để chẩn đoán xác định ung thư đại tràng, chẩn đoán giai đoạn và chẩn đoán khi có biến chứng.
+4. Chỉ định phương pháp điều trị phù hợp với nguyên tắc điều trị (nói chung), chọn lựa được phương pháp phẫu thuật phù hợp giai đoạn bệnh, kích thước, vị trí ung thư và khi ung thư có biến chứng.
+5. Lập kế hoạch theo dõi sau điều trị ung thư đại tràng theo giai đoạn từ 0 đến IV.
+
+Từ khóa: đa polyp tuyến có tính gia đình, di truyền không liên quan đến đa polyp, cắt polyp, cắt niêm mạc qua nội soi đại tràng, cắt đại tràng, theo dõi sau điều trị.
+
+1. MỞ ĐẦU
+Ung thư đại tràng (UTĐT) là một bệnh ác tính thường gặp và cũng là một trong những nguyên nhân gây tử vong hàng đầu trong các loại ung thư. Các yếu tố nguy cơ của UTĐT liên quan đến cơ địa, môi trường và yếu tố gia đình. Quá trình từ đại tràng bình thường phát triển thành ung thư kéo dài trong nhiều năm và diễn tiến qua nhiều quá trình có thể ngăn chặn được. Cho đến nay, phẫu thuật vẫn là phương pháp điều trị chủ yếu cho UTĐT, hóa trị chỉ đóng vai trò hỗ trợ. Tiên lượng của bệnh phụ thuộc nhiều vào giai đoạn bệnh, chẩn đoán sớm giúp cải thiện hiệu quả điều trị. Tầm soát UTĐT có thể giúp phát hiện và loại bỏ những sang thương có thể phát triển thành UTĐT cũng như nhằm phát hiện bệnh ở giai đoạn sớm.
+
+2. DỊCH TỄ
+UTĐT là bệnh ác tính đường tiêu hóa thường gặp ở hầu hết các nước trên thế giới. Tại Mỹ, UTĐT đứng hàng thứ ba ở nam và thứ tư ở nữ trong các ung thư thường gặp, chiếm khoảng 11% các ung thư được chẩn đoán hàng năm. UTĐT cũng là loại ung thư thường gặp đứng hàng thứ ba ở các nước Châu Âu. Theo kết quả ghi nhận ung thư quần thể tại Thành phố Hồ Chí Minh năm 1997, UTĐT đứng hàng thứ năm trong các loại ung thư và sau ung thư dạ dày trong các ung thư đường tiêu hóa. Theo số liệu quốc gia về tỷ lệ mới mắc ung thư ở Việt Nam giai đoạn 2010-2018, UTĐT đứng hàng thứ tư ở nam giới và thứ hai ở nữ giới. Nguy cơ mắc phải UTĐT trong suốt đời người được ước tính khoảng 1/20.
 
 UTĐT cũng là một trong những nguyên nhân hàng đầu gây tử vong do ung thư. Năm 2014, UTĐT là nguyên nhân tử vong do ung thư đứng hàng thứ ba tại Mỹ. Theo số liệu 40 nước Châu Âu năm 2010, tử vong do UTĐT đứng hàng thứ hai trong các nguyên nhân do ung thư.
 
@@ -5484,6 +5502,24 @@ Các triệu chứng và dấu hiệu có thể tăng khi xuất hiện các bi�
 
 - Bệnh nhân suy giảm miễn dịch, dùng corticoid kéo dài, lớn tuổi có thể triệu chứng không điển hình hoặc không triệu chứng.
 - Khi bệnh diễn tiến mạn tính có thể gây ra rò (bàng quang, âm đạo...), hẹp lòng đại tràng...
+
+Bởi vì túi thừa có thể ở bất cứ vị trí nào nên khi viêm có thể nhầm lẫn với nhiều tình trạng khác:
+- Viêm túi thừa đại tràng phải hoặc đại tràng chậu hông dài có thể nhầm với viêm ruột thừa
+- Viêm túi thừa đại tràng ngang có thể nhầm với viêm dạ dày, viêm tụy, viêm túi mật
+- Viêm các túi thừa đại tràng nằm sau phúc mạc có thể nhầm lẫn với bệnh lý hệ niệu
+- Viêm túi thừa đại tràng ở phụ nữ có thể nhầm với các bệnh lý phụ khoa
+
+## 5.1.2. Viêm túi thừa đại tràng phải
+
+Túi thừa đại tràng phải khi viêm thường biểu hiện đau tại vùng bụng phải. Có khá nhiều bệnh lý biểu hiện triệu chứng đau ở vùng này như các bệnh lý của gan mật, đại tràng phải, hồi manh tràng, thận niệu quản phải... mà phổ biến nhất là viêm ruột thừa. Thực tế, ở nước ta hiện nay, túi thừa đại tràng vẫn được xem là bệnh quá hiếm nên ít khi được nghĩ tới. Chính vì vậy khi một bệnh nhân đến khám với biểu hiện đau hố chậu phải thì thường được nghĩ tới viêm ruột thừa chứ ít ai nghĩ tới viêm túi thừa.
+
+Tuy nhiên, vẫn có một số chi tiết khác biệt rất hữu ích để phân biệt viêm ruột thừa và viêm túi thừa: viêm ruột thừa thường khởi bệnh ở độ tuổi trẻ hơn, đau thường bắt đầu từ thượng vị hoặc quanh rốn sau đó mới di chuyển xuống hố chậu phải, quá trình bệnh thường là ngắn (vài giờ tới 1-2 ngày), các triệu chứng buồn nôn và ói gặp ở khoảng 70% trường hợp. Trong khi đó, viêm túi thừa thì thường đau khu trú ở bụng phải (tùy vị trí túi thừa) ngay từ đầu, quá trình bệnh dài hơn (do không rầm rộ nên bệnh nhân chưa đi khám), hiếm khi có triệu chứng buồn ói hoặc ói.
+
+Điểm đau nằm ngoài hoặc cao hơn điểm McBurney khi khám lâm sàng cũng là dấu hiệu gợi ý của viêm túi thừa. Ngoài ra các biểu hiện như đau mơ hồ, đau mức độ nhẹ, ít có các biểu hiện của đáp ứng viêm toàn thân như sốt cao, tăng bạch cầu.
+
+Kết quả nghiên cứu trong luận án Tiến sĩ mới được công bố năm 2019 ở nước ta cho thấy, bệnh thường biểu hiện ở độ tuổi khá trẻ với tuổi trung bình là 35,6 ± 12,8 tuổi. Phái nam chiếm ưu thế (nam: nữ = 2:1). Thời gian đau đến lúc nhập viện khoảng 1,7-1,8 ngày; khởi phát chủ yếu ở hông hoặc hố chậu phải chứ ít khi di chuyển; mức độ đau ít hoặc vừa; ít khi sốt cao và số lượng bạch cầu tăng vừa phải.
+
+Như vậy, các dấu hiệu lâm sàng đơn thuần không thể giúp chẩn đoán xác định viêm túi thừa đại tràng phải. Tuy nhiên, với việc hỏi kỹ bệnh sử, thăm khám kỹ càng, đánh giá tương quan giữa các dấu hiệu có thể giúp chúng ta sàng lọc được những bệnh nhân nghi ngờ viêm túi thừa đại tràng phải để chỉ định các phương tiện hình ảnh phù hợp giúp xác định chẩn đoán.
 
 5.2. Siêu âm
 
@@ -9148,6 +9184,40 @@ Ví dụ, trĩ được phân loại là P1E1C2 nếu bị trĩ nội sa ra như
 5. CHẨN ĐOÁN
 5.1. Chẩn đoán xác định
 Thường dựa vào các triệu chứng cơ năng như chảy máu, chiếm tỷ lệ cao nhất (94% theo GS Nguyễn Đình Hối). Tiêu ra máu trong bệnh trĩ là máu đỏ tươi, chảy máu không lẫn với phân, máu chảy thành tia như cắt tiết gà trước khi phân ra hoặc ngược lại nhiễu vài giọt máu xuống bồn cầu sau khi đại tiện bình thường xong. Triệu chứng đau cũng là triệu chứng thường đưa bệnh nhân đến khám bệnh, có thể bệnh nhân không đau, điều chú ý là triệu chứng đau phải xảy ra ở thời điểm đi tiêu. Triệu chứng đau thường xảy ra ở bệnh nhân có kèm theo bị huyết khối ở đám rối tĩnh mạch trĩ hay bị nứt hậu môn. Triệu chứng trĩ sa cũng là triệu chứng đưa bệnh nhân đến khám, tùy theo mức độ sa, theo thương tổn giải phẫu bệnh đã nêu ở phần trên.
+
+Bảng 1. Triệu chứng bệnh trĩ
+
+| Triệu chứng của trĩ |
+|:--- |
+| Tiêu ra máu |
+| Máu đỏ tươi không lẫn với phân |
+| Nhỏ giọt trên bồn cầu |
+| Dính trên giấy vệ sinh |
+| Đau hậu môn khi đi tiêu |
+| Ngứa hậu môn |
+| Khối sa ở hậu môn (khi đi lại nhiều, mang vác vật nặng) |
+| Huyết khối |
+| Trĩ sa nghẹt sẽ gây sưng và đau hậu môn rất nhiều, có thể kèm theo tiêu ra máu hoặc một số triệu chứng toàn thân (ít gặp) do thiếu máu mạn |
+
+Khám lâm sàng: thường khám ở hai tư thế gối khuỷu và hay nghiêng trái. Nhìn có thể phát hiện trĩ ngoại, nứt hậu môn, trĩ nội, sa, huyết khối trĩ ngoại, ung thư hậu môn.
+
+Thăm bằng ngón tay: đây là động tác quan trọng nhất để loại trừ ung thư hậu môn trực tràng và phát hiện dấu hiệu đau do trĩ thuyên tắc.
+
+Cận lâm sàng: sau khi thăm khám, rất cần nội soi hậu môn trực tràng. Nội soi nhằm giúp chẩn đoán trĩ nội độ 1, độ 2, nứt hậu môn và các bệnh lý khác như polyp trực tràng, ung thư trực tràng.
+
+Bảng 2. Chỉ định nội soi đại tràng
+
+| Chỉ định nội soi đại tràng |
+|:--- |
+| Tuổi $\ge$ 50 tuổi nếu chưa được nội soi đại tràng lần nào trong vòng 10 năm |
+| Tuổi $\ge$ 40 tuổi hoặc trẻ hơn 10 năm tại thời điểm chẩn đoán nếu có tiền sử có một người thân nhân thế hệ 1 được chẩn đoán ung thư đại trực tràng hoặc u tuyến giai đoạn tiến triển mà ở tuổi $<$ 60 |
+| Tuổi $\ge$ 40 tuổi hoặc trẻ hơn 10 năm tại thời điểm chẩn đoán nếu có tiền sử có hai người thân nhân thế hệ 1 được chẩn đoán ung thư đại trực tràng hoặc u tuyến giai đoạn tiến triển |
+| Xét nghiệm máu ẩn trong phân bằng sinh hóa miễn dịch dương tính |
+| Xét nghiệm máu ẩn trong phân bằng sinh hóa miễn dịch DNA dương tính |
+
+## 5.2. Chẩn đoán phân biệt
+
+Do triệu chứng chính thường dẫn bệnh nhân đến khám là chảy máu, sa trĩ và đau, đây là các triệu chứng có thể gặp trong nhiều bệnh khác nên ta cần chẩn đoán phân biệt với các bệnh như: nứt hậu môn, sa trực tràng, ung thư hậu môn trực tràng, polyp trực tràng.
 
 6. ĐIỀU TRỊ
 6.1. Nguyên tắc

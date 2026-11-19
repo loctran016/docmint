@@ -4969,56 +4969,6 @@ Khối u bụng được dùng để chỉ các loại u trong ổ bụng. Bọc
 
 NGOẠI KHOA CƠ SỞ
 
-# CÂU HỎI LƯỢNG GIÁ
-1. Theo sinh lý bệnh, bệnh nhân có hội chứng vàng da sau gan do u đầu tụy gây tắc mật sẽ có chỉ số Bilirubin như thế nào?
-A. Bilirubin trực tiếp tăng ưu thế
-B. Bilirubin gián tiếp tăng ưu thế
-C. Cả hai thành phần Bilirubin đều tăng như nhau
-D. Cả hai thành phần Bilirubin đều không thay đổi
-2. Biểu hiện nào sau đây là đặc hiệu cho vàng da tắc mật sau gan?
-A. Da vàng sậm
-B. Nước tiểu vàng sậm
-C. Phân bạc màu
-D. Ngứa
-3. Nguyên nhân nào sau đây KHÔNG thuộc nhóm vàng da trước gan?
-A. Hồng cầu hình liềm
-B. Thalassemia
-C. Cường lách
-D. Hội chứng Gilbert
-4. Đặc điểm nào sau đây KHÔNG ĐIỂN HÌNH cho trường hợp vàng da tắc mật do u:
-A. Sụt cân nhanh
-B. Ít khi nhiễm trùng
-C. Diễn tiến cấp tính, nặng nề
-D. Mức độ vàng da thường sậm
-5. Phương tiện hình ảnh nào sau đây có độ nhạy và độ đặc hiệu cao nhất trong chẩn đoán nguyên nhân vàng da tắc mật?
-A. Siêu âm
-B. CT scan
-C. MRI
-D. X-quang
-
-# KHỐI U BÙNG Nguyễn Tạ Quyết, Nguyễn Phúc Minh
-**MỤC TIÊU**
-1. Trình bày đặc điểm chính về giải phẫu học và giải phẫu học bề mặt các tạng trong khoang bụng.
-2. Nêu được phân loại, đặc điểm u bụng thường gặp.
-3. Trình bày các bước trong lưu đồ tiếp cận chẩn đoán u bụng.
-4. Hỏi được các triệu chứng liên quan đến khối u bụng.
-5. Thực hiện khám bụng để có chẩn đoán nguyên nhân u bụng.
-6. Chỉ định được cận lâm sàng phù hợp và giải thích kết quả để chẩn đoán u bụng.
-7. Hình thành ý thức về tầm quan trọng của việc chẩn đoán sớm khối u bụng.
-Từ khóa: U tân sinh, khối u bụng, u đặc, u nang, chụp cắt lớp vi tính, chụp động mạch chọn lọc.
-
-**1. KHÁI NIỆM**
-Khối tân sinh là một mảng tổ chức mới phát triển từ một nhóm tế bào bất thường, không còn sự kiểm soát của cơ thể, không thể phối hợp với tế bào của cấu trúc mô bình thường ở xung quanh. Khối tân sinh tiếp tục tự phát triển dù không còn tác nhân kích thích. Khối tân sinh có thể là loại lành tính, có khuynh hướng trở thành ác tính hay ung thư.
-
-[Hình: Minh họa vi thể khối u tân sinh]
-
-Hình 1. Minh họa vi thể khối u tân sinh.
-
-Khi khối tân sinh phát triển thành u, lúc đó khối tân sinh được gọi là u hay khối u.
-Khối u bụng được dùng để chỉ các loại u trong ổ bụng. Bọc hay nang dùng để gọi các tổn thương chứa dịch, đôi khi là máu hay mủ. U hay u đặc để gọi một tổn thương đặc hay thành phần đặc là chính yếu, và nang chiếm một phần nhỏ hay do phần đặc hoại tử dần tạo thành dịch. Đôi khi khối u bụng xuất hiện dưới dạng một túi khí như quai ruột dãn to chứa đầy khí, ví dụ quai đại tràng chậu hông dãn, manh tràng dãn.
-
-NGOẠI KHOA CƠ SỞ
-
 Nguyên nhân gây u bụng có thể xuất phát từ thành bụng, khoang phúc mạc và ngoài hay sau khoang phúc mạc; không bao gồm phần xương.
 
 **2. NGUYÊN NHÂN KHỐI U BỤNG**
