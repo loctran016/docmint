@@ -177,11 +177,15 @@ def prepare_chunks(meta, cookies, upgrade):
                 return chunks
         except (OSError, ValueError, KeyError):
             pass
-    print("  Tải audio bằng yt-dlp...")
-    src = tu.download_audio(meta["url"], vid, cookies, tu.AUDIO_DIR / "_dl")
+    if meta.get("audio_path"):
+        src = Path(meta["audio_path"])
+    else:
+        print("  Tải audio bằng yt-dlp...")
+        src = tu.download_audio(meta["url"], vid, cookies, tu.AUDIO_DIR / "_dl")
     print("  Nén và cắt audio bằng ffmpeg...")
     chunks = tu.compress_and_split(src, audio_dir)
-    src.unlink(missing_ok=True)
+    if not meta.get("audio_path"):
+        src.unlink(missing_ok=True)
     tu._atomic_json(manifest, {"chunks": [[p.name, d] for p, d in chunks]})
     return chunks
 
@@ -257,7 +261,18 @@ def run_groq_backend(args):
     slides_text = bt.load_slides(args.slides)
 
     try:
-        if tu.is_playlist_url(args.url):
+        if args.audio:
+            audio_path = Path(args.audio)
+            if not audio_path.is_file():
+                sys.exit(f"Không tìm thấy file audio: {audio_path}")
+            videos = [{
+                "id": safe_filename(audio_path.stem),
+                "title": args.title or audio_path.stem,
+                "duration": tu.ffprobe_duration(audio_path),
+                "url": f"file://{audio_path.resolve()}",
+                "audio_path": str(audio_path),
+            }]
+        elif tu.is_playlist_url(args.url):
             videos = tu.list_playlist(args.url, cookies)
             print(f"Playlist có {len(videos)} video.")
             if not videos:
@@ -289,6 +304,8 @@ def run_groq_backend(args):
 def parse_args():
     ap = argparse.ArgumentParser(description="Transcript video YouTube -> Markdown (Groq Whisper + Gemini)")
     ap.add_argument("--url", help="link video hoặc playlist (bỏ trống thì hỏi)")
+    ap.add_argument("--audio", help="file audio đã tải sẵn (dùng thay cho --url)")
+    ap.add_argument("--title", help="tiêu đề dùng cho file audio local")
     ap.add_argument("--lang", help="vi hoặc en (bỏ trống thì hỏi, mặc định vi)")
     ap.add_argument("--out", default="transcripts", help="thư mục kết quả (mặc định transcripts)")
     ap.add_argument("--backend", choices=["groq", "subs", "actions"], default="groq",
@@ -316,13 +333,13 @@ def main():
     args = parse_args()
     if args.whisper:
         args.backend = "actions"
-    if importlib.util.find_spec("yt_dlp") is None:
+    if not args.audio and importlib.util.find_spec("yt_dlp") is None:
         sys.exit("Không thấy yt-dlp. Chạy bằng 'uv run ...' (tự cài) hoặc: pip install yt-dlp")
 
     os.makedirs(args.out, exist_ok=True)
-    url = args.url or input("Nhập link video hoặc playlist YouTube: ").strip()
+    url = args.url or ("" if args.audio else input("Nhập link video hoặc playlist YouTube: ").strip())
     args.lang = args.lang or input("Ngôn ngữ chính của video (vi / en) [mặc định: vi]: ").strip() or "vi"
-    if not url:
+    if not url and not args.audio:
         sys.exit("Chưa có link video.")
     args.url = url
 
