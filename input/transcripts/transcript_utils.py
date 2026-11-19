@@ -82,7 +82,11 @@ MAX_CHUNK_BYTES = 20 * 1024 * 1024  # dưới giới hạn 25MB của Groq
 
 # Gọi yt-dlp bằng chính Python đang chạy: không phụ thuộc PATH (uv run, Windows, WSL đều được).
 YTDLP = [sys.executable, "-m", "yt_dlp"]
-YTDLP_CLIENT_ARGS = ["--extractor-args", "youtube:player_client=tv,mweb,web"]
+YTDLP_CLIENT_PROFILES = (
+    ["--remote-components", "ejs:github"],
+    ["--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=web_safari,web,mweb"],
+    ["--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=android,mweb"],
+)
 
 class PipelineError(Exception):
     """Lỗi có thể giải thích cho người dùng (thiếu ffmpeg, yt-dlp bị chặn, file hỏng...)."""
@@ -94,6 +98,18 @@ def run_cmd(cmd, check=True):
         tail = (r.stderr or r.stdout or "").strip().splitlines()[-6:]
         raise PipelineError(f"Lệnh lỗi ({os.path.basename(cmd[0])} {' '.join(cmd[1:3])}...): " + " | ".join(tail))
     return r
+
+
+def run_ytdlp(args):
+    """Thử các cấu hình client của yt-dlp thay vì phụ thuộc một cấu hình duy nhất."""
+    last_error = None
+    for profile in YTDLP_CLIENT_PROFILES:
+        try:
+            return run_cmd([*YTDLP, *profile, *args])
+        except PipelineError as e:
+            last_error = e
+            continue
+    raise PipelineError(f"Không trích xuất được YouTube sau khi thử nhiều client: {last_error}")
 
 
 def cookie_args(cookies_file=None, browser=None):
@@ -115,7 +131,7 @@ def is_playlist_url(url: str) -> bool:
 
 def fetch_metadata(url: str, cookies=()):
     """Metadata MỘT video (kể cả khi URL có &list=...). Trả về dict id, title, duration, url."""
-    r = run_cmd([*YTDLP, *YTDLP_CLIENT_ARGS, "--dump-single-json", "--skip-download", "--no-playlist", "--no-warnings", url, *cookies])
+    r = run_ytdlp(["--dump-single-json", "--skip-download", "--no-playlist", "--no-warnings", url, *cookies])
     try:
         d = json.loads(r.stdout)
     except json.JSONDecodeError as e:
@@ -126,7 +142,7 @@ def fetch_metadata(url: str, cookies=()):
 
 def list_playlist(url: str, cookies=()):
     """Danh sách video trong playlist: [{id, title, url}]."""
-    r = run_cmd([*YTDLP, *YTDLP_CLIENT_ARGS, "--flat-playlist", "--dump-single-json", "--no-warnings", url, *cookies])
+    r = run_ytdlp(["--flat-playlist", "--dump-single-json", "--no-warnings", url, *cookies])
     d = json.loads(r.stdout)
     out = []
     for e in d.get("entries") or []:
@@ -142,8 +158,7 @@ def download_audio(url: str, video_id: str, cookies=(), audio_dir=AUDIO_DIR):
     audio_dir.mkdir(parents=True, exist_ok=True)
     for old in audio_dir.glob(f"{video_id}.*"):
         old.unlink()
-    run_cmd([
-        *YTDLP, *YTDLP_CLIENT_ARGS,
+    run_ytdlp([
         "-f", "ba/b",
         "--no-playlist", "--no-warnings",
         "--sleep-interval", "2", "--max-sleep-interval", "5",
