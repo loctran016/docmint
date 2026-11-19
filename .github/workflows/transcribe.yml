@@ -60,7 +60,12 @@ jobs:
 
       - name: Install ffmpeg, yt-dlp, google-genai
         run: |
-          sudo apt-get update && sudo apt-get install -y ffmpeg
+          if ! command -v ffmpeg >/dev/null 2>&1 || ! command -v ffprobe >/dev/null 2>&1; then
+            curl -fsSL https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz \
+              | sudo tar -xJ --strip-components=2 -C /usr/local/bin --wildcards '*/bin/ffmpeg' '*/bin/ffprobe'
+          fi
+          ffmpeg -version | head -n 1
+          ffprobe -version | head -n 1
           pip install --upgrade pip "yt-dlp[default]" google-genai python-dotenv
 
       - name: Ghi cookies.txt từ secret (nếu có)

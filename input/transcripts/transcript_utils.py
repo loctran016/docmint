@@ -126,7 +126,7 @@ def fetch_metadata(url: str, cookies=()):
 
 def list_playlist(url: str, cookies=()):
     """Danh sách video trong playlist: [{id, title, url}]."""
-    r = run_cmd([*YTDLP, "--flat-playlist", "--dump-single-json", "--no-warnings", url, *cookies])
+    r = run_cmd([*YTDLP, *YTDLP_CLIENT_ARGS, "--flat-playlist", "--dump-single-json", "--no-warnings", url, *cookies])
     d = json.loads(r.stdout)
     out = []
     for e in d.get("entries") or []:
@@ -142,9 +142,18 @@ def download_audio(url: str, video_id: str, cookies=(), audio_dir=AUDIO_DIR):
     audio_dir.mkdir(parents=True, exist_ok=True)
     for old in audio_dir.glob(f"{video_id}.*"):
         old.unlink()
-    run_cmd([*YTDLP, *YTDLP_CLIENT_ARGS, "-f", "ba/b", "--no-playlist", "--no-warnings",
-             "-o", str(audio_dir / f"{video_id}.%(ext)s"), url, *cookies])
-    files = [p for p in audio_dir.glob(f"{video_id}.*") if p.suffix not in (".part", ".ytdl")]
+    run_cmd([
+        *YTDLP, *YTDLP_CLIENT_ARGS,
+        "-f", "ba/b",
+        "--no-playlist", "--no-warnings",
+        "--sleep-interval", "2", "--max-sleep-interval", "5",
+        "-o", str(audio_dir / f"{video_id}.%(ext)s"),
+        url, *cookies,
+    ])
+    files = [
+        p for p in audio_dir.glob(f"{video_id}.*")
+        if p.is_file() and p.suffix not in (".part", ".ytdl", ".temp")
+    ]
     if not files:
         raise PipelineError("yt-dlp không tải được audio (thử thêm cookies: YT_COOKIES_FILE hoặc YT_COOKIES_BROWSER).")
     return files[0]
