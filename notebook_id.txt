@@ -1,1 +1,2 @@
-bca108ca-125d-4c7f-b1b9-b6570f9c4add
+# Dán ID notebook (hoặc cả URL notebook) vào dòng dưới, xóa dấu # ở đầu dòng nếu có.
+# ID là đoạn cuối URL: https://notebooklm.google.com/notebook/<ID>

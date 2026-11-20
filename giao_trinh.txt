@@ -1,27 +1,16 @@
-# Mục lục đọc tự động từ NotebookLM ngày 19/11/2026 16:57
-# Dòng '## ...' là tên chương/phần (nhóm bài trong Obsidian). Mỗi dòng còn lại là một bài.
-# Có thể thêm sau tên bài: | lưu ý riêng | tn=15 | style=whiteboard ... hoặc xóa bài không cần.
+# GIÁO TRÌNH: danh sách chương và bài của sách, dùng chung cho mọi chức năng.
+# - Dòng "## Tên chương" (hoặc "# Chương 1 ...", "# Phần II ...") là tên chương/phần, dùng để nhóm bài trong Obsidian.
+# - Các dòng khác bắt đầu bằng # là chú thích. Mỗi dòng còn lại là MỘT BÀI, tên đúng như mục lục sách.
+# - Sau tên bài có thể thêm, cách nhau bằng dấu | (thứ tự nào cũng được):
+#     lưu ý riêng bằng chữ thường; cờ tomtat / khongtomtat / cauhoi / khongcauhoi (cho chức năng giảng bài);
+#     tùy chọn key=value: tn= tl= kho= (câu hỏi), style= orientation= ... (video, infographic).
+# - Mỗi chức năng đọc file riêng của nó trước (giang_bai.txt, cau_hoi.txt, mindmaps.txt, infographics.txt, videos.txt);
+#   file riêng chưa có bài nào thì dùng danh sách chung này.
+# - Mẹo: trong menu chọn "Kiểm tra sách" để NotebookLM tự đọc mục lục rồi ghi vào file này.
 
-## Phần I. MỘT SỐ VẤN ĐỀ CƠ BẢN
-Bài 1. NGOẠI KHOA: LỊCH SỬ VÀ TRIỂN VỌNG
-Bài 2. NHIỄM KHUẨN NGOẠI KHOA
-Bài 3. NGOẠI KHOA VÀ CÁC BỆNH MẠN TÍNH
-Bài 4. SÓC CHẤN THƯƠNG
-Bài 5. PHÒNG MỎ
-Bài 6. ĐÁNH GIÁ CHUẨN BỊ TRƯỚC PHẪU THUẬT
-Bài 7. PHỤ MỔ
+## CHƯƠNG 1: GIỚI THIỆU VỀ KHOA HỌC DINH DƯỠNG
+Bài 1. Dinh dưỡng và sức khỏe
+Liên hệ thực tế 1: Dinh dưỡng lâm sàng, định nghĩa, đào tạo, lịch sử | tóm gọn, không cần giảng sâu | khongcauhoi
 
-## Phần II. TIẾP CẬN CHẨN ĐOÁN THEO VẤN ĐỀ
-Bài 8. BỎNG
-Bài 9. NÔN ÓI
-Bài 10. NUỐT KHÓ
-Bài 11. ĐAU BỤNG CẤP
-Bài 12. BÍ TRUNG ĐẠI TIỆN
-Bài 13. CHẤN THƯƠNG VÀ VẾT THƯƠNG BỤNG
-Bài 14. XUẤT HUYẾT TIÊU HÓA
-Bài 15. VÀNG DA
-Bài 16. KHỐI U BỤNG
-Bài 17. KHỐI PHỒNG VÙNG BẸN, BÌU
-Bài 18. THAN PHIỀN VÙNG HẬU MÔN
-Bài 19. HỘI CHỨNG CHẢY MÁU TRONG Ổ BỤNG
-Bài 20. VIÊM PHÚC MẠC
+## CHƯƠNG 2: CÁC DƯỠNG CHẤT TRONG DINH DƯỠNG
+Bài 2. Carbohydrate, lipid, protid | giảng kỹ phần chuyển hóa và so sánh các nhóm chất

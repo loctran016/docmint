@@ -43,8 +43,8 @@ sau 2 lần thử lại trên Flash-Lite, hoặc (2) mọi Flash-Lite của mọ
 API: dùng v1 cho model ổn định, v1beta chỉ cho model preview, Gemma, gemini-3-flash, gemini-2.5-flash-lite.
 RECITATION (luồng thống nhất, giống nhau ở mọi model và key): (1) nhóm nhiều trang thì tách thành 1 trang/request;
 (2) MỘT lần nhánh fallback trên Gemini: ảnh biến đổi nhẹ (xoay -0,4 độ, crop 2px, xoay 0,8 độ) + chèn [§] sau mỗi 4-5 từ,
-rồi xóa [§] sau khi nhận; (3) vẫn bị từ chối và có GROQ_API_KEYS thì gửi ảnh gốc sang Groq Vision (llama-4-maverick, rồi
-llama-4-scout), ghi nguồn groq/... và liệt kê các trang đó (_recitation_groq_fallback trong sources.json); nếu vẫn không
+rồi xóa [§] sau khi nhận; (3) vẫn bị từ chối và có GROQ_API_KEYS thì gửi ảnh gốc sang Groq Vision (mặc định qwen/qwen3.8-27b, đổi bằng
+GROQ_MODELS), ghi nguồn groq/... và liệt kê các trang đó (_recitation_groq_fallback trong sources.json); nếu vẫn không
 được thì báo "chưa chép được".
 Trang chưa xong vì lỗi tạm thời / quá tải được làm lại nhiều vòng (--retry-rounds, --retry-wait) cho tới khi xong,
 hết quota ngày, hoặc chạm --max-runtime.

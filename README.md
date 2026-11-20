@@ -22,6 +22,7 @@ Chạy được trên **WSL Ubuntu** và **Windows** (và macOS ở mức cơ b�
 12. [PDF → Markdown bằng Gemini (mục [15])](#12-pdf--markdown-bằng-gemini-menu-mục-15)
 13. [Nguồn giáo viên: transcript, slide, giảng theo nguồn (mục [16])](#13-nguồn-giáo-viên-menu-mục-16)
 14. [Giảng bài / câu hỏi tự động trên GitHub Actions](#14-giảng-bài--câu-hỏi-tự-động-trên-github-actions)
+15. [Biên tập văn phong (menu mục [17])](#15-biên-tập-văn-phong-menu-mục-17)
 
 ---
 
@@ -73,6 +74,7 @@ bash menu.sh
 │ [8] Tạo Mindmap                                                │
 │ [9] Tạo Infographic                                            │
 │ [10] Tạo Video                                                 │
+│ [17] Biên tập văn phong (lớp viết lại bài giảng)               │
 │                        ────────────────                        │
 │ [11] Obsidian: đồng bộ vào vault                               │
 │ [12] Đặt ID notebook                                           │
@@ -558,7 +560,7 @@ PDF đầu vào có thể là bản gốc trong `input_pdfs/` hoặc bản đã 
 - **Key trả phí (chốt chặn cuối):** đặt `GEMINI_PAID_API_KEY` trong `.env` rồi chạy với `--allow-paid` (hoặc bật mục `[13]` trong menu `[15]`). Chỉ dùng khi mọi cặp key miễn phí đã khóa cứng vì hết quota ngày; mỗi lần chạy tối đa `--paid-max-pages` trang (mặc định 300, có thể vượt vài trang vì gộp batch); model mặc định `gemini-3.1-flash-lite`, đổi bằng `--paid-model`. Cuối phiên script in số trang, số request và số token đã dùng trên key trả phí. Mặc định TẮT.
 - **Ghi nguồn từng trang:** file `output_md/.pages/<sách>/sources.json` ghi model đã chép từng trang; cuối mỗi sách log in tổng hợp theo model. Khi quota model tốt hơn hồi lại, `--redo-models gemini-3.1-flash-lite` làm lại riêng các trang do model đó chép.
 - **Trang chụp thiếu sáng:** tự đo độ sáng từng trang; trang tối được tăng tương phản mạnh hơn (`--dark-threshold`, đặt 0 để tắt). Ảnh gửi đi dùng `media_resolution` cao; model nào từ chối tham số này thì tự bỏ.
-- **RECITATION (Gemini từ chối chép):** một luồng chung cho mọi model và key. (1) Nhóm nhiều trang dính thì tách thành 1 trang/request. (2) Chạy **một lần** nhánh fallback trên Gemini: ảnh biến đổi nhẹ (xoay -0,4 độ, crop 2px, xoay 0,8 độ) và prompt yêu cầu chèn `[§]` sau mỗi 4 đến 5 từ để phá chuỗi trùng khớp; sau khi nhận, script xóa `[§]` và chuẩn hóa khoảng trắng. (3) Vẫn bị từ chối và có `GROQ_API_KEYS`: gửi ảnh gốc sang Groq Vision (`llama-4-maverick`, rồi `llama-4-scout`) với prompt chép nguyên văn. Nguồn trang ghi là `groq/...`, các trang đó nằm trong `_recitation_groq_fallback` của `sources.json` và được liệt kê cuối mỗi sách và cuối phiên chạy để bạn lướt kiểm tra lại dấu tiếng Việt. (4) Không có Groq hoặc Groq cũng không chép được: trang được báo "chưa chép được" và để lại cho lần chạy sau. Đặt key Groq bằng mục `[15]` trong menu `[15]` hoặc dòng `GROQ_API_KEYS=` trong `.env`; `--no-groq` để tắt, `GROQ_MODELS` để đổi model.
+- **RECITATION (Gemini từ chối chép):** một luồng chung cho mọi model và key. (1) Nhóm nhiều trang dính thì tách thành 1 trang/request. (2) Chạy **một lần** nhánh fallback trên Gemini: ảnh biến đổi nhẹ (xoay -0,4 độ, crop 2px, xoay 0,8 độ) và prompt yêu cầu chèn `[§]` sau mỗi 4 đến 5 từ để phá chuỗi trùng khớp; sau khi nhận, script xóa `[§]` và chuẩn hóa khoảng trắng. (3) Vẫn bị từ chối và có `GROQ_API_KEYS`: gửi ảnh gốc sang Groq Vision (mặc định `qwen/qwen3.8-27b`, đổi bằng `GROQ_MODELS`) với prompt chép nguyên văn. Nguồn trang ghi là `groq/...`, các trang đó nằm trong `_recitation_groq_fallback` của `sources.json` và được liệt kê cuối mỗi sách và cuối phiên chạy để bạn lướt kiểm tra lại dấu tiếng Việt. (4) Không có Groq hoặc Groq cũng không chép được: trang được báo "chưa chép được" và để lại cho lần chạy sau. Đặt key Groq bằng mục `[15]` trong menu `[15]` hoặc dòng `GROQ_API_KEYS=` trong `.env`; `--no-groq` để tắt, `GROQ_MODELS` để đổi model.
 - **Thử lại nhiều vòng:** trang chưa xong vì lỗi tạm thời, quá tải hoặc phản hồi rỗng được làm lại nhiều vòng (`--retry-wait`, mặc định chờ 120 giây nhân số vòng, tối đa 600) cho tới khi xong, hết quota ngày, hoặc chạm `--max-runtime`. Không có `--max-runtime` thì tối đa 5 vòng (`--retry-rounds`). Trang bị RECITATION không thử lại trong vòng này.
 - **Kiểm tra chất lượng offline (không dùng AI):** sau khi gộp file, và khi script nghỉ chờ quota từ 2 phút trở lên (chỉ khi có trang mới), script quét các trang đã xong và in cảnh báo ra log, đồng thời lưu vào mục `_warnings` của `sources.json`. Không tự sửa file, không gọi API. Gồm: trang ngắn bất thường, lặp dòng liên tiếp từ 3 lần, trang có từ 3 thẻ `[không rõ]` (`--max-unclear`), và chính tả: tiếng Việt kiểm tra từng âm tiết theo quy tắc ngữ âm (bắt lỗi mất dấu như `hoc` thay `học`, `tiêt` thay `tiết`, dấu sai, ký tự dính), tiếng Anh dùng từ điển `pyspellchecker`, thuật ngữ y khoa lấy từ `medical_terms.txt` (thêm từ bạn thấy bị báo nhầm). Tên riêng viết hoa giữa câu, từ viết tắt in hoa và từ có đuôi y khoa phổ biến (`-itis`, `-osis`...) được bỏ qua. Tắt bằng `--no-quality` hoặc `--no-spell`; `--merge-only` chạy lại riêng bước này mà không gọi API. Chưa tích hợp LanguageTool và Harper.
 - **Prompt:** thêm quy tắc nối chữ cái phóng to đầu đoạn (drop cap), đọc xuyên vệt dạ quang, bỏ chữ ngược hằn từ mặt sau, bỏ watermark scan, số trang đứng riêng và nét bút ở lề.
@@ -634,3 +636,28 @@ Workflow **ghi đè `giang_bai.txt`** trên máy chạy bằng danh sách này (
 - Release của repo public ai cũng tải được, nên nếu bài giảng sinh từ sách có bản quyền thì dùng repo private.
 - Release `giang-...`, `hoi-...` tích dần theo từng lần chạy, bạn xoá bớt tay khi muốn. Đừng xoá `giang-progress`.
 - OCR và PDF → Markdown vẫn chạy trên máy bạn (menu `[3]`, `[4]`, `[15]`), không còn workflow OCR trên GitHub.
+
+---
+
+## 15. Biên tập văn phong (menu mục [17])
+
+NotebookLM rất giỏi lôi đúng dữ kiện từ sách nhưng văn phong rời rạc, nhiều gạch đầu dòng. Lớp này viết lại bài giảng thô thành văn phong sách giáo khoa bằng API riêng, **tách biệt** khỏi bước hút dữ liệu (không đụng tới phiên đăng nhập NotebookLM).
+
+```
+ket_qua/giang_bai/*.md   (thô, KHÔNG bị sửa)  ->  ket_qua/raw/       bản thô được sao lưu, không ghi đè
+                                              ->  ket_qua/polished/  bản đã biên tập (+ _bao_cao.md)
+```
+
+Chạy: menu `[17]`, hoặc `uv run bien_tap.py` (`--test` thử 2 phần đầu và in ra, `--match` chọn file, `--force` bỏ cache).
+
+**Cách để không sót ý**
+- Cắt theo từng mục `## `, rồi cắt tiếp thành phần khoảng 700 từ (`--max-words`); mỗi lần gọi chỉ biên tập một phần. Bảng, khối mã, `[[wikilink]]` được giữ nguyên.
+- **Kiểm tra số liệu:** mọi con số trong bản thô phải còn trong bản viết lại (bỏ qua số thứ tự gạch đầu dòng và số trích dẫn `[1]`). Thiếu thì thử lại một lần kèm danh sách số bị rơi; vẫn thiếu thì **giữ bản thô của phần đó** và ghi vào báo cáo.
+- Prompt cố định qua `system_instruction`: file khung văn phong `bien_tap_style.md` (bạn sửa cho khớp bài mẫu của mình) cộng quy tắc cấm tóm tắt luôn được thêm ở cuối.
+- Cuối mỗi mục thêm dòng `#### 📌 Tóm ý mục N:` (tắt bằng `--no-summary` hoặc mục `[9]` trong menu).
+- Gemini từ chối (RECITATION) hoặc trả rỗng: thử Groq (`GROQ_API_KEYS`, model văn bản `GROQ_TEXT_MODELS`, mặc định `openai/gpt-oss-120b`, tên chưa kiểm chứng); không được thì giữ bản thô.
+- Kết quả từng phần được cache trong `.cache/bien_tap/`; chạy dở có thể chạy lại tiếp, đổi file khung văn phong thì tự làm lại.
+
+**Model:** mặc định `gemini-3.8-flash`, `gemini-3.6-flash`, rồi `gemini-3.5-flash-lite`, `gemini-3.1-flash-lite` (đổi bằng `BIEN_TAP_MODEL` hoặc `--model`). Flash lớn đứng trước vì Flash-Lite dễ viết lướt. Mức suy luận `--thinking medium` (minimal, low, medium, high): script chỉ gửi tham số nếu SDK hỗ trợ và tự bỏ nếu model từ chối; mình chưa kiểm chứng với từng model.
+
+**Backend web (tuỳ chọn, `--backend web`):** dùng thư viện không chính thức `gemini-webapi` với cookie tài khoản Google để tận dụng gói Pro. Chạy bằng `uv run --with gemini-webapi bien_tap.py --backend web` (cần Python 3.11 trở lên), đặt `GEMINI_SECURE_1PSID` và `GEMINI_SECURE_1PSIDTS` trong `.env`. Mỗi lần gọi dùng `temporary=True` nên không làm rác lịch sử chat; `--gem "tên"` để dùng Gem. Chạy tuần tự, nghỉ 15 đến 25 giây giữa các lần. Chỉ nên chạy trên máy cá nhân, không đưa cookie lên GitHub Actions; thư viện này không do Google hỗ trợ nên có thể hỏng khi giao diện web đổi, và việc dùng nó có rủi ro với tài khoản. Phần này mình viết theo README của thư viện, chưa chạy thật.

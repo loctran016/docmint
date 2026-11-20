@@ -8,7 +8,7 @@ Menu tổng hợp cho bộ công cụ NotebookLM. Chạy được trên WSL/Linu
     uv run menu.py          (hoặc: bash menu.sh  /  nhấp đúp menu.cmd trên Windows)
 
 Mọi input/output nằm trong thư mục toolkit (hoặc thư mục đầu ra bạn đặt, ví dụ vault Obsidian).
-Mục [15] gọi process_book.py (PDF scan -> Markdown bằng Gemini).
+Mục [15] gọi process_book.py (PDF scan -> Markdown bằng Gemini). Mục [17] là lớp biên tập văn phong (bien_tap.py).
 """
 import getpass
 import json
@@ -33,9 +33,11 @@ if IS_WIN:
 SETTINGS_FILE = HERE / ".menu_settings.json"
 DEFAULTS = {"strip": 0, "fm": 0, "obs": 0, "quiz_mode": "md", "quiz_fmt": "markdown",
             "mm_kind": "interactive", "book": "Sách giáo khoa", "out_root": "ket_qua",
-            "md_split": 0, "md_model": "", "md_out": "", "md_paid": 0}
+            "md_split": 0, "md_model": "", "md_out": "", "md_paid": 0,
+            "bt_backend": "api", "bt_model": "", "bt_thinking": "medium", "bt_summary": 1}
 CHOICES = {"quiz_mode": ("md", "quiz", "both"), "quiz_fmt": ("markdown", "json", "html"),
-           "mm_kind": ("interactive", "note-backed")}
+           "mm_kind": ("interactive", "note-backed"), "bt_backend": ("api", "web"),
+           "bt_thinking": ("minimal", "low", "medium", "high")}
 
 
 def load_settings():
@@ -45,7 +47,7 @@ def load_settings():
         s.update({k: v for k, v in data.items() if k in DEFAULTS})
     except Exception:  # noqa: BLE001
         pass
-    for k in ("strip", "fm", "obs", "md_split", "md_paid"):
+    for k in ("strip", "fm", "obs", "md_split", "md_paid", "bt_summary"):
         s[k] = 1 if s[k] in (1, True, "1") else 0
     for k, allowed in CHOICES.items():
         if s[k] not in allowed:
@@ -56,6 +58,8 @@ def load_settings():
         s["out_root"] = DEFAULTS["out_root"]
     if not re.fullmatch(r"[A-Za-z0-9._,-]*", str(s["md_model"])):
         s["md_model"] = ""
+    if not re.fullmatch(r"[A-Za-z0-9._,-]*", str(s["bt_model"])):
+        s["bt_model"] = ""
     s["md_out"] = str(s["md_out"] or "")
     return s
 
@@ -943,7 +947,8 @@ def main_menu():
                 "8": lambda: feature_menu("mindmap"), "9": lambda: feature_menu("infographic"),
                 "10": lambda: feature_menu("video"), "11": obsidian_menu, "12": set_id,
                 "13": status, "14": open_menu, "15": md_menu,
-                "16": lambda: exec_uv("menu_nguon_gv.py")}
+                "16": lambda: exec_uv("menu_nguon_gv.py"),
+                "17": lambda: exec_uv("menu_bien_tap.py")}
     while True:
         clear()
         has_login = (Path.home() / ".notebooklm").exists()
@@ -965,6 +970,7 @@ def main_menu():
             "8|Tạo Mindmap",
             "9|Tạo Infographic",
             "10|Tạo Video",
+            "17|Biên tập văn phong (lớp viết lại bài giảng)",
             "SEP",
             "11|Obsidian: đồng bộ vào vault",
             "12|Đặt ID notebook",
@@ -972,7 +978,7 @@ def main_menu():
             "14|Mở thư mục",
             "SEP",
             "0|Thoát"])
-        ch = ask("  Nhập lựa chọn của bạn [0-16] : ").lower()
+        ch = ask("  Nhập lựa chọn của bạn [0-17] : ").lower()
         if ch in ("0", "q"):
             print()
             return

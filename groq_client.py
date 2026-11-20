@@ -16,7 +16,8 @@ import urllib.error
 import urllib.request
 
 ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
-DEFAULT_MODELS = ["qwen/qwen3.8-27b"]
+DEFAULT_MODELS = ["qwen/qwen3.8-27b"]  # model Groq Vision mặc định (đổi bằng GROQ_MODELS)
+TEXT_MODELS = ["openai/gpt-oss-120b"]  # model văn bản dự phòng cho lớp biên tập (đổi bằng GROQ_TEXT_MODELS), tên chưa kiểm chứng
 MAX_B64 = 3_500_000  # Groq giới hạn ảnh base64 khoảng 4MB mỗi request
 USER_AGENT = "docmint/1.0"  # User-Agent mặc định của urllib bị Cloudflare phía Groq chặn (lỗi 1010)
 
@@ -152,4 +153,44 @@ class GroqPool:
                 self._sleep(min(max(soonest - self._now(), 1.0), 60.0))
                 continue
             break
+        return None, "", note
+
+    def chat_text(self, system_prompt: str, user_text: str, models: list[str] | None = None,
+                  max_tokens: int = 8192) -> tuple[str | None, str, str]:
+        """Gọi mô hình văn bản (không ảnh). Dùng làm dự phòng khi Gemini từ chối biên tập vì RECITATION.
+        Trả về (văn bản hoặc None, model đã dùng, ghi chú lỗi)."""
+        note = "không có key/model nào dùng được"
+        for model in (models or TEXT_MODELS):
+            payload = {"model": model, "temperature": 0.2, "max_tokens": max_tokens,
+                       "messages": [{"role": "system", "content": system_prompt},
+                                    {"role": "user", "content": user_text}]}
+            for key in self.keys:
+                if key in self.bad or self.cool.get((key, model), 0.0) > self._now():
+                    continue
+                for attempt in range(2):
+                    status, body, retry = self._post(key, payload)
+                    if status != 0 and status < 500:
+                        break
+                    if attempt == 0:
+                        self._sleep(5)
+                msg = (body.get("error") or {}).get("message", "") if isinstance(body, dict) else ""
+                if status == 200:
+                    try:
+                        choice = body["choices"][0]
+                        text = (choice["message"].get("content") or "").strip()
+                    except Exception:  # noqa: BLE001
+                        text = ""
+                    if text and choice.get("finish_reason") != "length":
+                        return text, model, ""
+                    note = f"{model}: phản hồi rỗng hoặc bị cắt"
+                    continue
+                if status == 429:
+                    self.cool[(key, model)] = self._now() + (retry if retry else 30.0)
+                    note = f"{model}: 429 giới hạn"
+                    continue
+                if status in (401, 403):
+                    self.bad.add(key)
+                    note = f"key bị từ chối ({status})"
+                    continue
+                note = f"{model}: lỗi {status} {msg[:100]}"
         return None, "", note
