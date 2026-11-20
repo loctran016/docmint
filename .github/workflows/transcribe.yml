@@ -1,16 +1,19 @@
-name: Medical Video Transcribe (Groq Whisper + Gemini)
+name: Medical Audio Transcribe (Groq Whisper + Gemini)
 
-# Luồng mới: yt-dlp tải audio -> ffmpeg nén/cắt -> Groq Whisper -> Gemini làm sạch thuật ngữ -> artifact.
-# Bản Faster-Whisper cũ nằm ở transcribe_faster_whisper.yml.
-# Secrets: GROQ_API_KEYS, GEMINI_API_KEYS (cách nhau dấu phẩy); tuỳ chọn YT_COOKIES_TXT (nội dung cookies.txt của
-# tài khoản Google PHỤ) nếu YouTube chặn IP của GitHub hoặc video ở chế độ Không công khai.
+# Audio được tải lên một GitHub Release trước; workflow chỉ nén/cắt -> Groq Whisper -> Gemini -> artifact.
+# Secrets: GROQ_API_KEYS, GEMINI_API_KEYS (cách nhau dấu phẩy).
 
 on:
   workflow_dispatch:
     inputs:
-      youtube_url:
-        description: "Link video hoặc playlist YouTube y khoa"
+      audio_release:
+        description: "Tag GitHub Release chứa các file audio đã tải ở máy local"
         required: true
+        type: string
+      audio_pattern:
+        description: "Glob chọn audio trong Release (ví dụ *.m4a hoặc *.mp3)"
+        required: true
+        default: "*.m4a"
         type: string
       lang:
         description: "Ngôn ngữ chính (vi hoặc en)"
@@ -29,13 +32,13 @@ on:
 jobs:
   transcribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     env:
-      VIDEO_URL: ${{ github.event.inputs.youtube_url }}
       VIDEO_LANG: ${{ github.event.inputs.lang }}
       UPGRADE: ${{ github.event.inputs.upgrade_stt }}
       GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }}
       GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
-      YT_COOKIES_TXT: ${{ secrets.YT_COOKIES_TXT }}
       PYTHONUNBUFFERED: "1"
       PYTHONUTF8: "1"
     steps:
@@ -47,9 +50,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Set up Deno (JS runtime cho yt-dlp)
-        uses: denoland/setup-deno@v2
-
       - name: Restore transcript cache
         uses: actions/cache@v4
         with:
@@ -58,7 +58,20 @@ jobs:
           restore-keys: |
             transcript-cache-
 
-      - name: Install ffmpeg, yt-dlp, google-genai
+      - name: Download audio from GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AUDIO_RELEASE: ${{ github.event.inputs.audio_release }}
+          AUDIO_PATTERN: ${{ github.event.inputs.audio_pattern }}
+        run: |
+          mkdir -p audio_input
+          gh release download "$AUDIO_RELEASE" --pattern "$AUDIO_PATTERN" --dir audio_input --clobber
+          find audio_input -type f -print -quit | grep -q . || {
+            echo "::error::Không tìm thấy file audio trong Release."
+            exit 1
+          }
+
+      - name: Install ffmpeg and google-genai
         run: |
           if ! command -v ffmpeg >/dev/null 2>&1 || ! command -v ffprobe >/dev/null 2>&1; then
             curl -fsSL https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz \
@@ -66,37 +79,25 @@ jobs:
           fi
           ffmpeg -version | head -n 1
           ffprobe -version | head -n 1
-          pip install --upgrade pip "yt-dlp[default]" google-genai python-dotenv
-
-      - name: Ghi cookies.txt từ secret (nếu có)
-        run: |
-          if [ -n "$YT_COOKIES_TXT" ]; then
-            TRIMMED="${YT_COOKIES_TXT#"${YT_COOKIES_TXT%%[![:space:]]*}"}"
-            TRIMMED="${TRIMMED//$'\r'/}"
-            TRIMMED="${TRIMMED//$'\xef\xbb\xbf'/}"
-            if [[ "$TRIMMED" == "# Netscape HTTP Cookie File"* ]] || [[ "$TRIMMED" == "# HTTP Cookie File"* ]]; then
-              printf '%s\n' "$TRIMMED" | tr -d '\r' > "$RUNNER_TEMP/cookies.txt"
-            else
-              printf '%s' "$TRIMMED" | tr -d '\r\n ' | base64 --decode > "$RUNNER_TEMP/cookies.txt"
-            fi
-            test -s "$RUNNER_TEMP/cookies.txt"
-            if ! awk 'BEGIN { cookies=0 } !/^#/ && NF >= 7 { cookies=1 } END { exit(cookies ? 0 : 1) }' "$RUNNER_TEMP/cookies.txt"; then
-              echo "::error::YT_COOKIES_TXT is not a valid Netscape cookies.txt file."
-              rm -f "$RUNNER_TEMP/cookies.txt"
-              exit 1
-            fi
-            echo "YT_COOKIES_FILE=$RUNNER_TEMP/cookies.txt" >> "$GITHUB_ENV"
-          fi
+          pip install --upgrade pip google-genai python-dotenv
 
       - name: Transcribe (Groq Whisper + Gemini)
         run: |
-          ARGS=(--url "$VIDEO_URL" --lang "$VIDEO_LANG" --out transcript_out)
-          [ "$UPGRADE" = "true" ] && ARGS+=(--upgrade-stt)
-          python input/transcripts/get_medical_transcript.py "${ARGS[@]}"
-
-      - name: Xóa cookies
-        if: always()
-        run: rm -f "$RUNNER_TEMP/cookies.txt"
+          shopt -s nullglob
+          files=(audio_input/*)
+          for audio in "${files[@]}"; do
+            case "$audio" in
+              *.m4a|*.mp3|*.wav|*.ogg|*.opus|*.webm)
+                ARGS=(--audio "$audio" --lang "$VIDEO_LANG" --out transcript_out)
+                [ "$UPGRADE" = "true" ] && ARGS+=(--upgrade-stt)
+                python input/transcripts/get_medical_transcript.py "${ARGS[@]}"
+                ;;
+            esac
+          done
+          compgen -G 'transcript_out/*.md' >/dev/null || {
+            echo "::error::Release không chứa định dạng audio được hỗ trợ."
+            exit 1
+          }
 
       - name: Upload result
         if: always()

@@ -57,9 +57,36 @@ def need_key():
 # ------------------------------------------------------------------ các việc
 def do_transcript():
     m.clear()
-    print(f"{m.B}== Transcript từ video YouTube =={m.R}")
-    print("  Mặc định: tải audio, chép bằng Groq Whisper, rồi Gemini làm sạch thuật ngữ y khoa.")
-    print("  Cần GROQ_API_KEYS (và ffmpeg). Link playlist cũng được.\n")
+    print(f"{m.B}== Transcript audio / video =={m.R}")
+    print("  Chép bằng Groq Whisper, rồi Gemini làm sạch thuật ngữ y khoa.")
+    print("  Cần GROQ_API_KEYS (và ffmpeg).\n")
+    source = choose("Nguồn audio:", {
+        "1": ("File audio đã tải sẵn (.m4a / .mp3)", "audio"),
+        "2": ("Video hoặc playlist YouTube", "youtube"),
+    })
+    if not source:
+        return
+    if source == "audio":
+        audio = m.ask("  Đường dẫn file audio (Enter để hủy): ")
+        if not audio:
+            return
+        lang = m.ask("  Ngôn ngữ (vi / en) [vi]: ") or "vi"
+        out = m.ask("  Thư mục kết quả [transcript_out]: ") or "transcript_out"
+        title = m.ask("  Tiêu đề (Enter = tên file): ")
+        if not m.has_groq_key():
+            print(f"  {m.RD}Chưa có GROQ_API_KEYS.{m.R} Đặt trong .env hoặc menu chính [15].")
+            m.pause()
+            return
+        args = ["--audio", audio, "--lang", lang, "--out", out]
+        if title:
+            args += ["--title", title]
+        if yes("Chép lại audio, bỏ cache cũ?"):
+            args.append("--upgrade-stt")
+        m.exec_uv("input/transcripts/get_medical_transcript.py", *args)
+        m.pause()
+        return
+
+    print("  Link playlist cũng được.\n")
     url = m.ask("  Link video hoặc playlist YouTube (Enter để hủy): ")
     if not url:
         return

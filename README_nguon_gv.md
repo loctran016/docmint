@@ -142,18 +142,18 @@ uv run output/generate_artifacts.py mindmap "Sinh lý gan" --source giaovien
 Kết quả trong `ket_qua/artifacts_nguon/<loại>/`. Script tải đúng artifact vừa tạo (theo `artifact_id`). Hạn mức tạo nội dung tuỳ gói tài khoản.
 
 **Menu phụ:** `uv run menu_nguon_gv.py` gom các bước A đến E (hỏi từng thông tin, có chế độ `--dry-run`/`--test`).
+Trong menu phụ, mục transcript cho phép chọn file audio đã tải sẵn hoặc video/playlist YouTube; vì vậy không cần tự gõ lệnh `get_medical_transcript.py --audio ...`. Có thể mở menu bằng `menu.sh`, `menu.cmd`, hoặc chọn mục `[16]` trong `menu.py`.
 
 ## 6. GitHub Actions
 
 1. Đẩy `.github/workflows/*.yml` lên repo GitHub của bạn, bật Actions.
-2. **transcribe.yml** (Groq Whisper + Gemini): cần secret `GROQ_API_KEYS` và `GEMINI_API_KEYS`. Chạy từ máy bằng `--backend actions` (cần `gh auth login`), hoặc bấm tay trong tab Actions. Kết quả là artifact `medical-transcript`.
-   - Nếu YouTube chặn IP của GitHub ("Sign in to confirm you're not a bot") hoặc video ở chế độ Không công khai: tạo secret `YT_COOKIES_TXT` chứa nội dung file `cookies.txt` (định dạng Netscape) của một tài khoản Google PHỤ. Workflow ghi ra file tạm, truyền cho yt-dlp rồi xóa.
+2. **transcribe.yml** (Groq Whisper + Gemini): cần secret `GROQ_API_KEYS` và `GEMINI_API_KEYS`. Tải audio bằng yt-dlp trên máy local, đẩy các file `.m4a`/`.mp3` lên một GitHub Release, rồi bấm workflow và nhập tag Release cùng glob audio (mặc định `*.m4a`). Kết quả là artifact `medical-transcript`. GitHub Actions không truy cập YouTube.
 3. **giang_bai.yml** (giảng bài từ iPhone, tuỳ chọn): tạo secret `NOTEBOOKLM_AUTH_JSON` = nội dung `storage_state.json` (đăng nhập bằng `notebooklm login`), và secret `NOTEBOOKLM_NOTEBOOK` (hoặc điền ID khi bấm chạy). Workflow kiểm tra đăng nhập trước khi chạy rồi tải kết quả về dạng artifact `giang-bai`. Cookie hết hạn thì cập nhật secret, khoảng 1 đến 2 tuần một lần. Nên dùng tài khoản Google riêng cho việc này.
 
 ## 7. Điểm chưa kiểm chứng
 
 - **Tên model Gemini:** mặc định `gemini-3.8-flash,gemini-3.6-flash` theo trang model của Google tại thời điểm viết; có thể đã đổi. Dùng `uv run process_book.py --list-models`, rồi sửa `GEMINI_MODEL` trong `.env` cho khớp `process_book.py`. Script slide tự bỏ qua model không tồn tại hoặc hết quota ngày.
-- **YouTube chặn Actions / video Unlisted:** hay xảy ra; cách xử lý dự phòng là cookie (`YT_COOKIES_TXT` trên Actions, `YT_COOKIES_BROWSER` hoặc `YT_COOKIES_FILE` trên máy). Chưa được thử thật. Chạy trên máy cá nhân thường ít bị chặn hơn.
+- **Audio cho Actions:** nên tải trên máy cá nhân rồi đưa lên GitHub Release; workflow chỉ nhận các định dạng audio được hỗ trợ và gửi chúng đến Groq Whisper.
 - **Groq Whisper:** tên model `whisper-large-v3`, `whisper-large-v3-turbo` và định dạng gọi API (multipart, `verbose_json`) mình viết theo chuẩn OpenAI-compatible, chưa gọi Groq thật. Hạn mức miễn phí bạn nên tự kiểm tra. Whisper với video có nhiều khoảng lặng đôi khi sinh câu lặp hoặc chữ thừa; bước Gemini không tự phát hiện việc này.
 - **Faster-Whisper (bản cũ):** chỉ còn trong `transcribe_faster_whisper.yml` và mode `whisper` của `build_transcript.py`; chưa được thử và có thể rất lâu trên CPU Actions.
 - **Tìm lần chạy vừa kích hoạt:** `get_medical_transcript.py` so sánh danh sách run trước và sau khi kích hoạt thay vì lấy run mới nhất; vẫn có thể nhầm nếu bạn bấm nhiều lần cùng lúc.
