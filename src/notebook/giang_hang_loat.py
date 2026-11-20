@@ -64,7 +64,7 @@ def parse_args():
 async def main():
     args = parse_args()
     nb = resolve_notebook(args.notebook_id)
-    list_path, items = common.resolve_list(["giang_bai.txt"], args.file)
+    list_path, items = common.resolve_list([common.GIANG_BAI_FILE.name], args.file)
     print(f"Danh sách đang dùng: {list_path} ({len(items)} bài) | chế độ: {MODE_LABEL[args.mode]}")
 
     root = common.get_out_root(args.out_root)

@@ -45,8 +45,8 @@ def ocr_command():
 
 def main():
     ap = argparse.ArgumentParser(description="OCR hàng loạt PDF")
-    ap.add_argument("input_dir", nargs="?", default=str(common.DEFAULT_INPUT_PDFS))
-    ap.add_argument("output_dir", nargs="?", default=str(common.DEFAULT_OUTPUT_OCR))
+    ap.add_argument("input_dir", nargs="?", default=str(common.INPUT_PDFS_DIR))
+    ap.add_argument("output_dir", nargs="?", default=str(common.OUTPUT_OCR_DIR))
     ap.add_argument("--langs", default=os.environ.get("OCR_LANGS", "vie+eng"),
                     help="ngôn ngữ OCR (mặc định vie+eng)")
     ap.add_argument("--jobs", type=int,

@@ -51,7 +51,7 @@ IGNORED_KEYS = {"tn", "tl", "kho"}   # key dành cho chức năng tạo câu h�
 
 KINDS = {
     "mindmap": {
-        "label": "Mindmap", "feature_files": ["mindmaps.txt"], "out_name": "mindmap",
+        "label": "Mindmap", "feature_files": [common.MINDMAPS_FILE.name], "out_name": "mindmap",
         "ext": "json", "timeout": 600, "tag": "mindmap",
         "prompt": ("Hãy tạo sơ đồ tư duy (mindmap) bằng tiếng Việt về {BAI} trong sách. "
                    "Nhánh chính là các mục lớn của bài theo đúng thứ tự và tên trong sách, "
@@ -59,7 +59,7 @@ KINDS = {
                    "không lấy từ các bài khác.{LUU_Y}"),
     },
     "infographic": {
-        "label": "Infographic", "feature_files": ["infographics.txt"], "out_name": "infographic",
+        "label": "Infographic", "feature_files": [common.INFOGRAPHICS_FILE.name], "out_name": "infographic",
         "ext": "png", "timeout": 900, "tag": "infographic",
         "prompt": ("Hãy tạo infographic bằng tiếng Việt về {BAI} trong sách. "
                    "Bố cục rõ ràng: tiêu đề bài, các ý chính theo đúng thứ tự các mục của bài, "
@@ -67,7 +67,7 @@ KINDS = {
                    "không lấy từ các bài khác.{LUU_Y}"),
     },
     "video": {
-        "label": "Video", "feature_files": ["videos.txt"], "out_name": "video",
+        "label": "Video", "feature_files": [common.VIDEOS_FILE.name], "out_name": "video",
         "ext": "mp4", "timeout": 1800, "tag": "video",
         "prompt": ("Hãy tạo video bài giảng bằng tiếng Việt về {BAI} trong sách: mở đầu nêu mục tiêu của bài, "
                    "lần lượt trình bày các mục chính theo đúng thứ tự trong sách kèm ví dụ và số liệu quan trọng, "

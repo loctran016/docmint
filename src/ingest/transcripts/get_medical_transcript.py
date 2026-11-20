@@ -163,9 +163,9 @@ def load_terms(limit=80):
     """Vài thuật ngữ từ medical_terms.txt (nếu có) để mồi cho Whisper."""
     try:
         terms = []
-        terms_path = common.CONFIG_DIR / "medical_terms.txt"
+        terms_path = common.CONFIG_DIR / common.MEDICAL_TERMS_FILE.name
         if not terms_path.exists():
-            terms_path = common.ROOT_DIR / "medical_terms.txt"
+            terms_path = common.ROOT_DIR / common.MEDICAL_TERMS_FILE.name
         for line in terms_path.read_text(encoding="utf-8-sig").splitlines():
             line = line.split("#", 1)[0].strip()
             terms += line.split()
@@ -326,7 +326,7 @@ def parse_args():
     ap.add_argument("--audio", help="file audio đã tải sẵn (dùng thay cho --url)")
     ap.add_argument("--title", help="tiêu đề dùng cho file audio local")
     ap.add_argument("--lang", help="vi hoặc en (bỏ trống thì hỏi, mặc định vi)")
-    ap.add_argument("--out", default=str(common.DEFAULT_TRANSCRIPTS),
+    ap.add_argument("--out", default=str(common.TRANSCRIPTS_DIR),
                     help="thư mục kết quả (mặc định workspace/transcripts)")
     ap.add_argument("--backend", choices=["groq", "subs", "actions"], default="groq",
                     help="groq (mặc định), subs (phụ đề yt-dlp, cũ) hoặc actions (GitHub Actions, cũ)")

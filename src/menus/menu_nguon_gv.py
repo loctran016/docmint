@@ -126,7 +126,7 @@ def do_slides():
     p = m.ask("  Đường dẫn (Enter để hủy): ")
     if not p:
         return
-    m.exec_uv("src/ingest/slides_to_md.py", p, "-o", str(common.WORKSPACE_DIR / "slides_out"))
+    m.exec_uv("src/ingest/slides_to_md.py", p, "-o", str(common.SLIDES_OUT_DIR))
     m.pause()
 
 
@@ -143,9 +143,9 @@ def do_upload():
     })
     if not prefix:
         return
-    hints = {"SGK": str(common.WORKSPACE_DIR / "output_md"),
-             "GV": str(common.WORKSPACE_DIR / "transcripts"),
-             "SLIDE": str(common.WORKSPACE_DIR / "slides_out")}
+    hints = {"SGK": str(common.OUTPUT_MD_DIR),
+             "GV": str(common.TRANSCRIPTS_DIR),
+             "SLIDE": str(common.SLIDES_OUT_DIR)}
     p = m.ask(f"  File hoặc thư mục .md (Enter = {hints[prefix]}): ") or hints[prefix]
     args = ["src/ingest/upload_sources.py", "--prefix", prefix, p]
     merge = m.ask("  Gộp tất cả thành MỘT nguồn tên (Enter = không gộp): ")
@@ -167,7 +167,7 @@ def do_batch():
     mode = pick_mode()
     if not mode:
         return
-    print(f"  Danh sách bài: {m.pick_list('giang_bai.txt')} (sửa ở mục Giảng bài của menu chính)")
+    print(f"  Danh sách bài: {m.pick_list(common.GIANG_BAI_FILE.name)} (sửa ở mục Giảng bài của menu chính)")
     extra = []
     if yes("Chạy thử 1 bài đầu tiên (--test)?", default=True):
         extra.append("--test")

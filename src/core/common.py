@@ -25,15 +25,33 @@ CONFIG_DIR = ROOT_DIR / "config"
 WORKSPACE_DIR = ROOT_DIR / "workspace"
 TOOLKIT_DIR = ROOT_DIR
 
+GIAO_TRINH_FILE = CONFIG_DIR / "giao_trinh.txt"
+GIANG_BAI_FILE = CONFIG_DIR / "giang_bai.txt"
+CAU_HOI_FILE = CONFIG_DIR / "cau_hoi.txt"
+MINDMAPS_FILE = CONFIG_DIR / "mindmaps.txt"
+INFOGRAPHICS_FILE = CONFIG_DIR / "infographics.txt"
+VIDEOS_FILE = CONFIG_DIR / "videos.txt"
+NOTEBOOK_ID_FILE = CONFIG_DIR / "notebook_id.txt"
+BIEN_TAP_STYLE_FILE = CONFIG_DIR / "bien_tap_style.md"
+MEDICAL_TERMS_FILE = CONFIG_DIR / "medical_terms.txt"
+
+INPUT_PDFS_DIR = WORKSPACE_DIR / "input_pdfs"
+OUTPUT_OCR_DIR = WORKSPACE_DIR / "output_ocr"
+OUTPUT_MD_DIR = WORKSPACE_DIR / "output_md"
+KET_QUA_DIR = WORKSPACE_DIR / "ket_qua"
+TRANSCRIPTS_DIR = WORKSPACE_DIR / "transcripts"
+SLIDES_OUT_DIR = WORKSPACE_DIR / "slides_out"
+GIANG_OUT_DIR = WORKSPACE_DIR / "giang_out"
+
 NOT_FOUND_PHRASE = "không tìm thấy bài này trong nguồn"
-MASTER_FILES = ["giao_trinh.txt", "bai.txt"]   # danh sách chung (bai.txt là tên cũ)
-DEFAULT_OUT_ROOT = str(WORKSPACE_DIR / "ket_qua")
-DEFAULT_INPUT_PDFS = WORKSPACE_DIR / "input_pdfs"
-DEFAULT_OUTPUT_OCR = WORKSPACE_DIR / "output_ocr"
-DEFAULT_OUTPUT_MD = WORKSPACE_DIR / "output_md"
-DEFAULT_TRANSCRIPTS = WORKSPACE_DIR / "transcripts"
-DEFAULT_SLIDES_OUT = WORKSPACE_DIR / "slides_out"
-DEFAULT_GIANG_OUT = WORKSPACE_DIR / "giang_out"
+MASTER_FILES = [GIAO_TRINH_FILE.name, "bai.txt"]   # danh sách chung (bai.txt là tên cũ)
+DEFAULT_OUT_ROOT = str(KET_QUA_DIR)
+DEFAULT_INPUT_PDFS = INPUT_PDFS_DIR
+DEFAULT_OUTPUT_OCR = OUTPUT_OCR_DIR
+DEFAULT_OUTPUT_MD = OUTPUT_MD_DIR
+DEFAULT_TRANSCRIPTS = TRANSCRIPTS_DIR
+DEFAULT_SLIDES_OUT = SLIDES_OUT_DIR
+DEFAULT_GIANG_OUT = GIANG_OUT_DIR
 DEFAULT_BOOK = "Sách giáo khoa"
 
 # Dòng chú thích được hiểu là TÊN CHƯƠNG nếu:  "## Tên chương"  hoặc  "# Chương 1 ..." / "# Phần II ..."
@@ -60,7 +78,7 @@ def to_wsl_path(p):
 
 
 def get_out_root(cli_value=None):
-    raw = cli_value or os.environ.get("NLM_OUT_ROOT") or DEFAULT_OUT_ROOT
+    raw = cli_value or os.environ.get("NLM_OUT_ROOT") or str(WORKSPACE_DIR / "ket_qua")
     if raw in ("ket_qua", "./ket_qua"):
         raw = str(WORKSPACE_DIR / "ket_qua")
     return Path(to_wsl_path(raw))
@@ -83,7 +101,7 @@ def read_notebook_id(cli_value=None):
     env = os.environ.get("NOTEBOOK_ID")
     if env:
         return _clean_id(env)
-    for f in (CONFIG_DIR / "notebook_id.txt", ROOT_DIR / "notebook_id.txt"):
+    for f in (CONFIG_DIR / NOTEBOOK_ID_FILE.name, ROOT_DIR / NOTEBOOK_ID_FILE.name):
         if f.exists():
             for line in f.read_text(encoding="utf-8-sig").splitlines():
                 line = line.strip()

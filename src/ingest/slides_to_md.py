@@ -226,7 +226,7 @@ def main():
 
     ap = argparse.ArgumentParser()
     ap.add_argument("file", help="File slide .pptx / .ppt / .pdf")
-    ap.add_argument("-o", "--out", default=str(common.DEFAULT_SLIDES_OUT),
+    ap.add_argument("-o", "--out", default=str(common.SLIDES_OUT_DIR),
                     help="Thư mục xuất (mặc định: workspace/slides_out)")
     ap.add_argument("--delay", type=float, default=env_delay,
                     help="Giây nghỉ giữa 2 slide (mặc định 4, hoặc biến REQUEST_DELAY)")

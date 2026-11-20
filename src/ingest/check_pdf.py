@@ -105,7 +105,7 @@ def check(path):
 
 
 def collect(args):
-    targets = args or [str(d) for d in (common.DEFAULT_OUTPUT_OCR, common.DEFAULT_INPUT_PDFS)
+    targets = args or [str(d) for d in (common.OUTPUT_OCR_DIR, common.INPUT_PDFS_DIR)
                        if d.is_dir() and any(d.glob("*.[pP][dD][fF]"))][:1]
     if not targets:
         raise SystemExit("Không thấy PDF nào. Truyền đường dẫn file/thư mục PDF.")

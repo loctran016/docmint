@@ -37,7 +37,7 @@ from notebooklm import NotebookLMClient
 from src.core import common
 
 # ================= CẤU HÌNH =================
-FEATURE_FILES = ["cau_hoi.txt", "cauhoi.txt"]
+FEATURE_FILES = [common.CAU_HOI_FILE.name, "cauhoi.txt"]
 OUT_NAME = "cau_hoi"
 SO_TRAC_NGHIEM = 10           # mặc định, có thể ghi đè từng bài bằng tn=...
 SO_TU_LUAN = 2                # mặc định, ghi đè bằng tl=... (0 = không có tự luận)

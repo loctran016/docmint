@@ -282,7 +282,7 @@ def main(argv=None):
     ap.add_argument("mode", choices=["clean"])
     ap.add_argument("video_id", help="ID video (file .cache/transcripts/raw/<id>.json)")
     ap.add_argument("--slides", help="file Markdown slide (*.notebooklm.md) để đối chiếu thuật ngữ")
-    ap.add_argument("--out", default=str(common.DEFAULT_TRANSCRIPTS))
+    ap.add_argument("--out", default=str(common.TRANSCRIPTS_DIR))
     ap.add_argument("--no-clean", action="store_true", help="không gọi Gemini, chỉ xuất bản thô")
     args = ap.parse_args(argv)
     try:

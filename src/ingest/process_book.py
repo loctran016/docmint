@@ -1400,7 +1400,7 @@ def parse_args() -> argparse.Namespace:
     ap.add_argument("--no-spell", action="store_true", help="chỉ kiểm tra cấu trúc, bỏ kiểm tra chính tả")
     ap.add_argument("--max-unclear", type=int, default=3,
                     help="trang có từ ngần này thẻ [không rõ] trở lên thì cảnh báo (mặc định 3)")
-    ap.add_argument("--vocab", default=str(common.CONFIG_DIR / "medical_terms.txt"),
+    ap.add_argument("--vocab", default=str(common.CONFIG_DIR / common.MEDICAL_TERMS_FILE.name),
                     help="file từ vựng y khoa (mỗi dòng một từ) để không báo nhầm chính tả (mặc định medical_terms.txt)")
     ap.add_argument("--no-groq", action="store_true", help="không dùng Groq làm dự phòng RECITATION dù đã có GROQ_API_KEYS")
     ap.add_argument("--retry-rounds", type=int, default=-1,

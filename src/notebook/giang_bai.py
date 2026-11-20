@@ -31,7 +31,7 @@ from notebooklm import NotebookLMClient
 from src.core import common
 
 # ================= CẤU HÌNH =================
-FEATURE_FILES = ["giang_bai.txt"]
+FEATURE_FILES = [common.GIANG_BAI_FILE.name]
 OUT_NAME = "giang_bai"
 TOM_TAT_MAC_DINH = True       # thêm phần "Tóm tắt nhanh" cuối bài
 CAU_HOI_MAC_DINH = True       # thêm phần "Câu hỏi tự kiểm tra" cuối bài

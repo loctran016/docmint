@@ -35,7 +35,7 @@ from src.core import common
 
 TIMEOUT = 300
 MAX_RETRY = 3
-MASTER_OUT = "giao_trinh.txt"
+MASTER_OUT = common.GIAO_TRINH_FILE
 
 PROMPT = """Hãy đọc mục lục của sách trong nguồn và liệt kê đầy đủ, theo đúng thứ tự: tên từng Chương/Phần, bên dưới là các Bài của chương đó (kể cả "Liên hệ thực tế", bài đọc thêm và phụ lục nếu mục lục có). Chép đúng nguyên văn tên như sách trình bày.
 
@@ -152,6 +152,20 @@ def parse_args():
     return ap.parse_args()
 
 
+def apply_toc(txt, target=None):
+    """Ghi mục lục vào file cấu hình trong config/."""
+    target = target or (common.CONFIG_DIR / common.GIAO_TRINH_FILE.name)
+    target = Path(target)
+    target.parent.mkdir(parents=True, exist_ok=True)
+    if target.exists() and target.read_text(encoding="utf-8-sig").strip():
+        backup = target.with_suffix(".txt.bak")
+        shutil.copy2(target, backup)
+        print(f"Đã sao lưu bản cũ: {backup}")
+    target.write_text(txt, encoding="utf-8")
+    print(f"Đã ghi mục lục vào {target}. Hãy mở ra xem lại tên bài trước khi chạy các chức năng khác.")
+    return target
+
+
 async def main():
     args = parse_args()
     nb_id = common.read_notebook_id(args.notebook_id)
@@ -185,13 +199,7 @@ async def main():
     print(f"Đã lưu: {out_dir / 'muc_luc.txt'}  và  {out_dir / 'muc_luc.md'}")
 
     if args.apply:
-        target = Path(MASTER_OUT)
-        if target.exists() and target.read_text(encoding="utf-8-sig").strip():
-            backup = target.with_suffix(".txt.bak")
-            shutil.copy2(target, backup)
-            print(f"Đã sao lưu bản cũ: {backup}")
-        target.write_text(txt, encoding="utf-8")
-        print(f"Đã ghi mục lục vào {target}. Hãy mở ra xem lại tên bài trước khi chạy các chức năng khác.")
+        apply_toc(txt)
     else:
         print(f"Muốn ghi thẳng vào {MASTER_OUT}: chạy lại với --apply (hoặc dùng mục tương ứng trong menu).")
 

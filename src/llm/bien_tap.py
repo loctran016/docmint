@@ -419,7 +419,8 @@ def parse_args(argv=None):
     ap.add_argument("--in", dest="inp", default=str(Path(root) / "giang_bai"), help="file hoặc thư mục .md thô")
     ap.add_argument("--raw-dir", default=str(Path(root) / "raw"), help="nơi giữ bản thô (không bị ghi đè)")
     ap.add_argument("--out", default=str(Path(root) / "polished"), help="thư mục kết quả")
-    ap.add_argument("--style", default=str(BASE / "bien_tap_style.md"), help="file khung văn phong (system prompt)")
+    ap.add_argument("--style", default=str(common.CONFIG_DIR / common.BIEN_TAP_STYLE_FILE.name),
+                    help="file khung văn phong (system prompt)")
     ap.add_argument("--backend", choices=["api", "web"], default="api")
     ap.add_argument("--model", default="", help="model (api: nhiều model cách nhau dấu phẩy; web: tên model Gemini web)")
     ap.add_argument("--gem", default="", help="(web) tên Gem đã tạo trên gemini.google.com")

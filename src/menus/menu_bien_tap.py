@@ -26,8 +26,9 @@ if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
 import menu as m
+from src.core import common
 
-STYLE = ROOT_DIR / "config" / "bien_tap_style.md"
+STYLE = common.BIEN_TAP_STYLE_FILE
 
 
 def yes(prompt, default=False):
@@ -77,7 +78,7 @@ def main_menu():
             "3|Chọn file theo tên",
             "4|Làm lại, bỏ cache (--force)",
             "SEP",
-            "5|Sửa khung văn phong (bien_tap_style.md)",
+            f"5|Sửa khung văn phong ({common.BIEN_TAP_STYLE_FILE.name})",
             "6|Đổi backend: api / web",
             "7|Đặt model",
             "8|Đổi mức suy luận",

@@ -32,7 +32,7 @@ if IS_WIN:
 # ------------------------------------------------------------------ cài đặt nhớ lại
 SETTINGS_FILE = HERE / ".menu_settings.json"
 DEFAULTS = {"strip": 0, "fm": 0, "obs": 0, "quiz_mode": "md", "quiz_fmt": "markdown",
-            "mm_kind": "interactive", "book": "Sách giáo khoa", "out_root": str(common.WORKSPACE_DIR / "ket_qua"),
+            "mm_kind": "interactive", "book": "Sách giáo khoa", "out_root": str(common.KET_QUA_DIR),
             "md_split": 0, "md_model": "", "md_out": "", "md_paid": 0,
             "bt_backend": "api", "bt_model": "", "bt_thinking": "medium", "bt_summary": 1}
 CHOICES = {"quiz_mode": ("md", "quiz", "both"), "quiz_fmt": ("markdown", "json", "html"),
@@ -347,7 +347,7 @@ def do_ocr():
     print("   - Enter để dùng thư mục input_pdfs/ trong toolkit")
     print("   - hoặc dán/kéo thả đường dẫn thư mục (dạng C:\\... của Windows cũng được)\n")
     d = ask("  Thư mục: ") or str(common.DEFAULT_INPUT_PDFS)
-    if d == "input_pdfs":
+    if d == common.INPUT_PDFS_DIR.name:
         d = str(common.DEFAULT_INPUT_PDFS)
         common.DEFAULT_INPUT_PDFS.mkdir(exist_ok=True)
         if not any(p.suffix.lower() == ".pdf" for p in common.DEFAULT_INPUT_PDFS.iterdir()):
@@ -420,7 +420,7 @@ def has_groq_key():
 
 
 def md_out_dir():
-    return Path(S["md_out"] or str(common.DEFAULT_OUTPUT_MD))
+    return Path(S["md_out"] or str(common.OUTPUT_MD_DIR))
 
 
 def run_md(*extra):
@@ -448,7 +448,7 @@ def md_ask_input():
     print("   - hoặc dán/kéo thả đường dẫn (dạng C:\\... của Windows cũng được)")
     print("   - có thể trỏ vào output_ocr/ nếu muốn dùng bản đã OCR\n")
     p = ask("  Đường dẫn: ") or str(common.DEFAULT_INPUT_PDFS)
-    if p == "input_pdfs":
+    if p == common.INPUT_PDFS_DIR.name:
         d = common.DEFAULT_INPUT_PDFS
         d.mkdir(exist_ok=True)
         if not any(x.suffix.lower() == ".pdf" for x in d.iterdir()):
@@ -578,7 +578,7 @@ def md_menu():
         clear()
         draw_menu("PDF → MARKDOWN (GEMINI)", [
             f"INFO:Model: {short(S['md_model'] or 'mặc định', 30)} | Key: {yn(has_key())}",
-            f"INFO:Đầu ra: {short(S['md_out'] or 'output_md', 40)}",
+            f"INFO:Đầu ra: {short(S['md_out'] or common.OUTPUT_MD_DIR.name, 40)}",
             f"INFO:Key trả phí: {yn(has_paid_key())} | cho phép dùng: {onoff(S['md_paid'])} | Groq: {yn(has_groq_key())}",
             "MID",
             "1|Chạy thử vài trang (--test, không lưu gì)",
@@ -669,13 +669,13 @@ def book_menu():
     while True:
         clear()
         draw_menu("KIỂM TRA SÁCH: ĐỌC MỤC LỤC", [
-            f"INFO:Danh sách chung: giao_trinh.txt ({count_items('giao_trinh.txt')} bài) | Notebook: {id_short()}",
+            f"INFO:Danh sách chung: {common.GIAO_TRINH_FILE.name} ({count_items(common.GIAO_TRINH_FILE.name)} bài) | Notebook: {id_short()}",
             "MID",
             "1|Đọc mục lục từ NotebookLM (in ra + lưu file)",
-            "2|Đọc mục lục và GHI vào giao_trinh.txt (có sao lưu)",
+            f"2|Đọc mục lục và GHI vào {common.GIAO_TRINH_FILE.name} (có sao lưu)",
             "3|Xem lại mục lục đã lưu lần trước",
             "4|Kiểm tra lớp chữ của PDF (trang nào chưa có chữ)",
-            "5|Sửa giao_trinh.txt",
+            f"5|Sửa {common.GIAO_TRINH_FILE.name}",
             "SEP",
             "0|Quay lại menu chính"])
         ch = ask("  Nhập lựa chọn của bạn : ").lower()
@@ -685,7 +685,7 @@ def book_menu():
             pause()
         elif ch == "2":
             if need_id():
-                if ask("  Ghi đè giao_trinh.txt bằng mục lục đọc được (bản cũ được sao lưu .bak)? [y/N] ").lower().startswith("y"):
+                if ask(f"  Ghi đè {common.GIAO_TRINH_FILE.name} bằng mục lục đọc được (bản cũ được sao lưu .bak)? [y/N] ").lower().startswith("y"):
                     exec_uv("src/notebook/muc_luc.py", "--apply")
             pause()
         elif ch == "3":
@@ -696,19 +696,19 @@ def book_menu():
             exec_uv("src/ingest/check_pdf.py", *([p] if p else []))
             pause()
         elif ch == "5":
-            edit_file(common.CONFIG_DIR / "giao_trinh.txt")
+            edit_file(common.CONFIG_DIR / common.GIAO_TRINH_FILE.name)
         elif ch in ("0", "q"):
             return
 
 
 # ------------------------------------------------------------------ 6-10. các chức năng tạo nội dung
 FEATURES = {
-    "giang": dict(title="GIẢNG BÀI", cmd=["src/notebook/giang_bai.py"], files=["giang_bai.txt"], out="giang_bai"),
-    "hoi": dict(title="TẠO CÂU HỎI", cmd=["src/notebook/tao_cau_hoi.py"], files=["cau_hoi.txt", "cauhoi.txt"], out="cau_hoi"),
-    "mindmap": dict(title="TẠO MINDMAP", cmd=["src/notebook/tao_media.py", "mindmap"], files=["mindmaps.txt"], out="mindmap"),
+    "giang": dict(title="GIẢNG BÀI", cmd=["src/notebook/giang_bai.py"], files=[common.GIANG_BAI_FILE.name], out="giang_bai"),
+    "hoi": dict(title="TẠO CÂU HỎI", cmd=["src/notebook/tao_cau_hoi.py"], files=[common.CAU_HOI_FILE.name, "cauhoi.txt"], out="cau_hoi"),
+    "mindmap": dict(title="TẠO MINDMAP", cmd=["src/notebook/tao_media.py", "mindmap"], files=[common.MINDMAPS_FILE.name], out="mindmap"),
     "infographic": dict(title="TẠO INFOGRAPHIC", cmd=["src/notebook/tao_media.py", "infographic"],
-                        files=["infographics.txt"], out="infographic"),
-    "video": dict(title="TẠO VIDEO", cmd=["src/notebook/tao_media.py", "video"], files=["videos.txt"], out="video"),
+                        files=[common.INFOGRAPHICS_FILE.name], out="infographic"),
+    "video": dict(title="TẠO VIDEO", cmd=["src/notebook/tao_media.py", "video"], files=[common.VIDEOS_FILE.name], out="video"),
 }
 MEDIA = ("mindmap", "infographic", "video")
 
@@ -750,7 +750,7 @@ def feature_menu(kind):
             "3|Chạy một số bài (ví dụ 1,3-5)",
             "4|Làm lại toàn bộ, kể cả bài đã xong (--force)",
             f"5|Sửa danh sách riêng ({f['files'][0]})",
-            "6|Sửa danh sách chung (giao_trinh.txt)",
+            f"6|Sửa danh sách chung ({common.GIAO_TRINH_FILE.name})",
             "SEP",
         ]
         if kind in ("giang", "hoi"):
@@ -784,7 +784,7 @@ def feature_menu(kind):
         elif ch == "5":
             edit_file(f["files"][0])
         elif ch == "6":
-            edit_file(common.CONFIG_DIR / "giao_trinh.txt")
+            edit_file(common.CONFIG_DIR / common.GIAO_TRINH_FILE.name)
         elif ch == "7" and kind in ("giang", "hoi"):
             toggle("strip")
         elif ch == "8":
@@ -863,7 +863,7 @@ def set_id():
         elif ch == "2":
             raw = ask("  Dán ID hoặc URL notebook: ")
             if raw:
-                (common.CONFIG_DIR / "notebook_id.txt").write_text(raw + "\n", encoding="utf-8")
+                (common.CONFIG_DIR / common.NOTEBOOK_ID_FILE.name).write_text(raw + "\n", encoding="utf-8")
                 print(f"  Đã lưu. ID hiện tại: {id_short()}")
         elif ch in ("0", "q"):
             return
@@ -901,7 +901,7 @@ def status():
     md_dir = md_out_dir()
     n_md = sum(1 for p in md_dir.rglob("*.md") if ".pages" not in p.parts) if md_dir.is_dir() else 0
     print(f" File Markdown (Gemini)       : {n_md}  ({md_dir})")
-    print(f" Số bài trong giao_trinh.txt  : {count_items('giao_trinh.txt')}")
+    print(f" Số bài trong {common.GIAO_TRINH_FILE.name}  : {count_items(common.GIAO_TRINH_FILE.name)}")
     for sub in ("giang_bai", "cau_hoi", "mindmap", "infographic", "video"):
         d = out_root() / sub
         n = sum(1 for p in d.iterdir() if p.is_file() and p.name != ".state.json") if d.is_dir() else 0
