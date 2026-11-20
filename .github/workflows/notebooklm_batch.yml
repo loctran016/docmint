@@ -112,7 +112,7 @@ jobs:
           FEATURE="${IN_FEATURE:-giang}"
           NB="${IN_NOTEBOOK:-${SECRET_NOTEBOOK:-$VAR_NOTEBOOK}}"
           NB="${NB%%\?*}"; NB="${NB%/}"; NB="${NB##*/}"
-          if [ -z "$NB" ] && ! grep -qvE '^\s*(#|$)' notebook_id.txt 2>/dev/null; then
+          if [ -z "$NB" ] && ! grep -qvE '^\s*(#|$)' config/notebook_id.txt 2>/dev/null; then
             echo "Thiếu ID notebook: điền ô notebook_id, hoặc đặt secret/biến NOTEBOOKLM_NOTEBOOK."
             exit 1
           fi
@@ -121,11 +121,11 @@ jobs:
             exit 1
           fi
           case "$FEATURE" in
-            giang)       SCRIPT=4_giang_bai.py;     KIND=;            OUTSUB=giang_bai ;;
-            hoi)         SCRIPT=5_tao_cau_hoi.py;   KIND=;            OUTSUB=cau_hoi ;;
-            mindmap)     SCRIPT=7_tao_media.py;     KIND=mindmap;     OUTSUB=mindmap ;;
-            infographic) SCRIPT=7_tao_media.py;     KIND=infographic; OUTSUB=infographic ;;
-            video)       SCRIPT=7_tao_media.py;     KIND=video;       OUTSUB=video ;;
+            giang)       SCRIPT=src/notebook/giang_bai.py;       KIND=;            OUTSUB=giang_bai ;;
+            hoi)         SCRIPT=src/notebook/tao_cau_hoi.py;     KIND=;            OUTSUB=cau_hoi ;;
+            mindmap)     SCRIPT=src/notebook/tao_media.py;       KIND=mindmap;     OUTSUB=mindmap ;;
+            infographic) SCRIPT=src/notebook/tao_media.py;       KIND=infographic; OUTSUB=infographic ;;
+            video)       SCRIPT=src/notebook/tao_media.py;       KIND=video;       OUTSUB=video ;;
             *) echo "Chức năng không hợp lệ: $FEATURE"; exit 1 ;;
           esac
           {
@@ -137,7 +137,7 @@ jobs:
             echo "SCRIPT=$SCRIPT"
             echo "KIND=$KIND"
             echo "OUTSUB=$OUTSUB"
-            echo "NLM_OUT_ROOT=ket_qua"
+            echo "NLM_OUT_ROOT=workspace/ket_qua"
           } >> "$GITHUB_ENV"
 
       - name: Ghi danh sách bài vào giang_bai.txt (ghi đè, không commit)
@@ -147,16 +147,16 @@ jobs:
           import os, re
           raw = os.environ["IN_LESSONS"].replace("\\n", "\n")   # chấp nhận cả chữ \n gõ tay
           lines = [p.strip() for p in re.split(r"[;\r\n]+", raw) if p.strip()]
-          with open("giang_bai.txt", "w", encoding="utf-8") as f:
+          with open("config/giang_bai.txt", "w", encoding="utf-8") as f:
               f.write("# Danh sách nhập từ GitHub Actions (ghi đè giang_bai.txt)\n" + "\n".join(lines) + "\n")
           PY
             echo "Đã ghi đè giang_bai.txt từ ô lessons."
           else
             echo "Ô lessons để trống: dùng giang_bai.txt trong repo."
           fi
-          N=$(grep -cvE '^\s*(#|$)' giang_bai.txt || true)
+          N=$(grep -cvE '^\s*(#|$)' config/giang_bai.txt || true)
           echo "Danh sách bài ($N bài):"
-          grep -vE '^\s*(#|$)' giang_bai.txt | nl -ba
+          grep -vE '^\s*(#|$)' config/giang_bai.txt | nl -ba
           if [ "${N:-0}" -eq 0 ]; then
             echo "Chưa có bài nào: nhập vào ô lessons hoặc điền giang_bai.txt trong repo."
             exit 1
@@ -176,7 +176,7 @@ jobs:
           ASSET="progress-${FEATURE}-${NB8}.tar.gz"
           if gh release download giang-progress --pattern "$ASSET" --dir . --clobber 2>/dev/null; then
             tar xzf "$ASSET"
-            echo "Đã khôi phục tiến độ: $(find "ket_qua/$OUTSUB" -name '*.md' 2>/dev/null | wc -l) file"
+            echo "Đã khôi phục tiến độ: $(find "workspace/ket_qua/$OUTSUB" -name '*.md' 2>/dev/null | wc -l) file"
           else
             echo "Chưa có tiến độ trước đó, bắt đầu từ đầu."
           fi
@@ -194,7 +194,7 @@ jobs:
             force) ARGS+=(--force) ;;
           esac
           [ -n "$IN_ONLY" ] && ARGS+=(--only "$IN_ONLY")
-          ARGS+=(--file giang_bai.txt)   # mọi chức năng đều đọc giang_bai.txt
+          ARGS+=(--file config/giang_bai.txt)
           [ "$IN_FM" = "true" ] && ARGS+=(--frontmatter)
           if [ "$FEATURE" = "giang" ] || [ "$FEATURE" = "hoi" ]; then
             [ "$IN_STRIP" = "true" ] && ARGS+=(--strip-cite)
@@ -212,12 +212,12 @@ jobs:
       - name: Lưu tiến độ vào Release giang-progress (không commit vào repo)
         if: always() && env.MODE != 'test' && (env.FEATURE == 'giang' || env.FEATURE == 'hoi')
         run: |
-          if [ ! -d "ket_qua/$OUTSUB" ]; then
+          if [ ! -d "workspace/ket_qua/$OUTSUB" ]; then
             echo "Không có tiến độ để lưu."
             exit 0
           fi
           ASSET="progress-${FEATURE}-${NB8}.tar.gz"
-          tar czf "$ASSET" "ket_qua/$OUTSUB"
+          tar czf "$ASSET" "workspace/ket_qua/$OUTSUB"
           if gh release view giang-progress >/dev/null 2>&1; then
             gh release upload giang-progress "$ASSET" --clobber
           else
@@ -232,7 +232,7 @@ jobs:
         run: |
           python3 .github/scripts/nlm_report.py --log run_log.txt --feature "$FEATURE" --mode "$MODE" \
             --code "${{ steps.run.outputs.code }}" --elapsed "${{ steps.run.outputs.elapsed }}" \
-            --notebook "$NB8" --out "ket_qua/$OUTSUB" --marker .nlm_start \
+            --notebook "$NB8" --out "workspace/ket_qua/$OUTSUB" --marker .nlm_start \
             --run-url "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
             --notes release_notes.md
           cat release_notes.md >> "$GITHUB_STEP_SUMMARY"

@@ -66,7 +66,7 @@ jobs:
 
       - name: Build markdown from subtitles
         if: steps.check_subs.outputs.has_subs == 'true'
-        run: python input/transcripts/build_transcript.py subs
+        run: python src/ingest/transcripts/build_transcript.py subs
 
       - name: Cache HuggingFace models
         if: steps.check_subs.outputs.has_subs == 'false'
@@ -81,7 +81,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y ffmpeg
           pip install faster-whisper
           yt-dlp $COOKIES_ARG -x --audio-format mp3 --audio-quality 5 -o "audio.%(ext)s" "$VIDEO_URL"
-          python input/transcripts/build_transcript.py whisper
+          python src/ingest/transcripts/build_transcript.py whisper
 
       - name: Upload result
         uses: actions/upload-artifact@v4

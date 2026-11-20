@@ -20,7 +20,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-import common
+from src.core import common
 
 HERE = Path(__file__).resolve().parent
 os.chdir(HERE)
@@ -32,7 +32,7 @@ if IS_WIN:
 # ------------------------------------------------------------------ cài đặt nhớ lại
 SETTINGS_FILE = HERE / ".menu_settings.json"
 DEFAULTS = {"strip": 0, "fm": 0, "obs": 0, "quiz_mode": "md", "quiz_fmt": "markdown",
-            "mm_kind": "interactive", "book": "Sách giáo khoa", "out_root": "ket_qua",
+            "mm_kind": "interactive", "book": "Sách giáo khoa", "out_root": str(common.WORKSPACE_DIR / "ket_qua"),
             "md_split": 0, "md_model": "", "md_out": "", "md_paid": 0,
             "bt_backend": "api", "bt_model": "", "bt_thinking": "medium", "bt_summary": 1}
 CHOICES = {"quiz_mode": ("md", "quiz", "both"), "quiz_fmt": ("markdown", "json", "html"),
@@ -191,6 +191,9 @@ def id_short():
 
 def count_items(path):
     p = Path(path)
+    if not p.is_absolute():
+        p = next((q for q in (common.CONFIG_DIR / p.name, common.ROOT_DIR / p.name) if q.exists()),
+                 common.CONFIG_DIR / p.name)
     if not p.exists():
         return 0
     try:
@@ -318,7 +321,7 @@ def show_guide():
 def setup_nlm():
     clear()
     print(f"{B}== Cài & set-up notebooklm-py =={R}")
-    exec_uv("1_setup_notebooklm.py")
+    exec_uv("src/ingest/setup_notebooklm.py")
     if not get_id():
         print("\n  Bước tiếp theo: chọn [12] ở menu chính để đặt ID notebook.")
     pause()
@@ -327,7 +330,7 @@ def setup_nlm():
 def setup_ocr():
     clear()
     print(f"{B}== Cài & set-up OCR =={R}")
-    exec_uv("2_setup_ocr.py")
+    exec_uv("src/ingest/setup_ocr.py")
     ocr_ready(refresh=True)
     pause()
 
@@ -343,24 +346,24 @@ def do_ocr():
     print("  Nhập thư mục chứa các file PDF:")
     print("   - Enter để dùng thư mục input_pdfs/ trong toolkit")
     print("   - hoặc dán/kéo thả đường dẫn thư mục (dạng C:\\... của Windows cũng được)\n")
-    d = ask("  Thư mục: ") or "input_pdfs"
+    d = ask("  Thư mục: ") or str(common.DEFAULT_INPUT_PDFS)
     if d == "input_pdfs":
-        Path("input_pdfs").mkdir(exist_ok=True)
-        if not any(p.suffix.lower() == ".pdf" for p in Path("input_pdfs").iterdir()):
+        d = str(common.DEFAULT_INPUT_PDFS)
+        common.DEFAULT_INPUT_PDFS.mkdir(exist_ok=True)
+        if not any(p.suffix.lower() == ".pdf" for p in common.DEFAULT_INPUT_PDFS.iterdir()):
             print("\n  input_pdfs/ đang trống. Mình mở thư mục này, hãy chép các file PDF vào rồi quay lại.")
-            open_folder("input_pdfs")
+            open_folder(common.DEFAULT_INPUT_PDFS)
             ask("  Nhấn Enter khi đã chép xong... ")
-    exec_uv("3_ocr_pdfs.py", d)
+    exec_uv("src/ingest/ocr_pdfs.py", d)
     if ask("\n  Mở thư mục output_ocr? [y/N] ").lower().startswith("y"):
-        open_folder("output_ocr")
+        open_folder(common.DEFAULT_OUTPUT_OCR)
     pause()
 
 
 # ------------------------------------------------------------------ 15. PDF -> Markdown bằng Gemini
 ENV_FILE = HERE / ".env"
 KEY_NAMES = ("GEMINI_API_KEYS", "GEMINI_API_KEY", "GOOGLE_API_KEY")
-GITIGNORE_PATTERNS = [".env", ".menu_settings.json", "tessdata/", "input_pdfs/", "output_ocr/",
-                      "output_md/", "ket_qua/", "/transcripts/", "transcript_out/", "slides_out/", "giang_out/",
+GITIGNORE_PATTERNS = [".env", ".menu_settings.json", "workspace/", "tessdata/", ".cache/",
                       "__pycache__/"]
 
 
@@ -417,7 +420,7 @@ def has_groq_key():
 
 
 def md_out_dir():
-    return Path(S["md_out"] or "output_md")
+    return Path(S["md_out"] or str(common.DEFAULT_OUTPUT_MD))
 
 
 def run_md(*extra):
@@ -436,7 +439,7 @@ def run_md(*extra):
         flags += ["--model", S["md_model"]]
     if S["md_out"]:
         flags += ["--out", S["md_out"]]
-    return exec_uv("process_book.py", *flags, *extra)
+    return exec_uv("src/ingest/process_book.py", *flags, *extra)
 
 
 def md_ask_input():
@@ -444,9 +447,9 @@ def md_ask_input():
     print("   - Enter để dùng thư mục input_pdfs/ trong toolkit")
     print("   - hoặc dán/kéo thả đường dẫn (dạng C:\\... của Windows cũng được)")
     print("   - có thể trỏ vào output_ocr/ nếu muốn dùng bản đã OCR\n")
-    p = ask("  Đường dẫn: ") or "input_pdfs"
+    p = ask("  Đường dẫn: ") or str(common.DEFAULT_INPUT_PDFS)
     if p == "input_pdfs":
-        d = HERE / "input_pdfs"
+        d = common.DEFAULT_INPUT_PDFS
         d.mkdir(exist_ok=True)
         if not any(x.suffix.lower() == ".pdf" for x in d.iterdir()):
             print("\n  input_pdfs/ đang trống. Mình mở thư mục này, hãy chép các file PDF vào rồi quay lại.")
@@ -641,7 +644,7 @@ def md_menu():
             clear()
             if need_uv():
                 if has_key():
-                    exec_uv("process_book.py", "--list-models")
+                    exec_uv("src/ingest/process_book.py", "--list-models")
                 else:
                     print(f"  {RD}Chưa có GEMINI_API_KEY.{R} Hãy chọn [7] để đặt key trước.")
             pause()
@@ -678,34 +681,34 @@ def book_menu():
         ch = ask("  Nhập lựa chọn của bạn : ").lower()
         if ch == "1":
             if need_id():
-                exec_uv("6_muc_luc.py")
+                exec_uv("src/notebook/muc_luc.py")
             pause()
         elif ch == "2":
             if need_id():
                 if ask("  Ghi đè giao_trinh.txt bằng mục lục đọc được (bản cũ được sao lưu .bak)? [y/N] ").lower().startswith("y"):
-                    exec_uv("6_muc_luc.py", "--apply")
+                    exec_uv("src/notebook/muc_luc.py", "--apply")
             pause()
         elif ch == "3":
             view_text(out_root() / "muc_luc" / "muc_luc.md")
         elif ch == "4":
             print("  Nhập đường dẫn file PDF hoặc thư mục (Enter = tự tìm trong output_ocr/ rồi input_pdfs/)")
             p = ask("  Đường dẫn: ")
-            exec_uv("8_kiem_tra_pdf.py", *([p] if p else []))
+            exec_uv("src/ingest/check_pdf.py", *([p] if p else []))
             pause()
         elif ch == "5":
-            edit_file("giao_trinh.txt")
+            edit_file(common.CONFIG_DIR / "giao_trinh.txt")
         elif ch in ("0", "q"):
             return
 
 
 # ------------------------------------------------------------------ 6-10. các chức năng tạo nội dung
 FEATURES = {
-    "giang": dict(title="GIẢNG BÀI", cmd=["4_giang_bai.py"], files=["giang_bai.txt"], out="giang_bai"),
-    "hoi": dict(title="TẠO CÂU HỎI", cmd=["5_tao_cau_hoi.py"], files=["cau_hoi.txt", "cauhoi.txt"], out="cau_hoi"),
-    "mindmap": dict(title="TẠO MINDMAP", cmd=["7_tao_media.py", "mindmap"], files=["mindmaps.txt"], out="mindmap"),
-    "infographic": dict(title="TẠO INFOGRAPHIC", cmd=["7_tao_media.py", "infographic"],
+    "giang": dict(title="GIẢNG BÀI", cmd=["src/notebook/giang_bai.py"], files=["giang_bai.txt"], out="giang_bai"),
+    "hoi": dict(title="TẠO CÂU HỎI", cmd=["src/notebook/tao_cau_hoi.py"], files=["cau_hoi.txt", "cauhoi.txt"], out="cau_hoi"),
+    "mindmap": dict(title="TẠO MINDMAP", cmd=["src/notebook/tao_media.py", "mindmap"], files=["mindmaps.txt"], out="mindmap"),
+    "infographic": dict(title="TẠO INFOGRAPHIC", cmd=["src/notebook/tao_media.py", "infographic"],
                         files=["infographics.txt"], out="infographic"),
-    "video": dict(title="TẠO VIDEO", cmd=["7_tao_media.py", "video"], files=["videos.txt"], out="video"),
+    "video": dict(title="TẠO VIDEO", cmd=["src/notebook/tao_media.py", "video"], files=["videos.txt"], out="video"),
 }
 MEDIA = ("mindmap", "infographic", "video")
 
@@ -781,7 +784,7 @@ def feature_menu(kind):
         elif ch == "5":
             edit_file(f["files"][0])
         elif ch == "6":
-            edit_file("giao_trinh.txt")
+            edit_file(common.CONFIG_DIR / "giao_trinh.txt")
         elif ch == "7" and kind in ("giang", "hoi"):
             toggle("strip")
         elif ch == "8":
@@ -835,7 +838,7 @@ def obsidian_menu():
                 S["book"] = n
                 save_settings()
         elif ch == "4":
-            exec_uv("9_cap_nhat_obsidian.py", "--out-root", str(S["out_root"]), "--book", S["book"])
+            exec_uv("src/sync/cap_nhat_obsidian.py", "--out-root", str(S["out_root"]), "--book", S["book"])
             pause()
         elif ch == "5":
             open_folder(out_root())
@@ -860,7 +863,7 @@ def set_id():
         elif ch == "2":
             raw = ask("  Dán ID hoặc URL notebook: ")
             if raw:
-                Path("notebook_id.txt").write_text(raw + "\n", encoding="utf-8")
+                (common.CONFIG_DIR / "notebook_id.txt").write_text(raw + "\n", encoding="utf-8")
                 print(f"  Đã lưu. ID hiện tại: {id_short()}")
         elif ch in ("0", "q"):
             return
@@ -893,8 +896,8 @@ def status():
     print(f"\n Obsidian: {onoff(S['obs'])} | note sách: {S['book']}")
     print(f" Thư mục đầu ra: {S['out_root']}\n")
     pdfs = lambda d: sum(1 for p in Path(d).glob("*") if p.suffix.lower() == ".pdf") if Path(d).is_dir() else 0  # noqa: E731
-    print(f" PDF trong input_pdfs/        : {pdfs('input_pdfs')}")
-    print(f" PDF đã OCR trong output_ocr/ : {pdfs('output_ocr')}")
+    print(f" PDF trong input_pdfs/        : {pdfs(common.DEFAULT_INPUT_PDFS)}")
+    print(f" PDF đã OCR trong output_ocr/ : {pdfs(common.DEFAULT_OUTPUT_OCR)}")
     md_dir = md_out_dir()
     n_md = sum(1 for p in md_dir.rglob("*.md") if ".pages" not in p.parts) if md_dir.is_dir() else 0
     print(f" File Markdown (Gemini)       : {n_md}  ({md_dir})")
@@ -914,7 +917,7 @@ def status():
 # ------------------------------------------------------------------ 14. mở thư mục
 def open_menu():
     while True:
-        targets = {"1": HERE, "2": Path("input_pdfs"), "3": Path("output_ocr"), "4": out_root(),
+        targets = {"1": HERE, "2": common.DEFAULT_INPUT_PDFS, "3": common.DEFAULT_OUTPUT_OCR, "4": out_root(),
                    "5": out_root() / "giang_bai", "6": out_root() / "cau_hoi", "7": out_root() / "mindmap",
                    "8": out_root() / "infographic", "9": out_root() / "video", "10": md_out_dir()}
         clear()
@@ -947,8 +950,8 @@ def main_menu():
                 "8": lambda: feature_menu("mindmap"), "9": lambda: feature_menu("infographic"),
                 "10": lambda: feature_menu("video"), "11": obsidian_menu, "12": set_id,
                 "13": status, "14": open_menu, "15": md_menu,
-                "16": lambda: exec_uv("menu_nguon_gv.py"),
-                "17": lambda: exec_uv("menu_bien_tap.py")}
+                "16": lambda: exec_uv("src/menus/menu_nguon_gv.py"),
+                "17": lambda: exec_uv("src/menus/menu_bien_tap.py")}
     while True:
         clear()
         has_login = (Path.home() / ".notebooklm").exists()

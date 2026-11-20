@@ -56,19 +56,19 @@ jobs:
 
       - name: Run
         run: |
-          mkdir -p giang_out
+          mkdir -p workspace/giang_out
           export NOTEBOOKLM_NOTEBOOK="${INPUT_NOTEBOOK:-$SECRET_NOTEBOOK}"
           if [ -z "$NOTEBOOKLM_NOTEBOOK" ]; then echo "Thiếu notebook id"; exit 1; fi
           if [ "$MODE" = "kiemtra_note" ]; then
-            printf '%s\n' "$NOTE_TEXT" > giang_out/note.txt
-            python output/ask_notebook.py "$MODE" "$LESSON" --note giang_out/note.txt -o "giang_out/kiem_tra_${GITHUB_RUN_NUMBER}.md"
+            printf '%s\n' "$NOTE_TEXT" > workspace/giang_out/note.txt
+            python src/notebook/ask_notebook.py "$MODE" "$LESSON" --note workspace/giang_out/note.txt -o "workspace/giang_out/kiem_tra_${GITHUB_RUN_NUMBER}.md"
           else
-            python output/ask_notebook.py "$MODE" "$LESSON" -o "giang_out/bai_${GITHUB_RUN_NUMBER}.md"
+            python src/notebook/ask_notebook.py "$MODE" "$LESSON" -o "workspace/giang_out/bai_${GITHUB_RUN_NUMBER}.md"
           fi
 
       - name: Upload result
         uses: actions/upload-artifact@v4
         with:
           name: giang-bai
-          path: giang_out/*.md
+          path: workspace/giang_out/*.md
           if-no-files-found: error
