@@ -967,7 +967,7 @@ def main_menu():
         "12": lambda: feature_menu("video"),
         "13": lambda: exec_uv("src/menus/menu_bien_tap.py"),
         "14": lambda: handle_pending_feature("Tạo bộ câu hỏi theo chủ đề"),
-        "15": lambda: handle_pending_feature("Giải đề chi tiết kèm giải thích"),
+        "15": lambda: exec_uv("src/llm/exam_solver.py"),
         "16": lambda: handle_pending_feature("Tạo Anki, Flashcard"),
         "17": lambda: handle_pending_feature("Đang chờ update"),
         "18": lambda: handle_pending_feature("Đang chờ update"),

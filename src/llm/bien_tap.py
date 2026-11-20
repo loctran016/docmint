@@ -253,41 +253,22 @@ class ApiEditor:
 # Backend web (tuỳ chọn): gemini-webapi + cookie, dùng gói Google AI Pro
 # ---------------------------------------------------------------------------
 class WebEditor:
-    """Gọi Gemini web bằng thư viện gemini-webapi (không chính thức). Mỗi lần dùng temporary=True để không
-    làm rác lịch sử chat. Cần: uv run --with gemini-webapi bien_tap.py --backend web"""
+    """Compatibility wrapper around the shared Gemini Web engine."""
 
-    def __init__(self, model="", gem="", delay=(15.0, 25.0), sleep=time.sleep, log=print):
-        try:
-            import asyncio
-            from gemini_webapi import GeminiClient
-        except ImportError as e:
-            raise SystemExit("Backend web cần thư viện gemini-webapi. Chạy: uv run --with gemini-webapi bien_tap.py --backend web") from e
-        self._asyncio = asyncio
-        self.loop = asyncio.new_event_loop()
-        psid, psidts = os.environ.get("GEMINI_SECURE_1PSID"), os.environ.get("GEMINI_SECURE_1PSIDTS")
-        self.client = GeminiClient(psid, psidts) if psid else GeminiClient()
-        self.model, self.gem, self.delay, self._sleep, self._log = model or None, gem or None, delay, sleep, log
-        self.loop.run_until_complete(self.client.init(timeout=60, auto_close=False, close_delay=300, auto_refresh=True))
-        self.gem_obj = None
-        if self.gem:
-            self.loop.run_until_complete(self.client.fetch_gems())
-            self.gem_obj = self.client.gems.get(name=self.gem)
-        self.last_model = self.model or "gemini-web"
+    def __init__(
+        self, model="", gem="", delay=(15.0, 25.0), sleep=time.sleep, log=print
+    ):
+        from src.core.llm_router import GeminiWebEngine
+
+        self.engine = GeminiWebEngine(model=model, gem=gem, delay=delay, log=log)
+        self.last_model = self.engine.last_model
 
     def edit(self, system: str, user: str) -> tuple[str | None, str]:
-        prompt = system + "\n\n" + user
         try:
-            kw = {"temporary": True}
-            if self.model:
-                kw["model"] = self.model
-            if self.gem_obj is not None:
-                kw["gem"] = self.gem_obj
-            resp = self.loop.run_until_complete(self.client.generate_content(prompt, **kw))
+            text = self.engine.generate(system, user)
+            return text, ""
         except Exception as e:  # noqa: BLE001
             return None, f"Gemini web lỗi: {re.sub(chr(10), ' ', str(e))[:160]}"
-        text = (getattr(resp, "text", "") or "").strip()
-        self._sleep(random.uniform(*self.delay))
-        return (text, "") if text else (None, "Gemini web trả về rỗng")
 
 
 # ---------------------------------------------------------------------------
