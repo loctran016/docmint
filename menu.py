@@ -8,7 +8,7 @@ Menu tổng hợp cho bộ công cụ NotebookLM. Chạy được trên WSL/Linu
     uv run menu.py          (hoặc: bash menu.sh  /  nhấp đúp menu.cmd trên Windows)
 
 Mọi input/output nằm trong thư mục toolkit (hoặc thư mục đầu ra bạn đặt, ví dụ vault Obsidian).
-Mục [15] gọi process_book.py (PDF scan -> Markdown bằng Gemini). Mục [17] là lớp biên tập văn phong (bien_tap.py).
+Mục [5] gọi process_book.py (PDF scan -> Markdown bằng Gemini). Mục [13] là lớp biên tập văn phong (bien_tap.py).
 """
 import getpass
 import json
@@ -22,7 +22,7 @@ from pathlib import Path
 
 from src.core import common
 
-HERE = Path(__file__).resolve().parent
+HERE = common.TOOLKIT_DIR
 os.chdir(HERE)
 
 IS_WIN, IS_MAC, IS_WSL = common.IS_WIN, common.IS_MAC, common.IS_WSL
@@ -30,7 +30,7 @@ if IS_WIN:
     os.system("")   # bật mã màu ANSI trong cửa sổ dòng lệnh Windows
 
 # ------------------------------------------------------------------ cài đặt nhớ lại
-SETTINGS_FILE = HERE / ".menu_settings.json"
+SETTINGS_FILE = common.TOOLKIT_DIR / ".menu_settings.json"
 DEFAULTS = {"strip": 0, "fm": 0, "obs": 0, "quiz_mode": "md", "quiz_fmt": "markdown",
             "mm_kind": "interactive", "book": "Sách giáo khoa", "out_root": str(common.KET_QUA_DIR),
             "md_split": 0, "md_model": "", "md_out": "", "md_paid": 0,
@@ -233,7 +233,7 @@ def need_uv():
 
 def need_id():
     if not get_id():
-        print(f"  {RD}Chưa có ID notebook.{R} Hãy chọn [12] ở menu chính để đặt ID trước.")
+        print(f"  {RD}Chưa có ID notebook.{R} Hãy chọn [20] ở menu chính để đặt ID trước.")
         return False
     return True
 
@@ -315,7 +315,7 @@ def view_text(path):
 
 # ------------------------------------------------------------------ 1-4. hướng dẫn, cài đặt, OCR
 def show_guide():
-    view_text("README.md")
+    view_text(common.TOOLKIT_DIR / "README.md")
 
 
 def setup_nlm():
@@ -323,7 +323,7 @@ def setup_nlm():
     print(f"{B}== Cài & set-up notebooklm-py =={R}")
     exec_uv("src/ingest/setup_notebooklm.py")
     if not get_id():
-        print("\n  Bước tiếp theo: chọn [12] ở menu chính để đặt ID notebook.")
+        print("\n  Bước tiếp theo: chọn [20] ở menu chính để đặt ID notebook.")
     pause()
 
 
@@ -361,7 +361,7 @@ def do_ocr():
 
 
 # ------------------------------------------------------------------ 15. PDF -> Markdown bằng Gemini
-ENV_FILE = HERE / ".env"
+ENV_FILE = common.TOOLKIT_DIR / ".env"
 KEY_NAMES = ("GEMINI_API_KEYS", "GEMINI_API_KEY", "GOOGLE_API_KEY")
 GITIGNORE_PATTERNS = [".env", ".menu_settings.json", "workspace/", "tessdata/", ".cache/",
                       "__pycache__/"]
@@ -383,7 +383,7 @@ def has_key():
 
 def ensure_ignored(*patterns):
     """Thêm các mẫu vào .gitignore nếu chưa có. Trả về danh sách mẫu vừa thêm."""
-    gi = HERE / ".gitignore"
+    gi = common.TOOLKIT_DIR / ".gitignore"
     existing = gi.read_text(encoding="utf-8").splitlines() if gi.exists() else []
     add = [p for p in patterns if p not in existing]
     if add:
@@ -782,7 +782,7 @@ def feature_menu(kind):
                 run_feature(kind, "--force")
                 pause()
         elif ch == "5":
-            edit_file(f["files"][0])
+            edit_file(common.CONFIG_DIR / f["files"][0])
         elif ch == "6":
             edit_file(common.CONFIG_DIR / common.GIAO_TRINH_FILE.name)
         elif ch == "7" and kind in ("giang", "hoi"):
@@ -889,9 +889,9 @@ def status():
     print(f" {ok if 'vie' in langs else bad} Gói tiếng Việt cho Tesseract: {'có' if 'vie' in langs else 'chưa có  → chọn [3]'}")
     _ocr_cache["ready"] = bool(tess and gs and "vie" in langs)
 
-    print(f" {ok} ID notebook: {get_id()}" if get_id() else f" {bad} chưa có ID notebook  → chọn [12]")
+    print(f" {ok} ID notebook: {get_id()}" if get_id() else f" {bad} chưa có ID notebook  → chọn [20]")
     print(f" {ok} GEMINI_API_KEY đã được đặt" if has_key()
-          else f" {bad} chưa có GEMINI_API_KEY  → chọn [15] rồi [7]")
+          else f" {bad} chưa có GEMINI_API_KEY  → chọn [5] rồi đặt key trong menu")
 
     print(f"\n Obsidian: {onoff(S['obs'])} | note sách: {S['book']}")
     print(f" Thư mục đầu ra: {S['out_root']}\n")
@@ -917,7 +917,7 @@ def status():
 # ------------------------------------------------------------------ 14. mở thư mục
 def open_menu():
     while True:
-        targets = {"1": HERE, "2": common.DEFAULT_INPUT_PDFS, "3": common.DEFAULT_OUTPUT_OCR, "4": out_root(),
+        targets = {"1": common.TOOLKIT_DIR, "2": common.DEFAULT_INPUT_PDFS, "3": common.DEFAULT_OUTPUT_OCR, "4": out_root(),
                    "5": out_root() / "giang_bai", "6": out_root() / "cau_hoi", "7": out_root() / "mindmap",
                    "8": out_root() / "infographic", "9": out_root() / "video", "10": md_out_dir()}
         clear()
@@ -935,6 +935,13 @@ def open_menu():
 
 
 # ------------------------------------------------------------------ menu chính
+def handle_pending_feature(title):
+    clear()
+    print(f"{B}== {title} =={R}\n")
+    print("  Tính năng đang phát triển / chờ cấu hình backend LLM (DeepSeek).")
+    pause()
+
+
 def main_menu():
     system = "Windows" if IS_WIN else ("WSL" if IS_WSL else platform.system())
     pretty = system
@@ -945,13 +952,30 @@ def main_menu():
     except Exception:  # noqa: BLE001
         if IS_WIN:
             pretty = f"Windows {platform.release()}"
-    handlers = {"1": show_guide, "2": setup_nlm, "3": setup_ocr, "4": do_ocr, "5": book_menu,
-                "6": lambda: feature_menu("giang"), "7": lambda: feature_menu("hoi"),
-                "8": lambda: feature_menu("mindmap"), "9": lambda: feature_menu("infographic"),
-                "10": lambda: feature_menu("video"), "11": obsidian_menu, "12": set_id,
-                "13": status, "14": open_menu, "15": md_menu,
-                "16": lambda: exec_uv("src/menus/menu_nguon_gv.py"),
-                "17": lambda: exec_uv("src/menus/menu_bien_tap.py")}
+    handlers = {
+        "1": show_guide,
+        "2": setup_nlm,
+        "3": setup_ocr,
+        "4": do_ocr,
+        "5": md_menu,
+        "6": lambda: exec_uv("src/menus/menu_nguon_gv.py"),
+        "7": book_menu,
+        "8": lambda: feature_menu("giang"),
+        "9": lambda: feature_menu("hoi"),
+        "10": lambda: feature_menu("mindmap"),
+        "11": lambda: feature_menu("infographic"),
+        "12": lambda: feature_menu("video"),
+        "13": lambda: exec_uv("src/menus/menu_bien_tap.py"),
+        "14": lambda: handle_pending_feature("Tạo bộ câu hỏi theo chủ đề"),
+        "15": lambda: handle_pending_feature("Giải đề chi tiết kèm giải thích"),
+        "16": lambda: handle_pending_feature("Tạo Anki, Flashcard"),
+        "17": lambda: handle_pending_feature("Đang chờ update"),
+        "18": lambda: handle_pending_feature("Đang chờ update"),
+        "19": obsidian_menu,
+        "20": set_id,
+        "21": status,
+        "22": open_menu,
+    }
     while True:
         clear()
         has_login = (Path.home() / ".notebooklm").exists()
@@ -960,28 +984,38 @@ def main_menu():
             f"INFO:Notebook ID: {id_short()} | Obsidian: {onoff(S['obs'])}",
             f"INFO:uv: {yn(UV)} | OCR: {yn(ocr_ready())} | đăng nhập: {yn(has_login)} | Gemini: {yn(has_key())}",
             "MID",
+            "CTR:── CÀI ĐẶT & NHẬP LIỆU ──",
             "1|Hướng dẫn (README.md)",
             "2|Cài & set-up notebooklm-py",
             "3|Cài & set-up OCR",
             "4|OCR PDFs (cả thư mục)",
-            "15|PDF → Markdown bằng Gemini (process_book.py)",
-            "16|Nguồn giáo viên: transcript, slide, giảng theo nguồn",
-            "SEP",
-            "5|Kiểm tra sách: đọc mục lục Chương/Bài",
-            "6|Giảng bài NotebookLM",
-            "7|Tạo câu hỏi NotebookLM",
-            "8|Tạo Mindmap",
-            "9|Tạo Infographic",
-            "10|Tạo Video",
-            "17|Biên tập văn phong (lớp viết lại bài giảng)",
-            "SEP",
-            "11|Obsidian: đồng bộ vào vault",
-            "12|Đặt ID notebook",
-            "13|Kiểm tra trạng thái",
-            "14|Mở thư mục",
+            "5|PDF → Markdown bằng Gemini (process_book.py)",
+            "6|Nguồn giáo viên: transcript, slide, giảng theo nguồn",
+            "MID",
+            "CTR:── Gemini Notebook ──",
+            "7|Kiểm tra sách: đọc mục lục Chương/Bài",
+            "8|Giảng bài NotebookLM",
+            "9|Tạo câu hỏi NotebookLM",
+            "10|Tạo Mindmap",
+            "11|Tạo Infographic",
+            "12|Tạo Video",
+            "13|Biên tập văn phong (lớp viết lại bài giảng)",
+            "MID",
+            "CTR:── Gemini Notebook + LLM ──",
+            "14|Tạo bộ câu hỏi theo chủ đề",
+            "15|Giải đề chi tiết kèm giải thích",
+            "16|Tạo Anki, Flashcard",
+            "17|Đang chờ update",
+            "18|Đang chờ update",
+            "MID",
+            "CTR:── ĐỒNG BỘ & TIỆN ÍCH ──",
+            "19|Obsidian: đồng bộ vào vault",
+            "20|Đặt ID notebook",
+            "21|Kiểm tra trạng thái",
+            "22|Mở thư mục",
             "SEP",
             "0|Thoát"])
-        ch = ask("  Nhập lựa chọn của bạn [0-17] : ").lower()
+        ch = ask("  Nhập lựa chọn của bạn [0-22] : ").lower()
         if ch in ("0", "q"):
             print()
             return

@@ -114,3 +114,7 @@
 - Editorial output stays under `workspace/ket_qua/{giang_bai,raw,polished}/`.
 - Source prefixes remain `[SGK]`, `[GV]`, and `[SLIDE]`.
 - Obsidian YAML and citation behavior must remain unchanged.
+
+## Data Safety
+
+- Never read, grep, or index `workspace/` (including `workspace/output_md/.pages/`), `.cache/`, or legacy data folders (`output_md/`, `input_pdfs/`, `output_ocr/`, `ket_qua/`, `transcripts/`, `slides_out/`, `giang_out/`).
