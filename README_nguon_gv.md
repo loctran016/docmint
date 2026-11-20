@@ -142,6 +142,7 @@ uv run output/generate_artifacts.py mindmap "Sinh lý gan" --source giaovien
 Kết quả trong `ket_qua/artifacts_nguon/<loại>/`. Script tải đúng artifact vừa tạo (theo `artifact_id`). Hạn mức tạo nội dung tuỳ gói tài khoản.
 
 **Menu phụ:** `uv run menu_nguon_gv.py` gom các bước A đến E (hỏi từng thông tin, có chế độ `--dry-run`/`--test`).
+Trong menu phụ, mục transcript cho phép chọn file audio đã tải sẵn hoặc video/playlist YouTube; vì vậy không cần tự gõ lệnh `get_medical_transcript.py --audio ...`. Có thể mở menu bằng `menu.sh`, `menu.cmd`, hoặc chọn mục `[16]` trong `menu.py`.
 
 ## 6. GitHub Actions
 
