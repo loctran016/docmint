@@ -8,6 +8,7 @@ import json
 import re
 import shutil
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -41,6 +42,94 @@ SUBJECT_LABELS = {
     "tieu-hoa": "Tiêu hóa",
     "dinh-duong": "Dinh dưỡng",
 }
+
+
+def _strict_null(value: Any) -> Any:
+    if value is None:
+        return None
+    if isinstance(value, str):
+        stripped = value.strip()
+        if not stripped or stripped.upper() in {"N/A", "NA", "NULL"}:
+            return None
+        return stripped
+    return value
+
+
+def _normalized_status(value: Any) -> str:
+    status = str(value or "").strip().lower()
+    return status if status in {"verified", "conflict", "ai_only"} else "ai_only"
+
+
+def _normalize_question(
+    question: dict[str, Any],
+    exam_id: str,
+    cohort: str,
+    subject_dir: Path,
+    used_ids: set[str] | None = None,
+) -> dict[str, Any]:
+    num = question.get("num", question.get("number"))
+    if isinstance(num, str) and num.isdigit():
+        num = int(num)
+    if not isinstance(num, int):
+        try:
+            num = int(str(num).strip())
+        except (TypeError, ValueError):
+            num = 0
+
+    group_id = question.get("group_id", question.get("final_group", 4))
+    try:
+        group_id = int(group_id)
+    except (TypeError, ValueError):
+        group_id = 4
+    if group_id not in GROUP_NAMES:
+        group_id = 4
+
+    base_id = f"{exam_id}_Q{num}"
+    question_id = str(question.get("id") or base_id)
+    used_ids = used_ids if used_ids is not None else set()
+    if question_id in used_ids:
+        suffix = 1
+        question_id = f"{base_id}_{suffix}"
+        while question_id in used_ids:
+            suffix += 1
+            question_id = f"{base_id}_{suffix}"
+    used_ids.add(question_id)
+
+    options = []
+    for option in question.get("options", []) or []:
+        if isinstance(option, dict):
+            key = str(option.get("key", "")).strip().upper()
+            text = str(option.get("text", "")).strip()
+            options.append({"key": key, "text": text})
+
+    image = _strict_null(question.get("image"))
+    if isinstance(image, str) and image:
+        image_path = subject_dir / image
+        if not (image.startswith("assets/") and image_path.is_file()):
+            image = None
+
+    legacy_key = _strict_null(question.get("legacy_key"))
+    if isinstance(legacy_key, str):
+        legacy_key = legacy_key.upper()
+
+    return {
+        "id": question_id,
+        "exam_id": str(question.get("exam_id") or exam_id),
+        "cohort": str(question.get("cohort") or cohort),
+        "num": num,
+        "group_id": group_id,
+        "group_name": GROUP_NAMES[group_id],
+        "stem": str(question.get("stem", question.get("question", ""))).strip(),
+        "options": options,
+        "answer": str(question.get("answer", "")).strip().upper(),
+        "status": _normalized_status(question.get("status")),
+        "legacy_key": legacy_key,
+        "student_note": _strict_null(question.get("student_note")),
+        "hint": str(question.get("hint", "")).strip(),
+        "formula_work": _strict_null(question.get("formula_work")),
+        "explanation": str(question.get("explanation", "")).strip(),
+        "image": image,
+    }
 
 
 def _json_hash(value: Any) -> str:
@@ -98,7 +187,7 @@ def _validate_results(
             "final_group": group,
             "hint": str(item.get("hint", "")).strip(),
             "formula_work": (
-                str(item.get("formula_work", "")).strip() if require_formula else None
+                _strict_null(item.get("formula_work")) if require_formula else None
             ),
             "answer": answer,
             "explanation": str(item.get("explanation", "")).strip(),
@@ -173,6 +262,11 @@ def _export_question(
     assets_dir: Path,
 ) -> dict[str, Any]:
     image = _copy_asset(question.image_path, assets_dir)
+    legacy_key = _strict_null(question.raw_key)
+    if isinstance(legacy_key, str):
+        legacy_key = legacy_key.upper()
+    student_note = _strict_null(question.student_note)
+    formula_work = _strict_null(result["formula_work"])
     return {
         "id": f"{exam_id}_Q{question.q_num}",
         "exam_id": exam_id,
@@ -184,10 +278,10 @@ def _export_question(
         "options": _options(question.options),
         "answer": result["answer"],
         "status": result["status"],
-        "legacy_key": question.raw_key,
-        "student_note": question.student_note,
+        "legacy_key": legacy_key,
+        "student_note": student_note,
         "hint": result["hint"],
-        "formula_work": result["formula_work"],
+        "formula_work": formula_work,
         "explanation": result["explanation"],
         "image": image,
     }
@@ -204,10 +298,21 @@ def _export_exam(
     assets_dir = subject_dir / "assets"
     exam_id = pdf_path.stem
     cohort = _cohort(pdf_path)
-    exported_questions = [
-        _export_question(exam_id, cohort, question, results[question.id], assets_dir)
-        for question in questions
-    ]
+    exported_questions = []
+    used_ids: set[str] = set()
+    for question in questions:
+        item = _export_question(
+            exam_id, cohort, question, results[question.id], assets_dir
+        )
+        base_id = item["id"]
+        unique_id = base_id
+        suffix = 1
+        while unique_id in used_ids:
+            unique_id = f"{base_id}_{suffix}"
+            suffix += 1
+        used_ids.add(unique_id)
+        item["id"] = unique_id
+        exported_questions.append(item)
     payload = {
         "exam_id": exam_id,
         "cohort": cohort,
@@ -215,6 +320,7 @@ def _export_exam(
         "subject_label": SUBJECT_LABELS.get(subject, subject.replace("-", " ").title()),
         "title": pdf_path.stem,
         "default_time_sec": 3600,
+        "question_count": len(exported_questions),
         "questions": exported_questions,
     }
     subject_dir.mkdir(parents=True, exist_ok=True)
@@ -224,31 +330,178 @@ def _export_exam(
 
 
 def _merge_bank(subject_dir: Path, subject: str) -> None:
-    exams = []
+    exams_by_id: dict[str, dict[str, Any]] = {}
+    questions: list[dict[str, Any]] = []
+    existing_bank = subject_dir / "bank.json"
+    existing_questions: dict[str, dict[str, Any]] = {}
+    if existing_bank.is_file():
+        try:
+            existing_payload = json.loads(existing_bank.read_text(encoding="utf-8"))
+            for existing in existing_payload.get("questions", []) or []:
+                if isinstance(existing, dict):
+                    existing_id = str(existing.get("id") or "")
+                    if existing_id:
+                        existing_questions[existing_id] = existing
+        except json.JSONDecodeError:
+            existing_questions = {}
     for path in sorted(subject_dir.glob("*.json")):
         if path.name == "bank.json":
             continue
         payload = json.loads(path.read_text(encoding="utf-8"))
-        exams.append({
+        exam_id = str(payload["exam_id"])
+        exams_by_id[exam_id] = {
             "exam_id": payload["exam_id"],
             "cohort": payload["cohort"],
             "title": payload["title"],
             "default_time_sec": payload["default_time_sec"],
             "question_count": len(payload["questions"]),
-        })
-    questions = []
+        }
+        used_ids: set[str] = set()
+        for raw_question in payload["questions"]:
+            question = _normalize_question(
+                raw_question,
+                exam_id,
+                str(payload.get("cohort") or ""),
+                subject_dir,
+                used_ids,
+            )
+            manual = existing_questions.get(question["id"])
+            if manual:
+                for key in (
+                    "stem", "options", "answer", "status", "legacy_key",
+                    "student_note", "hint", "formula_work", "explanation", "image",
+                ):
+                    if key in manual:
+                        question[key] = manual[key]
+                question = _normalize_question(
+                    question, exam_id, str(payload.get("cohort") or ""), subject_dir, set()
+                )
+            questions.append(question)
+
+    question_exam_ids = {str(question["exam_id"]) for question in questions}
+    exams = [
+        exam
+        for exam_id, exam in exams_by_id.items()
+        if exam_id in question_exam_ids
+    ]
+    exams_by_question_count: dict[str, int] = {}
+    for question in questions:
+        exam_id = str(question["exam_id"])
+        exams_by_question_count[exam_id] = exams_by_question_count.get(exam_id, 0) + 1
     for exam in exams:
-        payload = json.loads((subject_dir / f"{exam['exam_id']}.json").read_text(encoding="utf-8"))
-        questions.extend(payload["questions"])
+        exam["question_count"] = exams_by_question_count.get(exam["exam_id"], 0)
+
     bank = {
         "subject": subject,
         "subject_label": SUBJECT_LABELS.get(subject, subject.replace("-", " ").title()),
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "total_questions": len(questions),
         "exams": exams,
         "questions": questions,
     }
     (subject_dir / "bank.json").write_text(
         json.dumps(bank, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
+
+
+def migrate_existing_json(root: Path) -> dict[str, bool]:
+    unique_ids = True
+    strict_nulls = True
+    exams_sync = True
+    assets_exist = True
+
+    if not root.is_dir():
+        return {
+            "unique_ids": unique_ids,
+            "strict_nulls": strict_nulls,
+            "exams_sync": exams_sync,
+            "assets_exist": assets_exist,
+        }
+
+    for subject_dir in sorted(path for path in root.iterdir() if path.is_dir()):
+        subject = subject_dir.name
+        exam_paths = sorted(
+            path for path in subject_dir.glob("*.json") if path.name != "bank.json"
+        )
+        for exam_path in exam_paths:
+            payload = json.loads(exam_path.read_text(encoding="utf-8"))
+            exam_id = str(payload.get("exam_id") or exam_path.stem)
+            cohort = str(payload.get("cohort") or _cohort(exam_path))
+            used_ids: set[str] = set()
+            normalized_questions = [
+                _normalize_question(
+                    question,
+                    exam_id,
+                    cohort,
+                    subject_dir,
+                    used_ids,
+                )
+                for question in payload.get("questions", []) or []
+                if isinstance(question, dict)
+            ]
+            normalized_payload = {
+                "exam_id": exam_id,
+                "cohort": cohort,
+                "subject": subject,
+                "subject_label": SUBJECT_LABELS.get(
+                    subject, str(payload.get("subject_label") or subject.replace("-", " ").title())
+                ),
+                "title": str(payload.get("title") or exam_id),
+                "default_time_sec": int(payload.get("default_time_sec") or 3600),
+                "question_count": len(normalized_questions),
+                "questions": normalized_questions,
+            }
+            exam_path.write_text(
+                json.dumps(normalized_payload, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+
+        _merge_bank(subject_dir, subject)
+
+        bank_path = subject_dir / "bank.json"
+        if not bank_path.is_file():
+            continue
+        bank = json.loads(bank_path.read_text(encoding="utf-8"))
+        seen: dict[str, set[str]] = {}
+        for question in bank.get("questions", []) or []:
+            if not isinstance(question, dict):
+                unique_ids = False
+                continue
+            exam_id = str(question.get("exam_id") or "")
+            question_id = str(question.get("id") or "")
+            seen.setdefault(exam_id, set())
+            if not question_id or question_id in seen[exam_id]:
+                unique_ids = False
+            seen[exam_id].add(question_id)
+            for key in ("legacy_key", "student_note", "formula_work", "image"):
+                value = question.get(key)
+                if isinstance(value, str) and (
+                    not value.strip() or value.strip().upper() in {"N/A", "NA", "NULL"}
+                ):
+                    strict_nulls = False
+            image = question.get("image")
+            if image is not None:
+                if not (
+                    isinstance(image, str)
+                    and image.startswith("assets/")
+                    and (subject_dir / image).is_file()
+                ):
+                    assets_exist = False
+        exam_ids = {str(exam.get("exam_id")) for exam in bank.get("exams", []) or []}
+        question_exam_ids = {
+            str(question.get("exam_id"))
+            for question in bank.get("questions", []) or []
+            if isinstance(question, dict)
+        }
+        if exam_ids != question_exam_ids:
+            exams_sync = False
+
+    return {
+        "unique_ids": unique_ids,
+        "strict_nulls": strict_nulls,
+        "exams_sync": exams_sync,
+        "assets_exist": assets_exist,
+    }
 
 
 def solve_exam(
@@ -307,11 +560,22 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--web-model", default="")
     parser.add_argument("--web-gem", default="")
     parser.add_argument("--force", action="store_true", help="Bỏ qua cache batch hiện có.")
+    parser.add_argument(
+        "--migrate-only",
+        action="store_true",
+        help="Chuẩn hóa JSON hiện có dưới --out mà không gọi API.",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+    if args.migrate_only:
+        checks = migrate_existing_json(args.out)
+        print(json.dumps(checks, ensure_ascii=False, sort_keys=True))
+        if not all(checks.values()):
+            raise SystemExit(1)
+        return
     input_path = args.input_path
     pdfs = [input_path] if input_path.is_file() else sorted(input_path.glob("*.pdf"))
     if not pdfs:
