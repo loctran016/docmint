@@ -90,7 +90,7 @@ jobs:
               *.m4a|*.mp3|*.wav|*.ogg|*.opus|*.webm)
                 ARGS=(--audio "$audio" --lang "$VIDEO_LANG" --out transcript_out)
                 [ "$UPGRADE" = "true" ] && ARGS+=(--upgrade-stt)
-                python input/transcripts/get_medical_transcript.py "${ARGS[@]}"
+                python src/ingest/transcripts/get_medical_transcript.py "${ARGS[@]}"
                 ;;
             esac
           done

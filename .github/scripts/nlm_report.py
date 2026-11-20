@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Tạo ghi chú release + file zip kết quả cho workflow NotebookLM (giảng bài, câu hỏi, mindmap...).
-Đọc log của 4_giang_bai.py / 5_tao_cau_hoi.py / 7_tao_media.py và tóm tắt giống phần "TỔNG KẾT" khi chạy trên máy.
+Đọc log của src/notebook/giang_bai.py, src/notebook/tao_cau_hoi.py và src/notebook/tao_media.py.
 Chỉ dùng thư viện chuẩn.
 
 Ghi `new_files=<số file mới>` vào $GITHUB_OUTPUT (nếu có).
