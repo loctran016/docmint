@@ -84,7 +84,7 @@ jobs:
           python src/ingest/transcripts/build_transcript.py whisper
 
       - name: Upload result
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: medical-transcript
           path: transcript_out/*.md
