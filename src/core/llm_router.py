@@ -8,27 +8,12 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 from typing import Optional
+from src.core import common
 from src.core.prompts import render_prompt
-
-try:
-  from src.core.common import ROOT_DIR
-except ImportError:
-  ROOT_DIR = Path(__file__).resolve().parents[2]
 
 
 def _ensure_env_loaded() -> None:
-  env_path = ROOT_DIR / ".env"
-  if not env_path.exists():
-    return
-  try:
-    from dotenv import load_dotenv
-    load_dotenv(env_path, override=False)
-  except ImportError:
-    for line in env_path.read_text(encoding="utf-8").splitlines():
-      line = line.strip()
-      if line and not line.startswith("#") and "=" in line:
-        key, value = line.split("=", 1)
-        os.environ.setdefault(key.strip(), value.strip().strip("\"'"))
+  common.load_project_env()
 
 
 def extract_clean_json(raw_text: str) -> dict | list:

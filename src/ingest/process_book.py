@@ -105,7 +105,6 @@ try:
 except ImportError:  # bản cũ
     import fitz
 
-from dotenv import load_dotenv
 from google import genai
 from google.genai import errors, types
 from PIL import Image, ImageEnhance, ImageOps, ImageStat
@@ -1420,7 +1419,7 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     start = time.monotonic()
-    load_dotenv(BASE / ".env")
+    common.load_project_env()
     args = parse_args()
     deadline = start + args.max_runtime if args.max_runtime and args.max_runtime > 0 else None
 

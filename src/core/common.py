@@ -22,10 +22,67 @@ for _stream in (sys.stdout, sys.stderr):
 IS_WIN = os.name == "nt"
 IS_MAC = sys.platform == "darwin"
 IS_WSL = (not IS_WIN) and not IS_MAC and "microsoft" in os.uname().release.lower()
-ROOT_DIR = Path(__file__).resolve().parents[2]
-CONFIG_DIR = ROOT_DIR / "config"
-WORKSPACE_DIR = ROOT_DIR / "workspace"
-TOOLKIT_DIR = ROOT_DIR
+
+
+def _find_repo_root() -> Path:
+    start = Path(__file__).resolve()
+    for directory in (start, *start.parents):
+        if (directory / ".git").exists() or (directory / "pyproject.toml").exists():
+            return directory
+    return Path.cwd().resolve()
+
+
+REPO_ROOT = _find_repo_root()
+ROOT_DIR = REPO_ROOT
+CONFIG_DIR = REPO_ROOT / "config"
+WORKSPACE_DIR = REPO_ROOT / "workspace"
+TOOLKIT_DIR = REPO_ROOT
+
+
+def _parse_env_fallback(path: Path) -> dict[str, str]:
+    values: dict[str, str] = {}
+    for raw_line in path.read_text(encoding="utf-8-sig").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        if line.startswith("export "):
+            line = line[7:].lstrip()
+        key, value = line.split("=", 1)
+        key = key.strip()
+        if not key:
+            continue
+        value = value.strip().strip("\"'")
+        if " #" in value:
+            value = value.split(" #", 1)[0].rstrip()
+        values[key] = value
+    return values
+
+
+def load_project_env() -> list[Path]:
+    """Nạp .env ở repo root trước, sau đó .env trong config nếu có."""
+    loaded: list[Path] = []
+    paths: list[Path] = []
+    for candidate in (REPO_ROOT / ".env", CONFIG_DIR / ".env"):
+        candidate = candidate.resolve()
+        if candidate.exists() and candidate not in paths:
+            paths.append(candidate)
+
+    try:
+        from dotenv import load_dotenv
+    except ImportError:
+        for path in paths:
+            for key, value in _parse_env_fallback(path).items():
+                os.environ[key] = value
+            loaded.append(path)
+        return loaded
+
+    for path in paths:
+        load_dotenv(dotenv_path=path, override=True, encoding="utf-8-sig")
+        loaded.append(path)
+    return loaded
+
+
+load_project_env()
 
 GIAO_TRINH_FILE = CONFIG_DIR / "giao_trinh.txt"
 GIANG_BAI_FILE = CONFIG_DIR / "giang_bai.txt"

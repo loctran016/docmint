@@ -345,11 +345,7 @@ def parse_args():
 
 
 def main():
-    try:
-        from dotenv import load_dotenv
-        load_dotenv()
-    except ImportError:
-        pass
+    common.load_project_env()
     args = parse_args()
     if args.whisper:
         args.backend = "actions"

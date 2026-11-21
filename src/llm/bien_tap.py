@@ -318,7 +318,7 @@ def groq_text_models() -> list[str] | None:
 def polish_file(path: Path, args, editor, groq, system: str, log=print) -> dict:
     text = path.read_text(encoding="utf-8")
     header, sections = split_document(text)
-    cache_path = Path(".cache") / "bien_tap" / (re.sub(r"[^\w.-]+", "_", path.stem) + ".json")
+    cache_path = common.REPO_ROOT / ".cache" / "bien_tap" / (re.sub(r"[^\w.-]+", "_", path.stem) + ".json")
     cache: dict = {}
     if cache_path.exists() and not args.force:
         try:
@@ -409,11 +409,7 @@ def parse_args(argv=None):
 
 
 def main(argv=None) -> int:
-    try:
-        from dotenv import load_dotenv
-        load_dotenv(BASE / ".env")
-    except ImportError:
-        pass
+    common.load_project_env()
     args = parse_args(argv)
     src = Path(args.inp)
     files = [src] if src.is_file() else sorted(src.glob("*.md")) if src.is_dir() else []

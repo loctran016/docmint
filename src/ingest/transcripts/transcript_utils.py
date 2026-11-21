@@ -21,6 +21,8 @@ import sys
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
+from src.core import common
+
 BRACKET_NOISE = re.compile(r"^\[[^\]]*\]$")  # [Âm nhạc], [Music], [Applause]
 
 
@@ -80,7 +82,7 @@ def write_markdown(output_path, title, url, source_label, sentences):
 # ---------------------------------------------------------------------------
 # Pipeline Groq Whisper: metadata, audio, cache thô
 # ---------------------------------------------------------------------------
-CACHE_ROOT = Path(".cache")
+CACHE_ROOT = common.REPO_ROOT / ".cache"
 RAW_DIR = CACHE_ROOT / "transcripts" / "raw"
 CHUNK_DIR = CACHE_ROOT / "transcripts" / "chunks"
 AUDIO_DIR = CACHE_ROOT / "audio"

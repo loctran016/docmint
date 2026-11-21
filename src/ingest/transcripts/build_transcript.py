@@ -30,6 +30,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from src.core import common
 from src.core.prompts import render_prompt
 
 try:
@@ -274,11 +275,7 @@ def main(argv=None):
     ap.add_argument("--out", default=str(common.TRANSCRIPTS_DIR))
     ap.add_argument("--no-clean", action="store_true", help="không gọi Gemini, chỉ xuất bản thô")
     args = ap.parse_args(argv)
-    try:
-        from dotenv import load_dotenv
-        load_dotenv()
-    except ImportError:
-        pass
+    common.load_project_env()
     raw = load_raw(args.video_id)
     if raw is None:
         print(f"Không thấy cache thô cho {args.video_id}. Chạy get_medical_transcript.py trước.")

@@ -1,4 +1,5 @@
 import ast
+import os
 import sys
 from pathlib import Path
 
@@ -77,3 +78,25 @@ def test_config_resolution_uses_monkeypatched_config(monkeypatch, tmp_path):
     assert path == giao
     assert items and items[0]["title"] == "Bài từ mục lục"
     assert common.read_notebook_id() == "notebook-test-id"
+
+
+def test_load_project_env_prefers_repo_over_config(monkeypatch, tmp_path):
+    from src.core import common
+
+    repo_root = tmp_path / "repo"
+    config_dir = repo_root / "config"
+    config_dir.mkdir(parents=True)
+    repo_env = repo_root / ".env"
+    config_env = config_dir / ".env"
+    repo_env.write_text("DOCMINT_TEST_VALUE=repo\r\nGEMINI_API_KEY=repo-key\r\n", encoding="utf-8")
+    config_env.write_text("DOCMINT_TEST_VALUE=config\r\nGEMINI_API_KEY=config-key\r\n", encoding="utf-8")
+
+    monkeypatch.setattr(common, "REPO_ROOT", repo_root)
+    monkeypatch.setattr(common, "CONFIG_DIR", config_dir)
+    monkeypatch.setenv("DOCMINT_TEST_VALUE", "")
+    monkeypatch.setenv("GEMINI_API_KEY", "shell-key")
+
+    common.load_project_env()
+
+    assert os.environ["DOCMINT_TEST_VALUE"] == "config"
+    assert os.environ["GEMINI_API_KEY"] == "config-key"

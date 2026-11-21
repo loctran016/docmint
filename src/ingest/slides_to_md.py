@@ -44,7 +44,6 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 import fitz  # PyMuPDF
-from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from PIL import Image
@@ -55,7 +54,7 @@ try:  # dùng lại hàm đổi đường dẫn C:\... của toolkit nếu có
 except Exception:  # noqa: BLE001
     common = None
 
-load_dotenv(ROOT / ".env")
+common.load_project_env()
 
 # Nhiều model cách nhau dấu phẩy: model không tồn tại hoặc hết quota ngày thì chuyển sang model kế.
 # Cần khớp với process_book.py; kiểm tra tên bằng: uv run process_book.py --list-models

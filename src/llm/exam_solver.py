@@ -259,7 +259,7 @@ def _solve_batch(
     batch: dict[str, Any],
 ) -> list[dict[str, Any]]:
     require_formula = bool(batch["require_formula_work"])
-    formula_schema = '"formula_work":"str"' if require_formula else '"formula_work":null'
+    formula_schema = '"str"' if require_formula else "null"
     system = render_prompt("exam_solver_pass1", formula_schema=formula_schema)
     payload = []
     for q in batch["questions"]:
