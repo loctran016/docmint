@@ -70,7 +70,7 @@ jobs:
 
       - name: Cache HuggingFace models
         if: steps.check_subs.outputs.has_subs == 'false'
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ~/.cache/huggingface
           key: ${{ runner.os }}-hf-whisper-turbo
