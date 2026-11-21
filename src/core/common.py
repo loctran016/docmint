@@ -3,6 +3,8 @@ import argparse
 import asyncio
 import json
 import os
+import asyncio
+from contextlib import asynccontextmanager
 import re
 import shutil
 import subprocess
@@ -42,6 +44,10 @@ KET_QUA_DIR = WORKSPACE_DIR / "ket_qua"
 TRANSCRIPTS_DIR = WORKSPACE_DIR / "transcripts"
 SLIDES_OUT_DIR = WORKSPACE_DIR / "slides_out"
 GIANG_OUT_DIR = WORKSPACE_DIR / "giang_out"
+DE_THI_DIR = WORKSPACE_DIR / "de_thi"
+GIAI_DE_DIR = WORKSPACE_DIR / "ket_qua" / "giai_de"
+EXAM_CACHE_DIR = ROOT_DIR / ".cache" / "exam_solver"
+EXAM_IMG_DIR = ROOT_DIR / ".cache" / "exam_imgs"
 
 NOT_FOUND_PHRASE = "không tìm thấy bài này trong nguồn"
 MASTER_FILES = [GIAO_TRINH_FILE.name, "bai.txt"]   # danh sách chung (bai.txt là tên cũ)
@@ -111,6 +117,19 @@ def read_notebook_id(cli_value=None):
         "Chưa có ID notebook. Hãy ghi ID (hoặc URL notebook) vào file notebook_id.txt,\n"
         "hoặc truyền trực tiếp trên dòng lệnh."
     )
+
+
+@asynccontextmanager
+async def notebooklm_client(*, chat_timeout: int = 300):
+    """Mở client NotebookLM bằng đúng stored session của notebooklm-py."""
+    try:
+        from notebooklm import NotebookLMClient
+    except ImportError as exc:
+        raise SystemExit(
+            "Thiếu notebooklm-py. Cài bằng: uv run src/ingest/setup_notebooklm.py"
+        ) from exc
+    async with NotebookLMClient.from_storage(chat_timeout=chat_timeout) as client:
+        yield client
 
 
 # ------------------------------------------------------------------ công cụ OCR

@@ -46,7 +46,7 @@ try:
 except ImportError:  # pragma: no cover
     common = None
 
-from notebooklm import NotebookLMClient, SourceStatus
+from notebooklm import SourceStatus
 
 from src.notebook.prompts import build_prompt
 
@@ -158,7 +158,7 @@ async def run(args):
     note = Path(args.note).read_text(encoding="utf-8") if args.note else None
     prompt = build_prompt(args.mode, args.lesson, note, structured=not args.plain)
 
-    async with NotebookLMClient.from_storage(chat_timeout=args.timeout) as client:
+    async with common.notebooklm_client(chat_timeout=args.timeout) as client:
         sources = await client.sources.list(notebook, statuses={SourceStatus.READY})
         chosen = pick_sources(sources, GROUPS[args.mode], args.match)
         if not chosen:

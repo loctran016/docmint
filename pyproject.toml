@@ -4,8 +4,8 @@ version = "0.1.0"
 description = "Medical study toolkit for NotebookLM, OCR, PDF conversion, and Obsidian"
 requires-python = ">=3.11"
 dependencies = [
-    "google-genai",
     "groq",
+    "gemini-webapi",
     "notebooklm-py",
     "Pillow",
     "pypdf",

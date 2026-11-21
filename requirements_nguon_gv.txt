@@ -2,7 +2,6 @@
 # Mỗi script đã khai báo thư viện ngay đầu file nên `uv run đường/dẫn/script.py` tự cài, không cần file này.
 pymupdf
 pillow
-google-genai
 python-dotenv
 python-pptx
 notebooklm-py

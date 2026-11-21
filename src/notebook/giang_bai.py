@@ -26,8 +26,6 @@ import argparse
 import asyncio
 import random
 
-from notebooklm import NotebookLMClient
-
 from src.core import common
 
 # ================= CẤU HÌNH =================
@@ -111,7 +109,7 @@ async def main():
 
     done, skipped, not_found, failed = [], [], [], []
 
-    async with NotebookLMClient.from_storage() as client:
+    async with common.notebooklm_client() as client:
         for idx, item in enumerate(items, 1):
             title = item["title"]
             if only and idx not in only:

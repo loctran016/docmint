@@ -35,6 +35,7 @@
 |   |-- core/
 |   |   |-- common.py
 |   |   |-- groq_client.py
+|   |   |-- llm_router.py
 |   |   `-- quality_check.py
 |   |-- menus/
 |   |   |-- menu_nguon_gv.py
@@ -58,7 +59,9 @@
 |   |   |-- generate_artifacts.py
 |   |   `-- prompts.py
 |   |-- llm/
-|   |   `-- bien_tap.py
+|   |   |-- bien_tap.py
+|   |   |-- exam_preprocessor.py
+|   |   `-- exam_solver.py
 |   `-- sync/
 |       `-- cap_nhat_obsidian.py
 |-- docs/
@@ -114,6 +117,20 @@
 - Editorial output stays under `workspace/ket_qua/{giang_bai,raw,polished}/`.
 - Source prefixes remain `[SGK]`, `[GV]`, and `[SLIDE]`.
 - Obsidian YAML and citation behavior must remain unchanged.
+
+## Exam Solver Providers and 5-Step Pipeline
+
+- For exam text solving, use `DEEPSEEK_API_KEY` through `src/core/llm_router.py`; do not silently fall back to Gemini for text.
+- Use the existing `notebooklm-py` `NotebookLMClient.from_storage()` session and `config/notebook_id.txt` loader for both Step 2 grouping and Step 3 RAG. Reuse `src.core.common.notebooklm_client()`/`read_notebook_id()` rather than creating another auth flow.
+- For image questions, use `GeminiWebEngine` through `gemini-webapi` and attached `image_path`. Do not use `google-genai` for the exam solver or image/web editing provider.
+- Step 1 parses with PyMuPDF and routes to three streams: Image (`8`), Long/Clinical (`7`, stem >=30 words or clinical case), and Short (`hint_group` 1..6).
+- Step 2 sends only Short questions to NotebookLM in batches of 15–20 and writes `.cache/exam_solver/<exam_id>_step2_grouped.json`.
+- Between Steps 2 and 3, print distribution for groups 1–8 and confirm `Tiếp tục truy xuất dữ liệu từ NotebookLM? [Y/n]: `, or skip with `--yes`.
+- Step 3 is separate RAG extraction: Short 5–8 items per confirmed group, Long 2–3 items, no text RAG for Image. Write `_step3_rag.json`.
+- Step 4 solves Short/Long with DeepSeek in batches of 12–15/2–3 and images with Gemini Web in batches of 1–2.
+- Step 5 performs Python-only `answer` vs `raw_key` audit (`verified`/`conflict`/`ai_only`) and writes Isolde JSON under `workspace/ket_qua/giai_de/<subject>/` plus `bank.json` and `assets/`.
+- Resolve subject before Step 1 with `--subject`, the parent `workspace/de_thi/<subject>/` folder, or page-1 title slug prompting. CLI input defaults to `workspace/de_thi/`.
+- Do not re-run migration or validation scripts against existing JSON in `workspace/ket_qua/giai_de/`.
 
 ## Data Safety
 

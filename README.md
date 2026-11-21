@@ -5,6 +5,58 @@ Chạy được trên **WSL Ubuntu** và **Windows** (và macOS ở mức cơ b�
 > **Đã kiểm tra gì, chưa kiểm tra gì.** Toàn bộ logic được chạy thử trên Linux bằng thư viện giả (không gọi NotebookLM thật, không chạy trên Windows thật). Vì vậy các bước đầu tiên của từng chức năng luôn nên chạy thử một bài trước.
 > `notebooklm-py` là thư viện **không chính thức**, dùng API nội bộ của Google nên có thể hỏng khi Google thay đổi. Theo trang PyPI của nó, NotebookLM đã được đổi tên thành **Gemini Notebook** (7/2026), cùng một dịch vụ và thư viện vẫn chạy như cũ.
 
+## Pipeline giải đề thi y khoa (5 bước)
+
+Các module chính nằm trong `src/llm/exam_preprocessor.py` và `src/llm/exam_solver.py`. Cấu trúc repo:
+
+```text
+config/       notebook_id.txt và các file danh sách
+src/core/     đường dẫn, LLM router, NotebookLM client dùng chung
+src/ingest/   OCR, PDF, slide, upload nguồn
+src/notebook/ notebooklm-py: hỏi, giảng bài, câu hỏi, media
+src/llm/      giải đề và biên tập
+src/menus/    menu nguồn giáo viên và biên tập
+src/sync/     đồng bộ Obsidian
+workspace/    dữ liệu đầu vào/đầu ra
+```
+
+Chạy:
+
+```bash
+uv run src/llm/exam_solver.py --help
+uv run src/llm/exam_solver.py --in workspace/de_thi --out workspace/ket_qua/giai_de
+uv run src/llm/exam_solver.py --in workspace/de_thi/tieu-hoa/de-thi.pdf --subject tieu-hoa --yes
+```
+
+- `--in`: PDF hoặc thư mục. Mặc định `workspace/de_thi/`; hỗ trợ file phẳng và `<subject>/<file>.pdf`.
+- `--out`: thư mục JSON. Mặc định `workspace/ket_qua/giai_de/<subject>/`.
+- `--subject`: ép subject slug (`tieu-hoa`, `dinh-duong`, ...).
+- `--formula-mode {calc_only,all,off}`: công thức tính toán; mặc định hỏi trên CLI.
+- `--yes`: bỏ prompt xác nhận subject/gate và dùng subject phát hiện; chọn formula mode `off`.
+- `--force`: bỏ qua các checkpoint Step 2/3/4.
+- `--web-model`, `--web-gem`: tùy chọn cho Gemini Web hình ảnh.
+
+Môn học được resolve theo thứ tự: `--subject`, tên thư mục cha `workspace/de_thi/<subject>/`, rồi phát hiện tiêu đề trang 1 và hỏi
+`Nhập tên môn học / subject slug (Enter = <detected>): `. Khi `--yes`, slug phát hiện được dùng trực tiếp.
+
+Output được ghi thành `workspace/ket_qua/giai_de/<subject>/<exam_id>.json`, `bank.json` và `assets/`. Checkpoint nằm ở
+`.cache/exam_solver/<exam_id>_{step2_grouped,step3_rag}.json` và cache Step 4 `.cache/exam_solver/<exam_id>.json`; ảnh trang nằm ở
+`.cache/exam_imgs/`.
+
+Pipeline:
+
+1. PyMuPDF tách câu, loại watermark/nhiễu, ghép context, nhận `raw_key`/`student_note`, render ảnh và route thành Short, Long/Clinical, Image.
+2. Chỉ Short được NotebookLM phân loại theo 6 nhóm, batch 15–20; kết quả lưu checkpoint.
+3. Gate xác nhận `Tiếp tục truy xuất dữ liệu từ NotebookLM? [Y/n]: ` (bỏ qua bằng `--yes`), rồi RAG NotebookLM: Short batch 5–8 theo nhóm, Long batch 2–3, Image bỏ qua text RAG.
+4. Short/Long dùng `DEEPSEEK_API_KEY` + `DEEPSEEK_MODEL`; batch Short 12–15, Long 2–3. Image dùng `GeminiWebEngine` qua `gemini-webapi`, batch 1–2 và không dùng `google-genai`.
+5. Python so đáp án với `raw_key`, gắn trạng thái `verified/conflict/ai_only`, copy ảnh và xuất/merge bank theo Isolde JSON.
+
+Yêu cầu xác thực:
+
+- NotebookLM: đăng nhập bằng `uv run src/ingest/setup_notebooklm.py` để lưu session notebooklm-py; đặt ID tại `config/notebook_id.txt` hoặc `NOTEBOOK_ID`.
+- Text: đặt `DEEPSEEK_API_KEY` trong `.env` hoặc biến môi trường.
+- Hình ảnh: đặt `GEMINI_SECURE_1PSID` và `GEMINI_SECURE_1PSIDTS` trong `.env` để dùng backend không chính thức `gemini-webapi`; không đưa cookie lên git.
+
 ## Mục lục
 
 0. [Bắt đầu nhanh](#0-bắt-đầu-nhanh)

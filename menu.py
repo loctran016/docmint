@@ -1003,7 +1003,7 @@ def main_menu():
             "MID",
             "CTR:── Gemini Notebook + LLM ──",
             "14|Tạo bộ câu hỏi theo chủ đề",
-            "15|Giải đề chi tiết kèm giải thích",
+            "15|Giải đề y khoa — 5 bước (NotebookLM + LLM)",
             "16|Tạo Anki, Flashcard",
             "17|Đang chờ update",
             "18|Đang chờ update",

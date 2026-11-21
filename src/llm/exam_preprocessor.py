@@ -19,12 +19,12 @@ DEFAULT_IMG_DIR = ROOT_DIR / ".cache" / "exam_imgs"
 
 # --- REGEX PATTERNS ---
 SECTION_MAP = {
-    r"giải phẫu(?!\s*bệnh)": 1,
-    r"mô phôi(?:\s*[-–]\s*(?:gpb|giải phẫu bệnh))?|giải phẫu bệnh": 1,
-    r"sinh lý(?:\s*[-–]\s*vi sinh)?(?!\s*bệnh)": 2,
-    r"sinh lý bệnh|vi sinh|ký sinh": 2,
-    r"dược lý|thuốc": 3,
-    r"cận lâm sàng|lâm sàng": 4,
+    r"giải\s+phẫu": 1,
+    r"giải\s+phẫu\s*bệnh": 2,
+    r"(?:mô\s*)?phôi": 3,
+    r"sinh\s+lý(?!\s*bệnh)": 4,
+    r"sinh\s+lý\s*bệnh": 5,
+    r"dược\s+lý|thuốc": 6,
 }
 
 SHARED_CTX_RE = re.compile(
@@ -295,44 +295,77 @@ def configure_formula_mode(questions: list[QuestionItem]) -> str:
   return {"1": "calc_only", "2": "all", "3": "off"}.get(choice, "calc_only")
 
 
+def detect_subject_slug(pdf_path: str | Path) -> str:
+  """Đọc tiêu đề trang 1 để đề xuất subject slug, không đổi file PDF."""
+  try:
+    with fitz.open(str(pdf_path)) as doc:
+      if not doc:
+        return "tong-hop"
+      text = doc[0].get_text("text")
+  except Exception:
+    return "tong-hop"
+  aliases = {
+      "tiêu hóa": "tieu-hoa",
+      "dinh dưỡng": "dinh-duong",
+      "da liễu": "da-lieu",
+      "nội tiết": "noi-tiet",
+      "miễn dịch": "mien-dich",
+      "ngoại khoa": "ngoai-khoa",
+      "sản khoa": "san-khoa",
+  }
+  for line in text.splitlines():
+    title = re.sub(r"\s+", " ", line).strip()
+    if len(title) < 3:
+      continue
+    low = title.lower()
+    for name, slug in aliases.items():
+      if name in low:
+        return slug
+    slug = (
+        title.lower().replace("đ", "d")
+        .replace("Đ", "d")
+    )
+    slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
+    if slug:
+      return slug[:60]
+  return "tong-hop"
+
+
 def route_and_batch(
     questions: list[QuestionItem], formula_mode: str
 ) -> list[dict]:
   buckets: dict[str, list[QuestionItem]] = {
-      "image_pipeline": [],
-      "calculation_step": [],
-      "clinical_deep": [],
-      "direct_recall": [],
+      "image": [],
+      "long_clinical": [],
+      "short": [],
   }
 
   for q in questions:
     if q.has_image:
-      q.bucket = "image_pipeline"
-      q.hint_group = 5
-    elif MATH_INTENT_RE.search(q.stem):
-      q.bucket = "calculation_step"
+      q.bucket = "image"
+      q.hint_group = None
     elif len(q.stem.split()) >= 30 or CLINICAL_RE.search(q.stem):
-      q.bucket = "clinical_deep"
-      q.hint_group = q.hint_group or 4
+      q.bucket = "long_clinical"
+      q.hint_group = 7
     else:
-      q.bucket = "direct_recall"
+      q.bucket = "short"
     buckets[q.bucket].append(q)
 
   batch_sizes = {
-      "image_pipeline": 2,
-      "calculation_step": 6,
-      "clinical_deep": 6,
-      "direct_recall": 18,
+      "image": 1,
+      "long_clinical": 3,
+      "short": 15,
   }
   batches = []
 
   for b_name, items in buckets.items():
     size = batch_sizes[b_name]
-    use_formula = (formula_mode == "all") or (
-        formula_mode == "calc_only" and b_name == "calculation_step"
-    )
     for i in range(0, len(items), size):
       chunk = items[i : i + size]
+      use_formula = (formula_mode == "all") or (
+          formula_mode == "calc_only"
+          and any(MATH_INTENT_RE.search(x.stem) for x in chunk)
+      )
       payload_items = [
           {
               "id": x.id,
