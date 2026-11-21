@@ -44,6 +44,7 @@ from pathlib import Path
 from notebooklm import NotebookLMClient
 
 from src.core import common
+from src.core.prompts import render_prompt
 
 MAX_CONSECUTIVE_FAIL = 2          # lỗi liên tiếp quá số này thì dừng (thường là hết hạn mức)
 INSTRUCTION_PARAMS = ("instructions", "prompt", "custom_prompt", "description", "focus", "topic")
@@ -53,25 +54,17 @@ KINDS = {
     "mindmap": {
         "label": "Mindmap", "feature_files": [common.MINDMAPS_FILE.name], "out_name": "mindmap",
         "ext": "json", "timeout": 600, "tag": "mindmap",
-        "prompt": ("Hãy tạo sơ đồ tư duy (mindmap) bằng tiếng Việt về {BAI} trong sách. "
-                   "Nhánh chính là các mục lớn của bài theo đúng thứ tự và tên trong sách, "
-                   "nhánh con là các ý, khái niệm, số liệu quan trọng. Chỉ dùng nội dung bài này, "
-                   "không lấy từ các bài khác.{LUU_Y}"),
+        "prompt": "media_mindmap",
     },
     "infographic": {
         "label": "Infographic", "feature_files": [common.INFOGRAPHICS_FILE.name], "out_name": "infographic",
         "ext": "png", "timeout": 900, "tag": "infographic",
-        "prompt": ("Hãy tạo infographic bằng tiếng Việt về {BAI} trong sách. "
-                   "Bố cục rõ ràng: tiêu đề bài, các ý chính theo đúng thứ tự các mục của bài, "
-                   "số liệu và bảng so sánh quan trọng, sơ đồ nếu phù hợp. Chỉ dùng nội dung bài này, "
-                   "không lấy từ các bài khác.{LUU_Y}"),
+        "prompt": "media_infographic",
     },
     "video": {
         "label": "Video", "feature_files": [common.VIDEOS_FILE.name], "out_name": "video",
         "ext": "mp4", "timeout": 1800, "tag": "video",
-        "prompt": ("Hãy tạo video bài giảng bằng tiếng Việt về {BAI} trong sách: mở đầu nêu mục tiêu của bài, "
-                   "lần lượt trình bày các mục chính theo đúng thứ tự trong sách kèm ví dụ và số liệu quan trọng, "
-                   "kết thúc bằng phần tóm tắt. Chỉ dùng nội dung bài này, không lấy từ các bài khác.{LUU_Y}"),
+        "prompt": "media_video",
     },
 }
 
@@ -79,7 +72,7 @@ KINDS = {
 # ------------------------------------------------------------- hỗ trợ tham số
 def build_prompt(spec, item):
     luu_y = f" Lưu ý riêng cho bài này (hãy ưu tiên làm theo): {item['note']}" if item["note"] else ""
-    return spec["prompt"].replace("{BAI}", item["title"]).replace("{LUU_Y}", luu_y)
+    return render_prompt(spec["prompt"], bai=item["title"], luu_y=luu_y)
 
 
 def coerce(fn, name, value):

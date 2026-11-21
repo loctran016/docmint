@@ -33,6 +33,7 @@ import inspect
 import random
 
 from notebooklm import NotebookLMClient
+from src.core.prompts import render_prompt
 
 from src.core import common
 
@@ -48,19 +49,7 @@ MAX_RETRY = 3
 
 KHO_MAP = {"de": "dễ", "dễ": "dễ", "vua": "vừa", "vừa": "vừa", "kho": "khó", "khó": "khó"}
 
-PROMPT = """Hãy soạn một đề kiểm tra để tôi tự ôn tập {BAI} trong sách. Chỉ dùng nội dung nằm trong bài này, bỏ qua các câu hỏi trước, không lấy từ các bài khác.
-
-Yêu cầu:
-- {TN} câu trắc nghiệm, mỗi câu có 4 đáp án A, B, C, D và chỉ một đáp án đúng.
-{TL_DONG}- Độ khó: {KHO}.
-- Bao phủ đều các mục của bài, không hỏi lặp; tránh câu hỏi vụn vặt về số trang hay chi tiết không quan trọng; ưu tiên khái niệm, so sánh, số liệu quan trọng và ứng dụng.
-- Chỉ dùng thông tin có trong sách, không tự bịa số liệu.
-{LUU_Y}
-Định dạng Markdown:
-- Tiêu đề là H1 (#): "Đề kiểm tra: <tên bài đúng như sách>".
-- "Phần I. Trắc nghiệm" là H2 (##); mỗi câu bắt đầu bằng **Câu n.**, mỗi đáp án một dòng.
-{TL_FORMAT}- "Đáp án và giải thích" là H2 (##) đặt ở cuối đề: ghi đáp án đúng của từng câu kèm giải thích ngắn gọn (nêu rõ mục nào của sách){TL_GOI_Y}.
-- Nếu không tìm thấy bài này trong tài liệu, chỉ trả lời "Không tìm thấy bài này trong nguồn", tuyệt đối không ghép từ các bài khác và không tìm kiếm web."""
+PROMPT = "tao_cau_hoi"
 # ============================================
 
 
@@ -92,13 +81,10 @@ def build_prompt(item):
         tl_goi_y = ", và gợi ý trả lời cho các câu tự luận"
     else:
         tl_dong = tl_format = tl_goi_y = ""
-    return (PROMPT.replace("{BAI}", item["title"])
-                  .replace("{TN}", str(tn))
-                  .replace("{TL_DONG}", tl_dong)
-                  .replace("{KHO}", kho)
-                  .replace("{LUU_Y}", luu_y)
-                  .replace("{TL_FORMAT}", tl_format)
-                  .replace("{TL_GOI_Y}", tl_goi_y))
+    return render_prompt(
+        PROMPT, bai=item["title"], tn=tn, tl_dong=tl_dong, kho=kho,
+        luu_y=luu_y, tl_format=tl_format, tl_goi_y=tl_goi_y,
+    )
 
 
 async def make_quiz(client, nb_id, idx, item, fmt, out_dir):
@@ -106,8 +92,11 @@ async def make_quiz(client, nb_id, idx, item, fmt, out_dir):
     title = item["title"]
     gen = client.artifacts.generate_quiz
     params = inspect.signature(gen).parameters
-    instruction = (f"Chỉ tạo câu hỏi về {title} trong sách, không lấy từ các bài khác."
-                   + (f" Lưu ý: {item['note']}" if item["note"] else ""))
+    instruction = render_prompt(
+        "quiz_instruction",
+        lesson=title,
+        note=f" Lưu ý: {item['note']}" if item["note"] else "",
+    )
     kwargs = {}
     for name in ("instructions", "prompt", "custom_prompt"):
         if name in params:

@@ -23,6 +23,10 @@
 |-- .gitignore
 |-- config/
 |   |-- notebook_id.txt
+|   |-- prompts/
+|   |   |-- bien_tap_core_rules.md
+|   |   |-- exam_solver_step2_classify.md
+|   |   `-- exam_solver_step3_rag.md
 |   |-- giao_trinh.txt
 |   |-- giang_bai.txt
 |   |-- cau_hoi.txt
@@ -36,6 +40,7 @@
 |   |   |-- common.py
 |   |   |-- groq_client.py
 |   |   |-- llm_router.py
+|   |   |-- prompts.py
 |   |   `-- quality_check.py
 |   |-- menus/
 |   |   |-- menu_nguon_gv.py
@@ -117,6 +122,19 @@
 - Editorial output stays under `workspace/ket_qua/{giang_bai,raw,polished}/`.
 - Source prefixes remain `[SGK]`, `[GV]`, and `[SLIDE]`.
 - Obsidian YAML and citation behavior must remain unchanged.
+
+## Prompt Architecture
+
+- Prompt source of truth: `config/prompts/*.md`.
+- Loader: `src/core/prompts.py`; call prompts with `render_prompt(name, **kwargs)`.
+- Do not add hardcoded system prompts, user prompt templates, formatting instructions, or multi-line LLM instructions in Python.
+- Dynamic values use `$variable_name` or `${variable_name}`; never use Python `.format()` for prompts containing raw JSON `{}`.
+- `render_prompt()` caches loaded Markdown, validates placeholders, raises `FileNotFoundError` for missing files, and raises `ValueError` for missing variables.
+- Keep JSON schemas and medical instructions in the Markdown file intact unless the task explicitly requires changing them.
+- Preserve provider routing and control flow. Use DeepSeek for text, Gemini Web for exam images, NotebookLM for Step 2/3 RAG, and Groq only in existing fallback paths.
+- Preserve `_step2_grouped.json`, `_step3_rag.json`, batch sizes, retries, and `verified/conflict/ai_only` auditing.
+- After changing a prompt, run `uv run python -m compileall -q src`, prompt smoke imports, and relevant tests.
+- Read [the prompt guide](../docs/HUONG_DAN_PROMPT.md) before adding or renaming prompts.
 
 ## Exam Solver Providers and 5-Step Pipeline
 

@@ -1,0 +1,1 @@
+Hãy giảng lại bài "$lesson" đúng theo cách thầy/cô giảng trong bản ghi [GV] và slide [SLIDE]. Giữ trọng tâm, thứ tự và các ví dụ/lưu ý mà giáo viên nhấn mạnh (kể cả những chỗ giáo viên dặn "cái này hay thi"). Dùng slide để bổ sung phần sơ đồ.

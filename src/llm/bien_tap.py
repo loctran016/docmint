@@ -48,22 +48,14 @@ import time
 from pathlib import Path
 
 from src.core import common
+from src.core.prompts import render_prompt
 
 BASE = common.CONFIG_DIR
 DEFAULT_MODELS = "gemini-3.8-flash,gemini-3.6-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite"
 MAX_WORDS = 700
 
-CORE_RULES = """
-
-QUY TẮC BẮT BUỘC (luôn áp dụng)
-- ĐÂY LÀ BIÊN TẬP VĂN PHONG, KHÔNG PHẢI TÓM TẮT. Tuyệt đối không lược bỏ bất kỳ con số, mốc giải phẫu, tỷ lệ phần trăm, liều lượng, chống chỉ định, ngoại lệ lâm sàng, tên riêng hay thuật ngữ nào có trong văn bản gốc.
-- Không thêm kiến thức ngoài văn bản gốc, không bình luận.
-- Giữ nguyên bảng Markdown, [[wikilink]], ảnh, khối mã, công thức LaTeX và callout.
-- Không bỏ qua phần nào ở giữa văn bản: mỗi ý trong bản gốc phải còn trong bản viết lại.
-- Chỉ trả về Markdown của phần được giao, không lời dẫn, không bọc trong ```, không viết đề mục `##` (script tự gắn).
-"""
-SUMMARY_RULE = ("Đây là phần CUỐI của mục. Kết thúc bằng một dòng `#### 📌 Tóm ý mục {n}:` rồi 2 đến 3 câu tóm ý, "
-                "chỉ dựa trên nội dung của mục này.")
+CORE_RULES = render_prompt("bien_tap_core_rules")
+SUMMARY_RULE = render_prompt("bien_tap_summary", n="{n}")
 
 
 # ---------------------------------------------------------------------------
@@ -289,8 +281,8 @@ def edit_part(editor, groq, system: str, head: str | None, part: str, k: int, n:
               last: bool, summary: bool, log) -> tuple[str, str, str]:
     """Trả về (văn bản, nguồn, cờ). cờ rỗng nếu ổn; 'giữ bản thô: ...' nếu phải dùng bản thô."""
     title = (head or "").lstrip("# ").strip() or "(phần mở đầu)"
-    note = SUMMARY_RULE.format(n=sec_no) if (last and summary and head) else ""
-    user = f"MỤC: {title} (phần {k}/{n})\n{note}\n\nVĂN BẢN GỐC CẦN BIÊN TẬP:\n{part}"
+    note = render_prompt("bien_tap_summary", n=sec_no) if (last and summary and head) else ""
+    user = render_prompt("bien_tap_user", title=title, k=k, n=n, note=note, part=part)
     text, why = editor.edit(system, user)
     source = editor.last_model
     if text is None and why.startswith("RECITATION") and groq is not None and groq.available():
@@ -306,8 +298,9 @@ def edit_part(editor, groq, system: str, head: str | None, part: str, k: int, n:
     miss = missing_numbers(part, text)
     if miss:
         log(f"    ⚠ thiếu số liệu {miss[:6]} → thử lại một lần")
-        retry_user = user + ("\n\nLƯU Ý: bản viết lại trước đã làm rơi các số sau, bắt buộc phải có đủ trong kết quả: "
-                             + ", ".join(miss))
+        retry_user = user + "\n\n" + render_prompt(
+            "bien_tap_retry_note", missing=", ".join(miss)
+        )
         t2, why2 = editor.edit(system, retry_user)
         if t2 is not None:
             t2 = strip_heading(t2, head)
@@ -434,7 +427,7 @@ def main(argv=None) -> int:
         style = Path(args.style).read_text(encoding="utf-8").strip()
     except OSError:
         print(f"Không đọc được {args.style}; dùng khung văn phong tối thiểu.")
-        style = "Bạn là biên tập viên sách giáo khoa y khoa tiếng Việt. Viết lại văn bản thành văn phong học thuật mạch lạc."
+        style = render_prompt("bien_tap_fallback_system")
     system = style + CORE_RULES
     editor = make_editor(args)
     groq = make_groq()

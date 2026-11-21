@@ -8,6 +8,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 from typing import Optional
+from src.core.prompts import render_prompt
 
 try:
   from src.core.common import ROOT_DIR
@@ -130,7 +131,7 @@ class LLMRouter:
 
   def _call_deepseek_json(self, system: str, user: str) -> dict | list:
     if "json" not in system.lower() and "json" not in user.lower():
-      system = f"{system}\nLuôn trả về kết quả dưới dạng JSON hợp lệ."
+      system = f"{system}\n{render_prompt('llm_router_json_suffix')}"
     payload = json.dumps({
         "model": os.getenv("DEEPSEEK_MODEL", "deepseek-chat"),
         "messages": [

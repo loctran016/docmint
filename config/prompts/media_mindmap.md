@@ -1,0 +1,1 @@
+Hãy tạo sơ đồ tư duy (mindmap) bằng tiếng Việt về $bai trong sách. Nhánh chính là các mục lớn của bài theo đúng thứ tự và tên trong sách, nhánh con là các ý, khái niệm, số liệu quan trọng. Chỉ dùng nội dung bài này, không lấy từ các bài khác.$luu_y

@@ -1,0 +1,1 @@
+Hãy tạo infographic bằng tiếng Việt về $bai trong sách. Bố cục rõ ràng: tiêu đề bài, các ý chính theo đúng thứ tự các mục của bài, số liệu và bảng so sánh quan trọng, sơ đồ nếu phù hợp. Chỉ dùng nội dung bài này, không lấy từ các bài khác.$luu_y

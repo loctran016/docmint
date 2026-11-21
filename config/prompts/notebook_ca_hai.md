@@ -1,0 +1,1 @@
+Hãy giảng bài "$lesson" kết hợp sách [SGK] và giáo viên [GV]/[SLIDE]. Lấy khung theo sách, chèn phần giáo viên nhấn mạnh. Cuối cùng thêm mục "Khác biệt giữa sách và giáo viên": liệt kê chỗ nào hai nguồn nói khác nhau hoặc chỉ một nguồn có, ghi rõ nguồn nào nói gì.

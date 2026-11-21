@@ -27,6 +27,7 @@ import asyncio
 import random
 
 from src.core import common
+from src.core.prompts import render_prompt
 
 # ================= CẤU HÌNH =================
 FEATURE_FILES = [common.GIANG_BAI_FILE.name]
@@ -36,19 +37,7 @@ CAU_HOI_MAC_DINH = True       # thêm phần "Câu hỏi tự kiểm tra" cuối
 TIMEOUT = 300                 # giây, tối đa chờ một câu trả lời
 MAX_RETRY = 3
 
-PROMPT = """Hãy giảng cho tôi {BAI} trong sách. Bám sát bố cục của chính bài này trong sách: dùng đúng tên và thứ tự các mục, tiểu mục như sách trình bày. Chỉ dùng nội dung nằm trong bài này, bỏ qua các câu hỏi trước, không lấy từ các bài khác.
-
-Định dạng Markdown:
-- Tiêu đề bài là H1 (#), giữ đúng tên như sách.
-- Mỗi mục lớn (1, 2, 3...) là H2 (##), giữ đúng số thứ tự và tên mục.
-- Mỗi mục con (1.1, 1.2...) là H3 (###), giữ đúng số thứ tự và tên.
-- Nếu có cấp nhỏ hơn thì dùng H4 (####).
-
-Nội dung:
-- Giảng như một giáo viên: giải thích khái niệm, lý do, ví dụ, số liệu, bảng biểu có trong sách, rồi tóm ý.
-- Không bỏ sót mục nào; mục nào dài hoặc quan trọng thì giảng sâu hơn.
-{LUU_Y}- Nếu không tìm thấy bài này trong tài liệu, chỉ trả lời "Không tìm thấy bài này trong nguồn", tuyệt đối không ghép từ các bài khác và không tìm kiếm web.
-{KET_BAI}"""
+PROMPT = "giang_bai"
 # ============================================
 
 
@@ -66,9 +55,9 @@ def build_prompt(item, tom_tat, cau_hoi):
     else:
         ket_bai = "- Không cần thêm phần tóm tắt nhanh hay câu hỏi tự kiểm tra ở cuối bài."
 
-    return (PROMPT.replace("{BAI}", item["title"])
-                  .replace("{LUU_Y}", luu_y)
-                  .replace("{KET_BAI}", ket_bai))
+    return render_prompt(
+        PROMPT, bai=item["title"], luu_y=luu_y, ket_bai=ket_bai
+    )
 
 
 def decide(flags, args):

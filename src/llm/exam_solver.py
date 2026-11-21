@@ -19,6 +19,7 @@ if str(ROOT_DIR) not in sys.path:
 
 from src.core import common
 from src.core.llm_router import LLMRouter
+from src.core.prompts import render_prompt
 from src.llm.exam_preprocessor import (
     QuestionItem,
     configure_formula_mode,
@@ -132,12 +133,9 @@ async def _step2_classify(
         for start in range(0, len(short), 18):
             chunk = short[start:start + 18]
             payload = [{"id": q.id, "stem": q.stem, "options": q.options} for q in chunk]
-            prompt = (
-                "Phân loại CHỈ các câu ngắn sau vào đúng một trong 6 nhóm basic science "
-                "bằng JSON: {\"groups\":[{\"id\":\"Q...\",\"group_id\":1}]}. "
-                "1=Giải phẫu, 2=Giải phẫu bệnh, 3=Mô phôi, 4=Sinh lý, "
-                "5=Sinh lý bệnh, 6=Dược lý. Không trả lời lâm sàng câu dài hoặc hình. "
-                "Dữ liệu:\n" + json.dumps(payload, ensure_ascii=False)
+            prompt = render_prompt(
+                "exam_solver_step2_classify",
+                data=json.dumps(payload, ensure_ascii=False),
             )
             result = await common.ask_with_retry(
                 client, notebook_id, prompt, max_retry=3, timeout=300
@@ -205,11 +203,9 @@ async def _step3_rag(
     async with common.notebooklm_client(chat_timeout=300) as client:
         for chunk in batches:
             payload = [{"id": q.id, "stem": q.stem, "options": q.options} for q in chunk]
-            prompt = (
-                "Trích xuất sự thật/sách/giai thích theo từng câu. Chỉ dùng NotebookLM, "
-                "giữ nguyên ý nghĩa textbook, không giải đề và không suy đoán. "
-                "Trả JSON: {\"rag\":[{\"id\":\"Q...\",\"facts\":\"...\"}]}. "
-                "Dữ liệu:\n" + json.dumps(payload, ensure_ascii=False)
+            prompt = render_prompt(
+                "exam_solver_step3_rag",
+                data=json.dumps(payload, ensure_ascii=False),
             )
             answer = await common.ask_with_retry(
                 client, notebook_id, prompt, max_retry=3, timeout=300
@@ -264,13 +260,7 @@ def _solve_batch(
 ) -> list[dict[str, Any]]:
     require_formula = bool(batch["require_formula_work"])
     formula_schema = '"formula_work":"str"' if require_formula else '"formula_work":null'
-    system = (
-        "Bạn là bác sĩ giải đề y khoa Việt Nam. Trả JSON hợp lệ "
-        '{"results":[{"id":"str","group_id":1,"hint":"str","formula_work":'
-        f"{formula_schema}"
-        ',"answer":"A","explanation":"str"}]} '
-        "group_id phải là 1..8. hint đúng 1 câu gợi ý. Không lộ raw_key/student_note."
-    )
+    system = render_prompt("exam_solver_pass1", formula_schema=formula_schema)
     payload = []
     for q in batch["questions"]:
         payload.append({

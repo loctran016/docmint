@@ -30,6 +30,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from src.core.prompts import render_prompt
 
 try:
     from .transcript_utils import clean_vtt_to_text, load_raw, safe_filename, write_markdown
@@ -40,17 +41,7 @@ DEFAULT_CLEAN_MODELS = "gemini-3.8-flash,gemini-3.6-flash,gemini-3.5-flash-lite,
 WORDS_PER_CHUNK = 2200  # số từ thô mỗi lần gọi Gemini
 SLIDE_CONTEXT_CHARS = 12000
 
-CLEAN_PROMPT = """\
-Bạn là biên tập viên bản ghi bài giảng y khoa (tiếng Việt xen thuật ngữ tiếng Anh và Latinh). Dưới đây là MỘT ĐOẠN bản ghi thô do máy nhận dạng giọng nói tạo ra.
-
-NHIỆM VỤ
-1. Sửa chính tả thuật ngữ y khoa bị nghe sai (tên thuốc, bệnh, giải phẫu, xét nghiệm, viết tắt...) về đúng dạng tiếng Anh, Latinh hoặc tiếng Việt chuẩn. Dùng slide tham chiếu (nếu có) và ngữ cảnh để chọn đúng. Không chắc thì giữ nguyên và thêm [?] ngay sau từ đó.
-2. Thêm dấu câu, viết hoa, tách câu và chia đoạn hợp lý.
-3. Bỏ từ đệm và ngắt ngứ vô nghĩa (à, ừm, ờ...) và câu lặp do nói lắp. TUYỆT ĐỐI không bỏ bất kỳ ý, ví dụ, số liệu hay lời dặn nào của giảng viên.
-4. Chia đề mục (`##`, `###`) khi bài giảng đổi chủ đề.
-5. KHÔNG tóm tắt, KHÔNG thêm kiến thức ngoài lời giảng, KHÔNG bình luận. Giữ ngôi và giọng của giảng viên.
-6. Chỉ trả về Markdown của đoạn này, không lời dẫn, không bọc trong ```.
-"""
+CLEAN_PROMPT = render_prompt("transcript_clean")
 
 
 # ---------------------------------------------------------------------------
@@ -258,10 +249,8 @@ def legacy_main(mode):
         from faster_whisper import BatchedInferencePipeline, WhisperModel
 
         audio = glob.glob("audio.*")[0]
-        prompt = (
-            "Bài giảng y khoa, thuật ngữ y học, lâm sàng, cận lâm sàng, chẩn đoán, điều trị."
-            if lang == "vi"
-            else "Medical lecture, clinical medicine, pathology, pharmacology, diagnosis, treatment."
+        prompt = render_prompt(
+            "whisper_initial_vi" if lang == "vi" else "whisper_initial_en"
         )
         model = WhisperModel("deepdml/faster-whisper-large-v3-turbo-ct2", device="cpu", compute_type="int8", cpu_threads=4)
         batched = BatchedInferencePipeline(model=model)

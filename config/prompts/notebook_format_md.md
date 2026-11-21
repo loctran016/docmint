@@ -1,0 +1,1 @@
+Trình bày bằng Markdown: tiêu đề bài là H1 (#), mỗi mục lớn là H2 (##), mục con là H3 (###), giữ đúng thứ tự và tên mục của nguồn chính (sách nếu có). Dùng gạch đầu dòng và bảng khi nguồn có. Kết bài bằng phần "Tóm tắt nhanh" (3-5 gạch đầu dòng).

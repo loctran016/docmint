@@ -1,0 +1,1 @@
+Hãy tạo video bài giảng bằng tiếng Việt về $bai trong sách: mở đầu nêu mục tiêu của bài, lần lượt trình bày các mục chính theo đúng thứ tự trong sách kèm ví dụ và số liệu quan trọng, kết thúc bằng phần tóm tắt. Chỉ dùng nội dung bài này, không lấy từ các bài khác.$luu_y

@@ -42,6 +42,7 @@ import notebooklm
 from notebooklm import NotebookLMClient, QuizDifficulty, QuizQuantity, SourceStatus
 
 from ask_notebook import GROUPS, match_lesson_sources, resolve_notebook
+from src.core.prompts import render_prompt
 
 QUANTITY = {"fewer": QuizQuantity.FEWER, "standard": QuizQuantity.STANDARD, "more": QuizQuantity.MORE}
 DIFFICULTY = {"easy": QuizDifficulty.EASY, "medium": QuizDifficulty.MEDIUM, "hard": QuizDifficulty.HARD}
@@ -49,9 +50,8 @@ INSTRUCTION_PARAMS = ("instructions", "prompt", "custom_prompt")
 
 
 def build_instructions(lesson, extra):
-    text = (f'Chỉ dùng các nguồn đã chọn, tuyệt đối không thêm kiến thức ngoài nguồn. '
-            f'Nội dung chỉ về bài "{lesson}". Viết bằng tiếng Việt.')
-    return f"{text} {extra}".strip() if extra else text
+    text = render_prompt("artifact_instructions", lesson=lesson)
+    return render_prompt("artifact_extra", base=text, extra=extra).strip() if extra else text
 
 
 async def wait_done(client, nb, task_id, timeout):

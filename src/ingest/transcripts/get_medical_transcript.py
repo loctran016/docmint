@@ -51,14 +51,14 @@ except ImportError:
     from transcript_utils import PipelineError, clean_vtt_to_text, safe_filename, write_markdown
 
 from src.core import common
+from src.core.prompts import render_prompt
 
 WORKFLOW_FILE = "transcribe.yml"
 ARTIFACT_NAME = "medical-transcript"
 
 # Mồi ngữ cảnh cho Whisper (tối đa vài trăm ký tự)
-STT_PROMPT_VI = ("Bài giảng y khoa bằng tiếng Việt, xen thuật ngữ tiếng Anh và Latinh: giải phẫu, sinh lý, bệnh học, "
-                 "dược lý, lâm sàng, cận lâm sàng, chẩn đoán, điều trị.")
-STT_PROMPT_EN = "Medical lecture: anatomy, physiology, pathology, pharmacology, clinical medicine, diagnosis, treatment."
+STT_PROMPT_VI = render_prompt("whisper_context_vi")
+STT_PROMPT_EN = render_prompt("whisper_context_en")
 
 
 # Gọi yt-dlp bằng chính Python đang chạy: không phụ thuộc PATH (uv run, Windows, WSL đều được).
