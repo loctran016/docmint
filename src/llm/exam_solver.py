@@ -300,12 +300,105 @@ def _audit(result: dict[str, Any], raw_key: str) -> dict[str, Any]:
     return result
 
 
+def _normalize_exam_question_fields(question: dict[str, Any]) -> dict[str, Any]:
+    question["textbook_excerpt"] = _strict_null(question.get("textbook_excerpt"))
+    question["note_ref"] = None
+    return question
+
+
+def _group_counts_and_conflicts(questions: list[dict[str, Any]]) -> tuple[dict[str, int], int]:
+    group_counts = {str(group_id): 0 for group_id in range(1, 9)}
+    conflict_count = 0
+    for question in questions:
+        try:
+            group_id = int(question.get("group_id"))
+        except (TypeError, ValueError):
+            continue
+        if str(group_id) in group_counts:
+            group_counts[str(group_id)] += 1
+        if _normalized_status(question.get("status")) == "conflict":
+            conflict_count += 1
+    return group_counts, conflict_count
+
+
+def _generate_exams_manifest(out_root: Path) -> Path:
+    subjects = []
+    for subject_dir in sorted((path for path in out_root.iterdir() if path.is_dir()), key=lambda path: path.name):
+        bank_path = subject_dir / "bank.json"
+        if not bank_path.is_file():
+            continue
+        try:
+            bank = json.loads(bank_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        if not isinstance(bank, dict):
+            continue
+
+        subject = str(bank.get("subject") or subject_dir.name)
+        subject_label = str(
+            bank.get("subject_label")
+            or subject.replace("-", " ").title()
+        )
+        bank_questions = bank.get("questions", [])
+        if not isinstance(bank_questions, list):
+            bank_questions = []
+
+        exams = []
+        bank_exams = bank.get("exams", [])
+        if not isinstance(bank_exams, list):
+            bank_exams = []
+        for exam in bank_exams:
+            if not isinstance(exam, dict):
+                continue
+            exam_id = str(exam.get("exam_id") or "")
+            exam_questions = [
+                question
+                for question in bank_questions
+                if isinstance(question, dict) and str(question.get("exam_id") or "") == exam_id
+            ]
+            group_counts, conflict_count = _group_counts_and_conflicts(exam_questions)
+            question_count = len(exam_questions)
+            if "question_count" in exam:
+                try:
+                    question_count = int(exam.get("question_count") or question_count)
+                except (TypeError, ValueError):
+                    question_count = len(exam_questions)
+            try:
+                default_time_sec = int(exam.get("default_time_sec") or 3600)
+            except (TypeError, ValueError):
+                default_time_sec = 3600
+            exams.append({
+                "exam_id": exam_id,
+                "cohort": str(exam.get("cohort") or ""),
+                "title": str(exam.get("title") or exam_id),
+                "default_time_sec": default_time_sec,
+                "question_count": question_count,
+                "group_counts": group_counts,
+                "conflict_count": conflict_count,
+            })
+
+        subjects.append({
+            "subject": subject,
+            "subject_label": subject_label,
+            "exams": exams,
+        })
+
+    manifest_path = out_root / "exams-manifest.json"
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    manifest_path.write_text(
+        json.dumps({"subjects": subjects}, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    return manifest_path
+
+
 def _export_exam(
     pdf_path: Path,
     out_root: Path,
     subject: str,
     questions: list[QuestionItem],
     results: dict[str, dict[str, Any]],
+    rag_by_id: dict[str, str],
 ) -> Path:
     subject_dir = out_root / subject
     assets_dir = subject_dir / "assets"
@@ -338,6 +431,8 @@ def _export_exam(
             "hint": result["hint"],
             "formula_work": _strict_null(result["formula_work"]),
             "explanation": result["explanation"],
+            "textbook_excerpt": _strict_null(rag_by_id.get(q.id)),
+            "note_ref": None,
             "image": _copy_asset(q.image_path, assets_dir),
         })
     payload = {
@@ -362,12 +457,30 @@ def _merge_bank(subject_dir: Path, subject: str) -> None:
     for path in sorted(subject_dir.glob("*.json")):
         if path.name == "bank.json":
             continue
-        payload = json.loads(path.read_text(encoding="utf-8"))
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        if not isinstance(payload, dict):
+            continue
+        exam_id = str(payload.get("exam_id") or "").strip()
+        if not exam_id:
+            continue
+        exam_questions = payload.get("questions", []) or []
+        if not isinstance(exam_questions, list):
+            exam_questions = []
+        for question in exam_questions:
+            if isinstance(question, dict):
+                _normalize_exam_question_fields(question)
+        payload["questions"] = exam_questions
+        path.write_text(
+            json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
         exam_id = str(payload["exam_id"])
         if exam_id in seen_exam_ids:
             continue
         seen_exam_ids.add(exam_id)
-        exam_questions = payload.get("questions", []) or []
         exams.append({
             "exam_id": exam_id,
             "cohort": payload.get("cohort", ""),
@@ -375,7 +488,9 @@ def _merge_bank(subject_dir: Path, subject: str) -> None:
             "default_time_sec": payload.get("default_time_sec", 3600),
             "question_count": len(exam_questions),
         })
-        questions.extend(exam_questions)
+        questions.extend(_normalize_exam_question_fields(question)
+                        for question in exam_questions
+                        if isinstance(question, dict))
     bank = {
         "subject": subject,
         "subject_label": subject.replace("-", " ").title(),
@@ -388,6 +503,7 @@ def _merge_bank(subject_dir: Path, subject: str) -> None:
         json.dumps(bank, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+    _generate_exams_manifest(subject_dir.parent)
 
 
 async def solve_exam_async(
@@ -499,7 +615,7 @@ async def solve_exam_async(
         if q.id not in all_results:
             raise ValueError(f"Thiếu kết quả reasoning cho {q.id}")
         all_results[q.id] = _audit(all_results[q.id], q.raw_key or "")
-    _export_exam(pdf_path, out_root, subject, questions, all_results)
+    _export_exam(pdf_path, out_root, subject, questions, all_results, rag)
     _merge_bank(out_root / subject, subject)
 
 
