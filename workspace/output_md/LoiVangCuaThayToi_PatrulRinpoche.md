@@ -2327,6 +2327,20 @@ Thọ mạng ở đó là bao lâu? Năm mươi năm trong đời sống con ng�
 
 Ở đây những thuộc hạ của Diêm Vương (Yama) đặt các tội nhân trên nền kim khí nóng chảy như những khúc củi cháy dở và gạch lên thân họ những đường vạch đen - bốn, tám, mười sáu, ba mươi hai và v..v... – mà các thuộc hạ của Diêm Vương
 
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+toàn lên được. Mọi thứ chìm trong sự thiêu hủy rừng rực của ngọn lửa bùng cháy dữ dội.
+
+1.1.1 Đẳng Hoạt Địa Ngục (*Phạn: Samjiva* – Địa ngục chết đi sống lại)
+
+Ở tầng địa ngục này, than hồng bao phủ mặt nền kim khí nóng chảy, vô lượng chúng sinh nhiều như tuyết rơi trong một trận bão tuyết do nghiệp cảm của họ mà gom tụ lại. Hành nghiệp dẫn họ tới địa ngục này được thúc đẩy bởi tâm hận thù, nên hậu quả cũng tương tự như căn nguyên đã đưa họ đến đó; họ nhìn nhau như những kẻ tử thù, và xông vào đánh nhau dữ dội. Họ vung lên những vũ khí kỳ lạ – một kho vũ khí ma quái tạo ra bởi nghiệp lực của họ – họ đánh nhau cho tới khi tất cả ngã gục. Khi ấy, một giọng nói từ trên cao bỗng cất lên: “Hãy sống lại!” và lập tức họ tỉnh dậy và lại bắt đầu đánh nhau y hệt như trước. Và họ bị hành hạ như vậy, liên tục chết đi rồi sống lại.
+
+Thọ mạng ở đó là bao lâu? Năm mươi năm trong đời sống con người tương đương với một ngày trong Cung Trời của Tứ Thiên Vương. Ba mươi ngày ở đó thành một tháng, và mười hai tháng làm thành một năm; năm trăm năm như thế tương đương một ngày trong Đẳng Hoạt Địa Ngục. Trong địa ngục này, mỗi tháng có ba mươi ngày, mười hai tháng làm một năm. Những chúng sinh này chịu đau khổ ở đó trong năm trăm năm như thế.
+
+1.1.2 Hắc Thằng Địa Ngục (*Phạn: Kalasutra* – Địa ngục dây sắt đen buộc kéo tội nhân)
+
+Ở đây những thuộc hạ của Diêm Vương (Yama) đặt các tội nhân trên nền kim khí nóng chảy như những khúc củi cháy dở và gạch lên thân họ những đường vạch đen - bốn, tám, mười sáu, ba mươi hai và v..v... – mà các thuộc hạ của Diêm Vương
+
 III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
 
 dùng làm những đường mẫu để xẻ cắt các nạn nhân ra bằng những chiếc cưa nóng đỏ. Vừa bị cắt thành từng mảnh xong, họ lập tức nguyên vẹn trở lại, chỉ để rồi lại bị chặt ra thành từng phần và bị băm đi băm lại.
@@ -4299,6 +4313,27 @@ Khi làm một thị giả đi theo vị Thầy, hãy tránh đừng đi phía t
 
 _________________
 \* Bởi vị Thầy tâm linh được xem là một vị Phật nên nơi nào Ngài bước chân lên (in dấu chân của Ngài) thì nơi đó được gia hộ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Tỳ kheo Sunaksatra bị năng lực của cái ác chế ngự,
+Và nhìn thấy hành động của Đức Phật là giả dối.
+Hãy cẩn thận suy ngẫm về điều này và chỉnh sửa bản thân.
+
+Khi vị Thầy có vẻ giận dữ với bạn thì bạn không được tức giận. Thay vào đó, hãy tự nhắc rằng hẳn là Ngài đã thoáng nhận ra một lỗi lầm nào đó trong bạn và qua cơn thịnh nộ của Thầy thì hãy thấy rằng đây là lúc để chỉnh sửa lỗi lầm của mình. Khi cơn giận của Ngài giảm đi, hãy tới sám hối những lỗi lầm của bạn và hứa với Ngài là bạn sẽ không tái phạm nữa.
+
+> Nếu Thầy của bạn nổi cơn thịnh nộ, hãy kết luận rằng Ngài đã nhìn thấy một lỗi lầm trong bạn.
+> Đã tới lúc phải sửa sai bằng lời khiển trách của Ngài.
+> Hãy sám hối và nguyện không bao giờ tái phạm.
+> Như thế, người minh trí sẽ không rơi vào ảnh hưởng của Ma vương.
+
+Khi có mặt Thầy thì thay vì cứ ngồi yên vị, hãy lập tức đứng lên bất cứ khi nào Ngài còn đứng. Khi Ngài ngồi xuống, hãy vấn an sức khoẻ của Ngài. Khi bạn nghĩ có thể Ngài cần một điều gì đó, ngay lập tức hãy đem lại những gì làm Ngài vui lòng.
+
+Khi làm một thị giả đi theo vị Thầy, hãy tránh đừng đi phía trước Ngài bởi như thế bạn sẽ quay lưng của bạn lại với Ngài. Tuy nhiên không nên đi phía sau Ngài vì bạn có thể đạp lên dấu chân Ngài.* Bạn cũng không nên đi phía bên phải Ngài, vì đó là vị trí dành cho sự tôn kính. Thay vào đó, hãy kính cẩn đi bên trái và hơi lui lại phía sau Ngài. Nếu đường đi
+
+_________________
+
+^* Bởi vị Thầy tâm linh được xem là một vị Phật nên nơi nào Ngài bước chân lên (in dấu chân của Ngài) thì nơi đó được gia hộ.
 
 VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
 
@@ -8714,15 +8749,17 @@ Bất kỳ một ai có lòng quy ngưỡng và có mật nguyện hoàn hoàn t
 
 Ngay bây giờ, để giúp người nghe có thêm chút vui vẻ thư giãn cũng như vì một số lý do khác, những giải thích về lịch sử chào đời của giáo pháp nói chung, và của ba pháp tu “nội du già” (inner yogas) nói riêng, thường thường được đem ra trình bày ở đây một cách không quá vắn tắt mà cũng không quá tỉ mỉ. Do đó, bây giờ tôi sẽ giải thích một cách vắn tắt về lịch sử ra đời và truyền thừa của ba pháp tu “nội du già (inner yogas) của Cựu Phái Dịch Thuật (Old Translations), gồm có Mahāyoga, Anuyoga và Atiyoga, và làm thế nào mà ba pháp tu này – tương ứng với các giai đoạn phát triển, thành tựu và Đại Viên Mãn, đã được truyền xuống đến tận chúng ta ngày hôm nay. Có tất cả ba dòng truyền dạy khác nhau: (1) dòng tâm truyền (mind lineage) [hay biệt truyền] của các Đấng Chiến Thắng, (2) dòng truyền dạy qua biểu tượng (symbol lineage) của các bậc Minh Trì (Vidyādhara) và (3) dòng nhĩ truyền (hearing lineage) (hay khẩu truyền) của các chúng sinh bình thường.
 
-### 1. Dòng Tâm Truyền (Biệt Truyền) Của Các Đấng Chiến Thắng
+1. Dòng Tâm Truyền (Biệt Truyền) Của Các Đấng Chiến Thắng
 
-# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
 Đức Phật Phổ Hiền* đã giác ngộ từ vô thủy. Những cõi tịnh độ của toàn thể chư Phật, những nơi chốn mà giáo lý được giảng dạy và toàn thể chư đạo sư của tất cả bốn Thân Phật (four kāyas), tất cả đều đã xuất hiện nhờ vào vô lượng vô số những hoá hiện nhiệm mầu phát xuất từ lòng từ bi của đức Phật Phổ Hiền. Tập hội những đệ tử của Ngài bao gồm những vị Minh Trì (Vidyadhara) của năm Thân Phật và của hằng hà sa số các Đấng Chiến Thắng không thể nghĩ bàn; không có gì khác biệt giữa các vị ấy và bản thân của đức Phật Phổ Hiền. Đức Phật Phổ Hiền giảng dạy không qua giáo lý; ngài truyền dạy tất cả các giáo thuyết không qua ngôn từ hay qua các biểu tượng thông thường mà truyền dạy một cách hết sức tự nhiên không cần dụng công hay tạo tác, qua tánh sáng tự nhiên của lòng đại từ bi đến từ tuệ giác nguyên sơ của Ngài. Chúng đệ tử của Ngài tự thể nhập yếu nghĩa của giáo lý viên mãn này không chút sai lạc, và phẩm hạnh cùng quả vị tu chứng và giải thoát của các vị ấy 276 trở thành nhất như với phẩm hạnh và quả vị tu chứng và giải thoát của đức Phật Phổ Hiền.
 
-Đối với những ai không có may mắn thấu hiểu được dòng truyền dạy đầu tiên này thì đã có những Thừa khác hướng dẫn họ tu theo một con đường tiệm tiến hay con đường tuần tự tu chứng (progressive path). Đức Phật Phổ Hiền đã truyền dạy những Thừa này bằng cách hóa hiện ra thành vô số thân tướng trong hằng hà sa số các thế giới không thể nghĩ bàn trong vũ trụ để làm lợi lạc cho chúng sinh, dẫn dắt từng chúng sinh một bằng phương tiện thiện xảo thích hợp nhất. Ngài đã dạy dỗ sáu loài chúng sinh qua sáu thân tướng đặc biệt gọi là Sáu Đức Mâu Ni. Trong cõi Diêm Phù Đề này, Đức Phật Thích Ca Mâu Ni đã chuyển Pháp Luân ở ba mức độ khác nhau cho các vị Trời và người. Ngài đã giảng dạy Quả Thừa, bao gồm Luật (Vinaya), Kinh (Sūtra) và A-tì-đàm Luận (Abhidharma), và truyền dạy ngoại Mật Thừa (outer Mantrayana) gồm có Tác
+Đối với những ai không có may mắn thấu hiểu được dòng truyền dạy đầu tiên này thì đã có những Thừa khác hướng dẫn họ tu theo một con đường tiệm tiến hay con đường tuần tự tu chứng (progressive path). Đức Phật Phổ Hiền đã truyền dạy những Thừa này bằng cách hóa hiện ra thành vô số thân tướng trong hằng hà sa số các thế giới không thể nghĩ bàn trong vũ trụ để làm lợi lạc cho chúng sinh, dẫn dắt từng chúng sinh một bằng phương tiện thiện xảo thích hợp nhất. Ngài đã dạy dỗ sáu loài chúng sinh qua sáu thân tướng đặc biệt gọi là Sáu Đức Mâu Ni. Trong cõi Diêm Phù Đề này, đức Phật Thích Ca Mâu Ni đã chuyển Pháp Luân ở ba mức độ khác nhau cho các vị Trời và người. Ngài đã giảng dạy Quả Thừa, bao gồm Luật (Vinaya), Kinh (Sūtra) và A-tì-đàm Luận (Abhidharma), và truyền dạy ngoại Mật Thừa (outer Mantrayana) gồm có Tác
 
-* Tây Tạng: kun tu bzang po, xem Dẫn nhập: Đại Viên Mãn
+* Tây Tạng: *kun tu bzang po*, xem Dẫn nhập: Đại Viên Mãn
+
+519
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN II
 
@@ -8738,7 +8775,7 @@ Ngài đã dạy hai mươi mốt ngàn phẩm trong Luận Tạng;
 Ngài đã dạy hai mươi mốt ngàn phẩm của Tứ Tạng
 (Fourth Pitaka).
 
-## 2. Dòng Truyền Dạy Qua Biểu Tượng Của Các Bậc Minh Trì (Vidyadhara)
+2. **Dòng Truyền Dạy Qua Biểu Tượng Của Các Bậc Minh Trì** (Vidyadhara)
 
 Vào thời điểm Ngài nhập Niết Bàn, chính Đức Phật Thích Ca Mâu Ni đã tiên đoán về sự hình thành của giáo thuyết Mật Thừa vô song:
 
@@ -8757,7 +8794,7 @@ Cùng với bằng hữu dưới quyền và những người khác.
 
 VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
-Sau khi ban phát lời tiên tri này, Đức Phật đã thị hiện nhập Niết Bàn. $^{227}$ Sau đó, ba pháp du già của giáo thuyết nội điển (inner doctrine) vô song, cùng các giai đoạn phát triển, thành tựu và Đại Viên Mãn đều xuất hiện như Đức Phật đã tiên tri.
+Sau khi ban phát lời tiên tri này, Đức Phật đã thị hiện nhập Niết Bàn.$^{227}$ Sau đó, ba pháp du già của giáo thuyết nội điển (inner doctrine) vô song, cùng các giai đoạn phát triển, thành tựu và Đại Viên Mãn đều xuất hiện như Đức Phật đã tiên tri.
 
 ## 2.1 CÁC MẬT ĐIỂN ĐẠI DU GIÀ (MAHAYOGA)
 
@@ -8793,7 +8830,7 @@ Ngay lúc đó, ngay trên đỉnh núi Mālaya, Ngài đã giảng dạy *Yếu
 
 2.3 CÁC GIÁO HUẤN TÂM YẾU CỦA ĐẠI VIÊN MÃN
 
-VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
 Atiyoga (A Đề Du Già, A Tì Du Già) tức Đại Cứu Kính hay Đại Viên Mãn, trước tiên được dạy cho những vị Trời. Trong cõi Trời thứ Ba Mươi Ba, có một vị trời tên là Devabhadrapala, ông có năm trăm người con trai, tất cả được đản sanh ra từ trong tâm của ông.* Người lớn nhất có tên là Ānandagarbha, thông minh và có sức mạnh phi thường hơn hẳn các em. Ngài thích hành trì tụng đọc các bài kệ kim cương, một mình đơn độc trong tịnh thất. Ngài được gọi là Devaputra Adhicitta, “thiên tử với tâm siêu việt.”
 
@@ -8802,43 +8839,43 @@ Vào năm Nữ Ngưu thuộc mạng thủy, Ngài nằm mơ bốn giấc mơ v�
 Hôm sau, Ngài đến kể về các giấc mơ cho Kausika, vua các vị Trời nghe. Nhà vua liền phát ra lời tán tụng này:
 
 Emaho (Kỳ diệu thay)!
+
 Bây giờ là lúc để giáo pháp tâm yếu xuất hiện mà không phải dụng công!
+
 Hóa Thân của Chư Phật, Bồ Tát trong quá khứ, hiện tại và vị lai,
 
-____________________
-\* Họ được sinh ra một cách thần diệu chỉ nhờ vào ước muốn của ông ta.
-\* Đây là ba vị thần chính yếu của đạo Bà-La-Môn (Hindu gods). Pasupati là một tên khác của Siva.
+* Họ được sinh ra một cách thần diệu chỉ nhờ vào ước muốn của ông ta.
+* Đây là ba vị thần chính yếu của đạo Bà-La-Môn (Hindu gods). Pasupati là một tên khác của Siva.
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN II
 
-> Pháp Vương của thập địa – Ngài sẽ thắp sáng toàn thể thế giới.
-> Thật là một tô điểm kỳ diệu cho các cõi Trời!
+Pháp Vương của thập địa – Ngài sẽ thắp sáng toàn thể thế giới.
+Thật là một tô điểm kỳ diệu cho các cõi Trời!
 
 Giấc mơ đầu tiên là dấu hiệu cho thấy Ngài sẽ nhiếp thụ trí huệ của toàn thể chư Phật và trở thành vị đại diện cho chư Phật. Giấc mơ thứ hai biểu thị rằng Ngài sẽ nhiếp phục được tất cả ma quỷ và đoạn diệt tam độc. Giấc mơ thứ ba có ý nghĩa là Ngài sẽ xua tan bóng tối trong tâm chúng sinh và soi sáng tâm họ bằng các giáo pháp. Giấc mơ thứ tư tượng trưng cho sự dập tắt những nỗi thống khổ mãnh liệt do các cảm xúc tiêu cực gây ra, dập tắt bằng giòng cam lồ của giáo lý Ati tự nhiên hiển lộ và bằng quả vị thành tựu không cần dụng công của thừa Ati.
 
 Một lần nữa, tất cả chư Phật trong quá khứ, hiện tại và vị lai cùng tụ hội lại và nói:
 
-> Chúng tôi khẩn cầu đấng quang vinh Kim Cang Tát Đoả:
-> Là đấng sở hữu viên ngọc phương tiện kỳ diệu,
-> Xin mở cánh cửa đến với tất cả những gì chúng sinh ước muốn.
-> Xin ban cho họ viên ngọc siêu vượt mọi dụng công.
+Chúng tôi khẩn cầu đấng quang vinh Kim Cang Tát Đoả:
+Là đấng sở hữu viên ngọc phương tiện kỳ diệu,
+Xin mở cánh cửa đến với tất cả những gì chúng sinh ước muốn.
+Xin ban cho họ viên ngọc siêu vượt mọi dụng công.
 
 Từ tim của đức Kim Cang Tát Đoả (Vajrasattva) xuất hiện một bánh xe nạm ngọc rực rỡ-- Ngài tặng bánh xe đó cho Sattvavajra\*\* và nói:
 
-> Trí huệ bát nhã siêu vượt nhị nguyên, siêu vượt thực tại bị che chắn,
-> Đức Phật nguyên sơ, không dụng công và không tạo tác:
-> Con đường này được gọi là Trung Đạo Vĩ Đại.
+Trí huệ bát nhã siêu vượt nhị nguyên, siêu vượt thực tại bị che chắn,
+Đức Phật nguyên sơ, không dụng công và không tạo tác:
+Con đường này được gọi là Trung Đạo Vĩ Đại.
 
-\_\_\_
 \*\* Một tên khác của Vajrapani (Kim Cương Thủ).
 
-# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
-*Hãy khai mở cho tập hội các đệ tử.*
+Hãy khai mở cho tập hội các đệ tử.
 
 Sattvajra hứa sẽ giảng dạy như sau:
 
-Kim Cang Tát Đoả, bao la như bầu trời,^283
+Kim Cang Tát Đoả, bao la như bầu trời,$^{283}$
 Siêu vượt phạm vi ngôn từ,
 Thật khó để diễn tả.
 Nhưng với những ai chưa chứng ngộ, ta sẽ sử dụng ngôn từ
@@ -8853,12 +8890,12 @@ LỜI VÀNG CỦA THẦY TÔI, PHẦN II
 
 cây sinh lực, trên ngọn có đặt một chày kim cương chín chấu. Đức Kim Cang Thủ đi tới đó để gặp Adhicitta và ngự trên một chiếc ngai khảm ngọc chói ngời trên chóp đỉnh của chày kim cang này.
 
-Adhicitta mở rộng tấm màn che làm bằng đủ loại châu báu và cúng dường cho đức Kim Cang Thủ (Vajrapani) nhiều phẩm vật linh thiêng. Rồi đức Kim Cang Thủ truyền cho Ngài, qua phương tiện của những biểu tượng, toàn thể năng lực gia hộ bằng cách trực tiếp "rót đầy phương tiện của các Đấng Chiến Thắng."²⁸⁴ Đức Kim Cang Thủ cũng ban truyền cho Ngài mười giáo huấn tâm yếu kỳ diệu, bảy pháp quán đảnh, năm giáo huấn tâm yếu và một số rất nhiều các Mật điển và giáo huấn tâm yếu khác, toàn bộ đã được trao truyền chỉ trong một giây khắc. Đức Kim Cang Thủ gia hộ và ấn chứng cho Ngài là vị đại diện lỗi lạc nhất của chư Phật và tuyên bố những lời này:
+Adhicitta mở rộng tấm màn che làm bằng đủ loại châu báu và cúng dường cho đức Kim Cang Thủ (Vajrapani) nhiều phẩm vật linh thiêng. Rồi đức Kim Cang Thủ truyền cho Ngài, qua phương tiện của những biểu tượng, toàn thể năng lực gia hộ bằng cách trực tiếp "rót đầy phương tiện của các Đấng Chiến Thắng."284 Đức Kim Cang Thủ cũng ban truyền cho Ngài mười giáo huấn tâm yếu kỳ diệu, bảy pháp quán đảnh, năm giáo huấn tâm yếu và một số rất nhiều các Mật điển và giáo huấn tâm yếu khác, toàn bộ đã được trao truyền chỉ trong một giây khắc. Đức Kim Cang Thủ gia hộ và ấn chứng cho Ngài là vị đại diện lỗi lạc nhất của chư Phật và tuyên bố những lời này:
 
 > Cầu mong yếu nghĩa kỳ diệu này của Giáo Pháp
 > Được biết đến khắp ba cõi vi diệu
 > Và được truyền bá giữa cõi Diêm Phù Đề
-> Bởi một trưởng tử là hóa thân của một Hóa Thân.²⁸⁵
+> Bởi một trưởng tử là hóa thân của một Hóa Thân.285
 
 Theo đó, Giáo Pháp đã lan truyền khắp ba cõi linh hiển.
 
@@ -8872,7 +8909,7 @@ thiện, có một trái tim đức hạnh và tâm Bồ Đề bao la. Từ bỏ
 
 Vào năm Mộc Ngưu, ngày mồng tám tháng hai của mùa hạ, khi bình minh vừa ló dạng, cô nằm mơ một giấc mơ trong đó cô nhìn thấy tất cả chư Như Lai phát hào quang, những luồng ánh sáng biến thành mặt trời và mặt trăng. Mặt trời tan vào cô qua đỉnh đầu, di chuyển xuống phía dưới. Mặt trăng tan vào cô qua các gót chân, di chuyển lên phía trên. Sáng ra, kinh nghiệm chứng ngộ của cô tăng trưởng, và cô đi ra lau rửa trên bờ Hồ Kutra. Trong lúc đó, đức Vajrapani trong thân tướng của một con thiên nga, vua của các loài chim; Ngài biến Adhicitta thành một chữ *hūm* và sau đó tự biến mình thành bốn con thiên nga. Bốn con thiên nga từ trên trời cao hạ cánh xuống dầm mình trong nước hồ. Rồi ba con trong số đó lại cất cánh bay lên giữa bầu trời, nhưng một trong những hiện thân này của Pháp Vương Mật Pháp (đức Kim Cang Thủ - Vajrapani), trước tiên đã chạm mỏ vào tim công chúa ba lần, và một chữ *hūm* sáng chói tan vào tim cô. Rồi con thiên nga ấy cũng bay đi.
 
-Quá kinh ngạc, công chúa lại cho phụ thân và chúng đệ tử biết chuyện gì đã xảy ra. Trong lòng tràn đầy xúc cảm kỳ diệu, vua cha rất hoan hỷ.
+Quá kinh ngạc, công chúa báo lại cho phụ thân và chúng đệ tử biết chuyện gì đã xảy ra. Trong lòng tràn đầy xúc cảm kỳ diệu, vua cha rất hoan hỷ.
 
 “Đây có phải là điềm báo trước sự chào đời của hóa thân của một vị Phật?” nhà vua hỏi.
 
@@ -8880,7 +8917,7 @@ Nhà vua tiến hành tổ chức nhiều đại tiệc và lễ lạc. Mặc d�
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN II
 
-đang tụng đọc những lời nguyện bắt đầu bằng câu: “Đức Kim Cang Tát Đoả (Vajrasattva), mênh mông như bầu trời...” Mọi người thảy đều hoan hỉ. Họ đưa em tới gặp một người Bà la môn thông thạo nghệ thuật lý giải những dấu hiệu kỳ lạ. Hết sức kinh ngạc, người Bà la môn tuyên bố em bé là một hóa thân hiển lộ, bậc nắm giữ các giáo lý của Thừa tối thượng (highest vehicle). Vì mọi người đang hết sức sung sướng hoan hỉ và em bé đang cầm một cái chày trong tay nên họ gọi em là Garab Dorje, có nghĩa là Kim Cương Cực Hỉ. Vì mọi người đang rất vui mừng, họ cũng gọi em là Kim Cương Niềm Vui. Và vì họ tràn đầy tiếng cười nên họ gọi em là Kim Cương Tiếng Cười.
+đang tụng đọc những lời nguyện bắt đầu bằng câu: “Đức Kim Cang Tát Đoả (Vajrasattva), mênh mông như bầu trời...” Mọi người thảy đều hoan hỉ. Họ đưa em tới gặp một người Bà la môn thông thạo nghệ thuật lý giải những dấu hiệu kỳ lạ. Hết sức kinh ngạc, người Bà la môn tuyên bố em bé là một hóa thân hiển lộ, bậc nắm giữ các giáo lý của Thừa tối thượng (highest vehicle). Vì mọi người đang hết sức sung sướng hoan hỉ và em bé đang cầm một cái chày trong tay nên họ gọi em là Garab Dorje, có nghĩa là Kim Cương Cực Hỉ. Vì mọi người đang rất vui mừng, họ cũng gọi em là Kim Cương Niềm Vui. Và vì họ tràn đầy tiếng cười nên họ cũng gọi em là Kim Cương Tiếng Cười.
 
 Khi Garab Dorje lên ngôi, đức Kim Cang Thủ (Vajrapani) xuất hiện trong thân tướng con người và trực tiếp ban cho ngài pháp gia trì viên mãn bằng cách rót đầy những yếu nghĩa của các Đấng Chiến Thắng cũng như rót đầy các pháp gia lực khác. Chỉ trong giây khắc, đức Vajrapani cũng truyền cho ngài toàn bộ các Mật điển (tantra) và các giáo huấn tinh túy, chẳng hạn như hai mươi ngàn pho Cửu Phương Quảng Trí (Nine Expanses) v.v.., và trao quyền cho Ngài làm người trì giữ giáo pháp. Đức Kim Cang Thủ chỉ định các vị hộ pháp trung thành làm bạn đồng hành với Garab Dorje để bảo vệ Giáo Pháp. Không cần phải dụng công và chỉ trong khoảnh khắc, Garab Dorje đạt được Phật Quả thuộc quả vị Đại Viên Mãn.
 
@@ -8902,7 +8939,7 @@ Huynh trưởng Rajahasti muốn thỉnh cầu Giáo Pháp nhưng lại tuyên b
 
 Một số người khác cảm thấy rằng họ có thể thỉnh cầu Giáo Pháp vì giờ đây họ đã được Ngài thuyết phục. Họ cùng nhau quyết định sám hối với bậc Đạo Sư. Một số bắt đầu lễ lạy và đi nhiễu quanh Ngài. Những người khác bắt đầu kêu khóc.
 
-LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+# LỜI VÀNG CỦA THẦY TÔI, PHẦN II
 
 Mañjuśrīmitra quỳ lạy trước mặt Ngài và nói: “Bậc ứng hiện Hóa Thân, bằng cách tuôn ra những luận cứ không sao kìm hãm được, con đã xử sự bất kính đối với Ngài.”
 
@@ -8915,16 +8952,16 @@ Tất cả những học giả còn thiếu thiện nghiệp cần thiết và t
 Từ vô thủy, bản tánh của tâm là Phật.
 Không sinh cũng không diệt, tựa không gian.
 Khi ông liễu ngộ chân nghĩa, thấy ra tánh của vạn pháp vốn đồng đẳng,
-Hãy an trụ trong trạng thái đó, đừng kiếm tìm 286 thì đó là thiền định.
+Hãy an trụ trong trạng thái đó, đừng kiếm tìm ^286 thì đó là thiền định.
 
 VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
 Mañjuśrīmitra hoàn toàn thấu suốt, hiểu rõ Giáo Pháp này muốn nói gì và diễn tả kinh nghiệm chứng ngộ của riêng Ngài như sau:
 
-> Ta là Mañjuśrīmitra,
-> Ta đã thành tựu quả vị Yamāntaka.
-> Ta đã liễu ngộ tánh đại bình đẳng giữa sinh tử Niết Bàn;
-> Tuệ giác nguyên sơ đã phát khởi.
+Ta là Mañjuśrīmitra,
+Ta đã thành tựu quả vị Yamāntaka.
+Ta đã liễu ngộ tánh đại bình đẳng giữa sinh tử Niết Bàn;
+Tuệ giác nguyên sơ đã phát khởi.
 
 Ngài đã viết *Giáo Huấn Về Bồ Đề Tâm Khắc Bằng Vàng Trên Đá* $^{287}$ để ăn năn sám hối, và ghi lại hết các giáo huấn của Garab Dorje.
 
@@ -8932,7 +8969,7 @@ Kế đó, các Giáo Pháp này được truyền cho Śri Simha, là người 
 
 Từ Śri Simha, các Giáo Pháp này đã được trao truyền tới Đức Phật Thứ Nhì ở xứ Oddiyāna* và sau đó tới học giả Jñānasūtra, đại học giả Vimalamitra, và đại dịch giả Vairotsana. Dòng truyền thừa cho tới thời điểm này là dòng truyền thừa qua biểu tượng của các đấng Minh Trì (Vidyadhara).
 
-__________________
+_________________
 * Đức Padmasambhava (Liên Hoa Sanh).
 
 [Hình: Tu viện Samye]
@@ -8941,28 +8978,28 @@ __________________
 
 Tu viện đầu tiên ở Tây Tạng, được khởi công xây dựng vào đầu thế kỷ thứ 9, kiến trúc tượng trưng cho thế giới theo vũ trụ quan của Ấn Độ cổ. Tu viện bị phá hủy trầm trọng trong cuộc Cách Mạng Văn Hoá, nhưng từ đó tới nay ngôi chùa chính đã được trùng tu kỹ lưỡng và được ngài Dilgo Khyentse Rinpoche hiến cúng lại vào năm 1990.
 
-VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+IV. LỊCH SỬ TRUYỀN BÁ GIÁO LÝ TÂM-YẾU Ở XỨ TUYẾT TÂY TẠNG
 
-## IV. LỊCH SỬ TRUYỀN BÁ GIÁO LÝ TÂM-YẾU Ở XỨ TUYẾT TÂY TẠNG
+Vào thời Đức Phật, Tây Tạng không có cư dân là con người. Về sau, có một bộ lạc con người phát xuất từ sự kết hợp giữa một loài vượn (là Hóa Thân của đức Quán Thế Âm Avalokiteśvara cao quý) cùng với một nữ tinh linh núi**. Trong thời kỳ phôi thai này, Tây Tạng ở trong một tình trạng hỗn loạn không tôn giáo, không luật lệ, không người cai trị.
 
-Vào thời Đức Phật, Tây Tạng không có cư dân là con người. Về sau, có một bộ lạc con người phát xuất từ sự kết hợp giữa một loài vượn (là Hóa Thân của đức Quán Thế Âm Avalokiteśvara cao quý) cùng với một nữ tinh linh núi\*\*. Trong thời kỳ phôi thai này, Tây Tạng ở trong một tình trạng hỗn loạn không tôn giáo, không luật lệ, không người cai trị.
+Trong lúc đó ở Ấn Độ, một vị vua tên là Śatānīka sinh hạ được một bé trai. Bàn tay và bàn chân của đứa trẻ có màng giống màng của một con thiên nga và mí mắt của em khép lại hướng lên trên như mí mắt của một con chim. Cha em cho rằng đứa trẻ hẳn có nguồn gốc quái thai không phải là người, tuyên bố là em phải bị trục xuất khỏi vương quốc. Ngay khi vừa lớn lên một chút, em bé đã bị đuổi đi. Do nghiệp lực dẫn dắt, em bé đã lang thang vô định và cuối cùng thì đến Tây Tạng. Ở đó em tình cờ gặp một vài người chăn cừu. Khi họ hỏi em từ đâu tới và là ai, em chỉ lên bầu trời. Những người chăn cừu cho rằng em bé phải là một vị Trời từ các cõi Trời hạ sinh, và tôn em làm thủ lãnh của họ. Họ làm cho em một chiếc ngai bằng đất và đá, và họ khiêng chiếc ngai đó trên vai, và vì thế em được gọi là Nyatri Tsenpo Cổ thời – Nyatri Tsenpo có nghĩa là “Đế Vương Của Chiếc Ngai Trên Vai.” Đây là vị vua đầu tiên,288 và là một Hóa Thân của Bồ Tát Sarvanivaranaviskambhin.
 
-Trong lúc đó ở Ấn Độ, một vị vua tên là Śatānīka sinh hạ được một bé trai. Bàn tay và bàn chân của đứa trẻ có màng giống màng của một con thiên nga và mí mắt của em khép lại hướng lên trên như mí mắt của một con chim. Cha em cho rằng đứa trẻ hẳn có nguồn gốc quái thai không phải là người, tuyên bố là em phải bị trục xuất khỏi vương quốc. Ngay khi vừa lớn lên một chút, em bé đã bị đuổi đi. Do nghiệp lực dẫn dắt, em bé đã lang thang vô định và cuối cùng thì đến Tây Tạng. Ở đó em tình cờ gặp một vài người chăn cừu. Khi họ hỏi em từ đâu tới và là ai, em chỉ lên bầu trời. Những người chăn cừu cho rằng em bé phải là một vị Trời từ các cõi Trời hạ sinh, và tôn em làm thủ lãnh của họ. Họ làm cho em một chiếc ngai bằng đất và đá, và họ khiêng chiếc ngai đó trên vai, và vì thế em được gọi là Nyatri Tsenpo Cổ thời – Nyatri Tsenpo có nghĩa là “Đế Vương Của Chiếc Ngai Trên Vai.” Đây là vị vua đầu tiên,\text{ }^{288} và là một Hóa Thân của Bồ Tát Sarvanivaranaviskambhin.
+Nhiều đời sau đó, trong triều đại Lha-Thothori Nyentsen, Ngài là một Hóa Thân của Bồ Tát Phổ Hiền (Samantabhadra), hiện ra trên mái Cung Điện Yumbu Lakhar cùng với một số các bảo vật linh thiêng:289 gồm có một tôn tượng được gọi là Cintāmani,290 tượng trưng cho thân tướng của chư Phật; Đạo
 
-Nhiều đời sau đó, trong triều đại Lha-Thothori Nyentsen, Ngài là một Hóa Thân của Bồ Tát Phổ Hiền (Samantabhadra), hiện ra trên mái Cung Điện Yumbu Lakhar cùng với một số các bảo vật linh thiêng;\text{ }^{289} gồm có một tôn tượng được gọi là Cintāmani,\text{ }^{290} tượng trưng cho thân tướng của chư Phật; Đại
+<br>
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+––––––––––––––––––
 \*\* Có chỗ nói rằng đó là một hóa thân của Đức Quan Âm (Tara).
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN II
 
-Thừa Trang Nghiêm Bảo Vương Kinh $^{291}$ và Kinh Bách Nguyện Bách Bái, $^{292}$ tượng trưng cho ngữ của chư Phật ; và một tháp pha lê cao một cubit (khoảng $46^{\text{cm}}$), tượng trưng cho tâm của chư Phật. Đây là khởi đầu lịch sử của Giáo Pháp ở Tây Tạng.
+Thừa Trang Nghiêm Bảo Vương Kinh 291 và Kinh Bách Nguyện Bách Bái, 292 tượng trưng cho ngữ của chư Phật ; và một tháp pha lê cao một cubit (khoảng $46^{\text{cm}}$), tượng trưng cho tâm của chư Phật. Đây là khởi đầu lịch sử của Giáo Pháp ở Tây Tạng.
 
-Trải qua năm đời sau đó đến triều đại của vua Songtsen Gampo $^{293}$ là một Hóa Thân của đức Quán Thế Âm (Avalokitesvara). Ngài xây dựng tất cả các điện thờ Thadul và Yangdul và cung điện chính ở thủ đô Lhasa $^{294}$ và kết hôn với công chúa Kongjo (Văn Thành Công Chúa) xứ Trung Hoa – một Hóa Thân của đức Quan Âm (Tara) – và với công chúa Tritsun xứ Nepal – một Hóa Thân của Thiên Nữ Bhrikutī. Mỗi công chúa đều có đem theo một pho tượng của Đức Phật, như một phần thuộc của hồi môn. Hai pho tượng này được biết đến như là Jowo. $^{295}$
+Trải qua năm đời sau đó đến triều đại của vua Songtsen Gampo 293 là một Hóa Thân của đức Quán Thế Âm (Avalokitesvara). Ngài xây dựng tất cả các điện thờ Thadul và Yangdul và cung điện chính ở thủ đô Lhasa 294 và kết hôn với công chúa Kongjo (Văn Thành Công Chúa) xứ Trung Hoa – một Hóa Thân của đức Quan Âm (Tara) – và với công chúa Tritsun xứ Nepal – một Hóa Thân của Thiên Nữ Bhrikutī. Mỗi công chúa đều có đem theo một pho tượng của Đức Phật, như một phần thuộc của hồi môn. Hai pho tượng này được biết đến như là Jowo. 295
 
-Lần đầu tiên một hệ thống chữ cái Tây Tạng được Thomi Sambhota khai lập; ông nghiên cứu ngôn ngữ dưới sự dạy dỗ của học giả Ấn Độ Devavit Simha, và sau đó đã bắt đầu dịch *Bảo Vân Kinh* và một số các Kinh điển khác. Vua Songtsen Gampo đã phóng tỏa ra một tu sĩ tên là Akarmati từ giữa cặp lông mày của ngài. Vị tu sĩ này đi nhiếp phục các vị vua phi Phật Giáo ở Ấn Độ, và tìm thấy năm bức tượng Quán Thế Âm tự hoá hiện có tên là Năm Anh Em Cao Quý ngay trong thân của một loại cây đàn hương gọi là “Mãng Xà Tâm Yếu,” ở ngay Cung Điện Cát nằm giữa Ấn Độ và Tamradvipa. Ngài cũng đã tạc pho tượng Quán Thế Âm Avalokitesvara mười một khuôn mặt (Quán Tự Tại Thập Nhất Diện hay Thiên Thủ Thiên Nhãn) đặc biệt linh thiêng hiện còn ở Lhasa. $^{296}$ Chính trong triều đại này mà Phật Pháp thực sự bắt rễ ở Tây Tạng.
+Lần đầu tiên một hệ thống chữ cái Tây Tạng được Thomi Sambhota khai lập; ông nghiên cứu ngôn ngữ dưới sự dạy dỗ của học giả Ấn Độ Devavit Simha, và sau đó đã bắt đầu dịch Bảo Vân Kinh và một số các Kinh điển khác. Vua Songtsen Gampo đã phóng tỏa ra một tu sĩ tên là Akarmati từ giữa cặp lông mày của ngài. Vị tu sĩ này đi nhiếp phục các vị vua phi Phật Giáo ở Ấn Độ, và tìm thấy năm bức tượng Quán Thế Âm tự hoá hiện có tên là Năm Anh Em Cao Quý ngay trong thân của một loại cây đàn hương gọi là “Mãng Xà Tâm Yếu,” ở ngay Cung Điện Cát nằm giữa Ấn Độ và Tamradvipa. Ngài cũng đã tạc pho tượng Quán Thế Âm Avalokitesvara mười một khuôn mặt (Quán Tự Tại Thập Nhất Diện hay Thiên Thủ Thiên Nhãn) đặc biệt linh thiêng hiện còn ở Lhasa. 296 Chính trong triều đại này mà Phật Pháp thực sự bắt rễ ở Tây Tạng.
 
-Trải qua năm đời nữa, đến đời vua Trisong Detsen, $^{297}$ một Hóa Thân của đức Văn Thù Cao Quý được sinh ra đời. Khi Ngài lên mười ba tuổi thì thân phụ mất. Trước tiên Ngài chinh phục một số các xứ sở bằng vũ lực sau khi đã tham
+Trải qua năm đời nữa, đến đời vua Trisong Detsen, 297 một Hóa Thân của đức Văn Thù Cao Quý được sinh ra đời. Khi Ngài lên mười ba tuổi thì thân phụ mất. Trước tiên Ngài chinh phục một số các xứ sở bằng vũ lực sau khi đã tham
 
 VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
@@ -8975,6 +9012,8 @@ Dựa vào công phu thiền quán, Ngài Tingdzin Zangpo biết rằng ở Zaho
 Sau đó Ngài Santaraksita cố gắng hiến cúng địa điểm của ngôi chùa. Nhưng một loài rồng nước (naga) sống trong một cung điện tên là Aryapalo, biết rằng bụi cây nơi ông ta sống sắp bị đốn hạ, đã kêu gọi tất cả các tinh linh tới trợ giúp ông. Hai mươi mốt genyen được người và các chúng phi-nhân (non-humans) hộ tống, cùng tập hợp thành một đội quân, và khi đêm đến, các tinh linh phá hủy bất kỳ những gì được con người xây dựng vào ban ngày, đưa mọi thứ đất đá trở về lại nơi xuất phát.
 
 Nhà vua đến gặp Tu Viện Trưởng và yêu cầu một lời giải thích: “ Có phải bởi vì các chướng duyên của trẫm quá sâu dày? Hay tại Ngài đã không gia hộ cho mảnh đất? Phải chăng kế hoạch của trẫm vẫn chưa thực hiện được ?”
+
+535
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN II
 
@@ -8990,40 +9029,40 @@ VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
 Cuối cùng Ngài đến Trakmar để gia trì mảnh đất, và tu viện Samye Tự Hiển Lộ đã được xây dựng. Tu viện có một dinh thự ở giữa cao ba tầng, được bao quanh bởi những tòa nhà tượng trưng cho bốn đại châu và các trung châu. Hai điện Yaksa, một cao và một thấp tượng trưng cho mặt trời và mặt trăng. Toàn bộ tu viện được một bức tường bao quanh. Tu Viện Trưởng Santaraksita, Đạo Sư Padma (Liên Hoa) và Vimalamitra tung hoa lên để cúng dường và làm an định cả thảy ba lần và người ta đã nhìn thấy nhiều dấu hiệu phi thường và kỳ diệu nhiệm mầu hiện ra.301
 
-## 1. Dòng Nhĩ Truyền Của Những Chúng Sinh Bình Thường*
+## 1. Dòng Nhĩ Truyền Của Những Chúng Sinh Bình Thường\*
 
-Sau đó Tu Viện Trưởng Śantaraksita đã giảng dạy về các truyền thống của Luật tạng và Kinh tạng, trong khi Đạo Sư Liên Hoa Sanh và Ngài Vimalamitra thiết lập các giáo lý Mật Thừa. Chính vào lúc này Đức Phật Thứ Hai xứ Oddiyāna tức Đạo Sư Padma và đại học giả Vimalamitra đã truyền dạy cho ba đệ tử tâm yếu – gồm có Đức Vua, Thần Dân và Hiền Hữu** – cũng như dạy cho Nyangwen Tingdzin Zangpo và các đệ tử may mắn khác là những chiếc bình chứa thích hợp để đón nhận Giáo Pháp. Đối với những đệ tử này các Ngài đã chuyển Pháp Luân gồm ba nội du già (inner yogas), kể cả Atiyoga của Đại Viên Mãn, và chỉ rõ ba điểm trọng yếu: phân biệt, xác quyết và tự giải thoát (distinguishing, clear decision and self-liberation).302 Bắt đầu từ đó trở đi, dòng truyền thừa này được gọi là “dòng truyền thừa qua lắng nghe hay dòng nhĩ truyền của những chúng sinh bình thường.”
+Sau đó Tu Viện Trưởng Śantaraksita đã giảng dạy về các truyền thống của Luật tạng và Kinh tạng, trong khi Đạo Sư Liên Hoa Sanh và Ngài Vimalamitra thiết lập các giáo lý Mật Thừa. Chính vào lúc này Đức Phật Thứ Hai xứ Oddiyāna tức Đạo Sư Padma và đại học giả Vimalamitra đã truyền dạy cho ba đệ tử tâm yếu – gồm có Đức Vua, Thần Dân và Hiền Hữu\*\* – cũng như dạy cho Nyangwen Tingdzin Zangpo và các đệ tử may mắn khác là những chiếc bình chứa thích hợp để đón nhận Giáo Pháp. Đối với những đệ tử này các Ngài đã chuyển Pháp Luân gồm ba nội du già (inner yogas), kể cả Atiyoga của Đại Viên Mãn, và chỉ rõ ba điểm trọng yếu: phân biệt, xác quyết và tự giải thoát (distinguishing, clear decision and self-liberation).302 Bắt đầu từ đó trở đi, dòng truyền thừa này được gọi là “dòng truyền thừa qua lắng nghe hay dòng nhĩ truyền của những chúng sinh bình thường.”
 
-____________________
 \* Đề mục này được đưa vào trong bản dịch để thêm sáng nghĩa.
-\*\* Trisong Detsen, Yeshe Tsogyal và Virotsana.
+\*\* Trisong Detsen, Yeshe Tsogyal và Vairotsana.
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN II
 
-Đức Phật Thứ Hai xứ Oddiyāna cũng ban Giáo Pháp thích hợp cho mỗi một người trong Hai Mươi Lăm Đại Đệ Tử của Ngài,$^+$ là những vị có được phước duyên cần thiết để đón nhận bất kỳ Giáo Pháp nào trong vô số Giáo Pháp của Đức Phật miễn là Giáo Pháp đó phù hợp với thiện nghiệp của họ. Sau đó, những bản văn Mật Thừa này đã được viết trên “các cuộn giấy vàng” $^{303}$ và được cất dấu như những kho tàng tâm linh hay tàng bảo kinh.$^{++}$ Đạo Sư đã cầu nguyện và cất dấu những bản văn này như những di sản vì lợi lạc của chúng đệ tử trong tương lai. Về sau, vào những thời điểm đã được tiên tri, Hóa Thân của những vị thành tựu giả trong số chúng đệ tử đó, là những người mà trước đây Đạo Sư đã hướng lời cầu nguyện đến, họ sẽ tái sinh trong hoàn cảnh tốt đẹp để làm nhiệm vụ khai quật những kho tàng tâm linh thâm diệu này. Nhiều đệ tử với nghiệp lực thích ứng đã đi theo các vị này, hoằng hóa làm lợi lạc chúng sinh và lập nên các dòng truyền thừa thường được gọi là những dòng lục truyền hay cửu truyền (those lineages with six or nine transmissions).$^{304}$
+Đức Phật Thứ Hai xứ Oddiyāna cũng ban Giáo Pháp thích hợp cho mỗi một người trong Hai Mươi Lăm Đại Đệ Tử của Ngài,* là những vị có được phước duyên cần thiết để đón nhận bất kỳ Giáo Pháp nào trong vô số Giáo Pháp của Đức Phật miễn là Giáo Pháp đó phù hợp với thiện nghiệp của họ. Sau đó, những bản văn Mật Thừa này đã được viết trên “các cuộn giấy vàng” $^{303}$ và được cất dấu như những kho tàng tâm linh hay tàng bảo kinh.$^{++}$ Đạo Sư đã cầu nguyện và cất dấu những bản văn này như những di sản vì lợi lạc của chúng đệ tử trong tương lai. Về sau, vào những thời điểm đã được tiên tri, Hóa Thân của những vị thành tựu giả trong số chúng đệ tử đó, là những người mà trước đây Đạo Sư đã hướng lời cầu nguyện đến, họ sẽ tái sinh trong hoàn cảnh tốt đẹp để làm nhiệm vụ khai quật những kho tàng tâm linh thâm diệu này. Nhiều đệ tử với nghiệp lực thích ứng đã đi theo các vị này, hoằng hóa làm lợi lạc chúng sinh và lập nên các dòng truyền thừa thường được gọi là những dòng lục truyền hay cửu truyền (those lineages with six or nine transmissions).$^{304}$
 
-Trong vô số các vị Hóa Thân và những vị khai quật tàng bảo kinh, có một vị có rất nhiều liên hệ với chúng ta ở đây, đó là ngài Rigdzin Jigme Lingpa. Ngài đích thực là đức Quán Thế Âm An Trụ Trong Bản Tánh Của Chân Tâm,$^#$ và ngài hoá hiện trong hình tướng của một vị thiện tri thức. Cùng một lúc, Ngài nhận lãnh những giáo huấn của toàn thể ba dòng truyền thừa - dòng truyền tâm, dòng truyền qua biểu tượng và dòng nhĩ truyền qua sự lắng nghe - từ Đức Phật Thứ Hai xứ Oddiyāna, đại học giả Vimalamitra và bậc Toàn Giác Longchen Rabjam.$^{305}$ Ngài là một vị Phật Toàn Giác. Ngài đã chuyển pháp luân của Giáo Pháp Viên Mãn cho những chúng
+Trong vô số các vị Hóa Thân và những vị khai quật tàng bảo kinh, có một vị có rất nhiều liên hệ với chúng ta ở đây, đó là ngài Rigdzin Jigme Lingpa. Ngài đích thực là đức Quán Thế Âm An Trụ Trong Bản Tánh Của Chân Tâm,$^{\#}$ và ngài hoá hiện trong hình tướng của một vị thiện tri thức. Cùng một lúc, Ngài nhận lãnh những giáo huấn của toàn thể ba dòng truyền thừa - dòng truyền tâm, dòng truyền qua biểu tượng và dòng nhĩ truyền qua sự lắng nghe - từ Đức Phật Thứ Hai xứ Oddiyāna, đại học giả Vimalamitra và bậc Toàn Giác Longchen Rabjam.$^{305}$ Ngài là một vị Phật Toàn Giác. Ngài đã chuyển pháp luân của Giáo Pháp Viên Mãn cho những chúng
 
-+$ rje \`bango$, nghĩa đen là “đức vua và thần dân,” gồm có đức vua Trisong Detsen và các thần dân là hai mươi bốn đệ tử khác.
+_________________________
+$^+$ *rje `bango*, nghĩa đen là “đức vua và thần dân,” gồm có đức vua Trisong Detsen và các thần dân là hai mươi bốn đệ tử khác.
 $^{++}$ Xem Thuật Ngữ: kho tàng tâm linh.
-$^#$ sems nyid ngal gso: một hiện thân của đức Quán Thế Âm Avalokitesvara
+$^{\#}$ *sems nyid ngal gso*: một hiện thân của đức Quán Thế Âm Avalokitesvara
 
-# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+538
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
 sinh nào có được nhiều may mắn và thuận duyên. Như tục ngữ có nói:
 
-> Dù sắc thân Ngài là của một vị Trời hay con người phàm tục
+> Dù sắc thân Ngài là của một vị Trời hay con người phàm tục  
 > Nhưng tâm thức toàn hảo của Ngài đích thật là Phật.
 
 Vì lý do này, vị Thầy tôn kính\*\* của tôi thường nói: “Đối với những ai có khả năng tu tập và cầu nguyện thì Bổn Sư của ta, đấng Kim Cương Trì $^{306}$ (Vajradhara) -- vị Pháp Vương và Hộ Thần của toàn thể chúng sinh, Ngài thực sự là một vị Phật Toàn Giác. Ta không nói thế chỉ vì muốn tán thán hay tôn kính Ngài. Ngài thực sự là đức Kim Cương Trì Toàn Giác Vĩ Đại, đã hạ sinh để làm lợi lạc chúng sinh trong thân tướng của người phàm. Trong dòng truyền thừa này, giữa Ngài và các con không có ai khác ngoài ta. Và đối với ta, ngay từ lần đầu tiên gặp Ngài, ta đã thọ trì tất cả những gì Ngài dạy bảo. Ta đã phụng sự Ngài theo ba phương cách$^+$ và không bao giờ làm điều gì khiến Ngài phải phiền lòng hay thậm chí làm Ngài phải cau mày. Vì thế các con có thể tin chắc rằng, các mật nguyện tuyệt đối chưa hề bao giờ bị suy đồi khiến cho sợi dây xích vàng của dòng truyền thừa này phải bị ô uế. Suối nguồn năng lực gia hộ của dòng truyền thừa này thật khác biệt với suối nguồn của bất kỳ dòng truyền nào khác.”
 
 Mật điển *Nhật Nguyệt Hợp Nhất* có nói:
 
-> Nếu bạn không giải thích lịch sử nguồn gốc (của dòng truyền thừa),
-> Người ta sẽ phạm phải lỗi lầm
+> Nếu bạn không giải thích lịch sử nguồn gốc (của dòng truyền thừa),  
+> Người ta sẽ phạm phải lỗi lầm  
 > Không tin tưởng vào Chân Pháp tột cùng ẩn mật.
-
-<hr>
 
 \*\* Bổn Sư của Patrul Rinpoche, Ngài Jigme Gyalwai Nyugu, là một trong trưởng tử của Ngài Ridzin Jigme Lingpa. Xem Dẫn Nhập.
 
@@ -9035,8 +9074,8 @@ Chính vì cần phải đem đến nguồn cảm hứng giúp cho chúng đệ 
 
 Trong pháp Bổn Sư Du Già, điều tối quan trọng là phải trì tụng câu minh chú mười triệu lần. Một số người không trì tụng câu minh chú trong thời gian đủ dài (cho mười triệu lần), và cho rằng các tu pháp dự bị này không thực sự quan trọng. Hoặc có lẽ sau khi nghe giảng rằng giáo lý của pháp thực hành chính yếu thật sự thâm diệu như thế nào thì họ nảy sinh ra rất nhiều kỳ vọng cao xa. Nhưng hãy thử tưởng tượng xem, việc họ có thể thực hiện các pháp tu thuộc hai giai đoạn phát triển và thành tựu mà không bỏ thời gian ra để thực hành đúng đắn các pháp tu dự bị thì cũng giống như tục ngữ phổ thông có nói:
 
-> Thè lưỡi ra trước khi cái đầu được nấu chín,^[307]
-> Duỗi chân ra trước khi chỗ nằm được hơ ấm.
+> *Thè lưỡi ra trước khi cái đầu được nấu chín,*$^{307}$
+> *Duỗi chân ra trước khi chỗ nằm được hơ ấm.*
 
 Thực hành các pháp tu dự bị mà không đi cho tới kỳ cùng thì sẽ không có bất kỳ ý nghĩa nào cả. Cho dù có được một vài dấu hiệu nhỏ bé nhất thời như “hơi ấm” xuất hiện, nhưng những dấu hiệu này cũng không có gì là bền vững giống như một tòa nhà không có nền móng.
 
@@ -9057,9 +9096,9 @@ Chân Pháp. Việc bỏ rơi các pháp tu dự bị cũng giống như việc 
 
 [Hình: Đức Liên Hoa Sanh (Guru Rinpoche) và mười hai hoá thân]
 
-Đức Liên Hoa Sanh (Guru Rinpoche) và mười hai hoá thân
+*Đức Liên Hoa Sanh (Guru Rinpoche) và mười hai hoá thân*
 
-Những thân tướng khác nhau của Đức Liên Hoa Sanh được mô tả dựa trên hệ giảng “Phá Tan Chướng Ngại” (Parché Kunsel), một kho tàng tâm linh do hai vị đồng thời với Patrul Rinpoche là Chogyur Dechen Lingpa và Jamyang Khyentse Wangpo khám phá.
+Những thân tướng khác nhau của Đức Liên Hoa Sanh được mô tả dựa trên hệ giảng “Phá Tan Chướng Ngại” (*Parché Kunsel*), một kho tàng tâm linh do hai vị đồng thời với Patrul Rinpoche là Chogyur Dechen Lingpa và Jamyang Khyentse Wangpo khám phá.
 
 # Phần Ba
 
@@ -9071,6 +9110,8 @@ Kangyur Rinpoche (1898 -1975)
 
 Một học giả và hành giả vĩ đại – cho dù Ngài có thể tiếp tục giữ những chức vụ cao cấp tại đại tu viện Riwoche ở miền Đông Tây Tạng, nhưng Ngài đã chọn lựa để sống cuộc đời rày đây mai đó để hành trì và dạy dỗ đệ tử, tránh xa những liên lụy dính mắc tại các trung tâm tôn giáo. Khởi sự từ khi còn thơ ấu, Ngài đã thấy linh ảnh của đức Liên Hoa Sanh và khám phá ra được một số tàng bảo kinh tại Tây Tạng, Bhutan và Ấn Độ.
 
+I. CHUYỂN DI TÂM THỨC (PHOWA)
+
 # CHƯƠNG MỘT
 
 ## PHÁP CHUYỂN DI TÂM THỨC, GIÁO HUẤN DÀNH CHO NGƯỜI HẤP HỐI: PHẬT QUẢ KHÔNG CẦN THIỀN ĐỊNH
@@ -9080,7 +9121,7 @@ Cao cả thay cách thức Ngài gia hộ những kẻ đại ác như chúng đ
 Cao cả thay phương pháp thiện xảo Ngài ban cho những kẻ khó điều phục.
 Đạo Sư Vô Song, con đảnh lễ dưới chân Ngài.
 
-## I. PHÂN LOẠI NĂM PHÁP CHUYỂN DI
+### I. PHÂN LOẠI NĂM PHÁP CHUYỂN DI
 
 Có năm loại chuyển di tâm thức khác nhau:
 1. Chuyển di siêu việt tới Pháp Thân nhờ dấu ấn của cái thấy (kiến)
@@ -9093,11 +9134,13 @@ LỜI VÀNG CỦA THẦY TÔI, PHẦN III
 
 1. Chuyển Di Siêu Việt Tới Pháp Thân Nhờ Dấu Ấn Của Cái Thấy (Kiến)
 
-Đối với những người khi còn sống đã tu tập thuần thục và kinh qua được một cái thấy (kiến) không hề sai lầm về chân tánh vô tạo tác, thì vào lúc lìa đời, họ có thể đưa không gian (space) và tánh giác (awareness) vào con đường tu tập ẩn mật của pháp trekcho thuần tịnh nguyên sơ, và có thể chuyển di tâm thức của họ vào đại-phương quảng-trí của Pháp Thân.308
+Đối với những người khi còn sống đã tu tập thuần thục và kinh qua được một cái thấy (kiến) không hề sai lầm về chân tánh vô tạo tác, thì vào lúc lìa đời, họ có thể đưa không gian (space) và tánh giác (awareness) vào con đường tu tập ẩn mật của pháp trekcho thuần tịnh nguyên sơ, và có thể chuyển di tâm thức của họ vào đại-phương quảng-trí của Pháp Thân.$^{308}$
+
 
 2. Chuyển Di Trung Bình Tới Báo Thân Nhờ Hợp Nhất Hai Giai Đoạn Phát Triển Và Toàn Thiện
 
-Đối với những người đã quen thuộc với công phu hành trì các pháp tu của hai giai đoạn phát triển và toàn thiện, kết hợp cả hai như một pháp môn du già bất khả phân, cũng như đã tu tập thuần thục để có thể nhìn thấy sắc tướng của vị Hộ Phật (deity) chẳng khác gì một cảnh trí hoá hiện thần diệu, thì khi những ảo giác của trạng thái trung ấm xuất hiện vào giây phút lìa đời, họ có thể chuyển hoá tâm thức của họ thành Thân trí tuệ hợp nhất (the union wisdom kāya).309
+Đối với những người đã quen thuộc với công phu hành trì các pháp tu của hai giai đoạn phát triển và toàn thiện, kết hợp cả hai như một pháp môn du già bất khả phân, cũng như đã tu tập thuần thục để có thể nhìn thấy sắc tướng của vị Hộ Phật (deity) chẳng khác gì một cảnh trí hoá hiện thần diệu, thì khi những ảo giác của trạng thái trung ấm xuất hiện vào giây phút lìa đời, họ có thể chuyển hoá tâm thức của họ thành Thân trí tuệ hợp nhất (the union wisdom kāya).$^{309}$
+
 
 3. Chuyển Di Thấp Tới Hoá Thân Nhờ Lòng Bi Mẫn Vô Lượng
 
@@ -9129,9 +9172,11 @@ Tuy nhiên, bất cứ những ai là người thực sự biết được đíc
 
 Sẽ khó khăn hơn để có thể thực hiện pháp chuyển di một khi tâm và thân đã hoàn toàn tách rời. Vì thế, cần có một hành giả du già (yogi) có khả năng làm chủ được bản tâm, có thể nhận ra được người chết trong trạng thái trung ấm. Tác động tới người không còn thân xác vật lý nữa là điều dễ dàng, và khi được thực hiện bởi một hành giả du già như thế thì tự việc chuyển di ra khỏi trạng thái trung ấm cũng có năng lực chuyển đẩy tâm thức chúng sinh tới một cõi tịnh độ. Tuy nhiên, thật là một điều hoàn toàn vô nghĩa khi cho rằng pháp chuyển di có thể được thực hiện bằng cách triệu thỉnh tâm thức quay trở lại thân xác sau khi chết.$^{313}$
 
-Ngày nay, nhiều người thực hành các nghi lễ chuyển di cho dù họ chỉ là các Lạt Ma hay *tulku*$^{**}$ trên danh nghĩa. Nếu họ thực hiện các pháp chuyển di này với lòng từ bi của Bồ Đề Tâm và không có chút tính toán vị kỷ nào, thì may ra chân tánh của họ sẽ không bị ngăn che khiến họ có thể thực sự
+Ngày nay, nhiều người thực hành các nghi lễ chuyển di cho dù họ chỉ là các Lạt Ma hay *tulku*** trên danh nghĩa. Nếu họ thực hiện các pháp chuyển di này với lòng từ bi của Bồ Đề Tâm và không có chút tính toán vị kỷ nào, thì may ra chân tánh của họ sẽ không bị ngăn che khiến họ có thể thực sự
 
-$^{**}$ sprul sku, nghĩa đen: Hoá Thân. Một Lạt Ma hoá thân. Những Lạt Ma như thế thường được coi như là hiện thân của một Đại Bồ Tát. Tuy nhiên, có nhiều ảnh hưởng xã hội trong việc tuyển chọn một tulku, và có nhiều trường hợp mà tính xác thực của việc tuyển chọn rất đáng nghi ngờ.
+________________________
+
+** sprul sku, nghĩa đen: Hoá Thân. Một Lạt Ma hoá thân. Những Lạt Ma như thế thường được coi như là hiện thân của một Đại Bồ Tát. Tuy nhiên, có nhiều ảnh hưởng xã hội trong việc tuyển chọn một tulku, và có nhiều trường hợp mà tính xác thực của việc tuyển chọn rất đáng nghi ngờ.
 
 I. CHUYỂN DI TÂM THỨC (PHOWA)
 
@@ -9162,21 +9207,21 @@ Thật là sai lầm khi những người ở địa vị đại Lạt Ma hay Ho
 
 ## II. CHUYỂN DI THÔNG THƯỜNG NƯƠNG VÀO BA ẨN DỤ
 
-I. CHUYỂN DI TÂM THỨC (PHOWA)
+# I. CHUYỂN DI TÂM THỨC (PHOWA)
 
 Bây giờ tôi sẽ mô tả về loại chuyển di được gọi là “chuyển di thông thường nương vào ba ẩn dụ” hay “chuyển di tâm thức vào tâm thức của Đạo Sư.” Pháp chuyển di này cũng phù hợp với điều mà *Diệt Tội Trang Nghiêm Sám Hối Mật Điển* gọi là “pháp chuyển di trái cầu ánh sáng (ball of light) nương vào âm thanh vào lúc lìa đời.” Đối với những vị hành giả đã có một mức độ chứng đắc sâu dầy thì pháp chuyển di này không cần thiết. Đối với những vị này, như trong Mật điển đã có nói:
 
-Điều gọi là cái chết chỉ là một ý niệm,
-Đưa dẫn tới các cõi tịnh.314
+> Điều gọi là cái chết chỉ là một ý niệm,
+> Đưa dẫn tới các cõi tịnh.^[314]
 
 Và, trong đó cũng còn nói,
 
-Cái chết, hay cái mà chúng ta biết tựa hồ như cái chết,
-Là một tiểu ngộ đối với một hành giả du già.
+> Cái chết, hay cái mà chúng ta biết tựa hồ như cái chết,
+> Là một tiểu ngộ đối với một hành giả du già.
 
 Đối với những vị đã đạt được kinh nghiệm tối thượng một cách thật vững chãi trong khi họ còn sống và có thể làm chủ được sinh tử thì những vị ấy vẫn phải trải qua một cái gì có vẻ tựa hồ giống như là cái chết. Nhưng đối với họ, cái chết không khác gì việc di chuyển từ một nơi này sang nơi khác. Như chúng ta đã có đề cập đến trước đây, đối với những vị đã có kinh nghiệm về các pháp tu tâm yếu trong các giai đoạn phát triển và toàn thiện, các vị này có thể vận dụng một trong ba pháp tu liên hệ đến ba giai đoạn của (1) cái chết, (2) thân trung ấm hoặc (3) tái sinh, để chuyển di tâm thức của họ tới một trong ba Thân (kāya). Ngược lại:
 
-Những kẻ không dầy công tu tập vẫn có thể được đón nhận nhờ vào pháp chuyển di.
+> Những kẻ không dầy công tu tập vẫn có thể được đón nhận nhờ vào pháp chuyển di.
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN III
 
@@ -9200,10 +9245,9 @@ Và thêm nữa:
 > Được tôn vinh trên pháp toà nhật nguyệt nơi đỉnh đầu bạn,
 > Hãy bước theo con đường lụa trắng là đường kinh mạch trung ương,
 
-_________________
-\* Cửa Phạm Thiên (Brahma) hay lỗ thoát trên đỉnh đầu nơi tâm thức có thể thoát ra ngoài khi lìa đời.
+* Cửa Phạm Thiên (Brahma) hay lỗ thoát trên đỉnh đầu nơi tâm thức có thể thoát ra ngoài khi lìa đời.
 
-# I. CHUYỂN DI TÂM THỨC (PHOWA)
+I. CHUYỂN DI TÂM THỨC (PHOWA)
 
 Và bạn sẽ được giải thoát, cho dù đã từng mắc phạm ngũ nghịch trọng tội với quả báo tức thì.
 
@@ -9239,12 +9283,11 @@ tuyệt hảo.
 
 Jetsun Shepa Dorje cũng nói:
 
-Những giáo huấn này, hợp nhất, chuyển di và nối kết,*
-Là cẩm nang để vượt qua thân trung ấm.
-Ai có được một con đường như thế?
-Kẻ ấy sẽ hạnh phúc biết bao khi sinh lực đi vào đường
-khí mạch trung ương –
-Kỳ diệu thay! Đã đi đến một Pháp Giới viên mãn!
+- Những giáo huấn này, hợp nhất, chuyển di và nối kết,*
+- Là cẩm nang để vượt qua thân trung ấm.
+- Ai có được một con đường như thế?
+- Kẻ ấy sẽ hạnh phúc biết bao khi sinh lực đi vào đường khí mạch trung ương –
+- Kỳ diệu thay! Đã đi đến một Pháp Giới viên mãn!
 
 Các giáo huấn này có hai phần: phần đầu là thực tập [khi còn sống], và sau đó là phần thực hành thực sự [vào lúc lìa đời].
 
@@ -9254,9 +9297,11 @@ Khi nương vào những hướng dẫn về pháp chuyển di mà bạn đã đ
 
 Hiện nay, trong khi toàn thể các đường khí mạch, năng lực và tinh chất của bạn vẫn còn nguyên vẹn và sung mãn, bạn sẽ thấy rằng việc chuyển di thực sự rất khó khăn. Nhưng một khi đã tới giờ phút cuối cùng của cuộc đời, hay vào lúc đã quá già yếu, thì việc chuyển di sẽ trở nên rất dễ dàng. Giống như trái cây trên cành, khó hái vào mùa hè khi trái non ấy còn đang phát triển. Nhưng vào mùa thu, một khi nó đã chín nhũn và sẵn sàng rụng xuống, thì chỉ cần áo quần của bạn chạm nhẹ vào thôi là cũng đủ làm cho nó rụng xuống rồi.
 
+---
+
 * Chúng ta nối kết với các cõi tịnh độ nương vào pháp chuyển di tâm thức bằng cách hợp nhất với vị thầy.
 
-I. CHUYỂN DI TÂM THỨC (PHOWA)
+# I. CHUYỂN DI TÂM THỨC (PHOWA)
 
 ## 2. Chuyển Di Thực sự
 
@@ -9269,9 +9314,9 @@ Có nhiều giai đoạn trong tiến trình tan rã hay phân tán nhưng để
 
 Giai đoạn tan rã của năm giác quan bắt đầu, ví dụ như khi tiếng trì tụng của chư tăng tụ họp quanh tử sàng của bạn chỉ còn là những âm thanh giống như một thứ tiếng rì rầm lộn xộn rối rắm. Bạn không còn có thể phân biệt được các âm tiết. Hoặc ví dụ như khi bạn nghe âm thanh giọng nói của con người như thể đến từ rất xa, và không thể nhận ra được lời lẽ gì nữa. Đó là khi nhĩ thức của bạn đến lúc chấm dứt. Nhãn thức của bạn cũng đến lúc kết thúc khi bạn chỉ có thể nhìn thấy cảnh tượng lờ mờ thay vì nhìn thấy hình tướng thật sự của mọi vật. Khi những kinh nghiệm của khứu giác, nếm biết, và
 
-[^]
-_________________
-\*\* Theo Kim Cương Thừa, thân thể con người được coi như một mạn đà la thần diệu của các Bổn Tôn. Trong ý nghĩa này, thu ngắn mạng sống của ta bằng cách thực hành pháp chuyển di sớm hơn thời điểm đồng nghĩa với việc phá huỷ mạn đà la của các Bổn Tôn.
+---
+
+** Theo Kim Cương Thừa, thân thể con người được coi như một mạn đà la thần diệu của các Bổn Tôn. Trong ý nghĩa này, thu ngắn mạng sống của ta bằng cách thực hành pháp chuyển di sớm hơn thời điểm đồng nghĩa với việc phá huỷ mạn đà la của các Bổn Tôn.
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN III
 
@@ -9282,8 +9327,7 @@ Sau đó, khi yếu tố bên trong của da thịt tan rã thành yếu tố b�
 Vào lúc đó, yếu tố trắng hay “tinh dịch” mà bạn đã nhận được từ cha sẽ nhanh chóng từ đỉnh đầu bạn di chuyển xuống phía dưới [xuống đến luân xa tim]. Như một dấu hiệu bên ngoài, bạn trải qua một kinh nghiệm màu trắng giống như một bầu trời không mây được ánh trăng chiếu sáng. Như một
 
 ____________________
-
-^* Extremeties* là một thuật ngữ tiếng Anh có nghĩa là chân, tay, các bộ phận nhô ra ngoài của thân thể.
+* Extremeties là một thuật ngữ tiếng Anh có nghĩa là chân, tay, các bộ phận nhô ra ngoài của thân thể.
 
 I. CHUYỂN DI TÂM THỨC (PHOWA)
 
@@ -9293,7 +9337,7 @@ Yếu tố đỏ hay “máu” mà bạn đã nhận được từ mẹ sẽ nh
 
 Khi hai yếu tố đỏ và trắng hội tụ lại nơi [luân xa] tim của bạn, thì giọt tâm thức của bạn sẽ tiến vào nằm ở giữa hai yếu tố trắng và đỏ kia. Dấu hiệu bên ngoài là một nhận thức về màu đen giống như màu đen của một bầu trời trong trẻo hoàn toàn ngập trong bóng tối. Dấu hiệu bên trong là tâm thức bạn kinh nghiệm một trạng thái vô niệm, vắng bặt mọi niệm tưởng, và bạn ngất đi, rơi vào một trạng thái hoàn toàn tối nghịt. Điều này được gọi là giai đoạn “thành tựu.”
 
-Sau đó, bạn sẽ bước ra khỏi trạng thái kích ngất và bước vào một kinh nghiệm giống như kinh nghiệm về một bầu trời, nhưng bầu trời này hoàn toàn không bị ảnh hưởng gì của ba bầu trời mà bạn đã kinh nghiệm qua trước đây. Đây chính là khi “thanh tịnh quang của chân tánh”$^3$$^1$$^6$ đang xuất hiện. Việc nhận thức ra được rằng thanh tịnh quang này chính là chân tánh của bạn và an trụ trong trạng thái đó, điều này được gọi là “chuyển di siêu việt tới Pháp Thân.” Đây là Phật Quả không kinh qua bất kỳ trạng thái trung gian nào [của thân trung ấm].
+Sau đó, bạn sẽ bước ra khỏi trạng thái kích ngất và bước vào một kinh nghiệm giống như kinh nghiệm về một bầu trời, nhưng bầu trời này hoàn toàn không bị ảnh hưởng gì của ba bầu trời mà bạn đã kinh nghiệm qua trước đây. Đây chính là khi “thanh tịnh quang của chân tánh”316 đang xuất hiện. Việc nhận thức ra được rằng thanh tịnh quang này chính là chân tánh của bạn và an trụ trong trạng thái đó, điều này được gọi là “chuyển di siêu việt tới Pháp Thân.” Đây là Phật Quả không kinh qua bất kỳ trạng thái trung gian nào [của thân trung ấm].
 
 Sau thời điểm trên thì giai đoạn trung ấm của chân tánh và giai đoạn trung ấm của sự hình thành sẽ tuần tự hiển lộ, nhưng những giai đoạn đó sẽ không được miêu tả ở đây
 
@@ -9319,22 +9363,20 @@ Trước tiên, hãy hoàn tất toàn thể các pháp tu dự bị cho thật 
 
 ## 1.2 PHÁP QUÁN TƯỞNG CHÍNH YẾU
 
-Hãy quán tưởng xác thân phàm của bạn,$^{318}$ trong một khoảnh khắc, trở thành thân tướng của Nữ Kim Cang Du Già (Vajra Yoginī). Vajra Yoginī mang sắc màu đỏ, có một khuôn mặt và hai cánh tay, đang đứng bằng cả hai chân, bàn chân phải giở lên trong “tư thế đang bước.” Ba con mắt của Vajra Yoginī nhìn lên trời. Những hướng dẫn này nhằm mục đích chuyển di nên hãy quán tưởng Ngài với nét quyến rũ, an bình đồng thời hơi phẫn nộ. Bàn tay phải của Ngài giơ lên trong không trung, khua lách cách một cái trống nhỏ làm bằng sọ người đánh thức chúng sinh khỏi giấc ngủ của vô minh và lầm lạc. Trong bàn tay trái, Ngài cầm một lưỡi dao lưỡi liềm ngang hông để cắt đứt tận gốc tam độc tham sân si. Thân mình của Ngài trần trụi ngoại trừ một vòng hoa và các vật trang sức bằng xương [đeo trên người]. Như một căn lều bằng lụa đỏ, Ngài hiển lộ nhưng không có thực chất hay thực sự có ở đó. Tất cả những điều này là áo giáp hư huyễn bên ngoài *(outer empty enclosure)* của thân tướng.
+Hãy quán tưởng xác thân phàm của bạn,$^{318}$ trong một khoảnh khắc, trở thành thân tướng của Nữ Kim Cang Du Già (Vajra Yoginī). Vajra Yoginī mang sắc màu đỏ, có một khuôn mặt và hai cánh tay, đang đứng bằng cả hai chân, bàn chân phải giở lên trong “tư thế đang bước.” Ba con mắt của Vajra Yoginī nhìn lên trời. Những hướng dẫn này nhằm mục đích chuyển di nên hãy quán tưởng Ngài với nét quyến rũ, an bình đồng thời hơi phẫn nộ. Bàn tay phải của Ngài giơ lên trong không trung, khua lách cách một cái trống nhỏ làm bằng sọ người đánh thức chúng sinh khỏi giấc ngủ của vô minh và lầm lạc. Trong bàn tay trái, Ngài cầm một lưỡi dao lưỡi liềm ngang hông để cắt đứt tận gốc tam độc tham sân si. Thân mình của Ngài trần trụi ngoại trừ một vòng hoa và các vật trang sức bằng xương [đeo trên người]. Như một căn lều bằng lụa đỏ, Ngài hiển lộ nhưng không có thực chất hay thực sự có ở đó. Tất cả những điều này là áo giáp hư huyễn bên ngoài (*outer empty enclosure*) của thân tướng.
 
 Ở ngay trung tâm, suốt dọc thân thẳng đứng của bạn [nay trong hình tướng của Vajra Yoginī], hãy quán tưởng đường kinh mạch trung ương giống như một cây cột trong một ngôi nhà trống. Được gọi là kinh mạch “trung ương” bởi đường khí ấy nằm ngay nơi trục của thân, không nghiêng sang trái hay sang phải. Đường kinh mạch trung ương có bốn đặc tính. Thứ nhất, mang màu xanh biếc như một phim ảnh màu chàm (indigo), tượng trưng cho Pháp Thân bất biến. Thứ nhì, kết cấu của đường khí ấy vi tế giống như một cánh hoa sen, tượng trưng
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN III
 
-trưng cho tính chất mỏng manh của những bức màn che chắn xuất hiện từ những thói quen huân tập. Thứ ba, đường khí ấy sáng như ngọn lửa của một cây đèn dầu mè, tượng trưng cho bóng tối vô minh đã được xua tan. Thứ tư, đường khí ấy thẳng như một khúc tre, là biểu hiện sẽ không bao giờ dẫn tới những con đường xấu thấp hoặc sai lạc. Đầu trên của đường kinh trung ương mở thẳng vào cửa Phạm Thiên nơi đỉnh đầu [nơi tâm thức có thể thoát ra], giống như một cửa sổ mở toang trên mái nhà, biểu hiệu cho con đường đưa tới giải thoát và những cõi tái sinh cao hơn, trong khi đầu dưới của đường kinh trung ương đóng kín lại không có lỗ mở nào, dưới rốn khoảng bốn ngón tay, biểu hiện rằng những lối trở lại vào vòng luân hồi sinh tử và các cõi tái sinh thấp đã được đóng kín. Tất cả những điều này là áo giáp rỗng rang bên ngoài (*outer empty enclosure*) của đường kinh mạch trung ương.
+trưng cho tính chất mỏng manh của những bức màn che chắn xuất hiện từ những thói quen huân tập. Thứ ba, đường khí ấy sáng như ngọn lửa của một cây đèn dầu mè, tượng trưng cho bóng tối vô minh đã được xua tan. Thứ tư, đường khí ấy thẳng như một khúc tre, là biểu hiện sẽ không bao giờ dẫn tới những con đường xấu thấp hoặc sai lạc. Đầu trên của đường kinh trung ương mở thẳng vào cửa Phạm Thiên nơi đỉnh đầu [nơi tâm thức có thể thoát ra], giống như một cửa sổ mở toang trên mái nhà, biểu hiệu cho con đường đưa tới giải thoát và những cõi tái sinh cao hơn, trong khi đầu dưới của đường kinh trung ương đóng kín lại không có lỗ mở nào, dưới rốn khoảng bốn ngón tay, biểu hiện rằng những lối trở lại vào vòng luân hồi sinh tử và các cõi tái sinh thấp đã được đóng kín. Tất cả những điều này là áo giáp rỗng rang bên ngoài (outer empty enclosure) của đường kinh mạch trung ương.
 
-Bây giờ hãy quán tưởng bên trong đường kinh mạch trung ương ở khoảng ngang tầm trái tim, chỗ đó như hơi phồng ra, giống như một cái mắt trong một thân tre. Phía trên chỗ cái mắt phồng ra này, hãy quán tưởng giọt tinh chất (*bindu*) của năng lực, màu xanh lá cây nhạt, sống động và mạnh mẽ. Ngay trên đó là tinh tuý của tâm thức của bạn, một chữ *hrih* màu đỏ, với dấu nguyên âm dài và hai chấm nhỏ thay thế cho *visarga*,* lay động và rung rinh như một lá cờ trong gió.
+Bây giờ hãy quán tưởng bên trong đường kinh mạch trung ương ở khoảng ngang tầm trái tim, chỗ đó như hơi phồng ra, giống như một cái mắt trong một thân tre. Phía trên chỗ cái mắt phồng ra này, hãy quán tưởng giọt tinh chất (bindu) của năng lực, màu xanh lá cây nhạt, sống động và mạnh mẽ. Ngay trên đó là tinh tuý của tâm thức của bạn, một chữ hrih màu đỏ, với dấu nguyên âm dài và hai chấm nhỏ thay thế cho visarga,<sup>*</sup> lay động và rung rinh như một lá cờ trong gió.
 
-[Hình: Chữ *hrih* theo kiểu chữ Tây Tạng]
-
-(Chữ *hrih* được quán tưởng theo cách này) tượng trưng cho Giác tánh của bạn.$^{319}$
+[Hình: Chữ hrih được quán tưởng theo cách này] (Chữ hrih được quán tưởng theo cách này) tượng trưng cho Giác tánh của bạn.<sup>319</sup>
 
 _________________
-$^*$ Đây là một dấu hiệu của Phạn ngữ được phát âm như một âm “h” nặng. Theo cách phát âm của tiếng Tây Tạng thì chỉ cần kéo dài âm tiết, và được viết bằng hai vòng tròn nhỏ, cái này trên cái kia, tượng trưng cho trí tuệ và phương tiện.
+<sup>*</sup> Đây là một dấu hiệu của Phạn ngữ được phát âm như một âm “h” nặng. Theo cách phát âm của tiếng Tây Tạng thì chỉ cần kéo dài âm tiết, và được viết bằng hai vòng tròn nhỏ, cái này trên cái kia, tượng trưng cho trí tuệ và phương tiện.
 
 # I. CHUYỂN DI TÂM THỨC (PHOWA)
 
@@ -9350,15 +9392,15 @@ Cả hai vị Bổn Tôn (Quán Thế Âm và Kim Cương Thủ) đều mang mư
 
 Xung quanh ba vị Hộ Phật và Bổn Tôn chính yếu này, là tất cả các bậc Thầy của dòng truyền thừa của pháp chuyển di thâm diệu. Tất cả các Ngài hội tụ lại như những đám mây trong một bầu trời trong trẻo. Các Ngài hướng khuôn mặt tràn đầy lòng từ ái về phía bạn và tất cả các chúng sinh khác. Các Ngài chăm chú nhìn bạn với những đôi mắt ánh lên nụ cười, nghĩ tưởng về bạn với niềm hoan hỉ. Hãy nhớ tưởng tới các Ngài như những người đưa đường vĩ đại giúp giải thoát bạn và tất cả chúng sinh khỏi những thống khổ của vòng sinh tử và các cõi thấp, đưa dẫn bạn tới cõi thuần tịnh của đại lạc. Hãy quán tưởng theo văn bản, bắt đầu từ câu:
 
-Thân xác phàm $^{318}$ của con trở thành sắc tướng của Thánh Nữ Kim Cang Du Già (Vajra Yogini)...
+_Thân xác phàm_ $^{318}$ _của con trở thành sắc tướng của Thánh Nữ Kim Cang Du Già (Vajra Yogini)..._
 
 xuống tới câu:
 
-...Ba con mắt Ngài ngước nhìn lên bầu trời.
+_...Ba con mắt Ngài ngước nhìn lên bầu trời._
 
 Rồi từ câu:
 
-Đường khí mạch trung ương chạy dọc suốt giữa thân Ngài...
+_Đường khí mạch trung ương chạy dọc suốt giữa thân Ngài..._
 
 \*\* Xem Phần Hai, Chương Ba, Mục III.
 
@@ -9368,7 +9410,7 @@ cho tới câu:
 
 ... Thân Ngài thật toàn mỹ với tất cả các tướng chính và phụ...
 
-Sau đó, với tất cả niềm tin và kỳ vọng, toàn thân bạn như bừng bừng lên và nước mắt tuôn rơi, hãy lặp lại càng nhiều lần càng tốt lời khẩn nguyện sau đây:
+Sau đó, với tất cả niềm tin và kỳ vọng, toàn thân bạn như bừng bừng lên và nước mắt tuôn rơi, hãy lập lại càng nhiều lần càng tốt lời khẩn nguyện sau đây:
 
 Đức Thế Tôn, Như Lai, A La Hán, Đức Phật Toàn Giác, đấng Hộ Phật A Di Đà, con xin quy mạng lễ. Con xin cúng dường lên Ngài. Con xin nương tựa nơi Ngài.
 
@@ -9413,41 +9455,39 @@ xuống tới câu:
 
 Hãy thực hành theo nghi thức này với lời khẩn nguyện chuyển di cô đọng được gọi là *Cắm Cọng Cỏ*, được vị tôn giả khai quật tàng kinh Nyi da Sangye$^{322}$ biên soạn và trao truyền qua dòng truyền thừa của Tu viện Dzogchen:
 
-Đức Phật A Di Đà, con xin quy mạng lễ trước Pháp toà;
-Đức Liên Hoa Sanh xứ Oddiyāna, con khẩn cầu Ngài;
-Bổn Sư từ ái, xin che chở con bằng lòng bi mẫn của Ngài!
-Chư vị Bổn Sư và Tôn Sư thuộc dòng truyền thừa, xin dẫn dắt con trên con đường tu.
-Xin gia hộ cho con để con có thể thành tựu con đường chuyển di thâm diệu.
-Xin gia hộ cho con để con đường chuyển di thần tốc này có thể đưa con tới cõi tịnh độ.$^{323}$
-Xin gia hộ cho con và những chúng sinh khác để ngay khi cuộc đời này chấm dứt,
-Xin cho chúng con được vãng sinh nơi cõi Cực Lạc!
+> Đức Phật A Di Đà, con xin quy mạng lễ trước Pháp toà;
+> Đức Liên Hoa Sanh xứ Oddiyāna, con khẩn cầu Ngài;
+> Bổn Sư từ ái, xin che chở con bằng lòng bi mẫn của Ngài!
+> Chư vị Bổn Sư và Tôn Sư thuộc dòng truyền thừa, xin dẫn dắt con trên con đường tu.
+> Xin gia hộ cho con để con có thể thành tựu con đường chuyển di thâm diệu.
+> Xin gia hộ cho con để con đường chuyển di thần tốc này có thể đưa con tới cõi tịnh độ.$^{323}$
+> Xin gia hộ cho con và những chúng sinh khác để ngay khi cuộc đời này chấm dứt,
+> Xin cho chúng con được vãng sinh nơi cõi Cực Lạc!
 
-Hãy tụng lời cầu nguyện này ba lần, và sau đó lập lại ba lần dòng cuối cùng. Hãy tiếp tục thực hành kỹ thuật phóng xuất thần thức như đã được giảng dạy trước đây, trong một khoảng thời gian lâu hay mau sao cho phù hợp với bạn. Rồi lại bắt đầu từ câu:
+Hãy tụng lời cầu nguyện này ba lần, và sau đó lặp lại ba lần dòng cuối cùng. Hãy tiếp tục thực hành kỹ thuật phóng xuất thần thức như đã được giảng dạy trước đây, trong một khoảng thời gian lâu hay mau sao cho phù hợp với bạn. Rồi lại bắt đầu từ câu:
 
-Đức Thế Tôn, Như Lai...
+> Đức Thế Tôn, Như Lai...
 
-LỜI VÀNG CỦA THẦY TÔI, PHẦN III
+và tụng đọc lời cầu nguyện chuyển di theo **Giáo Lý Hư Không**, được truyền dạy qua dòng truyền thừa của Tu viện Palyul:324
 
-và tụng đọc lời cầu nguyện chuyển di theo *Giáo Lý Hư Không*, được truyền dạy qua dòng truyền thừa của Tu viện Palyul:324
-
-> *Emaho! Đức Phật A Di Đà, đấng Hộ Phật kỳ diệu nhất,*
-> *Đức Quán Thế Âm Đại Từ Đại Bi và đức Kim Cang Thủ đầy uy lực,*
-> *Vì lợi lạc của bản thân cùng những chúng sinh khác, con xin chí tâm chí thành khẩn cầu chư vị:*
-> *Xin gia hộ cho chúng con để chúng con có thể thành tựu con đường chuyển di thâm diệu.*
-> *Xin gia hộ cho chúng con để vào giây phút lìa đời,*
-> *Tâm thức của chúng con sẽ được chuyển di tới Pháp Giới Cực Lạc!*
+*Emaho! Đức Phật A Di Đà, đấng Hộ Phật kỳ diệu nhất,*
+*Đức Quán Thế Âm Đại Từ Đại Bi và đức Kim Cang Thủ đầy uy lực,*
+*Vì lợi lạc của bản thân cùng những chúng sinh khác, con xin chí tâm chí thành khẩn cầu chư vị:*
+*Xin gia hộ cho chúng con để chúng con có thể thành tựu con đường chuyển di thâm diệu.*
+*Xin gia hộ cho chúng con để vào giây phút lìa đời,*
+*Tâm thức của chúng con sẽ được chuyển di tới Pháp Giới Cực Lạc!*
 
 Hãy tụng đọc lời cầu nguyện này ba lần, lập lại hai dòng sau cùng thêm ba lần nữa. Rồi hãy thực hành kỹ thuật phóng xuất tâm thức như đã được giảng dạy trước đó.
 
-Hai lời cầu nguyện sau cùng này không có trong những văn bản ghi chép giáo huấn *Tâm-Yếu* của *Đại-Quảng-Trí* và không được Ngài Rigdzin Jigme Lingpa truyền dạy, nhưng được truyền xuống từ Ngài Dzogchen Rinpoche qua Tu viện Gochen, và qua các vị Đạo Sư kế thừa khác. Những lời cầu nguyện trên trở thành một phần trong những khẩu truyền được Ngài Kyabe Dodrup Chen Rinpoche thọ nhận, và Ngài đã hợp nhất tất cả những lời cầu nguyện thành một dòng pháp duy nhất. Bản thân Ngài đã sử dụng những lời cầu nguyện này, cũng giống như Bổn Sư tôn kính của tôi đã làm. Dodrup Chen Rinpoche cũng được kế thừa những giáo huấn về pháp chuyển di được truyền xuống từ Ngài Gampopa thuộc dòng Kagyu. Bởi thế, một số lời cầu nguyện của Ngài Gampopa được tìm thấy trong bản văn cầu nguyện chuyển di do Dodrup Chen Rinpoche biên soạn, mặc dù những lời cầu nguyện đặc biệt này không phải là những gì Bổn Sư của tôi thường trì
+Hai lời cầu nguyện sau cùng này không có trong những văn bản ghi chép giáo huấn **Tâm-Yếu** của **Đại-Quảng-Trí** và không được Ngài Rigdzin Jigme Lingpa truyền dạy, nhưng được truyền xuống từ Ngài Dzogchen Rinpoche qua Tu viện Gochen, và qua các vị Đạo Sư kế thừa khác. Những lời cầu nguyện trên trở thành một phần trong những khẩu truyền được Ngài Kyabe Dodrup Chen Rinpoche thọ nhận, và Ngài đã hợp nhất tất cả những lời cầu nguyện thành một dòng pháp duy nhất. Bản thân Ngài đã sử dụng những lời cầu nguyện này, cũng giống như Bổn Sư tôn kính của tôi đã làm. Dodrup Chen Rinpoche cũng được kế thừa những giáo huấn về pháp chuyển di được truyền xuống từ Ngài Gampopa thuộc dòng Kagyu. Bởi thế, một số lời cầu nguyện của Ngài Gampopa được tìm thấy trong bản văn cầu nguyện chuyển di do Dodrup Chen Rinpoche biên soạn, mặc dù những lời cầu nguyện đặc biệt này không phải là những gì Bổn Sư của tôi thường trì
 
-I. CHUYỂN DI TÂM THỨC (PHOWA)
+# I. CHUYỂN DI TÂM THỨC (PHOWA)
 
 tụng. Dù sao đi nữa, tiến trình quán tưởng của tất cả những truyền thống khác nhau vẫn hoàn toàn giống nhau, nên không còn phải nghi ngờ gì nữa mà phải hiểu là những suối nguồn giáo huấn này đã được hợp nhất để trở thành một con sông lớn. Vị Thầy tôn kính của tôi đã nhiều lần thọ nhận những giáo huấn này từ Kyabje Dodrup Chen Rinpoche. Tôi cho rằng tất cả những ai đã từng thọ nhận những giáo huấn chuyển di này từ Ngài cũng đã đồng lúc nhận được những giáo huấn về pháp chuyển di của truyền thống Kagyu, và vì thế, được cho phép trì tụng những lời cầu nguyện của dòng truyền thừa tương ứng cùng với những lời cầu nguyện khác. Cho dù hai lời cầu nguyện cô đọng được tôi ghi ra ở đây có đồng nhất với những lời cầu nguyện được ghi trong tuyển tập cầu nguyện của Ngài Dodrup Chen Rinpoche hay không chăng nữa, thì chúng cũng chỉ khác biệt rất tối thiểu nếu đem so với những văn bản khác, và vì thế tôi đã ghi lại theo đúng hệt như những gì mà vị Thầy tôn kính của tôi đã giảng dạy.
 
-Có lần Thầy tôi đang truyền dạy pháp chuyển di theo truyền thống của *Giáo Lý Hư Không*. Trong khi Ngài đang thực hành (hướng dẫn) pháp chuyển di cho một đám đông khổng lồ thì một vài người đã không bắt kịp được câu sau đây mà Ngài đã thêm vào “...tất cả những điều này (*di nam*), khi giây phút lìa đời đến với học;” và vì thế mà bây giờ một vài người thường nói: “...những nhận thức của cuộc đời này (*dir nang*)..,” và những người khác thì lại nói “...bởi thế (*di ne*).,,” nhưng theo ý kiến của tôi thì cả hai lối nói trên đều có phần hơi sai trật.
+Có lần Thầy tôi đang truyền dạy pháp chuyển di theo truyền thống của *Giáo Lý Hư Không*. Trong khi Ngài đang thực hành (hướng dẫn) pháp chuyển di cho một đám đông khổng lồ thì một vài người đã không bắt kịp được câu sau đây mà Ngài đã thêm vào "...tất cả những điều này *(di nam)*, khi giây phút lìa đời đến với họ;" và vì thế mà bây giờ một vài người thường nói: "...những nhận thức của cuộc đời này *(dir nang)*..." và những người khác thì lại nói "...bởi thế *(di ne)*..." nhưng theo ý kiến của tôi thì cả hai lối nói trên đều có phần hơi sai trật.
 
-Khi bạn đã hoàn tất pháp môn chuyển di nhiều lần và đến lúc kết thúc thời khóa, hãy niêm phong pháp môn lại trong đại-phương quảng-trí của năm Thân (*expanse of the five kāyas*) bằng cách hô lên tiếng “P’et” năm lần. Sau đó, hãy an trú trong trạng thái an tịch tự nhiên không tạo tác bất kỳ điều gì.
+Khi bạn đã hoàn tất pháp môn chuyển di nhiều lần và đến lúc kết thúc thời khóa, hãy niêm phong pháp môn lại trong đại-phương quảng-trí của năm Thân (expanse of the five kāyas) bằng cách hô lên tiếng “P’et” năm lần. Sau đó, hãy an trú trong trạng thái an tịch tự nhiên không tạo tác bất kỳ điều gì.
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN III
 
@@ -9462,16 +9502,18 @@ Có thể từ từ cắm sâu một cọng cỏ [vào trên đỉnh đầu].
 
 Hãy miên mật hành trì cho đến khi những dấu hiệu này xuất hiện.
 
-# I. CHUYỂN DI TÂM THỨC (PHOWA)
+I. CHUYỂN DI TÂM THỨC (PHOWA)
 
-Để kết thúc, hãy hồi hướng công đức và trì tụng *Bài Nguyện Vãng Sanh Tây Phương Cực Lạc* và những bài nguyện khác. Khác với những pháp môn hành trì khác của hai giai đoạn phát triển và toàn thiện, những giáo huấn về con đường thâm diệu của pháp chuyển di không đòi hỏi thời gian tu tập lâu dài. Những dấu hiệu thành tựu nhất định sẽ xảy đến sau một tuần lễ thực tập miên mật. Đó là điều tại sao phương pháp này được gọi là “Giáo Pháp đem lại Phật Quả phi thiền định,” và đó là điều tại sao mọi người nên lấy con đường tắt vô song này làm pháp môn hành trì hằng ngày.
+Để kết thúc, hãy hồi hướng công đức và trì tụng *Bài Nguyện Vãng Sanh Tây Phương Cực Lạc* và những bài nguyện khác. Khác với những pháp môn hành trì khác của hai giai đoạn phát triển và toàn thiện, những giáo huấn về con đường thâm diệu của pháp chuyển di không đòi hỏi thời gian tu tập lâu dài. Những dấu hiệu thành tựu nhất định sẽ xảy ra đến sau một tuần lễ thực tập miên mật. Đó là điều tại sao phương pháp này được gọi là “Giáo Pháp đem lại Phật Quả phi thiền định,” và đó là điều tại sao mọi người nên lấy con đường tắt vô song này làm pháp môn hành trì hằng ngày.
 
-*Không thể tự lo cho mình, con lẩm nhẩm lung tung với người quá cố.*
+*Không thể tự lo cho mình, con lảm nhảm lung tung với người quá cố.*
 *Không tu hành, nhưng con trải rộng vòm Giáo Pháp vô tận.*
 *Xin từ bi gia hộ cho con và những kẻ gian xảo như con,*
 *Để chúng con có thể tinh tấn, hành trì miên mật.*
 
-[Hình: Các hang động gần Tu Viện Dzogchen]
+[Hình: Hai bức ảnh đen trắng chụp cảnh núi non, hang động và công trình kiến trúc cổ]
+
+*Các hang động gần Tu Viện Dzogchen*
 
 Tại những hang động này, Patrul Rinpoche đã trải qua nhiều năm trong thiền định. Hang động phía dưới mang tên “Cung Điện Kinh Hoàng của Yamantaka” là nơi đại sư Patrul Rinpoche đã trú ngụ trong thời gian biên soạn tác phẩm “Lời Vàng Của Thầy Tôi.”
 
@@ -9488,12 +9530,12 @@ Những giáo huấn dưới đây, gồm mười hai đề mục chính yếu, 
 
 Năm đề mục kế tiếp bao gồm những pháp tu dự bị phi thường hay những chuẩn bị bên trong:
 
-1. Đặt ý nguyện tìm cầu giải thoát trên nền tảng của quy y Tam Bảo.
+1. Đặt ý nguyện tìm cầu giải thoát trên nền tảng của quy Tam Bảo.
 2. Thiết lập một cái khung vững chắc cho vô lượng công hạnh của một vị Bồ Tát bằng cách khơi dậy tâm Bồ Đề tối thượng.
 
 LỜI VÀNG CỦA THẦY TÔI
 
-3. Sám hối những ác hạnh và những vi phạm giới hạn, là gốc rễ của tất cả những gì bất thiện, và nương vào bốn lực tịnh hoá nghiệp, thực hành thiền định và trì tụng về Đức Kim Cang Tát ĐỏA (Vajrasattva).
+3. Sám hối những ác hạnh và những vi phạm giới hạnh, là gốc rễ của tất cả những gì bất thiện, và nương vào bốn lực tịnh hoá nghiệp, thực hành thiền định và trì tụng về Đức Kim Cang Tát Đỏa (Vajrasattva).
 4. Tích lũy công đức và trí tuệ, là suối nguồn của tất cả những tiến triển tâm linh, bằng cách cúng dường những cõi Tịnh Độ của ba Thân (kāyas) trong hình thức của một mạn đà la.
 5. Tự khơi dậy tuệ giác tối thượng trong bản thân bằng cách khẩn nguyện Bổn Sư, là suối nguồn của mọi năng lực gia trì.
 
@@ -9509,15 +9551,15 @@ thống Kinh điển$^{327}$... nhưng tất cả những điểm trọng yếu 
 
 Tuy nhiên, tất cả những Giáo Pháp như pháp tịnh hóa và tích lũy (hai bồ phước tuệ), vận dụng hai phương pháp tối cao là (1) pháp môn hành trì Kim Cang Tát Đỏa (Vajrasattva) và (2) pháp cúng dường Mạn đà la; (3) pháp Bổn Sư Du Già (Guru Yoga), con đường bí mật dẫn đến năng lực gia trì thâm diệu; và (4) những giáo huấn về pháp chuyển di tâm thức dẫn đến Phật Quả mà không cần thiền định – tất cả những Giáo Pháp trên đều là những Giáo Pháp vô song, được cắt nghĩa giảng giải một cách đặc biệt theo đúng truyền thống tu tập của riêng dòng truyền thừa này.
 
-Sau những pháp môn hành trì này, ta sẽ bước vào con đường chính yếu phi thường, là tinh tuý của Giáo Pháp kim cương Tâm-Yếu (Heart Essence), gồm có những pháp tu dự bị đặc biệt dẫn đến ba Thân (kāya), đến chân tâm, và đến giác tánh. Sau đó, một khi nương vào pháp gia trì của giác tánh năng hoạt $^{328}$ mà ta được chỉ cho thấy lối vào chân như, thì rồi ta cũng sẽ nhận được thêm những hướng dẫn trực chỉ chân tâm, dựa trên chính những kinh nghiệm tuần tự tu chứng của riêng ta.*
+Sau những pháp môn hành trì này, ta sẽ bước vào con đường chính yếu phi thường, là tinh tuý của Giáo Pháp kim cương **Tâm-Yếu** (Heart Essence), gồm có những pháp tu dự bị đặc biệt dẫn đến ba Thân (kāya), đến chân tâm, và đến giác tánh. Sau đó, một khi nương vào pháp gia trì của giác tánh năng hoạt $^{328}$ mà ta được chỉ cho thấy lối vào chân như, thì rồi ta cũng sẽ nhận được thêm những hướng dẫn trực chỉ chân tâm, dựa trên chính những kinh nghiệm tuần tự tu chứng của riêng ta.$^*$
 
 Khi biên soạn những giáo huấn này, tôi gần như không để cho những cân nhắc về mỹ học hay văn chương lôi kéo. Mục đích chính của tôi là chỉ ghi chép một cách trung thực những giáo huấn truyền khẩu của vị Thầy tôn kính của tôi theo một cách trình bày dễ hiểu và có lợi lạc cho tâm thức. Tôi đã cố gắng bằng hết khả năng của mình để không làm hư hoại những giáo huấn ấy bằng cách pha trộn vào đó những ngôn từ và ý tưởng của riêng tôi.
 
 Trong một số trường hợp riêng biệt, Thầy tôi cũng thường ban nhiều giáo huấn đặc biệt chỉ dạy cách phơi bày những lỗi
 
-* Đoạn này ám chỉ các pháp thiền đặc biệt của Đại Viên Mãn.
+$^*$ Đoạn này ám chỉ các pháp thiền đặc biệt của Đại Viên Mãn.
 
-# LỜI VÀNG CỦA THẦY TÔI
+LỜI VÀNG CỦA THẦY TÔI
 
 lầm tiềm ẩn, và tôi đã thêm vào bất kỳ những gì tôi nhớ được về những điều này trong những đoạn văn thích hợp nhất. Đừng nên coi những giáo huấn phơi bày lỗi lầm này như một cánh cửa sổ để qua đó bạn có thể xem xét lỗi lầm của người khác, mà phải coi đó là một tấm gương để quán sát chính bạn. Hãy xem xét kỹ lưỡng trong bản thân bạn để xem mình có hay không có những lỗi lầm tiềm ẩn đó. Nếu có, hãy nhận ra chúng và hãy trục xuất chúng. Hãy chỉnh sửa tâm bạn và thanh thản đặt tâm ấy trên con đường tu đúng đắn. Như Ngài Atisa đã nói:
 
@@ -9529,7 +9571,7 @@ lầm tiềm ẩn, và tôi đã thêm vào bất kỳ những gì tôi nhớ đ
 
 Điều cực kỳ quan trọng là hãy làm sao để cho những giáo huấn ấy tác động được tới những lỗi lầm tiềm ẩn của bạn, vận dụng Giáo Pháp để sửa chữa tâm bạn, luôn luôn duy trì chánh niệm và tỉnh giác, nhận về mình toàn bộ trách nhiệm khi có bất kỳ điều gì xảy ra, thậm chí không bao giờ để cho dù chỉ một tư tưởng bất thiện phát khởi, và hãy nương vào Giáo Pháp để điều phục tâm bạn. Nếu bạn có thể làm được tất cả những điều này, bạn sẽ ban cho chính bạn một đặc ân. Giáo Pháp sẽ trở nên vô cùng lợi lạc cho tâm bạn, và việc bạn theo chân một vị Thầy sẽ bắt đầu có ý nghĩa thật sự. Ngài Atisa cũng có nói:
 
-# KẾT LUẬN
+KẾT LUẬN
 
 Cách tốt nhất bạn có thể giúp đỡ người khác là dẫn dắt họ đến với Pháp.
 
@@ -9537,33 +9579,27 @@ Cách tốt nhất họ có thể đón nhận sự giúp đỡ là chuyển tâ
 
 Tóm lại, giờ đây bạn đã có được những điều kiện tự do và thuận lợi của đời người. Bạn đã gặp một vị chân sư và nhận được những giáo huấn thâm diệu. Duyên may để đạt được Phật Quả bằng cách đưa giáo pháp của chín thừa vào thực hành giờ đây là của bạn. Bây giờ là lúc bạn có thể vạch ra một con đường cho tất cả những đời vị lai của bạn – hoặc bây giờ cũng là lúc bạn có thể phó mặc đời mình cho định mệnh. Giờ đây là lúc bạn có thể chuyển tâm hướng về những điều thiện – hoặc giờ đây là lúc bạn từ bỏ điều thiện để đến với những gì xấu ác. Chính giây phút này là bước ngoặt giữa hai hướng đúng và sai của toàn bộ sự sống của bạn. Phước duyên này giống như việc bạn tìm được một chút thức ăn khi bạn chỉ mới ăn được một bữa trong một trăm bữa suốt cuộc đời bạn. Vì thế hãy tận dụng Giáo Pháp để tự giải thoát bản thân trong khi bạn còn có thể làm được điều đó, hãy để cho cái chết trở thành một thôi thúc, (thúc đẩy bạn tu tập) trong bất kỳ giờ phút nào. Hãy cắt bớt những hoạch định thế tục của bạn trong đời này, và hãy tinh tấn thực hành những thiện hạnh và từ bỏ những ác hạnh – cho dù phải trả giá bằng cả cuộc đời mình. Hãy theo học một vị Thầy chân chính và chấp nhận không chút do dự bất cứ điều gì Ngài khuyên bảo bạn. Hãy dâng hiến thân và tâm của bạn cho Tam Bảo. Khi hạnh phúc đến, hãy nhận ra đó là lòng từ bi của các Ngài. Khi đau khổ xảy ra, hãy nhận ra đó là kết quả của những nghiệp đã tạo trong quá khứ của chính bạn. Hãy chuyên chú hành trì các pháp tích tập công đức và pháp tịnh hóa với tác ý hoàn toàn thanh tịnh của Bồ Đề Tâm. Cuối cùng, nhờ vào lòng quy ngưỡng và mật nguyện thanh tịnh, hãy hợp nhất tâm bạn với
 
-LỜI VÀNG CỦA THẦY TÔI
+# LỜI VÀNG CỦA THẦY TÔI
 
 tâm của vị Thầy cao cả của dòng truyền thừa chân chính, mãi mãi hợp nhất, không bao giờ chia cắt. Hãy chiếm giữ thành lũy của chân như ngay trong đời này, can đảm nhận lãnh trách nhiệm giải thoát tất cả chúng sinh, là những bà mẹ già nua của chúng ta ra khỏi ngục tối luân hồi. Điều này bao gồm tất cả những giáo huấn cốt tủy trọng yếu nhất.
 
-Giáo huấn cốt tủy của dòng truyền thừa ba chi phái
-giữa con sông cam lồ,
-Hương vị dịu ngọt từ môi Thầy thuộc truyền thống chân
-chính,
+Giáo huấn cốt tủy của dòng truyền thừa ba chi phái giữa con sông cam lồ,
+Hương vị dịu ngọt từ môi Thầy thuộc truyền thống chân chính,
 Những điểm trọng yếu trong các pháp tu của chín thừa,
 Tất cả được đúc kết ở đây, không lỗi lầm hay pha tạp.
 
 Những lời tốt lành này giống như thực phẩm khéo nấu,
 Mọi hí luận của lời lẽ hoa mỹ đều đã được sàng lọc,
-Được nêm bằng tinh túy thơm ngon của pháp hành trì
-thâm diệu nhất,
+Được nêm bằng tinh túy thơm ngon của pháp hành trì thâm diệu nhất,
 Trong nước cốt của giáo huấn đặt trên nền kinh nghiệm.
 
 Những lời tốt đẹp này giống như một nông dân thiện nghệ
 Khắp mảnh đất hoang của tâm xấu ác, tam độc mọc tràn lan,
-Đã đào xới mọi lỗi lầm tiềm ẩn bằng lưỡi cày kim cương
-của giáo lý,
-Và khéo léo tưới tẩm đất hoang bằng nước mát của
-Chân Pháp.
+Đã đào xới mọi lỗi lầm tiềm ẩn bằng lưỡi cày kim cương của giáo lý,
+Và khéo léo tưới tẩm đất hoang bằng nước mát của Chân Pháp.
 
 Những lời tốt đẹp này giống như một vụ mùa bội thu.
-Trên mảnh đất phì nhiêu của quyết tâm thoát khỏi
-luân hồi,
+Trên mảnh đất phì nhiêu của quyết tâm thoát khỏi luân hồi,
 Hạt giống Bồ Đề Tâm được gieo trồng cẩn thận,
 Được nuôi dưỡng bằng công đức, cùng tẩy tịnh, sinh ra
 
@@ -9682,24 +9718,24 @@ Nguyện cho họ đời đời núp dưới bóng của vị Thầy vô song.
 
 * Một biểu lộ thi vị thường được dùng để cầu chúc các vị Thầy tâm linh được trường thọ và dồi dào sức khoẻ.
 
-KẾT LUẬN
+# KẾT LUẬN
 
-Những hướng dẫn tổng quát bên ngoài và bên trong dẫn đến *Tâm-Yếu của Đại-Quảng-Trí (Longchen Nyingtik)*, tất cả đều rất trung thực với những lời giảng dạy của vị Thầy vô song của tôi. Trước tác này đã xuất hiện do sự khẩn cầu bền bỉ của Dronma Tsering, một đệ tử tinh tấn và nghiêm trì giới luật, là người đã đưa tặng lại một số ghi chép mà ông đã ghi lại những gì có thể nhớ được. Ông ta nài nỉ tôi viết một giảng văn dựa trên những ghi chú này, ghi chép thật trung thực những giảng dạy của Thầy của chúng tôi. Ngoài ra, Kunzang Thekchok Dorje, một vị Hoá Thân tôn quý, là người đại diện của Đạo sư tôn quý và là bậc nắm giữ giáo lý tăng trưởng và giải thoát này, đã lập đi lập lại hai ba lần lời khẩn nài tương tự – thậm chí còn cung cấp cho tôi rất nhiều tấm giấy để ghi chép.
+Những hướng dẫn tổng quát bên ngoài và bên trong dẫn đến *Tâm-Yếu của Đại-Quảng-Trí* (Longchen Nyingtik), tất cả đều rất trung thực với những lời giảng dạy của vị Thầy vô song của tôi. Trước tác này đã xuất hiện do sự khẩn cầu bền bỉ của Dronma Tsering, một đệ tử tinh tấn và nghiêm trì giới luật, là người đã đưa tặng lại một số ghi chép mà ông đã ghi lại những gì có thể nhớ được. Ông ta nài nỉ tôi viết một giảng văn dựa trên những ghi chú này, ghi chép thật trung thực những giảng dạy của Thầy của chúng tôi. Ngoài ra, Kunzang Thekchok Dorje, một vị Hoá Thân tôn quý, là người đại diện của Đạo sư tôn quý và là bậc nắm giữ giáo lý tăng trưởng và giải thoát này, đã lập đi lập lại hai ba lần lời khẩn nài tương tự – thậm chí còn cung cấp cho tôi rất nhiều tấm giấy để ghi chép.
 
-Sau này lại tới phiên Ngài Kushab Rinpoche Changchub Dorje$^{329}$ - vị Pháp Vương của tất cả mọi giáo thuyết, bậc lỗi lạc nhất trong tất cả những trưởng tử tâm linh là những bậc nắm giữ dòng truyền thừa của truyền thống khẩu truyền của vị Thầy siêu phàm của tôi – Ngài Kushab Rinpoche đã khuyến khích tôi, nói rằng tôi phải dứt khoát viết ra những lời dạy của vị Thầy đáng kính của chúng tôi đúng như những lời mà Ngài đã dạy các vị ấy, bởi điều đó sẽ giúp tất cả chúng tôi giữ được Ngài trong tâm tưởng và làm sống lại lòng sùng kính quy ngưỡng của chúng tôi đối với Ngài. Tôi cũng được một số pháp hữu kim cương thân yêu khuyến khích và truyền cảm hứng; đây là những người mà tôi yêu quý chẳng khác nào chính đôi mắt của mình, và chắc chắn họ sẽ vẫn tiếp tục gần gũi thân thiết với tôi như ngọn lửa và tim đèn, cho tới khi tất cả chúng tôi cùng đến được bên kia bờ giác.
+Sau này lại tới phiên Ngài Kushab Rinpoche Changchub Dorje$^{329}$ - vị Pháp Vương của tất cả mọi giáo thuyết, bậc lỗi lạc nhất trong tất cả những trưởng tử tâm linh là những bậc nắm giữ dòng truyền thừa của truyền thống khẩu truyền của vị Thầy siêu phàm của tôi – Ngài Kushab Rinpoche đã khuyến khích tôi, nói rằng tôi phải dứt khoát viết ra những lời dạy của vị Thầy đáng kính của chúng tôi đúng như những lời mà Ngài đã dạy các vị ấy, bởi điều đó sẽ giúp tất cả chúng tôi giữ được Ngài trong tâm tưởng và làm sống lại lòng sùng kính quy ngưỡng của chúng tôi đối với Ngài. Tôi cũng được một số pháp hữu kim cương thân yêu khuyến khích và truyền cảm hứng; đây là những người bạn mà tôi yêu quý chẳng khác nào chính đôi mắt của mình, và chắc chắn họ sẽ vẫn tiếp tục gần gũi thân thiết với tôi như ngọn lửa và tim đèn, cho tới khi tất cả chúng tôi cùng đến được bên kia bờ giác.
 
 Vì thế, đây là nguyên bản của trước tác này, được viết ra bởi một người mà Ngài Rigdzin Changchub Dorje,$^{330}$ bậc trưởng tử của hàng trăm vị thành tựu giả vô song, đã ban cho danh hiệu Orgyen Jigme Chokyi Wangpo – tuy nhiên, phía sau
 
 LỜI VÀNG CỦA THẦY TÔI
 
-danh hiệu đẹp đẽ đó, thực ra chỉ là Abu Rách Rưới,$^{331}$ thô lỗ, và đang bị thiêu đốt bởi ngọn lửa của năm độc.
+danh hiệu đẹp đẽ đó, thực ra chỉ là Abu Rách Rưới, $^{331}$ thô lỗ, và đang bị thiêu đốt bởi ngọn lửa của năm độc.
 
-Bản văn này được hoàn tất tại nơi ẩn tu, còn hẻo lánh hơn cả tu viện trực thuộc tên là Rudam Samten Choling* hẻo lánh. Nơi đây được gọi là Cung Điện Kinh Hoàng Của Yamantaka – một nơi tráng lệ được trang hoàng bằng tất cả những dáng vẻ cô tịch; ở đó những tàng cây tắm mình trong tinh chất ấm áp của ánh nắng mặt trời, trong lúc bộ rễ của chúng hấp thụ những giọt cam lồ mát lạnh; nơi mà những giàn cây, những lùm rậm, những bụi thấp, những cành, lá, những hoa và trái, cùng với những tràng hoa, đủ mọi loại trải dài sặc sỡ, chắt lọc chất cam lồ từ nụ cười rạng rỡ của Thiên Nữ Cung Trời Xanh Biếc$^{**}$ khi giòng cam lồ ấy chảy xuống làm cho trái tim cực kỳ mãn nguyện.
+Bản văn này được hoàn tất tại nơi ẩn tu, còn hẻo lánh hơn cả tu viện trực thuộc tên là Rudam Samten Choling* hẻo lánh. Nơi đây được gọi là Cung Điện Kinh Hoàng Của Yamantaka – một nơi tráng lệ được trang hoàng bằng tất cả những dáng vẻ cô tịch; ở đó những tàng cây tắm mình trong tinh chất ấm áp của ánh nắng mặt trời, trong lúc bộ rễ của chúng hấp thụ những giọt cam lồ mát lạnh; nơi mà những giàn cây, những lùm rậm, những bụi thấp, những cành, lá, những hoa và trái, cùng với những tràng hoa, đủ mọi loại trải dài sặc sỡ, chắt lọc chất cam lồ từ nụ cười rạng rỡ của Thiên Nữ Cung Trời Xanh Biếc** khi giòng cam lồ ấy chảy xuống làm cho trái tim cực kỳ mãn nguyện.
 
 Nhờ công đức của việc hoàn thành tốt đẹp tác phẩm này, nguyện tất cả vô lượng chúng sinh sẽ đi theo con đường tối thượng này và hoàn toàn được giải thoát vào pháp giới nền tảng của Đức Phật nguyên sơ!
 
 * Tu viện Dzogchen
-$^{**}$ Mặt trời. Cách hành văn trau chuốt ở đây được mượn từ truyền thống thi ca Ấn Độ, dùng để làm lời bạt ở cuối tập sách theo đúng truyền thống thông thường.
+** Mặt trời. Cách hành văn trau chuốt ở đây được mượn từ truyền thống thi ca Ấn Độ, dùng để làm lời bạt ở cuối tập sách theo đúng truyền thống thông thường.
 
 [Hình: Thung lũng nhìn xuống Tu Viện Dzogchen]
 
@@ -9732,7 +9768,7 @@ Hãy hiến tặng món quà Giáo Pháp này, không đắm nhiễm ý niệm v
 
 Pema Lekdrup, sở hữu tín tâm lẫn tài sản hoàn hảo,
 
-$^+$ *klong chen nam mkha'i rnal 'byor*, tức Jigme Lingpa.
++$^+$ klong chen nam mkha'i rnal 'byor, tức Jigme Lingpa.
 
 LỜI BẠT
 
@@ -9749,15 +9785,15 @@ Vào lúc hoàn tất bản hiệu đính đầu tiên của tác phẩm này, N
 # CHÚ THÍCH
 
 Những chữ viết tắt:
-DKR Dilgo Khyentse Rinpoche
-ZR Zenkar Rinpoche
-PWR Pema Wangyal Rinpoche
-NT Chú Thích Lời Vàng Của Thầy Tôi (xem danh mục Tài Liệu Tham Khảo)
-HIST Tác phẩm “Trường Phái Nyingma Phật Giáo Tây Tạng: Nền Tảng và Lịch Sử” của Dudjom Rinpoche
-DICT Đại Tự Điển Tạng-Hoa
-AT Một cách phiên dịch khác
-Skt. Phạn ngữ (Sanskrit)
-lit. literally (nghĩa đen)
+- DKR Dilgo Khyentse Rinpoche
+- ZR Zenkar Rinpoche
+- PWR Pema Wangyal Rinpoche
+- NT Chú Thích Lời Vàng Của ThầyTôi (xem danh mục Tài Liệu Tham Khảo)
+- HIST Tác phẩm “Trường Phái Nyingma Phật Giáo Tây Tạng: Nền Tảng và Lịch Sử” của Dudjom Rinpoche
+- DICT Đại Tự Điển Tạng-Hoa
+- AT Một cách phiên dịch khác
+- Skt. Phạn ngữ (Sanskrit)
+- lit. literally (nghĩa đen)
 
 1. Với những người sơ cơ, điều này có nghĩa là tránh một thái độ duy vật hay tâm tham vọng khi thực hành Phật Pháp. Trong thực tế, chỉ những hành giả chứng ngộ mới có thể hành trì với tâm không đắm nhiễm (hoàn toàn xa lìa mọi khái niệm), nhưng khi công phu tu tập của ta trở nên thuần thục thì tâm không đắm nhiễm sẽ ngày càng tăng trưởng, giúp ta ngày càng xa lìa được bám chấp.
 2. Năng lực tích cực của công phu hành trì cũng có thể bị chuyển dịch từ trạng thái Giác Ngộ vào những sự thể khác. NT có đề cập tới bốn hoàn cảnh có thể phá hủy cội nguồn công đức của ta. (dge rtsa): 1) Không hồi hướng hành động nhắm tới quả vị Phật viên mãn tối thượng vì lợi ích của người khác. 2) Sân hận: người ta nói rằng một giây khắc sân hận có thể hủy hoại những hành nghiệp thiện lành trong nhiều kiếp. 3) Hối tiếc: hối tiếc những hành vi lợi ích mà ta đã làm, dù chỉ một phần nào. 4) Khoe khoang những hành vi thiện lành đã làm cho người khác.
@@ -9766,26 +9802,26 @@ lit. literally (nghĩa đen)
 CHÚ THÍCH
 
 hoàn toàn được hồi hướng cho “Đạo Quả hay đại dương của quả vị Toàn Giác,” thì công đức ấy sẽ không bị mất đi cho tới khi ta thành tựu Phật Quả viên mãn.
-4. “Đối tượng của cái thấy (*lta yul*) của các Kinh điển (*sutra*) và Mật điển (*tantra*) đều như nhau, tức là Pháp Giới tuyệt đối (*chos kyi dbyinsg*, Phạn: *dharmadhatu* – Pháp Giới). Nhưng đối với chính cái thấy (kiến), thì ta có thể thiết lập một sự phân biệt, như khi ta nói rằng ta nhìn thấy một hình tướng ‘rõ ràng’ hay nhìn thấy ‘lờ mờ.’ Khế Thừa (*Vehicle of Characteristics - the sutras*) có thể tạo được sự hỗ trợ, [giảng dạy và trực nhận về] tinh túy, về chân lý tuyệt đối, cũng như về tánh Không vĩ đại siêu vượt tám thái cực của các khái niệm đắm nhiễm (*spros mtha’*), nhưng không thể nhận ra được rằng chân tánh của tánh Không vĩ đại là sự hợp nhất bất khả phân của Pháp Giới và trí tuệ nguyên sơ (*dbying ye zung ‘jug*). Đối với những hiện tượng của thực tại tương đối, Khế Thừa cho rằng hiện tượng này là một cái gì tương thuộc (duyên sinh) và giống như một tuồng huyễn hóa. Nhưng Thừa này không đi xa hơn việc cho rằng tất cả các hiện tượng chỉ là sự phô bày huyền diệu bất tịnh, để có thể thiết lập các Thân (*kaya*) và các trí tuệ. Trái lại, Mật Thừa thiết lập một Pháp Thân (*dharmakaya*) vĩ đại cao cả hơn như thế, là một sự trùng điệp của các Thân và các trí tuệ, không bao giờ có thể phân tách, như là hai chân lý tuyệt đối.”NT
-5. “Trong Khế Thừa không dạy rằng ta có thể đạt được Giác Ngộ mà không cần từ bỏ năm đối tượng của tham dục (*‘dod pai yon tan Inga*). Nhưng ở đây [trong Quả Thừa – Resultant Vehicle], ta ứng phó với tâm một cách mau lẹ và dễ dàng, đưa tâm ấy vào những con đường tu mà không cần phải từ bỏ năm đối tượng này, và ta có thể đạt được quả vị Hợp Nhất, quả vị của đức Kim Cương Trì (*Vajradhara*), trong một đời người và trong một thân người duy nhất.”
+4. “Đối tượng của cái thấy (lta yul) của các Kinh điển (sutra) và Mật điển (tantra) đều như nhau, tức là Pháp Giới tuyệt đối (chos kyi dbyinsg, Phạn: dharmadhatu - Pháp Giới). Nhưng đối với chính cái thấy (kiến), thì ta có thể thiết lập một sự phân biệt, như khi ta nói rằng ta nhìn thấy một hình tướng ‘rõ ràng’ hay nhìn thấy ‘lờ mờ.’ Khế Thừa (Vehicle of Characteristics - the sutras) có thể tạo được sự hỗ trợ, [giảng dạy và trực nhận về] tinh túy, về chân lý tuyệt đối, cũng như về tánh Không vĩ đại siêu vượt tám thái cực của các khái niệm đắm nhiễm (spros mtha’), nhưng không thể nhận ra được rằng chân tánh của tánh Không vĩ đại ấy là sự hợp nhất bất khả phân của Pháp Giới và trí tuệ nguyên sơ (dbying ye zung ‘jug). Đối với những hiện tượng của thực tại tương đối, Khế Thừa cho rằng hiện tượng này là một cái gì tương thuộc (duyên sinh) và giống như một tuồng huyễn hóa. Nhưng Thừa này không đi xa hơn việc cho rằng tất cả các hiện tượng chỉ là sự phô bày huyền diệu bất tịnh, để có thể thiết lập các Thân (kaya) và các trí tuệ. Trái lại, Mật Thừa thiết lập một Pháp Thân (dharmakaya) vĩ đại cao cả hơn như thế, là một sự trùng điệp của các Thân và các trí tuệ, không bao giờ có thể phân tách, như là hai chân lý tuyệt đối.”NT
+5. “Trong Khế Thừa không dạy rằng ta có thể đạt được Giác Ngộ mà không cần từ bỏ năm đối tượng của tham dục (‘dod pai yon tan lnga). Nhưng ở đây [trong Quả Thừa – Resultant Vehicle], ta ứng phó với tâm một cách mau lẹ và dễ dàng, đưa tâm ấy vào những con đường tu mà không cần phải từ bỏ năm đối tượng này, và ta có thể đạt được quả vị Hợp Nhất, quả vị của đức Kim Cương Trì (Vajradhara), trong một đời người và trong một thân người duy nhất.”
 6. Những người có căn cơ nhạy bén là người: “đủ thông tuệ để có thể chứng ngộ cái thấy sâu xa của Kim Cương Mật Thừa và là những người có đủ tín tâm không e sợ những hành động mạnh mẽ và lớn lao.”
 
 LỜI VÀNG CỦA THẦY TÔI
 
 7. Theo Mật Thừa, ta không tạo tác hay phát khởi bất kỳ điều gì bằng cách đi theo con đường tu tập. Ta chỉ đơn giản làm hiển lộ điều đã sẵn có – đó là Phật tánh của chính mình.
-8. Ta không nên coi các Ngài như là những chúng sinh bình thường (rags pa) mà phải coi các Ngài như là những hiện thể vi tế (phraba) hoặc cực kỳ vi tế (shin tu phra ba).” DKR “Tất cả các vị trong tăng đoàn, cho dù các vị ấy có nhận ra điều đó hay không, nhưng các Ngài được tắm đẫm trong Phật tánh giống như những hạt mè tràn ngập bởi dầu... Vì thế tất cả chúng sinh đều là những vị Phật, bản tánh thanh tịnh tuyệt đối của chúng sinh là bản tánh của Phật Quả, tinh túy nguyên sơ của chúng sinh là tinh túy nguyên sơ của Phật Quả, và những phẩm hạnh bẩm sinh trong họ là những phẩm hạnh của Phật Quả... tất cả là những vị Phật đích thực, được quán tưởng như những Không Hành nam và Không Hành nữ (daka và dakini) thuộc các Phật Bộ thích hợp. Nếu cả vị Thầy lẫn tăng thân đều là những vị Phật, thì cõi Phật của các Ngài cũng thanh tịnh và phải được quán tưởng như cõi Sắc Cứu Cánh Thiên (Akanistha) hay một cõi tịnh độ khác.” NT
-9. gsal btab pa có nghĩa là quán tưởng, nhưng cũng có nghĩa là lưu tâm, nhận biết một cách trong sáng tâm thức ta, làm tươi mới ký ức của ta. “Quán tưởng theo cách này không có nghĩa là tự nhủ rằng con lừa là con ngựa, hay một cục than là cục vàng; chỉ có nghĩa là nhận biết một cách sinh động trong tâm ta những gì luôn luôn hiện hữu như thế từ vô thủy, là những hình tướng và hiện thể xuất hiện từ nền tảng nguyên sơ, là trạng thái của Phật Quả.” NT
+8. Ta không nên coi các Ngài như là những chúng sinh bình thường (rags pa) mà phải coi các Ngài như là những hiện thể vi tế (phraba) hoặc cực kỳ vi tế (shin tu phra ba).” DKR “Tất cả các vị trong tăng đoàn, cho dù các vị ấy có nhận ra điều đó hay không, nhưng các Ngài được tắm đẫm trong Phật tánh giống như những hạt mè tràn ngập bởi dầu... Vì thế tất cả chúng sinh đều là những vị Phật, bản tánh thanh tịnh tuyệt đối của chúng sinh là bản tánh của Phật Quả, tinh túy nguyên sơ của chúng sinh là tinh túy nguyên sơ của Phật Quả, và những phẩm hạnh bẩm sinh trong họ là những phẩm hạnh của Phật Quả... tất cả là những vị Phật đích thực, được quán tưởng như những Không Hành nam và Không Hành nữ (daka và dakini) thuộc các Phật Bộ thích hợp. Nếu cả vị Thầy lẫn tăng thân đều là những vị Phật, thì cõi Phật của các Ngài cũng thanh tịnh và phải được quán tưởng như cõi Sắc Cửu Cánh Thiên (Akanistha) hay một cõi tịnh độ khác.” NT
+9. gsal btab pa có nghĩa là quán tưởng, nhưng cũng có nghĩa là lưu tâm, nhận biết một cách trong sáng tâm thức ta, làm tươi mới ký ức của ta. “Quán tưởng theo cách này không có nghĩa là tự nhủ rằng con lừa là con ngựa, hay một cục than là cục vàng; chỉ có nghĩa là nhận biết một cách sinh động trong tâm ta những gì luôn luôn hiện hữu như thể từ vô thủy, là những hình tướng và hiện thể xuất hiện từ nền tảng nguyên sơ, là trạng thái của Phật Quả.”NT
 10. “Trong kiếp này có một ngàn vị Phật xuất hiện. Tuy nhiên, chúng ta đã không gặp được những vị Phật đã xuất hiện – hay nếu như ta đã có gặp các Ngài thì các Ngài đã không thành công trong việc dẫn dắt chúng ta đến bờ giải thoát. Đối với chư Phật trong tương lai thì việc chúng ta gặp các Ngài vẫn còn quá sớm. Vì thế nếu không có những vị Thầy tâm linh thì sẽ chẳng có một ai cứu giúp ta.” DKR
 11. Ba niềm tin đầu tiên được giải thích trong Phần Hai, Chương Một. Niềm tin thứ tư, tín tâm bất thối chuyển, đôi khi được thêm
 
-CHÚ THÍCH
+CHU THÍCH
 
 vào để ám chỉ tuyệt đỉnh của lòng tin, khi mà lòng tin ấy đã trở thành một phần không thể thiếu bên trong chính ta.
-12. NT nói: “Dù ta có nhận lãnh Giáo Pháp hay không, nếu ta không quan tâm tới Pháp thì ta sẽ giống như một con ngựa được ban cho một cục xương, hay một con chó được cho một nắm cỏ.” *don gnyner*, “sự quan tâm,” cũng có nghĩa là “nỗ lực tinh tấn,” không chỉ là sự quan tâm trong tâm thức mà còn phải tham gia tích cực.
-13. Những ví dụ này lấy từ những câu chuyện tiền kiếp của Đức Phật để minh họa mức độ thệ nguyện của Ngài, và không nên coi đó đơn thuần như là những câu chuyện giới thiệu về phái tu khổ hạnh cực đoan.
+12. NT nói: “Dù ta có nhận lãnh Giáo Pháp hay không, nếu ta không quan tâm tới Pháp thì ta sẽ giống như một con ngựa được ban cho một cục xương, hay một con chó được cho một nắm cỏ.” *don* *gnyner*, “sự quan tâm,” cũng có nghĩa là “nỗ lực tinh tấn,” không chỉ là sự quan tâm trong tâm thức mà còn phải tham gia tích cực.
+13. Những ví dụ này lấy ra từ những câu chuyện tiền kiếp của Đức Phật để minh họa mức độ thệ nguyện của Ngài, và không nên coi đó đơn thuần như là những câu chuyện giới thiệu về phái tu khổ hạnh cực đoan.
 14. Giác quan thứ sáu là thức, bởi vì những phản ứng tâm lý tương tự là do những đối tượng xuất hiện trong tư tưởng tạo ra, cũng giống như những đối tượng của tri giác xuyên qua năm giác quan vật lý.
-15. Điều này ám chỉ những người Tây Tạng bình thường, là những người có niềm tin thật đặc trưng nơi Giáo Pháp và thường tụng niệm câu minh chú nổi tiếng: *Om mani padme hum*, nhưng họ lại có thể không có chút hiểu biết cặn kẽ nào về giáo lý của Đức Phật. Ở đây, Gyalse Rinpoche đang sử dụng thuật ngữ theo một cách thức hơi xúc phạm để khích động thính giả của Ngài.
-16. *grims kyis sgrim la lhod kyis glod*. “Điều này có nghĩa là không sao lãng, nhưng đồng thời hết sức thư thái.” DKR. Ngoài ra, đầu tiên, phải kiểm soát những niệm tưởng lộn xộn để đạt được sự an định (*zhi gnas*), sau đó phải buông lỏng tâm để phát triển những kinh nghiệm nội quán sâu xa (*lhag mthong*).
+15. Điều này ám chỉ những người Tây Tạng bình thường, là những người có niềm tin thật đặc trưng nơi Giáo Pháp và thường tụng niệm câu minh chú nổi tiếng: *Om mani* *padme hum*, nhưng họ lại có thể không có chút hiểu biết cặn kẽ nào về giáo lý của Đức Phật. Ở đây, Gyalse Rinpoche đang sử dụng thuật ngữ theo một cách thức hơi xúc phạm để khích động thính giả của Ngài.
+16. *grims kyis* *sgrim la* *lhod kyis* *glod*. “Điều này có nghĩa là không sao lãng, nhưng đồng thời hết sức thư thái.” DKR. Ngoài ra, trước tiên, phải kiểm soát những niệm tưởng lộn xộn để đạt được sự an định (*zhi gnas*), sau đó phải buông lỏng tâm để phát triển những kinh nghiệm nội quán sâu xa (*lhag mthong*).
 17. “Cách giáo lý được biểu lộ hoàn toàn là đến từ những ngôn từ và vì thế, không cần thiết – đó là lối nói của những người nghĩ mình là những thiền giả Nyingma vĩ đại. Họ nghĩ rằng họ có thể nắm bắt ý nghĩa cốt tủy, nắm bắt được chân nghĩa mà không cần bận tâm về ngôn từ. Khi chỉ thẳng vào trái tim của họ, họ nói rằng những giảng giải này chỉ là những ngôn từ không có thực chất, và điều cần thiết chỉ là thấu hiểu chân tánh của tâm.”
 18. Ý nghĩa chân thực diễn tả chân lý từ quan điểm của những bậc Giác Ngộ. Ý nghĩa thích hợp ám chỉ các giáo lý được đề ra để dẫn dắt những người chưa giác ngộ hướng đến chân lý, là những người không thể chấp nhận hay thấu hiểu giáo lý nếu giáo lý này
 
@@ -9795,17 +9831,19 @@ LỜI VÀNG CỦA THẦY TÔI
 19. “Đó là sự ngộ nhận về ý nghĩa, chẳng hạn như tưởng tượng rằng từ giây phút ta thọ nhận giáo lý của Mật Thừa thì ta có thể hưởng thụ rượu chè và tình dục, và hành trì những pháp môn liên quan đến sự hợp nhất và giải thoát. Để tránh các lỗi lầm này, cách hành xử của ta phải hợp thời (có nghĩa là phù hợp với mức độ tu chứng của tâm linh mà chúng ta thực sự đạt được trong giây phút hiện tại).”
 20. AT “một niềm hứng khởi tốt lành hay xấu xa vĩnh viễn.” Ở đây chúng ta theo giải thích của DKR.
 21. Điều này ám chỉ một pháp môn tịnh hóa dành cho người chết trong đó người chết được tượng trưng bằng một tấm bìa ghi tên của họ.
-22. Thành ngữ thod pa bor chog ma nghĩa là “tống khử cái sọ người,” có nghĩa là loại bỏ thân xác ta, trong ý nghĩa giải thoát chính mình khỏi những cảnh tái sinh trong tương lai. DKR
-23. ‘du shes med pa. AT “không có tri giác.” Chúng ta theo giải thích của DKR: “Chư Thiên phi tưởng (vô tưởng) đã tạo ra một trạng thái trống rỗng trong tâm thức họ và không nhận thức được bất cứ điều gì cả, như trong trạng thái ngủ sâu không nằm mộng.”
-24. klo kha khra ám chỉ vùng rộng lớn mà những cư dân bộ lạc cư trú ở miền nam của trung phần và ở miền đông Tây Tạng. Ngày nay bao gồm Arunachal Pradesh, Nagaland và những phần của Assam ở đông-bắc Ấn Độ, cũng như những phần của tây-bắc Miến Điện.
-25. Những người Tây Tạng quen gọi Bồ Đề Đạo Tràng là rdo rje ldan, hay Toà Kim Cương, ám chỉ nơi Đức Phật ngồi khi Ngài đạt được Giác Ngộ. Đây cũng được coi là trung tâm của thế giới.
+22. Thành ngữ *thod pa bor chog ma* nghĩa là “tống khứ cái sọ người,” có nghĩa là loại bỏ thân xác ta, trong ý nghĩa giải thoát chính mình khỏi những cảnh tái sinh trong tương lai. DKR
+23. *du shes med pa*. AT “không có tri giác.” Chúng ta theo giải thích của DKR: “Chư Thiên phi tưởng (vô tưởng) đã tạo ra một trạng thái trống rỗng trong tâm thức họ và không nhận thức được bất cứ điều gì cả, như trong trạng thái ngủ sâu không nằm mộng.”
+24. *klo kha khra* ám chỉ vùng rộng lớn mà những cư dân bộ lạc cư trú ở miền nam của trung phần và ở miền đông Tây Tạng. Ngày nay bao gồm Arunachal Pradesh, Nagaland và những phần của Assam ở đông-bắc Ấn Độ, cũng như những phần của tây-bắc Miến Điện.
+25. Những người Tây Tạng quen gọi Bồ Đề Đạo Tràng là *rdo rje ldan*, hay Toà Kim Cương, ám chỉ nơi Đức Phật ngồi khi Ngài đạt được Giác Ngộ. Đây cũng được coi là trung tâm của thế giới.
 26. Xem chú thích 295.
 27. Những ngôi chùa này được xây dựng tại những địa điểm chính xác được chuẩn định cốt để chế ngự những tà lực ở Tây Tạng. Ở giữa tập hợp những ngôi chùa này là Rasa Trulnang, là tên thuở ban đầu của chùa Jokhang. Xem Phần II, Chương Sáu, mục IV và chú thích 294.
+
+590
 
 CHÚ THÍCH
 
 28. Theo NT, Đức Liên Hoa Sanh muốn nói rằng chỉ trong ba thời kỳ này mà Kim Cương Thừa được khám phá trong một phạm vi rộng lớn.
-29. Nghĩa đen: “những niên lịch (nam),” nhưng điều này không ám chỉ những đơn vị thời gian chính xác mà muốn nói tới những thời kỳ phát triển hay suy tàn gây ra bởi những nguyên nhân khác nhau chẳng hạn như sự xuất hiện của một thánh nhân hay, ngược lại, ảnh hưởng có hại của những tinh linh xấu ác. DKR
+29. Nghĩa đen: “những niên lịch (năm),” nhưng điều này không ám chỉ những đơn vị thời gian chính xác mà muốn nói tới những thời kỳ phát triển hay suy tàn gây ra bởi những nguyên nhân khác nhau chẳng hạn như sự xuất hiện của một thánh nhân hay, ngược lại, ảnh hưởng có hại của những tinh linh xấu ác. DKR
 30. Trong thời kỳ lập tức theo sau thời kỳ giáo lý được truyền bá, những người thực hành Giáo Pháp hầu như đắc quả tức thời.
 31. Trong thời kỳ thành tựu thì có những người thực hành Giáo Pháp, nhưng có ít người hơn, và kết quả của họ tới chậm hơn.
 32. NT giải thích rằng những hiện tượng này có thể nảy sinh bất ngờ ở khoảng giữa một thời khoá thực hành và thời khoá kế tiếp, hay nảy sinh ngay giữa một thời khoá, và hủy hoại một hay vài yếu tố trong số mười tám điều kiện tự do và thuận duyên, giống như một con sói đi vào bãi nhốt cừu và tha đi một hoặc hai con trong số mười tám con cừu.
@@ -9824,57 +9862,61 @@ Ngài là bạn thân và là một đại thí chủ của Ngài Long Thọ, nh
 
 39. Ông ta có thể điều phục tâm mình có nghĩa là ông có thể phát triển ‘định’ nhưng không có nghĩa là đã điều phục được các cảm xúc tiêu cực hay chứng ngộ được bản tánh của tâm. Trên quan điểm của Pháp, thiền định mà không có một sự định hướng đúng đắn thì là điều vô ích.
 
-40. lam du 'khyer ba: nghĩa đen là đưa vào con đường. Điều này có nghĩa là sử dụng mọi tình huống trong đời sống hàng ngày như là một phần của các pháp tu. Nếu Gelong Thangpa đưa những tư tưởng tiêu cực của ông vào con đường tu, ví dụ sử dụng lòng từ như là một pháp đối trị thái độ thù nghịch, hoặc bằng cách nhận ra được tánh Không của một niệm tưởng ngay khi nó sinh khởi, thì điều ấy không dẫn tới bất kỳ tai hại nào.
+40. lam du ’khyer ba: nghĩa đen là đưa vào con đường. Điều này có nghĩa là sử dụng mọi tình huống trong đời sống hàng ngày như là một phần của các pháp tu. Nếu Gelong Thangpa đưa những tư tưởng tiêu cực của ông vào con đường tu, ví dụ sử dụng lòng từ như là một pháp đối trị thái độ thù nghịch, hoặc bằng cách nhận ra được tánh Không của một niệm tưởng ngay khi nó sinh khởi, thì điều ấy không dẫn tới bất kỳ tai hại nào.
 
 41. rkyen: duyên hợp (hoàn cảnh). Nhân tố hỗ trợ để cho nguyên nhân sâu xa (rgyu) trổ quả. Ví dụ, nếu người nào đó chết trong một tai nạn, thì chính tai nạn, hoàn cảnh của cái chết đó, là rkyen (duyên), và nguyên nhân sâu xa (rgyu) là hành nghiệp xấu ác đã tạo trong quá khứ, và cái chết là nghiệp quả của hành nghiệp đó.
 
 42. gyur dug: trong y khoa Tây Tạng, thành ngữ này ám chỉ các lương thực có chất dinh dưỡng tốt lành, nhưng lại trở nên độc hại hay khó tiêu khi được dùng chung với những thực phẩm nào khác.
 
-# CHÚ THÍCH
+CHÚ THÍCH
 
-43. *sha sgren* có nghĩa là thịt quạ ôi thiu nhưng không hẳn là bị thối rữa. Ở Tây Tạng, thực phẩm có thể được tích trữ trong một thời gian dài nhờ điều kiện khí hậu hết sức đặc biệt.
+43. sha sgren có nghĩa là thịt quá ôi thiu nhưng không hẳn là bị thối rữa. Ở Tây Tạng, thực phẩm có thể được tích trữ trong một thời gian dài nhờ điều kiện khí hậu hết sức đặc biệt.
 
 44. Nếu như trong giấc ngủ, ta vẫn có thể chú tâm vào tịnh quang là sự hiển lộ tự nhiên của giác tánh nguyên sơ, thì mọi kinh nghiệm tâm linh của ta sẽ hòa trộn với Giác tánh và ta sẽ không phải bị coi như là đang ở trong một trạng thái mê lầm.
 
-45. Sau khi chết, sẽ không có trạng thái tái sinh (do nghiệp lực chi phối) cảm) diễn ra tiếp theo đó.
+45. Sau khi chết, sẽ không có trạng thái tái sinh (do nghiệp lực chiêu cảm) diễn ra tiếp theo đó.
 
 46. Đây là ba loại tinh tấn đã được giải thích chi tiết ở Phần Hai, Chương Hai. PWR viết thêm: Khi bạn có sự tinh tấn như áo giáp thì không gì có thể ngăn cản bạn khởi đầu. Khi bạn tinh tấn trong hành động, không gì có thể làm gián đoạn điều bạn đang làm. Khi bạn có sự tinh tấn không thể ngừng dứt, không gì có thể ngăn trở bạn đạt được mục đích.
 
-47. Thuật ngữ Tây Tạng là *chos dred*, nghĩa đen là “Con gấu Pháp”. DICT: “người không được điều phục bởi Pháp. Anh ta hiểu Pháp nhưng không thực hành Pháp, tâm anh ta trở nên khô cứng.” Nếu đến với Phật Pháp bằng một thái độ sai lạc, ta có thể có một niềm tin giả tạo, khiến ta không nhạy cảm đối với vị Thầy và giáo lý.
+47. Thuật ngữ Tây Tạng là chos dred, nghĩa đen là “Con gấu Pháp”. DICT: “người không được điều phục bởi Pháp. Anh ta hiểu Pháp nhưng không thực hành Pháp, tâm anh ta trở nên khô cứng.” Nếu đến với Phật Pháp bằng một thái độ sai lạc, ta có thể có một niềm tin giả tạo, khiến ta không nhạy cảm đối với vị Thầy và giáo lý.
 
-48. Theo truyền thống thì những thân tượng thuộc thiên giới (celestial bodies) được xem là nơi an trú của những chúng sinh thuộc các cõi Trời nào đó mà người phàm không thể thấy được.
+48. Theo truyền thống thì những thân tướng thuộc thiên giới (celestial bodies) được xem là nơi an trú của những chúng sinh thuộc các cõi Trời nào đó mà người phàm không thể thấy được.
 
-49. *dkor za ba* thường có nghĩa là sử dụng nguồn tài chính được hiến cúng bởi tín tâm, trong một cách không đúng đắn. Đôi khi còn ám chỉ việc những người lạm dụng của cải chung như tài sản của một quốc gia.
+49. dkor za ba thường có nghĩa là sử dụng nguồn tài chính được hiến cúng bởi tín tâm, trong ý nghĩa đặc biệt là sử dụng chúng một cách không đúng đắn. Đôi khi còn ám chỉ việc những người đang ở một địa vị quyền thế lạm dụng của cải chung như tài sản của một quốc gia.
 
 50. Ở đây, ngữ (ngag) ám chỉ năng lực vi tế của ngữ (hay khẩu). Khi được vận dụng bởi một người có khả năng tu tập tâm linh nào đó hoặc bởi một người với một loại nghiệp đặc biệt thì năng lực này là phương tiện để biểu lộ âm thanh của các câu mật chú và có thể có năng lực chữa lành, làm an bình, hàng phục...
+
+LỜI VÀNG CỦA THẦY TÔI
+
+51. Pháp sư ném mạnh những vật tượng trưng khác nhau vào họ, chẳng hạn như những bánh cúng torma, hạt mù tạt, hay bột, là những thứ mà các ngạ quỷ nhận biết là những vũ khí tiêu diệt thân thể họ.
+52. Các naga là một loại chúng sinh sống dưới mặt đất và có năng lực phi thường. Mặc dù giống như những tinh linh, chúng vẫn được xếp loại cùng với các súc sinh vì thân chúng giống như rắn. Xin xem thêm Thuật ngữ: “garuda”
+53. Thành ngữ ‘du byed kyi sdug sngal mà chúng tôi đã dịch là “nỗi khổ của tất cả những gì giả hợp” được giải thích như sau: rgyu rkyen ‘du byed nas sdug sngal ‘byung, “khi nhân và duyên cùng tụ hội thì sự đau khổ xuất hiện.” Nỗi khổ này được coi là nguồn gốc của hai loại đau khổ căn bản khác trong vòng sinh tử luân hồi, được mô tả là khyab pa, có nghĩa là có mặt khắp nơi hay cùng khắp.
+54. Những hiện tượng tái sinh chính yếu khác xảy ra trong sáu cõi luân hồi là sinh ra từ trứng (noãn sanh), sinh ra từ hơi nóng và sự ẩm ướt (thấp sanh), và đản sinh một cách kỳ diệu (hoá sanh).
+55. Đây là cách dịch gần đúng được với những thuật ngữ được dùng trong y khoa Tây Tạng đối với giai đoạn trong năm tuần đầu tiên của sự phát triển của bào thai trong thời kỳ trứng nước.
+56. las kyi rlung: nghiệp lực của những hành vi trong quá khứ, thúc đẩy toàn bộ tiến trình của luân hồi.
+57. Một tấm kim loại có đục một lỗ qua đó kim loại được kéo thành dây.
+58. Ở Tây Tạng, bơ được xoa trên đỉnh đầu trẻ sơ sinh để giúp cho cái thóp mau đóng lại. Mặc dù việc này được coi là có lợi cho sức khỏe của nó, nhưng trẻ sơ sinh nhạy cảm tới nỗi những năng lực vi tế của thân nó cũng bị kích động.
+59. Giống như trong những nền văn hóa Đông phương khác, đối với người Tây Tạng thì việc bước qua đầu (hay thân) một người nào là điều hết sức sỉ nhục và là một nguồn nhiễm ô. Đối với những hành giả Kim Cương Thừa thì đó là sự thiếu tôn kính mạn đà la của thân, là một cái gì thiêng liêng. Tuy nhiên, với một hành giả du già đã chứng ngộ được sự thanh tịnh tối hậu của tất cả mọi hiện tượng trong lẽ tuyệt đối thì tất cả những loại kinh nghiệm đều có cùng một vị của tánh Không.
 
 CHÚ THÍCH
 
 60. las kyi sa ba, một nơi mà nghiệp lực mãnh liệt hơn và những hậu quả của hành nghiệp được chiêu cảm mạnh mẽ hơn, và trong một vài trường hợp, sẽ xảy ra sớm hơn. Trong bốn trung châu trong thế giới thuộc vũ trụ quan truyền thống (của Phật Giáo), thì đặc biệt là trong châu Jambudvipa (Diêm Phù Đề – cõi người), các hành nghiệp sẽ đưa đến quả báo mạnh mẽ, và trong đó những kinh nghiệm cá nhân có thể thay đổi nhiều hơn. Chúng sinh của những trung châu khác thì thường phải chịu quả báo của những hành vi trong quá khứ hơn là tạo ra những nguyên nhân mới. Kinh nghiệm quả báo và thọ mạng của họ thì cố định hơn chúng sinh ở cõi người.
-
 61. Nếu chúng ta không bị những hoàn cảnh thuận lợi đánh lừa, mà nhận ra rằng chúng chỉ có tính cách xác thực tùy theo mức độ cảm nhận của ta, thì những hoàn cảnh này có thể trở thành một trợ lực giúp cho công phu thiền định của chúng ta tiến bộ thay vì tạo nên những tham luyến gây nên chướng ngại cho ta.
-
 62. Chính nhờ quán sát những vị Thầy cả tốt lẫn xấu mà ta có thể nhận chân ra được những vị Thầy tốt. Việc quán sát những hành giả tốt và xấu giúp ta học được cách thức giúp mình tự hành xử.
-
 63. Cũng như cách thức các hiện tượng bên ngoài xuất hiện và biến mất vào không gian, những hiện tượng của tâm khởi lên từ bản tánh của tâm (sems nyid) và lại tan hòa trở lại vào đó. Những hiện tượng ấy không có tự tánh độc lập.
-
 64. Một phần đặc tính của cõi Trời được mô tả như là không có sự giận dữ và thù ghét. Vì thế ở đây, để có thể chiến đấu, chư Thiên trong cõi Trời thứ Ba Mươi Ba phải đi đến một khu rừng huyền bí, ở đó họ trở nên hung hăng, thích gây hấn.
-
 65. Sắc giới và vô sắc giới. Xem thuật ngữ: “tam giới.”
-
 66. Nghĩa đen: “năm cõi:” một cách phân loại khác của sáu cõi với chư Thiên và A Tu La nhập làm một.
-
 67. las su ‘char ba. Chúng tôi nhận được nhiều giải thích khác nhau cho thành ngữ này. Chúng tôi đã dịch theo cách giải thích của Ngài DKR là tương đương với las su rung ba, có nghĩa là thích hợp hay có thể thực hiện được.
-
 68. Giống như một tháp canh giữ một vai trò hết sức trọng yếu trong một trận chiến để quan sát kẻ địch và dành phần chiến thắng,
 
 LỜI VÀNG CỦA THẦY TÔI
 
 samaya (xem Thuật Ngữ) hay mật nguyện là điều cốt yếu trong Mật Thừa để tránh các chướng ngại và đạt được Phật Quả.
-69. Noi theo tiến trình của các Thừa (Phạn: yana) có nghĩa là bên ngoài ta theo giới luật của Tiểu Thừa trong khi bên trong thực hành Đại Thừa, và một cách bí mật, ta thực hành Kim Cương Thừa. Ở đây Ngài Patrul Rinpoche ngụ ý rằng Thầy của Ngài dù tâm đã hoàn toàn vượt khỏi mọi đắm nhiễm luân hồi, nhưng vẫn là một tấm gương hoàn hảo để soi rọi cho đệ tử cách thức đi theo một tiến trình tu tập.
+69. Noi theo tiến trình của các Thừa (Phạn: yana) có nghĩa là bên ngoài ta theo giới luật của Tiểu Thừa trong khi bên trong thực hành Đại Thừa, và một cách bí mật, ta thực hành Kim Cương Thừa. Ở đây Ngài Patrul Rinpochê ngụ ý rằng Thầy của Ngài dù tâm đã hoàn toàn vượt khỏi mọi đắm nhiễm luân hồi, nhưng vẫn là một tấm gương hoàn hảo để soi rọi cho đệ tử cách thức đi theo một tiến trình tu tập.
 70. Có thêm hai hành động có quả báo tức thời là tội gây chia rẽ Tăng đoàn, và làm thân Phật chảy máu.
 71. Trong hầu hết xã hội Tây Tạng lúc đó, việc dùng thịt trong mỗi bữa ăn được coi là dấu hiệu của giàu có sung túc và vì vậy thuộc địa vị cao. Người khách đang khoe khoang để người khác có cảm tưởng rằng ở nhà, ngoài món thịt ra, cô không quen ăn bất kỳ món gì khác.
-72. Ở đây Ngài Patrul Rinpoche phân biệt giữa hiện tượng tâm lý không liên quan đến trí tuệ với tính siêu việt đích thực của không gian và thời gian mà những bậc Giác Ngộ đã chứng nghiệm; đây là những người đã đạt được ba địa Bồ Tát cao nhất. Cái trước được mô tả là zag bcas, “bị đắm nhiễm” (bởi những khái niệm), và cái sau là zag med, “vô cấu nhiễm.”
+72. Ở đây Ngài Patrul Rinpochê phân biệt giữa hiện tượng tâm lý không liên quan đến trí tuệ với tính siêu việt đích thực của không gian và thời gian mà những bậc Giác Ngộ đã chứng nghiệm; đây là những người đã đạt được ba địa Bồ Tát cao nhất. Cái trước được mô tả là zag bcas, “bị đắm nhiễm” (bởi những khái niệm), và cái sau là zag med, “vô cấu nhiễm.”
 73. “Nghi lễ của những người Bà la môn” ám chỉ những nghi lễ thực hiện không vì động lực muốn đạt được Giác Ngộ cho tất cả chúng sinh. Mặc dù là những nghi lễ tôn giáo, chúng vẫn không được coi là sẽ dẫn đến giải thoát rốt ráo.
 74. dkor nag po: vì sự linh thiêng thật sự của Phật, Pháp, Tăng nên lạm dụng các vật cúng dường sẽ gây nên cho họ nghiệp quả hết sức nặng nề. Ở đây đặc biệt nói đến những cúng dường của các thí chủ trong các nghi lễ được thực hiện cho người chết, người bệnh, v.v...
 75. thar pa dang grol ba: chúng tôi đã dịch hai thuật ngữ ở đây là giải thoát và tự do, gần như đồng nghĩa trong Anh ngữ. PWR giải thích sự khác nhau trong văn cảnh này là: giải thoát (thar pa) là thoát khỏi sinh tử luân hồi, đặc biệt là thoát khỏi những cõi thấp, trong khi tự do (grol ba) là thoát khỏi mọi chướng ngại đưa đến
@@ -9885,7 +9927,7 @@ Toàn Giác hay Giác Ngộ. Trong những văn cảnh khác, thar pa có thể 
 76. Quan điểm này được coi là không đúng, không phải vì nó phủ nhận một tác nhân, mà bởi nó phủ nhận tiến trình nhân quả.
 77. Điều này không có nghĩa là ta không nên đặt câu hỏi hay phân tích giáo lý. Thực ra Đức Phật khuyến khích những câu hỏi như vậy. Dù thế nào đi nữa, việc để cho quan điểm riêng của ta đóng chặt tâm ta đối với Phật Pháp; việc đóng chặt tâm lại là việc ta phải thường xuyên đối phó hằng ngày, nhưng việc này có thể thực sự ngăn trở không cho ta bước đi trên con đường dẫn đến giải thoát.
 78. Bởi những bậc Thầy tâm linh, là những người hướng dẫn chúng sinh, xuất hiện tùy theo những hành nghiệp trong quá khứ của chúng sinh nên nhân duyên nối kết giữa vị Thầy và đệ tử không thể chia cách được. Do đó, nếu đệ tử cư xử không phù hợp thì những hậu quả sẽ phản nghịch lại vị Thầy (trong lãnh vực tương đối), làm suy giảm thời gian hoá thân của Thầy và gây chướng ngại cho những công hạnh cốt đem lại lợi ích cho người khác của vị Thầy.
-79. Tà kiến sẽ làm cho quan điểm của ta trở nên chật hẹp. Ngay cả quả lành của những hành động tốt lành của ta cũng sẽ bị giới hạn bởi ta đã làm những nghiệp lành này mà không có động lực đạt tới Giác Ngộ viên mãn vì lợi ích của tất cả chúng sinh. Ngoài ra, nếu không tin vào những bậc truyền dạy Giáo Pháp, ta sẽ không được lực hỗ trợ cho công phu sám hối đã được mô tả trong Phần Hai, Chương Ba.
+79. Tà kiến sẽ làm cho quan điểm của ta trở nên chật hẹp. Ngay cả quả lành của những hành động tốt lành của ta cũng sẽ bị giới hạn bởi ta đã làm những nghiệp lành này mà không có động lực đạt tới Giác Ngộ viên mãn vì lợi ích của tất cả chúng sinh. Ngoài ra, nếu không tin vào những bậc truyền dạy Giáo Pháp, ta sẽ không có được lực hỗ trợ cho công phu sám hối đã được mô tả trong Phần Hai, Chương Ba.
 80. Điều này ám chỉ thời điểm mà nghiệp lực chiêu cảm trổ quả tối đa, nhưng quả ấy cũng có thể được thúc đẩy để trổ ra nhanh hơn hay làm cho chậm lại tuỳ vào kết quả của những hành động khác.
 81. Một bản dịch hơi khác biệt của trích dẫn này được đưa ra trong ấn bản của Zenkar Rinpoche của bản văn Tây Tạng: “Muốn biết nơi bạn sinh ra trước kia, hãy nhìn xem bây giờ bạn là gì. Muốn biết nơi bạn sắp tái sinh, hãy nhìn xem hiện bạn đang làm gì.”
 82. Bố thí bất tịnh là bố thí với thái độ chấp ngã, trong kiểu cách bủn xỉn hay miễn cưỡng, hoặc cho đi xong rồi sau đó lại hối tiếc. Kết quả của việc bố thí theo cách này là ta sẽ được giàu có
@@ -9899,7 +9941,7 @@ nhưng sẽ không hưởng được lợi ích từ sự giàu sang sung túc n
 86. Chúng tôi không thể làm cụm từ này dễ hiểu hơn. srog có nghĩa là sinh lực, hỗ trợ cho hơi ấm (nhiệt) và cho ý thức hoặc hơi thở. Dường như Surabhibhadra (xem chú thích 36) là vị thí chủ của Nagarjuna, người cung cấp thuốc trường sinh cho Surabhibhadra. Nếu đúng như thế thì có lẽ người con muốn giết cha nên đã quyết định giết Nagarjuna để ngăn trở việc Ngài đưa thuốc trường sinh cho cha mình.
 87. Theo truyền thuyết, đầu và thân Ngài Long Thọ (Nagarjuna) có hình dạng hai tảng đá lớn bị tách rời (tại Nagarjunakonda miền nam Ấn Độ) mà trải qua nhiều thế kỷ dần dần xích lại gần nhau hơn. Khi chúng hợp nhất, Ngài Long Thọ sẽ hồi sinh.
 88. Thêm vào những hành vi tiêu cực nói chung thì có những hành động mà Đức Phật ngăn cấm những người đã thọ những giới đặc biệt. Ở đây, vị tăng đang vi phạm một giới luật ngăn cấm tu sĩ đã thọ cụ túc giới chặt phá cây cối.
-89. Những cái đế hình tròn mà trên đó những nhúm gạo, v.v... được đặt lên theo Mật pháp cúng dường mạn đà la. Cúng dường mạn đà la là một phần của tiến trình tịnh hoá. Pháp tu cúng dường mạn đà la đã được giải thích chi tiết trong Phần Hai, Chương Bốn.
+89. Những cái đế hình tròn mà trên đó những nhúm gạo, v.v... được đặt lên theo Mật pháp cúng dưỡng mạn đà la. Cúng dưỡng mạn đà la là một phần của tiến trình tịnh hoá. Pháp tu cúng dưỡng mạn đà la đã được giải thích chi tiết trong Phần Hai, Chương Bốn.
 90. Việc dùng ngôn ngữ của Giáo Pháp về hạ thấp hay xem thường luật nhân quả có nghĩa là dùng giáo lý của chân lý tuyệt đối như một cái cớ để làm bất kỳ điều gì mình mong muốn, nói rằng không có khác biệt giữa thiện và ác, giữa luân hồi và Niết Bàn, giữa chư Phật và phàm phu, v.v...
 91. Điều này có nghĩa là bất kỳ ai được tạo duyên nối kết với một người theo bất cứ cách nào, dù là tích cực, tiêu cực, hay hoàn toàn ngẫu nhiên. Ngay cả một quan hệ nhỏ bé tối thiểu với một
 
@@ -9907,12 +9949,10 @@ CHÚ THÍCH
 
 vị Bồ Tát, qua việc thấy, nghe, chạm, v.v. cũng có thể đem lại lợi lạc to lớn và dẫn đến giải thoát.
 92. Xem Dẫn Nhập về một giải thích tóm tắt của phần thực hành chính yếu. “Mặc dù tất cả những pháp tu của phần chính yếu của con đường không được giải thích một cách chính thức trong tập sách này, nhưng những điều ấy vẫn hiện diện ở đó từ trong cốt tuỷ. Tập sách đầy đủ bởi nó chứa đựng toàn bộ ý nghĩa của con đường tu.”
-93. Trong chương này, Ngài Patrul Rinpoche đưa ra một bài kệ tóm tắt về từng vấn đề mà không trích dẫn từ bất kỳ nguồn gốc đặc biệt nào. Những bài kệ này là để giúp người đọc hay người nghe nhớ lại chúng. Việc khẩu truyền trực tiếp (từ Thầy xuống đến trò) luôn luôn đóng một vai trò quan trọng trong Đạo Phật, và người Tây Tạng thường xuyên ghi chép toàn bộ những pho Kinh điển vào trong ký ức. Công năng tu tập này có thể giúp họ ghi nhớ từng chi tiết một của những giáo lý khẩu truyền. Chẳng hạn, hệ thống cấu trúc của bản văn này phần nào làm cho các hành giả thường xuyên ghi nhớ giáo huấn trong tâm thức.
+93. Trong chương này, Ngài Patrul Rinpoche đưa ra một bài kệ tóm tắt về từng vấn đề mà không trích dẫn từ bất kỳ nguồn gốc đặc biệt nào. Những bài kệ này là để giúp người đọc hay người nghe nhớ lại chúng. Việc khẩu truyền trực tiếp (từ Thầy xuống đến trò) luôn luôn đóng một vai trò quan trọng trong Đạo Phật, và người Tây Tạng thường xuyên ghi chép toàn bộ những pho Kinh điển vào trong ký ức. Công năng tu tập này có thể giúp họ ghi nhớ từng chi tiết một của những giáo lý khẩu truyền. Chẳng hạn, hệ thống cấu trúc của bản văn này phần nào làm cho các hành giả thường xuyên có sẵn những giáo huấn trong tâm thức.
 94. Họ hành động trái với thông lệ, bất chấp những phép tắc cư xử theo tục lệ, như thể hành vi của họ được đặt nền tảng trên trí tuệ không đắm nhiễm đích thực. Thật ra, họ chỉ đang tự lừa gạt chính mình.
 95. NT chỉ rõ rằng để thấy vị Thầy tâm linh của ta như một vị Phật, ta cần cảm thấy: 1) Ngài là một vị Phật trong thân người trong cả hai ý nghĩa tương đối và tuyệt đối, 2) mọi hoạt động của Ngài dù thuộc tâm linh hay thế gian đều là những công hạnh của một vị Phật, 3) thiện tâm của Ngài đối với ta thì vượt trội thiện tâm của chư Phật, 4) Ngài là hiện thân, là bậc vĩ đại nhất trong tất cả những nơi nương tựa, và 5) nếu hiểu được điều này, ta cầu nguyện Ngài mà không dựa vào bất kỳ sự trợ giúp nào khác trên con đường tu thì ta vẫn sẽ phát triển được trí tuệ của sự chứng ngộ.
 96. srid pa: nghĩa gốc là “triển vọng”-- nghĩa là bất cứ những gì có thể chuyển hoá thành bất kỳ những cái gì khác. Vì thế ở đây, ý này tượng trưng cho tất cả những khái niệm mà chúng ta phóng vào thực tại, và là một cái gì đã trở thành thế giới huyễn hóa mà
-
-599
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -9929,11 +9969,11 @@ CHÚ THÍCH
 chính là sự chiến thắng của quả vị thành tựu” có nghĩa là ta có thể đắc được Đạo Quả tối thượng. “Quả của pháp ấy chính là sự chiến thắng của pháp môn du già” có nghĩa là không có phương pháp du già (yoga) nào có thể đem lại một kết quả tốt đẹp hơn.
 103. Truyền thống dựa trên những giáo lý ban đầu được đưa từ Ấn Độ vào Tây Tạng trong thế kỷ thứ 8 được gọi là truyền thống Cổ Mật (Cựu Phái) hay là Nyingma. Còn truyền thống đặt nền tảng trên một trào lưu giáo lý mới, bắt đầu từ thế kỷ 11 trở về sau gọi là Tân Dịch, hay Sarma. Vị Thầy đầu tiên của Milarepa, Ngài Rongton Lhaga, thuộc về phái Nyingma, trong khi Marpa là một dịch giả và hành giả thành tựu của giáo lý Tân Phái.
 104. Jetsun Mila muốn cúng dường một bình đầy lúa mạch. Cúng dường một bình rỗng được coi là điềm chẳng lành.
-105. Những thử thách mà Milarepa đã trải qua trước khi nhận giáo lý từ Marpa cũng là để tịnh hoá ác nghiệp đã tạo trong quá khứ, tích tụ công đức và là những chuẩn bị có tính chất tâm lý. Những thử thách này cũng có một mối liên hệ với tương lai của dòng truyền thừa của Ngài, mỗi chi tiết đều có một biểu tượng đầy ý nghĩa mà theo lý duyên sinh (rten 'bral), sẽ ảnh hưởng tới tương lai của chính Milarepa và những đệ tử của Ngài.
+105. Những thử thách mà Milarepa đã trải qua trước khi nhận giáo lý từ Marpa cũng là để tịnh hoá ác nghiệp đã tạo trong quá khứ, tích tụ công đức và là những chuẩn bị có tính chất tâm lý. Những thử thách này cũng có một mối liên hệ với tương lai của dòng truyền thừa của Ngài, mỗi chi tiết đều có một biểu tượng đầy ý nghĩa mà theo lý duyên sinh (rten ’bral), sẽ ảnh hưởng tới tương lai của chính Milarepa và những đệ tử của Ngài.
 106. Ý nghĩa căn bản là đi tìm sự che chở để thoát khỏi một mối hiểm nguy, trong trường hợp này là những hiểm nguy của vòng sinh tử luân hồi.
 107. “Tại sao tất cả mọi con đường? Bởi vì quy y là một phần quan trọng trên mỗi một con đường tu theo Kinh điển và Mật điển.” NT
 108. Ở đây niềm tin chỉ đơn giản là một sự đáp ứng tự nhiên. “Trong trường hợp này, ta không nhất thiết phải hiểu lý do vì sao mình tin.” NT
-109. “Khi ta có loại niềm tin này, ta biết lý do tại sao. Ta có niềm tin bởi ta hiểu rằng Tam Bảo, và đặc biệt là vị Thầy tâm linh, là nơi nương tựa không thể nào lầm lẫn được.” NT
+109. “Khi ta có loại niềm tin này, ta biết lý do tại sao. Ta có niềm tin bởi ta hiểu rằng Tam Bảo, và đặc biệt là Vị Thầy tâm linh, là nơi nương tựa không thể nào lầm lẫn được.” NT
 110. Từ “cửa” (sgo) ở đây hoàn toàn ám chỉ cho niềm tin, đây là yếu tố đưa ta đến với năng lực gia trì của Đức Phật, hay của Đức Liên Hoa Sanh, hoặc của vị Thầy của ta. PWR
 111. Đây là quy y ở trình độ tu tập của Đại Viên Mãn.
 112. tshogs zhing: “ruộng (tức là đối tượng) để tích lũy công đức qua những pháp tu như lễ lạy, cúng dường và cầu nguyện.” DICT.
@@ -9941,35 +9981,22 @@ chính là sự chiến thắng của quả vị thành tựu” có nghĩa là 
 LỜI VÀNG CỦA THẦY TÔI
 
 Nhờ những phẩm tánh Giác Ngộ của Phật, Pháp và Tăng mà kết quả của bất kỳ hành động tốt lành nào hướng tới các Ngài cũng đều có năng lực to lớn. Xem thêm ruộng công đức trong Thuật Ngữ.
-
 113. Hoa sen biểu tượng cho sự thanh tịnh của tâm Giác Ngộ. Mặc dù mọc trong bùn, hoa sen vẫn không bị nhiễm mùi bùn.
-
 114. Số chân tay được định rõ qua hình tướng được quán tưởng của những vị Thầy và Bổn Tôn; thông thường các vị ấy được quán tưởng với số lượng nhiều hơn một đầu và hai tay hay chân, và mỗi một chi tiết đều có một ý nghĩa biểu tượng đặc biệt.
-
 115. Những vị Pháp Vương Tử hay Đại Bồ Tát trong giáo đoàn của Đức Phật Thích Ca Mâu Ni gồm có: Manjusri (Văn Thù), Avalokiteshvara (Quán Tự Tại tức Quán Thế Âm), Vajrapani (Kim Cương Thủ tức Đại Thế Chí), Maitreya (Di Lặc), Akasagarbha (Hư Không Tạng), Ksitigarbha (Địa Tạng), Sarvanivaranaviskambhin (Trừ Cái Chướng), và Samantabhadra (Phổ Hiền).
-
 116. Mười ba món trang sức của Báo Thân, xem Phần Hai, Chương 3, Mục III.
-
-117. Tích trượng của tăng sĩ, được gọi là 'khar gsil, nghĩa đen là “trượng ngân vang,” gồm có một tay cầm bằng gỗ và sắt, có hai cái tháp bọc ở trên; bên dưới cái tháp cao nhất có treo bốn bánh xe và mười hai vòng kim loại, âm thanh kêu vang của chúng báo hiệu sự hiện diện của vị tăng sĩ. Bình bát thường bằng kim loại, được gọi là lhung bzed, nghĩa đen là “vật chứa những thứ rơi rớt”.
-
+117. Tích trượng của tăng sĩ, được gọi là ‘khar gsil, nghĩa đen là “trượng ngân vang,” gồm có một tay cầm bằng gỗ và sắt, có hai cái tháp bọc ở trên; bên dưới cái tháp cao nhất có treo bốn bánh xe và mười hai vòng kim loại, âm thanh kêu vang của chúng báo hiệu sự hiện diện của vị tăng sĩ. Bình bát thường bằng kim loại, được gọi là lhung bzed, nghĩa đen là “vật chứa những thứ rơi rớt”.
 118. Những vị Hộ Pháp đôi khi là các Hóa Thân của Chư Phật hay Bồ Tát, và đôi lúc là những tinh linh, các vị Trời hay ma quỷ đã được một bậc Đạo Sư tâm linh vĩ đại nhiếp phục và buộc phải giữ những lời thề. Những vị Hộ Pháp thuộc phân loại thứ nhất (Hoá Thân của Chư Phật hay Bồ Tát) không còn vướng mắc bởi nghiệp, và hoàn toàn hành xử do lòng bi mẫn. Những vị trong phân loại thứ hai (tinh linh hay các vị Trời hay ma quỷ đã được nhiếp phục) là những vị Hộ Pháp nương vào nghiệp duyên mà có.
-
 119. “Vào giây phút đó (giây phút đạt được Giác Ngộ), ta sẽ có mười oai lực và được gia hộ mười thần lực, nhờ đó ta thoát khỏi mọi sợ
 
 CHÚ THÍCH
 
 hãi. Khi ta có khả năng che chở người khác, ta không cần quy y nữa”. NT
-
 120. “Quy y tối thượng duy nhất là quy y nơi trạng thái tối thượng của Phật Quả. Giáo Pháp và Tăng đoàn chỉ là quy y tạm thời. Pháp của sự truyền dạy là một yếu nghĩa mà ta phải chứng ngộ. Một khi ta đã chứng ngộ được yếu nghĩa đó một cách đúng đắn thì ta không còn cần tới quy y nữa, giống như sau khi qua sông ta không còn cần tới đò. Đối với Pháp của sự chứng ngộ thì một khi đã tiến bộ trên con đường tu, ta phải bỏ lại phía sau những chứng ngộ trước đó của mình; nói một cách khác, những chứng ngộ trước đây cũng chỉ là mê ảo và không thường trụ. Đối với Tăng đoàn, các vị Thanh Văn và Phật Độc Giác không có những phẩm tính của các Bồ Tát đã đạt tới những quả vị siêu việt, và những Bồ Tát siêu việt không có những phẩm tính của Chư Phật; các vị Bồ Tát đang còn là chúng sinh bình thường thì vẫn còn sợ hãi các cõi thấp. Do đó, những bậc tuy đã đắc quả như vậy vẫn không phải là nơi nương tựa lâu dài.”NT
-
 121. Ở đây, quy y được diễn tả theo ba giai đoạn khác nhau của công phu hành trì chính yếu. Xin xem Dẫn Nhập.
-
 122. Để thực hành một cách có hệ thống, ta được khuyên là nên phân chia một khoảng thời gian đều đặn, trong đó ta tập trung vào công phu hành trì mà không bị gián đoạn (một thời công phu). Có thể chỉ một thời trong một ngày, hoặc trong một chương trình nhập thất liên tục thì một ngày có bốn thời: sáng sớm, giữa sáng, chiều và tối, chẳng hạn là như thế.
-
 123. Thành tựu thông thường (thun mong) bao gồm những năng lực kỳ diệu v.v... và đối với Phật Giáo và những con đường du già khác thì thành tựu này cũng giống nhau. Thành tựu tối thượng (mchog) là Giác Ngộ viên mãn siêu vượt luân hồi.
-
 124. rus pa can, nghĩa đen là “nhiều xương,” ở đây ám chỉ thành ngữ snying rus, nghĩa đen là “một cái xương trong tim,” có nghĩa là một sự quyết định dũng mãnh và lòng can đảm không bao giờ đầu hàng hay từ bỏ.
-
 125. Một yêu cầu căn bản trước khi cử hành các nghi lễ để trợ giúp người khác là ta nên hành trì nhuần nhuyễn phần chính yếu của nghi quỹ đang được bàn tới; hành trì nghi quỹ bao gồm phần
 
 LỜI VÀNG CỦA THẦY TÔI
@@ -9977,8 +10004,8 @@ LỜI VÀNG CỦA THẦY TÔI
 tụng niệm câu minh chú nhiều ngàn lần để tịnh hóa chính tâm thức của ta.
 126. “Mạn đà la” trong văn cảnh này có nghĩa hội chúng các Bổn Tôn được quán tưởng và thỉnh cầu cho công phu hành trì. Trong truyền thống đạo Phật chân chính thì pháp tu này được coi là một phương pháp để đánh thức tuệ giác của chính ta. Ở đây pháp ấy bị lạm dụng như một nghi thức huyền thuật thô thiển.
 127. Mặc dù có những giáo lý trí tuệ trong truyền thống đạo Bon rất gần với Phật Giáo nhưng ở đây đang nói về đạo Bon nguyên thuỷ của các phù thuỷ ở trong làng.
-128. Sân hận thực sự (zhe sdang rang mtshan pa) là một cảm xúc tiêu cực được đặt nền tảng trên ý niệm đối đãi (nhị nguyên) về “ta” và “người.” Loại sân hận này được phân biệt qua cách biểu lộ một hình thức phẫn nộ của những bậc đã thoát khỏi ý niệm đối đãi, và mỗi hành vi của họ được đặt nền tảng trên lòng bi mẫn đối với tất cả chúng sinh. Hình thức phẫn nộ này là một phương pháp mãnh liệt để giúp cho những người vốn không nhạy cảm với phương pháp an bình.
-129. Ở đây ám chỉ câu chuyện xây Đại Bảo Tháp ở Bodhnath, gần Kathmandu của một người phụ nữ nuôi gia cầm và các con trai của bà. Đây là kết quả của những nguyện ước họ đã thực hiện vào lúc đó; ba người con trai được tái sinh làm Đạo Sư Liên Hoa Sanh, vua Trisong Detsen, và Tu Viện Trưởng Santaraksita. Các Ngài cùng chịu trách nhiệm đặt nền móng vững chắc cho Giáo Pháp ở Tây Tạng. Bảo tháp nguy nga này là một trung tâm đầy hấp lực đối với những người Tây Tạng có tâm quy ngưỡng; họ biết đến nó với cái tên Jarung Khashor. (Muốn xem toàn bộ câu chuyện, xin đọc Truyền Thuyết Về Đại Bảo Tháp, Keith Dowman dịch, nhà Xuất bản Dharma, Berkley, 1973).
+128. Sân hận thực sự (*zhe sdang rang mtshan pa*) là một cảm xúc tiêu cực được đặt nền tảng trên ý niệm đối đãi (nhị nguyên) về “ta” và “người.” Loại sân hận này được phân biệt qua cách biểu lộ một hình thức phẫn nộ của những bậc đã thoát khỏi ý niệm đối đãi, và mỗi hành vi của họ được đặt nền tảng trên lòng bi mẫn đối với tất cả chúng sinh. Hình thức phẫn nộ này là một phương pháp mãnh liệt để giúp cho những người vốn không nhạy cảm với phương pháp an bình.
+129. Ở đây ám chỉ câu chuyện xây Đại Bảo Tháp ở Bodhnath, gần Kathmandu của một người phụ nữ nuôi gia cầm và các con trai của bà. Đây là kết quả của những nguyện ước họ đã thực hiện vào lúc đó; ba người con trai được tái sinh làm Đạo Sư Liên Hoa Sanh, vua Trisong Detsen, và Tu Viện Trưởng Santaraksita. Các Ngài cùng chịu trách nhiệm đặt nền móng vững chắc cho Giáo Pháp ở Tây Tạng. Bảo tháp ngay nga này là một trung tâm đầy hấp lực đối với những người Tây Tạng có tâm quy ngưỡng; họ biết đến nó với cái tên Jarung Khashor. (Muốn xem toàn bộ câu chuyện, xin đọc Truyền Thuyết Về Đại Bảo Tháp, Keith Dowman dịch, nhà Xuất bản Dharma, Berkley, 1973).
 130. Theo những tiên tri của một nhà chiêm tinh Bà la môn thì sau khi hoàng tử Tất Đạt Đa (Siddharta) hạ sinh, đứa trẻ sẽ trở thành một vị Chuyển Luân Thánh Vương hay một vị Phật.
 131. Những Mật điển khác thì có nhắc đến những con sư tử và con công thay vì chó hay bò. Tất cả những loại thịt này thường bị cấm kỵ, không được phép ăn theo lối suy nghĩ của người bà la môn ở thời Ấn Độ thời cổ, vì họ cho rằng loại thịt này quá thiêng liêng hoặc quá bất tịnh. Do đó, những loại thịt này đã được chỉ
 
@@ -9988,7 +10015,7 @@ CHÚ THÍCH
 132. Một vài kinh nghiệm chẳng hạn như linh kiến hay giấc mộng v.v... có thể là những dấu hiệu của sự tiến bộ trong công phu tu tập thực hành (tuy không nhất thiết là như vậy). Những vị Thầy trong dòng truyền thừa của Ngài Patrul Rinpoche nhấn mạnh rằng người ta không nên để cho những kinh nghiệm như thế mê hoặc. Đúng hơn, ta nên đo lường sự tiến bộ bằng cách phát triển lòng quy ngưỡng, phát triển tâm từ bi và giải thoát khỏi những cảm xúc tiêu cực trong tâm ta.
 133. Mười cấp độ tu chứng (Thập Địa) và năm con đường tu của một vị Bồ Tát. Ở đây dường như có nghĩa là sự tiến bộ trên con đường tu nói chung.
 134. Từ thời xa xưa, truyền thống của những tăng sĩ Phật Giáo là dâng cúng phần đầu tiên của những gì họ nhận được trong bữa khất thực hàng ngày cho Tam Bảo, họ ăn phần giữa với tâm không phân biệt, và bố thí phần cuối cho người nghèo khổ.
-135. “Khơi dậy Bồ Đề Tâm” chỉ là một cách dịch khả dĩ có thể chấp nhận được của từ sems bskyed. Từ bskyed có nghĩa là sinh ra, tạo nên, nhưng cũng có nghĩa là tăng trưởng, phát triển. Từ sems là chữ viết tắt của byang chub kyi sems (Phạn ngữ: bodhicitta, Bồ Đề Tâm), “tâm Giác Ngộ,” và từ này có nhiều mức độ ý nghĩa khác nhau. Đối với người sơ cơ, chỉ đơn giản là ý hướng giải thoát tất cả chúng sinh. Tuy nhiên, trong một ý nghĩa sâu xa hơn, Bồ Đề Tâm đồng nghĩa với Phật tánh (Phạn ngữ: Tathagatagarbha, Như Lai Tạng) và với Giác tánh nguyên sơ (rigpa). Ở mức độ hiểu biết này, tâm Bồ Đề không phải là điều gì được tạo mà trước đó không có; tâm ấy được coi như là bản chất nền tảng của tâm ta, là cái gì luôn hiện diện cùng chúng ta và chỉ cần được khám phá và làm hiển lộ ra thôi. Chúng tôi chọn từ “khơi dậy” để cố gắng truyền đạt một chút gì đó của cả hai khía cạnh trên.
+135. “Khơi dậy Bồ Đề Tâm” chỉ là một cách dịch khá dĩ có thể chấp nhận được của sems bskyed. Từ bskyed có nghĩa là sinh ra, tạo nên, nhưng cũng có nghĩa là tăng trưởng, phát triển. Từ sems là chữ viết tắt của byang chub kyi sems (Phạn ngữ: bodhicitta, Bồ Đề Tâm), “tâm Giác Ngộ,” và từ này có nhiều mức độ ý nghĩa khác nhau. Đối với người sơ cơ, chỉ đơn giản là ý hướng giải thoát tất cả chúng sinh. Tuy nhiên, trong một ý nghĩa sâu xa hơn, Bồ Đề Tâm đồng nghĩa với Phật tánh (Phạn ngữ: Tathagatagarbha, Như Lai Tạng) và với Giác tánh nguyên sơ (rigpa). Ở mức độ hiểu biết này, tâm Bồ Đề không phải là điều gì được tạo mà trước đó không có; tâm ấy được coi như là bản chất nền tảng của tâm ta, là cái gì luôn hiện diện cùng chúng ta và chỉ cần được khám phá và làm hiển lộ ra thôi. Chúng tôi chọn từ “khơi dậy” để cố gắng truyền đạt một chút gì đó của cả hai khía cạnh trên.
 136. Điều này được NT định nghĩa là “hứa nguyện sẽ đạt được kết quả”.
 137. NT nói: “Bồ Đề Tâm hạnh (Bodhicitta of application) là ý định hành trì sáu pháp ba la mật, vì các pháp này là nguyên nhân hay phương tiện để đắc quả.”
 
@@ -10007,14 +10034,14 @@ LỜI VÀNG CỦA THẦY TÔI
 CHÚ THÍCH
 
 Vua Mão Ngọc, tướng này đã hiện diện cho dù Ngài chưa là một vị Phật Toàn giác.
-147. Năm pháp toàn thiện (ba la mật) đầu tiên có liên quan tới việc tích lũy “phước đức,” tuy nhiên những pháp toàn thiện đó vẫn thấm nhuần “trí tuệ.” Chính điều này giúp cho bố thí ba la mật và những ba la mật khác trở thành là những pháp “toàn thiện siêu việt” (bát nhã ba la mật.”)
+147. Năm pháp toàn thiện (ba la mật) đầu tiên có liên quan tới việc tích lũy “phước đức,” tuy nhiên những pháp toàn thiện đó vẫn thấm nhuần “trí tuệ.” Chính điều này giúp cho bố thí ba la mật và những ba la mật khác trở thành là những pháp “toàn thiện siêu việt” (“bát nhã ba la mật.”)
 148. Những vị Bồ Tát đạt được quả vị siêu việt đã chứng ngộ tánh Không và có những ý hướng thanh tịnh và bao la, không phải là trường hợp của chúng sinh bình thường.
 149. rang don, lợi ích của riêng ta hay tự lợi (AT: mục đích), ngụ ý ám chỉ sự hoàn toàn chứng ngộ tánh Không, Pháp Thân (dharmakaya), rồi từ đó Báo Thân và Hóa Thân mới hiển lộ nhờ có lòng bi mẫn để thành tựu gzhan don, tức là thành tựu lợi ích của những người khác hay lợi tha.
 150. Xem Thuật Ngữ: hơi ấm.
 151. Cây thuốc biểu tượng cho Bồ Đề Tâm, chữa lành mọi đau khổ của bản thân ta và những người khác.
 152. Pháp môn cúng dường thân xác một cách tượng trưng, được giải thích trong Phần Hai, Chương Năm.
 153. Điều này được giải thích trong Phần Một, Chương 4, mục III.
-154. NT giải thích rằng những gì có thể bị hủy hoại theo cách này chính là kết quả của những hành vi tốt lành, là những thiện nghiệp chỉ tạo ra công đức (bsod nams) -- nghĩa là những gì được thực hiện không nương vào ba phương pháp tối cao.
+154. NT giải thích rằng những gì có thể bị huỷ hoại theo cách này chính là kết quả của những hành vi tốt lành, là những thiện nghiệp chỉ tạo ra công đức (bsod nams) -- nghĩa là những gì được thực hiện không nương vào ba phương pháp tối cao.
 155. “Trì giới trong một ngày thì có giá trị hơn một trăm năm bố thí; vun bồi nhẫn nhục trong một ngày thì có giá trị hơn một trăm năm trì giới.” NT
 156. Có lẽ họ là những đệ tử của một trong những phái Thanh Văn khi tin rằng không thực sự có sự hiện hữu của bản ngã (gang zag gi bdag med), nhưng họ lại không thừa nhận tánh Không toàn diện của chính sự hiện hữu chân thật của các hiện tượng (chos kyi bdag med).
 157. Chính sự rộng mở vô biên của lòng từ và bi đối với tất cả chúng sinh là yếu tố cho phép tâm thức hoàn toàn mở ra trước cái bao la rộng lớn của quan điểm Đại Thừa.
@@ -10032,36 +10059,31 @@ CHÚ THÍCH
 
 164. Điều này có nghĩa là không đè nén các niệm tưởng mà cũng không chạy theo chúng, không cố ý biến đổi trạng thái tâm của ta hoặc cố đạt được một trạng thái thiền định đặc biệt. Theo một nghĩa nào đó thì mọi niệm tưởng mê lầm là những biến đổi của dòng tuôn chảy tự nhiên của Giác tánh.
 165. Đó là không có gì để hổ thẹn khi đứng trước Tam Bảo.
-166. Định là sự vắng bặt của những sao lãng. Nguồn mạch của sao lãng đến từ việc coi rằng các ảo tưởng như thật có. Thiền định về những ảo tưởng như chính là các Bổn Tôn (có nghĩa rằng đây là những hiển lộ của trí tuệ thanh tịnh chứ không có một thể chất nội tại) sẽ giúp ta tập trung tư tưởng, đạt được định.
-167. nges shes, nghĩa đen: “những điều chắc chắn,” được dùng ở đây để chỉ những quan điểm cực đoan (biên kiến) như là chủ nghĩa vĩnh hằng và chủ nghĩa hư vô; hai chủ nghĩa này cho rằng các hiện tượng hoặc có hiện hữu, hoặc không hiện hữu một cách dứt khoát.
-168. “Ở đây srid pa (vòng sinh tử luân hồi) ám chỉ bất kỳ những gì người ta tin là thật có và bị dính mắc vào đó.” DKR
-169. Bởi kiến - là sự nhận biết hay trực nghiệm tánh Không - người nhận biết, cái được nhận biết và tiến trình nhận biết được xem như là không có bất kỳ thực chất nội tại nào. Tất cả chỉ xuất hiện như sự phô diễn huyễn hóa của Giác tánh, rỗng rang và chói sáng tự nhiên.
-170. Sự hợp nhất của ảo tưởng và tánh Không, Giác tánh và tánh Không, hỉ lạc và tánh Không, và tánh sáng (clarity) và tánh Không.
+166. Định là sự vắng mặt của những sao lãng. Nguồn mạch của sao lãng đến từ việc coi rằng các ảo tướng như thật có. Thiền định về những ảo tướng như chính là các Bổn Tôn (có nghĩa rằng đây là những hiển lộ của trí tuệ thanh tịnh chứ không có một thể chất nội tại) sẽ giúp ta tập trung tư tưởng, đạt được định.
+167. *nges shes*, nghĩa đen: “những điều chắc chắn,” được dùng ở đây để chỉ những quan điểm cực đoan (biên kiến) như là chủ nghĩa vĩnh hằng và chủ nghĩa hư vô; hai chủ nghĩa này cho rằng các hiện tượng hoặc có hiện hữu, hoặc không hiện hữu một cách dứt khoát.
+168. “Ở đây *srid pa* (vòng sinh tử luân hồi) ám chỉ bất kỳ những gì người ta tin là thật có và bị dính mắc vào đó.” DKR
+169. Bới kiến - là sự nhận biết trực nghiệm tánh Không - người nhận biết, cái được nhận biết và tiến trình nhận biết được xem như là không có bất kỳ thực chất nội tại nào. Tất cả chỉ xuất hiện như sự phô diễn huyễn hóa của Giác tánh, rỗng rang và chói sáng tự nhiên.
+170. Sự hợp nhất của ảo tướng và tánh Không, Giác tánh và tánh Không, hỉ lạc và tánh Không, và tánh sáng (clarity) và tánh Không.
 171. Điều này có nghĩa là hành động mà không bị đắm nhiễm các vọng niệm; có thể nhận biết ra được rằng người làm hành động, chính hành động đó, và đối tượng mà hành động đó hướng đến, cả ba đều hoàn toàn không có một thực chất nội tại.
 172. Trước khi dấn mình vào pháp tu tập này, ta nên nhận lễ quán đảnh Kim Cang Tát Đỏa (Vajrasattva) từ một bậc nắm giữ dòng truyền thừa có đầy đủ phẩm hạnh. Nói chung, từ quan điểm này, chỉ nên thực hiện các pháp tu tiếp theo trong phần còn lại của bản văn này dưới sự dẫn dắt của một vị Thầy có phẩm hạnh.
 173. Trong các pháp tu của Kim Cương Thừa, ta coi Bổn Tôn được quán tưởng như vị Thầy gốc của ta, Ngài đại diện cho tất cả chư
 
-LỜI VÀNG CỦA THẦY TÔI
+LỜI VÀNG CỦA THẦY TÔ
 
-Phật trong quá khứ, hiện tại và vị lai. Vajrasattva hay Kim Cang Tát Đỏa (Tây Tạng: rdo rje sems dpa’) là một vị Phật đặc biệt, như một vị Bồ Tát, Ngài đã phát thệ nguyện rằng bất kỳ ai trì tụng minh chú của Ngài sẽ tịnh hoá được mọi hành động xấu ác tiêu cực và những che chướng của họ. Danh hiệu của Ngài ám chỉ sự thuần tịnh không thể bị hủy diệt của chân tánh.
-
+Phật trong quá khứ, hiện tại và vị lai. Vajrasattva hay Kim Cang Tát Đỏ (Tây Tạng: rdo rje sems dpa') là một vị Phật đặc biệt, như một vị Bồ Tát, Ngài đã phát thệ nguyện rằng bất kỳ ai trì tụng minh chú của Ngài sẽ tịnh hoá được mọi hành động xấu ác tiêu cực và những che chướng của họ. Danh hiệu của Ngài ám chỉ sự thuần tịnh không thể bị hủy diệt của chân tánh.
 174. Angulimala là người đã được truyền cho một giáo lý sai lầm rằng ông ta sẽ được giải thoát bằng cách giết hại một ngàn người và thâu thập một ngón tay từ mỗi người do ông giết. Ông đã giết hại chín trăm chín mươi chín người, và khi đang trên đường đi giết mẹ mình cho đủ số một ngàn người thì gặp Đức Phật, và ông ta cố tình giết Ngài để thay thế. Do thần lực của Đức Phật mà ông không thể tấn công Ngài. Sau đó Đức Phật đã thuyết giảng cho ông và chuyển tâm ông hướng về Pháp.
-
 175. Nanda là tiêu biểu cho loại người cực kỳ tham muốn đạt được giải thoát; Angulimala là điển hình của những người cực kỳ vô minh; Darsaka (tên khác của Ajatasatru, A Xà Thế) là điển hình của tánh cực kỳ thù nghịch; Sankara là điển hình của những người cực kỳ tham luyến và sân hận. Nanda và Angulimala trở thành những vị A La Hán, Darsaka trở thành một Bồ Tát, và Sankara được tái sinh trong một cõi Trời và kết quả là đạt được Kiến Đạo – con đường của cái thấy.
-
 176. NT mô tả điều này như sự hỗ trợ bên ngoài.
-
 177. NT mô tả quy y, phát khởi Bồ Đề tâm, và đặc biệt là lòng bi mẫn như sự hỗ trợ bên trong.
-
 178. NT nói về sáu điều cần quán chiếu suy niệm trong khi phát tâm ân hận: 1) Thời gian: ân hận về tất cả mọi hành động tiêu cực mà ta đã làm từ vô thuỷ tới nay, trong đời này, trong một tháng đặc biệt, hay trong một ngày, trong chốc lát, và v.v... 2) Động lực: ân hận về tất cả mọi hành vi đã mắc phạm dưới thế lực của tham, sân và si. 3) Sự tích tụ: ân hận về bất kỳ những gì tiêu cực thuộc thân, khẩu, ý ta đã tích tụ. 4) Bản chất của hành động: ân hận về những hành động tự bản thân là tiêu cực (chẳng hạn như mười ác hạnh, năm hành vi có quả báo tức thời,v.v...) và những lỗi lầm đặc biệt, những vi phạm thệ nguyện của ta và v.v... 5) Đối tượng: ân hận về tất cả mọi tà hạnh, dù chúng được hướng đến sinh tử hay Niết Bàn. 6) Nghiệp (karma):
 
 CHÚ THÍCH
 
 ân hận về mọi hành vi ác hại và những sa ngã là những điều khiến ta có một thọ mạng ngắn ngủi, nhiều bệnh tật, nghèo túng, sợ hãi kẻ thù và lang thang không dứt trong các cõi thấp.
 179. Việc in ấn và phát hành tài liệu kinh sách linh thiêng đều được xem như một pháp tu mạnh mẽ để tích lũy công đức và tịnh hoá những chướng ngại, với điều kiện là việc này được thực hiện một cách thanh tịnh như một pháp cúng dường không có chút tư lợi nào.
-180. dag pa dran pa: Thành ngữ Tây Tạng này có nghĩa đen là “nhớ lại sự thuần tịnh.” Có nghĩa là mỗi yếu tố quán tưởng không chỉ đơn thuần là một hình ảnh mà đều mang một ý nghĩa đặc biệt, và khi thực hành thì ta cần giữ hiểu biết về những ý nghĩa này. Trong những đoạn tiếp theo sau đó, sẽ có những đoạn giảng giải về các yếu tố và ý nghĩa của pháp tu này liên quan tới bốn lực tịnh nghiệp như thế nào. Mặc dù ở đây chúng ta chỉ đang nói đến những pháp tu dự bị, nhưng nhiều vấn đề được đề cập tới trong chương này cũng hữu ích trong công phu hành trì chính yếu của các giai đoạn phát triển và thành tựu.
+180. *dag pa dran pa*: Thành ngữ Tây Tạng này có nghĩa đen là “nhớ lại sự thuần tịnh.” Có nghĩa là mỗi yếu tố quán tưởng không chỉ đơn thuần là một hình ảnh mà đều mang một ý nghĩa đặc biệt, và khi thực hành thì ta cần giữ hiểu biết về những ý nghĩa này. Trong những đoạn tiếp theo sau đó, sẽ có những đoạn giảng giải về các yếu tố và ý nghĩa của pháp tu này liên quan tới bốn lực tịnh nghiệp như thế nào. Mặc dù ở đây chúng ta chỉ đang nói đến những pháp tu dự bị, nhưng nhiều vấn đề được đề cập tới trong chương này cũng hữu ích trong công phu hành trì chính yếu của các giai đoạn phát triển và thành tựu.
 181. Trong phần thực hành chính yếu (xem Dẫn Nhập), ta thường tự quán tưởng mình trong sắc tướng của một Bổn Tôn. Ở đây trước tiên ta coi mình như người bình thường và bất tịnh, và nhờ tu tập thực hành mà ta trở nên thanh tịnh. Vì thế, lúc bắt đầu ta nghĩ tưởng thân mình như đang ở trong thân phàm (trong thân tướng bình thường hàng ngày).
-182. ston pa: Danh hiệu phổ thông này của Đức Phật có nghĩa đen là “người khám phá” (Thế Gian Giải) và có nghĩa là vị Thầy giảng giải Pháp lần đầu tiên trong đại kiếp và thế giới này của chúng ta. Đức Kim Cang Tát Đoả là vị Thầy đầu tiên của nhiều truyền thống Kim Cương Thừa cũng giống như Đức Phật Thích Ca Mâu Ni là người sáng tạo ra Quả Thừa.
+182. *ston pa*: Danh hiệu phổ thông này của Đức Phật có nghĩa đen là “người khám phá” (Thế Gian Giải) và có nghĩa là vị Thầy giảng giải Pháp lần đầu tiên trong đại kiếp và thế giới này của chúng ta. Đức Kim Cang Tát Đoả là vị Thầy đầu tiên của nhiều truyền thống Kim Cương Thừa cũng giống như Đức Phật Thích Ca Mâu Ni là người sáng tạo ra Quả Thừa.
 183. Ở đây chày và chuông tượng trưng cho phương tiện thiện xảo và trí tuệ.
 184. Chuỗi hạt ngắn xuống tới ngực, chuỗi dài xuống tới rốn.
 185. Nhân vật nữ tượng trưng cho trí tuệ, và nhân vật nam tượng trưng phương tiện thiện xảo; ở một khía cạnh khác thì nhân vật nữ tượng trưng tánh Không và nhân vật nam tượng trưng sắc tướng, hoặc các nhân vật này lại có thể tượng trưng Pháp giới tối.
@@ -10073,55 +10095,45 @@ thượng và trí tuệ nguyên sơ. Sự giao hợp của các Ngài biểu th
 187. Khi chất cam lồ tràn ngập từng luân xa, ta nhận lãnh một năng lực gia trì tương ứng, như đã được đề cập tới trong mỗi một pháp quán đảnh trong số bốn pháp quán đảnh trong đoạn này.
 188. Nghĩa đen: “trạng thái hợp nhất siêu vượt cái học,” “sự hợp nhất” ám chỉ sự hợp nhất của sắc thân và Pháp Thân. Trong năm con đường tu của Bồ Tát, con đường siêu vượt cái học là con đường thứ năm, và ám chỉ trạng thái Phật Quả tối thượng.
 189. Năm màu sắc này tượng trưng cho năm Phật Bộ, mỗi màu tượng trưng cho một khía cạnh đặc biệt của trí tuệ.
-190. Ở đây, những từ dag và ma dag cũng có thể được hiểu trong phạm vi của việc trì tụng tất cả các âm tự của câu minh chú một cách đúng đắn hay ngược lại. Nhưng theo như giải thích trong đoạn theo sau nên hai từ này được dịch là “thuần tịnh” và “bất tịnh”.
-191. *bskyed rim gsal ‘debs*, trước khi thực sự trì tụng câu minh chú thì phải tụng đọc phần mô tả hình ảnh quán tưởng và mô tả những tiến trình khác nhau của pháp thiền định. Đây là cấu trúc tiêu chuẩn của những nghi quỹ *sadhana* (*sgrub thabs*, nghĩa đen: phương tiện của sự thành tựu) được dùng cho của bất kỳ Bổ Tôn nào. Những nghi quỹ như thế không chỉ được sử dụng trong các buổi lễ cho một nhóm đông vì các mục đích đặc biệt, mà cá nhân có thể sử dụng để hành trì.
+190. Ở đây, những từ dag và ma dag cũng có thể được hiểu trong phạm vi của việc trì tụng tất cả các âm tự của câu mình chú một cách đúng đắn hay ngược lại. Nhưng theo như giải thích trong đoạn theo sau nên hai từ này được dịch là “thuần tịnh” và “bất tịnh”.
+191. bskyed rim gsal ‘debs, trước khi thực sự trì tụng câu minh chú thì phải tụng đọc phần mô tả hình ảnh quán tưởng và mô tả những tiến trình khác nhau của pháp thiền định. Đây là cấu trúc tiêu chuẩn của những nghi quỹ sadhana (sgrub thabs, nghĩa đen: phương tiện của sự thành tựu) được dùng cho của bất kỳ Bổn Tôn nào. Những nghi quỹ như thế không chỉ được sử dụng trong các buổi lễ cho một nhóm đông vì các mục đích đặc biệt, mà cá nhân có thể sử dụng để hành trì.
 192. Việc sử dụng thuốc lá gây ô nhiễm hệ thống kinh mạch và ô nhiễm các năng lực vi tế và vì thế đưa đến một hậu quả tai hại trong tâm thức ở một mức độ sâu xa.
-193. Đây là những từ ngữ của phần cúng dường trong nghi quỹ *sadhana*, và được lập lại sau khi trì tụng minh chú và trước khi kết thúc.
+193. Đây là những từ ngữ của phần cúng dường trong nghi quỹ sadhana, và được lặp lại sau khi trì tụng minh chú và trước khi kết thúc.
 
 CHÚ THÍCH
 
 194. Hình ảnh này cho thấy về mặt nghiệp báo, việc sử dụng những vật cúng dường như thế thì rất nguy hiểm và có thể dẫn tới việc tái sinh trong các địa ngục.
-
 195. Khi ta đã nhận một quán đảnh, năng lực của công phu hành trì cần được duy trì bởi một thời công phu hằng ngày, ngay cả chỉ ngắn gọn. Ở đây các vị Lạt Ma đang hành trì các pháp tu như thế trong buổi lễ hơn là trong thời gian công phu riêng của các Ngài.
-
 196. Ba mạn đà la của thân, khẩu và ý của vị Thầy.
-
 197. “Uống sức sống của bạn” có nghĩa là huỷ diệt sinh lực của bạn. Mật Thừa khiến ta tiếp xúc với chân tánh và những năng lực nền tảng nhất của ta. Nếu chúng ta giữ gìn các mật nguyện thì nhờ đó ta sẽ tiến bộ nhanh chóng. Còn nếu không, ta tạo nên một lực tự huỷ mạnh mẽ. Lực tự huỷ này được gọi là “yêu quái kim cương” và đối ngược lại với các Bổn Tôn trí tuệ.
-
 198. Hoàn toàn mắc phạm một sa ngã tối quan trọng nghĩa là vi phạm có chủ ý một trong những giới nguyện căn bản của Tăng đoàn, trong một tình huống lẽ ra có thể làm khác được.
-
 199. Nghĩa là trong đó một nhân vật duy nhất là hiện thân của tất cả các Bổn Tôn. Điều này được giảng đầy đủ hơn trong chương Bổn Tôn Du Già (Guru Yoga).
-
 200. Hai chi thuần tịnh là trước hết, đạt được sự thuần tịnh của Phật tánh, và sau đó đạt được sự thuần tịnh của việc đắc được Phật tánh và thành tựu Phật Quả. “Theo giáo lý của truyền thống Nyingma, bản tánh thuần tịnh nguyên sơ là Phật Quả và những phẩm tính của ba Thân đã an trú trọn vẹn trong chúng ta, và ta không cần tìm kiếm ở đâu khác. Nhưng nếu ta không vận dụng hai phương pháp (tích lũy phước tuệ) như những yếu tố hỗ trợ thì những phẩm tính này sẽ không hiển lộ được. Cũng giống như mặt trời: mặc dù tự thân những tia sáng của nó chiếu sáng bầu trời, nhưng vẫn cần phải xua tan những đám mây che khuất bầu trời.” NT
-
-201. bsags sbyang rang sar dag kyang, nghĩa đen: “ngay cả khi chính tự hai pháp tích lũy công đức và tịnh hoá cũng đều là thuần tịnh.”
-
+201. *bsags sbyang rang sar dag kyang*, nghĩa đen: “ngay cả khi chính tự hai pháp tích lũy công đức và tịnh hoá cũng đều là thuần tịnh.”
 202. Những hướng dẫn tiếp theo sau đây đôi khi hoàn toàn có tính chất kỹ thuật và có dụng ý để bổ sung cho những giảng dạy khẩu truyền; thông thường, (trong phần khẩu truyền), có kèm theo phần trình bày (vị Thầy sẽ biểu diễn và chỉ cho cách làm).
-
-613
 
 LỜI VÀNG CỦA THẦY TÔI
 
 203. Chúng ta cúng dường trong sự hiện diện của một mạn đà la thành tựu. Đúng hơn, mạn đà la này được sử dụng khi người ta có thể dùng một tượng Phật. Đây là biểu tượng của cõi Phật toàn hảo của năm vị Phật tượng trưng cho năm trí tuệ. Bởi đây là năm trí tuệ ta muốn thành tựu nên mạn đà la này được gọi là mạn đà la thành tựu.
 204. Quy ước trong một mạn đà la là: phía trước là phương đông, phía sau là phương tây, và v.v... Ở đây mạn đà la được xoay đối diện với hành giả, vì thế nên cạnh phía đông thì gần nhất.
-205. Tâm-Yếu của Đại-Quảng-Trí (klong chen snying thig / Longchen Nyingtik) là một trong nhiều giáo lý Tâm-Yếu. Giáo lý tâm-yếu quan trọng nhất trong số đó là Tâm-Yếu của Thiên Nữ Trí Tuệ (Dakini) (mkha’ 'gro snying thig) và Tâm-Yếu của Vimalamitra (bi ma snying thig), được trao truyền cho Yeshe Tsogyal và Vimalamitra một cách tương ứng. Cả hai giáo lý này từng được truyền xuống qua dòng truyền thừa của Longchenpa.
-206. Một “hàng rào sắt” được làm sẵn là một cái vòng, thường bằng kim loại mà người ta dùng để đựng tầng đầu tiên gồm những vật cúng dường mạn đà la. Cái vòng này tượng trưng núi bao quanh thế giới. Tiếp theo, một vòng thứ hai đựng các vật cúng dường gồm tám thiên nữ và vòng thứ ba gồm mặt trời, mặt trăng v.v... Vật trang hoàng cho đỉnh mạn đà la được đề cập tới sau này chỉ đơn giản là một vật trang hoàng có dáng một viên ngọc mà người ta đặt trên đỉnh vào lúc cuối. Những phẩm vật hỗ trợ này là những thứ thêm vào để giúp cho phần cúng dường thêm trang nghiêm mà nếu không có chúng thì việc cúng dường vẫn hoàn toàn đúng đắn.
+205. Tâm-Yếu của Đại-Quảng-Trí (klong chen snying thig / Longchen Nyingtik) là một trong nhiều giáo lý Tâm-Yếu. Giáo lý tâm-yếu quan trọng nhất trong số đó là Tâm-Yếu của Thiên Nữ Trí Tuệ (Dakini) (mkha' 'gro snying thig) và Tâm-Yếu của Vimalamitra (bi ma snying thig), được trao truyền cho Yeshe Tsogyal và Vimalamitra một cách tương ứng. Cả hai giáo lý này từng được truyền xuống qua dòng truyền thừa của Longchenpa.
+206. Một “hàng rào sắt” được làm sẵn là một cái vòng, thường bằng kim loại mà người ta dùng để đựng tầng đầu tiên gồm những vật cúng dường mạn đà la. Cái vòng này tượng trưng vòng núi bao quanh thế giới. Tiếp theo, một vòng thứ hai đựng các vật cúng dường gồm tám thiên nữ và vòng thứ ba gồm mặt trời, mặt trăng v.v... Vật trang hoàng cho đỉnh mạn đà la được đề cập tới sau này chỉ đơn giản là một vật trang hoàng có dáng một viên ngọc mà người ta đặt trên đỉnh vào lúc cuối. Những phẩm vật hỗ trợ này là những thứ thêm vào để giúp cho phần cúng dường thêm trang nghiêm mà nếu không có chúng thì việc cúng dường vẫn hoàn toàn đúng đắn.
 207. Nếu bạn sắp đặt mạn đà la để phương Đông hướng về phía bạn thì khi tụng “Con xin cúng dường mạn đà la này...” bạn có thể xoay tròn mạn đà la đã đầy đủ để cuối cùng nó đối diện với mạn đà la thành tựu.
-208. Bản văn giảng dạy căn bản cho các thực hành sơ bộ này là Luận Giải Về Pháp Tu Dự Bị của Giáo Lý Tâm-Yếu của Đại-Quảng-Trí (Explanation of the Preliminary Practice of the Heart-Essence of the Vast Expanse) do ngài Jigme Lingpa soạn. Mỗi
+208. Bản văn giảng dạy căn bản cho các thực hành sơ bộ này là Luận Giải Về Pháp Tu Dự Bị của Giáo Lý Tâm-Yếu của Đại- Quảng-Trí (Explanation of the Preliminary Practice of the Heart- Essence of the Vast Expanse) do ngài Jigme Lingpa soạn. Mỗi
 
 CHÚ THÍCH
 
 yếu tố của mạn đà la có vài trình độ ý nghĩa khác nhau, tương ứng với các trình độ thực hành khác nhau.
 209. Mặc dù phẩm vật cúng dường này còn bình thường hơn các mạn đà la tiếp theo, tuy nhiên đây là việc cúng dường một vũ trụ lý tưởng, như là những gì đã được các bậc tiến hoá rất cao đón nhận được trong các linh kiến thuần tịnh. Vũ trụ này không giống như vũ trụ hằng ngày tràn đầy đau khổ mà người phàm phu nhìn thấy qua tri kiến mê lầm.
 210. mi mjed 'jig rten. Theo lời giảng dạy của DKR, có hàm ý của một cách đánh vần khác (mi 'byed, không bị chia chẻ) thì trong thế giới này, những cảm xúc có một sức mạnh kinh hồn nên chúng sinh không thể nào xa lìa được những xúc cảm đó.
-211. bkod pa chen po lnga, nghĩa đen là năm sự sắp xếp vĩ đại. Đây là các cõi Phật của chư Phật trong năm Phật Bộ.
+211. bkod pa chen po Inga, nghĩa đen là năm sự sắp xếp vĩ đại. Đây là các cõi Phật của chư Phật trong năm Phật Bộ.
 212. Giống như Ngài Milarepa ở những chốn hẻo lánh trong núi non nơi không có ai tiếp tế thực phẩm, và sống bằng cách ăn rau tầm ma.
 213. Trong cách cúng dường mạn đà la đơn giản này, ta chỉ dùng bảy nhúm (tụ) hạt để tượng trưng cho Núi Tu Di, bốn trung châu, mặt trời và mặt trăng.
 214. zhal zas: một thuật ngữ tôn kính để gọi thực phẩm. Trong trường hợp này, việc cúng dường thực phẩm được tượng trưng bởi một loại bánh cúng torma mang tên này.
 215. Các ý niệm về chủ thể, đối tượng và hành động.
 216. Việc tinh chiết các tinh chất (bcud len) là một phương pháp khiến ta có thể chỉ cần tiêu thụ một vài chất thể và nguyên tố với một số lượng nhỏ xíu mà không phải dùng thực phẩm thông thường. Đây là căn bản cho các pháp tu vi tế để tịnh hoá thân thể và tinh lọc tâm thức.
 217. Đi lên hay đi xuống có thể được áp dụng cho những đặc tính của các đại kiếp khác nhau, hoặc ám chỉ một khung thời gian nhỏ bé hơn: ví dụ như thời đại hiện nay của chúng ta là một kỷ nguyên suy thoái so với thời của Đức Phật Thích Ca Mâu Ni.
-218. Thuật ngữ được dùng ở đây cho thân thể là phung po, cũng ám chỉ các “uẩn”, có nghĩa là những thành phần tâm sinh lý tạo nên một cách tương thuộc cái mà ta cho là bản thân mình.
+218. Thuật ngữ được dùng ở đây cho thân thể là phung po, cũng ám chỉ các “ủn”, có nghĩa là những thành phần tâm sinh lý tạo nên một cách tương thuộc cái mà ta cho là bản thân mình.
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -10129,13 +10141,13 @@ LỜI VÀNG CỦA THẦY TÔI
 
 220. ma cig khro ma nag mo, Phạn: Krodhakali.
 
-221. Âm p’et (thường được phát âm là “pay” hay “pet”, mặc dù có nhiều biến cách) được hô lên một cách cộc lốc, cốt để cắt đứt tiến trình tạo tác của vọng niệm.
+221. Âm p'et (thường được phát âm là “pay” hay “pet”, mặc dù có nhiều biến cách) được hô lên một cách cộc lốc, cốt để cắt đứt tiến trình tạo tác của vọng niệm.
 
-222. a thung được Patrul Rinpoche sử dụng ở đây so với a shad quen dùng hơn, nghĩa là “vạch của a,” là một đường vạch đơn giản, đậm ở một đầu và nhọn, (।) tạo thành một phần của mẫu tự A của Tây Tạng (ཨ). Trong pháp thực hành này, đường vạch này nằm lộn ngược xuống, khiến nó có hình dáng của một ngọn lửa. Trong nhiều pháp môn, chữ hang (ཧཾ) cũng nằm lộn ngược, mặc dù điều đó không được đề cập tới trong bản văn này của chúng ta.
+222. a thung được Patrul Rinpoche sử dụng ở đây so với a shad quen dùng hơn, nghĩa là “vạch của a,” là một đường vạch đơn giản, đậm ở một đầu và nhọn, (¶) tạo thành một phần của mẫu tự a của Tây Tạng ($\mathbf{a}$). Trong pháp thực hành này, đường vạch này nằm lộn ngược xuống, khiến nó có hình dáng của một ngọn lửa. Trong nhiều pháp môn, chữ hang ($\mathbf{\tilde{a}}$) cũng nằm lộn ngược, mặc dù điều đó không được đề cập tới trong bản văn này của chúng ta.
 
 223. Chất cam lồ: Phạn: amrita, nghĩa đen: “kẻ bất tử,” được dịch sang tiếng Tây Tạng là bdud rtsi, chất cam lồ (rtsi) chiến thắng được ma quỷ (bdud) của cái chết. Đây là một biểu tượng của trí tuệ. Tinh khiết (zag med) có nghĩa là “không bị ô uế bởi những cảm xúc phiền não.”
 
-224. dpal mgon bdun cu rtsa lnga, một vài vị Hộ Pháp trong số những Hộ Pháp danh tiếng nhất của Tây Tạng. Các Ngài được coi là các Hoá Thân của Mahakala.
+224. dpal mgon bdun cu rtsa Inga, một vài vị Hộ Pháp trong số những Hộ Pháp danh tiếng nhất của Tây Tạng. Các Ngài được coi là các Hoá Thân của Mahakala.
 
 225. Trong pháp môn này, lưỡi của chư Phật và Bồ Tát có hình dạng tượng trưng của phân nửa của chày kim cang, và tượng trưng cho thân trí tuệ bất hoại, chiếc lưỡi kéo dài thành một ống ánh sáng, tượng trưng khả năng đón nhận các phẩm vật cúng dường của các Ngài.
 
@@ -10163,13 +10175,13 @@ mà người ta cảm thấy khi thành tựu “hơi ấm” hoặc thành tự
 
 232. Thường diễn đạt Giáo Pháp một cách tượng trưng với một bài kệ bốn giòng.
 
-233. Ta thường dùng thuật ngữ Phạn bởi vì dễ sử dụng hơn Tạng ngữ (bla ma'i rnal 'byor) hay Anh ngữ. Cũng như chỉ đơn giản muốn nói “tu tập dựa trên vị Thầy,” thì thuật ngữ có nghĩa là “hợp nhất với chân tánh của tâm Thầy.”
+233. Ta thường dùng thuật ngữ Phạn bởi vì dễ sử dụng hơn Tạng ngữ (*bla ma'i rnal 'byor*) hay Anh ngữ. Cũng như chỉ đơn giản muốn nói “tu tập dựa trên vị Thầy,” thì thuật ngữ có nghĩa là “hợp nhất với chân tánh của tâm Thầy.”
 
 234. Trong triết học Phật Giáo, tánh Không được thiết lập trên căn bản của lý lẽ luận lý. Đây không phải là một sự đeo đuổi thuần tuý trí thức nhưng là một thực tập tâm linh, dùng ý niệm để bẻ gãy ý niệm.
 
-235. dpe'i ye shes. Chẳng hạn như trong Anuyoga (A-Nậu Du Già), qua việc thực tập dựa vào các kinh mạch và năng lực (vi tế), ta kinh nghiệm đại lạc tánh Không, điều đó cho ta một biểu thị về hương vị của trí huệ nguyên sơ chân thật luôn luôn an trú trong ta nhưng ta không thể nhận ra. Đúng hơn, đây giống như là một bức tranh vẽ con voi khiến ta có thể nhận ra con voi thực sự. Trong Đại Viên Mãn, bản tánh của tâm, là trí huệ nguyên sơ chân thật, được trực chỉ (truyền đạt trực tiếp).
+235. *dpe'i ye shes*. Chẳng hạn như trong Anuyoga (A-Nậu Du Già), qua việc thực tập dựa vào các kinh mạch và năng lực (vi tế), ta kinh nghiệm đại lạc tánh Không, điều đó cho ta một biểu thị về hương vị của trí huệ nguyên sơ chân thật luôn luôn an trú trong ta nhưng ta không thể nhận ra. Đúng hơn, đây giống như là một bức tranh vẽ con voi khiến ta có thể nhận ra con voi thực sự. Trong Đại Viên Mãn, bản tánh của tâm, là trí huệ nguyên sơ chân thật, được trực chỉ (truyền đạt trực tiếp).
 
-236. “Người ta nên coi Ngài như một vị Phật bằng cách nào? Theo Tiểu Thừa thì thậm chí không nhất thiết phải coi vị Thầy của mình là một người đặc biệt hay một vị Phật Độc Giác. Chỉ cần coi Thầy như một người bình thường có một số những phẩm hạnh nào đó là đủ. Đối với con đường Bồ Tát thì phải coi Ngài như một vị tu chứng đã đạt một trong những quả vị siêu việt, như Hoá Thân của một vị Phật hay ít nhất là một vị Bồ Tát đang ở trên con đường của công phu tích lũy (tshogs lam chen po).
+236. “Người ta nên coi Ngài như một vị Phật bằng cách nào? Theo Tiểu Thừa thì thậm chí không nhất thiết phải coi vị Thầy của mình là một người đặc biệt hay một vị Phật Độc Giác. Chỉ cần coi Thầy như một người bình thường có một số những phẩm hạnh nào đó là đủ. Đối với con đường Bồ Tát thì phải coi Ngài như một vị tu chứng đã đạt một trong những quả vị siêu việt, như Hoá Thân của một vị Phật hay ít nhất là một vị Bồ Tát đang ở trên con đường của công phu tích lũy (*tshogs lam chen po*).
 
 CHÚ THÍCH
 
@@ -10179,17 +10191,17 @@ Trong truyền thống của Đại Viên Mãn, sẽ không thích hợp nếu t
 
 238. sgyu ma ngal gso, tác phẩm thứ ba trong Luận Giải Ba Phương Thức An Trú (ngal gso skor gsum) của Longchenpa. Chính Ngài Longchenpa giảng rằng tựa đề của trước tác này không chỉ được hiểu ở ý nghĩa đây là “tìm sự an trú từ ảo hoá,” mà cũng được hiểu là “tìm sự an trú trong ảo hoá,” – sự ảo hoá trong trường hợp sau được hiểu như đang ám chỉ một cách nhìn cho rằng mọi sự tựa hồ như được phô diễn một cách kỳ diệu, không có bất kỳ thực chất cố hữu nào.
 
-239. Hoàn toàn quy phục chân tánh của trí tuệ do Thầy biểu hiện sẽ cho phép ta đón nhận được một sự truyền đạt trực tiếp của trí tuệ đó. Không có tiến trình quy phục này thì không thể buông bỏ sự chấp ngã được. Nguyên tắc này áp dụng cho tất cả các giai đoạn của con đường tu, nhưng nó trở nên mãnh liệt và dứt khoát hơn trong pháp Bổn Tôn Du Già. Hiệu quả của bất kỳ con đường tu nào cũng tuỳ thuộc vào phạm vi rộng lớn của sự quy phục theo cách được tiếp cận trong pháp Bổn Tôn Du Già này.
+239. Hoàn toàn quy phục chân tánh của trí tuệ do Thầy biểu hiện sẽ cho phép ta đón nhận được một sự truyền đạt trực tiếp của trí tuệ đó. Không có tiến trình quy phục này thì không thể buông bỏ sự chấp ngã được nữa. Nguyên tắc này áp dụng cho tất cả các giai đoạn của con đường tu, nhưng nó trở nên mãnh liệt và dứt khoát hơn trong pháp Bổn Tôn Du Già. Hiệu quả của bất kỳ con đường tu nào cũng tuỳ thuộc vào phạm vi rộng lớn của sự quy phục theo cách được tiếp cận trong pháp Bổn Tôn Du Già này.
 
 LỜI VÀNG CỦA THẦY TÔI
 
-240. Sự hoà hợp của sắc tướng và tâm thức (snang sems 'dres pa) ám chỉ việc ta chứng ngộ được rằng tất cả mọi sắc tướng được sinh ra là do bởi sự tạo tác của tâm thức, và chân tánh của tâm là tánh Không; điều này đưa dẫn ta tới kinh nghiệm rằng mọi sự trong một cách thế nào đó, hoàn toàn siêu vượt bất kỳ một hiện tượng nhị nguyên chủ thể đối tượng nào, và có đặc điểm là ‘trần trụi’ và ‘sâu sắc’ (zang thal) không bị ngăn che. PWR
+240. Sự hoà hợp của sắc tướng và tâm thức (*snang sems 'dres pa*) ám chỉ việc ta chứng ngộ được rằng tất cả mọi sắc tướng được sinh ra là do bởi sự tạo tác của tâm thức, và chân tánh của tâm là tánh Không; điều này đưa dẫn ta tới kinh nghiệm rằng mọi sự trong một cách thế nào đó, hoàn toàn siêu vượt bất kỳ một hiện tượng nhị nguyên chủ thể đối tượng nào, và có đặc điểm là ‘trần trụi’ và ‘sâu sắc’ (*zang thal*) không bị ngăn che. PWR
 
-241. Đây là một hình thức của hiện tượng được gọi là thân cầu vồng (‘ja’ lus).
+241. Đây là một hình thức của hiện tượng được gọi là thân cầu vồng (*ja’ lus*).
 
-242. Pháp quán tưởng chính mình là một Bổn Tôn khiến ta vượt lên những giới hạn của các ý niệm quy ước tầm thường không chỉ về vị Thầy mà còn về bản thân ta. NT nói: “ Nếu quán tưởng chính mình trong sắc tướng tầm thường của ta, ý niệm này sẽ cản trở những năng lực gia trì đến với ta.” Cũng thế, ta quán tưởng chính mình trong một thân tướng nữ trong sự nối kết với thân tướng nam của Đức Liên Hoa Sanh (Guru Rinpoche), như thế kết hợp các khía cạnh trí tuệ và phương tiện; và đặc biệt là bằng cách nghĩ tưởng mình có bản tánh của Yeshe Tsogyal, đệ tử tâm truyền nhất của Guru Rinpoche, ta tạo được một rten’brel (liên kết tương thuộc hay nối kết tốt lành) với mối liên hệ phi thường giữa Thầy và trò của các Ngài.
+242. Pháp quán tưởng chính mình là một Bổn Tôn khiến ta vượt lên những giới hạn của các ý niệm quy ước tầm thường không chỉ về vị Thầy mà còn về bản thân ta. NT nói: “ Nếu quán tưởng chính mình trong sắc tướng tầm thường của ta, ý niệm này sẽ cản trở những năng lực gia trì đến với ta.” Cũng thế, ta quán tưởng chính mình trong một thân tướng nữ trong sự nối kết với thân tướng nam của Đức Liên Hoa Sanh (Guru Rinpoché), như thế kết hợp các khía cạnh trí tuệ và phương tiện; và đặc biệt là bằng cách nghĩ tưởng mình có bản tánh của Yeshe Tsogyal, đệ tử tâm truyền nhất của Guru Rinpoché, ta tạo được một *rten’brel* (liên kết tương thuộc hay nối kết tốt lành) với mối liên hệ phi thường giữa Thầy và trò của các Ngài.
 
-243. brtul zhugs kyi spyod pa: lối sống trái với thông lệ được những hành giả cao cấp nhất tuân theo như một phương tiện để minh chứng một cách xác quyết cái thấy (kiến) của các Ngài. “Khi đã vượt lên các hoạt động tầm thường, dấn thân vào những hoạt động phi thường.” DICT
+243. *brtul zhugs kyi spyod pa*: lối sống trái với thông lệ được những hành giả cao cấp nhất tuân theo như một phương tiện để minh chứng một cách xác quyết cái thấy (kiến) của các Ngài. “Khi đã vượt lên các hoạt động tầm thường, dấn thân vào những hoạt động phi thường.” DICT
 
 244. Hươu nai là một biểu tượng của sự thanh bình. Đức Quán Thế Âm (Avalokitesvara) thường được miêu tả khoác miếng da hươu trên vai Ngài. Chiếc mũ này được tô điểm quanh viền bằng da một con hươu nhỏ.
 
@@ -10199,7 +10211,7 @@ CHÚ THÍCH
 
 246. Một thán từ chỉ sự ngạc nhiên. “Kỳ diệu xiết bao! Sự thuần tịnh và bao la vô tận của các hiện tượng (các pháp hữu vi).” NT
 
-247. Bài Nguyện Bảy Giồng (Thất chi nguyện) như sau:
+247. Bài Nguyên Bảy Giòng (Thất chi nguyện) như sau:
 
 Hum! Đản sanh ở tây bắc xứ Oddiyana
 
@@ -10230,11 +10242,8 @@ Loại lễ lạy cao nhất là ‘gặp được cái thấy.’ Lễ lạy v�
 Loại lễ lạy bậc trung được gọi là ‘tu tập trong thiền định.’ Trong cách tu tập này chúng ta quán tưởng đang hiện ra thành vô số thân người, mỗi thân đang hát tụng vô số bài ca tán thán. Ta có thể nghĩ tưởng rằng đây là một pháp tu của giai đoạn phát triển, nhưng không phải vậy, bởi vô số thân đã phát khởi là những thân tướng bình phàm, bất tịnh (và không phải là những Bổn Tôn).
 Loại lễ lạy bình thường là ‘lễ lạy của lòng quy kính:’ lễ lạy bằng thân ta, tụng những bài cầu nguyện với ngữ của ta và kinh nghiệm lòng quy ngưỡng bằng tâm ta. Bởi lòng quy ngưỡng là một điều kiện tối quan trọng nên ta cần trì giữ phẩm hạnh của các đối tượng quy y bao la vô hạn trong tâm khi ta lễ lạy.” NT
 Một cách lý tưởng, ta nên cố gắng kết hợp cái thấy của loại lễ lạy đầu tiên và pháp quán tưởng của loại thứ hai khi ta thực hành loại lễ lạy thứ ba.
-
 251. Nói chung, “năm trăm ngàn pháp tu dự bị” muốn nói tới sự thuần thục của việc tụng bài nguyện quy y, bài nguyện Bồ Đề tâm, bài bách tự minh chú (minh chú trăm âm), cúng dường mạn đà la, và bài cầu nguyện của pháp Bổn Sư Du Già một trăm ngàn lần. Tuy nhiên, có những cách khác trong việc tính đếm năm pháp hành trì (bao gồm việc lễ lạy, ví dụ thế), và các bài trì tụng bổ sung thường được thêm vào cho năm pháp hành trì căn bản này.
-
 252. Trong công phu hành trì, người ta thường tích lũy số lượng lễ lạy theo cách nằm dài toàn thân (toàn thân áp xuống đất).
-
 253. Loại túi thường được dùng để vận chuyển bơ đã nhiễm đầy chất mỡ, vì thế một khi nó trở nên khô cứng thì việc thêm mỡ vào sẽ không ích lợi gì. Cũng thế, loại hành giả này nắm bắt giáo lý một cách thông tuệ, và trở nên lừ đừ, vô cảm, có cảm tưởng trước đó đã từng nghe tất cả các giáo lý nên việc nhận
 
 CHÚ THÍCH
@@ -10251,7 +10260,7 @@ thêm giáo lý cũng sẽ không ảnh hưởng gì tới họ, mà chỉ khi�
 
 258. “Những việc đưa tới giải thoát” ám chỉ các thiện hạnh được làm trong khi áp dụng ba phương pháp siêu việt. Những hành động tích cực tốt lành khác chỉ dẫn tới các tái sinh tốt đẹp hơn.
 
-259. Vài chi tiết được đưa ra trong NT: “Mọi suối nguồn công đức phát sinh từ chân lý tuyệt đối không bị ô nhiễm bởi các cảm xúc tiêu cực (zag med); mọi suối nguồn công đức phát sinh từ chân lý tương đối đều bị ô nhiễm (zag bcas). Mọi suối nguồn công đức được thành tựu trên các con đường tích lũy hai công đức và nối kết thì đều bị ô nhiễm; mọi suối nguồn công đức thành tựu trên các con đường của cái thấy (kiến đạo) và thiền định thì không bị ô nhiễm. Mọi công phu tích lũy phước đức đều bị ô nhiễm; mọi công phu tích lũy trí tuệ thì không bị ô nhiễm.”
+259. Vài chi tiết được đưa ra trong NT: “Mọi suối nguồn công đức phát sinh từ chân lý tuyệt đối không bị ô nhiễm bởi các cảm xúc tiêu cực (*zag med*); mọi suối nguồn công đức phát sinh từ chân lý tương đối đều bị ô nhiễm (*zag bcas*). Mọi suối nguồn công đức được thành tựu trên các con đường tích lũy hai bồ công đức và nối kết thì đều bị ô nhiễm; mọi suối nguồn công đức thành tựu trên các con đường của cái thấy (kiến đạo) và thiền định thì không bị ô nhiễm. Mọi công phu tích lũy phước đức đều bị ô nhiễm; mọi công phu tích lũy trí tuệ thì không bị ô nhiễm.”
 
 260. “Cách đối trị vô minh.” NT
 
@@ -10259,33 +10268,26 @@ thêm giáo lý cũng sẽ không ảnh hưởng gì tới họ, mà chỉ khi�
 
 262. “Nhập Niết Bàn” trong mạch văn này ám chỉ rằng chư Phật hay Bồ Tát đang chấm dứt những hoạt động của các Ngài trong thế giới chúng ta, và vì thế chúng ta khẩn cầu các Ngài ở lại (trụ thế) và tiếp tục những công hạnh này vì lợi lạc của chúng sinh, như
 
-623
-
 LỜI VÀNG CỦA THẦY TÔI
 
 cư sĩ Cunda đã làm trong trường hợp của Đức Phật Thích Ca Mâu Ni.
-
 263. “Cách đối trị sự bất quyết.” NT. Nếu không hồi hướng những hành động tích cực ta đã làm, ta không biết được chúng sẽ có kết quả ra sao.
-
 264. Ví dụ như nếu ta thực hiện một hành động bác ái mà không đưa tác ý của ta vào với hồi hướng và nguyện lực, thì hành động đó được mô tả là “không có ý hướng” (lung ma bstan). Không rõ điều lợi lạc nào sẽ đến từ loại hành động này. Tuy nhiên ví dụ nếu ta phát sinh một ước nguyện, chẳng hạn như nguyện không bao giờ phải thiếu thốn những nhu yếu của đời sống trong khi thực hành Phật Pháp, thì hành động ấy có được một ý hướng chính xác và sẽ dẫn tới mục tiêu ao ước.
-
 265. Ta có thể hồi hướng kết quả của một hành động tốt lành cho một người đặc biệt. Tuy nhiên, để hành vi đó thực sự có hiệu quả, ta nên hồi hướng quả lành cho tất cả chúng sinh kể cả người đó.
-
-266. Từ Tây Tạng gsol ba 'debs pa ở đây, như trong hầu hết các trường hợp trong bản văn này, được dịch là “lời cầu nguyện” hay “khẩn nguyện.” Tuy nhiên, cũng nên được hiểu trong ý nghĩa sâu xa và rộng rãi nhất của từ Anh ngữ, và có lẽ với những ý nghĩa hơi khác nhau. Từ đó có nghĩa đen là đưa ra ('debs) một sự thỉnh cầu (gsol), nhưng gsol cũng bao hàm sự hoàn toàn tin tưởng và phó thác nơi một điều gì đó không thể sai lầm, và 'debs là một việc làm mạnh mẽ, quả quyết (PWR). Như vậy điều ấy còn ám chỉ thêm một tâm thái được cảm nhận - một tâm thái hoàn toàn xác quyết, cởi mở và tin cậy – chứ không ám chỉ riêng hình thức của sự thỉnh cầu; ta có thể hiểu ý nghĩa của lời cầu nguyện trong đoạn này bao hàm việc thọ nhận bốn quán đảnh.
-
-267. “Điều phải được thành tựu là quả vị của bốn Kim Cương (vajra). Các kinh mạch được tịnh hoá là thân Kim Cương, hay Hoá Thân; các năng lực được tịnh hoá là ngữ Kim Cương hay Báo Thân; tâm được tịnh hoá là tâm Kim Cương hay Pháp Thân; chân tánh
+266. Từ Tây Tạng gsol ba 'debs pa ở đây, như trong hầu hết các trường hợp trong bản văn này, được dịch là “lời cầu nguyện” hay “khẩn nguyện.” Tuy nhiên, cũng nên được hiểu trong ý nghĩa sâu xa và rộng rãi nhất của từ Anh ngữ, và có lẽ với những ý nghĩa hơi khác nhau. Từ đó có nghĩa đen là đưa ra (‘debs) một sự thịnh cầu (gsol), nhưng gsol cũng bao hàm sự hoàn toàn tin tưởng và phó thác nơi một điều gì đó không thể sai lầm, và ‘debs là một việc làm mạnh mẽ, quả quyết (PWR). Như vậy điều ấy còn ám chỉ thêm một tâm thái được cảm nhận - một tâm thái hoàn toàn xác quyết, cởi mở và tin cậy – chứ không ám chỉ riêng hình thức của sự thỉnh cầu; ta có thể hiểu ý nghĩa của lời cầu nguyện trong đoạn này bao hàm việc thọ nhận bốn quán đảnh.
+267. “Điều phải được thành tựu là quả vị của bốn Kim Cương (vajra). Các kinh mạch được tịnh hoá là thân Kim Cương, hay Hoá Thân; các năng lực được tịnh hoá là ngữ Kim cương hay Báo Thân; tâm được tịnh hoá là tâm Kim Cương hay Pháp Thân; chân tánh
 
 CHÚ THÍCH
 
-được tịnh hoá (của ba thân trên) là sự bất khả phân kim Cương hay Thân Tự Tánh.” NT
+được tịnh hoá (của ba thân trên) là sự bất khả phân kim Cương hay Thân Tự Tánh." NT
 
 268. Thuật ngữ heruka thường được dùng cho các Bổn Tôn phẫn nộ, nhưng thực ra muốn nói tới bất kỳ sắc tướng nào tượng trưng cho bản tánh tối hậu của ta. “He tượng trưng cho Pháp Giới (có nghĩa là tánh Không), ka tượng trưng cho trí tuệ, và ru tượng trưng cho sự hợp nhất của hai cái trên” NT. Ý nghĩa của đoạn này trong bản văn là ý nghĩa trong bất kỳ pháp tu Kim Cương Thừa nào mà ta có thể hành trì, bản tánh của Bổn Tôn chính yếu bao giờ cũng là Thầy của riêng ta, do đó Ngài luôn luôn là trọng tâm tối yếu của lòng quy ngưỡng và là suối nguồn của các năng lực gia trì.
 
 269. Sau sự hợp nhất của tinh tuý của mẹ và của cha lúc thụ thai, luân xa hoạt hiện được hình thành (luân xa này, hay cakra, có vị trí ở rốn khi thân thể được cấu tạo). Từ đó xuất hiện ba kinh mạch chính mà sau đó chia nhỏ thành hàng ngàn kinh mạch khác. Xem “kinh mạch” và “luân xa” trong Thuật Ngữ.
 
-270. shes bya bum ‘jug, một trong những giáo huấn về pháp du già (yoga) giấc ngủ được tìm thấy trong giáo lý Đại Viên Mãn.
+270. shes bya bum jug, một trong những giáo huấn về pháp du già (yoga) giấc ngủ được tìm thấy trong giáo lý Đại Viên Mãn.
 
-271. Ở mức độ này, dùng các tri kiến như con đường có nghĩa là kinh nghiệm những cái thấy đó mà không có bất kỳ ý niệm tạo tác nào về một thực tại nội tại của tri kiến hay của người đang có tri kiến. Sáu thức và những đối tượng của thức trở nên không thể nghĩ lường được, giống như không gian (Pháp Giới). Những thức này không tạo ra tham luyến nữa và do đó không còn là một nguồn mạch của đau khổ.
+271. Ở mức độ này, dùng các tri kiến như con đường có nghĩa là kinh nghiệm những cái thấy đó mà không có bất kỳ kỷ niệm tạo tác nào về một thực tại nội tại của tri kiến hay của người đang có tri kiến. Sáu thức và những đối tượng của thức trở nên không thể nghĩ lường được, giống như không gian (Pháp Giới). Những thức này không tạo ra tham luyến nữa và do đó không còn là một nguồn mạch của đau khổ.
 
 272. Pháp quán đảnh đưa ta tới giải thoát bằng cách giúp cho dòng tâm thức ta được thuần thục.
 
@@ -10313,7 +10315,7 @@ CHÚ THÍCH
 
 278. Núi Malaya, hay Malayagiri (ri ma la ya), ở Sri Lanka và thường được coi ngang hàng với ngọn núi thiêng Sumanakuta, hiện nay được gọi là Đỉnh Adam, cũng là một nơi có dấu chân của Đức Phật và đã được đức Liên Hoa Sanh (Guru Rinpoche) viếng thăm. Trong vài bài tường thuật, Núi Malaya được mô tả là “chói lọi với những tảng thiên thạch” (gnam lcag 'bar ba).
 
-279. Năm Đấng Tuyệt Hảo Cao Quý Siêu Phàm (dam pa'i rigs can dra ma lnga) là một vị Trời (grags ldan mchog skyong, Phạn: Yasasvi Varapala), một naga (long, rồng) (klu rgyal 'jog po, long vương Taksaka), một dạ xoa (skar mda' gdong, Ulkamukha), một la sát (blo gros thabs ldan, Matyaupayika) và một con người (dri med grags pa, Ngài Vimalakirti); hoặc theo một vài nguồn tài liệu, vua Trời Đế Thích (Indra) (rig 'dzin lha dbang rgyal sbyin) được đưa vào danh sách thay cho Vimalakirti.
+279. Năm Đấng Tuyệt Hảo Cao Quý Siêu Phàm (dam pa'i rigs can dra ma Inga) là một vị Trời (grags ldan mchog skyong, Phạn: Yasasvi Varapala), một naga (long, rồng) (klu rgyal 'jog po, long vương Taksaka), một dạ xoa (skar mda' gdong, Ulkamukha), một la sát (blo gros thabs ldan, Matyaupayika) và một con người (dri med grags pa, Ngài Vimalakirti); hoặc theo một vài nguồn tài liệu, vua Trời Đế Thích (Indra) (rig 'dzin lha dbang rgyal sbyin) được đưa vào danh sách thay cho Vimalakirti.
 
 280. mdo dgongs 'dus, cũng được biết là 'dus pa mdo. Mặc dù được gọi là một Kinh văn (sutra), thực ra bản văn này là một trong bốn Mật điển gốc của Anuyoga. Kinh văn này được La Sát Matyaupayika ghi lại trong chất khoáng beryl nấu chảy.
 
@@ -10343,13 +10345,13 @@ CHÚ THÍCH
 
 291. mdo sde za ma tog bkod pa (Phạn: Aryakarandavyuha sutra), một bản thảo về Đức Quán Thế Âm (Avalokitesvara được tìm thấy trong Mani Kahbum của vua Songtsen Gampo).
 
-292. dpang skong phyag brgya pa’i mdo (Phạn: Saksipuranasudrakanama sutra).
+292. dpang skong phyag brgya pa'i mdo (Phạn: Saksipuranasudrakanama sutra).
 
 293. Niên đại cuộc đời Ngài Songtsen Gampo thường được cho là vào khoảng 609-698, nhưng theo Gendun Chophel thì là 617-650 (xem Biên Niên Bạch Sử trang 13). HIST cũng cho là Ngài sinh năm 617, trong khi các tác giả khác thì cho là năm 629.
 
-294. gtsug lag khang hay điện thờ trung tâm ở Lhasa, Rasa Trulnang, ngày nay được gọi là Jokhang, có thể chỉ được xây dựng trên những vị trí quan trọng được tiên đoán quanh Tây Tạng và những vùng biên giới sau khi bốn điện thờ Thadul (mtha’ dul) hay Thuần Hóa Biên Địa và bốn điện thờ Yangdul (yang’dul) hay Thuần Hóa Ngoại Biên, cùng những điện thờ khác đã được xây cất. Để biết chi tiết câu chuyện và các vị trí, xin xem HIST, quyển 1, trang 510 và các chú thích.
+294. gtsug lag khang hay điện thờ trung tâm ở Lhasa, Rasa Trulnang, ngày nay được gọi là Jokhang, có thể chỉ được xây dựng trên những vị trí quan trọng được tiên đoán quanh Tây Tạng và những vùng biên giới sau khi bốn điện thờ Thadul (mtha' dul) hay Thuần Hoá Biên Địa và bốn điện thờ Yangdul (yang'dul) hay Thuần Hoá Ngoại Biên, cùng những điện thờ khác đã được xây cất. Để biết chi tiết câu chuyện và các vị trí, xin xem HIST, quyển 1, trang 510 và các chú thích.
 
-295. Công chúa Văn Thành (Wen-Ch’eng Kung-chu), (người Tây Tạng gọi là Kongjo) là con gái của Hoàng đế Đường Thái Tông đời Đường. Pho tượng bà đem theo là tượng Đức Phật Thích Ca Mâu Ni mười hai tuổi, và từng được một vị vua là Phật tử xứ Bengal tặng cho Hoàng đế Trung Hoa; điện Ramoche được xây năm 641 để an vị tượng này nhưng về sau được di chuyển sang điện Rasa Trulnang (Jokhang), là nơi hiện nay có tượng Jowo Rinpoche nổi danh. Hoàng hậu Tritsun là con gái vua Amsuvarman xứ Nepal; pho tượng bà đem theo là tượng Đức Phật Thích Ca Mâu Ni tám tuổi hiện thờ trong Điện Ramoche.
+295. Công chúa Văn Thành (Wen-Ch'eng Kung-chu), (người Tây Tạng gọi là Kongjo) là con gái của Hoàng đế Đường Thái Tông đời Đường. Pho tượng bà đem theo là tượng Đức Phật Thích Ca Mâu Ni mười hai tuổi, và từng được một vị vua là Phật tử xứ Bengal tặng cho Hoàng đế Trung Hoa; điện Ramoche được xây năm 641 để an vị pho tượng này nhưng về sau được di chuyển sang điện Rasa Trulnang (Jokhang), là nơi hiện nay có tượng Jowo Rinpoche nổi danh. Hoàng hậu Tritsun là con gái vua Amsuvarman xứ Nepal; pho tượng bà đem theo là tượng Đức Phật Thích Ca Mâu Ni tám tuổi hiện thờ trong Điện Ramoche.
 
 296. Truyền thuyết kể lại rằng pho tượng này (nay vẫn có thể thấy trong điện Potala ở Lhasa) được tạc từ gỗ cây đàn hương thân tròn trong đó người ta tìm thấy năm hình ảnh.
 
@@ -10363,17 +10365,17 @@ LỜI VÀNG CỦA THẦY TÔI
 
 300. Stupa (tháp) tại Bodhnath, Nepal. Xem Phần Hai, Chương Hai, Mục I và chú thích 129.
 
-301. Theo Khetsun Zangpo Rinpoche, niên đại trong việc xây dựng Samye như sau: Năm 797, Khenpo Santaraksita cúng đất. Năm 798 Ngài bố trí nền móng. Năm 802, Đức Liên Hoa Sanh (Guru Rinpoche) rời Ấn Độ, tới Samye năm 809. Năm 810 Ngài cúng đất lần nữa, và năm 811 bố trí lại đá móng. Năm 814, Samye hoàn tất. Niên đại tương tự được đưa ra trong HIST nhưng với lời chú giải là cũng có thể mọi việc xảy ra ít hơn cách tính truyền thống một chu kỳ sáu mươi năm giữa 790 và 953; nói cách khác, có lẽ tất cả những niên đại này nên được điều chỉnh lại bằng cách trừ đi sáu mươi năm.
+301. Theo Khetsun Zangpo Rinpo­ che, niên đại trong việc xây dựng Samye như sau: Năm 797, Khenpo Santaraksita cúng đất. Năm 798 Ngài bố trí nền móng. Năm 802, Đức Liên Hoa Sanh (Guru Rinpo­che) rời Ấn Độ, tới Samye năm 809. Năm 810 Ngài cúng đất lần nữa, và năm 811 bố trí lại đá móng. Năm 814, Samye hoàn tất. Niên đại tương tự được đưa ra trong HIST nhưng với lời chú giải là cũng có thể mọi việc xảy ra ít hơn cách tính truyền thống một chu kỳ sáu mươi năm giữa 790 và 953; nói cách khác, có lẽ tất cả những niên đại này nên được điều chỉnh lại bằng cách trừ đi sáu mươi năm.
 
 302. Ba yếu tố của giáo lý Đại Viên Mãn (shan ‘byed, la bzla ba, rang grol).
 
 303. Những cuộn giấy nhỏ trên đó những biểu tượng được viết ra mà từ đó các vị khám phá kho tàng tâm linh có thể phát lộ toàn bộ một giáo lý hay giáo khoá. Xem Tulku Thondup, Giáo Lý Ẩn Tàng Của Tây Tạng.
 
-304. Ba dòng truyền thừa của sự truyền dạy “dài” bka’ ma là dòng truyền tâm của các Đấng Chiến Thắng (rgyal ba dgongs pa’i brgyud), dòng truyền thừa qua biểu tượng của các bậc Minh Trì Vidyadhara (rig ‘dzin brda’i brgyud) và dòng truyền qua sự lắng nghe của chúng sinh bình thường (gang zag snyan brgyud). Sáu dòng truyền thừa “ngắn” gter ma hay sự truyền dạy các kho tàng tâm linh cũng chính là ba dòng truyền thừa được quán đảnh do cầu nguyện (smon lam dbang bskur ba’i brgyud), dòng niêm phong và giao phó cho các vị Không Hành nữ (dakini) (mka’ ‘gro gtad rgya’i brgyud), và dòng kế thừa được phó chúc theo tiên tri (bka’ bab lung bstan gyi brgyud). Trong đoạn này, Patrul
+304. Ba dòng truyền thừa của sự truyền dạy “dài” bka’ ma là dòng truyền tâm của các Đấng Chiến Thắng (rgyal ba dgongs pa’i brgyud), dòng truyền thừa qua biểu tượng của các bậc Minh Trì Vidyadhara (rig ‘dzin brda’i brgyud) và dòng truyền thừa qua sự lắng nghe của chúng sinh bình thường (gang zag snyan brgyud). Sáu dòng truyền thừa “ngắn” gter ma hay sự truyền dạy các kho tàng tâm linh cũng chính là ba dòng truyền thừa được quán đảnh do cầu nguyện (smon lam dbang bskur ba’i brgyud), dòng niêm phong và giao phó cho các vị Không Hành nữ (dakini) (mka’ ‘gro gtad rgya’i brgyud), và dòng kế thừa được phó chúc theo tiên tri (bka’ bab lung bstan gyi brgyud). Trong đoạn này, Patrul
 
 CHÚ THÍCH
 
-Rinpoche mô tả vắn tắt sự liên tục của ba dòng sau cùng này, là những dòng đặc trưng đối với các kho tàng tâm linh. “Việc niêm phong và giao phó cho các Không Hành nữ (dakini)” tương ứng với việc cất dấu kho tàng trên thực tế. Để có thêm chi tiết, xin coi HIST quyển I, trang 745. Việc sở hữu “chín” sự truyền dạy ám chỉ các dòng truyền thừa bao gồm bka’ma (ba) và gter ma (sáu) phương pháp truyền dạy.
+Rinpoche mô tả ngắn tắt sự liên tục của ba dòng sau cùng này, là những dòng đặc trưng đối với các kho tàng tâm linh. “Việc niêm phong và giao phó cho các Không Hành nữ (dakini)” tương ứng với việc cất dấu kho tàng trên thực tế. Để có thêm chi tiết, xin coi HIST quyển I, trang 745. Việc sở hữu “chín” sự truyền dạy ám chỉ các dòng truyền thừa bao gồm bka’ma (ba) và gter ma (sáu) phương pháp truyền dạy.
 
 305. Tất cả những Đạo Sư này sống trước thời Jigme Lingpa rất lâu. Ngài gặp các Đạo Sư này và nhận giáo lý chi tiết từ các Ngài trong các linh kiến. Ngài được biết đến là người có một hiểu biết phi thường thọ nhận được qua linh kiến cho dù Ngài đã không phải nhọc công chút nào trong việc học hỏi nghiên cứu.
 
@@ -10381,13 +10383,13 @@ Rinpoche mô tả vắn tắt sự liên tục của ba dòng sau cùng này, l�
 
 307. Dòng đầu của câu tục ngữ này, mgo ma tshos gong lce snyabs, có thể được hiểu theo nghĩa đen là để ám chỉ rằng không nên nếm một cái đầu đang được nấu cho tới khi nó sẵn sàng (việc nấu đầu những con trâu yak hay bò được phổ biến ở Tây Tạng, đặc biệt là trong những người chăn cừu du mục). Tuy nhiên, ‘thè lưỡi ra’ có thể ngụ ý biểu lộ sự đồng ý hay bằng lòng, và ‘đầu được nấu’ thì đôi khi được dùng như một sự tiên tri về sự thấu suốt. Như vậy, theo một cách dịch khác – nếu như kém màu sắc hơn – sẽ là “chấp nhận trước khi bạn có được sự thấu hiểu.”
 
-308. “Pháp chuyển di siêu việt được thực hành bởi chư Bồ Tát, những vị đã thiền định về chân lý của chân như hay thực tại tuyệt đối (chos nyid kyi bden pa) trên Kiến Đạo (Path of Seeing), là những bậc mà ngay trong đời này, đã phát sinh được một cái nhìn đúng đắn về bản tánh bất biến của chân như (gnas lugs) và giữ gìn cái nhìn đúng đắn đó suốt ngày đêm không gián đoạn. Các Ngài thực hành pháp chuyển di theo những giáo huấn cốt tủy về pháp chuyển di từ thân này (grong ‘pho) sang thân khác (grong ‘jug) theo pháp môn hành trì trekcho, hoặc theo các giáo
+308. “Pháp chuyển di siêu việt được thực hành bởi chư Bồ Tát, là những vị đã thiền định về chân lý của chân như hay thực tại tuyệt đối (chos nyid kyi bden pa) trên Kiến Đạo (Path of Seeing), là những bậc mà ngay trong đời này, đã phát sinh được một cái nhìn đúng đắn về bản tánh bất biến của chân như (gnas lugs) và giữ gìn cái nhìn đúng đắn đó suốt ngày đêm không gián đoạn. Các Ngài thực hành pháp chuyển di theo những giáo huấn cốt tủy về pháp chuyển di từ thân này (grong ‘pho) sang thân khác (grong ‘jug) theo pháp môn hành trì trekcho, hoặc theo các giáo
 
 LỜI VÀNG CỦA THẦY TÔI
 
 huấn ‘đi vào bên trong thanh tịnh quang’ của pháp môn hành trì thogal.
 
-“Rồi có những người trì giữ mật nguyện rất trong sạch, là những người làm chủ được sự tỉnh giác nhưng chỉ điều phục được tri giác của họ vào ban đêm. Khi họ chết và tiến trình tan rã cũng như các hiện tượng của ‘tánh sáng, tăng trưởng, và thành tựu” xảy ra, thì thanh tịnh quang của thân tuyệt đối vào lúc chết xuất hiện. Đó là thanh tịnh quang “mẹ”, là giây phút xuất hiện của (thức) nền tảng. Họ được dẫn dắt bởi thanh tịnh quang “con”, là kinh nghiệm tịnh quang mà họ đã được kinh nghiệm trong đời này. Khi hai thanh tịnh quang gặp nhau thì họ được giải thoát trong (thức) nền tảng nguyên sơ, thuần tịnh.
+“Rồi có những người trì giữ mật nguyện rất trong sạch, là những người làm chủ được sự tỉnh giác nhưng chỉ điều phục được tri giác của họ vào ban ngày, và không thể kiểm soát được tri giác của họ vào ban đêm. Khi họ chết và tiến trình tan rã cũng như các hiện tượng của ‘tánh sáng, tăng trưởng, và thành tựu’ xảy ra, thì thanh tịnh quang của thân tuyệt đối vào lúc chết xuất hiện. Đó là thanh tịnh quang “mẹ”, là giây phút xuất hiện của (thức) nền tảng. Họ được dẫn dắt bởi thanh tịnh quang “con”, là kinh nghiệm tịnh quang mà họ đã được kinh nghiệm trong đời này. Khi hai thanh tịnh quang gặp nhau thì họ được giải thoát trong (thức) nền tảng nguyên sơ, thuần tịnh.
 
 “Có những người đã bắt đầu có được những kinh nghiệm về ‘sự phát triển kinh nghiệm và huyễn tướng’ trong pháp hành trì thogal. Vào lúc chết, khi thanh tịnh quang của thời điểm chết xuất hiện, họ không nhận ra được tịnh quang bởi họ không có sự chứng ngộ để nhận ra điều đó, và không thể được giải thoát. Nhưng khi trạng thái trung gian (trung ấm) của chân tánh của thực tại (chos nyid bar do) xuất hiện, họ nhận ra được chân tánh và an trú trong sự nhất như và nhờ đó, được giải thoát trong sự hiển lộ tự nhiên (của chân như).
 
@@ -10397,33 +10399,32 @@ huấn ‘đi vào bên trong thanh tịnh quang’ của pháp môn hành trì 
 
 CHÚ THÍCH
 
-(generation) và toàn thiện (perfection) của các Bổn Tôn và đã tự quen thuộc với sự biểu hiện này. Vào lúc chết, như ở trong lúc tan rã của trong giai đoạn phát triển, họ hòa tan huyễn thân vào thanh tịnh quang. Nếu trong đời này họ đã từng phát triển thanh tịnh quang rạng ngời (dpe’i ‘od gsal), thì họ sẽ nhận ra được thanh tịnh quang tối thượng trong trạng thái trung ấm, và kết quả là họ sẽ hiện ra trong thân của vị Bổn Tôn, là đại ấn của sự hợp nhất, tuy rằng điều này chưa siêu vượt được yếu tố của việc nghiên cứu học hỏi (slob pa’i zung ‘jug phyag rgya chenpo).” NT
+(generation) và toàn thiện (perfection) của các Bổn Tôn và đã tự quen thuộc với sự biểu hiện này. Vào lúc chết, như ở trong lúc tan rã của trong giai đoạn phát triển, họ hòa tan huyễn thân vào thanh tịnh quang. Nếu trong đời này họ đã từng phát triển thanh tịnh quang rạng ngời (*dpe’i ‘od gsal*), thì họ sẽ nhận ra được thanh tịnh quang tối thượng trong trạng thái trung ấm, và kết quả là họ sẽ hiện ra trong thân của vị Bổn Tôn, là đại ấn của sự hợp nhất, tuy rằng điều này chưa siêu vượt được yếu tố của việc nghiên cứu học hỏi (*slob pa’i zung ‘jug phyag rgya chenpo*).” NT
 
-zung ‘jug yeshes kyi sku (Phạn. Yuganaddha-Jnanakaya), “Thân trí tuệ hợp nhất,” là sự hợp nhất của sắc thân và Pháp Thân, hay nói khác đi là sự bất khả phân của huyễn tướng và tánh Không, hoặc của giai đoạn phát triển và toàn thiện. “Sự hợp nhất” (zung ‘jug) có nghĩa là sự nhận thức ra được hai khía cạnh này của chân tánh của thực tại, không phải là hai điều tách biệt, giống như hai sừng của một con bò, nhưng hoàn toàn bất khả phân.
+zung ‘jug yeshes kyi sku (Phạn. Yuganaddha-Jnanakaya), “Thân trí tuệ hợp nhất,” là sự hợp nhất của sắc thân và Pháp Thân, hay nói khác đi là sự bất khả phân của huyễn tướng và tánh Không, hoặc của giai đoạn phát triển và toàn thiện. “Sự hợp nhất” (*zung ‘jug*) có nghĩa là sự nhận thức ra được hai khía cạnh này của chân tánh của thực tại, không phải là hai điều tách biệt, giống như hai sừng của một con bò, nhưng hoàn toàn bất khả phân.
 
 310. Pháp chuyển di này được thực hành bởi những người mới bắt đầu trên con đường vun bồi công đức, là những người đã nhận quán đảnh, tôn trọng các mật nguyện và có một sự hiểu biết thấu suốt về cái thấy (kiến). Pháp này cũng được thực hành bởi những người sử dụng giai đoạn phát triển như con đường tu nhưng chưa thuần thục. Mặc dù họ không thể được giải thoát trong thanh tịnh quang vào giây phút lìa đời hay trong trạng thái trung ấm của chân tánh, nhưng họ có thể đóng lại con đường dẫn đến một tử cung nào không thuận lợi, và chọn một tái sinh thuận lợi. Nhờ lòng bi mẫn và Bồ Đề Tâm của họ, họ được dẫn dắt tới một cõi Phật thanh tịnh, hay tái sinh như một Hóa Thân (xem Thuật Ngữ) từ những bậc cha mẹ đang thực hành Giáo Pháp. Họ sẽ được giải thoát trong đời kế tiếp.
 
 311. Pháp chuyển di thông thường được thực hành bởi những người sơ cơ chỉ có lòng quy ngưỡng chí thành vào Giáo Pháp và đã không có được dấu hiệu thành công nào trên con đường tu để có thể tự tiên đoán được việc giải thoát của họ.
 
-633
-
 LỜI VÀNG CỦA THẦY TÔI
 
 312. Lúc hơi thở đã ngừng nhưng trái tim vẫn chưa ngưng đập
 
-313. Đây là trường hợp nếu ta không có năng lực trí tuệ cần thiết. Một cách giải thích khác có nghĩa đây không phải là cách thích hợp để trợ giúp cho người chết.
+313. Đây là trường hợp nếu ta không có năng lực trí tuệ cần thiết.
+Một cách giải thích khác có nghĩa đây không phải là cách thích hợp để trợ giúp cho người chết.
 
-314. mkha' spyod gnas su khrid par byed. Điều này không nên được hiểu theo một cái nhìn quá duy vật. “Trong thực tế, không có điều gì và không ai dẫn dắt hay được dẫn dắt. Đây chỉ đơn giản là sự hội tụ của tịnh quang ‘mẹ’ và ‘con’.” DKR. Thanh tịnh quang ‘mẹ’ là chân tánh căn bản của chúng ta và chân tánh này nằm ngay trong tất cả mọi chúng sinh, là điều mà vị Thầy đã giới thiệu cho chúng ta. Thanh tịnh quang ‘con’ là tương tục của việc nhận ra bản tánh đó là việc mà chúng ta đã nuôi dưỡng trong công phu thực hành của mình. (Cũng xem chú thích 308).
+314. mkha’ spyod gnas su khrid par byed. Điều này không nên được hiểu theo một cái nhìn quá duy vật. “Trong thực tế, không có điều gì và không ai dẫn dắt hay được dẫn dắt. Đây chỉ đơn giản là sự hội tụ của tịnh quang ‘mẹ’ và ‘con’.” DKR. Thanh tịnh quang ‘mẹ’ là chân tánh căn bản của chúng ta và chân tánh này nằm ngay trong tất cả mọi chúng sinh, là điều mà vị Thầy đã giới thiệu cho chúng ta. Thanh tịnh quang ‘con’ là sự tương tục của việc nhận ra bản tánh đó là việc mà chúng ta đã nuôi dưỡng trong công phu thực hành của mình. (Cũng xem chú thích 308).
 
-315. Những thành phần của thân thể có thể được tập hợp lại thành bốn (đôi khi là năm) yếu tố bên trong (khams): 1) thịt, 2) máu, 3) nhiệt, 4) hơi thở hay năng lực (rlung), (và trong một số luận thư y khoa, dù không có ở đây là 5) các xoang). Những yếu tố này tương ứng với bốn (hay năm) yếu tố bên ngoài: 1) đất, 2) nước, 3) lửa và 4) gió hay khí (cũng là rlung), (và trong nhiều trường hợp 5. hư không). Cả hai yếu tố bên ngoài và bên trong được hiểu rõ nhất như là những đặc tính hay những trạng thái của cả hai thế giới bên ngoài và những thành phần của thân thể bên trong, gồm có trạng thái đặc chắc, trạng thái lỏng, nhiệt độ, sự chuyển động và chức năng. Những kinh nghiệm được mô tả đã xảy ra khi mà những đặc tính (trong những vai trò đặc biệt như là những thành phần cấu thành một cơ thể sống động) bị hư hoại, và những đặc tính này lại hòa nhập hay “phân rã” trở lại vào trong một tổng thể bao la hơn.
+315. Những thành phần của thân thể có thể được tập hợp lại thành bốn (đôi khi là năm) yếu tố bên trong (khams): 1) thịt, 2) máu, 3) nhiệt, 4) hơi thở hay năng lực (rlung), (và trong một số luận thư y khoa, dù không có ở đây là 5) các xoang). Những yếu tố này tương ứng với bốn (hay năm) yếu tố bên ngoài là: 1) đất, 2) nước, 3) lửa và 4) gió hay khí (cũng là rlung), (và trong nhiều trường hợp 5. hư không). Cả hai yếu tố bên ngoài và bên trong được hiểu rõ nhất như là những đặc tính hay những trạng thái của cả hai thế giới bên ngoài và những thành phần của thân thể bên trong, gồm có trạng thái đặc chắc, trạng thái lỏng, nhiệt độ, sự chuyển động và chức năng. Những kinh nghiệm được mô tả đã xảy ra khi mà những đặc tính (trong những vai trò đặc biệt như là những thành phần cấu thành một cơ thể sống động) bị hư hoại, và những đặc tính này lại hòa nhập hay “phân rã” trở lại vào trong một tổng thể bao la hơn.
 
-316. “Vào thời điểm của tánh sáng, ý thức của năm cánh cửa (của các giác quan) (sgo lnga'i shes pa) tan hòa trong tâm thức (yid shes). Vào giai đoạn tăng trưởng, tâm thức tan hòa vào trong tâm của các cảm xúc (nyon yid). Vào lúc thành tựu, tâm của các cảm xúc tan hoà vào thức nền tảng (kun gzhi). Khi ta phục hồi được ý
+316. “Vào thời điểm của tánh sáng, ý thức của năm cánh cửa (của các giác quan) (sgo lnga’i shes pa) tan hòa trong tâm thức (yid shes). Vào giai đoạn tăng trưởng, tâm thức tan hòa vào trong tâm của các cảm xúc (nyon yid). Vào lúc thành tựu, tâm của các cảm xúc tan hoà vào thức nền tảng (kun gzhi). Khi ta phục hồi được ý
 
 CHÚ THÍCH
 
-thức (thời điểm được gọi là cận kề sự thành tựu), thì thức nền tảng tan hòa vào thanh tịnh quang.” NT. Vào lúc này có một kinh nghiệm trực tiếp của thanh tịnh quang nền tảng. Với những người đã chứng ngộ được phần nào chân tánh của thức nền tảng đó như là Pháp Thân và từng nắm vững được nhận thức đó, thì ngay lúc này, khi thanh tịnh quang mẹ và con hội tụ, sẽ là một cơ hội để có thể đạt được giải thoát tức thời. Đối với phần lớn mọi người, giây khắc này vụt qua không thể nhận ra, nhanh như một ánh chớp.
+thức (thời điểm được gọi là cận kề sự thành tựu), thì thức nền tảng tan hòa vào thanh tịnh quang.” NT. Vào lúc này có một kinh nghiệm trực tiếp của thanh tịnh quang nền tảng. Với những người đã chứng ngộ được phần nào chân tánh của thức nền tảng đó như là Pháp Thân và từng nắm vững được nhận thức đó, ngay lúc này, khi thanh tịnh quang mẹ và con hội tụ, sẽ là một cơ hội để có thể đạt được giải thoát tức thời. Đối với phần lớn mọi người, giây khắc này vụt qua không thể nhận ra, nhanh như một ánh chớp.
 
-317. Họ không có được sự vững chãi không gì lay chuyển được trong công phu hành trì, và không có được niềm tin bất thối chuyển về chánh kiến (một cái thấy chân chính); đây là những yếu tố cần thiết để có thể thực hành những pháp chuyển di như đã mô tả ở trên.
+317. Họ không có được sự vững chãi không gì lay chuyển được trong công phu hành trì, và không có được niềm tin bất thối chuyển về chánh kiến (một cái thấy chân chính); đây là những yếu tố cần thiết để có thể thực hành những phép chuyển di như đã mô tả ở trên.
 
 318. Ở đây, đối với “thân phàm,” thay vì thuật ngữ tha mal lus thường được sử dụng trong những chỉ dạy về quán tưởng, thì bản văn này dùng thuật ngữ gzhi lus, nghĩa đen là thân “căn bản” hay “nền tảng.” Trong những thuật ngữ nói chung, ý nghĩa cũng tương tự – thân phàm của ta – nhưng cũng có hàm ý là thân phàm của chúng ta thì cũng huyễn hoá. Còn bar do’i sgyu lus, “thân huyễn hoá của trạng thái trung ấm,” nền tảng căn bản của mọi kinh nghiệm huyễn hoá mà chúng ta đang trải qua trong cuộc đời hiện tại này – thân ấy không khác gì trạng thái trung ấm của giai đoạn hình thành (srid pa’i bar do), và chính thân ấy cũng là một trạng thái trung ấm (skye gnas bar do). PWR. Xem Thuật Ngữ ‘trạng thái trung ấm.’
 
@@ -10435,30 +10436,54 @@ thức (thời điểm được gọi là cận kề sự thành tựu), thì th
 
 LỜI VÀNG CỦA THẦY TÔI
 
-và khía cạnh thấu biết chính là tâm thức, nhưng tự bản chất thì năng lực và tâm thức chỉ là một và đồng nhất.” NT
+và khía cạnh thấu biết chính là tâm thức, nhưng tự bản chất thì
+năng lực và tâm thức chỉ là một và đồng nhất.” NT
 
-322. Một vị tôn giả đã khám phá được những kho tàng tâm linh ở thế kỷ thứ 14.
+322. Một vị tôn giả đã khám phá được những kho tàng tâm linh ở thế
+kỷ thứ 14.
 
-323. mkha spyod: nói chung, là một cõi Trời. Ở đây một cõi Trời “vĩ đại” (mkha spyod chen po) được ám chỉ như thế có nghĩa là một loại cõi Phật, được hiển lộ vì lợi ích của chúng sinh. Một cõi Trời “nhỏ” (mkha spyod chung ngu) có thể ám chỉ bất kỳ cõi Trời nào. (Cũng xem chú thích 314.)
+323. mkha spyod: nói chung, là một cõi Trời. Ở đây một cõi Trời “vĩ
+đại” (mkha spyod chen po) được ám chỉ như thế có nghĩa là một
+loại cõi Phật, được hiển lộ vì lợi ích của chúng sinh. Một cõi Trời
+“nhỏ” (mkha spyod chung ngu) có thể ám chỉ bất kỳ cõi Trời nào.
+(Cũng xem chú thích 314.)
 
-324. gnam chos. Namcho hay Giáo Lý Hư Không là một tuyển tập giáo lý mười ba cuốn mà Ngài Mingyur Dorje, là một vị khai quật tàng kinh trứ danh, đã thọ nhận được trong một loạt các linh kiến. Mingyur Dorje sinh năm 1645 và tịch năm 1668 lúc hai mươi ba tuổi. Dòng Namcho là một trong những truyền thống tu tập chính yếu của các tu viện Nyingma thuộc phái Palyul và Kathok ở miền Đông Tây Tạng.
+324. gnam chos. Namcho hay Giáo Lý Hư Không là một tuyển tập
+giáo lý mười ba cuốn mà Ngài Mingyur Dorje, là một vị khai quật
+tạng kinh trứ danh, đã thọ nhận được trong một loạt các linh
+kiến. Mingyur Dorje sinh năm 1645 và tịch năm 1668 lúc hai
+mươi ba tuổi. Dòng Namcho là một trong những truyền thống tu
+tập chính yếu của các tu viện Nyingma thuộc phái Palyul và
+Kathok ở miền Đông Tây Tạng.
 
-325. Những chướng ngại như thế phát sinh chủ yếu do kỹ thuật sai lạc khi hô tiếng “Hik” trong pháp môn này. “Hik là một âm thanh làm rút ngắn thọ mạng. Khi sử dụng âm thanh này, ta phải kéo hơi xuống dưới rốn, kéo dài khí của phần trên cơ thể và nhướng mắt thật mạnh mẽ nhìn vào không gian. Nếu các chướng ngại xuất hiện, hãy nén khí ở trên xuống, xả khí ở dưới và trải rộng khí tại rốn, và trì tụng ba âm Kim Cương (om ah hum, phối hợp với sự hít vào, nín hơi, và thở ra), tập trung tâm bạn vào lòng bàn chân và mắt nhìn xuống dưới. Các chướng ngại sẽ biến mất.” NT
+325. Những chướng ngại như thế phát sinh chủ yếu do kỹ thuật sai
+lạc khi hô tiếng “Hik” trong pháp môn này. “Hik là một âm thanh
+làm rút ngắn thọ mạng. Khi sử dụng âm thanh này, ta phải kéo
+hơi xuống dưới rốn, kéo dài khí của phần trên cơ thể và nhướng
+mắt thật mạnh mẽ nhìn vào không gian. Nếu các chướng ngại
+xuất hiện, hãy nén khí ở trên xuống, xả khí ở dưới và trải rộng
+khí tại rốn, và trì tụng ba âm Kim Cương (om ah hum, phối hợp
+dengan [không rõ] sự hít vào, nín hơi, và thở ra), tập trung tâm bạn vào lòng bàn
+chân và mắt nhìn xuống dưới. Các chướng ngại sẽ biến mất.” NT
+326. Những pháp tu dự bị cho “Đạo và Quả” (lam ‘bras) của truyền
+thống Sakya được đặt nền tảng trên ba loại tri giác (snang ba
+gsum): tri giác bất tịnh (ma dag pa’i snang ba), tri giác hỗn hợp
+được các hành giả kinh nghiệm qua các pháp thực hành (mal
+‘byor nyams kyi snang ba), và tri giác thanh tịnh (dag pa’i snang
+ba).
+327. Như trong “Đại Thừa Tối Thượng Luận” (rgyud bla ma, Phạn
+ngữ: Uttaratantrasastra) và những bản văn khác. ZR
 
-326. Những pháp tu dự bị cho “Đạo và Quả” (lam ‘bras) của truyền thống Sakya được đặt nền tảng trên ba loại tri giác (snang ba gsum): tri giác bất tịnh (ma dag pa’i snang ba), tri giác hỗn hợp được các hành giả kinh nghiệm qua các pháp thực hành (mal ‘byor nyams kyi snang ba), và tri giác thanh tịnh (dag pa’i snang ba).
-
-327. Như trong “Đại Thừa Tối Thượng Luận” (rgyud bla ma, Phạn ngữ: Uttaratantrasastra) và những bản văn khác. ZR
+636
 
 CHÚ THÍCH
 
 328. Tây Tạng: rig pa rtsal gyi dbang bskur.
-329. Kushab Gemang, Gyalse Shenpen Thaye hay Gyalse Rigpa’i Dorje (sinh năm 1800), là một trong những vị nắm giữ dòng truyền thừa chính yếu của giáo lý Tâm-Yếu của Đại-Quảng-Trí.
+329. Kushab Gemang, Gyalse Shenpen Thaye hay Gyalse Rigpa'i Dorje (sinh năm 1800), là một trong những vị nắm giữ dòng truyền thừa chính yếu của giáo lý Tâm-Yếu của Đại-Quảng-Trí.
 330. Changchub Dorje (1745–1821), cũng được biết là Jigme Trinle Ozer, là vị Dodrupchen Rinpoche đệ nhất, một trong những đệ tử chính của Jigme Lingpa, và là người đã từ bi gia hộ cho Patrul Rinpoche khi còn bé.
 331. Orgyen Jigme Chokyi Wangpo là tên riêng của Ngài Patrul Rinpoche. Lời tự khẩn nguyện trong đoạn này noi theo một hình thức truyền thống. Tuy nhiên lời nguyện này có một sức mạnh đặc biệt phát xuất từ Ngài Patrul Rinpoche, là một người đã cho ta thấy một sự khiêm cung tương tự, toát ra từ trong cách sống của Ngài.
 332. Jamgon Kongtrul Vĩ Đại (xem Thuật Ngữ) là một vị Đạo Sư cùng thời với Ngài Patrul Rinpoche và Jamyang Khyentse Wangpo; cả ba vị đều biết nhau rất rõ, cùng học vào lúc thiếu thời tại tu viện Shechen ở tỉnh Kham. Ngài là nhà trước tác trứ danh, đã biên soạn và biên tập nhiều tác phẩm, và Ngài đã viết thêm lời bạt này sau khi hiệu đính theo đúng nguyên văn trong nguyên cảo của Patrul Rinpoche, trong khi tài liệu này đang được chuẩn bị in bản khắc gỗ tại nhà in lớn ở Derge.
-333. Sáu phương cách để đạt được giải thoát (grol ba drug): qua sự nhìn thấy, lắng nghe, hồi nhớ, xúc chạm, nếm vị và trang phục.
-
-LỜI VÀNG CỦA THẦY TÔI
+333. Sáu phương cách để đạt được giải thoát (*grol ba drug*): qua sự nhìn thấy, lắng nghe, hồi nhớ, xúc chạm, nếm vị và trang phục.
 
 # THUẬT NGỮ
 
@@ -10470,15 +10495,15 @@ LỜI VÀNG CỦA THẦY TÔI
 
 **A Xà Lê Liên Hoa (Acarya Padma)** – *slod dpon padma*, Đạo Sư Liên Hoa Sanh, xem **Padmasambhava**.
 
-**Adhicitta** – *sems lhag can*, tiền thân của **Garab Dorje** trong các cõi Trời.
+**Adhicitta** – *sems lhag can*, tiền thân của Garab Dorje trong các cõi Trời.
 
-**Akanistha (Sắc Cứu Cánh Thiên)** – *‘og min*, nghĩa đen “tối thượng.” Cõi Trời hay cõi Phật tối cao. Có sáu nơi khác nhau mang tên này, từ cõi Trời thứ tám của các vị Trời thuộc Tứ Thiền lên tới Cõi Akanistha tối thượng, là một cõi Phật siêu vượt mọi nghĩ bàn.
+**Akanistha (Sắc Cứu Cánh Thiên)** – *'og min*, nghĩa đen “tối thượng.” Cõi Trời hay cõi Phật tối cao. Có sáu nơi khác nhau mang tên này, từ cõi Trời thứ tám của các vị Trời thuộc Tứ Thiền lên tới Cõi Akanistha tối thượng, là một cõi Phật siêu vượt mọi nghĩ bàn.
 
 **Aksobhya (Bất Động Như Lai)** – *mi bskyod pa*, Đức Phật Bất Động thuộc Kim Cương Bộ. Xem **Ngũ Bộ Phật**.
 
 **Ambrosia (Cam Lồ)** – *bdud rtsi*, Phạn. *amrita*, nghĩa đen: bất tử. Chất cam lồ (*rtsi*) chiến thắng quỷ ma (*bdud*) của sự chết. Đây là một biểu tượng của trí tuệ.
 
-**Amitabha (A Di Đà – Vô Lượng Quang Phật)** – *‘od dpag med*, nghĩa đen: vô lượng ánh sáng. Đức Phật Vô Lượng Quang A Di Đà thuộc Liên Hoa Bộ. Xem **Ngũ Bộ Phật**.
+**Amitabha (A Di Đà – Vô Lượng Quang Phật)** – *'od dpag med*, nghĩa đen: vô lượng ánh sáng. Đức Phật Vô Lượng Quang A Di Đà thuộc Liên Hoa Bộ. Xem **Ngũ Bộ Phật**.
 
 THUẬT NGỮ
 
@@ -10488,25 +10513,23 @@ THUẬT NGỮ
 
 **An định (chỉ)** – *zhi gnas*, Phạn: *samatha*, căn bản của mọi pháp tu thiền định. “Tâm sao lãng do những đối tượng khác gây ra được làm cho an định (*zhi*), tâm an trụ (*gnas*) không xao động trong thiền định.” DICT
 
-**Ananda** – *kun dga’ bo*, một người em họ của Đức Phật, sau trở thành thị giả của Ngài. Ananda có công trong việc giữ gìn giáo lý sau khi Đức Phật tịch diệt, bởi ông có thể nhớ lại tất cả những gì mà ông đã được nghe Đức Phật giảng dạy.
+**Ananda** – *kun dga' bo*, một người em họ của Đức Phật, sau trở thành thị giả của Ngài. Ananda có công trong việc giữ gìn giáo lý sau khi Đức Phật tịch diệt, bởi ông có thể nhớ lại tất cả những gì mà ông đã được nghe Đức Phật giảng dạy.
 
 **Anandagarbha** – *bde mchog snying po*, danh hiệu khác của Adhicitta (Garab Dorje).
 
-**Angulimala** – *sor mo phreng ba*, một trong những đệ tử của Đức Phật, mặc dù đã từng giết hại chín trăm chín mươi chín người, nhưng nhờ tịnh hoá các ác hạnh của mình, Ngài đã đạt được quả vị A La Hán. Danh hiệu của Ngài có nghĩa là “Tràng hoa các ngón tay.”
+**Angulimala** – *sor mo threng ba*, một trong những đệ tử của Đức Phật, mặc dù đã từng giết hại chín trăm chín mươi chín người, nhưng nhờ tịnh hoá các ác hạnh của mình, Ngài đã đạt được quả vị A La Hán. Danh hiệu của Ngài có nghĩa là “Tràng hoa các ngón tay.”
 
-**Anuyoga (A-nậu Du Già)** – đứng thứ hai trong ba nội du già (*inner yogas*) và thứ tám trong chín thừa, theo cách phân loại của phái Nyingmapa. Trong phái du già này, điểm chính yếu được nhấn mạnh được đặt trên **giai đoạn toàn thiện** (thành tựu), đặc biệt là việc thiền định về các kinh mạch và năng lực.
+**Anuyoga (A-nậu Du Già)** – đứng thứ hai trong ba nội du già (*inner yogas*) và thứ tám trong chín thừa, theo cách phân loại của phái Nyingmapa. Trong phái du già này, điểm chính yếu được nhấn mạnh được đặt trên **giai đoạn toàn thiện** (thành tựu), đặc biệt là việc thiền định về **các kinh mạch và năng lực**.
 
 **Arura và kyurura** – *Terminalia chebula* và *Emblica officinalis*, các dược thảo. Arura là biểu tượng của Đức Phật Dược Sư.
 
-**Aryadeva (Thánh Thiên)** – *‘phags pa lha* (thế kỷ thứ 2), vị đệ tử nổi tiếng nhất của **Nagarjuna (Long Thọ)**. Ngài đã bình
-
-639
+**Aryadeva (Thánh Thiên)** – *'phags pa lha* (thế kỷ thứ 2), vị đệ tử nổi tiếng nhất của **Nagarjuna** (Long Thọ). Ngài đã bình
 
 LỜI VÀNG CỦA THẦY TÔI
 
 giảng giáo lý của Thầy mình trong số luận thuyết về triết học **Madhyamika**. Xem **Trung Đạo**.
 
-**Asanga (Vô Trước)** – *thogs med* (thế kỷ thứ 4), một trong **Lục Pháp Bảo**, là vị sáng lập phái Yogachara và tác giả của nhiều bộ luận (*sastra*) quan trọng, đặc biệt là năm giáo lý mà Ngài thọ nhận từ Đức **Maitreya** (Di Lặc).
+**Asanga (Vô Trước)** – *thogs med* (thế kỷ thứ 4), một trong **Lục Pháp Bảo**, là vị sáng lập phái **Yogachara** và tác giả của nhiều bộ luận (*sastra*) quan trọng, đặc biệt là năm giáo lý mà Ngài thọ nhận từ Đức **Maitreya** (Di Lặc).
 
 **Atisa** – (982-1054), cũng được gọi là Dipamkara hay Jowo Atisa (*jo bo a ti sha*). Đạo sư và học giả Ấn Độ vĩ đại này là một trong những vị Thầy trưởng lão ở tu viện nổi tiếng **Vikramasila**, là một đệ tử trì giữ nghiêm cẩn giới luật tu viện. Ngài thọ nhận các giáo lý Bồ Đề tâm từ nhiều bậc Đạo Sư quan trọng, và đặc biệt là từ Pháp vương **Suvarnadvipa** (Dharmakirti – Pháp Xứng), và học tập dưới chân vị Thầy này ở Indonesia. Ngài trải qua mười năm ở Tây Tạng, giảng dạy và tham gia phiên dịch các bản văn Phật Giáo. Chúng đệ tử của Ngài lập nên phái **Kadampa**.
 
@@ -10516,104 +10539,79 @@ giảng giáo lý của Thầy mình trong số luận thuyết về triết h�
 
 **Ấn phẫn nộ (đe doạ)** – *sdigs mdzubs*, Phạn: *tarjani mudra*, cử chỉ đe doạ, chỉ tay bằng cả ngón trỏ và ngón út.
 
-**Ba Anh em** – *sku mched gsum*, ba đệ tử chính của **Drom Tonpa: Potowa, Chengawa và Puchungwa**.
+**Ba Anh em** – *sku mched gsum*, ba đệ tử chính của **Drom Tonpa: Potowa, Chengawa** và **Puchungwa**.
 
 **Ba quả vị thanh tịnh (địa)**– *dag pa sa gsum*, các quả vị (địa) Bồ Tát thứ tám, thứ chín và thứ mười; gọi như thế là vì các Bồ Tát ở mức độ tu chứng này hoàn toàn thoát khỏi các chướng ngại thuộc cảm xúc tiêu cực (phiền não chướng). (*nyon sgrib*).
 
 THUẬT NGỮ
 
-**Ba Cõi** – *xem* **Tam Giới**.
+**Ba Cõi** – xem **Tam Giới**.
 
-**Ba độc (Tam độc)** – *dug gsum*, ba loại **cảm xúc tiêu cực** gồm tham, sân và si. *Xem* **năm độc**.
+**Ba độc** (Tam độc) – *dug gsum*, ba loại **cảm xúc tiêu cực** gồm tham, sân và si. Xem **năm độc**.
 
 **Ba giới nguyện** – *sdom pa gsum*, Phạn: *trisamvara*, các giới nguyện của **Biệt Giải Thoát**, các giới luật **Bồ Tát** và các mật nguyện (*samaya*) của **Mật Thừa**.
 
-**Ba la mật (Paramita)** – *xem* **pháp toàn thiện siêu việt**.
+**Ba la mật** (Paramita) – xem **pháp toàn thiện siêu việt**.
 
 **Bà la môn** – *bram ze*, một trong bốn đẳng cấp trong xã hội Ấn Độ thời xa xưa, đẳng cấp tăng lữ.
 
-**Ba mạn đà la** – *dkyil ‘khor gsum*, các mạn đà la của thân, khẩu và ý là những hiển lộ của bản tánh nguyên sơ: sắc tướng như là **Bổn Tôn**, âm thanh như là **câu minh chú** và các niệm tưởng như là trí tuệ.
+**Ba mạn đà la** – *dkyil 'khor gsum*, các mạn đà la của thân, khẩu và ý là những hiển lộ của bản tánh nguyên sơ: sắc tướng như là **Bổn Tôn**, âm thanh như là **câu minh chú** và các niệm tưởng như là trí tuệ.
 
-**Bà Mẹ Chân Chính Sắc Đen Phẫn Nộ** – *ma cig khros ma nag mo*, Phạn: *Krodhakali*, nghĩa đen: bà mẹ sắc đen và phẫn nộ. Một hiển lộ của Samantabhadri trong thân tướng của **Báo Thân** phẫn nộ, một khía cạnh khác của Vajravarahi (*rdo rje phag mo*).
+**Bà Mẹ Chân Chính Sắc Đen Phẫn Nộ** – *ma cig khros ma nag mo*, Phạn: *Krodhakali*, nghĩa đen: bà mẹ sắc đen và phẫn nộ. Một hiển lộ của Samantabhadri trong thân tướng của Báo Thân phẫn nộ, một khía cạnh khác của Vajravarahi (*rdo rje phag mo*).
 
-**Ba môn học** – *xem* **tam học**.
+**Ba môn học** – xem **tam học**.
 
 **Ba mươi lăm vị Phật** – *sangs rgyas so lnga* hoặc *bde gshegs so lnga*, Ba mươi lăm vị Phật Sám hối, tượng trưng cho sự toàn trí toàn giác của chư Phật, sẵn sàng tịnh hoá các tội nghiệp trong tất cả ba mươi lăm phương hướng trong không gian (bốn hướng chính, bốn hướng trung gian, tám và mười sáu hướng phụ, trung ương, điểm thấp nhất và điểm cao nhất).
 
 **Ba Nguồn Gia Trì (Ba Lực Gia Trì - Three Roots)** – *rtsa gsum*, **Lạt Ma**, là cội gốc hay suối nguồn của các năng lực gia trì; **Bổn Tôn**, là suối nguồn của các thành tựu; và **Dakini** (Thiên Nữ Trí Tuệ hay **các vị Hộ Thần**), là suối nguồn của tất cả các công hạnh (hoạt động).
 
-641
-
 LỜI VÀNG CỦA THẦY TÔI
 
-Ba phương pháp siêu việt – *dam pa gsum*. Xem pháp chuẩn bị, công phu chính yếu và kết thúc.
-
-Ba Thân (kaya) – *sku gsum*, Phạn: *trikaya*, nghĩa đen: Ba Thân: gồm ba khía cạnh của Phật Quả: **Pháp Thân, Báo Thân và Hoá Thân**.
-
-Ba thực phẩm ngọt – *mngar gsum*, đường, mật đường và mật ong.
-
-Ba thực phẩm trắng – *dkar gsum*, sữa, bơ và sữa đông, theo truyền thống là những món được coi là những thực phẩm rất thanh tịnh.
-
-Ba thời – *dus gsum*, Phạn: *trikala*, quá khứ, hiện tại và vị lai.
-
-Ba ý niệm (tạo tác) – *‘khor gsum*, chủ thể, đối tượng và hành động, được nhìn như là có một sự hiện hữu thực sự và độc lập.
-
-Bách Hộ Phật – xem Trăm Đấng Hộ Phật.
-
-Bách Tự Minh Chú (Một Trăm Âm) – *yig brgya*, bài chú của Đức Kim Cương Tát Đỏa (Vajrasattva), tượng trưng cho tinh tuý của Trăm Đấng Hộ Phật (Bách Hộ Phật).
-
-Bài ca Kim Cương – *rdo rje mgur*, bài ca (*mgur*) diễn tả những kinh nghiệm nội tại của một hành giả du già (*yogi*) và sự chứng ngộ của Ngài về bản tánh bất hoại (kim cương) tối hậu.
-
-Bản tánh chân không, tánh sáng và lòng bi mẫn – *ngo bo, rang bzhin, thugs rje*. Cái thấy của Đại Viên Mãn: chân tánh cốt tuỷ của tâm và tất cả các hiện tượng đều là tánh Không; sự hiển lộ của chân tánh ấy là tánh sáng; lòng bi mẫn của tánh ấy thì bao trùm rộng khắp.
-
-Bảo Sanh Như Lai (Ratnasambhava) – *rin chen ‘byung gnas*, Đức Phật thuộc Bảo Sanh Bộ. Xem ngũ bộ Phật.
-
-Báo Thân (Sambhogakaya) – *longs spyod rdzogs pa’i sku*, Thân Thọ Dụng Viên Mãn (Body of Perfect Enjoyment),
-
-THUẬT NGỮ
+**Ba phương pháp siêu việt** – *dam pa gsum*. Xem **pháp chuẩn bị, công phu chính yếu và kết thúc**.
+**Ba Thân (kaya)** – *sku gsum*, Phạn: *trikaya*, nghĩa đen: **Ba Thân**: gồm ba khía cạnh của Phật Quả: **Pháp Thân, Báo Thân và Hoá Thân**.
+**Ba thực phẩm ngọt** – *mngar gsum*, đường, mật đường và mật ong.
+**Ba thực phẩm trắng** – *dkar gsum*, sữa, bơ và sữa đông, theo truyền thống là những món được coi là những thực phẩm rất thanh tịnh.
+**Ba thời** – *dus gsum*, Phạn: *trikala*, quá khứ, hiện tại và vị lai.
+**Ba ý niệm (tạo tác)** – *'khor gsum*, chủ thể, đối tượng và hành động, được nhìn như là có một sự hiện hữu thực sự và độc lập.
+**Bách Hộ Phật** – xem **Trăm Đấng Hộ Phật**.
+**Bách Tự Minh Chú (Một Trăm Âm)** – *yig brgya*, bài chú của Đức Kim Cương Tát Đỏa (Vajrasattva), tượng trưng cho tinh tuý của **Trăm Đấng Hộ Phật (Bách Hộ Phật)**.
+**Bài ca Kim Cương** – *rdo rje mgur*, bài ca (*mgur*) diễn tả những kinh nghiệm nội tại của một hành giả du già (yogi) và sự chứng ngộ của Ngài về bản tánh bất hoại (kim cương) tối hậu.
+**Bản tánh chân không, tánh sáng và lòng bi mẫn** – *ngo bo, rang bzhin, thugs rje*. Cái thấy của **Đại Viên Mãn**: chân tánh cốt tuỷ của tâm và tất cả các hiện tượng đều là tánh Không; sự hiển lộ của chân tánh ấy là tánh sáng; lòng bi mẫn của tánh ấy thì bao trùm rộng khắp.
+**Bảo Sanh Như Lai (Ratnasambhava)** – *rin chen 'byung gnas*, Đức Phật thuộc **Bảo Sanh Bộ**. Xem **ngũ bộ Phật**.
+**Báo Thân (Sambhogakaya)** – *longs spyod rdzogs pa'i sku*, Thân Thọ Dụng Viên Mãn (Body of Perfect Enjoyment),
 
 thể tánh chói sáng tự nhiên của Phật Quả, chỉ các bậc chứng ngộ cao mới nhận biết được.
 
-**Bảy báu vật cao quý (Thất thánh tài)** – *phags pa’i nor bdun*, Phạn: *saptadhanam*, niềm tin, giới luật, rộng lượng (bố thí), kiến thức, tận tâm, khiêm tốn và trí tuệ.
+**Bảy báu vật cao quý (Thất thánh tài)** – ‘phags pa’i nor bdun, Phạn: *saptadhanam*, niềm tin, giới luật, rộng lượng (bố thí), kiến thức, tận tâm, khiêm tốn và trí tuệ.
 
-**Bám chấp** – *dzin pa*, nghĩa đen; nắm giữ, cũng có nghĩa là có một sự tin tưởng. Vì thế “chấp ngã” cũng có thể được hiểu là “tin vào một cái Tôi.”
+**Bám chấp** – ‘dzin pa, nghĩa đen; nắm giữ, cũng có nghĩa là có một sự tin tưởng. Vì thế “chấp ngã” cũng có thể được hiểu là “tin vào một cái Tôi.”
 
-**Bậc khám phá kho tàng tâm linh (Khai Mật Tạng Vương)**, xem **kho tàng tâm linh**.
+**Bậc khám phá kho tàng tâm linh (Khai Mật Tạng Vương)**, xem kho tàng tâm linh.
 
-**Bậc siêu phàm** – *skyes bu dam pa*, “bậc chứng ngộ có khả năng hoạt động vì lợi lạc của những chúng sinh khác trong một phạm vi rộng lớn.” DICT.
+**Bậc siêu phàm** – skyes bu dam pa, “bậc chứng ngộ có khả năng hoạt động vì lợi lạc của những chúng sinh khác trong một phạm vi rộng lớn.” DICT.
 
-**Bẩm sinh (trí tuệ, hỉ lạc...)** – *lhan skyes*, Phạn: *sahaja*, nghĩa đen: đồng sinh ra, có nghĩa là trí tuệ, tâm thái hỉ lạc, và Niết Bàn nói chung đều hiện diện tiềm tàng trong ta cho dù ta kinh qua vô minh, đau khổ và luân hồi sinh tử. Hai phương diện của một bản tánh và cùng một bản tánh thì “đồng sanh”, nhưng được xem như là như những gì đối nghịch bởi những tâm thức không giác ngộ.
+**Bẩm sinh (trí tuệ, hỉ lạc...)** – lhan skyes, Phạn: *sahaja*, nghĩa đen: đồng sinh ra, có nghĩa là trí tuệ, tâm thái hỉ lạc, và Niết Bàn nói chung đều hiện diện tiềm tàng trong ta cho dù ta kinh qua vô minh, đau khổ và luân hồi sinh tử. Hai phương diện của một bản tánh và cùng một bản tánh là “đồng sanh”, nhưng được xem như là như những gì đối nghịch bởi những tâm thức không giác ngộ.
 
 **Bất Động Phật** – xem **Aksobhya** hay **Điều Hỷ Quốc**.
 
 **Bất Không Thành Tựu Phật** – xem **Amoghasiddhi**.
 
-**Bằng hữu tâm linh** – *chos grogs*, các đệ tử của cùng một vị Đạo Sư, hay của những vị mà ta đã nhận giáo lý. Có được những mối liên hệ hài hoà với những người như thế được coi là điều trọng yếu, nhất là trong **Kim Cương thừa**.
+**Bằng hữu tâm linh** – chos grogs, các đệ tử của cùng một vị Đạo Sư, hay của những vị mà ta đã nhận giáo lý. Có được những mối liên hệ hài hoà với những người như thế được coi là điều trọng yếu, nhất là trong **Kim Cương thừa**.
 
-**Bhagavan (Thế Tôn)** – *bcom ldan ‘das*, một danh hiệu của Đức Phật. Ngài từng chế ngự **bốn quỷ ma**, sở hữu (*ldan*) mọi phẩm tính của chứng ngộ, và siêu vượt (*‘das*) **sinh tử** và **Niết Bàn**.
+**Bhagavan (Thế Tôn)** – bcom ldan ‘das, một danh hiệu của Đức Phật. Ngài từng chế ngự **bốn quỷ ma**, sở hữu (*ldan*) mọi phẩm tính của chứng ngộ, và siêu vượt (‘das) sinh tử và **Niết Bàn**.
 
-**Brahma (Phạm Thiên)** – *tshangs pa*. Trong Phật Giáo, Brahma không được coi là một vị Hộ Phật trường cửu mà chỉ như là một vị cai quản chư Thiên của cõi Sắc Giới.
-
-643
+**Brahma (Phạm Thiên)** – tshangs pa. Trong Phật Giáo, Brahma không được coi là một vị Hộ Phật trường cửu mà chỉ như là một vị cai quản chư Thiên của cõi Sắc Giới.
 
 LỜI VÀNG CỦA THẦY TÔI
 
 **Bhrikuti** – *jo mo khro gnyer can*, một trong những thân tướng của Đức Quan Âm (Tara), nữ Bồ Tát của lòng từ bi. Danh hiệu này có nghĩa là “Người đàn bà với một cái chau mày trang nghiêm phẫn nộ.”
-
-**Biển hồ** – *rol pa'i mtsho chen*, “bảy hồ nước bao quanh Núi Tu Di, trong đó các Long Vương sinh sống và nô đùa.” DICT.
-
+**Biển hồ** – *rol pa’i mtsho chen*, “bảy hồ nước bao quanh Núi Tu Di, trong đó các Long Vương sinh sống và nô đùa.” DICT.
 **Biệt Giải Thoát Giới (Ba la đề mộc xoa)** – *so sor thar pa*, nghĩa đen: giải thoát cá nhân. Phạn: *Pratimoksha*. Các giới nguyện giải thoát cá nhân gồm có tám loại giới nguyện được dạy trong **Vinaya** (Luật Tạng), từ giới nguyện đơn giản trong một ngày cho tới các giới nguyện đầy đủ của các tăng sĩ thọ cụ túc giới. Xem **ba giới nguyện**.
-
 **Bindu (Giọt tinh chất)** – *thig le*, nghĩa đen: một vòng tròn, quả cầu, điểm tròn hay giọt, nhưng cũng cùng một loại với những ý nghĩa trừu tượng hơn. Chúng tôi đã dùng Phạn ngữ này trong chương viết về chuyển di tâm thức để nhấn mạnh về việc các mức độ ý nghĩa của chữ này rất đa tạp; trong những tình huống khác chúng tôi dịch cũng thuật ngữ đó là **tinh tuý**.
-
 **Bình bát bằng sọ người** – *thod phor*, Phạn: *kapala*. Đỉnh của một cái sọ được một vài hành giả du già dùng làm một cái bát trong một số nghi lễ. Bình bát này tượng trưng cho vô ngã.
-
 **Bình đẳng** – *mnyam pa nyid*, Phạn: *samata*. Vạn pháp cùng có bản tánh của tánh Không.
-
-**Bảo bình vĩ đại** – *gter chen po'i bum pa*, một trong **tám dấu hiệu tốt lành**. Dấu hiệu này tương ứng với cổ họng của Đức Phật và tượng trưng các giáo lý đáp ứng mọi điều mong cầu.
-
+**Bảo bình vĩ đại** – *gter chen po’i bum pa*, một trong **tám dấu hiệu tốt lành**. Dấu hiệu này tương ứng với cổ họng của Đức Phật và tượng trưng các giáo lý đáp ứng mọi điều mong cầu.
 **Bảo Tháp (Stupa)** – xem **Bodhnath**.
-
 **Bodhnath** – *bya rung kha shor*, được phát âm là “Jarungkashor”, một trong hai đại bảo tháp trong thung lũng Kathmandu. Lịch sử của việc xây dựng tháp này gắn
 
 THUẬT NGỮ
@@ -10624,51 +10622,42 @@ liền với sự du nhập của Phật Giáo ở Tây Tạng và được mô 
 
 **Bồ Đề Tâm** – *byang chub kyi sems*, nghĩa đen: tâm giác ngộ. Trên bình diện tương đối, đây là ước muốn đạt được Phật Quả vì lợi ích của tất cả chúng sinh. Từ này cũng bao gồm việc thực hành pháp tu của lòng từ, bi, sáu pháp toàn thiện siêu việt (lục độ ba la mật), v.v. là những pháp tu cần thiết để đạt được mục đích của Phật Quả. Trên bình diện tuyệt đối, đây là kinh nghiệm nội quán sâu sắc, chứng ngộ trực tiếp bản tánh của chân như tối thượng.
 
-**Bồ Tát (Bodhisattva)**– *byang chub sems dpa’*, 1) một hiện thân với quyết tâm muốn đưa tất cả chúng sinh tới bờ giác ngộ và đang thực hành con đường Bồ Tát. 2) một Bồ Tát siêu phàm là bậc đã đạt được một trong mười **quả vị (địa)** của Bồ Tát.
+**Bồ Tát (Bodhisattva)**– *byang chub sems dpa'*, 1) một hiện thân với quyết tâm muốn đưa tất cả chúng sinh tới bờ giác ngộ và đang thực hành con đường Bồ Tát. 2) một Bồ Tát siêu phàm là bậc đã đạt được một trong mười **quả vị (địa)** của Bồ Tát.
 
-**Bồ Tát Tu Viện Trưởng** – danh hiệu đôi khi được biết tới của Ngài Tịch Hộ (Santaraksita).
+**Bồ Tát Tu Viện Trưởng** – danh hiệu đôi khi được biết tới của Ngài **Tịch Hộ (Santaraksita)**.
 
-**Bốn ẩn dụ** – *‘du shes bzhi*, Nghĩ tưởng về bản thân như người bị bệnh, thiện tri thức như thầy thuốc, Pháp như phương thuốc, và việc thực hành giáo huấn của Ngài như phương pháp để hồi phục.
+**Bốn ẩn dụ** – *'du shes bzhi*, Nghĩ tưởng về bản thân như người bị bệnh, thiện tri thức như thầy thuốc, Pháp như phương thuốc, và việc thực hành giáo huấn của Ngài như phương pháp để hồi phục.
 
-**Bốn cách để nhiếp thọ chúng sinh (Tứ nhiếp pháp)** – *bsdu ba’i ngos po bzhi*, Phạn: *catuhsamgrahavastu*, bốn cách trong đó một vị Bồ Tát có thể thu phục (nhiếp thọ) các đệ tử: 1) rộng lượng (*sbyin pa*, Phạn: *dana*), 2) biểu lộ bằng lời nói một cách vui vẻ (*snyan par smra ba, priyavadita*), 3) giảng dạy phù hợp với căn cơ của từng người (*don mthun*
-
-645
+**Bốn cách để nhiếp thọ chúng sinh (Tứ nhiếp pháp)** – *bsdu ba'i ngos po bzhi*, Phạn: *catuhsamgrahavastu*, bốn cách trong đó một vị Bồ Tát có thể thu phục (nhiếp thọ) các đệ tử: 1) rộng lượng (*sbyin pa*, Phạn: *dana*), 2) biểu lộ bằng lời nói một cách vui vẻ (*snyan par smra ba, priyavadita*), 3) giảng dạy phù hợp với căn cơ của từng người (*don mthun
 
 LỜI VÀNG CỦA THẦY TÔI
 
-pa, samanarthata), 4) hành xử phù hợp với những gì Ngài giảng dạy (don spyod pa, arthacarya).
-
+pa, samanarthata), 4) hành xử phù hợp với những gì Ngài giảng dạy (*don spyod pa, arthacarya*).
 **Bốn chướng ngại** – *sgrib bzhi*, các chướng ngại của 1) các cảm xúc tiêu cực (phiền não chướng), 2) các chướng ngại gây ra bởi nghiệp (nghiệp chướng), 3) các chướng ngại gây bởi ý niệm (sở tri chướng) và 4) các chướng ngại gây ra bởi các tập quán quen thuộc. Xem **hai chướng ngại**.
-
-**Bốn hỉ lạc** – *dga’ ba bzhi*, Phạn: *caturananda*, bốn kinh nghiệm vi tế tăng trưởng của lạc vượt lên trên các cảm xúc bình phàm, được nối kết với công phu hành trì pháp quán đảnh thứ ba, hay quán đảnh trí tuệ.
-
+**Bốn hỉ lạc** – *dga' ba bzhi*, Phạn: *caturananda*, bốn kinh nghiệm vi tế tăng trưởng của lạc vượt lên trên các cảm xúc bình phàm, được nối kết với công phu hành trì pháp quán đảnh thứ ba, hay quán đảnh trí tuệ.
 **Bốn hay sáu phân loại Mật điển (Tantra)** – *rgyud sde bzhi* hay *drug*, cách phân loại các Mật điển thành ra bốn phần: **Kriya**, **Carya**, (hay **Upa**), **Yoga** và **Anuttarayoga** (sự phân loại này thường được dùng trong các phái **Tân Dịch - New Translations School**); hay thành sáu nhóm: **Kriya**, **Upayoga**, **Yoga**, **Mahayoga**, **Anuyoga** và **Atiyoga** (thường dùng trong **Truyền thống Cổ Mật**).
-
 **Bốn công hạnh (Tứ chủng pháp)** – *phrin las bzhi*, bốn loại hoạt động được những bậc chứng ngộ thực hiện, để giúp đỡ những người khác và tẩy trừ những hoàn cảnh bất lợi: làm cho an bình (*zhi ba*), làm cho tăng trưởng (*sgyas pa*), điều phục (*dbang*) và chế ngự một cách mãnh liệt (*drag po*).
-
 **Bốn nguồn đau khổ** – *sdug sngal gyi chu bo chen po bzhi*, sanh, bệnh, lão và tử.
-
 **Bốn quán đảnh** – *dbang bzhi*, quán đảnh tịnh bình, quán đảnh ẩn mật, quán đảnh trí tuệ và quán đảnh ngôn từ cao quý.
-
 **Bốn quỷ ma** – *bdud bzhi*, xem chú thích 230. Cũng xem **quỷ ma**.
 
 THUẬT NGỮ
 
-**Bốn Thân** – ba Thân cộng thêm *svabhavikakaya*, ngo bo nyid kyi sku, Thân Tự Tánh, tượng trưng tính chất bất khả phân của ba Thân đầu tiên.
+**Bổn Thân** – ba Thân cộng thêm *svabhavikakaya*, ngo bo nyid kyi sku, Thân Tự Tánh, tượng trưng tính chất bất khả phân của ba Thân đầu tiên.
 
-**Bốn linh kiến** – *snang ba bzhi*, bốn giai đoạn liên tiếp trong pháp hành trì *thogal* trong Đại Viên Mãn: 1) Pháp tánh (dharmata) thực sự xuất hiện (*chos nyid mngon sum*), 2) sự phát triển của các kinh nghiệm và các huyễn tướng (*nyams snang gong ‘phel*), 3) Giác tánh đạt đến mức cao tột (*rig pa tshad phebs*), 4) sự cạn kiệt của các hiện tượng siêu vượt tâm thức (*chos zad blo ‘das*).
+**Bổn linh kiến** – *snang ba bzhi*, bốn giai đoạn liên tiếp trong pháp hành trì *thogal* trong Đại Viên Mãn: 1) Pháp tánh (*dharmata*) thực sự xuất hiện (*chos nyid mngon sum*), 2) sự phát triển của các kinh nghiệm và các huyễn tướng (*nyams snang gong ‘phel*), 3) Giác tánh đạt đến mức cao tột (*rig pa tshad phebs*), 4) sự cạn kiệt của các hiện tượng siêu vượt tâm thức (*chos zad blo ‘das*).
 
-**Bổn Tôn** – xem **Yidam**.
+**Bổn Tôn** – xem Yidam.
 
-**Bốn trạng thái vô sắc** – *gzugs med bzhi*, bốn phân loại của trạng thái định, gồm có không vô biên xứ (*nam mkha’ mtha’ yas*, Phạn: akasanantya), thức vô biên xứ (*nam shes mtha’yas*, vijnanasantya), vô sở hữu xứ (*ci yang med pa*, akimcanya), và phi tưởng phi phi tưởng xứ (*‘du shes med ‘du shes med min*, naivasamjnasamjna); bốn cõi Trời tương ứng với những loại định này.
+**Bổn trạng thái vô sắc** – *gzugs med bzhi*, bốn phân loại của trạng thái định, gồm có không vô biên xứ (*nam mkha’ mtha’ yas*, Phạn: *akasanantya*), thức vô biên xứ (*nam shes mtha’yas, vijnanasantanya*), vô sở hữu xứ (*ci yang med pa, akimcanya*), và phi tưởng phi phi tưởng xứ (*‘du shes med ‘du shes med min, naivasamjnasamjna*); bốn cõi Trời tương ứng với những loại định này.
 
-**Buddha** – xem **Phật** (Tạng: sangye).
+**Buddha** – xem Phật (Tạng: *sangye*).
 
-**Ca Diếp** – xem **Kasyapa**.
+**Ca Diếp** – xem Kasyapa.
 
 **Camaradvipa** – *rnga yab gling*, một trong tám tiểu lục địa trong vũ trụ quan Ấn Độ thời xa xưa, phía tây của **Jambudvipa** (cõi Diêm Phù Đề). Đây là lục địa tây nam được ám chỉ là cõi Phật mang tên **Núi Huy Hoàng Màu Đồng Đỏ**.
 
-**Cảm xúc (cảm thọ)** – xem **chướng ngại**, **chướng ngại thuộc cảm xúc tiêu cực** hay **Bốn chướng ngại**.
+**Cảm xúc (cảm thọ)** – xem **chướng ngại, chướng ngại thuộc cảm xúc tiêu cực** hay **Bốn chướng ngại**.
 
 **Cấp độ (tu chứng)** – xem **địa Bồ Tát**.
 
@@ -10676,9 +10665,7 @@ THUẬT NGỮ
 
 **Các vị Trời phi tưởng** – *‘du shes med pa’i lha*, chư Thiên trong cõi Vô sắc.
 
-**Các vị Trời và quỷ ma** – *lha ‘dre*, nói chung ám chỉ mọi loại tinh linh khác nhau, dù có ích lợi (*lha*) hay là tai hại (*‘dre*).
-
-647
+**Các vị Trời và quỷ ma** – *lha ‘dre*, nói chung ám chỉ mọi loại tinh linh khác nhau, dù có ích lợi (*lha*) hay là tai hại (‘*dre*).
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -10686,72 +10673,63 @@ LỜI VÀNG CỦA THẦY TÔI
 **Cây Giác ngộ (cây Bồ Đề)** – *byang chub kyi shing*, Đức Phật đã đạt được giác ngộ ở cội cây này.
 **Cây như ý** – *dpag bsam gyi shing*, loại cây kỳ diệu có gốc rễ ở cõi A Tu La nhưng lại kết trái trong **cõi Trời thứ Ba Mươi Ba** (Đao Lợi Thiên hay Đế Thích Thiên).
 **Cam lồ** – xem **ambrosia**.
-**Cảm xúc tiêu cực** – *nyon mongs pa*, Phạn. *klesa*, “các hiện tượng trong tâm tấn công thân và tâm, và đưa dẫn tới các hành vi ác hại, gây nên một trạng thái đau khổ trong tâm thức.” DICT. AT: các cảm xúc đau buồn, tham đắm, phiền não. Từ đồng nghĩa với độc (*dug*). Xem **năm độc**.
+**Cảm xúc tiêu cực** – *nyonmongspa*, Phạn. *klesa*, “các hiện tượng trong tâm tấn công thân và tâm, và đưa dẫn tới các hành vi ác hại, gây nên một trạng thái đau khổ trong tâm thức.” DICT. AT: các cảm xúc đau buồn, tham đắm, phiền não. Từ đồng nghĩa với độc (*dug*). Xem **năm độc**.
 **Câu Lưu Tôn Phật** (Destroyer-of-Samsara Buddha) – xem **Krakucchanda**.
 **Chagme Rinpoche** – xem **Karma Chagme**.
-**Chakshingwa, (Geshe)** – *lcags shing ba*, một geshe Kadampa, đệ tử của **Langri Thangpa**.
+**Chakshingwa, (Geshe)** – *lcags shing ba*, một *geshe* Kadampa, đệ tử của **Langri Thangpa**.
 **Chày kim cương** – xem **vajra**.
 **Chân đế** – xem **Chân lý tuyệt đối**.
-**Chân lý tương đối (Tục đế)** – *kun rdzob bden pa*, Phạn. *samvriti satya*, chân lý hiển lộ bề ngoài được nhận thức và coi như thực có bởi những tâm thức mê lầm.
-**Chân lý tuyệt đối (Chân đế)** – *don dam bden pa*, Phạn. *paramartha satya*, chân lý đích thực được nhận thức bằng trí tuệ, không có sự tạo tác của tâm thức. Tính chất của chân đế hay chân lý tối thượng thì “siêu vượt tâm thức, không thể suy lường, không thể diễn bày” (Patrul Rinpoche). Cũng xem **chân lý tương đối**.
+**Chân lý tương đối (Tục đế)** – *kun rdzob bden pa*, Phạn. *samvritisatya*, chân lý hiển lộ bề ngoài được nhận thức và coi như thực có bởi những tâm thức mê lầm.
+**Chân lý tuyệt đối (Chân đế)** – *don dam bden pa*, Phạn. *paramarthasatya*, chân lý đích thực được nhận thức bằng trí tuệ, không có sự tạo tác của tâm thức. Tính chất của chân đế hay chân lý tối thượng thì “siêu vượt tâm thức, không thể suy lường, không thể diễn bày” (Patrul Rinpoche). Cũng xem **chân lý tương đối**.
 
-648
+# THUẬT NGỮ
 
-THUẬT NGỮ
-
-**Chân nghĩa (Liễu nghĩa)** – *nges don*, Phạn: *nitartha*, cách diễn tả trực tiếp chân lý từ quan điểm của những bậc chứng ngộ. Xem **phương tiện nghĩa**.
+**Chân nghĩa (Liễu nghĩa)** – nges don, Phạn: nitartha, cách diễn tả trực tiếp chân lý từ quan điểm của những bậc chứng ngộ. Xem **phương tiện nghĩa**.
 
 **Chấp ngã** – xem **bám chấp**.
 
-**Chekawa Yeshe Dorje** – *'chad kha ba ye shes rdo rje* (1101-1175), một geshe Kadampa nổi tiếng. Ngài đã hệ thống hoá các giáo lý Chuyển Tâm thành bảy điểm, và làm cho giáo lý này dễ hiểu hơn. Xem *Đại Đạo Tỉnh Giác* của Jamgon Kongtrul, Shambhala, 1987, và *Dũng Khí Toàn Giác*, Dilgo Khyentse, Bản của Padmakara, 1992 (khắp thế giới ngoại trừ Bắc Mỹ) và Snow Lion, 1993 (riêng ở Bắc Mỹ).
+**Chekawa Yeshe Dorje** – ‘chad kha ba ye shes rdo rje (1101-1175), một geshe Kadampa nổi tiếng. Ngài đã hệ thống hoá các giáo lý Chuyển Tâm thành bảy điểm, và làm cho giáo lý này dễ hiểu hơn. Xem *Đại Đạo Tỉnh Giác* của Jamgon Kongtrul, Shambhala, 1987, và *Dũng Khí Toàn Giác*, Dilgo Khyentse, Bản của Padmakara, 1992 (khắp thế giới ngoại trừ Bắc Mỹ) và Snow Lion, 1993 (riêng ở Bắc Mỹ).
 
-**Chengawa, (Geshe)** – *spyan snga ba* (1038-1103), đệ tử của Drom Tonpa, là người bắt đầu truyền dạy các giáo huấn khẩu truyền Kadampa.
+**Chengawa, (Geshe)** – spyan snga ba (1038-1103), đệ tử của Drom Tonpa, là người bắt đầu truyền dạy các giáo huấn khẩu truyền Kadampa.
 
-**Chenrezi** – *spyan ras gzigs*, danh hiệu Tây Tạng của Đức Avalokitesvara (Quán Thế Âm hay Quán Tự Tại).
+**Chenrezi** – spyan ras zgigs, danh hiệu Tây Tạng của Đức **Avalokitesvara** (Quán Thế Âm hay Quán Tự Tại).
 
-**Chín Đại-Quảng-Trí (Nine Expanses)** – *klong dgu*, chín phân loại của Đại-Quảng-Trí (*klong sde*) trong giáo lý **Đại Viên Mãn**.
+**Chín Đại-Quảng-Trí (Nine Expanses)** – klong dgu, chín phân loại của Đại-Quảng-Trí (*klong sde*) trong giáo lý **Đại Viên Mãn**.
 
-**Chö** – *gcod*, nghĩa đen: cắt đứt, đoạn diệt. Phương pháp thiền định trong đó ta cúng dường thân thể chính mình để cắt đứt bốn **quỷ ma** trong ta. **Machik Labdron** đã thọ nhận các giáo lý Chö từ vị Thầy Ấn Độ **Padampa Sangye** và từ Lạt Ma Kyoton Sonam, và truyền bá giáo pháp này trong xứ Tây Tạng.
+**Chö** – gcod, nghĩa đen: cắt đứt, đoạn diệt. Phương pháp thiền định trong đó ta cúng dường thân thể chính mình để cắt đứt bốn quỷ ma trong ta. **Machik Labdron** đã thọ nhận các giáo lý Chö từ vị Thầy Ấn Độ **Padampa Sangye** và từ Lạt Ma Kyoton Sonam, và truyền bá giáo pháp này trong xứ Tây Tạng.
 
-**Chogyal Pakpa** – *chos rgyal 'phags pa* (1235-1280), một trong tám đại học giả của phái **Sakya** được gọi là Sakya Gongma. Ngài trở thành vị giáo thọ của Hoàng Đế Mông Cổ Kublai Khan và quan Nhiếp Chính của Tây Tạng.
+**Chogyal Pakpa** – chos rgyal ‘phags pa (1235-1280), một trong tám đại học giả của phái **Sakya** được gọi là Sakya Gongma. Ngài trở thành vị giáo thọ của Hoàng Đế Mông Cổ Kublai Khan và quan Nhiếp Chính của Tây Tạng.
 
-**Chuông** – *dril bu*, Phạn: *ghanta*. Xem **vajra (kim cương)**.
+**Chuông** – dril bu, Phạn: ghanta. Xem **vajra (kim cương)**.
 
-LỜI VÀNG CỦA THẦY TÔI
+LỜI VÀNG CỦA THẦY TÔ
 
 **Chủ nghĩa hư vô (Thuyết hư vô)** – *chad par lta ba*, Phạn: *vibhava drsti*, thuyết duy vật, quan điểm phủ nhận sự hiện hữu của tiền kiếp trong quá khứ hay các kiếp tương lai, phủ nhận nguyên lý nhân quả, và v.v. (*Kinh văn Hán Việt thường gọi là Đoạn kiến hay Đoạn chấp*).
-
 **Chủ nghĩa vĩnh cửu (Thuyết vĩnh cửu)** – *rtag par lta ba*, Phạn: *atmadrsti, satkayadrsti*, niềm tin nơi một thực thể hiện hữu bất diệt, ví dụ như một linh hồn. Được coi như một khuynh hướng triết học cực đoan. Xem **chủ nghĩa hư vô**. (*Kinh văn Hán Việt thường gọi là Thường kiến hay Ngã kiến, Ngã chấp*).
-
 **Chuyển luân vị (Chủ nhân mặt đất)** – *sa bdag*, Phạn: *bhumipati*, một tinh linh chiếm cứ một địa điểm.
-
-**Chuyển Luân Thánh Vương** – *'khor lo sgyur ba'i rgyal po*, Phạn: *cakravartin*, 1) một thiên vương cai quản một hệ trong thế giới (theo vũ trụ quan của Phật Giáo). 2) một vị hoàng đế.
-
-**Chư Thiên (các vị Trời)** – *lha*, chúng sinh ở một trong sáu cõi, bị chế ngự bởi tánh kiêu ngạo. Để tránh sự lầm lẫn chúng tôi đã dịch *lha* là “**Bổn Tôn**” khi (được sử dụng trong một ngữ cảnh) ám chỉ một vị Phật hay một vị **Bổn Tôn Trí Tuệ**.
-
-**Chướng ngại (chướng)**– *sgrib pa*, Phạn: *avarana*, các yếu tố ngăn che Phật tánh của ta. Cũng xem: **hai chướng ngại**, **bốn chướng ngại**.
-
-**Chướng ngại thuộc cảm xúc tiêu cực (phiền não chướng)**– *nyon mongs kyi sgrib pa* Phạn: *klesavarana*, “các niệm tưởng (thù ghét, tham luyến v.v.); chúng ngăn trở ta không đạt được sự giải thoát.” DICT. Xem **chướng ngại**.
-
+**Chuyển Luân Thánh Vương** – *'khor lo sgyur ba'i rgyal po*, Phạn: *cakravartin*, 1) một thiên vương cai quản một hệ thống trong thế giới (theo vũ trụ quan của Phật Giáo). 2) một vị hoàng đế.
+**Chư Thiên (các vị Trời)** – *lha*, chúng sinh ở một trong sáu cõi, bị chế ngự bởi tánh kiêu ngạo. Để tránh sự lầm lẫn chúng tôi đã dịch *lha* là “Bổn Tôn” khi (được sử dụng trong một ngữ cảnh) ám chỉ một vị Phật hay một vị Bổn Tôn Trí Tuệ.
+**Chướng ngại (chướng)**– *sgrib pa*, Phạn: *avarana*, các yếu tố ngăn che Phật tánh của ta. Cũng xem: **hai chướng ngại, bốn chướng ngại**.
+**Chướng ngại thuộc cảm xúc tiêu cực (phiền não chướng)**– *nyon mongs kyi sgrib pa* Phạn: *klesavarana*, “các niệm tưởng (thù ghét, tham luyến v.v..); chúng ngăn trở ta không đạt được sự giải thoát.” DICT. Xem **chướng ngại**.
 **Chướng ngại thuộc tập khí (nghiệp chướng)**– *bag chags kyi sgrib pa*, Phạn: *vasanavarana*, các khuynh hướng quen thuộc (tập khí) được in dấu trên tạng thức (thức nền tảng). Xem **chướng ngại**.
 
 THUẬT NGỮ
 
 **Chướng ngại thuộc ý niệm (sở tri chướng)** – *shes bya'i sgrib pa*, Phạn: *jneyavarana* “Đây là những ý niệm về chủ thể, đối tượng và hành động, chúng ngăn cản ta không đạt được Toàn Giác.” DICT. Xem **chướng ngại**.
 
-**Cõi thấp** – *ngan song*, các cõi địa ngục, các cõi của ngạ quỷ và súc sinh.
+**Cõi thấp** – *ngan song*, các cõi địa ngục, các cõi của **ngạ quỷ** và súc sinh.
 
 **Cõi** – xem **sáu cõi luân hồi**.
 
-**Cõi Cực Lạc (Tịnh Độ)** – *bde ba can*, Phạn: *Sukhavati*, cõi Phật ở phương Tây của Đức Phật Amitabha (A Di Đà).
+**Cõi Cực Lạc (Tịnh Độ)** – *bde ba can*, Phạn: *Sukhavati*, cõi Phật ở phương Tây của Đức Phật **Amitabha (A Di Đà)**.
 
 **Cõi Hỉ Túc** – *dga' ldan*, xem **Cung Trời Đâu Suất**.
 
 **Cõi Phạm Thiên (Brahma)** – *tshang pa'i 'jig rten*, Phạn: *brahmaloka*, nói chung, tất cả các cõi sắc và vô sắc.
 
-**Cõi tịnh độ Cực Lạc** – *bde ba can*, Phạn: *Sukhavati*, cõi Phật của Đức Amitabha (A Di Đà).
+**Cõi tịnh độ Cực Lạc** – *bde ba can*, Phạn: *Sukhavati*, cõi Phật của Đức **Amitabha (A Di Đà)**.
 
-**Cõi Trời thứ Ba Mươi Ba (Đao Lợi Thiên hay Đế Thích Thiên)** – *gsum cu rtsa gsum*, Phạn: *Trayastrimsa*, một cõi Trời trong Dục giới, trụ xứ của vua Đế Thích (Indra) và ba mươi hai vị đại thần. Xem **tam giới**.
+**Cõi Trời thứ Ba Mươi Ba (Đao Lợi Thiên hay Đế Thích Thiên)** – *gsum cu rtsa gsum*, Phạn: *Trayastrimsa*, một cõi Trời trong Dục giới, trụ xứ của vua **Đế Thích (Indra)** và ba mươi hai vị đại thần. Xem **tam giới**.
 
 **Con đường của cái thấy (Kiến đạo) (Path of Seeing)** – *mthong lam*, Phạn: *darsanamarga*, con đường thứ ba trong năm con đường tu, trên con đường Bồ Tát Đạo. Được gọi là như vậy là bởi trên con đường đó, ta thực sự trực nhận được hai loại vô ngã (có nghĩa là vắng mặt của “bản ngã,” vắng mặt của sự hiện hữu vững chắc, độc lập). Hai loại vô ngã này gồm có vô ngã của một cá nhân và vô ngã của các hiện tượng.
 
@@ -10759,9 +10737,7 @@ THUẬT NGỮ
 
 **Con đường vun bồi công đức (Path of Accumulating)** – *tshogs lam*, Phạn: *sambharamarga*, con đường thứ nhất
 
-651
-
-LỜI VÀNG CỦA THẦY TÔI
+# LỜI VÀNG CỦA THẦY TÔI
 
 trong năm con đường tu hướng tới giác ngộ theo Bồ Tát Thừa. Trên con đường này, ta tích lũy những nguyên nhân (công đức) giúp ta có thể cất bước hướng tới giác ngộ.
 
@@ -10769,21 +10745,21 @@ trong năm con đường tu hướng tới giác ngộ theo Bồ Tát Thừa. Tr
 
 **Cổ phái** – tức là truyền thống Nyingmapa. Xem **Cựu Dịch, Cựu Phái Dịch Thuật, Cổ Mật**.
 
-**Cung điện Liên Hoa Quang** – *padma 'od kyi pho brang*, cung điện của Đức Padmasambhava trong cõi Phật **Núi Huy Hoàng Màu Đồng Đỏ**.
+**Cung điện Liên Hoa Quang** – padma ‘od kyi pho brang, cung điện của Đức Padmasambhava trong cõi Phật **Núi Huy Hoàng Màu Đồng Đỏ**.
 
-**Cung điện Toàn Thắng** – *rnam rgyal pho brang*, cung điện của cung Trời Đế Thích (Indra).
+**Cung điện Toàn Thắng** – rnam rgyal pho brang, cung điện của cung Trời Đế Thích (Indra).
 
-**Cung Trời Đâu Suất** – *dga' ldan*, cõi (ở tầng quả thứ tư) của các vị Trời thuộc Dục giới, trong đó Đức Phật **Thích Ca Mâu Ni** đã tái sinh lần cuối cùng trước khi xuất hiện trong thế giới này. Hiện tại Đức Di Lặc (**Maitreya**), Đức Phật vị lai, đang an trụ trong Cung Trời Đâu Suất giảng dạy Đại Thừa. Phạn : *Tushita*. Xem **ba cõi** hay **Tam giới**.
+**Cung Trời Đâu Suất** – dga’ ldan, cõi (ở tầng quả thứ tư) của các vị Trời thuộc Dục giới, trong đó Đức Phật **Thích Ca Mâu Ni** đã tái sinh lần cuối cùng trước khi xuất hiện trong thế giới này. Hiện tại Đức Di Lặc (Maitreya), Đức Phật vị lai, đang an trụ trong Cung Trời Đâu Suất giảng dạy Đại Thừa. Phạn: *Tushita*. Xem **ba cõi** hay **Tam giới**.
 
-**Cung Trời Tịnh Quang** – *'od gsal gyi lha*, Phạn: *Abhasvara*, cấp độ cao nhất của các vị Trời thuộc Nhị Thiền (trong Sắc Giới).
+**Cung Trời Tịnh Quang** – ‘od gsal gyi lha, Phạn: *Abhasvara*, cấp độ cao nhất của các vị Trời thuộc Nhị Thiền (trong Sắc Giới).
 
 **Cuộn giấy vàng** – *shog ser*, miếng giấy (không nhất thiết phải là màu vàng) trên đó các bản văn của các **kho tàng tâm linh** (tàng kinh) được ghi chép lại.
 
 **Cúng dường lửa** – *gsur*, pháp cúng dường được thực hiện bằng cách đốt thực phẩm trên than đá. Món cúng phẩm này được dâng lên cúng dường cho chư Phật, các vị Hộ Pháp, tất cả chúng sinh nói chung và đặc biệt là cho những tinh linh lang thang và những oan gia mà ta có những món nợ nghiệp với họ. *gsur* trắng thông thường được chuẩn bị với ba thực phẩm trắng và ba thực phẩm ngọt. *gsur* đỏ được chuẩn bị với thịt.
 
-THUẬT NGỮ
+# THUẬT NGỮ
 
-**Cửa Phạm Thiên** – *tshang pa'i bu ga*, Phạn. *brahmarandra*, điểm tụ ở trên đỉnh đầu nơi kinh mạch trung ương chấm dứt.
+**Cửa Phạm Thiên** – *tshang pa'i bu ga*, Phạn: *Brahmarandra*, điểm tụ ở trên đỉnh đầu nơi kinh mạch trung ương chấm dứt.
 
 **Cựu Dịch (Cựu Phái Dịch Thuật)** – *snga 'gyur*, danh hiệu được ban cho các giáo lý đầu tiên được dịch ra từ Phạn ngữ và truyền bá ở Tây Tạng, là giáo lý của phái Cổ Mật, hay truyền thống Nyingmapa, ngược lại với các giáo lý được chuyển dịch và truyền bá từ thế kỷ thứ mười trở đi và là giáo lý sinh ra **Tân Phái** của Phật Giáo Tây Tạng.
 
@@ -10791,64 +10767,43 @@ THUẬT NGỮ
 
 **Dagpo Rinpoche** – *dwags po rin po che* (1079-1153), cũng được gọi là Gampopa, đệ tử nổi tiếng nhất của **Milarepa** và là vị khai sáng dòng truyền thừa **Kagyu**.
 
-**Daka** – *mkha 'gro*, nghĩa đen: du hành trong Pháp Giới (Không Hành), hay *dpa' bo*, vị anh hùng. Trong Kim Cương Thừa thì các vị Không Hành nam tương đương với Bồ Tát. Các vị Không Hành nam (Daka) tương đương với **dakini** (của phái nữ).
+**Daka** – *mkha' 'gro*, nghĩa đen: du hành trong Pháp Giới (Không Hành), hay *dpa' bo*, vị anh hùng. Trong Kim Cương Thừa thì các vị Không Hành nam tương đương với Bồ Tát. Các vị Không Hành nam (Daka) tương đương với **dakini** (của phái nữ).
 
-**Dakini (Nữ Không Hành, Thiên Nữ Trí Tuệ, Thiên Nữ Diệu Không)** – *mkha' 'gro ma*, nghĩa đen: du hành trong hư không. Nguyên lý nữ được kết hợp với trí tuệ. Thuật ngữ này có vài mức độ ý nghĩa khác nhau. Có những vị Không Hành nữ hay Thiên nữ Diệu Không (dakini) bình thường, là những vị với một mức độ chứng ngộ tâm linh nào đó, và các vị *dakini* trí tuệ (Thiên Nữ Trí Tuệ) là những bậc hoàn toàn chứng đắc. Xem **Ba Nguồn Gia Trì**.
+**Dakini (Nữ Không Hành, Thiên Nữ Trí Tuệ, Thiên Nữ Diệu Không)** – *mkha' 'gro ma*, nghĩa đen: du hành trong hư không. Nguyên lý nữ được kết hợp với trí tuệ. Thuật ngữ này có vài mức độ ý nghĩa khác nhau. Có những vị Không Hành nữ hay Thiên Nữ Diệu Không (dakini) bình thường, là những vị với một mức độ chứng ngộ tâm linh nào đó, và các vị *dakini* trí tuệ (Thiên Nữ Trí Tuệ) là những bậc hoàn toàn chứng đắc. Xem **Ba Nguồn Gia Trì**.
 
 **Damchen** – *dam chen (rdo rje legs pa)*, một vị Hộ Pháp, bị Đức Liên Hoa Sanh (**Padmasambhava**) buộc phải hứa nguyện.
-
-653
 
 LỜI VÀNG CỦA THẦY TÔI
 
 **Darsaka** – *mthong ldan*, danh hiệu khác của Ajatasatru, nam tử của Vua Bimbisara (Bình Sa), vua xứ Magadha (Ma Kiệt Đà) và là vị thí chủ quan trọng nhất của Đức Phật Thích Ca Mâu Ni. Mặc dù ông đã giết hại thân phụ mình, về sau ông ăn năn và tịnh hoá các hành nghiệp xấu ác của mình tới mức đạt được địa của một **Bồ Tát**.
-
 **Dharmakaya** – *chos sku*, nghĩa đen: **Pháp Thân**. Đây là thể tính của tánh Không của Phật Quả. Pháp thân cũng có thể được dịch như là thân của chân đế, một thể tính tuyệt đối.
-
 **Dharmata (Pháp tánh)** – *chos nyid*, “bản tánh rỗng rang.” DICT.
-
-**Dharmodgata** – *chos ‘phags*, “Pháp Khởi Siêu Phàm,” vị Bồ Tát mà Thường Đề Bồ Tát (**Sadaprarudita**) đã thọ nhận giáo lý về trí tuệ bát nhã siêu việt.
-
+**Dharmodgata** – *chos ‘phags*, “Pháp Khởi Siêu Phàm,” vị Bồ Tát mà Thường Đề Bồ Tát (Sadaprarudita) đã thọ nhận giáo lý về trí tuệ bát nhã siêu việt.
 **Diêm Phù Đề (Jambudvipa)** – *‘dzam bu gling*, lục địa phía nam, một trong bốn “trung châu” (lục địa) chính trong vũ trụ quan của Ấn Độ thời xa xưa, là nơi chúng ta đang sinh sống. Trong một vài hoàn cảnh, danh hiệu này ám chỉ miền Nam Á, và trong những hoàn cảnh khác, cõi này ám chỉ thế giới theo một ý nghĩa thông thường.
-
-**Dipamkara (Nhiên Đăng)**– Pháp danh của Ngài **Atisa**.
-
+**Dipamkara (Nhiên Đăng)**– Pháp danh của Ngài Atisa.
 **Doha** – một bài đạo ca trong đó một thành tựu giả (ví dụ như Ngài **Saraha** hay **Virupa**) diễn tả sự chứng ngộ của Ngài.
-
 **Dòng truyền qua biểu tượng của các Vidyadhara** – *rig ‘dzin brda yi brgyud*, dòng truyền dạy các giáo lý bằng phương tiện thiện xảo qua cử chỉ hay biểu tượng.
-
 **Dòng nhĩ truyền hay truyền qua việc lắng nghe của chúng sinh bình thường** – *gang zag snyan brgyud*, dòng truyền dạy mà vị Thầy cần phải sử dụng ngôn từ và đệ tử lắng nghe những lời lẽ ấy, hơn là sự truyền dạy giáo lý bằng tâm truyền tâm hay bằng cách dùng các biểu tượng.
 
 THUẬT NGỮ
 
 **Dòng tâm truyền của các Đấng Chiến Thắng** - *rgyal ba dgongs brgyud*, dòng truyền dạy giáo lý tâm truyền tâm.
-
-**Drikung Kyobpa** - *‘bri gung skyob pa* (1143-1217), vị sáng lập Tu viện Drikung và tông phái Drikung Kagyu.
-
-**Drom Tonpa** - *‘brom ston pa*, được gọi là *‘brom ston rgyal ba’i ‘byung gnas* (1005-1064), đệ tử Tây Tạng chính yếu của Atisa, một trong những vị Thầy đầu tiên của phái Kadampa và là vị sáng lập Tu viện Radreng (*rva sgreng*) (thường được phiên âm là “Reting”).
-
-**Druk Pema Karpo** - *‘brug padma dkar po* (thế kỷ thứ 16), Drukchen Rinpoche thứ 3, Đạo sư và tác giả vĩ đại của phái Drukpa Kagyu và là vị sáng lập Tu viện Sangak Choling.
-
-**Du Già** - xem **Yoga**.
-
-**Duyên hợp** - *‘dus byas*, Phạn: *samskrita*, được tạo nên (*byas*) do sự kết hợp (*‘dus*) giữa nguyên nhân và điều kiện (duyên). “Những hành vi thiện lành do duyên hợp có nghĩa là tất cả những hành vi được thực hiện mà không có được sự chứng ngộ tánh Không.” DKR
-
-**Đà ra ni (Dharani)**- *gzungs*, bài minh chú được gia trì bởi một vị Phật hay Bồ Tát, có diệu năng cứu giúp chúng sinh. Có nhiều bài đà ra ni trong các **Kinh điển (Sutra)**, thường khá dài.
-
-**Đại Ấn (Đại Thủ Ấn)** - xem **Mahamudra**.
-
-**Đại Ca Diếp** - *‘od srung chen po*, một trong những đệ tử Thanh Văn xuất sắc nhất của Đức Phật **Thích Ca Mâu Ni**, và là vị lãnh đạo trong số những người đầu tiên biên soạn **Abhidharma (Vi Diệu Pháp)**. Sau khi Đức Phật tịch diệt, Ngài trở thành Giáo Chủ đầu tiên của Giáo Pháp, được giao phó trọng trách hộ trì Giáo lý và Tăng Đoàn.
-
-**Đại dương bên ngoài** - *phyi’i rgya mtsho chen po*, những đại dương bao quanh Núi Tu Di và bốn trung châu (lục địa) trong vũ trụ học Ấn Độ thời xa xưa.
-
-655
+**Drikung Kyobpa** - *'bri gung skyob pa* (1143-1217), vị sáng lập Tu viện Drikung và tông phái Drikung Kagyu.
+**Drom Tonpa** - *'brom ston pa*, được gọi là *'brom ston rgyal ba'i 'byung gnas* (1005-1064), đệ tử Tây Tạng chính yếu của Atisa, một trong những vị Thầy đầu tiên của phái Kadampa và là vị sáng lập Tu viện Radreng (*rva sgreng*) (thường được phiên âm là “Reting”).
+**Druk Pema Karpo** - *'brug padma dkar po* (thế kỷ thứ 16), Drukchen Rinpoche thứ 3, Đạo sư và tác gia vĩ đại của phái Drukpa Kagyu và là vị sáng lập Tu viện Sangak Choling.
+**Du Già** – xem **Yoga**.
+**Duyên hợp** – *'dus byas*, Phạn: *samskrita*, được tạo nên (*byas*) do sự kết hợp (*'dus*) giữa nguyên nhân và điều kiện (duyên). “Những hành vi thiện lành do duyên hợp có nghĩa là tất cả những hành vi được thực hiện mà không có được sự chứng ngộ tánh Không.” DKR
+**Đà ra ni (Dharani)**– *gzungs*, bài minh chú được gia trì bởi một vị Phật hay Bồ Tát, có diệu năng cứu giúp chúng sinh. Có nhiều bài đà ra ni trong các **Kinh điển (Sutra)**, thường khá dài.
+**Đại Ấn (Đại Thủ Ấn)** – xem **Mahamudra**.
+**Đại Ca Diếp** – *'od srung chen po*, một trong những đệ tử Thanh Văn xuất sắc nhất của Đức Phật **Thích Ca Mâu Ni**, và là vị lãnh đạo trong số những người đầu tiên biên soạn **Abhidharma (Vi Diệu Pháp)**. Sau khi Đức Phật tịch diệt, Ngài trở thành Giáo Chủ đầu tiên của Giáo Pháp, được giao phó trọng trách hộ trì Giáo lý và Tăng Đoàn.
+**Đại dương bên ngoài** – *phyi'i rgya mtsho chen po*, những đại dương bao quanh Núi Tu Di và bốn trung châu (lục địa) trong vũ trụ học Ấn Độ thời xa xưa.
 
 LỜI VÀNG CỦA THẦY TÔI
 
 **Đại lạc và tánh Không** – *bde stong*, đại lạc được trực chứng mà không có sự bám luyến, rỗng rang như tánh Không.
 **Đại Thế Chí** – xem **Vajrapani** hay **Tám Trưởng Tử Vĩ Đại**.
 **Đại Thành Tựu Giả** – *grub chen*, một hành giả du già đã đạt tới thành tựu tối thượng.
-**Đại Thừa** – *theg pa chen po*, Phạn: *mahayana*, thừa (cỗ xe) của các **Bồ Tát**, “đại” là bởi cỗ xe này nhắm tới Phật Quả viên mãn vì lợi lạc của tất cả chúng sinh.
+**Đại Thừa** – *theg pa chen po*, Phạn: *mahayana*, thừa (cỗ xe) của **các Bồ Tát**, “đại” là bởi cỗ xe này nhắm tới Phật Quả viên mãn vì lợi lạc của tất cả chúng sinh.
 **Đại tiệc cúng dường** – *tshogs kyi ‘khor lo*, Phạn: *ganacakra*, một nghi lễ trong đó ta ban gia trì, cúng dường và thọ dụng thức ăn và nước uống như chất cam lồ trí tuệ.
 **Đại Viên Mãn (Dzogchen, Dzogpa Chenpo, Atiyoga)** – *dzogs pa chen po*, tên khác của Atiyoga, pháp tu tối thượng của chín thừa. *Viên Mãn* có nghĩa là tâm thức, trong bản tánh của tâm, bao gồm một cách tự nhiên tất cả mọi phẩm tính cao quý của ba Thân: bản tánh của tâm ấy là tánh Không, Pháp Thân; biểu lộ tự nhiên của tâm ấy là tánh sáng, Báo Thân, và lòng bi mẫn của tâm ấy thì trùm khắp, Hoá Thân. *Đại* có nghĩa là pháp viên mãn này chính là một duyên khởi tự nhiên của vạn pháp. AT: đại toàn thiện. Giáo lý của Đại Viên Mãn được phân loại thành ba phần: phần tâm (*sems sde*), phần hư không (*klong sde*), và phần giáo huấn tâm yếu trực chỉ (*man ngag gi sde*). Cũng xem phần Dẫn nhập và **Atiyoga**.
 **Đàm** – *bad kan*, một trong ba thể dịch theo y khoa Tây Tạng. Cũng xem **gió**, **mật**.
@@ -10856,55 +10811,36 @@ LỜI VÀNG CỦA THẦY TÔI
 
 THUẬT NGỮ
 
-**Đạo Sư Tôn Quý xứ Oddiyana** – *o rgyan rin po che*, một trong những danh hiệu của Đức **Padmasambhava** (Liên Hoa Sanh).
-
-**Đấng Bi Mẫn Siêu Phàm** – *‘phags pa thugs rje chen po*, một trong những danh hiệu của Đức **Avalokitesvara** (Chenrezig), Bồ Tát của lòng bi mẫn hay đại từ đại bi.
-
-**Đấng Chiến Thắng** – *rgyal ba*, Phạn: *jina*, một vị Phật.
-
-**Đấng Đại Từ Bi (Đấng Bi Mẫn)** – *thugs rje chen po*, danh hiệu của Đức **Avalokitesvara** (Quán Thế Âm hay Quán Tự Tại).
-
-**Đấng Toàn Giác** – *kun mkhyen chen po*, danh hiệu được biết tới rất nhiều của Ngài **Longchenpa**.
-
-**Diệu Âm Phật** – *sgra dbyangs mi zad pa sgrogs pa*, danh hiệu của một vị Phật (* dùng âm thanh du dương khai diễn Giáo Pháp làm cho tất cả chúng sinh đều được nghe).
-
-**Đề Bà Đạt Đa (Devadatta)** – *lhas byin*, một người anh em họ của Đức Phật; sự ganh tị của ông đã ngăn cản không cho ông rút ra được bất kỳ lợi ích nào từ các giáo lý (của Đức Phật).
-
-**Đế Thích** – *xem Indra*.
-
-**Đệ tử cư sĩ (Ưu bà tắc, Cận sự nam)**– *dge bsnyen*, Phạn: *upasaka*, upasa người trì giữ các giới nguyện quy y và năm giới nguyện khác (hay chỉ một vài giới nguyện trong số đó): không sát sanh, không nói dối, không trộm cắp, không tà dâm, và không dùng chất gây say. Đây là một trong tám loại giới nguyện của Biệt Giải Thoát (**Pratimoksa**).
-
-**Đức vua, Thần dân và Thiện hữu** – *rje ‘bangs grogs gsum*, Vua Trisong Detsen, đại dịch giả Vairotsana và thánh nữ Yeshe Tsogyal.
-
-**Dharma** – *xem Pháp*.
-
-657
+**Đạo Sư Tôn Quý xứ Oddiyana** – o rgyan rin po che, một trong những danh hiệu của Đức **Padmasambhava (Liên Hoa Sanh)**.
+**Đấng Bi Mẫn Siêu Phàm** – 'phags pa thugs rje chen po, một trong những danh hiệu của Đức **Avalokitesvara** (Chenrezig), Bồ Tát của lòng bi mẫn hay đại từ đại bi.
+**Đấng Chiến Thắng** – rgyal ba, Phạn: jina, một vị Phật.
+**Đấng Đại Từ Bi (Đấng Bi Mẫn)** – thugs rje chen po, danh hiệu của Đức **Avalokitesvara** (Quán Thế Âm hay Quán Tự Tại).
+**Đấng Toàn Giác** – kun mkhyen chen po, danh hiệu được biết tới rất nhiều của Ngài **Longchenpa**.
+**Diệu Âm Phật** – sgra dbyangs mi zad pa sgrogs pa, danh hiệu của một vị Phật (* dùng âm thanh du dương khai diễn Giáo Pháp làm cho tất cả chúng sinh đều được nghe).
+**Đề Bà Đạt Đa (Devadatta)** – lhas byin, một người anh em họ của Đức Phật; sự ganh tị của ông đã ngăn cản không cho ông rút ra được bất kỳ lợi ích nào từ các giáo lý (của Đức Phật).
+**Đế Thích** – *xem* **Indra**.
+**Đệ tử cư sĩ (Ưu bà tắc, Cận sự nam)**– dge bsnyen, Phạn: upasaka, upasa người trì giữ các giới nguyện quy y và năm giới nguyện khác (hay chỉ một vài giới nguyện trong số đó): không sát sanh, không nói dối, không trộm cắp, không tà dâm, và không dùng chất gây say. Đây là một trong tám loại giới nguyện của Biệt Giải Thoát (**Pratimoksa**).
+**Đức vua, Thần dân và Thiện hữu** – rje 'bangs grogs gsum, Vua Trisong Detsen, đại dịch giả Vairotsana và thánh nữ Yeshe Tsogyal.
+**Dharma** – *xem* **Pháp**.
 
 LỜI VÀNG CỦA THẦY TÔI
 
 **Đi nhiễu (hành đạo)** – *skor ba*, hành vi tôn kính trong việc đi bộ theo chiều kim đồng hồ xung quanh một vật linh thiêng, giữ tâm an định và tỉnh giác, ví dụ như một điện thờ, bảo tháp, núi thiêng, hay ngôi nhà, và thậm chí một nhân vật, như một vị Thầy tâm linh.
-
-**Địa Bồ Tát** – *‘phags pa’i sa*, nghĩa đen: các cấp độ (tu chứng) siêu phàm, Phạn: *bhumi*. Mười cấp độ (thập địa) của sự chứng ngộ mà các vị Bồ Tát đạt tới trên các con đường của cái thấy (kiến), của thiền định (thiền) và siêu vượt cái học. Một vài cách phân loại khác đã thêm vào những cấp độ phụ. “Những cấp độ này siêu phàm bởi chúng vượt xa chúng sinh bình thường.” DICT.
-
+**Địa Bồ Tát** – *'phags pa'i sa*, nghĩa đen: các cấp độ (tu chứng) siêu phàm, Phạn: *bhumi*. Mười cấp độ (thập địa) của sự chứng ngộ mà các vị Bồ Tát đạt tới trên các con đường của cái thấy (kiến), của thiền định (thiền) và siêu vượt cái học. Một vài cách phân loại khác đã thêm vào những cấp độ phụ. “Những cấp độ này siêu phàm bởi chúng vượt xa chúng sinh bình thường.” DICT.
 **Địa ngục** – *dmyal ba*, Phạn: *naraka*, một trong sáu cõi, trong đó ta kinh nghiệm nỗi thống khổ mãnh liệt. Trong cõi địa ngục ta thường phải kinh qua những hậu quả của các hành nghiệp hơn là tạo ra những nguyên nhân mới.
-
-**Điều Hỷ Quốc** – *mngon par dga’ ba*, Phạn: *Abhirati*, tên của một đại kiếp và của cõi tịnh độ của Đức Phật **Aksobhya** (Bất Động Phật hay A Súc Bệ Phật).
-
+**Điều Hỷ Quốc** – *mngon par dga' ba*, Phạn: *Abhirati*, tên của một đại kiếp và của cõi tịnh độ của Đức Phật Aksobhya (Bất Động Phật hay A Súc Bệ Phật).
 **Độc Giác Phật (Pratyekabuddha)** – *rang sangs rgyas*, “người đạt được khả năng chấm dứt luân hồi (đoạn diệt luân hồi) mà không cần sự trợ giúp của một vị Thầy tâm linh. Bằng cách quán sát bản tánh của nguyên lý duyên sinh, một vị Độc Giác Phật có thể chứng ngộ vô ngã thực sự của bản thân và chứng ngộ một-nửa vô ngã thực sự của các hiện tượng.” DICT.
-
 **Đối tượng mật nguyện** – *dam tshig gi rdzas*, những đối tượng, (hay vật dụng) hay những chất liệu cần thiết để giúp cho các pháp hành trì của Kim Cương Thừa, hoặc để làm cho các pháp hành trì Kim Cương Thừa thêm phần ý nghĩa.
-
 **Đức Phật Thứ Hai (Đức Phật tái thế)** – *sangs rgyas gnyis pa*, một danh hiệu của Đức **Liên Hoa Sanh**.
+**Dzogchen** – xem **Atiyoga**, **Đại Viên Mãn**.
 
-**Dzogchen** – xem **Atiyoga, Đại Viên Mãn**.
-
-THUẬT NGỮ
+# THUẬT NGỮ
 
 **Gampopa** – *sgam po pa*, xem **Dagpo Rinpoche**.
 
 **Gandharva (Càn Thát Bà, Hương Ấm)** – *dri za*, nghĩa đen: ăn mùi hương. Tinh linh sống bằng các mùi hương. Cũng được dùng cho chúng sinh trong **trạng thái trung ấm**.
 
-**Garab Dorje** – *dga' rab rdo rje*, danh hiệu Tây Tạng nổi tiếng hơn các danh hiệu khác bằng Phạn ngữ của Ngài là Pramudavajra, Prahevajra, Surativajra hay Prajnabhava. Bậc Thầy đầu tiên mang thân tướng con người của dòng truyền thừa Đại Viên Mãn.
+**Garab Dorje** – *dga’ rab rdo rje*, danh hiệu Tây Tạng nổi tiếng hơn các danh hiệu khác bằng Phạn ngữ của Ngài là Pramudavajra, Prahevajra, Surativajra hay Prajnabhava. Bậc Thầy đầu tiên mang thân tướng con người của dòng truyền thừa Đại Viên Mãn.
 
 **Garuda (Kim xí điểu)** – *khyung*, một con chim thần thoại có kích thước rất lớn có thể bay ngay khi trứng nở, tượng trưng cho **trí tuệ nguyên sơ**. Năm màu sắc trong thân chim đôi khi được tượng trưng cho **năm trí tuệ**. Chim là địch thủ của các **naga** (rồng), và được mô tả với một con rắn trong mỏ của nó, tượng trưng cho việc đoạn diệt các cảm xúc tiêu cực.
 
@@ -10916,7 +10852,7 @@ THUẬT NGỮ
 
 **Giác tánh** – *rig pa*, Phạn: *vidya*, trạng thái nguyên sơ của tâm, tươi mới, bao la, chói ngời, và siêu vượt niệm tưởng.
 
-**Giai đoạn phát triển** (Generation stage) – *bskyed rim*, Phạn: *utpattikrama* “thiền định du già mà qua đó ta tịnh hoá bản thân khỏi các tham đắm quen thuộc đưa ta đến bốn trạng thái tái sinh khác nhau và trong giai đoạn này, ta thiền định về sắc tướng, âm thanh và tư tưởng giống như là
+**Giai đoạn phát triển** (Generation stage) – *bskyed rim*, Phạn. *utpattikrama* “thiền định du già mà qua đó ta tịnh hoá bản thân khỏi các tham đắm quen thuộc đưa ta đến bốn trạng thái tái sinh khác nhau và trong giai đoạn này, ta thiền định về sắc tướng, âm thanh và tư tưởng giống như là
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -10952,19 +10888,17 @@ THUẬT NGỮ
 
 **Hai Đấng Siêu Việt** – *mchog gnyis*, Gunaprabha (*yon tan ‘od*) và Sakyaprabha (*sha kya ‘od*).
 
-**Hai mươi lăm đại đệ tử** – *rje ‘bang nyer lnga*, các đệ tử Tây Tạng vĩ đại nhất của Đức **Liên Hoa Sanh** (**Padmasambhava**). Tất cả các Ngài đã đạt được thành tựu siêu việt. Những vị nổi tiếng nhất là Vua **Trisong Detsen**, **Yeshe Tsogyal**, và **Vairotsana**. Nhiều Đạo sư vĩ đại của Phật Giáo Tây Tạng là các Hoá Thân của hai mươi lăm đệ tử này.
+**Hai mươi lăm đại đệ tử** – *rje ‘bang nyer lnga*, các đệ tử Tây Tạng vĩ đại nhất của Đức **Liên Hoa Sanh** (**Padmasambhava**). Tất cả các Ngài đã đạt được thành tựu siêu việt. Những vị nổi tiếng nhất là Vua **Trisong Detsen**, **Yeshe Tsogyal**, và **Vairotsana**. Nhiều Đạo sư vĩ đại của Phật giáo Tây Tạng là các Hoá Thân của hai mươi lăm đệ tử này.
 
 **Hai mươi mốt ‘Genyen’** – *dge bsnyen nyer gcig*, một nhóm tinh linh bị Đức **Liên Hoa Sanh** (**Padmasambhava**) nhiếp phục và trở thành các vị Hộ Pháp.
 
 **Hai tánh thuần tịnh** – *dag pa gnyis*, tánh thuần tịnh nguyên sơ (*rang bzhin ye dag*), là Phật tánh trong mọi chúng sinh, và tánh thuần tịnh thoát khỏi tất cả mọi ô nhiễm ngẫu nhiên (*blo bur phral dag*). Chỉ duy một vị Phật là người vừa có
 
-661
-
 LỜI VÀNG CỦA THẦY TÔI
 
 tánh thuần tịnh nguyên sơ thứ nhất và cũng có tánh thuần tịnh thoát mọi đắm nhnhiễm thứ hai.
 
-**Hành giả chai lì** – *chos dred*, nghĩa đen: “con gấu Pháp.” Người không được Giáo Pháp điều phục, người hiểu biết Pháp nhưng không thực hành, khiến tâm thức họ trở nên chai cứng...” DICT. Người chỉ có hiểu biết lý trí mà không có chút kinh nghiệm nào, nhưng lại cho rằng mình thấu suốt toàn bộ Giáo Pháp.
+**Hành giả chai lì** – *chos dred*, nghĩa đen: “con gấu Pháp.” Người không được Giáo Pháp điều phục, người hiểu biết Pháp nhưng không thực hành, khiến tâm thức họ trở nên chai cứng…” DICT. Người chỉ có hiểu biết lý trí mà không có chút kinh nghiệm nào, nhưng lại cho rằng mình thấu suốt toàn bộ Giáo Pháp.
 
 **Hành giả du già** – xem **yogi** hay **yogini**.
 
@@ -10984,8 +10918,8 @@ THUẬT NGỮ
 
 luan hồi sinh tử (**samsara**), đối nghịch với *zhi ba*, sự an tịch của **Niết Bàn**.
 **Hộ Thần** – xem **Hộ Pháp**.
-**Hộ Pháp** – *chos skyong*, Phạn: *dharmapala*. Các vị Hộ Pháp bảo vệ Giáo Pháp không bị suy vi và để cho sự truyền dạy Giáo Pháp không bị quấy nhiễu, xuyên tạc. Đôi khi các Hộ Pháp là Hoá Thân của chư Phật và Bồ Tát, và đôi khi là những tinh linh, các vị trời hay quỷ ma đã được một Đạo Sư tâm linh vĩ đại nhiếp phục và bị buộc phải hứa nguyện (để trở thành Hộ Pháp).
-**Hộ Pháp thuộc Tam Thánh Bộ** – *rigs gsum mgon po*, các Bồ Tát Manjusri (Văn Thù), Avalokitesvara (Quán Thế Âm) và Vajrapani (Kim Cương Thủ). Đây là những vị được tôn kính thuộc về thân, ngữ và ý của Đức Phật.
+**Hộ Pháp** – *chos skyong*, Phạn: *dharmapala*. Các vị Hộ Pháp bảo vệ Giáo Pháp không bị suy vi và để cho sự truyền dạy Giáo Pháp không bị quấy nhiễu, xuyên tạc. Đôi khi các Hộ Pháp là **Hoá Thân** của chư Phật và Bồ Tát, và đôi khi là những tinh linh, các vị trời hay quỷ ma đã được một Đạo Sư tâm linh vĩ đại nhiếp phục và bị buộc phải hứa nguyện (để trở thành Hộ Pháp).
+**Hộ Pháp thuộc Tam Thánh Bộ** – *rigs gsum mgon po*, các Bồ Tát **Manjusri** (Văn Thù), **Avalokitesvara** (Quán Thế Âm) và **Vajrapani** (Kim Cương Thủ). Đây là những vị được tôn kính thuộc về thân, ngữ và ý của Đức Phật.
 **Hộ Phật Tài Bảo** – *nor lha*, một vị Hộ Phật (deity) mà ta giữ mối hoà hảo để tăng trưởng tài bảo.
 **Hoá Thân (nirmanakaya)** – *sprul sku*, thân hoá hiện, là một phần của Phật Quả hiển lộ qua lòng bi mẫn để cứu giúp những chúng sinh bình thường.
 **Hơi ấm (dấu hiệu)** – *drod rtags*, một dấu hiệu cho thấy công phu thực hành đang bắt đầu tiến triển. (Khi một ngọn lửa tạo nên nhiệt thì có nghĩa là nó đã bắt đầu cháy tốt.) Thành ngữ này *không* đặc biệt nói tới một kinh nghiệm về thân nhiệt.
@@ -11000,19 +10934,19 @@ LỜI VÀNG CỦA THẦY TÔI
 
 Khyentse Wangpo, chịu trách nhiệm biên khảo một số tuyển tập vĩ đại, kể cả Kho Báu Các Giáo Lý Được Tái Phát Hiện (rin chen gter mdzod), trong đó bao gồm các giáo lý và pháp môn hành trì từ tất cả mọi truyền thống.
 
-**Jetsun Mila (Milarepa)** – *re brtsun mi la* (1040-1123), hành giả du già và thi sĩ vĩ đại của Tây Tạng mà tiểu sử và các bài ca tâm linh của Ngài nằm trong số những tác phẩm được yêu quý nhất trong Phật Giáo Tây Tạng. Là một trong những đệ tử xuất sắc nhất của **Marpa**, Ngài ở trong số các Đạo Sư vĩ đại nhất vào thời kỳ phôi thai của phái Kagyupa.
+Jetsun Mila (Milarepa) – re brtsun mi la (1040-1123), hành giả du già và thi sĩ vĩ đại của Tây Tạng mà tiểu sử và các bài ca tâm linh của Ngài nằm trong số những tác phẩm được yêu quý nhất trong Phật Giáo Tây Tạng. Là một trong những đệ tử xuất sắc nhất của Marpa, Ngài ở trong số các Đạo Sư vĩ đại nhất vào thời kỳ phôi thai của phái Kagyupa.
 
-**Jigme Lingpa** – *‘jigs med gling pa* (1729-1798), xem dẫn nhập của sách này. Ngài được coi là một hiện thân hợp nhất của cả ba vị Vimalamitra, Vua Trisong Detsen và Gyalse Lharje. Patrul Rinpoche thường được coi là hiện thân về ngữ của Jigme Lingpa.
+Jigme Lingpa – ‘jigs med gling pa (1729-1798), xem dẫn nhập của sách này. Ngài được coi là một hiện thân hợp nhất của cả ba vị Vimalamitra, Vua Trisong Detsen và Gyalse Lharje. Patrul Rinpoche thường được coi là hiện thân về ngữ của Jigme Lingpa.
 
-**Jowa và Sakya** – *jo shag rnam gnyis*, Jowo Mikyo Dorje và Jowo Sakyamuni, hai pho tượng của Đức Phật đưa sang Tây Tạng một cách thật trang trọng bởi hai vị công chúa xứ Nepal và Trung Quốc mà Vua Songtsen Gampo đã kết hôn vào thế kỷ thứ 7.
+Jowa và Sakya – jo shag rnam gnyis, Jowo Mikyo Dorje và Jowo Sakyamuni, hai pho tượng của Đức Phật đưa sang Tây Tạng một cách thật trang trọng bởi hai vị công chúa xứ Nepal và Trung Quốc mà Vua Songtsen Gampo đã kết hôn vào thế kỷ thứ 7.
 
-**Jowo** – *jo bo*, nghĩa đen: vương (lord). Một danh hiệu thường được người Tây Tạng sử dụng đối với học giả Ấn Độ Atisa.
+Jowo – jo bo, nghĩa đen: vương (lord). Một danh hiệu thường được người Tây Tạng sử dụng đối với học giả Ấn Độ Atisa.
 
-**Jowo Rinpoche** – *jo wo rin po che*, một pho tượng tượng trưng cho Đức Phật Thích Ca Mâu Ni lúc 12 tuổi, trong điện Jokhang ở Lhasa.
+Jowo Rinpoche – jo wo rin po che, một pho tượng tượng trưng cho Đức Phật Thích Ca Mâu Ni lúc 12 tuổi, trong điện Jokhang ở Lhasa.
 
-**Jungpo** – *‘byung po*, một loại tinh linh hiểm ác.
+Jungpo – ‘byung po, một loại tinh linh hiểm ác.
 
-**Kadampa** – *bka’ gdams pa*, phái thứ nhất trong các trường phái thuộc Tân Phái Dịch Thuật, thuận theo các giáo lý của Ngài Atisa. Phái này chú trọng vào lòng bi mẫn, học tập và giới luật thanh tịnh. Giáo lý của truyền thống Kadampa được tiếp nối bởi tất cả các trường phái khác,
+Kadampa – bka’ gdams pa, phái thứ nhất trong các trường phái thuộc Tân Phái Dịch Thuật, thuận theo các giáo lý của Ngài Atisa. Phái này chú trọng vào lòng bi mẫn, học tập và giới luật thanh tịnh. Giáo lý của truyền thống Kadampa được tiếp nối bởi tất cả các trường phái khác,
 
 THUẬT NGỮ
 
@@ -11026,26 +10960,34 @@ THUẬT NGỮ
 
 **Karma Chagme** – *karma chags med* (thế kỷ 16), Lạt Ma nổi tiếng của phái **Kagyupa**, người hợp nhất giáo lý của phái **Kagyupa** với giáo lý phái **Nyingmapa** và là giáo thọ của **Namcho Mingyur Dorje**, một vị khai quật kho tàng tâm linh.
 
-**Karmapa** – *kar ma pa*, danh hiệu của những đại Lạt Ma thuộc phái **Kagyupa** mà dòng truyền thừa của các vị Hoá Thân của các Ngài bắt đầu từ Ngài **Dusum Khyenpa** (Karmapa đời thứ Nhất) (1110-1193). Các vị **Karmapa** là những vị Hoá Thân (*tulku*) đầu tiên được tuyên nhận ở Tây Tạng.
+**Karmapa** – *kar ma pa*, danh hiệu của những đại Lạt Ma thuộc phái **Kagyupa** mà dòng truyền thừa của các vị Hoá Thân của các Ngài bắt đầu từ Ngài **Dusum Khyenpa** (Karmpa đời thứ Nhất) (1110-1193). Các vị **Karmapa** là những vị Hoá Thân (*tulku*) đầu tiên được tuyên nhận ở Tây Tạng.
 
 **Kasyapa (Ca Diếp)** – *'od srung*, vị thứ ba trong một ngàn vị Phật trong kiếp hiện tại, là vị Phật xuất hiện trước **Đức Thích Ca Mâu Ni**. **Kasyapa** cũng là tên của một trong những đệ tử Thanh Văn của **Đức Phật Thích Ca Mâu Ni**.
 
-**Katyayana**– Vị A La Hán Ấn Độ là một đệ tử của **Đức Phật** và đã ghi chép lại một phần của **Abhidharma** (**A Tỳ Đàm – Vi Diệu Pháp**).
+**Katyayana**– Vị A La Hán Ấn Độ là một đệ tử của **Đức Phật** và đã ghi chép lại một phần của **Abhidharma** (**A Tỳ Đàm** – **Vi Diệu Pháp**).
 
-**Kaya (Thân Phật)** – *sku*, xem **ba Thân, bốn Thân, năm Thân**.
+**Kaya (Thân Phật)** – *sku*, xem **ba Thân**, **bốn Thân**, **năm Thân**.
 
 **Kiếp (Kalpa)** – *bskal pa*. Một đại kiếp, tương ứng với một chu kỳ hình thành và hoại diệt của một thế giới (theo vũ trụ quan của Phật Giáo), được phân ra thành tám mươi trung kiếp. Một trung kiếp bao gồm: một tiểu kiếp trong đó thọ
 
 LỜI VÀNG CỦA THẦY TÔI
 
 mạng v.v.. tăng trưởng và một tiểu kiếp trong đó thọ mạng suy giảm.
-**Kim xí điểu** – xem **Garuda**.
+
+**Kim xí điểu** – xem Garuda.
+
 **Khai Mật Tạng Vương** – xem **Bậc Khám Phá Kho Tàng Tâm Linh**.
+
 **Khampa Lungpa** – *khams pa lung pa* (*sgang sha’kya yon tan*) (1025-1115), một Lạt Ma **Kadampa**, một trong những trưởng tử của **Drom Tonpa**.
-**Kharak Gomchung**, (**Geshe**) – *kha rag sgom chung*, một Lạt Ma **Kadampa** sống vào thế kỷ thứ 11, đệ tử của **Geshe Potowa**. Danh hiệu của Ngài có nghĩa là “Tiểu Thiền Giả Xứ Kharak,” và Ngài nổi tiếng do tánh kiên trì và cách áp dụng giáo lý một cách nghiêm cẩn. Được biết rằng Ngài đã thọ nhận giáo lý **Đại Viên Mãn** và thành tựu thân cầu vồng.
+
+**Kharak Gomchung, (Geshe)** – *kha rag sgom chung*, một Lạt Ma Kadampa sống vào thế kỷ thứ 11, đệ tử của Geshe Potowa. Danh hiệu của Ngài có nghĩa là “Tiểu Thiền Giả Xứ Kharak,” và Ngài nổi tiếng do tánh kiên trì và cách áp dụng giáo lý một cách nghiêm cẩn. Được biết rằng Ngài đã thọ nhận giáo lý Đại Viên Mãn và thành tựu thân cầu vồng.
+
 **Khatvanga** – một chĩa ba với nhiều vật trang sức có tính chất tượng trưng.
-**Kho tàng** – xem **kho tàng tâm linh**.
-**Kho tàng tâm linh** – *gter ma*, các giáo lý, cùng những pho tượng và những đồ vật khác đã được cất dấu bởi Đức **Liên Hoa Sanh** (**Padmasambhava**), **Yeshe Tsogyal** và những vị khác. Những kho tàng này được dấu trong đất, đá, hồ nước và cây cối, hoặc ngay cả trong những nơi vi tế hơn chẳng hạn như trong không gian hay trong tâm thức vì sự lợi ích cho các thế hệ tương lai, và sau đó những kho tàng tâm linh này được phát hiện lại bằng những cách thế phi thường bởi những **Hoá Thân** của các vị đệ tử của Đức **Liên Hoa Sanh**, là những bậc khai quật kho tàng (**Khai Mật Tạng Vương**).
+
+**Kho tàng** – xem kho tàng tâm linh.
+
+**Kho tàng tâm linh** – *gter ma*, các giáo lý, cùng những pho tượng và những đồ vật khác đã được cất dấu bởi Đức **Liên Hoa Sanh (Padmasambhava)**, Yeshe Tsogyal và những vị khác. Những kho tàng này được dấu trong đất, đá, hồ nước và cây cối, hoặc ngay cả trong những nơi vi tế hơn chẳng hạn như trong không gian hay trong tâm thức vì sự lợi ích cho các thế hệ tương lai, và sau đó những kho tàng tâm linh này được phát hiện lại bằng những cách thế phi thường bởi những Hoá Thân của các vị đệ tử của Đức **Liên Hoa Sanh**, là những bậc khai quật kho tàng (**Khai Mật Tạng Vương**).
+
 **Khởi từ vô thủy** – Chúng tôi đã dùng từ này để dịch *ye* trong các thành ngữ như *ye nas*, “ngay từ lúc bắt đầu” hay *ye dag* “thanh tịnh từ lúc khởi đầu.” Tuy nhiên phải hiểu rằng từ này không nói tới một giây phút đầu tiên của một sự
 
 THUẬT NGỮ
@@ -11122,25 +11064,27 @@ những Đạo Sư tâm linh và học giả phi thường nhất của phái **
 
 **Long Thọ** – xem **Nagarjuna**.
 
-**Luân xa** – *‘khor lo*, Phạn: *cakra*, một trong những trung tâm năng lực ở những điểm khác nhau trên đường **kinh mạch trung ương**, từ đó toả ra những kinh mạch nhỏ, vi tế đi tới mọi cơ quan trong thân thể.
+**Luân xa** – *'khor lo*, Phạn: *cakra*, một trong những trung tâm năng lực ở những điểm khác nhau trên đường **kinh mạch trung ương**, từ đó toả ra những kinh mạch nhỏ, vi tế đi tới mọi cơ quan trong thân thể.
 
 **Luân hồi** – xem **Samsara**.
 
 **Luận** – xem **Sastra**.
 
-**Luật (Vinaya)** – *‘dul ba*, một trong Tam Tạng (**tripitaka**), gồm có những giáo lý về giới luật và đạo đức học của tu viện nói chung.
+**Luật (Vinaya)** – *'dul ba*, một trong Tam Tạng (**tripitaka**), gồm có những giáo lý về giới luật và đạo đức học của tu viện nói chung.
 
 **Lục độ ba la mật (six paramitas)** – xem **sáu pháp toàn thiện siêu việt**.
 
 **Lục thức** – xem **sáu thức**.
 
-**Ma quỷ**– *‘dre*, tinh hồn của người chết hay tổng quát hơn nữa, tinh linh hoạ hại.
+**Ma quỷ**– *'dre*, tinh hồn của người chết hay tổng quát hơn nữa, tinh linh hoạ hại.
 
 **Machik Labdron** – *ma cig lab sgron* (1031-1129), một đệ tử của **Padampa Sangye**, Bà trở thành bậc trì giữ các giáo huấn về pháp môn *Chö* của sư phụ.
 
 **Madhyamika** – xem **Trung Đạo**.
 
 **Maha (yoga) (Đại du già)** – pháp du già đầu tiên trong ba pháp du già tối thượng theo cách phân loại Giáo Pháp
+
+670
 
 THUẬT NGỮ
 
@@ -11193,13 +11137,16 @@ LỜI VÀNG CỦA THẦY TÔI
 THUẬT NGỮ
 
 **Melong Dorje** – *me long rdo rje* (1243-1303), đại thành tựu giả Tây Tạng, đạo sư của Kumaradza (Kumaradza là thầy của Longchenpa).
-**Milarepa** – xem **Jetsun Mila**.
-**Minh chú (Mật Chú – Thần Chú - Mantra)** – *sngags*, sự hiển lộ của tâm thức giác ngộ siêu việt qua hình thức các âm thanh. Các âm tiết trong các nghi quỹ (**sadhana**) của **Mật Thừa** bảo vệ tâm thức hành giả khỏi những tri giác phàm tục và được trì tụng để khẩn nguyện các **Bổn Tôn Trí Tuệ**.
-**Minh Sát (Quán)** – *lhag mthong*, Phạn: *vipasyana*, “nhìn với con mắt trí tuệ để thấy ra được bản tánh riêng của tất cả mọi sự việc (hay tất cả các pháp).” DICT.
-**Một mục đích hai lợi lạc (Two-fold goal)** – *don gnyis*, mục đích, lợi ích hay hạnh phúc (*rang don*) của riêng ta, và mục đích, lợi ích hay hạnh phúc của những chúng sinh khác (*gzhan don*). Thường được hiểu trong ý nghĩa tối hậu rằng mục đích cho bản thân sẽ đạt được nhờ chứng ngộ tánh Không hay **Pháp Thân**, và mục đích cho các chúng sinh khác sẽ đạt được nhờ vào lòng bi mẫn hoá hiện như **Sắc Thân**.
-**Mười hai thể loại giảng dạy trong Tam Tạng (Thập nhị bộ kinh, Thập nhị phần giáo)** – *sde snod bcu gnyis*, nghĩa đen: mười hai Tạng, cũng gọi là Mười hai Thuyết Ngôn Tuyệt Hảo (*gsung rab yan lag bcu gnyis*). Mười hai thể loại giảng dạy do Đức Phật tuyên thuyết tương ứng với mười hai loại Kinh: khế kinh (*mdo sde*, Phạn: *sutra*), trùng tụng (*dbyangs bsnyan*, *geya*), thọ ký (*lung bstan*, *vyakarana*), phúng tụng (*tshigs bcad*, *gatha*), tự thuyết (*ched brjod*, *udana*), nhân duyên (*gleng gzhi*, *nidana*), tự truyện (*skyes rab*, *jataka*), vị tằng hữu (*rmad byung*, *adbhutadharma*), luận nghĩa (*gtan babs*, *upadesa*), ẩn dụ (*rtogs brjod*,
 
-673
+**Milarepa** – xem **Jetsun Mila**.
+
+**Minh chú (Mật Chú – Thần Chú - Mantra)** – *sngags*, sự hiển lộ của tâm thức giác ngộ siêu việt qua hình thức các âm thanh. Các âm tiết trong các nghi quỹ (**sadhana**) của **Mật Thừa** bảo vệ tâm thức hành giả khỏi những tri giác phàm tục và được trì tụng để khẩn nguyện các **Bổn Tôn Trí Tuệ**.
+
+**Minh Sát (Quán)** – *lhag mthong*, Phạn: *vipasyana*, “nhìn với con mắt trí tuệ để thấy ra được bản tánh riêng của tất cả mọi sự việc (hay tất cả các pháp).” DICT.
+
+**Một mục đích hai lợi lạc (Two-fold goal)** – *don gnyis*, mục đích, lợi ích hay hạnh phúc (*rang don*) của riêng ta, và mục đích, lợi ích hay hạnh phúc của những chúng sinh khác (*gzhan don*). Thường được hiểu trong ý nghĩa tối hậu rằng mục đích cho bản thân sẽ đạt được nhờ chứng ngộ tánh Không hay **Pháp Thân**, và mục đích cho các chúng sinh khác sẽ đạt được nhờ vào lòng bi mẫn hoá hiện như **Sắc Thân**.
+
+**Mười hai thể loại giảng dạy trong Tam Tạng (Thập nhị bộ kinh, Thập nhị phần giáo)** – *sde snod bcu gnyis*, nghĩa đen: mười hai Tạng, cũng gọi là Mười hai Thuyết Ngôn Tuyệt Hảo (*gsung rab yan lag bcu gnyis*). Mười hai thể loại giảng dạy do Đức Phật tuyên thuyết tương ứng với mười hai loại Kinh: khế kinh (*mdo sde*, Phạn: *sutra*), trùng tụng (*dbyangs bsnyan*, *geya*), thọ ký (*lung bstan*, *vyakarana*), phúng tụng (*tshigs bcad*, *gatha*), tự thuyết (*ched brjod*, *udana*), nhân duyên (*gleng gzhi*, *nidana*), tự truyện (*skyes rab*, *jataka*), vị tằng hữu (*rmad byung*, *adbhutadharma*), luận nghĩa (*gtan babs*, *upadesa*), ẩn dụ (*rtogs brjod*,
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -11231,7 +11178,7 @@ trung tâm tu học vĩ đại nhất của Phật Giáo Ấn Độ. Tu viện n
 
 **Naropa** – *na ro pa* (1016-1100), học giả và thành tựu giả Ấn Độ, là đệ tử của **Tilopa** và Đạo Sư của Dịch giả **Marpa**
 
-**Ngũ Bộ Phật** – *rig lnga*, Phạn: *pancakula*, Phật, Kim Cương, Bảo Sanh, Liên Hoa và Nghiệp Bộ. Năm Bộ Phật tượng trưng cho chân tánh của vạn pháp. Ví dụ như, Năm Đấng Chiến Thắng là chân tánh của năm uẩn, Năm vị Phối Ngẫu của các ngài là chân tánh của năm yếu tố (ngũ đại), và năm trí tuệ là chân tánh của **năm độc**, và v..v..
+**Ngũ Bộ Phật** – *rig lnga*, Phạn: *pancakula*, Phật, Kim Cương, Bảo Sanh, Liên Hoa và Nghiệp Bộ. Năm Bộ Phật tượng trưng cho chân tánh của vạn pháp. Ví dụ như, Năm Đấng Chiến Thắng là chân tánh của năm uẩn, Năm vị Phối Ngẫu của các ngài là chân tánh của năm yếu tố (ngũ đại), và năm trí tuệ là chân tánh của năm độc, và v..v..
 
 **Năm con đường** – *lam lnga*, Phạn: *pancamarga*, năm giai đoạn liên tiếp trên con đường tu dẫn tới giác ngộ: con đường vun bồi công đức, con đường hợp nhất, con đường của cái thấy (kiến), thiền định, và con đường siêu việt sở học.
 
@@ -11239,7 +11186,7 @@ trung tâm tu học vĩ đại nhất của Phật Giáo Ấn Độ. Tu viện n
 
 **Năm năng lực** – xem năng lực.
 
-**Năm độc (Ngũ độc)** – *dug lnga*, năm cảm xúc tiêu cực: 1) si, *gti mug*, Phạn. *moha* (AT: sự vô minh, lầm lạc), 2) tham, *'dod chags*, *raga* (AT: dục vọng), 3) sân, *zhee sdang*,
+**Năm độc (Ngũ độc)** – *dug lnga*, năm cảm xúc tiêu cực: 1) si, *gti mug*, Phạn: *moha* (AT: sự vô minh, lầm lạc), 2) tham, *'dod chags*, *raga* (AT: dục vọng), 3) sân, *zhee sdang*,
 
 675
 
@@ -11257,8 +11204,6 @@ dvesa (bao gồm sự thù ghét, giận dữ, v.v..), 4) ganh tị, phra dog, i
 
 **Năm nghiệp tội gần như trọng tội (gần như trọng nghiệp)** – nye ba'i mtshams med lnga, 1) hành xử bất tịnh với một vị nữ A La Hán; 2) giết hại một vị Bồ Tát; 3) giết hại hành giả đang tu tập hướng tới Phật Quả; 4) trộm cắp tài sản của Tăng Đoàn; 4) phá huỷ bảo tháp (stupa).
 
-676
-
 THUẬT NGỮ
 
 **Năm trăm ngàn pháp tu dự bị** – *bum lnga*, năm pháp tu dự bị theo truyền thống: quy y, Bồ Đề Tâm, Kim Cương Tát Đoả (Vajrasattva), mạn đà la và Bổn Tôn Du Già (Guru yoga); mỗi pháp tu phải được thực hiện một trăm ngàn lần.
@@ -11267,7 +11212,7 @@ THUẬT NGỮ
 
 **Ngũ độc** – xem **năm độc**.
 
-**Ngũ trí (năm trí)** – *ye shes lnga*, năm phương diện trí tuệ của Phật Quả: trí tuệ của Pháp Giới tối thượng (Pháp Giới Thể Tánh Trí, *chos dbyings kyi ye shes*, Phạn: *dharmadhatujnana*), trí tuệ như tấm gương (Đại Viên Cảnh Trí, *mee long gi ye shes*, *adarsajnana*), trí tuệ bình đẳng (Bình Đẳng Tánh Trí, *mnyam nyid kyi ye shes*, *samatajnana*), trí tuệ biết phân biệt (Diệu Quan Sát Trí, *so sor rtog pa’i ye shes*, *pratyaveksajnana*), và trí tuệ hoàn toàn thành tựu (Thành Sở Tác Trí, *bya ba grub pa’i ye shes*, *krityusthanajnana*). Xem **ngũ bộ**.
+**Ngũ trí (năm trí)** – *ye shes lnga*, năm phương diện trí tuệ của Phật Quả: trí tuệ của Pháp Giới tối thượng (Pháp Giới Thể Tánh Trí, *chos dbyings kyi ye shes*, Phạn: *dharmadhatujnana*), trí tuệ như tấm gương (Đại Viên Cảnh Trí, *mee long gi ye shes*, *adarsajnana*), trí tuệ bình đẳng (Bình Đẳng Tánh Trí, *mnyam nyid kyi ye shes*, *samatajnana*), trí tuệ biết phân biệt (Diệu Quan Sát Trí, *so sor rtog pa’i ye shes*, *pratyaveksanajnana*), và trí tuệ hoàn toàn thành tựu (Thành Sở Tác Trí, *bya ba grub pa’i ye shes*, *krityusthanajnana*). Xem **ngũ bộ**.
 
 **Năng lực** – *rlung*, Phạn: *prana*, *vayu*, nghĩa đen: gió (khí). Đặc tính của gió là “nhẹ và chuyển động.” Tâm được mô tả như cưỡi trên gió *rlung* giống như một kỵ sĩ trên lưng ngựa. Năm loại gió *rlung* khác nhau giúp điều chỉnh các chức năng của thân: 1) năng lực đi lên (*gyen rgyu*), 2) năng lực đẩy xuống (*thur sel*), 3) năng lực nồng nhiệt (*me mnyam*), 4) năng lực toàn-khắp (*khyab byed*) và 4) sinh lực tức năng lực duy trì sự sống (*srog ‘dzin*).
 
@@ -11307,8 +11252,6 @@ Như thế, “nghiên cứu” không chỉ thuần túy là việc đọc mộ
 
 **Nhục kế** – *gtsug tor*, Phạn: *usnisa*, chỗ nhô lên trên đầu một vị Phật, một trong ba mươi hai **tướng chính**.
 
-678
-
 THUẬT NGỮ
 
 **Niết bàn (Nirvana)** – *mya ngan las ‘das pa*, trạng thái siêu vượt đau khổ. Ý niệm về Niết Bàn không giống nhau trong **Thanh Văn Thừa**, **Đại Thừa** và **Kim Cương Thừa**.
@@ -11337,9 +11280,9 @@ LỜI VÀNG CỦA THẦY TÔI
 
 **Padmasambhava xứ Oddiyana (Liên Hoa Sanh)** – *o rgyan padma ‘byung gnas*, Đạo Sư đản sanh từ Hoa Sen ở xứ Oddiyana, Đức Liên Hoa Sanh, thường được gọi là **Guru Rinpoche** (**Đạo Sư Tôn Quý**). Trong triều đại của Vua **Trisong Detsen**, vị Đạo Sư vĩ đại này đã chế phục các thế lực xấu ác chống đối lại việc truyền bá Phật Giáo ở Tây Tạng, phổ biến giáo lý Phật Giáo thuộc Kim Cương Thừa ở đất nước Tây Tạng và cất dấu vô số **kho tàng tâm linh** vì lợi lạc của những thế hệ tương lai. Ngài được tôn kính như Đức Phật Thứ Hai mà sự xuất hiện của Ngài đã được vị Phật thứ nhất là Đức Phật **Thích Ca Mâu Ni** phó chúc, để ban dạy các giáo lý đặc biệt của Kim Cương Thừa.
 
-**Palmo** (ni cô) – *dge slong ma dpal mo*, ni cô Ấn Độ nổi tiếng đã truyền bá pháp tu Nyung-ne (ăn chay một ngày, lễ lạy và giữ giới im lặng) và đạt được thành tựu siêu việt nhờ vào pháp hành trì nương nơi Đức **Avalokitesvara**.
+**Palmo (ni cô)** – *dge slong ma dpal mo*, ni cô Ấn Độ nổi tiếng đã truyền bá pháp tu Nyung-ne (ăn chay một ngày, lễ lạy và giữ giới im lặng) và đạt được thành tựu siêu việt nhờ vào pháp hành trì nương nơi Đức **Avalokitesvara**.
 
-**Palyul** (tu viện) – *dpal yul*, một trong sáu đại tu viện của phái Nyingmapa.
+**Palyul (tu viện)** – *dpal yul*, một trong sáu đại tu viện của phái Nyingmapa.
 
 **Pandita** – một học giả, bậc uyên bác thấu suốt năm khoa học truyền thống (xem: **năm khoa học – ngũ minh**). Đặc biệt được dùng để ám chỉ các học giả Ấn Độ.
 
@@ -11353,11 +11296,11 @@ của sự truyền giảng (lung gi chos), đó là những giáo lý thực s�
 
 **Pháp chuẩn bị, công phu chính yếu và kết thúc** – *sbyor dngos rjes gsum*, ba phương pháp siêu việt cho bất kỳ pháp môn tu tập nào: 1) bắt đầu bằng cách kiểm soát xem ta có động lực từ bi hay không, 2) thực hành công phu mà không để cho các ý niệm hướng về của cải tài lộc xen vào, và 3) chấm dứt bằng cách hồi hướng công đức cho đạo quả giác ngộ của tất cả chúng sinh.
 
-**Pháp chuyển di (Phowa)** – *’pho ba*, 1) di chuyển từ nơi này sang nơi khác, chuyển kiếp (sau khi chết). 2) pháp môn thực hành để hướng dẫn tâm thức chuyển di vào lúc chết.
+**Pháp chuyển di (Phowa)** – *'pho ba*, 1) di chuyển từ nơi này sang nơi khác, chuyển kiếp (sau khi chết). 2) pháp môn thực hành để hướng dẫn tâm thức chuyển di vào lúc chết.
 
-**Pháp Giới** – *chos dbyings*, Phạn. *dharmadhatu*, AT: thực tại trải rộng. Từ quan điểm của cái thấy chứng ngộ, mọi hiện tượng xuất hiện như là sự trải rộng của tánh Không.
+**Pháp Giới** – *chos dbyings*, Phạn: *dharmadhatu*, AT: thực tại trải rộng. Từ quan điểm của cái thấy chứng ngộ, mọi hiện tượng xuất hiện như là sự trải rộng của tánh Không.
 
-**Pháp luân** – *chos kyi ‘khor lo*, Phạn: *dharmacakra*, biểu tượng của Phật Pháp. Chuyển Pháp Luân có nghĩa là giảng dạy Giáo Pháp. Trong đời Ngài, Đức Phật đã tuyên thuyết ba loạt giáo lý chính yếu, được nhắc tới như là những lần chuyển Pháp Luân thứ nhất, thứ nhì và thứ ba.
+**Pháp luân** – *chos kyi 'khor lo*, Phạn: *dharmacakra*, biểu tượng của Phật Pháp. Chuyển Pháp Luân có nghĩa là giảng dạy Giáo Pháp. Trong đời Ngài, Đức Phật đã tuyên thuyết ba loạt giáo lý chính yếu, được nhắc tới như là những lần chuyển Pháp Luân thứ nhất, thứ nhì và thứ ba.
 
 **Pháp toàn thiện siêu việt (Ba la mật)** – *pha rol tu phyin pa*, Phạn: *paramita*. Sáu phương pháp tu tập theo con đường của Bồ Đề Tâm hạnh. Các pháp này siêu việt bởi được đi kèm với trí tuệ của tánh Không. Cũng xem **sáu pháp toàn thiện siêu việt (Lục độ ba la mật)**.
 
@@ -11378,7 +11321,7 @@ LỜI VÀNG CỦA THẦY TÔI
 
 THUẬT NGỮ
 
-**Phước đức** – *bsod nams*, Phạn: *punya*, thiện **nghiệp**, năng lực được phát sinh bởi các hành vi thiện lành của thân, ngữ và ý.
+**Phước đức** – *bsod nams*, Phạn: *punya*, thiện nghiệp, năng lực được phát sinh bởi các hành vi thiện lành của thân, ngữ và ý.
 
 **Phướn Toàn Thắng** – *phyogs las rnam par rgyal ba’l rgyal mtshan*, một trong **tám dấu hiệu tốt lành**. Phướn này tương ứng với thân Phật và tượng trưng cho tính chất bất khả hoại của Giáo lý của Ngài.
 
@@ -11416,9 +11359,9 @@ LỜI VÀNG CỦA THẦY TÔI
 
 **Quả vị hợp nhất** – *zung 'jug gi go 'phang*, quả vị của Kim Cương Trì (Vajradhara). Sự hợp nhất của **Pháp Thân** và **Sắc Thân**.
 
-**Quan Âm** – xem Tara.
+**Quan Âm** – xem **Tara**.
 
-**Quán** – xem minh sát.
+**Quán** – xem **minh sát**.
 
 **Quán đảnh** – *dbang bskur*, Phạn: *abhiseka*, nghĩa đen: trao truyền năng lực (gia lực). Sự cho phép nghe, nghiên cứu và thực hành giáo lý Kim Cương Thừa. Việc này xảy ra trong một nghi lễ có thể hết sức phức tạp hoặc hoàn toàn đơn giản. Xem **bốn quán đảnh**.
 
@@ -11474,21 +11417,21 @@ LỜI VÀNG CỦA THẦY TÔI
 
 THUẬT NGỮ
 
-dựng trong thời Vua Trisong Detsen. Tên này có nghĩa là “không thể nghĩ bàn.”
+dựng trong thời Vua **Trisong Detsen**. Tên này có nghĩa là “không thể nghĩ bàn.”
 
-**Samye Chimpu** – *bsam yas mchims phu*, tên của một tập hợp các tu viện nằm ở trên sườn núi của Tu viện Samye, nơi nhiều Đại Đạo sư Phật Giáo đã đạt được thành tựu.
+**Samye Chimpu** – *bsam yas mchims phu*, tên của một tập hợp các tu viện nằm ở trên sườn núi của Tu viện **Samye**, nơi nhiều Đại Đạo sư Phật Giáo đã đạt được thành tựu.
 
-**Sang Rinpoche** – *bla ma zhang rin po che (brtson ‘grus grags pa)* (1121-1193), một đại lạt ma dòng truyền thừa Kagyupa, vị sáng lập phân phái Tsalpa Kagyu.
+**Sang Rinpoche** – *bla ma zhang rin po che (brtson ‘grus grags pa)* (1121-1193), một đại lạt ma dòng truyền thừa **Kagyupa**, vị sáng lập phân phái Tsalpa Kagyu.
 
 **Sankara** – *bde byed*, ví dụ về một người mà dục vọng và sự thù ghét của ông ta mạnh tới nỗi giết chết mẹ mình. Ông hối hận và sau khi tịnh hoá những ác hạnh của mình, ông đã được tái sinh ở một cõi trời.
 
-**Santaraksiata (Tịch Hộ)** – *zhi ba mtsho*, cũng được gọi là Bồ Tát Tu viện trưởng. Vị học giả (pandita) Ấn Độ vĩ đại của Đại Thừa này là tu viện trưởng của Đại Học Viện Phật Giáo Nalanda và là tác giả của một số các luận giảng triết học, chẳng hạn như Vật Trang hoàng của Trung Đạo (*dbu ma rgyan*, Phạn: *Madhyamakalmkara-karika*). Ngài được Vua Trisong Detsen mời tới Tây Tạng để hiến cúng địa điểm cho tu viện Tây Tạng đầu tiên ở Samye và ban giới cho những tăng sĩ đầu tiên ở Tây Tạng.
+**Santaraksita (Tịch Hộ)** – *zhi ba mtsho*, cũng được gọi là Bồ Tát Tu viện trưởng. Vị học giả (**pandita**) Ấn Độ vĩ đại của Đại Thừa này là tu viện trưởng của Đại Học Viện Phật Giáo **Nalanda** và là tác giả của một số các luận giảng triết học, chẳng hạn như *Vật Trang hoàng của Trung Đạo (dbu ma rgyan, Phạn: Madhyamakalmkara-karika)*. Ngài được Vua **Trisong Detsen** mời tới Tây Tạng để hiến cúng địa điểm của tu viện Tây Tạng đầu tiên ở **Samye** và ban giới cho những tăng sĩ đầu tiên ở Tây Tạng.
 
-**Santideva (Tịch Thiên)** – *zhi ba lha* (thế kỷ thứ 7), thi sĩ vĩ đại và đại thành tựu giả Ấn Độ, là người đã làm kinh ngạc các tu sĩ của tu viện Nalanda của Ngài bằng bài kệ nổi tiếng về pháp tu Bồ Đề Tâm, *Bodhicaryavatara (spyod ‘jug)*, hay *Nhập Bồ Tát Hạnh*.
+**Santideva (Tịch Thiên)** – *zhi ba lha* (thế kỷ thứ 7), thi sĩ vĩ đại và **đại thành tựu giả** Ấn Độ, là người đã làm kinh ngạc các tu sĩ của tu viện **Nalanda** của Ngài bằng bài kệ nổi tiếng về pháp tu Bồ Đề Tâm, *Bodhicaryavatara (spyod ‘jug)*, hay *Nhập Bồ Tát Hạnh*.
 
-**Saraha** – *sa ra ha*, đại thành tựu giả Ấn Độ, tác giả của ba giáo khoá của các bài đạo ca (doha).
+**Saraha** – *sa ra ha*, đại thành tựu giả Ấn Độ, tác giả của ba giáo khoá của các bài đạo ca (**doha**).
 
-**Sarvanivaranaviskambhin (Trừ Cái Chướng Bồ Tát)**– *sgrib pa rnam sel*, một trong Tám Trưởng Tử của Đức Phật Thích Ca Mâu Ni.
+**Sarvanivaranaviskambhin (Trừ Cái Chướng Bồ Tát)**– *sgrib pa rnam sel*, một trong **Tám Trưởng Tử** của Đức Phật Thích Ca Mâu Ni.
 
 687
 
@@ -11504,7 +11447,7 @@ LỜI VÀNG CỦA THẦY TÔI
 
 **Sáu thức (lục thức)** – *rnam shes tshogs drug*, Phạn: *sadvijnanakaya*, nghĩa đen: sáu sự tập hợp của thức, nghĩa là sự tập hợp của đối tượng giác quan (trần), của giác quan (căn) và của thức. Chúng là nhãn thức (nhìn), nhĩ thức (nghe), tỉ thức (ngửi), thiệt thức (nếm), xúc thức (chạm) và ý thức.
 
-**Sáu pháp toàn thiện siêu việt (lục độ ba la mật)** – *pha rol tu phyin pa drug*, Phạn: *sad paramita*: bố thí siêu việt (*dana-paramita*), giới luật siêu việt (*Sila-paramita*), nhẫn nhục siêu việt (*ksanti-paramita*), tinh tấn siêu việt (*virya-paramita*), thiền định siêu việt (*dhyana-paramita*) và trí tuệ siêu việt (*prajna-paramita*). Cũng xem **pháp toàn thiện siêu việt, ba la mật, paramita**.
+**Sáu pháp toàn thiện siêu việt (lục độ ba la mật)** – *pha rol tu phyin pa drug*, Phạn: *sad paramita*: bố thí siêu việt (*dana-paramita*), giới luật siêu việt (*Sila-paramita*), nhẫn nhục siêu việt (*ksanti-paramita*), tinh tấn siêu việt (*virya-paramita*), thiền định siêu việt (*dhyana-paramita*) và trí tuệ siêu việt (*prajna-paramita*). Cũng xem **pháp toàn thiện siêu việt**, **ba la mật**, **paramita**.
 
 **Sáu Bảo Trang** – *rgyan drug*, sáu luận sư vĩ đại của Phật Giáo: **Nagarjuna** (Long Thọ), **Aryadeva** (Thánh Thiên), **Asanga** (Vô Trước), **Vasubandhu** (Thế Thân), **Dignaga** (Trần Na) và **Dharmakirti** (Pháp Xứng).
 
@@ -11524,11 +11467,9 @@ THUẬT NGỮ
 
 **Smrtijnana** – (thế kỷ 10-11), Đạo sư và **pandita** (học giả) Ấn Độ nổi tiếng, người góp phần vào việc phiên dịch sang tiếng Tây Tạng và hiệu đính một số Mật điển và luận giảng. Ở Tây Tạng, cái chết của Ngài đánh dấu sự chấm dứt của giai đoạn **Cựu Dịch (Cựu Phái Dịch Thuật)**.
 
-**So, Zur và Nub** – *so zur gnubs*, ba Đạo Sư vĩ đại, là những bậc trì giữ dòng truyền thừa Nyingma Kahma lúc ban đầu (sự truyền dạy đầy đủ từ Đạo Sư sang đệ tử của giáo lý Nyingma, tương phản với **Terma (kho tàng tâm linh)** được ẩn dấu, về sau mới được khai quật, đôi khi sau một thời gian rất dài). Tên họ của các Ngài là So Yeshe Wangchuk, Zur Shakya Jungne và Nub Chen Sangye Yeshe.
+**So, Zur và Nub** – *so zur gnubs*, ba Đạo sư vĩ đại, là những bậc trì giữ dòng truyền thừa Nyingma Kahma lúc ban đầu (sự truyền dạy đầy đủ từ Đạo sư sang đệ tử của giáo lý Nyingma, tương phản với **Terma (kho tàng tâm linh)** được ẩn dấu, về sau mới được khai quật, đôi khi sau một thời gian rất dài). Tên họ của các Ngài là So Yeshe Wangchuk, Zur Shakya Jungne và Nub Chen Sangye Yeshe.
 
 **Songtsen Gampo** – *srong btsan sgam po* (617-698), Vua thứ 33 của Tây Tạng và một trong ba Pháp Vương vĩ đại. Chính trong thời của Ngài mà những ngôi chùa Phật Giáo đầu tiên được xây dựng.
-
-689
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -11557,8 +11498,6 @@ THUẬT NGỮ
 **Tám dấu hiệu cát tường (Eight auspicious signs)** – *bkra shis rtags brgyad*, tám biểu tượng (tương ứng với các bộ phận khác nhau trên thân Phật): nút vĩnh cửu, hoa sen, màn trướng, ốc xà cừ, bánh xe, cờ, bảo bình, và cá vàng.
 **Tám hành vi sai lầm** – *log pa rgyad*, 1) chỉ trích điều tốt, 2) khen ngợi điều xấu, 3) làm ngưng trệ việc tích lũy công
 
-691
-
 LỜI VÀNG CỦA THẦY TÔI
 
 đức của một người đức hạnh, 4) làm náo động tâm thức của người có lòng quy kính, 5) từ bỏ vị Thầy tâm linh, 6) từ bỏ Bổn Tôn, 7) từ bỏ các huynh đệ và tỉ muội kim cương, 8) phỉ báng một mạn đà la.
@@ -11567,7 +11506,7 @@ LỜI VÀNG CỦA THẦY TÔI
 
 **Tám Mộ Địa Vĩ Đại** – *dur khrod chen po brgyad*, những nơi kinh hoàng (mộ địa) mà các Không Hành nam (**daka**) và Không Hành nữ (**dakini**) tụ hội. Trong ý nghĩa sâu xa thì những mộ địa này tương ứng với tám thức (*rnam shes brgyad*).
 
-**Tám mươi Đại Thành Tựu Giả (Mahasiddha)**– 1. tám mươi (hay tám mươi tư) đại thành tựu giả của Ấn Độ thời cổ mà cuộc đời các Ngài đã được Abhayadatta thuật lại (xem *Sử Tử của Đức Phật*, Emeryville, Nhà xuất bản Dharma, 1979). 2) tám mươi thành tựu giả xứ Yerpa ở Tây Tạng, các đệ tử đạt được những thành tựu siêu việt của Đức Liên Hoa Sanh (**Padmasambhava**).
+**Tám mươi Đại Thành Tựu Giả (Mahasiddha)**– 1. tám mươi (hay tám mươi tư) đại thành tựu giả của Ấn Độ thời cổ mà cuộc đời các Ngài đã được Abhayadatta thuật lại (xem *Sử Tử của Đức Phật*, Emeryville, Nhà Xuất bản Dharma, 1979). 2) tám mươi thành tựu giả xứ Yerpa ở Tây Tạng, các đệ tử đạt được những thành tựu siêu việt của Đức Liên Hoa Sanh (**Padmasambhava**).
 
 **Tám Pháp Vương Tử Vĩ Đại (Tám Đại Bồ Tát)** – *nye ba'i sras chen brgyad*, các vị Đại Bồ Tát chính trong giáo đoàn của Đức Phật Thích Ca Mâu Ni: Manjusri (Văn Thù), Avalokitesvara (Quán Tự Tại), Vajrapani (Kim Cương Thủ), Maitreya (Di Lặc), Ksitigarbha (Địa Tạng), Sarvanivaranaviskambhin, và Samantabhadra (Phổ Hiền). Mỗi vị đóng một vai trò đặc biệt để cứu giúp chúng sinh. Các Ngài tượng trưng cho trạng thái thuần tịnh của tám thức.
 
@@ -11603,23 +11542,23 @@ là sự chúng ngộ tánh thuần tịnh nguyên sơ đó. Các bản văn g�
 
 **Tánh Không** – *stong pa nyid*, Phạn: *sunyata*, tất cả mọi hiện tượng đều không có sự hiện hữu thực sự.
 
-**Tánh sáng tạo của Giác tánh (creativity of awareness)** – *rig pa'i rtsal*, năng lực bẩm sinh và tự nhiên của Giác tánh để làm cho các hiện tượng hiển lộ.
+**Tánh sáng tạo của Giác tánh (creativity of awareness)** – *rig pa’i rtsal*, năng lực bẩm sinh và tự nhiên của Giác tánh để làm cho các hiện tượng hiển lộ.
 
-**Tân Dịch (Tân Phái Dịch Thuật)**– *gsar ma pa*, các tài liệu của Mật điển được phiên dịch và truyền bá từ thời đại của dịch giả **Rinchen Zangpo** (958-1055) trở đi. **Tân Phái** chỉ tất cả các trường phái của Phật Giáo Tây Tạng ngoại trừ phái Nyingmapa, hay phái **Cựu Dịch**.
+**Tân Dịch (Tân Phái Dịch Thuật)**– *gsar ma pa*, các tài liệu của Mật điển được phiên dịch và truyền bá từ thời đại của dịch giả Rinchen Zangpo (958-1055) trở đi. **Tân Phái** chỉ tất cả các trường phái của Phật Giáo Tây Tạng ngoại trừ phái Nyingmapa, hay phái **Cựu Dịch**.
 
 **Tân phái** – xem **Tân Dịch, Tân Phái Dịch Thuật** hay **Cổ phái**.
 
 **Tập khí** – xem **khuynh hướng quen thuộc**.
 
-**Tăng đoàn** – *dge 'dun*. Theo nghĩa rộng, tăng đoàn ám chỉ tất cả những hành giả của Phật Giáo. Tăng đoàn có thể cũng có một ý nghĩa giới hạn hơn phù hợp với văn cảnh, ám chỉ những Tăng sĩ, A La hán, Bồ Tát, v.v.
+**Tăng đoàn** – *dge ‘dun*. Theo nghĩa rộng, tăng đoàn ám chỉ tất cả những hành giả của Phật Giáo. Tăng đoàn có thể cũng có một ý nghĩa giới hạn hơn phù hợp với văn cảnh, ám chỉ những Tăng sĩ, A La hán, Bồ Tát, v.v.
 
-**Tenma** – *rten ma bcu gnyis*, mười hai nữ Hộ Thần địa phương phát nguyện bảo vệ Giáo Pháp trước sự hiện diện của Đức **Liên Hoa Sanh (Padmasambhava)**.
+**Tenma** – *rten ma bcu gnyis*, mười hai nữ Hộ Thần địa phương phát nguyện bảo vệ Giáo Pháp trước sự hiện diện của Đức Liên Hoa Sanh (Padmasambhava).
 
-**Thanh Văn (Sravaka)** – *nyan thos*, một đệ tử theo Thừa nguyên thuỷ của Phật Giáo, có mục đích giải thoát khỏi đau khổ của luân hồi sinh tử như một vị **A La Hán**. Không
+**Thanh Văn (Sravaka)** – *nyan thos*, một đệ tử theo Thừa nguyên thuỷ của Phật Giáo, có mục đích giải thoát khỏi đau khổ của luân hồi sinh tử như một vị A La Hán. Không
 
 THUẬT NGỮ
 
-giống như các đệ tử của **Đại Thừa**, các vị **Thanh Văn** không khao khát đạt được Toàn Giác vì lợi ích của tất cả chúng sinh.
+giống như các đệ tử của **Đại Thừa**, các vị Thanh Văn không khao khát đạt được Toàn Giác vì lợi ích của tất cả chúng sinh.
 
 **Thanh Văn Thừa (Sravakayana)** – *nyan thos kyi theg pa*, Thừa của các **Thanh Văn**.
 
@@ -11663,13 +11602,13 @@ LỜI VÀNG CỦA THẦY TÔI
 
 **Tịch Hộ** – Xem **Santaraksita**.
 
-# THUẬT NGỮ
+THUẬT NGỮ
 
 **Tiến trình suy hoại (Tiến trình tan rã)** – *thim rim*, một chuỗi hiện tượng xảy ra vào lúc chết: sự suy hoại (tan rã) của các đại và sự xuất hiện của ba kinh nghiệm được gọi là kinh nghiệm của tánh sáng, tăng trưởng và thành tựu.
 
 **Tilopa** – *ti lo pa*, một trong tám mươi tư đại thành tựu giả của Ấn Độ. Sư phụ của **Naropa**.
 
-**Tingdzin Zangpo (Nyang)** – *myang ting ‘dzin bzang po* (thế kỷ thứ 9), đại thành tựu giả Tây Tạng, đệ tử của **Vimalamitra** (từ vị này Ngài nhận toàn bộ giáo lý *Tâm-Yếu*) và của Đức **Liên Hoa Sanh (Padmasambhava)**. Ngài được coi là người Tây Tạng đầu tiên đạt được thân cầu vồng (rainbow body) của pháp đại chuyển di siêu việt (‘*ja’ lus ‘pho ba chen po*), là một trong những thành tựu vĩ đại nhất của pháp tu **Đại Viên Mãn**.
+**Tingdzin Zangpo (Nyang)** – *myang ting ‘dzin bzang po* (thế kỷ thứ 9), đại thành tựu giả Tây Tạng, đệ tử của **Vimalamitra** (từ vị này Ngài nhận toàn bộ giáo lý *Tâm-Yếu*) và của Đức **Liên Hoa Sanh (Padmasambhava)**. Ngài được coi là người Tây Tạng đầu tiên đạt được thân cầu vồng (rainbow body) của pháp đại chuyển di siêu việt (*‘ja’ lus ‘pho ba chen po*), là một trong những thành tựu vĩ đại nhất của pháp tu **Đại Viên Mãn**.
 
 **Tình Nhân Thiên Tú** – *skar ma la dga’ ba*, danh hiệu của một Bồ Tát. Ngài là điển hình của một người mà nguyện lực vô ngã đã khiến Ngài vun bồi công đức mặc dù Ngài đã phạm phải một lỗi lầm mà thông thường được coi là một hành vi xấu ác.
 
@@ -11685,7 +11624,7 @@ LỜI VÀNG CỦA THẦY TÔI
 
 **Tịnh Quang (cõi của chư Thiên)** – *od gsal gyi lha*, Phạn: *Abhasvara*, tầng trời cao nhất của chư Thiên trong Nhị Thiền (thuộc **Sắc Giới**).
 
-**Thanh tịnh quang của giây khắc nền tảng** (Clear light of the moment of the ground) – *gzhi dus kyi ‘od gsal*, “bản tánh của tâm thức tất cả chúng sinh, thanh tịnh từ vô thuỷ và chói ngời tự nhiên; sự tương tục căn bản (của Giác tánh), tiềm năng của Phật Quả.” DICT. Thanh tịnh quang có thể được một vị Đạo Sư chứng ngộ “giới thiệu” (trực chỉ) cho một đệ tử, và người đệ tử sau đó tiếp tục làm cho thuần thục và phát triển kinh nghiệm này bằng những pháp môn hành trì thâm diệu của **Đại Viên Mãn**. Chúng sinh bình thường chỉ cảm nhận được tịnh quang trong một thời khắc ngắn bằng một tia chớp vào lúc chết.
+**Thanh tịnh quang của giây khắc nền tảng (Clear light of the moment of the ground)** – *gzhi dus kyi ‘od gsal*, “bản tánh của tâm thức tất cả chúng sinh, thanh tịnh từ vô thuỷ và chói ngời tự nhiên; sự tương tục căn bản (của Giác tánh), tiềm năng của Phật Quả.” DICT. Thanh tịnh quang có thể được một vị Đạo Sư chứng ngộ “giới thiệu” (trực chỉ) cho một đệ tử, và người đệ tử sau đó tiếp tục làm cho thuần thục và phát triển kinh nghiệm này bằng những pháp môn hành trì thâm diệu của **Đại Viên Mãn**. Chúng sinh bình thường chỉ cảm nhận được tịnh quang trong một thời khắc ngắn bằng một tia chớp vào lúc chết.
 
 **Tirthika (Ngoại Đạo, Phi Phật Giáo)** – *mu stegs pa*, kẻ đề xướng những quan điểm triết học cực đoan chẳng hạn như **thuyết hư vô** và **thuyết vĩnh cửu**. Thường được dùng cho các trường phái tư tưởng triết học và tôn giáo ở Ấn Độ đối lập với Phật Giáo.
 
@@ -11698,6 +11637,8 @@ LỜI VÀNG CỦA THẦY TÔI
 **Torma** – *gtor ma*, một cúng phẩm, thường được nặn từ bột mì và bơ có thể là biểu tượng của một vị Bổn Tôn, một mạn đà la, một vật cúng dường, hay đôi khi một vũ khí để chiến đấu với các thế lực ác hại.
 
 **Torma nước** – *chu gtor*, một phẩm vật cúng dường làm bằng nước, sữa và các loại hạt.
+
+698
 
 THUẬT NGỮ
 
@@ -11715,13 +11656,11 @@ THUẬT NGỮ
 
 **Trạng thái như nhiên (Bản Tánh, Tự Tánh, Tự Tánh Đế)** – *gnas lugs*, Phạn: *prakriti*, nghĩa đen: cách thức an trụ. “Bản tánh hay duyên sinh của vạn pháp.” DICT.
 
-**Trạng thái trung ấm (Bardo)** – *bar do*, Phạn: *antarabhava*, thuật ngữ được dùng cho những giai đoạn kinh nghiệm khác nhau giữa cái chết và giai đoạn tái sinh kế tiếp; với một lối giải thích rộng lớn hơn bao gồm các trạng thái tâm thức khác nhau trong cuộc đời. Bốn trạng thái trung ấm được phân định như: 1) trạng thái trung ấm tự nhiên của đời này (*rang bzhin skyes gnas bar do*), 2) trạng thái trung ấm của lúc chết (*'chi kha'i bar do*), 3) **trạng thái trung ấm của thực tại tối thượng** (*chos nyid bar do*), và 4) trạng thái trung ấm của sự hình thành (*srid pa'i bar do*); hoặc để tạo thành sáu trạng thái trung ấm, hai trạng thái đặc biệt nữa được thêm vào trạng thái thứ nhất: 5) trạng thái trung
-
-699
+**Trạng thái trung ấm (Bardo)** – *bar do*, Phạn: *antarabhava*, thuật ngữ được dùng cho những giai đoạn kinh nghiệm khác nhau giữa cái chết và giai đoạn tái sinh kế tiếp; với một lối giải thích rộng lớn hơn bao gồm các trạng thái tâm thức khác nhau trong cuộc đời. Bốn trạng thái trung ấm được phân định như: 1) trạng thái trung ấm tự nhiên của đời này (*rang bzhin skyes gnas bar do*), 2) trạng thái trung ấm của lúc chết (*'chi kha'i bar do*), 3) **trạng thái trung ấm của thực tại tối thượng** (*chos nyid bar do*), và 4) trạng thái trung ấm của sự hình thành (*srid pa'i bar do*); hoặc để tạo thành sáu trạng thái trung ấm, hai trạng thái đặc biệt nữa được thêm vào trạng thái thứ nhất: 5) trạng thái trung ấm
 
 LỜI VÀNG CỦA THẦY TÔI
 
-ấm của giấc mộng (*rmi lam bar do*) và 6) trạng thái trung ấm của thiền định (*bsam gtan bar do*).
+ấm của giấc mộng (rmi lam bar do) và 6) trạng thái trung ấm của thiền định (bsam gtan bar do).
 
 **Trạng thái trung ấm của sự hình thành** – *srid pa’i bar do*, trạng thái trung ấm trong đó nghiệp lực xô đẩy ta tới sự tái sinh kế tiếp trong luân hồi sinh tử. AT: trạng thái trung ấm của những triển vọng, trạng thái trung ấm của sự hiện hữu.
 
@@ -11741,19 +11680,19 @@ và toàn thể thế giới xuất hiện như là sự hiển bày của các 
 
 **Trích xuất tinh chất** – *bcud len*, một phương pháp khiến ta có thể chỉ dùng những chất thể hay yếu tố nào đó với một lượng ít ỏi, mà không phải dùng thực phẩm thông thường.
 
-**Triệu thỉnh và thành tựu** – *bsnyen sgrub*, hai bước trong các pháp hành trì liên quan tới việc trì tụng một mantra (minh chú). Trong bước thứ nhất, các hành giả triệu thỉnh Bổn Tôn mà họ đang quán tưởng bằng cách trì tụng câu minh chú của Bổn Tôn. Trong bước thứ hai, họ đủ thuần thục để tự đồng nhất với Bổn Tôn.
+**Triệu thỉnh và thành tựu** – *bsnyen sgrub*, hai bước trong các pháp hành trì liên quan tới việc trì tụng một **mantra** (minh chú). Trong bước thứ nhất, các hành giả triệu thỉnh **Bổn Tôn** mà họ đang quán tưởng bằng cách trì tụng câu minh chú của **Bổn Tôn**. Trong bước thứ hai, họ đủ thuần thục để tự đồng nhất với **Bổn Tôn**.
 
-**Tripitaka** – xem Tam Tạng.
+**Tripitaka** – xem **Tam Tạng**.
 
-**Trisong Detsen** – *khri srong sde’u btsan* (790-844), vị vua thứ 38 của Tây Tạng, là thứ hai trong ba vị Pháp Vương vĩ đại. Nhờ nỗ lực của Ngài mà các Đại Đạo Sư từ Ấn Độ đã tới và thiết lập một nền Phật Giáo thật vững chắc tại Tây Tạng.
+**Trisong Detsen** – *khri srong sde’u btsan* (790-844), vị vua thứ 38 của Tây Tạng, là vị thứ hai trong ba vị Pháp Vương vĩ đại. Nhờ nỗ lực của Ngài mà các Đại Đạo Sư từ Ấn Độ đã tới và thiết lập một nền Phật Giáo thật vững chắc tại Tây Tạng.
 
-**Trí tuệ** – *shes rab*, Phạn: *prajna*, khả năng thấu hiểu đúng đắn, thường là với cảm thức đặc biệt của kinh nghiệm thấu suốt tánh Không. AT: trí tuệ phân biệt. Cũng xem trí tuệ nguyên sơ.
+**Trí tuệ** – *shes rab*, Phạn: *prajna*, khả năng thấu hiểu đúng đắn, thường là với cảm thức đặc biệt của kinh nghiệm thấu suốt tánh Không. AT: trí tuệ phân biệt. Cũng xem **trí tuệ nguyên sơ**.
 
-**Trí tuệ nguyên sơ** – *ye she*, Phạn: *jnana*, “khả năng thấu suốt (shes pa) đã luôn luôn hiện diện từ vô thuỷ (ye nas), giác tánh, tánh sáng-tánh Không, an trụ tự nhiên trong dòng tâm thức của tất cả chúng sinh.” DICT.
+**Trí tuệ nguyên sơ** – *ye she*, Phạn: *jnana*, “khả năng thấu suốt (*shes pa*) đã luôn luôn hiện diện từ vô thuỷ (*ye nas*), giác tánh, tánh sáng-tánh Không, an trụ tự nhiên trong dòng tâm thức của tất cả chúng sinh.” DICT.
 
 **Trống sọ người nhỏ** – *thod pa’i da ma ru*, trống (damaru) nhỏ có hai mặt làm bằng hai đỉnh sọ người.
 
-**Trung Đạo (Madhyamika)** – *dbu ma’i lam*, Phạn: *madhyamika*, giáo lý về tánh Không được Ngài Long Thọ (Nagarjuna)
+**Trung Đạo (Madhyamika)** – *dbu ma’i lam*, Phạn: *madhyamika*, giáo lý về tánh Không được Ngài Long Thọ (**Nagarjuna**)
 
 701
 
@@ -11781,27 +11720,19 @@ giảng dạy trước tiên và được coi như nền tảng của **Mật Th
 
 THUẬT NGỮ
 
-**Tứ Thiên Vương** – *rgyal chen rigs bzhi*, Phạn: *caturmaharajakayika*, bốn vị Trời mà theo truyền thống là những vị bảo vệ bốn phương. Cõi giới của họ là cõi thứ nhất trong sáu cõi Trời trong **Dục Giới**. Xem **ba cõi** hay **Tam giới**.
+- **Tứ Thiên Vương** – *rgyal chen rigs bzhi*, Phạn: *caturmaharajayika*, bốn vị Trời mà theo truyền thống là những vị bảo vệ bốn phương. Cõi giới của họ là cõi thứ nhất trong sáu cõi Trời trong **Dục Giới**. Xem **ba cõi** hay **Tam giới**.
+- **Tứ thiền (tứ định)** – *bsam gtan bzhi*, Phạn: *caturdhyana*, bốn mức độ thiền định, kết quả của công phu hành trì thiền định này là được tái sinh trong bốn loại cõi trời trong **Sắc Giới**. Tuy nhiên tứ thiền cũng có thể được vận dụng trên con đường dẫn tới giác ngộ.
+- **Tứ thiền bát định (thiền định thế tục)** – những loại thiền định không đưa tới giác ngộ mà chỉ dẫn tới sự tái sinh trong các cõi Trời. Xem **tứ thiền**.
+- **Tứ Vô Lượng** – *tshad med bzhi*, Phạn: *caturaprameya*, từ (*byams pa*, Phạn: *maitri*), bi (*snying rje*, *karuna*), hỉ (*dga’ba*, *mudita*), và xả (*btang snyoms*, *upeksa*) vô lượng.
+- **Tử Thần (Diêm Vương)** – *’chi bdag*, Yama.
+- **Tướng chính và phụ** – *mtshan dang dpe byad*, ba mươi hai tướng chính (*mtshan bzang*, Phạn: *mahapurusa laksana*) và tám mươi tướng phụ (*dpe byad*, *anuvyanjana*) của một vị Phật.
+- **Tỳ Bà Thi (Phật)** – xem **Vipasyin**.
+- **Tỳ Lô Giá Na** – xem **Vairocana**.
+- **Vairocana (Tỳ Lô Giá Na)** – *rnam par snang mdzad*, Đức Phật thuộc Phật Bộ. Xem **năm bộ**.
+- **Vairotsana** – *bai ro tsa na*, dịch giả vĩ đại nhất của Tây Tạng và là một trong bảy tăng sĩ đầu tiên được thọ giới ở Tây Tạng. Ngài là một trong những đệ tử chính của Đức **Liên Hoa Sanh (Padmasambhava)** và **Cát Tường Sư Tử (Sri Simha)**.
+- **Vaisakha** – *sa ga zla ba*, tháng thứ tư trong âm lịch Tây Tạng. Đức Phật đản sanh, đạt được Giác ngộ và nhập Niết Bàn
 
-**Tứ thiền (tứ định)** – *bsam gtan bzhi*, Phạn: *caturdhyana*, bốn mức độ thiền định, kết quả của công phu hành trì thiền định này là được tái sinh trong bốn loại cõi trời trong **Sắc Giới**. Tuy nhiên tứ thiền cũng có thể được vận dụng trên con đường dẫn tới giác ngộ.
-
-**Tứ thiền bát định (thiền định thế tục)** – những loại thiền định không đưa tới giác ngộ mà chỉ dẫn tới sự tái sinh trong các cõi Trời. Xem **tứ thiền**.
-
-**Tứ Vô Lượng** – *tshad med bzhi*, Phạn: *caturaprameya*, từ (*byams pa*, Phạn: *maitri*), bi (*snying rje*, *karuna*), hỉ (*dga’ba*, *mudita*), và xả (*btang snyoms*, *upeksa*) vô lượng.
-
-**Tử Thần (Diêm Vương)** – *’chi bdag*, Yama.
-
-**Tướng chính và phụ** – *mtshan dang dpe byad*, ba mươi hai tướng chính (*mtshan bzang*, Phạn: *mahapurusa laksana*) và tám mươi tướng phụ (*dpe byad*, *anuvyanjana*) của một vị Phật.
-
-**Tỳ Bà Thi (Phật)** – xem **Vipasyin**.
-
-**Tỳ Lô Giá Na** – xem **Vairocana**.
-
-**Vairocana (Tỳ Lô Giá Na)** – *rnam par snang mdzad*, Đức Phật thuộc Phật Bộ. Xem **năm bộ**.
-
-**Vairotsana** – *bai ro tsa na*, dịch giả vĩ đại nhất của Tây Tạng và là một trong bảy tăng sĩ đầu tiên được thọ giới ở Tây Tạng. Ngài là một trong những đệ tử chính của Đức **Liên Hoa Sanh (Padmasambhava)** và **Cát Tường Sư Tử (Sri Simha)**.
-
-**Vaisakha** – *sa ga zla ba*, tháng thứ tư trong âm lịch Tây Tạng. Đức Phật đản sanh, đạt được Giác ngộ và nhập Niết Bàn
+703
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -11819,15 +11750,15 @@ vào ngày rằm (ngày mười lăm) trong tháng đó. (*Người Tây Tạng 
 
 **Vajrapani (Kim Cương Thủ)** – *phyag na rdo rje*, một trong **Tám Trưởng Tử Vĩ Đại**.
 
-**Vajrasattva (Kim Cương Tát Đỏa)** – *rdo rje sems dpa’*, vị Phật hiện thân **Trăm Đấng Hộ Phật**. Hành trì pháp Vajrasattva và trì tụng thần chú của Ngài thì đặc biệt hữu hiệu để tịnh hoá các ác hạnh. Theo dòng truyền thừa **Đại Viên Mãn**, Ngài là **Báo Thân Phật**.
+**Vajrasattva (Kim Cương Tát Đỏa)** – *rdo rje sems dpa’*, vị Phật hiện thân **Trăm Đấng Hộ Phật**. Hành trì pháp Vajrasattva và trì tụng thần chú của Ngài thì đặc biệt hữu hiệu để tịnh hoá các ác hạnh. Theo dòng truyền thừa **Đại Viên Mãn**, Ngài là **Báo Thân** Phật.
 
 THUẬT NGỮ
 
 **Vajrayana (Kim Cương Thừa)** – *rdo rje theg pa*, xem **Mật Thừa**.
 
-**Văn Thù (Manjusri)** – *’jam dpal dbyangs*, một vị Bồ Tát thập địa. Ngài hiện thân cho sự toàn giác và trí tuệ của tất cả chư Phật.
+**Văn Thù (Manjusri)** – *‘jam dpal dbyangs*, một vị Bồ Tát thập địa. Ngài hiện thân cho sự toàn giác và trí tuệ của tất cả chư Phật.
 
-**Vidyadhara (Trì Minh Vương)** – *rig ’dzin*, bậc trì giữ thấu suốt. “Bậc trì giữ các **Bổn Tôn**, mật chú, và trí tuệ đại lạc bằng những phương tiện thâm diệu.” DICT. Trong truyền thống Nyingmapa có bốn cấp độ vidyadhara: 1) hoàn toàn thuần thục (*rnam smin*), 2) làm chủ thọ mạng của đời mình (*tshe dbang*), 3) Mahamudra (Đại Ấn, *phyag chen*), và 4) thành tựu tự nhiên (*lhun grub*).
+**Vidyadhara (Trì Minh Vương)** – *rig ‘dzin*, bậc trì giữ thấu suốt. “Bậc trì giữ các **Bổn Tôn**, mật chú, và trí tuệ đại lạc bằng những phương tiện thâm diệu.” DICT. Trong truyền thống Nyingmapa có bốn cấp độ vidyadhara: 1) hoàn toàn thuần thục (*rnam smin*), 2) làm chủ thọ mạng của đời mình (*tshe dbang*), 3) Mahamudra (Đại Ấn, *phyag chen*), và 4) thành tựu tự nhiên (*lhun grub*).
 
 **Viên ngọc như ý** – *yid bzhin nor bu*, Phạn: *cintamani*, một viên ngọc tuyệt diệu được tìm thấy trong các cõi Trời hay rồng có diệu năng đáp ứng được mọi ước muốn của ta.
 
@@ -11842,6 +11773,8 @@ THUẬT NGỮ
 **Virupa** – một trong tám mươi tư **đại thành tựu giả** của Ấn Độ. Là suối nguồn của các giáo lý quan trọng của truyền thống **Sakyapa**.
 
 **Vị Thầy gốc (Bổn Sư)** – *rtsa ba’i bla ma*, 1) vị Thầy tâm linh chính yếu, hay vị Thầy đầu tiên mà ta nhận các quán
+
+705
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -11881,7 +11814,7 @@ tàng tâm linh (tàng kinh) ấy được khám phá trở lại vì lợi lạ
 
 **Ý niệm hay quan hệ thuộc ý niệm** – *dmigs pa*, bất kỳ khái niệm (tạo tác) nào về chủ thể, đối tượng và hành động.
 
-❀ *Chú thích của TBĐ 2008*
+❀ Chú thích của TBĐ 2008
 Để giúp cho việc hiệu đính phần Thuật Ngữ, chúng tôi đã tra cứu thêm các trang nhà và tài liệu sau đây:
 Thư Viện Hoa Sen (www.thuvienhoasen.org)
 Đạo Uyển (www.daouyen.org)
@@ -11891,15 +11824,13 @@ cũng như tham khảo thêm ý kiến với các đạo hữu Nguyễn Minh Ti�
 
 707
 
-LỜI VÀNG CỦA THẦY TÔI
-
 # TÀI LIỆU THAM KHẢO
 
 1. Tài liệu do Patrul Rinpoche trích dẫn
 
 **An Trú Lìa Xa Ảo Giác** - *Finding Rest from Illusion* - *sgyu ma ngal gso*, một tập luận do Ngài Longchenpa trước tác, chỉ cho thấy tất cả các hiện tượng (vạn pháp) đều giống như những ẩn dụ về ảo giác như thế nào. Đây là tập sách thứ ba trong tập yếu Ba Phương Thức An Trú (*Trilogy of Rest*), *ngal gso skor gsum* do Ngài biên soạn.
 
-**An Trú Trong Chân Tánh** - *Finding Rest in the Nature of Mind* - *sems nyid ngal gso*, một trước tác của Ngài Longchenpa. Tập sách đầu tiên trong tập yếu Ba Phương Thức An Trú (*Trilogy of Rest*), *ngal gso skor gsum* do Ngài biên soạn
+**An Trú Trong Chân Tánh** - *Finding Rest in the Nature of Mind* - *sems nyid ngal gso*, một trước tác của Ngài Longchenpa. Tập sách đầu tiên trong tập yếu Ba Phương Thức An Trú (*Trilogy of Rest*), *ngal gso skor gsum* do Ngài biên soạn.
 
 **Bài Nguyện Vãng Sanh Tây Phương Cực Lạc** - *Prayer of Sukhavati* - *bde ba can gyi smom lam*, một bài cầu nguyện để được vãng sinh vào cõi tịnh độ của đức Phật A Di Đà (Amitabha). Đây là bài cầu nguyện nổi tiếng nhất do Ngài Karma Chakme biên soạn.
 
@@ -11913,48 +11844,52 @@ TÀI LIỆU THAM KHẢO
 - **Bảo Trang Tối Yếu** - *Essential Ornament – snying po’i rgyan*, một Mật điển.
 - **Bát Nhã Tập Kệ** - *Condensed Transcendent Wisdom – Prajnaparamita-samcayagatha, phar phyin bsdus pa*, tên của một tập luận của Ngài Thánh Dũng (Aryasūra).
 - **Bát Thiên Tụng Bát Nhã Ba La Mật Đa Kinh** - *Transcendent Wisdom in Eight Thousand Verses – Astasahasrika-prajna-paramita, shes rab skyi pha rol tu phyin pa brgyad stong pa* (được viết tắt là *brgyad stong pa*).
-- **Bảy Mươi Đỏan Kệ Quy Y** - *Seventy Stanzas on Refuge – skyabs ‘gro bdun bcu pa*.
+- **Bảy Mươi Đoản Kệ Quy Y** - *Seventy Stanzas on Refuge – skyabs ‘gro bdun bcu pa*.
 - **Bí Mật Tập Hội Mật Điển** - *Tantra of the Secret Essence – Guhyagarbha-tantra, rgyud gsang ba’i snying po*, còn được gọi là *dpal gsang ba’i rgyud*, Mật điển gốc của Đại Du Già (Mahayoga).
 - **Chứng Đạo Ca của Saraha** - *Dohas (of Saraha) – Dohakosa, do ha mdzod*, những bài chứng đạo ca của đại thành tựu giả Ấn Độ Saraha.
 - **Chứng Đạo Ca của Virupa** - *Dohas (of Virupa) – Dohakosa, do ha mdzod*, những bài chứng đạo ca của Virupa, một đại thành tựu giả Ấn Độ.
 - **Con Đường Đạo Tôn Quý Tối Thượng** - *Precious Supreme Path – lam mchog rin po che*, một trước tác của Ngài Gampopa.
 - **Di Lặc Ngũ Luận hay Ngũ Bộ Đại Luận** - *Five Teachings of Maitreya – byams chos sde lnga*, năm
 
+709
+
 LỜI VÀNG CỦA THẦY TÔI
 
 bộ luận do Đức Phật Di Lặc tuyên thuyết cho Ngài Vô Trước (Asanga) ở tại Cung Trời Đâu Suất (Tusita) gồm có: *Hiện Quán Trang Nghiêm Luận - Abhisamaya-alamkara (mngon rtogs rgyan)*, *Đại Thừa Kinh Trang Nghiêm Luận - Mahayana-sutra-alamkara (mdo sde rgyan)*, *Trung Biên Phân Biệt Luận - Madhyanta-vibhanga (dbus mtba' mam 'byed)*, *Phật Pháp Tính Không Biệt Luận - Dharma-dharmata-vibhanga (chos dang chos nyid rnam 'byed)* và *Đại Thừa Tối Thượng Luận - Uttara-tantra-sastra (rgyud bla ma)*.
 
-**Diệt Tội Trang Nghiêm Sám Hối Mật Điển** - *Tantra of Immaculate Confession – dri med gshags pa'i rgyud*.
+**Diệt Tội Trang Nghiêm Sám Hối Mật Điển** - *Tantra of Immaculate Confession - dri med gshags pa'i rgyud*.
 
-**Đại Bát Niết Bàn Kinh** - *Nirvana Sutra – Mahaparinirvana-sutra, mya ngan las 'das pa'i mdo*.
+**Đại Bát Niết Bàn Kinh** - *Nirvana Sutra - Mahaparinirvana-sutra, mya ngan las 'das pa'i mdo*.
 
-**Đại Nhật Tâm Kinh** - *Sutra of the Heart of the Sun – nyi ma'i snying po'i mdo*.
+**Đại Nhật Tâm Kinh** - *Sutra of the Heart of the Sun - nyi ma'i snying po'i mdo*.
 
-**Đại Thừa Bảo Vân Kinh** - *Clouds of Jewels – Ratnamegha-sutra, mdo sde dkon mchog sprin*, được cho rằng đây là bản kinh đầu tiên do dịch giả Thonni Sambhota chuyển qua Tạng ngữ.
+**Đại Thừa Bảo Vân Kinh** - *Clouds of Jewels - Ratnamegha-sutra, mdo sde dkon mchog sprin*, được cho rằng đây là bản kinh đầu tiên do dịch giả Thonni Sambhota chuyển qua Tạng ngữ.
 
-**Đại Thừa Trang Nghiêm Bảo Vương Kinh** - *Sutra Designed like a Jewel Chest – Arya-ratnakarandavyuha-sutra, mdo sde za ma tog bkod pa*, (tìm thấy) trong *Mani Kahbum* của đức vua Songtsen Gampo.
+**Đại Thừa Trang Nghiêm Bảo Vương Kinh** - *Sutra Designed like a Jewel Chest - Arya-ratna-karandavyuha-sutra, mdo sde za ma tog bkod pa*, (tìm thấy) trong *Mani Kahbum* của đức vua Songtsen Gampo.
 
-**Giáo Huấn Về Bồ Đề Tâm Khắc Bằng Vàng Trên Đá** - *Instructions on Bodhicitta Written on Stone in Gold – byang sems rdo la gser zhun*, có lẽ đây là tác phẩm có tên là *rdo la gser zhun* thuộc phần viết về Tâm (*sems sde*) của giáo lý Đại Viên Mãn
+**Giáo Huấn Về Bồ Đề Tâm Khắc Bằng Vàng Trên Đá** - *Instructions on Bodhicitta Written on Stone in Gold - byang sems rdo la gser zhun*, có lẽ đây là tác phẩm có tên là *rdo la gser zhun* thuộc phần viết về Tâm (*sems sde*) của giáo lý Đại Viên Mãn
 
 TÀI LIỆU THAM KHẢO
 
-(Great Perfection), trong Mật Điển Tập Yếu của dòng truyền thừa Nyingma (Cổ Mật) (rnying ma rgyud ‘bum).
+(Great Perfection), trong Mật Điển Tập Yếu của dòng truyền thừa Nyingma (Cổ Mật) (rnying ma rgyud 'bum).
 
 **Hô Kim Cang Mật Điển** - *Hevajra tantra* – *Hevajra-tantra-raja*, rgyud brtags guyis.
 
-**Kho Báu Thiện Đức** - *Treasury of Precious Qualities* – *yon tan rin po che’i mdzod*, một luận giải rất nổi tiếng của Ngài Jigme Lingpa, diễn giảng về toàn bộ con đường tu của Phật Đạo, từ những giáo lý Thanh Văn (Sravakayana) cho đến giáo lý của Đại Viên Mãn(Great Perfection).
+**Kho Báu Thiện Đức** - *Treasury of Precious Qualities* – *yon tan rin po che'i mdzod*, một luận giải rất nổi tiếng của Ngài Jigme Lingpa, diễn giảng về toàn bộ con đường tu của Phật Đạo, từ những giáo lý Thanh Văn (Sravakayana) cho đến giáo lý của Đại Viên Mãn(Great Perfection).
 
 **Kinh Bách Nghiệp** - *Sutra of a Hundred Actions* – *Karmasataka-sutra*, mdo sde las brgya pa.
 
 **Kinh Bách Nghiệp Bách Bái** - *Sutra of a Hundred Invocations and Prostrations* – *Saksi-purana-sudraka-nama-sutra*, dpang skong phyag brgya pa, tên của một kinh trong King tạng (Kangyur), theo truyền thuyết cho rằng đây là bộ kinh Phật Giáo đầu tiên đã xuất hiện tại Tây Tạng (trên mái nhà của cung điện đức vua Lhathothori, vào khoảng giữa thế kỷ thứ 5). Sau đó, kinh này đã được Thonmi Sambhota dịch qua Tạng văn.
 
-**Kinh Đại Giải Thoát** - *Sutra of Great Liberation* – *thar pa chen po’i mdo*.
+**Kinh Đại Giải Thoát** - *Sutra of Great Liberation* – *thar pa chen po'i mdo*.
 
 **Kinh Hiền Ngu** - *Sutra of the Wise and the Foolish* – *Damomurkha-sutra*, mdzangs blun gy mdo.
 
 **Kinh Hoa Nghiêm** - *Sutra Arranged like a Tree* (Kinh Sắp Xếp Như Một Cái Cây) – *Gandhavyuha-sutra*, sdong po bkod pa, một phẩm trong Kinh Hoa Nghiêm (Avatamsaka Sutra), phal po che.
 
 **Kinh Kim Cang** - *Diamond Cutter Sutra* – *Vajracchedik-sutra*, rdo rje gcod pa.
+
+711
 
 LỜI VÀNG CỦA THẦY TÔI
 
@@ -11970,33 +11905,33 @@ LỜI VÀNG CỦA THẦY TÔI
 
 TÀI LIỆU THAM KHẢO
 
-**Ngũ Bộ Giới Nguyện** - *Vows of Five Families* – *rigs lnga’ sdom pa*, tên của một Mật điển.
+**Ngũ Bộ Giới Nguyện** - *Vows of Five Families – rigs lnga’ sdom pa*, tên của một Mật điển.
 
-**Nhập Bồ Tát Hạnh** - *Way of the Bodhisattva* – *Bodhicaryavatara, byang chub sems dpa’i spyod pa la ’jug pa*, bộ luận nổi tiếng của Ngài Śāntideva (Tịch Thiên) trình bày về con đường tu tập hay hạnh nguyện của một vị Bồ Tát.
+**Nhập Bồ Tát Hạnh** - *Way of the Bodhisattva – Bodhicaryavatara, byang chub sems dpa’i spyod pa la ’jug pa*, bộ luận nổi tiếng của Ngài Śāntideva (Tịch Thiên) trình bày về con đường tu tập hay hạnh nguyện của một vị Bồ Tát.
 
-**Như Thật Luận (Tương Ưng Luận)** - *Well Explained Reasoning* – *Vyakhya-yukti, rnam bshad rig pa*, tên của một luận do Ngài Thế Thân (Vasubandhu) trước tác.
+**Như Thật Luận (Tương Ưng Luận)** - *Well Explained Reasoning – Vyakhya-yukti, rnam bshad rig pa*, tên của một luận do Ngài Thế Thân (Vasubandhu) trước tác.
 
-**Như Ý Bảo Luận** - *Wish-granting Treasure* – *yid bzhin mdzod*, tên tắt của hai tập trong bộ đại luận *Thất Bảo Luận (Seven Treasures)* (*mdzod bdun*) by Longchenpa (see above).
+**Như Ý Bảo Luận** - *Wish-granting Treasure – yid bzhin mdzod*, tên tắt của hai tập trong bộ đại luận *Thất Bảo Luận (Seven Treasures) (mdzod bdun)* by Longchenpa (see above).
 
-**Oai Mật Kinh** - *Powerful Secret* – *gnyan po gsang ba*, Tên đầu tiên đặt cho bộ kinh mà theo truyền thuyết, vua Lha-Thothori Nyentsten đã khám phá ra trên mái nhà của cung điện của Ngài (vào năm 433 sau Công Nguyên). Sau này được đổi thành *Kinh Bách Nghiệp Bách Bái (Sutra of a Hundred Invocations and Prostrations)*. Kinh này cũng thường được nhắc đến cùng với sự xuất hiện của một số pháp bảo mà trong đó, Nhà Vua đã tìm thấy bản kinh này. Sự xuất hiện của kinh này cùng với các pháp bảo khác đánh dấu sự khởi đầu của Phật Giáo tại Tây Tạng.
+**Oai Mật Kinh** - *Powerful Secret – gnyan po gsang ba*, Tên đầu tiên đặt cho bộ kinh mà theo truyền thuyết, vua Lha-Thothori Nyentsten đã khám phá ra trên mái nhà của cung điện của Ngài (vào năm 433 sau Công Nguyên). Sau này được đổi thành *Kinh Bách Nghiệp Bách Bái (Sutra of a Hundred Invocations and Prostrations)*. Kinh này cũng thường được nhắc đến cùng với sự xuất hiện của một số pháp bảo mà trong đó, Nhà Vua đã tìm thấy bản kinh này. Sự xuất hiện của kinh này cùng với các pháp bảo khác đánh dấu sự khởi đầu của Phật Giáo tại Tây Tạng.
 
-**Pháp Hành Trì Giải Thoát Tức Thời Các Tập Khí Bám Chấp** - *Practice that Spontaneously Liberate Habitual Clingings* – *chos spyod bag chags rang grol*, một phần trong trước tác mang tên *zhi khro* của Ngài Karma Lingpa.
+**Pháp Hành Trì Giải Thoát Tức Thời Các Tập Khí Bám Chấp** - *Practice that Spontaneously Liberate Habitual Clingings – chos spyod bag chags rang grol*, một phần trong trước tác mang tên *zhi khro* của Ngài Karma Lingpa.
 
 LỜI VÀNG CỦA THẦY TÔI
 
-**Pháp Tập Yếu Tụng Kinh** - *Collection of Deliberate Sayings* – *Udanavarga*, ched du brjod pa'i tshoms. Đây là kinh Đại Thừa tương ứng với Kinh Pháp Cú tiếng Pali. Kinh này chứa đựng những thuyết giảng do Đức Phật tuyên thuyết một cách tự nhiên, cốt để gìn giữ giáo lý chứ không phải để trả lời câu hỏi của những cá nhân riêng biệt.
+**Pháp Tập Yếu Tụng Kinh** - *Collection of Deliberate Sayings* – *Udanavarga, ched du brjod pa'i tshoms*. Đây là kinh Đại Thừa tương ứng với Kinh Pháp Cú tiếng Pali. Kinh này chứa đựng những thuyết giảng do Đức Phật tuyên thuyết một cách tự nhiên, cốt để gìn giữ giáo lý chứ không phải để trả lời câu hỏi của những cá nhân riêng biệt.
 
-**Phật Thuyết Pháp Tập Kinh** - *Sutra that Perfectly Encapsulates the Dharma* – *Dharmasanglti-sutra*, ches yang dag par sdud pa'i mdo.
+**Phật Thuyết Pháp Tập Kinh** - *Sutra that Perfectly Encapsulates the Dharma* – *Dharmasanglti-sutra, ches yang dag par sdud pa'i mdo*.
 
-**Phổ Hiền Hạnh Nguyện Tán** - *Prayer of Good Actions* – *Bhadracaryapranidhana*, bzang spyod smon lam, một bài nguyện do Đức Phật tuyên thuyết trong Kinh Hoa Nghiêm (Avatamsaka-Sutra), phal po che và thường thường được tụng đọc vào lúc kết thúc các nghi lễ.
+**Phổ Hiền Hạnh Nguyện Tán** - *Prayer of Good Actions* – *Bhadracaryapranidhana, bzang spyod smon lam*, một bài nguyện do Đức Phật tuyên thuyết trong Kinh Hoa Nghiêm (Avatamsaka-Sutra), *phal po che* và thường thường được tụng đọc vào lúc kết thúc các nghi lễ.
 
-**Tám Bài Kệ (Luyện Tâm) của Langri Thanpa** - *Eight Verses of Langri Thangpa* – glang thang pa'i tshig brgyad, tám đoản kệ về pháp luyện tâm dựa trên tâm Bồ Đề.
+**Tám Bài Kệ (Luyện Tâm) của Langri Thanpa** - *Eight Verses of Langri Thangpa* – *glang thang pa'i tshig brgyad*, tám đoản kệ về pháp luyện tâm dựa trên tâm Bồ Đề.
 
-**Tam Pháp Tuệ Đăng Mật Điển** - *Torch of the Three Methods (Ngọn Đuốc Của Ba Pháp Tu)* – *Nayatraya-pradipa*, tshul gsum sgron me, tên của một bộ luận do Ngài Tripitakamala trước tác.
+**Tam Pháp Tuệ Đăng Mật Điển** - *Torch of the Three Methods* (Ngọn Đuốc Của Ba Pháp Tu) – *Nayatraya-pradipa, tshul gsum sgron me*, tên của một bộ luận do Ngài Tripitakamala trước tác.
 
 **Tám Thi Kệ Vi Diệu** - *Eight Great Marvellous Verses* – *ngo tshar ba'i tshig chen brygyad*, tám bài kệ tán tụng của Mật điển Đại Viên Mãn (Great Perfection) diễn tả về chân tánh của Vô Thượng Chánh Đẳng Chánh Giác.
 
-**Tam Tụ Kinh (Đại Thừa Sám Hối Tam Tụ Kinh)** - *Sutra in Three Parts* – *Triskandha-sutra*, phung po gsum.
+**Tam Tụ Kinh (Đại Thừa Sám Hối Tam Tụ Kinh)** - *Sutra in Three Parts* – *Triskandha-sutra, phung po gsum*.
 
 TÀI LIỆU THAM KHẢO
 
@@ -12010,7 +11945,7 @@ TÀI LIỆU THAM KHẢO
 
 LỜI VÀNG CỦA THẦY TÔI
 
-the Great Vehicle, theg pa chen po’i man ngag gi bstan bcos yid bzhin rin po che’i mdzod; 3) Mật Thừa Thắng Bảo Luận - The Precious Treasure of the Supreme Vehicle, theg pa’i mchog rin po che’i mdzod; 4) Yếu Nghĩa Bảo - The Precious Treasure of Pith Instructions, man ngag rin po che’i mdzod; 5) Thắng Tự Yếu Nghĩa Tam Mật Bảo Luận - The Precious Treasure of Words and Meaning that Illuminate the Three Abodes of the Secret Unsurpassable Luminous Adamantine Essence, gsang ba bla na med pa ‘od gsal rdo rje snying po’i gnas gsum gsal bar byed pa’i tshig don rin po che’i mdzod; 6) Thắng Nghĩa Tam Thừa Bảo Luận - The Precious Treasure of Philosophical Doctrines that Illuminate the Meaning of All Vehicles, theg pa mtha’ dag gi don gsa bar byed pa grub pa’i mtha’ rin po che’i mdzod; and 7) Chân Tánh Bảo Luận - The Precious Treasure of the Natural State, gnas lugs rin po che’i mdzod.
+the Great Vehicle, theg pa chen po’i man ngag gi bstan bcos yid bzhin rin po che’i mdzod; 3) Mật Thừa Thắng Bảo Luận - The Precious Treasure of the Supreme Vehicle, theg pa’i mchog rin po che’i mdzod; 4) Yếu Nghĩa Bảo - The Precious Treasure of Pith Instructions, man ngag rin po che’i mdzod; 5) Thắng Tự Yếu Nghĩa Tam Mật Bảo Luận - The Precious Treasure of Words and Meaning that Illuminate the Three Abodes of the Secret Unsurpassable Luminous Adamantine Essence, gsang ba bla na med pa ‘od gsal rdo rje snying po’i gnas gsum gsal bar byed pa’i tshig don rin po che’i mdzod’; 6) Thắng Nghĩa Tam Thừa Bảo Luận - The Precious Treasure of Philosophical Doctrines that Illuminate the Meaning of All Vehicles, theg pa mtha’ dag gi don gsa bar byed pa grub pa’i mtha’ rin po che’i mdzod; and 7) Chân Tánh Bảo Luận - The Precious Treasure of the Natural State, gnas lugs rin po che’i mdzod.
 
 **Thất Chi Nguyện** - Prayers in Seven Lines - tshig bdun gsol ‘debs, bài cầu nguyện nổi tiếng nhất khẩn cầu đức Liên Hoa Sanh (Padmasambhava) và đã được các nữ Không Hành (dakini) xướng tụng vào giờ phút đản sinh của Ngài. Bài này có nhiều trình độ ý nghĩa khác nhau và chứa đựng tinh túy của tất cả các giáo lý. Xem ghi chú 247.
 
@@ -12021,9 +11956,13 @@ the Great Vehicle, theg pa chen po’i man ngag gi bstan bcos yid bzhin rin po c
 TÀI LIỆU THAM KHẢO
 
 rgyui, một Mật điển rất phổ thông cho cả Mahayoga and Anuyoga.
+
 **Trình Tự Pháp Tu A-Tì** - *Array of ati – a ti bkod pa*, một Mật điển.
+
 **Trung Quán Luận** - *Treatieses on Madhyamika* – *dbuj ma rig pa’i tshogs*, năm đạo luận về giáo lý Trung Quán (Madhyamika) của Ngài Long Thọ (Nagarjuna) gồm có: **Bát Nhã Căn Bản Trung Quán Luận Tụng** - *Prajna-mula-madhyamaka-karika* (*dbus ma rtsa ba shes rab*), **Lục Thập Tụng Như Lý Luận** - *Yukti-sastika-karika* (*rigs pa drug cu pa*), **Quảng Phá Luận** - *Vaidalya-sutra* (*zhib mo mam ‘thag*), **Thất Thập Không Tính Luận Tụng** - *sunyata-saptati-karika* (*stong nyid bdun cu pa*), và **Hồi Tránh Luận Tụng** - *Vigraha-vyavartani-karika* (*rtsod pa bzlog pa*).
+
 **Yếu Nghĩa Diễn Giải** - *Detailed Commentary on the Condensed Meaning* – *dgongs’dus rnam bshad*, một tập luận do Ngài Jigme Lingpa trước tác thuộc trong hệ của các pháp môn hành trì có tên gọi là *bla ma dgongs’dus* của Ngài Sangye Lingpa.
+
 **Yếu Nghĩa Mật Kinh** - *Sutra of the Condensed Meaning* – *mdo dgongs pa ’ duspa*, một trong những Mật điển gốc của Anuyoga.
 
 2. **Tài liệu tham khảo cho phần Chú Thích và Thuật Ngữ**
@@ -12034,9 +11973,175 @@ rgyui, một Mật điển rất phổ thông cho cả Mahayoga and Anuyoga.
 
 LỜI VÀNG CỦA THẦY TÔI
 
-Words ot my Perfect Teacher), Ngawang Pelzang (ngag dbang dpal zang), còn được biết đến dưới tên Khenpo Ngakchung, trước kia là một đệ tử chân truyền của Đạo Sư Nyoshul Lungtok Tenpai Nyima, và Đạo Sư Nyoshul Lungtok là một đại đệ tử của Ngài Patrul Rinpoche, tác giả của Lời Vàng. Bản Tạng văn của những ghi chép này đã được tái xuất bản bởi đại Đạo Sư Thubten Nyima, Zenkar Rinpoche, Nhà Xuất Bản Minorities Publishing House, Chengdu, Trung Hoa. Tuyển tập gồm những ghi chép giảng giải chi tiết này, giảng giải sâu rộng về một số điều được trích ra từ trong Lời Vàng, hiện đang được chuyển dịch qua Anh ngữ dưới sự động của Alla Zenkar Rinpoche (với sự hợp tác của các thành viên của Nhóm Dịch Thuật Padmakara Translation Group) và dự trù sẽ được xuất bản trong năm 1988 bởi Nhà xuất bản Dipamkara, 367 A Holloway Road, London N7 ORN, U.K.
+Words ot my Perfect Teacher), Ngawang Pelzang (ngag dbang dpal zang), còn được biết đến dưới tên Khenpo Ngakchung, trước kia là một đệ tử chân truyền của Đạo Sư Nyoshul Lungtok Tenpai Nyima, và Đạo Sư Nyoshul Lungtok là một đại đệ tử của Ngài Patrul Rinpoche, tác giả của Lời Vàng. Bản Tạng văn của những ghi chép này đã được tái xuất bản bởi đại Đạo Sư Thubten Nyima, Zenkar Rinpoche, Nhà Xuất Bản Minorities Publishing House, Chengdu, Trung Hoa. Tuyển tập gồm những ghi chép giảng giải chi tiết này, giảng giải sâu rộng về một số điều được trích ra từ trong Lời Vàng, hiện đang được chuyển dịch qua Anh ngữ dưới sự điều động của Alla Zenkar Rinpoche (với sự hợp tác của các thành viên của Nhóm Dịch Thuật Padmakara Translation Group) và dự trù sẽ được xuất bản trong năm 1988 bởi Nhà xuất bản Dipamkara, 367 A Holloway Road, London N7 ORN, U.K.
 
 3. Tác phẩm của Patrul Rinpoche
 
-Các Pháp Tu Mật Điển Của Trường Phái Nyingma - *Tantric Practice in Nying-ma*, Khetsun Sangpo Rinpoche (Jeffrey Hopkins chuyển Anh ngữ), Ithaca, Nhà xuất bản Gabriel/Snow Lion, 1982. (Để chuẩn bị cho các thuyết giảng khẩu truyền dựa trên tác phẩm Lời Vàng Của Thầy Tôi - Kunzang Lamai Shelung - của Patrul Rinpoche).
-Con Đường Đại Viên Mãn - *Le chemin de la Grande Perfection*, bản dịch Pháp văn của Lời Vàng Của Thầy Tôi, kun bzang bla ma'i shal lung, do
+Các Pháp Tu Mật Điển Của Trường Phái Nyingma - Tantric Practice in Nying-ma, Khetsun Sangpo Rinpoche (Jeffrey Hopkins chuyển Anh ngữ), Ithaca, Nhà xuất bản Gabriel/Snow Lion, 1982. (Để chuẩn bị cho các thuyết giảng khẩu truyền dựa trên tác phẩm Lời Vàng Của Thầy Tôi - Kunzang Lamai Shelung - của Patrul Rinpoche).
+Con Đường Đại Viên Mãn - Le chemin de la Grande Perfection, bản dịch Pháp văn của Lời Vàng Của Thầy Tôi, kun bzang bla ma'i shal lung, do
+
+TÀI LIỆU THAM KHẢO
+
+Padmakara Translation Group chuyển dịch, Peyzac-le-Moustier, Ấn bản của Padmakara, 1987, ấn bản thứ Nhì, 1977.
+
+**Kho Tàng Tâm Của Các Bậc Giác Ngộ - Heart Treasure of the Enlightened Ones** (thog mtha' gsum dge ba'i gtam lta sgom spyod gsum mnyams len dam pa'i snying nor), Patrul Rinpoche, Dilgo Khyentse bình giải, (do Padmakara Translation Gorup chuyển Anh ngữ), Boston, Nhà xuất bản Shambhala, 1992. Có bao gồm một tiểu sử ngắn của Patrul Rinpoche.
+
+**Kun-ZangLa-May Zhal Lung (Lời Vàng Của Thầy Tôi)**, Patrul Rinpoche (Kazi Sonam Togpay chuyển Anh ngữ), Upper Montclair (New Jersey), Nhà xuất bản Diamond Lotus Publishing, 1989-1993, 3 tập.
+
+**Những Lời Tốt Lành Ở Phần Đầu, Giữa và Cuối - Propitious Speech from the Beginning, Middle and End** (thog mtha' gsum dge ba'i gtamlta sgom spyod gsum mnyams len dam pa'i snying nor) Patrul Rinpoche, (Thinley Norbu chuyển Anh ngữ), Nhà xuất bản Jewel Publishing House, 1984.
+
+**Rdzogs pa chen po klong chen snying thig gi sgnon 'gro'i khrid yig kun bzang bla ma'i shal lung**, (Bản Tạng văn được đóng bìa mỏng). Do Thubten Nyima, Zenkar Rinpoche hiệu đính, si kron mi rigs dpe skrun khang (Nhà xuất bản Ethnic Minorities Publishing House), Chengdu, China, 1988.
+
+**Tập Hợp Các Yếu Giải của Patrul Orgyan Jigme Chokyi Zangpo - Collected Works of dPal sprul O rgyan ‘Jigs med Chos kyi dBang po**, (Tạng văn), gồm có 6 tập, được Sonam Kazi sao chép lại từ bản khắc mộc trong bộ sưu tầm của đức Dudjom
+
+719
+
+LỜI VÀNG CỦA THẦY TÔI
+
+Rinpoche, tại Gangtok, 1971. Lời Vàng Của Thầy Tôi - *kun bzang bla ma'i shal lung* nằm trong tập thứ 5 trong tập hợp các yếu giải này. Kho Tàng Tâm Của Các Bậc Giác Ngộ, Một Luận Giảng Thiện Lành Ở Phần Đầu, Giữa và Cuối - *thog mtha' bar gsum dge ba'l gtam lta sgom spyod gsum mnyams len dam pa'l snying nor* nằm trong tập thứ 6, trang 195-209.
+
+**Tuyển Tập Các Luận Giải của Patrul Orgyan Jigme Chokyi Zangpo** - *Collected Works of dPal sprul O rgyan 'Jigs med Chos kyi dBang po*, (Tạng văn), sao chép lại từ một bản thảo mới đây đã được ghi lại bằng bút pháp (calligraphy), do Thubten Nyima, Zenkar Rinpoche hiệu đính, *si krom mi rigs dpe skrun khang* (Nhà xuất bản Ethnic Minorities Publishing House), Chengdu, China, 1988
+
+4. **Tiểu Sử của Tác Giả Patrul Rinpoche**
+
+**Giọt Cam Lồ** - *The Dew-Drop of Amrita (mtshungs bral rgyal-ba'l my-gu o-rgyan jigs med chos-kyi dbang-po'i rtogs-brjod tsam gleng-ba bdud rtsi'i zil thig)*, Dodrup Chen đệ Tam, Tenpai Nyima (mdo-grub bstan-pa'i nyi-ma), tập thứ Nhì, *Tuyển Tập Các Trước Tác* - *Collected Writings*, trang 101-136, do Dodrup Sangye ấn hành, Gang-tok, Sikkim, 1972.
+
+**Tán Thán Patrul Rinpoche** - *Praise to Patrul Rinpoche, (rgyal-ba'l my-gus-kyi dbang-po rjes-su dran-pa'l ngag-gi' phreng-ba bkra-shis bil-ba'l ljong bzang ku tu dga'ba tshal)*, Jamyang Khyentse Wangpo ('jams dbyangs mkhyen-brtse'l dbang-po.) Được
+
+TÀI LIỆU THAM KHẢO
+
+bổ sung vào tập thứ 6 của Tuyển Tập Các Luận Giải, trang 245-250.
+Linh Dược Của Tín Tâm - The Elixir of Faith (o-rgyan' jigs-med chos kyi dbang-po'l rnam-thar dad-paz gsos sman bdud rtsi'l bum bcud), Khenpo Kunpel (mkhan-chen kun-bzang dpal-ldan), tập 2 of Tuyển Tập Các Trước Tác - Collected Writings (gsung-'bum) của mKhan-cher. Kun-bzang dPal-ldan, trang 353-484. Do đức Dilgo Khyentse Rinpoche ấn hành, Bhutan, 1986. Bản dịch tiếng Anh và tiếng Pháp của Nhóm Padmakara Translation Group sắp chào đời dưới tên Cuộc Đời Và Những Giáo Huấn Của Patrul Rinpoche - The Life and Teachings of Patrul Rinpoche.
+
+5. Sách Tham Khảo Phụ
+
+Danh mục này chỉ liệt kê những tài liệu đã được trích dẫn cho riêng phần Chú Thích và Thuật Ngữ, chứ không phải là một danh sách đầy đủ bao gồm tất cả những tài liệu liên hệ.
+
+- Con Đường Tỉnh Giác Vĩ Đại - Great Path of Awakening, Jamgon Kongtrul (K. McLeod chuyển Anh ngữ), Boston, Nhà xuất bản Shambhala, 1987.
+- Dũng Khí Giác Ngộ - Enlightened Courage, Dilgo Khyentse, Peyzac-le Moustier (Pháp quốc), Ấn bản của Padmakara, 1992.
+- Huyền Thoại Của Đại Bảo Tháp - Legend of the Great Stupa, Keith Dowman chuyển Anh ngữ, Berkeley, Nhà xuất bản Dharma Publishing, 1973.
+
+LỜI VÀNG CỦA THẦY TÔI
+
+- Những Giáo Huấn Được Cất Dấu Của Tây Tạng: Giải Thích Về Truyền Thống Tàng Bảo Kinh (Terma) Của Trường Phái Phật Giáo Nyingma - *Hidden Teachings of Tibet: An Explanation of the Terma Tradition of the Nyingma School of Buddhism*, Tulku Thondup Rinpoche, London, Nhà xuất bản Wisdom 1986.
+- Pháp Tu Dự Bị Tối Yếu Của Đại Viên Mãn - *Dzogchen Innermost Essence Preliminary Practice*, Jigme Lingpa (Tulku Thondup chuyển Anh ngữ), Dharamsala, Library of Tibetan Work and Archives, 1982.
+- Truyền Thống Mật Điển Nyingmapa - *Tantric Tradition of the Nyingmapa*, Tulku Thondup, Marion, Buddayana, 1984.
+- Trường Phái Nyingma Của Phật Giáo Tây Tạng: Nền Tảng và Lịch Sử - *Nyingma School of Tibetan Buddhism: Its Fundamentals and History*, Dudjon Rinpoche (Dorje và Kapstein chuyển Anh ngữ), Boston, Nhà xuất bản Wisdom, 1991.
+
+Bồ Đề Tâm Vương,
+Tâm tối thượng, tâm vô cùng trân quý,
+Nơi tâm ấy chưa sinh,
+xin cho tâm ấy nẩy sinh,
+Nơi tâm ấy đã sinh,
+xin cho tâm ấy đừng bao giờ thoái chuyển
+Mà vĩnh viễn mỗi ngày một vươn lên,
+vươn lên cao hơn...¹
+
+[Hình: chiếc lá]
+
+Lời Vàng Của Thầy Tôi
+Bản Hiệu Đính Toàn Bộ - Ấn Bản 2008
+Viet Nalanda Foundation ấn tống tại Hoa Kỳ
+
+Mọi sai sót là của người chuyển ngữ và hiệu đính.
+Mọi công đức xin hồi hướng lên quả vị Giác Ngộ
+của tất cả chư Đạo Sư
+cùng toàn thể pháp giới chúng sinh.
+
+1 “Bodhicitta, the Excellent and Precious Mind, where it is unborn, may it arise; where it is born, may it not decline, but ever increase higher and higher...” (Lời nguyện phát Bồ Đề Tâm - Nguyễn Hữu Hiệu dịch)
+
+*Viet Nalanda Foundation* (trước đây còn có tên là Viet Vajra Foundation) là một tổ chức bất vụ lợi 501(c)3 được thành lập vào năm 2006 tại Hoa Kỳ để tạo nhịp cầu kết nối giữa những Phật tử người Việt có duyên với truyền thống Kim Cương Thừa tại khắp nơi trên thế giới. Viet Nalanda Foundation cổ súy tinh thần bất bộ phái, và tôn trọng chư Đạo Sư cùng các Giáo Pháp đặc thù của tất cả bốn dòng truyền thừa của Phật Giáo Tây Tạng gồm có *Nyingma, Sakya, Kagyu* và *Gelug*.
+
+Muốn biết thêm chi tiết về tổ chức Viet Nalanda Foundation cũng như tìm hiểu thêm về Kim Cương Thừa – Phật Giáo Tây Tạng, xin vào xem trang nhà *http://www.vietnalanda.org* hoặc gửi điện thư đến *vietnalanda@ymail.com*.
+
+Muốn phát tâm cúng dường cho quỹ ấn tống kinh sách của Viet Nalanda Foundation, xin liên lạc địa chỉ:
+14905 Coles Chance Road
+North Potomac, MD 20878
+USA
+
+Tài liệu Việt ngữ về Kim Cương Thừa – Phật Giáo Tây Tạng cũng có thể được tìm thấy tại các trang nhà sau đây:
+
+Thư Viện Nalanda – *http://www.nalanda.batnha.org*
+Thư Viện Hoa Sen – *http://www.thuvienhoasen.org*
+Trang Nhà Quảng Đức – *http://www.quangduc.org*
+
+# Ghi Chú của Viet Nalanda Foundation về Phương Danh Ấn Tống và Tịnh Tài Cúng Dường
+
+Trong thời gian từ tháng 3 năm 2007 đến tháng 10 năm 2008, Viet Nalanda Foundation (trước đây có tên là Viet Vajra Foundation) đã kêu gọi quý đạo hữu phát tâm đóng góp cho chi phí ấn tống của hai quyển sách “Lời Vàng Của Thầy Tôi” và “Phát Tâm Bồ Đề.” Có nhiều đạo hữu đã gửi tịnh tài đến đóng góp cho cả hai quyển sách cùng một lúc.
+
+Dựa trên chi phí ấn tống của mỗi quyển sách, chúng tôi đã chia số tịnh tài đóng góp của quý đạo hữu theo tỷ lệ 4/5 cho quyển “Lời Vàng Của Thầy Tôi” và 1/5 cho quyển “Phát Tâm Bồ Đề.” Do đó, số tịnh tài được liệt kê trong Phương Danh Ấn Tống dưới đây phản ảnh đóng góp của quý đạo hữu cho quyển “Lời Vàng Của Thầy Tôi.”
+
+Tổng số tịnh tài quyên góp được, sau khi trang trải chi phí ấn tống và cước phí, nếu còn tồn quỹ thì sẽ được chuyển qua quỹ ấn tống các kinh sách của Viet Nalanda Foundation trong tương lai.
+
+Nguyện xin chư Phật chư Bồ Tát chứng giám cho công đức ấn tống kinh sách của quý đạo hữu và nguyện cho những lời vàng ngọc của chư đạo sư sẽ đến được với tất cả chúng sinh trong khắp sáu cõi.
+
+Nguyện hồi hướng tất cả công đức đến quả vị giác ngộ của chư vị Đạo Sư cùng toàn thể pháp giới chúng sinh.
+
+Viet Nalanda Foundation
+Hoa Kỳ, tháng 10, 2008
+
+# Phương Danh Ấn Tống
+
+| | | |
+| :--- | :--- | :--- |
+| Liêu Tiết Mai | Westminster, CA | $20 |
+| Hồ Kim Loan | Westminster, CA | $20 |
+| Nga Đỗ | Huntington Beach, CA | $20 |
+| Phan Tấn Hải | Westminster, CA | $80 |
+| Mai-Thy Trương | Westminster, CA | $100 |
+| Phạm N. Ngọc Bảo | Westminster, CA | $40 |
+| Thanh Diệp & Mai Thái | Santa Ana, CA | $16 |
+| Vũ H. Đệ | Santa Ana, CA | $50 |
+| Khoa Phạm | Garden Grove, CA | $100 |
+| Đức Ngô | Garden Grove, CA | $48 |
+| Trung Nguyễn | Sacramento, CA | $100 |
+| Bích Thủy | San Jose, CA | $200 |
+| Nguyễn Thúy Mai | San Jose, CA | $25 |
+| Minh Đỗ | San Jose, CA | $40 |
+| Võ Kim Loan | Long Beach, CA | $400 |
+| Ni sư Việt Giáo | Houston, TX | $1000 |
+| Vannessa Nguyễn | Seattle, WA | $100 |
+| Lâm N. Duyên | Falls Church, VA | $30 |
+| Nguyễn Đỗ-Như | Virginia | $50 |
+| Dr. Gene Y Woo | Falls Church, VA | $160 |
+| Hoa Thuy Burke | Falls Church, VA | $30 |
+| Kim Bich D Pham | Sterlings, VA | $20 |
+| Michael Scalia | Leesburg, VA | $30 |
+| Cô Thân Nhẫn | Virgina | $40 |
+| Gia đình bác Phước Minh | Virgina | $40 |
+| Bác Chúc Diệu | Virgina | $40 |
+| Cô Quảng Kiểng | Virgina | $40 |
+| Bác Diệu Mỹ | Virgina | $16 |
+| Bác Diệu Minh | Virgina | $24 |
+| Diệu Xuân & Tường Minh | Virgina | $75 |
+
+Cô Diệu Đức | Virgina | $24
+Chị Diệu Liên | Virgina | $15
+Phương An & bạn | Virgina | $80
+Cô Diệu Hòa | Virgina | $24
+Tâm Diệu Phú & Nguyên Tuệ | Virgina | $160
+Huỳnh Tuyết Anh Như | Sterling, VA | $75
+Lê Thị Phượng | Pittsburgh, PA | $40
+Brenda Gaskill | Takoma Park, MD | $20
+Anne La, Bác Diệu Thiện & Bác Diệu Thắng | Maryland | $40
+Cô Từ Nguyên | Maryland | $50
+Thắm Nguyễn | Germantown, MD | $40
+Lê Giao Loan | Toronto, Canada | $50
+Minh Nguyễn | Vancouver, Canada | $100
+Cao Ngọc Tính | Winnipeg, Canada | $10
+Lê Thị Sỹ | Karlsruhe, Germany | $50
+Ngô Vạn Châu | Rosemead, CA | $20
+Vô Huệ Nguyên | San Diego, CA | $100
+Quảng Anh Ngọc Hân | Sydney, Úc | $150
+Tiên Đoàn | Gilbert, AZ | $75
+*Xin hồi hướng cho Nathan Bates bệnh hoạn tiêu trừ, cầu siêu thoát cho ông bà nội ngoại hai bên*
+Vu-Dong family | Mesa, AZ | $60
+*Xin hồi hướng hương linh sư Tuệ Năng*
+Vũ Huy Thông | Ammandale, VA | $100
+*Xin hồi hướng cho Vũ Huy Tú & Trịnh Thị Nghiêm*
+Trang Phạm | Ontario, Canada | $254
+*Xin hồi hướng cho Phạm Văn Hòa & Dương Thị Tư*
+Bác Diệu Tịnh & Lưu family | N. Potomac, MD | $160
+*Xin hồi hướng cho hương linh Cụ Ông Bùi Thạnh*
+Ngô Quang Thắng | Brossard QC, Canada | $56
+*Xin hồi hướng cho Ngô Quang Sự, pháp danh Trí Đạt*
