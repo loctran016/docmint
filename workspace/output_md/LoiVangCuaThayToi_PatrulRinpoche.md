@@ -1,0 +1,8616 @@
+Nhóm Longchenpa
+chuyển Việt ngữ năm 2004
+
+[Hình: Chân dung Patrul Rinpoche kèm chữ Tây Tạng bên dưới]
+
+# Lời Vàng Của Thầy Tôi
+## Patrul Rinpoche
+
+Hiệu Đính Toàn Bộ năm 2008
+Viet Nalanda Foundation
+
+Ấn tống và phát hành tại Hoa Kỳ
+
+[Hình: Đức Phật ngồi thiền]
+
+❀ “Đối với tất cả những giáo lý của tất cả những phương pháp hành trì, dù là các pháp tu dụ bị hay là các pháp thực hành chính yếu thì tài liệu này cũng đều cực kỳ thiết yếu.” **Dilgo Khyentse Rinpoche**, tác giả của hai tác phẩm **Kho Tàng Tâm Của Các Bậc Giác Ngộ** và **Viên Ngọc Như Ý**.
+
+**T**rong hơn một thế kỷ qua, **Lời Vàng Của Thầy Tôi** đã đóng góp như là một người dẫn đường đưa ta đến với những pháp tu tâm linh chung nhất cho tất cả bốn trường phái chính của Phật Giáo Tây Tạng. Đây là một tài liệu luận giảng cổ điển bất hủ về những pháp tu dự bị của hệ giảng *Long-chen Nyingtik* – một kho tàng tâm linh vĩ đại của trường phái *Nyingmapa* (Cổ Mật), truyền thống tu tập cổ xưa nhất của Phật Giáo Tây Tạng. Tác giả của tác phẩm này, đại sư **Patrul Rinpoche** đã sử dụng một lượng tài liệu rất phong phú, gồm những mẩu chuyện kể, những lời trích dẫn, và những sự kiện liên quan đến đời sống hằng ngày, giúp cho các đề mục luận giảng trở nên dễ hiểu và dễ đón nhận. Năng khiếu về thi ca và tính châm biếm của Patrul Rinpoche, cũng như văn phong ấm áp, giản dị của ngài đã truyền cho tác phẩm một không khí và sức sống của một giáo lý khẩu truyền.
+
+Ấn bản (Anh ngữ) in lần thứ nhì và đã được hiệu đính này, là kết quả của việc đối chiếu một cách hết sức tỉ mỉ và khó nhọc giữa nguyên bản tiếng Tây Tạng với bản dịch Anh ngữ của nhóm dịch thuật Padmakara Translation Group. Ấn bản mới này cũng bao gồm phần chuyển ngữ Lời Bạt đã được ngài Jamgon Kongtrul Rinpoche đệ Nhất soạn ra vào thế kỷ trước, cùng với Lời Giới Thiệu mới của ngài Dilgo Khyentse Rinpoche.
+
+**PATRUL RINPOCHE** (1808-1887) là một trong những bậc Thầy Tây Tạng vĩ đại nhất trong thế kỷ thứ mười chín. Nổi danh vì phong cách nghiêm ngặt và bộc trực, ngài lảng tránh các chức vụ cao cấp trong tu viện và sống cuộc đời của một khách du phương không nhà, biên soạn tác phẩm của mình trong một động thất đơn sơ cũ kỹ nằm dưới mỏm nhô của một tảng đá.
+
+[Hình: Đức Phật Thích Ca Mâu Ni]
+
+Đức Phật Thích Ca Mâu Ni
+
+[Hình: Guru Rinpoche]
+
+Guru Rinpoche
+
+Còn được biết đến dưới tên Padmasambhava hay Liên Hoa Sanh (đản sanh từ đóa hoa sen). Ngài là “Đức Phật Thứ Nhì,” là người đã thiết lập nền móng Phật Giáo tại Tây Tạng. Trong bức hoạ trên, Ngài được mô tả trong một hình tướng có tên là Nangsi Zilnön, có nghĩa là “Siêu Vượt Sắc Tướng và Diệu Hữu.” Danh hiệu này có nghĩa là khi thấu hiểu được chân tánh của tất cả những gì hoá hiện thì Ngài tự động trở thành bậc thầy của mọi tình huống.
+
+KUNZANG LAMAI'I SHELUNG
+
+LỜI VÀNG CỦA THẦY TÔI
+
+PATRUL RINPOCHE
+
+Bản dịch Anh ngữ:
+Padmakara Translation Group
+
+Bản dịch Việt ngữ đầu tiên (2004):
+Nhóm Longchenpa
+Thanh Liên – Tuệ Pháp
+
+Hiệu đính sơ khởi (2006):
+Thanh Liên
+
+Hiệu đính toàn bộ (2008):
+Tâm Bảo Đàn
+với sự đóng góp của Từ Bi Hoa
+
+Bản Hiệu Đính Toàn Bộ
+được Viet Nalanda Foundation ấn tống
+lần đầu tiên tại Hoa Kỳ năm 2008
+
+LỜI VÀNG CỦA THẦY TÔI KUNZANG LAMA'I SHELUNG Tác Giả: Đại Sư Patrul Rinpoche
+
+Nguyên tác: O-rgyan-'jigs-med-chos-kyi-dban-po Bản dịch Anh ngữ: The Words of My Perfect Teacher Dịch giả Anh ngữ: Padmakara Translation Group Nhà xuất bản: Shambhala, Boston, Hoa Kỳ (1994, 1998)
+
+Chuyển dịch Việt ngữ lần đầu tiên (2004): Nhóm Longchenpa - Thanh Liên và Tuệ Pháp Hiệu đính sơ khởi (2006): Thanh Liên Hiệu đính toàn bộ (2008): Tâm Bảo Đàn với sự đóng góp của Từ Bi Hoa Bì sách: Tâm Bảo Đàn Trình bày: Hoài Hương ISBN 978-0-9799607-1-0
+
+Bản Hiệu Đính Toàn Bộ **Lời Vàng Của Thầy Tôi** được tổ chức Viet Nalanda Foundation (Viet Vajra Foundation) phát tâm ấn tống 1,000 quyển lần đầu tiên tại Hoa Kỳ vào năm 2008 với sự đồng thuận của Padmakara Translation Group và chi nhánh Alta Mira của nhà xuất bản Rowman & Littlefield Publishing Group, Maryland, Hoa Kỳ. Alta Mira và Rowman & Littlefield Publishing Group hiện giữ bản quyền của bản dịch Anh ngữ của tác phẩm này.
+
+Viet Nalanda Foundation giữ bản quyền đạo đức của bản Hiệu Đính Toàn Bộ **Lời Vàng Của Thầy Tôi ** – ấn bản 2008. Sách ấn tống, không bán. Nếu muốn trích đăng, xin vui lòng ghi rõ xuất xứ. Nếu muốn ấn tống, xin vui lòng gửi điện thư đến vietnalanda@ymail.com để nhận được bản điện tử cập nhật hoặc viếng trang nhà của Viet Nalanda Foundation tại www.vietnalanda.org.
+
+# NỘI DUNG
+
+- Lời Ngỏ của Bản Hiệu Đính Toàn Bộ *(Ấn bản Việt ngữ 2008)* .............................................................. xxi
+- Thủ Bút của Tulku Nyima Rinpoche *(Ấn bản Việt ngữ 2008)* .............................................................. xxx
+- Lời Nói Đầu *(Ấn bản Việt ngữ 2004)* ................................................................................................. xxxiii
+- Lời Nói Đầu của Đức Đạt Lai Lạt Ma .................................................................................................... xxxv
+- Lời Giới Thiệu của Dilgo Khyentse Rinpoche ...................................................................................... xxxvii
+- Dẫn Nhập của Các Dịch Giả Anh Ngữ ................................................................................................ xl
+- Lịch Sử Phật Giáo Tây Tạng – Dẫn Nhập Tóm Tắt ............................................................................... lvii
+- Tiểu Sử Patrul Rinpoche *(Ấn bản Việt ngữ 2008)* .............................................................................. lxv
+- Thi Kệ Mở Đầu của Patrul Rinpoche ..................................................................................................... lxx
+
+# PHẦN MỘT
+## NHỮNG PHÁP TU DỰ BỊ THÔNG THƯỜNG HAY NHỮNG CHUẨN BỊ BÊN NGOÀI
+
+## CHƯƠNG MỘT
+### TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+- I. CÁCH THỨC ĐÚNG ĐẮN ĐỂ LẮNG NGHE GIÁO PHÁP ........................................ 7
+    - 1. Thái Độ ................................................................................................. 7
+        - 1.1 ĐỘNG LỰC BAO LA CỦA BỒ ĐỀ TÂM ........................................ 7
+        - 1.2 THIỆN XẢO BAO LA TRONG PHƯƠNG TIỆN: ĐỘNG LỰC TU TẬP CỦA CON ĐƯỜNG MẬT THỪA .................................................................... 9
+    - 2. Cung cách hành xử ................................................................................. 12
+        - 2.1 NHỮNG ĐIỀU NÊN TRÁNH .............................................................. 12
+            - 2.1.1 Ba khiếm khuyết của chiếc bình chứa ........................................... 12
+            - 2.1.2 Sáu điều ô nhiễm ........................................................................ 15
+            - 2.1.3 Năm cách nhớ tưởng sai lạc ........................................................ 21
+        - 2.2 NHỮNG ĐIỀU NÊN LÀM ................................................................... 22
+            - 2.2.1 Bốn ẩn dụ .................................................................................. 22
+            - 2.2.2 Sáu pháp toàn thiện siêu việt (Lục độ ba la mật) .............................. 26
+            - 2.2.3 Những phương cách hành xử khác ................................................ 27
+- II. CHÍNH VĂN GIÁO PHÁP: LUẬN GIẢI VỀ VIỆC KHÓ TÌM ĐƯỢC TỰ DO VÀ THUẬN DUYÊN .................................................................... 27
+    - 1. Quán chiếu về bản chất của tự do ........................................................... 28
+    - 2. Quán chiếu về những thuận duyên đặc biệt liên quan đến Pháp ................. 31
+        - 2.1 NĂM THUẬN DUYÊN CÁ NHÂN .................................................... 31
+        - 2.2 NĂM THUẬN DUYÊN THUỘC HOÀN CẢNH ................................ 36
+        - 2.3 TÁM HOÀN CẢNH XÂM HẠI KHIẾN TA
+
+KHÔNG CÓ ĐƯỢC TỰ DO ĐỂ TU HÀNH 45
+2.4 TÁM THIÊN HƯỚNG KHÔNG THÍCH HỢP KHIẾN TA KHÔNG CÓ TỰ DO ĐỂ TU HÀNH 46
+3. Quán chiếu dựa trên những biểu tượng để thấy rằng tự do và thuận duyên rất khó tìm 50
+4. Quán chiếu dựa trên những so sánh bằng số lượng 52
+
+# CHƯƠNG HAI
+## LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+I. SỰ VÔ THƯỜNG CỦA THẾ GIỚI BÊN NGOÀI NƠI CÓ CHÚNG SINH ĐANG SINH SỐNG 59
+II. SỰ VÔ THƯỜNG CỦA CHÚNG SINH SỐNG TRONG THẾ GIỚI 61
+III. SỰ VÔ THƯỜNG CỦA NHỮNG BẬC HIỀN THÁNH 64
+IV. SỰ VÔ THƯỜNG CỦA NHỮNG NGƯỜI CÓ ĐỊA VỊ VÀ THẾ LỰC 67
+V. CÁC VÍ DỤ KHÁC VỀ VÔ THƯỜNG 69
+VI. SỰ BẤT ĐỊNH CỦA CÁC TÌNH HUỐNG ĐƯA ĐẾN CÁI CHẾT 82
+VII. SỰ TỈNH GIÁC MÃNH LIỆT VỀ LẼ VÔ THƯỜNG 84
+
+# CHƯƠNG BA
+## NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+I. NHỮNG ĐAU KHỔ NÓI CHUNG CỦA SINH TỬ LUÂN HỒI 94
+II. NHỮNG NỖI THỐNG KHỔ ĐẶC BIỆT MÀ CHÚNG SINH TRONG SÁU CÕI PHẢI KINH QUA 97
+1. Thập bát địa ngục (Mười tám cõi địa ngục) 97
+
+1.1 BÁT HỎA ĐỊA NGỤC (Tám địa ngục nóng) .................................... 97
+- 1.1.1 Đẳng Hoạt Địa Ngục (Địa ngục chết đi sống lại) .................................... 98
+- 1.1.2 Hắc Thằng Địa Ngục (Địa ngục dây sắt đen) .................................... 98
+- 1.1.3 Chúng Hợp Địa Ngục (Địa ngục đè ép nát nhừ) .................................... 99
+- 1.1.4 Hào Kiếu Địa Ngục (Địa ngục gào khóc) .................................... 100
+- 1.1.5 Đại Kiếu Địa Ngục (Địa ngục gào khóc thống thiết) .................................... 100
+- 1.1.6 Viêm Hỏa Địa Ngục (Địa ngục thiêu cháy) .................................... 100
+- 1.1.7 Đại Viêm Hỏa Địa Ngục (Địa ngục thiêu cháy cực nóng) .................................... 101
+- 1.1.8 Vô Gián Địa Ngục (Địa ngục A-Tì dành cho ngũ nghịch trọng tội) .................................... 101
+- 1.1.9 Cận Biên Địa Ngục .................................... 102
+1.2 BÁT HÀN ĐỊA NGỤC (Tám địa ngục lạnh) .................................... 105
+1.3 CÔ ĐỘC ĐỊA NGỤC .................................... 107
+2. Ngạ quỷ .................................... 111
+- 2.1 LOÀI NGẠ QUỶ SỐNG TỤ TẬP .................................... 111
+  - 2.1.1 Ngạ quỷ bị hành hạ bởi những chướng ngại bên ngoài .................................... 111
+  - 2.1.2 Ngạ quỷ bị hành hạ bởi những chướng ngại bên trong .................................... 112
+  - 2.1.3 Ngạ quỷ bị hành hạ bởi những chướng ngại đặc biệt .................................... 113
+- 2.2 LOÀI NGẠ QUỶ DI CHUYỂN TRONG KHÔNG GIAN .................................... 116
+3. Súc sinh .................................... 118
+- 3.1 SINH VẬT SỐNG Ở CÁC ĐỘ SÂU .................................... 118
+- 3.2 SÚC VẬT SỐNG RẢI RÁC Ở NHỮNG NƠI KHÁC NHAU .................................... 118
+4. Cõi người .................................... 121
+- 4.1 BA LOẠI ĐAU KHỔ CHÍNH YẾU .................................... 121
+
+4.1.1 Đau khổ vì biến đổi ................................................................. 121
+4.1.2 Đau khổ chồng chất đau khổ ................................................. 122
+4.1.3 Đau khổ của tất cả những gì giả hợp ..................................... 122
+4.2 ĐAU KHỔ CỦA SINH, LÃO, BỆNH, TỬ .................................... 125
+4.2.1 Đau khổ khi sinh ra đời ........................................................... 125
+4.2.2 Đau khổ của tuổi già ............................................................... 127
+4.2.3 Đau khổ của bệnh tật ............................................................... 129
+4.2.4 Đau khổ của cái chết ............................................................... 130
+4.3 NHỮNG ĐAU KHỔ KHÁC CỦA CON NGƯỜI ....................... 132
+4.3.1 Nỗi sợ hãi gặp kẻ thù địch ..................................................... 132
+4.3.2 Nỗi sợ hãi mất người thân yêu ................................................ 134
+4.3.3 Nỗi khổ của ham muốn không đạt được .............................. 138
+4.3.4 Nỗi khổ vì gặp điều không mong muốn ............................... 139
+5. A Tu La .............................................................................................. 143
+6. Chư Thiên ......................................................................................... 145
+
+# CHƯƠNG BỐN
+## NGHIỆP: LUẬT NHÂN QUẢ
+
+I. NHỮNG ÁC HẠNH PHẢI TỪ BỎ ................................................. 157
+1. Mười hành vi bất thiện nên tránh (Thập ác) ............................. 158
+1.1 SÁT SINH ............................................................................... 158
+1.2 LẤY NHỮNG GÌ KHÔNG ĐƯỢC CHO ............................. 163
+1.3 TÀ DÂM ................................................................................. 166
+1.4 NÓI DỐI ................................................................................. 167
+1.5 GIEO MỐI BẤT HOÀ .......................................................... 168
+1.6 NÓI LỜI CAY NGHIỆT ........................................................ 169
+1.7 NÓI CHUYỆN PHIẾM VÔ ÍCH ............................................ 169
+1.8 THAM MUỐN ....................................................................... 171
+1.9 MUỐN LÀM TỔN HẠI NGƯỜI KHÁC ............................. 172
+1.10 TÀ KIẾN ............................................................................... 172
+2. Hậu quả của mười hành vi bất thiện ......................................... 175
+2.1 QUẢ CHÍN MUỒI TRỔ SANH ........................................... 175
+2.2 QUẢ TƯƠNG ƯNG VỚI NHÂN ......................................... 176
+
+- 2.2.1 Hành nghiệp tương ứng với nguyên nhân ......................................................... 176
+- 2.2.2 Kinh nghiệm tương ứng với nguyên nhân ......................................................... 177
+- 2.3 QUẢ TRỔ SANH NGHIỆP CẢNH ......................................................... 183
+- 2.4 QUẢ TĂNG TRƯỞNG LIÊN TỤC ......................................................... 183
+- II. NHỮNG THIỆN HẠNH NÊN LÀM (Thập thiện) ......................................................... 184
+- III. TÍNH CHẤT HOÀN TOÀN QUYẾT ĐỊNH CỦA CÁC HÀNH VI TẠO NGHIỆP ......................................................... 186
+
+# CHƯƠNG NĂM
+# LỢI ÍCH CỦA GIẢI THOÁT
+
+- I. NHỮNG NHÂN TỐ ĐƯA TỚI GIẢI THOÁT ......................................................... 209
+- II. KẾT QUẢ: BA QUẢ VỊ GIÁC NGỘ ......................................................... 210
+
+# CHƯƠNG SÁU
+# LÀM THẾ NÀO ĐỂ THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+- I. QUÁN SÁT THẦY ......................................................... 213
+- II. THEO CHÂN THẦY ......................................................... 223
+- III. SOI GƯƠNG SỰ CHỨNG NGỘ VÀ CÔNG HẠNH CỦA THẦY ......................................................... 232
+
+# PHẦN HAI
+## NHỮNG PHÁP TU DỰ BỊ PHI THƯỜNG HAY NHỮNG CHUẨN BỊ BÊN TRONG
+
+### CHƯƠNG MỘT
+#### QUY Y, NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+I. LÀM THẾ NÀO ĐỂ ĐẾN VỚI QUY Y ........................................................... 265  
+1. Tín tâm ............................................................................................ 265  
+  1.1 NIỀM TIN SỐNG ĐỘNG ........................................................... 266  
+  1.2 NIỀM TIN THA THIẾT ............................................................... 266  
+  1.3 NIỀM TIN KIÊN ĐỊNH ............................................................. 266  
+2. Nguyện lực ....................................................................................... 273  
+  2.1 NGUYỆN LỰC QUY Y CỦA NHỮNG NGƯỜI HẠ CĂN ......... 273  
+  2.2 NGUYỆN LỰC QUY Y CỦA NHỮNG NGƯỜI TRUNG CĂN . 273  
+  2.3 NGUYỆN LỰC QUY Y CỦA NHỮNG BẬC THƯỢNG CĂN .... 274  
+II. QUY Y NHƯ THẾ NÀO ............................................................................... 275  
+III. NHỮNG GIỚI LUẬT VÀ LỢI ÍCH CỦA QUY Y ......................................... 283  
+1. Giới luật của quy y ............................................................................. 283  
+  1.1 BA ĐIỀU PHẢI TỪ BỎ .............................................................. 283  
+  1.2 BA ĐIỀU NÊN LÀM .................................................................. 284  
+  1.3 BA GIỚI LUẬT BỔ SUNG ......................................................... 285  
+2. Lợi ích của quy y ............................................................................... 291
+
+# CHƯƠNG HAI
+KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+I. RÈN LUYỆN TÂM NƯƠNG NƠI TỨ VÔ LƯỢNG ........................................................... 301
+  1. Thiền định về tâm xả ............................................................................................ 302
+  2. Thiền định về tâm từ ............................................................................................ 306
+  3. Thiền định về tâm bi ............................................................................................ 311
+  4. Thiền định về tâm hỷ ............................................................................................ 330
+II. KHƠI DẬY BỒ ĐỀ TÂM .................................................................................................. 337
+  1. Phân Loại Bồ Đề Tâm Dựa Trên Ba Mức Độ Dũng Cảm ............................................................................................................ 337
+    1.1 SỰ DŨNG CẢM CỦA MỘT VỊ VUA ............................................................... 337
+    1.2 SỰ DŨNG CẢM CỦA NGƯỜI CHÈO THUYỀN ............................................. 337
+    1.3 SỰ DŨNG CẢM CỦA NGƯỜI CHĂN CỪU .................................................... 338
+  2. Phân loại theo các địa Bồ Tát ................................................................................. 338
+  3. Phân loại theo tính chất của Bồ Đề Tâm ................................................................ 339
+    3.1 BỒ ĐỀ TÂM TƯƠNG ĐỐI ............................................................................. 339
+      3.1.1 Tác ý (Bồ Đề Tâm Nguyện) ..................................................................... 339
+      3.1.2 Áp dụng thực hành(Bồ Đề Tâm Hạnh) .................................................... 339
+    3.2 BỒ ĐỀ TÂM TỐI THƯỢNG (Bồ Đề Tâm Viên Mãn) .................................... 340
+  4. Thọ giới nguyện Bồ Đề Tâm ................................................................................. 340
+III. RÈN LUYỆN THEO GIỚI LUẬT CỦA BỒ ĐỀ TÂM ..................................................... 344
+  1. Bồ Đề Tâm Nguyện và Giới Luật .......................................................................... 344
+    1.1 COI NGƯỜI KHÁC NGANG BẰNG VỚI MÌNH ........................................... 344
+    1.2 HOÁN ĐỔI MÌNH VÀ NGƯỜI ....................................................................... 346
+    1.3 COI NGƯỜI KHÁC QUAN TRỌNG HƠN MÌNH .......................................... 354
+  2. Bồ Đề Tâm Hạnh: Nương Theo Giới Hạnh Của Sáu Pháp Toàn Thiện Siêu Việt ............................................................................................................ 363
+    2.1 BỐ THÍ SIÊU VIỆT (Bố thí ba-la-mật) ............................................................. 363
+
+2.1.1 Bố thí vật chất (Tài thí) 363
+2.1.2 Bố thí Pháp (Pháp thí) 366
+2.1.3 Bố thí sự che chở khỏi sợ hãi (Vô Úy thí) 369
+2.2 TRÌ GIỚI SIÊU VIỆT (Giới ba-la-mật) 370
+2.2.1 Tránh những hành động bất thiện 370
+2.2.2 Quyết làm việc thiện 370
+2.2.3 Đem lại lợi lạc cho người khác 372
+2.3 NHẪN NHỤC SIÊU VIỆT (Nhẫn ba-la-mật) 372
+2.3.1 Nhẫn nhục khi gặp bất công 372
+2.3.2 Nhẫn nhục chịu đựng gian khổ vì Đạo Pháp 375
+2.3.3 Nhẫn nại đối mặt với chân lý sâu xa với tâm vô úy 378
+2.4 TINH TẤN SIÊU VIỆT (Tinh tấn ba-la-mật) 380
+2.4.1 Tinh tấn như áo giáp 380
+2.4.2 Tinh tấn trong hành động 381
+2.4.3 Tinh tấn không ngừng nghỉ 382
+2.5 THIỀN ĐỊNH SIÊU VIỆT (Định ba-la-mật) 384
+2.5.1 Từ bỏ những phóng dật 385
+2.5.2 Thiền định thực sự 389
+2.6 TRÍ TUỆ SIÊU VIỆT (Tuệ ba-la-mật) 390
+2.6.1 Trí tuệ nhờ lắng nghe 390
+2.6.2 Trí tuệ nhờ quán chiếu 390
+2.6.3 Trí tuệ nhờ thiền định 390
+
+# CHƯƠNG BA
+TRÌ TỤNG VÀ THIỀN QUÁN VỀ BỔN SƯ NHƯ ĐỨC KIM CANG TÁT ĐỎA ĐỂ TỊNH HOÁ TẤT CẢ CHƯỚNG NGẠI
+
+I. LÀM THẾ NÀO TỊNH HÓA CHƯỚNG NGẠI NƯƠNG VÀO PHÁP SÁM HỐI 409
+II. TỨ LỰC TỊNH HÓA NGHIỆP (Bốn Lực Tịnh Hoá Nghiệp) 412
+
+1. Lực Hỗ Trợ ................................................................................................... 412
+2. Lực Ân Hận Đã Hành Ác Hạnh ....................................................................... 413
+3. Lực Quyết Chí Chuyển Tâm ............................................................................. 414
+4. Lực Quyết Chí Hành Thiện Hạnh ..................................................................... 414
+III. PHÁP THIỀN QUÁN KIM CANG TÁT ĐỎA (Vajrasattva) ................................................................................................... 415
+
+# CHƯƠNG BỐN
+## CÚNG DƯỜNG MẠN ĐÀ LA ĐỂ VUN BỒI PHƯỚC TUỆ
+
+I. SỰ CẦN THIẾT CỦA VIỆC VUN BỒI HAI BỒ CÔNG ĐỨC ................................................................................................... 439
+II. MẠN ĐÀ LA THÀNH TỰU ................................................................................... 443
+III. MẠN ĐÀ LA CÚNG DƯỜNG ................................................................................... 443
+1. Cúng Dường Mạn-đà-la Ba Mươi Bảy Cúng Phẩm ................................................................................................... 444
+2. Cúng Dường Mạn-đà-la Của Ba Thân Theo Bản Văn Này ................................................................................................... 446
+2.1 MẠN ĐÀ LA THÔNG THƯỜNG CỦA HOÁ THÂN ................................................................................................... 446
+2.2 MẠN ĐÀ LA PHI THƯỜNG CỦA BÁO THÂN ................................................................................................... 448
+2.3 MẠN ĐÀ LA ĐẶC BIỆT CỦA PHÁP THÂN ................................................................................................... 448
+
+# CHƯƠNG NĂM
+## KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC: DIỆT TRỪ BỐN MA VƯƠNG BẰNG MỘT ĐỘC CHIÊU
+
+I. THÂN THỂ NHƯ MỘT PHẨM VẬT CÚNG DƯỜNG ................................................................................................... 460
+II. PHÁP TU CÚNG DƯỜNG THÂN XÁC ................................................................................... 461
+1. Bữa Tiệc Trắng Dành Cho Thượng Khách ................................................................................................... 463
+2. Bữa Tiệc Trắng Dành cho Các Vị Khách Ở Dưới Thấp ................................................................................................... 464
+
+3. Bữa Tiệc Đa Dạng Dành Cho Thượng Khách | 465
+4. Bữa Tiệc Đa Dạng Dành Cho Các Vị Khách Ở Dưới Thấp | 465
+III. Ý NGHĨA CỦA PHÁP *Chö* | 470
+
+# CHƯƠNG SÁU
+# BỔN SƯ DU GIÀ, CÁNH CỔNG DẪN ĐẾN NĂNG LỰC GIA TRÌ, PHƯƠNG PHÁP TỐI HẬU ĐỂ CHỨNG NGỘ TUỆ GIÁC
+
+I. LÝ DO CÓ PHÁP BỔN SƯ DU GIÀ (Guru Yoga) | 479
+II. LÀM THẾ NÀO ĐỂ THỰC HÀNH PHÁP BỔN SƯ DU GIÀ | 486
+- 1. Quán Tưởng Ruộng Công Đức | 486
+- 2. Cúng Dường Thất Chi Phổ Hiền | 492
+ - 2.1 LỄ LẠY, PHƯƠNG PHÁP ĐỐI TRỊ TÁNH KIÊU NGẠO | 492
+ - 2.2 CÚNG DƯỜNG | 499
+ - 2.3 SÁM HỐI ÁC HẠNH | 500
+ - 2.4 HOAN HỶ, PHÁP ĐỐI TRỊ TÁNH GANH TỴ | 500
+ - 2.5 KHẨN CẦU CHƯ PHẬT CHUYỂN PHÁP LUÂN | 504
+ - 2.6 KHẨN CẦU CHƯ PHẬT ĐỪNG NHẬP NIẾT BÀN | 505
+ - 2.7 HỒI HƯỚNG | 506
+- 3. Khẩn Cầu Với Lòng Tin Kiên Quyết Chí Thành | 511
+- 4. Thọ Nhận Bốn Pháp Quán Đảnh (Bốn Pháp Gia Lực) | 512
+III. LỊCH SỬ CHÀO ĐỜI CỦA CỰU PHÁI DỊCH THUẬT | 518
+- 1. Dòng Tâm Truyền (Biệt Truyền) Của Các Đấng Chiến Thắng | 518
+- 2. Dòng Truyền Dạy Qua Biểu Tượng Của Các Bậc Minh Trì (Vidyadhara) | 520
+
+2.1 CÁC MẬT ĐIỂN ĐẠI DU GIÀ (Mahayoga) | 521
+--- | ---
+2.2 LỊCH SỬ TRUYỀN DẠY A-NẬU (Anuyoga) | 521
+2.3 CÁC GIÁO HUẤN TÂM YẾU CỦA ĐẠI VIÊN MÃN | 522
+2.4 GIÁO PHÁP ĐẠI VIÊN MÃN ĐẾN VỚI CÕI NGƯỜI | 526
+IV. LỊCH SỬ TRUYỀN BÁ GIÁO LÝ TÂM-YẾU Ở XỨ TUYẾT TÂY TẠNG | 533
+1. Dòng nhĩ truyền của những chúng sinh bình thường | 537
+
+[Hình: &]
+
+# PHẦN BA
+## CON ĐƯỜNG CHUYỂN DI THẦN TỐC
+
+# CHƯƠNG MỘT
+## CHUYỂN DI TÂM THỨC, CÁC GIÁO HUẤN CHO NGƯỜI HẤP HỐI: PHẬT QUẢ KHÔNG CẦN THIỀN ĐỊNH
+
+I. PHÂN LOẠI NĂM PHÁP CHUYỂN DI | 545
+--- | ---
+1. Chuyển Di Siêu Việt Tới Pháp Thân Nhờ Dấu Ấn Của Cái Thấy | 546
+2. Chuyển Di Trung Bình Tới Báo Thân Nhờ Hợp Nhất Hai Giai Đoạn Phát Triển Và Toàn Thiện | 546
+3. Chuyển Di Thấp Tới Hoá Thân Nhờ Lòng Bi Mẫn Vô Lượng | 546
+4. Chuyển Di Thông Thường Nương Vào Ba Ẩn Dụ | 547
+5. Chuyển Di Thực Hiện Cho Người Chết Với Cái Móc Của Lòng Bi Mẫn | 547
+
+II. CHUYỂN DI THÔNG THƯỜNG NƯƠNG VÀO BA ÂN DỤ                                                                                          550
+- 1. Thực Tập Pháp Chuyển Di                                                                                                                       554
+- 2. Chuyển Di Thực Sự                                                                                                                              555
+- 3. Trình Tự Của Pháp Thiền Định Chuyển Di                                                                                               558
+  - 3.1 PHÁP CHUẨN BỊ                                                                                                                             558
+  - 3.2 PHÁP QUÁN TƯỞNG CHÍNH YẾU                                                                                                     559
+**KẾT LUẬN** *(của Patrul Rinpoche)*                                                                                                          571
+*Lời Bạt (của Jamgon Kongtrul Lodro Thaye)*                                                                                                584
+Chú Thích                                                                                                                                           586
+Thuật ngữ                                                                                                                                           638
+Sách Tham Khảo                                                                                                                                    708
+
+# DANH MỤC HÌNH ẢNH VÀ TRANH HỌA
+
+ĐỨC PHẬT THÍCH CA MÂU NI *(bản khắc gỗ từ Derge)*                                                                                i
+GURU RINPOCHE *(tranh hoạ của Orgyen Lhundrup)*                                                                                   ii
+PADMASAMBHAVA – ĐỨC LIÊN HOA SANH
+*(tranh vẽ của Lama Wangdu)*                                                                                                           xxxii
+LONGCHENPA *(tranh vẽ của Glen Eddy)*                                                                                                xxxiv
+JIGME LINPA *(tranh vẽ của Glen Eddy)*                                                                                                 xxxix
+JIGME GYAWAI NYUGU
+*(bản khắc gỗ của Gomchen Ulekshé)*                                                                                                  xliv
+PATRUL RINPOCHE *(bản khắc gỗ của Gomchen Ulekshé)*                                                                             lvi
+CUỘC ĐỜI CỦA JAMYANG KHYENTSE WANGPO
+*(tranh vẽ của Lama Wangdu dựa trên những phác hoạ của
+Dilgo Khyentse Rinpoche)*
+- JAMYANG KHYENTSE WANGPO                                                                                                           6
+- VUA TRISONG DETSEN                                                                                                                        58
+
+JETSUN TRAKPA GYALTSEN | 93
+---|---
+GAMPOPA | 156
+DROM TÖNPA | 208
+PADMA SANGYE *(trang vẽ của Konchok Khadrepa)* | 77
+MILAREPA | 212
+DILGO KHYENTSE RINPOCHE *(hành chụp của Mathieu Ricard)* | 261
+CÁC BỔN TÔN QUY Y | 264
+SANTIDEVA - TỊCH THIÊN *(tranh vẽ của Konchok Khadrepa)* | 300
+ATISA *(tranh vẽ của Konchok Khadrepa)* | 358
+VAJRASATTVA - KIM CANG TÁT ĐỎA | 408
+MẠN ĐÀ LA CỦA TAM THIÊN ĐẠI THIÊN THẾ GIỚI | 438
+MACHIK LABDRON *(tranh hoạ của Gérard Muguet)* | 458
+DUDJOM RINPOCHE | 477
+GURU RINPOCHE (ĐỨC LIÊN HOA SANH) VÀ DÒNG TRUYỀN THỪA TÂM-YẾU CỦA ĐẠI-QUẢNG-TRÍ (LONGCHEN NYINTIK) *(tranh vẽ của Konchok Lhadrepa)* | 490
+TU VIỆN SAMYE *(hình chụp của John Canti)* | 532
+GURU RINPOCHE (ĐỨC LIÊN HOA SANH) VÀ MƯỜI HAI HOÁ THÂN THEO HỆ GIẢNG PARCHÉ KUNSEL *(tranh hoạ từ bộ sưu tập của Dzongsar Khyentse Rinpoche)* | 542
+KANGYUR RINPOCHE | 544
+CÁC HANG ĐỘNG GẦN TU VIỆN DZOGCHEN *(hình chụp của Christian Bruyat)* | 570
+NHÌN VỀ HƯỚNG TU VIỆN DZOGCHEN *(hình chụp của Christian Bruyat)* | 583
+
+# Lời Ngỏ
+Của Bản Hiệu Đính Toàn Bộ năm 2008
+do Viet Nalanda Foundation ấn tống tại Hoa Kỳ
+
+Từ khởi thủy, sự có mặt của Bản Hiệu Đính Toàn Bộ “*Lời Vàng Của Thầy Tôi*,” ấn bản năm 2008, đã xuất phát từ tấm lòng biết ơn sâu xa của những đệ tử người Việt có duyên được tu học theo hệ giảng *Longchen Nyingtik* (Tâm-Yếu của Đại-Quảng-Trí) với đại sư Tulku Nyima Gyaltsen Rinpoche.
+
+[Hình: Đại Sư Tulku Nyima Gyaltsen Rinpoche]
+
+Vào năm 2005, tại trung tâm Sakya Dokho Choling ở tiểu bang Maryland, Hoa Kỳ, chúng tôi đã lần đầu tiên được thọ nhận khẩu truyền (Tib: *lung*) toàn bộ trước tác “*Lời Vàng Của Thầy Tôi*” (gọi tắt là “*Lời Vàng*”) qua kim khẩu của đại sư Tulku Nyima Gyaltsen Rinpoche. Thầy chúng tôi là một vị đại tăng, một hoá thân thuộc dòng truyền thừa Sakya, nhưng suốt cả đời đã tu tập hành trì theo truyền thống *Longchen Nyingtik* và Đại Viên Mãn (*Dzogchen*) của dòng Nyingma. Đại sư Tulku Nyima Gyaltsen Rinpoche được biết đến như là một danh sư đã chứng đắc pháp tu Đại Viên Mãn, và đã được Đạo Sư vĩ đại Jamyang Khyentse Chokyi Lodro$^1$ tuyên nhận là một hiện thân về ngữ của ngài Khenpo Ngawang Palzangchung,$^2$
+
+$^1$ Jamyang Khyentse Chokyi Lodro (1893-1959) là một trong những vị đại sư chủ xướng phong trào bất bộ phái Rimé khởi đầu vào thế kỷ thứ 19 tại Tây Tạng.
+$^2$ Khenpo Ngawang Palzang (1879-1941) còn có danh hiệu là Khenpo Ngachung, đã cống hiến trọn đời mình cho việc giảng dạy sâu rộng toàn bộ giáo lý Longchen Nyingtik trong “*Lời Vàng Của Thầy Tôi*” và đã biên soạn tác phẩm “*Cẩm Nang Hướng Dẫn Lời Vàng Của Thầy Tôi*” (“Guide to the Words of My Perfect Teacher”) dựa trên một trong những đại học giả và danh sư cao trọng nhất theo truyền thống Đại Viên Mãn của thế kỷ hai mươi.
+
+Trong gần ba mươi năm qua, đại sư Tulku Nyima Gyaltsen Rinpoche đã không ngừng tận tụy giảng dạy từng lời từng chữ trong tập sách “Lời Vàng Của Thầy Tôi” cho biết bao nhiêu là đệ tử, trong hàng tăng ni cũng như cư sĩ tại gia. Ngày xưa, khi được sư phụ khai tâm và bắt đầu học hỏi, nghiên cứu những giáo lý được giảng dạy trong “Lời Vàng,” đại sư Tulku Nyima Gyaltsen Rinpoche đã học thuộc lòng toàn bộ quyển sách mấy trăm trang chỉ vỏn vẹn có bốn tháng!
+
+Sau này, khi giảng dạy lại cho học trò, Thầy chúng tôi đã truyền dạy hoàn toàn theo trí nhớ. Không cần đến sách trong tay mà Thầy có thể giảng từng câu từng chữ, theo đúng trình tự, sát lời sát ý, y như đang có quyển sách mở ra trước mặt. Hằng năm, khi từ Tây Tạng qua du hoá tại Hoa Kỳ, Thầy thường bỏ ra khoảng một tháng để ngày đêm giảng dạy về “Lời Vàng.” Nhìn Thầy, nghe Thầy như thế, và cảm nhận được rằng lúc nào Thầy cũng chỉ muốn trải thân mình ra để giáo hóa lũ học trò khờ khạo, thì mới hiểu được rằng công ơn muôn một của Thầy to lớn biết dường nào, và sẽ chẳng bao giờ tất cả chúng tôi có thể đền đáp được!
+
+Cũng vào cuối năm 2005, chúng tôi tình cờ nối được duyên lành với dịch giả Thanh Liên, và sau đó, được anh Thanh Liên cho biết là quyển “The Words of My Perfect Teacher” đã được dịch và phổ biến tại Việt Nam vào năm 2004 với tựa đề “Lời Vàng Của Thầy Tôi.” Thật không gì có thể nói lên được niềm vui sướng và cảm kích của chúng tôi khi nghe tin này và được
+
+chính những ghi chép do Patrul Rinpoche truyền xuống cho một đại đệ tử tâm truyền là ngài Lungtok Tenpei Nyima (Nyoshul Lungtok). Ngài Lungtok Tenpei Nyima chính là sư phụ của Khenpo Ngawang Palzang.
+
+cầm quyển sách ấy trong tay. Quyển “Lời Vàng Của Thầy Tôi,” ấn bản Việt ngữ xuất bản lần đầu tiên vào năm 2004 tại Việt Nam, là công khó của hai dịch giả Thanh Liên và Tuệ Pháp trong Nhóm Longchenpa.
+
+Theo như lời của anh Thanh Liên thuật lại thì trước đây, vào khoảng năm 2000, trong khi đọc quyển “The Heart Treasure of the Enlightened Ones” (Kho Tàng Tâm Của Các Bậc Giác Ngộ) của đại đạo sư Dilgo Khyentse Rinpoche, anh Thanh Liên thấy trong đó có nhắc đến một tác phẩm bất hủ mang tên “Kunzang Lama'i Shelung” của ngài Patrul Rinpoche. Bản tiếng Anh đã dịch thoát ý tựa sách ra thành “The Words of My Perfect Teacher,” đại ý có nghĩa là “Những Lời Dạy Của Vị Thầy Toàn Bích Của Tôi.” Tựa đề quyển sách này đã đem đến những rung động sâu xa trong tâm hồn anh. Anh đã nhờ một người bạn thân ở Hoa Kỳ là cư sĩ và dịch giả Nguyên Giác tìm dùm quyển sách này. Anh Nguyên Giác đã gửi về tặng anh Thanh Liên quyển “The Words of My Perfect Teacher”, ấn bản Anh ngữ phát hành vào năm 1998.
+
+Ngay sau đó, anh Thanh Liên khởi công chuyển ngữ qua tiếng Việt, bắt đầu với chương viết về Lẽ Vô thường của Cuộc Đời trong Phần Một, và sau đó là những chương về các pháp hành trì trong Phần Hai của quyển sách. Một thời gian sau, đạo hữu Tuệ Pháp, một dịch giả khác trong Nhóm Longchenpa, cũng đã phát tâm đóng góp vào công tác dịch thuật và chịu trách nhiệm chuyển ngữ Phần Một. Sau khi Phần Một và Phần Hai được hoàn tất, dịch giả Thanh Liên đã chịu trách nhiệm hiệu đính lại bản dịch đầu tiên, bổ túc thêm các Lời Giới Thiệu, Dẫn Nhập, phần Chú Thích, Thuật Ngữ cùng hình ảnh. Việc hai dịch giả Thanh Liên và Tuệ Pháp trong Nhóm Longchenpa đã bỏ ra nhiều năm tháng để mài miệt chuyển ngữ bản tiếng Việt đầu tiên của “Lời Vàng” với một tác ý hết sức thuần tịnh, quả là một sự hy sinh to lớn và một món quà tinh thần quý giá cho những Phật tử người Việt có ý nguyện theo chân chư đạo sư thuộc truyền thống Phật Giáo Tây Tạng.
+
+Được biết rằng lúc đầu, Nhóm Longchenpa có ý định đặt tên cho bản dịch là “Lời Dạy Của Vị Thầy Toàn Hảo Của Tôi” nhưng sau đó, một vị sư người Việt, Sư Hồng Nhật, đã góp ý và đổi tên sách thành “Lời Vàng Của Thầy Tôi.”
+
+Khi biết được về bản dịch “Lời Vàng Của Thầy Tôi”, ấn bản 2004, chúng tôi đã vô cùng hoan hỷ và phát tâm muốn ấn tống lại tập sách này ở Hoa Kỳ. Tuy nhiên, chúng tôi cũng có nhiều suy nghĩ, và đã mạo muội thỉnh ý Nhóm Longchenpa cho phép chúng tôi được hiệu đính lại toàn bộ tác phẩm “Lời Vàng” trước khi ấn tống. Chúng tôi thật vô cùng biết ơn Nhóm Longchenpa đã chấp thuận lời thỉnh cầu và trong gần ba năm qua, công việc hiệu đính đã được hoàn tất nhờ vào sự hỗ trợ tinh thần, tài chánh cũng như công sức của nhiều người.
+
+[Hình: Đại sư Nyima Gyaltsen Rinpoche và các đạo hữu]
+
+Khi đại sư Nyima Gyaltsen Rinpoche từ Tây Tạng trở qua lại Hoa Kỳ để thuyết giảng vào mùa xuân năm 2006, chúng tôi đã gọi điện thoại và sử dụng màn ảnh trực tuyến qua hệ thống *internet* để liên lạc với một số đạo hữu đang tu tập theo truyền thống Kim Cang Thừa ở tại Việt Nam. Trong dịp này, chúng tôi đã giới thiệu đại sư Tulku Nyima Gyaltsen Rinpoche với dịch giả Thanh Liên, thầy Trí Không, cũng như một vài anh chị đạo hữu khác trong nhóm Orgyen Choling.
+
+Đại sư Tulku Nyima Gyaltsen đã vô cùng hoan hỉ khi biết được "Lời Vàng Của Thầy Tôi" đã được Nhóm Longchenpa chuyển qua Việt ngữ và phát hành tại Việt Nam. Cũng trong dịp ấy, Thầy đã ban khẩu truyền những lời khẩn nguyện Đức Longchenpa, vị Sơ Tổ của những giáo lý Tâm-Yếu của Đại-Quảng-Trí (Longchen Nyingtik), cho một số các đạo hữu tại Việt Nam qua màn ảnh trực tuyến của máy vi tính. Thầy đã nhìn sững vào khung ảnh, và thấy hiện lên trong đó hình ảnh của những người đệ tử nhỏ bé, khiêm cung, ở một nơi cách xa nửa quả địa cầu, đang chắp tay búp sen lắng nghe những lời truyền khẩu. Khi Thầy dứt lời thì ở nơi khoé mắt trái, một giọt lệ bất chợt đọng lại rồi từ từ ứa ra. Đây chính là một kinh nghiệm nhiệm mầu, và một nhân duyên vô cùng hi hữu.
+
+Sau đó, đại sư Tulku Nyima Gyaltsen Rinpoche đã độ lượng cho phép chúng tôi làm công việc hiệu đính "Lời Vàng" để có thể ấn tống ở Hoa Kỳ. Khi phát tâm làm công việc này, chúng tôi không có một nguyện ước nào khác, ngoại trừ tấm lòng chân thành muốn cho tác phẩm "Lời Vàng" và những giáo lý tâm huyết đã được đại sư Patrul Rinpoche trao truyền, sẽ có thể dễ dàng đến được với người đọc hơn.
+
+Bản dịch Anh ngữ của Nhóm Dịch Thuật Padmakara vốn dĩ không phải là một văn bản dễ dịch, nhất là những đoạn diễn đạt những ý niệm trừu tượng. Nếu cứ y theo văn phong của Nhóm Dịch Thuật Padmakara mà dịch sát qua tiếng Việt thì câu văn sẽ trở nên rất dài và rườm rà, dễ trở thành rắc rối và tự nhiên đâm ra khó hiểu, khó cảm nhận đối với độc giả người Việt, đôi khi còn có thể xa rời nguyên ý của tác giả. Do đó, dựa trên những lời giảng dạy về các giáo lý và các pháp môn thực hành trong "Lời Vàng Của Thầy Tôi" mà đại sư Tulku Nyima Gyaltsen Rinpoche đã truyền dạy, chúng tôi đã cố gắng chỉnh sửa lại những chi tiết liên quan đến các phương pháp hành trì cho thêm phần rõ ràng và chính xác, và khi cần thiết cũng đã chỉnh sửa câu văn để lời và ý trở nên gần gũi hơn với nguyên ý của tác giả.
+
+Trong Bản Hiệu Đính Toàn Bộ, ấn bản 2008, chúng tôi cũng đã thực hiện và bổ túc thêm những phần sau đây để cho bản dịch được thêm hoàn hảo:
+
+- Bổ túc tiểu sử của Patrul Rinpoche. (Thanh Liên)
+- Bổ túc Lời Khuyên Của Đại Sư Tulku Nyima Gyalsten Rinpoche. Đây là thủ bút của Thầy để sách tấn chúng đệ tử tu tập theo các giáo lý đã được giảng dạy trong “Lời Vàng.”
+- Bổ túc Danh Mục Hình Ảnh và Tranh Họa.
+- Bổ túc và sử dụng các thuật ngữ Phật học đã quen thuộc trong truyền thống Đại Thừa để giúp làm sáng tỏ thêm các khái niệm trong Kim Cang Thừa hiện vẫn còn mới mẻ đối với Phật tử người Việt.
+- Sử dụng các tên Kinh hay tên Luận theo truyền thống Phật Giáo Việt Nam, là những tên Kinh hay Luận tương đối phổ thông, tạo được cảm giác quen thuộc cho độc giả người Việt là những người đã quen với truyền thống Đại Thừa. Chẳng hạn như Kinh Hoa Nghiêm, Kinh Bách Nghiệp, Đại Thừa Trang Nghiêm Bảo Vương Kinh, vân vân... Chúng tôi đã tra cứu từ danh sách tên tiếng Phạn của các Kinh hay Luận này, thay vì dịch sát từ tên tiếng Anh qua tiếng Việt.
+- Bổ túc Tài Liệu Tham Khảo (có liệt kê trong bản dịch Anh ngữ) gồm có tên sách bằng tiếng Phạn, tiếng Anh và tiếng Việt.
+- Bổ túc và hiệu đính phần Thuật Ngữ và phần Chú Thích.
+
+Vì yếu tố thời gian không cho phép, chúng tôi đã không thể sửa đổi lại cho đồng nhất tất cả các từ tiếng Phạn và tiếng
+
+Tạng trong bản dịch lần này cho đúng với lối đánh vần nguyên thủy của Phạn ngữ và Tạng ngữ. Trong các ấn bản kế tiếp trong tương lai, chúng tôi hy vọng là sẽ có thể bổ túc cho thiếu sót này.
+
+Theo lời yêu cầu của Nhóm Longchenpa, Lời Giới Thiệu được Sư Hồng Nhật viết cho bản tiếng Việt đầu tiên, ấn bản năm 2004, đã được in lại trong Bản Hiệu Đính Toàn Bộ, ấn bản năm 2008 này, để giữ lại đầy đủ tính cách lịch sử của bản dịch đầu tiên. Tuy nhiên, chúng tôi cũng xin nói lên quan điểm của chúng tôi về vấn đề này như sau, và quan điểm này dựa trên những giáo huấn từ các vị Thầy khác nhau đến từ tất cả bốn dòng phái của Phật Giáo Tây Tạng mà chúng tôi đã có duyên thọ pháp. Điều chúng tôi muốn thưa ở đây là những giáo lý và pháp môn dự bị sơ khởi (*preliminary practices* hay *Ngondro*) của những hành giả tu tập theo truyền thống Đại Viên Mãn (*Dzogchen*) của dòng Nyingma hay theo truyền thống Đại Thủ Ấn (*Mahamudra*) của dòng Kagyu đều không khác biệt.
+
+Cả hai truyền thống tu tập Dzogchen va Mahamudra đều đòi hỏi hành giả phải có được những hiểu biết rốt ráo về thân người hiếm quý, về vô thường, nhân quả, về những đau khổ của cõi luân hồi. Sau đó, hành giả phải phát tâm quy y, phát tâm Bồ Đề, hành trì pháp môn quy y và lễ lạy, hành trì pháp môn tịnh hoá Kim Cang Tát Đỏa (*Vajrasattva*), hành trì pháp môn cúng dường Mạn Đà La, hành trì pháp bổn sư du già (*Guru Yoga*), vân vân... Nói tóm lại, cho dù là theo Đại Viên Mãn hay Đại Thủ Ấn, theo Nyingma hay theo Kagyu thì các hành giả đều phải hành trì mỗi một pháp môn dự bị một trăm ngàn lần, trước khi được hướng dẫn để tu tập các pháp cao hơn.
+
+Hơn nữa, chúng tôi cũng nhận thấy là có rất nhiều chi tiết đặc thù trong các pháp môn tu tập thuộc hệ giảng *Longchen*
+
+Nyingtik, đã được đại sư Patrul Rinpoche giảng dạy sâu rộng trong “Lời Vàng,” và đây là những chi tiết có liên hệ mật thiết với dòng truyền thừa Nyingma. Tuy vậy, nếu nhìn một cách khách quan trong tinh thần bất bộ phái, thì tinh túy của các pháp tu dự bị và các giáo lý này cũng là tinh túy của tất cả bốn dòng phái của Phật Giáo Tây Tạng, gồm có Nyingma, Sakya, Kagyu và Gelug.
+
+Chúng tôi xin chân thành cảm tạ Nhóm Dịch Thuật Padmakara và chi nhánh Alta Mira của Nhà Xuất Bản Rowman & Littlefield Publishing Group, Maryland, Hoa Kỳ đã hoan hỉ cho phép Viet Nalanda Foundation ấn tống bản hiệu đính tiếng Việt của quyển sách này. Cũng xin đặc biệt cám ơn ông Wulstan Fletcher, vị dịch giả trưởng Nhóm Dịch Thuật Padmakara, đã nâng đỡ tinh thần và giúp ý kiến cho chúng tôi trong lúc khởi đầu để có thể xin được bản quyền dịch thuật từ nhà xuất bản.
+
+Xin hết lòng cảm tạ Cụ Bà Diệu Tịnh đã bỏ công sức giúp đánh máy tất cả các trang Tài Liệu Tham Khảo bằng tiếng Việt, các đạo hữu Vô Huệ Nguyên, Minh Nguyễn, Minh Phi, Thanh Liên đã giúp duyệt lại bản thảo, Hoài Hương đã bỏ công sức trình bày toàn bộ quyển sách, Minh Phi đã phụ trách liên lạc in ấn, Phổ Từ Diệu Hương, Hồng Như, Chân Giác, Vô Huệ Nguyên đã đóng góp ý kiến, và nhất là hai anh Thanh Liên và Nguyễn Chí Khanh đã nhiều lần chỉ bảo và chia sẻ kinh nghiệm tâm linh quý báu có liên hệ đến “Lời Vàng.” Cũng xin cám ơn các đạo hữu Nguyễn Minh Tiến và Minh Không đã bỏ thời giờ giúp tra cứu một số danh từ Phạn ngữ và Hán Việt, nhất là tra tìm tên Kinh và tên Luận và giúp thêm ý kiến cho phần Thuật Ngữ. Ngoài ra, chúng tôi còn có được sự cộng tác đặc biệt của đạo hữu Từ Bi Hoa, một người bạn đồng môn, đã bỏ công hiệu đính hai chương trong “Lời Vàng” cũng như đã đóng góp nhiều ý kiến sâu sắc và đích đáng cho toàn bộ quyển sách.
+
+Chúng tôi cũng không quên gửi lời cám ơn chân thành đến tất cả quý thân hữu, đạo hữu khắp nơi đã có lòng quan tâm, khuyến khích, đóng góp tịnh tài, và đã vô cùng độ lượng, kiên nhẫn trong thời gian gần ba năm qua. Nếu không có được tấm chân tình và những đóng góp của tất cả quý đạo hữu, đặc biệt là của Minh Phi, đã ngày đêm chuyên tâm duyệt soát lại toàn bộ bản thảo lần cuối cùng trước khi ấn loát, thì Bản Hiệu Đính Toàn Bộ, ấn bản 2008 có lẽ đã khó có thể được hoàn tất một cách tốt đẹp. Tuy nhiên, chúng tôi cũng biết là Bản Hiệu Đính Toàn Bộ, ấn bản 2008 vẫn còn nhiều sơ sót. Ngưỡng mong quý đạo hữu và thiện tri thức xa gần bỏ chút thời giờ để đóng góp ý kiến, giúp cho các ấn bản kế tiếp trong tương lai được hoàn chỉnh hơn.
+
+Xin hồi hướng tất cả công đức lên cho quả vị giác ngộ của Thầy, **Tulku Nyima Gyaltsen Rinpoche**, vị Đạo Sư đã từ bi khai tâm chúng con bằng ánh sáng cực kỳ đẹp đẽ và truyền cảm của “Lời Vàng,” cũng như cho quả vị giác ngộ của chư Đạo Sư cùng toàn thể chúng sinh.
+
+Nguyện cho ánh sáng cực kỳ đẹp đẽ và truyền cảm của “Lời Vàng” sẽ soi rọi tới vô lượng pháp giới...
+
+*Tâm Bảo Đàn (Konchog Jimpa Lhamo)*
+*Hoa Kỳ, ngày 5 tháng 11 năm 2008*
+
+# Lời Khuyên và Thủ Bút của
+Đại Sư Tulku Nyima Gyaltsen Rinpoche
+
+[Hình: Chữ viết tay tiếng Tây Tạng]
+
+Lời Khuyên Của Nyima Gyaltsen: "Khi biết rằng những giáo huấn thâm diệu như *Tâm-Yếu* của *Đại-Quảng-Trí* (Longchen Nyingtik) thật khó tìm thấy trong thế gian này, hãy quyết tâm gắng sức tu học những giáo huấn ấy như đã được giảng dạy ở đây. Giờ đây, các con đã có được thân người, ta khẩn thiết mong các con hãy tận dụng đời người một cách có ý nghĩa."
+
+Đây là thủ bút của đại sư Tulku Nyima Gyaltsen Rinpoche viết vào sáng ngày 1 tháng 7 năm 2006 theo lời thỉnh cầu của đệ tử Tâm Bảo Đàn, trước khi Thầy từ giã trung tâm Sakya Dokho Choling, Hoa Kỳ để quay trở về lại Tây Tạng. Những lời khuyên của Thầy đã được đệ tử Kanaya Chevli chuyển sang Anh ngữ như sau: *"Knowing that the profound instructions like these of Longchen Nyingtik are difficult to find in this world, make intense efforts to study just as it has been taught herein. Now that you have a human body, I urge you to do something meaningful with it."*
+
+[Hình: Padmasambhava]
+
+*Padmasambhava*
+
+*Đức Liên Hoa Sanh*
+
+# LỜI NÓI ĐẦU
+Của Bản Việt Ngữ đầu tiên
+do Nhóm Longchenpa ấn hành năm 2004 tại Việt Nam
+
+Đạo sư Patrul Rinpoche, một thánh giả dòng Longchenpa, đã đưa vào những giáo huấn bên tai mà Thầy của Ngài là Jigme Gyalwai Nyugu đã truyền xuống từ Đạo sư Jigme Lingpa. Giáo huấn này được Ngài hành trì rốt ráo, không thiếu sót, đắc Đại Viên Mãn. Nay Ngài phó chúc lại cho đàng hậu sanh, những hành giả Kim Cương Thừa của dòng Cổ Mật y giáo phụng hành, cùng với lời chúc phúc chân thành và cảm động.
+
+Giáo huấn này là cốt tuỷ của Tiền Hành Pháp (Ngondro), dọn tâm vào cảnh giới bất khả tư nghì trong một kiếp sống. Đây là giáo huấn giải thoát ngay tại cửa vào, làm việc trên đức tin hay lòng sùng mộ và trí tuệ sắc bén mà không khổ công nhiều như con đường Đại Thủ Ấn, hoặc con đường chuyển hoá tiệm tiến của dòng hay Thừa khác.
+
+Dịch giả cầu mong các hành giả Mật Thừa nắm được phần tinh yếu trong quyển sách này để công phu tu tập chính xác và hiệu quả là giải thoát các phiền não ô nhiễm, chán nản các lỗi lầm của vòng luân hồi và cuối cùng phát nguyện theo con đường của chư Tổ, chư Bồ Tát làm lợi ích chúng sanh vô biên trong sáu cõi.
+
+Dịch giả trung thành với căn bản của Đạo sư Patrul Rinpoche, tuy nhiên các bài nguyện riêng biệt theo từng chương, hành giả có thể dựa theo các bài nguyện riêng của Đạo Sư truyền cho mình, không nhất thiết phải dò theo bài nguyện vắn tắt trong sách.
+
+Nguyện cho phước lành tràn khắp làm dịu mát tâm của mọi chúng sanh.
+
+Hồng Nhật
+
+[Hình: Longchenpa (1308 - 1363)]
+
+Longchenpa (1308 - 1363)
+
+Vị Thầy phi thường nhất của truyền thống Nyingma (Cổ Mật). Longchen Rabjampa đã tập hợp các giáo lý *Tâm-Yếu* của Padmasambhava (Đức Liên Hoa Sanh), Vimalamitra (Tì Ma La Ma Mật Đa) và Yeshe Tsogyal. Ngài Longchen Rabjampa (Longchenpa) đã trao truyền tất cả những giáo lý này cho Jigme Lingpa trong một loạt các linh kiến được đặt tên là *Tâm-Yếu của Đại-Quảng Trí* (Longchen Nyingtik).
+
+# LỜI NÓI ĐẦU
+
+[Hình: Biểu tượng]
+
+THE DALAI LAMA
+
+Ngài Jigme Gyalwai Nyugu là một trong những đệ tử lỗi lạc nhất của Ngài Jigme Lingpa, vị Đạo Sư đã ban truyền những hướng dẫn về Giáo Pháp Đại Viên Mãn (Dzogpa Chenpo) theo truyền thống Longchen Nyingthig. Ngài Jigme Gyalwai Nyugu đã kế thừa và ban tặng giáo huấn khẩu truyền Longchen Nyingthig, và Dza Paltrul Rinpoche, đệ tử của Ngài, đã sao chép lại, đặt tựa đề cho tập sách này là: KUNSANG LA-MAI ZHAL-LUNG.
+
+Được biết rằng theo giáo lý Đại Viên Mãn, ta không thể đạt được Giác Ngộ với tâm tạo tác; mà ta phải nhận biết ra được bản tâm nguyên sơ, và nương vào đó mà có thể hiểu ra được vạn pháp chỉ như là trò hiển lộ của tâm. Sau đó ta phải luôn luôn tự nhắc nhở, phải thấm nhuần nhận thức này và phải nhất tâm tin tưởng vào hiểu biết sắt đá ấy. Tuy nhiên, để có được một hiểu biết liễu tri, thấu suốt toàn diện giáo lý này thì việc ta chỉ đơn thuần đọc sách sẽ là một điều vô cùng thiếu sót; ta còn cần tới những pháp tu dự bị theo hệ phái Nyingma, và thêm vào đó, cần tới Giáo Pháp đặc biệt do một bậc Chân Sư với đầy đủ phẩm hạnh thuộc dòng Nyingma trao truyền cũng như cần tới năng lực gia hộ của Ngài. Được như vậy, chúng đệ tử cũng đã phải từng tích lũy công đức thật sâu dầy. Đó là lý do tại sao các Đạo Sư Nyingmapa vĩ đại như Ngài Jigme Lingpa và Ngài Dodrupchen đã phải bỏ hết tâm sức đeo đuổi công việc [truyền bá giáo pháp].
+
+Ngày nay, việc chuyển dịch những tác phẩm bao gồm các pháp tu dự bị của Đại Viên Mãn (Dzogchen) mang một giá trị cực kỳ lớn lao. Tôi chúc mừng Nhóm Dịch Thuật Padmakara đã cho phổ biến các tác phẩm này bằng Anh ngữ và Pháp ngữ. Tôi đoan chắc rằng những tài liệu sơ yếu đáng tin cậy này sẽ đem lại lợi lạc cho tất cả những ai có lòng quan tâm tới pháp tu Đại Viên Mãn.
+
+Ngày 23 tháng 10, 1990
+
+Đạt Lai Lạt Ma
+
+# LỜI GIỚI THIỆU
+của DILGO KHYENTSE RINPOCHE
+
+Tuyển tập luận giải *Lời Vàng Của Thầy Tôi, Hướng Dẫn Về Các Pháp Tu Dự Bị Cho « Tâm-Yếu của Đại-Quảng-Trí » (Heart-Essence of the Vast Expanse)* Thuộc Giáo Lý Đại Viên Mãn (Dzogchen), đã trình bày về con đường tu tập của bốn trường phái chính yếu của Phật Giáo Tây Tạng mà không hề có bất kỳ một mâu thuẫn nào [giữa những trường phái ấy].
+
+Tác phẩm này bao gồm tất cả các giáo pháp, kể cả : (1) Những Bước Tuần Tự Trên Đường Tu cho những người thuộc ba trình độ hiểu biết, căn cơ khác nhau, cùng với Ba Điểm Tinh Yếu Của Con Đường Đạo; (2) Ba Tri Kiến, tức pháp tu dự bị cho Đạo và Quả; (3) Phật tánh là nhân, đời người quý báu là trợ duyên, bậc Đạo Sư tâm linh là lực thúc đẩy, các giáo huấn của Ngài là phương pháp tu tập, các Thân Phật (kāyas) và trí tuệ là quả -- tất cả những giáo huấn này là kết quả của sự kết hợp giữa hai truyền thống tu tập Kadampa và Mahāmudrā (Đại Thủ Ấn). Ngoài ra, tác phẩm này còn bao gồm con đường tu tập được hướng dẫn theo truyền thống Nyingma (Cổ Mật), chẳng hạn như là quyết tâm cầu tìm giải thoát vì đã nhờm tởm vòng sinh tử luân hồi, phát khởi tín tâm do có được sự hiểu biết, tin tưởng vào luật nhân quả, phát khởi tâm Bồ Đề qua việc nhiệt thành cố gắng cứu giúp người khác, và phát khởi tri kiến thuần tịnh, nhận thấy được tất cả những gì có trên đời này đều tột cùng thanh tịnh.
+
+Dù là đối với các pháp tu dự bị hay là các pháp thực hành chính yếu thì tập luận giải này cũng thật vô cùng thiết yếu ! Đó là lý do tại sao trong thời đại may mắn này khi mà giáo lý tôn quý của Đức Phật đang bắt đầu chói sáng trên khắp thế giới, tập sách này đã được chuyển dịch với niềm hy vọng sâu xa rằng tài liệu luận giải này sẽ đem lại được một giá trị tột cùng lớn lao, cũng như tài liệu ấy sẽ bao gồm được tất cả những điểm trọng yếu của con đường tu. Hy vọng rằng tất cả những ai có dịp tiếp xúc với những giảng dạy này đều sẽ được lợi lạc, và mong rằng tài liệu này có thể trở thành một đề mục để nghiên cứu, quán chiếu và thiền định. Điều quan trọng là những người bước trên con đường Chánh Pháp sẽ giảng dạy và lắng nghe về tài liệu này-- đó mới thực là điều cực kỳ quan trọng.
+
+[Hình: Jigme Lingpa (1729-1798)]
+
+*Jigme Lingpa (1729-1798)*
+
+Jigme Lingpa thọ nhận những giáo huấn *Tâm-Yếu của Đại-Quảng-Trí* (Longchen Nyingtik - Essence of the Vast Expense) từ Longchenpa. Ngài Jigme Lingpa đã hành trì những giáo pháp này trong cô tịch và sau đó đã truyền dạy lại cho các đệ tử của mình.
+
+# DẪN NHẬP
+## DẪN NHẬP CỦA CÁC DỊCH GIẢ ANH NGỮ
+
+Lời Vàng Của Thầy Tôi là một trong những giáo huấn được yêu quý nhất, giới thiệu về nền tảng tu tập của Phật Giáo Tây Tạng. Quyển sách này thường xuyên được Đức Đạt Lai Lạt Ma và những bậc Thầy lỗi lạc khác khuyến khích và giới thiệu [đến mọi người]. Tài liệu này cung cấp những hướng dẫn chi tiết về các phương pháp tu tập mà nương vào đó, một con người bình thường có thể chuyển hoá tâm thức của họ và khởi hành bước đi trên con đường dẫn tới Phật Quả, trạng thái của Giác Ngộ và giải thoát. Nửa phần đầu của quyển sách bao gồm một loạt các suy niệm như sau: (1) thất vọng ê chề đối với luân hồi và thấu hiểu về nỗi thống khổ của vòng sinh tử, là vòng tròn hiện hữu dựa trên vô minh cùng những cảm xúc ô nhiễm, và (2) thấu hiểu giá trị cực kỳ to lớn của đời người mà ta có được, cho ta một cơ hội độc đáo để đạt được Phật Quả. Phần Hai của quyển sách giảng dạy rõ ràng những bước thực hành đầu tiên trong “Kim Cương Thừa” (Vajrayana), với những phương pháp chuyển hoá vô cùng mãnh liệt, tạo nên tính chất đặc thù của truyền thống Phật Giáo Tây Tạng.
+
+Tác phẩm của Patrul Rinpoche không phải là một luận văn dành cho những bậc lão thông mà là một cẩm nang gồm những chỉ dạy thực tiễn cho bất kỳ ai thành tâm ước muốn thực hành Pháp. Ngài biên soạn tài liệu này với một văn phong có thể dễ dàng đến được với những người du mục thô lậu và dân làng mà cũng dễ dàng đến được với các Lạt Ma và tu sĩ. Thật ra, Ngài đã quả quyết rằng tài liệu này thực sự không phải là một tác phẩm văn học, mà Ngài chỉ đơn thuần ghi chép lại những giáo huấn khẩu truyền của Bổn Sư của Ngài, như bản thân Ngài đã từng được nghe giảng. Sức lôi cuốn đặc
+
+DẪN NHẬP
+
+biệt của quyển sách là khi đọc, chúng ta có cảm giác rằng chúng ta chính là những đệ tử của Patrul Rinpoche, đang lắng nghe lời chỉ dạy chân thành của Ngài, dựa trên truyền thống khẩu truyền mà Ngài đã thọ nhận từ Bổn Sư và dựa trên kinh nghiệm sâu xa của những năm dài thực hành Pháp.
+
+Ngài giảng rõ tất cả những gì ta cần biết để có thể thực hành Giáo Pháp— và thường xuyên với vẻ châm biếm có sức công phá, Ngài cũng giảng dạy cho ta nhận ra nhiều lỗi lầm mà ta có thể gây ra trên hành trình tâm linh. Ngôn ngữ chuyển hướng từ thi ca kiêu kỳ sang ngôn ngữ địa phương khoáng đạt. Mỗi vấn đề được Ngài minh họa với nhiều trích dẫn, nhiều ví dụ thực tế trong đời sống hàng ngày, kèm theo một kho tàng đầy rẫy những mẩu chuyện kể. Một số trong những câu chuyện này có nguồn gốc từ thế kỷ thứ 6 trước Công nguyên và xa hơn nữa; một số được rút ra từ cuộc đời phi thường của những vị Đạo Sư vĩ đại của Ấn Độ và Tây Tạng; một số liên quan tới những việc làm của những người bình thường ở vùng Kham, là quê hương của Patrul Rinpoche.
+
+Patrul Rinpoche nổi tiếng qua phương cách Ngài sử dụng (trong khi giảng dạy) để có thể trực tiếp thăm dò chiều sâu tâm thức của các đệ tử. Ngài có niềm tin vô cùng kiên định vào câu châm ngôn của Ngài Atisa: “Thiện tri thức tuyệt hảo nhất là người tấn công vào các lỗi lầm tiềm ẩn của bạn.” Mặc dù những hướng dẫn của Ngài rõ ràng là để thích ứng với nhóm thính giả đặc biệt của Ngài, nhưng nếu ta chịu khó làm một vài thủ tục hoán chuyển thì chúng ta cũng có thể thấy rõ ra rằng bản tánh con người nói chung đều giống nhau một cách kỳ lạ bất luận thời gian và dị biệt văn hoá. Chúng ta có cảm tưởng rằng những chỗ sâu kín của cá tính riêng ta được phơi bày, và ta được thúc đẩy để tự tra vấn về những thói quen suy tưởng của chính mình, mở bày tâm hồn ta trước những triển vọng mới mẻ.
+
+# DẪN NHẬP
+
+Trong chương kết luận, tác giả mô tả công việc của Ngài như sau:
+
+Khi biên soạn những giáo huấn này, tôi gần như không để cho những cân nhắc về mỹ học hay văn chương lôi kéo. Mục đích chính yếu của tôi là chỉ ghi chép một cách trung thực những giáo huấn truyền khẩu của vị Thầy tôn kính của tôi theo một cách trình bày dễ hiểu và có lợi lạc cho tâm thức. Tôi đã cố gắng bằng hết khả năng của mình để không làm hư hoại những giáo huấn ấy bằng cách pha trộn vào đó những ngôn từ và ý tưởng của riêng tôi. Trong một số trường hợp riêng biệt, Thầy tôi cũng thường ban truyền nhiều giáo huấn đặc biệt nhằm phơi bày những lỗi lầm tiềm ẩn, và tôi đã thêm vào bất kỳ những gì tôi nhớ được về những điều này trong những đoạn văn thích hợp nhất. Đừng nên coi những giáo huấn phơi bày lỗi lầm này như một cánh cửa sổ để qua đó bạn có thể xem xét lỗi lầm của người khác, mà phải coi đó là một tấm gương để khảo sát chính bạn. Hãy xem xét kỹ lưỡng bản thân bạn để xem mình có hay không có những lỗi lầm tiềm ẩn đó. Nếu có, hãy nhận ra chúng và hãy trục xuất chúng. Hãy chỉnh sửa tâm bạn và thanh thản đặt tâm ấy trên con đường tu đúng đắn.
+
+Đối với Phật Giáo Kim Cương Thừa thì Giác Ngộ không phải là một lý tưởng xa vời nhưng là điều có thể đạt được ở đây và ngay lúc này, trong chính cuộc đời này, qua những phương pháp tu tập thích hợp và qua một nỗ lực siêu việt. Theo truyền thống trí tuệ sống động ở Tây Tạng, mỗi một Kinh điển, mỗi một pháp môn thiền định và pháp rèn luyện tâm thức, tất cả đều được truyền lại từ một vị thầy xuống đến đệ tử, và sau đó cần phải thấm nhuần trong tâm thức cho tới khi trở thành một phần không thể thiếu trong kinh nghiệm tu tập của hành giả. Một trong những từ chỉ việc tu tập tâm linh ở Tây Tạng là nyamlen, nghĩa đen là “đưa vào kinh nghiệm.” Những người có
+
+# DẪN NHẬP
+
+thể được coi là bậc trì giữ dòng truyền thừa, một vị Thầy tâm linh chân chính có đầy đủ phẩm hạnh, phải là người đã thực sự đạt được chứng ngộ. Patrul Rinpoche nắm giữ một dòng truyền dạy liên tục bắt nguồn từ chính Đức Phật. Dòng truyền thừa này đã nối tiếp không đứt đoạn, từ một vị Thầy chứng ngộ truyền xuống tới một vị chứng ngộ kế tiếp, cho tới tận ngày nay.
+
+## Patrul Rinpoche Và Truyền Thống Mà Ngài Kế Thừa
+
+Patrul Rinpoche thuộc dòng phái Nyingma là truyền thống cổ xưa nhất của Phật Giáo Tây Tạng. Trong phái này có hai nhánh truyền thừa khác nhau. Đó là (1) Kahma, (*bka' ma*) hay dòng khẩu truyền, được truyền từ Thầy tới trò qua nhiều thế kỷ, và (2) dòng truyền trực tiếp phi thường *Terma* (*gter ma*) hay Kho Tàng Tâm Linh. Những giáo lý (của dòng *Terma*) được Đức Liên Hoa Sanh (Padmasambhava) và vị nữ đệ tử vĩ đại Yeshe Tsogyal của Ngài cất dấu vào thế kỷ thứ tám, và đã được khám phá trong những thời đại sau đó vào một thời điểm thích hợp. *Lời Vàng Của Thầy Tôi* là những giảng dạy về các pháp tu tập dự bị của phái *Longchen Nyingtik* (*klong chen snying thig*), có nghĩa là *Tâm-Yếu của Đại-Quảng-Trí* (*Heart-Essence of the Vast Expanse*), một kho tàng tâm linh được Ngài Rigdzin Jigme Lingpa khám phá (1729-1798).
+
+Jigme Lingpa là một bậc phi thường, hầu như không bao giờ phải học tập mà đã trở nên cực kỳ uyên bác nhờ vào tuệ giác của Ngài đã được khai mở trong một loạt những cuộc nhập thất tu thiền dài hạn. Ngài đã thọ nhận giáo huấn *Tâm-Yếu của Đại-Quảng-Trí* trong một loạt các linh kiến đến từ Ngài Longchenpa, một Lạt Ma vĩ đại vào thế kỷ thứ mười bốn.
+
+[Hình: Tranh vẽ Jigme Gyalwai Nyugu]
+
+*Jigme Gyalwai Nyugu*
+
+Vị Thầy toàn hảo của Patrul Rinpoche. Patrul Rinpoche được nghe Ngài giảng *Tâm-Yếu của Đại-Quảng-Trí (Longchen Nyingtik)* nhiều lần, và đã quả quyết rằng *Lời Vàng Của Thầy Tôi* là một bản văn toát yếu không hơn không kém ghi chép lại một cách trung thực tất cả những gì Ngài đã được nghe từ Thầy của mình vào những dịp khác nhau.
+
+DẪN NHẬP
+
+Longchenpa đã hệ thống hoá giáo thuyết của dòng Cổ Mật (Nyingmapa) trong một trước tác luận giải thật không thể nghĩ bàn mang tên Thất Bảo Luận (*Bảy Kho Báu) (mdzod bdun) và trong những tác phẩm khác của Ngài, bao gồm đầy đủ tất cả những lãnh vực đã được giảng dạy trong Phật Giáo, và đặc biệt là thảo luận đầy đủ về những điều rất vi tế trong pháp Đại Viên Mãn (Dzogchen). Ngài cũng biên soạn một cách bao quát về những giáo lý của các trường phái khác, nhưng những tác phẩm này đã bị thất lạc. Mặc dù sống trước Jigme Lingpa vài thế kỷ, Ngài thực sự là vị Thầy chính yếu của Jigme Lingpa.
+
+Trước tiên, Jigme Lingpa đã thực hành tu tập và tinh thông các giáo pháp mà Ngài khám phá, và sau đó đã truyền dạy các giáo pháp này cho một số ít đệ tử thân cận là những người có khả năng trở thành những bậc trì giữ thanh tịnh giáo thuyết mà họ đã thọ nhận. Một trong những vị đó là Ngài Jigme Gyalwai Nyugu tức là Sư Phụ của Patrul Rinpoche. Sau khi trải qua một thời gian khá dài với Jigme Lingpa ở Tây Tạng, Ngài Jigme Gyalwai Nyugu trở về Kham (miền đông Tây Tạng). Ở đó Ngài đưa vào thực hành tất cả những gì Jigme Lingpa đã chỉ dạy cho Ngài, sống trên một sườn núi cô tịch trong một chỗ trũng nhỏ bé trên mặt đất, thậm chí không có cả một miệng hang để ẩn náu, và chỉ có cây cỏ hoang dã làm thực phẩm. Ngài dửng dưng với mọi sung túc và tiện nghi, quyết định bỏ mặc mọi mối quan tâm thế tục và tập trung vào mục đích tối hậu là đại ngộ. Dần dần các đệ tử tụ hội lại quanh Ngài, sống trong những chiếc lều trên sườn đồi lộng gió. Một trong những vị đệ tử này là chàng thanh niên Patrul, người đã nhận từ Ngài không dưới mười bốn lần các giáo lý chứa đựng trong quyển sách này. Sau đó Patrul cũng đã theo học với nhiều Lạt Ma vĩ đại đương thời, kể cả Ngài Do
+
+DẪN NHẬP
+
+Khyentse Yeshe Dorje sống ngoài vòng ước lệ, là bậc Thầy đã trực chỉ chân tâm cho chàng thanh niên Patrul.
+
+Suốt cuộc đời, Patrul Rinpoche đã một mực noi theo gương sống tối đa giản dị của Thầy mình. Mặc dù khi còn nhỏ Ngài đã được công nhận là một Lạt Ma Hoá Thân, hay tulku. Tên của Ngài là cách viết tắt hai chữ Palgye Tulku – và theo lẽ thông thường thì Ngài đã có một địa vị cao trọng trong một cơ sở tu viện, nhưng Ngài đã trải đời mình lang thang đây đó, cắm trại ngoài trời, trong bộ lốt của một kẻ hành khất bình thường. Nếu được cúng dường vàng hay bạc, Ngài thường để lại trên mặt đất, cho rằng của cải đó chỉ là nguồn mạch của phiền não. Ngay cả khi đã trở thành một Đạo Sư danh tiếng, Ngài du hành khắp nơi không ai biết tới, sống một cách đơn giản và vô tư y như trước. Thậm chí có câu chuyện về một Lạt Ma mà Ngài đã gặp trên đường du hành, ông ta cho rằng Ngài là một người bạn tốt có thể thấm nhuần lợi lạc từ một giáo lý phi thường như thế này nên đã dạy lại chính bản văn này cho Ngài. Trong một dịp khác, Ngài du hành với một goá phụ nghèo khổ, giúp bà ta nấu nướng và chăm sóc những đứa con của bà, cõng chúng trên lưng. Khi họ đi tới nơi, Patrul Rinpoche cáo lỗi, nói rằng Ngài có việc quan trọng phải làm. Người đàn bà nghe nói rằng có Ngài Patrul Rinpoche vĩ đại đang giảng dạy tại tu viện. Bà đi tới đó để được nhìn thấy Ngài, và đã sửng sốt khi nhìn thấy người bạn đồng hành của mình đang ngồi trên pháp toà giảng dạy cho một hội chúng đông đảo. Vào cuối buổi giảng, Ngài yêu cầu tặng hết tất cả những vật cúng dường cho bà.
+
+Đối với chúng đệ tử, Ngài vô cùng ân cần từ ái nhưng cũng hết sức cứng rắn. Ngài đối xử với những hành khất và những vị vua hoàn toàn như nhau. Trong mọi tình huống, Ngài chỉ quan tâm tới việc làm lợi lạc cho người khác, và Ngài luôn luôn nói ra bất kỳ những gì ích lợi nhất, bất chấp những thói tục tế nhị thông thường trong xã hội.
+
+# DẪN NHẬP
+
+## Trình Tự Tu Tập (các giai đoạn thực hành)
+
+Lời Vàng Của Thầy Tôi thuộc vào loại tác phẩm văn học được gọi là “những hướng dẫn được biên soạn” (khyid yig), cần phải noi theo và bổ túc cho những giảng dạy khẩu truyền, giúp làm sáng tỏ một bản văn dạy về thiền định. Trong trường hợp này, nghi quỹ thiền định đang được nhắc tới là pháp tu dự bị của *Tâm-Yếu của Đại-Quảng-Trí (Heart-Essence of Vast Expanse* hoặc *Longchen Nyingtik).*
+
+Giáo lý thuộc hệ *Tâm-Yếu của Đại-Quảng-Trí* mà Ngài Longchenpa truyền cho Jigme Lingpa đã trở thành một trong những giáo lý được lưu truyền và thực hành rộng rãi nhất trong dòng Nyingmapa. Giáo lý này bao gồm một con đường Kim Cương Thừa toàn thiện, khởi hành ở giai đoạn bắt đầu với những pháp tu tập dự bị (*sngon 'gro* hay Ngondro). Sau đó tới phần thực hành chính yếu (*dngos gzhi*), gồm có ba giai đoạn chính là (1) giai đoạn phát triển (*bskyed rim*), (2) giai đoạn thành tựu (*rdzogs rim*), và (3) Đại Viên Mãn hay Đại Toàn Thiện (*rdzogs pa chen po*).
+
+Các pháp tu dự bị gồm có (1) phần chuẩn bị bên ngoài và (2) phần chuẩn bị bên trong, và tài liệu trước tác mà chúng ta đang có trong tay đã phân chia thành hai phần khác nhau một cách thích hợp. Phần Một, gồm các pháp tu dự bị thông thường hay các chuẩn bị bên ngoài, được đề cập tới qua những đề mục như sau: 1) những điều kiện tự do và thuận duyên nhờ có được thân người, 2) vô thường, 3) khổ não của sinh tử luân hồi, 4) làm thế nào nghiệp báo hay nguyên lý nhân quả có thể chi phối mọi hành vi của chúng ta, 5) lợi lạc của giải thoát, và 6) làm thế nào để theo chân một vị Thầy tâm linh. Những yếu tố này là những điều căn bản giúp ta có thể có được một hiểu biết đúng đắn về giá trị của Phật Đạo. Những điều này là những hiểu biết tổng quát, là nền tảng của
+
+# DẪN NHẬP
+
+Phật Giáo nói chung. Những suy niệm như trên là những điều mà ai ai cũng có thể quán chiếu, cho dù có là Phật tử hay không.
+
+Phần Hai, những pháp tu dự bị phi thường hay những chuẩn bị bên trong, bắt đầu bằng quy y – học cách nương tựa nơi Phật, Pháp (giáo lý của Ngài) và Tăng đoàn (cộng đồng Phật Giáo). Đây là hứa nguyện căn bản trong Đạo Phật, đối với mọi truyền thống Phật Giáo cũng đều giống như nhau. Kế tiếp là phần phát khởi Bồ Đề Tâm hay “tâm Giác Ngộ.” Thái độ từ và bi vô điều kiện của tâm Bồ Đề nhằm dẫn dắt tất cả chúng sinh tới giải thoát viên mãn, là căn bản của Phật Giáo Đại Thừa. Tâm Bồ Đề phải được đi kèm với các pháp tu tịnh hoá ác nghiệp đã tạo trong quá khứ, và tích tập những năng lực thiện lành cần thiết để thăng tiến trên con đường tu. Những pháp tu này vận dụng trọn vẹn những kỹ thuật thiện xảo của pháp môn quán tưởng và trì tụng minh chú (mantra) là phương tiện thiện xảo đặc biệt của riêng truyền thống tu tập theo Kim Cương Thừa.
+
+Cuối cùng tới pháp Bổn Sư Du Già (Guru Yoga), hợp nhất tâm ta với tâm của Thầy. Pháp Bổn Sư Du Già chính là gốc rễ của Kim Cương Thừa, và trong pháp môn này, mối liên kết hoàn toàn thanh khiết thuần tịnh giữa Thầy và trò có một tầm quan trọng tột bực. Ngoài ra, trong pháp này cũng bao gồm cả phần thực hành pháp chuyển di tâm thức (phowa), đây là một phương pháp thần tốc (đường tắt) khiến những ai không thể theo đuổi con đường tu chứng tới tận cùng vẫn có thể đạt được giải thoát vào lúc chết.
+
+Đối với những pháp môn thực hành trong Phần Hai thì cần phải có sự dẫn dắt của một vị Thầy có đầy đủ phẩm hạnh, (có khả năng và đã chứng ngộ). Quả thực đây là một lời khuyên dành cho bất kỳ một pháp môn tu tập tâm linh nào. Ở xứ Tây Tạng thời tiền Cộng Sản, hầu như tất cả dân chúng
+
+# DẪN NHẬP
+
+Tây Tạng đều tự coi mình là Phật tử, và họ nỗ lực sống một cuộc đời đức hạnh theo lời Phật dạy, cúng dường, trì tụng một số bài cầu nguyện và những câu thần chú. Điều này thực sự vẫn còn rất phổ biến ngay tại một xứ Tây Tạng đang bị chiếm đóng ngày nay. Nhưng một ít người trong số những Phật tử [hiểu theo định nghĩa tổng quát về Phật tử như trên], sau đó đã quyết định theo đuổi hành trình tâm linh một cách tích cực, và chính những người như thế đã miên mật hành trì những pháp môn tu tập này, thường là phải lập đi lập lại mỗi một pháp môn hành trì [trong Phần Hai] cả thảy là một trăm ngàn lần.
+
+Kế tới là các pháp môn thực hành của hai giai đoạn phát triển và thành tựu, mà cực điểm là Đại Viên Mãn (hay Đại Toàn Thiện). Theo truyền thống Tây Tạng, hành trình bên trong được vạch ra một cách cực kỳ chính xác đến phải kinh ngạc. Đối với mỗi giai đoạn thực hành đều có những lời giảng dạy khẩu truyền và những tài liệu diễn giảng. Kim Cương Thừa là một nền khoa học của tâm, trong đó một vị Thầy lão luyện hoàn toàn thấu suốt tầm ảnh hưởng của mỗi một kinh nghiệm tu tập và có giải pháp cho mỗi một sai lầm. Tài liệu hiện có của chúng ta không đi sâu vào chi tiết của phần còn lại của con đường tu (gồm các giai đoạn phát triển, thành tựu và Đại Viên Mãn), nhưng ở đây chúng tôi sẽ đưa ra một cái nhìn khái quát ngắn gọn để độc giả có thể có được một khái niệm về tiến trình tu tập xảy ra tiếp theo sau những pháp tu dự bị.
+
+## Các Pháp Tu Dự Bị
+
+Những pháp tu dự bị bên ngoài gồm có bốn tư tưởng quán chiếu để chuyển tâm ra khỏi vòng luân hồi sinh tử.
+
+DẪN NHẬP
+
+Những pháp tu dự bị bên trong là: 1) quy y, (2) phát khởi Bồ Đề Tâm (bodhicitta), 3) tịnh hoá bằng pháp hành trì Kim Cương Tát Đoả (Vajrasattva), 4) tích tụ công đức bằng pháp cúng dường mạn đà la, và 5) hành trì pháp Bổn Sư Du Già (Guru Yoga).
+
+Đôi khi có những yếu tố khác cũng được thêm vào, như trong Tâm-Yếu của Đại-Quảng-Trí. Nghi quy hành trì có thể rất dài hoặc rất ngắn. Tuy nhiên trên đây là cấu trúc tổng quát.
+
+Giai Đoạn Phát Triển
+
+Trong giai đoạn phát khởi (hay phát triển), ta tu tập để phát triển một linh kiến giác ngộ về thế giới này bằng cách quán tưởng bản thân ta là một vị Phật, và môi trường quanh ta là một cõi Phật thanh tịnh trong khi trì tụng một câu minh chú thích hợp. Tiến trình này sẽ mang vẻ giả tạo vào lúc ban đầu, là cái gì được ta phát triển hay làm cho sinh khởi, nhưng cách thức ta quán tưởng này thật ra tương ứng với chính những kinh nghiệm về linh kiến của những bậc đã chứng ngộ. Bằng cách chấp nhận thói quen và thấm nhuần nhận thức mới mẻ này, ta có thể làm suy yếu dần những tập quán bình thường của tri kiến thô thiển dựa trên vô minh và dựa trên những khuynh hướng lâu đời của cảm xúc ô nhiễm. Qua đó, ta có thể đưa mình vào những chứng nghiệm ở mức độ vi tế hơn. Những pháp môn hành trì này dựa trên hình thức của các nghi quỹ (sadhana), là những bản văn đôi khi hết sức thi vị ghi lại các nghi thức hành trì.
+
+Giai Đoạn Thành Tựu (Toàn Thiện)
+
+Một khi thị kiến thiêng liêng đã trở thành một kinh nghiệm sống thực thì tiến trình tu tập của giai đoạn thành tựu được
+
+DẪN NHẬP
+
+hoàn tất, và [sau đó, hành giả có thể] đi sâu hơn vào các chứng nghiệm bằng cách tu tập dựa trên các năng lực vi tế (subtle energies) của thân, qua việc làm chủ hơi thở, qua những tư thế của thân cùng các pháp môn du già khác.
+
+**Đại Viên Mãn (Dzogchen, Đại Toàn Thiện)**
+
+Trong các giai đoạn phát triển và thành tựu, ta đạt được trí tuệ chói ngời (dpe’i ye shes) nhờ vào những kinh nghiệm thiền định để chỉ cho ta thấy đâu là bản tánh của tâm. Trong Dzogchen - Đại Viên Mãn - bản tánh của tâm được vị Thầy chỉ thẳng và chỉ một cách bất thình lình. Đây là một kinh nghiệm trực ngộ Phật tánh. Những pháp thực hành tiếp theo sau đó sẽ bao gồm việc làm quen với kinh nghiệm trên, và phát triển kinh nghiệm đó trên một bình diện bao la rộng lớn, mỗi lúc mỗi tăng trưởng hơn lên. Ở đây ta đạt được tuệ giác đích thực hay tuệ giác viên mãn (don gyi ye shes), trực nghiệm chân lý tối hậu.
+
+Trên một phương diện nào đó, mỗi giai đoạn tu tập được xây dựng trên nền tảng của một giai đoạn tu tập trước đó, nhưng đồng thời, mỗi giai đoạn cũng lột bỏ được thêm những lớp mê lầm, để lại mãi mãi một kinh nghiệm trần trụi về thực tại [sau khi đã bóc đi lớp vỏ vô minh]. Tự mỗi một pháp môn hành trì cũng là một con đường viên mãn, và đối với những ai có trí tuệ để thấy được thì trong mỗi một pháp môn hành trì, tất cả những pháp môn tu tập khác cũng được bao gồm trong đó. Ngay cả những pháp tu dự bị, và ngay cả những yếu tố riêng lẻ trong những pháp tu này, tự các yếu tố ấy cũng có thể tạo thành một con đường viên mãn đưa đến Giác ngộ.
+
+Đặc biệt, pháp Bổn Sư Du Già (Guru Yoga) là tinh tuý của tất cả mọi con đường. Các vị Thầy của dòng truyền thừa
+
+# DẪN NHẬP
+
+thường nói rằng tất cả các pháp hành trì phải được thực hiện theo giống phương cách ta hành trì pháp Bổn Sư Du Già. Hoàn toàn mở rộng lòng ra và giữ tâm sùng mộ tuyệt đối với một vị Thầy đã chứng ngộ là phương thức bảo đảm và nhanh chóng nhất để tiến tu.
+
+Patrul Rinpoche đã biểu lộ tầm quan trọng chủ yếu của vị Thầy tâm linh ngay trong tựa đề của quyển sách này, Kunzang Lamai Shelung, mà chúng tôi đã dịch thoát là Lời Vàng Của Thầy Tôi.
+
+Kunzang có nghĩa là “viên mãn mọi nơi” hay “luôn luôn viên mãn.” Từ này là tên tắt của Kuntuzangpo (Phạn ngữ: Samantabhadra), được biểu lộ qua hình tượng của một vị Phật trong sắc tướng trần trụi, màu xanh da trời đậm. Tuy nhiên biểu tượng này không tượng trưng cho một con người, mà chính là Phật-tánh, là sự thuần tịnh bất biến của tâm, là chân tánh nguyên sơ của vạn pháp. Thông thường thì chân tánh này bị che mờ và chính vị Thầy, người đã chứng ngộ chân tánh ấy, là người có thể dẫn dắt ta khám phá ra chân tánh ấy ở trong chúng ta, trong tất cả nét vẻ vinh quang không che đậy. Lạt Ma (lama) có nghĩa đen là: “tối thượng.” Đây là cách biểu lộ của tiếng Tây Tạng đối với từ Guru trong tiếng Ấn Độ. Cả hai từ này đã trở nên quá quen thuộc trong ngôn ngữ bình thường, nhưng như Patrul Rinpoche có giải thích, đối với chúng ta (là những hành giả) thì vị Thầy tâm linh giống như là Đức Phật hiện tiền. Ngài đem đến cho ta những truyền dạy của chư Phật trong quá khứ, là hiện thân của chư Phật trong hiện tại, và qua giáo lý của Ngài, Ngài cũng là suối nguồn của chư Phật trong tương lai. Patrul Rinpoche nói rằng trên một phương diện nào đó thì pháp Bổn Sư Du Già siêu việt hơn các pháp tu của hai giai đoạn phát triển và thành tựu, bởi pháp Bổn Sư Du Già trực tiếp mở ra con đường dẫn tới tuệ giác tối thượng nhờ vào năng lực gia hộ của vị Thầy.
+
+DẪN NHẬP
+
+# Lịch Sử Của Bản Dịch Này
+
+Người dân Tây Tạng đã giữ gìn nguyên vẹn tất cả mọi khía cạnh của Phật Giáo Ấn Độ từ thế kỷ thứ tám tới thế kỷ hai mươi. Tuy nhiên, đây không chỉ là sự bảo tồn các kho tàng linh hiển một cách khô cứng. Phật Giáo là mối quan tâm chính yếu của những tâm thức siêu việt nhất của Tây Tạng trong nhiều thế kỷ, sản sinh một nền văn học phi thường có tính chất triết học, thi ca, kinh viện, tạo bao nguồn cảm hứng, cũng như đã sản sinh ra một di sản kiến trúc đặc biệt, mỹ thuật và tráng lệ. Nhưng hơn tất cả, người Tây Tạng đã vận dụng giáo lý Đạo Phật cho mục đích chân thực, như một khí cụ để chuyển hoá tâm thức con người, và hàng ngàn hành giả, trong số đó có những vị thầy danh tiếng, cùng với những hành giả du già vô danh, đều đã thành tựu mục đích cuối cùng của họ [nghĩa là đạt được giải thoát].
+
+Ta có thể cho rằng những gì vinh quang vĩ đại nhất của Tây Tạng đã thuộc về quá khứ xa xăm, và những thế kỷ sau này là biểu hiện của một thời kỳ suy tàn. Nhưng hoàn toàn không phải là như thế. Trên thực tế, mỗi một thế kỷ (kể cả thế kỷ hiện tại) và mỗi một thế hệ đã góp phần đào tạo những bậc hành giả tâm linh phi thường. Ví dụ như thế kỷ mười chín đã đem đến một hình thức hồi sinh đặc biệt. Patrul Rinpoche là một thành viên trong phong trào rimé hay bất-bộ-phái (non-sectarian), được Ngài Jamyang Khyentse Wangpo, Jamgon Kongtrul và những vị khác đồng khởi xướng, nỗ lực phá vỡ những chướng ngại được dựng lên giữa những trường phái Phật Giáo bằng cách nghiên cứu và giảng dạy tất cả những trường phái này một cách bình đẳng không phân biệt. Tinh thần này vẫn còn tồn tại cho tới ngày hôm nay, điển hình là Đức Đạt Lai Lạt Ma, và Ngài Dilgo Khyentse quá cố, là bậc Hoá Thân của Ngài Jamyang Khyentse Wangpo.
+
+DẪN NHẬP
+
+Giống như Patrul Rinpoche, Dilgo Khyentse Rinpoche xuất thân từ miền đông Tây Tạng. Ngài trải qua hai mươi năm của đời mình trong thiền thất, thường là trong những điều kiện tột cùng giản dị. Ngài đã học tập với vô số những vị Đạo Sư, thậm chí khi còn trẻ Ngài đã gặp cả một vài vị trong số những đệ tử của chính Patrul Rinpoche. Ngài đã phải đương đầu với sự hủy diệt tàn bạo ở Tây Tạng trong thập niên năm mươi và sáu mươi của thế kỷ hai mươi này bằng cách làm việc cật lực không mệt mỏi để truy tìm, giữ gìn và in lại những văn bản bị thất lạc, thiết lập những cộng đồng tu viện lưu vong, và trên hết là giảng dạy và tạo nguồn cảm hứng cho những thế hệ mới. Ngài coi Patrul Rinpoche như tấm gương toàn bích của một hành giả Đại Viên Mãn (Dzogchen), và đã khuyến khích, trợ giúp cho các dịch giả của cuốn sách này, là tác phẩm mà Ngài coi là người dẫn đường tuyệt hảo cho các đệ tử đang bước đi trên con đường Phật Đạo.
+
+Bản dịch của chúng tôi xuất phát trực tiếp từ bên trong truyền thống này. Hiểu theo một nghĩa nào đó thì bản dịch này có một dòng truyền thừa riêng. Dudjom Rinpoche, Dilgo Khyentse Rinpoche, Kangyur Rinpoche, Nyoshul Rinpoche, và những vị lạt ma khác đã giảng dạy cho chúng tôi toàn bộ văn bản này qua hình thức khẩu truyền – và trong suốt quá trình dịch thuật, đã ban cho chúng tôi những chỉ dạy về những điểm khó hiểu trong quyển sách. Đây là những bậc trì giữ đã chứng ngộ Giáo Pháp của Patrul Rinpoche.
+
+Mặc dù việc trung thành với những từ ngữ chính xác của nguyên tác đáng được hưởng một sự kính trọng nào đó trong các hệ thống giảng dạy của Tây Tạng, nhưng chúng tôi đã nhận ra rằng những bản dịch như thế thường làm cho các ý niệm hoàn toàn sáng sủa và hợp lý trong tiếng Tây Tạng dường như trở nên tối tăm và thậm chí kỳ quái một cách không cần thiết trong Anh ngữ. Đặc biệt là đối với quyển sách này, một phương pháp chuyển dịch như thế không bao giờ có
+
+DẪN NHẬP
+
+thể làm sống dậy văn phong địa phương và tánh hài hước sống động phi thường của nguyên tác. Vì thế mặc dù chúng tôi cố gắng nhất quán những thuật ngữ trong bản dịch, nhưng chúng tôi đã nhắm tới việc phản ánh lại không chỉ từ ngữ, mà còn phản ánh cả không khí và văn phong (của nguyên tác) bằng cách diễn dịch mọi ý niệm bằng một thứ Anh ngữ tự nhiên, càng gần ngôn ngữ Tây Tạng càng tốt nhưng không phải trả cái giá là đánh mất đi sự trong sáng và trôi chảy của toàn thể bản dịch.
+
+Những giải thích ngắn gọn mà chúng tôi cảm thấy có thể mang lại lợi ích cho nhiều độc giả sẽ xuất hiện như các chú thích ở cuối trang (footnotes). Cũng có một số lớn chú thích ở cuối sách (endnotes) nhưng không nhất thiết là tất cả những chú thích này đều được hầu hết độc giả quan tâm đến. Tuy nhiên chúng tôi cảm thấy cần phải có bởi vì những chú thích này (endnotes) chứa đựng những bình giảng rất tuyệt vời từ những ghi chép của các vị đệ tử của Patrul Rinpoche, cùng với những diễn giảng về các điểm khó hiểu hơn đã được Dilgo Khyentse Rinpoche và những vị Thầy khác ban cho. Những chú thích này sẽ giúp độc giả tránh được một vài ngộ nhận thông thường về những quan điểm của Phật Giáo; và đối với các Phật tử hành giả trước đây đã có một ít hiểu biết về những quan điểm này thì những lời bình giảng này sẽ đem lại một kích thước khai phá phi thường cho quyển sách.
+
+[Hình: Patrul Rinpoche (1808 - 1887)]
+
+Patrul Rinpoche (1808 – 1887)
+
+# PHẬT GIÁO TÂY TẠNG
+## DẪN NHẬP TÓM TẮT
+
+Đức Phật Gautama (Cồ Đàm) sinh ở miền Bắc Ấn Độ vào thế kỷ thứ năm trước Công nguyên, là nam tử của một vị vua và được thân phụ nuôi dạy để kế thừa ngai vàng. Sự chào đời và thuở ban đầu của Ngài thật khác thường, và rõ ràng là ngay từ đầu, vị thái tử trẻ tuổi Siddharta (Tất Đạt Đa) đã có duyên tiền định để trở thành một bậc siêu phàm. Thuở thiếu thời của Ngài trải qua trong xa hoa ở chốn hoàng cung, ít phải lo nghĩ hay bận tâm, và Ngài thật tài ba xuất chúng trong mọi lãnh vực hoạt động vào thời đại của ngài, cả về học thuật lẫn thể thao.
+
+Tuy nhiên, chẳng bao lâu sau đó, Ngài bắt đầu hoài nghi về giá trị bền vững của đời sống thế tục của mình. Trốn thoát khỏi cung điện của vua cha, Ngài đi tìm một cuộc đời có ý nghĩa hơn, tu học với một số những vị Thầy được kính nể như những bậc sư phụ về triết học và thiền định. Lòng cầu tìm chân lý của Ngài chân thành tới nỗi Ngài nhanh chóng đạt được những thành tựu thiền định tối thượng khiến những vị Thầy này không thể dạy Ngài thêm được gì nữa, nhưng Ngài vẫn chưa thoả mãn. Mặc dù dốc lòng tu hành khổ hạnh qua bao năm tháng, Ngài nhận ra rằng không có điều nào trong những hệ thống này có thể giúp Ngài vượt lên trên những giới hạn của một thế giới hữu vi là một thế giới hiện hữu dựa trên những yếu tố duyên hợp. Ngài quyết định một mình tiếp tục công cuộc tìm kiếm, và bằng nỗ lực của riêng mình, cuối cùng đã đạt được Giác Ngộ ở Bồ Đề Đạo Tràng (Bodh Gaya) ngày nay.
+
+Điều Ngài khám phá ra thâm diệu và bao la đến nỗi lúc đầu Ngài ngần ngại phát lộ những khám phá đó cho người
+
+# LỊCH SỬ PHẬT GIÁO TÂY TẠNG
+
+khác, sợ rằng không ai có thể hiểu được. Tuy nhiên sau đó Ngài bắt đầu giảng dạy, và nhanh chóng lôi cuốn một số đông đệ tử đi theo Ngài, nhiều người trong số đó trở thành những bậc đại thành tựu giả về thiền định.
+
+Sự đa dạng của những người tìm tới Đức Phật để thọ nhận giáo pháp và thực hành con đường của Ngài đòi hỏi một cách thức giảng dạy cũng đa dạng y như thế, và những giáo huấn Ngài giảng dạy cũng dị biệt, tương ứng với trình độ hiểu biết và căn cơ của những cá nhân hay nhóm người dị biệt này. Như vậy, những giáo lý mà Đức Phật đã giảng dạy trong cuộc đời của Ngài có thể được phân chia một cách tổng quát thành ba loại – (1) những giáo lý cuối cùng được tập hợp trong Kinh điển Pali và trở thành nền tảng cho Trường Phái Theravāda (Nguyên Thủy), nhấn mạnh vào giới luật và đạo đức; (2) giáo lý Mahāyāna, hay Đại Thừa, chú trọng vào lòng bi mẫn và quan hoài tới người khác; và (3) giáo lý của Kim Cương Thừa hay Mật Thừa, sử dụng vô số phương pháp thiện xảo khác nhau để dẫn tới kinh nghiệm chứng ngộ sâu xa trong một thời gian tương đối ngắn. Giáo lý Kim Cương Thừa được chính Đức Phật truyền dạy chỉ trong một phạm vi giới hạn, nhưng Ngài đã tiên đoán rằng giáo pháp ấy sẽ được những bậc giác ngộ khác xuất hiện sau Ngài truyền bá trong thế giới. Đây là lý do tại sao Kim Cương Thừa chính là một giáo lý của Đạo Phật không khác gì hai trường phái kia, mặc dù Kim Cương Thừa không được giảng dạy rộng rãi trong thời Đức Phật còn tại thế.
+
+Sau khi Đức Phật nhập Niết Bàn, những dị biệt giữa các giáo lý khác nhau mà Ngài đã giảng dạy càng trở nên rõ rệt hơn khi những trường phái và truyền thống dị biệt hình thành. Chẳng hạn như truyền thống Theravada hiện nay đã khởi đầu với một nhóm đệ tử của Đức Phật, sau này được phân ra thành mười tám trường phái. Tương tự như vậy, Đại Thừa được đa dạng hóa thành một số truyền thống, mỗi truyền thống có những dị biệt triết học vi tế đặc thù. Kim
+
+# LỊCH SỬ PHẬT GIÁO TÂY TẠNG
+
+Cương Thừa cũng thế, trong đó có vô số những pháp môn thực hành khác nhau; nhiều pháp môn trong số đó đã chỉ được truyền dạy lại cho một người đệ tử duy nhất.
+
+Trong những thế kỷ tiếp theo sau đó, các truyền thống dị biệt này dần dần được truyền bá khắp xứ Ấn Độ và tiếp tục truyền xa hơn nữa, cho tới khi Phật Giáo đã trải rộng tầm ảnh hưởng đến Trung Á, Đông Á và Nam Á, thậm chí đến tận Nam Dương (Indonesia). Một vài truyền thống đã hoàn toàn bị thất truyền, trong khi có những truyền thống khác lại hợp nhất dưới một hình thức mới mẻ hơn của Phật Giáo. Vào thế kỷ mười ba, sự xuất hiện của Hồi Giáo và những biến động chính trị trong xã hội Ấn Độ đã cuốn dạt Phật Pháp ra khỏi xứ sở đã sản sinh ra Đạo Phật, và chính giáo lý này lại được bảo tồn ở những quốc gia khác – Theravāda ở Tích Lan, Miến Điện, Thái Lan và Cam Bốt, Đại Thừa ở Trung Hoa, Nhật Bản, Hàn Quốc và Đông Dương, và Kim Cương Thừa chủ yếu là ở Tây Tạng. Tây Tạng đã may mắn bội phần. Tây Tạng không chỉ là một trong số ít quốc gia trong đó Kim Cương Thừa tiếp tục được hành trì mà Tây Tạng cũng là quốc gia duy nhất trong đó toàn bộ các loại giáo lý từ cả ba truyền thống của Đạo Phật đã được truyền dạy và bảo tồn.
+
+Trải qua nhiều thế kỷ, rất nhiều những kết hợp của các giáo lý của Đức Phật đã được trao truyền từ đạo sư xuống tới đệ tử trong nhiều dòng truyền thừa bao gồm bốn trường phái chính (Nyingma, Sakya, Kagyu, Gelug) của Phật Giáo Tây Tạng mà chúng ta biết tới ngày nay. Các thành viên của những dòng truyền thừa này không chỉ đơn giản là những học giả uyên bác nghiên cứu các giáo lý mà họ nhận lãnh, nhưng là những bậc đã đắc quả, đã từng hành trì và thông suốt những gì đã được truyền dạy cho họ, và như thế có đầy đủ phẩm tính để truyền thụ giáo lý cho các đệ tử của mình.
+
+LỊCH SỬ PHẬT GIÁO TÂY TẠNG
+
+Trong bốn trường phái này, phái Nyingma (tên xuất phát từ tiếng Tây Tạng có nghĩa là “cổ”) tuân theo những truyền thống được giới thiệu trước tiên vào thế kỷ thứ tám bởi các Đạo Sư Ấn Độ như Sāntaraksita (Tịch Hộ), Vimalamitra (Tì Ma La Mật Đa), và Padmasambhava (Liên Hoa Sanh) là bậc Đạo sư mà những người Tây Tạng gọi bằng Guru Rinpoche, “Đạo Sư Tôn Quý,” và những truyền thống này được tiếp tục truyền xuống qua những vị Đạo sư Tây Tạng đã chứng ngộ viên mãn chẳng hạn như Longchenpa, Jigme Lingpa và Jamyang Khyentse Wangpo. Những dòng truyền thừa này còn được truyền dạy xuống qua ba dòng chính yếu khác – dòng Kagyupa, Sakyapa và Gelugpa – và đã được đưa vào Tây Tạng sau thế kỷ thứ mười, tiếp theo sau thời điểm mà một vị vua phi-Phật Giáo đã có những nỗ lực hủy diệt Giáo Pháp ở Tây Tạng. Giống như những hình thức dị biệt của Phật Giáo tại nhiều nơi khác nhau ở Á Châu đã được kế tục và biến thái để đáp ứng nhu cầu của những con người và văn hoá khác nhau thì mỗi một trường phái trong bốn trường phái [của Kim Cương Thừa tại Tây Tạng] đều có nguồn gốc hình thành và phát triển trong những hoàn cảnh hết sức khác biệt gồm có lịch sử, địa dư và ngay cả chính trị – những khác biệt về lịch sử, địa dư và chính trị này được dùng như một lăng kính để phân chia ánh sáng của giáo lý của Đức Phật thành một quang phổ nhiều màu của những truyền thống và dòng truyền thừa khác nhau. (Điều đáng buồn là có một số Phật tử có khuynh hướng quên đi rằng ánh sáng này có chung một nguồn mạch, và như trong các tôn giáo lớn khác của thế giới, sự phân chia bè phái đôi khi đã che lấp mất thông điệp chân chính yếu của Phật Giáo.)
+
+Những giáo lý được bảo tồn trong các dòng truyền thừa của Phật Giáo Tây Tạng được chứa đựng trong khối Kinh văn linh hiển khổng lồ của truyền thống đó. *Kangyur* (nghĩa: Lời Đức Phật), gồm trên một trăm bộ, bao gồm những Kinh điển
+
+# LỊCH SỬ PHẬT GIÁO TÂY TẠNG
+
+có nguồn gốc từ thời của Đức Phật, và được phân ra thành (1) Luật Tạng (Vinaya), đề cập tới đạo đức học và giới luật, (2) Kinh Tạng (Sūtras), là tạng liên quan tới thiền định, và (3) Luận Tạng (Abhidharma), bao gồm triết học Phật Giáo. Có nhiều luận giải viết về những kinh tạng này, cũng như viết về những tác phẩm Phật Giáo chính yếu khác; những bộ luận giải này đã được biên soạn và sau đó đã tạo thành hơn hai trăm pho sách của *Tangyur* (nghĩa: Dịch Các Luận Giải). *Kangyur* lẫn *Tangyur* được dịch qua tiếng Tây Tạng chủ yếu là từ tiếng Phạn, tạo thành Đại Tạng Kinh Điển Phật Giáo Tây Tạng (Tibetan Buddhist Canon). Thêm vào số này còn có một khối lượng khổng lồ những trước tác khác gồm những giáo lý từ Ấn Độ được đưa vào Tây Tạng từ thế kỷ thứ tám trở đi (kể cả nhiều giáo lý Kim Cương Thừa), và vô số những bình giảng về cả ba Thừa (Thanh Văn Thừa, Đại Thừa và Kim Cương Thừa) do các Đạo Sư Tây Tạng biên soạn.
+
+Tuy nhiên khối lượng giáo lý khổng lồ được tìm thấy trong Phật Giáo Tây Tạng có thể được tóm tắt trong Tứ Diệu Đế là giáo lý được Đức Phật thuyết giảng không lâu sau khi giác ngộ. Chân lý thứ nhất (Khổ Đế) chỉ ra rằng thế giới hữu vi của chúng ta (trạng thái hiện hữu dựa vào điều kiện nhân duyên) không bao giờ có thể đưa chúng ta thoát khỏi trạng thái đau khổ, không bao giờ thực sự đem lại sự mãn nguyện. Bất kỳ hạnh phúc nào ta có chỉ là nhất thời và vào một thời điểm thích hợp nào đó sẽ đưa tới đau khổ. Lý do của Khổ Đế, như đã được giảng dạy trong chân lý thứ hai (Tập Đế), là bất kỳ hành động nào ta có thể làm, nói, hoặc suy nghĩ cũng đều đem đến một kết quả mà ta sẽ phải kinh qua trong đời này hoặc trong một đời tương lai. Quả thật, tái sinh là kết quả của những hành vi của ta, và ta được tái sinh trong những điều kiện như thế nào thì những điều kiện này cũng đều lệ thuộc trực tiếp vào những hành vi mà ta đã từng làm trong những đời trước, và đặc biệt là lệ thuộc trực tiếp vào những động cơ tác
+
+# LỊCH SỬ PHẬT GIÁO TÂY TẠNG
+
+ý và thái độ tương ứng. Điều này (nguyên lý nhân quả) giải thích lý do tại sao một số người lại nghèo khổ suốt đời mặc dù họ hết sức nỗ lực để trở nên giàu có, trong khi những người khác có đủ mọi thứ họ mong muốn mặc dù chẳng phải làm gì. Chân lý thứ hai tiếp tục chỉ cho ta thấy rằng động lực phía sau các hành vi của chúng ta chính thực là những cảm xúc tiêu cực, chẳng hạn như thù ghét, tham luyến, kiêu ngạo, ganh tị và, đặc biệt là vô minh, gốc rễ của tất cả mọi thứ khác. Vô minh không chỉ có nghĩa là thiếu trí tuệ trong cách chúng ta hành xử như thế nào, mà còn là sự vô minh căn bản nằm đằng sau cung cách chúng ta nhận thức về toàn thể thế giới hiện hữu này, và sự vô minh ấy thường xuyên bị mắc kẹt trong tư tưởng bám chấp vào một ý niệm bản ngã của riêng ta, và vào ý niệm của cái ngã của thế giới bên ngoài, như thể bản thân ta và thế giới ấy bền vững có thật và bất biến trường tồn. Bởi vì những hành vi của chúng ta không bao giờ chấm dứt, nên việc ta phải tái sinh liên tục trong thế giới hữu vi này cũng chẳng thể nào chấm dứt được. Chỉ khi nào ta ngừng hành động do vô minh lôi kéo thì vòng quay này mới có thể dứt đoạn, giống như chân lý thứ ba (Diệt Đế) đã chỉ cho ta thấy, và giảng dạy về sự chấm dứt đau khổ và giải thoát khỏi thế giới hữu vi (giải thoát khỏi trạng thái hiện hữu dựa vào điều kiện nhân duyên).
+
+Chân lý thứ tư (Đạo Đế) giảng dạy cách thức (hay con đường) giúp ta thành tựu việc chấm dứt khổ đau và giải thoát khỏi thế giới hữu vi do nhân duyên kết hợp. Điều này thật sự có nghĩa là, một mặt bao gồm công phu tích lũy các thiện hạnh, chẳng hạn như tôn kính và cúng dường Phật, Pháp (giáo lý của Ngài), và Tăng đoàn (cộng đồng các hành giả), thực hành hạnh bố thí, v.v., và một mặt khác, bao gồm công phu thực hành thiền (thiền chỉ và thiền quán), là những gì có thể trực tiếp tẩy trừ gốc rễ vô minh, nguyên nhân của đau khổ. Một hành giả đi theo con đường này với ý hướng chỉ giải thoát
+
+# LỊCH SỬ PHẬT GIÁO TÂY TẠNG
+
+cho bản thân mình có thể đạt được mức độ chứng ngộ thâm sâu và trở thành một bậc A La Hán (bậc chiến thắng những cảm xúc tiêu cực). Nhưng đây không phải là giác ngộ viên mãn (hay toàn giác). Chỉ có những bậc hành giả với tâm nguyện tốt lành muốn tất cả chúng sinh đều đạt được giác ngộ tối thượng, những bậc ấy mới có thể đạt được Phật Quả. Những hành giả đi theo con đường Đại Thừa dựa trên lòng bi mẫn như thế được biết đến như là các vị Bồ Tát. Hơn nữa, nếu vị Bồ Tát ấy còn hành trì các giáo pháp thâm diệu và thiện xảo của Kim Cương Thừa thì vị ấy có thể đạt được giác ngộ viên mãn trong một thời gian rất ngắn.
+
+Khi còn tại thế, Đức Phật đã thành lập một cộng đồng các tăng và ni, và các vị ấy đã đóng vai trò nòng cốt trong việc hộ trì và tiếp nối giáo pháp. Tuy nhiên, điều này không loại trừ các cư sĩ nam và nữ là những đệ tử nghiêm cẩn trên con đường tu. Cộng đồng các cư sĩ này được phản ảnh ở Tây Tạng là nơi mà từ thế kỷ thứ tám trở về sau, cộng đồng các hành giả bao gồm hai giáo đoàn hỗ trợ lẫn nhau: một mặt, là một cộng đồng tu sĩ rất đông đảo, và một mặt khác là một truyền thống vững mạnh gồm các hành giả cư sĩ, là các hành giả du già hay các gia chủ, nhiều vị trong số đó có vẻ như sống một cuộc đời bình thường trong khi theo đuổi một con đường tâm linh thâm diệu và cuối cùng đã đạt được giác ngộ viên mãn.* Theo truyền thống Nyingmapa, việc thọ giới xuất gia được coi là một phương tiện hỗ trợ rất lợi ích cho công phu hành trì, nhưng đó không có nghĩa là phương cách duy nhất để tiến bộ trong thiền định. Điều này đã khích lệ cho những người ao ước muốn đưa giáo lý vào thực hành nhưng không thể tự đặt mình trong một nếp sống tu viện.
+
+* ‘Cộng đồng những người độc thân khoác y đỏ’ và ‘cộng đồng những người áo trắng với bện tóc dài’.
+
+# LỊCH SỬ PHẬT GIÁO TÂY TẠNG
+
+Trước đây Albert Einstein đã lưu ý rằng Phật Giáo là truyền thống ông cảm thấy đáp ứng được những tiêu chuẩn mà ông cho là cần thiết cho một con đường tâm linh thích hợp với thế kỷ hai mươi. Ngày nay các vật lý gia hiện đại đang đưa ra những kết luận đến gần với giáo lý mà Đức Phật đã giảng dạy hai ngàn năm trăm năm trước. Trong khi những hấp lực của chủ trương duy vật có một ảnh hưởng bất lợi cho đời sống tâm linh cổ truyền ở khắp Châu Á, thì có một số đông những người Tây phương, càng lúc càng gia tăng, đang tỏ ra quan tâm đến những triển vọng tốt lành mà việc nghiên cứu và thực hành theo Phật Giáo có thể đem lại cho họ.
+
+Khi sự tương tục của những dòng truyền thừa Phật Giáo bị đe dọa bởi các biến động chính trị ở Tây Tạng trong những năm bắt đầu từ 1950 trở đi, nhiều vị Lạt Ma với đầy đủ phẩm hạnh - là những vị không chỉ thọ nhận những dòng truyền dạy đúng đắn từ các vị Thầy của mình, mà đã hoàn toàn thấu triệt và chứng ngộ các giáo lý qua công phu nghiên cứu và thiền định, các vị đã mưu cầu việc bảo tồn những giáo lý này bằng cách đưa những giáo lý ấy sang Ấn Độ. Vào cùng thời điểm đó, một số du khách Tây phương tới Ấn Độ bắt đầu tỏ vẻ quan tâm tới các Lạt Ma và tới di sản tâm linh của các Ngài. Do bởi Đức Liên Hoa Sanh (Guru Rinpoche) đã có nói, trong các giáo lý Đạo Phật, Kim Cương Thừa sẽ chứng tỏ (cho thấy tiềm năng) đặc biệt mãnh liệt và hữu hiệu cho những người sống trong một thời đại mà những cảm xúc ô nhiễm lại mạnh mẽ hơn bao giờ hết, nên nhiều vị Thầy đã cảm thấy việc đưa những giáo lý này sang Tây phương là một việc làm vô cùng thích hợp. Kim Cương Thừa đặc biệt mềm mỏng uyển chuyển và thích ứng được với những loại tình cảnh mà con người thời đại tự đâm đầu vào, và giờ đây giáo lý ấy đang được giảng dạy cho đủ loại người trên khắp thế giới mà vẫn không đánh mất đi hình thức cổ truyền.
+
+TIỂU SỬ PATRUL RINPOCHE
+
+# TIỂU SỬ CỦA ĐẠO SƯ VĨ ĐẠI
+## PATRUL ^1 JIGME CHOKYI WANGPO
+(1808 – 1887)
+
+Patrul Rinpoche Ogyen Jigme Lingpa Chokyi Wangpo là hóa thân về ngữ của Đức Jigme Lingpa. Ngài là một trong những Đạo Sư và tác giả Nyingma vĩ đại mà cuộc đời và các tác phẩm của ngài được ngay cả những học giả của những trường phái khác trích dẫn. Mặc dù là một trong những học giả và bậc lão thông vĩ đại nhất của phái Nyingma, Ngài đã sống như một ẩn sĩ khiêm tốn và giản dị nhất. Ngài nói năng thẳng thắn và lớn tiếng, nhưng mỗi lời Ngài nói ra đều là ngôn từ của chân lý, trí tuệ và của một tấm lòng quan hoài.
+
+Ngài sinh trong bộ tộc Getse Kongma thuộc dòng Mukpo Dong ở Karchung Ko-o trong Thung lũng Dzachukha vào năm Thìn Thổ thuộc Rabjung ^2 thứ mười bốn (1808). Thân phụ Ngài là Lhawang thuộc nhóm Gyalthok, và thân mẫu là Dolma thuộc nhóm Tromza. Sau khi sinh ra không bao lâu, Ngài cố gắng nói “OM,” nhưng không rõ ràng. Nhưng vào ngày thứ năm, Ngài nói “OM MANI PADME HUM” thật rõ. Các mẫu tự của câu minh chú “OM MANI PADME HUM” cũng được nhìn thấy nơi cổ, và một chữ “HRIH” hiện trên lưỡi Ngài.
+
+Mặc dù là một tulku (tái sinh) của Jigme Lingpa, Ngài còn được ngài Dola Jigme Kalzang xác nhận là tulku (hóa thân)
+
+^1 Trong nguyên tác, Tulku Thondup, tác giả của bản tiểu sử này đã viết là Paltrul (thay vì Patrul như trong quyển “The Words of My Perfect Teacher - Lời Vàng Của Thầy Tôi”). Sở dĩ có sự khác biệt này là do cách phát âm khác nhau của các địa phương ở Tây Tạng. Chúng tôi xin mạn phép viết là Patrul để thống nhất với bản dịch quyển “Lời Vàng của Thầy Tôi”.
+
+^2 Rabjung: chu kỳ 60 năm. Rabjung thứ nhất bắt đầu từ năm 1027 sau Công nguyên.
+
+TIỂU SỬ PATRUL RINPOCHE
+
+của Palge Samten Phuntsok. Khi chứng thực (phê chuẩn) sự xác nhận này, Dodrupchen đệ nhất nói với Jigme Kalzang rằng: “Ta phó chúc cho cậu bé và trao truyền giáo lý Longchen Nyingthig viên mãn với pháp danh Ogyen Jigme Chokyi Wangpo.” Chẳng bao lâu, Palge Konchok, một người cháu của Palge cuối cùng, đem Patrul tới Palge Latrang, trú xứ của Palge cuối cùng.
+
+Patrul đã học tập các giáo lý Kinh điển và Mật điển (tantra) với nhiều Đạo sư, trong đó có các Ngài Dola Jigme Kalzang, Jigme Ngotsar, Gyalse Zhenphen Thaye, Sonam Palge, và Zhechen Thutop Namgyal. Ngài Sengtruk Pema Tashi ở tu viện Dzogchen đã cho ngài thọ giới xuất gia.
+
+Tuy nhiên, các vị Thầy gốc (Bổn Sư) của Ngài là Jigme Gyalwe Nyuku và Do Khyentse. Với Jigme Gyalwe Nyuku, Ngài đã học tập từ pháp ngondro, là các pháp tu dự bị, cho tới những giáo lý tsalung và Dzogpa Chenpo (Đại Viên mãn). Từ Gyalwe Nyuku, Ngài thọ nhận các giáo lý dự bị ngondro của Longchen Nyingthig hai mươi lăm lần, và đã hành trì tu tập các giáo lý này. Sau này Ngài biên soạn những lời dạy của vị Thầy của Ngài về ngondro (pháp tu dự bị) qua bản văn nổi tiếng Kunzang Lamei Zhalung (“Những Lời Dạy Từ Kim Khẩu Của Lạt Ma Phổ Hiển” – hay là “Lời Vàng Của Thầy Tôi”).
+
+Một hôm, Do Khyentse, vị Thầy lang thang trong khi luyện tập những pháp tu bí truyền, thành lình xuất hiện trước lều của Patrul. Do Khyentse la lên: “Ồ Palge! Nếu mi can đảm thì bước ra đây!” Khi Patrul bước ra một cách cung kính, Do Khyentse túm lấy tóc Ngài, ném Ngài trên mặt đất, và lôi Ngài xềnh xệch. Lúc đó, Patrul ngửi thấy mùi rượu trong hơi thở của Do Khyentse và nghĩ: “Đức Phật đã giảng dạy về những nguy hiểm của rượu, vậy mà ngay cả một bậc lão thông như Ngài cũng có thể say rượu như thế này.” Ngay lúc đó, Do Khyentse buông Patrul ra và la lớn: “Chao ôi! Người thông tuệ như ông mà cũng có thể có những tư tưởng xấu xa như thế! Đồ Chó Giả!” Do
+
+TI Ủ SỬ PATRUL RINPOCHE
+
+Khyentse đánh vào mặt ngài, giơ ngón tay út ra (một cử chỉ nhục mạ), và ra đi. Patrul nhận ra rằng: “Ồ, ta đã sai lầm rồi. Ngài đang luyện tập một pháp tu bí truyền để giới thiệu cho ta bản tánh giác ngộ của ta.” Patrul bị giằng xé bởi hai cảm xúc mâu thuẫn: đau buồn về những tư tưởng tiêu cực của chính mình và sửng sốt trước sự thấu thị của Do Khyentse. Ngồi bật dậy, Ngài lập tức thiền định về bản tánh giác ngộ của tâm, và một kinh nghiệm tỉnh giác nội tại, trong trẻo, rỗng rang như bầu trời đã thức giấc trong ngài. Do đó, kinh nghiệm chứng ngộ trong trẻo và toàn triệt như mặt trời mọc đã thức dậy trong Ngài, siêu vượt sự chứng ngộ như bình minh mà Ngài đã nhận được nhờ Gyalwe Nyuku khai mở. Kể từ lúc đó, Ngài giữ danh hiệu “Chó Già” với vẻ đùa bỡn như cái tên bí truyền hay thiêng liêng của ngài.
+
+Khi Patrul khoảng hai mươi tuổi, vị tổng quản lý của Palge Latrang là Palge Konchok qua đời. Patrul đóng cửa trụ xứ Palge và bắt đầu sống như một ẩn sĩ lang thang.
+
+Tại tu viện Dzogchen, Ngài nhận những trao truyền Nyingthig Yabzhi và Longchen Nyingthig từ Dzogchen Rinpoche đệ tử và Gyalse Zhenphen Thaye. Sau đó Ngài nhập thất dài hạn tại động Shinje (động Yamantaka hay Tử Thần) và động Tsering gần tu viện Dzogchen, nơi có lần Dodrupchen đã thực hiện một cuộc nhập thất dài hạn.
+
+Khoảng năm 1851, từ đại học giả Gyawa Do-ngak Gyatso, một đệ tử của Patrul và Zhapkar Tsokruk Rangtrol (1781-1851), Patrul được nghe những chi tiết về cuộc đời đầy cảm hứng của Zhapkar. Khi Ngài tới Golok trên đường đi gặp Zhapkar, Ngài nghe hung tin rằng Zhapkar vừa mất. Ngài quay trở lại và đến Yarlung Pemako, trụ xứ của Dodrupchen. Tại Yarlung, Ngài kết giao với Gyalse Zhenphen Thaye (1800-?), vị Thầy này đang sống ở đó như vị nhiếp chính của Dodrupchen quá cố và đang bắt đầu một khóa giảng và khoá Phật thất hàng năm kéo dài bốn mươi lăm ngày về Guhyagarbha-mayajala-
+
+TIỂU SỬ PATRUL RINPOCHE
+
+tantra (Bí Mật Tập Hội). Patrul nhận giáo lý Guhyagarbha-tantra từ Gyalse và làm trợ giảng cho vị Thầy này trong năm đầu tiên. Sau đó bản thân Ngài đảm nhiệm những khóa giảng hàng năm trong hai năm nữa.
+Ngài đi khắp các thung lũng Ser, Do, Mar, và Dzika và nhiều lần ban các giáo lý về Bodhicharyavatara (Nhập Bồ Tát Hạnh) và truyền cảm hứng cho toàn bộ dân chúng trì tụng OM MANI PADME HUM. Trong những vùng đó, Ngài rất thành công trong việc bãi bỏ hệ thống phục vụ thịt thà cho các Lạt Ma khi họ tới cử hành các buổi lễ. Ngài tuyên bố các luật lệ chống lại việc trộm cắp và săn bắn. Ngài đã mang Phật giáo đến với cuộc sống của mọi người và tới mọi nhà, khiến cho Phật Pháp không bị giới hạn trong giới tu sĩ hay các tu viện và gompa (tu viện hay ẩn thất).
+Ngài thăm viếng tu viện Shukchung, và sau đó trong một thời gian dài Ngài ở Shukchen Tago, trụ xứ chính thức của Dodrupchen đệ nhất. Mặc dù Dodrupchen đã bỏ trụ xứ này khoảng nửa thế kỷ trước nhưng nơi đây vẫn được dùng như một ẩn thất. Tại đây Ngài tụng toàn bộ Kanjur (Kinh tạng) ba lần và học thuộc lòng nhiều bộ Kinh.
+Sau đó Ngài sống dưới một gốc cây tại Ari Nak (còn được gọi là Dhichung Phuk) một thời gian dài. Đó là một bãi đất cao và trống giữa một cánh rừng rậm. Chưa từng có ai tới đó, và những người duy nhất mà thỉnh thoảng người ta có thể nhìn thấy là những lữ khách ở bên kia thung lũng Do, cách bên kia sông Do khoảng nửa dặm. Rừng Ari trên bờ sông Do ở nửa đường giữa Shukchen Tago và tu viện Dodrupchen hiện tại.
+Trước tiên, Patrul và Nyoshul Lungtok, người sống gần Patrul và học với Ngài trong hai mươi tám năm, sống đơn độc tại rừng Ari trong sáu tháng. Một túi tsampa nhỏ làm lương thực, y phục khoác trên người, và đôi ba quyển sách là những vật sở hữu duy nhất của các ngài. Vào giữa trưa họ họp lại và dùng một ít tsampa. Sau đó họ buộc miệng túi tsampa vào một gốc
+
+TI ẺU SỬ PATRUL RINPOCHE
+
+cây và để nó ở đó cho tới ngày hôm sau. Sau đó, Patrul giảng cho Lungtok đôi câu kệ trong Bodhicharyavatara (Nhập Bồ Tát Hạnh). Rồi khoác mảnh vải trắng rách rưới là y phục duy nhất của Ngài, với một chiếc gậy trong tay, Patrul biến mất vào rừng, nói to, Ha! Ha! Ha! như một pháp tu thiền định. Buổi trưa hôm sau họ lại cùng nhau tụ họp và làm những việc tương tự.
+
+Chẳng bao lâu, nhiều đệ tử đến rừng Ari, và Patrul bắt đầu giảng dạy Semnyi Ngalso, Yonten Dzo và những giáo lý khác. Patrul Rinpoche ban giáo lý và sau đó các đệ tử thiền định về các giáo lý ấy ở trong rừng. Bởi không chú tâm nhiều vào việc tổ chức cuộc sống nên họ có rất ít thực phẩm để dùng. Mặc dù ở trong rừng rậm nhưng cũng không có rau trái có thể ăn được. Loại trà họ uống rất đặc và ngon khi pha lần đầu với lá trà tươi; nhưng sau đó họ cứ đổ thêm nước vào trà cũ khiến trà càng lúc càng lạt đi mất màu. Họ đùa bỡn về độ đậm lạt khác nhau của trà, gọi đó là trà “ba thân.” Trà đặc là trà của Hóa Thân phức tạp, trà lạt là trà của Báo Thân mộc mạc, và trà vô vị là trà của Pháp Thân mang tánh không rỗng rang. Patrul nhận ra rằng tài sản và những thuận duyên, chẳng hạn thực phẩm ê hề, y phục hảo hạng, chỗ ở tiện nghi, những lời tán tụng và tiếng tăm là những chướng ngại hơn là sự hỗ trợ cho tiến bộ tâm linh. Ngài viết:
+
+Đau khổ thì tốt và hạnh phúc thì không tốt.
+Hạnh phúc làm năm độc của dục vọng thêm lẫy lừng.
+Đau khổ khiến ác nghiệp tích lũy trong quá khứ bị cạn kiệt.
+Đau khổ là năng lực gia trì của Lạt Ma.
+Chỉ trích thì tốt và tán tụng thì không tốt.
+Nếu tôi được tán tụng, tôi sẽ phình lớn sự kiêu mạn.
+Nếu tôi bị chỉ trích, lỗi lầm của tôi sẽ được phơi bày.
+Nghèo khó thì tốt và thịnh vượng thì không tốt.
+
+TI ỂU SỬ PATRUL RINPOCHE
+
+Thịnh vượng tạo thêm những thống khổ ghê gớm của việc mưu sinh và duy trì nó. Nghèo khó mang lại sự dâng hiến và thành tựu Thánh Pháp.
+
+Sau đó Patrul đi tới tu viện Dzamthang, một trung tâm vĩ đại của học phái Jonang. Ở đó Ngài thuyết giảng về Uttaratantra (Đại Thừa Tối Thượng Mật điển) dựa trên những giải thích của Kunkhyen Dolpo. Tại Minyak Ngài gặp Dra Geshe Tsultrim Namgyal, một học giả vĩ đại phái Geluk, người rất kinh ngạc trước sự uyên bác của Patrul. Tại tu viện Gyaphak, Ngài ban các quán đảnh và giáo lý Longchen Nyingthig viên mãn, là giáo lý Ngài hiếm khi truyền dạy. Tại Golok, Ngài điều phục những kẻ trộm cướp phóng túng và những thợ săn hung ác bằng năng lực của sự hiện diện và ngôn từ phù hợp lẽ phải của ngài. Tại Marung Ngài dạy dân chúng nhắc lại ngôn từ của lòng bi mẫn OM MANI PADME HUM, bởi thậm chí họ không biết đọc câu minh chú đó ra sao. Sau đó Ngài trở về rừng Ati trong thung lũng Do và ở đó một thời gian.
+
+Năm 1856/57 Patrul nghe nói là từ Tarsedo, Do Khyentse đã đến núi Yutse ở Golok. Patrul tới đó sau nhiều ngày du hành để gặp Do Khyentse. Patrul khẩn cầu Đức Do Khyentse ban cho Ngài quán đảnh Yumka Dechen Gyalmo của Longchen Nyingthig. Do Khyentse nói: “Ta đã giữ nó bí mật trong nhiều năm, nhưng bây giờ ta sẽ ban quán đảnh đó cho con,” và hết sức hoan hỉ, Do Khyentse truyền quán đảnh cho Ngài. Trong số nhiều tiên tri mà Do Khyentse đã ban, có một tiên tri nói rằng Patrul sẽ sống đến tám mươi tuổi. Sau đó Do Khyentse, Dodrupchen đệ nhị và Patrul cùng cử hành một lễ đốt hương (sang ceremony); điều này trở thành một dấu hiệu cho thấy các Ngài sẽ tái sinh làm anh em ruột. Patrul trở về thung lũng Do và ban giáo lý về Bodhicharyavatara ở nhiều nơi.
+
+TIỀU SỬ PATRUL RINPOCHE
+
+Sau khi sống khoảng mười năm quanh các thung lũng Do và Ser, quanh các trụ xứ của Dodrupchen, Patrul trở về tu viện Dzogchen. Tại các ẩn thất Padme Thang, Nakchung, và học viện Shrisimha của tu viện Dzogchen, ngài giảng dạy Bodhicharyavatara (Nhập Bồ Tát Hạnh), Abhisamayalamkara (Hiện Quán Trang nghiêm), Madyamakavatara (Nhập Trung luận), Mahayanasutralamkara (Đại thừa Trang nghiêm Kinh luận), Abhidharmakosha (A tỳ đạt ma Câu xá luận), Guhyagarbha-mayajala (Bí Mật Tập Hội), Yonten Dzo (Kho Thiện Đức), Domsum Namnge (Sự Xác quyết của Ba Thừa), và nhiều bản văn khác trong nhiều năm. Ngài hành hương đến Kathok và giảng Bodhicharyavatara. Ngài tiếp đón Terton Chogyur Lingpa ở tu viện Dzogchen và thọ nhận những giáo pháp được trao truyền.
+
+Cuối cùng, Ngài trở về Dzachukha, quê hương của Ngài. Ngài viếng thăm hầu hết tu viện và ẩn thất trong thung lũng Dzachukha, đặc biệt là các ẩn thất Gekong và Changma, và giảng Bodhicharyavatara và những bản văn khác của triết học Đại thừa. Nhưng trong hầu hết phần đời còn lại của Ngài, Ngài sống quanh Dzagya Gon, trụ xứ của bổn sư Gyalwe Nyuku của Ngài, nơi di cốt của Gyalwe Nyuku được giữ gìn trong một bảo tháp. Tại Dzagya, Ngài thiết lập một khóa giảng và Phật thất Bodhicharyavatara hàng năm kéo dài ba tháng, và một khóa giảng và Phật thất về Cõi Tịnh Độ của Đức Phật Vô lượng Quang A Di Đà trong một tuần lễ. Mỗi lần Ngài đi vào điện thờ di cốt của vị Thầy của Ngài, Ngài luôn luôn tụng lớn tiếng những lời ước nguyện sau:
+
+Trong chuỗi liên tục tất cả các mọi cuộc đời của chúng con, nguyện không bao giờ chúng con bị ảnh hưởng bởi mọi ác hữu. Trong chuỗi liên tục tất cả mọi cuộc đời của chúng con, nguyện không bao giờ chúng con xâm phạm ngay cả một sợi tóc của người khác. Trong chuỗi liên tục tất cả mọi cuộc đời của
+
+TI ỂU SỬ PATRUL RINPOCHE
+
+chúng con, cầu mong không bao giờ chúng con xa rời ánh sáng của Thánh Pháp. [Tiếp theo là một bài kệ lấy từ Kinh [§:] điển:]
+
+Bất kỳ ai nhận giáo lý từ ta, và
+Thậm chí nhìn thấy ta, lắng nghe ta, nghĩ tới ta,
+hay có quan hệ với ta qua việc trò chuyện,
+Nguyện cho cánh cửa dẫn đến sự tái sinh của họ trong
+những cõi thấp được đóng kín,
+Và nguyện cho họ tái sinh trong Cõi Cực Lạc Potala
+(Phổ Đà).
+
+Ở Mamo Do tại Dhachukha, Ngài dâng hiến nỗ lực trong
+nhiều năm cho việc phát triển một Dobum nổi tiếng, một quần
+thể những bức tường đá đồ sộ thật đáng kinh ngạc, và trên mỗi
+hòn đá có khắc nhiều thần chú “OM MANI PADME HUM.” Bức
+tường này được bắt đầu từ vị tiền nhiệm của Patrul. Trong lần
+đầu tiên [khi mới khởi sự], Ngài bắt đầu thu nhận tất cả các
+phẩm vật cúng dường và dùng từng mẩu bơ như tiền lương trả
+cho những người được Ngài thuê khắc những lời cầu nguyện.
+Khi bức tường đá được hoàn tất, Ngài gửi một sứ giả đến thỉnh
+cầu Ngài Khyentse Wangpo tới làm lễ hiến cúng. Vào ngày đặc
+biệt này, những hạt gia trì của lễ hiến cúng mà Ngài Khyentse
+Wangpo ném từ một nơi cách xa tám ngày đường trên lưng
+ngựa, rơi xuống bức tường đá trước mắt mọi người.
+
+Ở Tramatung, Ngài giảng dạy và hướng dẫn thực hành
+về các tu tập chuẩn bị duy nhất, Trekcho và Thogal. Sau này,
+Tendzin Norbu (Tenli), đệ tử chính của Ngài, đã nhận xét như
+sau: “Tôi đã có một ít hiểu biết về Dzogpa Chenpo trước đó,
+nhưng ở Tramatung, tôi hoàn toàn thấu suốt và chứng ngộ
+những điều này.”
+
+Khoảng năm 1872, Dodrupchen đệ tam, lúc đó tám tuổi,
+đến Dzagya Gon để nhận các giáo lý và trao truyền từ Patrul.
+Sau khóa giảng, theo khẩn cầu của chính Patrul, Dodrupchen
+
+TIỂU SỬ PATRUL RINPOCHE
+
+ban giáo lý về *Bodhicharyavatara* cho đại chúng, kể cả cho bản thân Patrul. Sau đó Patrul gửi tin lành đến cho Khyentse Wangpo, nói rằng: “Về việc học Pháp, Dodrupchen đã ban giáo lý về *Bodhicharyavatara* năm lên tám tuổi. Đối với việc chứng ngộ Pháp, Nyakla Pema Dudul [1816-1872] vừa đạt được thân cầu vồng. Vì thế Giáo Pháp của Đức Phật không bị suy giảm.”
+
+Vào lúc đó, thỉnh thoảng Dodrupchen nghe giọng nói của Patrul lọt qua tường, nói rằng: “Đức Liên Hoa Sanh vĩ đại, xin đoái tưởng tới con. Con không có người nào khác để tin cậy…” – những lời khẩn cầu Guru Rinpoche trong bản văn *ngondro Longchen Nyingthig*. Điều này cho thấy chắc hẳn *ngondro* là một trong những pháp hành trì chính yếu của Ngài.
+
+Từ năm bảy mươi mốt tuổi, Ngài bắt đầu tiết kiệm lương thực, chỉ đủ để dùng khoảng một tuần, là việc mà trước đây ngài chưa bao giờ làm. Ngoài ra, ngài không nhận bất kỳ vật cúng dường nào, hoặc nếu có nhận thì ngài lập tức gửi nó cho quỹ xây tường đá *mani*. Thỉnh thoảng ngài để lại thực phẩm ở nơi được cúng dường cho ngài, khiến những người nghèo thường đi theo Ngài để thâu thập những vật cúng dường mà ngài để lại.
+
+Năm bảy mươi sáu tuổi, tại cánh đồng Dza Mamo, Ngài ban giáo lý về *Lời Nguyện Khát Khao Cõi Tịnh Độ* và *Mani Kabum* cho khoảng một ngàn người. Sau đó Ngài không ban giáo lý cho đại chúng nữa. Bất kỳ ai đến gặp Ngài, Ngài gửi tới Thầy Tenzin Norbu để học Pháp. Nếu ai cố nài nỉ thì Ngài la rầy, nhưng Ngài càng la rầy thì họ càng sùng mộ Ngài. Đó là bởi trái tim bi mẫn và lời lẽ khiêm tốn của Ngài.
+
+Năm bảy mươi bảy tuổi, ngài đi tới Dzagya Gon và mời Dzogchen Rinpoche đệ ngũ, khi đó đang viếng thăm Dzachukha, và các ngài đã kỷ niệm ngày mồng mười tháng Thân năm Mùi, là sinh nhật của Guru Rinpoche.
+
+TI ỂU SỬ PATRUL RINPOCHE
+
+Năm bảy mươi tám tuổi, Patrul trở về Ko-o, sinh quán của Ngài. Năm tám mươi tuổi, vào ngày mười ba tháng tư năm Hợi Hỏa (1887), Ngài bắt đầu có vấn đề về sức khỏe. Vào ngày mười tám tháng đó Ngài dùng trà sáng như thường lệ. Sau đó, trước giờ trưa, Ngài ngồi dậy trần trụi trong tư thế của một vị Phật và đặt bàn tay trên đầu gối. Khenpo Kulpal có mặt ở đó, và Khenpo cố mặc quần áo lại cho Ngài, nhưng Ngài không phản ứng lại. Sau một lát, với đôi mắt mở trong thiền định, Ngài búng ngón tay một lần và để tay trong tư thế thiền định, và tâm Ngài hòa vào pháp giới thuần tịnh nguyên thủy. Vào ngày hai mươi trong tháng, Tsamrul Rinpoche cử hành lễ đánh thức tâm thức Ngài ra khỏi thiền định.
+
+Khi qua đời, Ngài không để lại vật gì đáng giá. Có một bộ y tu sỹ, một bình bát khất thực, một khăn choàng vàng, một hạ y, thực phẩm đủ dùng khoảng mười ngày, một bộ gồm năm bản văn của Asanga (Vô Trước), và một bản chép Madhyamakavatara (Nhập Trung Luận). Có năm đồng bạc và một ít khăn choàng mà Ngài chưa gửi cho quỹ xây tường đá. Đó là tất cả những gì Ngài sở hữu.
+
+Dodrupchen đệ tam mô tả giáo lý của Patrul như sau:
+
+Dù ban giáo lý nào, Ngài không bao giờ trình bày với vẻ phô trương sự uyên bác của mình nhưng với mục đích giúp cho những giáo lý ấy thích hợp với sự hiểu biết của người nghe. Nếu phân tích những lời dạy của Ngài, ta sẽ thấy chúng hợp luận lý và đầy ý nghĩa. Thậm chí một người đần độn nghe những giáo lý ấy cũng có thể hiểu được dễ dàng. Bởi những giáo lý đó rất cô đọng nên người nghe dễ dàng nắm bắt. Lời giảng dạy có độ dài tương xứng, liên quan tới chủ đề và thật duyên dáng khiến cho người nghe say mê.
+
+Mô tả nhân cách của Patrul, Dodrupchen đệ tam viết:
+
+TI ẺU SỬ PATRUL RINPOCHE
+
+Patrul sử dụng ngôn từ cứng rắn có vẻ khủng khiếp và áp đảo, nhưng không có chút sân hận hay tham luyến trong những lời nói đó. Nếu quý vị biết cách lắng nghe thì đây chỉ là những giáo lý trực tiếp hay gián tiếp. Mọi điều ngài nói ra thì rắn chắc như vàng – rất chân thật. Ngài đối xử với mọi người một cách bình đẳng, không tâng bốc khi họ có mặt mà cũng không nói xấu họ sau lưng. Ngài không bao giờ giả bộ là một điều gì đó hay một người nào đó. Vì thế mọi người, dù ở địa vị cao hay thấp, tất cả đều tôn kính Ngài như một vị Thầy đích thực. Ngài không thiên vị đối với người có chức quyền cao mà cũng không coi nhẹ những người bình thường. Bất kỳ ai dính dáng tới những hoạt động phi đạo đức, trừ phi họ không thể thay đổi được, Ngài lập tức nêu ra những lỗi lầm của họ và phơi bày chúng. Ngài tán thán và thôi thúc những người đang theo đuổi một đời sống tâm linh. Ngài có vẻ khó khăn trong cung cách hành xử nhưng nếu thân cận với Ngài, quý vị không bao giờ thấy ngài biểu lộ sự thiếu trung thực, thiếu tin cậy, thiếu kiên định, hay đạo đức giả. Ngài không thay đổi trong tình bằng hữu, dễ dàng và thoải mái khi tiếp cận. Ngài kiên nhẫn trước những điều tốt và xấu. Khó có thể xa rời Ngài. Mặc dù suốt đời Ngài vẫn là một hành giả ẩn dật, mọi quan điểm của Ngài đều lành mạnh, bởi Ngài không bao giờ lạc hướng đối với các hoạt động của một vị Bồ Tát. Như một câu tục ngữ có nói: “Cho dù vàng vẫn còn nằm dưới mặt đất, ánh sáng của nó chiếu rọi tận trời cao.” Nếu quý vị quán sát Ngài ở một mức độ nào đó quý vị sẽ thấy Ngài trong sạch và thanh tịnh. Nếu quý vị nghĩ về Nài ở mức độ nào đó, niềm tin nơi Ngài của quý vị sẽ tăng trưởng.
+
+Mô tả về hình tướng vật lý của Patrul, Dodrupchen đệ tam viết:
+
+TIỂU SỬ PATRUL RINPOCHE
+
+Đầu Ngài to lớn như một cái dù. Mặt Ngài giống như một đóa sen nở, và những năng lực tri giác của Ngài thì trong trẻo tinh khiết. Thường thì Ngài rất ít bệnh tật. Từ thời thơ ấu Ngài đã có trí tuệ và lòng bi mẫn vĩ đại, và là một diễn giả sáng chói.
+
+Khenpo Kunpal, người sống với Patrul nhiều năm trong phần cuối cuộc đời của Ngài, viết rằng một trong những lời cầu nguyện chính của Ngài là Manjushrinamasangiti (Hát Tụng Những Danh Hiệu Của Đức Văn Thù). Patrul không chỉ không có của cải thế gian mà Ngài cũng không có nhiều Kinh sách, là thứ mà đối với một Đạo sư-học giả thường được cho là quan trọng nhất. Đôi khi Ngài có một bản sao của Bodhicharyavatara và một bản Manjushrinamasangiti, là những bài nguyện hàng ngày của Ngài. Nhưng đôi khi ngay cả những bản đó Ngài cũng cho đi, bởi Ngài đã thuộc lòng những bản văn đó. Ngài không có giấy hay một cây bút tre. Vì thế bất kỳ Ngài ở đâu, khi đứng dậy, Ngài sẵn sàng rời bỏ tức thì một nơi chốn.
+
+Patrul đã ban những giảng dạy về những bản văn triết học thuộc Kinh điển, Mật điển, Đại Viên mãn và đã đánh thức hay trao truyền sự chứng ngộ tối thượng cho tâm thức của nhiều đệ tử hữu duyên. Tuy nhiên, dường như rất ít khi Ngài ban quán đảnh hay cử hành những buổi lễ phức tạp.
+
+Ngài có một quan điểm không bộ phái (non-sectarian) trong việc giảng dạy, trong cách viết và cách hành trì. Ngài đã nghiên cứu, hành trì và giảng dạy đầy đủ các truyền thống Phật Giáo của Tây Tạng. Ngài coi những Đạo sư của những trường phái khác nhau ngang bằng với Đức Phật Trí tuệ:
+
+Đức Sakya Pandita, đấng mang lại bình minh của ngũ minh,
+Đức Tsongkhapa, suối nguồn của những giáo lý Kinh điển và Mật điển,
+Và Đức Longchen Rabjam, Đạo Sư của những giáo lý viên mãn của Đức Phật,
+
+TIỂU SỬ PATRUL RINPOCHE
+
+Là những Đấng Văn Thù đích thực của Xứ Tuyết Tây Tạng.
+
+Là một người vô cùng khiêm tốn và đơn giản, tuy thế Ngài có thể giúp đỡ nhiều học giả cao quý, giàu có, đầy năng lực và nổi tiếng như các đệ tử của Ngài. Nhiều đệ tử trong bộ quần áo gấm thêu có đoàn tùy tùng vây quanh đã đến quỳ dưới chân vị ẩn sĩ trong manh áo vải cũ kỹ, rách rưới, đắp vá này, là người khó có đủ tsampa để ăn hay đủ nhiên liệu để nấu trà. Thậm chí cũng có lúc vẻ khiêm tốn của Ngài làm xấu hổ những người khoác áo thêu, đi ngựa và phô bày sự yếu đuối của họ.
+
+Có lần Patrul du hành tới một trại của người du cư, và Ngài đi bộ như thường lệ. Ngài dừng chân tại một gia đình có một chiếc lều khổng lồ và xin họ cho Ngài ở lại vài ngày bởi ngài đã kiệt sức. Gia đình đó nói: “Ông có đọc lời cầu nguyện được không?” Ngài trả lời: “Chút ít.” Sau đó họ bằng lòng cho Ngài vào và để Ngài ở một góc thấp nhất của chiếc lều. Nhiều người đang bận rộn làm các vật nghi lễ, dựng lều, làm ghế cao, và nấu thức ăn ngon cho một đại Lạt Ma và đoàn tuỳ tùng của ông sắp đến để cử hành một buổi lễ quan trọng. Sau vài ngày, họ nghe đồn là vị đại Lạt Ma đang đến, và mọi người xô nhau ra đón Lạt Ma. Patrul không đi ra ngoài. Mọi người quát tháo Ngài và hầu như lôi Ngài ra để trình diện trước Lạt Ma. Vị Lạt Ma trong bộ quần áo thêu, đi tới với toàn bộ vẻ phô trương của khoảng bốn mươi kỵ binh hầu cận, cầm những lá phướn trong tay, như thể trong một vở tuồng. Patrul không còn chọn lựa nào khác là phải tới trước vị Lạt Ma, nên Ngài đã làm như thế. Khi vị đại Lạt Ma nhìn thấy Patrul, ông ta nhảy xuống ngựa và sụp xuống dưới chân Đạo Sư, xấu hổ vì sự phô bày khoa trương vô nghĩa trước sự hiện diện khiêm tốn và đầy ý nghĩa của Patrul vĩ đại. Vị Lạt Ma là Minyak Kunzang Sonam, một đệ tử của Patrul, người đã viết một bình giảng nổi danh về Bodhicharyavatara. Từ ngày đó trở đi, vị Lạt Ma từ bỏ lối sống khoa trương của mình, trở thành ẩn sĩ, không bao giờ cưỡi ngựa nữa mà đi bộ cho
+
+TI ỂU SỬ PATRUL RINPOCHE
+
+dù du hành nơi đâu. Người ta tin rằng Patrul đã biết trước kết quả của cuộc gặp gỡ này nhờ tài thấu thị của Ngài, một khả năng mà Ngài đã biểu lộ nhiều lần.
+
+Các tác phẩm của Ngài được thu thập trong sáu quyển sách, về Đại Viên Mãn, Mật điển, Kinh điển, lời chỉ dạy, thi ca, và kịch tác. Các tác phẩm lừng danh của Ngài là những giáo huấn công phu về thực hành chuẩn bị của Longchen Nyingthig, có tựa đề là Những Lời Dạy Từ Kim Khẩu Của Lạt Ma Phổ Hiền ( Lời Vàng Của Thầy Tôi); một giáo huấn ngắn gọn nhưng kỳ diệu về thiền định Đại Viên Mãn, có tựa đề là Ba Lời Công Phá Những Điểm Trọng Yếu, và một bình giảng về Abhisamayalamkara.
+
+Ở miền Đông Tây Tạng, có lẽ Patrul là người có công lao to lớn nhất trong việc giúp cho Bodhicharyavatara ( Nhập Bồ Tát Hạnh) trở thành một cẩm nang cho nhiều tu sĩ; Lời Nguyện Khát Khao Được Tái Sinh Trong Cõi Tịnh Độ Cực Lạc Của Đức Phật A Di Đà thành một lời nguyện hàng ngày cho nhiều cư sĩ; giúp cho Guhyagarbha-mayajala-tantra trở thành nền tảng của truyền thống Mật Thừa Nyingma; giúp cho các giáo lý Đại Viên Mãn không chỉ là một truyền thống dựa trên văn tự mà là một chứng ngộ thiền định; và trên tất cả, giúp cho OM MANI PADME HUM trở thành như hơi thở bất tận của nhiều người.
+
+Trong số những hóa thân của Ngài có Jigme Wangpo xứ Dzagya Gon và Namkha Jigme xứ Dzachukha, một nam tử của Dudjom Lingpa.
+
+Tiểu sử của Patrul Rinpoche được trích từ tập sách “ Masters of Meditation and Miracles – Lives of the Great Buddhist Masters of India and Tibet ” do đại sư Tulku Thondup biên soạn. Thanh Liên chuyển Việt ngữ.
+
+# Lời Vàng Của Thầy Tôi
+
+Cẩm Nang Hướng Dẫn Các Pháp Tu Dự Bị
+Dành Cho *Tâm-Yếu của Đại-Quảng-Trí*
+*(Longchen Nyingtik - Heart Essence of the Vast Expanse)*
+Thuộc Truyền Thống Đại Viên Mãn
+*(Dzogchen)*
+
+THI KỆ MỞ ĐẦU
+
+# MỞ ĐẦU
+
+Do PATRUL RINPOCHE biên soạn
+
+Chư Đạo Sư tôn quý với lòng từ bi vô lượng vô ngại, con xin quy mạng lễ tất cả chư vị.
+
+Các Đấng Chiến Thắng của dòng truyền tâm;
+các bậc Minh Trì của dòng truyền qua biểu tượng;
+Những vị may mắn nhất trong số chúng sinh tầm thường,
+Nương nhờ các đấng Toàn Giác dẫn dắt, đã đạt được
+hai tầng mục đích (tự lợi và lợi tha).
+Chư Đạo Sư của ba dòng truyền thừa, con xin quy mạng lễ.
+
+Trong đại-phương-quảng-trí, mọi hiện tượng đều cạn kiệt,
+Ngài chứng ngộ tuệ giác Pháp Thân;
+Trong tịnh quang của pháp giới rỗng rang,
+Ngài thấy Phật cảnh Báo Thân hiển lộ;
+Để làm lợi lạc chúng sinh, Ngài hoá hiện trong hình tướng
+của Hóa Thân
+Đấng Pháp Vương Toàn Giác,* con xin quy mạng lễ.
+
+Nương nơi trí tuệ, Ngài thấu suốt chân tánh của vạn pháp,
+Ánh từ bi của Ngài phóng toả lợi ích khắp chúng sinh,
+Ngài soi sáng Giáo Pháp của con đường thâm diệu,
+đỉnh cao của các Thừa.
+
+* Đức Longchenpa
+
+# THI KỆ MỞ ĐẦU
+
+Rigdzin Jigme Lingpa – con xin quy mạng lễ.
+
+Ngài chính là Đức Quán Thế Âm trong hình tướng vị Thầy
+tâm linh;
+Ai nghe được lời Ngài thuyết cũng được an lập trên đường
+tu giải thoát;
+Để thoả mãn ước nguyện chúng sinh, công hạnh của
+Ngài trải dài vô tận,
+Bổn Sư từ ái – con xin quy mạng lễ.
+
+Những tác phẩm, và dòng truyền thừa của đấng Toàn
+Giác Longchenpa, chứa đựng toàn bộ giáo lý Đức
+Phật:
+Những giáo huấn tâm yếu đưa đến Phật Quả chỉ trong
+một đời,
+Những pháp tu dự bị bên ngoài, bên trong, và ẩn mật
+Cùng những giáo huấn về con đường chuyển di thần tốc.
+
+Nguyện xin chư Phật và chư vị Đạo Sư từ bi gia hộ;
+Khuến con có thể luận giải chính xác những điều con ghi
+khắc,
+Vô cùng thâm diệu, nhưng sáng tỏ và dễ hiểu—
+Lời Vàng không sai trật của bậc Thầy toàn bích của con!
+
+Văn bản này ghi chép trung thực những giáo huấn của vị Thầy
+vô song của tôi về những pháp môn chuẩn bị tổng quát bên
+ngoài và bên trong cho Tâm-Yếu của Đại-Quảng-Trí (Longchen
+Nyingtik) thuộc giáo lý Đại Viên Mãn. Những giáo huấn này
+được chia ra làm ba phần: (1) những pháp tu dự bị thông
+thường bên ngoài; (2) những pháp tu dự bị phi thường bên
+trong; và (3) con đường chuyển di thần tốc như một phần của
+pháp môn hành trì chính yếu.
+
+# Phần Một
+
+## NHỮNG PHÁP TU DỰ BỊ THÔNG THƯỜNG HAY NHỮNG CHUẨN BỊ BÊN NGOÀI
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+V. LỢI ÍCH CỦA GIẢI THOÁT
+
+VI. LÀM THẾ NÀO ĐỂ THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+[Hình: Chân dung Jamyang Khyentse Wangpo (1820-1892) và các vị tôn giả xung quanh]
+
+*Jamyang Khyentse Wangpo (1820-1892)*
+
+Khyentse đời thứ nhất. Đây là một trong những vị nắm giữ dòng truyền thừa **Tâm-Yếu** của **Đại-Quảng-Trí** (Longchen Nyingtik). Ngài là một trong những vị sáng lập phong trào bất bộ phái, một phong trào cổ võ sự học hỏi những giáo lý đặc thù của tất cả các truyền thống của Phật Giáo Tây Tạng một cách không phân biệt, tạo nên một sự phục hưng về tâm linh tại Tây Tạng. Ngài đã bảo tồn được nhiều giáo lý của những dòng truyền thừa có nguy cơ bị thất truyền.
+
+# CHƯƠNG I
+
+TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Trước khi giảng giải về chủ đề chính của chương này là sự khó khăn biết bao để tìm được những điều kiện tự do và thuận duyên để tu tập, ta sẽ giải thích về cách làm thế nào để có thể lắng nghe bất kỳ giáo huấn tâm linh nào một cách đúng đắn.
+
+## I. CÁCH THỨC ĐÚNG ĐẮN ĐỂ LẮNG NGHE GIÁO PHÁP
+
+Cách thức đúng đắn để lắng nghe giáo pháp gồm có hai khía cạnh: thái độ [hay động lực] đúng đắn và hành vi đúng đắn.
+
+### 1. Thái Độ
+
+Thái độ [hay động lực] đúng đắn là thái độ kết hợp (1) Bồ Đề Tâm (bodhicitta), tức tâm giác ngộ bao la, cùng với (2) phương tiện thiện xảo vô hạn của Mật Thừa (Secret Mantrayāna).
+
+#### 1.1 ĐỘNG LỰC BAO LA CỦA BỒ ĐỀ TÂM
+
+Suốt từ vô thủy vô chung, không có một chúng sinh nào trong biển luân hồi đau khổ mênh mông này chưa từng là cha hay mẹ của chúng ta [trong một kiếp nào đó]. Khi là cha là mẹ của chúng ta, ý tưởng duy nhất mà họ canh cánh bên lòng là nuôi nấng ta với lòng nhân từ to lớn nhất mà họ có thể được, bảo vệ chúng ta với tình yêu thương vĩ đại và ban phát cho ta những gì tốt lành nhất trong số thực phẩm và áo quần của họ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Tất cả những chúng sinh này, là những người đã quá tử tế với chúng ta. Những chúng sinh ấy đều muốn được hạnh phúc, tuy nhiên họ không biết làm thế nào để thực hiện những điều mang lại hạnh phúc, hay thực hiện mười hành vi thiện lành (thập thiện). Không ai muốn đau khổ, nhưng họ không biết cách từ bỏ mười hành vi xấu ác (thập ác), là gốc rễ của mọi đau khổ. Vì thế ước muốn sâu xa nhất trong lòng của họ và những điều họ thực sự làm bên ngoài thì thật là trái nghịch với nhau. Những chúng sinh khốn khổ, lạc loài và mê lầm này giống như những người mù bị bỏ rơi giữa cánh đồng hoang!
+
+Hãy tự nhủ: “Chính vì hạnh phúc của họ mà tôi sẽ lắng nghe Giáo Pháp thâm diệu và đưa Giáo Pháp ấy vào con đường thực hành. Tôi sẽ dẫn dắt tất cả chúng sinh này, là cha hay mẹ của tôi, đang bị hành hạ bởi những nỗi khổ trong sáu cõi luân hồi. Tôi sẽ đưa họ tới Phật Quả toàn giác, giải thoát họ khỏi tất cả những hiện tượng nghiệp báo, khỏi những tập khí và những đau khổ mà họ đang gánh chịu trong mỗi một cõi trong sáu cõi.” Điều quan trọng là phải có thái độ [hay động lực] này mỗi khi bạn lắng nghe giáo pháp hay thực hành giáo pháp.
+
+Bất cứ khi nào bạn làm điều gì tốt lành, dù quan trọng hay không quan trọng, bạn bắt buộc phải vun bồi cho việc bạn làm bằng ba phương pháp siêu việt sau đây. Trước khi bắt đầu, (1) hãy khơi dậy Bồ Đề Tâm như một phương tiện thiện xảo để đảm bảo rằng hành vi ấy sẽ trở thành suối nguồn của những điều thiện lành trong tương lai. Trong lúc thực hiện việc đang làm, (2) nên tránh vướng mắc vào bất kỳ hình thức vọng tưởng nào 1 để công đức không bị những yếu tố liên hệ 2 phá hủy. Khi kết thúc, (3) hãy niêm phong việc làm ấy một cách đúng đắn bằng cách hồi hướng công đức, vì hồi hướng công đức chắc chắn sẽ giúp cho việc ta làm còn tiếp tục phát triển lớn lao hơn nữa.3
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Cách bạn lắng nghe Giáo Pháp rất quan trọng, nhưng còn quan trọng hơn nữa chính là động lực thúc đẩy bạn lắng nghe như vậy.
+
+Điều gì tạo nên một hành vi tốt hoặc xấu? Không phải vẻ bề ngoài, cũng không phải lớn hay nhỏ, Mà bởi động lực xấu hay tốt đằng sau.
+
+Cho dù bạn đã được nghe nhiều Giáo Pháp tới đâu chăng nữa, nhưng nếu những mối quan tâm tầm thường là động lực thúc đẩy bạn – chẳng hạn như lòng tham muốn trở nên vĩ đại, muốn tiếng tăm – thì đó không phải là con đường của Giáo Pháp chân chính. Vì thế, trước tiên, điều hết sức quan trọng là bạn phải chuyển nhìn vào bên trong tâm bạn và thay đổi động lực [hay tác ý] của bạn. Nếu bạn có thể chỉnh sửa thái độ của bạn thì những hành động tốt lành của bạn sẽ luôn thấm nhuần phương tiện thiện xảo, và bạn sẽ bước đi trên con đường của những bậc vĩ đại. Nếu bạn không thể làm được như vậy thì tuy rằng bạn có thể nghĩ rằng mình đang tu học và thực hành Giáo Pháp, nhưng đó sẽ chẳng khác gì hơn là một cái vỏ bề ngoài của cái chân thật bên trong. Do đó, bất kỳ khi nào bạn lắng nghe Giáo Pháp và hành trì Giáo Pháp, cho dù là thiền định về một Bổn Tôn, lễ lạy, đi nhiễu, hay trì tụng một câu minh chú (mantra) – cho dù chỉ một chữ *mani* duy nhất – thì điều cốt yếu là luôn luôn phải phát khởi Bồ Đề Tâm.
+
+1.2 THIỆN XẢO BA LA TRONG PHƯƠNG TIỆN: ĐỘNG LỰC TU TẬP CỦA CON ĐƯỜNG MẬT THỪA
+
+Quyển *Tam Pháp Tuệ Đăng Mật Điển* (Ngọn Đuốc của Ba Pháp Tu) có nói về Mật Thừa như sau:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Cùng mục tiêu nhưng tự tại thoát khỏi mọi mê lầm,^4
+Phong phú trong phương tiện và chẳng có gì khó khăn,^5
+Dành cho những người có căn cơ nhạy bén.^6
+Mật Thừa là tối thượng.
+
+Con đường đi đến Mật Thừa có nhiều ngã. Mật Thừa bao gồm nhiều phương pháp tích lũy công đức và trí huệ, cùng với nhiều phương tiện thiện xảo giúp cho tiềm năng trong chúng ta hiển lộ ^7 mà ta không cần phải trải qua những gian khổ lớn lao. Nền tảng của các pháp tu này là cách thức chúng ta dẫn dắt soi sáng cho những nguyện ước của mình:
+
+Tất cả tùy thuộc vào hoàn cảnh
+Và hoàn toàn tùy thuộc vào nguyện lực của ta.
+
+Không được coi nơi giảng Pháp, vị Thầy, Giáo Pháp và v..v... như là những gì bình thường và bất tịnh. Khi bạn lắng nghe Pháp, hãy giữ cho năm yếu tố toàn hảo (five perfections) thật rõ ràng sáng tỏ trong tâm:
+
+Nơi chốn toàn hảo là thành trì của pháp giới bao la viên mãn, được gọi là Akanistha, có nghĩa là “Vô Song.” Vị Thầy toàn hảo là đức Phật Phổ Hiển (Samantabhadra), Pháp Thân. Tăng đoàn toàn hảo bao gồm các vị Bồ Tát nam và nữ và những vị Bổn Tôn^8 của dòng tâm truyền (biệt truyền) của các Đấng Chiến Thắng và của dòng truyền qua biểu tượng của các bậc Trì Minh Vương (Vidyadhara).
+
+Hoặc bạn có thể nghĩ tưởng rằng nơi giảng Pháp là Cung điện Liên-Hoa-Quang của Núi Huy Hoàng Màu-Đồng Đỏ, vị Thầy giảng Pháp là Đức Liên-Hoa-Sanh xứ Oddiyāna, và chúng ta, thính chúng, là Tám Trì Minh Vương (Eight Vidyādharas), Hai-Mươi-Lăm Đệ Tử (Twenty-five Disciples), và các vị Không Hành nam và Không Hành nữ (dākas và dākinis).
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Hoặc bạn nghĩ tưởng rằng nơi chốn toàn hảo này là Cõi Phật Phương Đông, cõi Hiển Lạc, ở đó có vị Thầy toàn hảo là đức Kim Cương Tát Đỏa (Vajrasattva), là một Báo Thân toàn hảo, đang giảng dạy cho tập hội gồm những bậc hiền thánh tăng thuộc Kim Cương Phật Bộ và chư Bồ Tát nam và nữ.
+
+Tương tự, nơi chốn toàn hảo để giảng Pháp có thể là Cõi Phật Phương Tây, cõi Cực Lạc, vị Thầy toàn hảo là đức Phật A Di Đà, và tập hội các Bồ Tát nam và nữ và các Bổn Tôn thuộc Liên Hoa Phật Bộ.
+
+Trong mọi trường hợp, Pháp là Giáo Pháp của Đại Thừa và thời gian là bánh xe vĩnh cửu thường-chuyển (the ever- revolving wheel of eternity).
+
+Những quán chiếu $^9$ này là để giúp cho chúng ta có thể thấu suốt được thực trạng của tất cả sự vật. Đây không phải là chúng ta đang tạm thời tạo tác điều gì không thực sự hiện hữu.
+
+Thầy của ta là hiện thân của tinh tuý của tất cả chư Phật khắp ba thời. Ngài là sự hợp nhất của Tam Bảo: thân Ngài là Tăng đoàn, khẩu Ngài là Pháp, ý Ngài là Phật. Ngài là sự hợp nhất của Ba Nguồn Gia Trì: thân của Ngài là Thầy (lama), khẩu của ngài là vị Hộ Phật (deity, hay Bổn Tôn – ydam), ý của Ngài là Nữ Không-Hành hay Thiên Nữ Diệu Không (dākinī). Ngài là sự hợp nhất của ba Thân (kāyas): thân Ngài là Hóa Thân, khẩu Ngài là Báo Thân, ý Ngài là Pháp Thân. Ngài là hiện thân của tất cả chư Phật trong quá khứ, là suối nguồn của tất cả chư Phật trong tương lai và là đại diện cho tất cả chư Phật trong hiện tại. Bởi Ngài, Thầy của ta, đã chấp nhận những chúng sinh suy đồi như chúng ta làm đệ tử, là những kẻ mà không vị nào trong hàng ngàn vị Phật trong thời Hiền Kiếp $^{10}$ có thể cứu giúp, nên lòng bi mẫn và quảng đại của Thầy ta còn trội vượt hơn tất cả muôn chư Phật.
+
+Thầy là Phật, Thầy là Pháp,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Thầy cũng là Tăng Đoàn.
+Thầy là bậc đại thành tựu giả.
+Thầy là đấng Kim Cương Trì Quang Vinh.
+
+Chúng ta, tập hội những người lắng nghe giáo lý, hãy biết vận dụng nền tảng tu tập là Phật tánh của riêng ta, vận dụng lực hỗ trợ là đời người quý báu, vận dụng hoàn cảnh là có được một vị Thầy tâm linh và vận dụng phương pháp là tuân theo lời chỉ dạy của Ngài, để nương vào đó, ta có thể trở thành những vị Phật trong tương lai. Như Mật điển Hô Kim Cương (Hevajra) có nói:
+
+Tất cả chúng sinh đều là Phật,
+Nhưng bị những ô nhiễm giả hợp che lấp.
+Khi ô nhiễm được tịnh hóa, Phật quả sẽ hiển lộ.
+
+2. Cung Cách Hành Xử
+Cung cách hành xử trong khi lắng nghe giáo pháp được mô tả trong phạm vi những điều nên tránh và những điều nên làm.
+
+2.1. NHỮNG ĐIỀU NÊN TRÁNH
+Những hành vi nên tránh bao gồm (1) ba khiếm khuyết của chiếc bình chứa, (2) sáu điều ô nhiễm và (3) năm cách nhớ tưởng sai lạc.
+
+2.1.1 Ba Khiếm Khuyết Của Chiếc Bình Chứa
+Không nên lắng nghe như một chiếc bình bị lật úp. Không có khả năng nhớ được những gì bạn nghe thì lại giống như một cái bình bị thủng lỗ. Còn trộn lẫn những cảm xúc tiêu cực với những điều bạn đang nghe thì giống như một cái bình trong có chứa chất độc.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+**Bình lật úp.** Khi bạn đang lắng nghe Giáo Pháp, hãy chú tâm lắng nghe những gì được nói ra và đừng để bất kỳ điều gì khác làm cho bạn trở nên sao lãng. Nếu không, bạn cũng sẽ như cái bình bị lật úp, không thể rót gì vào đó được. Mặc dù thân bạn đang hiện diện ở đó, nhưng bạn lại chẳng nghe được một lời nào của giáo lý đang được giảng dạy.
+
+**Bình thủng lỗ.** Nếu bạn chỉ lắng nghe mà không nhớ được bất kỳ điều gì bạn đã nghe hoặc đã hiểu thì bạn sẽ giống như một cái bình có một chỗ rò rỉ: cho dù có đổ vào đó bao nhiêu nước thì cũng sẽ không giữ lại được chút gì. Dù bạn có được nghe bao nhiêu giáo lý chăng nữa thì bạn cũng chẳng bao giờ có thể thấm nhuần được những giáo lý ấy hay đưa được những giáo lý ấy vào thực hành.
+
+**Bình chứa chất độc.** Nếu bạn lắng nghe giáo lý với thái độ (động lực) sai lầm, chẳng hạn như bạn mang trong lòng tham vọng trở nên nổi tiếng hay vĩ đại, hoặc lắng nghe với một tâm thức tràn đầy năm độc, thì Giáo Pháp chẳng những không giúp được gì cho tâm bạn mà Giáo Pháp ấy cũng sẽ bị biến đổi thành một cái gì đó hoàn toàn không còn phải là Pháp nữa, hệt như chất cam lồ được rót vào một bình chứa chất độc.
+
+Đó là lý do tại sao Ngài Padampa Sangye, một nhà hiền triết của Ấn Độ đã nói:
+
+> Hãy lắng nghe giáo lý giống như một con nai nghe nhạc;
+> Hãy suy niệm về giáo lý giống như người du cư phương Bắc xén lông cừu;\*
+> Hãy thiền quán về giáo lý giống như người câm thưởng thức thức ăn;\*\*
+
+* Điều đó có nghĩa là hoàn toàn tỉ mỉ và không chút xao lãng.
+\*\* Một người câm có thể nếm thức ăn, nhưng không mô tả được hương vị mà anh ta đang nếm. Cũng thế, hương vị của chân thiền định siêu vượt bất kỳ những gì có thể được mô tả, siêu việt mọi khái niệm.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Hãy thực hành giáo lý giống như con trâu ‘yak’ háu đói đang ăn cỏ;
+Hãy thành tựu giáo lý, giống như mặt trời lộ ra từ sau những đám mây.
+
+Khi lắng nghe giáo lý, bạn phải giống như một con nai bị mê hoặc bởi âm thanh của đàn vīnā tới nỗi không hề chú ý tới người thợ săn ẩn núp đang bắn mũi tên có tẩm thuốc độc. Hãy chắp hai bàn tay lại và lắng nghe, để mỗi lỗ chân lông trên thân bạn cũng đều rúng động và đôi mắt bạn nhạt nhoà đẫm lệ, chớ để cho bất kỳ tư tưởng nào hiện ra làm cản trở việc lắng nghe.
+Thật chẳng có gì là tốt lành nếu chỉ có thân bạn là hiện diện ở đó, trong khi tâm bạn lại lang thang theo các niệm tưởng, buông thả lời nói của mình trong một kho chuyện tầm phào, phát biểu bất kỳ điều gì bạn ưa thích và đưa mắt nhìn quanh quẩn khắp nơi. Thậm chí khi lắng nghe giáo lý, bạn nên ngưng cầu nguyện, ngưng niệm các câu minh chú, hay làm bất kỳ một hành vi phước đức nào khác mà bạn có thể đang làm.
+Sau khi lắng nghe giáo lý một cách đúng đắn theo cách thức như trên, thì còn một việc quan trọng không kém là phải nắm giữ lại được ý nghĩa của những điều đó, không bao giờ được quên những ý nghĩa đó, và liên tục áp dụng những gì đã được nghe vào thực hành. Như chính bậc Minh Hạnh Túc đã nói:
+
+Ta đã chỉ cho các ông phương pháp
+Đưa tới giải thoát
+Nhưng các ông nên biết
+Giải thoát tuỳ thuộc vào chính các ông.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Vị Thầy ban truyền cho đệ tử những giáo huấn về cách lắng nghe Giáo Pháp và cách áp dụng Giáo Pháp, cách thức từ bỏ những ác hạnh, thực hiện những thiện hạnh, và cách thức tu tập. Người đệ tử có nhiệm vụ phải ghi nhớ những giáo huấn đó, không được lãng quên bất cứ điều gì; phải đem những giáo huấn đó vào thực hành và chứng ngộ được những giáo huấn đó.
+
+Tự mỗi một mình việc lắng nghe Giáo Pháp cũng có thể đem đến chút ít lợi lạc. Nhưng trừ phi bạn nhớ được những gì bạn đã được nghe, còn bằng không thì bạn sẽ không có được chút hiểu biết nào về ngôn từ hoặc ý nghĩa của giáo pháp – điều này thì chẳng khác gì việc không được lắng nghe gì hết.
+
+Nếu bạn ghi nhớ Giáo Pháp nhưng lại trộn lẫn Giáo Pháp với những cảm xúc tiêu cực ô nhiễm của bạn, thì giáo pháp ấy sẽ không bao giờ là Giáo Pháp thuần tịnh. Như Ngài Dagpo Rinpoche vô song đã nói:
+
+> Trừ phi bạn thực hành Pháp phù hợp với Giáo Pháp Bằng không, chính Pháp ấy sẽ trở thành nguyên nhân của con đường tái sinh xấu ác.
+
+Hãy tự xả bỏ bất kỳ một vọng niệm sai lạc nào liên quan tới vị Thầy và Giáo Pháp, đừng phê bình hay lăng mạ các huynh đệ tâm linh cùng những người bạn đồng hành của bạn, hãy dứt bỏ tánh kiêu căng, khinh miệt, hãy từ bỏ mọi niệm tưởng xấu xa. Bởi vì tất cả những điều này sẽ đưa bạn tới con đường tái sinh vào các cõi thấp.
+
+2.1.2 Sáu Điều Ô Nhiễm
+
+Trong Như Thật Luận (Tương Ưng Luận) có nói:
+
+Kiêu mạn, thiếu lòng tin và thiếu nỗ lực,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Sao lãng bên ngoài, căng thẳng bên trong và chán nản;
+Đây là sáu điều ô nhiễm.
+
+Hãy từ bỏ sáu điều sau đây: (1) kiêu hãnh tự tin rằng bản thân bạn giỏi giang hơn vị Thầy đang giảng Pháp, (2) không tin tưởng nơi vị Thầy và giáo lý của Ngài, (3) không chuyên tâm nỗ lực đến gần với Pháp, (4) để cho những sự kiện bên ngoài làm cho sao lãng, (5) tập trung năm giác quan hướng vào bên trong một cách quá căng thẳng, và (6) chán nản vì nhiều lý do chẳng hạn như vì bài giảng quá dài.
+
+Trong tất cả những cảm xúc tiêu cực thì kiêu mạn và ganh tị là những cảm xúc khó nhận diện nhất. Vì vậy, hãy quán chiếu tâm bạn một cách tỉ mỉ. Nếu bạn có bất kỳ cảm tưởng nào cho rằng những phẩm tính mà bạn có được có chút gì đó đặc biệt, cho dù là chỉ một chút, dù trên phương diện thế gian hay phương diện tâm linh, thì điều ấy cũng sẽ khiến cho bạn mù loà trước những lỗi lầm của chính mình và không nhận thấy được những phẩm tính tốt đẹp của người khác. Vì thế, hãy từ bỏ tánh kiêu mạn và luôn luôn hạ mình xuống một vị trí thấp kém.
+
+Nếu bạn không có lòng tin thì lối vào Giáo Pháp đã bị lấp kín. Trong bốn loại niềm tin,^11 hãy hướng tới niềm tin bất thối chuyển.
+
+Mối quan tâm ^12 của bạn đối với Giáo Pháp là nền tảng của tất cả những gì bạn sẽ thành đạt. Vì thế, tùy theo mức độ quan tâm của bạn sâu dầy, trung bình hay thấp kém, mà bạn sẽ trở thành một hành giả siêu việt, trung bình, hay kém cỏi. Và nếu bạn hoàn toàn không quan tâm tới Pháp thì sẽ chẳng có được chút kết quả nào. Như ngạn ngữ có nói:
+
+Giáo Pháp không phải là tài sản của riêng ai.
+Giáo Pháp thuộc về bất kỳ kẻ nào có nỗ lực to lớn nhất.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Để có được Giáo Pháp, chính bản thân Đức Phật đã phải trả giá bằng hàng trăm gian khó. Để có được một bài kệ chỉ có bốn dòng, Ngài đã khoét thịt mình làm thành những chiếc đèn cúng dường, đổ đầy dầu và đặt vào đó hàng ngàn tim đèn cháy đỏ. Ngài đã nhảy vào những hầm lửa, cắm hàng ngàn đinh sắt vào thân thể mình.13
+
+Cho dù phải đối diện với hỏa ngục nóng đỏ hay những lưỡi dao sắc nhọn,
+Hãy tìm cầu Giáo Pháp cho tới khi bạn lìa đời.
+
+Vì thế, hãy lắng nghe những lời giáo huấn với nỗ lực to lớn, hãy quên đi cái nóng, cái lạnh và tất cả mọi thử thách khác.
+
+Thông thường, tâm thức ta thường có khuynh hướng mải mê chạy theo các đối tượng của sáu giác quan14 và khuynh hướng này chính là gốc rễ của tất cả mọi ảo giác hư uyễn trong vòng sinh tử luân hồi và là nguồn gốc của mọi đau khổ. Đây là cách mà con thiêu thân chết cháy trong ngọn lửa vì nhãn thức của nó bị sắc tướng lôi cuốn; là cách con hươu bị thợ săn giết chết vì nhĩ thức của nó bị âm thanh lôi cuốn; là cách những con ong bị những cây ăn thịt nuốt chửng vì mùi vị của cây ấy hấp dẫn; là cách những con cá cắn câu vì vị giác của chúng bị nhử bởi hương vị của mồi câu; là cách những con voi chết đuối trong đầm lầy vì chúng thích cảm giác thân thể đắm trong bùn. Cũng thế, bất kỳ khi nào bạn đang lắng nghe Pháp, đang giảng dạy, đang thiền định hay đang tu tập thực hành Pháp, thì điều quan trọng là bạn không được chạy theo những khuynh hướng huân tập trong quá khứ, không ấp ủ những cảm xúc về tương lai, và không để những tư tưởng hiện tại bị sao lãng bởi bất kỳ điều gì quanh bạn. Như Gyalse Rinpoche đã có nói:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Niềm vui và nỗi muộn phiền của quá khứ giống như
+những bức tranh vẽ trên nước:
+Chẳng còn lại dấu vết gì. Chớ chạy theo chúng!
+Nhưng nếu chúng xuất hiện trong tâm, hãy quán chiếu
+xem thành công hay thất bại đến và đi như thế nào.
+Ngoài Pháp ra, còn có thể tin vào thứ gì khác, hỡi những
+hành giả trì tụng minh chú 'mani'? $^{15}$
+
+Kế hoạch và dự án tương lai giống như lưới thả nơi sông
+cạn.
+Sẽ không bao giờ đem lại được những gì bạn mong
+muốn.
+Hãy hạn chế những khát khao và nguyện ước!
+Nhưng nếu chúng xuất hiện trong tâm, hãy nghĩ đến ngày
+giờ chết bất định:
+Còn có thời giờ cho bất cứ việc gì khác không ngoài
+Pháp, hỡi những hành giả trì tụng minh chú 'mani'?
+
+Việc làm hiện tại giống như công việc trong giấc mơ,
+Hãy quảng chúng sang bên vì mọi nỗ lực như thế đều vô
+nghĩa.
+Hãy dửng dưng không tham luyến ngay cả món tiền bạn
+kiếm được do mồ hôi nước mắt.
+Tất cả mọi việc làm đều không có thực chất, hỡi những
+hành giả trì tụng minh chú 'mani'!
+
+Theo đó, giữa những thời công phu thiền định, hãy tập
+cách kiểm soát mọi niệm tưởng khởi lên từ tam độc;
+Cho đến khi tất cả niệm tưởng và tri giác hiển lộ như
+Pháp Thân.
+Điều này không thể bỏ qua -- hãy hồi nhớ lại bất cứ khi
+nào cần thiết.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Chớ buông lung theo những vọng tưởng mê lầm, hỡi những hành giả trì tụng minh chú ‘mani’!
+
+Cũng có câu nói rằng:
+
+Đừng dệt mộng tương lai. Vì nếu làm như vậy, Bạn chẳng khác nào người cha của Mặt Trăng Danh Tiếng!
+
+Câu nói trên muốn nhắc tới câu chuyện của một người nghèo khổ đi ngang qua một đống lúa mạch lớn. Ông ta cho lúa mạch vào một bao lớn, treo nó lên xà nhà, rồi nằm bên dưới bao lúa ấy và bắt đầu mơ mộng hão huyền.
+
+“Số lúa mạch này sắp làm cho ta thực sự giàu có,” ông ta nghĩ như thế. “Khi đã giàu, ta sẽ lấy vợ... Nhất định là cô ta sẽ sinh một đứa con trai... Ta nên gọi nó là gì nhỉ?”
+
+Ngay lúc đó mặt trăng xuất hiện, và ông ta quyết định đặt tên đứa con là Mặt Trăng Danh Tiếng. Tuy nhiên vào lúc đó, có một con chuột đang gặm sợi dây đỡ cái túi. Đột nhiên sợi giây đứt bung, cái túi rớt lên người làm ông ta chết ngay.
+
+Những giấc mơ về tương lai và quá khứ như thế sẽ chẳng bao giờ đem lại kết quả và chỉ là sự phá rối. Hãy từ bỏ hết thảy những giấc mơ như thế. Hãy tỉnh thức và chú tâm lắng nghe với lòng cẩn trọng.
+
+Không nên tập trung tư tưởng một cách quá căng thẳng, nhặt nhạnh ra từng chữ, từng điểm một, như con gấu dremo bới tìm ‘mạc mốt’ – mỗi lần bạn nắm bắt được một đề mục nào, bạn lại quên đi đề mục trước đó, và sẽ chẳng bao giờ hiểu được cái tổng thể. Tập trung quá nhiều cũng làm bạn buồn ngủ. Thay vào đó, hãy giữ một sự quân bình giữa sự căng thẳng và tâm trạng buông lỏng.
+
+Có lần Ngài Ānanda đang dạy Śrona thiền định. Śrona rất khó có thể hiểu được điều đó một cách đúng đắn. Đôi khi
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+ông ta quá căng thẳng, đôi lúc lại quá buông lỏng. Śrona đem vấn đề ra hỏi Phật, Đức Phật bảo: “ Khi còn là cư sĩ, ông là người đánh đàn vīnā rất hay phải không?”
+“Vâng, con chơi rất hay.”
+“Vậy âm thanh đàn vīnā của ông hay nhất khi lên dây thật căng hay thật chùng?”
+“Âm thanh nghe hay nhất khi giây không căng quá mà cũng không chùng quá.”
+“Tâm ông thì cũng tương tự như thế,” Đức Phật bảo; và nhờ thực hiện theo lời khuyên này mà Śrona đạt được kết quả. Ngài Machik Labdrön có nói:
+
+*Hãy định tâm vững chắc và lơi lỏng [§*] thư dãn: 16*
+*Đây là điểm trọng yếu của cái Thấy (kiến).*
+
+Đừng để tâm bạn quá căng thẳng hay quá tập trung hướng vào bên trong; hãy để các giác quan của bạn thoải mái tự nhiên, cân bằng giữa buông lỏng và căng thẳng.
+Bạn không nên cảm thấy mệt mỏi khi lắng nghe giáo huấn. Đừng nên chán nản khi bạn cảm thấy đói hay khát trong khi đang lắng nghe một bài giảng quá dài, hoặc khi bạn phải chịu đựng những phiền toái do nắng, mưa, gió, v.v... gây ra... Hãy hoan hỷ vì hiện nay bạn đang có được những điều kiện tự do và thuận duyên của đời người, rằng bạn đã gặp được một vị Chân Sư, và bạn có thể lắng nghe những giáo huấn sâu xa của Ngài.
+Sự kiện bạn đang được nghe Giáo Pháp thâm diệu vào thời điểm này là kết quả của công đức được tích lũy từ vô lượng kiếp. Giống như bạn đang được ăn một bữa ăn khi mà bạn chỉ có thể ăn được một bữa duy nhất trong hàng trăm bữa ăn trong suốt cả đời bạn. Vì vậy, để tiếp nhận những giáo lý này, hãy khẩn thiết lắng nghe với lòng hoan hỷ; hãy phát
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+nguyện chịu đựng cái nóng, cái lạnh và bất kỳ thử thách, khó khăn nào có thể xảy ra.
+
+2.1.3 Năm Cách Nhớ Tưởng Sai Lạc
+
+Hãy tránh việc nhớ chữ mà quên nghĩa,
+Hoặc nhớ nghĩa mà quên lời.
+Hãy tránh việc nhớ cả hai mà không hiểu ý;
+Nhớ lộn xộn, hay nhớ sai lạc không chính xác.
+
+Không nên gán một tầm quan trọng thái quá cho những cú pháp biến hoá tao nhã mà không cố gắng phân tích ý nghĩa sâu xa của văn tự, chẳng khác nào một đứa bé đang nhặt hoa. Vì chỉ có văn tự suông thì chẳng có lợi ích gì cho tâm thức. Ngược lại, chớ xem thường cách thức những giáo huấn đó được giải bày, và coi đó chỉ thuần là ngôn từ nên chẳng có gì là cần thiết. Nếu như vậy thì mặc dù bạn có thể thấu hiểu được ý nghĩa thâm sâu, nhưng bạn sẽ không còn có được phương tiện để có thể diễn tả ý nghĩa đó. Văn tự và ý nghĩa sẽ mất đi mối liên kết. 17
+
+Nếu bạn nhớ được giáo lý mà không nhận ra được những mức độ khác nhau của ý nghĩa – gồm có ý nghĩa thích hợp (phương tiện nghĩa), chân nghĩa và ý nghĩa gián tiếp (dụ nghĩa) – thì bạn sẽ nhầm lẫn về những điều mà văn tự muốn ám chỉ. 18 Điều này có thể dẫn bạn xa rời Chân Pháp. Nếu ghi nhớ một cách lộn xộn thiếu trật tự thì bạn sẽ làm cho trình tự đúng đắn của giáo lý ấy bị rối tung lên, và rồi mỗi lần bạn lắng nghe, giải thích hay thiền định về giáo lý ấy, sự nhầm lẫn rối tung kia sẽ còn tăng lên gấp bội. Nếu bạn nhớ không chính xác những điều đã được nói ra, vô số vọng niệm sai lầm sẽ gia tăng. 19 Điều này sẽ làm hư hỏng tâm bạn và làm giảm giá trị của những giáo huấn. Hãy xa lánh tất cả những lỗi lầm này
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+và hãy ghi nhớ tất cả – gồm có văn tự, ý nghĩa và thứ tự của bài giảng – một cách đúng đắn, không có bất kỳ sai lạc nào.
+
+Dù bài giảng có dài và khó tới đâu chăng nữa, bạn chớ nên ngã lòng và đừng tự hỏi chừng nào sẽ kết thúc; hãy kiên trì. Và dù bài giảng có ngắn gọn và đơn giản tới đâu, bạn cũng đừng đánh giá thấp, cho rằng đây là những điều hoàn toàn sơ đẳng.
+
+Như thế thật là điều cực kỳ cần thiết để bạn có thể nhớ được cả văn tự lẫn ý nghĩa một cách hoàn hảo, đúng trình tự và với tất cả mọi sự cùng nối kết lại với nhau một cách đúng đắn.
+
+## 2.2 NHỮNG ĐIỀU NÊN LÀM
+
+Cung cách hành xử nên noi theo trong lúc lắng nghe Giáo Pháp được giải thích như bốn ẩn dụ, sáu pháp toàn thiện siêu việt (lục độ ba la mật), cùng với những phương cách hành xử khác.
+
+### 2.2.1 Bốn Ẩn dụ
+
+[Một phẩm] trong *Kinh Hoa Nghiêm* có nói:
+
+- Thiện nam tử, ông nên nghĩ bản thân ông như người bị bệnh,
+- Giáo Pháp là phương thuốc,
+- Đạo Sư tâm linh là một y sĩ thiện xảo,
+- Và công phu hành trì là cách thức để hồi phục.
+
+Chúng ta đang bị bệnh. Từ vô thủy, trong biển khổ vô biên là vòng sinh tử luân hồi này, chúng ta đã bị hành hạ bởi bệnh tật do tam độc gây ra, và hậu quả chính là ba loại đau khổ.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Khi người ta bị bệnh nặng, họ đi tham vấn một vị y sĩ tài ba. Họ nghe theo lời khuyên của ông bác sĩ, dùng bất kỳ loại thuốc nào mà ông ta cho, và làm tất cả những điều có thể làm để vượt qua bệnh tật và trở nên khỏe mạnh. Tương tự, bạn nên tự mình điều trị những bệnh tật của nghiệp, điều trị những cảm xúc tiêu cực và chữa lành đau khổ bằng cách tuân theo hướng dẫn của ông bác sĩ đầy kinh nghiệm là vị Thầy tâm linh chân chính, và bằng cách sử dụng thần dược của Giáo Pháp.
+
+Việc theo chân một vị Thầy mà không làm theo những điều Ngài hướng dẫn thì cũng giống như không vâng lời bác sĩ, điều đó làm cho ông không có cơ hội để chữa lành bệnh cho bạn. Không uống thuốc của Giáo Pháp – có nghĩa là không áp dụng Giáo Pháp vào thực hành – thì cũng giống như có vô số thuốc men và chỉ dẫn ngay cạnh bên giường mà không bao giờ chạm tới chúng.
+
+Ngày nay, người ta thường phát biểu đầy vẻ lạc quan: “Lạt Ma, xin đoái thương tới con với lòng bi mẫn!”, và cho rằng dù họ có tạo ra nhiều điều khủng khiếp cách mấy chăng nữa, họ cũng sẽ không bao giờ phải gánh chịu hậu quả. Họ ước đoán rằng vị Thầy, với lòng bi mẫn, sẽ quăng họ lên cõi Trời như thể Ngài đang ném một viên sỏi. Nhưng khi ta nói rằng vị Thầy đang gia hộ chúng ta với lòng bi mẫn thì điều này thực sự muốn nói tới việc Ngài đã nhận chúng ta làm đệ tử của Ngài với tràn đầy lòng thương yêu, đã ban cho chúng ta những giáo huấn sâu xa, khai thị cho chúng ta điều gì cần làm và điều gì nên tránh, chỉ dẫn cho chúng ta con đường giải thoát đã được Đấng Chiến Thắng giảng dạy. Có thể có lòng bi mẫn nào to lớn hơn thế được không? Điều này tùy thuộc vào việc chúng ta có tận dụng được lòng bi mẫn này và thực tâm theo đuổi con đường giải thoát hay không.
+
+Giờ đây là lúc chúng ta được sinh ra làm người, có tự do và được ban cho nhiều điều kiện thuận lợi; giờ đây là lúc chúng ta biết điều gì nên làm và điều gì không nên làm. Ở
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+bước ngoặt này, trong một hoàn cảnh hoàn toàn tự do, chúng ta có thể quyết định chọn lựa và quyết định của chúng ta vào lúc này sẽ định rõ số phận của chúng ta tốt hơn hoặc xấu đi trong suốt chiều dài tương lai sau này.$^{20}$ Điều tối quan trọng là chúng ta hãy chọn lựa một lần cho xong giữa sinh tử và niết bàn, và hãy đưa những giáo huấn của Bổn Sư của chúng ta vào thực hành.
+
+Những người hướng dẫn các buổi lễ trong làng sẽ làm cho bạn tin rằng ngay trên tử sàng, bạn vẫn còn có thể đi lên (cõi cao) hay đi xuống (cõi thấp), như thể bạn đang điều khiển một con ngựa bằng dây cương. Nhưng vào lúc đó, trừ phi bạn đã thuần thục trên con đường tu, trận gió nghiệp dữ dội của những hành vi trong quá khứ của bạn sẽ săn đuổi bạn, trong khi ở phía trước, một màn đen kịt khủng khiếp đổ xô tới vào lúc bạn hoàn toàn bất lực, bị lôi tuột xuống một con đường dài đầy hiểm nguy của trạng thái trung ấm. Vô số những thuộc hạ của Thần Chết sẽ đuổi bắt bạn với những tiếng kêu thét: “Giết! Giết! Đánh! Đánh!” Làm thế nào trong khoảng khắc đó, khi không có nơi để chạy tới, không có chỗ để ẩn náu, không chốn nương tựa và không chút hy vọng, khi bạn đang tuyệt vọng và không biết phải làm gì – làm thế nào vào một thời điểm quyết định như thế mà bạn có thể làm chủ được việc mình đi lên (cõi cao) hay đi xuống (cõi thấp)? Như Đấng Vĩ Đại xứ Oddiyana có nói:
+
+Đợi tới lúc được nhận lễ tịnh nghiệp $^{21}$ trên một tấm bảng có ghi tên bạn thì đã quá muộn! Khi ấy, tâm thức của bạn đã hoàn toàn lang thang trong trạng thái trung ấm như một con chó mê muội, và bạn sẽ thấy ra rằng ngay cả việc chỉ nghĩ tưởng về những cảnh giới cao hơn cũng thật vô cùng khó khăn.
+
+# I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Thật ra thì bước ngoặt quyết định, thời điểm duy nhất mà bạn thật sự có thể hướng dẫn mình đi lên hay đi xuống như thế đang điều khiển một con ngựa bằng dây cương, là ngay lúc này đây, trong khi bạn đang còn sống.
+
+Là một con người, thiện hạnh của bạn mạnh mẽ hơn thiện hạnh của các loài chúng sinh khác. Mặt khác, điều này cho bạn một cơ hội, vào lúc này và ngay tại đây, trong chính đời này của bạn, để bạn có thể dứt bỏ sinh tử luân hồi một lần và mãi mãi.22 Nhưng (cũng tương tự như thế), những ác hạnh của bạn cũng mạnh mẽ hơn. Do đó bạn cũng có thể quả quyết rằng mình sẽ không bao giờ thoát khỏi vực sâu của những cõi thấp. Vì thế, giờ đây là lúc bạn đã gặp được một vị Thầy, một vị y sĩ thiện xảo, và gặp được Giáo Pháp, là thần dược chiến thắng cái chết. Đây là lúc để áp dụng bốn pháp ẩn dụ, đưa giáo lý bạn đã được nghe vào thực hành, và du hành trên con đường dẫn tới giải thoát. Quyển Kho Báu Thiện Đức mô tả bốn khái niệm sai lạc cần phải tránh, là những khái niệm đối nghịch với bốn ẩn dụ mà chúng ta đã đề cập tới ở trên.
+
+Người miệng lưỡi nông cạn, với bản tánh xấu ác. Đến với vị Thầy như thể Ngài là một con hươu xạ. Rút tỉa xạ hương, Giáo Pháp viên mãn, Tràn đầy khoái lạc, họ phỉ báng giới nguyện.
+
+Những người như thế coi vị Thầy tâm linh của họ như một con hươu xạ, Giáo Pháp như xạ hương, bản thân họ là người đi săn, và công phu hành trì miên mật là cách thức để giết chết con hươu với một mũi tên hay một cái bẫy. Họ không hành trì giáo huấn mà họ đã thọ nhận và hoàn toàn không cảm thấy mang chút ân nghĩa gì đối với vị Thầy. Họ sử dụng Giáo Pháp để tích lũy ác hạnh, và điều này giống như một cái cối đá kéo lôi họ đoạ xuống những cõi thấp.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+2.2.2 Sáu Pháp Toàn Thiện Siêu Việt (Lục Độ Ba La Mật)
+
+Trong Liễu Nghĩa Giáo Huấn Chân Pháp Mật Điển có nói:
+- Hãy cúng dường phẩm vật tối hảo như hoa thơm và bồ đoàn,
+- Hãy thu vén (đạo tràng) và tự kiểm soát cung cách hành xử,
+- Chớ làm tổn thương bất kỳ chúng sinh nào,
+- Hãy chân thành tin tưởng nơi Thầy của bạn,
+- Hãy lắng nghe các giáo huấn của Ngài không sao lãng
+- Và đặt câu hỏi để xua tan các nghi ngờ;
+- Đây là sáu pháp toàn thiện siêu việt của người lắng nghe Giáo Pháp.
+
+Một người đang nghe giáo lý nên thực hành sáu pháp toàn thiện siêu việt (lục độ ba la mật) như sau:
+Hãy chuẩn bị chỗ ngồi cho vị Thầy, sắp xếp các tấm bồ đoàn lên đó, hãy dâng cúng một mạn đà la, hoa thơm, và các phẩm vật cúng dường khác. Đây chính là thực hành bố thí.
+
+Hãy quét dọn sạch sẽ [đạo tràng] hay quét dọn căn phòng sau khi đã cẩn thận rửa sạch bằng nước mát, và hãy tự chế mọi hành vi thiếu tôn kính. Đây chính là thực hành trì giới.
+
+Tránh làm tổn hại chúng sinh, ngay cả những con côn trùng nhỏ bé nhất, và hãy chịu đựng nóng, lạnh và mọi gian khó khác. Đây chính là thực hành nhẫn nhục.
+
+Đặt sang một bên bất kỳ quan niệm sai lạc nào liên quan đến vị Thầy và đến giáo lý, hãy hoan hỷ lắng nghe với niềm tin chân thật. Đây chính là thực hành tinh tấn.
+
+Hãy lắng nghe những giáo huấn của Đạo Sư một cách chú tâm không sao lãng. Đây chính là thực hành thiền định.
+
+Và hãy đặt câu hỏi để xua tan bất kỳ do dự hay mối nghi hoặc nào. Đây chính là thực hành trí tuệ.
+
+2.2.3 Những Phương Cách Hành Xử Khác
+
+Nên tránh tất cả những cung cách hành xử thiếu tôn kính. Luật tạng (*Vinaya*) có nói:
+
+> Không giảng dạy cho những người thiếu tôn kính,
+> Những người không bệnh mà trùm khăn đội đầu,
+> Những người mang gậy gộc, vũ khí và che dù,
+> Hay những người quấn khăn trên đầu.
+
+Và trong *Bản Sanh Truyện* (Truyện Tiền Thân Đức Phật) có nói:
+
+> Hãy chọn chỗ ngồi thấp nhất
+> Hãy vun bồi giới luật trang nghiêm hoàn hảo.
+> Với đôi mắt tràn đầy hoan hỷ,
+> Hãy uống từng lời như uống cam lồ,
+> Và hãy hoàn toàn chú tâm.
+> Đó là cách lắng nghe giáo lý.
+
+## II. CHÍNH VĂN GIÁO PHÁP: LUẬN GIẢI VỀ VIỆC KHÓ TÌM ĐƯỢC TỰ DO VÀ THUẬN DUYÊN
+
+Chủ đề chính yếu của chương này được giải thích qua bốn đề mục như sau: (1) quán chiếu về bản chất của tự do, (2) quán chiếu về những điều kiện thuận lợi đặc biệt [hay thuận duyên] liên quan đến Pháp, (3) quán chiếu về những hình ảnh cho thấy việc khó tìm được tự do và thuận duyên ra sao, và (4) quán chiếu về những đối chiếu dựa trên số lượng.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+1. Quán Chiếu về Bản Chất của Tự Do
+
+Ở đây, nói một cách tổng quát thì “tự do” có nghĩa là có được cơ hội để hành trì Phật Pháp và không bị sinh vào một trong tám trạng thái thiếu vắng cơ hội đó. “Thiếu tự do” ám chỉ tám trạng thái dưới đây khi ta không có được cơ hội hành trì Phật Pháp:
+
+ Sinh ra trong cõi địa ngục hay cõi ngạ quỷ,
+ Sinh ra làm thú vật, làm một vị trời trường thọ hay một kẻ man rợ,
+ Có tà kiến, sinh ra ở nơi không có Phật,
+ Hay sinh ra câm và điếc; đây là tám trạng thái không có tự do.
+
+Những chúng sinh bị tái sinh trong cõi địa ngục không có được cơ hội để hành trì Phật Pháp vì họ thường xuyên bị cái nóng hay cái lạnh khủng khiếp hành hạ dữ dội.
+
+Ngạ quỷ *(preta)* không có được cơ hội hành trì Phật Pháp vì những nỗi thống khổ mà họ phải chịu đựng do đói và khát.
+
+Súc sinh không có được cơ hội hành trì Phật Pháp bởi chúng phải sống đời nô lệ và chịu đựng những cuộc tấn công của những con thú khác.
+
+Các vị trời trường thọ không có được cơ hội hành trì Phật Pháp bởi họ tiêu phí thời giờ của mình trong một trạng thái tâm thức trống không.^[23]
+
+Những kẻ sinh ra ở các nơi biên địa không có được cơ hội hành trì Phật Pháp bởi giáo lý của Đức Phật không được biết tới ở những nơi như vậy.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Những kẻ sinh ra làm những kẻ ngoại đạo (tirthika*) có các loại tà kiến tương tự như vậy cũng không có được cơ hội hành trì Phật Pháp vì tâm thức họ chịu ảnh hưởng nặng nề của những tin tưởng sai lầm đó.
+
+Những kẻ sinh ra trong một Mạt Kiếp tối tăm không có được cơ hội hành trì Phật Pháp vì họ chưa từng được nghe đến Tam Bảo, và không thể phân biệt được tốt, xấu.
+
+Những người sinh ra bị câm hoặc khiếm khuyết về tinh thần không có được cơ hội hành trì Phật Pháp vì các giác quan bẩm sinh của họ không được đầy đủ.
+
+Những chúng sinh sống trong ba cõi thấp phải chịu đựng liên tục cái nóng, lạnh, đói, khát và những đau khổ khác, là kết quả của những hành động bất thiện trong quá khứ của họ; họ không có được cơ hội để thực hành Phật Pháp.
+
+Những “kẻ man rợ” là những người sống ở ba mươi hai biên địa như Lo Khatha,^24 và tất cả những ai coi việc làm tổn hại người khác như một đức tin, hoặc những người có niềm tin man rợ coi việc sát sinh là việc tốt lành. Những người này sống ở những nơi xa xôi hẻo lánh, tuy có được thân người nhưng tâm trí họ thiếu sự định hướng đúng đắn và bản thân họ không thể hòa hợp với Pháp. Thừa kế từ tổ tiên của họ những phong tục đồi bại như cưới mẹ của mình, họ sống một cuộc đời thực sự đối nghịch với Pháp. Tất cả mọi việc họ làm đều xấu ác, và họ vượt trội trong các kỹ thuật tạo ra ác hạnh như giết hại côn trùng hoặc săn bắt thú hoang. Nhiều người trong số đó bị đọa ngay xuống những cõi thấp sau khi họ chết. Đối với loại người như thế thì không có được cơ hội để hành trì Phật Pháp.
+
+Các vị Trời trường thọ là những vị Trời miệt mài trong một trạng thái tâm thức trống không. Chúng sinh phải bị sinh vào cõi này là do kết quả của việc họ tin rằng giải thoát là một
+
+* Tirthika, (mu rtegs pa): môn đồ của các truyền thống tôn giáo hay triết học phi-Phật Giáo, ám chỉ các tà kiến được mô tả ở Phần Một, Chương Bốn.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+trạng thái trong đó tất cả những hoạt động tâm thức, dù thiện hay ác, đều vắng bặt. Họ tin vào việc phải thiền định trong trạng thái tâm thức đó. Họ trụ trong trạng thái này liên tục trong nhiều đại kiếp. Nhưng một khi quả lành đưa đến trạng thái an định đó bị tiêu hao thì họ sẽ bị tái sinh vào những cõi thấp vì chính tà kiến của họ. Những chúng sinh này cũng không có bất kỳ cơ hội nào để thực hành Phật Pháp.
+
+Nói chung, thuật ngữ “tà kiến” bao gồm niềm tin vào thuyết vĩnh cửu (eternalists) và thuyết hư vô (nihilist), là những quan niệm đối nghịch với giáo lý của Đức Phật và nằm ngoài giáo lý Phật Pháp. Những quan niệm như vậy làm băng hoại tâm thức và ngăn cản không cho niềm khao khát về Chánh Pháp phát triển trong ta, tới nỗi chúng ta sẽ không còn cơ hội nào để thực hành Pháp nữa. Ở đây nơi xứ Tây Tạng, bởi Đức Phật thứ hai, Đức Liên Hoa Sanh (Padmasambhava) của xứ Oddiyana, đã giao phó việc bảo vệ xứ sở cho mười hai Tenma, nên chính ngay cả những kẻ ngoại đạo cũng không thể nào có thể xâm nhập được. Tuy nhiên, bất kỳ những ai có hiểu biết giống như hiểu biết của những kẻ ngoại đạo, là những hiểu biết mâu thuẫn với hiểu biết của Chánh Pháp và của những vị chân sư, thì chính vì lý do đó mà họ bị tước mất cơ hội để có thể thực hành Pháp dựa trên những giáo huấn chân chính. Tu sĩ Sunaksatra trải qua hai mươi lăm năm làm thị giả của Đức Phật, nhưng vì không có chút tín tâm nào và chỉ ôm giữ tà kiến trong lòng, nên cuối đời bị tái sinh làm ngạ quỷ trong một vườn hoa.
+
+Sinh trong một đại kiếp tối tăm có nghĩa là bị tái sinh vào một thời đại không có Phật. Trong một vũ trụ không có Phật xuất hiện, thậm chí chưa ai từng được nghe đến Tam Bảo. Bởi không có Pháp, nên không có cơ hội để hành trì Pháp.
+
+Tâm thức của người câm điếc không thể hoạt động đúng đắn. [Đối với người câm điếc], tiến trình lắng nghe Giáo Pháp, diễn giải, quán chiếu về Pháp, và đưa Pháp vào thực hành sẽ
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+gặp trở ngại. Định nghĩa “câm, điếc” thường để ám chỉ một khuyết tật về tiếng nói, ngôn ngữ. Khả năng thông thường của con người là khả năng sử dụng và hiểu biết ngôn ngữ. Khi không có được khả năng đó thì người ta cũng không có được cơ hội để đến với Pháp. Thế nên, phạm trù này cũng bao gồm những người có bệnh tâm thần khiến họ không thể nào thấu hiểu được Giáo Pháp và vì vậy họ cũng bị tước mất cơ hội để thực hành Pháp.
+
+2. Quán Chiếu về Những Thuận Duyên Đặc Biệt Liên Quan Đến Pháp
+
+Đề mục này bao gồm năm điều kiện thuận lợi hay thuận duyên cá nhân và năm điều kiện thuận lợi hay thuận duyên thuộc về hoàn cảnh.
+
+2.1 NĂM THUẬN DUYÊN CÁ NHÂN
+
+Ngài Long Thọ liệt kê năm thuận duyên thuộc về cá nhân như sau:
+
+Sinh ra làm người, ở nơi trung tâm, đầy đủ các giác quan, không sống đời xung đột với Pháp, và có niềm tin vào Phật Pháp.
+
+Không được sinh làm người thì ngay cả Phật Pháp cũng sẽ không được gặp. Vì vậy, thân người là thuận duyên hỗ trợ.
+
+Nếu bạn bị sinh ra ở một nơi hoang vu, một nơi chưa từng bao giờ được nghe tới Pháp thì bạn sẽ chẳng bao giờ gặp được Pháp. Nhưng bạn được sinh ra ở một nơi gọi là “trung tâm” có nghĩa là nơi đó, Phật Pháp được quan tâm đến, và vì thế bạn có thuận duyên về *nơi chốn*.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Nếu bạn không có đầy đủ các giác quan thì đó sẽ là một chướng ngại cho việc thực hành Pháp. Nếu bạn có đầy đủ các giác quan, bạn có thuận duyên sở hữu các giác quan.
+
+Nếu bạn có một lối sống đầy xung đột [đi ngược lại với Pháp, không thuận theo Giáo Pháp] thì bạn sẽ luôn đắm chìm trong những ác hạnh, sống một cuộc đời mâu thuẫn với Pháp. Giờ đây, bởi vì bạn đang mong muốn thực hiện những việc thiện lành, nên đây là thuận duyên về động lực.
+
+Nếu không có niềm tin vào Giáo Pháp của Đức Phật, bạn sẽ cảm thấy không có bất kỳ thiên hướng nào về Pháp. Việc bạn có khả năng xoay chuyển tâm thức của bạn hướng về Pháp như giờ đây bạn đang làm chính là thuận duyên về niềm tin.
+
+Rất cần thiết để có được đầy đủ tất cả năm điều kiện thuận lợi trên đây để tạo thành một cá thể nên năm điều kiện thuận lợi này được gọi là năm thuận duyên cá nhân.
+
+Để tu tập hành trì Chánh Pháp chân chính thì điều tuyệt đối cần thiết là phải sinh ra làm người. Giả dụ bạn không có được thân người như một trợ duyên mà lại mang hình dạng cao nhất trong các hình dạng của chúng sinh trong ba cõi thấp, là hình dạng của một con thú – kể cả là con vật đẹp đẽ nhất và được đánh giá cao nhất mà con người biết đến. Ngay cả như vậy, nếu có ai đó nói với bạn: “Hãy tụng một lần câu *Om mani padme hum*, và bạn sẽ thành Phật,” thì bạn cũng sẽ hoàn toàn không thể hiểu được lời họ nói hay nắm được ý nghĩa của câu nói đó, và bạn cũng sẽ không thể thốt ra được đến một lời. Trên thực tế, [trong thân xác của một con thú], cho dù bạn đang chết cóng vì lạnh, bạn cũng sẽ chẳng nghĩ ra được điều gì để làm mà chỉ biết nằm ụ ra đó – trong khi đối với một con người, cho dù họ có yếu ớt tới đâu chăng nữa thì họ cũng biết cách tìm trú ẩn trong một hang động hay dưới một gốc cây, có thể tìm nhặt củi và đốt một ngọn lửa để hơ ấm mặt và tay của mình. Nếu loài vật không thể làm ngay cả
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+những việc đơn giản như vậy, thì làm sao chúng có thể thấu hiểu được việc thực hành Pháp?
+
+Chư Thiên và những chúng sinh đại loại như vậy, cho dù họ có mang hình tướng siêu việt đến đâu chăng nữa, họ cũng không có đủ điều kiện để thọ các giới nguyện của Biệt Giải Thoát (Prātimoksa), do đó không thể thấm nhuần toàn bộ Giáo Pháp.
+
+Đối với định nghĩa của một “vùng trung tâm”, ta nên phân biệt giữa một vùng trung tâm có tính chất địa lý và một nơi là trung tâm trong phạm vi Giáo Pháp.
+
+Nói về mặt địa lý, vùng trung tâm thường được nói là Pháp Toà Kim Cương tại Bồ Đề Đạo Tràng25 ở Ấn Độ, nằm ngay trung tâm của cõi Diêm Phù Đề (Jambuvipa) hay Nam Thiệm Bộ Châu. Hàng ngàn vị Phật trong thời Hiền Kiếp đã đạt được quả vị Chánh Đẳng Chánh Giác ở nơi đây. Thậm chí ngay khi toàn thể vũ trụ bị huỷ hoại vào cuối thời Hiền Kiếp, bốn nguyên tố đất nước gió lửa cũng không thể hủy hoại được Pháp Toà Kim Cương tại Bồ Đề Đạo Tràng, và vùng trung tâm ấy sẽ tồn tại ở đó như thể được treo lơ lửng trong không gian. Ở trung tâm của Pháp Toà Kim Cương tại Bồ Đề Đạo Tràng mọc lên Cây Giác Ngộ (Cây Bồ Đề). Do đó, địa điểm này cùng với tất cả những thành phố của Ấn Độ nằm chung quanh đó, được coi là vùng trung tâm về mặt địa lý.
+
+Trong phạm vi Giáo Pháp, một vị trí trung tâm là ở bất cứ nơi nào mà Phật Pháp – giáo lý của Đức Phật – hiện hữu. Tất cả những vùng khác được gọi là vùng biên địa.
+
+Trong quá khứ xa xôi, khởi đi từ thời Đức Phật xuất hiện trên thế gian này, và cho đến khi nào mà Giáo Pháp của Ngài vẫn còn hiện hữu ở tại Ấn Độ, thì xứ sở đó là trung tâm về cả hai mặt địa lý và Giáo Pháp. Tuy nhiên, giờ đây là lúc xứ sở ấy đã rơi vào tay những kẻ ngoại đạo và giáo huấn của Đấng Chiến Thắng đã biến mất ở trên xứ sở đó, nên nếu nói trên
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+phương diện Phật Pháp thì ngay cả Bồ Đề Đạo Tràng cũng là xứ biên địa.
+Ở vào thời Đức Phật, Xứ Tuyết Tây Tạng được gọi là “Xứ Tây Tạng biên địa,” bởi xứ ấy là một xứ thưa dân mà Phật Pháp chưa được truyền bá đến. Sau này dân số tăng dần và một vài vị vua trị vì là những hóa thân của chư Phật. Trước tiên, Phật Pháp xuất hiện ở Tây Tạng trong triều đại vua Lha-Thothori Nyentsen, khi Kinh Bách Nguyện Bách Bái, một khuôn tsa-tsa, (dùng để đúc tượng Phật) và những bảo vật khác rơi xuống trên mái cung điện.
+Năm thế hệ sau đó, Pháp Vương Songtsen Gampo, một hóa thân của Đấng Đại Bi Siêu Phàm,* đã xuất hiện phù hợp với những lời tiên tri rằng Ngài sẽ thông suốt yếu nghĩa của Kinh văn (Sutra). Trong triều đại của Ngài, dịch giả Thönmi Sambhota được gửi tới Ấn Độ để học ngôn ngữ và văn tự Ấn Độ. Khi trở về, Ngài khai lập bản mẫu tự đầu tiên cho Tây Tạng. Ngài phiên dịch sang tiếng Tây Tạng hai mươi mốt bản Kinh và Mật điển của đức Quán Thế Âm (Avalokiteshvara), Oai Mật Kinh, cùng nhiều loại văn bản khác. Bản thân đức vua Songtsen Gampo đã hoá hiện trong nhiều thân tướng, và cùng với quan thừa tướng Gartongtsen, Ngài đã sử dụng nhiều phương tiện kỳ diệu để bảo vệ đất nước. Ngài tấn phong hoàng hậu cho hai công chúa, một đến từ Trung Quốc và một đến từ Nepal. Hai vị này đã mang theo nhiều biểu tượng của thân, khẩu, ý của Đức Phật bao gồm hai pho tượng Phật được gọi là Jowo Mikyo Dorje và Jowo Sakyamuni, là những biểu tượng đích thực của Đức Phật.26 Nhà vua cho xây dựng một loạt điện thờ được gọi là Thadul và Yangdul, trong đó ngôi điện chính có tên là Rasa Trulnang.27 Bằng vào cách ấy, Ngài đã thiết lập nền móng Phật Giáo ở Tây Tạng.
+
+* Đây ám chỉ đức Quán Thế Âm hay Quán Tự Tại (Avalokiteshvara), là Bồ Tát của lòng Bi Mẫn hay Đại Từ Đại Bi.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Vị kế nghiệp thứ năm của Ngài là vua Trisong Detsen đã mời thỉnh một trăm lẻ tám vị học giả đến Tây Tạng, kể cả đức Liên Hoa Sanh, bậc Đạo Sư xứ Oddiyana, bậc trì giữ mật chú vô song, bậc vĩ đại nhất trong suốt ba cõi giới. Để hộ trì những biểu tượng của thân của chư Phật, vua Trisong Detsen đã cho xây dựng nhiều chùa chiền gồm cả tu viện Samye, “một hiển lộ tự nhiên bất biến”. Để hộ trì ngữ của chư Phật tức Chánh Pháp, một trăm lẻ tám vị dịch giả gồm cả Ngài Vairotsana vĩ đại, đã trau dồi nghệ thuật phiên dịch và đã chuyển dịch tất cả các Kinh, Luận, và Mật điển chính yếu ở xứ Ấn Độ cao quý vào thời điểm đó (qua Tạng ngữ). “Bảy Vị Tăng Sĩ Tiên Phong” và những người khác đã thọ giới tỳ kheo, tạo thành một Tăng Đoàn để hộ trì tâm nguyện của chư Phật.
+
+Từ thời đó cho tới nay, Giáo Pháp của Đức Phật đã tỏa sáng như mặt trời ở Tây Tạng và mặc dù có lúc thịnh lúc suy, nhưng Giáo Pháp của Đấng Chiến Thắng chưa từng bị mai một trên cả hai khía cạnh truyền dạy và chứng ngộ. Do đó, đối với Tây Tạng trên phương diện Giáo Pháp thì Tây Tạng là một xứ trung tâm.
+
+Một người nếu thiếu bất kỳ giác quan nào trong năm giác quan thì cũng đều không thể có đủ điều kiện để thọ giới nguyện của tu viện. Ngoài ra, những ai không đủ may mắn để có thể nhìn thấy được những biểu tượng của Đấng Chiến Thắng nhằm khơi dậy lòng sùng mộ quy ngưỡng, hoặc không đủ may mắn để có thể tụng đọc hay lắng nghe những giáo lý quý báu và tuyệt hảo, là những chất liệu cần thiết cho công phu nghiên cứu và quán chiếu, thì họ sẽ không thể nào tiếp nhận được Giáo Pháp một cách trọn vẹn.
+
+Nếu muốn nói một cách chính xác thì “lối sống xung đột” (không thuận theo Phật Pháp) ám chỉ lối sống của những người phải bị sinh ra trong cộng đồng của những người làm thợ săn, gái điếm, v...v..., hoặc sinh ra làm kẻ bị dính líu đến những ác hạnh này từ thuở thiếu thời non dại nhất. Nhưng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+trong thực tế, “lối sống xung đột” cũng bao gồm bất kỳ những ai mà mỗi tư tưởng, lời nói và hành vi của họ đều trái nghịch với Pháp – thậm chí ngay cả những người không phải sinh vào kiểu sống như vậy cũng có thể dễ dàng lọt vào lối sống đó sau này. Vì thế, điều quan trọng là phải tránh làm bất cứ điều gì mâu thuẫn, đối nghịch với Giáo Pháp chân chính.
+
+Nếu bạn không đặt niềm tin nơi Phật Pháp mà lại tin vào các vị Trời, nāga (rồng nước) đầy quyền lực và v.v.. hay tin vào những học thuyết khác, chẳng hạn như giáo thuyết của những kẻ ngoại đạo thì dù bạn có thể đặt niềm tin nơi họ nhiều tới đâu chăng nữa, không ai trong số họ có thể bảo vệ bạn thoát khỏi những đau khổ của sinh tử luân hồi hoặc khỏi bị đọa vào những cõi thấp. Nhưng nếu bạn đã phát khởi được một niềm tin đúng đắn hợp lý nơi Giáo Pháp của Đấng Chiến Thắng, là Giáo Pháp hợp nhất được cả hai phương diện truyền thừa và chứng ngộ, thì không còn nghi ngờ gì nữa, bạn chính là một bình chứa thích hợp cho Giáo Pháp chân chính. Và đó là điều vĩ đại nhất trong năm thuận duyên cá nhân.
+
+## 2.2 NĂM THUẬN DUYÊN THUỘC VỀ HOÀN CẢNH
+
+*Một vị Phật đã xuất hiện và thuyết giảng Giáo Pháp, Giáo lý của Ngài vẫn hiện hữu và [§*] vẫn được noi theo, Và có những bậc nhân từ đối với kẻ khác (cũng đang hiện hữu).*
+
+Những người không được sinh ra trong một kiếp chói sáng (Minh Kiếp), là kiếp có một vị Phật xuất hiện, thì ngay cả đến Giáo Pháp, họ cũng sẽ không bao giờ được nghe nói tới. Nhưng giờ đây chúng ta đang sống trong một kiếp đã có một vị Phật xuất hiện, và vì vậy chúng ta có được thuận duyên của sự hiện diện của vị Thầy đặc biệt.
+
+# I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Mặc dù một vị Phật đã xuất hiện, nhưng nếu Ngài không giảng dạy thì sẽ chẳng có ai được lợi lạc. Nhưng bởi Đức Phật đã chuyển Pháp Luân phù hợp với ba căn cơ khác nhau nên chúng ta có thuận duyên của việc *truyền dạy Giáo Pháp*.
+
+Dù Ngài đã giảng dạy, nhưng nếu giáo lý của Ngài đã tàn lụi thì Giáo Pháp ấy sẽ không còn hiện diện ở đây để đem đến lợi lạc cho chúng ta. Nhưng bởi thời kỳ tồn tại của Giáo Pháp chưa chấm dứt, nhờ đó chúng ta có được thuận duyên về thời gian.
+
+Dù giáo lý còn tồn tại, nhưng trừ phi chúng ta tuân theo những gì đã được truyền dạy thì Giáo Pháp ấy chẳng thể đem lại lợi ích gì cho ta. Nhưng bởi chúng ta đã thọ trì Giáo Pháp, nên ta có thuận duyên về *phước duyên của riêng ta*.
+
+Dù chúng ta có thọ trì Giáo Pháp nhưng nếu không có hoàn cảnh thuận lợi được một vị Thầy tâm linh chấp nhận dạy dỗ thì chúng ta sẽ không bao giờ biết được Giáo Pháp thật sự là gì. Nhưng bởi có một vị Thầy đã chấp nhận dạy dỗ ta nên chúng ta có được thuận duyên về lòng bi mẫn phi thường của Ngài.
+
+Bởi ta cần có đầy đủ trọn vẹn năm yếu tố thuận lợi, thuộc về hoàn cảnh hơn là thuộc về chính chúng ta, nên năm yếu tố thuận lợi này được gọi là *năm thuận duyên thuộc về hoàn cảnh*.
+
+Thời gian để vũ trụ hình thành, hiện hữu, bị hủy diệt và tồn tại trong một trạng thái của không tánh được gọi là một kiếp (kalpa). Một đại kiếp trong đó một vị Phật Toàn Giác xuất hiện trên thế gian được gọi là một “kiếp chói sáng” hay là một Minh Kiếp (bright kalpa) trong khi đại kiếp không có một vị Phật xuất hiện được gọi là một “kiếp tối tăm” hay là một Ám Kiếp (dark kalpa). Từ xa xưa, trong Không Kiếp (kiếp hoá lạc - Kalpa of Manifest Joy) có ba mươi ba ngàn vị Phật xuất hiện. Tiếp theo là một trăm kiếp tối tăm. Sau đó, trong Kiên Kiếp
+
+# LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+(kiếp tuyệt hảo - Perfect Kalpa), tám trăm triệu vị Phật đã xuất hiện, rồi lại tiếp theo là một trăm kiếp không có Giáo Pháp. Rồi tới tám trăm bốn mươi triệu vị Phật xuất hiện trong Đệ Hồ Kiếp (kiếp toàn hảo - Excellent Kalpa), sau đó là năm trăm kiếp tối tăm. Trong Diệu Kiếp (Kalpa Delightful to See), tám trăm triệu vị Phật xuất hiện và sau đó là bảy trăm kiếp tối tăm. Sáu mươi tư ngàn vị Phật xuất hiện trong Kiên Đệ Hồ Kiếp (kiếp hoan lạc - Joyous Kalpa). Rồi tới kiếp của chính chúng ta gọi là Hiện Kiếp (Good Kalpa).
+
+Trước khi kiếp của chúng ta xuất hiện, vũ trụ gồm một tỷ thế giới này (tam thiên đại thiên thế giới) là một đại dương bao la mà trên bề mặt của đại dương ấy đã xuất hiện một ngàn đóa sen ngàn-cánh. Khi tự hồi kết thúc của kiếp xảy ra, chư Thiên trong cõi Trời Phạm Thiên đã dùng thần lực thấu thị để mình xác được điều này có thể xảy ra, chư Phạm Thiên đã dùng thần lực thấu thị để mình xác được điều này có thể xảy ra, một ngàn vị Phật sẽ xuất hiện. Họ nói rằng: "Đây sẽ là một kiếp tốt lành," và "Hiền" là tên của kiếp ấy.
+
+Từ thời đại khi thọ mạng của chúng sinh là tám mươi ngàn năm và Đức Câu Lưu Tôn Phật (Phạn: Krakucchanda) xuất hiện, và cho tới khi chúng sinh sẽ sống lâu không thể tính đếm và Đức Lâu Chí Phật (Phạn: Rucika) sẽ xuất hiện, một ngàn vị Phật sẽ đến với thế gian, an trụ trên Pháp Toà Kim Cương tại trung tâm của Diêm Phù Đề (Jambudvīpa). Mỗi vị Phật trong số một ngàn vị Phật sẽ chứng đắc Phật quả viên mãn ở đó và sẽ chuyển Pháp Luân. Vì thế, kiếp hiện tại của chúng ta là một kiếp chồi sáng.
+
+Theo sau đó là sáu mươi kiếp ngoại vi xấu ám, và sau đó, trong Vi Trần Kiếp (Kalpa of Vast Numbers), mười ngàn vị Phật sẽ xuất hiện. Rồi mười ngàn kiếp xấu ám khác sẽ xảy ra sau đó. Giữa sự luân phiên của những kiếp chồi sáng và kiếp tối tăm này, nếu ngẫu nhiên chúng ta phải bị sinh ra trong một
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+kiếp tối tăm, thì thậm chí ngay cả hai tiếng Tam Bảo cũng là điều mà chúng ta sẽ không bao giờ được nghe nói đến.
+
+Ngoài ra, như Đấng Vĩ đại xứ Oddiyana đã có chỉ rõ, riêng truyền thống Mật Thừa hay Kim Cang Thừa cũng chỉ được truyền dạy một cách hiếm hoi:
+
+Từ lâu xa về trước, ngay trong kiếp đầu tiên là Diêu Kiếp (Kalpa of the Complete Array), giáo lý Mật Thừa được Đức Phật có danh hiệu là Nhất Lai Vương Phật (Once-Come Buddha) truyền bá, và trở nên hết sức lừng lẫy. Giáo lý của Đức Phật Thích Ca Mâu Ni mà hiện nay chúng ta đang có cũng bao gồm Mật Thừa. Trong thời gian mười triệu kiếp, trong Tinh Tú Kiếp, Đức Phật Văn Thù (Mansjushri) sẽ xuất hiện, như ta đang xuất hiện, để khai phá giáo lý Mật Thừa trên một phạm vi cực kỳ rộng lớn. Đây là bởi vì chúng sinh trong ba kiếp này là những người thích hợp để lãnh hội Mật Thừa, và lý do mà giáo lý Mật Thừa không xuất hiện vào những thời điểm khác là bởi vì chúng sinh ở những thời điểm đó không có khả năng hành trì những giáo lý này.$^{28}$
+
+Trong Hiền Kiếp này, vào thời hiện tại khi thọ mạng của con người là một trăm năm, Đức Phật Thích Ca Mâu Ni toàn hảo đã xuất hiện trên thế gian, vì thế đấy là một kiếp chói sáng.
+
+Giả sử một vị Phật đã xuất hiện, nhưng Ngài vẫn còn trụ trong thiền định và chưa giảng dạy Giáo Pháp. Chừng nào mà ánh sáng Giáo Pháp của Ngài chưa hiển hiện thì sự xuất hiện của Ngài không tác động gì tới chúng ta. Điều đó cũng giống như thể Ngài chưa từng xuất hiện.
+
+Khi đạt được Phật Quả Chánh Đẳng Chánh Giác trên Toà Kim Cương, Bậc Thầy của chúng ta đã thốt lên rằng:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Ta đã tìm ra một Giáo Pháp giống như cam lồ,
+Thâm sâu, an bình, đơn giản, dễ hiểu, rạng rỡ.
+Nếu ta giảng về Giáo Pháp ấy, sẽ chẳng ai hiểu nổi,
+Vì thế ta sẽ ở đây, tịnh lặng trong rừng.
+
+Do đó, Ngài đã không giảng dạy trong bảy tuần cho tới khi Phạm Thiên (Brahma) và Đế Thích (Indra) khẩn cầu Ngài chuyển Pháp Luân. Hơn nữa, nếu những ai nắm giữ giáo lý chân chính mà không giảng dạy, thì Giáo Pháp ấy sẽ khó đem lại được bất kỳ lợi ích thực sự nào cho chúng sinh. Ví dụ Ngài Smrtijnana vĩ đại xứ Ấn Độ đã đến Tây Tạng vì mẹ Ngài tái sinh ra ở đây trong một Cô Độc Địa Ngục. Người thông dịch của Ngài đã chết trong cuộc hành trình, và Ngài đã lang thang khắp tỉnh Kham mà không thể nói được một tiếng Tây Tạng nào; sau đó, Ngài trở thành một người chăn cừu rồi chết ở đó mà không đem lại được lợi ích cho bất kỳ ai. Sau này khi Ngài Jowo Atisha đến Tây Tạng và biết được điều gì đã xảy ra, Ngài than khóc: “Đáng buồn thay! Dân Tây Tạng quí vị kém phước quá! Không đâu ở Ấn Độ, dù Đông hay Tây mà có được một học giả uyên thâm hơn Ngài Smrtijnana,” và chắp hai bàn tay lại, Ngài Atisha khóc.
+
+Đối với chúng ta, Đức Phật Thích Ca Mâu Ni đã chuyển Pháp Luân cho ba loại căn cơ khác nhau và Ngài đã thị hiện qua vô số hình tướng phù hợp với nhu cầu và căn cơ của những người cần được cứu giúp, dẫn dắt các đệ tử qua giáo lý của chín thừa để giúp cho họ trưởng thành trên con đường đạo và đạt được giải thoát.
+
+Ngay cả trong một kiếp có Đức Phật xuất hiện và ban cho giáo lý, nhưng một khi thời gian để giáo lý này tồn tại đã tới lúc chấm dứt và Giáo Pháp chân chính mà Ngài đã dạy biến mất không để lại dấu vết gì thì kiếp ấy cũng sẽ hoàn toàn giống như một kiếp tối tăm. Thời kỳ trung gian giữa khi giáo lý
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+của một vị Phật mất tăm dấu tích và khi giáo lý ấy lại được một đức Phật vị lai truyền dạy, thì thời kỳ ấy được mô tả là thời kỳ “không có Pháp.” Ở những nơi may mắn mà chúng sinh có đầy đủ công đức thì có các vị Độc Giác Phật (Pratyekabuddhas) xuất hiện, nhưng kinh điển không được giảng dạy hay thực hành [ở những nơi đó].
+
+Ngày nay, chúng ta vẫn còn có những giáo lý của Đức Phật Thích Ca Mâu Ni. Sự tồn tại của những giáo lý này đi theo một chu kỳ liên tục gồm mười thời kỳ. Trước tiên, có ba thời kỳ, mỗi một thời kỳ gồm năm trăm năm.^29 Trong thời kỳ này xuất hiện “giáo lý tâm yếu của Đức Phổ Hiền,” đó là quả.^30 Sau đó là ba thời kỳ kế tiếp, mỗi một thời kỳ gồm năm trăm năm dành cho *thành tựu*.^31 Tiếp theo là ba thời kỳ mà mỗi thời kỳ gồm năm trăm năm dành cho việc *truyền dạy*. Cuối cùng, một thời kỳ gồm năm trăm năm xuất hiện khi *chỉ còn lại những biểu tượng* mà thôi. Nói chung, chu kỳ liên tục này tạo nên mười thời kỳ, mỗi thời kỳ gồm năm trăm năm. Hiện nay chúng ta ở thời kỳ thứ bảy hay thứ tám. Chúng ta hiện đang sống trong một thời đại mà năm sự suy hoại đang tăng triển: suy hoại về thọ mạng, về lòng tin, về cảm xúc, về thời gian và về chúng sinh. Tuy nhiên, giáo lý liên quan đến việc truyền dạy và chứng ngộ vẫn còn hiện hữu. Bởi việc truyền dạy và chứng ngộ không bị mai một nên chúng ta vẫn sở hữu sự thuận lợi có được toàn bộ Giáo Pháp.
+
+Tuy nhiên, sự kiện Giáo Pháp vẫn còn hiện diện sẽ không có ích lợi gì trừ phi bạn tận dụng được Giáo Pháp ấy - giống như mặt trời hừng đông, mặc dù nó chiếu sáng khắp thế gian nhưng cũng không tạo được ngay cả một tác động nhỏ bé nhất cho một người mù. Và cũng như nước trong một cái hồ lớn không thể làm người lữ hành đang đi tới bờ hết khát, trừ phi họ thực sự uống nước ấy. Cũng như thế, Giáo Pháp đã được trao truyền cũng chẳng thể nào tự một mình thấm nhập được vào tâm trí bạn nếu bạn không đón lấy.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Nếu việc đến với Giáo Pháp chỉ nhằm để bảo vệ bản thân bạn thoát khỏi bệnh tật và thoát khỏi những ảnh hưởng xấu xa trong cuộc đời này, hoặc vì bạn sợ hãi những đau khổ của ba cõi thấp trong những đời sau, thì Giáo Pháp ấy được gọi là “Giáo Pháp như sự bảo vệ chống lại sợ hãi,” và đó không phải là cách thức đúng đắn để đưa ta bước đi trên con đường đạo.
+
+Nếu việc đến với Giáo Pháp chỉ để giúp cho ta có thực phẩm, quần áo trong đời này, hoặc để có được một phần thưởng tốt lành là được tái sinh trong cõi Trời hay được sinh làm người trong đời sau, thì Giáo Pháp ấy được gọi là “Giáo Pháp như sự tìm kiếm những gì ưu việt”.
+
+Nhưng nếu đến với Giáo Pháp mà hiểu được rằng toàn bộ luân hồi đều không có ý nghĩa, và muốn nỗ lực tìm ra một con đường để giải thoát khỏi cõi luân hồi thì điều ấy được gọi là “thọ trì giáo lý bằng cách bước đến ngay ở khởi điểm của con đường.”
+
+Cho dù nay bạn đã bắt đầu tu hành, thực hành Giáo Pháp thì điều ấy cũng sẽ chẳng ích lợi gì trừ phi bạn được một vị Thầy tâm linh chấp nhận cho làm đệ tử. Trong *Bát Nhã Tập Kệ* có nói:
+
+> Đức Phật và Giáo Lý dựa vào vị Thầy tâm linh.
+> Đấng Chiến Thắng, hiện thân tối thượng của mọi phạm hạnh tốt lành, đã nói như thế.
+
+Giáo lý của Đức Phật thì bao la, những lời thuyết giảng đã được trao truyền thì vô số kể, và giáo lý ấy bao trùm một phạm vi rộng lớn với những chủ đề vô tận. Nếu không nương tựa vào những giáo huấn tâm yếu cốt tủy của một vị Thầy, thì chúng ta sẽ chẳng bao giờ biết được làm cách nào để thâu góm được tất cả các điểm trọng yếu và đưa những điểm trọng yếu ấy vào thực hành.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Có một lần, khi Ngài Jowo Atisha đang ở Tây Tạng thì Khu, Ngok và Drom\* đến hỏi: “Đối với những người muốn đạt được giải thoát và toàn giác thì giữa những kinh điển, những luận giảng, hay những giáo huấn khẩu truyền của vị Thầy, cái nào quan trọng hơn?”
+
+Ngài Atisha trả lời:
+“Các giáo huấn của vị Thầy”.
+“Tại sao vậy?”
+“Bởi khi đi vào thực hành – cho dù các ông có thể giảng được toàn bộ Tam Tạng (Tripitaka) bằng trí nhớ và hết sức thiện xảo trong khoa siêu hình – nhưng nếu không có được sự hướng dẫn thực tế của một vị Thầy thì các ông và Giáo Pháp sẽ không thể hợp nhất được.”
+
+Họ tiếp tục hỏi: “Như vậy thì có phải điểm chính yếu của những giáo huấn của vị Thầy là để trì giữ ba giới nguyện và miên mật tạo những nghiệp lành với thân, khẩu và ý?”
+
+“Điều đó chẳng có chút lợi ích nào,” Ngài Atisha trả lời.
+“Làm sao có thể như vậy được?” họ kêu lên kinh ngạc.
+“Các ông có thể giữ ba giới nguyện một cách toàn hảo, nhưng trừ phi các ông nhất quyết giải thoát bản thân khỏi tam giới trong vòng luân hồi, còn bằng không thì việc giữ giới nguyện chỉ tạo thêm những nguyên nhân cho luân hồi sinh tử. Các ông có thể miên mật tạo những nghiệp lành với thân, khẩu, ý cả ngày lẫn đêm, nhưng trừ phi các ông biết cách hồi hướng công đức của những việc làm đó cho giác ngộ viên mãn, còn bằng không thì chỉ cần hai hay ba niệm tưởng sai lạc là cũng đủ để phá hủy toàn bộ các nỗ lực đó. Các ông có thể là những vị Thầy và thiền giả, uyên bác và được mọi người sùng kính, nhưng trừ khi tâm các ông đã được chuyển hoá, không bám vào tám pháp thế gian tầm thường, còn bằng không thì bất kỳ điều gì các ông làm cũng sẽ chỉ là để cho
+
+_________________
+\* Ba đệ tử chính của Ngài Atisha (xem Thuật ngữ).
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+cuộc đời hiện tại này, và các ông sẽ không thể gặp được con đường đem lại lợi lạc cho những đời sau.”
+
+Điều này minh họa tầm quan trọng của việc ta được một vị Thầy – một thiện tri thức – quan tâm chăm sóc đến.
+
+Hãy quán chiếu cuộc đời và những hoàn cảnh của riêng bạn dựa trên mỗi một điều kiện tự do trong tám điều kiện tự do và mỗi một điều kiện thuận lợi trong mười điều kiện thuận lợi, và nếu bạn nhận ra rằng tất cả mỗi một điều kiện thuận lợi (thuận duyên) đều đang hiện diện, thì bạn có được cái gọi là “đời người với mười tám điều kiện tự do và thuận duyên phú bẩm.” Tuy nhiên, Đấng Pháp Vương Toàn Giác Longchenpa, trong tác phẩm *Như Ý Bảo Luận* của Ngài, đã phân định mười sáu điều kiện phụ thuộc có thể gây khó khăn cho ta, không cho ta bất kỳ cơ hội nào để thực hành Pháp – gồm có tám hoàn cảnh xâm hại (intrusive circumstances),³² và tám thiên hướng không thích hợp (incompatible propensities).³³ Khi ta bị những điều kiện phụ thuộc này làm cho chao đảo thì điều quan trọng là không để cho mình bị suy sụp. Ngài có giảng rằng:
+
+Rối loạn bởi năm cảm thọ, đần độn, bị ảnh hưởng độc hại thống trị,
+
+Lười biếng, bị chìm ngập trong hậu quả của những ác hạnh trong quá khứ,
+
+Bị làm nô lệ cho người khác, tìm sự bảo vệ thoát khỏi hiểm nguy, và tu hành giả dối.
+
+Đây là tám hoàn cảnh xâm hại khiến ta không có được tự do (để tu hành).
+
+Bị trói cứng trong những ràng buộc riêng, truy lạc hoang độ,
+
+Không biết chán ghét luân hồi, hoàn toàn thiếu lòng tin,
+
+Vui thích với những hành vi xấu ác, không quan tâm gì đến Giáo Pháp,
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Lơ là các giới nguyện và mật nguyện:
+Đây là tám thiên hướng không thích hợp khiến ta không có được tự do (để tu hành).
+
+## 2.3 TÁM HOÀN CẢNH XÂM HẠI KHIẾN TA KHÔNG CÓ ĐƯỢC TỰ DO ĐỂ TU HÀNH
+
+Có những người mà ngũ độc trong họ thường nổi lên hết sức mạnh mẽ – đó là những cảm xúc tiêu cực như căm ghét kẻ thù, si mê bạn bè và những người thân thuộc và v.v.. Đôi khi họ cũng mong ước rằng họ có thể thực hành một ít Giáo Pháp chân chính. Nhưng ngũ độc quá mạnh, thường xuyên thống trị tâm thức họ và ngăn cản họ không bao giờ để họ có thể thành tựu Giáo Pháp một cách đúng đắn.
+
+Có những người rất ngu đần, thậm chí không có chút thông tuệ nào, những người này có thể đến với Giáo Pháp nhưng bởi vì họ không thể hiểu được ngay cả một từ vựng nào của giáo lý hay một ý nghĩa nào của giáo lý, nên họ không thể tu học hay quán chiếu và thiền định về Pháp.
+
+Một khi người ta được một ông thầy giả mạo nhận làm đệ tử và giảng dạy cho họ nghe về những quan điểm sai lạc và dạy cho họ hành động trong một cách thế lầm lạc, thì tâm thức họ sẽ bị dẫn dắt đi trên con đường sai lạc và không phù hợp với Giáo Pháp chân chính.
+
+Có những người muốn học Pháp nhưng quá lười biếng, không có lấy một chút kiên nhẫn nào, những người ấy sẽ chẳng bao giờ thành tựu bởi họ bị sập bẫy quá nặng trong chính sự lười nhác và chần chừ do dự của chính mình.
+
+Có những chướng ngại và ác hạnh của một số người mạnh mẽ tới nỗi, mặc dù họ có nỗ lực tu hành Giáo Pháp đến mấy chăng nữa, họ cũng sẽ thất bại trong việc phát khởi những phẩm tính tốt lành trong tâm thức họ. Những ác hạnh chồng chất nhiều kiếp làm cho họ choáng ngợp. Họ sẽ đánh
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+mất tín tâm vào giáo lý mà không nhận ra rằng tất cả là do những hành vi của chính họ trong quá khứ.
+Có những người bị làm nô lệ cho người khác và đánh mất quyền tự chủ, những người này có thể muốn thực hành Pháp nhưng chủ của họ không cho phép họ tu hành.
+Có một số người tìm đến với Giáo Pháp vì mang trong lòng những sợ hãi về cuộc đời này – họ sợ họ có thể thiếu thực phẩm hay quần áo, hoặc sợ phải trải qua những phiền não khác. Nhưng bởi họ không có lòng tin tưởng sâu xa nơi Pháp, nên họ tự nộp mình cho những huân tập xưa cũ của họ và để cho họ bị dính mắc vào những sự việc không phải là Pháp.
+Còn thêm những người khác là người giả mạo. Qua việc khoe khoang Giáo Pháp, họ cố gắng thâu đoạt của cải, muốn được cung phụng và muốn có uy tín. Đứng trước người khác, họ đội lốt hành giả, nhưng trong tâm thức thì họ chỉ quan tâm tới cuộc đời này, vì thế họ đã lìa xa con đường giải thoát.
+Đây là tám hoàn cảnh khiến cho con người không thể tiếp tục tu tập thực hành Giáo Pháp.
+
+2.4 TÁM THIÊN HƯỚNG KHÔNG THÍCH HỢP KHIẾN TA KHÔNG CÓ ĐƯỢC TỰ DO ĐỂ TU HÀNH
+
+Những người hết mực tham luyến vào những giao kết thế gian thường tình, vào tài sản, vào khoái lạc, con cái, thân quyến và v.v... Họ quá bận tâm trong những nỗ lực đầy căng thẳng gây ra bởi những điều này tới nỗi họ không có thời gian để thực hành Giáo Pháp.
+Một số người không có chút nhân tính nào, và bản chất họ suy đồi tới nỗi họ không thể nào sửa đổi được cung cách hành xử của họ. Ngay cả một vị Thầy chân chính cũng thấy rằng thật khó lòng có thể đưa dẫn những người này bước trên con đường cao quý. Như những đấng siêu phàm trong quá
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+khứ đã nói: “Khả năng của một đệ tử thì có thể uốn nắn được nhưng không thể nào uốn nắn được tánh khí căn bản của hắn.”
+Có người không cảm thấy khiếp sợ chút nào khi nghe nói tới việc tái sinh vào những cõi thấp và về những bất hạnh trong vòng luân hồi, hoặc khi đối diện với những đau khổ của cuộc đời hiện tại này, họ đã không có bất kỳ quyết tâm nào để giải thoát chính mình khỏi vòng sinh tử, và vì thế họ không có lý do gì để dấn mình vào việc tu hành Giáo Pháp.
+Có những người hoàn toàn không có niềm tin nào, dù tin nơi Giáo Pháp hay nơi vị Thầy; họ đóng chặt bất kỳ một lối vào nào dẫn đến giáo lý nào và chặn đứng bất kỳ cánh cổng nào dẫn đến con đường giải thoát.
+Có những người thích thú trong hành động gây tổn hại hay thích thú các ác hạnh, và là những người thất bại trong việc kiểm soát tư tưởng, ngôn ngữ và hành vi của họ. Những người này không có bất kỳ phẩm tính cao quý nào và đã xa rời Giáo Pháp.
+Có một số người quan tâm tới những giá trị tâm linh và Giáo Pháp không hơn gì một con chó đang ăn cỏ. Bởi họ không cảm thấy nhiệt thành với Giáo Pháp, nên những điều cao đẹp của Phật Pháp sẽ không bao giờ phát triển trong tâm thức họ.
+Còn bất kỳ ai khi đã bước vào tu tập theo Thừa Căn Bản mà lại vi phạm giới nguyện và vi phạm ước nguyện cam kết giữa tâm Bồ Đề, thì những người này chẳng còn chỗ nào khác để tới ngoài những cõi thấp. Họ sẽ không thể thoát khỏi những trạng thái ở cõi thấp nơi đó họ sẽ không có được cơ hội để tu hành.
+Cuối cùng, bất kỳ ai khi đã bước vào tu tập theo Mật Thừa mà lại vi phạm những mật nguyện đã cam kết với vị Thầy và với chư huynh đệ tâm linh của họ, thì điều ấy sẽ hủy hoại chính họ, hủy hoại vị Thầy và chư huynh đệ, cũng như sẽ hủy diệt luôn bất kỳ triển vọng thành tựu nào của họ.
+
+Đây là tám thiên hướng khiến cho con người xa rời Giáo Pháp và thổi tắt ngọn đèn giải thoát.
+
+Trước khi họ có thể cẩn thận loại trừ đi mười sáu yếu tố khiến người ta không có cơ hội tu tập thì con người trong thời đại suy đồi này có thể tỏ ra như thể họ đang có đầy đủ những điều kiện tự do và thuận lợi, và là những hành giả đích thực của Giáo Pháp. Tuy nhiên, vị thủ lãnh ngự trên chiếc ngai và vị Lạt Ma ngồi dưới chiếc lọng,34 vị ẩn sĩ trong chốn núi non cô tịch, kẻ đã từ bỏ chính sự, và bất kỳ kẻ nào đang có thể có một đánh giá cao về giá trị của bản thân mình – mỗi người trong số họ có thể nghĩ rằng hắn đang thực hành Pháp, nhưng chừng nào mà kẻ ấy còn ở dưới thế lực của những điều kiện phụ thuộc đầy giới hạn thì kẻ ấy vẫn không ở trên con đường tu đích thực.
+
+Vì thế, trước khi mù quáng mang vào người những hình tướng bề ngoài của Giáo Pháp, hãy cẩn thận quán xét chính tình trạng của bản thân bạn trước tiên, xem bạn có đủ ba mươi bốn yếu tố của các điều kiện tự do và thuận lợi hay không. Nếu bạn có đầy đủ những yếu tố ấy, hãy hoan hỷ và quán chiếu sâu xa về những điều ấy nhiều lần. Hãy tự nhắc nhở mình rằng, giờ đây, khi mà cuối cùng bạn cũng đã có đầy đủ được những điều kiện tự do và thuận lợi rất khó tìm, thì bạn sẽ không phí phạm những trợ duyên ấy; cho dù bất kỳ điều gì xảy ra, bạn cũng sẽ thực hành Giáo Pháp chân chính. Tuy nhiên, nếu bạn tìm thấy ra rằng bạn vẫn còn thiếu sót một số khía cạnh nào đó thì hãy cố gắng đạt được những điều ấy bằng bất kỳ phương tiện nào có thể có được.
+
+Trong mọi lúc, bạn nên chú tâm quán chiếu thật cẩn thận xem bạn có tất cả những yếu tố tự do và thuận lợi hay không. Nếu bạn không quán chiếu, và để cho bất kỳ một trong những yếu tố này bị thiếu sót, thì bạn sẽ đánh mất cơ
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+hội để thực sự hành trì Phật Pháp. Cuối cùng, ngay cả việc thực hiện duy nhất một công việc thứ yếu hàng ngày cũng đòi hỏi nhiều chất liệu và nhiều điều kiện phụ thuộc hỗ tương cho nhau; những điều ấy phải cùng hợp lại trong cùng một thời điểm. Có gì đáng phải kinh ngạc đâu, nếu ta muốn chứng ngộ mục đích tối thượng – chứng ngộ Giáo Pháp – thì điều này sẽ không thể xảy ra được nếu không có sự tiếp hợp của nhiều yếu tố được liên kết với nhau.
+
+Hãy hình dung một lữ khách muốn pha một ít trà. Việc pha trà liên quan đến nhiều yếu tố khác nhau – ấm trà, nước, củi, lửa và v..v... Trong những yếu tố này, chỉ riêng việc đánh lửa sẽ không thể thực hiện được nếu thiếu đá lửa, thép, bùi nhùi, hai bàn tay của lữ khách và v..v... Nếu chỉ thiếu một yếu tố chẳng hạn như bùi nhùi, sự thực là dù người lữ khách có đủ mọi thứ khác đi nữa thì cũng chẳng ích lợi gì. Cũng thế, nếu thậm chí chỉ một yếu tố trong những điều kiện tự do và thuận lợi bị thiếu sót thì ta sẽ không có chút cơ hội nào để tu tập Chân Pháp.
+
+Nếu bạn cẩn thận quán sát tâm bạn, bạn sẽ thấy rằng ngay cả những điều kiện tự do và mười thuận duyên căn bản cũng rất khó đạt được, và bạn sẽ nhận ra là có đủ mười thuận duyên thì thậm chí còn hiếm hoi hơn cả việc có tám điều kiện tự do.
+
+Có một số được sinh ra làm người, với đầy đủ mọi giác quan nguyên vẹn và họ ở trong vùng trung tâm, nhưng họ lại dính mắc vào một lối sống mâu thuẫn với Giáo Pháp; họ không có lòng tin vào giáo lý của Đấng Chiến Thắng. Nếu như vậy thì những người này chỉ còn có ba thuận duyên mà thôi. Nếu họ có được một trong hai điều kiện thuận lợi hay thuận duyên còn lại kia thì họ vẫn chỉ có được bốn thuận duyên. Giờ đây, để có được một lối sống hoàn toàn không xung đột với Giáo Pháp thì điều này cực kỳ khó khăn. Nếu bất kỳ tư tưởng, lời nói và hành vi nào của một người cũng đều
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+tiêu cực và những động cơ thúc đẩy họ chỉ cốt nhắm tới cuộc đời này, thì trên thực tế, cho dù họ có nổi tiếng là một người tốt và uyên bác chăng nữa, cách sống của họ cũng vẫn mâu thuẫn với Giáo Pháp.
+
+Cái nhìn như trên cũng được áp dụng tương tự cho năm thuận duyên thuộc về hoàn cảnh. Nếu một vị Phật xuất hiện, giảng dạy Giáo Pháp và giáo lý ấy vẫn còn hiện hữu, nhưng nếu một người không bước vào con đường tu (đến với Giáo Pháp), thì người đó chỉ có được ba trong số các điều kiện thuận lợi đã nêu. Ở đây, một lần nữa, “bước vào con đường tu” không đơn giản là thỉnh cầu một vài giáo lý và được ban cho giáo lý đó. Điểm khởi đầu của con đường giải thoát là (1) lòng xác tín rằng toàn bộ vòng luân hồi đều vô nghĩa, và (2) có quyết tâm chân thật muốn giải thoát khỏi toàn bộ luân hồi. Để đi trên con đường Đại Thừa, điều cốt yếu là (3) phát khởi được Bồ Đề Tâm chân thành. Điều tối thiểu cần phải có là (4) niềm tin bất thối chuyển nơi Tam Bảo, đến nỗi bạn sẽ không thể bao giờ từ bỏ được Tam Bảo cho dù là để cứu mạng mình. Không có được những điều đó thì việc chỉ đơn giản trì tụng những lời cầu nguyện và khoác vào người những chiếc y vàng không phải là bằng chứng bạn đã bước vào con đường tu.
+
+Hãy đoan chắc là bạn biết cách nhận ra được mỗi một điều kiện trong tất cả những điều kiện tự do và thuận duyên, và hãy tự quán chiếu xem là bạn có những điều ấy hay không. Đây là vấn đề trọng yếu.
+
+## 3. Quán Chiếu Dựa Trên Những Biểu Tượng Để Thấy Rằng Tự Do và Thuận Duyên Rất Khó Tìm
+
+Đức Phật nói rằng việc có được thân người (được sinh ra làm người) còn khó hơn việc một con rùa trồi lên từ đáy biển, ngẫu
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+nhiên chui đầu vào cái lỗ của một cái ách bằng gỗ đang dập dình trên mặt đại dương giữa những cơn sóng khổng lồ.
+
+Hãy hình dung toàn thể vũ trụ gồm một tỉ thế giới (tam thiên đại thiên thế giới) như một đại dương bao la. Một cái ách trôi nổi trên mặt biển, đó là một miếng gỗ có khoét một cái lỗ để tròng quanh sừng trâu bò được dùng để kéo xe. Cái ách này bị sóng biển làm cho trôi nổi đó đây, khi thì hướng đông khi thì hướng tây, không bao giờ ở một chỗ dù trong chốc lát. Ở đáy sâu của đại dương có một con rùa mù cứ một trăm năm lại nổi lên mặt nước một lần.$^{35}$ Việc con rùa và cái ách có thể gặp được nhau là điều cực kỳ khó có thể xảy ra. Bản thân cái ách là vật vô tri; con rùa thì không có ý định tìm cái ách. Con rùa bị mù không thể dùng mắt để nhận ra cái ách. Nếu cái ách đứng yên ở một chỗ, thì còn dễ có thể có một cơ hội để chúng gặp nhau; nhưng cái ách lại di chuyển liên tục. Nếu con rùa phải sử dụng toàn bộ thời gian để bơi quanh mặt biển thì có lẽ nó có thể gặp cái ách; nhưng nó chỉ nổi lên duy nhất một lần trong một trăm năm. Do đó, những cơ hội để con rùa và cái ách gặp nhau thật hết sức nhỏ nhoi. Tuy nhiên, nhờ cơ hội mỏng manh ấy mà con rùa vẫn có thể chui đầu vào cái ách. Nhưng Kinh điển nói rằng so với điều đó thì việc được sinh ra làm người với những điều kiện tự do và thuận lợi thậm chí còn khó hơn thế nữa. Tổ Long Thọ có mô tả điều này trong *Long Thọ Bồ Tát Khuyến Giới Vương Tụng* (Lời Khuyên cho Vua Surabhibhadra):$^{36}$
+
+Thật khó xảy ra việc một con rùa mù có thể ngẫu nhiên trôi lên chui đầu vào một cái ách dập dình trên một đại dương bao la;
+Tuy thế, so với việc tái sinh làm súc sinh thì việc được sinh ra làm người còn hiếm hoi hơn thế nữa.
+Do đó, ôi Đức Vua,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Hãy tu hành Giáo Pháp chân chính để vận may của Ngài sẽ kết thành chánh quả!
+
+Và Ngài Tịch Thiên (Santideva) có nói:
+
+Đức Phật đã tuyên thuyết rằng giống như một con rùa ngẫu nhiên có thể
+Đặt đầu nó vào trong một cái ách trôi dạt giữa đại dương không bờ bến,
+Việc sinh ra làm người quả thật khó tìm.
+
+Sự khó khăn của việc được sinh ra trong thân người cũng được so sánh với việc ta ném những hạt đậu khô vào một bức tường trơn láng mà hạt đậu lại dính được vào bức tường đó, hay việc đặt một nhúm đậu cho thật cân phân trên đầu một mũi kim dựng đứng – việc làm này, thậm chí chỉ phải làm với một hạt đậu duy nhất thôi là cũng đã đủ khó rồi! Điều quan trọng là ta phải thấu hiểu những biểu tượng so sánh này, được trích ra từ Đại Bát Niết Bàn Kinh, cùng với những so sánh tương tự ở trong các bản văn khác.
+
+4. Quán Chiếu Dựa Trên Những So Sánh Bằng Số Lượng
+
+Khi bạn khảo sát số lượng tương đối của các loại chúng sinh khác nhau, bạn có thể cảm kích rằng để được sinh làm một con người thì hoàn toàn khó có thể có được. Qua cách minh họa trên, ta được biết rằng chúng sinh trong các cõi địa ngục thì nhiều như sao trong bầu trời đêm, [và nếu so theo đó thì] số chúng sinh trong cõi ngạ quỷ thì không thể nhiều hơn được số lượng những ngôi sao nhìn thấy vào ban ngày. Còn nếu ngạ quỷ nhiều như sao ban đêm, thì súc sinh chỉ nhiều như
+
+# I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+những vi sao ban ngày; và nếu sức sinh nhiều như sao ban đêm, thì chư Thiên và con người chỉ như sao ban ngày.
+
+Cũng có được nghe nó rằng chúng sinh trong địa ngục nhiều như vi trần (bụi) trong toàn thể thế giới, nga quỷ nhiều như cát sông Hằng, súc sinh nhiều như những hạt lúa mạch trong một thùng chứa bia, $^{37}$ và A Tu La nhiều như những bông tuyết trong một trận bão tuyết – nhưng chư Thiên và con người thì ít như những hạt bụi đất dính trong móng móng tay.
+
+Để có được thân tương như bất kỳ chúng sinh nào trong các cõi cao cũng đã là hiếm có, nhưng có được một đời người với đầy đủ những điều kiện tự do và thuận duyên thì lại càng hy hữu hơn nữa. Chúng ta có thể tự thấy rằng vào bất kỳ lúc nào nếu so với loài vật thì loài người ít ỏi hơn biết bao. Hãy nghĩ xem có bao nhiêu sâu bọ sống trong một cục đất vào mùa hè, hay có bao nhiêu con kiến trong một tổ kiến duy nhất – mới chỉ nhiều bằng số người trong toàn thế giới. Nhưng ngay trong nhân loại, chúng ta có thể thấy rằng so với tất cả những ai sinh trong những miền xa xôi hẻo lánh nơi mà Giáo Pháp chưa từng xuất hiện, thì những người sinh ra ở những nơi Giáo Pháp đã được truyền bá thật đặc biệt hiếm hoi. Và ngay cả trong những người đó cũng chỉ có một số rất ít người có đủ những điều kiện tự do và thuận duyên.
+
+Với tất cả những viễn cảnh này trong tâm, bạn nên để cho lòng mình tràn đầy hoan hỷ khi biết rằng bạn thực sự có được đầy đủ tất cả mọi điều kiện tự do và thuận duyên [để có thể tu hành].
+
+Một đời người có thể được gọi là một “đời người quý báu” chỉ khi nào đời người ấy chứa đựng đầy đủ mọi khía cạnh của những điều kiện tự do và thuận duyên, và từ đó trở đi mới thực sự trở nên quý báu. Nhưng khi nào mà những khía cạnh đó chưa được đầy đủ, thì cho dù sự hiểu biết, kiến thức và tài năng của bạn trong những sự việc thông thường có rộng lớn
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+tới đâu chăng nữa, bạn cũng không có được một « đời người quý báù ». Như thế có nghĩa là bạn chỉ có được cái gọi là một đời người bình thường, một đời người đơn thuần, đời người không may mắn, đời người vô nghĩa, hay một đời người trắng tay. Đời người như thế thì cũng giống như việc tay cầm ngọc như ý mà không biết sử dụng nó, hay việc bạn đi đến một xứ sở ngập đầy châu báu mà trở về tay không.
+
+Tình cờ gặp được một viên ngọc quý
+Thì chẳng đáng gì đối với việc tìm được đời người quý báu.
+Hãy nhìn xem những kẻ không biết ngao ngán luân hồi
+Lãng phí cuộc đời ra sao!
+
+Chiếm được cả một vương quốc
+Thì chẳng đáng gì đối với việc gặp được một vị Thầy toàn hảo.
+Hãy nhìn những người không có lòng quy kính
+Đối xử với vị Thầy như ngang hàng với họ ra sao!
+
+Đứng đầu cả một vùng, miền
+Thì chẳng đáng gì đối với việc thọ Bồ Tát giới.
+Hãy nhìn những người không có lòng bi mẫn
+Ném bỏ những giới nguyện của họ ra sao!
+
+Được cai trị cả thế giới
+Thì chẳng đáng gì đối với việc thọ nhận quán đảnh Mật Thừa.
+Hãy nhìn những kẻ không tuân giữ các mật nguyện
+Vứt bỏ những hứa nguyện của họ ra sao!
+
+Thấy được Đức Phật
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Thì chẳng đáng gì đối với việc thấy được chân tánh của tâm
+Hãy nhìn những kẻ không có quyết tâm
+Lại chìm sâu trong mê lầm ra sao!
+
+Những điều kiện tự do và thuận duyên này không đến tình cờ hay ngẫu nhiên. Tất cả đều là kết quả của công đức và trí tuệ đã được tích lũy trong nhiều kiếp. Đại học giả Trakpa Gyaltsen có nói:
+Có được thân người đầy đủ các tự do và thuận duyên này
+Không phải là kết quả của tài xoay sở
+Mà đến từ công đức bạn đã tích lũy được.
+
+Có được đời người chỉ để đắm mình trong những ác hạnh mà không có chút ý niệm nào về Đạo Pháp thì còn thấp kém hơn cả chúng sinh trong những cõi thấp. Như Ngài Jetsun Milarepa đã từng nói với người thợ săn Gonpo Dorje:
+
+Có được những tự do và thuận duyên của một đời người thì thường được coi là quý báu,
+Nhưng khi ta nhìn những người như ông thì thấy chẳng có vẻ quý báu chút nào.
+
+Không gì có khả năng chiêu cảm, đọa bạn xuống những cõi thấp hơn là chính cuộc đời của con người. Bạn làm gì với cuộc đời ấy, ngay bây giờ, tuỳ thuộc vào chỉ mình bạn thôi:
+
+Khéo sử dụng thì thân này là chiếc bè đưa tới giải thoát,
+Sử dụng một cách tệ hại thì thân này neo chúng ta lại với luân hồi.
+Thân xác này so tài cao thấp giữa giữa hai cái thiện lẫn ác.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Chính là nhờ vào năng lực của tất cả công đức bạn đã tích lũy được trong quá khứ mà giờ đây bạn có được thân người với đầy đủ mười tám điều kiện tự do và thuận duyên. Việc bạn sao lãng điều cốt tủy duy nhất – Giáo Pháp siêu việt – và thay vào đó, tiêu trọn đời bạn trong việc thâu hoạch thực phẩm, quần áo và mê đắm tám mối quan tâm thế gian (bát phong), thì đó chính là phí phạm những tự do và những thuận duyên của bạn một cách thật vô ích. Thật vô ích sự biết bao khi chờ đến lúc cái chết vồ chụp lấy bạn rồi đến lúc đó bạn mới đấm ngực ăn năn hối tiếc! Hẳn là bạn đã có một chọn lựa sai lầm, như đã có nói trong Nhập Bồ Tát Hạnh:
+
+Do đó, khi đã tìm được những tự do của một đời người,
+Nếu giờ đây tôi không rèn luyện bản thân bằng đức hạnh,
+Thì liệu còn có sự điên rồ nào to lớn hơn?
+Làm sao tôi có thể lừa dối chính mình hơn được nữa?
+
+Như thế, cuộc đời hiện tại này là bước ngoặt mà nhờ đó bạn có thể lựa chọn giữa cái thiện trường cửu hay cái ác lâu dài. Nếu ngay bây giờ bạn không tận dụng những tự do có được trong đời này để nắm lấy thành lũy của chân tánh tối hậu, thì trong những đời sau bạn sẽ rất khó có được tự do như thế này một lần nữa. Một khi bạn phải bị tái sinh vào trong bất kỳ thân tướng nào nơi những cõi thấp, thì sẽ chẳng bao giờ còn có ý niệm nào về Đạo Pháp loé lên trong bạn. Quá hoang mang không biết điều gì nên làm và điều gì không nên làm, bạn sẽ không ngừng lao càng lúc càng sâu xuống những cõi thấp. Vậy hãy tự nhủ rằng bây giờ là lúc để phải cố gắng tu hành, thiền định liên tục, áp dụng ba phương pháp tối thắng sau đây: (1) khởi đầu với ý niệm về Bồ Đề Tâm, (2) hành trì chính các pháp tu mà không có mảy may vọng tưởng, và (3) hồi hướng công đức vào lúc kết thúc.
+
+I. TỰ DO VÀ THUẬN DUYÊN KHÓ TÌM
+
+Như một hình thức đo lường xem pháp tu này (tư duy về những điều kiện tự do và thuận duyên của đời người) thực sự thuyết phục chúng ta nhiều tới mức độ nào, thì chúng ta phải làm sao để giống được như Geshe Chengawa, người đã sử dụng toàn bộ thời gian để tu tập và thậm chí không bao giờ ngủ. Ngài Geshe Tonpa nói với đệ tử rằng: “Tốt hơn là con nên nghỉ ngơi, con của ta. Con sẽ làm mình bị bệnh đấy.”
+
+“Vâng, con sẽ nghỉ ngơi,” Ngài Chengawa trả lời. “Nhưng khi con nghĩ thật khó khăn biết bao để tìm được những điều kiện tự do và thuận duyên mà chúng ta đang có, thì con không có thời giờ nào để nghỉ ngơi.” Ngài trì tụng chín trăm triệu lần câu thần chú của Miyowa và không ngủ suốt cuộc đời Ngài. Chúng ta phải thiền định cho đến khi nào một lòng xác tín y hệt như vậy thực sự trỗi dậy trong tâm thức chúng ta.
+
+Dù con đã đạt được những tự do này, con vẫn nghèo khó trong Giáo Pháp, là tinh túy của tự do.
+Dù con đã bước đến với Đạo Pháp, con đã lãng phí thời giờ khi làm những công việc khác.
+Xin từ bi gia hộ cho con và những kẻ xuẩn ngốc như con,
+Để chúng con có thể đạt được tinh túy đích thực của những tự do và thuận duyên khó tìm.
+
+[Hình: Tranh vẽ các vị Phật, Bồ Tát và các bậc thầy Phật giáo Tây Tạng]
+
+Vua Trisong Detsen (790 – 844)
+
+Là vị vua đã thỉnh mời học giả Santaraksita (Tịch Hội) và đạo sư Kim Cương Thừa Liên Hoa Sanh (Padmasambhava) tới Tây-Tạng. Ngài cho xây dựng Samye, tu viện đầu tiên tại Tây Tạng, và nhận lãnh trách nhiệm củng cố nền tảng Phật Giáo tại Tây-Tạng.
+
+# CHƯƠNG HAI
+
+## LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Nhìn tam giới này như ảo ảnh phù du,
+Ngài bỏ lại sau lưng những mối quan tâm thế tục, như bãi nước bọt trong bụi đất.
+Chấp nhận mọi gian khó, Ngài theo chân chư Đạo Sư đời quá khứ.
+Đạo Sư Vô Song, con đảnh lễ dưới chân Ngài.
+
+Cách thức để lắng nghe Giáo Pháp đã được mô tả trong Chương thứ Nhất. Chủ đề chính yếu trong chương này bao gồm bảy pháp thiền quán về: (1) sự vô thường của vũ trụ bên ngoài (outer universe) nơi có chúng sinh đang sinh sống, (2) sự vô thường của chúng sinh sống trong đó, (3) sự vô thường của những bậc hiền thánh, (4) sự vô thường của những người có địa vị và thế lực, (5) các ví dụ khác về vô thường, (6) sự bất định của những hoàn cảnh đưa đến cái chết, và (7) sự tỉnh giác mãnh liệt về lẽ vô thường.
+
+## I. SỰ VÔ THƯỜNG CỦA VŨ TRỤ BÊN NGOÀI NƠI CÓ CHÚNG SINH ĐANG SINH SỐNG
+
+Thế giới của chúng ta, môi trường bên ngoài này được hình thành bởi cộng nghiệp tốt lành của chúng sinh. Thế giới ấy được cấu trúc một cách thật vững chãi, kiên cố, bao gồm bốn đại lục, Núi Tu Di và các cõi trời, và thế giới ấy tồn tại trọn
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+một đại kiếp. Tuy vậy, thế giới ấy thì vô thường và sẽ không thoát khỏi sự hủy diệt cuối cùng của bảy quá trình hoả tai (thiên tai do lửa gây ra) và một quá trình thủy tai (thiên tai do nước gây ra).
+
+Khi kiếp hiện tại đang tiến dần đến thời điểm của sự hủy diệt, chúng sinh sinh sống trong các cõi thấp (dưới cõi của chư Thiên chứng đắc định sơ thiền) sẽ dần dần biến mất trong từng cõi một, cho tới lúc không còn sót một chúng sinh nào.
+
+Rồi, cái này sau cái kia, bảy mặt trời sẽ mọc trong bầu trời. Mặt trời thứ nhất sẽ thiêu sạch tất cả các cây ăn trái và rừng rậm. Mặt trời thứ hai sẽ làm bốc hơi mọi giòng suối, vũng lạch, và ao hồ; mặt trời thứ ba sẽ làm khô cạn mọi con sông; và mặt trời thứ tư làm khô cạn các hồ lớn, ngay cả hồ Manasarovar. Khi mặt trời thứ năm xuất hiện, các đại dương cũng sẽ dần dần bốc hơi, trước tiên tới bề sâu một trăm lý (một lý = 4,8km), rồi hai trăm, bảy trăm, một ngàn, mười ngàn, và cuối cùng là tám mươi ngàn lý. Nước biển còn sót lại sẽ rút từ một lý xuống một tầm nghe, cho tới khi chỉ còn lại thậm chí không đầy một vết chân. Vào lúc cả sáu mặt trời cùng bốc cháy, toàn thể trái đất và các ngọn núi phủ tuyết cũng sẽ bốc cháy thành những ngọn lửa. Và khi mặt trời thứ bảy xuất hiện, chính Núi Tu Di sẽ bốc cháy đồng thời với bốn đại lục, tám tiểu lục địa, bảy ngọn núi vàng, và vòng tường gồm các ngọn núi ngay nơi bờ mép của vũ trụ này. Mọi thứ sẽ chảy ra thành một đống lửa khổng lồ. Khi lửa cháy xuống phía dưới, nó sẽ thiêu đốt mọi cảnh giới địa ngục. Khi nó cháy lên trên, lửa sẽ nhận chìm thiên cung của Phạm Thiên, đã bị phế bỏ từ lâu. Trên các cung Trời, các vị Trời trẻ tuổi trong cảnh giới Tịnh Quang sẽ hoảng sợ thét lên: “Đám cháy lớn khủng khiếp!” Nhưng các vị Trời lớn tuổi hơn sẽ trấn an và nói: “Đừng sợ! Khi
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+lửa cháy đến thế giới của Phạm Thiên, nó sẽ lụi tàn. Điều này đã từng xảy ra trước đây.”*
+
+Sau bảy lần bị lửa hủy diệt như thế, các đám mây mưa sẽ hình thành trong cảnh giới của các vị Trời thuộc tầng thiền thứ hai và một trận mưa như thác có độ dầy bằng một cái ách sẽ đổ xuống, theo sau là một trận mưa dày bằng một cái cày. Giống như muối hòa tan trong nước, tất cả mọi thứ từ cõi Tịnh Quang trở đi và kể cả cõi giới Tịnh Quang, cũng sẽ đều tan ra.
+
+Sau khi sự hủy hoại thứ bảy do nước gây ra như thế qua đi, chày kim cang đôi của gió ở đáy vực của thế giới sẽ nổi lên. Giống như bụi đất bị gió tung rải, mọi thứ từ cõi tam thiền trở đi và kể cả cảnh giới của các vị Trời của tầng thiền thứ ba này cũng sẽ hoàn toàn bị cuốn đi.
+
+Hãy quán chiếu sâu xa và một cách chân thành để thấy rằng, nếu mỗi một trong hàng tỉ thế giới cấu tạo nên các vũ trụ – mỗi thế giới với một Núi Tu Di, bốn trung châu (lục địa) và các cõi Trời riêng – còn phải bị hủy diệt cùng lúc theo cách thức như đã được mô tả như trên, chỉ còn để lại không gian ở phía sau, thì làm thế nào những thân người như chúng ta, giống như những con ruồi lúc cuối mùa, có thể có được chút thường hằng vĩnh cửu hay sự bền vững nào?
+
+## II. SỰ VÔ THƯỜNG CỦA CHÚNG SINH SỐNG TRONG VŨ TRỤ
+
+Từ tột đỉnh của các cõi Trời cao nhất cho tới tận cùng của địa
+
+* Những giai đoạn huỷ diệt này hoàn toàn xảy ra trong một đại kiếp, nhưng ngay cả những vị Trời trường thọ này cũng có thể già đi ở giữa khoảng thời gian của sự huỷ diệt đầu tiên và sự huỷ diệt thứ bảy do lửa gây ra; và sau đó cõi của họ – một phần thuộc về tầng thiền định thứ hai – sẽ bị nước huỷ diệt.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+ngực, không có được lấy một chúng sinh nào có thể thoát khỏi cái chết. Như trong *Linh Ly Sầu Ưu (Lá Thư An Ủi)* có ghi:
+
+> Bạn có từng thấy, trên mặt đất hay trong các cõi Trời,
+> Một chúng sinh nào được sinh ra mà không chết?
+> Hoặc nghe rằng một chuyện như thế từng xảy ra?
+> Hay ngay cả hoài nghi rằng điều đó là điều có thể?
+
+Tất cả những gì được sinh ra rồi cũng bị buộc phải chết đi. Không ai từng thấy hay nghe nói về người nào đó trong bất kỳ cảnh giới nào – ngay cả trong thế giới của các vị Trời – được sinh ra nhưng không bao giờ chết. Thật vậy, thậm chí chưa bao giờ có chuyện chúng ta tự hỏi một người sẽ chết hay không. Cái chết là một điều chắc chắn. Đặc biệt là đối với chúng ta, là những người được sinh ra vào cuối một kỷ nguyên\*\* trong một thế giới nơi mà chiều dài của cuộc đời thì không thể tiên đoán được – chẳng mấy chốc cái chết sẽ tới. Cái chết tới càng lúc càng gần ngay từ giây phút chúng ta được sinh ra đời. Cuộc đời chỉ có thể ngắn đi chứ không bao giờ dài ra. Chẳng chút gì động tâm, Thần Chết tới gần, không hề ngơi nghỉ một chốc lát, giống như cái bóng của một ngọn núi lúc hoàng hôn.
+
+Bạn có biết chắc chắn khi nào mình chết, hoặc chết ở đâu không? Chuyện đó có thể xảy ra ngày mai, hay đêm nay? Bạn có thể quả quyết rằng cái chết sẽ không đến với bạn ngay bây giờ, giữa hơi thở này và hơi kế tiếp không? Như trong *Pháp Tập Yếu Tụng Kinh* có nói :
+
+> Ai quả quyết được rằng họ sẽ sống đến ngày mai?
+> Bây giờ là lúc phải sẵn sàng,
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\*\* Lúc cuối của một kỷ nguyên là thời kỳ suy tàn trong đó đời sống còn mỏng manh hơn nữa.
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Bởi đạo quân của Thần Chết
+Không là bằng hữu của chúng ta.
+
+Và Ngài Long Thọ (Nagarjuna) cũng nói:
+
+Đời sống lập lòe trong những cơn giông gió của một ngàn
+điều bất hạnh,
+Còn mong manh hơn một bọt nước trong giòng suối.
+Trong giấc ngủ, mỗi hơi thở ra đi và lại được hít vào;
+Kỳ diệu biết bao khi ta thức dậy mà vẫn còn sống!
+
+Khi hít thở nhẹ nhàng, người ta vui hưởng giấc ngủ của mình.
+Nhưng không có gì bảo đảm là cái chết sẽ không lẻn vào giữa
+một hơi thở này và hơi thở kế tiếp. Thức dậy trong sự khỏe
+mạnh là một kiện rất đáng được coi là kỳ diệu, song chúng
+ta lại cho đó là điều hoàn toàn tất nhiên.
+
+Mặc dù biết rằng ta sẽ chết một ngày nào đó, nhưng
+chúng ta không thực sự để cho triển vọng của một cái chết
+luôn-luôn-thường-trực ảnh hưởng đến thái độ sống của mình.
+Chúng ta vẫn tiêu phí tất cả thời giờ của mình khi mang trong
+lòng những hy vọng và lo âu về vấn đề sinh sống trong tương
+lai, như thể chúng ta sẽ sống mãi. Chúng ta hoàn toàn bị cuốn
+hút vào cuộc chiến đấu cho sự hạnh phúc, sung sướng và địa
+vị, cho tới khi, thật bất ngờ, chúng ta đối diện với Thần Chết
+tay cầm sợi thòng lọng đen, cắn chặt môi dưới và nhe những
+chiếc nanh trông thật dữ tợn.
+
+Khi ấy không điều gì có thể giúp đỡ được ta. Không
+đạo quân nào, không sắc lệnh nào của nhà cầm quyền,
+không tài sản nào của người giàu có, không sự sáng chói nào
+của học giả, không vẻ duyên dáng nào của sắc đẹp, không sự
+lanh lẹn nào của lực sĩ – chẳng điều gì còn ích lợi nữa. Chúng
+ta có thể tự nhốt mình trong một cái tủ bọc sắt không thể bị
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+đâm thủng, được hàng trăm ngàn lực sĩ tua tủa cung tên giáo mác bảo vệ; nhưng những thứ đó không đem lại cho ta sự che dấu hay che chở nào dù chỉ bằng bề dày của một sợi tóc. Một khi Thần Chết tròng sợi thòng lọng đen quanh cổ ta, khuôn mặt ta bắt đầu nhợt nhạt, đôi mắt đờ đẫn đẫm lệ, đầu và tứ chi xuôi xụi, và dù muốn hay không, chúng ta bị lôi một mạch xuống xa lộ để đi qua đời sau.
+
+Cái chết không thể bị đánh bại bởi bất kỳ chiến sĩ nào, không thể bị sai sử bởi quyền lực, hoặc được hối lộ bởi người giàu có. Cái chết không từ đâu tới, không nơi ẩn nấp, không chỗ nương tựa, không người bảo vệ hay dẫn dắt. Cái chết kháng cự lại với bất kỳ một sự trông cậy nào nơi phương tiện và lòng từ bi. Một khi cuộc đời ta đã cạn kiệt, thì cho dù đích thân Đức Phật Dược Sư có xuất hiện chăng nữa, Ngài cũng không thể trì hoãn cái chết của chúng ta.
+
+Vì thế, hãy quán chiếu và thiền định một cách chân thành rằng ngay từ giây phút này trở về sau, thật là quan trọng xiết bao để ta chẳng bao giờ còn rơi vào trong sự biếng nhác và trì hoãn; phải luôn luôn thực hành Chân Pháp, vì đây là điều duy nhất mà bạn có thể tin chắc là sẽ giúp đỡ được bạn vào giây phút lìa đời.
+
+## III. SỰ VÔ THƯỜNG CỦA NHỮNG BẬC HIỀN THÁNH
+
+Trong Hiền Kiếp hiện tại, các đức Phật Ti Bà Thi (Vipasyin), Thi Khí (Sikhin) và năm vị Phật khác đã xuất hiện, mỗi vị với một thánh chúng riêng gồm vô số các vị Thanh Văn và A La Hán. Mỗi Đức Phật đều phải hoằng hoá để đem lại lợi lạc cho vô lượng chúng sinh nương vào các giáo lý của Ba Thừa. Ngay cả tất cả các giáo lý mà ngày nay chúng ta có được cũng là những gì còn sót lại của giáo lý của Đức Phật Thích Ca Mâu Ni. Tuy nhiên, tất cả những vị Phật đó đã nhập Niết
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Bàn và mọi Giáo Pháp thuần tịnh các Ngài ban cho đã dần dần biến mất.
+
+Từng vị một, trong vô vàn các vị Thanh Văn vĩ đại của hệ thống tôn giáo hiện tại, mỗi vị với hội chúng năm trăm vị A La Hán, cũng đã siêu vượt đau khổ đi vào trạng thái giác ngộ nơi không còn các uẩn.
+
+Ở Ấn Độ, có một thời Năm Trăm Vị A La Hán đã kết tập Pháp ngôn của Đức Phật. Có Sáu Bảo Trang$^1$ và Hai Đấng Siêu Việt,$^{**}$ Tám Mươi (Tư) Thành Tựu Giả,$^{***}$ và nhiều vị khác nữa, là những bậc tinh thông tất cả mọi phẩm hạnh của con đường tu cùng các trình tự tu tập, và có sự thấu thị vô hạn cùng các năng lực kỳ diệu. Nhưng ngày nay những gì còn lại từ các ngài chỉ là những câu chuyện kể rằng các ngài đã sống ra sao.
+
+Ở đây, nơi xứ Tuyết Tây Tạng thì cũng vậy. Khi Đức Phật Thứ Hai xứ Oddiyana$^{****}$ chuyển Pháp Luân để dẫn dắt và giải thoát chúng sinh, thì khi ấy, có tất cả những đệ tử của Ngài hiện diện, như hai mươi lăm đệ tử được gọi là Pháp Vương (Trisong Detsen) and Thần Dân, cùng Tám Mươi Thành Tựu Giả ở Yerpa. Sau đó lại có các Đạo Sư của Phái Cựu Dịch thuộc các bộ tộc So, Zur và Nub; các Ngài Marpa, Milarepa và Dagpo của Phái Tân Dịch; cùng vô số các bậc học giả và thành tựu giả khác. Hầu hết các Ngài đã đạt được những quả vị chứng đắc rất cao và điều phục được bốn yếu tố
+
+---
+
+* Sáu Bảo Trang của Ấn Độ gồm có các ngài Long Thọ (Nagarjuna), Thánh Thiên (Aryadeva), Vô Trước (Asanga), Thế Thân (Vasubandhu), Trần Na (Dignaga) và Pháp Xứng (Dharmakirti).
+** Hai Đấng Siêu Việt là hai ngài Đức Quang (Gunaprabha) và Thích Tử Quang (Shakyaprabha) ở Ấn Độ.
+*** Tám Mươi Tư Vị Đại Thành Tựu Giả (Ma ha tất đạt) là những vị tu tập theo Tối Thượng Du Già tại Ấn Độ từ thế kỷ thứ 8 đến thế kỷ 12.
+**** Đức Liên Hoa Sanh (Padmasambhava) thường được nhắc đến như là Đức Phật Thứ Hai của thời đại này của chúng ta, truyền bá sâu rộng những giáo pháp của Đức Phật Thích Ca Mâu Ni.
+
+(tứ đại). Các Ngài có thể tạo nên đủ loại biến hoá thần diệu. Các Ngài có thể làm cho các hiện vật xuất hiện từ không trung và biến mất trở lại vào không trung. Các Ngài không thể bị lửa đốt cháy, không bị nước cuốn trôi, không bị đất đè bẹp hoặc không thể té rơi vào không gian từ trên các vách núi cao – các Ngài đã hoàn toàn thoát khỏi bất kỳ tai hoạ có thể gây ra bởi các yếu tố tứ đại (đất, nước, gió, lửa).
+
+Ví dụ như, có một lần, Ngài Jetsun Milarepa đang thiền định tĩnh lặng trong động Nyeshangkatya ở Nepal thì có một nhóm thợ săn đi qua. Nhìn thấy Ngài ngồi ở đó, họ hỏi Ngài là người hay ma. Milarepa vẫn bất động, Ngài nhìn chăm chú vào phía trước và không trả lời. Những người thợ săn bắn một loạt mũi tên tẩm độc vào Ngài, nhưng không mũi tên nào chọc thủng được da Ngài. Họ ném Ngài xuống sông rồi xuống bờ vực – nhưng mỗi lần như thế Ngài lại ngồi ngay nơi đã ngồi trước đó. Cuối cùng, họ chất củi quanh Ngài và phóng hỏa, nhưng lửa không thiêu cháy được Ngài. Đã từng có rất nhiều các bậc thành tựu giả cũng đã đạt được các thần lực như thế. Nhưng cuối cùng, tất cả các Ngài đều chọn lựa [sự ra đi] để minh họa cho chúng ta thấy rằng tất cả mọi hiện tượng đều vô thường,** và ngày nay tất cả những gì còn sót lại từ các Ngài chỉ là những câu chuyện tiểu sử.
+
+Đối với chúng ta, các ác hạnh của ta được ngọn gió của các chướng duyên cuốn bay về hướng của các khuynh hướng xấu xa tiêu cực. Các khuynh hướng ấy đưa dẫn ta đến đây, vào trong cái bộ máy tạm thời và dơ bẩn này, là một bộ máy được tạo nên bởi bốn yếu tố vật chất, nơi đó chúng ta bị sập bẫy và đời sống hữu tình của ta bị lệ thuộc vào bộ máy ấy. Và bởi vì chúng ta không bao giờ có thể quyết chắc rằng lúc nào và ở đâu thì ta, cái tên bù nhìn của thân xác huyễn hóa
+
+---
+
+** Các bậc như thế được coi như đã vượt thoát khỏi sinh tử. Tuy nhiên, giống như Đức Phật Thích Ca Mâu Ni, các ngài đã chọn cái chết để nhắc nhở chúng sinh về lẽ vô thường.
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+này, sẽ sửa soạn sắp tan rã, nên điều hết sức quan trọng là ngay từ giây phút này trở về sau, bản thân chúng ta làm sao phải tự tạo cảm hứng cho chính mình để tư tưởng, ngôn từ và hành động của ta sẽ luôn luôn tốt lành. Giữ trọn điều này trong tâm, hãy thiền định về lẽ vô thường.
+
+## IV. SỰ VÔ THƯỜNG CỦA NHỮNG NGƯỜI CÓ ĐỊA VỊ VÀ THẾ LỰC
+
+Có những vị Trời và những vị tu luyện trường sinh *risi*, uy nghi và lừng lẫy tuyệt đỉnh; họ có thể sống lâu cả một đại kiếp. Nhưng ngay cả những vị này cũng không thể thoát khỏi cái chết. Những vị cai trị chúng sinh, như chư Phạm Thiên (Brahma), Đế Thích Thiên (Indra), Vi Nữu Thiên (Visnu), Tự Tại Thiên (Isvara) và chư Thiên vĩ đại khác, có thọ mạng kéo dài cả một đại kiếp, với dáng vóc hay tầm nghe đo được tới hàng nhiều lý (một lý = 4,8km), và chư vị này có thần lực và vẻ lộng lẫy vượt xa mặt trời và mặt trăng. Tuy thế, các vị này cũng không thể vượt khỏi tầm với của cái chết. Như trong *Kho Báu Thiện Đức* có nói:
+
+Ngay cả chư Phạm Thiên (Brahma), Đế Thích Thiên (Indra), Ma Hê Thủ La (Mahesvara) và các vị đại đế thiên vương,
+Không có cách nào lẩn tránh được Thần Chết.
+
+Cuối cùng, ngay cả các vị tu luyện trường sinh *risi* siêu phàm hay các vị *risi* sống trong thế giới loài người với năm loại thấu thị và có thần lực bay ngang bầu trời, thì họ cũng không thể trốn thoát khỏi cái chết. Trong *Linh Ly Sầu Ưu* có nói:
+
+Các vị tu luyện trường sinh vĩ đại với năm loại thần lực
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Có thể bay xa và rộng trong các bầu trời,
+Song họ sẽ chẳng bao giờ tới được một xứ sở
+Nơi có sự bất tử trị vì.
+
+Ở đây, trong thế giới loài người của chúng ta, có nhiều vị đại đế đã đạt đến cực điểm của quyền lực và của vật chất của cải. Tại thánh địa Ấn Độ, bắt đầu với Mahasammata, vô số các vị hoàng đế đã cai trị toàn thể đại lục. Về sau có ba vị Pala, ba mươi bảy vị Candra và nhiều vị vua giàu có và uy quyền khác đã trị vì cả phía đông lẫn tây Ấn Độ.
+
+Ở xứ Tuyết Tây Tạng, vị vua đầu tiên là Nyatri Tsenpo, thuộc dòng dõi siêu phàm, là một hóa thân của Bồ Tát Nivaranaviskambhinch. Kế đó có bảy vị thiên vương trị vì được gọi là Tri, sáu vị địa vương được gọi là Lek, tám vị vua ở giữa [giữa cung trời và trái đất] được gọi là De, năm vị vua liên kết được gọi là Tsen, có mười hai và một nửa³⁸ vị vua của Triều Đại Đại May Mắn bao gồm năm vị vua của Triều Đại Cực Kỳ May Mắn, và ngoài ra còn nhiều vị khác nữa. Trong triều đại của Pháp Vương Songtsen Gampo, một đạo quân thần diệu đã chế ngự tất cả các lãnh thổ từ Nepal tới Trung Hoa. Vua Trisong Detsen đặt hai phần ba châu Jambudvipa* (Diêm Phù Đề) dưới quyền lực của ngài, và trong triều đại Ralpachen, một cột sắt được trồng trên bờ sông Hằng, đánh dấu biên giới giữa Ấn Độ và Tây Tạng. Tây Tạng đã sử dụng quyền lực tại nhiều miền đất ở Ấn Độ, Trung Hoa, Gesar, Tajikistan và các quốc gia khác. Tại lễ hội mừng Nguyên Đán, các sứ giả của tất cả các nước này được yêu cầu phải sống qua một ngày ở Lhasa. Quyền lực của Tây Tạng là như thế trong quá khứ. Nhưng quyền lực ấy không kéo dài, và ngày nay, ngoài những tường thuật lịch sử ấy ra, không điều gì còn sót lại.
+
+* Ở đây thuật ngữ này dường như ám chỉ miền Nam Châu Á, Mông Cổ và Trung Hoa.
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Hãy quán chiếu về những huy hoàng trong thời quá khứ đó. Nếu so sánh với những huy hoàng này thì hết thảy những nhà cửa, quyến thuộc, tôi tớ, địa vị và bất cứ điều gì khác mà ta quý trọng dường như không đáng giá hơn một cái tổ ong. Hãy thiền định sâu xa, và tự hỏi làm sao bạn có thể nghĩ rằng những điều này sẽ tồn tại mãi mãi và không bao giờ biến đổi.
+
+## V. CÁC VÍ DỤ KHÁC VỀ VÔ THƯỜNG
+
+Như một ví dụ của sự vô thường, hãy quán sát chu kỳ sinh trưởng và suy tàn xảy ra trong một đại kiếp. Thời xa xưa, trong thời kỳ đầu tiên của đại kiếp này, trên bầu trời không có mặt trời và mặt trăng, và tất cả con người được chiếu sáng bởi sự chói ngời nội tại của họ. Họ có thể di chuyển thật kỳ diệu qua không gian. Họ cao lớn đến vài lý. Họ sống bằng chất cam lồ linh thiêng và thụ hưởng niềm vui và hạnh phúc hoàn hảo, sánh được với đời sống của chư thiên. Tuy nhiên, dần dần dưới ảnh hưởng của những cảm xúc đắm nhiễm và ác hạnh, loài người suy hoại dần tới tình trạng hiện nay. Ngay cả ngày nay, những xúc cảm đó vẫn còn trở nên to lớn hơn nữa, nên thọ mạng và sự thịnh vượng của con người vẫn còn suy giảm. Tiến trình này sẽ tiếp tục cho tới khi con người sống không quá mười năm. Hầu hết chúng sinh sống trong thế giới sẽ biến mất trải qua những thời kỳ của dịch bệnh, chiến tranh, và nạn đói. Sau đó đối với những người sống sót, một hóa thân của Đức Phật Di Lặc sẽ thuyết giảng về pháp từ bỏ sát sinh. Vào lúc này, loài người sẽ chỉ còn cao một *cubit* (= 45,72cm). Từ đó trở đi thọ mạng của họ sẽ tăng lên tới hai mươi năm, và sau đó, từ từ trở nên lâu dài hơn cho tới khi đạt tới tám mươi ngàn năm. Vào thời điểm đó, Đức Di Lặc sẽ xuất hiện trong thân người, sẽ đạt được Phật quả và sẽ chuyển Pháp Luân.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Khi mười tám chu kỳ sinh trưởng và suy hoại như thế đã xảy ra và nhân loại sống trong một số năm không thể nghĩ bàn thì Đức Lâu Chí Phật (Phạn: Rucika) sẽ xuất hiện và sẽ trường thọ trong thời gian lâu bằng một ngàn Đức Phật khác của Hiền Kiếp cộng lại. Các công hạnh và hoạt động của ngài vì hạnh phúc của chúng sinh thì cũng thế, sẽ sánh được với tất cả các công hạnh của cả ngàn Đức Phật đó cộng lại. Cuối cùng, kiếp này sẽ chấm dứt trong sự suy hoại. Khi suy xét về các sự chuyển dịch như thế, bạn có thể thấy rằng ngay cả trên phạm vi rộng lớn này, không có gì nằm ngoài tầm với của vô thường.
+
+Cũng thế, khi nhìn bốn mùa thay đổi, bạn có thể thấy được mọi sự vô thường như thế nào. Vào mùa hè, đồng cỏ xanh tươi và khát khao những trận mưa hè như chất cam lồ, và mọi sinh linh tắm mình trong sự hừng hực của hạnh phúc và niềm vui. Muôn hoa đang trổ nụ và toàn thể cảnh vật cùng nhau khoe sắc thành một thiên đường của những sắc màu trắng, vàng, đỏ thắm và xanh. Rồi khi mùa thu đến, gió nhẹ mát hơn, đồng cỏ xanh đổi màu. Hoa và trái từng cái một, khô đi và héo úa. Chẳng mấy chốc mùa đông bắt đầu, và toàn thể vạn vật trở nên khô cứng và dễ vỡ như đá. Những chiếc cầu và các con sông đóng băng, các cơn gió lạnh giá lướt qua cảnh vật. Bạn có thể mất liên tục nhiều ngày để tìm kiếm tất cả những đoá hoa mùa hè đó và chẳng còn thấy được đoá hoa nào. Và như thế mỗi mùa luân phiên nhau tới, mùa hạ nhượng bộ mùa thu, mùa thu nhường bước mùa đông và mùa đông nhường chỗ cho mùa xuân, mỗi mùa khác biệt với mùa đến trước đó, và mỗi mùa hoàn toàn chỉ là một ảo ảnh phù du. Hãy nhìn xem hôm qua và hôm nay chóng vánh như thế nào, buổi sáng và tối hôm nay, năm nay và năm tới, mọi sự trôi đi cái này sau cái kia. Chẳng có gì tồn tại mãi, chẳng có gì đáng để có thể tin cậy!
+
+# II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Hãy nghĩ tưởng về ngôi làng hay cộng đồng tu viện của bạn, hoặc bất kỳ nơi nào bạn đang sống. Những người mới trước đây không lâu thành công và an toàn thì nay bất thần đối mặt với sự suy sụp; những người khác, xưa kia nghèo khổ và bơ vơ thì nay nói năng đầy uy quyền, thế lực và giàu có. Không có gì cứ như thế mãi mãi. Trong gia đình của riêng bạn, từng thế hệ kế tục của cha mẹ, ông bà và các cụ cố, tất cả đều đã chết, từng người một. Giờ đây họ chỉ còn là các tên gọi đối với bạn. Và khi tới lúc [phải ra đi khỏi cõi đời này] thì nhiều anh em, chị em và những người thân khác cũng sẽ chết, và không ai biết được họ đi về đâu hoặc giờ đây họ đang ở đâu. Với những người đầy quyền thế, giàu có và thịnh vượng mà mới chỉ năm ngoái đây thôi còn là người lỗi lạc nhất trong xứ sở, thì nhiều người năm nay chỉ còn là những cái tên. Ai biết được những người mà giờ đây sự giàu có và tầm quan trọng của họ làm mọi người phải thèm muốn, họ sẽ vẫn còn tồn tại ở vị trí tương tự vào thời điểm này trong năm tới, hoặc ngay cả trong tháng tới hay chăng? Đối với các gia súc của riêng bạn - cừu, dê, chó - bao nhiêu con đã chết trong quá khứ và bao nhiêu con vẫn còn sống? Khi bạn suy tưởng về điều gì xảy ra trong tất cả những trường hợp này, bạn có thể thấy rằng không sự gì cứ yên vị như thế mãi mãi. Với tất cả những người sống hơn một trăm năm về trước, không có lấy một người thoát khỏi cái chết. Và trong hàng trăm năm khác từ bây giờ, mỗi một người hiện đang sống khắp thế giới sẽ chết. Không ai trong số họ sẽ còn sót lại.
+
+Như thế tuyệt đối không có gì trong thế giới, dù hữu tình hay vô tri, có bất kỳ sự bền chắc hay thường hằng nào.
+
+> Bất kỳ điều gì được sinh ra đều vô thường và buộc phải chết đi.
+> Bất kỳ điều gì được tích lũy đều vô thường và buộc phải cạn kiệt.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Bất kỳ điều gì tụ hội đều vô thường và buộc phải chia ly.
+Bất kỳ điều gì được xây dựng đều vô thường và buộc phải sụp đổ.
+Bất kỳ điều gì hưng thịnh đều vô thường và buộc phải suy tàn.
+Cũng thế, tình bằng hữu và sự thù địch, vận may và nỗi buồn phiền, điều tốt và xấu, tất cả những tư tưởng lướt qua tâm bạn – mọi sự luôn biến đổi.
+
+Bạn có thể là người tuyệt mỹ và cao quý như những vị Trời, mạnh mẽ như sấm sét, giàu có như một *naga* (thuỷ long), đẹp đẽ như một vị Trời hay dễ thương như một cầu vồng – nhưng dù bạn là ai hoặc là gì chăng nữa, khi cái chết bất thần vồ đến thì bạn không thể làm được bất cứ điều gì dù chỉ trong chốc lát. Bạn phải ra đi không được lựa chọn, trần trụi và lạnh lẽo, đôi bàn tay không của bạn bị cột cứng dưới nách. Mặc dù không thể chịu đựng nổi khi phải lìa bỏ tiền của, những tài sản yêu quí, bằng hữu, những người thân yêu, người hầu, đệ tử, quốc gia, xứ sở, thần dân, của cải, đồ ăn, thức uống và tài sản, bạn phải hoàn toàn để lại mọi sự sau lưng, giống như một sợi tóc bị kéo ra khỏi một miếng bơ.* Bạn có thể là vị Lạt Ma lãnh đạo hàng ngàn nhà sư, nhưng bạn không thể mang theo mình dù chỉ một người trong số họ. Bạn có thể là thủ lãnh của hàng mười ngàn người, nhưng bạn không thể mang theo thậm chí chỉ một người làm người hầu của bạn. Tất cả mọi tài sản trong thế giới này cũng vẫn không thể đem lại cho bạn bất cứ sức mạnh nào để đem theo với bạn bất cứ thứ gì, ngay cả chỉ một cây kim và một sợi chỉ.
+Cũng thế, thân thể yêu quí của bạn sắp bị bỏ lại đàng sau. Chính thân thể này đã được quấn bọc suốt đời trong lụa là và gấm thêu, được nuôi dưỡng kỹ lưỡng bằng trà và bia ê
+
+\* Bơ không dính vào sợi tóc. Chỉ có dấu vết trống rỗng của sợi tóc là còn lại.
+
+II. LỄ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+hề, và đã có một thời trông bạn đẹp đẽ và xuất sắc như một vị trời, thì nay bạn được gọi là một tử thi, và đang bị bỏ mặc nằm đó, xám xịt, nặng nề và dúm dó thật khủng khiếp. Đức Jetsun Mila đã nói:
+
+Vật mà ta gọi là tử thi này, trông thật khiếp hãi,
+Thì đã sẵn ở đây – chính là thân thể của ta.
+
+Xác bạn bị cột chặt bằng một sợi dây và được phủ bằng một tấm màn, được giữ ở một nơi cùng với đất và đá. Cái tô của bạn bị lật úp xuống gối. Dù bạn được tôn quý và được yêu mến đến đâu chăng nữa, giờ đây bạn khơi gợi sự khiếp hãi và buồn nôn. Khi một người sống nằm xuống ngủ, ngay cả trên đống lông thú và thảm lông cừu mềm mại, chỉ một lát sau họ đã bắt đầu cảm thấy khó chịu và phải trở mình. Nhưng một khi bạn đã chết, bạn nằm yên đó, gò má dựa vào một hòn đá hay bụi cỏ, tóc bạn bê bết đất.
+
+Một số trong các bạn là những gia trưởng hay trưởng bộ tộc, có thể lo lắng về những người đang nằm dưới sự chăm sóc của bạn. Một khi bạn không còn ở đó để chăm sóc họ, liệu họ có dễ dàng chết vì đói hay lạnh, bị kẻ thù giết, hoặc chết đuối trong giòng sông? Tất cả tài sản, tiện nghi và hạnh phúc của họ không tùy thuộc vào bạn sao? Tuy nhiên, thực tế là sau khi bạn chết, họ sẽ chẳng cảm thấy điều gì trừ sự nhẹ nhõm khi tìm được cách tống khử tử thi của bạn bằng cách hỏa táng, ném xuống sông, hoặc quăng nó vào nghĩa địa.
+
+Khi bạn chết, bạn không có sự chọn lựa nào khác ngoài việc lang thang hoàn toàn cô độc trong trạng thái trung ấm mà không có lấy một người đồng hành. Vào lúc đó, nơi nương tựa duy nhất của bạn sẽ là Phật Pháp. Vì thế hãy tự nhắc đi nhắc lại với mình rằng từ nay trở về sau bạn, phải tinh tấn cố gắng làm sao để thành tựu cho bằng được ít nhất là một pháp tu chân chính của Giáo Pháp.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Bất kỳ cái gì được tích lũy bắt buộc phải cạn kiệt. Một vị vua có thể cai trị toàn thể thế giới mà vẫn kết thúc như một kẻ lang thang. Nhiều người bắt đầu cuộc đời với tài sản vây quanh và chấm dứt nó bằng chết đói, mất sạch tất cả. Những người có đàn súc vật hàng trăm con trong một năm có thể bị sa sút đến độ trở nên bần cùng vào năm sau bởi các bệnh dịch hoặc tuyết ngập dày, và một số người mới chỉ một ngày trước đó còn giàu có và đầy quyền lực, thình lình có thể thấy chính mình phải ăn xin bố thí vì bị kẻ thù thiêu hủy mọi thứ họ đã sở hữu. Tất cả những điều này xảy ra là những gì bạn có thể nhìn thấy cho chính bạn; đó là bạn không thể mãi mãi bám chặt vào tài sản và của cải của bạn. Đừng bao giờ quên rằng sự rộng lượng (bố thí) là vốn liếng quan trọng nhất để tích lũy.*
+
+Không có sự tụ hội nào có thể kéo dài mãi. Mọi tụ hội sẽ luôn luôn chấm dứt trong sự phân ly. Chúng ta giống như những cư dân ở những nơi chốn khác nhau tập họp lại hàng ngàn và thậm chí hàng vạn người trong một hội chợ vĩ đại, hay trong một lễ hội tôn giáo quan trọng, chỉ để rời nhau khi ai nấy trở về nhà. Bất kỳ mối tương quan thắm thiết nào chúng ta đang thụ hưởng hiện nay – giữa các vị Thầy và các đệ tử, chủ và tớ, những người ban sự gia hộ và những người được che chở, các bằng hữu tâm linh, các anh em và chị em, chồng và vợ – ta không thể nào tránh khỏi sự phân ly vào lúc kết thúc. Thậm chí ta không thể quả quyết rằng cái chết hay một vài biến cố khủng khiếp khác không bất thần chia lìa chúng ta ngay bây giờ. Bởi những bằng hữu tâm linh, những cặp vợ chồng v.v... có thể bị chia cắt thành lình bất kỳ lúc nào, vì thế tốt hơn, chúng ta nên tránh giận dữ và cãi vã, tránh những lời nói ác và sự tranh chấp lẫn nhau. Không bao giờ ta biết được chúng ta có thể sống với nhau bao lâu, vì thế ta nên lập quyết
+
+* Nói cách khác, một vốn liếng công đức. Quan niệm này đã được giảng ở Phần Hai, Chương 4.
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+định là sẽ quan tâm và thương mến nhau trong quãng thời gian ngắn ngủi còn lại. Như ngài Padampa Sangye có nói:
+
+> Gia đình thì phù du như một đám đông trong ngày phiên chợ;
+> Dân chúng xứ Tingri, đừng tranh cãi hay đánh nhau!
+
+Bất kỳ kiến trúc nào được xây dựng cũng buộc phải sụp đổ. Các làng mạc và tu viện mà một thời từng thành công và thịnh vượng, giờ đây nằm hoang vắng và bị bỏ phế, và nơi mà một thời các chủ nhân cẩn trọng của chúng đã từng sống, thì nay chỉ còn những chú chim làm tổ. Ngay cả tu viện trung ương Samye ba tầng, được những người thợ hóa thân kỳ diệu xây dựng trong triều đại Đức Vua Trisong Detsen và được Đức Phật Thứ Hai xứ Oddiyana hiến cúng, đã bị lửa thiêu hủy chỉ trong một đêm. Cung điện Núi Đỏ có trong thời đại Đức Vua Songtsen Gampo được so sánh với cung điện của chính vị vua Trời Đế Thích, nhưng giờ đây ngay cả những tảng đá làm nền móng cũng không còn. So sánh với những công trình đó thì các thành phố, nhà cửa và tu viện của chúng ta hiện nay chỉ là những tổ côn trùng. Vì thế tại sao chúng ta lại quá coi trọng chúng đến thế? Tốt hơn, hãy hết lòng noi theo gương sáng của các hành giả Kagyupa ngày xưa, là những vị đã bỏ lại quê hương phía sau và tiến thẳng vào nơi hoang dã. Các Ngài đã sống dưới chân những vách đá, chỉ có thú hoang làm bầu bạn và không chút bận tâm tới thực phẩm, quần áo hay thanh danh, ôm chặt lấy bốn mục đích tu tạp căn bản của các hành giả Kadampa:
+
+> Hãy đặt tâm của bạn trên Pháp,
+> Hãy đặt Pháp của bạn trên một cuộc đời khiêm tốn tầm thường,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Hãy đặt cuộc đời khiêm tốn của bạn trên niệm tưởng về cái chết,
+Hãy đặt cái chết của bạn trên một lỗ hang trống không, trơ trụi.*
+
+Đất đai bất động sản to lớn và quân đội hùng mạnh không bao giờ tồn tại lâu. Đại Đế Mandhatri đã quay bánh xe vàng của quyền lực trên khắp bốn châu; ông đã trị vì các cõi trời của các vị Trời thứ Ba Mươi Ba; thậm chí ông còn chia ngai toà với vua Đế Thích, vua của các vị Trời, và có thể đánh bại các A Tu La trong trận chiến. Tuy thế, cuối cùng ông rơi xuống trái đất và chết mà chưa thoả mãn các tham vọng. Bạn có thể thấy cho chính bạn rằng tất cả những người nắm giữ quyền uy và thế lực đó – dù thân cận những ông vua, đạo sư, chúa tể hay chính phủ – không một ai có thể duy trì địa vị của họ mãi mãi; và nhiều người đầy quyền lực đã từng áp đặt luật lệ lên những người khác vào một năm nào đó, năm sau, thấy chính mình đang sống mòn mỏi trong ngục tù. Cách sử dụng quyền lực nhất thời như thế có thể được dành cho bạn là gì? Trái lại, trạng thái Phật Quả viên mãn không bao giờ có thể sút giảm hay hư hoại, và xứng đáng với những cúng dường của Trời và người. Đó là điều bạn cần kiên quyết phải đạt được tới.
+
+Tình bằng hữu và sự thù địch thì cũng thật khó bền vững. Một ngày kia khi A La Hán Katyayana đi ra ngoài để khất thực, ngài tình cờ gặp một người đàn ông ôm một đứa bé trong lòng. Người đàn ông đang ăn một con cá với vẻ thật thích thú, và ném những hòn đá vào con chó cái đang cố vồ
+
+* Nói cách khác, chết đơn độc ở một nơi hẻo lánh không có sự quấy rầy náo động.
+
+[Hình: Padampa Sangye (thế kỷ 11-12)]
+
+Thành tựu giả Ân Độ lừng danh là người đã truyền bá giáo pháp khắp nơi tại Ấn Độ, Trung Hoa và Tây Tạng. Ngài Padma Sangye và đệ tử là Machik Labdrön đã thiết lập những dòng truyền thừa của pháp Chö (Kusali) ở tại Tây Tạng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+những miếng xương. Tuy nhiên, bằng sự thấu thị, vị Đạo Sư nhìn thấy như sau. Con cá đã từng là cha của người đàn ông ngay trong đời đó, và con chó cái đã là mẹ của ông ta. Một kẻ thù mà ông đã từng giết trong một đời quá khứ đã tái sinh làm con trai ông ta, như sự vay trả nghiệp báo mà người đàn ông phải chịu trong đời. Ngài Katyayana kêu thét lên:
+
+Hắn ăn thịt cha, đánh đập mẹ,
+Hắn nâng niu trong lòng kẻ thù mà hắn giết;
+Vợ đang gặm xương chồng mình.
+Ta phá lên cười khi thấy những gì xảy ra trong sự hiển bày của sinh tử!
+
+Ngay cả trong một cuộc đời, thường xảy ra việc những kẻ thù không đội trời chung về sau lại giảng hòa và làm bạn với nhau. Thậm chí họ có thể trở thành một thành phần trong gia đình lẫn nhau, và sau cùng còn gần gũi nhau hơn bất kỳ ai khác. Trái lại, những người được liên kết mật thiết bởi huyết thống hoặc hôn nhân thường tranh cãi và làm hại nhau càng nhiều càng tốt chỉ vì một ít của cải tầm thường hay gia tài nhỏ mọn. Các cặp vợ chồng hay bạn bè thân thiết có thể chia ly vì những lý do vô nghĩa nhất, thậm chí có khi kết thúc trong sự chém giết. Khi nhận ra tất cả tình bằng hữu và sự thù địch thì hết sức phù du, bạn hãy tự nhắc đi nhắc lại là mình phải đối xử với mọi người với lòng từ và bi.
+Vận may và sự mất mát không bao giờ tồn tại mãi mãi. Có nhiều người bắt đầu cuộc đời trong sự an nhàn và sung túc, đã kết thúc đời mình trong sự bần cùng và đau khổ. Những người khác bắt đầu sống trong cảnh cùng cực mà về sau lại được hạnh phúc và may mắn. Thậm chí có những người bắt đầu cuộc đời như kẻ hành khất và kết thúc như những vị vua. Có vô số ví dụ về sự đảo lộn vận mệnh như thế. Chẳng hạn như một buổi sáng, chú của Ngài Milarepa đã tặng
+
+II. LỄ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+cho cô con gái riêng một bữa tiệc vui vẻ, nhưng đến tối thì căn nhà của ông sụp đổ và ông đã kêu khóc lóc tiếc thương. Khi Phật Pháp đem lại cho bạn những gian khó, cho dù khi ấy bạn phải gánh chịu nhiều loại đau khổ khác nhau, như Jetsun Mila và Các Đấng Chiến Thắng trong quá khứ, nhưng cuối cùng hạnh phúc của bạn sẽ không gì so sánh được. Nhưng khi bạn làm giàu bằng một tà hạnh thì dù trong nhất thời bạn có thể có được bất kỳ sự vui thú nào, nỗi khổ của bạn sẽ mênh mông vô hạn vào lúc kết thúc.
+
+Vận may và nỗi buồn thì rất khó tiên đoán. Thuở xa xưa trong vương quốc Aparantaka có một trận mưa thóc kéo dài bảy ngày, theo sau là một trận mưa quần áo trong bảy ngày kế và một trận mưa châu báu trong bảy ngày nữa – và cuối cùng một trận mưa đất chôn vùi toàn thể dân chúng, tất cả đều chết và bị đọa vào các cõi thấp. Thật là vô ích khi chúng ta, trong một tâm trạng tràn đầy hy vọng và sợ hãi, lại cố gắng làm chủ hạnh phúc và đau khổ, là những thứ luôn luôn biến đổi. Thay vào đó, hãy hoàn toàn bỏ lại đằng sau mọi tiện nghi, tài sản và những thú vui của đời này, giống như quá nhiều nước bọt trong bụi đất. Hãy quyết định đi theo bước chân của các Đấng Chiến Thắng trong quá khứ, can đảm chấp nhận bất kỳ gian khổ nào bạn phải chịu đựng, tất cả để cho Đạo Pháp.
+
+Cũng như thế, sự tuyệt hảo và sự tầm thường cũng vô thường. Trong đời sống thế gian, dù bạn có thể có đầy quyền thế và lưu loát đến đâu, dù bạn có uyên bác và tài giỏi, mạnh mẽ và thiện xảo thế nào chăng nữa, thì cũng sẽ đến lúc các phẩm tính đó phải suy tàn. Một khi công đức bạn tích lũy trong quá khứ bị cạn kiệt, thì tất cả những gì bạn suy nghĩ trong đầu sẽ trở nên lôi thôi và không điều gì bạn làm sẽ đưa đến thành công. Bạn sẽ bị phê phán từ mọi phía. Bạn trở nên cùng khốn và mọi người sẽ xem thường bạn. Một số người bị tước mất đi bất kỳ những thuận duyên nhỏ bé nào mà họ đã từng có trong quá khứ và kết cục là họ chỉ còn hai bàn tay không. Một số
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+người khác, một thời đã từng bị coi như là những kẻ lừa đảo, dối láo, bất tài và không có lương tri, nhưng về sau lại tự trở nên giàu có, phong lưu, được mọi người tin cậy và quý mến như những con người tốt lành và đáng tin. Như tục ngữ có nói: “Những lừa lọc lâu đời có một chỗ đứng cao nhất.” ^2
+
+Trong đời sống tôn giáo thì cũng thế, như tục ngữ có câu: “Lúc về già, các hiền thánh trở thành học trò, người từ bỏ thế gian lại đi tích lũy của cải, và thầy giáo trở thành gia chủ.” Những người trước đây từ bỏ mọi hoạt động thế tục thì cuối cùng ta lại có thể tìm thấy họ đang bận rộn tích lũy của cải và lương thực. Những người khác khởi đầu bằng việc giảng dạy Giáo Pháp nhưng kết thúc trở thành những thợ săn, những kẻ trộm cướp. Những vị giảng sư thông thái trong tu viện lúc còn trẻ đã tuân giữ tất cả các Giới Luật, về già lại có thể cho ra đời nhiều đứa con. Trái lại, cũng có nhiều người tiêu phí những năm đầu đời của họ chỉ để làm những việc xấu ác nhưng vào cuối đời, hoàn toàn hiến mình cho việc thực hành Diệu Pháp và đạt được thành tựu, hoặc nếu không, thì ít ra khi chết, họ cũng ở trên con đường tiếp tục đi tới các cõi tái sinh cao hơn.
+
+Một vài người dù có vẻ là tốt hay xấu ngay trong hiện tại, nhưng đó chỉ là một ấn tượng nhất thời không có sự thường hằng hay vững chắc nào. Bạn có thể cảm thấy một phần nào chán ngán vòng sinh tử, phát khởi một quyết tâm mơ hồ để thoát khỏi luân hồi, và làm ra vẻ một học trò nghiêm cẩn của Giáo Pháp tới nỗi những người bình thường hết sức cảm kích bạn và muốn được làm vị thí chủ và đệ tử của bạn. Nhưng ở ngay thời điểm đó, trừ phi bạn có cái nhìn nghiêm khắc về chính mình, còn không bạn có thể dễ dàng bắt đầu cho rằng bạn thực sự là cái gì mà người khác nhìn bạn. Dương dương tự đắc, bạn hoàn toàn bị các hình tướng cuốn hút và bắt đầu cho rằng bạn có thể làm bất kỳ điều gì mình muốn.
+
+^2 “Aging frauds take pride of place.” “Pride of place” có nghĩa là một tư thế hay địa vị quan trọng nhất.
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Bạn hoàn toàn bị đánh lừa bởi các thế lực tiêu cực xấu xa. Vì thế, hãy đẩy lùi mọi tin tưởng chấp ngã và khơi dậy trí huệ vô ngã.* Cho tới khi bạn đạt được các địa Bồ Tát cao cả, thì sẽ không có hình tướng nào, dù tốt hay xấu, có thể tồn tại mãi mãi. Hãy thiền định miên mật về cái chết và sự vô thường. Hãy phân tích các lỗi lầm của riêng bạn và luôn luôn giữ vị trí thấp nhất. Hãy nuôi dưỡng lòng chán ngán sinh tử và ước muốn được giải thoát. Hãy tu tập bản thân để trở nên an bình, có kỷ luật và luôn tỉnh giác. Hãy liên tục phát triển một cảm thức buồn rầu chua sót đầy sâu sắc khi nghĩ tưởng về tính chất nhất thời của tất cả các duyên hợp và về những đau khổ của vòng sinh tử, giống như Ngài Jetsun Milarepa:
+
+> Trong một hang đá ở chốn hoang vu
+> Nỗi âu sầu của con khôn nguôi.
+> Con hằng khát khao Ngài,
+> Hỡi Đạo Sư của con, Đức Phật của ba thời.
+
+Trừ phi bạn thường xuyên duy trì kinh nghiệm này trong tâm thì sẽ không có tài nào biết được tất cả các niệm tưởng thường xuyên biến đổi trong bạn sẽ dẫn dắt bạn đi về đâu. Xưa kia, một người đàn ông, sau khi có một mối thù hận với các thân quyến, đã áp dụng Giáo Pháp và được gọi là Hành Giả Gelong Thangpa. Ông ta học tập để kiểm soát các năng lực và tâm,39 và có thể bay giữa bầu trời. Một hôm, khi nhìn một bầy chim bồ câu thật lớn đang xúm lại ăn thực phẩm cúng dường mà ông đã cúng xong, ông nảy ra tư tưởng là với đội quân đông người, ông ta có thể tiêu diệt những kẻ thù của mình. Ông đã không đưa được tà niệm này vào con đường tu,40 và kết quả là sau cùng khi trở về quê hương, ông trở thành người chỉ huy một đội quân.
+
+---
+
+\* Trí huệ nhận ra tánh Không của bản ngã và các hiện tượng.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Tạm thời lúc này, nhờ vào Đạo Sư và các bằng hữu tâm linh của bạn mà bạn có thể có được một vài cảm nhận sơ sài nông nổi về Pháp. Nhưng hãy ghi khắc trong tâm rằng những xúc cảm của một con người thì thật ngắn ngủi xiết bao, và hãy tự giải thoát mình nương vào Chánh Pháp bất cứ khi nào bạn có thể làm được, và ngày nào bạn còn sống thì ngày ấy bạn hãy một lòng quyết tâm tu tập.
+
+Khi bạn quán chiếu về vô số các ví dụ được đưa ra ở đây, thì bạn sẽ không còn chút nghi ngờ gì, rằng từ các trạng thái hiện hữu cao nhất xuống tới các tầng địa ngục thấp nhất, chẳng có mảy may bất kỳ một sự thường hằng hay bền vững nào. Mọi sự lệ thuộc vào lẽ biến dịch, mọi sự thịnh rồi suy.
+
+## VI. SỰ BẤT ĐỊNH CỦA CÁC TÌNH HUỐNG ^41 ĐƯA ĐẾN CÁI CHẾT
+
+Một khi đã sinh ra, chắc chắn mọi người trong thế giới này đều phải chết. Nhưng việc chúng ta sắp chết như thế nào, tại sao, vào lúc nào, và ở đâu thì ta không thể nào tiên đoán được. Không ai trong chúng ta có thể đoan chắc được rằng cái chết của mình sẽ xảy ra vào thời điểm nào hay ở tại nơi chốn đặc biệt nào, trong cách thức nào, hoặc biết chắc được rằng cái chết là kết quả của nguyên nhân này hay nguyên nhân nọ.
+
+> Những nguyên nhân của cái chết thì nhiều;
+> Những nguyên nhân của đời sống thì ít,
+> Và ngay cả những nguyên nhân của đời sống cũng có thể
+> trở thành những nguyên nhân của cái chết.
+
+Lửa, nước, các chất độc, vách đứng, những kẻ man rợ, những dã thú – có rất nhiều kiểu nguy hiểm chết người, nhưng những gì có thể kéo dài đời sống thì thật ít ỏi. Ngay cả thực phẩm, quần áo và các sự vật khác thường được xem như để duy trì đời sống thì đôi khi có thể biến thành các nguyên nhân của cái chết. Nhiều rủi ro xảy ra là hậu quả của việc ăn uống – thực phẩm có thể bị ô nhiễm; hoặc có thể một vài thực phẩm được dùng vì các thực phẩm ấy có mang một số các tính chất lợi lạc, nhưng trong một vài trường hợp$^{42}$ lại có thể trở thành độc hại; hoặc có thể thực phẩm ấy lại không tốt đối với một cá nhân đặc biệt nào đó. Nhất là ngày nay, hầu hết mọi người tham ăn thịt và dùng thịt và máu mà không suy xét, hoàn toàn không biết gì về mọi bệnh tật gây nên bởi thịt ôi$^{43}$ hoặc các tinh linh ác hại trong thịt. Các chế độ ăn uống và cách sống thiếu lành mạnh cũng có thể gây ra những khối u, gây ra sự rối loạn của đàm, bệnh phù và các bệnh tật khác, đưa đến vô số cái chết. Tương tự, việc tìm kiếm tiền của, danh vọng và các bã vinh quang khác có thể kích động người ta chiến đấu, phải đương đầu với các thú hoang, hoặc phải vượt sông một cách táo bạo và liều lĩnh, và đây chỉ là một trong vô số các tình huống khác có thể đem lại cái chết cho họ.
+
+Hơn nữa, hoàn toàn chẳng thể nào tiên đoán được lúc nào là lúc mà bất kỳ nguyên nhân nào trong số các nguyên nhân khác nhau đưa đến cái chết có thể xảy đến. Một số người chết trong bụng mẹ, một số chết khi sinh ra đời, một số trước khi học bò. Một số người chết trẻ; những người khác chết khi già và yếu lụ khu. Một số chết trước khi có thể dùng được thuốc men hay có được sự trợ giúp. Những người khác có thể lây lất, dán chặt thân mình trên giường bệnh nhiều năm, nhìn cuộc đời bằng đôi mắt của người đã chết; khi họ chết, họ chỉ còn da bọc xương. Nhiều người chết bất đắc kỳ tử hoặc do tai nạn, chết trong khi ăn, khi nói chuyện hay làm việc. Thậm chí một số người còn tự tử.
+
+Bị vây khốn bởi nhiều nguyên nhân của cái chết nên giống như một ngọn lửa của cây nến trong gió, cuộc đời bạn thật khó có cơ hội kéo dài. Không có gì bảo đảm rằng cái chết sẽ không bất thần tấn công ngay bây giờ, và ngày mai bạn sẽ không bị đoạ sinh vào làm một con thú với cặp sừng trên đầu và răng nanh trong miệng. Bạn nên tin chắc rằng sẽ không thể nào tiên đoán khi nào bạn chết và thật không tài nào biết được bạn sẽ sinh ra ở đâu trong đời sau.
+
+## VII. SỰ TỈNH GIÁC MÃNH LIỆT VỀ LẼ VÔ THƯỜNG
+
+Hãy nhất tâm thiền định về cái chết, trong mọi lúc và mọi tình huống. Khi đứng lên, khi ngồi hoặc nằm xuống, hãy tự nhủ: “Đây là hành động cuối cùng của tôi trong thế giới này,” và hãy thiền định về điều đó với lòng xác tín mãnh liệt nhất. Trên đường đi tới bất kỳ nơi đâu, hãy tự nói: “Có thể tôi sẽ chết ở đây. Không có gì chắc chắn là tôi sẽ trở về.” Khi bạn sắp đặt cho một cuộc hành trình và tạm dừng chân để nghỉ ngơi, hãy tự hỏi: “Tôi sẽ chết ở đây chăng?” Bất kỳ bạn ở đâu, bạn nên tự hỏi phải chăng bạn sẽ chết tại nơi đây. Ban đêm, khi nằm xuống, hãy tự hỏi liệu bạn có thể chết trong giường đêm nay hay có thể quả quyết được rằng sáng mai bạn sẽ thức dậy hay không. Khi nhổm dậy, hãy tự hỏi liệu bạn có thể chết vào lúc nào đó trong ngày, hoặc quán chiếu rằng chẳng có gì chắc chắn là bạn sẽ còn sống để đi ngủ vào buổi tối.
+
+Hãy chỉ thiền định về cái chết một cách nhiệt thành và tận sâu thẳm trái tim của bạn. Hãy thực hành giống như các Geshe phái Kadampa ngày xưa; các ngài đã luôn luôn nghĩ tưởng về cái chết trong từng giây phút. Ban đêm, các Ngài lật úp cái tô của mình xuống;* và khi quán chiếu rằng biết đâu ngày mai có thể không cần đốt lửa, các Ngài đã không bao giờ vùi than hồng ban đêm.
+
+* Đối với người Tây Tạng, lật úp cái tô của ai xuống là một dấu hiệu người đó đã chết.
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Tuy nhiên, chỉ thiền định về cái chết không thôi thì sẽ không đủ. Điều ích lợi duy nhất vào lúc chết là Pháp, vì thế bạn cũng cần tự khuyến khích mình phải nên thực hành Giáo Pháp một cách chân thực, không bao giờ để cho mình lẻn trốn vào sự quên lãng hay mất cảnh giác, và phải luôn luôn ghi nhớ rằng các hoạt động của sinh tử đều chỉ thoáng qua và không có chút ý nghĩa nào. Tự bản chất, sự nối kết của thân và tâm này thì vô thường, vì thế đừng trông cậy vào sự nối kết ấy như là cái gì của riêng bạn; đây chỉ hoàn toàn là một sự vay mượn.
+
+Mọi con đường và lối đi đều vô thường, vì thế dù bạn đang đi đâu, hãy hướng bước chân của bạn về Pháp. Như có nói trong Bát Nhã Tập Kệ:
+
+Nếu bạn vừa đi vừa nhìn phía trước trong chánh niệm
+với một khoảng cách bằng bề dài của một cái ách,
+tâm bạn sẽ không bị mê mờ.
+
+Bất kỳ bạn ở đâu, mọi nơi chốn đều vô thường, vì thế hãy giữ các cõi Phật thanh tịnh trong tâm. Đồ ăn, thức uống và bất cứ sự gì bạn vui hưởng đều vô thường, vì thế hãy nuôi sống bạn bằng công phu thiền định thâm diệu. Giấc ngủ thì vô thường, vì thế khi bạn ngủ, hãy tịnh hóa các mê lầm của giấc ngủ thành tịnh quang.44 Tài sản, nếu bạn có, thì cũng vô thường, vì thế hãy tinh tấn để sở hữu bảy món tài sản cao quý.** Những người thân yêu, bạn hữu và gia đình thì vô thường, vì thế ở một nơi cô tịch, hãy khơi dậy lòng khát khao muốn giải thoát. Địa vị cao và danh tiếng thì vô thường, vì thế luôn luôn giữ một vị trí thấp. Ngôn ngữ thì vô thường, vì thế hãy tự hưng phấn để trì tụng các thần chú và những bài cầu nguyện. Lòng tín tâm và ước muốn giải thoát cũng vô thường, vì thế hãy cố gắng
+
+** 'phags pa'i nor bdun: Đức tin, giới luật, sự học hỏi, sự rộng lượng (bố thí), sự tận tâm, khiêm tốn và trí huệ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+giúp cho những thệ nguyện của bạn trở nên vô ngại, không gì lay chuyển được. Những ý niệm và tư tưởng thì vô thường, vì thế hãy tiếp tục phát triển một bản tánh tốt đẹp. Các kinh nghiệm tu tập và chứng ngộ thiền định thì vô thường, vì thế hãy tiếp tục tinh tấn cho tới khi bạn đạt tới một nơi mà mọi sự đều tan lẫn vào trong bản tánh của thực tại. Khi ấy, sự nối kết giữa cái chết và tái sinh$^{45}$ rơi biến mất, và bạn đạt được sự xác tín rằng bạn hoàn toàn chuẩn bị sẵn sàng đối với cái chết. Bạn đã đoạt được thành trì bất tử; bạn giống như con chim đại bàng tự tại vút lên đỉnh cao của những cõi trời. Sau đó, không còn cần đến bất kỳ pháp thiền định buồn thảm nào về cái chết đang tới gần của bạn.
+
+Như Ngài Jetsun Mila đã hát:
+
+Sợ hãi tử thần, ta bỏ vào núi cao.
+Ngày đêm ta thiền định về sự bất định của cái chết
+Và nắm giữ thành lũy của chân tánh bất tử bất biến.
+Giờ đây ta không còn sợ hãi và đã vượt qua mọi kinh sợ về cái chết!
+
+Và Đức Dagpo Rinpoche vô song cũng đã nói:
+
+Lúc đầu, bạn phải để cho nỗi sợ hãi sinh tử rượt đuổi như một con hươu đực trốn thoát cái bẫy. Vào lúc giữa, bạn cần làm sao để không còn gì phải hối tiếc cho dù bạn phải chết, như một nông gia đã thận trọng canh tác những cánh đồng của mình. Vào lúc cuối, bạn nên thấy an ổn và sung sướng, như một người vừa hoàn tất một công việc tuyệt vời.
+
+Lúc đầu, bạn phải biết rằng không có thời giờ để phí phạm, giống như người bị một vết thương chí mạng vì trúng tên độc. Vào lúc giữa, bạn phải thiền định về cái
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+chết mà không nghĩ tưởng về điều gì khác, giống như người mẹ có đứa con duy nhất vừa qua đời. Vào lúc cuối, bạn phải hiểu rằng chẳng còn gì để làm, giống như một người chăn cừu mà đàn thú của anh ta đã bị kẻ thù lùa đi mất.
+
+Hãy nhất tâm thiền định về cái chết và sự vô thường cho tới khi bạn đạt tới mức độ đó.
+
+Đức Phật đã có dạy:
+
+- Thiền định bền bỉ về vô thường là cúng dường tất cả chư Phật.
+- Thiền định bền bỉ về vô thường là được tất cả chư Phật cứu thoát khỏi đau khổ.
+- Thiền định bền bỉ về vô thường là được tất cả chư Phật dẫn dắt.
+- Thiền định bền bỉ về vô thường là được tất cả chư Phật gia hộ.
+
+Trong tất cả các dấu chân, dấu chân voi thì to lớn nhất; cũng thế, trong các đề mục thiền định đối với một Phật tử, sự suy niệm về vô thường thì không gì sánh được.
+
+Và Đức Phật đã nói trong Luật Tạng:
+
+Nhớ tưởng trong giây lát về lẽ vô thường của mọi sự duyên hợp thì còn vĩ đại hơn việc hiến tặng thực phẩm và vật cúng dường cho cả trăm đệ tử của ta là những chiếc
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+bình chứa toàn hảo,* như các tỳ khưu Xá Lợi Phất và Mục Kiền Liên.
+
+Một đệ tử cư sĩ hỏi Geshe Potowa rằng nếu phải chọn một pháp hành trì duy nhất thì pháp nào là quan trọng nhất. Vị Geshe đã trả lời:
+
+Nếu con muốn sử dụng một pháp môn hành trì duy nhất, thì thiền định về vô thường là thiền định quan trọng nhất.
+
+Lúc đầu, thiền định về cái chết và vô thường khiến con nắm giữ lấy Pháp; vào lúc giữa, thiền định về cái chết và vô thường dẫn đến việc hành trì tích cực; vào lúc cuối, thiền định về cái chết và vô thường giúp con chứng ngộ tánh nhất như của mọi hiện tượng.
+
+Lúc đầu, thiền định về vô thường khiến con cắt đứt những ràng buộc với mọi việc ở đời; vào lúc giữa, thiền định về vô thường dẫn đến sự từ bỏ mọi bám luyến sinh tử; vào lúc cuối, thiền định về vô thường giúp con bước lên con đường đi tới Niết Bàn.
+
+Lúc đầu, thiền định về vô thường khiến con phát triển tín tâm; vào lúc giữa, thiền định về vô thường dẫn đến sự tinh tấn trong thực hành; vào lúc cuối, thiền định về vô thường giúp con phát sinh trí huệ.
+
+Lúc đầu, cho tới khi con hoàn toàn xác quyết, thiền định về vô thường khiến con tìm cầu Pháp; vào lúc giữa, thiền định về vô thường dẫn con đến với thực hành; vào lúc cuối, thiền định về vô thường giúp con đạt tới mục đích tối hậu.
+
+* Nghĩa là hoàn toàn có khả năng thọ nhận giáo lý một cách đúng đắn và vận dụng những giáo lý ấy.
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Lúc đầu, cho tới khi con hoàn toàn xác quyết, thiền định về vô thường khiến con thực hành với một sự tinh tấn, như chiếc áo giáp che chở con; vào lúc giữa, thiền định về vô thường dẫn dắt cho con thực hành với một sự tinh tấn trong hành động; vào lúc cuối, thiền định về vô thường giúp con thực hành với một sự tinh tấn vô bờ.$^{46}$
+
+Và ngài Padampa Sangye nói:
+
+Lúc đầu, lòng xác quyết về lẽ vô thường sẽ khiến bạn nắm lấy Pháp; vào lúc giữa, lòng xác quyết về vô thường sẽ thúc giục bạn tinh tấn; và vào lúc cuối, lòng xác quyết về vô thường sẽ đem lại cho bạn Pháp Thân chói lọi.
+
+Trừ phi bạn cảm nhận được sự xác quyết chân thành này về các nguyên lý vô thường, thì bất kỳ giáo lý nào bạn có thể cho rằng mình đã thọ nhận và đưa vào thực hành sẽ chỉ khiến bạn càng thêm trơ lì $^{47}$ đối với Pháp. Ngài Padampa Sangye cũng có nói:
+
+Tôi chưa bao giờ thấy một hành giả Tây Tạng duy nhất nào nghĩ tưởng về sự chết.
+Cũng chưa bao giờ thấy ai sống mãi!
+Nhìn họ thích thú góp nhặt của cải một khi đã khoác chiếc y vàng, tôi tự hỏi –
+Phải chăng họ sắp hối lộ Thần Chết bằng thực phẩm và tiền bạc?
+Nhìn cách họ tích lũy những vật dụng giá trị nhất, tôi tự hỏi?
+Phải chăng họ sắp lo đút lót trong địa ngục?
+Ha, ha! Nhìn thấy các hành giả Tây Tạng đó khiến tôi phải bật cười!
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Người thông thái nhất là kẻ tự phụ nhất,
+Những thiền giả xuất sắc nhất chất đống thực phẩm và của cải,
+Các ẩn sĩ cô tịch mê mải giữa những theo đuổi tầm thường,
+Những kẻ từ bỏ nhà cửa và quê hương không biết xấu hổ,
+Những người đó miễn nhiễm đối với Pháp!
+Họ miệt mài trong tà hạnh.
+Họ có thể thấy người khác chết nhưng không hiểu rằng bản thân họ cũng sẽ chết.
+Đó là lỗi lầm đầu tiên của họ.
+
+Như vậy thì thiền định về vô thường là một khúc dạo mở đầu để khai mở con đường cho tất cả các pháp thực hành của Phật Pháp. Khi được thỉnh cầu ban giáo huấn về cách giải trừ nghịch cảnh, Geshe Potowa đã trả lời bằng những lời sau đây:
+
+Hãy suy tưởng dài lâu về cái chết và lẽ vô thường. Một khi bạn quyết chắc rằng bạn sẽ chết, bạn sẽ không còn thấy khó khăn để gạt các tà hạnh sang một bên, và cũng không khó khăn để làm những điều đúng đắn.
+
+Sau đó, hãy thiền định lâu dài về lòng từ và bi. Một khi lòng bi tràn ngập trái tim bạn, bạn sẽ không thấy khó khăn để hành động vì lợi lạc của người khác.
+
+Rồi hãy thiền định lâu dài về tánh Không, trạng thái tự nhiên của mọi hiện tượng. Một khi bạn hoàn toàn thấu suốt tánh Không, bạn sẽ không còn thấy khó khăn để loại trừ các mê lầm của bạn.
+
+II. LẼ VÔ THƯỜNG CỦA CUỘC ĐỜI
+
+Một khi chúng ta có được sự xác quyết như thế về lẽ vô thường thì mọi hoạt động tầm thường của đời này dường như trở nên cực kỳ ghê tởm, như một miếng thịt mỡ làm một người đang khốn khổ vì ói mửa phải gớm ghiếc. Đạo Sư tôn kính của tôi thường nói:
+
+Bất kỳ thứ quyền cao chức trọng, của cải hay sắc đẹp nào ta thấy trong thế giới này cũng không khơi dậy được lòng tham muốn trong ta. Đó là bởi vì khi ta nhìn thấy các bậc tôn quý khi xưa đã sống cuộc đời của các ngài như thế nào thì ta có được chỉ một chút hiểu biết ít ỏi về lẽ vô thường. Ta không còn giáo huấn nào sâu sắc hơn điều này để ban cho con.
+
+Thật ra thì bạn đã có thể thấm nhuần được ý niệm về lẽ vô thường một cách sâu sắc như thế nào? Bạn nên trở thành giống như Geshe Kharak Gomchung; Ngài đi vào những vùng núi non cô tịch ở Jomo Kharak trong tỉnh Tsang để thiền định. Trước hang của Ngài có một bụi gai, nó vướng vào quần áo Ngài.
+
+Lúc đầu Ngài nghĩ: “Có lẽ ta nên chặt nó đi,” nhưng rồi ngài tự bảo: “Nhưng xét cho cùng, ta có thể chết trong cái hang này. Ta thực sự không nói trước được là liệu mình còn sống sót để trở ra nữa không. Hiển nhiên, điều quan trọng hơn là ta phải tiếp tục lo việc hành trì.”
+
+Khi ra ngoài, Ngài lại bị những chiếc gai móc vào quần áo. Lúc này Ngài nghĩ: “Ta không dám chắc là sẽ còn trở vào lại hang nữa hay không,” và sự việc này tiếp diễn như thế trong nhiều năm cho tới khi Ngài trở thành một Đạo Sư thành tựu. Khi Ngài rời hang, bụi gai vẫn chưa được chặt.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Vào mùa thu, trong thời gian chòm sao Risi xuất hiện, Ngài Rigdzin Jigme Lingpa luôn luôn ở tại một con suối nóng nào đó. Các sườn vực không có bậc thang khiến việc Ngài xuống tới mặt nước và ngồi trong suối rất khó khăn. Các đệ tử của Ngài tỏ ý muốn làm vài bậc thang, nhưng Ngài trả lời: “Tại sao phải quá bận tâm khi chúng ta không biết sẽ còn ở đây năm tới hay không?” Đạo Sư của tôi đã kể cho tôi rằng Ngài luôn luôn nói về sự vô thường như thế.
+
+Chúng ta cũng thế, chừng nào mà ta chưa hoàn toàn thâm nhập được một thái độ hiểu biết về lẽ vô thường như thế, thì hãy nên thiền định về lẽ vô thường. Hãy bắt đầu bằng việc phát khởi Bồ Đề Tâm, và trong phần thực hành chính yếu, hãy rèn luyện tâm bạn bằng tất cả những phương tiện khác nhau cho tới khi vô thường thực sự thấm nhập vào từng tư tưởng của bạn. Cuối cùng, hãy kết thúc thời công phu bằng cách hồi hướng công đức. Hãy thực hành theo cách này, và với tất cả khả năng tốt lành nhất, hãy nỗ lực noi gương các bậc thánh giả vĩ đại trong quá khứ.
+
+Vô thường thì có mặt khắp nơi, tuy thế con vẫn cho rằng mọi thứ sẽ tồn tại.
+Con đã đi tới cánh cổng của tuổi già, tuy thế con vẫn giả đò như mình còn son trẻ.
+Xin từ bi gia hộ cho con và những chúng sinh lạc lối như con,
+Để chúng con có thể thực sự thấu hiểu lẽ vô thường.
+
+[Hình: Tranh thangka vẽ chân dung Jetsun Trakpa Gyaltsen và các vị tôn giả, chư Phật xung quanh]
+
+*Jetsun Trakpa Gyaltsen (1147-1216)*
+
+Một học giả và đạo sư tiên phong của trường phái Sakya (Lam Thổ)
+
+# CHƯƠNG BA
+
+## NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Thấu hiểu rằng những hoạt động thế gian đều vô nghĩa,  
+Với lòng đại bi, Ngài nỗ lực chỉ vì lợi lạc của chúng sinh.  
+Không đắm nhiễm sinh tử hay niết bàn, Ngài hoằng hoá  
+theo con đường Đại Thừa.  
+Bậc Thầy Vô Song, con đảnh lễ dưới chân Ngài.
+
+Hãy lắng nghe chương này với thái độ (động lực) tương tự như ở những chương trước. Chương này bao gồm phần quán chiếu tổng quát về những nỗi khổ nói chung trong sinh tử luân hồi và quán chiếu về những nỗi thống khổ đặc biệt của từng cõi trong sáu nẻo luân hồi.
+
+## I. NHỮNG ĐAU KHỔ NÓI CHUNG CỦA SINH TỬ LUÂN HỒI
+
+Như ta đã chỉ ra từ trước, hiện giờ chúng ta có thể có một đời người được phú bẩm với những điều kiện tự do và những thuận duyên rất khó tìm, nhưng cuộc đời này sẽ không kéo dài. Chẳng bao lâu nữa, chúng ta sẽ phải chịu sức mạnh chi phối của vô thường và cái chết. Nếu sau đó, chúng ta biến mất đi như ngọn lửa tàn lụi hay như nước bốc hơi, thì mọi sự thế là xong hết. Nhưng sau khi chết, chúng ta sẽ không tan biến thành không có gì cả. Chúng ta bị buộc phải tái sinh – và
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+điều đó có nghĩa là ta sẽ vẫn phải ở trong vòng sinh tử, không có chỗ nào khác ngoài nơi đó.
+Thuật ngữ samsara, tức bánh xe hay vòng quay của sự hiện hữu, được dùng ở đây để ngụ ý một sự xoay vòng từ nơi này sang nơi khác trong một vòng tròn, giống như một bánh xe bằng gốm, hay bánh xe của một cái máy xay nước vậy. Khi một con ruồi bị bẫy trong một cái chai đóng kín thì dù có bay chỗ nào chăng nữa nó cũng không thể thoát ra được. Tương tự như vậy, cho dù được sinh trong cõi cao hay cõi thấp, ta cũng chẳng hề nằm ngoài vòng luân hồi sinh tử. Phần trên cái chai giống như những cõi cao của thiên giới hay con người, và phần dưới giống như ba cõi bất hạnh. Vòng luân hồi giống như một vòng tròn, vì ta cứ mãi xoay vòng, tái sinh hết nơi này đến nơi khác trong sáu cõi do bởi hậu quả của hành nghiệp của chính mình, và những hành nghiệp, cho dù là thiện hay ác, đều bị ô nhiễm bởi sự bám chấp.
+Từ vô thủy nhẫn cho đến ngày nay, chúng ta đã từng lang thang trong thế giới luân hồi. Mỗi một chúng sinh trong đó, không loại trừ ai, đều có những ràng buộc về luyến ái, hận thù và lãnh đạm đối với những chúng sinh khác. Ai cũng đã từng là cha mẹ của các chúng sinh khác. Trong Kinh điển có nói rằng nếu ta tính lùi lại những thế hệ các bà mẹ trong gia đình mình rồi nói rằng: “Người ấy là mẹ của mẹ tôi; mẹ của mẹ của mẹ tôi là người này và người này...” và cứ tiếp tục tính theo cách thức như vậy, dùng những viên đất nhỏ bằng hột cây bách xù để đếm số người thì toàn thể số đất được dùng sẽ hết sạch trước khi bạn đếm xong số lượng các bà mẹ. Như Ngài Long Thọ (Nagarjuna) đã nói:
+
+Chúng ta sẽ dùng hết đất khi cố gắng tính đếm những bà mẹ của mình
+Bằng những viên đất sét nhỏ bằng hột bách xù.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Trải qua suốt vòng luân hồi từ vô thủy cho tới ngày nay, không có một sinh thái (life form) nào mà ta đã chưa từng sinh ra trong đó. Đã bao lần những dục vọng của ta khiến đầu và tứ chi ta đứt rời. Nếu có thể chất đống ở tại một nơi tất cả những tứ chi mà ta đã mất khi làm thân kiến và làm những côn trùng khác thì đống tứ chi ấy còn cao hơn Núi Tu Di. Những giọt nước mắt mà ta đã khóc bởi cái lạnh, cái đói và cái khát khi không có cái ăn, cái mặc, những giọt nước mắt ấy có thể tạo thành một đại dương còn lớn hơn tất cả những đại dương bao quanh trái đất này. Ngay cả tất cả số đồng đỏ mà ta từng nuốt trong các cõi địa ngục thì còn lớn hơn cả bốn đại dương. Thế nhưng tất cả những chúng sinh bị cột chặt vào các cõi sinh tử bởi dục vọng và bám chấp sẽ còn phải chịu đựng thêm nữa những đau khổ trong vòng luân hồi vô tận này, trong tâm họ chẳng hề có chút hối hận dù chỉ trong chốc lát.
+
+Ngay cả nếu nhờ kết quả may mắn của một vài thiện hạnh, chúng ta có thể được trường thọ, có được thân thể hoàn hảo, của cải và vinh quang của vua cõi Trời Đế Thích (Indra) hay Phạm Thiên (Brahma), thì cuối cùng chúng ta vẫn không thể trì hoãn được cái chết; và sau cái chết chúng ta lại phải chịu đựng những đau khổ của các cõi thấp hơn. Trong đời này, những điều kiện thuận lợi nhỏ bé của quyền lực, của cải, sức khoẻ và những thứ khác mà ta vui hưởng có thể lừa phỉnh ta trong một ít năm, ít tháng hay ít ngày. Nhưng một khi kết quả của bất kỳ thiện hạnh nào ta đã tạo được trong những trạng thái hạnh phúc này bị cạn kiệt, thì dù có muốn hay không, ta sẽ phải trải qua sự bần cùng và khốn khó, hay trải qua những đau khổ không thể chịu đựng nổi trong những cõi thấp.
+
+Có ý nghĩa gì không trong loại hạnh phúc đó? Nó như một giấc mót chỉ ngừng lại giữa chừng khi bạn tỉnh giấc. Những ai có vẻ sung sướng và thoải mái vào lúc này nhờ vào kết quả của một vài thiện hạnh không đáng kể, họ cũng sẽ không thể kéo dài được tình trạng thoải mái và sung sướng
+
+# III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+đó hơn một khắc nào một khi kết quả của thiện hạnh đó đã cạn kiệt. Có những vị vua Trời, ngồi cao ngất trên những chiếc ngai bằng châu báu, dàn trải với những thứ lưa là đẹp tuyệt trần, vui hưởng mọi lạc thú của năm giác quan. Nhưng, một khi thọ mạng của họ cạn kiệt thì trong nháy mắt, họ bị đắm chìm trong đau khổ và đẫm c[không rõ] thiêu như đốt của địa ngục. Ngay cả những vị thần mặt trời và thần mặt trăng, 48 là những vị đã chiếu sáng bốn đại lục, cuối cùng cũng có thể bị tái sinh ở một nơi nào đó ngay giữa những đại lục kia, trong bóng tối sâu dày tới nỗi họ không thể thấy tới chi của chính họ đuổi ra hay gặp lại.
+
+Vì thế chớ nên đặt sự kỳ vọng của mình vào những niềm vui trước mắt của cõi luân hồi. Hãy mang quyết tâm rằng, ngay trong đời này, ta sẽ giải thoát chính mình khỏi biển khổ và đạt được chân hạnh phúc, một hạnh phúc thường hằng của Phật Quả viên mãn. Hãy đặt tâm niệm này vào công phu hành trì của bạn, áp dụng những phương pháp đúng đắn khi bắt đầu thời công phu, khi hành trì phần chính yếu của công phu và lúc kết thúc công phu.
+
+## II. NHỮNG NỖI THỐNG KHỔ ĐẶC BIỆT MÀ CHÚNG SINH TRONG SÁU CÕI PHẢI KINH QUA
+
+### 1. Thập Bát Địa Ngục (Mười tám cõi địa ngục)
+
+#### 1.1 BÁT HỎA ĐỊA NGỤC (Tám cõi hỏa ngục hay địa ngục nóng)
+
+Bát hỏa địa ngục nằm chồng chất lên nhau như các tầng lầu của một toà nhà, từ Đẳng Hoại địa ngục nằm cao nhất xuống tới Vô Gián địa ngục (A-Ti địa ngục) ở dưới cùng. Trong mỗi tầng địa ngục, mặt nền và vành đai đều nóng bỏng như sắt nung chảy ở lò rèn – không thể có chỗ nào có thể đặt chân an
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+dùng làm những đường mẫu để xẻ cắt các nạn nhân ra bằng những chiếc cưa nóng đỏ. Vừa bị cắt thành từng mảnh xong, họ lập tức nguyên vẹn trở lại, chỉ để rồi lại bị chặt ra thành từng phần và bị băm đi băm lại.
+Đối với tuổi thọ của những chúng sinh ở đây, một trăm năm làm người tương ứng với một ngày của các vị Trời trong Cõi Trời thứ Ba Mươi Ba (Đao Lợi Thiên), và một ngàn năm trong Cõi Trời thứ Ba Mươi Ba tương đương với một ngày trong địa ngục này. Dựa theo phỏng ước đó thì các chúng sinh này phải thọ mạng ở địa ngục này một ngàn năm.
+
+1.1.3 Chúng Hợp Địa Ngục (Phạn: Samghata – Địa ngục đè ép tội nhân tới nát nhừ)
+
+Trong địa ngục này, triệu triệu chúng sinh bị ném vào những cối giã khổng lồ bằng sắt có kích thước bằng cả những cái thung lũng. Những thuộc hạ của Diêm Vương xoay tít những chiếc búa khổng lồ bằng kim loại nóng đỏ lớn như Núi Tu Di quanh đầu họ, và giã nát các nạn nhân ra. Những chúng sinh này bị nghiền nát cho tới chết, kêu khóc trong nỗi thống khổ và kinh hoàng không thể tưởng tượng nổi. Khi những chiếc búa được nhấc lên, thì họ lại sống lại, chỉ để phải tiếp tục chịu đi chịu lại những cực hình như vậy.
+Đôi khi, núi non ở cả hai bờ thung lũng biến thành đầu hươu, nai, dê, cừu và những súc vật khác mà những chúng sinh trong địa ngục đã từng giết hại trong các kiếp quá khứ. Những con vật húc đầu vào nhau bằng những đầu sừng phun lửa của chúng, và vô số chúng sinh trong địa ngục bị lôi kéo tới đó bởi nghiệp lực của mình, và đều bị nghiền nát cho tới chết. Rồi, thêm một lần nữa, khi những rặng núi tách ra, họ lại sống lại chỉ để lại bị nghiền nát.
+Hai trăm năm làm người tương đương với một ngày của những vị Trời trong Cung Trời Vô Chiến (Dạ Ma Thiên). Hai ngàn năm trong cõi đó tương đương với một ngày trong Chúng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Hợp địa ngục, và chúng sinh trong địa ngục này có thọ mạng hai ngàn năm.
+
+1.1.4 Hào Kiếu Địa Ngục (*Phạn: Raurava* – Địa ngục gào khóc)
+
+Ở đây, chúng sinh đau khổ vì bị quay nướng trong những toà nhà bằng kim loại nóng đỏ không có lối thoát. Họ la thét và gào khóc, có cảm giác sẽ không bao giờ thoát được.
+
+Bốn trăm năm làm người tương đương một ngày trong Cung Trời Đâu Suất (Đâu Suất Thiên). Bốn ngàn năm trong cõi trời đó tương đương với một ngày trong Hào Kiếu Địa Ngục, ở đó thọ mạng kéo dài bốn ngàn năm.
+
+1.1.5 Đại Kiếu Địa Ngục (*Phạn: Maharauvara* – Địa ngục gào khóc to lớn thống thiết)
+
+Một đám đông thuộc hạ của Diêm Vương, trang bị vũ khí và trông kinh khiếp, xô đẩy hằng triệu nạn nhân vào những nhà kho bằng kim khí với những bức tường đôi đang cháy rừng rực, và đánh đập họ bằng búa và những vũ khí khác. Những cánh cửa bên trong lẫn bên ngoài đều bị niêm phong bằng kim loại nóng chảy và chúng sinh địa ngục kêu rú trong đau đớn khi nghĩ rằng, cho dù họ có thể vượt qua cánh cửa đầu tiên, họ cũng sẽ không bao giờ có thể đi qua cánh cửa thứ hai.
+
+Tám trăm năm làm người thì bằng một ngày trong Cung Trời Hoá Lạc (Hoá Lạc Thiên). Tám ngàn năm ở đó tương đương với một ngày trong Đại Kiếu Địa ngục. Chúng sinh ở địa ngục này có thọ mạng tám ngàn năm.
+
+1.1.6 Viêm Hỏa Địa Ngục (*Phạn: Tapana* – Địa ngục thiêu cháy)
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Ở đây, vô lượng chúng sinh đau khổ vì bị nấu sôi trong chất đồng nóng chảy trong những vạc sắt khổng lồ có kích thước lớn bằng cả tam thiên đại thiên thế giới. Dù có ngồi lên được ở chỗ nào thì họ cũng bị những thuộc hạ của Diêm Vương tóm lại bằng những cái móc kim khí và dùng búa đánh vào đầu, đôi khi cho đến bất tỉnh; ý niệm về hạnh phúc của họ là những giây lát bất tỉnh hiếm hoi này khi họ không cảm thấy đau đớn. Ngoại trừ những giây phút này, họ luôn phải chịu đựng những đau khổ cùng cực.
+
+Một ngàn sáu trăm năm làm người tương đương một ngày giữa những vị trời trong Cung Trời Tha Hóa (Tha Hóa Thiên). Mười sáu ngàn năm của những vị Trời tương đương một ngày trong Viêm Hoả Địa ngục. Chúng sinh ở địa ngục này có thọ mạng mười sáu ngàn năm như thế.
+
+1.1.7 Đại Viêm Hoả Địa Ngục (Phạn: Pratapana – Địa ngục thiêu cháy cực nóng)
+
+Chúng sinh trong địa ngục này bị giam cầm trong những ngôi nhà bằng kim khí nóng rực, và những thuộc hạ của Diêm Vương dùng các chĩa ba bằng sắt nóng đỏ đâm họ qua gót chân và qua hậu môn cho tới khi các nanh chĩa được đẩy sâu vào tận vai và đỉnh đầu. Trong khi đó thân họ bị trói bọc trong những miếng kim loại nóng đỏ. Họ phải chịu đau đớn biết bao! Những đau đớn này kéo dài liên tục trong nửa trung kiếp, là một thời gian vô tận tính theo năm tháng của con người.
+
+1.1.8 Vô Gián Địa Ngục (Phạn: Avici – Địa ngục A Tì dành cho ngũ nghịch trọng tội)
+
+Địa ngục này là một dinh thự bao la bằng kim loại nóng hực, bao quanh là mười sáu Cận Biên Địa ngục. Trong đó các thuộc hạ của Diêm Vương ném vô lượng chúng sinh vào giữa một núi sắt nung đỏ rực than hồng. Chúng còn làm cho lửa
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+cháy bùng lên bằng những ống thổi làm bằng da cọp da beo cho tới khi thân các nạn nhân và ngọn lửa trở nên không còn phân biệt được nữa. Nỗi khổ của các nạn nhân là vô cùng tận. Ngoài những tiếng kêu khóc tuyệt vọng thì không còn dấu hiệu nào về sự hiện diện của những thân xác thực sự nữa. Các chúng sinh không ngớt mong mỏi được trốn thoát, nhưng điều ấy không xảy ra. Thỉnh thoảng có một lỗ hổng nhỏ trong ngọn lửa và họ nghĩ rằng mình có thể thoát ra, nhưng các thuộc hạ lại đánh họ bằng giáo, dùi cui, búa và những vũ khí khác. Chúng sinh ở đây cũng phải chịu mọi đau đớn hành hà của bảy tầng địa ngục ở trên, chẳng hạn như bị đổ chất đồng nóng chảy vào miệng.
+
+Thọ mạng ở đây kéo dài cả một trung kiếp. Địa ngục này được gọi là Vô Gián, bởi vì không đâu có thể có nỗi khổ khủng khiếp đến như vậy. Đây là địa ngục mà những kẻ phạm năm trọng tội bị quả báo tức thì, và những hành giả Kim Cương Thừa nào phát khởi những quan điểm đối nghịch lại với Vị Thầy Kim Cương, cũng bị tái sinh vào đó. Ngoài ra không có hành nghiệp nào có thể có đủ nghiệp lực để dẫn đến tái sinh ở địa ngục này.
+
+1.1.9 Cận Biên Địa Ngục
+
+Ở bốn hướng chung quanh Vô Gián Địa Ngục đều bao phủ hào sâu đầy than hồng cháy bỏng, đầm lầy đầy những xác chết thối rữa, cánh đồng vũ khí tua tủa và rừng cây có lá sắc như dao. Ở các phương bắc, nam, đông và tây đều có các địa ngục này, tất cả hợp lại thành mười sáu địa ngục. Ở các hướng trung gian – đông nam, tây nam, tây bắc và đông bắc – là những đồi cây salmali bằng sắt.
+
+Hố than nóng đỏ. Khi chúng sinh đã trả xong hầu hết các nghiệp tội ở Vô Gián Địa Ngục và thoát được khỏi địa ngục này, họ sẽ thấy ở đằng xa một cái gì giống như một cái mương rợp mát. Thế là họ vui mừng lao xuống đó, để rồi chỉ
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HÒI
+
+thấy mình chìm nghỉm xuống một hố than nóng đỏ thiêu đốt thịt xương họ.
+Đầm lầy đầy tử thi thối rữa. Tiếp theo đó họ sẽ thấy một con sông. Bị quay nướng trong một lò than cả một đại kiếp, họ khát tới nỗi chỉ nhìn thấy nước là họ đã tràn ngập sung sướng và họ vội vã lao tới đó để làm nguôi cơn khát. Nhưng dĩ nhiên là không có nước. Không có gì ngoài những xác chết – xác người, xác ngựa, xác chó – tất cả đang thối rữa và lúc nhúc giòi bọ, bốc ra những mùi hôi thối khủng khiếp. Họ lún sâu vào bãi lầy này cho tới khi đầu bị chìm nghỉm, và những con sâu có mỏ sắt cấu xé, ngấu nghiến họ.
+Cánh đồng dao cạo. Khi thoát khỏi đầm lầy tử thi, họ sung sướng khi nhìn thấy một cánh đồng xanh tươi. Nhưng khi tới đó họ nhận ra rằng nó lởm chởm đầy những vũ khí. Toàn mặt đất bị bao phủ bởi những lưỡi dao sắt nóng đỏ, nhiều như cỏ, chúng đâm xuyên thủng chân họ mỗi khi họ cất bước. Khi họ nhấc chân lên thì bàn chân lại lành lặn – chỉ để lại bị đâm nát thật đau đớn ngay khi họ đặt chân xuống.
+Rừng gươm. Được tự do một lần nữa, họ sung sướng khi được nhìn thấy một cánh rừng đẹp đẽ và vội vã tới đó. Nhưng khi tới nơi thì chẳng có cánh rừng xinh đẹp nào cả. Nó hoá thành một bụi cây mà trên những cành cây kim loại mọc đầy gươm dao thay cho lá. Khi cây lay động trong gió, những lưỡi gươm cắt thân họ thành từng miếng nhỏ. Thân họ sau đó trở lại như cũ và lại liên tục bị băm nhỏ như vậy.
+Đồi cây salmali bằng sắt. Đây là nơi tái sinh của những vị tăng, ni vi phạm giới nguyện giữ thân trong sạch và của những kẻ phạm tà dâm. Hậu quả của những ác nghiệp này đã khiến họ phải đến chân đồi cây salmali bằng sắt khủng khiếp. Họ có thể thấy trên đỉnh đồi những người tình cũ đang kêu gọi họ. Khi họ hăm hở leo lên để gặp những người ấy thì tất cả những nhánh lá của cây sắt chĩa xuống và đâm thủng da thịt họ. Khi lên tới đỉnh, họ chỉ thấy những con quạ, kên kên, và những
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+con cùng loại, chúng móc mắt họ để hút lấy mỡ. Lúc này họ lại thấy những người bạn tình đang gọi họ từ dưới đồi. Họ leo xuống và những lá cây lại chĩa ngược lên liên tục đâm vào ngực họ. Khi xuống tới mặt đất, những người đàn ông và đàn bà bằng sắt hình thù gớm ghiếc ôm chầm lấy họ, căn dứt đầu họ và nhai cho tới khi óc chảy ròng ròng ở khóe miệng. Những đau khổ phải trải qua ở địa ngục này là như vậy.
+
+Hãy thấm nhuần mọi chi tiết của những đau khổ ở bát hỏa địa ngục, mười sáu địa ngục cận biên và phụ cận, và những đồi cây salmali bằng sắt. Hãy lui về một nơi yên tĩnh, nhắm mắt lại và tưởng tượng rằng mình đang ở trong những địa ngục này. Khi đã cảm nhận được nỗi kinh hoàng và đau khổ nhiều tới độ như thể mình đang thực sự sống ở đó, thì hãy khởi lên trong tâm những suy nghĩ như sau:
+
+“Khi quán tưởng về những nỗi thống khổ đó, tôi cảm nhận được sự khiếp sợ và đau khổ khủng khiếp như vậy, mặc dù tôi không thực sự ở đó. Ngay giờ phút này, có vô số chúng sinh đang sống trong địa ngục, và tất cả họ đã từng là cha mẹ của tôi trong những đời quá khứ. Chẳng biết cha mẹ, những người thân yêu và bằng hữu của tôi có bị tái sinh vào đó sau khi chết hay không. Sự tái sinh vào những cõi này chủ yếu là do những hành vi phát xuất từ thù hận, và bản thân tôi cũng đã tích lũy vô lượng hành nghiệp ấy trong đời này cũng như trong tất cả những đời quá khứ của tôi. Tôi biết chắc rằng không sớm thì muộn chính tôi cũng sẽ phải tái sinh vào những cõi địa ngục đó.”
+
+“Vào lúc này, tôi có được thân người với đầy đủ mọi điều kiện tự do và thuận lợi. Tôi đã gặp được một vị Thầy chân chính và thọ nhận được những lời chỉ dạy thâm sâu để có thể đạt được Phật quả. Vậy, tôi phải gắng hết sức mình để hành trì các pháp tu để có thể cứu thoát tôi không bao giờ để cho tôi còn bị tái sinh nữa vào những cõi thấp đó.”
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Hãy quán chiếu nhiều lần như vậy về nỗi khổ ở địa ngục. Hãy sám hối những ác hạnh trong quá khứ với lòng ân hận sâu xa và hãy lập quyết tâm bất thối chuyển rằng, cho dù phải bỏ thân mạng này thì cũng sẽ không bao giờ vi phạm những hành nghiệp dẫn đến tái sinh vào địa ngục. Với lòng bi mẫn to lớn đối với những chúng sinh giờ đây đang ở đó, hãy cầu nguyện rằng ngay giây phút này, xin cho tất cả họ có thể được giải thoát khỏi những cõi thấp. Hãy đem những lời chỉ dạy vào công phu hành trì, hãy hoàn tất pháp tu này ở phần đầu của thời công phu, ở phần thực hành chính yếu cũng như vào lúc kết thúc thời công phu.
+
+1.2 BÁT HÀN ĐỊA NGỤC (Tám địa ngục lạnh)
+
+Trong các địa ngục này, toàn thể khung cảnh được tạo bằng núi tuyết và băng hà, thường xuyên bị bao phủ trong bão tuyết.
+
+Chúng sinh ở đây, hoàn toàn phải chịu trần truồng, và bị hành hạ bởi giá lạnh. Trong Địa ngục Án Phù Đà (Phạn: Arbuda – Hell of Blisters – Địa Ngục Phồng Giộp), cái lạnh buốt giá làm cho thân họ phồng giộp lên. Trong Địa Ngục Ni La Phù Đà, (Phạn: Nirarbuda – Hell of Burst Blisters – Địa Ngục Phồng Giộp Nứt Nẻ), những mảng phồng giộp trên thân họ bị nứt bật ra. Trong Địa ngục A Tra Tra (Phạn: Atata – Hell of Clenched Teeth – Địa Ngục Nghiến Răng), cái lạnh nhức buốt đến mức không thể chịu nổi và hàm răng họ phải nghiến chặt lại. Trong Địa ngục Hoắc Hoắc Ba (Phạn: Hahava – Hell of Lamentations – Địa Ngục Than Khóc), tiếng than khóc của họ chẳng bao giờ dứt. Trong Địa ngục Hô Hô Ba (Phạn: Huhuva – Hell of Groans – Địa Ngục Rên Xiết), giọng họ bị vỡ ra và chỉ có những tiếng rên dài nghe được từ miệng họ. Trong Địa Ngục Ưu Bát La (Phạn: Utpala– Hell of Utpala-like Cracks – Địa Ngục Nứt Nẻ Như Hoa Ưu Bát La), da của họ trở nên xám xanh và thân họ nứt ra thành bốn mảnh như cánh hoa ưu bát la. Trong Địa ngục Liên Hoa (Phạn:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Padma – Hell of Lotus-like Cracks – Địa Ngục Nứt Nẻ Như Hoa Sen), có thể nhìn thấy máu thịt đỏ dưới da họ, và cái giá lạnh làm thân họ phải bị nứt thành tám mảnh như hoa sen. Cuối cùng, trong Địa Ngục Đại Liên Hoa (Phạn: Maha-Padma – Hell of Great Lotus-like Cracks), máu thịt họ trở nên đỏ sậm và nứt ra thành mười sáu, ba mươi hai mảnh và sau đó thành vô số mảnh. Sâu bọ đục thủng những mảng thịt vỡ nứt và ngấu nghiến chúng bằng những cái mỏ kim khí. Tên của tám địa ngục này bắt nguồn từ những đau khổ khác nhau mà chúng sinh phải chịu đựng ở đó.
+
+Còn về thọ mạng trong những địa ngục lạnh này, hãy hình dung một cái thùng có thể chứa được hai trăm thước bộ Câu Tát La (Kosala),* đựng đầy hột mè. Nếu cứ một trăm năm lại lấy một hột mè ra thì thọ mạng của các tội nhân trong Địa Ngục Án Phù Đà (Địa Ngục Phồng Giộp) kéo dài chừng nào tất cả các hột mè được lấy ra khỏi cái thùng đó.
+
+Đối với những địa ngục lạnh khác, thọ mạng và các nỗi khổ mỗi thứ tăng gấp hai mươi lần. Do đó thọ mạng trong Địa Ngục Ni La Phù Đà (Địa Ngục Phồng Giộp Nứt Nẻ) dài gấp hai mươi lần đời sống trong Địa Ngục Án Phù Đà; thọ mạng trong Địa Ngục A Tra Tra (Địa Ngục Nghiến Răng) thì dài gấp hai mươi lần đời sống trong Địa Ngục Ni La Phù Đà và tương tự như vậy đối với các địa ngục khác...
+
+Hãy hứng chịu những nỗi đau khổ (của các tội nhân) này trong tâm thức, và hãy thiền quán về những nỗi thống khổ này theo cách thức thiền quán đối với bát hoài địa ngục. Hãy nghĩ rằng trong thế giới con người hiện tại này, sẽ lạnh lẽo khủng khiếp biết bao khi ta không có được một mảnh vải che thân dù chỉ trong chốc lát giữa gió bão mùa đông lạnh giá. Làm sao có thể chịu đựng được nếu bị tái sinh vào bát hàn địa ngục? Hãy phát lồ sám hối những lỗi lầm của mình và nguyện không bao
+
+* Một đơn vị đo lường thời xưa được đặt tên theo thành phố Kosala của Ấn Độ (hiện nay gần Ayodhya).
+
+106 giờ tái phạm. Sau đó hãy phát khởi lòng bi mẫn đối với chúng sinh đang sống trong những thế giới đó. Hãy công phu hành trì như trong những thời công phu trước, áp dụng các phương pháp hành trì vào lúc khởi đầu, trong phần công phu chính yếu cũng như khi kết thúc thời công phu.
+
+### 1.3 CÔ ĐỘC ĐỊA NGỤC (Phạn: Pratyeka)
+
+Các Cô Độc Địa Ngục hiện hữu ở nhiều tầng khác nhau và những nỗi khổ phải kinh qua ở mỗi nơi cũng biến đổi rất nhiều. Chúng sinh có thể bị nghiền nát giữa các tảng đá, hoặc bị giam cầm trong một hòn đá, bị công lạnh giữa băng tuyết, bị nấu chín trong nước sôi hay bị thiêu đốt trong lửa đỏ. Có những chúng sinh cảm thấy rằng khi có người đang đốn cây, thì mình là cái cây đang bị chặt cành. Có những chúng sinh cảm thấy thân thể họ là những dụng cụ bị liên tục sử dụng như cối giã, chổi, xoong chảo, cánh cửa, kéo cắt, đinh đầu lớn và dây thừng ...
+
+Minh chứng về các Cô Độc Địa Ngục có thể kể đến các câu chuyện về con cá mà Ngài Lingje Repa nhìn thấy trong Hồ Yamdrok và con ếch mà thành tu giả Tangtong Gyalpo tìm thấy bên trong một hòn đá.
+
+Yutso Ngonmo, Hồ Lam Ngọc xuất hiện trong lúc thành nữ Yeshe Tsogyal đang thiền định ở Yamdrok, khi một miếng vàng ròng do một người tu theo đạo Bonpo ném xuống đã biến thành hồ nước. Nó là một trong bốn cái hồ nổi tiếng ở Tây Tạng, và dài đến nỗi từ đầu hồ đến cuối hồ mất vài ngày. Một ngày nọ, khi đại thành tựu giả Lingje Repa đang quan sát cái hồ này thì Ngài bắt đầu bật khóc và than rằng: “Con vật đáng thương! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn! Chớ lạm dụng những vật cứng dùng những vật cứng để làm thức ăn!”49
+
+Khi những người đang ở cùng với Ngài xin Ngài giải thích, Ngài nói “Thần thức của một Lạt Ma lam dụng của cúng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+dường đã bị tái sinh trong một địa ngục Cô Độc trong cái hồ này, và đang phải hứng chịu cực kỳ đau khổ.”
+
+Những người này muốn được nhìn thấy, và vì thế mà vị thành tựu giả đã làm khô cạn nước hồ trong chốc lát một cách kỳ diệu, phơi bày một con cá khổng lồ, lớn tới nỗi chiếm trọn bề rộng và bề dài của cái hồ. Nó đang quằn quại trong đau đớn vì toàn thân bị phủ kín bởi những sinh vật nhỏ đang ăn sống nó. Những thị giả của Ngài Lingje Repa hỏi Ngài người có nghiệp xấu như vậy là ai, và Ngài trả lời đó là Tsangla Tanakchen, một lạt ma của phái Hắc Mã (Ngựa Đen) ở tỉnh Tsang. Ông là một Lạt Ma mà lời nói, ngôn từ có mãnh lực to lớn và có thể đem đến nhiều sự gia hộ.50 Chỉ một cái nhìn của ông là đủ để chữa lành cho một người bị tinh linh quấy nhiễu. Vì lý do này ông rất được kính trọng trong bốn tỉnh của U và Tsang. Nhưng khi ông thực hiện pháp chuyển di tâm thức trong những buổi tang lễ, mỗi lần phát ra tiếng “P’et” là ông đòi phải được trả công bằng một số lượng lớn gồm ngựa và trâu bò của người chết.
+
+Một ngày nọ, khi thành tựu giả Tangtong Gyalpo đang hành trì những bài pháp du già (yoga) về kinh mạch và khí lực trên một tảng đá lớn, làm tảng đá bể ra làm hai. Bên trong đó là một con cóc lớn, có vô số những sinh vật bé nhỏ đang bám vào và ăn sống nó, làm nó há mở rồi lại ngậm cái miệng đen của nó lại vì đau đớn khôn tả. Khi những người đồng hành hỏi Ngài tại sao lại xảy ra điều này, Tangtong Gyalpo giải thích rằng người bị tái sinh trong hình thể đó là một thầy tu đã dùng những con vật để cúng tế.
+
+Hãy nhìn những Lạt Ma ngày nay! Mỗi lần một tín chủ giết một con cừu béo tốt và bày ra thịt cổ, những trái cật và những bộ phận khác cùng với thịt và máu, chất đống nó cùng những miếng thịt sườn trâu yak còn run rẩy, những Lạt Ma của chúng ta kéo áo choàng ra khỏi đầu và mút bộ lòng như trẻ em bú mẹ. Sau đó, họ dùng dao lạng miếng thịt và ung dung
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+nhai nuốt chúng một cách ngon lành. Khi ăn xong, cái đầu của họ mới ngẩng lên, nóng hổi và bốc hơi. Miệng họ loáng mỡ và râu họ thoảng một màu đỏ nhạt. Nhưng họ sẽ gặp hậu quả nặng nề trong đời sau, ở các cô độc địa ngục, khi họ phải trả giá lại bằng chính thân thể của họ tất cả những gì họ đã ăn quá nhiều lần trong kiếp sống này.
+
+Có lần, Ngài Palden Chokyong, Tu Viện Trưởng Tối Cao của xứ Ngor, có mặt ở Derge. Ngài bố trí nhiều tu sĩ dọc theo bờ Sông Ngulda, ra lệnh cho họ không được để bất kỳ thứ gì trôi qua. Tới chiều, họ thấy một thân cây lớn trôi trên mặt nước nên lôi vào bờ và đem lại cho vị Tu Viện Trưởng, nói rằng ngoài khúc cây này họ không thấy vật gì khác.
+
+“Chắc hẳn là nó,” Ngài nói. “Hãy chẻ nó ra.”
+
+Ở bên trong thân cây họ thấy một con cóc lớn đang bị vô số côn trùng ăn sống. Sau khi thực hiện nghi lễ tịnh hóa, vị Tu Viện Trưởng nói rằng con cóc trước đây là một người quản thủ tên là Pogye ở vùng Derge. Ngày nay những người quản thủ như vậy có vẻ có mọi quyền lực, nhưng tất cả những người lãnh đạo và những kẻ quyền cao chức trọng đang thâm lạm của công nên suy nghĩ về Cô Độc Địa Ngục và phải vô cùng cẩn trọng.
+
+Vào thời Đức Phật, có một người đồ tể của làng lập một lời nguyện không giết súc vật vào ban đêm. Ông ta bị tái sinh vào một địa ngục Cô Độc. Vào ban đêm ông ta được trải qua sự hỷ lạc vô hạn. Ông sống trong một lâu đài tuyệt đẹp với bốn phụ nữ quyến rũ và họ ra sức phục vụ các thức ăn đồ uống và những thú vui khác cho ông. Tuy nhiên, vào ban ngày những bức tường của toà nhà biến thành kim khí nóng đỏ và bốn người phụ nữ thành bốn con chó nâu thật khủng khiếp ngấu nghiến ăn thịt ông ta.
+
+Ngày xưa, Ngài Srona thấy một người đàn ông ngoại tình thề giữ giới không tà dâm vào ban ngày. Ngược với người đồ tể, ông ta chỉ bị đau khổ vào ban đêm.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Trước đây có một tu viện rất an vui có khoảng năm trăm tăng sĩ. Khi chuông đổ vào giữa trưa, những nhà sư vân tập để thọ trai, dùng bữa trưa thì tu viện biến thành một căn nhà bằng kim khí cháy nóng. Những bình bát, ly tách và v.v... biến thành các vũ khí và những vị tu sĩ đánh đập nhau. Khi hết giờ ăn trưa, họ tách ra và lại trở về vị trí cũ. Vào thời Đức Phật Ca Diếp, nhiều vị tăng đã tranh cãi vào giờ ăn trưa, và đây là sự trổ quả việc tranh cãi đó.*
+
+Tám địa ngục nóng (hỏa ngục), tám địa ngục lạnh (hàn ngục), cùng với cận biên địa ngục và cô độc địa ngục tạo thành mười tám cõi địa ngục. Hãy nghiên cứu kỹ càng số lượng của những địa ngục này, thời gian trải qua ở đây, những đau khổ phải chịu đựng và nguyên nhân gây ra việc phải bị đọa sinh vào đó. Hãy thiền quán với lòng bi mẫn về những chúng sinh bị đọa sinh ở đó. Hãy cố gắng để bảo đảm rằng sẽ không một ai, kể cả bản thân mình lẫn bất kỳ chúng sinh nào khác, còn bị sinh vào những cõi đó.
+
+Nếu chỉ hoàn toàn bằng lòng với việc lắng nghe và hiểu biết về những địa ngục này về mặt kiến thức mà không biến những hiểu biết ấy thành một kinh nghiệm sống thực, thì ta sẽ chỉ trở thành một người trong đám những hành giả ngoan cố và kiêu ngạo, sẽ bị các bậc siêu phàm phê phán và các bậc thiện trí thức chỉ trích.
+
+Ngày xưa có một tu sĩ có đức hạnh gương mẫu nhưng lại hết sức kiêu ngạo. Ông ta đến thăm Ngài Shang Rinpoche, Ngài hỏi ông ta hiểu biết Giáo Pháp gì.
+
+“Tôi đã được nghe nhiều giáo lý,” vị tăng sĩ trả lời.
+
+“Vậy hãy kể cho ta tên của mười tám địa ngục,” Shang Rinpoche nói.
+
+“Tám địa ngục nóng, tám địa ngục lạnh... tổng cộng là mười sáu... và nếu Ngài thêm vào Mũ Đen và Đỏ của các vị Karmapa thì là mười tám.”
+
+*Điều này được giải thích trong chương theo sau.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Không phải vì sự thiếu tôn kính đã khiến cho ông ta gộp chung các đạo sư Karmapa với các địa ngục. Đơn giản là chỉ vì ông ta quên tên của các Cô Độc Địa Ngục và Cận Biên Địa Ngục, và bởi vào lúc đó những vị đạo sư Karmapa Mũ Đen và Đỏ rất nổi tiếng, nên ông ta đã hấp tấp kể thêm các Ngài vào. Bây giờ bạn có thực hành những giáo lý đã nhận được hay không là một chuyện, nhưng nếu ngay cả những ngôn từ và thuật ngữ có liên quan đến những giáo lý ấy mà cũng không biết tới thì thật đáng xấu hổ.
+
+2. Ngạ Quỷ (Phạn: Preta)
+
+Có hai loài ngạ quỷ: ngạ quỷ sống tụ tập và ngạ quỷ du hành khắp không gian.
+
+2.1 LOÀI NGẠ QUỶ SỐNG TỤ TẬP
+
+Những ngạ quỷ này bị hành hạ đau khổ bởi ba loại chướng ngại: chướng ngại bên ngoài (ngoại chướng), chướng ngại bên trong (nội chướng), hay chướng ngại đặc biệt (không chướng).
+
+2.1.1 Ngạ quỷ bị hành hạ bởi chướng ngại bên ngoài
+
+Những ngạ quỷ này bị hành hạ bởi cái đói và khát cực độ. Nhiều thế kỷ đã trôi qua mà ngay cả một từ “nước” cũng chẳng được nhắc tới. Thường xuyên bị ám ảnh bởi thực phẩm và nước uống, họ không ngừng tìm kiếm thức ăn và nước uống, nhưng không tìm thấy ngay cả một dấu vết nhỏ nhất. Thỉnh thoảng họ thấy ở xa một dòng nước trong trẻo, thanh tịnh. Nhưng những khớp xương của họ yếu tới nỗi không đỡ nổi cái bụng nặng nề. Họ khổ sở lắm mới tới được đó, và khi tới nơi thì hoàn toàn kiệt lực – chỉ để càng khốn khổ hơn khi
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+thấy nước đã khô cạn hết, không còn gì ngoài đáy sông đầy sỏi đá.
+Đôi khi họ thấy xa xa có một vườn trái cây. Cũng như trước, họ tiến lại gần, nhưng khi đến nơi họ lại thấy rằng những cây lớn đã hoàn toàn khô héo. Đôi lúc họ nhìn thấy nhiều thức ăn và nước uống cùng những thứ vừa ý khác, nhưng khi tới gần thì họ thấy những thứ này được bảo vệ bởi vô số người trang bị vũ khí, những người này săn đuổi và đánh đập họ bằng các vũ khí khiến họ phải bị vô cùng đau đớn.
+Vào mùa hè, ngay cả ánh trăng dường như cũng nóng bỏng và thiêu đốt họ; vào mùa đông thì họ có cảm tưởng mặt trời cũng lạnh giá. Những cảm giác này hành hạ họ khủng khiếp.
+Có lần, khi Ngài Srona ở trong một xứ ngạ quỷ, Ngài thấy sự tham lam của họ độc hại tới nỗi làm Ngài phát sốt và miệng Ngài trở nên hoàn toàn khô đắng. Ngài đi qua một lâu đài bằng sắt mà đứng ở cửa là một hình dạng ảm đạm khủng khiếp với đôi mắt đỏ ngầu.
+”Xin hỏi ở đâu có nước?” Ngài Srona nói.
+Nghe được lời này, tất cả một đám ngạ quỷ trông giống như những mẩu gỗ đang cháy xúm lại quanh Ngài, van nài: “Đấng viên mãn vĩ đại, xin hãy cho chúng tôi nước uống!”
+“Chính ta cũng chẳng tìm ra,” Ngài trả lời. “Các ngươi hãy cho ta một ít.”
+“Ngài nói gì vậy?” những ngạ quỷ trả lời. “Chúng tôi sinh ở vùng này đã mười hai năm mà tới nay chưa từng được nghe nhắc tới nước.”
+
+2.1.2 Ngạ quỷ bị hành hạ bởi chướng ngại bên trong
+
+Những ngạ quỷ này có cửa miệng không lớn hơn một lỗ kim. Thậm chí nếu họ uống hết nước trong các đại dương, thì lúc nước trôi xuống cái cổ họng nhỏ như một sợi lông ngựa, sức
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+nóng của hơi thở họ sẽ làm nước bốc hơi hết. Ngay cả nếu bằng cách nào đó họ nuốt được một chút ít, thì cũng chẳng bao giờ làm đầy nổi cái bao tử có kích cỡ bằng cả một quốc gia. Thậm chí, cho dù nước vào được bao tử đủ để làm họ thoả mãn, thì vào ban đêm, nó cũng biến thành lửa và thiêu cháy tim, phổi, và nội tạng của họ. Khi muốn bước đi, với chân tay chỉ như cọng cỏ, họ không thể nâng nổi cái bụng khổng lồ, và sau đó, cũng làm cho họ đau khổ vô hạn.
+
+2.1.3 Ngạ quỷ bị hành hạ bởi chướng ngại đặc biệt
+
+Những ngạ quỷ này phải chịu tất cả những loại đau khổ khác nhau và ở mức độ khác nhau. Chẳng hạn, một số ngạ quỷ có nhiều sinh vật sống trong thân thể và ăn thịt chúng.
+
+Có lần khi đang du hành trong xứ sở của ngạ quỷ, Ngài Srona tới một lâu đài và gặp một phụ nữ tuyệt đẹp. Nhờ vóc dáng thanh tú và được trang điểm bằng châu báu nên trông bà thật quyến rũ. Ở mỗi chân chiếc ngai bà ngồi có một ngạ quỷ bị trói. Bà cúng dường Ngài Srona thức ăn, và báo trước rằng Ngài không nên cho các ngạ quỷ này một miếng ăn nhỏ nhất cho dù họ van xin. Khi Ngài Srona bắt đầu ăn thì họ bắt đầu van xin. Ngài đưa một ít thức ăn cho một ngạ quỷ thì miếng thức ăn đó biến thành vỏ trấu; những gì Ngài cho ngạ quỷ thứ hai biến thành cục sắt; ngạ quỷ [thứ ba] bắt đầu ăn thịt của chính mình, và những gì Ngài cho ngạ quỷ thứ tư thì biến thành máu và mủ.
+
+Khi người phụ nữ trở lại, bà la lên, “Tôi đã nói là Ngài không nên cho họ bất cứ thứ gì! Ngài nghĩ rằng ngài có nhiều lòng bi hơn tôi ư?”
+
+“Bà có liên hệ như thế nào với bốn ngạ quỷ này?” Ngài Srona hỏi bà ta.
+
+“Đây là chồng tôi; kia là con trai, đó là con dâu, và người thứ tư là người hầu của tôi.”
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+“Hành nghiệp nào trong quá khứ đã đưa họ tới đây?”
+“Dân chúng ở cõi Diêm Phù Đề (cõi Ta Bà) rất đa nghi,” người phụ nữ trả lời. “Ngài sẽ không bao giờ tin tôi đâu.”
+“Làm sao tôi lại không tin bà khi mà chính mắt tôi đang chứng kiến [cảnh tượng ngạ quỷ]?”
+Thế là người phụ nữ kể cho Ngài Srona câu chuyện của bà. “Tôi là một phụ nữ Bà-la-môn trong một ngôi làng nọ. Một chiều kia, tôi nấu một số thức ăn ngon vì hôm đó là một ngày tốt lành. Tình cờ Ngài Katyayana vĩ đại và siêu phàm đi khất thực qua đó. Tôi phát khởi niềm tin nơi Ngài và cúng dường Ngài thực phẩm. Rồi tôi tự nghĩ có lẽ chồng tôi muốn chia sẻ công đức, nên tôi nói với ông rằng: “Hãy hoan hỷ với tôi vì tôi đã cúng dường Ngài Katyayana vĩ đại và siêu phàm, bậc thừa kế của Đức Phật.” Nhưng ông ta nổi cơn thịnh nộ. “Bà chưa cúng dường thực phẩm cho những người Ba la môn, mà lại dâng phần thức ăn đầu tiên cho tu sĩ trọc đầu này! Tại sao ông ta không thể tọng vỏ trấu vào miệng?”
+Tôi cũng kể chuyện tương tự cho con trai mình, nhưng nó cũng nổi giận và la lên rằng: “Tại sao cái ông đầu trọc của má không ăn những mẩu sắt?.”
+“Tối hôm đó, cha mẹ tôi gửi cho tôi một số thức ăn ngon, nhưng đứa con dâu đã ăn mất và chỉ chừa lại cho tôi những miếng dở nhất. Khi tôi hỏi: ‘Có phải con đã ăn những miếng ngon và chỉ chừa lại cho mẹ những miếng tệ nhất?’ thì nó đã nói dối tôi: ‘Thà con ăn thịt mình còn hơn là chạm vào đĩa thức ăn của mẹ!’
+“Tương tự như vậy, khi người hầu đã ăn những thức ăn mà cô ta phải mang lại cho gia đình tôi, cô ta nói với tôi rằng cô thà uống máu và mủ còn hơn là ăn cắp thực phẩm của tôi.
+“Bản thân tôi trở thành một ngạ quỷ đầy quyền lực vì tôi ước nguyện được tái sinh vào nơi mà tôi có thể thấy những gì xảy ra cho họ do nghiệp lực của họ chiêu cảm. Tôi đã không
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HÒI
+
+ước nguyện được sinh vào Cung Trời thứ Ba Mươi Ba (Đao Lợi) sau khi đã cúng dường cho một bậc siêu phàm.
+
+“Nếu có bao giờ Ngài tới làng tôi, xin nói với con gái tôi, mà bây giờ là một con điếm, rằng Ngài đã gặp cha mẹ nó, và Ngài được giao phó để bảo với nó rằng những gì nó đang làm sẽ có hậu quả xấu, đó là một cách sống sai lầm và nó nên từ bỏ những cách sống xấu xa đó.
+
+“Nếu nó không tin Ngài, xin nói với nó rằng trong căn nhà cũ của cha nó có bốn bình sắt chứa đầy vàng, một cây gậy bằng vàng và một bình tẩy tịnh cho tu sĩ. Xin nói với nó đem những thứ này thỉnh thoảng cúng dường cho Ngài Katyayana vĩ đại và siêu phàm, và hãy hồi hướng công đức nhân danh chúng tôi. Điều đó sẽ giảm bớt nghiệp tội của chúng tôi cho tới khi cuối cùng nghiệp tội ấy được trả kỳ hết.”
+
+Có lần, khi Đạo Sư Jetari đang du hành, Ngài gặp một nữ ngạ quỷ có thân hình gớm guốc, là mẹ của năm trăm đứa con.
+
+“Chồng tôi đi Bodh Gaya (Bồ Đề Đạo Tràng) đã mười hai năm để tìm kiếm thực phẩm và vẫn chưa về. Nếu Ngài đến đó, xin nói với ông ấy rằng nếu không về sớm, những đứa con của chúng tôi sẽ chết đói hết.”
+
+“Chồng của ngươi ra sao?” Đạo sư hỏi. “Mọi ngạ quỷ đều giống nhau, làm sao ta có thể nhận ra ông ta?”
+
+“Ngài không thể quên ông ấy được,” bà ta nói. “Ông ta có một miệng lớn, mũi bẹp dí, mù một mắt và có tất cả chín tướng xấu.”
+
+Khi Ngài Jetari đến Bodh Gaya, Ngài thấy một sa di ném thực phẩm và nước dùng trong những lễ cúng dường bánh cúng (torma) ra ngoài. Khi vị sa di bỏ đi, một đám ngạ quỷ xô lấn nhau để tranh dành đồ cúng. Trong đám đó có kẻ mà Ngài đang tìm kiếm, vì thế Ngài nói với ngạ quỷ này lời nhắn của người vợ của hắn.
+
+Ngạ quỷ này trả lời: “Tôi đã lang thang mười hai năm nhưng chưa từng tìm được vật gì – ngoại trừ một lần, khi một tu
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+sĩ thanh tịnh làm nhỏ một ít nước mũi, nhưng thậm chí tôi cũng không lấy được nhiều vì cả đám chúng tôi đánh nhau để tranh giành nó.” Và Đạo sư nói thêm vào khi Ngài thuật lại câu chuyện là trong lúc đánh nhau vì một ít nước mũi đó, ngạ quỷ đã bị thương rất nặng.
+
+Trong tâm thức, hãy hứng chịu những nỗi khổ khác nhau mà các ngạ quỷ phải trải qua do nghiệp lực chiêu cảm, nhất là sự hành hạ của cái đói và khát. Hãy nghĩ xem ta sẽ đau khổ như thế nào nếu không ăn hay uống chỉ trong một buổi sáng. Ta sẽ cảm thấy thế nào nếu bị tái sinh ở một nơi mà trong nhiều năm thậm chí chữ nước uống cũng không được nhắc tới?
+
+Hãy quán chiếu rằng những nguyên nhân chính yếu gây nên sự tái sinh làm ngạ quỷ là tính keo kiệt bủn xỉn và sự phản đối lòng rộng lượng (tâm bố thí) của những người khác. Chúng ta cũng đã mắc phạm những hành vi như thế vô số lần, vì thế chúng ta phải làm bất kỳ những gì có thể để tránh bị đọa sinh vào nơi đó. Hãy thiền quán như vậy tận đáy lòng mình với ba phương pháp dành cho lúc khởi đầu thời công phu, trong khi thực hành phần chính yếu của thời công phu và lúc kết thúc thời công phu.
+
+## 2.2 LOÀI NGẠ QUỶ DI CHUYỂN TRONG KHÔNG GIAN
+
+Cảnh giới này bao gồm *tsen, gyalpo, shindre, jungpo, mamo, theurang.*[*] Tất cả những chúng sinh này luôn sống trong sợ hãi và ảo giác. Không suy nghĩ điều gì ngoài cái xấu, họ luôn làm bất kỳ những gì có thể làm được để gây tổn hại cho những chúng sinh khác, và nhiều trong số những ngại quỷ này thậm chí còn bị đọa vào những cõi thấp hơn như như địa ngục ngay
+
+[*] Những loại tinh linh khác nhau không có thuật ngữ tương đương trong Anh ngữ.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+sau khi (thọ mạng ở cõi ngạ quỷ chấm dứt). Đặc biệt, mỗi tuần, họ lại phải trải qua tất cả những đau đớn của cái chết trước đây do bệnh tật, vũ khí, những thế lực xấu, hay bất kỳ những gì khác gây ra. Bởi điều duy nhất mà họ muốn làm là trút bỏ nỗi khổ của mình sang người khác, nên dù đi bất cứ nơi đâu họ cũng không làm gì khác ngoài sự ác hại. Nhưng dù như vậy, họ vẫn không thể gặt hái được bất kỳ điều tốt đẹp nào cho bản thân họ. Thậm chí khi vui sướng được thăm viếng những bạn bè cũ và những người thân yêu, những ngạ quỷ này chỉ đem lại cho những người đó bệnh tật, điên khùng và những đau khổ bất ngờ khác.
+
+Những ngạ quỷ này phải trải qua những đau khổ liên tục. Các pháp sư đầy năng lực đã chôn vùi, thiêu đốt họ và cử hành những nghi lễ mà trong đó các pháp sư ném mọi loại vũ khí tưởng tượng vào họ. 51 Các pháp sư nhốt họ trong bóng tối dưới trái đất trong nhiều kiếp, thiêu đốt họ trong các ngọn lửa cúng dường, nghiền giã họ với những hột mù tạt, bột đá hoặc những thứ tương tự. Các pháp sư chẻ đầu họ ra thành trăm mảnh và thân họ thành một ngàn khúc.
+
+Giống như tất cả các ngạ quỷ khác, họ cũng có những tri kiến lệch lạc: vào mùa đông, mặt trời thì lạnh lẽo; vào mùa hè, mặt trăng lại nóng bỏng. Một số ngạ quỷ mang hình tướng chim, chó hay động vật khác, trông vô cùng gớm ghiếc. Tóm những đau khổ của các loài ngạ quỷ này thì không thể tưởng tượng được.
+
+Hãy hành trì như đã được chỉ dạy ở phần trước, thiền quán với những phương pháp đã được dạy khi bắt đầu thời công phu, trong lúc thực hành phần hành trì chính yếu và vào lúc kết thúc thời công phu. Qua dòng tâm thức, hãy hứng chịu những đau khổ của những chúng sinh này và hãy nuôi dưỡng lòng từ và bi đối với họ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+3. Súc Sinh
+
+Có hai loài súc sinh: những sinh vật sống ở các độ sâu và những súc vật sống rải rác ở những nơi khác nhau.
+
+3.1 SINH VẬT SỐNG Ở CÁC ĐỘ SÂU
+
+Các đại dương chứa đầy cá, các loài bò sát, rùa, cua tôm, sâu bọ và những sinh vật khác, nhiều như những hạt mạch nha dưới đáy một thùng bia. Có cả những con rắn và quái vật lớn tới nỗi thân chúng có thể quấn nhiều vòng quanh Núi Tu Di. Lại có những sinh vật khác nhỏ như những hạt bụi hay đầu mũi kim.
+
+Tất cả những sinh vật này phải chịu đựng những đau khổ vô hạn. Những con lớn nuốt những con bé. Ngược lại cũng có những con bé đục khoét những con lớn và ăn sống chúng. Những con vật lớn cũng phải bị có nhiều con nhỏ xíu sống bên trong chúng và ăn thịt chúng. Một số những sinh vật này sinh ra ở giữa những châu lục, nơi mặt trời không chiếu sáng và nơi thậm chí chúng không thể thấy tứ chi của chúng co hay duỗi. Đần độn và ngu dốt, chúng không biết những gì nên làm và không nên làm. Chúng bị tái sinh vào những nơi mà khổ đau là vô hạn.
+
+3.2 SÚC VẬT SỐNG RẢI RÁC Ở NHỮNG NƠI KHÁC NHAU
+
+Những súc vật sống trong các cõi trời và cõi người chịu đau khổ liên tục bởi sự ngu xuẩn của chúng và bởi chúng bị bóc lột. Trong khi đó chúng long thần⁵² phải trải cuộc đời trong sự hành hạ cùng cực bởi những con chim kim xí điểu (garuda) và những trận mưa cát nóng. Thêm vào đó, những chúng sinh này ngu đần, hung hăng và hiểm độc.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Đặc biệt, những dã thú sống cùng với thế giới con người chúng ta thường xuyên phải sống trong sự sợ hãi. Chúng không thể ăn một miếng ăn mà không phải đề phòng cảnh giác. Chúng có nhiều tử thù, vì các loài dã thú đều săn mồi lẫn nhau, và do vậy, luôn có những đe dọa của kẻ săn mồi, kẻ bị săn, và những sự đe dọa mạng sống khác. Diều hâu giết những con chim nhỏ, chim nhỏ giết các côn trùng, và v..v.., liên tục chồng chất những hành động xấu ác trong một vòng tròn vô tận của sự giết và bị giết.
+
+Thợ săn thì lão luyện trong mọi phương pháp hành hạ và giết hại những thú vật này. Họ đe dọa mạng sống của chúng bằng mọi mưu kế xấu xa – bẫy, lưới, và súng. Một số muông thú bị giết để lấy sừng, da, bộ lông và những sản vật khác của thân thể chúng. Những con trai (sò) bị giết để lấy ngọc; voi bị giết để lấy ngà và xương; cọp, beo, ráI cá và cáo để lấy bộ lông; bò xạ để lấy xạ; con lừa và trâu yak để lấy máu và thịt. Thật là một nỗi đau khổ khủng khiếp khi chính thân chúng được sinh ra chỉ để bị giết hại.
+
+Đối với những thú vật được con người thuần hoá, chúng ngu đần đến nỗi khi những kẻ giết hại chúng tới gần, cầm dao trong tay, chúng chỉ biết giương đôi mắt mở lớn mà thậm chí còn không nghĩ tới việc chạy trốn. Chúng bị vắt sữa, chở nặng, bị thiến, xỏ mũi và bị thắng vào cái cày. Chẳng có con nào trong chúng trốn thoát khỏi vòng tròn nô lệ liên tục này. Ngựa và trâu yak tiếp tục bị chở nặng và bị cưỡi ngay cả khi lưng chúng vô cùng đau đớn. Khi không thể đi xa hơn được nữa, chúng bị đánh roi và bị ném đá. Trong đầu những chủ nhân, họ chẳng bao giờ nghĩ được rằng chúng có thể bị bệnh tật hay kiệt sức.
+
+Trâu bò và cừu bị bóc lột cho đến chết. Một khi chúng quá già, chúng bị chính những người chủ của mình đem bán hay giết thịt. Bất kỳ trường hợp nào, số mệnh của chúng đều bị định đoạt bởi người đồ tể, và chúng không bao giờ biết đến cái chết một cách tự nhiên.
+
+Vì thế, loài vật trải qua những đau khổ không thể tưởng tượng được. Bất cứ khi nào thấy những thú vật bị hành hạ như vậy, hãy đặt mình vào vị trí của chúng và hình dung thật chi tiết tất cả những gì chúng phải trải qua. Hãy thiền định với lòng bi mẫn mãnh liệt về tất cả những chúng sinh bị tái sinh làm kiếp súc vật. Đặc biệt, nếu có nuôi súc vật, hãy đối xử tử tế và thương yêu chúng. Bởi lẽ tất cả các súc vật, ngay cả những côn trùng nhỏ bé nhất, đều có cảm giác sung sướng và đau khổ, và vì tất cả chúng đã từng là cha mẹ của chúng ta, hãy phát khởi lòng từ bi đối với chúng, và hãy kết hợp công phu hành trì của bạn với những phương pháp đã được chỉ dạy vào lúc khởi đầu thời công phu, lúc thực hành phần công phu chính yếu và vào lúc kết thúc thời công phu.
+
+Dù chúng sinh có thể bị tái sinh bất cứ nơi đâu trong ba cõi thấp này, họ phải chịu đựng tất cả những sự hành hạ lâu dài và khủng khiếp. Chúng sinh tái sinh vào những cõi này thì ngu đần, khờ dại và không có bất kỳ ý niệm nào về Giáo Pháp, và càng tạo ra thêm nhiều nhân để bị đọa nhiều lần hơn nữa vào trong những cõi thấp. Vì thế một khi bị sinh vào những cõi này thì thật khó mà thoát ra được. Trong cuộc sống hiện nay của chúng ta, và trong những kiếp quá khứ khác, chúng ta đã tích lũy vô số hành nghiệp chắc chắn sẽ dẫn chúng ta tới tái sinh vào những cõi này. Do đó chúng ta phải thật lòng hối tiếc những hành nghiệp sai lầm của mình trong quá khứ, sám hối và thệ nguyện là sẽ không bao giờ tái phạm.
+
+Với lòng đại bi, hãy suy nghĩ về những chúng sinh phải sống trong những cõi đó, hồi hướng cho họ công đức của mọi thiện hạnh mà ta đã tích lũy khắp ba thời. Hãy cầu nguyện cho họ có thể được giải thoát khỏi những cõi ác đạo đó: “Giờ
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+đây là lúc tôi đã gặp được Giáo Pháp của Đại Thừa, và có cơ hội thực hành con đường đem lại lợi ích thật sự cho cả tôi lẫn những người khác, tôi sẽ thực hành Giáo Pháp đó với lòng dũng cảm, coi thường mọi khó khăn, và đưa dẫn tất cả chúng sinh trong ba cõi thấp tới những cõi Phật.” Sau khi nuôi dưỡng Bồ Đề Tâm với những suy nghĩ như vậy, hãy cầu nguyện Bổn Sư và chư Phật, khẩn nguyện các Ngài cứu giúp và gia hộ: “Cầu xin Bổn Sư và Tam Bảo gia trì cho con để con có thể đạt được mục đích này!” Hãy hồi hướng công đức cho lợi ích của chúng sinh, và thực hành ba phương pháp tối thượng đã được dạy ở phần trước.
+
+Mặc dù tái sinh vào ba cõi thấp đưa đến đau khổ tất yếu, và vì vậy có thể có người hy vọng rằng ở ba cõi cao sẽ hạnh phúc và sung sướng, nhưng thực sự, ngay cả những cõi cao cũng không có hạnh phúc.
+
+4. Cõi Người
+
+Loài người phải chịu ba loại đau khổ chính, và bốn nguyên nhân đau khổ lớn lao là sinh, lão, bệnh và tử. Ngoài ra, còn có những loại đau khổ khác như sợ hãi khi gặp kẻ mình ghét, khi bị mất người thương yêu, và khổ sở khi không đạt được những gì mình muốn, hay khi gặp phải những điều không mong muốn.
+
+4.1 BA LOẠI ĐAU KHỔ CHÍNH YẾU
+
+4.1.1 Đau khổ vì biến đổi
+
+Khổ về sự biến đổi là đau khổ mà ta cảm thấy khi trạng thái hạnh phúc đột nhiên chuyển thành đau khổ. Có khi chúng ta đang cảm thấy khỏe mạnh, hài lòng, no đủ sau một bữa ăn
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+ngon, thì đột nhiên bị đau bụng quằn quại bởi những ký sinh trùng trong dạ dày chúng ta. Có khi ta hạnh phúc, và chỉ một lát sau thì có kẻ thù cướp đoạt tài sản hay thú nuôi của ta; hay lửa cháy thiêu rụi nhà ta; hoặc đột nhiên chúng ta bị mắc bệnh hay bị ảnh hưởng bởi những thế lực xấu; hoặc nhận được những tin tức khủng khiếp – và ngay lập tức chúng ta bị nhấn chìm trong đau khổ.
+
+Thật ra, bất kỳ biểu hiện hạnh phúc, tiện nghi hoặc quyền lực nào được tìm thấy trong vòng luân hồi đều không có một chút nền tảng bền vững nào, và về lâu dài, chẳng bao giờ có thể kháng cự lại được vòng quay của sự đau khổ. Vì vậy, chúng ta cần nuôi dưỡng sự tỉnh giác với tất cả những biểu hiện hạnh phúc, tiện nghi hoặc quyền lực trong cõi luân hồi.
+
+4.1.2 Đau khổ chồng chất đau khổ
+
+Chúng ta trải qua đau khổ nối tiếp, chồng chất đau khổ; trước khi một đau khổ chấm dứt, chúng ta đã phải chịu thêm một đau khổ khác. Chúng ta bị bệnh cùi, và sau đó cũng lại thành lình bị phỏng; cũng như bị phỏng rồi lại bị thương. Cha chúng ta chết và sau đó không lâu mẹ ta cũng qua đời. Chúng ta bị kẻ thù săn đuổi, và thêm vào đó, người thân yêu qua đời; và v.v... Dù chúng ta tái sinh ở đâu trong luân hồi, thời gian của chúng ta cũng đều bị tiêu hao trong đau khổ này chồng chất đau khổ kia, không có bất kỳ may mắn nào để được hạnh phúc trọn vẹn trong giây lát.
+
+4.1.3 Đau khổ của tất cả những gì giả hợp 53
+
+Bây giờ, một số người có thể nghĩ rằng mọi sự đang diễn tiến hoàn toàn tốt đẹp với mình vào lúc này, và dường như chúng ta không bị đau khổ nhiều cho lắm. Thật ra, chúng ta hoàn toàn bị nhận chìm trong những nguyên nhân của đau khổ. Ngay cả chính thực phẩm, quần áo, nhà cửa, các vật trang
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+hoàng và lễ hội là những thứ đem lại cho chúng ta khoái lạc, tất cả những thứ ấy đều được tạo ra bằng ác hạnh. Bởi vì tất cả mọi việc chúng ta làm, những việc ấy hoặc dựa trên nền tảng của ác hạnh, hoặc có liên hệ đến ác hạnh, chỉ có thể dẫn đến đau khổ mà thôi. Hãy lấy trà và bột lúa mạch tsampa* ra làm ví dụ để có thể hiểu rõ hơn.
+
+Ở Trung Quốc, nơi trồng trà, số sinh vật nhỏ bé bị giết hại khi cây trà được trồng xuống rồi khi lá được hái, v.v... – qua đó, số sinh vật bị giết chết đó không thể tính đếm được. Sau đó trà được những phu khuân vác mang đi xa tận Dartsedo. Mỗi phu khuân vác mang 12 túi, mỗi túi có sáu bánh trà, chịu sức nặng quanh họ bằng dây buộc quanh trán làm da họ mòn đi. Nhưng ngay cả khi cái sọ đầu của họ lộ ra hết, hoàn toàn trắng bệch, thì họ vẫn phải tiếp tục. Từ Dotok trở đi, những con dzo, những con trâu yak và con la đảm nhiệm việc chuyên chở, lưng chúng muốn gãy sum, bụng chúng bị đục thủng với những vết cắt, lông chúng loang lở từng mảng trầy xát. Chúng chịu đau khổ ghê gớm vì sự nô lệ này. Sự trao đổi trà chẳng là gì khác ngoài một loạt những lời thất hứa, lừa gạt và cãi cọ, cho tới cuối cùng trà được đổi chủ, thường là đổi để lấy những sản phẩm từ súc vật như len và da cừu non. Bây giờ nói tới chuyện len, vào mùa hè trước khi lông cừu bị xén, nó lúc nhúc đầy những bọ chét, ve và những sinh vật bé nhỏ khác nhiều vô kể như chính len vậy. Trong lúc xén lông, những con này bị đứt đầu, bị chặt làm hai hay bị lòi ruột. Số con không bị giết vẫn còn kẹt lại trong len và bị chết ngạt. Tất cả những việc làm này chỉ có thể dẫn tới những cõi thấp. Đối với da cừu non, hãy nhớ rằng những con cừu mới đẻ đều có đầy đủ những giác quan, và chúng biết cảm thấy sung
+
+* Trà và tsampa, lúa mạch nướng được xay mịn thành bột, là những thực phẩm chính yếu ở khắp xứ Tây Tạng. Trà Tây tạng được khuấy với sữa và bơ và được dùng thường xuyên suốt ngày. Tsampa được hoà trộn với trà để làm thành một món ăn lập tức.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+sướng và đau khổ. Đúng lúc chúng đang vui hưởng những khoảnh khắc đầu tiên của cuộc sống, trong khi hoàn toàn khỏe mạnh, thì chúng lại bị giết. Có thể chúng chỉ là những con vật ngu dại, tuy nhiên chúng không muốn chết – chúng ham sống và đau khổ khi bị hành hạ và giết thịt. Đối với những con cừu mẹ có những đứa con bị giết, thì chúng là một ví dụ sống động về nỗi đau khổ mà một người mẹ mất đứa con duy nhất của mình phải trải qua. Vì thế, khi chúng ta suy nghĩ về việc sản xuất và buôn bán những sản phẩm như vậy, chúng ta có thể hiểu được rằng ngay cả một ngụm trà cũng chẳng thể làm gì khác ngoài góp phần vào việc đưa chúng ta đọa sinh trong những cõi thấp.
+
+Bây giờ hãy xem xét trường hợp của bột lúa mạch tsampa. Trước khi gieo lúa mạch, cánh đồng phải được cày xới, công việc đó khơi lên mặt đất tất cả mọi con sâu và côn trùng vốn sống ngầm dưới đất, và chôn vùi mọi sâu trùng vốn sống trên mặt đất. Những con bò cày tới đâu thì những con quạ và chim nhỏ bám theo sau, không ngừng săn bắt những con côn trùng bé nhỏ. Khi cánh đồng được tươi nước, tất cả sinh vật sống trong nước bị mắc cạn trên đất khô, trong khi mọi sinh vật đang sống ở đất khô lại bị chết đuối. Tương tự, vào mỗi giai đoạn gieo hạt, thu hoạch và đập lúa, số lượng chúng sinh bị giết thì không thể tính đếm. Nếu suy nghĩ về điều đó thì chúng ta hầu như đang ăn các côn trùng được nghiền thành bột vậy.
+
+Cũng tương tự như vậy, bơ, sữa và những thực phẩm khác, “ba thực phẩm trắng” và “ba thực phẩm ngọt” mà chúng ta xem là thanh tịnh và không bị những hành vi ác hại làm ô nhiễm, thì hoàn toàn không phải như vậy. Phần đông những trâu yak con, những con bê và cừu đều bị giết. Những con không bị giết, thì ngay khi được sinh ra và thậm chí trước khi chúng có một dịp may được bú một miếng sữa ngọt của mẹ chúng, đã có một sợi thừng quanh cổ và bị cột vào một cái
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+cọc mỗi khi dừng lại trên đường, để mỗi ngụm sữa – thức ăn và uống chính đáng của chúng – có thể bị đánh cắp để làm bơ và phó mát. Bằng cách rút mất tinh chất của thân bò mẹ là thứ rất cần thiết cho bò con, chúng ta để mặc chúng nửa sống nửa chết. Khi mùa xuân trở lại, những con bò mẹ già nua trở nên suy yếu tới nỗi thậm chí chúng không thể đứng dậy trong chuồng. Những con bê và cừu non hầu như chết đói. Những con còn sống sót thì yếu ớt và như một bộ xương, lảo đảo như sắp chết.
+Tất cả những yếu tố mà chúng ta coi là những phần cấu tạo nên hạnh phúc – thực phẩm để ăn, quần áo để mặc, và bất cứ những hàng hóa và vật liệu nào chúng ta có thể nghĩ tới – đều được tạo ra bằng một cách tương tự và duy nhất là qua hành động bất thiện. Hậu quả cuối cùng của tất cả những việc làm này là sự đau khổ vô tận của những cõi thấp. Do đó, mọi sự việc mà ngày nay có vẻ như tượng trưng cho sự hạnh phúc thì trong thực tế chỉ là đau khổ của tất cả những sự giả hợp.
+
+4.2 ĐAU KHỔ CỦA SINH, LÃO, BỆNH VÀ TỬ
+
+4.2.1 Đau khổ khi sinh ra đời (Sinh khổ)
+
+Với loài người trong thế giới hiện nay, chúng ta thuộc loài được sinh ra từ thai tạng (thai sanh).54 Trước tiên, thần thức của một chúng sinh trong trạng thái trung ấm phải nhập vào giữa sự hợp nhất tinh dịch của người cha và máu huyết của người mẹ. Sau đó thần thức đó phải trải qua nhiều kinh nghiệm đau đớn trong những giai đoạn khác nhau khi bào thai được hình thành, như miếng thạch hình tròn, như hình trái soan lầy nhầy, như hình thuôn dầy, như hình bầu dục vững chắc, hoặc khối u tròn căng cứng, 55 và v.v... Một khi tay chân, các cơ quan và các giác quan được hình thành, cái thai sẽ bị nhốt bên trong tử
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+cung tối tăm, hôi hám và ngạt thở, khổ sở như người bị ở trong tù. Khi người mẹ dùng đồ ăn lạnh, thai nhi đau đớn như thể bị lửa đốt. Khi người mẹ dùng đồ ăn lạnh, nó cảm thấy như thể bị ném vào nước đóng băng; khi người mẹ nằm xuống, nó như thế bị chôn vùi dưới sức nặng của một quả đồi; khi mẹ ăn no, nó như thể bị ngạt thở giữa những tảng đá; khi người mẹ đói, như thể nó bị rơi từ một vách núi; khi người mẹ đi hay ngồi xuống, nó cảm thấy như thể bị gió vùi dập.
+
+Tới lúc phải chào đời thì nghiệp lực 56 xoay đầu đứa bé xuống, để nó sẵn sàng được sinh ra. Khi đứa bé bị đẩy xuống cổ tử cung, nó đau đớn như thể bị một người khổng lồ mạnh mẽ nắm lấy hai chân đập thật mạnh vào tường. Khi bị đẩy qua khỏi xương chậu, đứa bé cảm thấy như thể bị kéo qua cái lỗ trong một bàn kéo sợi.57 Nếu tử cung mở quá hẹp, nó không ra được và sẽ phải chết. Quả thực, cả hai mẹ và con có thể chết trong khi sinh đẻ, và cho dù qua được thì họ cũng đã phải trải qua tất cả những kinh nghiệm đau đớn của lúc hấp hối. Như Đại Đạo Sư xứ Oddiyana có nói:
+
+Cả mẹ và con đều đi nửa đường đến gần xứ sở của Tử Thần,
+
+Và mọi khớp xương của người mẹ, ngoại trừ xương hàm, bị vặn rời ra.
+
+Đứa bé phải kinh qua mọi sự đau đớn. Khi rơi xuống tấm nệm lúc chào đời, nó có cảm giác như bị rơi xuống một cái hố đầy gai. Khi được lau chùi lớp chất nhờn trên lưng thì nó có cảm giác như bị lột da sống. Lúc được tắm rửa, nó có cảm tưởng như bị đánh bằng gai. Khi được đặt vào lòng mẹ, nó cảm thấy như một con chim nhỏ bị diều hâu tha đi. Khi được thoa bơ trên đỉnh đầu58 thì nó có cảm giác như bị trói và ném xuống một cái lỗ. Được đặt trong nôi thì giống như bị bỏ vào
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+bùn dơ. Mỗi khi đứa bé bị khổ vì đói, khát, đau bệnh và những thứ khác thì điều duy nhất mà nó có thể làm là la khóc.
+
+Từ lúc được sinh ra, đến khi lớn lên và bước vào tuổi thanh niên, ta có cảm tưởng là có sự phát triển và tăng trưởng. Nhưng sự thật là cuộc đời ta trở nên ngắn đi, càng ngày chúng ta càng tới gần cái chết hơn. Chúng ta bị thu hút trong những công việc tầm thường của cuộc đời này, hết cái này đến cái kia, chẳng có việc nào đi đến kết thúc, tất cả tiếp nối nhau như những con sóng trên mặt nước. Bởi vì tất cả mọi điều đều chỉ dựa trên ác hạnh nên kết cục chắc chắn là sẽ bị đọa sinh vào những cõi thấp, và chịu đau khổ vô cùng tận.
+
+4.2.2 Đau khổ của tuổi già (Già khổ)
+
+Khi chúng ta khiến bản thân mình phải bận rộn với những điều vụn vặt tầm thường và với những phận sự thế gian không bao giờ chấm dứt, thì nỗi đau khổ của tuổi già đã lén đến với ta mà không báo trước. Từng chút một, cơ thể ta mất đi sinh lực. Chúng ta chẳng tiêu hóa nổi những thức ăn mà mình ưa thích. Thị giác mờ đi, và chúng ta không còn có thể nhìn rõ những vật bé nhỏ hay ở xa. Thính giác cũng bắt đầu giảm sút và chúng ta không phân biệt được rõ ràng âm thanh và lời nói. Lưỡi không còn nếm được những gì mình ăn uống nữa, cũng không phát âm đúng những gì chúng ta muốn nói. Khi tinh thần suy yếu, trí nhớ suy giảm và chúng ta bị nhầm lẫn và đãng trí. Răng cũng bị rụng nên không còn nhai được thức ăn cứng, và nếu ta có thể nói điều gì thì cũng trở thành những tiếng lầm bầm khó hiểu. Thân thể mất đi hơi ấm (nhiệt) nên ta không còn thấy ấm áp khi mặc quần áo mỏng manh. Sức khoẻ sa sút nên ta không thể mang vác những vật nặng được nữa. Mặc dù chúng ta vẫn còn sở thích được sung sướng và hưởng thụ, nhưng ta không còn năng lực để hưởng thụ được nữa. Bởi vì kinh mạch và năng lực suy giảm, chúng ta trở nên cáu gắt và thiếu kiên nhẫn. Bị mọi người coi thường, ta trở nên trầm uất và buồn chán. Trong
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+cơ thể, các yếu tố (tứ đại) bị mất quân bình, nên đem lại nhiều tật bệnh và khó khăn. Chúng ta phải vật lộn mỗi khi cử động, như việc đi đứng cũng hầu như trở thành những việc không thể kham nổi. Ngài Jetsun Mila đã có hát rằng:
+
+Một, bà đứng lên như thể nhổ một cây cọc khỏi mặt đất;
+Hai, bà đi rón rén như rình bắt chim;
+Ba, bà ngồi như một cái túi bị thả rơi.
+Khi ba dấu hiệu này cùng đến, hỡi bà già;
+Bà là một bà lão u buồn mà huyễn thân bà đã suy sụp.
+
+Một, da dẻ bà hằn những vết nhăn;
+Hai, bà gầy giơ xương, máu huyết thu rút;
+Ba, bà nửa ngây nửa dại, nửa đui nửa điếc.
+Khi ba dấu hiệu này cùng đến, hỡi bà già;
+Mặt bà nhăn nhúm với những vết hằn xấu xí.
+
+Một, quần áo rách rưới tả tơi và luộm thuộm;
+Hai, thức ăn uống sao nhạt nhẽo, lạnh tanh;
+Ba, bà ngồi trên chiếu mà dựa dẫm bốn bên.
+Khi ba dấu hiệu này cùng đến, hỡi bà già;
+Bà giống như một hành giả du già chứng ngộ bị người và chó giẫm đạp.
+
+Lúc già cả, khi muốn đứng lên chúng ta hoàn toàn không thể đứng một cách bình thường. Chúng ta phải đặt cả hai bàn tay lên sàn nhà như thể đang cố nhổ một cây cọc trên nền đất cứng. Khi đi, chúng ta gập người lại và không thể ngước cao đầu; và không thể nhanh chóng nhấc chân, hạ chân, chúng ta rón rén như một đứa trẻ rình bắt chim. Mọi khớp tay, chân bị viêm sưng đến nỗi ta không thể ngồi xuống từ từ. Ngược lại, toàn bộ sức nặng của ta lập tức đổ sầm xuống như một cái bị cói đứt dây treo.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Khi da thịt ta bị tiêu hao, da ta dãn ra, thân thể và mặt chúng ta đầy những vết nhăn. Với ít thịt và máu bao quanh, tất cả các khớp lộ ra hơn. Xương gò má và mọi đầu xương khác nhô lên dưới da. Trí nhớ bị suy giảm, chúng ta trở nên trì trệ, mu mờ, đui điếc. Chúng ta không thể suy nghĩ sáng suốt và cảm thấy choáng váng xây xẩm. Sinh lực suy yếu, chúng ta chẳng còn muốn ngó ngàng gì tới mình nên quần áo chúng ta mặc luôn luôn thuộm và sờn rách. Khi ăn, ta thường bỏ mứa và không thấy có mùi vị; mọi thứ ta ăn đều lạnh lẽo và nhạt nhẽo. Chúng ta cảm thấy nặng nề đến nỗi khó có thể làm được việc gì. Trên giường, chúng ta phải dựa dẫm tứ phía và không thể ngồi dậy. Bởi vậy, sự suy yếu của thân thể chúng ta đem lại nỗi phiền muộn và đau khổ tinh thần ghê gớm. Tất cả vẻ đẹp và sáng sủa trên khuôn mặt của chúng ta bị phai nhoà, da dẻ nhăn nheo và trán cũng hằn những nếp nhăn xấu xí của một tâm trạng không sung mãn. Mọi người xem thường chúng ta, và cho dù người ta bước qua đầu ta, ta cũng không thể dậy nổi. Chúng ta không phản ứng lại nữa, cứ như thể là những hành giả du già chứng ngộ và tịnh với bất tịnh không còn hiện hữu nữa. 59 Không thể chịu đựng nổi nỗi khổ của tuổi già, chúng ta muốn chết, nhưng thực ra càng tới gần cái chết chúng ta lại càng khiếp sợ nó.
+
+Tất cả những điều này khiến những nỗi khổ mà chúng ta phải trải qua trong tuổi già, không khác biệt lắm với những đau khổ của chúng sinh trong các cõi thấp.
+
+## 4.2.3 Đau khổ của bệnh tật (Bệnh khổ)
+
+Khi bốn yếu tố (tứ đại) tạo nên cơ thể chúng ta trở nên mất quân bình, mọi loại bệnh tật – những bệnh thuộc về gió, mật, đàm thấp và v.v... xuất hiện, và những cảm giác đau đớn, khổ sở xâm chiếm chúng ta.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Ngay khi những cơn đau nhức đầu tiên của bệnh tật tấn công – dù thân tâm ta trẻ trung tới đâu, dù ta mạnh mẽ và chói ngời tới đâu, dù cho ta đang ở trong thời kỳ sung mãn nhất– chúng ta vẫn sụp đổ như con chim nhỏ bị ném đá. Sức mạnh của ta biến mất. Chúng ta lún sâu xuống nệm, và bất cứ chuyển động nào dù nhẹ nhàng cũng rất khó khăn. Thậm chí việc trả lời khi có người hỏi thăm cũng là một cố gắng: giọng nói của ta dường như đến từ một nơi sâu thẳm và khó bật ra thành tiếng. Chúng ta cố nằm nghiêng bên phải, rồi bên trái, nằm ngửa, nằm sấp nhưng chẳng bao giờ có thể thoải mái. Chúng ta mất cảm giác ngon miệng và không thể ngủ được về đêm. Ngày lẫn đêm dường như dài vô tận. Chúng ta phải chịu đựng uống thuốc đắng, chua, hay nóng, phải kiên nhẫn đối với việc đốt, lấy máu và mọi loại điều trị khó chịu khác. Ý nghĩ rằng bệnh tật này có thể làm ta chết đột ngột khiến chúng ta kinh sợ. Dưới sức mạnh của những thế lực bệnh hoạn và những gì không toàn vẹn của bản thân, chúng ta có thể mất kiểm soát cả thân lẫn tâm, và khi những tri giác mê lầm thông thường của ta lên tới cực độ thì chúng ta bắt đầu có ảo giác. Thậm chí đôi lúc người bệnh còn tự tử. Những người đau khổ vì những loại bệnh tật như bệnh củi, động kinh, họ bị mọi người bỏ rơi và để mặc họ suy ngẫm về số phận của mình; họ vẫn còn sống mà như thế đã chết.
+
+Người bệnh thường không thể tự chăm sóc mình. Bệnh tật làm cho họ nóng nảy, và luôn tìm kiếm lỗi lầm nơi những gì người khác làm cho họ. Càng ngày họ càng trở nên khó tính hơn và hay chỉ trích hơn, và nếu bệnh tật của họ tiếp tục kéo dài, mọi người sẽ trở nên mệt mỏi khi săn sóc họ và không còn làm những gì họ đòi hỏi nữa. Nỗi bực dọc do bệnh tật của họ gây ra liên tục hành hạ họ.
+
+4.2.4 Đau khổ của cái chết (Chết khổ)
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HÒI
+
+Khi cái chết tới gần, chúng ta sẽ nằm liệt giường và không còn sức để đứng dậy. Thậm chí khi nhìn thấy đồ ăn, thức uống, ta cũng chẳng còn cảm thấy thèm muốn nữa. Bị hành hạ bởi những cảm giác của người sắp chết, ta cảm thấy càng lúc càng tuyệt vọng và tất cả lòng can đảm cùng niềm tin của ta đều tan biến. Chúng ta có những điềm báo và những ảo giác về những gì đang chờ đợi mình. Đã đến lúc cho cuộc ra đi lớn lao. Gia đình và bạn bè tụ tập quanh ta, nhưng họ không thể làm gì để trì hoãn cuộc khởi hành của ta – chính bản thân ta phải trải qua nỗi khổ của cái chết, một cách hoàn toàn đơn độc. Ta cũng chẳng có cách nào để đem theo những vật sở hữu, dù chúng có thể nhiều tới đâu chăng nữa. Ta không thể tự mình buông bỏ những thứ đó, nhưng cũng biết rằng mình cũng không thể giữ được chúng. Sự hối hận tràn ngập trong tâm khi ta nhớ lại những hành nghiệp bất thiện đã làm. Ta khiếp sợ khi nghĩ về những đau khổ của các cõi thấp. Cái chết đến đột ngột. Nỗi sợ hãi phủ chụp lấy ta. Những tri giác về cuộc đời biến mất và thân thể lạnh dần.
+
+Khi người hành nhiều ác nghiệp chết, họ nắm chặt lấy ngực mình khiến trên da đầy những dấu móng tay. Khi nhớ lại mọi ác hạnh của mình, họ run sợ vì bị tái sinh trong những cõi thấp. Họ tràn đầy hối hận vì đã không thực hành Pháp trong khi có được sự tự do để làm điều đó, bởi đó là điều ích lợi duy nhất vào lúc chết. Khi nhận ra điều đó, họ cảm thấy vô cùng đau khổ. Đó là lý do tại sao họ lại đấm ngực và để lại đầy những dấu móng tay ở đó khi chết. Có câu nói rằng:
+
+Hãy xem một người ác hấp hối;
+Kẻ ấy là một vị thầy minh họa cho chúng ta thấy nghiệp quả của mọi hành vi.
+
+Thậm chí trước khi chết, những cõi thấp bắt đầu thâm nhập vào họ. Bất kỳ điều gì họ cảm nhận đều trở thành mối đe dọa. Mọi cảm giác đều khiến cho họ đau khổ. Tứ đại tan
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+rã, hơi thở khò khè và chân tay rũ liệt. Họ bắt đầu có các ảo giác. Đôi mắt trợn trừng, và khi họ từ giã đời này, Thần Chết sẽ đến gặp họ. Những ma quỷ trong trạng thái trung ấm xuất hiện, mà họ không có người che chở hay nơi nương tựa nào.
+
+Chẳng có gì bảo đảm rằng giây phút mà ta sẽ rời bỏ cuộc đời này, hoàn toàn trần trụi và trắng tay, sẽ không đến vào ngày hôm nay. Khi điều này xảy ra, điều duy nhất sẽ thực sự giúp đỡ chúng ta chính là Phật Pháp. Không có nơi nương tựa nào khác. Có câu nói rằng:
+
+Trong thai tạng của mẹ, hãy chuyển tâm bạn hướng về Pháp;
+Ngay khi bạn chào đời, hãy nhớ nghĩ đến Giáo Pháp cho giây phút lìa đời.
+
+Bởi cái chết đến thật đột ngột, đối với người trẻ cũng như già, nên chúng ta phải bắt đầu thực hành Pháp ngay từ lúc sinh ra đời. Duy chỉ một mình Pháp sẽ giúp đỡ chúng ta vào lúc chết. Nhưng cho tới bây giờ chúng ta đã lãng quên cái chết, quá bận rộn trong việc đánh bại kẻ thù và giúp đỡ bạn bè, chăm sóc của cải và nhà cửa của mình, hoàn toàn bị gia đình và bằng hữu chiếm lĩnh. Nhưng nếu suy ngẫm về điều đó, thì việc để thời gian trôi qua như thế và chìm sâu trong tham, sân và si vì lợi ích của bạn bè và những người thân yêu, chính là một sai lầm khủng khiếp.
+
+## 4.3 NHỮNG ĐAU KHỔ KHÁC CỦA CON NGƯỜI
+
+### 4.3.1 Nỗi sợ hãi gặp kẻ thù địch
+
+Chúng ta tiêu phí tất cả thời gian của mình để tìm kiếm giàu sang và thịnh vượng, và canh chừng sự giàu sang thịnh vượng đó cả ngày lẫn đêm. Nhưng cuối cùng thì ngay cả điều đó
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HÒI
+
+cũng không giúp cho ta khỏi phải chia sẻ tài sản của chúng ta với kẻ thù. Những kẻ cướp ngày, trộm đêm, chó hoang, chó sói, và những thú dữ khác hoàn toàn có thể bất ngờ tấn công ta mà không báo trước. Rõ ràng là càng có nhiều của cải và tài sản thì ta lại càng thêm phiền não, để thâu đạt được những thứ ấy, để bảo vệ và cố gắng làm cho những thứ ấy tăng trưởng.
+
+Ngài Long Thọ đã viết:
+
+Việc tích lũy, canh chừng và làm cho của cải tăng trưởng sẽ làm bạn kiệt sức. Hãy hiểu rằng của cải trù phú chỉ đem lại sự suy tàn và hủy hoại.
+
+Ngài Jetsun Milarepa có nói:
+
+Lúc bắt đầu, của cải làm bạn hạnh phúc và thèm thuồng; Nhưng dù có nhiều đến đâu, dường như chẳng bao giờ bạn thấy đủ. Trong khi đó, tâm bủn xỉn cột những nút thắt quanh bạn: Bạn không thể chịu đựng được khi phải dùng của cải vào việc cúng dường hay từ thiện. Sự giàu có của bạn hấp dẫn kẻ thù và những thế lực xấu, Và tất cả những gì bạn tích góp lại bị người khác tận dụng. Vào lúc cuối, con quỷ giàu có đặt cuộc đời bạn vào nỗi hiểm nghèo. Nản lòng biết bao khi đấy chỉ là việc trông nom tài sản cho kẻ thù! Ta (Milarepa) đã vứt bỏ khối nặng này là kẻ kéo lôi ta vào luân hồi sinh tử.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Ta chẳng còn mong muốn nữa thứ yêu tinh cám dỗ này.
+
+Những đau khổ của chúng ta có mối tương quan trực tiếp tương ứng với số lượng những gì ta sở hữu. Chẳng hạn, nếu ta sở hữu một con ngựa, ta sẽ lo nghĩ nó có thể bị kẻ thù chiếm đoạt hay bị ăn trộm; ta sẽ lo rằng liệu nó có đủ cỏ khô để dùng hay không. Chỉ một con ngựa thôi cũng đủ mang lại bao nhiêu phiền toái. Nếu ta có một con cừu, ta sẽ có nỗi phiền toái tương xứng với một con cừu. Nếu ta có một túi trà,* chắc chắn ta sẽ có nỗi phiền não đáng giá một túi trà.
+
+Vì vậy hãy quán chiếu và thiền quán để hiểu rằng được sống trong an bình là điều quan trọng như thế nào, như câu ngạn ngữ cổ xưa có nói, “Không của cải, thì không kẻ thù.” Hãy tạo hứng khởi cho mình bằng những câu chuyện của chư Phật trong quá khứ và hãy nhỏ bật gốc tất cả những tham luyến tiền bạc và của cải. Hãy sống bằng những gì mình nhận được như những con chim, và cống hiến hoàn toàn bản thân mình vào việc thực hành Phật Pháp.
+
+4.3.2 Nỗi sợ hãi mất người thân yêu
+
+Chúng ta sống trong thế giới luân hồi này và cảm thấy rằng buộc với những người mà ta đồng cảm và thù địch đối với những người khác. Vì lợi ích của gia đình, đệ tử, đồng bào, bạn bè và những người thân yêu của ta, chúng ta sẵn sàng trải qua mọi thứ đau khổ. Dù là họ hàng hay bằng hữu thì không một ai trong số những người mà chúng ta có những sự ràng buộc này có thể sống mãi mãi, và không sớm thì muộn, chúng ta cũng buộc phải xa lìa họ. Họ có thể chết hay bôn ba ở những xứ khác, hoặc bị kẻ thù hoặc nguy hiểm đe dọa – và những nỗi khổ họ phải trải qua sẽ ảnh hưởng đến chúng ta.
+
+* Đây là một cách dịch thoát từ *ja'khor*, một cách đo lường tương đương với bốn bánh trà Tây Tạng được ép chặt.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+còn sâu xa hơn cả nỗi khổ của chính chúng ta. Đặc biệt là các bậc cha mẹ, quan tâm quá nhiều tới con cái và thường xuyên lo lắng chúng có thể bị lạnh, đói hay khát, hoặc chúng có thể bị đau ốm hay chết. Trong thực tế, họ thương con tới nỗi thà họ chết còn hơn là để chúng phải đau khổ, và vì lợi ích của chúng, họ phải trải qua rất nhiều khổ não.
+
+Nhưng dù chúng ta đau khổ quá nhiều vì nỗi lo sợ phải bị chia cách với bạn bè và người thân yêu, thì chúng ta nên suy nghĩ về những điều này thật cẩn thận. Liệu ta có thể quả quyết rằng những người thân yêu của ta thì đáng yêu như ta nghĩ không? Chẳng hạn cha mẹ ta nói thương chúng ta như con cái họ, nhưng cách họ thương yêu ta là một cách thức thương yêu lầm lạc và có hậu quả vô cùng tai hại. Bằng cách cố gắng cho chúng ta của cải, tài sản và lập gia đình cho ta, cha mẹ ta đang cột chặt chúng ta vào với luân hồi. Cha mẹ dạy cho ta mọi thứ chúng ta cần để ta biết cách đối xử tốt hơn với các đối thủ của ta, cách quan tâm tới bạn bè, cách làm giàu, và dạy cho ta tất cả các kế hoạch tai hại khác, [nhưng làm như vậy], thật sự là chỉ để cầm chắc một điều là chúng ta sẽ bị mắc bẫy không thoát ra được khỏi những cõi thấp. Các bậc làm cha mẹ chẳng thể làm được điều gì tệ hại hơn thế nữa.
+
+Về phần con cái chúng ta, cả trai lẫn gái, lúc đầu chúng bú tinh chất từ thân ta, lúc lớn lên, chúng lấy thực phẩm khỏi miệng ta, và vào lúc cuối chúng lấy tài sản khỏi tay ta. Để đáp lại tình thương của ta, chúng nổi loạn chống lại chúng ta.
+
+Chúng ta [trong khi làm cha mẹ] đã cho những đứa con trai tất cả tài sản mà chúng ta kiếm được suốt đời mình, không tính toán giá trị và chẳng quan tâm gì đến tất cả những hoạt động bất thiện, những nỗi khổ và sự phê bình chỉ trích mà ta đã phải nếm chịu – nhưng chúng vẫn không có lòng biết ơn tối thiểu. Cho dù ta cho chúng nhiều đồng tiền Trung Hoa bằng bạc, chúng cũng chẳng biết ơn gì hơn bất kỳ người bình
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+thường nào nhận được từ ta một nhùm lá trà. Chúng chỉ nghĩ rằng bất kỳ những gì của cha mẹ đều tự động thuộc về chúng.
+
+Những kẻ chị em và con gái chúng ta cũng thế, họ ngốn nuốt tài sản của ta mà không một chút biết ơn. Chúng ta càng cho họ, thì họ càng muốn thêm. Nếu chúng ta chỉ có được chút ít, như một miếng lam ngọc giả dùng làm vật để đếm khi lần tràng hạt thì chị em và con gái ta cũng sẽ đến nịnh bợ khiến ta cũng phải buông nó ra để cho họ. Trong hoàn cảnh tốt đẹp nhất thì họ góp phần vào sự thịnh vượng của người khác, nhưng chẳng mang lại điều gì cho ta. Nhưng nếu giả dụ hoàn cảnh trở nên tệ hại thì chúng lại trở về nhà, mang theo sự ô danh và buồn tủi cho gia đình mình.*
+
+Về phần những thân quyến và bạn bè khác của ta, họ đối xử với ta như đối với những vị Trời – đó là chừng nào mà chúng ta vẫn còn giàu có, hạnh phúc và mọi việc đang tiến triển hết sức tốt đẹp. Họ làm bất kỳ những gì có thể làm để giúp ta, và cho ta tất cả những thứ mà ta không cần. Nhưng nếu ta rơi vào hoàn cảnh khó khăn, thì mặc dù ta chẳng làm điều gì tổn hại tới họ, họ sẽ đối xử với chúng ta như kẻ thù và đáp trả lại lòng tốt của ta bằng ác ý.
+
+Tất cả điều này cho thấy rằng con trai, con gái, gia đình và bằng hữu chẳng có chút giá trị nào, như Ngài Jetsun Milarepa đã diễn tả trong bài đạo ca của Ngài:
+
+Lúc ban đầu, con trai của bạn là một thiên thần nhỏ duyên dáng;
+Bạn thương nó nhiều đến mức không thể chịu nổi.
+Khi lớn lên, nó đòi hỏi quyền lợi thật hung tợn;
+Bạn cho nó mọi thứ, nhưng chẳng bao giờ nó thỏa mãn.
+Nó đem về nhà con gái của người khác,
+
+* Trong các nền văn hoá truyền thống Á Châu, cô dâu về nhà chồng cùng với của hồi môn của mình, nối kết với gia đình chồng. Nếu cuộc hôn nhân đổ vỡ, cô sẽ trở về nhà cha mẹ mình.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Xô đẩy cha mẹ nhân từ của nó ra ngoài.
+Khi cha gọi, nó chẳng thèm trả lời.
+Khi mẹ gọi, thậm chí nó chẳng buồn nghe.
+Cuối cùng, nó giống như một người hàng xóm ở xa.
+Bạn tự hủy hoại chính mình khi nuôi dưỡng một tên lừa đảo như thế.
+Nản lòng biết bao khi sinh ra kẻ thù của chính bạn!
+Ta (Milarepa) đã ném đi bộ yên cương này là thứ trói buộc ta vào luân hồi.
+Ta không cần bất kỳ ai trong những đứa con trai thế tục ấy.
+
+Rồi Ngài tiếp tục:
+
+Vào lúc đầu đứa con gái là một thiên nữ bé nhỏ xinh tươi,
+Hống hách độc chiếm mọi tài sản tốt lành nhất của bạn.
+Lớn lên, nó không ngừng đòi hỏi quyền lợi:
+Công khai yêu sách cha đủ mọi điều,
+Và kín đáo lấy trộm của mẹ.
+Không bao giờ thỏa mãn với những gì được cho.
+Nó là nguồn thất vọng của bậc cha mẹ nhân từ.
+Cuối cùng, nó là con yêu tinh mặt đỏ:
+Khi mọi việc tốt đẹp, nó là báu vật cho người khác,
+Khi mọi việc tệ hại, nó sẽ đem tai hoạ tới cho bạn.
+Nản lòng biết bao, con quỷ phá hoại này!
+Ta (Milarepa) đã ném đi nỗi buồn khôn nguôi này.
+Ta không muốn một đứa con gái sẽ dẫn ta tới chỗ hủy diệt.
+
+Cuối cùng:
+
+Vào lúc đầu, bạn bè tươi cười khi gặp bạn,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Và cả thung lũng âm vang “Hãy vào đây!” và “Mời ngồi!”
+Trung cuộc, họ đáp lại lòng hiếu khách của bạn bằng thịt và bia,
+Món đổi món, đáp trả chính xác từng cái một.
+Cuối cùng, họ gây tranh chấp trên sự thù ghét hay tham luyến.
+Nản lòng biết bao, những người bạn xấu ác này với tất cả những tranh cãi của họ!
+Ta (Milarepa) đã từ bỏ những bạn bè ăn nhậu lúc thảnh thơi.
+Ta không muốn bất kỳ bằng hữu thế tục nào.
+
+4.3.3 Nỗi khổ của ham muốn không đạt được
+
+Trong thế gian này, không ai trong chúng ta không muốn được hạnh phúc và được cảm thấy sung sướng; nhưng chẳng ai trong chúng ta đạt được những gì mình mong muốn. Ví dụ, có gia đình cố gắng xây nhà để được sống cho tiện nghi, nhưng ngôi nhà sụp đổ và đè chết họ. Có người muốn ăn để thoả mãn cơn đói, nhưng thực phẩm làm họ bị bệnh và gây nguy hại cho mạng sống của họ. Có những người lính chiến đấu, hy vọng sẽ chiến thắng, và lập tức bị giết. Có đoàn thương nhân tiến hành những chuyến đi buôn viễn du, với hy vọng chắc chắn sẽ kiếm được lợi nhuận, nhưng bị tấn công và trở nên nghèo khổ. Dù chúng ta có hao tổn bao công sức để kiếm tìm hạnh phúc và của cải trong cuộc đời này, nhưng chúng ta sẽ không thể đạt được những điều ta mong muốn, ngay cả việc thoả mãn cơn đói trước mặt, trừ phi nào những hành nghiệp trong quá khứ của chúng ta có thể tạo đủ duyên lành để những việc đó trổ quả. Những gì chúng ta làm đều gây nên phiền não cho mình và người khác. Chỉ duy một điều chúng ta có thể chắc chắn là ta sẽ không thể thoát khỏi đáy sâu của
+
+III. § NHỮNG § KHỔ § ĐAU § CỦA § CÕI § LUÂN § HỒI
+
+các § tầng § địa § ngục. § Đó § là § lý § do § tại § sao § một § tia § lửa § nhỏ § công § đức § cũng § đáng § giá § là § hơn § một § trái § núi § nỗ § lực.
+
+Những § hoạt § động § luân § hồi § tiếp § nối, § không § bao § giờ § chấm § dứt, § liệu § chúng § có § ích § lợi § gì § không? § Tất § cả § mọi § nỗ § lực § của § chúng § ta § trong § vòng § quay § luân § hồi § từ § vô § thủy § chỉ § nhằm § đạt § được § những § gì § ta § mong § muốn, § song § chúng § lại § không § đem § lại § cho § ta § điều § gì § ngoài § sự § đau § khổ. § Nếu § như § những § năng § lực § mà § ta § đã § dành § trong § quá § khứ § cho § những § mục § đích § thế § gian, § hoặc § trong § những § năm § đầu, § hoặc § trong § những § năm § cuối § của § chỉ § duy § nhất § một § cuộc § đời, § nếu § ta § hiến § dâng § những § năng § lực § này § cho § Phật § Pháp § thì § giờ § đây § chắc § chắn § chúng § ta § đã § chứng § thành § Phật § quả. § Và § cho § dù § không § đạt § được § như § vậy, § có § một § điều § chắc § chắn § là § ít § nhất, § chúng § ta § sẽ § không § bao § giờ § phải § hứng § chịu § đau § khổ § trong § những § cõi § thấp § nữa.
+
+Chúng § ta § nên § thiền § quán § như § sau: § giờ § đây § là § lúc § ta § hiểu § rõ § sự § khác § biệt § giữa § những § gì § ta § nên § làm § và § không § nên § làm, § hãy § ngưng § việc § đặt § hy § vọng § lớn § lao § nơi § những § công § trình § của § luân § hồi, § vì § chúng § là § những § thứ § mà § ta § sẽ § chẳng § bao § giờ § hoàn § tất § được § – § thay § vào § đó, § hãy § thực § hành § Giáo § Pháp § chân § chính, § bởi § vì § chắc § chắn § chỉ § có § nương § vào § đó § mà § mới § có § được § sự § thành § tựu.
+
+### 4.3.4 § Nỗi § khổ § vì § gặp § điều § không § mong § muốn
+
+Không § ai § trên § thế § gian § này § ước § muốn § bất § kỳ § loại § đau § khổ § nào § đã § được § mô § tả § ở § đây, § tuy § nhiên § chúng § ta § luôn § phải § trải § qua § đau § khổ § dù § có § muốn § hay § không. § Chẳng § hạn, § có § những § người, § do § những § hành § nghiệp § trong § quá § khứ, § phải § làm § bộ § hạ § của § một § kẻ § thống § trị § hay § làm § nô § lệ § của § kẻ § giàu § có. § Trái § với § ước § muốn § của § họ, § họ § hoàn § toàn § phải § phụ § thuộc § vào § ý § muốn § của § chủ, § không § có § được § một § giây § phút § tự § do § nào. § Họ § có § thể § bị § trừng § phạt § thật § nặng § nề § vì § một § lỗi § lầm § rất § nhỏ § mà § chẳng § thể § làm
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+được gì về việc đó cả. Cho dù họ bị dẫn đến nơi hành hình, họ biết rằng họ cũng không thể trốn thoát.
+Chúng ta luôn luôn phải gặp những gì mình không mong muốn. Như Đấng Toàn Giác Longchenpa có nói:
+
+Bạn thích sống với gia đình và những người thương yêu
+Mãi mãi, nhưng chắc chắn là bạn phải bỏ lại họ.
+Bạn thích được giữ căn nhà xinh đẹp của mình
+Mãi mãi, nhưng chắc chắn là bạn phải để lại phía sau.
+Bạn thích được hưởng thụ hạnh phúc, giàu sang và an
+nhàn
+Mãi mãi, nhưng chắc chắn là bạn phải đánh mất chúng.
+Bạn thích giữ đời người tuyệt hảo này với những tự do và
+thuận lợi
+Mãi mãi, nhưng chắc chắn là bạn phải chết.
+Bạn thích được học Giáo Pháp với vị Thầy phi thường của
+bạn
+Mãi mãi, nhưng chắc chắn rằng bạn sẽ phải chia ly.
+Bạn thích được ở bên những thiện tri thức tốt lành,
+Mãi mãi, nhưng chắc chắn là bạn sẽ phải rời xa.
+
+Ô những người bạn của ta, những người đã vỡ mộng về cõi luân hồi,
+Ta, kẻ ăn mày vô-Pháp*, thúc đẩy các bạn:
+Từ hôm nay, hãy mặc áo giáp tinh tấn, bởi đã tới lúc
+Phải băng qua sinh tử để đến xứ sở của đại lạc là nơi
+không có sự cách ngăn.
+
+Của cải, tài sản, sức khỏe, hạnh phúc và được nhiều người mến mộ, tất cả đều là kết quả của thiện hạnh trong quá khứ.
+
+* Các tác giả Tây Tạng thường tự ám chỉ mình với sự cực kỳ khiêm tốn trong
+cách nói này.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Nếu ta tích lũy thiện hạnh trong quá khứ, thì kết quả là tất cả những điều này sẽ đến với ta một cách tự nhiên, cho dù có muốn hay không. Nhưng nếu không có thiện hạnh thì dù nỗ lực đến đâu chăng nữa, ta cũng không đạt được những gì mong muốn. Tất cả những gì ta sẽ thâu hoạch được là những thứ ta ít mong muốn nhất. Vì thế, khi thực hành Pháp, ta phải dựa vào kho tài sản vô tận là sự hài lòng với bất kỳ những gì sẽ xảy ra đến. Nếu không, một khi bắt đầu tu tập chắc chắn là những tham vọng thế gian của ta trong đời này sẽ làm cho ta phiền não và khiến cho các bậc linh thánh phải phật lòng. Ngài Jetsun Mila có hát rằng:
+
+Những gì mà đức Thế Tôn, Đấng Chiến Thắng, đã giảng dạy, chủ yếu là
+Làm thế nào thoát khỏi tám mối quan tâm tầm thường.
+Nhưng hỡi những kẻ tự cho là uyên bác thời nay –
+Không phải là những mối quan tâm thế tục ấy còn nảy nở lớn hơn trước nữa hay sao?
+
+Đấng Chiến Thắng đã giảng dạy những giới luật để tuân theo
+Nhờ đó người ta có thể rút lui khỏi tất cả mọi việc đời.
+Nhưng các vị tu sĩ thời nay, những kẻ tuân theo giới luật này –
+Không phải là những công việc thế gian của họ lại còn nhiều gấp bội lần hơn trước hay sao?
+
+Ngài dạy làm thế nào để sống như những bậc hiền thánh ngày xưa,
+Nhờ đó người ta có thể cắt đứt những ràng buộc với bạn bè và thân quyến.
+Nhưng những kẻ sống như những bậc thánh thời nay –
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Chẳng quan tâm là người ta tới thăm họ thậm chí còn nhiều hơn trước hay sao?
+
+Tóm lại, tu tập mà không nhớ tới cái chết, Thì bất cứ Giáo Pháp nào cũng vô ích.
+
+Nhân loại sống trong thời buổi suy thoái ở bốn trung châu, đặc biệt là tại đây ở cõi Diêm Phù Đề (Jambudvipa – cõi người) này, bị tước đi ngay cả những cơ hội hạnh phúc nhỏ bé nhất. Cuộc sống của họ tràn ngập đau khổ. Ngày nay, sự suy thoái ngày càng tăng tốc độ với mỗi một năm qua, với mỗi tháng, mỗi ngày, mỗi bữa ăn, mỗi buổi sáng và mỗi buổi tối. Đại kiếp đang đi từ chỗ xấu tới tệ hại hơn. Giáo lý của Đức Phật và hạnh phúc của chúng sinh đang suy tàn mỗi lúc càng nhiều hơn. Hãy suy ngẫm về tất cả những điều này và hãy phát khởi một tâm cảm chán ngán luân hồi. Đặc biệt, châu Diêm Phù Đề này có thể cho ta thấy rất rõ cái mãnh lực đặc biệt của sự trổ quả của nghiệp,$^{60}$ là điều làm cho mọi sự khó có thể lường trước được – cho dù là tốt hay xấu, dễ chịu hay khó chịu, cao hay thấp, Pháp hay phi-Pháp. Ta cần tự mình thấu hiểu sự vật ra sao, và hãy giữ cho tâm thức được hoàn toàn minh bạch về những gì nên làm và những gì nên tránh. Hãy đưa lời khuyên của Đấng Toàn Giác Longchenpa vào thực hành:
+
+Đôi khi hãy nhìn vào những gì bạn thấy là thuận lợi;
+Nếu bạn biết đó chỉ là tri kiến, mọi sự bạn kinh qua sẽ trở nên lợi lạc.$^{61}$
+Đôi khi hãy nhìn vào những gì bạn thấy là bất lợi và tai hại;
+Điều này thì tối yếu, sẽ khiến bạn kinh sợ cách bạn nhìn sự việc một cách mê lầm.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Đôi khi hãy nhìn vào bạn bè của mình và các bậc Thầy của những người khác;
+Việc phân biệt người tốt với người xấu sẽ khiến bạn hứng khởi trong tu tập.^[62]
+Đôi khi hãy nhìn vào sự phô diễn kỳ diệu của tứ đại trong không gian;
+Bạn sẽ thấy làm thế nào mọi tạo tác lắng xuống trong chân tánh của tâm.^[63]
+Đôi khi hãy nhìn vào xứ sở, nhà cửa và tài sản của bạn;
+Khi thấu hiểu chúng là mộng huyễn, bạn sẽ cảm thấy ghê sợ trước cách nhìn lầm lạc của bạn.
+Đôi khi hãy nhìn vào của cải và tài sản của người khác;
+Khi thấy họ đáng thương ra sao, bạn sẽ bỏ đi tham vọng của cõi luân hồi.
+Tóm lại, khi quán chiếu bản tánh của mọi việc trong tất cả những nét vẻ đa dạng,
+Bạn sẽ tiêu diệt được mê lầm của sự bám chấp vào mọi thứ như là thật.
+
+5. A Tu La (Phạn: Asuras)
+
+Các A Tu La – hay các bán-thiên (semi-gods), vốn là địch thủ của chư Thiên – được hưởng thụ nhiều khoái lạc và thừa thãi về vật chất. Tuy nhiên, họ có một khuynh hướng ganh tị thù hận mạnh mẽ, hay gây hấn và tranh chấp từ những kiếp trước. Kết cục của những ác hạnh này là ngay sau khi mang thân tướng của A Tu La trong kiếp hiện tại, họ bắt đầu mang những cảm giác thù hận dữ dội.
+Thậm chí ngay trong cõi giới của họ, cũng có những cuộc tranh cãi (để chiếm giữ) các lãnh thổ và địa phận, và họ tiêu phí toàn bộ thời gian của mình để đánh nhau và gây hấn với nhau về những bất đồng như vậy.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Nhưng tệ hại hơn nữa, khi nhìn lên cõi Trời, họ có thể thấy chư Thiên giàu có tột bậc. Họ cũng thấy rằng mọi ước muốn và nhu cầu của chư Thiên được cung cấp bởi một cây-như-ý – tuy nhiên rễ cây ấy lại nằm trong cõi của họ. Khi nhìn thấy như vậy, tâm họ tràn ngập một mối oán giận không thể nào chịu nổi. Khoác áo giáp và chộp lấy các vũ khí, họ lên đường gây chiến với chư Thiên. Khi các vị Trời nhìn thấy những gì xảy ra, họ đi tới Khu Rừng Hiếu Chiến, $^{64}$ mặc vào áo giáp và cấm lấy vũ khí. Chư Thiên giữ một con voi ba mươi ba đầu gọi là Kiên Định Siêu Phàm. Vua Trời Đế Thích (Indra) của họ ngự trên đầu voi ở giữa, cùng với tất cả các đại thần bao quanh trên ba mươi hai đầu kia. Xung quanh là vô số chư Thiên đầy hào quang ánh sáng, cất cao tiếng hô xung trận. Khi trận chiến bắt đầu, chư thiên thả xuống một trận mưa vũ khí – chày, giáo, bánh xe, những mũi tên khổng lồ v.v... Năng lực huyền diệu của họ khiến họ có sức mạnh lôi những ngọn núi lớn vào lòng và ném chúng xuống như hỏa tiễn. Do nghiệp lực trong quá khứ, chư thiên cao lớn hơn con người bảy lần, nhưng các bán thiên a tu la thì nhỏ hơn chư thiên nhiều. Chư Thiên chỉ có thể bị giết khi bị đứt đầu; song nhờ chất cam lồ linh thiêng của họ mà bất kỳ vết thương nào khác trên thân họ cũng sẽ lập tức lành lặn. Nhưng các bán-thiên A Tu La lại chết y hệt như con người khi bị đánh trúng vào một bộ phận quan trọng nào đó trên thân thể. Do đó họ bị thua trận rất nhiều. Nhiều khi, chư thiên phái một con voi được gọi là Hộ Vệ Của Tất Cả, điên cuồng vì hơi men, với một bánh xe có các lưỡi kiếm được cột vào vòi của nó, khiến hàng trăm ngàn a tu la phải bỏ mạng. Thi thể họ đổ lăn xuống sườn núi Tu Di và rơi xuống những Hồ Đại Hoa Mỹ phía dưới làm nước hồ loang đầy màu máu.
+
+Trong cõi A Tu L này, cùng những cuộc chiến đấu và gây hấn thường xuyên, họ cũng không thoát khỏi đau khổ. Hãy thiền quán về số phận của họ từ tận đáy lòng bạn.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+6. Chư Thiên
+
+Chư Thiên vui hưởng sức khoẻ, tiện nghi, của cải và hạnh phúc toàn hảo suốt cuộc đời họ. Tuy nhiên, họ tiêu phí thời gian trong việc tiêu khiển. Ý tưởng thực hành Phật Pháp không bao giờ hiện đến với họ. Suốt trong cả cuộc đời có thể kéo dài một đại kiếp, chẳng bao giờ niệm tưởng thực hành Pháp khởi lên trong tâm họ dù chỉ trong giây lát. Rồi thì khi đã lãng phí cả cuộc đời trong sự phóng dật, đột nhiên họ phải đối mặt với cái chết. Tất cả các chư Thiên trong sáu cõi trời Dục Giới, từ cõi Trời của Tứ Thiên Vương cho tới cõi được gọi là Hoá Lạc, đều phải chịu đựng nỗi khổ của cái chết và luân hồi.
+
+Có năm dấu hiệu báo trước cái chết của một vị Trời. Thân họ vốn chói sáng, có thể nhìn thấy cách một lý (khoảng 4,8km) hay vài dặm, bỗng mờ dần đi. Chiếc ngai mà trước đây họ vẫn ngự trên đó và không bao giờ cảm thấy mỏi mệt, thì giờ đây không còn làm họ hài lòng; họ cảm thấy thiếu tiện nghi và không còn thoải mái. Vòng hoa trên đầu của họ, trước đây dù lâu đến đâu cũng chẳng bao giờ tàn, nhưng giờ đây đã khô héo. Y phục của họ luôn sạch sẽ tinh tươm dù có mặc bao lâu thì nay trở nên cũ, bẩn và bắt đầu bốc mùi. Thân họ bắt đầu đổ mồ hôi dù trước đây không bao giờ như vậy. Khi năm dấu hiệu đưa họ gần tới cái chết bắt đầu xuất hiện, họ rất đau khổ vì biết chẳng bao lâu nữa mình cũng sẽ chết. Bằng hữu và những người thân yêu của họ cũng biết những gì sắp xảy ra với họ; nhưng họ không thể tới gần nữa, mà chỉ đứng ở xa ném hoa và nói những lời chúc tốt lành: “Khi Ngài chết và từ giã nơi đây, cầu xin ngài được tái sinh vào cõi người. Cầu mong Ngài làm nhiều việc thiện và lại được tái sinh vào cõi Trời.” Với những lời đó, họ từ bỏ chư thiên đang hấp hối. Hoàn toàn cô độc, chư thiên đang hấp hối phải chìm đắm trong nỗi buồn sầu. Bằng thiên nhãn, họ biết nơi mình sắp. Nếu phải tái sinh ở một cõi đau khổ, thì những đau đớn của sự đày đọa này xâm chiếm tâm họ và làm cho họ càng đau khổ trong khi, mệnh của họ ở cõi trời vẫn chưa kết thúc. Những đau khổ này trở nên mãnh liệt gấp hai rồi gấp ba, gấp bốn, gấp năm và than khóc trong bảy ngày liên tiếp trên cõi trời. Bảy ngày trên cung Trời thứ Ba Mươi Ba (cung Đạo Lợi hay Đế Thích Thiên) thì bằng bảy trăm năm ở cõi người. Trong thời gian đó, khi nhìn lại và hồi tưởng lại tất cả những phúc lạc và sung sướng mà họ đã từng vui hưởng, họ nhận ra là mình không thể nán ở lại được nữa và họ phải trải qua nỗi khổ của sự chuyển kiếp; rồi nhìn về phía trước, khi đã bị đẩy vào cõi thấp hơn, họ càng đau khổ trong khi, nơi tái sinh trong tương lai, họ trả giá vào cõi thấp hơn. Nỗi đau đó còn khổ sở hơn cả nỗi khổ trong địa ngục.
+
+Trong hai cõi trời cao nhất, không có những đau khổ rõ ràng của cái chết và sự chuyển kiếp. Tuy nhiên, khi nghiệp quả đã đưa họ đến đây bị cạn kiệt, những cõi thấp như thế thúc đẩy sự đau khổ của họ là như vậy. Như Ngài Long Thọ có nói:
+
+*Hãy biết rằng ngay cả chính Phạm Thiên,*
+*Sau khi có được hạnh phúc nhờ thoát khỏi vướng mắc*
+*Đến lượt ông ta phải chịu đau khổ không ngừng dứt*
+*Như dầu đốt lửa của Địa Ngục Vô Gián.*
+
+Do đó, dù chúng ta sinh ra bất cứ nơi đâu trong sáu cõi, tất cả đều có một bản chất là đau khổ, tất cả đều là một cỗ máy động cơ của đau khổ – và không là gì khác hơn ngoài đau khổ. Tất cả giống như một cái hố sâu bằng lửa, một hòn đảo đầy quỷ cái ăn thịt người, một vực sâu trong đại dương, đầu lưỡi dao hay một hãm phân. Ta không thể tìm ra chút an lạc. Trong *Tịnh Úc Diệu Pháp Kinh* có nói:
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Chúng sinh trong địa ngục đau khổ vì lửa địa ngục,
+Ngạ quỷ đau khổ vì đói và khát,
+Súc sinh đau khổ bởi việc ăn thịt lẫn nhau,
+Loài người đau khổ vì cuộc đời ngắn ngủi,
+A Tu La đau khổ vì chiến tranh và tranh chấp,
+Và chư Thiên đau khổ vì thiếu tỉnh giác.
+Chẳng bao giờ có hạnh phúc trong sinh tử luân hồi dù chỉ nhỏ bằng đầu đinh ghim.
+
+Và Đức Di Lặc có nói:
+
+Cũng như không có mùi thơm trong một hố phân,
+Không có hạnh phúc trong năm loại chúng sinh.$^{66}$
+
+Đạo Sư Vĩ đại xứ Oddiyana cũng nói:
+
+Người ta nói rằng trong vòng luân hồi này
+Sẽ không tìm ra được hạnh phúc dù nhỏ như đầu mũi kim.
+Nhưng nếu ngẫu nhiên ta tìm được chỉ một ít,
+Thì hạnh phúc ấy sẽ chứa đựng nỗi khổ của sự biến đổi.
+
+Càng quán chiếu về những điều này và những đoạn tương tự khác, ta sẽ càng nhận ra rằng cho dù sinh ra ở đâu; từ đỉnh cao của sự sống xuống tới địa ngục sâu thẳm nhất, tất cả đều không có ngay cả một giây phút hạnh phúc thực sự. Mọi sự đều vô nghĩa. Hãy suy ngẫm về luân hồi sinh tử và những đau khổ của sinh tử cho đến khi không còn tham muốn gì về cõi luân hồi này nữa, giống như người đau gan được mời ăn một món thức ăn có nhiều mỡ béo vậy.
+
+Đừng nên hài lòng với việc chỉ đơn thuần nghe nói về những đau khổ này và có được những hiểu biết theo tri kiến. Hãy thấu hiểu những điều đó qua dòng tâm thức và kinh nghiệm những đau khổ ấy với toàn bộ trí tưởng tượng cho tới khi nào ta có thể thực sự có niềm tin vào những điều đó. Khi có được sự xác quyết này thì việc tránh không phạm ác hạnh và việc phải tích lũy thiện hạnh sẽ đến với ta một cách tự nhiên không cần ép buộc.
+
+Nanda, người anh em họ với Đức Phật, rất luyến ái người vợ và không muốn từ bỏ thế gian. Mặc dù Đức Phật, bằng phương tiện thiện xảo, đã thuyết phục ông hãy bước chân trên con đường Đạo Pháp và trở thành một tăng sĩ, ông ta đã không tuân theo giới luật. Ông sắp bỏ trốn thì Đức Phật dùng thần lực đem ông lên một đỉnh núi tuyết và cho ông ta thấy một con khỉ cái một mắt.
+
+Đức Phật hỏi Nanda: “Ông thấy Pundarika vợ của ông và con khỉ này ai đẹp hơn?”
+
+Nanda trả lời: “Vợ con, nàng đẹp hơn gấp trăm, gấp ngàn lần!”
+
+“Được rồi,” Đức Phật trả lời. “Bây giờ chúng ta hãy lên cõi Trời.”
+
+Khi đến nơi, Đức Phật ngồi xuống và bảo Nanda đi một vòng xem xét. Mỗi vị trời sống trong cung điện riêng, chung quanh có nhiều thiên nữ trẻ, và hưởng thụ những khoái lạc, hạnh phúc và sự dư dật không thể nghĩ bàn. Tuy nhiên, có một cung điện có nhiều thiên nữ nhưng không có vị trời nào. Nanda hỏi tại sao, và được trả lời: “Trong cõi người, có một người đàn ông tên Nanda, là người anh em họ của Đức Phật, đang tu giữ giới luật tu viện. Hành động này sẽ dẫn ông ta tái sinh vào cõi thiên, và khi đó cung điện này sẽ là của ông ta.”
+
+Nanda vui mừng khôn xiết. Khi trở lại với Đức Phật, Phật hỏi, “Ông có thấy cõi trời chưa?”
+
+“Tất nhiên là con thấy rồi!”
+
+“Tốt. Ông thấy vợ ông hay những thiên nữ trẻ ai đẹp hơn?”
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+“Những người con gái của các chư thiên đẹp hơn nhiều,” Nanda trả lời; “Quả thực, sắc đẹp của họ vượt xa sắc đẹp của Pundarika cũng như sắc đẹp của Pundarika vượt xa con khỉ một mắt mà chúng ta thấy trước đó.”
+
+Khi trở về thế gian, Nanda giữ gìn giới luật tu viện thật hoàn hảo.
+
+Sau đó Đức Phật nói với những tu sĩ: “Nanda đã từ bỏ cuộc sống thế gian để được sinh vào những cõi trời,” Ngài nói, “Nhưng tất cả các ông trở thành tu sĩ để vượt thoát đau khổ. Các ông và ông ta không cùng một con đường. Đừng nói chuyện với ông ta nữa. Không nên thân mật với ông ta. Thậm chí không nên ngồi cùng chỗ với ông ta!”
+
+Tất cả tu sĩ vâng lời, và Nanda rất bối rối. Ông nghĩ: “Ananda là em trai ta; tối thiểu nó vẫn còn chút tình cảm với ta.” Nhưng khi ông ta đi gặp em, Ananda đứng dậy và bỏ đi. Nanda hỏi tại sao, và Ananda thuật lại những điều Đức Phật đã nói. Nanda rất đau khổ.
+
+Cuối cùng Đức Phật đến với ông và nói, “Nanda, ông có muốn đi thăm các địa ngục không?” Nanda đồng ý, và Đức Phật đưa cả hai xuống đó bằng thần lực. “Hãy đi và quan sát chung quanh,” Ngài nói.
+
+Vì vậy, Nanda bắt đầu thám hiểm, tìm thăm tất cả cảnh giới của địa ngục, cho tới khi ở một nơi kia, ông bắt gặp một vạc trống không, trong đó có một ngọn lửa cháy kêu tanh tách và rất đông thuộc hạ của Diêm Vương đang vây quanh. Ông hỏi họ tại sao trong cái vạc không có ai.
+
+“Có một người em họ trẻ tuổi của Đức Phật tên là Nanda,” họ trả lời, “anh ta đang thực hành giới luật tu viện với ý định được tái sinh làm một vị trời. Sau khi hưởng thụ hạnh phúc của cõi trời, khi công đức của anh ta cạn kiệt, anh ta sẽ tái sinh vào đây.”
+
+Nanda hoảng sợ. Khi trở về ông ta suy nghĩ kỹ về các sự việc. Trong tương lai được sinh vào cõi trời và sau đó kết thúc ở
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+các cõi địa ngục thì chẳng có ý nghĩa gì hết, vì thế ông nuôi dưỡng một quyết tâm chân thực để tìm cách giải thoát khỏi luân hồi. Khi đã được nhìn tận mắt các cõi địa ngục, ông không bao giờ làm bất kỳ điều gì vi phạm giới luật dù nhỏ nhặt nhất, và Đức Phật tán thán ông là đệ tử tuyệt hảo nhất trong việc thu thúc các căn.*
+
+Chúng ta không cần phải đi quá xa để tận mắt thấy các cảnh địa ngục. Một hình ảnh đơn giản cũng đủ làm chúng ta kinh sợ và củng cố ý muốn được giải thoát của mình. Chính vì lý do này mà Đức Phật yêu cầu bánh xe năm nhánh tượng trưng cho vòng luân hồi được vẽ tại cửa thiền đường* của Tăng đoàn. Như Đức Long Thọ đã nói:
+
+Nếu chỉ nhìn những hình ảnh của các địa ngục, tai nghe những điều mô tả,
+Hoặc đọc và suy nghĩ về địa ngục đã khiến bạn kinh sợ như vậy,
+Thì bạn sẽ làm gì khi trải nghiệm ở đó,
+Toàn bộ nghiệp quả sẽ trổ ra từ những hành vi của bạn mà không sao ngăn cản được?
+
+Vì thế, hãy quán chiếu về những loại đau khổ khác nhau trong luân hồi. Từ tận đáy lòng, hãy vất bỏ mọi mục đích tầm thường của cuộc đời này. Trừ phi hoàn toàn từ bỏ những hoạt động thế gian, bất kỳ Giáo Pháp nào mà bạn nói là đang thực hành sẽ không thể dẫn đến thành tựu.
+
+Khi Ngài Atisa sắp viên tịch, một hành giả du già đến hỏi Ngài: “Sau khi Ngài viên tịch, con có nên thiền định không?”
+
+“Cho dù ông thiền định, nó có sẽ thực sự là Giáo Pháp không?” Ngài Atisa hỏi ông ta.
+
+* Thu thúc các căn có nghĩa là không cho phép mình bị cám dỗ bởi những đối tượng của các giác quan.
+* Hình vẽ này thường được thấy ở cổng vào của các ngôi chùa Tây Tạng.
+
+150
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+“Vậy thì, con có nên giảng dạy hay không?”
+Vị đạo sư trả lời như trước.
+“Vậy, con nên làm gì?”
+“Tất cả những gì ông nên làm là hoàn toàn nương tựa vào Tonpa và chí tâm từ bỏ [sự tham luyến vào] cuộc đời này,” Ngài Atisa trả lời.
+Một câu chuyện khác kể về một vị sư đang đi nhiễu quanh Tu Viện Radreng thì gặp Geshe Tonpa. Vị Geshe nói: “Tu sĩ đáng kính, đi nhiễu là một việc tốt, nhưng việc thực hành Giáo Pháp đích thực không tốt hơn hay sao?”
+Vị tăng tự nghĩ: “Có lẽ việc đọc kinh điển Đại Thừa thì cần thiết hơn là đi nhiễu.” Vì thế ông ta đọc kinh điển trên ban công nhìn ra sân giảng ngoài trời.
+Sau một lát, Ngài Geshe Tonpa nói với ông ta: “Đọc giáo lý cũng là một việc tốt, nhưng thực hành Giáo Pháp đích thực lại không tốt hơn hay sao?”
+Một lần nữa, nhà sư suy nghĩ kỹ về điều đó: “Điều này hẳn có nghĩa là thực hành thiền định thì tốt hơn đọc kinh điển.” Do đó ông ta hoãn việc đọc kinh và bắt đầu dùng thời giờ để ngồi trên giường với đôi mắt nhắm hờ.
+Một lần nữa, Ngài Tonpa nói với ông ta: “Thiền định là một việc tốt, nhưng thực hành Giáo Pháp đích thực không tốt hơn hay sao?”
+Bị bí lối, nhà sư kêu lên: “Ngài Geshe tôn kính, vậy con nên làm gì để thực hành Giáo Pháp?”
+“Tu sĩ đáng kính,” Ngài Geshe trả lời, “hãy [phát tâm] từ bỏ đời này! Hãy [phát tâm] từ bỏ đời này!”
+Chính tất cả những hoạt động tầm thường và những ràng buộc hạn chế trong những lo toan của cuộc đời này, bây giờ và mãi mãi về sau, sẽ luôn ngăn trở không cho chúng ta thoát được khỏi những cảnh giới đau khổ của luân hồi. Ngoài vị chân sư thì không ai có thể thực sự chỉ dạy cho ta phải làm gì, để chặt đứt sợi dây neo cột chặt chúng ta vào cuộc đời này, để chúng ta đạt
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+được giác ngộ trong những kiếp sống tương lai. Hãy bỏ lại đằng sau tất cả những mối bận tâm của cuộc đời này – thân quyến và bạn bè, bằng hữu và những người thân yêu, thực phẩm, của cải và tài sản– giống như nhỏ nước bọt vậy.* Hãy bằng lòng với bất kỳ thực phẩm và quần áo nào ta có thể có, và hoàn toàn hiến mình cho Giáo Pháp. Ngài Padampa Sangye có nói:
+
+Vật chất giống như mây mù; đừng bao giờ nghĩ rằng chúng có thể trường tồn.
+Được mến mộ ưa chuộng giống như tiếng vang; chớ đeo đuổi sự kính trọng, hãy tìm theo tánh thật của nó.
+Quần áo đẹp giống như những màu sắc trong một cầu vồng; hãy ăn mặc đơn giản và chuyên tâm thực hành.
+Thân thể này là một cái bao chứa máu; mủ và dịch chất; đừng yêu quý nó.
+Ngay cả những bữa ăn ngon lành cũng biến thành chất phẩn; đừng quá coi trọng miếng ăn.
+Hiện tượng xuất hiện như kẻ thù; hãy sống trong ẩn thất hay núi non.
+Ảo tưởng nhận thức như cây gai xé rách tâm thức; hãy xem ảo tưởng thảy có cùng một tánh (tánh không).**
+Mọi tham dục và mong cầu đều phát xuất từ chính bản thân; hãy hướng về chân tánh của tâm.
+
+---
+* Điều muốn nói ở đây (được nói rõ trong những chương khác) không phải là một sự chối bỏ trách nhiệm của ta đối với cha mẹ, con cái v.v... nhưng là sự chuyển hoá tâm tham luyến và chuyển hoá định kiến giới hạn đặt nền tảng trên “cái tôi” thành một lòng từ ái chân thực trải rộng đồng đều cho mọi chúng sinh.
+** Đứng về mặt tuyệt đối thì mọi tri giác đều có cùng một bản tánh, đó là tánh Không.
+
+152
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Viên ngọc quý báu nhất ở ngay trong ta; đừng mong mỏi thực phẩm và của cải.
+Nói nhiều chỉ đem lại tranh cãi; hãy hành động như thể bị câm.
+Tâm có năng lực tự nhiên;$^{67}$ đừng chạy theo tiếng gọi của bao tử.
+Sự gia hộ xuất hiện từ tâm; hãy thỉnh nguyện lạt ma và bổn tôn của mình.
+Nếu ở một nơi nào quá lâu rồi cũng sẽ thấy ngay cả Đức Phật cũng có lỗi, vậy chớ ở lâu bất kỳ nơi đâu.
+Hãy hành động khiêm tốn; hãy từ bỏ tính kiêu căng.
+Cuộc đời không kéo dài lâu; hãy thực hành ngay, đừng chậm trễ.
+Bạn giống như một lữ khách trong cuộc đời này; đừng xây một toà lâu đài ở nơi bạn chỉ lưu lại một lát.
+Chẳng hành động nào đem lại ích lợi; hãy đặt thành tựu nơi công phu hành trì.
+Chẳng thể nào biết được khi nào thân bạn trở thành mồi cho dòi bọ hay hoàn toàn biến mất; chớ bị phân tâm bởi những hiện tượng của cuộc đời này.
+Bạn bè và thân quyến giống như những con chim nhỏ trên cành; đừng vướng mắc với họ.
+Lòng tín tâm vững chắc giống như một nền tảng hoàn hảo; đừng quăng bỏ lòng tin ấy vào đống rác cảm xúc bất thiện.
+Thân người như viên ngọc như ý quý giá, chớ trao nó cho kẻ thù – sự thù hận.
+Mật nguyện (samaya) thì giống như tháp canh;$^{68}$ đừng làm ô nhiễm với những lỗi lầm.
+Trong lúc vị Đạo Sư Kim Cương vẫn còn (hiện diện) ở giữa các bạn; đừng để Giáo Pháp bị cuốn trôi vào sự biếng lười.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Để thực sự tu tập và kinh nghiệm được Phật Pháp, điều thiết yếu là ta phải nhận ra rằng mọi sự trong luân hồi đều là vô nghĩa. Cách duy nhất để phát triển được nhận thức đó là phải thiền quán về những nỗi thống khổ và tai hoạ của luân hồi. Hãy quán chiếu cho đến khi đạt được sự hiểu biết và niềm tin tưởng sâu xa rằng toàn bộ cõi luân hồi ngập tràn đau khổ.
+
+Khi công phu thiền quán đã thật sự bén rễ trong ta, ta sẽ có dấu hiệu như Geshe Langri Thangpa. Một ngày nọ, một trong những vị thị giả thân cận nói với Ngài: “Người ta gọi Ngài là Langri Thangpa Mặt Sầu Não” (Langri Thangpa Tang-diện).
+
+“Làm sao mặt ta có thể tươi sáng và vui vẻ khi ta nghĩ về tất cả các nỗi khổ trong tam giới của luân hồi được?” vị Geshe trả lời.
+
+Người ta nói rằng Ngài Langri Thangpa chỉ từng cười có một lần. Ngài thấy một con chuột đang cố di chuyển một viên ngọc lam trên mạn đà la của Ngài. Nhưng một mình nó không thể nhấc nổi viên ngọc, nên nó gọi: “Tsik! tsik!” và con chuột khác chạy đến. Một con đẩy viên ngọc trong khi con kia kéo. Điều đó khiến Ngài Langri Thangpa mỉm cười.
+
+Công phu thiền quán về những nỗi đau khổ của luân hồi là nền tảng và là sự hỗ trợ giúp cho tất cả những phẩm tính tốt đẹp trên con đường tu tập Đạo Pháp. Công phu thiền quán này sẽ xoay chuyển tâm ta hướng về Pháp. Sẽ cho ta niềm tin vào luật nhân quả trong tất cả những việc ta làm. Sẽ khiến ta quay lưng lại với những mục đích của cuộc đời này. Và sẽ khiến ta cảm nhận lòng từ bi đối với tất cả chúng sinh.
+
+Chính Đức Phật, trong ba lần chuyển Pháp luân, đã bắt đầu bằng những lời dạy: “Hỡi chư tỷ kheo, cuộc đời này là đau khổ.” Điều đó cho thấy việc ta nhận thức ra được những đau khổ trong cõi luân hồi này thật sự quan trọng đến ngần nào.
+
+Vì vậy, hãy hành trì tu tập cho tới khi có được hoàn toàn niềm tin tưởng và sự xác quyết rằng luân hồi là đau khổ.
+
+III. NHỮNG KHỔ ĐAU CỦA CÕI LUÂN HỒI
+
+Nhìn thấy luân hồi là đau khổ, nhưng con vẫn khao khát vòng sinh tử.
+Sợ hãi vực thẳm của cõi thấp, nhưng con tiếp tục làm điều sai trái.
+Xin hãy từ bi gia hộ cho con và những kẻ lạc lối như con
+Để chúng con có thể thật lòng từ bỏ những đa đoan của cuộc đời này.
+
+[Hình: Gampopa (1079 - 1153)]
+
+Gampopa (1079 – 1153)
+
+Cũng được gọi là Dagpo Rinpoche.
+
+Là một trong những vị trưởng tử của Milarepa và cũng là vị Đạo Sư quan trọng của dòng truyền thừa Kagyu.
+
+# CHƯƠNG BỐN
+
+# NGHIỆP:* LUẬT NHÂN QUẢ
+
+Ngài từ bỏ việc xấu, làm việc thiện, như giáo lý về nhân quả.
+Công hạnh của Ngài noi theo tiến trình của các Thừa.$^{69}$
+Nhờ cái Thầy viên mãn, Ngài thoát khỏi mọi bám chấp.
+Bậc Thầy Vô Song, con đảnh lễ dưới chân Ngài.
+
+Chương này cần phải được giảng giải và học hỏi [với thái độ] tương tự như đối với những chương khác. Chủ đề trong chương này sẽ được giải thích dưới ba đề mục: hành động tiêu cực (ác hạnh) là những gì nên từ bỏ, hành động tích cực (thiện hạnh) là những điều nên tuân theo; và tính chất hoàn toàn quyết định của các hành động tạo nghiệp.
+
+## I. NHỮNG ÁC HẠNH PHẢI TỪ BỎ
+
+Điều khiển cho chúng ta phải tái sinh trong những cõi cao hay bị đọa trong cõi thấp của vòng luân hồi chính là những hành vi thiện hay ác mà bản thân chúng ta đã tích lũy. Chính vòng
+
+* Từ Phạn ngữ karma (T.T. las), bây giờ thường được sử dụng trong Anh ngữ để ám chỉ kết quả của những hành động trong quá khứ, nhưng karma thực ra chỉ đơn thuần có nghĩa là “những hành động.” Tuy nhiên, người Tây Tạng cũng sử dụng thành ngữ las trong ngôn ngữ thông thường để ám chỉ toàn thể tiến trình, hay nguyên lý, của nhân và quả, rgyu'bras, và đây là chủ đề của chương này.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+luân hồi được tạo ra bởi các hành vi này, và bao gồm tất cả những kết quả của các hành vi ấy – chứ không có bất cứ điều gì khác đưa dẫn chúng ta vào những cảnh giới cao hay thấp. Đây cũng chẳng phải chỉ là sự ngẫu nhiên. Vì thế, vào mọi lúc, chúng ta nên luôn luôn quán sát hậu quả của các hành động tích cực và tiêu cực, cố tránh tất cả những điều xấu và làm những điều tốt.
+
+1. **Mười hành vi bất thiện nên tránh (Thập ác)**
+
+Ba hành vi trong số mười hành vi bất thiện là những hành vi thuộc về thân: sát sinh, lấy những gì không được cho, và tà dâm (quan hệ tình dục bất chính); bốn hành vi thuộc về khẩu: nói dối, gieo mối bất hòa, nói lời cay nghiệt, và nói chuyện phiếm vô ích; ba hành vi thuộc về ý: tham muốn, muốn làm tổn hại người khác, và quan điểm sai lạc (tà kiến).
+
+1.1 SÁT SINH
+
+Sát sinh có nghĩa là cố ý làm bất cứ điều gì để kết thúc sinh mạng của một chúng sinh khác, dù là người, súc vật hoặc bất kỳ sinh linh nào khác.
+
+Người lính giết kẻ địch trong chiến trận là một ví dụ của việc sát sinh vì thù hận (sân). Việc giết một con thú hoang để ăn thịt hay lấy da của chúng làm y phục là sát sinh bởi lòng tham. Giết mà không biết hậu quả là đúng hay sai – hay như những kẻ ngoại đạo (tirthika) tin rằng đó là một việc đức hạnh – là sát sinh bởi sự vô minh (si).
+
+Có ba trường hợp sát sinh được gọi là những hành vi có quả báo tức thời (hiện báo), vì những hành vi này dẫn đến sự tái sinh ngay lập tức trong Địa Ngục Vô Gián mà không kinh
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+qua trạng thái trung ấm, đó là: giết cha, giết mẹ, và giết một vị A La Hán.70
+
+Một số người trong chúng ta nghĩ rằng chỉ phạm tội sát sinh khi có hành vi giết hại cụ thể bằng chính đôi bàn tay của mình; và rất có thể là chúng ta tưởng tượng là chúng ta vô tội vì chưa hề bao giờ phạm tội sát sinh. Nhưng ngay từ đầu thì không một ai trong chúng ta, dù cao hay thấp, mạnh mẽ hay yếu đuối lại chưa từng phạm lỗi đạp chết vô số côn trùng dưới chân khi dạo bước.
+
+Đặc biệt hơn, những Lạt Ma và tu sĩ khi tới nhà thăm các tín chủ, được dâng cúng máu và thịt của thú vật bị giết và được nấu thành thức ăn; mùi vị của thịt hấp dẫn họ tới nỗi họ ngấu nghiến món ăn với sự khoái trá mà không có chút xíu ân hận hay thương xót nào đối với những con vật bị giết. Trong những trường hợp như vậy, hậu quả ác nghiệp của người sát sinh sẽ ập xuống cho cả chủ lẫn khách không hề có sự khác biệt.
+
+Khi những nhân vật quan trọng và viên chức chính quyền đi du hành, dù họ đi tới đâu thì cũng có vô số súc vật bị giết để dùng vào việc tổ chức những buổi tiệc trà và tiệc chiêu đãi của họ. Những người giàu có theo thói quen sát hại vô số súc vật. Trong số tất cả các gia súc của họ, ngoại trừ một vài con vật già nua ở đây đó, thì họ không để bất cứ con vật nào chết tự nhiên mà đều giết thịt từng con một khi các con vật ấy lớn dần. Hơn nữa, trong mùa hè, chính những con trâu bò và những con cừu này, khi chúng ăn cỏ thì chúng lại giết hại vô số côn trùng, ruồi, kiến và thậm chí cả cá con và ếch nhái; trong khi chúng đang nuốt cỏ, chúng nghiền nát những con côn trùng này dưới bộ móng của chúng, hay làm những con côn trùng bị ngập lún trong phân. Hậu quả của ác nghiệp của tất cả các hành động này sẽ xảy tới với chủ nhân cũng như cho các con vật. Nếu đem so sánh với ngựa, trâu bò và những loại gia súc khác thì con cừu là một nguồn đặc biệt gây nhiều
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+tổn hại. Khi chúng ăn cỏ, chúng nuốt tất cả các sinh vật bé nhỏ – ếch, rắn, chim con, v.v... Khi bị xén lông vào mùa hè, hàng trăm ngàn sinh vật sống trên mỗi bộ lông cừu đều bị giết chết. Lúc sinh đẻ vào mùa đông, không tới phân nửa cừu con được giữ lại, còn bao nhiêu đều bị giết thịt khi vừa sinh ra. Cừu mẹ được dùng để lấy sữa và sinh sản cho tới khi chúng quá già và suy kiệt; lúc đó chúng bị giết để lấy thịt và da. Và không một con cừu đực nào, dù có bị thiến hay không, tới lúc trưởng thành mà không bị giết ngay lập tức. Nếu cừu có rận thì hàng triệu chấy rận trên mỗi con cừu sẽ bị chết đồng loạt. Bất cứ ai sở hữu một bầy cừu một trăm con hay nhiều hơn nữa, bảo đảm sẽ tái sinh ít nhất một lần trong địa ngục.
+
+Trong mỗi một đám cưới, vô số cừu bị giết khi của hồi môn được gửi đi, lúc tiễn cô dâu về nhà chồng, và khi cô dâu được cha mẹ chồng đón nhận. Sau đó, mỗi khi cô dâu trẻ về thăm gia đình, chắc chắn những súc vật khác sẽ bị đem giết. Nếu bạn bè và thân quyến mời cô ra và phục vụ cô bất cứ thứ gì trừ món thịt thì cô sẽ làm ra vẻ lúng túng ăn không ngon miệng và ăn với vẻ khinh khỉnh như thể cô đã quên cách nhai.$^{71}$ Nhưng nếu giết một con cừu mập mạp và đặt phần thịt vú và bộ lòng trước mặt cô, thì cô sẽ ngồi xuống thật trịnh trọng như một con tiểu quỷ mặt đỏ, lôi con dao nhỏ ra, rồi cô nuốt chửng cả miếng thịt kèm theo những cái chắp môi. Ngày hôm sau cô lên đường, và trở về nhà buông phịch một xác thú đầy máu me xuống đất, y như thể một tên thợ săn - nhưng còn tệ hơn thế nữa, mỗi khi cô đi đâu ra ngoài, chắc chắn chẳng khi nào cô về tay không.
+
+Trẻ con cũng vậy, chúng gây ra vô số cái chết cho súc vật trong lúc chơi đùa, dù chúng có biết điều đó hay không. Chẳng hạn trong mùa hè, chúng giết chết nhiều con côn trùng chỉ bằng cách dùng một cành liễu hay một cái roi da đập xuống mặt đất khi chúng đi bộ dọc theo con đường.
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Như vậy nên trong thực tế, tất cả loài người chúng ta dùng toàn bộ thời gian của mình để sát sinh, chẳng khác nào loài yêu quái. Thực tế – hãy xem bằng cách nào chúng ta giết chết trâu bò của mình để thưởng thức thịt và máu của chúng trong khi chúng đã dành toàn bộ cuộc đời để phục vụ và nuôi dưỡng chúng ta bằng sữa của chúng, như thể chúng là mẹ của chúng ta – chúng ta còn tệ hơn bất kỳ thứ yêu tinh nào.
+
+Hành vi cướp đi mạng sống được hoàn tất khi bao gồm đầy đủ bốn yếu tố của một ác hạnh. Hãy lấy ví dụ về một người thợ săn giết một con dã thú. Trước hết, ông ta thấy một con nai thực sự, hay một con hươu xạ, hoặc bất kể con vật nào, và nhận thấy rõ ràng đây chính là con vật, không chút nghi ngờ: việc nhận biết đó là sinh vật chính là căn bản cho sự hành động. Kế đó, ước muốn giết con thú phát khởi: ý tưởng giết con thú là động cơ để thực hiện hành vi giết hại. Sau đó ông ta bắn vào điểm nhược của con vật bằng một khẩu súng, bằng cung tên hay bất kỳ vũ khí nào khác: hành động giết hại của thân là việc thực hiện hành vi ấy. Ngay sau đó, chức năng sinh tồn của con vật ngừng dứt, sự nối kết giữa thân và tâm của nó bị tách lìa: đó là sự hoàn tất cuối cùng của hành động sát sinh.
+
+Còn một ví dụ khác: theo yêu cầu của gia chủ, người đồ tể giết một con cừu được nuôi để lấy thịt. Trước tiên, chủ nhà bảo người hầu hay người hàng thịt giết một con cừu. Điều căn bản là ông ta biết rằng có một sinh vật có liên quan đến ác hạnh này – đó là một con cừu. Động lực (ý định) hay ý tưởng giết con vật, sẽ hiện diện ngay khi ông ta quyết định con cừu này hay con cừu kia sẽ bị giết. Việc thực hiện hành động sát sinh thực sự xảy ra khi người đồ tể sắp sửa giết con cừu, vật nó ngã ngửa, cột bốn chân nó lại với nhau bằng những sợi dây da và buộc một sợi thừng quanh mõm cho tới khi nó chết ngạt. Con vật ngừng thở trong sự đau đớn dữ dội của sự dãy
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+chết, đôi mắt trợn trừng của nó ngả màu hơi xanh, kéo mây và trào lệ. Xác nó bị kéo ra khỏi nhà và giai đoạn cuối cùng, sự chấm dứt đời sống của nó, đưa tới sự hoàn tất ác hạnh. Không để phí chút thời gian nào, con vật bị lột da bằng một con dao, da thịt nó vẫn còn đang rung động vì “năng lực toả-khắp”* chưa đủ thời gian để lìa khỏi xác; như thể con vật vẫn còn sống. Ngay lập tức, nó được nướng trên một ngọn lửa và nấu trên bếp lò, rồi được mang ra ăn. Khi bạn nghĩ về nó, về những con vật như vậy bị ăn thịt, trong thực tế nó đang bị ăn tươi nuốt sống, và loài người chúng ta thì không khác gì những con thú săn mồi.
+
+Giả sử hôm nay bạn có ý định giết một con vật, hoặc bạn nói rằng sẽ giết, nhưng không thực sự làm điều đó. Như thế là đã có căn bản, có sự hiểu biết rằng đó là một chúng sinh, và có ý định hay ý tưởng giết hại con vật. Do đó, hai trong số các yếu tố của ác hạnh đã có mặt đầy đủ, và mặc dù sự tác hại ít nặng nề hơn so với việc bạn hoàn thành hành vi sát sinh trong thực tế, nhưng giống như sự phản chiếu trong một tấm gương, dấu vết của một hành động tiêu cực (ác hạnh) vẫn tồn tại.
+
+Một số người tưởng rằng chỉ có những ai sử dụng thân thể để thực hiện việc sát sinh mới tạo ra hậu quả của ác nghiệp, còn người chỉ ra lệnh thì không - hay nếu có thì cũng chỉ tạo một ít hậu quả mà thôi. Nhưng bạn nên biết rằng nghiệp quả xảy đến với tất cả những người có liên quan đến hành vi xấu ác đều đồng đều như nhau, ngay cả với những người chỉ cảm thấy vui thích về điều đó – đừng nói chi tới người thực sự ra lệnh cho việc sát sinh được thực hiện. Mỗi người nhận toàn bộ nghiệp quả của việc giết hại một con vật. Không làm gì có việc một hành động sát sinh lại có thể được chia ra cho nhiều người.
+
+* Một trong năm năng lực vi tế (rlung), hay “gió” trong thân thể (xem thuật ngữ).
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+1.2. LẤY NHỮNG GÌ KHÔNG ĐƯỢC CHO
+
+Việc lấy những gì không được cho gồm có ba loại: lấy bằng bạo lực, lấy bằng cách ăn trộm lén lút và lấy bằng thủ đoạn gian trá.
+
+Lấy bằng bạo lực. Cũng gọi là lấy bằng sự áp chế, có nghĩa là cưỡng chiếm của cải hay tài sản của người khác; và người làm công việc cưỡng chiếm này là một cá nhân có quyền lực chẳng hạn như một ông vua, là một người không có chủ quyền hợp pháp đối với những tài sản kia. Điều này cũng bao gồm sự cưỡng đoạt bởi một số đông người, ví dụ như là một quân đội.
+
+Lấy bằng trộm cắp. Điều này có nghĩa lấy mất của cải vật chất một cách bí mật, giống như một kẻ trộm ban đêm không bị chủ nhân bắt gặp.
+
+Lấy bằng thủ đoạn gian trá. Nghĩa là lấy tài sản của người khác, ví dụ như trong giao dịch mua bán, bằng cách nói dối người khác, hoặc dùng cân và những dụng cụ đo lường sai lạc hoặc dùng các thủ đoạn lừa bịp khác.
+
+Ngày nay, chúng ta nghĩ rằng trong lãnh vực kinh doanh và những phạm vi khác, việc lừa lọc hay dùng thủ đoạn để lấy đi những thứ gì đó của người khác thì không có gì là sai trái miễn là chúng ta không công khai trộm cắp. Nhưng trong thực tế, bất kỳ lợi nhuận nào chúng ta có thể tạo ra bằng cách lừa gạt người khác thì đều không khác với sự ăn cắp công khai.
+
+Đặc biệt là ngày nay, các vị lạt ma và tu sĩ thấy rằng không có tổn hại hay sai lầm nào trong việc làm kinh doanh; quả thực họ tiêu phí toàn bộ cuộc đời vào công việc đó, và cảm thấy hơi tự hào về sự thành thạo của họ. Tuy nhiên, không có gì làm suy yếu tâm lực của một lạt ma hay tu sĩ hơn là việc làm kinh doanh. Bị choáng ngợp trong công việc giao dịch, ông ta ít cảm thấy có khuynh hướng theo đuổi việc nghiên cứu hay tu tập để tịnh hóa những che chướng của mình.
+
+163
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+– và dù sao chăng nữa thì cũng chẳng còn sót lại chút thời giờ nào để dành cho công việc tu tập như vậy. Tất cả thời giờ, từ lúc thức cho đến khi đi ngủ, đều bị hao phí mải mê với những trương mục kế toán. Bất cứ ý niệm nào về lòng quy ngưỡng, tâm chán ghét luân hồi, hay lòng bi mẫn thì những ý niệm đó cũng đều bị tiệt trừ và sự mê lầm thường xuyên chế ngự ông ta.
+
+Một đêm kia, Ngài Jetsun Milarepa đến một tu viện và ngủ qua đêm trước cửa một căn phòng. Vị tu sĩ sống trong phòng đang nằm trên giường suy nghĩ về việc làm thế nào bán xác của con bò mà ông ta dự định sẽ làm thịt vào ngày mai: “Ta sẽ được ngần đó tiền cho cái đầu, xương vai đáng giá ngần ấy, và thịt vai được chừng ấy, chừng ấy cho giò và cẳng chân.” Ông ta tiếp tục tính toán giá trị của từng món và từng phần của con bò, bên trong và bên ngoài. Tới rạng sáng, ông ta không chớp mắt được chút nào nhưng đã tính toán được xong xuôi mọi thứ ngoại trừ việc phải hỏi giá cái đuôi. Ông lập tức ngồi dậy, hoàn tất công phu quy ngưỡng và thực hành phần cúng dường bánh cúng (torma).
+
+Khi đi ra đến ngoài, ông ta bước ngang qua chỗ Ngài Jetsun vẫn còn đang say ngủ, và mắng nhiếc Ngài một cách khinh bỉ: “Ông xưng là hành giả của Giáo Pháp, mà cho tới giờ này vẫn còn ngủ ở đây! Ông không công phu hành trì hay tụng niệm chút nào hay sao?”
+
+“Tôi luôn mất ngủ như vầy,” Ngài Jetsun Mila trả lời. “Tôi vừa thức suốt đêm để nghĩ về cách bán con bò mà tôi sắp giết. Tôi chỉ mới chớp mắt được một chút...” Và như thế Ngài phơi bày những khuyết điểm che dấu của vị tăng, rồi bỏ đi.
+
+Giống như vị tu sĩ trong truyện này, ngày nay những người mà cả đời chỉ chí thú việc kinh doanh đã dùng cả ngày lẫn đêm hoàn toàn mê đắm trong việc tính toán. Họ bị choán ngợp trong ảo tưởng, ngay cả khi cái chết đến, họ cũng sẽ chết mà vẫn mê lầm như thế. Hơn thế nữa, thương mại có
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+liên quan đến tất cả những loại hành vi tiêu cực (ác hạnh). Người ta có hàng hóa để bán, dù trong thực tế là loại kém tệ, nhưng họ lại đề cao chất lượng của nó bằng bất kỳ cách nào họ có thể nghĩ ra. Họ nói dối công khai, chẳng hạn như khách hàng này người mua nọ đã trả tới giá nào ra sao, nhưng họ đã từ chối không bán; hoặc lúc ban đầu họ đã mua vào với số tiền lớn như thế nào. Khi cố gắng mua cho bằng được những món hàng đang được hai người khác thương lượng, thì họ dùng đến sự vu khống nhằm kích động sự bất hoà giữa hai bên. Họ dùng những lời lẽ nặng nề để nói xấu hàng hoá của đối thủ cạnh tranh, nhằm việc tranh nợ hoặc các thứ tương tự khác. Họ say mê trong những cuộc trò chuyện vô nghĩa bằng cách đòi giá cả kỳ cục hoặc mặc cả những thứ mà họ chẳng có ý định mua. Họ ghen tỵ và thèm muốn những thứ thuộc sở hữu của người khác, nỗ lực hết mình để được người kia cho những món đó. Họ luôn mong đối thủ của mình bị tổn hại, luôn mong muốn dành được phần tốt hơn của đối thủ. Nếu họ buôn bán gia súc, họ bị dính mắc trong việc sát sinh. Vì thế trong thực tế, việc kinh doanh bao gồm tất cả mười hành động bất thiện (thập ác), may ra thì có thể không phải kể đến tà kiến và tà dâm. Sau đó, khi việc thương lượng của họ tiến hành không tốt đẹp thì cả hai bên đều hao phí tài sản, mọi người đều khốn khổ, các thương nhân có thể trở thành đói khát, đem lại tổn thất cho bản thân họ và cho cả những kẻ đối tác. Nhưng nếu họ gặt hái chút ít thành công, thì dù có kiếm lời nhiều đến đâu chăng nữa họ chẳng bao giờ thấy đủ. Ngay cả những người giàu có như Đa Văn Thiên (Vaisravana) vẫn cảm thấy thích thú trong những việc kinh doanh bất chính. Cuối cùng khi cái chết tới gần, họ sẽ đấm ngực trong đau khổ, bởi toàn bộ đời người của họ đã bị tiêu phí trong những sự mê ám như vậy, là những thứ giờ đây đang trở thành gánh nặng lôi họ xuống các cõi thấp.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Để tích lũy những ác hạnh vô tận và hoàn toàn làm cho bạn trở nên đồi bại, hư hỏng thì không có gì hữu hiệu hơn là làm việc buôn bán và thương mại. Bạn sẽ thấy bản thân mình luôn luôn nghĩ đến các phương thức đánh lừa người khác như thể bạn đang xem xét một bộ sưu tập gồm các loại dao, dùi và kim xem dụng cụ nào sắc bén nhất. Khi nghiền ngẫm không ngừng về những tư tưởng ác hại, bạn quay lưng lại với lý tưởng Bồ Đề tâm là tư tưởng cứu giúp những chúng sinh khác, và những hành động nguy hại của bạn sinh sôi nảy nở vô tận.
+
+Việc lấy đi những gì không được cho cũng bao gồm bốn yếu tố làm cho ác hạnh được hoàn tất; những điều này cũng đã được giảng rõ rồi. Tuy nhiên, bất cứ sự tham dự nào vào trong các hành vi bất thiện đó, dù chỉ là biếu tặng những kẻ đi săn hoặc những tên trộm cắp chút ít thực phẩm giúp cho cuộc hành trình của chúng thì việc này cũng đủ để đem lại cho bạn một phần hậu quả tương đương với hậu quả của hành vi bất thiện gây ra bởi tội sát sinh và trộm cướp của chúng.
+
+1.3 TÀ DÂM
+
+Những quy luật sau đây là dành cho cư sĩ. Ở Tây Tạng, trong triều đại của vị Pháp Vương Songtsen Gampo, luật pháp được đặt nền tảng trên mười hành động tốt lành (thập thiện). Những quy luật này được thiết lập, bao gồm những luật lệ dành cho người dân sống trong xã hội và những giới luật dành cho cộng đồng tôn giáo. Ở đây, chúng ta đang đề cập tới những quy luật hạn chế trong cách cư xử dành cho người thế gian. Là những người chủ gia đình, họ nên tuân theo một đạo lý thích hợp. Riêng đối với Tăng và Ni, họ được đòi hỏi phải tránh tất cả mọi hành vi tính dục.
+
+Sự tà dâm nghiêm trọng nhất là việc dẫn dắt người khác phá vỡ giới nguyện của họ. Tà dâm cũng bao gồm những hành vi được liên kết với những cá nhân nào đó, hoặc tại một
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+nơi chốn và hoàn cảnh đặc biệt nào đó như là: sự thủ dâm; những quan hệ tình dục với người đã có gia đình hoặc với người đã hứa hôn với người khác; hoặc với người còn độc thân nhưng công khai giữa ban ngày, trong khi đang giữ nguyên trai giới một ngày, trong khi bệnh tật, trong lúc kiệt sức, trong lúc có thai, trong khi vừa mất một người thân, trong khi có kinh nguyệt, trong lúc đang hồi phục sau khi sinh nở; ở nơi có sự hiện diện của các biểu tượng của Tam Bảo; với cha mẹ mình, hay với những thành viên khác trong gia đình (họ hàng), với trẻ em chưa tới tuổi dậy thì; hay có quan hệ tính dục qua cửa miệng hay hậu môn, vân vân.
+
+1.4 NÓI DỐI
+
+Nói dối có ba loại: nói dối thông thường, nói dối nghiêm trọng và những lời giả dối của lạt ma giả mạo.
+
+Những lời nói dối thông thường. Đó là bất kỳ những lời phát biểu không chân thật nào, được nói ra với ý định lừa gạt người khác.
+
+Những lời nói dối nghiêm trọng. Đó là những lời phát biểu chẳng hạn như: thiện hạnh thì không đem lại lợi ích và không có hại gì khi làm các hành động bất thiện, không có hạnh phúc gì trong các cõi Phật và không có đau khổ trong những cõi thấp, hoặc là những lời phát biểu rằng Đức Phật không có các phẩm hạnh tốt đẹp. Những lời phát biểu như vậy được gọi là nói dối nghiêm trọng bởi không có những lời nói dối nào khác có thể đem lại các hậu quả gây lầm lạc nghiêm trọng hơn thế nữa.
+
+Những lời giả dối của lạt ma giả mạo. Đây là tất cả những lời tuyên bố không thành thật rằng mình có những phẩm tính cao cả và có oai lực, ví dụ như đã đạt được những Bồ Tát địa, hay có thần lực thấu thị. Ngày nay, những kẻ mạo danh lại thành công hơn những vị Thầy chân thực, và tư tưởng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+cùng hành động của mọi người dễ dàng bị những kẻ mạo danh gây ảnh hưởng. Do đó, có một số người tự xưng là những đạo sư hay là những thành tựu giả trong nỗ lực lừa gạt người khác. Họ tuyên bố là mình có một linh kiến về một Bổn Tôn nào đó và tổ chức các lễ cúng dường tạ ơn Ngài, hoặc tuyên bố là họ thấy một tinh linh và đã từng trị nó. Thường thì đây chỉ là những lời dối gạt của các Lạt Ma giả mạo, nên hãy thận trọng đừng tin tưởng một cách mù quáng vào những kẻ lừa gạt và bất tài như thế. Bởi có thể nói rằng việc tìm ra được vị Thầy chân chính làm ảnh hưởng tới đời này lẫn đời sau, nên điều tối quan trọng là hãy đặt niềm tin của bạn vào một hành giả Giáo Pháp mà bạn biết rõ, một người luôn luôn khiêm tốn, và bản tánh bên trong cùng cách hành sử bên ngoài của Ngài thì tương ứng với nhau.
+
+Nói chung, có những người bình thường có được một mức độ thấu-thị-giới-hạn-trong-ý-niệm nào đó, nhưng khả năng này không thường hằng, và chỉ có hiệu lực trong một thời gian. Khả năng thấu suốt hoàn toàn thuần tịnh chỉ hiện ra với những bậc đã đạt tới quả vị siêu việt, vì thế khả năng này thật cực kỳ khó đạt được.72
+
+1.5 GIEO MỐI BẤT HOÀ
+
+Việc gieo mối bất hoà có thể công khai hay bí mật.
+
+Gieo mối bất hoà công khai. Đây là một chiến lược thường dùng của những người nắm quyền. Điều này bao gồm việc tạo ra mối bất hoà giữa hai người cùng hiện diện bằng cách công khai kể với một người rằng người kia nói xấu sau lưng anh ta, và tiếp tục diễn tả lại những gì người thứ nhất đã nói hay làm hại người thứ hai – và sau đó có thể hỏi cả hai tại sao hiện giờ vẫn đối xử với nhau như thế không có chuyện gì xảy ra giữa họ.
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Gieo mối bất hoà bí mật. Điều này có nghĩa là chia rẽ hai người đang rất hoà thuận với nhau bằng cách kể lại sau lưng người thứ hai cho người thứ nhất nghe về những điều kinh khủng mà người thứ hai được cho là đã nói về người thứ nhất trong khi người thứ hai lại là một người mà người thứ nhất luôn quan tâm đến.
+
+Trường hợp tệ nhất trong việc gieo mối bất hoà là gây mâu thuẫn giữa những thành viên trong Tăng Đoàn. Việc gây nên sự rạn nứt giữa vị Thầy của Mật Thừa và đệ tử của Ngài, hoặc trong nhóm huynh đệ hay tỉ muội tâm linh thì đặc biệt nghiêm trọng.
+
+1.6 NÓI LỜI CAY NGHIỆT
+
+Lời nói cay nghiệt là, chẳng hạn như phê bình một cách thô bạo về những khuyết điểm trên thân thể của người khác, công khai gọi người ta là chột, điếc, mù v.v.. Điều này bao gồm sự phơi bày những khiếm khuyết che dấu của người khác, đủ mọi loại lời nói xúc phạm và, trong thực tế, ngay cả bất kỳ những lời nào làm người khác không vui hay không thoải mái, cho dù là lời ngọt ngào chứ không cay nghiệt.
+
+Đặc biệt, nói xúc phạm một người trước mặt một vị Thầy, trước mặt một huynh đệ tâm linh, hay một bậc hiền thánh là một lỗi lầm rất nghiêm trọng.
+
+1.7 NÓI CHUYỆN PHIẾM VÔ ÍCH
+
+Nói chuyện phiếm vô ích là nói nhiều mà không có bất cứ mục đích nào: ví dụ, kể lại những gì ta tưởng là Giáo Pháp nhưng thật ra không phải – như nghi lễ của những Bà la môn (brahmin);73 hay nói bâng quơ về những chủ đề làm khuấy động lòng tham muốn hay sân hận, như kể những chuyện của gái điếm, hát những bài ca dâm dật, hoặc bàn luận về chuyện
+
+169
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+cướp bóc và chiến tranh. Đặc biệt, làm quấy nhiễu việc cầu nguyện hay trì tụng của người khác bằng cách tuôn ra những lời lẽ vô dụng làm cho họ bị xao lãng thì điều này đặc biệt tai hại, bởi việc ấy ngăn cản họ trong việc tích tập công đức.
+
+Những mẩu chuyện ngồi lê đôi mách mà thoạt nhìn dường như phát sinh hoàn toàn tự nhiên và tự phát, nhưng khi bạn xem xét kỹ lưỡng hơn, thì được thúc đẩy bởi sự tham dục hay thù hận, và mức độ nặng nề của những lỗi lầm sẽ tương xứng với số lượng tham muốn hay sân hận được tạo nên trong tâm bạn hay tâm người khác khi nói về những mẩu chuyện này.
+
+Trong khi bạn đang tụng đọc những lời cầu nguyện hay trì tụng các câu minh chú mà lại trộn lẫn với sự trò chuyện không thích đáng thì việc ấy sẽ ngăn chặn sự kết trái của công phu tu tập của bạn, cho dù bạn có tụng niệm nhiều tới đâu chăng nữa. Điều này đặc biệt áp dụng cho những loại chuyện tầm phào khác nhau lan truyền trong hàng ngũ Tăng Đoàn. Chỉ một người duy nhất nói chuyện tầm phào là đã có thể làm cho công đức của toàn thể hội chúng bị tiêu hủy và những hành động đáng khen của các tín chủ và người bảo trợ của hội chúng cũng bị uổng phí.
+
+Trong xứ Ấn Độ cao quý, như một thông lệ, chỉ có những bậc đã đạt được những thành tựu cao nhất và hoàn toàn trong sạch, đã đoạn diệt được tất cả những lỗi lầm xấu xa thì những vị ấy mới có quyền sử dụng quỹ cúng dường cho Tăng Đoàn. Đức Phật không cho phép một ai khác được làm điều đó. Nhưng ngày nay, người ta chỉ cần học được một hay hai nghi thức Mật thừa, và ngay khi có thể trì tụng các nghi quỹ ấy là họ bắt đầu sử dụng bất kỳ những vật cúng dường nguy hiểm nào74 mà họ có thể nhận được. Nếu không được thọ nhận các lễ quán đảnh, không trì giữ tất cả các mật nguyện, không tinh thông các giai đoạn phát triển và hoàn thiện, và không hoàn tất những điều kiện đòi hỏi của việc tụng niệm minh chú, mà
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+lại đi nhận cúng dường bằng cách cử hành những nghi lễ mật thừa – nghĩa là chỉ hát tụng những minh chú bí mật một cách qua loa giống như những phù thủy đạo Bon – thì đây là một vi phạm nặng nề. Sử dụng những của cúng dường nguy hiểm này được so sánh với việc ăn những viên sắt nóng: nếu người bình thường cùng dự phần mà không có quai hàm bằng gang thép của sự hợp nhất hai giai đoạn phát triển và hoàn thiện, thì họ sẽ tự đốt cháy mình và bị hủy hoại. Như có câu nói rằng:
+
+*Phẩm vật cúng dường nguy hiểm là những lưỡi dao bén chết người;*
+*Cứ tiêu xài, và của ấy sẽ cắt đứt huyết mạch của giải thoát.*
+
+Chẳng những không tinh thông hai giai đoạn thiền định của pháp tu Mật Thừa mà những người như vậy, cho dù có thể họ biết chút ít những ngôn từ của các nghi thức nhưng thậm chí họ cũng không lo tụng niệm những ngôn từ ấy một cách đúng đắn. Tệ hơn nữa, vào lúc họ trì tụng thần chú – là phần quan trọng nhất – họ lại bắt đầu tán gẫu, và trong suốt thời gian được ấn định để trì chú, họ tuôn ra một lô toàn những chuyện tầm phào không dứt, những chuyện ngập đầy tham vọng và kích động. Điều này thật tai hại cho chính bản thân họ và cho cả những người khác. Điều tối quan trọng là các tu sĩ và các Lạt Ma phải từ bỏ loại chuyện phiếm này và tập trung vào việc tụng chú mà không được trò chuyện.
+
+1.8 THAM MUỐN
+
+Sự tham muốn bao gồm tất cả những tư tưởng thèm muốn hay hám lợi, thậm chí kể cả những niệm tưởng vi tế nhất mà chúng ta có thể có đối với tài sản của người khác. Khi suy
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+tưởng rằng sẽ dễ chịu biết bao nếu như những thứ kỳ diệu đó của họ lại thành của mình, chúng ta cứ mơ tưởng được sở hữu những thứ ấy, vạch ra những kế hoạch để chiếm đoạt chúng, v.v...
+
+1.9 MUỐN LÀM TỔN HẠI NGƯỜI KHÁC
+
+Điều này ám chỉ tất cả những tư tưởng hiểm độc mà ta có thể có về những người khác. Ví dụ như suy nghĩ với lòng oán ghét hay giận dữ để xem bằng cách nào chúng ta có thể làm hại được họ; cảm thấy thất vọng khi họ thành công hay phát đạt; mong muốn họ bớt sung túc, bớt hạnh phúc hay bớt tài giỏi; hoặc cảm thấy vui mừng khi những điều khó chịu xảy ra cho họ.
+
+1.10 TÀ KIẾN
+
+Tà kiến bao gồm quan điểm cho rằng hành động không tạo nghiệp quả, và quan điểm của thuyết vĩnh cửu và thuyết hư vô.
+
+Theo quan điểm hành động không tạo nghiệp quả thì thiện hạnh không đem lợi ích và ác hạnh không gây tổn hại. Quan điểm của thuyết vĩnh cửu và hư vô bao gồm tất cả những quan điểm khác nhau của những kẻ ngoại đạo. Mặc dù những tà kiến loại này có thể được chia ra thành ba trăm sáu mươi quan điểm sai lầm, hay sáu mươi hai tà kiến, nhưng tất cả có thể được tóm tắt thành hai phân loại bao gồm chủ nghĩa vĩnh cửu và chủ nghĩa hư vô.
+
+Những người theo chủ nghĩa vĩnh cửu tin là có một cái ngã thường hằng và một đấng tạo hoá (tạo lập thế giới) hiện hữu vĩnh cửu bên ngoài ta, chẳng hạn như các vị thần Isvara hay Vishnu. Những người theo thuyết hư vô tin rằng tất cả sự vật hoàn toàn tự phát, không có đời quá khứ hay đời vị lai,
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+không có nghiệp quả, không có tự do và giải thoát.75 Như có nói trong học thuyết của thần Isvara Sắc Đen:
+
+Mặt trời mọc, nước chảy xuống,
+Hạt đậu xoe tròn, chiều dài đâm tủa và cái bén nhọn của cây gai,
+Vẻ đẹp của con mắt ngũ sắc của đuôi công;
+Chẳng do ai tạo, tất cả đều tự phát một cách tự nhiên.
+
+Họ biện luận rằng khi mặt trời mọc ở phương Đông, không ai ở đó làm cho nó mọc. Khi một dòng sông chảy xuống thấp, không ai lèo lái cho nước chảy xuống. Không ai lăn những hạt đậu để làm tất cả những hạt đậu tròn xoe, hay làm cho tất cả các mũi gai thành dài, sắc nhọn, và dựng đứng. Không ai vẽ những con mắt đẹp đẽ nhiều màu trên một đuôi công... Tất cả những sự việc này chỉ là thuần túy như thế, được sinh do những đặc tánh riêng của chúng. Và vì thế mọi sự trong thế gian này dù thoải mái hay khó chịu, xấu hay tốt – mọi hiện tượng đều tự phát một cách hoàn toàn tự nhiên. Không có nghiệp từ quá khứ, không có những đời trước, không có những đời sau.76
+
+Nếu cho rằng văn bản của những học thuyết như vậy là chân chính và thuận theo những bản văn ấy, hoặc ngay cả không noi theo nhưng lại suy gẫm cho rằng lời của Đức Phật, cũng như những giáo huấn của vị Thầy của bạn, hay những trước tác của những nhà luận giảng uyên bác là những lời sai lạc, rồi đâm ra hoài nghi, chỉ trích những lời này, thì tất cả đều được bao gồm trong điều được gọi là tà kiến.
+
+Điều tệ hại nhất trong mười hành động bất thiện là sát sinh và tà kiến. Như đã có câu nói rằng:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Không hành vi nào tệ hại hơn việc cướp đi mạng sống của một chúng sinh khác;
+Trong mười hành vi bất thiện, tà kiến là nặng nề nhất.
+
+Ngoại trừ chúng sinh trong các địa ngục, không ai không chùn bước trước cái chết hay không ai không coi trọng cuộc đời mình hơn bất kỳ điều gì khác. Thế nên, huỷ diệt một cuộc đời là một hành động cực kỳ bất thiện. Trong Tịnh Ức Diệu Pháp Kinh có nói rằng ta sẽ phải trả lại bất kỳ mạng sống nào ta đã cướp đi bằng năm trăm kiếp sống của riêng ta, và nếu ta giết chết dù chỉ một chúng sinh thì ta sẽ phải trải qua một đại kiếp trong thân trung ấm ở các cõi địa ngục.
+
+Còn tệ hại hơn nữa là trong khi đang thực hiện một việc công đức, chẳng hạn như xây dựng một biểu tượng của Tam Bảo, mà bạn lại làm việc đó như thể đây là một lý do bào chữa để qua đó mà bạn phạm những ác hạnh như sát sinh. Ngài Padampa Sangye đã nói:
+
+Xây dựng pháp bảo hộ trì cho Tam Bảo trong khi gây ra tổn hại và đau khổ
+Là ném đời sau của bạn vào trong gió.
+
+Cũng là điều sai lầm quấy quá nếu bạn nghĩ rằng bạn đang làm điều đáng ca ngợi khi giết súc vật và dâng cúng thịt và máu của chúng cho các lạt ma được mời tới nhà bạn, hay dâng cúng những món này cho một hội chúng các tu sĩ. Hậu quả của ác nghiệp sẽ xảy tới cho cả người cho lẫn người nhận. Người cho, mặc dù làm việc cung cấp thực phẩm, nhưng đang tạo ra một món cúng dường bất tịnh; và người nhận đang chấp thuận thực phẩm không thích hợp. Bất kỳ kết quả tốt lành nào cũng đều sẽ bị hậu quả tiêu cực lấn át (lợi bất cập hại). Quả thực, trừ khi bạn có khả năng làm hồi sinh các nạn nhân của bạn ngay tại chỗ, còn thì không có tình
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+huống nào mà hành vi sát sinh lại không làm ô uế bạn như là một hành vi bất thiện. Bạn cũng có thể đoan chắc rằng việc ấy sẽ làm tổn hại cuộc đời và công hạnh của vị Thầy.78 Nếu bạn không có khả năng chuyển di tâm thức chúng sinh đến trạng thái cực lạc, thì bạn nên thực hiện mọi nỗ lực để tránh việc cướp đi mạng sống của các chúng sinh ấy.
+
+Nếu bạn có tà kiến, cho dù chỉ trong một khoảnh khắc, điều ấy sẽ phá vỡ tất cả các giới nguyện của bạn và bạn tự loại mình ra khỏi cộng đồng Phật tử. Tà kiến cũng sẽ không cho bạn có được sự tự do khi đang có được thân người trong đời này để thực hành Giáo Pháp. Từ giây phút tâm thức bạn bị những tà kiến làm nhiễm ô, thì ngay cả những việc tốt lành mà bạn làm cũng không dẫn tới được giải thoát và những việc xấu ác bạn đã phạm cũng chẳng thể sám hối được nữa.79
+
+2. Hậu Quả Của Mười Hành Vi Bất Thiện
+
+Mỗi hành vi tiêu cực sinh ra bốn loại nghiệp quả: quả chín muồi trổ sinh, quả tương ứng với nhân đã gieo, quả trổ sinh nghiệp cảnh, và quả tăng trưởng liên tục.
+
+2.1 QUẢ CHÍN MUỒI TRỔ SANH 80
+
+Nếu phạm vào bất kỳ một trong mười ác hạnh nào trong khi để cho lòng sân hận thúc đẩy thì điều này sẽ dẫn đến sự tái sinh trong các cõi địa ngục. Phạm điều ác bởi lòng tham dục sẽ bị đọa vào cõi ngạ quỷ; phạm điều ác do vô minh thì sẽ phải đọa vào cõi súc sinh. Một khi bị đọa vào trong những cõi thấp này, chúng ta phải trải qua những nỗi thống khổ đặc biệt ở cõi đó.
+
+Ngoài ra, khi có một sự thôi thúc rất mạnh mẽ – lòng tham, sân, hay si cực kỳ dữ dội– thì sự thôi thúc này sẽ là
+
+175
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+động cơ dẫn đến việc liên tục tích tụ những ác hạnh trong một thời gian dài, và điều này sẽ đưa đến việc tái sinh trong các cõi địa ngục. Nếu sự thôi thúc bớt mạnh và các ác hạnh giảm thiểu đi, thì sẽ đưa đến việc tái sinh làm ngạ quỷ; nếu ít hơn nữa thì sẽ tái sinh làm súc vật.
+
+2.2 QUẢ TƯƠNG ỨNG VỚI NHÂN
+
+Ngay cả cuối cùng, khi chúng ta đã thoát được ra khỏi cõi thấp, nơi mà quả chín muồi hoàn toàn trổ sinh đã khiến ta phải bị đọa sinh vào ấy, và nay ta đã có được một thân người, nhưng dù như thế chúng ta sẽ vẫn phải tiếp tục trải qua kinh nghiệm của quả tương tự với nhân. Thật vậy, trong các cõi thấp cũng có nhiều loại đau khổ khác nhau tương tự với những nguyên nhân đặc biệt. Những kết quả tương tự với nguyên nhân này có hai loại: những hành nghiệp tương ứng với nguyên nhân và những kinh nghiệm tương ứng với nguyên nhân.
+
+2.2.1 Hành nghiệp tương ứng với nguyên nhân
+
+Quả này là một xu hướng thích hợp với những hành vi cùng loại, giống như là nhân lúc ban đầu. Nếu trước đó chúng ta từng sát sinh thì chúng ta vẫn còn thích giết hại; nếu chúng ta đã từng ăn trộm, chúng ta vẫn thích thú khi lấy những gì không được cho; và v.v. Điều này giải thích lý do tại sao, có một số người nào đó ngay từ lúc còn rất nhỏ đã giết tất cả các côn trùng và ruồi muỗi mà họ nhìn thấy. Một khuynh hướng sát sinh như thế tương ứng với những hành vi tương tự mà họ đã thực hiện trong các đời trước. Từ khi mới lọt lòng, mỗi người trong chúng ta hành động hoàn toàn khác biệt nhau, bị dẫn dắt bởi những thôi thúc của nghiệp lực khác nhau. Một số thích giết hại, một số thích ăn trộm, trong khi những người
+
+176
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+khác lại không cảm thấy ham thích những hành vi như thế và thay vào đó họ thích làm việc thiện.
+
+Tất cả những khuynh hướng như vậy là những gì còn sót lại của những hành động trước kia, hay nói khác đi là quả tương tự với nhân. Đó là điều mà tại sao người ta lại nói:
+
+Muốn biết những gì bạn làm trước kia, hãy nhìn bạn bây giờ.
+Muốn biết nơi bạn sắp sinh vào, hãy nhìn những gì bây giờ bạn đang làm.81
+
+Đối với loài vật thì cũng thế. Bản năng của những loài thú như chim ưng và chó sói là giết hại; bản năng của chuột là ăn trộm – trong mỗi trường hợp là một kết quả tương ứng với nguyên nhân, và được tạo nên bởi hành nghiệp trước đây của chúng.
+
+2.2.2 Kinh nghiệm tương ứng với nguyên nhân
+
+Mỗi một hành vi trong mười hành vi bất thiện đều dẫn tới một cặp hậu quả (a pair of effects) cho những kinh nghiệm mà chúng ta phải trải qua sau đó.
+
+Sát sinh. Việc sát sinh ở một kiếp trước không chỉ làm cho thọ mạng của đời hiện tại của chúng ta bị thâu ngắn mà ta sẽ còn thường xuyên bị bệnh tật. Đôi khi có những đứa bé đã chết ngay khi mới sinh ra đời như là quả tương tự với nhân của việc chúng đã từng sát sinh trong một đời quá khứ; trong nhiều kiếp, chúng có thể tiếp tục chết ngay lập tức khi vừa sinh ra đời và cứ lập đi lập lại như vậy. Cũng có những người sống tới tuổi trưởng thành nhưng từ thuở ấu thơ đã bị bệnh tật hành hạ, hết bệnh này tới bệnh kia không ngưng nghỉ cho tới khi chết -- một lần nữa, đó là kết quả của việc giết hại và hành hung những người khác trong một kiếp trước. Đối mặt
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+với những tình huống như vậy, điều quan trọng là phải sám hối với lòng ân hận về những hành động đã làm trong quá khứ, hơn là tìm cách làm dịu đi những khó khăn trước mắt. Chúng ta nên sám hối với lòng hối hận và phát nguyện từ bỏ những hành vi như vậy; và như một cách đối trị với những quả báo của nghiệp cũ, hãy nỗ lực làm những thiện hạnh và từ bỏ những ác hạnh.
+
+Lấy những gì không được cho. Việc trộm cắp trong đời quá khứ không chỉ làm chúng ta nghèo hèn trong đời này mà ta còn có thể phải bị chịu đựng cướp bóc, mất trộm, hoặc những tai họa khác chẳng hạn như là việc kẻ thù và đối thủ của chúng ta chia năm xẻ bảy những món tài sản ít oi mà ta kiếm được. Vì lý do này, bất cứ ai hiện nay đang thiếu thốn tiền bạc hay của cải thì tốt hơn hết là nên tạo ra thậm chí một tia lửa nhỏ công đức còn hơn là bỏ đi lên núi làm giàu. Nếu số phận bạn không giàu có vì bạn ít bố thí trong những đời trước, thì không nỗ lực nào trong đời này có thể giúp bạn được. Hãy xem của cải mà hầu hết những kẻ trộm cướp có được từ mỗi chuyến cướp bóc của họ – thường thì hầu như nhiều hơn những gì bản thân mặt đất có thể giữ được. Tuy nhiên những người sống bằng nghề trộm cướp luôn luôn kết thúc đời mình trong sự đói khát. Cũng hãy chú ý đến những thương nhân hay những kẻ chiếm đoạt tài sản của Tăng Đoàn đã thất thu trong việc kiếm tiền ra sao, cho dù tài sản của họ có lớn tới đâu chăng nữa. Trái lại, những người hiện nay đang được hưởng quả lành của việc bố thí của họ trong quá khứ thì trọn đời họ chẳng bao giờ thiếu thốn của cải, và đối với nhiều người trong số những người này thì mọi việc tốt lành xảy tới mà họ không cần chút xíu nỗ lực nào. Vậy, nếu bạn hy vọng trở nên giàu có, hãy dành hết mọi nỗ lực của bạn để làm việc từ thiện và cúng dường!
+
+Châu Diêm Phù Đề này (Jambudvipa – cõi người) là nơi có thể tạo được những điều kiện đặc biệt 60 dành cho quả báo
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+trổ sinh từ những hành động của ta trong quá khứ, khiến những gì chúng ta làm trong đời khi trước thì về sau có khả năng trổ quả cũng trong đời này – hay thậm chí ngay lập tức nếu những việc ta làm đã được tạo trong những hoàn cảnh đặc thù nào đó. Vì thế dùng tới cách trộm cướp, lừa gạt hay những phương cách khác để lấy đi những gì không được cho với hy vọng làm giàu thì điều này hoàn toàn ngược lại với những gì chúng ta dự định. Nghiệp báo sẽ giam giữ chúng ta trong thế giới ngạ quỷ trong nhiều đại kiếp. Thậm chí cho đến cuối đời này, quả báo sẽ bắt đầu có ảnh hưởng và sẽ làm chúng ta ngày càng nghèo khổ, ngày càng khó khăn. Chúng ta sẽ bị tước mất sự kiểm soát trên một số ít của cải còn sót lại của mình. Cho dù chúng ta giàu có tới đâu, tính tham lam sẽ làm chúng ta càng ngày càng cảm thấy thiếu thốn và mất mát. Của cải của chúng ta sẽ trở thành nguyên nhân của những ác hạnh. Ta sẽ giống như những ngạ quỷ canh giữ kho tàng nhưng không thể sử dụng những gì chúng sở hữu. Hãy để ý kỹ những người bên ngoài có vẻ giàu có. Nếu họ không biết phát triển lòng quảng đại hay bố thí tài sản của họ một cách rộng rãi cho Giáo Pháp – nguồn gốc của hạnh phúc và an lành trong đời này và trong những đời kế tiếp -- hoặc ngay cả họ không biết rộng rãi trong việc mua thực phẩm và quần áo, thì họ thực sự còn nghèo hơn cả những người nghèo khó. Kinh nghiệm tương tự như kiếp ngạ quỷ của họ ngay bây giờ là quả tương tự với nhân, và điều này xảy ra là do việc bố thí bất tịnh của họ trong quá khứ.82
+
+Tà dâm. Ta được biết rằng việc thả mình trong các hành động tà dâm sẽ làm chúng ta có một người vợ (hay chồng) chẳng những không duyên dáng mà còn có lối cư xử phóng đãng hay thù địch nữa. Khi những cặp vợ chồng không thể ngưng tranh cãi hoặc đánh nhau, mỗi người thường đổ lỗi cho những tánh xấu của người kia. Trong thực tế, mỗi người trong những cặp vợ chồng đó đang kinh nghiệm hậu quả tương tự với nguyên nhân,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+là quả báo của sự tà dâm của họ trong quá khứ. Thay vì thù ghét nhau, họ nên nhận ra rằng đó là kết quả của những hành vi bất thiện trong quá khứ của họ và nên nhẫn nhịn lẫn nhau. Ngài Padampa Sangye có nói:
+
+*Gia đình thì thoáng qua như đám đông trong phiên chợ;*
+*Dân chúng xứ Tingri, đừng nên cãi vã hay đánh nhau!*
+
+Nói dối. Kinh nghiệm tương tự với nguyên nhân gây ra từ sự nói dối trong những đời quá khứ là chúng ta không những thường bị chỉ trích hay xem thường mà còn hay bị người khác nói dối ngược lại. Nếu bây giờ bạn bị kết tội và chỉ trích không đúng, thì đó là kết quả của việc bạn đã từng nói dối trong quá khứ. Thay vì nổi giận và lăng mạ những người đã nói những điều như thế về bạn, hãy biết ơn họ vì họ đã giúp bạn làm cạn kiệt những quả báo của nhiều hành động bất thiện. Bạn nên cảm thấy hạnh phúc. Ngài Rigdzin Jigme Lingpa nói:
+
+*Kẻ thù đáp trả việc tốt của bạn bằng việc xấu giúp bạn tinh tấn trong thực hành.*
+*Lời buộc tội sai lầm là một ngọn roi dẫn bạn tới đức hạnh.*
+*Kẻ ấy là vị thầy tiêu diệt tất cả bám chấp và tham dục trong bạn.*
+*Hãy nhìn vào tấm lòng tử tế to lớn của hắn mà bạn không bao giờ có thể đền đáp!*
+
+Gieo mối bất hoà. Kết quả tương tự với nguyên nhân của việc gieo mối bất hoà trong đời trước là không chỉ những người cộng sự và tôi tớ của ta không thể thuận thảo với nhau mà họ còn hay tranh cãi và chống đối chúng ta. Phần nhiều, các vị thị giả của các lạt ma, những người tuỳ viên của các vị lãnh đạo hay những người phục vụ cho chủ nhà, giữa họ lại không hòa thuận với nhau, và tuy nhiều lần được yêu cầu làm việc gì
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+đó, họ từ chối không nghe lời và còn bướng bỉnh tranh cãi. Những kẻ đầy tớ của người bình thường thì giả vờ như không nghe thấy khi được chủ yêu cầu làm những việc vặt, ngay cả những việc dễ làm. Chủ nhà phải lập lại mệnh lệnh hai, ba lần; và sau cùng chỉ khi ông ta nổi giận và nói nặng với họ thì họ mới chịu làm những gì đã được yêu cầu một cách chậm chạp và miễn cưỡng. Ngay cả khi làm xong việc họ cũng chẳng nghĩ tới chuyện quay trở lại báo cho chủ biết. Họ thường ở trong một tâm trạng không tốt. Nhưng người chủ chỉ đang gặt hái kết quả của sự bất hòa mà chính ông đã gieo trong quá khứ. Do đó, ông ta nên hối tiếc những hành vi bất thiện của chính mình, và giải hòa những mối bất đồng của riêng ông và những người khác.
+
+Nói cay nghiệt. Việc nói cay nghiệt trong những đời quá khứ sẽ không chỉ khiến mọi điều người khác nói với chúng ta là những lời công kích và sỉ nhục, mà hơn nữa, kết quả của việc này là mọi điều ta nói ra cũng đều gây nên những sự tranh cãi.
+
+Lời nói cay nghiệt thì tệ hại nhất trong bốn hành vi bất thiện của khẩu. Như tục ngữ có nói:
+
+Lời nói không có cung tên cũng không đao kiếm, nhưng xé rách tâm người ta thành từng mảnh.
+
+Việc đột ngột kích động sự hận thù nơi người khác, hay – còn tệ hơn nữa – thậm chí chỉ nói một lời công kích một bậc hiền thánh sẽ khiến ta phải trải qua nhiều đời trong những cõi thấp mà không có bất kỳ cơ hội nào để giải thoát. Có lần một người bà la môn tên là Kapila lăng mạ những tu sĩ của Đức Phật Ca Diếp (Kasyapa), gọi họ là “đầu ngựa,” “đầu bò” và nhiều tên khác giống như vậy. Ông ta bị tái sinh thành con yêu quái giống-như-cá ở biển với mười tám cái đầu. Ông không thoát khỏi trạng thái đó trong suốt một kiếp và thậm chí sau
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+đó còn bị tái sinh trong địa ngục. Một ni cô gọi một vị ni khác là chó cái, bản thân cô bị tái sinh làm chó cái năm trăm đời. Có nhiều câu chuyện tương tự như thế. Vậy hãy học cách luôn nói năng dịu dàng. Ngoài ra, vì bạn không bao giờ biết được ai là một bậc Thánh hay Bồ Tát, hãy tu tập bản thân để thấy tất cả chúng sinh đều thanh tịnh. Hãy học cách tán thán họ và ca tụng những thành tựu và phẩm hạnh tốt lành của họ. Người ta nói rằng chỉ trích hay nói công kích một vị Bồ Tát thì còn tệ hại hơn việc giết hại tất cả chúng sinh trong tam giới:
+
+Phỉ báng một Bồ Tát là một trọng tội,
+Nặng hơn cả việc giết hại tất cả chúng sinh trong tam giới;
+Tất cả những lỗi lầm lớn nhỏ như thế mà con từng tích lũy, con xin phát lồ sám hối.
+
+Nói chuyện tầm phào vô ích. Kết quả tương tự với nguyên nhân của việc nói chuyện tầm phào vô ích không chỉ làm cho những gì ta nói không có giá trị, mà còn làm chúng ta thiếu cương quyết và tự tin. Không ai tin chúng ta ngay cả khi ta nói sự thật, và chúng ta sẽ thiếu tự tin khi nói trước đám đông.
+
+Tham lam. Hậu quả của sự tham lam không chỉ ngăn trở không cho ta đạt được những gì mong muốn nhất, mà còn gây ra tất cả những tình huống mà ta ít ưa thích nhất.
+
+Mong ước làm tổn hại người khác. Như kết quả của ước muốn làm hại người khác, chúng ta sẽ không chỉ sống trong nỗi sợ hãi liên tục mà sẽ còn phải chịu đựng sự tổn hại thường xuyên.
+
+Tà kiến. Hậu quả của việc nuôi dưỡng tà kiến là chúng ta sẽ không chỉ khăng khăng cố chấp trong những tin tưởng có hại như vậy, mà tâm ta cũng sẽ bị những điều dối gạt và những nhận thức sai lầm làm cho rối loạn.
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+2.3 QUẢ TRỔ SANH NGHIỆP CẢNH
+
+Quả trổ sinh thành nghiệp cảnh là tác động của quả trên môi trường sống của chúng ta. Việc sát sinh đưa đến sự tái sinh vào những nơi hiểm trở, tăm tối, gồm toàn những khe núi và vách đá đầy sự nguy hiểm rình rập. Việc lấy những gì không được cho đưa đến sự tái sinh vào những miền tả tơi nghèo đói, ở đó sương muối và mưa đá hủy diệt các vụ mùa và cây cối không sinh trái quả. Sự tà dâm buộc chúng ta phải sống ở những nơi kinh tởm đầy phân và những chất thải, những đầm lầy, v.v. Việc nói dối sẽ đem tới cho chúng ta vật chất bấp bênh, thường xuyên hoảng loạn thần kinh và hay gặp những sự việc và hoàn cảnh khủng khiếp. Việc nói gây bất hoà khiến chúng ta phải cư trú ở những vùng khó đi lại, bị cắt xẻ với những hẻm núi sâu, những ngọn đèo lởm chởm đá và những nơi tương tự. Việc nói lời cay nghiệt đưa đến sự tái sinh trong một miền đất ảm đạm, toàn đá và gai góc. Việc nói chuyện tầm phào vô ích sẽ khiến ta tái sinh vào miền đất trơ trụi và cằn cỗi, mặc dù làm việc cật lực cũng không sản xuất được gì; thời tiết không thích hợp và không dự đoán được. Tánh tham lam sẽ gây nên những vụ mùa kém cỏi và tất cả những thứ bệnh tật khác tại những nơi chốn và thời đại khó sống. Việc mong muốn làm tổn hại người khác dẫn tới việc tái sinh vào những nơi đầy rẫy sự ghê sợ khủng khiếp với nhiều nỗi khổ khác nhau. Tà kiến khiến tái sinh vào những hoàn cảnh bần cùng không nơi nương tựa hay người che chở.
+
+2.4 QUẢ TĂNG TRƯỞNG LIÊN TỤC
+
+Quả tăng trưởng liên tục là chúng ta sẽ có khuynh hướng lập đi lập lại nhiều lần bất kỳ hành động nào ta đã làm trước đó trong đời trước. Điều này đem lại một chuỗi đau khổ vô tận trong suốt tất cả những đời sau của chúng ta. Khi đó, những
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+hành vi bất thiện của chúng ta sinh sôi nảy nở nhiều hơn nữa và khiến chúng ta phải lang thang vô tận trong luân hồi.
+
+II. NHỮNG THIỆN HẠNH NÊN LÀM (Thập thiện)
+
+Nói một cách tổng quát thì mười hành động tích cực hay thập thiện bao gồm việc sau khi đã hiểu rõ những hậu quả tai hại của ác hạnh, ta hứa nguyện là sẽ dứt khoát không bao giờ phạm phải bất cứ hành động bất thiện nào, chẳng hạn như sát sinh, lấy những gì không được cho và v. v...
+
+Thọ một giới nguyện như vậy trước mặt một vị Thầy hay một vị giáo thọ thì không nhất thiết phải buộc là như vậy; mặc dù bản thân bạn quyết định từ nay sẽ tránh tất cả những việc sát sinh, chẳng hạn thế – hoặc tránh sát sinh ở một nơi đặc biệt hoặc vào những thời điểm đặc biệt, hay tránh giết những súc vật nào đó – thì tự chính điều này đã là một hành vi tích cực rồi. Tuy nhiên, nếu bạn hứa nguyện dưới sự chứng giám của một vị Thầy, một bằng hữu tâm linh hay một biểu tượng của Tam Bảo thì sẽ khiến cho việc hứa nguyện đó trở thành đặc biệt mạnh mẽ.
+
+Việc bạn ngẫu nhiên chấm dứt việc sát sinh hay ngừng làm những hành động bất thiện khác thì chưa đủ. Hãy đếm thử xem đã bao nhiêu lần bản thân bạn hứa nguyện là sẽ tránh làm những ác hạnh, dù cho có điều gì xảy ra chăng nữa. Do đó, ngay cả người thường, không thể hoàn toàn kiêng cữ việc sát sinh, vẫn có thể rút ra được lợi ích to lớn từ việc thọ giới không sát sinh trong một thời kỳ nào đó hằng năm, hoặc là trong tháng giêng là Tháng Huyền Nhiệm; hoặc trong tháng tư, được gọi là Vaisakha – tháng Tam Hiệp (đức Phật đản sinh, thành đạo và nhập diệt cùng một ngày); hoặc vào mỗi ngày rằm hay mồng một, hay trong một năm, tháng hay ngày đặc biệt nào đó.
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Ngày xưa, một người đồ tể trong làng lập một lời nguyện trước sự chứng giám của Ngài Katyayana tôn quý rằng ông sẽ không sát sinh vào ban đêm. Ông ta bị tái sinh vào một trong những địa ngục Cô Độc, ở đó mỗi ngày ông ta bị hành hạ suốt ngày trong một căn nhà bằng kim loại nóng chảy. Nhưng mỗi đêm ông ta lại được nghỉ ngơi thật hạnh phúc và thoải mái trong một cung điện cùng với bốn thiên nữ.
+
+Như vậy, mười thiện hạnh bao gồm việc từ bỏ mười hành vi bất thiện cùng với việc thực hành thập thiện như là những pháp tốt lành để đối trị lại thập ác.
+
+Ba hành vi tốt lành của thân là: (1) từ bỏ sát sinh, thay vào đó là bảo vệ mạng sống của chúng sinh; (2) từ bỏ việc lấy những gì không được cho, và thay vào đó là hành hạnh bố thí (rộng lượng); và (3) từ bỏ sự tà dâm, và thay vào đó là tuân theo những giới luật.
+
+Bốn hành vi tốt lành của khẩu là: (1) từ bỏ việc nói dối, thay vào đó là nói sự thật, (2) từ bỏ việc gieo mối bất hoà; thay vào đó là giải hòa các cuộc tranh luận; (3) từ bỏ việc nói những lời cay nghiệt, thay vào đó nói những lời êm tai; và (4) chấm dứt nói chuyện tầm phào vô ích, thay vào đó là trì tụng những lời cầu nguyện.
+
+Ba hành vi tốt lành của ý là: (1) từ bỏ lòng tham, thay vào đó là học cách bố thí; (2) từ bỏ việc mong muốn làm hại người khác, thay vào đó là nuôi dưỡng ước muốn giúp đỡ họ; và (3) đoạn diệt những tà kiến, thay vào đó củng cố cho mình quan điểm chân chính và xác thực.
+
+Quả chín muồi trổ sinh của những hành vi này là bạn sẽ được tái sinh vào một trong ba cảnh giới cao.
+
+Quả tương tự với nhân, hay với hành vi tạo tác, là bạn sẽ vui thích trong khi làm những thiện hạnh trong tất cả những đời sau, và nhờ đó, công đức của bạn càng ngày càng tăng trưởng.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Quả tương tự với nhân, trên phương diện kinh nghiệm phải trải qua, được mô tả như sau đối với mỗi một hành vi thiện lành trong mười thiện hạnh: đối với việc từ bỏ sát sinh, bạn sẽ có một cuộc đời trường thọ ít bệnh tật; đối với việc từ bỏ trộm cướp, bạn sẽ không bị những kẻ thù hay bị ai cướp đoạt mất tự do, thịnh vượng; đối với việc từ bỏ tà dâm, sẽ có một người được phối ngẫu duyên dáng và ít gặp phải các tình địch; đối với việc từ bỏ nói dối là được mọi người tán thán và thương yêu; đối với việc từ bỏ gieo mối bất hoà là được bạn bè và những người hầu hạ tôn kính; đối với việc từ bỏ những lời nói cay nghiệt, bạn sẽ chỉ nghe những lời êm ái dễ chịu; đối với việc từ bỏ việc nói chuyện tầm phào vô ích, bạn sẽ được người khác lắng nghe một cách nghiêm trang; đối với việc từ bỏ lòng tham muốn, bạn ta sẽ được thoả mãn những ước nguyện; đối với việc từ bỏ những tư tưởng ác hại, bạn sẽ không gặp phải những hoạ hại; và đối với việc từ bỏ các tà kiến thì chánh kiến trong tâm bạn sẽ tăng trưởng.
+
+Quả dẫn đến nghiệp cảnh là, trong mỗi trường hợp bạn làm việc thiện lành, nơi chốn bạn sinh vào sẽ trái ngược lại với nơi chốn của những quả bất thiện: nghĩa là bạn sẽ được sinh vào những nơi có tất cả những hoàn cảnh hoàn hảo nhất.
+
+Quả tăng trưởng liên tục là bất kỳ những thiện hạnh nào bạn làm cũng sẽ được nhân lên gấp bội, đem tới cho bạn sự may mắn không bao giờ dứt...
+
+III. TÍNH CHẤT HOÀN TOÀN QUYẾT ĐỊNH CỦA CÁC HÀNH VI TẠO NGHIỆP
+
+Trong sự muôn màu muôn vẻ không thể nghĩ bàn, những niềm vui và nỗi khổ mà mỗi chúng sinh phải kinh qua – từ những cõi giới cao nhất xuống tới địa ngục sâu thẳm nhất – tất cả những quả vui và khổ ấy cũng chỉ phát sinh từ những hành
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+vi thiện và bất thiện mà mỗi cá nhân đã tích lũy trong quá khứ. Điều này đã được nói đến trong Kinh Bách Nghiệp:
+
+Mọi hoan hỷ và phiền não của chúng sinh
+Đều đến từ những hành nghiệp của họ,
+Đức Phật đã dạy như thế.
+Hành nghiệp đa dạng như thế nào
+Tạo nên chúng sinh đa dạng như thế ấy,
+Và thúc đẩy những cuộc lang thang đa dạng của họ.
+Quả thực mạng lưới của hành nghiệp bao la xiết bao!
+
+Bất kỳ sức mạnh, quyền lực, của cải, hay tài sản nào mà giờ đây có thể chúng ta đang tận hưởng, chẳng có thứ gì trong những thứ ấy đi theo chúng ta khi ta chết. Chúng ta chỉ có thể mang theo những hành vi thiện và ác mà chúng ta đã tạo ra trong đời mình, là những thứ sẽ đẩy chúng ta tới những cảnh giới luân hồi cao hay thấp. Trong Thắng Quân Vương Sở Vấn Kinh, chúng ta đọc được những câu sau đây:
+
+Khi tới lúc phải ra đi, Ôi Bệ Hạ,
+Chẳng có bạn bè, của cải, hay gia đình đi theo được.
+Nhưng cho dù chúng sinh từ đâu đến, và dù họ đi về đâu,
+Hành nghiệp của họ sẽ theo họ như hình với bóng.
+
+Kết quả của những hành vi thiện và bất thiện của chúng ta có thể không biểu hiện ra ngay lập tức và không dễ dàng nhận thấy được, nhưng chúng cũng không hoàn toàn biến mất. Chúng ta sẽ kinh nghiệm quả báo của từng hành vi một khi hội đủ những nhân duyên thích hợp.
+
+Ngay cả sau một trăm kiếp
+Hành nghiệp của chúng sinh sẽ không bao giờ mất đi.
+Khi hội đủ các nhân duyên
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+*Quả hoàn toàn chín muồi sẽ trổ.*
+
+như trong *Kinh Bách Nghiệp* đã nói. Và trong bản văn *Kho Báu Thiện Đức*, chúng ta đọc thấy như sau:
+
+*Khi chim đại bàng cất cánh bay cao vút,*
+*Thời gian trôi qua, chẳng thể nào thấy bóng nó đâu;*
+*Nhưng chim và bóng vẫn còn nối kết.*
+*Hành nghiệp của ta cũng thế:*
+*Khi hội đủ nhân duyên, quả sẽ hiển hiện.*
+
+Khi một con chim cất cánh và bay cao lên bầu trời, cái bóng của nó dường như biến mất. Nhưng điều này không có nghĩa là cái bóng không còn hiện hữu. Sau cùng, bất cứ nơi nào con chim đáp xuống thì ở đó lại có bóng của nó, hoàn toàn sẫm màu và rõ ràng như trước. Tương tự như vậy, cho dù trong chốc lát không thể thấy được những hành vi thiện hay ác của ta trong quá khứ nhưng những hành nghiệp ấy chắc chắn đến một lúc nào đó sẽ quay trở lại với ta vào lúc kết thúc.
+
+Thật vậy, làm sao những điều này lại không xảy đến đối với những người bình thường như chúng ta, khi ngay cả chư Phật và các bậc A La Hán, là những bậc đã thoát khỏi mọi chướng ngại của hành nghiệp và cảm xúc, vẫn còn phải chịu nhận những hậu quả của các hành vi trong quá khứ.
+
+Một ngày nọ, quân đội của Virudhaka, quốc vương xứ Sravasti, tấn công thành phố của bộ tộc Sakya (Thích Ca)* và tàn sát 80.000 người. Vào lúc đó, Đức Phật bị nhức đầu. Khi các đệ tử của Ngài hỏi tại sao có chuyện như thế thì Ngài trả lời:
+
+“Nhiều kiếp trước, những người Sakya đó là ngư phủ sống bằng nghề đánh bắt và ăn nhiều cá. Một hôm họ bắt
+
+* Bộ tộc của Đức Phật, ngày nay sống ở biên giới Ấn Độ và Nepal.
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+được hai con cá lớn, và thay vì giết ngay thì họ lại cột chúng vào một cái cọc. Khi hai con cá bị mắc cạn quằn quại vì đau đớn, chúng nghĩ: “Những người này đang giết chúng ta, mặc dù ta chẳng làm điều gì hại họ. Để báo thù, cầu mong có ngày chúng ta giết được họ, dù họ không làm gì hại ta.” Kết quả ý nghĩ của hai con cá lớn là chúng tái sinh làm vua Virudhaka và tể tướng Matropakara, trong khi tất cả những con cá khác bị ngư phủ giết trở thành quân đội của họ. Ngày nay họ đã tàn sát những người của bộ tộc Sakya.
+
+“Vào lúc đó, ta là con của một trong những ngư phủ đó và ta đã cười vui khi thấy hai con cá bị cột đang quằn quại đau đớn. Hậu quả của hành vi đó là ngày nay ta bị nhức đầu. Nếu ta không thành tựu được những phẩm hạnh ta hiện có, thì ta cũng đã bị quân đội của vua Virudhaka giết.”
+
+Trong một dịp khác, chân của Đức Phật bị thương vì mảnh cây keo 84 – là hậu quả của việc Ngài đã giết hại một chiến sĩ mang giáo đen trong một đời trước khi Ngài là một Bồ Tát.
+
+Trong tất cả các đệ tử Thanh Văn của Đức Phật thì Ngài Mục Kiền Liên (Maudgalyayana) là bậc có oai lực thần thông đệ nhất. Tuy nhiên, Ngài vẫn bị Parivrajikas giết hại, bởi nghiệp lực chiêu cảm của những hành vi trong quá khứ của Ngài. Chuyện xảy ra như sau:
+
+Ngài Xá Lợi Phất (Sariputra) siêu phàm và Ngài Đại Mục Kiền Liên thường du hành đến những thế giới khác như các cõi địa ngục hay ngạ quỷ để làm lợi ích cho chúng sinh ở đó. Một ngày kia, trong lúc ở địa ngục, các Ngài đi ngang một vị thầy ngoại đạo tên là Purnakasyapa bị tái sinh ở đó và phải chịu vô số nỗi đau khổ khác nhau.
+
+Ông ta nói với các Ngài: “Các bậc Tôn Quý, khi các Ngài trở về cõi người, làm ơn nói với những đệ tử trước đây của tôi là đạo sư Purnakasyap của họ đã bị đọa địa ngục. Hãy nói với họ dùm tôi là con đường của các Parivrajika không phải là con
+
+189
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+đường đạo đức. Con đường đạo đức nằm trong giáo lý của Đức Phật Thích Ca. Con đường của chúng tôi thì sai lầm; họ nên từ bỏ nó, hãy học hỏi để đi theo Đức Phật Thích Ca Mâu Ni. Và đặc biệt, xin nói với họ là bất cứ khi nào họ hành lễ cúng dường trước lăng mộ mà họ xây để chứa xương cốt của tôi thì một cơn mưa kim loại nóng chảy lại đổ xuống người tôi. Tôi van các Ngài, xin nói với họ đừng cử hành các lễ cuộc cúng dường như vậy nữa.”
+
+Hai Ngài trở về cõi người. Xá Lợi Phất tới trước tiên và đưa cho những người ngoại đạo thông điệp của vị thầy của họ nhưng vì thiếu những nhân duyên thuộc nghiệp tất yếu nên họ không nghe Ngài. Khi Mục Kiền Liên tới, Ngài hỏi Xá Lợi Phất đã trao cho những người ngoại đạo thông điệp của Purnakasyapa chưa.
+
+“Rồi,” Xá Lợi Phất trả lời, “nhưng họ không nói một lời nào.”
+
+Mục Kiền Liên nói: “Vì họ không hiểu được những gì ông nói, tự tôi sẽ nói với họ.” Và Ngài ra đi để thuật lại với họ những điều Purnakasyapa đã nói.
+
+Nhưng những kẻ ngoại đạo nổi giận: “Không chấp nhận được kẻ sỉ nhục chúng ta, hắn đang chỉ trích Đạo Sư (Guru) của chúng ta!” họ nói. “Hãy đánh hắn!” Họ tấn công Ngài, đánh Ngài mềm người và bỏ Ngài nằm đó.
+
+Cho đến lúc đó, ngay cả một tập hợp tấn công của cả tam giới cũng không thể làm tổn hại tới một sợi tóc trên đầu Ngài Mục Kiền Liên, huống chi là sự đánh đập của những người ngoại đạo. Nhưng vào lúc đó, vì hành nghiệp của quá khứ đè trĩu lên Ngài để cho quả được trổ nên Ngài đành bó tay như bất kỳ một người phàm phu nào khác.
+
+Ngài nói: “Ngay cả việc chỉ suy nghĩ xem làm sao để sử dụng thần thông mà tôi còn không làm được, thì nói chi tới chuyện làm được điều đó,” Ngài Xá Lợi Phất bọc Ngài trong chiếc y và vác Ngài đi.
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Khi họ đi tới Rừng Kỳ Thọ (Rừng Jeta.), Ngài Xá Lợi Phất la lên, “Tôi không thể chịu nổi ngay cả việc nghe tả lại về cái chết của bạn tôi! Làm sao tôi có thể nhìn chuyện đó xảy ra?” và Ngài nhập niết bàn cùng với nhiều vị A La Hán khác. Lập tức sau đó, Ngài Mục Kiền Liên cũng siêu vượt nỗi đau khổ.
+
+Có lần, có một vị tăng sống ở Kashmir tên là Ravati, là người có nhiều đệ tử. Ông ta là một nhà thấu thị và có thần thông. Một ngày nọ, ông đang nhuộm màu vàng nghệ chiếc y tu sĩ của mình trong một khu rừng rậm. Cùng lúc đó, một người thế tục sống gần đó đang tìm con bò đi lạc. Anh ta thấy khói bốc lên từ cánh rừng già bèn đi tới xem chuyện gì xảy ra.
+
+Thấy vị tăng đang đun lửa, anh ta hỏi: “Ông đang làm gì vậy?”
+
+“Tôi đang nhuộm y,” vị tu sĩ trả lời.
+
+Người đàn ông nhấc nắp vạc nhuộm lên và nhìn vào trong.
+
+“Đó là thịt!” anh ta la lên, và quả thực khi vị tăng nhìn vào trong vạc thì cũng thấy là thịt.
+
+Người đàn ông bèn dẫn vị tu sĩ giao cho nhà vua, và nói: “Thưa Ngài, vị sư này ăn trộm con bê của tôi. Hãy trừng phạt ông ta.” Nhà vua đem Ravati quăng vào hầm.
+
+Tuy nhiên vài ngày sau, con bò mẹ của người đàn ông tự tìm thấy ra con bê con đi lạc của nó. Anh ta trở lại gặp nhà vua và nói: “Thưa Ngài, nhà sư này hoàn toàn không ăn trộm bò của tôi; làm ơn thả ông ta ra.”
+
+Nhưng nhà vua đãng trí quên thả Ravati. Suốt trong sáu tháng nhà vua không nhớ gì về việc đó.
+
+Sau đó, một ngày nọ, một nhóm nhiều đệ tử của vị tu sĩ mà bản thân họ đã đạt được thần thông, họ bay trên không gian và hạ xuống trước mặt nhà vua.
+
+“Ravati là nhà sư thanh tịnh và vô tội,” họ nói với nhà vua. “Xin thả Ngài ra.”
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Nhà vua đi thả vị sư, và khi thấy tình trạng suy yếu của Ravati, lòng nhà vua tràn đầy sự hối hận.
+
+“Tôi định đến sớm hơn, nhưng đã để lâu quá,” nhà vua kêu lên, “Tôi đã phạm một tội khủng khiếp.”
+
+“Ngài chẳng làm gì ác cả,” vị sư nói. “Đây hoàn toàn là kết quả những hành nghiệp của riêng tôi.”
+
+“Đó là hành động nào?”, nhà vua hỏi.
+
+“Trong một đời quá khứ, tôi là kẻ trộm, và có lần tôi ăn trộm một con bê. Khi người chủ đuổi theo, tôi bỏ chạy, để lại con bê kế bên một vị Độc Giác Phật đang ngẫu nhiên thiền định trong một bụi cây. Người chủ bắt vị Độc giác Phật ném vào hố trong sáu ngày. Khi hậu quả hành vi của tôi đã hoàn toàn chín muồi, tôi phải trải qua nhiều đời đau khổ trong những cõi thấp. Những đau khổ mà giờ đây tôi vừa chịu đựng trong đời này là đau khổ cuối cùng trong số đó.”
+
+Một ví dụ khác là câu chuyện người con trai của Surabhibhadra,85 một Vua Ấn Độ. Một ngày nọ, hoàng tử được mẫu hậu đưa cho một áo lụa không có đường nối. Hoàng tử không muốn mặc ngay và nói: “Con sẽ mặc vào ngày thừa kế vương quốc.”
+
+“Con sẽ không bao giờ được thừa kế vương quốc,” mẫu hậu nói. “Điều đó chỉ có thể xảy ra khi nào phụ vương con chết. Nhưng phụ vương của con và Thầy Long Thọ (Nagarjuna) có cùng một loại sinh lực,86 như vậy không có khả năng phụ vương chết trong khi Ngài Long Thọ Bồ Tát vẫn còn sống. Và vì Ngài Long Thọ Bồ Tát có năng lực kéo dài thọ mạng của Ngài nên phụ vương của con sẽ không bao giờ chết. Đó là điều tại sao những người anh của con đã chết mà không thừa kế được vương quốc.”
+
+“Vậy con có thể làm được gì?” hoàng tử hỏi.
+
+“Hãy đến gặp Thầy Long Thọ hỏi xin cái đầu của Ngài. Ngài sẽ đồng ý vì Ngài là một Bồ Tát. Ta thấy không còn giải pháp nào khác.”
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Hoàng tử tới gặp Long Thọ Bồ Tát và hỏi xin cái đầu của Ngài. “Hãy cắt lấy nó và đem đi,” Đạo sư nói. Hoàng tử dùng kiếm chém vào cổ Ngài Long Thọ Bồ Tát. Nhưng không có chuyện gì xảy ra. Như thể lưỡi kiếm của hoàng tử chặt vào không khí.
+
+“Vũ khí không thể làm tổn thương ta,” Đạo sư giải thích, “vì năm trăm đời trước ta đã hoàn toàn tự tịnh hóa tất cả những quả hoàn toàn chín muồi của việc sử dụng vũ khí. Tuy nhiên, có một ngày ta đã giết một côn trùng khi cắt cỏ kusa. Hậu quả chín muồi của hành động đó chưa cắt được đầu ta, vậy nếu người dùng cỏ kusa làm kiếm thì người có thể cắt được đầu ta.”
+
+Vì vậy, hoàng tử nhổ một lá cỏ kusa và cắt đầu Ngài Long Thọ. Đầu liền rơi xuống đất. Ngài Long Thọ nhập Niết Bàn và hát:
+
+Bây giờ ta rời bỏ thế gian để đến cõi Cực Lạc;
+ Sau này, ta sẽ quay lại ngay chính trong thân này.87
+
+Nếu ngay cả những con người phi thường như vậy vẫn còn phải kinh nghiệm quả báo của những hành vi trong quá khứ của các Ngài thì làm thế nào chúng ta - là những kẻ mà những hành động bất thiện, hoàn toàn không thể tính đếm, đã được tích lũy từ vô thủy trong những cuộc lang thang của chúng ta qua các cõi của luân hồi – lại có thể hy vọng giải thoát khỏi luân hồi trong khi chúng ta vẫn còn tích lũy ác hạnh? Ngay cả việc thoát ra khỏi những cõi thấp cũng cực kỳ khó khăn. Vậy, bằng mọi giá, chúng ta hãy tránh làm những hành động xấu ác nhỏ bé nhất dù chỉ trong phút giây, và chuyên chú làm bất kỳ điều gì tốt lành mà chúng ta có thể làm, cho dù những điều tốt lành ấy có vẻ tầm thường vô nghĩa. Chừng nào chúng ta còn chưa nỗ lực tinh tấn, thì mỗi một khoảnh khắc của ác hạnh sẽ tiếp tục dẫn dắt chúng ta đọa xuống những cõi thấp trong nhiều kiếp. Đừng bao giờ xem
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+thường những hành động xấu ác dù nhỏ nhặt nhất, và cho rằng chúng không thể gây tổn hại lớn lao. Như Bồ Tát Tịch Thiên (Santideva) có nói:
+
+*Ác hạnh, dù chỉ trong khoảng khắc*
+*Cũng đủ dẫn tới một kiếp trong địa ngục A-Tì,*
+*Bao ác hạnh tôi đã từng tạo từ vô thủy –*
+*Chẳng cần nói cũng biết, chúng ngăn cản không cho tôi*
+*đến được các cõi cao!*
+
+Và trong Kinh Hiền Ngu, chúng ta thấy có nói:
+
+*Đừng xem thường ác hạnh dù nhỏ bé,*
+*Và tin rằng chúng không tác hại:*
+*Ngay cả một tia lửa nhỏ xíu,*
+*Cũng có thể thiêu rụi một núi cỏ.*
+
+Tương tự như thế, ngay cả những thiện hạnh nhỏ bé nhất cũng đem lại lợi ích to lớn. Chớ có xem thường, đừng cho rằng những thiện hạnh nhỏ bé là việc không đáng làm.
+
+Trong một đời quá khứ, vua Mandhatri là một người nghèo khó. Một ngày nọ, trên đường đi dự một đám cưới với một nắm đậu trong tay, ông gặp Đức Phật Ksantisarana đang du hành qua làng. Được thúc đẩy bởi lòng sùng kính mãnh liệt, ông tung nắm đậu vào Ngài. Bốn hạt đậu rơi vào bình bát và hai hạt khác chạm vào ngực Ngài. Việc trổ quả của hành động này khiến ông tái sinh làm đại đế cai trị châu Diêm Phù Đề. Vì bốn hạt đậu rơi vào bình bát của Phật nên ông được cai trị bốn trung châu trong tám vạn năm. Bởi một trong hai hạt đậu chạm vào tim Phật, ông trở thành Hoàng Đế cai quản cảnh giới của Tứ Thiên Vương trong tám vạn năm khác; và do hạt đậu thứ hai, ông được liên tiếp chia đồng đều chủ quyền
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+với ba mươi bảy vị Trời Đế Thích trên cung Trời thứ Ba Mươi Ba.
+
+Người ta có nói ngay cả quán tưởng Đức Phật và tung một đoá hoa vào hư không cũng dẫn tới việc bạn được chia vương quyền của Vua Trời Đế Thích trong một thời gian dài khó tưởng tượng nổi. Đây là điều tại sao Kinh Hiền Ngu nói:
+
+*Không làm những thiện hạnh nhỏ bé,*
+*Vì tin rằng chẳng lợi lạc gì:*
+*Tuần tự từng giọt nước một*
+*Khi đến lúc,*
+*Có thể làm đầy một hồ lớn.*
+
+Và Kho Báu Thiện Đức có nói:
+
+*Từ những hạt giống không lớn hơn hạt mù tạt,*
+*Mọc thành những cây ashota bát ngát*
+*Chỉ trong một năm*
+*Có thể vươn cành rộng hàng lý.*
+*Sự tăng trưởng của thiện và ác*
+*Thậm chí còn nhanh hơn thế.*
+
+Hạt của cây ashota không lớn hơn hạt cây mù tạt, nhưng cây ashota thì phát triển nhanh tới nỗi cành lá của chúng lớn hàng lý chỉ trong một năm. Tuy nhiên ngay cả hình ảnh này cũng chưa đủ mô tả sự lớn mạnh khủng khiếp của những hành vi thiện và ác.
+
+Cũng thế, dù phạm phải giới luật nhỏ bé nhất cũng gây nên những điều xấu ác to lớn. Một ngày kia Long Vương Elapatra đội lốt một vị Chuyển Luân Thánh Vương và đến gặp Đức Phật.
+
+Đức Phật khiển trách: “Sự tổn hại mà người tạo ra cho giáo lý của Đức Phật Ca Diếp (Kasyapa) đối với người còn chưa đủ
+
+195
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+hay sao mà bây giờ lại còn muốn làm tổn hại giáo lý của ta? Hãy hiện nguyên hình mà lắng nghe Giáo Pháp!”
+
+“Nếu làm như vậy, nhiều người sẽ hại con,” Long Vương trả lời; vì thế Đức Phật bèn đặt Long Vương dưới vòng gia hộ của đức Kim Cương Thủ (Vajrapani), Long Vương bèn biến thành một con rắn khổng lồ dài vài lý (một lý khoảng 4,8km). Trên đầu rắn mọc một cây *elapatra* lớn, đè bẹp con rắn với sức nặng của nó, rễ cây nhung nhúc côn trùng chúng làm cho con rắn đau đớn khủng khiếp.
+
+Đức Phật hỏi tại sao Long Vương lại như thế này, Long Vương trả lời rằng, “Xưa kia, vào thời đại giáo lý của Đức Phật Ca Diếp (Kasyapa), khi ấy con là một tu sĩ. Một hôm áo của con bị vướng vào một cây *elapatra* lớn mọc bên đường và bị kéo tuột ra. Con giận dữ điên cuồng và liền phạm giới luật,⁸⁸ con đã đốn ngã thân cây. Những gì Ngài thấy hôm nay là hậu quả của hành vi đó.”
+
+Đối với tất cả những hành vi thiện hay ác, động cơ thúc đẩy (tác ý) là yếu tố quan trọng nhất để quyết định những hành vi ấy mang tính chất thiện hay bất thiện, nặng hay nhẹ. Điều này cũng giống như một cái cây: nếu rễ của nó có dược tính, thì thân và lá của nó cũng sẽ có dược tính. Nếu rễ độc hại thì thân và lá cũng độc. Lá thuốc không thể phát triển từ một rễ độc. Tương tự, nếu một động cơ (hay tác ý) phát triển từ sự kích động hay bám chấp, và do đó không hoàn toàn thanh tịnh, thì hành vi theo sau bắt buộc phải tiêu cực, mặc dù mang vẻ tích cực. Trái lại, nếu động cơ thanh tịnh, thì cho dù hành vi có vẻ tiêu cực nhưng trong thực tế lại là tích cực. Trong Kho Báu Thiện Đức có nói:
+
+Nếu rễ là thuốc thì đọt mầm cũng thế.
+Nếu rễ độc thì khỏi cần nói, đọt mầm cũng độc.
+Điều làm cho một hành vi thành thiện hay ác không phải ở chỗ bề ngoài ra sao
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Hoặc kích thước thế nào, mà dựa trên động cơ phía sau là tốt hay xấu.
+
+Vì lý do này, thậm chí đã có thời chư vị Đại Bồ Tát, những bậc Trưởng Tử của các Đấng Chiến Thắng, được phép vi phạm bảy hành vi bất thiện của thân và khẩu với điều kiện là tâm của các Ngài thanh tịnh và thoát khỏi mọi tham muốn ích kỷ. Điều này được minh họa bằng những ví dụ của Thuyền Trưởng Đại Bi Tâm giết Chiến sĩ Giáo Đen, hay của thanh niên bà la môn Tình Nhân Thiên Tú đã phạm giới hạnh với một thiếu nữ bà la môn.
+
+Có lần, trong một đời trước, Đức Phật là một thuyền trưởng tên là Đại Bi Tâm. Ngài đang vượt biển với năm trăm thương nhân thì tên cướp biển ác độc tên là Chiến Sĩ Giáo Đen xuất hiện, đe dọa giết tất cả mọi người. Thuyền trưởng nhận thấy những lái buôn này đều là những vị Bồ Tát* không còn phải trở lại luân hồi, và nếu một người nào đó giết họ thì người ấy sẽ phải chịu đau khổ trong địa ngục trong vô số kiếp. Được thúc đẩy bởi một cảm xúc bi mẫn mãnh liệt, Ngài nghĩ: “Nếu ta giết hắn, hắn sẽ không phải xuống địa ngục. Do đó ta chẳng còn chọn lựa nào khác, dù rằng điều đó có nghĩa là chính ta phải đọa địa ngục.” Với lòng can đảm phi thường, Ngài đã giết tên cướp biển, và khi làm hành động này Ngài đã tích tập được một lượng công đức tương đương với công đức tích tập trong bảy mươi ngàn kiếp theo cách bình thường. Nhìn bề ngoài của việc làm đó thì đây là một ác hạnh, bởi Bồ Tát đang phạm vào hành vi sát sinh. Nhưng điều ấy đã được thực hiện mà không có chút động cơ ích kỷ nào. Nhìn gần, việc ấy cứu mạng sống của 500 người lái buôn. Và trong phạm vi xa rộng hơn thì việc ấy cứu Chiến Sĩ Giáo Đen khỏi phải chịu đau
+
+* Các Bồ Tát là những bậc đã đạt tới một quả vị mà ở đó các Ngài không còn bị bắt buộc phải quay trở lại vòng luân hồi nữa.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+khổ trong địa ngục. Vì vậy, trên thực tế thì hành động đó chính là một thiện hạnh vô cùng mạnh mẽ.
+
+Lại có một người bà la môn tên là Tình Nhân Thiên Tú sống lâu năm trong rừng, giữ giới nguyện trong sạch. Một ngày nọ, anh ta đi khất thực trong một ngôi làng. Một thiếu nữ bà la môn thất tình với anh, tuyệt vọng tới nỗi sắp tự tử. Được thúc đẩy bởi lòng bi mẫn đối với cô ta, chàng thanh niên đã cưới cô, và hành động này đã đem lại cho anh bốn mươi ngàn kiếp công đức.
+
+Đối với những người như vậy thì việc giết hại hay phá vỡ giới nguyện trong sạch được cho phép. Trái lại, những hành vi tương tự nhưng lại làm với động cơ ích kỷ do bởi sự tham dục, sân hận hay vô minh thì đều không được phép đối với bất kỳ ai.
+
+Một Bồ Tát với tâm rộng lớn bao la, không một dấu vết tham dục cá nhân, cũng có thể lấy trộm của những người giàu mà keo kiệt, và nhân danh họ, cúng dường của cải cho Tam Bảo hay cho những người nghèo túng.
+
+Việc nói dối để che chở người nào đó sắp bị giết, hay để bảo vệ tài sản thuộc về Tam Bảo thì cũng được cho phép làm. Nhưng lừa dối người khác vì lợi lạc của mình thì không bao giờ là điều đúng đắn...
+
+Việc gieo sự bất hoà, chẳng hạn như giữa hai người bạn thân – trong đó có một người chuyên làm điều xấu trong khi người kia yêu thích làm việc tốt lành – thì điều này cũng được cho phép, đó là nếu có nguy cơ tính khí mạnh mẽ của người xấu sẽ làm hư hỏng người tốt. Tuy nhiên, tuyệt đối không được phép chia rẽ hai người đang hoà thuận với nhau.
+
+Lời nói cay nghiệt có thể được dùng, ví dụ thế, như một phương tiện mạnh mẽ hơn để đem Giáo Pháp tới với những người mà cách răn dạy mềm mỏng không tạo được ấn tượng cho họ – hoặc có thể dùng khi cần răn dạy một đệ tử nhằm phô bày lỗi lầm tiềm ẩn của anh ta. Như Ngài Atisa có nói:
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Vị Thầy tốt nhất là người tấn công vào những lỗi lầm tiềm ẩn của bạn;
+Giáo huấn tuyệt hảo nhất là lời chỉ dạy nhắm thẳng tới những lỗi lầm tiềm ẩn ấy.
+
+Tuy nhiên, nói lời cay nghiệt chỉ để sỉ nhục người khác thì không được cho phép.
+Nói chuyện phiếm vô ích có thể được sử dụng như một phương tiện để giới thiệu Giáo Pháp cho những người thích trò chuyện và những người mà ta không có cách nào khác đem Giáo Pháp lại cho họ. Nhưng hoàn toàn không được dùng chuyện phiếm để làm cho chính mình và những người khác bị xao lãng.
+
+Đối với ba hành vi bất thiện của ý thì không ai được phép vi phạm, bởi đứng về mặt của động lực (tác ý) thì không có cách nào để chuyển hoá những động cơ này thành động cơ tốt lành. Một khi tư tưởng xấu ác đã khởi lên, thì việc ấy sẽ luôn luôn phát triển thành một điều gì đó không tốt lành.
+
+Tâm thức là người duy nhất khởi xướng điều tốt và điều xấu. Có nhiều trường hợp khi những tư tưởng khởi lên trong tâm, cho dù chúng không được chuyển hoá thành lời nói hay hành động thì vẫn có một hậu quả tốt hay xấu hết sức mạnh mẽ trổ ra. Vì thế, hãy luôn luôn kiểm soát tâm bạn. Nếu tư tưởng của bạn tốt lành, hãy hoan hỷ và làm nhiều điều tốt lành hơn nữa. Nếu chúng tiêu cực, hãy sám hối lập tức, cảm thấy xấu xa và tủi hổ rằng bạn vẫn còn nuôi dưỡng những tư tưởng như vậy mặc dù đã tiếp nhận mọi giáo lý, và hãy tự nhủ từ giờ trở đi bạn phải nỗ lực hết sức không để cho những tư tưởng như thế xuất hiện trong tâm. Ngay cả khi bạn làm điều thiện, hãy quán sát động lực (tác ý) của bạn thật kỹ lưỡng. Nếu ý hướng của bạn tốt, hãy thực hiện điều bạn suy nghĩ. Nếu động cơ của bạn là để gây ấn tượng cho mọi người, hoặc
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+được đặt trên nền tảng của sự ganh đua hay khao khát danh vọng thì hãy cương quyết chuyển hóa tác ý để cho tác ý ấy được thấm đẫm Bồ Đề Tâm. Nếu bạn hoàn toàn không chuyển hoá được động cơ thúc đẩy bạn, thì tốt hơn hết là bạn nên trì hoãn không nên thực hiện việc thiện lành đó.
+
+Một ngày nọ, Geshe đang mong đợi một nhóm đông thí chủ của Ngài tới thăm. Sáng hôm đó, Ngài sắp xếp đồ cúng dường trên bàn thờ trước hình tượng của Tam Bảo hết sức ngăn nắp. Khi quán sát động cơ thúc đẩy mình, Ngài nhận ra là chúng không thanh tịnh, và điều Ngài đang làm chỉ là để tạo sự chú ý cho các vị tín chủ hảo tâm của Ngài; vì thế Ngài hốt một nắm đất và ném lên toàn bộ các thức cúng dường, Ngài nói: “Này ông Tỳ Khưu, hãy ở yên ở đó và đừng có màu mè!”
+
+Khi Padampa Sangye nghe được chuyện này, Ngài nói: “Trong cả xứ Tây Tạng, nắm bụi mà Ben Kungyal ném là món cúng dường tuyệt hảo nhất!”
+
+Vì thế, hãy luôn cẩn trọng canh chừng tâm của bạn. Ở trình độ của chúng ta, là những người tầm thường, ta không thể không có những tư tưởng và hành động bị thôi thúc bởi những động cơ xấu ác. Nhưng nếu chúng ta có thể lập tức nhận ra điều sai lầm, rồi sám hối và nguyện không tái phạm nữa thì chúng ta sẽ cắt đứt mối ràng buộc với động cơ xấu ác.
+
+Một ngày khác, Geshe Ben đang ở nhà của một vài tín chủ. Lúc gia chủ ra khỏi phòng, Geshe Ben nghĩ: “Ta không còn trà. Ta sẽ lấy trộm một ít để nấu khi trở về thiền thất.”
+
+Nhưng lúc đặt tay vào túi trà của họ, đột nhiên Ngài nhận ra điều mình đang làm và lên tiếng gọi các tín chủ lại: “Hãy lại đây nhìn xem tôi đang làm gì! Chặt tay tôi đi!”
+
+Ngài Atisa nói: “Từ khi thọ giới nguyện Biệt Giải Thoát (Pratimoksa), ta chưa từng bị ô nhiễm ngay cả bởi một lỗi lầm nhỏ nhất. Trong khi thực hành giới luật Bồ Đề Tâm, ta đã vi phạm một hay hai lỗi nhỏ bé. Và từ khi thọ giới của Kim
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Cương Mật Thừa, mặc dù thỉnh thoảng còn vấp ngã, nhưng ta không để những lỗi lầm hay những sa sút này lưu lại trong ta quá một ngày.”
+
+Khi đi du hành, ngay khi khởi lên bất kỳ niệm xấu nào trong tâm, Ngài lấy đế mạn đà la bằng gỗ⁸⁹ luôn mang theo trong người ra và sám hối tư tưởng xấu của mình, nguyện rằng không bao giờ tái phạm.
+
+Một ngày nọ, Geshe Ben đang tham dự một hội chúng đông đảo gồm các vị tiến sĩ Phật Học tại Penyulgyal. Một lát sau món sữa đông được mang ra mời khách. Geshe Ben ngồi ở một hàng giữa và nhận thấy những vị tăng ngồi ở hàng đầu nhận được khẩu phần lớn.
+
+“Món sữa đông trông thật ngon lành,” Ngài tự nghĩ, “nhưng ta không nghĩ mình sẽ được phần tốt như thế.”
+
+Ngay lập tức Ngài tự nhận ra: “Mi ghiền sữa đông chua rồi!” Ngài nghĩ thế, và lật úp bình bát của mình. Khi người có nhiệm vụ phân phối sữa tới hỏi Ngài có muốn dùng không thì Ngài từ chối.
+
+“Tâm thức xấu xa này đã có một phần ăn rồi.” Ngài nói.
+
+Mặc dù hoàn toàn không có gì sai trái khi muốn được nhận phần bằng nhau của bữa tiệc cùng những vị tu sĩ thanh tịnh khác, nhưng chính tánh tự cho mình là quan trọng trong tư tưởng mong cầu được nhận món sữa chua ngon lành đã khiến Ngài từ chối nó.
+
+Nếu bạn luôn quán sát tâm bạn như vậy, tuân theo những gì lành mạnh và từ bỏ những gì độc hại, tâm bạn sẽ nhu nhuyễn và mọi tư tưởng của bạn sẽ trở nên tốt lành.
+
+Ngày xưa, có một người bà la môn tên là Ravi, là người luôn kiểm soát tâm mình. Bất cứ khi nào một niệm xấu khởi lên, ông để một viên sỏi đen sang một bên và khi khởi lên một niệm tốt, ông đặt một viên sỏi trắng. Thoạt tiên, tất cả đều là những hòn sỏi đen. Sau đó, khi ông kiên trì trong việc phát triển các pháp đối trị và làm những thiện hạnh, từ bỏ những ác
+
+201
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+hạnh, một thời gian sau, số lượng sỏi trắng và đen bằng nhau. Cuối cùng thì ông có toàn sỏi trắng. Đây là cách thức bạn nên phát triển hành động tốt lành như một phương pháp đối trị, cùng với sự tỉnh thức và cảnh giác, và chớ làm ô nhiễm bản thân ngay cả bằng những hành động bất thiện nhỏ bé nhất.
+
+Cho dù bạn không tích tụ những hành vi bất thiện trong đời này, bạn cũng không thể thấu biết được sự rộng lớn của tất cả những hành động mà bạn từng tích lũy trong vòng luân hồi vô thủy, hoặc không thể hình dung ra được hậu quả của những ác hạnh mà bạn phải trả quả. Vì thế có những người mặc dù giờ đây hoàn toàn hiến mình cho đức hạnh và tu tập tánh Không, nhưng họ vẫn tràn đầy đau khổ. Có những quả không trổ sanh lập tức mà ngủ ngầm, chờ ngày đưa đến việc trổ sanh trong những cõi thấp. Nhưng những quả thuộc loại hậu nghiệp này lại xuất hiện nhờ vào những pháp tu đối trị mà họ áp dụng trong cuộc đời để giúp cho những quả ấy trổ ngay trong đời này. *Kinh Kim Cương* có nói:
+
+Các vị Bồ Tát hành trì trí tuệ bát nhã siêu việt vẫn bị đau khổ – quả thực, họ sẽ bị đau khổ khủng khiếp – bởi những hành nghiệp trong quá khứ, thay vì sẽ gây đau khổ trong những đời sau, thì đã trổ quả ngay trong đời này.
+
+Ngược lại, có những người chỉ làm ác hạnh mà vẫn kinh nghiệm được ngay lập tức kết quả của một vài thiện hạnh; những thiện hạnh này, lẽ ra phải chờ thêm một thời gian lâu sau mới trổ. Điều này đã xảy ra trong xứ Aparantaka. Một trận mưa toàn đá quý đã đổ xuống trong bảy ngày liền, sau đó bảy ngày mưa quần áo, và bảy ngày nữa mưa ngũ cốc. Cuối cùng là một trận mưa đất. Mọi người đều bị đè chết và bị tái sinh trong địa ngục.
+
+Những tình huống như thế, khi người làm tốt phải chịu đau khổ, người làm ác lại hưởng sự thành công thịnh vượng, là
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+những tình huống luôn luôn xảy ra như là nghiệp báo của những hành vi đã làm trong quá khứ. Hành động hiện nay của bạn, dù xấu hay tốt, sẽ đem đến quả trổ sanh trong đời kế tiếp hay những đời sau nữa. Vì lý do này, thật là điều hết sức cần thiết để phát triển một lòng tin vững chắc vào nghiệp báo là cái gì không thể nào tránh khỏi của những hành động mà bạn đã tạo tác và luôn luôn hành sử một cách phù hợp.
+
+Không nên sử dụng loại ngôn ngữ Phật Học của những kiến giải của chân lý tối hậu (tánh Không) để xem thường luật nhân quả. Đạo Sư Vĩ Đại xứ Oddiyana đã nói:
+
+Hỡi Đại Vương, trong Mật Thừa của tôi, kiến (cái Thấy) là điều quan trọng nhất. Tuy nhiên, đừng để hành động của Ngài sa sầy theo chiều hướng của cái thấy. Nếu làm như vậy, Ngài sẽ rơi vào tà kiến của ma quỷ, sẽ bày trò phiếm luận rằng thiện thì không mà ác cũng không. Nhưng cũng đừng để cái thấy của Ngài sa sầy theo chiều hướng của những hành động tạo tác, nếu không, Ngài sẽ bị mắc kẹt vào duy vật và hệ tư tưởng giáo điều,* và như vậy, thì giải thoát sẽ không bao giờ tới.
+
+...
+
+Đó là điều tại sao cái thấy của tôi cao hơn bầu trời, mà sự chú tâm của tôi dành cho mọi hành động tạo tác và cho kết quả của những hành động tạo tác ấy thì còn tinh nhuyễn hơn cả bột mì.**
+
+*dngos po dang mtshan ma, nghĩa đen: vật chất và các đặc tánh của vật chất. Điều này có nghĩa là ta sẽ không bao giờ vượt được khỏi những khái niệm tạo tác.
+
+**zhib có nghĩa là mịn (như bột mì) và cũng có nghĩa là vô cùng tỉ mỉ, chính xác.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Vậy, cho dù trong cái thấy, bạn có hoàn toàn chứng ngộ được bản tánh của thực tại như thế nào chăng nữa thì bạn cũng phải hết sức chú tâm tới những hành vi của bạn và kết quả của những hành vi ấy.
+
+Có lần, có một người hỏi Ngài Padampa Sangye rằng: “Một khi chúng ta đã chứng ngộ tánh Không, việc phạm những ác hạnh có còn tác hại chúng ta hay không?”
+
+“Một khi các ông chứng ngộ tánh Không,” Ngài Padampa Sangye trả lời, “thì thật là vô lý khi làm việc bất thiện. Khi các ông chứng ngộ tánh Không thì lòng đại bi xuất hiện hết sức tự nhiên cùng lúc với tánh Không.”
+
+Do đó, nếu bạn muốn hành trì Giáo Pháp một cách đích thực, bạn nên dành ưu tiên chọn làm những việc gì phù hợp với luật nhân quả. Cái thấy (kiến) và hành động phải được nuôi dưỡng song hành với nhau. Dấu hiệu cho thấy bạn đã thấu suốt giáo lý về nghiệp quả phải giống như Ngài Jetsun Milarepa đã thấy.
+
+Một ngày nọ, một đệ tử hỏi Ngài: “Thưa Ngài Jetsun, mọi hành vi chúng con thấy Ngài làm đều vượt lên sự hiểu biết của những người bình thường. Ngài Jetsun tôn quý, phải chăng ngay từ lúc khởi đầu, Ngài đã là một hoá thân của Đức Kim Cương Trì (Vajradhara), hay của một vị Phật hoặc Bồ Tát?”
+
+“Nếu các con coi ta là một hoá thân của Đức Kim Cương Trì, hay của một vị Phật hoặc Bồ Tát,” Ngài Jetsun trả lời, “thì điều này cho thấy các con có lòng tin nơi Ta – nhưng tuy vậy, các con khó có thể nào có được một cái thấy nào sai lầm to tát hơn là như thế về Giáo Pháp! Khởi đầu, ta đã chất chồng những hành động cực kỳ ác hại, sử dụng chú thuật và tạo ra mưa đá. Ta cũng sớm nhận ra rằng mình không có cách nào thoát khỏi cảnh đọa sinh vào địa ngục. Vì thế, ta đã thực hành Giáo Pháp với lòng nhiệt thành không ngơi nghỉ. Nương vào những phương pháp sâu xa của Mật Thừa, ta đã phát triển
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+được những phẩm tính đặc biệt trong chính ta. Giờ đây, nếu các con không thể phát triển bất kỳ quyết tâm chân thực nào để thực hành Giáo Pháp, thì đó là vì các con không tin vào luật nhân quả. Bất cứ ai với chút ít quyết tâm, có thể phát triển lòng dũng cảm như ta đã làm nếu họ có được sự xác tín chân thật và chân thành tin tưởng vào nghiệp báo của những hành vi của họ. Khi đó, họ sẽ đắc được những quả vị thành tựu tương tự như ta – và rồi, người khác cũng sẽ nghĩ rằng những kẻ ấy là hiện thân của Đức Kim Cương Trì, hay của một vị Phật hoặc Bồ Tát nào khác.”
+
+Chính niềm tin vào nhân quả của Jetsun Milarepa đã hoàn toàn thuyết phục Ngài rằng khi đã phạm phải những ác hạnh trong thời niên thiếu thì chắc chắn Ngài sẽ bị đoạ sinh trong cõi địa ngục. Do lòng xác tín này, Ngài đã miên mật tu tập với một sự quyết tâm khó tìm thấy được trong bất kỳ câu chuyện nào ở Ấn Độ hay Tây Tạng – không có câu chuyện nào có thể so sánh được với câu chuyện kể về những thử thách và nỗ lực miên mật của Ngài.
+
+Như vậy, tận đáy lòng bạn, hãy khơi dậy lòng xác tín nơi điểm cực kỳ trọng yếu này, là nguyên lý nhân quả. Hãy luôn luôn thực hiện càng nhiều càng tốt các thiện hạnh bất cứ khi nào bạn có thể thực hiện được, cho dù chúng nhỏ bé tới đâu chăng nữa; trong khi thực hiện các thiện hạnh này thì phải áp dụng ba phương tiện thiện xảo tối thượng.* Hãy tự hứa là sẽ không bao giờ lặp lại những hành vi xấu ác tiêu cực cho dù nhỏ bé nhất và cho dù mạng sống của bạn bị đe dọa đi chăng nữa.
+
+Khi thức giấc vào buổi sáng, đừng bất thần nhảy xuống giường như con bò hay cừu phóng ra khỏi chuồng của nó. Trong lúc vẫn còn ở trên giường, hãy thư giãn tâm thức bạn, xoay nhìn vào trong tâm và quán sát tâm ấy thật kỹ càng. Nếu bạn đã làm bất kỳ điều bất thiện nào vào ban đêm trong giấc
+
+* Xem Phần Một, Chương Một, Mục II, tiết 4.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+mộng thì hãy ân hận và sám hối. Trái lại, nếu bạn làm điều gì đó tốt lành thì hãy hoan hỷ và hồi hướng công đức để đem đến lợi lạc của tất cả chúng sinh. Hãy khơi dậy Bồ Đề Tâm, và nghĩ rằng: “Hôm nay tôi sẽ làm bất cứ hành động tốt lành, tích cực nào mà tôi có thể làm được, sẽ hết sức tránh bất kỳ hành động tiêu cực hay xấu ác nào, khiến cho tất cả chúng sinh vô biên đều đạt được Phật Quả viên mãn.”
+
+Buổi tối, lúc đi ngủ, đừng vội rơi vào trạng thái vô giác. Hãy sử dụng chút ít thời gian để thư giãn trên giường và quán sát chính mình trong cách thức tương tự như trên: “Ta đã vận dụng ngày hôm nay như thế nào? Ta đã có làm điều gì tốt lành không?” Nếu bạn đã thực hiện một số điều thiện lành thì hãy hoan hỷ và hồi hướng công đức để tất cả chúng sinh để họ đều đạt được Phật quả. Nếu bạn làm điều gì sai, bạn nên nghĩ: “Thật là tồi bại! Ta đã vừa tự hủy hoại chính mình!” Hãy sám hối việc làm đó và nguyện không bao giờ tái phạm.
+
+Trong mọi lúc, hãy tỉnh thức và cảnh giác để không bám chấp vào những nhận thức về vũ trụ và về tất cả những chúng sinh sống ở trong đó như là thực có và đặc chắc. Hãy tu tập bản thân để nhìn mọi sự như trò nô đùa của những màn huyễn hoá. Hãy làm cho tâm bạn nhu nhuyễn bằng cách luôn gìn giữ tâm ấy trên một tiến trình tốt lành và chân thật. Đây chính là mục tiêu cũng như kết quả của những gì mà ta đã giảng giải, đó là việc thực hành bốn pháp chuyển tâm để không còn đắm nhiễm luân hồi. Theo các pháp này thì tất cả những thiện hạnh bạn làm sẽ tự động kết nối với ba phương tiện thiện xảo tối thượng. Như có câu nói rằng:
+
+Người làm việc thiện cũng giống như cây dược thảo;
+Ai nương cậy vào anh ta cũng đều được lợi lạc.
+Người làm điều ác thì giống như cây tẩm độc;
+Ai nương cậy vào hắn cũng đều bị hủy hoại.
+
+IV. NGHIỆP: LUẬT NHÂN QUẢ
+
+Nếu bản thân bạn có tâm thái đúng đắn, bạn sẽ có thể chuyển tâm của tất cả những ai liên hệ với bạn$^{91}$ hướng về Giáo Pháp chân thật. Vô lượng công đức cho chính bạn và người khác sẽ gia tăng không bờ bến. Bạn sẽ không bao giờ còn tái sinh vào những cõi thấp, là nơi mà viễn ảnh của bạn ngày càng tệ mạt hơn, và bạn sẽ luôn luôn có những nhân duyên đặc biệt để có được một cuộc đời sinh ra trên cõi Trời hay trong cõi người. Ngay cả những miền đất nào là nơi trú ngụ của những vị trì giữ một giáo lý như thế thì vùng đất ấy cũng sẽ có được phước báu, có được sự may mắn và sẽ luôn luôn được chư Thiên bảo vệ.
+
+Con biết hết tất cả về nghiệp, nhưng con không thực sự tin tưởng.
+
+Con đã nghe nhiều Giáo Pháp, nhưng chưa từng đưa Giáo Pháp vào thực hành.
+
+Xin từ bi gia hộ cho con và những kẻ tạo ác nghiệp giống con,
+
+Khiến tâm chúng con có thể chan hoà với Pháp.
+
+207
+
+[Hình: Drom Tönpa]
+
+*Drom Tönpa (1005 – 1064)*
+
+Geshe Tönpa là một trong những đại đệ tử của Atisa và là vị sáng lập trường phái Kadampa, chú trọng vào một lối sống giản dị và tu tập tâm thức qua việc phát triển lòng từ bi.
+
+# CHƯƠNG NĂM
+
+## LỢI ÍCH CỦA GIẢI THOÁT
+
+Được chư thiện tri thức và thành tựu giả siêu phàm dẫn dắt,
+Ngài đã tu tập và trực nghiệm giáo huấn của chư Bổn Sư.
+Ngài chỉ ra con đường cao cả không sai trật cho kẻ khác.
+Bậc Thầy Vô Song, con đảnh lễ dưới chân Ngài.
+
+Cách thức lắng nghe giáo lý về sự lợi lạc của giải thoát trong chương này, và về cách thức theo chân một vị Thầy tâm linh trong chương sau thì cũng giống như cách thức đã được giải thích trước đây.
+
+Giải thoát là gì? Đó là tìm được tự do thoát khỏi đại dương đau khổ được gọi là luân hồi này, và đạt được quả vị của một Thanh Văn (Sravaka), một vị Độc Giác Phật (Pratyekabuddha), hay một vị Phật Toàn Giác.
+
+## I. NHỮNG NHÂN TỐ ĐƯA ĐẾN GIẢI THOÁT
+
+Những nhân tố đưa bạn đến được với giải thoát gồm có như sau: (1) trước tiên, hãy làm cho tâm bạn nhu nhuyễn nương vào bốn pháp chuyển tâm để bạn có thể xoay lưng lại với luân hồi, bắt đầu bằng những hiểu biết về sự khó khăn để tìm được những điều kiện tự do và những thuận duyên (của đời người hiếm quý); và (2) thứ hai, là thực hành tất cả những pháp tu, bắt đầu bằng pháp quy y, vì đây là nền tảng của mọi con
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+đường tu, cho đến khi nào hoàn tất trọn vẹn pháp môn chính yếu.92
+Lợi lạc của mỗi một pháp tu đã được giải thích trong những chương có liên quan đến những pháp tu này.
+
+## II. KẾT QUẢ: BA QUẢ VỊ GIÁC NGỘ
+
+Dù bạn sẽ chứng đắc trong quả vị của một Thanh Văn, một vị Phật Độc Giác, hay một vị Phật Toàn Giác, thì kết quả sẽ là một sự an lạc, khinh an, thoát khỏi những nẻo đường tràn đầy nguy hiểm và đau khổ của cõi luân hồi. Thật là sung sướng xiết bao!
+Trong số tất cả những con đường tu khác nhau thì mục đích duy nhất của con đường tu theo Đại Thừa mà bây giờ bạn đang dấn bước là làm sao đạt được Phật Quả viên mãn. Trên con đường tu theo Đại Thừa này, nhất nhất các pháp tu phải đều lấy Phật Quả viên mãn làm mục đích duy nhất – từ thập thiện, cho đến bốn tâm vô lượng, cho đến sáu pháp toàn thiện siêu việt (lục độ ba la mật), bốn trạng thái định (chỉ), bốn trạng thái của vô sắc giới, an trụ, và của tuệ minh sát (quán). Ngoài những pháp kể trên thì còn có ba pháp tu tối thượng: (1) phát khởi Bồ Đề Tâm như là một pháp tu dự bị, (2) giữ tâm không tạo tác trong thời gian hành trì pháp môn tu tập chính yếu, và (3) kết thúc bằng những lời nguyện hồi hướng. Tất cả các pháp này, đều phải lấy Phật Quả viên mãn làm mục đích duy nhất.
+
+[Hình: Sơ đồ hình tròn chứa chữ viết tay bằng chữ Tây Tạng ở các vòng đồng tâm, với ký tự trung tâm lớn và khung chữ nhật ở phía dưới chứa dòng chữ Tây Tạng]
+
+[Hình: Milarepa (1040 – 1123)]
+
+*Milarepa (1040 – 1123)*
+
+Hành giả du già (yogi) nổi tiếng nhất của Tây Tạng, lừng danh qua lối sống khổ hạnh trong những rặng núi ở miền Nam Tây Tạng, qua sự kiên trì trong thiền định, và qua những bài đạo ca được Ngài hát lên một cách tự nhiên để giảng dạy cho những người thợ săn cũng như dân làng.
+
+# CHƯƠNG SÁU LÀM THẾ NÀO ĐỂ THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Không có Kinh điển (Sutra), Mật điển (Tantra), hay Luận (Sastra) nào nói rằng đã từng có người đạt được Phật quả viên mãn mà không cần phải theo chân một vị Thầy tâm linh. Chúng ta có thể tự mình nhận ra rằng chưa từng có ai đạt được thành tựu của hai giai đoạn tu tập bằng phương tiện thiện xảo và lòng can đảm của riêng họ. Thực vậy, tất cả chúng sinh bao gồm chúng ta, đã phô bày rất nhiều tài năng đặc biệt trong việc khám phá ra những con đường sai lạc để noi theo – còn trong khi đi trên con đường dẫn đến giải thoát và toàn giác thì chúng ta lại bối rối như một người mù cô độc lang thang giữa bãi hoang.
+
+Không ai có thể đem được châu báu về từ một kho tàng trên hải đảo mà không nhờ vào một hoa tiêu lão luyện (ám chỉ những nhà thám hiểm thời xưa khi đi tìm châu báu nơi những hòn đảo xa xôi). Tương tự như thế, một vị Thầy tâm linh, hay bạn đồng hành, là người hướng đạo đích thực có thể đưa chúng ta đạt đến giải thoát và toàn giác, và chúng ta phải đi theo Ngài với lòng tôn kính. Điều này có thể được noi theo trong ba giai đoạn: trước tiên, hãy quán sát vị Thầy, sau đó hãy theo chân Ngài, và cuối cùng, hãy noi gương những chứng ngộ và công hạnh của Ngài.
+
+I. QUÁN SÁT THẦY
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Phần lớn người bình thường như chúng ta dễ dàng bị ảnh hưởng bởi hoàn cảnh và những người quanh ta. Đó là lý do tại sao chúng ta phải luôn theo chân một vị Thầy, một thiện hữu tri thức.
+
+Nơi khu rừng đàn hương trong rặng Malaya, khi một thân cây bình thường đổ xuống, gỗ của nó được thấm đẫm dần dần mùi hương dịu dàng của cây đàn hương. Sau vài năm, thân gỗ tầm thường đó có mùi thơm dịu như những cây đàn hương quanh nó. Cũng tương tự như thế, nếu bạn sống và học tập với một vị Thầy toàn hảo có đầy đủ những phẩm hạnh tốt lành, bạn sẽ được thấm nhuần hương thơm của những phẩm tính đó và tất cả những gì bạn làm cũng sẽ trở nên giống như Ngài.
+
+Giống như một thân cây tầm thường
+Trong rừng núi Malaya
+Thấm đượm mùi đàn hương từ những cành lá ẩm,
+Cũng thế, bạn tương ứng được với bất kỳ ai bạn theo chân.93
+
+Trong thời đại suy đồi này, ta khó có thể tìm được một vị Thầy có tất cả mọi phẩm hạnh được mô tả trong những Mật điển quý báu. Dù thế nào chăng nữa thì vị Thầy mà chúng ta đi theo phải có ít nhất những thiện đức sau đây:
+
+Ngài phải thanh tịnh, chưa từng phạm những giới cấm liên quan đến ba loại giới nguyện – giới nguyện bên ngoài của Biệt Giải Thoát, giới nguyện bên trong của Bồ Tát, và giới nguyện bí mật của Kim Cương Thừa. Ngài phải uyên bác, thấu suốt Mật điển, Kinh điển và Luận, không hề sai sót. Đối với chúng sinh vô biên, trái tim Ngài phải tràn đầy lòng bi mẫn khiến Ngài thương yêu mỗi người trong số đó như yêu thương đứa con duy nhất của Ngài. Ngài phải thông thạo cách thực
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+hành các nghi lễ – Tam Tạng kinh điển, và nội điển là bốn cấp độ của Mật điển. Bằng cách đưa yếu nghĩa của giáo lý vào thực hành, Ngài phải tự thể nhập những thành tựu phi thường của sự giải thoát và chứng ngộ. Ngài phải rộng lượng, ngôn từ dễ nghe, dạy dỗ mỗi người theo căn cơ của họ, và phải hành động phù hợp với những gì đã giảng dạy. Bốn cách quy phục chúng sinh này có thể giúp vị Thầy tập hợp được những đệ tử may mắn chung quanh Ngài.
+
+Tất cả những phẩm hạnh toàn hảo noi theo Giáo Pháp thuần tịnh nhất
+Khó tìm thấy được trong thời buổi suy đồi này.
+Nhưng hãy tin tưởng vào vị Thầy, là vị tuyệt đối tuân giữ ba giới nguyện,
+Với sở học uyên bác, lòng đại bi sâu thẳm,
+Ngài thiện xảo trong nghi thức của vô lượng Tạng Kinh và Mật điển,
+Trí tuệ bát nhã của Ngài đến từ những xả bỏ và chứng ngộ, như quả ngọt trổ sanh,
+Bốn phẩm hạnh rực rỡ của Ngài, như đoá hoa quyến rũ,
+Những đệ tử may mắn sẽ tụ hội quanh Ngài như những đàn ong.
+
+Đặc biệt hơn nữa, đối với giáo lý tinh tuý thâm diệu của những giáo huấn cốt lõi của Kim Cương Thừa thì vị Đạo Sư mà chúng ta nên nương tựa phải giống như sau. Như đã trình bày trong những Mật điển quý báu, Ngài phải đạt được thành tựu nương vào những pháp quán đảnh đã được truyền xuống đến Ngài từ một dòng truyền thừa liên tục không gián đoạn. Ngài không vi phạm giới nguyện hoặc mật nguyện đã thọ nhận lúc nhận quán đảnh. Không bị những cảm xúc và tư tưởng bất thiện quấy rối, Ngài phải giữ tâm an định và tuân giữ giới luật. Ngài phải thấu suốt toàn bộ ý nghĩa của các Mật
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+điển thuộc nền tảng, đạo và quả của Kim Cương Thừa. Ngài phải đạt được tất cả những dấu hiệu thành tựu trong những giai đoạn phát triển và viên mãn của các pháp môn hành trì, như thấy được linh kiến của các Bổn Tôn. Bản thân Ngài đã phải chứng nghiệm được chân như – bản tánh của thực tại, và chính Ngài đã có thể đạt được giải thoát. Sự an vui của người khác phải là mối quan tâm duy nhất của Ngài, trái tim Ngài tràn đầy lòng bi mẫn. Ngài phải ít ưu tư lo lắng, bởi Ngài đã từ bỏ được tất cả mọi bám chấp vào những sự việc tầm thường của cuộc đời này. Mối quan tâm duy nhất của Ngài đối với những đời vị lai thì không là gì khác hơn ngoài cái tâm kiên định hướng về Pháp. Nhìn thấy cõi sinh tử luân hồi chỉ là khổ đau, Ngài phải cảm nhận được một nỗi buồn vô hạn, và phải khuyến khích những người khác cũng cảm nhận như thế. Ngài phải thiện xảo trong việc chăm sóc các đệ tử và phải sử dụng những phương pháp thích hợp phù hợp với căn cơ của từng người. Sau khi đã hoàn tất các huấn lệnh bổn sư của Ngài, Ngài phải trì giữ những năng lực gia trì của dòng truyền thừa.
+
+Bậc Thầy phi thường – trao truyền những giáo huấn cốt tủy
+Đã thọ quán đảnh, gìn giữ mật nguyện, và luôn an bình;
+Thấu suốt ý nghĩa của các Mật điển nền tảng, đạo và quả;
+Có mọi dấu hiệu của phát triển và thành tựu, và đạt được giải thoát nương vào chứng ngộ;
+ Có lòng bi mẫn vô hạn và chỉ quan tâm đến người khác;
+Ít các hoạt động thế tục và chỉ kiên quyết nghĩ tưởng về Pháp;
+Lão luyện trong phương tiện và nhận được những gia hộ của dòng truyền thừa.
+Hãy đi theo một vị Thầy như thế, và đạo quả thành tựu sẽ đến thật chóng vánh.
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Mặt khác, có vài loại Thầy mà ta nên tránh. Những đặc tính của họ như sau.
+
+Vị Thầy như cối xay bằng gỗ. Những vị Thầy này không có dấu hiệu của những phẩm hạnh phát khởi từ sự học hỏi, quán chiếu, và thiền định. Cho rằng mình là con hay cháu tôn quý của một lạt ma nào đó nên họ và con cháu họ phải siêu việt hơn bất kỳ ai khác, và họ bảo vệ giai cấp của họ như những người bà la môn. Ngay cả nếu họ đã học hỏi, quán chiếu và thiền định chút ít, họ không làm những điều đó với bất kỳ ý hướng thanh tịnh nào để đem lại lợi lạc cho những đời tương lai mà làm vì những lý do thế tục nhiều hơn. Riêng khả năng của họ đối với việc đào tạo đệ tử thì họ cũng gần giống như một chiếc cối xay bằng gỗ.
+
+Vị Thầy giống như ếch ngồi đáy giếng. Những vị Thầy thuộc loại này không có bất kỳ phẩm hạnh đặc biệt nào để có thể phân biệt với người thường. Nhưng người khác lại sùng bái họ với lòng tin mù quáng, hoàn toàn không quán sát họ. Dương dương tự đắc bởi thanh danh và lợi dưỡng nhận được, bản thân họ hoàn toàn không biết tới những phẩm tính thực sự của một vị Thầy vĩ đại. Họ như con ếch sống trong một cái giếng.
+
+Một ngày nọ, một con ếch sống trên bờ một đại dương tới thăm con ếch già luôn luôn sống trong một cái giếng.
+
+“Bạn từ đâu đến?” con ếch sống trong giếng hỏi.
+
+“Tôi từ đại dương tới,” ếch khách trả lời.
+
+“Đại dương của bạn lớn như thế nào?” con ếch dưới giếng hỏi.
+
+“Thật vĩ đại,” con ếch kia trả lời.
+
+“Có bằng một phần tư cái giếng của tôi không?” ếch dưới giếng hỏi.
+
+“Ồ! Lớn hơn nhiều!” con ếch ở đại dương kêu lên.
+
+“Bằng phân nửa không?”
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+“Không, lớn hơn vậy,”
+“Vậy bằng cái giếng này không?”
+“Không, không, lớn hơn nhiều, hơn nhiều lắm!”
+“Không thể được!” con ếch sống dưới giếng nói. “Tôi phải thấy tận mắt.”
+
+Vì thế, hai con ếch cùng đi, và câu chuyện tiếp tục rằng khi con ếch ở giếng nhìn thấy đại dương, nó ngất đi, bể đầu ra mà chết.
+
+Những người dẫn đường điên rồ. Đó là những vị Thầy có rất ít kiến thức, chưa bao giờ nỗ lực theo chân một vị Thầy uyên bác nào và chưa tu tập các pháp môn theo Kinh điển và Mật điển. Những cảm xúc bất thiện cùng với chánh niệm và tỉnh giác rất yếu ớt của họ khiến họ lơ là trong việc gìn giữ giới nguyện. Mặc dù trí lực thấp kém hơn người thường, họ bắt chước những vị thành tựu giả và cư xử như thể hành động của họ còn cao hơn bầu trời.94 Tràn ngập sân hận và ghen tị, họ phá vỡ huyết mạch của lòng từ bi. Những thiện hữu tri thức tâm linh như thế được gọi là những người hướng dẫn điên rồ, và đưa dẫn bất kỳ ai theo họ rơi xuống con đường lầm lạc.
+
+Những người hướng dẫn mù quáng. Đặc biệt, một vị Thầy mà phẩm hạnh không hơn được bạn và thiếu lòng từ bi của Bồ Đề Tâm thì sẽ không bao giờ có thể khai mở cho bạn về những gì nên làm và không nên làm. Các vị Thầy như vậy được gọi là những người hướng dẫn mù quáng.
+
+Giống như người Bà la môn, một số bảo vệ giai cấp của họ,
+Hoặc trong vực thẳm lo âu cho sự sống còn của danh vọng,
+Họ tự đắm mình trong cái học và cái quán chiếu hư ngụy;
+Những người dẫn đường như vậy giống cái cối xay bằng gỗ.
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Một số người, dù chẳng khác gì những kẻ bình thường,
+Sống dựa trên niềm tin ngu dại của người khác,
+Kiêu căng vì lợi lộc, phẩm vật cúng dường và danh tiếng,
+Những người bạn như vậy giống như ếch ngồi đáy giếng.
+
+Một số người, có rất ít hiểu biết, lại bỏ bê những mật nguyện và giới nguyện của họ,
+Trí lực thấp kém mà hành xử lại cao hơn trái đất,
+Họ phá vỡ huyết mạch của lòng từ và bi -
+Những người dẫn đường điên rồ như vậy chỉ có thể truyền bá cái ác nhiều hơn.
+
+Đặc biệt nếu đi theo những người chẳng hơn gì chính bạn,
+Những kẻ không có Bồ Đề Tâm, bị thu hút chỉ bởi danh vọng -
+Sẽ là một lỗi lầm to lớn; nhận những kẻ gian manh như vậy
+Làm những người dẫn đường mù quáng, bạn sẽ lang thang vào sâu hơn trong vũng lầy bóng tối.
+
+Bậc Đạo Sư vĩ đại xứ Oddiyana đã răn dạy rằng:
+
+Không quán sát vị Thầy
+Thì giống như uống thuốc độc;
+Không quán sát đệ tử
+Thì giống như lao xuống từ vách đá.
+
+Bạn đặt niềm tin vào vị Thầy tâm linh cho tất cả những đời sau của bạn. Chính Ngài là người sẽ dạy cho bạn những gì nên làm và không nên làm. Nếu bạn gặp một vị Thầy giả mạo mà không quán sát đúng đắn, bạn sẽ ném đi cơ hội của một người có khả năng tích lũy công đức trong suốt cả đời, và
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+những điều kiện tự do và thuận duyên của đời người mà bạn đang có sẽ bị phí hoại. Điều đó cũng giống như chỉ vì lầm tưởng là cái bóng cây nên bạn bị một con rắn độc cuộn tròn dưới một thân cây giết chết khi bạn tới gần.
+
+Bởi không quán sát vị Thầy một cách cẩn trọng
+Những kẻ sùng kính đã lãng phí công đức tích lũy,
+Giống như nhận lầm rắn độc là bóng cây,
+Bị lừa gạt, họ đánh mất tự do mà cuối cùng họ đã tìm thấy.
+
+Sau khi quán sát vị Thầy cẩn thận và có được những đánh giá không sai lạc, từ lúc bạn nhận ra rằng Thầy có tất cả những phẩm hạnh tốt lành như đã được đề cập tới thì bạn phải luôn luôn không ngừng nghỉ xem Ngài như là một vị Phật trong thân tướng con người.95 Tất cả những phẩm hạnh trong Thầy đều toàn thiện. Ngài là hiện thân của trí tuệ bi mẫn của thập phương chư Phật, xuất hiện trong thân tướng của một con người bình thường chỉ để làm lợi lạc cho chúng sinh.
+
+Vị Thầy với trọn vẹn những phẩm hạnh vô lượng,
+Chính là trí tuệ và lòng đại bi của tất cả chư Phật,
+Xuất hiện trong thân người để phổ độ chúng sinh.
+Ngài là suối nguồn vô song của thành tựu.
+
+Vì vậy, một vị Thầy chân chính như thế có thể khéo léo hướng dẫn những người bình thường cần Ngài giúp đỡ, cách hành xử hàng ngày của Ngài thích ứng với hành xử của những người bình thường. Nhưng trong thực tế, tuệ giác của Ngài là trí tuệ của một vị Phật, vì thế Ngài hoàn toàn khác biệt với mọi người. Mỗi hành động của Ngài đơn thuần là công hạnh của một bậc giác ngộ thuận theo những người mà Ngài muốn đem lại lợi lạc cho họ. Do đó, Ngài là đấng tôn quý độc nhất vô nhị.
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Khéo léo chặt đứt những do dự và nghi ngờ, Ngài kiên nhẫn chịu đựng tất cả sự bội ơn và ngã lòng của đệ tử, giống như một người mẹ xử sự với đứa con duy nhất của mình.
+
+Để dẫn dắt chúng sinh, Ngài hành xử linh hoạt hoàn toàn giống tất cả chúng ta. Nhưng thực ra Ngài hoàn toàn khác biệt. Sự Giác Ngộ của Ngài khiến Ngài là bậc tôn quý nhất. Khéo léo chặt đứt những hoài nghi của chúng ta, Ngài chịu đựng với sự nhẫn nại Mọi sự ngã lòng và vô ơn của chúng ta.
+
+Vị Thầy với tất cả những phẩm hạnh này cũng giống như một chiếc thuyền lớn vượt qua đại dương luân hồi mênh mông. Giống như một hoa tiêu lão luyện, Ngài luôn luôn vạch ra con đường dẫn tới giải thoát và toàn giác cho chúng ta. Như một giọt cam lồ, Ngài dập tắt ngọn lửa dữ của ác nghiệp và của cảm xúc bất thiện. Giống như mặt trời và mặt trăng, Ngài chiếu rọi ánh sáng của Giáo Pháp và xua tan bóng tối dày đặc của vô minh. Giống như đất, Ngài kiên nhẫn chịu đựng sự vô ơn, ngã lòng, và năng lực của Kiến và Hành của Ngài thì hết sức bao la. Như một cây như ý, Ngài là suối nguồn của tất cả những sự giúp đỡ trong đời này và tất cả hạnh phúc trong những đời sau. Giống như một chiếc bình toàn hảo, Ngài là một kho tàng của tất cả các Thừa và các giáo lý mà người ta từng mong ước. Giống như ngọc như ý, Ngài hiển lộ những khía cạnh không thể nghĩ bàn của bốn công hạnh phù hợp với căn cơ của chúng sinh. Giống như người mẹ hay cha, Ngài yêu thương mỗi một chúng sinh trong vô lượng chúng sinh một cách bình đẳng, không có bất kỳ tham luyến nào với những người thân cận Ngài và ghét bỏ những người khác. Giống như một con sông lớn, lòng đại bi của Ngài bao la tới nỗi dung chứa được tất cả chúng sinh vô tận như không gian, và nhanh
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+chóng tới nỗi cứu giúp được tất cả những chúng sinh đang đau khổ và không người che chở. Như sơn vương, tâm hoan hỷ của Ngài trước hạnh phúc của người khác thì kiên cố tới nỗi không thể chuyển dời bởi tâm ghen tị, hay bị dao động bởi những ngọn gió của hiện tượng. Giống như trận mưa đổ xuống từ một đám mây, tâm vô phân biệt của Ngài không bao giờ bị xáo trộn bởi sự bám chấp hay ganh ghét.
+
+Ngài là con thuyền lớn chở chúng ta vượt qua biển luân hồi,$^{96}$
+Là vị hoa tiêu lão luyện, không chút sai lạc vạch ra con đường vi diệu,
+Là trận mưa cam lồ làm mát dịu bao phiền não của những xúc cảm và hành động bất thiện,
+Là mặt trời, mặt trăng xua tan bóng tối vô minh.
+Ngài là mặt đất, nhẫn nại vô biên,
+Là cây như ý, suối nguồn của mọi ơn gia trì và hạnh phúc,
+Là chiếc bình toàn hảo chứa đựng kho tàng Giáo Pháp.
+Ngài ban cho tất cả, còn hơn cả một viên ngọc như ý.
+Ngài là cha và mẹ, yêu thương tất cả ngang bằng.
+Lòng đại bi của Ngài bao la và thần tốc như con sông lớn.
+Tâm hoan hỷ thì bất biến như vị sơn vương.
+Không gì có thể nhiễu loạn tâm vô phân biệt của Ngài, giống như trận mưa đổ xuống từ một đám mây.
+
+Một vị Thầy như thế ngang bằng với tất cả chư Phật nhờ bởi lòng bi mẫn và năng lực gia hộ của Ngài. Những người có mối liên hệ tốt lành với Ngài sẽ đạt được Phật Quả chỉ trong một đời. Ngay cả những người đã tạo một mối liên hệ bất thiện với Ngài cuối cùng cũng sẽ được dẫn dắt ra khỏi luân hồi sinh tử.
+
+VI. § THEO § CHÂN § MỘT § VỊ § THẦY § TÂM § LINH
+
+Một § vị § Thầy § như § vậy § ngang § bằng § với § tất § cả § chư § Phật.
+Nếu § ngay § cả § những § kẻ § gây § tổn § hại § cho § Ngài § vẫn § được § dẫn § dắt § trên § con § đường § hạnh § phúc,
+Thì § đối § với § những § người § chân § thành § tin § tưởng § nơi § Ngài § Sẽ § có § những § cõi § tịnh § độ § và § giải § thoát § ban § rải § như § mưa.
+
+II. § THEO § CHÂN § THẦY
+
+Hỡi § thiện § nam § tử, § con § phải § nghĩ § rằng § chính § mình § đang § bị § bệnh...
+
+ĐÂY § là § câu § đầu § tiên § khởi § đầu § cho § một § loạt § các § ẩn § dụ § được § nhắc § tới § trong § [một § phẩm § trong] § Kinh § Hoa § Nghiêm. § Những § bệnh § nhân § tự § đặt § mình § dưới § sự § chăm § sóc § của § một § vị § y § sĩ § khéo § léo. § Những § lữ § khách § trên § con § đường § nguy § hiểm § đặt § niềm § tin § nơi § những § người § bảo § vệ § can § trường. § Đối § mặt § với § hiểm § nguy § từ § những § quân § thù, § kẻ § trộm § cướp, § hay § dã § thú..., § người § ta § mong § đợi § có § một § người § bạn § đồng § hành § để § được § bảo § vệ. § Những § thương § nhân § vượt § đại § dương § hướng § tới § đất § liền § giao § phó § thân § mạng § của § mình § cho § vị § thuyền § trưởng. § Những § lữ § khách § dùng § thuyền § phà § qua § sông § giao § phó § bản § thân § cho § thuỷ § thủ. § Cũng § thế, § để § được § che § chở § trước § cái § chết, § trước § sự § tái § sinh § trong § luân § hồi § và § trước § những § cảm § xúc § ô § nhiễm, § chúng § ta § phải § đi § theo § chân § một § vị § Thầy, § một § thiện § hữu § tri § thức.
+
+Như § bệnh § nhân § nương § cậy § nơi § thầy § thuốc, § Lữ § khách § nương § cậy § người § bảo § vệ, § Kẻ § khiếp § sợ § nương § cậy § bạn § đồng § hành, § Thương § nhân § nương § cậy § nơi § thuyền § trưởng, § Và § khách § qua § sông § nương § cậy § người § lái § đò § -
+Nếu § sinh § tử § và § cảm § xúc § ô § nhiễm § là § kẻ § thù § mà § bạn § sợ § hãi, § Hãy § giao § phó § chính § bạn § cho § một § vị § Thầy.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Một đệ tử can đảm được trang bị đầy đủ bằng lòng quả quyết sẽ không bao giờ làm Thầy phiền lòng, cho dù phải trả giá bằng cuộc đời của họ. Tâm họ kiên cố tới nỗi không bao giờ bị lay động trước những hoàn cảnh khắc nghiệt, họ phụng sự Thầy mà không cần quan tâm tới sức khỏe hay mạng sống của mình, và tuân thủ mọi huấn lệnh của Thầy không thiếu một điểm nào và quy ngưỡng Thầy.
+
+Những người được trang bị đầy đủ và có lý trí kiên định,
+Phụng sự Thầy mà không màng đến sức khỏe hay mạng sống của mình,
+Tuân theo những giáo huấn của Ngài không màng tới bản thân,
+Sẽ được giải thoát chỉ nhờ năng lực của lòng quy ngưỡng.
+
+Để theo chân vị Thầy, bạn phải có nhiều lòng tin nơi Ngài tới nỗi bạn xem Ngài đích thật là một vị Phật. Bạn phải có sự phân định và thấu suốt giáo lý tới nỗi bạn có thể nhận ra được trí tuệ ẩn tàng dưới những hành động thiện xảo của Ngài, và nắm bắt bất kỳ những gì Ngài truyền dạy cho bạn. Bạn phải cảm thấy lòng bi mẫn bao la đối với tất cả những ai đang đau khổ vì không được che chở. Bạn phải tôn kính những giới nguyện và mật nguyện mà đạo sư dạy bạn phải giữ gìn, và phải an định và tự chủ trong mọi hành vi, ngôn ngữ và tư tưởng của bạn. Quan điểm của bạn phải rộng lớn tới nỗi có thể chấp nhận bất kỳ những gì Thầy và những thiện hữu trí thức có thể làm. Bạn phải quảng đại rộng rãi tới nỗi có thể cúng dường Thầy bất kỳ những gì bạn sở hữu. Nhận thức của bạn về tất cả mọi sự phải thanh tịnh, tránh chỉ trích và để cho bị nhiễm ô. Bạn phải tự chế không làm bất kỳ điều ác hại hay bất thiện nào, và e sợ khi làm Ngài không hài lòng.
+
+Hãy có niềm tin, sự phân định, hiểu biết và lòng bi mẫn
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+lớn lao. Hãy tôn kính giới nguyện và mật nguyện. Hãy làm chủ thân, khẩu, ý.
+Hãy khoáng đạt và quảng đại.
+Hãy có thị kiến thanh tịnh và một ý thức tự chế.
+
+Kinh Hoa Nghiêm và những bản văn khác cũng dạy rằng khi theo chân một vị Thầy, chúng ta phải giống như con ngựa hoàn hảo,97 luôn luôn hành động phù hợp với ý muốn của Ngài trong mọi tình huống, khéo léo tránh làm tất cả những việc gì có thể khiến Ngài phật lòng, và không bao giờ giận dữ hay phẫn uất ngay cả khi bị Ngài quở trách nặng nề. Giống như một con thuyền, chúng ta không nên mỏi mệt khi tới lui mang những thông điệp hay làm những công việc khác để phục dưỡng Ngài. Giống như một cây cầu, không gì mà chúng ta không thể đảm đương dù những nhiệm vụ Ngài yêu cầu chúng ta làm có dễ chịu hay không. Giống như một cái đe thợ rèn, chúng ta phải chịu đựng nóng, lạnh và mọi nỗi gian khó khác. Giống như một người hầu, chúng ta tuân theo mọi mệnh lệnh của Ngài. Giống như một người phu quét đường,* đừng bao giờ kiêu căng mà hãy giữ vị trí thấp nhất. Giống như một con bò bị gãy sừng, chúng ta nên từ bỏ kiêu mạn và hãy kính trọng mọi người.
+
+Hãy khéo léo đừng bao giờ làm phật lòng Thầy,
+Đừng phẫn uất vì bị Ngài khiển trách, hãy như con ngựa hoàn hảo,
+Như một con thuyền, đừng bao giờ mệt mỏi khi qua lại.
+
+* Trong chế độ giai cấp của Ấn Độ, người phu quét đường ở trong một giai cấp xã hội thấp nhất, và buộc phải hành xử một cách (thấp kém) rất chênh lệch so với những giai cấp khác.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Hãy chịu đựng tất cả những gì xảy đến, dù xấu hay tốt,
+giống như một chiếc cầu.
+Hãy chịu đựng nóng, lạnh và bất kỳ gian khó nào khác,
+như một cái đe.
+Hãy tuân theo mọi mệnh lệnh của Ngài, giống như
+một người hầu.
+Hãy vứt bỏ mọi sự tự phụ, như một người phu quét đường,
+Và thoát khỏi mọi kiêu mạn, như con bò gãy sừng.
+Tam Tạng Kinh điển đã nói rằng đó là cách thức để
+theo chân Thầy.
+
+Có ba cách làm hài lòng Thầy và phụng dưỡng Ngài.
+Cách tốt nhất được biết đến là cúng dường công phu hành trì,
+bao gồm việc đưa vào thực hành bất kỳ điều gì Ngài đã dạy
+bảo với sự quyết tâm bất chấp mọi gian khổ. Cách thức trung
+bình là phụng dưỡng bằng thân, khẩu, có nghĩa là hầu cận
+Ngài và thực hiện bất kỳ những gì Ngài muốn bạn làm xuyên
+qua thân, khẩu, hay ý. Cách thấp nhất là cúng dường vật chất,
+có nghĩa làm Thầy của bạn vui lòng bằng cách dâng lên Ngài
+của cải vật chất, thực phẩm, tiền bạc, v.v..
+
+Của cải bạn có thể có, hãy cúng dường cho đệ Tứ Bảo,*
+Tôn kính và phụng dưỡng Ngài với thân và ngữ,
+Cả ba phương cách này, không hề có cách nào là
+lãng phí.
+Nhưng trong ba cách làm Ngài hoan hỉ, công phu thực
+hành là tuyệt vời nhất.
+
+Cho dù vị Thầy có thể hành xử một cách khó hiểu như
+thế nào chăng nữa thì bạn hãy luôn luôn duy trì một tri kiến
+
+* Vị Thầy, hiện thân của Tam Bảo, được xem như là viên ngọc quý thứ tư- đệ
+Tứ Bảo. Xem Phần II, Chương 1.
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+thanh tịnh, và hãy nhận thức ra rằng cách hành xử của Ngài chính là những phương pháp thiện xảo.
+Đại học giả Naropa đã là một học giả uyên thâm và đại thành tựu giả. Nhưng Bổn Tôn của Ngài bảo Ngài rằng vị Thầy trong những đời trước của Ngài là Ngài Tilopa vĩ đại, và Naropa nên đi tới miền đông Ấn Độ để tìm gặp Thầy mình. Naropa lập tức lên đường, nhưng khi tới miền Đông Ấn thì Ngài không biết phải tìm Tilopa ở đâu. Ngài hỏi những người dân địa phương nhưng họ cũng không biết.
+
+“Trong vùng này, có ai tên Tilopa không?” Ngài nài nỉ.
+“Có một người tên là Tilopa thuộc Tiện Cấp (giai cấp bần cùng nhất), hay là Tilopa Hành Khất.”
+Naropa nghĩ, “Công hạnh của những bậc thành tựu thì không thể nghĩ bàn. Chắc hẳn đây là Ngài rồi.” Ngài bèn hỏi Tilopa Hành Khất sống ở đâu.
+“Ở bức tường đổ đằng kia, nơi có khói bốc lên,” họ trả lời.
+Khi đến nơi được chỉ thì Ngài thấy Tilopa ngồi trước một cái chậu gỗ đựng cá, một số con còn sống và một số đã chết. Tilopa lấy một con cá đem nướng, và cho vào miệng, trong khi búng những ngón tay. Naropa đảnh lễ và xin Tilopa nhận Ngài làm đệ tử.
+“Ông nói gì?” Tilopa nói. “Ta chỉ là một kẻ hành khất!”. Nhưng Naropa nài nỉ nên Tilopa nhận Ngài.
+Lúc đó Ngài Tilopa giết những con cá hoàn toàn không phải vì Ngài đói hay không tìm được thứ gì khác để ăn. Loài cá hoàn toàn vô minh không biết điều gì nên làm và điều gì nên tránh, là những sinh vật có nhiều hành vi bất thiện, và Tilopa có năng lực giải thoát chúng. Khi ăn thịt cá, Tilopa đã nối kết được với tâm thức của chúng; nhờ đó Ngài có thể chuyển thức
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+của chúng vào cõi Phật thanh tịnh.$^1$ Tương tự, Ngài Saraha làm thợ rèn mũi tên, Savaripa là một thợ săn, và phần lớn những thành tựu giả vĩ đại khác của Ấn Độ cũng đã chấp nhận những cách sống rất thấp kém, thường là trong đẳng cấp bần cùng nhất. Do vậy, điều quan trọng là ta không cho rằng bất kỳ hành động nào của Thầy ta là sai lạc; hãy tu tập bản thân để chỉ có tri kiến thanh tịnh.
+
+> Đừng ngộ nhận hành động của vị Thầy.
+> Hầu hết những thành tựu giả Ấn Độ đã sống
+> Như những kẻ dung tục làm điều ác, thuộc giai cấp cùng đinh
+> Còn tệ hại hơn cả những kẻ bần cùng nhất trong giai cấp bần cùng.
+
+Những kẻ không biết đến điều này, tiếp tục ngộ nhận và chỉ trích những gì Thầy của họ làm, thì như Kinh văn có nói, họ sẽ tìm thấy ra lỗi lầm ngay cả trong một vị Phật nếu họ sống với Ngài trong một thời gian đủ dài lâu.
+
+Nhà sư Sunaksatra là anh em cùng cha khác mẹ của Đức Phật. Ông đã phụdưỡng Đức Phật trong hai mươi bốn năm ròng, và thuộc lòng tất cả mười hai loại giáo lý trong Tam Tạng kinh điển.$^2$ Nhưng ông ta lại cho rằng tất cả những gì Đức Phật làm là giả dối, và cuối cùng đi đến kết luận sai lầm là giữa ông ta và Đức Phật không có gì khác biệt.
+
+> Ngoại trừ vầng hào quang rộng sáu bộ quanh Ngài,
+
+$^1$ Việc búng những ngón tay là một phần của pháp chuyển di tâm thức của những chúng sinh khác vào một cõi tịnh độ. Pháp thực hành chuyển di tâm thức (‘pho-ba) được giảng dạy trong Phần Ba của tập sách này.
+$^2$ Pitakas: ba phân loại trong những giáo lý của Đức Phật. Xem Tripitaka (Tam Tạng) trong phần Thuật Ngữ.
+
+Suốt hai mươi bốn năm làm thị giả, tôi chưa từng thấy trong Ngài Những tính đức đặc biệt nào, ngay cả chỉ đáng bằng một hạt mè. Về Giáo Pháp, tôi cũng biết nhiều như Ngài – nên tôi sẽ chẳng làm thị giả cho Ngài nữa!
+
+Nói như thế xong, ông ta bỏ đi. Sau đó, Ngài Ananda trở thành thị giả riêng của Đức Phật. Ngài hỏi Phật rằng Sunaksatra sẽ tái sinh ở đâu.
+
+“Trong thời gian một tuần,” Đức Phật trả lời, “Sunaksatra sẽ chết và tái sinh làm một ngựa quỷ trong một vườn hoa.”
+
+Ngài Ananda đến gặp Sunaksatra và thuật lại những gì Đức Phật đã nói. Sunaksatra tự nghĩ: “Đôi khi những lời dối trá đó của Đức Phật trở thành sự thật, vì thế tốt hơn hết là ta phải hết sức thận trọng trong bảy ngày. Đến cuối tuần ta sẽ bắt ông ta nuốt lại những lời này.” Ông ta chạy lặt trong một tuần. Vào buổi chiều của ngày thứ bảy, ông cảm thấy họng rất khô nên uống một ít nước. Nhưng nước uống vào không tiêu được nên ông ta chết và bị tái sinh làm một ngựa quỷ trong vườn hoa với đầy đủ chín dị tướng xấu xí.
+
+Bất cứ khi nào bạn nhận thấy những lỗi lầm trong bất kỳ điều gì vị Thầy siêu phàm của bạn làm thì bạn phải tự cảm thấy ngượng ngùng và xấu hổ một cách thật sâu sắc trong lòng. Hãy quán chiếu rằng chính thấy của tâm thức bạn là bất tịnh, và tất cả mọi hành động của Ngài đều không có tì vết và không sai trái; hãy làm cho tri kiến thanh tịnh này trở nên vững chắc và làm tăng trưởng tín tâm của bạn.
+
+*Chưa làm chủ được những tri kiến riêng,*
+*Mà tìm kiếm những lỗi lầm nơi người khác,*
+*Đây là một sai lầm vô hạn.*
+*Mặc dù thuộc lòng mười hai loại giáo lý,*
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+có nguy hiểm, thì lúc đó sẽ không có gì sai trái nếu bạn xin phép Ngài được vượt lên trước.
+Đối với toà ngồi và chỗ giảng dạy của Ngài, đừng bao giờ dẫm lên tấm nệm và không được leo lên, hoặc cưỡi ngựa của Ngài. Không nên đóng hay mở cửa mạnh tay; hãy làm nhẹ nhàng. Hãy hạn chế tất cả mọi biểu lộ phù phiếm hay bất mãn khi có mặt Ngài. Cũng tránh nói lời dối trá, thiếu cân nhắc hay nói những lời không thành thật, cười giỡn, làm trò hề, và nói chuyện vãn không cần thiết hay không thích hợp. Hãy học cách cư xử trong một thái độ tự chế, đối xử với Ngài bằng lòng tôn kính, và không bao giờ buông thả tùy tiện.
+
+Không nên ngồi yên khi Thầy đứng dậy;
+Khi Ngài ngồi, hãy quan tâm đem lại mọi thứ Ngài cần.
+Không nên đi bộ phía trước, phía sau hay bên phải Ngài.
+Không tôn kính cương ngựa hay toà ngồi của Ngài sẽ khiến công đức của bạn bị hao tổn.
+Không nên đóng sầm cửa; đừng ra vẻ tự phụ hay cau có;
+Tránh nói dối, cười đùa, nói năng thiếu thận trọng và không chính đáng.
+Hãy phụng dưỡng Ngài với sự điềm tĩnh, chuẩn mực của thân, khẩu, ý.
+
+Nếu có người chỉ trích hay thù ghét Thầy của bạn thì không nên cư xử với họ như những người bạn. Nếu bạn có khả năng thay đổi thái độ của bất cứ những người nào không có niềm tin hay xem thường Thầy thì bạn nên kết bạn với họ. Nhưng nếu không thể làm được chuyện này thì hãy tránh nói chuyện quá cởi mở hay thân mật với những người như thế.
+
+Không nên làm bạn với những người chỉ trích, hay thù ghét Thầy của bạn.
+Hãy chuyển hoá tâm họ nếu bạn có thể.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Nếu bạn trò chuyện thoải mái với họ,
+Ảnh hưởng mạnh mẽ của những hành động sai lầm của họ
+Sẽ làm tổn hại mật nguyện của riêng bạn.
+
+Dù có phải tốn nhiều thời giờ với giáo đoàn của Thầy hay với những huynh đệ, tỉ muội kim cương của bạn, thì cũng đừng bao giờ cảm thấy mệt mỏi buồn chán hay cáu kỉnh với họ, hãy dễ chịu thoải mái như một sợi dây lưng. Hãy kềm chế tánh tự tôn của bạn và hội nhập trong mọi hoạt động, hoà hợp dễ dàng như muối tan trong thức ăn. Khi người ta nói nặng lời hay gây chuyện với bạn, hoặc khi bạn phải đảm nhậm trách nhiệm quá lớn, hãy sẵn sàng chịu đựng bất cứ cái gì giống như một cột trụ.
+
+Giống như sợi dây lưng, hãy là một người bạn đồng hành dễ chịu;
+Giống như muối, hãy dễ dàng hoà hợp;
+Giống như cột trụ, hãy chịu đựng không mỏi mệt bất kỳ gánh nặng nào;
+Vì thế, hãy phụng dưỡng chư huynh đệ kim cương và các thị giả của Thầy
+
+III. NSOI GƯƠNG CHỨNG NGỘ 98 VÀ CÔNG HẠNH CỦA THẦY
+
+Khi bạn hoàn toàn thuần thục trong cách thức theo chân một vị Thầy, bạn phải giống như một con thiên nga lướt nhẹ nhàng trên mặt hồ tinh khiết, vui đùa trong nước mà không làm nước vẩn đục; hay giống như một con ong trong vườn hoa, hút mật từ những đoá hoa nhưng không làm tổn hại màu sắc hay hương thơm của chúng. Hãy làm bất cứ điều gì Ngài dạy bảo
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+mà không bao giờ cảm thấy chán nản hay mệt mỏi. Hãy lãnh hội từ vị Thầy của bạn, và bằng niềm tin và sự kiên định, hãy quyết tâm thấm nhuần tất cả những phẩm tính trí tuệ, quán chiếu và thiền định của Ngài, giống như những gì chứa đựng trong một cái bình hoàn hảo được rót sang một chiếc bình khác.
+
+Giống như một con thiên nga bơi trên mặt hồ tuyệt hảo. Hay con ong nếm hưởng mật hoa, Không bao giờ phàn nàn, mà luôn luôn lãnh hội lời Ngài, Hãy luôn hầu hạ Thầy trong cung cách mẫu mực. Nhờ lòng sùng kính như vậy, bạn sẽ trực nghiệm tất cả mọi phẩm hạnh của Ngài.
+
+Bất cứ khi nào vị Thầy siêu phàm của bạn tích lũy được những cơn sóng phước tuệ vĩ đại qua những công hạnh Bồ Tát của Ngài, thì việc chính bạn tham gia vào công đức tích lũy công đức đó – bằng những phẩm vật cúng dường tối thiểu hay qua những nỗ lực của thân hay khẩu, hoặc thậm chí chỉ với vật cúng dường là tâm hoan hỷ của bạn trước sự việc nhỏ bé nhất mà Ngài đã làm – thì điều này cũng sẽ đem lại cho bạn nhiều công đức như những công đức đã phát sinh ra từ chính tác ý vô song của Ngài.
+
+Một lần kia có hai người du hành đến trung tâm Tây Tạng. Thực phẩm duy nhất của một trong hai người là một nhúm bột tsampa nâu làm bằng đậu. Ông ta đưa bột cho người bạn đồng hành, trộn nó với một số lượng rất nhiều bột tsampa làm bằng lúa mạch trắng của người kia. Vài ngày sau, người khá giả hơn trong hai người nói với bạn rằng: “Có lẽ bây giờ bột tsampa của anh đã hết.”
+
+“Hãy nhìn xem,” người kia nói. Họ nhìn thấy vẫn còn một ít bột tsampa làm bằng đậu. Mặc dù họ kiểm điểm nhiều lần,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+bột tsampa làm bằng đậu vẫn không hết, nên cuối cùng họ phải chia đều tất cả bột tsampa ra.
+Cũng thế, chỉ nhờ cúng dường một phần các đóng góp nhỏ bé cho những hành động thiện lành của người khác, hay bằng cách tham gia bằng thân hay khẩu, bạn cũng có thể đạt được nhiều công đức như họ. Đặc biệt hơn nữa, nếu bạn phụng dưỡng cho những nhu cầu hàng ngày của Thầy, đi đưa tin cho Ngài hoặc thậm chí chỉ quét dọn phòng Ngài là cũng một cách tích lũy công đức không thể sai lầm; vì thế hãy nỗ lực làm những việc như vậy càng nhiều càng tốt trong khả năng của bạn.
+
+Mọi hành động phù hợp với mục đích của một vị thánh sư,
+Được thật sự tiến hành trong Bồ Đề Tâm hạnh,
+Sự tích lũy công đức và trí tuệ,
+Tất cả mọi nỗ lực phụng dưỡng Thầy, đưa tin, hoặc ngay cả quét dọn phòng Ngài,
+Tất cả sẽ trổ quả lành – đây là con đường tích lũy công đức tốt lành nhất.
+
+Trong tất cả những suối nguồn cao cả nhất của quy y hay của những cơ hội để tích tụ công đức thì không có thứ gì lớn lao hơn vị Thầy. Đặc biệt là trong khi Ngài ban một lễ quán đảnh hay giảng dạy, lòng bi mẫn và năng lực gia trì của tất cả chư Phật và Bồ Tát trong mười phương rót vào thân tướng vi diệu của Ngài, và Ngài trở nên bất khả phân với tất cả chư Phật. Vì thế, trong một thời điểm như vậy, việc cúng dường Ngài một miếng nhỏ thực phẩm vào lúc ấy còn giá trị hơn hàng trăm hay hàng ngàn vật cúng dường vào những lúc khác.
+Trong giai đoạn phát triển của pháp Bổn Tôn du già (deity yoga), có rất nhiều hình tướng khác nhau của những vị
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Bổn Tôn để ta có thể thiền quán, nhưng bản tánh của tất cả các Ngài không là gì khác hơn ngoài chính vị Bổn Sư hay vị đạo sư gốc của bạn. Nếu biết được điều đó, năng lực gia trì sẽ đến thật nhanh chóng. Trong giai đoạn toàn thiện, tất cả những cách thức phát triển trí tuệ đều tuỳ thuộc duy nhất vào năng lực của lòng quy ngưỡng Bổn Sư của bạn và vào năng lực gia trì của Ngài. Điều này bao gồm cả việc trí tuệ sẽ sinh khởi ngay trong bạn từ chính sự chứng ngộ của Thầy. Như vậy, tinh túy của những gì được chứng ngộ trong tất cả những giai đoạn hành trì, bao gồm những chứng ngộ trong hai giai đoạn phát triển và toàn thiện, tất cả đều được thể hiện trong chính vị Thầy. Đó là điều tại sao tất cả Kinh điển và Mật điển đều mô tả Ngài như một Phật trong thân tướng của con người.
+
+Vì sao Ngài là nơi nương tựa và là ruộng công đức?
+Do bởi những pháp du già nội và ngoại để thành tựu Bổn Sư
+Chứa đựng tinh túy của những chứng ngộ trong các giai đoạn phát triển và toàn thiện.
+Đó là lý do tại sao tất cả Kinh điển và Mật điển đều nói Ngài chính là một vị Phật.
+
+Mặc dù trí tuệ bát nhã của một vị Thầy siêu phàm thì đồng nhất với tất cả chư Phật, nhưng Ngài đã xuất hiện trong thân tướng của một người bình thường để dẫn dắt chúng ta là những đệ tử ô trược của Ngài. Vì thế, trong lúc chúng ta có được Ngài ở đây trong thân tướng con người, chúng ta phải nỗ lực hết mức để thực hiện bất kỳ điều gì Ngài dạy bảo và để hợp nhất tâm chúng ta với tâm Ngài qua ba loại phụng dưỡng khác nhau.
+Có những người, thay vì phụng dưỡng, tôn kính và vâng lời Thầy khi Ngài còn sống, thì giờ đây lại tự cho là Ngài đã
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+viên tịch để ngồi thiền định trước một tấm hình ai đó đã họa Ngài. Có những người cho là đã an trụ được trong những quán chiếu về chân như và họ đi tìm kiếm tất cả những gì uyên áo cao siêu ở nơi đâu khác thay vì cầu nguyện với lòng quy ngưỡng để có thể đón nhận được những phẩm hạnh cao cả của giải thoát và chứng ngộ được trí tuệ bát nhã của Thầy. Điều này được gọi là “thực hành mâu thuẫn với pháp hành trì.”
+
+Việc được gặp gỡ Thầy và được Ngài dẫn dắt trong trạng thái trung ấm chỉ có thể xảy ra do một sự nối kết tâm thức đã được thiết lập trước đó nương vào lòng sùng kính vô biên của chúng ta và vào năng lực của lòng từ bi và cầu nguyện của vị Thầy. Không phải là Thầy sẽ đến trong thân vật lý. Vì vậy, nếu bạn thiếu lòng quy ngưỡng thì cho dù vị Thầy có thể toàn thiện tới đâu chăng nữa, Ngài sẽ không hiện diện ở đó để dẫn dắt bạn trong trạng thái trung ấm.
+
+Hầu hết những kẻ xuẩn ngốc sử dụng hình Thầy để thiền định
+
+Mà không tôn kính Ngài khi Ngài hiện diện trước mặt.
+
+Họ quả quyết là thiền định về chân như, mà không thấu hiểu tâm của Thầy.
+
+Thật là một tai hoạ khi thực hành mâu thuẫn với pháp hành trì!
+
+Không có lòng quy ngưỡng mà gặp được Thầy trong trạng thái trung ấm thì quả là phép lạ!
+
+Trước hết, bạn phải cẩn thận quán sát vị Thầy. Điều này có nghĩa là trước khi cam kết đi theo Ngài qua những lễ quán đảnh và những giảng dạy, bạn phải quán sát Ngài thật kỹ lưỡng. Nếu bạn nhận ra rằng Ngài có tất cả những phẩm hạnh và tánh đức của một vị Thầy, thì hãy theo chân Ngài. Nếu vị Thầy thiếu một số phẩm hạnh thì đừng nên theo. Nhưng, từ lúc bắt đầu theo Ngài trở đi, hãy học tập để có niềm tin nơi
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Ngài và nhìn Ngài với một tri kiến thanh tịnh, chỉ nghĩ tưởng tới những công hạnh của Ngài và thấy rằng tất cả những gì Ngài làm là thiện lành. Việc đi tìm những sai lầm nơi Ngài sẽ chỉ đem lại cho bạn những bất hạnh không thể suy lường.
+Quán sát vị Thầy theo ý nghĩa chung có nghĩa quán sát xem Ngài có tất cả những phẩm hạnh đã được mô tả trong các Kinh điển và Mật điển hay không. Điều tối quan trọng là Ngài phải có Bồ Đề Tâm hay tâm giác ngộ. Như vậy thì việc quán sát một vị Thầy có thể cô đọng thành một điểm duy nhất: Ngài có Bồ Đề Tâm không? Nếu Ngài có Bồ Đề Tâm, Ngài sẽ làm bất cứ những gì tốt nhất cho đệ tử trong đời này và cho những đời tương lai, và việc họ đi theo Ngài không thể mang lại điều gì khác ngoài sự lợi ích. Giáo Pháp mà một vị Thầy như thế giảng dạy được nối kết với Đại Thừa, và đưa tới con đường chân chính. Trái lại, một vị Thầy thiếu Bồ Đề Tâm vẫn còn những tham muốn ích kỷ, và vì thế không thể chuyển hóa đúng đắn những quan điểm của đệ tử. Giáo Pháp mà họ giảng dạy dù có vẻ sâu xa và kỳ diệu cũng chỉ đem lại lợi ích cho những mối quan tâm tầm thường trong đời này. Đối với những điểm cần phải quán sát về một vị Thầy thì đây là điểm cô đọng tột yếu. Nếu trái tim của Thầy tràn đầy Bồ Đề Tâm thì hãy theo chân Ngài, cho dù ở bề ngoài Ngài có thể hiển lộ ra sao chăng nữa. Nếu vị thầy không có Bồ Đề Tâm thì đừng nên theo, dù cho thoạt đầu ta nhìn thấy tâm chán ghét thế gian, tâm cầu tìm giải thoát hay công phu hành trì miên mật và cung cách hành xử của vị thầy có ra vẻ tuyệt vời tới đâu chăng nữa.
+Tuy nhiên, với những người bình thường như chúng ta, không thể có một khối lượng quán sát kỹ lưỡng nào có thể giúp chúng ta tìm ra được những phẩm hạnh phi thường của những bậc siêu phàm đó, là những vị luôn che ẩn chân tánh của mình. Trong lúc đó, lại nhan nhản những kẻ bất tài bịp bợm giả đò làm các bậc thánh, khéo léo trong nghệ thuật lừa
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+gạt. Bậc vĩ đại nhất trong tất cả những vị Thầy là người mà chúng ta được có duyên nối kết với Ngài từ những đời trước (duyên tiền kiếp). Đối với Ngài thì việc quán sát thật không cần thiết. Hãy chỉ đơn giản được diện kiến Ngài, chỉ lắng nghe giọng Ngài nói – hoặc thậm chí chỉ nghe danh hiệu của Ngài – là mọi sự có thể được chuyển hóa trong chốc lát và khơi dậy một niềm tin đến nỗi chúng ta phải dựng tóc gáy.
+
+Ngài Rongton Lhaga nói với Ngài Milarepa* rằng: “Vị Lạt Ma mà ông đã có duyên từ những kiếp trước là bậc tối hảo trong tất cả muôn loài, là vua của các dịch giả, có danh hiệu là Marpa. Ngài sống ẩn tu tại Trowolung ở miền Nam. Hãy đi và tìm gặp Ngài!”
+
+Chỉ nghe tới tên của Ngài Marpa không thôi là cũng đã đủ để khơi dậy trong Milarepa một niềm tin phi thường tận sâu thẳm tâm hồn. Ngài nghĩ: “Ta phải tìm gặp vị Lạt Ma này và trở thành đệ tử của Ngài, dù phải trả giá bằng cả cuộc đời ta.” Ngài kể lại với chúng ta rằng vào ngày hai thầy trò gặp nhau, Marpa đã ra đến tận ngoài đường để ngóng tìm Milarepa nhưng giả vờ như đang cày ruộng. Khi thoạt nhìn thấy Marpa, Milarepa không nhận ra được đó là vị Đạo Sư của mình. Tuy nhiên, trong chốc lát, mọi niệm tưởng lăng xăng tầm thường của Milarepa ngưng bặt và Milarepa đã đứng sững cả người.
+
+Nói chung, vị Đạo Sư mà chúng ta được gặp là do ở tri kiến thanh tịnh hay bất tịnh của chúng ta, và do năng lực của những hành nghiệp của ta trong quá khứ. Vì vậy, cho dù Ngài có thể là người như thế nào chăng nữa thì cũng không bao giờ được ngừng coi Ngài như là một vị Phật đích thực mà nhờ vào thiện tâm của Ngài, bạn mới nhận được Giáo Pháp và những chỉ dạy riêng. Nếu không nhờ những nhân duyên tốt lành được tạo nên bởi những hành nghiệp của bạn trong quá khứ thì bạn sẽ không bao giờ có may mắn gặp được vị Thầy tuyệt hảo. Hơn nữa, nếu tri kiến của bạn bất tịnh, thì cho dù bạn có
+
+* Tiểu sử Ngài Milarepa được thuật lại chi tiết hơn ở cuối chương này.
+
+238
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+thể gặp được Đức Phật trong thân người, bạn cũng vẫn không thể nhận ra được những phẩm tính phi thường của Ngài. Vị Thầy mà bạn gặp nhờ vào năng lực của những hành nghiệm trong quá khứ, là người đã gia hộ từ bi cho bạn, vị Thầy đó chính là vị Thầy quan trọng nhất trong tất cả các vị Thầy.
+
+Trong giai đoạn ở giữa, hãy thực sự theo chân Thầy, tuân lời Ngài trong tất cả mọi việc và bất chấp mọi gian khổ, nóng, lạnh, đói, khát. Hãy khẩn cầu Ngài với niềm tin và lòng quy ngưỡng. Hãy thỉnh cầu lời khuyên của Ngài về bất kỳ những gì bạn làm. Bất kể điều gì Ngài nói với bạn, hãy đưa vào thực hành, hoàn toàn nương tựa nơi Ngài.
+
+Vào giai đoạn cuối, hãy noi gương sự chứng ngộ và hành động của Thầy, kể cả trong việc quán sát kỹ lưỡng cách xử sự của Ngài và hãy làm đúng như Ngài đã làm. Như tục ngữ có nói: “Mỗi hành vi là một sự noi gương; ai noi gương giỏi nhất, thì đó là người hành xử tốt nhất.” Có thể nói việc thực hành Giáo Pháp là sự noi gương chư Phật và Bồ Tát trong quá khứ. Khi người đệ tử đang học tập để trở thành giống như Thầy mình, anh ta cần phải thực sự đồng nhất với sự chứng ngộ và phương cách hành xử của vị Thầy. Người đệ tử phải giống như một (bức tượng) tsa-tsa sản xuất ra từ cái khuôn của vị Thầy. Giống như tsa-tsa tái tạo lại một cách trung thực tất cả những hoa văn được chạm khắc trên khuôn mẫu, thì cũng thế, người đệ tử phải quyết tâm đạt cho bằng được những phẩm hạnh y hệt như của Thầy, hay tối thiểu thì cũng gần giống được bất kỳ phẩm hạnh nào mà Thầy có.
+
+Bất kỳ người nào trước tiên khéo léo quán sát vị Thầy, sau đó khéo léo theo chân của Ngài, và cuối cùng khéo léo noi gương sự chứng ngộ và hành động của Ngài, thì người ấy sẽ luôn luôn ở trên con đường chân chánh, dù có thế nào đi nữa.
+
+*Lúc ban đầu, khéo léo quán sát Thầy;*
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Vào lúc giữa, khéo léo theo chân Ngài;
+Vào lúc cuối, khéo léo noi gương chứng ngộ và hành động của Ngài.
+Làm được như vậy thì người đệ tử đang đi trên con đường chân chánh.
+
+Một khi bạn gặp được vị Thầy tâm linh cao quý, là người có được tất cả những phẩm hạnh cần thiết, thì hãy theo chân Ngài mà không cần phải quan tâm tới bất kỳ một sự an nguy nào khác – y như khi Thường Đề Bồ Tát (Sadaprarudita) đã đi theo Pháp Khởi Bồ Tát (Dharmodgata), như khi đại học giả Naropa đi theo Ngài Tilopa tối thượng, và như khi Ngài Jetsun Mila đi theo Ngài Marpa xứ Lhodrak.
+
+Trước tiên, đây là câu chuyện làm thế nào Thường Đề Bồ Tát (Sadaprarudita) đi theo Pháp Khởi Bồ Tát (Dharmodgata).\* Ngài Thường Đề Bồ Tát (Sadaprarudita) đang cầu tìm Bát Nhã Ba La Mật (Prajnaparamita), là giáo lý của trí tuệ siêu việt.
+
+Một ngày nọ, trong lúc đi tìm kiếm, Ngài đến một nơi hoang vắng cô tịch, ở đó Ngài nghe một tiếng nói từ không trung: “Ôi, hỡi đứa con may mắn, hãy đi về hướng Đông và con sẽ được nghe. Hãy đi dù ngày hay đêm, bất kể nhọc nhằn, ngủ nghỉ hay mê mệt, nóng hay lạnh của thân xác. Chớ nhìn qua trái hay phải. Chẳng mấy chốc con sẽ nhận được Bát Nhã Ba La Mật. Giáo lý này sẽ đến từ trong Kinh sách hoặc được một nhà sư, hiện thân của Giáo Pháp, sẽ giảng dạy cho con. Vào khi đó, hỡi đứa con may mắn, hãy đi theo và trung thành với vị Thầy đã dạy con Bát Nhã Ba La Mật, hãy nhận Ngài làm Thầy và tôn kính Giáo Pháp của Ngài. Ngay cả nếu con nhìn thấy Ngài hưởng thụ năm khoái lạc giác quan, hãy
+
+\* Danh hiệu Sadaprarudita có nghĩa là “Thường Xuyên Than Khóc.” Dharmodgata có nghĩa là “Giáo Pháp Vi Diệu.”
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+nhận thức rằng các vị Bồ Tát luôn luôn thiện xảo khi sử dụng phương tiện, và đừng bao giờ đánh mất lòng tin của con."
+
+Nghe được những lời đó, Thường Đề Bồ Tát (Saraprarudita) bắt đầu đi về hướng Đông. Nhưng chưa đi được bao xa thì Ngài nhận ra rằng đã quên hỏi giọng nói trên không trung kia là Ngài phải đi bao lâu nữa – và vì vậy Ngài không nghĩ ra được cách làm thế nào để tìm ra cho ra được vị thầy sẽ giảng dạy về Bát Nhã Ba La Mật. Ngài than khóc và thệ nguyện rằng sẽ không quản ngại gian khổ, đói khát và ngủ nghỉ, ngày cũng như đêm cho đến khi nào nhận được giáo lý. Ngài đã bị rúng động một cách mãnh liệt, như một người mẹ lạc mất đứa con độc nhất của mình. Ngài bị ám ảnh thường xuyên bởi một câu hỏi duy nhất là khi nào thì Ngài sẽ được nghe Giáo Lý Bát Nhã Ba La Mật.
+
+Ngay lúc đó, Như Lai thị hiện trong một thân tướng trước mặt Ngài và tán thán việc cầu Pháp của Ngài. Đức Như Lai nói thêm rằng: "Cách đây năm trăm lý (1 lý khoảng 4,8km), có một thành phố tên là Thành Phố Thoảng Hương. Thành phố này được xây dựng bằng bảy chất liệu quý giá, có năm trăm công viên bao quanh và có mọi phẩm tính tốt đẹp. Ở trung tâm thành phố, nơi giao nhau của bốn đại lộ, là trú xứ của Pháp Khởi Bồ Tát (Darmodgata). Nó cũng được xây dựng bởi bảy loại chất liệu quý giá, có chu vi khoảng một lý. Ở đó, trong các khu vườn và những trụ xứ hỉ lạc khác là nơi cư ngụ của Đại Bồ Tát Pháp Khởi cùng tăng thân của Ngài. Cùng với sáu mươi tám ngàn nữ nhân, Bồ Tát thụ hưởng lạc thú của năm dục lạc là những dục lạc mà Ngài đã hoàn toàn làm chủ, hoan hỉ làm bất cứ điều gì Ngài ưa thích. Suốt trong ba thời quá khứ, hiện tại và vị lai, Pháp Khởi Bồ Tát giảng dạy Giáo Pháp Bát Nhã Ba la mật cho những ai cư trú ở đấy. Hãy tới trụ xứ của Ngài, và ông sẽ được nghe giáo lý Bát Nhã Ba La Mật từ Ngài."
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Giờ đây Thường Đề Bồ Tát (Sadaprarudita) không thể nghĩ được gì ngoài những điều Ngài vừa nghe thấy. Ngay tại nơi đang đứng, Ngài đã có thể nghe được Pháp Khởi Bồ Tát (Dharmodgata) giảng dạy Bát Nhã Ba La Mật (Prajnaparamita). Ngài đã trải nghiệm vô số trạng thái thiền định. Ngài nhận ra được những cõi giới khác nhau trong mười phương thế giới, và nhìn thấy hằng hà sa chư Phật đang giảng dạy Bát Nhã Ba la mật. Chư Phật đang tán thán Pháp Khởi Bồ Tát trước khi biến mất. Tràn đầy hoan hỷ, niềm tin và lòng quy ngưỡng đối với Pháp Khởi Bồ Tát, Bồ Tát Thường Đề tự hỏi làm cách nào có thể diện kiến được Pháp Khởi Bồ Tát.
+
+Ngài nghĩ: “Ta nghèo quá, không có gì để dâng cúng Ngài, không y áo hay châu báu, không dầu thơm hay vòng hoa, cũng chẳng có bất kỳ vật gì khác để tỏ lòng tôn kính một vị thầy. Vậy ta sẽ bán thịt của mình, rồi lấy số tiền đó cúng dường cho Pháp Khởi Bồ Tát (Dharmodgata). Từ vô thuỷ, trong vòng luân hồi, ta đã từng bán thịt của mình không biết bao nhiêu lần; cũng vô số lần ta đã bị chặt thành từng mảnh và bị thiêu hủy trong những địa ngục là nơi ta bị tham dục lôi kéo xuống – nhưng chưa bao giờ ta thọ nhận được một Giáo lý như thế này hay tôn kính một vị Thầy cao cả như vậy!”
+
+Thường Đề Bồ Tát (Sadaprarudita) đi đến giữa khu chợ và bắt đầu kêu lên, “Ai cần người? Ai muốn mua một con người?”
+
+Nhưng những tinh linh xấu ác vì ghen tức với Thường Đề Bồ Tát đang được trải qua những thử thách để làm lợi lạc cho Giáo Pháp, chúng tinh linh này đã làm cho mọi người ở trong chợ không nghe được những gì Ngài nói. Không tìm thấy người mua thịt của mình, Thường Đề Bồ Tát đi tới một góc chợ và ngồi xuống khóc than, nước mắt rơi lã chã.
+
+Sau đó vua Trời Đế Thích (Indra) quyết định thử thách quyết tâm của Ngài. Trong hình tướng của một người bà la môn trẻ, Thiên Vương xuất hiện trước mặt Thường Đề Bồ Tát
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+và nói: “Ta không cần cả một thân người. Ta chỉ cần một ít thịt, ít mỡ và một ít tủy xương của một người để cúng dường. Nếu ngươi có thể bán cho ta những thứ đó, ta sẽ trả tiền cho ngươi.”
+
+Vui mừng khôn xiết, Thường Đề Bồ Tát lấy một con dao bén cắt vào tay phải cho đến khi máu phun ra. Rồi Ngài lóc tất cả thịt ở đùi phải, và khi đang chuẩn bị đập xương vào tường thì cô con gái của một thương gia giàu có từ tầng trên cùng ngôi nhà của cô đã nhìn thấy Ngài, bèn chạy bổ xuống.
+
+“Bậc tôn quý, vì sao ngài lại gây đau đớn như thế trên thân thể của mình?” cô ta hỏi.
+
+Ngài giải thích rằng Ngài muốn bán thịt của mình để có thể thực hiện cúng dường cho Pháp Khởi Bồ Tát (Dharmodgata).
+
+Khi cô gái trẻ hỏi Ngài sẽ được lợi ích gì từ lòng tôn kính như vậy, Thường Đề Bồ Tát (Sadaprarudita) trả lời: “Ngài sẽ dạy cho tôi những phương tiện thiện xảo của chư vị Bồ Tát và giáo lý Bát Nhã Ba la mật. Sau này nếu tôi tu tập Giáo Pháp đó, tôi sẽ đạt được toàn giác, có được nhiều phẩm hạnh phi thường của một vị Phật và có thể chia sẻ Giáo Pháp quý báu với tất cả chúng sinh.”
+
+Cô gái nói: “Chắc chắn là mỗi một phẩm hạnh trong những phẩm hạnh [của một vị Phật] hoàn toàn xứng đáng với sự cúng dường thân mạng nhiều như cát sông Hằng. Nhưng đừng nên làm tổn hại thân Ngài như vậy! Con sẽ dâng tặng Ngài bất cứ thứ gì Ngài cần để tỏ lòng tôn kính Pháp Khởi Bồ Tát và sẽ đi cùng với Ngài tới gặp Bồ Tát. Khi làm như vậy, con sẽ vun trồng cội công đức, và công đức này cũng giúp cho con đạt được những phẩm hạnh tương tự.”
+
+Khi cô nói xong, vua trời Đế Thích thị hiện trong hình tướng của mình và nói với Thường Đề Bồ Tát, “Ta là vua trời Đế Thích, vua của chư Thiên. Ta đến đây để thử thách sự
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+quyết tâm của ông. Chỉ cần ông yêu cầu là ta sẽ ban cho ông bất kỳ những gì ông muốn.”
+
+"Xin ban cho tôi những tánh đức không thể nghĩ bàn của chư Phật!” Thường Đề Bồ Tát trả lời.
+
+“Ta không thể cho ngươi điều đó,” vua trời Đế Thích nói, “Những điều như thế không nằm trong phạm vi của ta.”
+
+“Nếu thế thì Ngài không cần phải nhọc sức làm cho thân tôi toàn vẹn trở lại,” Thường Đề Bồ Tát nói. “Tôi sẽ khẩn cầu năng lực gia trì của chân lý. Nhờ sự gia trì của lời tiên tri của chư Phật mà tôi sẽ không bao giờ quay trở lại vòng luân hồi, nhờ chân lý của sự quyết tâm siêu phàm và bất thối chuyển của tôi, cầu mong thân tôi hồi phục như cũ!”
+
+Với những lời này, thân Ngài trở nên hoàn toàn như trước. Và vua trời Đế Thích biến mất.
+
+Thường Đề Bồ Tát đi cùng cô con gái của vị thương gia tới nhà cha mẹ cô và kể lại cho họ câu chuyện của mình. Họ cung cấp cho Ngài nhiều phẩm vật cần thiết để cúng dường. Sau đó, ngài cùng với cô con gái và cha mẹ cô cùng với năm trăm thị nữ và toàn bộ đoàn tuỳ tùng của họ khởi hành bằng xe ngựa đi về hướng Đông, và tới Thành Phố Thoảng Hương. Ở đó, Ngài nhìn thấy Pháp Khởi Bồ Tát đang thuyết Pháp cho hàng ngàn người. Ngài tràn đầy lòng quyết tâm và hỉ lạc của một vị sự khi an trú trong định. Tất cả xuống xe và đi tới diện kiến Ngài Pháp Khởi Bồ Tát.
+
+Vào lúc đó, Pháp Khởi Bồ Tát đã xây dựng một điện thờ để tàng chứa và giảng Bát Nhã Tâm Kinh. Điện thờ được làm bằng bảy vật liệu quy giá, tô điểm bằng gỗ đàn hương đỏ phủ một lớp chạm trổ bằng những viên ngọc. Ở mỗi một phương trong bốn hướng có đặt những viên ngọc như ý giống như những ngọn đèn và những lư hương bạc, từ đó những nén nhang cúng dường làm bằng gỗ lô hội đen toả hương nhẹ nhàng. Ở chính giữa điện là bốn tủ ngọc đựng những quyển
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+kinh Bát Nhã Ba la mật, được làm bằng vàng và viết bằng mực lưu ly xanh biếc.
+
+Nhìn thấy cả hai loài Trời và người đang hành lễ cúng dường, Thường Đề Bồ Tát bèn hỏi thăm rồi cùng với cô con gái, thương gia và năm trăm thị nữ cùng nhau trang nghiêm cúng dường.
+
+Sau đó, họ tiến tới gần Pháp Khởi Bồ Tát, người đang ban truyền giáo lý cho các đệ tử, và tỏ lòng tôn kính Bồ Tát bằng tất cả những phẩm vật cúng dường của họ. Con gái của vị thương gia và những thị nữ của cô đã thọ giới của Bồ Đề Tâm tối thượng. Thường Đề Bồ Tát (Sadaprarudita) hỏi Pháp Khởi Bồ Tát (Dharmodgata) là chư Phật mà Thường Đề Bồ Tát đã thấy trước đó, từ đâu đến và các Ngài đi về đâu. Pháp Khởi Bồ Tát trả lời bằng cách giảng dạy một chương về đề mục chư Phật không đến cũng không đi.* Sau đó Pháp Khởi Bồ Tát rời pháp toà và đi tới khu vực riêng, ở đó Bồ Tát an trú trong trạng thái thiền định nhất như trong bảy năm.
+
+Suốt trong thời gian đó, Thường Đề Bồ Tát, con gái vị thương gia và năm trăm thị nữ không nằm hoặc ngồi nữa, mà thường xuyên đứng thẳng. Khi đứng yên hay đi kinh hành, họ chỉ đặt hết chú tâm vào thời điểm mà Pháp Khởi Bồ Tát sẽ xuất định và giảng Pháp một lần nữa.
+
+Khi bảy năm gần kết thúc, Thường Đề Bồ Tát nghe chư Thiên thông báo là trong bảy ngày nữa, Pháp Khởi Bồ Tát sẽ xuất định và bắt đầu giảng dạy trở lại. Cùng với năm trăm thị nữ, Thường Đề Bồ Tát quét dọn trong phạm vi rộng một lý tại địa điểm mà Pháp Khởi Bồ Tát sắp đăng đàn thuyết pháp. Khi Ngài bắt đầu rải nước trên nền đất cho khỏi bụi, Ma Vương làm cho tất cả những nước ấy biến mất. Vì vậy, Thường Đề Bồ Tát đã cắt mạch máu và rải máu mình trên mặt đất, con gái vị thương gia cùng năm trăm thị nữ cũng làm như vậy. Vua trời
+
+* Điều này có nghĩa là chư Phật không bị những khái niệm về nơi chốn trói buộc.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Đế Thích biến máu của họ thành gỗ đàn hương đỏ của những cõi Trời.
+
+Cuối cùng, Pháp Khởi Bồ Tát (Dharmodgata) đã đến và ngự trên ngai sư tử mà Thường Đề Bồ Tát (Sadaprarudita) và những người khác đã chuẩn bị thật hoàn hảo, ở đó Pháp Khởi Bồ Tát thuyết giảng Bát Nhã Ba la mật. Thường Đề Bồ Tát đã trực nghiệm sáu triệu trạng thái định khác nhau và có linh kiến về vô số chư Phật – một linh kiến không bao giờ xa lìa Ngài, ngay cả trong những giấc mơ. Người ta nói rằng giờ đây Thường Đề Bồ Tát đang an trụ trong trụ xứ của đức Phật toàn giác có danh hiệu là Diệu Âm Phật.
+
+Trong lúc đi theo Ngài Tilopa, đại học giả Naropa cũng phải trải qua vô vàn gian khó. Như chúng ta đã thấy trước đây, Naropa gặp Ngài Tilopa, lúc đó Ngài đang sống như một người hành khất, và Naropa xin Ngài Tilopa nhận mình làm đệ tử. Tilopa chấp nhận lời khẩn cầu này và đem Naropa theo bất cứ chỗ nào Ngài đi tới, nhưng chẳng bao giờ dạy cho đệ tử bất kỳ Giáo Pháp nào.
+
+Một ngày kia, Tilopa đem Naropa lên đỉnh một ngọn tháp chín tầng và hỏi: “Có ai tuân lời Thầy mà nhảy xuống từ ngọn tháp này không?”
+
+Naropa tự nghĩ, “Ở đây chẳng còn ai khác, vậy chắc Ngài muốn nói đến ta.” Ông bèn nhảy xuống từ tháp, thân đổ sầm xuống đất khiến ông cực kỳ đau đớn.
+
+Tilopa đi xuống và hỏi, “Ngươi có đau không?”
+
+“Không chỉ đau,” Naropa rên rỉ. “Con chẳng hơn gì một xác chết ...” Nhưng Tilopa từ bi gia hộ cho ông, và thân ông lại hoàn toàn lành lặn. Sau đó Ngài Tilopa lại dẫn Naropa cùng đi trong chuyến du hành.
+
+Một ngày nọ, Ngài Tilopa ra lệnh cho ông, “Naropa, hãy nhóm lửa lên!”
+
+# VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Khi lửa đã bốc cháy, Ngài Tilopa đã chuẩn bị nhiều mảnh tre dài, tẩm dầu và đưa vào lửa để làm cứng chắc.
+
+“Nếu ngươi vẫn tiếp tục vâng lời Thầy, ngươi cũng phải trải qua những thử thách như thế này,” Ngài nói và thọc các mảnh tre vào dưới móng tay và chân của Naropa.
+
+Mọi khớp xương của Naropa hoàn toàn co cứng và ông kinh nghiệm nỗi đau đớn và khổ sở không thể chịu đựng nổi. Rồi vị Đạo Sư bỏ đi. Vài ngày sau, khi Ngài trở lại, Ngài rút những mảnh tre ra, rất nhiều máu mủ tuôn ra từ những vết thương của Naropa. Một lần nữa, Ngài từ bi gia hộ và lại cùng ông lên đường.
+
+Một ngày khác Ngài nói: “Naropa, ta đói. Hãy đi xin một ít thức ăn cho ta!”
+
+Naropa đi đến một nơi rất đông nông dân đang bận rộn ăn uống, ông xin được món súp đựng đầy trong một bình bát làm bằng sọ người\* và mang về cho Thầy. Tilopa ăn hết sức ngon lành và dường như Ngài rất hài lòng.
+
+Naropa nghĩ, “Ta đã phụng dưỡng Ngài trong suốt một thời gian dài, chưa bao giờ ta thấy Thầy ta hạnh phúc như vậy. Nếu hỏi xin nữa thì có lẽ ta sẽ được thêm một ít.”
+
+Cầm bình bát sọ người trong tay, ông lên đường đi khất thực lần nữa. Vào lúc này những người nông dân đã trở lại cánh đồng của họ, để lại món súp dư thừa ở chỗ cũ.
+
+“Việc duy nhất làm được là lấy trộm món súp,” Naropa tự nghĩ, rồi lấy súp và bỏ chạy.
+
+Nhưng những người nông dân thấy được. Họ túm bắt và đánh đập ông, bỏ mặc cho ông chết. Trong nhiều ngày, ông đau đớn tới nỗi không gượng dậy nổi. Một lần nữa vị Thầy lại đến, từ bi gia hộ và cùng ông lên đường như trước.
+
+\* *thod phor* (Phạn: *kapala*). Một bình bát làm bằng sọ người. Đỉnh của một sọ người được các hành giả du già dùng làm bình bát. Bình bát này tượng trưng cho vô ngã.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+Một ngày khác Ngài Tilopa lại nói: “Naropa, ta cần rất nhiều tiền,99 hãy lấy trộm về cho ta một ít.”
+
+Naropa bèn đi ăn trộm tiền của một người giàu có, nhưng bị bắt tại trận. Ông bị túm lấy, bị đánh đập và lại bị bỏ mặc cho chết. Vài ngày sau Tilopa tới và hỏi ông: “Ngươi có đau không?” Khi nhận được câu trả lời như lần trước, Ngài Tilopa lại từ bi gia hộ cho Naropa, và lại cùng nhau lên đường.
+
+Naropa đã phải trải qua mười hai thử thách chính và mười hai thử thách phụ như thế – đây là hai mươi bốn thử thách mà ông phải chịu đựng trong một đời. Cuối cùng họ cũng đi tới chỗ kết thúc.
+
+Một hôm, Tilopa nói, “Naropa, hãy đi lấy ít nước. Ta sẽ ở đây nhóm lửa.”
+
+Khi Naropa mang nước trở về, Tilopa nhảy ra từ đống lửa và dùng tay trái tóm lấy đầu Naropa.
+
+“Đưa ta xem trán của ngươi,” Ngài ra lệnh.
+
+Ngài lấy tay phải cởi dép ra và đánh vào trán của đệ tử. Naropa ngã ra bất tỉnh. Khi ông tỉnh dậy, tất cả những phẩm hạnh của trí tuệ bát nhã của vị Thầy đã phát khởi trong ông. Đạo Sư và đệ tử đã trở thành hợp nhất trong chứng ngộ.
+
+Tóm lại, hai mươi bốn thử thách mà đại học giả Naropa phải trải qua chính là những giáo huấn của Thầy cho nên những thử thách này đã trở thành các phương tiện thiện xảo mà qua đó các chướng nghiệp của ông đã được đoạn diệt. Bởi những thử thách này hiện ra giống như là những kinh nghiệm gian khó hoàn toàn vô nghĩa lý, khiến cho không ai nghĩ rằng đó chính là Giáo Pháp. Quả thực là vị Thầy đã không hề thốt ra một lời giảng dạy nào và đệ tử cũng chẳng thực hành một giây phút nào, ngay cả một lễ lạy duy nhất cũng không có. Tuy nhiên, một khi Naropa đã gặp được một vị Thành Tựu Giả đắc đạo, ông đã tuân theo tất cả những huấn lệnh của Ngài bất chấp mọi khó khăn, và khi làm như thế thì ông đã hoàn tất
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+việc tịnh hóa tất cả những chướng ngại của mình khiến kinh nghiệm chứng ngộ phát khởi trong ông.
+
+Không có một thực hành Giáo Pháp nào lớn lao hơn việc tuân theo lời Thầy. Những lợi lạc của điều này thì vô lượng như chúng ta có thể thấy ở đây. Trái lại, nếu không tuân lời Ngài dù chỉ một chút thôi cũng là một lỗi lầm cực kỳ nghiêm trọng.
+
+Có lần Tilopa cấm Naropa không được nhận trách nhiệm của một vị học giả trưởng lão trì giữ các “cánh cổng” (phân khoa) tại đại học viện Vikramasila.^100 Nhưng ít lâu sau đó, khi Naropa đến Ma Kiệt Đa (Magadha), một trong những học giả giữ chức vụ đó đã chết. Vì không ai có khả năng tranh luận với những kẻ ngoại đạo nên tất cả các học giả van nài Naropa nhận nhiệm vụ bảo vệ cổng phía Bắc, và khăng khăng thúc bách cho đến khi ông chấp thuận. Tuy nhiên, khi một kẻ ngoại đạo xuất hiện để tranh luận, Naropa đã tranh luận trong nhiều ngày mà cuối cùng không thể đánh bại ông ta. Naropa cầu nguyện Thầy mình cho tới khi cuối cùng một ngày kia Tilopa thị hiện và nhìn Naropa bằng cái nhìn như muốn xuyên thủng ông.
+
+“Ngài quá ít lòng từ bi - sao Ngài không tới sớm hơn?” Naropa than vãn.
+
+“Không phải ta đã cấm ông nhận chức vụ trưởng lão trì giữ cổng viện hay sao?” Tilopa hỏi vặn lại.
+
+“Tuy vậy, trong khi tranh luận, hãy quán tưởng ta ở trên đầu ông và kết ấn phẫn nộ (hàng phục) trước người ngoại đạo!”
+
+Naropa làm theo lời Ngài, thắng thế trong cuộc tranh luận, và chấm dứt được tất cả luận cứ của những kẻ ngoại đạo.
+
+Cuối cùng, đây là cách thức Jetsun Milarepa đi theo Ngài Marpa xứ Lhodrak. Trong vùng Ngari Gungthang có một người
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+giàu có tên là Mila Sherab Gyeltsen. Ông có một con trai và một con gái, người con trai tên là Mila Thopa-ga, “Mila Hoan Hỷ Khi Nghe Đến,” mà sau này trở thành Ngài Jetsun Milarepa. Khi hai người con còn nhỏ thì cha chúng mất. Người chú tên là Yungdrung Gyaltsen đã chiếm đoạt tất cả của cải và tài sản. Hai đứa bé và mẹ chúng bị bỏ mặc không tiền bạc và thực phẩm, buộc phải trải qua nhiều gian khổ. Mila đã học chú thuật và cách tạo mưa đá từ nhà huyền thuật Yungton Throgyal ở xứ Tsang và Lharje Nupchung. Bằng cách làm sập nhà, Mila gây nên cái chết cho con trai và con dâu của người chú cùng với ba mươi ba người khác. Khi tất cả dân chúng trong làng trở nên giận dữ chống lại Mila thì ông đã tạo ra một trận mưa đá dữ dội tới nỗi lớp nước đá phủ trên mặt đất dày bằng ba lớp tường đất sét.101
+
+Sau đó, hối hận về những ác hạnh đã tạo, Mila quyết định tu theo con đường Phật Pháp. Nghe lời khuyên của Lạt Ma Yungton, ông đi tìm gặp một vị thầy tinh thông Pháp Đại Viên Mãn tên là Rongton Lhaga, và xin được chỉ dạy.
+
+Vị Lạt Ma trả lời: “Giáo Pháp ta dạy là Đại Viên Mãn. Gốc của Pháp ấy là sự chiến thắng của nguyên sơ, ngọn của Pháp ấy là sự chiến thắng của giai đoạn thành tựu và quả của Pháp ấy là sự chiến thắng của pháp môn du già.102 Nếu hành giả thiền định về Pháp ấy trong ngày, hành giả có thể thành Phật trong ngày đó; nếu thiền định về Pháp ấy trong đêm, hành giả có thể thành Phật ngay trong đêm đó. Những người may mắn mà hành nghiệp trong quá khứ của họ đã tạo nên những thiện duyên thích hợp thì thậm chí không cần phải thiền định; họ sẽ được giải thoát chỉ nhờ nghe được Pháp ấy. Vì Pháp ấy là Giáo Pháp dành cho những người có căn cơ lỗi lạc xuất chúng nên Ta sẽ dạy Pháp ấy cho ngươi.”
+
+Sau khi nhận được quán đảnh và những giáo huấn, Mila tự nghĩ: “Ta đã mất hai tuần để đạt được những dấu hiệu thành công quan trọng trong việc sử dụng bùa chú. Bảy ngày
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+đủ để làm được mưa đá. Giờ đây là một giáo lý còn dễ hơn cả bùa chú và mưa đá – nếu bạn thiền định trong ngày, bạn sẽ thành Phật ngay trong ngày đó; nếu thiền định vào ban đêm bạn sẽ thành Phật ngay trong đêm đó – và nếu hành nghiệp trong quá khứ của bạn đã tạo ra những thiện duyên thích hợp, thì thậm chí bạn hoàn toàn chẳng phải cần thiền định gì hết! Nhìn thấy cách ta đã gặp được giáo lý này như thế nào thì rõ ràng ta phải là một trong những người có những thiện hạnh trong quá khứ.”
+
+Vì thế, Ngài cứ ngồi ở trên giường mà không thiền định, do đó hành giả và giáo lý tách lìa nhau.
+
+Vài ngày sau vị Lạt Ma nói với Ngài: “Những gì ta nói với người đều là sự thật. Ngươi thực sự là kẻ đại tội lỗi, và ta đã tán thán giáo lý của ta hơi thái quá. Vì thế bây giờ ta sẽ không dẫn dắt ngươi nữa. Ngươi nên đi đến ẩn thất Trowolung ở Lhodrak, ở đó có một đệ tử chân truyền của thành tựu giả Ấn Độ Naropa. Ngài là Marpa, bậc xuất sắc nhất trong các vị Đạo Sư, vua của các dịch giả. Ngài là một thành tựu giả của Truyền Thống Tân Mật,103 và khắp tam giới không ai sánh bằng. Vì ngươi và Ngài có mối liên kết bắt nguồn từ các hành nghiệp trong những đời trước (có nhân duyên tiền kiếp), nên ngươi hãy đi tìm gặp Ngài!”
+
+Chỉ cần nghe tới âm thanh danh hiệu của Dịch Giả Marpa là cũng đủ làm cho tâm thức Milarepa tràn ngập niềm an lạc vô tả. Ngài hoan hỷ tới nỗi mọi lỗ chân lông trên thân Ngài đều dựng đứng, và cảm thức sùng kính bao la ngập đầy khiến mắt Ngài đẫm lệ. Milarepa lên đường, tự hỏi bao giờ mới được diện kiến vị Thầy của mình.
+
+Lúc bấy giờ Marpa và vợ Ngài có nhiều giấc mơ lạ thường, và Marpa biết rằng Jetsun Mila đang trên đường đi tới chỗ Ngài. Ngài đi xuống thung lũng để chờ Mila tới, giả vờ như đang cày ruộng. Thoạt tiên Mila gặp con trai của Marpa là Tarma Dode đang chăn trâu. Tiếp tục đi xa hơn một chút, Mila
+
+# LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+thấy Marpa đang cày ruộng. Lúc Mila nhìn thấy Ngài Marpa, Mila kinh nghiệm trạng thái hỷ lạc mãnh liệt vô tả; trong chốc lát, mọi niệm tưởng tầm thường ngưng bặt. Tuy nhiên, Mila không nhận ra được rằng đây là một Lạt ma bằng xương bằng thịt, và giải thích với người rằng mình tới đây để tìm gặp Marpa.
+
+“Ta sẽ dẫn mi tới gặp Ngài,” Marpa trả lời. “Hãy cày đám ruộng này cho ta.” Để lại cho Mila một bình bia, Marpa bỏ đi. Mila uống cạn bia rồi làm việc. Khi Mila hoàn tất công việc, con trai của vị Lạt ma tới gọi và cả hai cùng đi.
+
+Khi Mila được đưa tới trước mặt vị Lạt ma, Mila đặt hai lòng bàn chân Marpa trên đỉnh đầu mình và kêu lên: “Ôi, Đạo sư! Con là một kẻ đại tội lỗi ở phương tây! Con xin cúng dường Ngài thân, khẩu và ý của con. Xin nuôi dưỡng, cho quần áo mặc và dạy con Giáo Pháp. Xin dạy cho con cách thức để thành Phật trong đời này!”
+
+“Không phải là lỗi của ta khi mi tự cho mình là một kẻ xấu xa như thế,” Marpa trả lời. “Ta không yêu cầu mi tích lũy những ác hạnh vì lợi ích của ta! Vậy mi đã làm những điều gì sai trái?”
+
+Mila thuật lại cho Ngài toàn bộ chi tiết câu chuyện.
+
+“Tốt lắm,” Marpa ưng thuận, “trong bất kỳ trường hợp nào, việc cúng dường thân, khẩu và ý của mi là một điều tốt. Tuy nhiên, về phần quần áo, thực phẩm và Giáo Pháp thì mi không thể có cả ba. Hoặc ta cho mi quần áo và thực phẩm còn Giáo Pháp thì mi phải đi tìm ở nơi khác, hoặc mi nhận Giáo Pháp của ta và tìm phần còn lại ở nơi nào đó. Hãy quyết định đi. Và nếu chọn Giáo Pháp, thì việc mi có đạt được Phật Quả trong đời này hay không sẽ tùy thuộc vào hạnh nhẫn của bản thân mi.”
+
+Mila nói: “Nếu đúng như thế thì con sẽ tìm lương thực và quần áo ở nơi khác bởi con tới đây chỉ vì Pháp.”
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Mila ở lại vài ngày và đi xin khắp xứ Lhodrak thượng và hạ được hai mươi mốt thùng lúa mạch. Ông dùng mười bốn thùng để mua một ấm đồng có bốn quai. Đổ sáu bình lúa vào một cái bao, ông trở về cúng dường ấm và lúa cho Marpa.
+
+Khi Mila đặt bao lúa mạch xuống, ông làm căn phòng rung chuyển, làm cho Marpa thức giấc.
+
+“Mi là một tên pháp sư trẻ có sức mạnh, phải vậy không?” Ngài nói. “Bộ mi định giết chết cả nhà ta bằng cách làm sập nhà với hai tay trần của mi chắc? Đem bao lúa mì đó ra khỏi đây ngay!” Ngài đá cái bao, và Mila phải đem nó ra ngoài. Lát sau, Mila đưa cho Ngài Marpa cái ấm rỗng.[104]
+
+Một ngày nọ, Marpa nói với Mila: “Những người xứ Yamdrok Taklung và Lingpa đang tấn công những đệ tử trung thành ở U và Tsang tới thăm ta, và trộm cướp lương thực cùng đồ cúng dường của họ. Hãy trút mưa đá xuống chúng! Vì đó cũng là một loại Pháp, sau đó ta sẽ ban cho mi những giáo huấn.”
+
+Mila gây ra những trận mưa đá tàn phá cả hai vùng này và sau đó đi cầu giáo lý.
+
+“Mi nghĩ ta sắp trao cho mi giáo lý đem về từ Ấn Độ có giá trị to lớn như vậy để đổi lấy ba hay bốn trận mưa đá hay sao? Nếu mi thật sự mong cầu Giáo Pháp, hãy làm mê hoặc dân chúng ở ngọn đồi Lhodrak. Họ tấn công những đệ tử xứ Nyaloro của ta và luôn cư xử với ta bằng thái độ xem thường ra mặt. Khi có dấu hiệu cho thấy thần chú của mi đã có tác dụng, ta sẽ ban cho mi giáo lý khẩu truyền của Naropa, giáo lý ấy sẽ dẫn đến Phật Quả chỉ trong một thân và một đời người duy nhất.”
+
+Khi những dấu hiệu thành công của ác chú xuất hiện, Mila xin được ban Giáo Pháp.
+
+“Hả! Phải chăng để tỏ lòng tôn kính những ác hạnh mi đã tích lũy mà mi đòi các giáo huấn khẩu truyền còn ấm hơi thở của những vị Không-Hành nữ (dakini) này, là những gì ta đã phải tìm cầu bất chấp những hiểm nguy tới tính mạng và cuộc đời ta hay sao? Ta nghĩ rằng mi cợt đùa, nhưng ta thấy mình đã phải tự chế quá nhiều. Chính ta chứ không ai khác sẽ giết mi! Bây giờ hãy làm những người trên đồi sống lại và trả lại mùa màng cho dân xứ Yamdrok. Nếu làm được, mi sẽ nhận được giáo lý – còn không, đừng quanh quẩn bên ta nữa!”
+
+Hoàn toàn kiệt sức bởi những lời quở trách này, Mila ngồi khóc nức nở. Sáng hôm sau, Marpa đến gặp Thầy.
+
+“Tối qua ta có hơi cộc cằn với mi,” Ngài nói. “Thôi đừng buồn. Ta sẽ ban cho mi giáo huấn từng ít một. Hãy kiên nhẫn! Vì mi là một người thợ giỏi, ta muốn mi xây cho ta một căn nhà để cho Tarma Dodé. Khi nào mi hoàn tất, ta sẽ ban cho mi những giáo huấn, và cũng sẽ cung cấp cho mi thực phẩm và quần áo.”
+
+“Nhưng nếu con chết trong thời gian đó, con sẽ làm được gì khi không có Giáo Pháp?” Mila hỏi.
+
+“Ta bảo đảm rằng điều đó sẽ không xảy ra,” Marpa nói, “giáo lý của ta không chỉ để khoe suông, và bởi rõ ràng là mi có hạnh nhẫn thật phi thường nên khi mi áp dụng những giáo huấn của ta vào thực hành, chúng ta sẽ chờ xem mi có đạt được Phật Quả chỉ trong một đời hay không.”
+
+Sau khi khuyến khích đệ tử nhiều hơn nữa theo cách thức tương tự, Ngài bảo Mila xây ba căn nhà, cái này sau cái kia: một căn hình tròn ở chân ngọn đồi phía đông, một căn hình bán nguyệt ở phía tây và một căn hình tam giác ở hướng bắc. Nhưng mỗi lần khi căn nhà xây được phân nửa thì Marpa lại nhiếc móc Mila dữ dội, bắt ông phá hủy những gì đã xây và đem đất đá hoàn trả trở lại nơi Mila đã lấy chúng.
+
+Một vết thương mở hoác trên lưng Mila, nhưng ông nghĩ: “Nếu đưa cho Thầy xem, Ngài sẽ chỉ quở mắng ta một lần nữa. Ta có thể cho sư mẫu thấy, nhưng điều đó chỉ gây thêm ồn ào rắc rối.” Thế nên, không đưa cho sư mẫu xem vết thương, ông khóc lóc và van xin bà giúp ông thỉnh cầu giáo lý.
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Bà yêu cầu Marpa truyền dạy cho Mila, và Marpa trả lời: “Hãy cho nó được ăn ngon và đem nó tới đây!” Ngài ban cho Mila khẩu truyền và những giới nguyện quy y.
+
+Ngài nói: “Tất cả những điều này được gọi là Giáo Pháp nền tảng. Nếu mi muốn những giáo huấn phi thường của Mật Thừa thì những loại việc mà mi sẽ phải trải qua là như thế này...” và Ngài đọc một bài kệ tóm tắt về cuộc đời và những thử thách của Naropa. “Mi khó có thể làm được như vậy,” Ngài kết luận.
+
+Nghe những lời này, Mila cảm thấy niềm sùng kính mãnh liệt đến nỗi nước mắt ông tuôn chảy mãi không thôi, và với một quyết tâm mạnh mẽ, ông nguyện làm bất cứ những gì Thầy ông yêu cầu.
+
+Vài ngày sau, Marpa đi dạo và đem Mila theo như thị giả của Ngài. Marpa đi về hướng đông-nam và tới một miếng đất có vị trí thuận lợi. Ngài nói: “Hãy xây cho ta một tháp màu xám, có góc vuông và cao chín tầng ở đây, thêm một đỉnh nhọn nữa thì thành mười tầng. Mi không được hạ thấp tháp xuống, và khi hoàn tất ta sẽ ban cho mi những giáo huấn. Ta cũng sẽ cho mi lương thực khi mi nhập thất tu tập.”
+
+Mila đã đào xong phần móng và bắt đầu xây cất thì có ba đệ tử cao cấp của Thầy tới. Để đùa giỡn, họ lăn tới cho ông một tảng đá lớn và Mila dùng nó làm móng nhà. Khi ông hoàn tất hai tầng dưới cùng, Marpa tới thăm và hỏi tảng đá ở đâu tới. Mila kể với Ngài sự việc xảy ra.
+
+“Những đệ tử của ta đang thực hành pháp du già trong hai giai đoạn, họ không phải là những người hầu của mi!” Marpa la hét: “Hãy lấy tảng đá đó ra khỏi đây ngay và trả nó về chỗ cũ!”
+
+Mila phá bỏ toàn bộ cái tháp, bắt đầu từ đỉnh. Ông lôi tảng đá làm móng ra và đem đặt lại chỗ cũ.
+
+Sau đó Marpa lại bảo ông: “Bây giờ đem nó tới đây và đặt nó trở lại vào đây.”
+
+Vì thế, Mila lại phải lăn tảng đá trở lại và đặt đúng vào chỗ trước đó. Ông tiếp tục xây dựng cho đến khi hoàn tất tầng thứ bảy, vào lúc này ông bị một vết thương ở bên hông.
+
+Marpa nói: “Bây giờ hãy bỏ việc xây tháp, thay vào đó hãy xây cho ta một ngôi đền với một đại sảnh mười hai cột và một điện thờ cao.”
+
+Thế là Mila xây ngôi đền, và khi hoàn thành thì một vết thương phía dưới lưng ông bị bể ra.
+
+Vào lúc đó, Meton Tsonpo xứ Tsangrong thỉnh cầu Marpa ban quán đảnh “Người Chặn Đứng Bánh Xe Luân Hồi” (Samvara hay Chakrasamvara), và Tsurton Wangé xứ Dol thỉnh cầu ban quán đảnh “Bí Mật Tập Hội” (Guhyasamaja). Trong cả hai dịp này, Mila hy vọng rằng nhờ công việc xây cất mà ông được có quyền thọ nhận quán đảnh, có được một chỗ ngồi trong hội chúng, nhưng những gì ông nhận được từ Marpa chỉ là những cú đánh và những lời mắng nhiếc, và cả hai lần ông đều bị Thầy ném ra ngoài. Lưng ông giờ đây là một vết thương khổng lồ với máu và mủ chảy ra từ ba chỗ. Tuy nhiên ông vẫn tiếp tục làm việc, thay vì đeo giỏ đất ở lưng thì ông đeo ở phía trước ngực.
+
+Khi Ngokton Chodor xứ Shung tới thỉnh cầu ban quán đảnh “Hô Kim Cương” (Hevajra), vợ Ngài Marpa đưa cho Mila một viên lam ngọc lớn là vật thừa kế của riêng bà. Mila dùng nó như món cúng dường cho lễ quán đảnh, ông ngồi vào hàng những người dự lễ, nhưng như lần trước, Thầy ông đã trách mắng và đánh đập ông một trận, và ông lại không được ban cho quán đảnh.
+
+Lần này ông cảm thấy là không còn hoài nghi gì nữa: ông sẽ không bao giờ nhận được bất kỳ giáo lý nào. Ông đi lang thang vô phương hướng. Một gia đình ở Lhodrak Khok thuê ông đọc cả bộ *Bát Thiên Tụng Bát Nhã Ba La Mật Đa Kinh*. Ông đọc đến truyện của Thường Đề Bồ Tát (Sadaprarudita), và câu chuyện này làm ông phải suy nghĩ.
+
+VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Ông nhận ra rằng để nhận được lợi lạc của Giáo Pháp, ông phải chấp nhận mọi gian khổ và làm hài lòng Thầy bằng cách làm bất cứ những gì Ngài ra lệnh.
+
+Vì thế ông quay trở lại, nhưng một lần nữa Ngài Marpa chỉ đón chào ông bằng sự thóa mạ và những cú đánh. Mila quá tuyệt vọng đến nỗi vợ Ngài Marpa phải gửi ông tới Lạt Ma Ngokpa, vị này ban cho ông một số giáo huấn. Nhưng khi thiền định thì chẳng có điều gì xảy ra, vì Mila không được Thầy cho phép. Marpa ra lệnh cho ông phải đi về cùng với Lạt Ma Ngokpa.
+
+Một ngày nọ, trong một tiệc cúng dường, Marpa khiển trách Lạt ma Ngokpa và những đệ tử khác thậm tệ và sắp sửa tấn đánh họ.
+
+Mila tự nghĩ: “Với ác nghiệp của ta, không chỉ mình ta đau khổ vì những lỗi lầm trầm trọng và những chướng nghiệp sâu dày, mà giờ đây ta còn gây những khó khăn cho Lạt Ma Ngokpa và phối ngẫu của Đạo sư. Bởi ta chỉ đang chồng chất càng lúc càng nhiều ác hạnh mà chẳng được nhận bất kỳ giáo lý nào, nên cách tốt nhất là ta nên chết đi cho rảnh.”
+
+Mila chuẩn bị tự tử. Lạt ma Ngokpa đang cố ngăn cản ông thì Marpa dịu xuống và gọi cả hai tới. Ngài chấp nhận Mila làm đệ tử, ban cho ông nhiều lời khai thị quý báu và đặt danh hiệu cho ông là Mila Dorje Gyaltsen, “Mila Kim Cương Ngọn Cờ Chiến Thắng.” Khi Ngài ban quán đảnh Samvara cho ông, Ngài cho thị hiện một mạn đà la với sáu mươi hai Bổn Tôn thật rõ ràng. Rồi Mila nhận danh hiệu bí mật là Shepa Dorje, “Kim Cương Hỷ,” và Marpa ban tất cả những quán đảnh và giáo huấn cho ông giống như rót từ bình này sang chiếc bình khác. Sau đó, Mila đã hành trì trong những điều kiện khắc nghiệt nhất, và đạt được tất cả những thành tựu thông thường và siêu việt.105
+
+Cũng giống như thế, đó chính là cách mà tất cả những học giả, thành tựu giả và trì minh vương (vidyadhara) trong
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+quá khứ của Tây Tạng lẫn Ấn Độ đã theo chân một vị Thầy tâm linh đích thực, và bằng cách làm bất cứ những gì vị Thầy dạy bảo, các Ngài đã đạt được sự chứng ngộ bất khả phân với chứng ngộ của vị Thầy.
+
+Trái lại, là một lỗi lầm hết sức trầm trọng nếu không theo chân Thầy với một tâm thức hoàn toàn chân thật, không chút giả dối. Đừng bao giờ cho rằng bất kỳ hành động nào của Ngài là một hành động tiêu cực. Chớ bao giờ nói dối Ngài dù chỉ một điều nhỏ bé nhất.
+
+Một lần kia, có đệ tử của một đại thành tựu giả đang giảng Pháp cho một nhóm đệ tử. Khi ấy, vị Thầy của ông ta đi tới, ăM mặc như một người ăn mày. Người đệ tử quá bối rối nếu phải quỳ lạy Ngài trước đám đông, nên ông giả vờ như không thấy. Chiều hôm đó, khi đám đông đã giải tán, ông đi gặp Thầy mình và đảnh lễ.
+
+“Tại sao trước đây ngươi không đảnh lễ?” vị Thầy hỏi.
+
+“Con không thấy Ngài,” ông ta nói dối.
+
+Lập tức, hai mắt ông rơi xuống đất. Ông cầu xin được tha thứ và nói ra sự thật, và Thầy ông đã từ bi gia trì để giúp phục hồi lại đôi mắt cho ông.
+
+Có một câu chuyện tương tự như vậy về đại thành tựu giả Ấn Độ Kan-ha-pa Kiêu Mạn (Krsnacarya). Một ngày kia, khi đang đi tàu trên biển với nhiều đệ tử, tâm ông khởi niệm: “Thầy của ta thực sự là một thành tựu giả, nhưng theo quan điểm thế gian thì ta xuất sắc hơn Ngài vì ta giàu có và có nhiều thị giả hơn.”
+
+Ngay lập tức chiếc tàu chìm xuống biển. Ngụp lặn vô vọng trong nước, ông khẩn nguyện Thầy mình; Ngài xuất hiện trong thân người phàm và cứu ông khỏi chết chìm.
+
+“Đó là phần thưởng cho cái kiêu mạn vĩ đại của ngươi,” vị Thầy nói. “Nếu ta nỗ lực tích lũy của cải và thị giả thì ta cũng sẽ có được những thứ đó. Nhưng ta đã quyết không làm như vậy.”
+
+# VI. THEO CHÂN MỘT VỊ THẦY TÂM LINH
+
+Vô lượng chư Phật không thể nghĩ bàn đã thị hiện, nhưng lòng đại bi của các Ngài không đủ để cứu chúng ta: chúng ta vẫn còn ở trong đại dương đau khổ của vòng sinh tử luân hồi. Từ xa xưa, vô lượng không thể nghĩ bàn những bậc Đạo Sư vĩ đại đã xuất hiện, nhưng chúng ta không đủ may mắn để được thọ hưởng sự chăm sóc đầy bi mẫn của các Ngài, hay ngay cả được gặp mặt các Ngài. Ngày nay, giáo lý của Đức Phật sắp kết thúc. Năm tình trạng suy đồi càng ngày càng hiển nhiên, và mặc dù có được một đời người hiếm quý, chúng ta vẫn hoàn toàn nằm trong móng vuốt của những ác hạnh của mình, và lầm lạc không biết điều gì nên làm và điều gì nên tránh. Khi chúng ta lang thang như một kẻ mù loà lẻ loi trong cánh đồng hoang thì những thiện hữu tri thức tâm linh của chúng ta, những vị Đạo Sư siêu việt đã nghĩ tưởng tới chúng ta với lòng bi mẫn vô biên, và tuỳ theo nhu cầu (căn cơ) của mỗi người trong chúng ta mà các Ngài thị hiện trong thân tướng con người. Mặc dù trong chứng ngộ thì các Ngài là những vị Phật, nhưng trong hành động thì các Ngài lại hoà hợp với hoàn cảnh của chúng ta. Bằng những phương tiện thiện xảo, các Ngài nhận chúng ta làm đệ tử, giới thiệu cho ta về Giáo Pháp chân chánh tối thượng, khai thị cho ta về những gì nên làm và không nên làm, và chỉ bày chính xác con đường tu tột cùng thâm diệu dẫn tới giải thoát và giác ngộ. Quả thật, các Ngài không khác gì chính Đức Phật; nhưng khi so sánh với Đức Phật thì thiện tâm của các Ngài khi từ bi quan tới chúng ta thậm chí còn vĩ đại hơn. Vì thế, hãy luôn cố gắng theo chân Thầy trong cách thế đúng đắn, với ba loại niềm tin (tín tâm).*
+
+Con đã được gặp một vị Thầy cao cả, nhưng lại để cung cách hành xử tiêu cực làm mình sa ngã.
+Con đã tìm được con đường thiện lành nhất, nhưng lại
+
+* Những loại tín tâm này được giảng dạy ở phần đầu trong chương kế tiếp.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN I
+
+lang thang khắp nẻo chông gai.
+Xin từ bi gia hộ cho con và tất cả những ai có tánh khí xấu xa như con,
+Khiến tâm chúng con có thể được thuần hóa nương nơi Giáo Pháp.
+
+[Hình: Dilgo Khyentse Rinpoche (1910-1991)]
+
+Một trong những hoá thân của Đức Jamyang Khyentse Wangpo. Ngài đã tu học với một trăm hai mươi vị Thầy và trải toàn bộ hai mươi năm trong thiền thất. Ngài thường ban các giáo lý, kể cả giáo pháp Đại Viên Mãn, cho Đức Đạt Lai Lạt Ma. Nhiều hậu thế các Lạt Ma Tây Tạng coi Ngài như vị Thầy gốc của họ. Ngài cũng giảng dạy rộng rãi ở Âu Châu và Bắc Mỹ.
+
+# Phần Hai
+
+## NHỮNG PHÁP TU DỰ BỊ PHI THƯỜNG HAY NHỮNG CHUẨN BỊ BÊN TRONG
+
+QUY Y: NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+THIỀN ĐỊNH VÀ TRÌ TỤNG VỀ BỔN SƯ
+NHƯ ĐỨC KIM CANG TÁT ĐỎA
+ĐỂ TỊNH HÓA NGHIỆP CHƯỚNG
+
+CÚNG DƯỜNG MẠN ĐÀ LA ĐỂ VUN BỒI PHƯỚC TUỆ
+
+KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC:
+DIỆT TRỪ BỐN MA VƯƠNG BẰNG MỘT ĐỘC CHIÊU
+
+BỔN SƯ DU GIÀ, CÁNH CỔNG DẪN ĐẾN
+NĂNG LỰC GIA TRÌ, PHƯƠNG PHÁP TỐI HẬU
+ĐỂ CHỨNG NGỘ TUỆ GIÁC
+
+[Hình: Các Bổn Tôn Quy Y]
+
+*Các Bổn Tôn Quy Y*
+
+Quán tưởng ruộng công đức để quy y theo giáo lý
+
+# CHƯƠNG I
+
+# QUY Y, NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+*Đặt Tam Bảo lên đầu, là quy y bên ngoài,*
+*Ngài thực sự chứng ngộ Ba Nguồn Gia Trì, là quy y bên trong;*
+*Ngài đã hoá hiện ba Thân, là quy y tối thượng.*
+*Bậc Thầy Vô Song, con đảnh lễ dưới chân Ngài.*
+
+Quy y là nền tảng của tất cả mọi con đường (của tất cả mọi pháp tu), và được giải thích dưới ba đề mục như sau: làm sao để đến với quy y, quy y như thế nào, và những giới luật và lợi ích của quy y.
+
+## I. LÀM SAO ĐỂ ĐẾN VỚI QUY Y
+
+### 1. Tín Tâm
+
+Quy y mở ra cánh cửa đi vào tất cả những giáo lý và phương pháp hành trì. Cũng như thế, chính tín tâm mở ra cánh cổng đưa ta đến với quy y. Do vậy, bước đầu quan trọng trong việc quy y là phải phát triển một tín tâm kiên cố và lâu dài. Tín tâm hay niềm tin gồm có ba loại: niềm tin sống động (vivid faith), niềm tin tha thiết, và niềm tin kiên định.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+## 1.1 NIỀM TIN SỐNG ĐỘNG
+
+Niềm tin sống động là niềm tin được thôi thúc trong chúng ta qua việc chúng ta nghĩ tưởng về lòng bi mẫn bao la của chư Phật và những bậc Thầy vĩ đại. Chúng ta có thể kinh nghiệm loại tín tâm này khi viếng thăm một ngôi chùa có nhiều biểu tượng cho thân, khẩu, ý của chư Phật, hoặc sau một cuộc gặp gỡ một vị Thầy hay một thiện tri thức vĩ đại mà ta vừa đích thân diện kiến, hoặc khi nghe về những phẩm hạnh hay tiểu sử của những vị Thầy.
+
+## 1.2 NIỀM TIN THA THIẾT
+
+Niềm tin tha thiết là lòng nhiệt thành của chúng ta muốn thoát khỏi những đau khổ của ba cõi thấp khi chúng ta được nghe mô tả về những cõi thấp; sự nhiệt thành của chúng ta muốn vui hưởng hạnh phúc của những cõi cao và của con đường giải thoát khi chúng ta được nghe về những cõi cao và về con đường giải thoát; sự nhiệt thành của chúng ta để dấn mình vào những thiện hạnh khi ta nghe nói về những lợi ích mà những thiện hạnh này sẽ mang lại cho chúng ta; và sự nhiệt thành của chúng ta để tránh xa ác hạnh khi ta hiểu được về những tổn hại mà những hành vi bất thiện sẽ gây ra.
+
+## 1.3 NIỀM TIN KIÊN ĐỊNH
+
+Niềm tin kiên định là niềm tin vào Tam Bảo khởi lên từ đáy lòng ta một khi chúng ta thấu hiểu được những đức tánh phi thường và năng lực gia hộ mà Tam Bảo có thể đem đến cho chúng ta. Đây chính là toàn bộ niềm tin duy nhất nơi Tam Bảo xuất phát từ nhận thức rằng Phật, Pháp, Tăng là nơi nương tựa duy nhất không bao giờ vơi cạn, mãi mãi muôn đời và
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+trong tất cả mọi hoàn cảnh, cho dù chúng ta đang hạnh phúc, buồn bã, đau đớn, bệnh tật, dù sống hay chết.*
+
+Đức Tôn Quý xứ Oddiyana đã nói rằng:
+
+Sự chí tâm chí thành cho phép lực gia trì thấm nhập vào hành giả.
+Khi tâm thoát khỏi mọi nghi ngờ, thì bất kỳ điều gì các con mong muốn cũng có thể thành tựu.
+
+Do đó, tín tâm giống như một hạt giống, từ đó mọi điều thiện có thể tăng trưởng. Nếu thiếu tín tâm, hạt giống như thể bị thiêu đốt. Trong kinh có nói:
+
+Đối với những người thiếu tín tâm
+Không có điều thiện nào được phát triển,
+Cũng như từ một hạt giống đã bị thiêu đốt
+Sẽ chẳng bao giờ có chồi xanh nào mọc được.
+
+Trong bảy báu vật cao quý (thất thánh bảo), tín tâm là điều quan trọng nhất. Có câu nói rằng:
+
+Bánh xe quý báu của tín tâm
+Cả ngày lần đêm lăn trên con đường đức hạnh.
+
+Tín tâm là nhiên liệu quý báu nhất trong tất cả những tài nguyên mà chúng ta có được. Tín tâm đem lại một nguồn đức hạnh vô tận, giống như một kho tàng. Tín tâm cứu mang
+
+* Điều này có nghĩa là tín tâm của chúng ta đối với pháp môn quy y sẽ khiến cho chúng ta có khả năng đối phó với những kinh nghiệm xảy ra trong thân trung ấm (bardo) sau cái chết.
+
+chúng ta suốt trên con đường giải thoát giống như đôi chân, và thâu thập mọi điều tốt đẹp cho chúng ta như đôi tay.
+
+*Tín tâm là tài sản và kho tàng vĩ đại nhất, là đôi chân tốt đẹp nhất;*
+*Là nền tảng để thâu thập mọi đức hạnh, giống như đôi tay.*
+
+Lòng bi mẫn và lực gia trì của Tam Bảo ban cho chúng ta thì thật không thể nghĩ bàn. Tuy nhiên năng lực gia trì này có thể thấm nhập một cách sâu đậm trong ta hay không thì hoàn toàn tùy thuộc vào tín tâm và lòng quy ngưỡng của ta đối với Tam Bảo. Nếu bạn có tín tâm và lòng quy ngưỡng bao la, thì lực gia trì và lòng bi mẫn mà bạn nhận được từ vị Thầy của bạn và từ Tam Bảo cũng sẽ bao la tương đương như vậy. Nếu tín tâm và lòng quy ngưỡng của bạn chỉ ở mức độ trung bình thì lòng bi mẫn và lực gia trì mà bạn nhận được cũng sẽ trung bình. Nếu tín tâm và lòng quy ngưỡng của bạn thật ít ỏi, thì chỉ có rất ít lòng bi mẫn và lực gia trì sẽ đến với bạn. Nếu bạn hoàn toàn không có lòng tin và sự quy ngưỡng nào thì bạn sẽ tuyệt đối không nhận được gì cả. Nếu không có lòng tin thì ngay cả việc được gặp Đức Phật và được Ngài nhận làm đệ tử cũng hoàn toàn chẳng có ích lợi gì, giống như đối với nhà sư Thiện Tinh (Sunaksatra) mà câu chuyện của ông đã được kể ở chương trước, và với người anh em bà con của Đức Phật là ông Devadatta (Đề Bà Đạt Đa).
+
+Ngay cả ngày nay, bất kỳ khi nào Đức Phật được khẩn cầu với tín tâm và lòng quy ngưỡng chân thành, thì Ngài hiện diện ở đó và gia hộ cho ta. Đối với lòng bi mẫn của Đức Phật thì không có chuyện gần hay xa.
+
+*Đối với tất cả những ai nghĩ tưởng tới Ngài với tín tâm*
+*Đức Phật hiện diện ở đó trước mặt họ*
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Và sẽ ban truyền quán đảnh và từ bi gia hộ cho họ.
+
+Và Đạo Sư vĩ đại xứ Oddiyana có nói:
+
+Đối với tất cả thiện nam tín nữ có lòng tin nơi ta,
+Ta, Liên Hoa Sanh,
+Chưa hề rời xa – Ta ngủ bên cửa nhà họ.
+Với Ta, không có cái chết;
+Trước mặt mỗi người có tín tâm,
+đều có một Liên Hoa Sanh.
+
+Khi ta có niềm tin kiên cường, lòng bi mẫn của Đức Phật có thể hiện diện trong bất kỳ sự việc gì. Điều này được minh họa qua câu chuyện của một bà lão sùng tín được cứu giúp để đạt được Phật Quả nhờ vào một cái răng của một con chó.
+
+Ngày xưa có một bà cụ, con trai bà là một thương gia. Anh ta thường đi Ấn Độ buôn bán. Một hôm bà cụ nói với con: “Ở Bồ Đề Đạo Tràng tại Ấn Độ có Đức Phật Toàn Giác. Con hãy đem về cho mẹ một vài thánh tích đặc biệt từ Ấn Độ để mẹ có thể đảnh lễ.” Bà lặp lại lời thỉnh cầu nhiều lần, nhưng người con thường quên lãng và chẳng bao giờ đem về cho bà những gì bà yêu cầu.
+
+Một hôm, khi người con đang chuẩn bị đi Ấn Độ thêm một lần nữa, bà mẹ nói: “Lần này, nếu con không đem về vật gì để mẹ đảnh lễ thì mẹ sẽ tự sát trước mặt con!”
+
+Người con đi Ấn Độ, kết thúc việc mua bán như đã dự định và lên đường trở về nhà, một lần nữa lại quên điều yêu cầu của mẹ. Chỉ khi về gần tới nhà anh ta mới chợt nhớ ra.
+
+“Nay ta sẽ phải làm gì?” anh tự nghĩ. “Ta đã không mang được thứ gì về để cho mẹ già của ta đảnh lễ. Nếu ta về nhà tay không, bà sẽ tự sát!”
+
+Nhìn quanh, anh ta thấy một cái đầu chó đang nằm trên đất gần đó. Anh ta nhổ một cái răng và dùng miếng lụa gói lại.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Về đến nhà, anh đưa nó cho mẹ và nói: “Đây là một trong những răng nanh của Đức Phật. Mẹ có thể dùng nó để trợ giúp cho mẹ khi cầu nguyện.”
+
+Bà lão tin lời con. Bà có lòng tin mãnh liệt nơi chiếc răng, hoàn toàn như thể đó thực sự là chiếc răng của Phật. Bà luôn luôn cúng dường và đảnh lễ, và từ chiếc răng chó xuất hiện nhiều hạt ngọc kỳ diệu.* Khi bà lão chết, một vòm ánh sáng cầu vồng xuất hiện quanh bà cùng những dấu hiệu khác của sự thành tựu.
+
+Một cái răng chó thì không chứa đựng chút lực gia trì nào. Nhưng lòng tin của bà lão mãnh liệt tới nỗi bà đoan chắc rằng nó thực sự là răng của Đức Phật. Nhờ niềm tin của bà, chiếc răng thấm đẫm ơn gia hộ của Đức Phật, cho tới cuối cùng thì cái răng chó không khác gì chiếc răng Phật thực sự.
+
+Xưa kia, trong tỉnh Kongpo, có một người chất phác mà sau này được biết với cái tên Jowo Ben. Ông làm một cuộc hành trình tới miền Trung Tây Tạng để gặp Jowo Rinpoche.**
+
+Thoạt đầu khi ông tới trước tượng thì quanh đó không có người giữ chùa hay bất kỳ ai khác. Thấy thực phẩm cúng dường và đèn bơ ở trước pho tượng, ông tưởng tượng thấy Jowo Rinpoche nhúng bánh cúng vào bơ chảy lỏng trong các ngọn đèn và ăn chúng. Ông tin rằng những ngọn tim đèn cháy sáng là để làm cho bơ tan lỏng.
+
+“Ta nghĩ rằng tốt hơn mình nên ăn một ít giống như Jowo Rinpoche,” ông tự nghĩ và nhúng một miếng bánh bột lấy từ bánh torma cúng dường vào trong bơ rồi ăn. Ông nhìn vào khuôn mặt đang tươi cười của Ngài Jowo.
+
+“Ngài thật là một Lạt Ma tốt bụng,” ông nói. “Ngay cả khi chó đến ăn trộm thực phẩm được cúng dường của Ngài, Ngài cũng mỉm cười; khi gió lùa làm những ngọn đèn của Ngài kêu
+
+* *ring bsrel:* những vật thể hình tròn giống như những hạt ngọc tí hon xuất hiện từ xá lợi của các hành giả chứng đắc.
+** Pho tượng Đức Phật nổi tiếng ở Lhasa. Xem chú thích 295
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+xèo xèo, Ngài vẫn mỉm cười. Đây, tôi gửi Ngài đôi giày ủng. Làm ơn trông chừng chúng một lát dùm tôi trong khi tôi đi nhiễu quanh Ngài.”\*\*\*
+
+Ông cởi giày đặt trước tượng. Trong lúc ông đang đi nhiễu quanh con đường chính chạy quanh ngôi chùa thì người giữ chùa nhìn thấy đôi giày ủng. Ông ta sắp ném đôi giày ra ngoài thì bức tượng nói:
+
+“Không được ném chúng đi. Kongpo Ben đã gửi đôi giày này cho ta!”
+
+Cuối cùng Ben trở lại và lấy đôi giày.
+
+“Người ta gọi Ngài là một Lạt Ma tốt bụng quả là không sai”, ông nói với pho tượng. “Sang năm Ngài lại đến thăm chúng tôi nữa nhé. Tôi sẽ giết một con heo già để nấu cho Ngài và đãi Ngài ít bia lúa mạch đã được cất lâu năm, rất hấp dẫn.”
+
+Ngài Jowo nói: “Ta sẽ đến.”
+
+Ben trở về nhà và nói với vợ: “Tôi đã mời Ngài Jowo Rinpoche, thế nhưng tôi không biết chính xác chừng nào Ngài tới, vậy làm ơn đừng quên để mắt đến Ngài.”
+
+Một năm trôi qua. Một ngày nọ, khi đang kéo nước trên sông, vợ của Ben thấy rõ ràng bóng phản chiếu của Ngài Jowo Rinpoche trên mặt nước.
+
+Bà lập tức chạy về nhà nói với chồng “Có cái gì ở dưới đó, trong con sông... tôi không rõ đó có phải là người mà ông mời không.”
+
+Ben chạy ra sông và thấy Jowo Rinpoche sáng ngời trong nước. Cho là Ngài bị chìm xuống sông, Ben nhảy xuống. Khi chộp được linh ảnh, ông thấy là có thể thực sự nắm được linh ảnh ấy và đem linh ảnh đi theo.
+
+Khi gần đến nhà Ben, họ tới trước một tảng đá khổng lồ bên đường. Ngài Jowo không muốn đi xa hơn nữa.
+
+\*\*\* Việc ăn những món cúng dường và đựng đôi giày của ông ta trước pho tượng được coi là một hành vi phạm thượng, khiếm nhã.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+“Ta không vào nhà của cư sĩ,” Ngài nói, và biến mất vào tảng đá.
+Địa điểm mà người ta nhìn thấy Ngài Jowo hiện đến nay được gọi là Jowo Dolé, còn dòng sông nơi linh ảnh của Ngài xuất hiện thì có tên là Sông Jowo. Thậm chí ngày nay, người ta nói rằng địa điểm mà Ngài Jowo hiện ra cũng có thể ban ơn gia hộ cho chúng ta tương tự như tượng Ngài Jowo ở Lhasa, và mọi người đều đến nơi đây để đảnh lễ và cúng dường. Chính nhờ sức mạnh của niềm tin kiên định mà Ben đã trực nhận được lòng từ bi của Đức Phật. Mặc dù ông ăn bơ từ các ngọn đèn và ăn thực phẩm lấy từ các món cúng dường, lại đặt đôi giày trước tượng Ngài Jowo – bình thường thì những hành vi này toàn là điều sai trái – nhưng sức mạnh của niềm tin của ông đã làm cho những việc làm này trở nên hoàn toàn tốt đẹp.
+Thêm nữa, cũng chỉ duy nhất nương nơi tín tâm mà việc ta thực chứng được chân lý tuyệt đối - trạng thái như nhiên - sẽ được phát sinh. Trong một quyển Kinh có nói:
+
+Ô, Xá Lợi Phất, chân lý tuyệt đối chỉ được chứng ngộ nương nơi tín tâm.
+
+Khi bạn phát triển được một tín tâm hoàn toàn siêu vượt những gì tầm thường, thì nhờ năng lực của tín tâm siêu phàm ấy mà lực gia trì của Thầy của bạn và của Tam Bảo sẽ thấm nhập vào bạn. Sau đó, bạn sẽ đạt được những chứng ngộ đích thực và sẽ trực nhận được trạng thái như nhiên. Khi điều đó xảy ra, bạn sẽ cảm thấy một niềm tin mãnh liệt và có được lòng xác tín thậm chí còn phi thường và kiên cố hơn nữa, nơi Thầy của bạn và nơi Tam Bảo. Theo đó, tín tâm và việc đạt được trạng thái như nhiên hỗ trợ lẫn nhau.
+Trước khi từ giã Ngài Jetsun Mila, Dagpo Rinpoche hỏi Ngài khi nào ông nên bắt đầu giảng dạy.
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Ngài Jetsun trả lời: “Một ngày kia con sẽ chứng ngộ được cái thấy trong sáng phi thường về bản tánh của chân tâm của con, hoàn toàn khác biệt với cái thấy con hiện có. Vào lúc đó, niềm tin kiên định sẽ xuất hiện trong con và con sẽ nhận ra ta, người cha già của con, như một vị Phật đích thực. Đó là lúc con nên bắt đầu giảng dạy.”
+
+Do đó, khả năng ta có được để đón nhận lòng từ bi và lực gia trì từ Thầy của ta và từ Tam Bảo hoàn toàn phụ thuộc vào lòng quy ngưỡng và tín tâm.
+
+Có lần một đệ tử thỉnh cầu đạo sư Jowo Atisa: “Ngài Jowo, xin ban phước cho con”
+
+“Đệ tử giải đãi,” Ngài Atisa trả lời: “hãy cho ta lòng quy ngưỡng của ngươi...”
+
+Như thế, thật vô cùng cần thiết để có lòng tin cậy kiên cố và tuyệt đối, phát sinh từ một tín tâm và lòng quy ngưỡng phi thường. Điều đó mở ra cánh cửa để thọ nhận quy y.
+
+## 2. Nguyện Lực
+
+Có ba mức độ nguyện lực khác nhau để thọ quy y với tín tâm như trên.
+
+### 2.1 NGUYỆN LỰC QUY Y CỦA NHỮNG NGƯỜI HẠ CĂN
+
+Ta sợ hãi phải chịu đựng những đau khổ của ba cõi thấp – cõi địa ngục, cõi ngạ quỷ và cõi súc sinh – và niềm sợ hãi này thúc đẩy chúng ta quy y với ý hướng đơn giản là đạt được hạnh phúc của cõi Trời và người.
+
+### 2.2 NGUYỆN LỰC QUY Y CỦA NHỮNG NGƯỜI TRUNG CĂN
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Ta nhận thức rằng cho dù ta tái sinh ở bất kỳ cõi giới cao hay thấp nào trong vòng luân hồi, ta đều không thể thoát khỏi đau khổ, và nhận thức này đã thúc đẩy chúng ta quy y Tam Bảo với mục đích duy nhất là bản thân ta đạt được Niết Bàn, được an lành và thoát khỏi tất cả đau khổ trong luân hồi.
+
+## 2.3 NGUYỆN LỰC QUY Y CỦA CÁC BẬC THƯỢNG CĂN
+
+Cảnh tượng của tất cả chúng sinh đắm chìm trong đại dương vĩ đại của luân hồi sinh tử, của đau khổ triền miên, qua nhiều loại đau khổ khác nhau không thể tưởng tượng nổi, chính những điều này thúc đẩy chúng ta quy y với chí nguyện có thể an lập tất cả chúng sinh trong trạng thái toàn giác vô song của Phật Quả viên mãn và toàn thiện.
+
+Đối với ba mức độ động lực và tác ý trên đây, thì riêng chúng ta nên chọn con đường của những bậc thượng căn vĩ đại, có chí nguyện muốn quy y vì mong muốn an lập toàn thể vô lượng chúng sinh không sót một ai trong trạng thái Phật Quả viên mãn.
+
+Thoạt nhìn thì hạnh phúc của chư Thiên và thế gian loài người có vẻ là niềm hạnh phúc chân thật. Tuy nhiên, trên thực tế, chúng sinh trong cõi Trời và cõi người vẫn không thể thoát khỏi đau khổ; và ngay khi phước báu của những thiện hạnh mà họ đã gieo trồng bị cạn kiệt thì họ sẽ rơi trở lại vào những cõi thấp. Vậy tại sao lại nỗ lực đạt được hạnh phúc của những cõi cao nếu như những hạnh phúc này chỉ kéo dài trong khoảnh khắc? Cõi Niết Bàn của những vị Thanh Văn và Độc Giác Phật đem lại sự an bình và hạnh phúc nhưng chỉ cho độc nhất chúng ta; trong khi tất cả chúng sinh – là cha và mẹ của chúng ta từ vô thủy – đang đắm chìm trong đại dương đau khổ vô tận của vòng luân hồi. Nên nếu ta không nỗ lực cứu giúp họ thì đó sẽ là điều sai lầm to lớn. Do đó, quy y Tam Bảo với ước nguyện tất cả chúng sinh có thể đạt đến Phật Quả là con đường của những bậc thượng căn vĩ đại và là cánh cổng dẫn
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+tới công đức vô biên. Đó cũng là con đường chúng ta nên đi theo. Trong *Vòng Hoa Châu Báu* có nói:
+
+> Bới chúng sinh thì bao la vô tận
+> Nên ước nguyện cứu giúp họ cũng bao la vô tận như vậy.
+
+## II. QUY Y NHƯ THẾ NÀO
+
+Theo Phật Giáo Nguyên Thủy, ta quy y (nương tựa) nơi Đức Phật như vị Thầy, nơi Giáo Pháp như con đường, và nơi Tăng Đoàn như những bạn đồng hành trên suốt con đường.
+
+Phương pháp tổng quát của Mật Thừa phi thường là quy y bằng cách cúng dường thân, khẩu và ý cho Thầy của ta, cung nghinh các Bổn Tôn như những vị hộ trì, và cung nghinh các Không-Hành nữ hay Thiên Nữ Trí Tuệ (dakini) như những người bạn đồng hành.
+
+Phương pháp tối cao, đặc biệt của Tâm Yếu Kim Cương là quy y nơi con đường thần tốc, nhờ đó hành giả sử dụng những kinh mạch (channels) như đây chính là các Hoá Thân, tu luyện các năng lượng (energies), như đây chính là các Báo Thân và tịnh hóa những tinh túy (essences), như đây chính là Pháp Thân.
+
+Khi ta nhất tâm, một mực nương tựa vào trạng thái như nhiên bất hoại bên trong ta thì việc nương tựa này phải được đặt nền tảng trên trí huệ nguyên sơ vốn sẵn có trong quy y. Bản chất cốt lõi của trí huệ đó là tánh Không (emptiness); biểu lộ tự nhiên của trí huệ đó là tánh sáng (clarity); và lòng từ bi của trí huệ này là sự tỏa rạng khắp nơi (all pervasive).$^{111}$ Quy y ở đây có nghĩa là với tất cả lòng tin, ta ý thức ra được trong dòng tâm thức của chính chúng ta về sự bất khả phân vĩ đại của ba yếu tánh trên đây của trí huệ nguyên sơ.
+
+Khi đã có một hiểu biết rõ ràng như vậy về tất cả con đường cần thiết để thọ giới quy y, giờ đây chúng ta tiếp tục đi tới việc thật sự thực hành quy y. Trước hết, hãy quán tưởng ruộng công đức – đây chính là đối tượng mà bạn quán tưởng trước mặt trong khi thọ lễ quy y.
+
+Hãy xem nơi bạn đang ở là một Phật điền hoàn toàn đẹp đẽ và thật vừa ý, được làm bằng đủ loại chất liệu quý báu. Mặt đất bóng láng như mặt gương, không có bất kỳ núi đồi, thung lũng hay bất cứ cảnh tượng thiếu sự hài hòa nào. Ở chính giữa, phía trước bạn, mọc lên một cây như ý với năm cành lớn tỏa ra từ thân cây. Lá, hoa và trái hoàn hảo của cây như ý vươn tới bốn hướng Đông, Tây, Nam, Bắc, xa rộng tới nỗi làm tràn ngập cả bầu trời, và mỗi cành, nhánh treo vô số ngọc quý rất đẹp và những cái chuông đủ loại.
+
+Trên cành chính là một cái ngai bằng ngọc được tám con sư tử lớn nâng lên. An toạ trên ngai, trên một chỗ ngồi gồm một bông sen nhiều màu sắc, một mặt trời và một mặt trăng, là vị Bổn Sư hay Đạo Sư Gốc (root lama) của bạn, suối nguồn không gì sánh được của lòng bi mẫn, hiện thân của tất cả chư Phật trong quá khứ, hiện tại và vị lai; vị Đạo Sư Gốc xuất hiện trong hình tướng của Đức Kim Cang Trì vĩ đại xứ Oddiyana. Thân Ngài mang sắc màu trắng quyến rũ pha sắc hồng. Ngài có một mặt, hai tay, hai chân ¹¹⁴ và ngồi trong tư thế vương giả.* Tay phải Ngài cầm một chày vajra (kim cương) năm chấu bằng vàng với ấn phẫn nộ. Trong tay trái với ấn thiền định, Ngài cầm một bình bát làm bằng sọ người đựng đầy chất cam lồ trí tuệ bất tử. Trên nắp bình là một cây như ý. Ngài mặc một áo choàng bằng gấm thêu kim tuyến, khoác thêm y áo của một tu sĩ và một áo thụng tay dài màu xanh dương, trên đầu Ngài là một vương miện hoa sen. Ngồi trong tư thế hợp nhất với Ngài là vị phối ngẫu của Ngài, Thiên Nữ Trí Tuệ (dakini)
+
+* rgyal po’i rol stabs: tư thế du hí vương giả, với chân phải duỗi ra một nửa và chân trái xếp vào.
+
+# I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Yeshe Tsogyal thân trắng, đang cầm một lưỡi dao cong và một bình bát làm bằng sọ người.
+
+Hãy quán tưởng Ngài như vậy trong không gian phía trước, mặt hướng về bạn. Trên đỉnh đầu Ngài là tất cả những Lạt Ma của dòng truyền thừa, vị này ngồi trên vị kia, người ngồi phía trên không chạm vào người phía dưới. Những vị Thầy của truyền thống Mật điển thông thường thì nhiều vô số, nhưng ở đây chúng ta đặc biệt quán tưởng những nhân vật chính của dòng truyền thừa *Tâm-Yếu* của Đại Viên Mãn: Đức Phật Phổ Hiền, Pháp Thân; Đức Phật Kim Cang Tát Đỏa, Báo Thân; Ngài Garab Dorje, Hóa Thân; Đạo Sư Manjusrimitra (Diệu Đức Hữu); Guru Sri Simha (Cát Tường Sư Tử); Ngài Jnanasutra (Kỳ Na Tu Đa La) uyên bác; đại học giả Vimalamitra; đức Liên Hoa Sinh xứ Oddiyana và ba đệ tử thân cận của Ngài, Đức Vua, Thần dân và vị Phối ngẫu - tức là vị Pháp Vương Trisong Detsen, đại dịch giả Vairotsana và Thiên Nữ Trí Tuệ Yeshe Tsogyal; đức Longchen Rabjampa toàn trí; và đức Rigdzin Jigme Lingpa. Mỗi người trong số các Ngài phải được quán tưởng với những bảo vật trang sức và các biểu tượng riêng. Tất cả được vây quanh bởi vô số Bổn Tôn (Yidam) của bốn phân loại Mật điển và bởi các vị Không-Hành nam (daka) và Không-Hành nữ (dakini).
+
+Trên cành phía trước là Đức Phật Thích Ca Mâu Ni, Đấng Chiến Thắng, được bao quanh bởi một ngàn lẻ hai vị Phật Toàn Giác của Hiền Kiếp này cùng tất cả chư Phật trong quá khứ, hiện tại, và vị lai trong mười phương. Tất cả các Ngài có hình tướng Hoá Thân siêu việt, đắp y tu sĩ, có đầy đủ ba mươi hai tướng hảo của Phật Quả – nhục kế nhô cao, lòng bàn chân có in dấu các luân xa, v.v... - và tám mươi tướng phụ. Tất cả các Ngài an toạ trong tư thế kim cương. Một số vị có sắc trắng, một số sắc vàng, một số sắc đỏ, một số sắc xanh lục, và một số có sắc xanh dương. Những tia sáng tuyệt diệu toả chiếu ra từ thân tướng các Ngài.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Trên cành bên phải, hãy quán tưởng tám Đại Đệ Tử, dẫn đầu bởi các Bồ Tát Pháp Vương Tử của Ba Phật Bộ – Văn Thù, Kim Cương Thủ, và Quán Tự Tại – và được bao quanh bởi toàn thể Tăng Đoàn tôn quý gồm chư vị Bồ Tát. Các Ngài có sắc trắng, vàng, đỏ, xanh dương, xanh lục. Tất cả đều mang mười ba món trang sức của Báo Thân, và đứng trên hai chân.
+
+Trên cành bên trái hãy quán tưởng hai vị Thanh Văn (Sravaka) chính yếu là Ngài Xá Lợi Phất và Ngài Mục Kiền Liên, được tăng đoàn cao quý gồm chư vị Thanh Văn và Độc Giác Phật bao quanh. Tất cả các Ngài có sắc trắng, và đắp ba y tu sĩ. Các Ngài cũng đều đứng, tay cầm tích trượng và bình bát.
+
+Trên cành phía sau, hãy quán tưởng Pháp bảo trong hình dạng những chồng sách. Trên cùng là sáu triệu bốn trăm ngàn Mật điển (tantra) của Đại Viên Mãn, được bao bọc bởi một lưới ánh sáng, tựa đề của mỗi quyển sách hướng về phía bạn.* Tất cả những quyển sách này xuất hiện rất rõ ràng và minh bạch, và ngân vang giai điệu tự nhiên của những nguyên âm và phụ âm.
+
+Giữa những cành cây là tất cả chư Hộ Pháp quang vinh, là những vị vừa là Hộ Pháp trí tuệ lẫn những vị Hộ Pháp đã được nhiếp phục do nghiệp quả của những hành động trong quá khứ của họ. 118 Tất cả những nam Hộ Pháp đều hướng mặt ra ngoài; hoạt động của họ là ngăn ngừa những chướng ngại từ bên ngoài thâm nhập vào trong, bảo vệ chúng ta khỏi những chướng ngại và những trở ngại để chúng ta có thể thực hành Giáo Pháp và đạt được giác ngộ. Tất cả những nữ Hộ Pháp đều hướng mặt vào trong; hoạt động của họ là giữ gìn những thành tựu bên trong không để cho hé lộ ra ngoài.
+
+* Đây là những quyển sách Tây Tạng bằng lá rời và dài, được bọc trong vải, với một tiêu đề bằng vải được gắn ở cuối sách bên tay trái.
+
+# I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Hãy nghĩ tưởng về tất cả chư vị này của lễ quy y, là những vị với phẩm hạnh cao quý của trí tuệ. Hãy nghĩ tưởng đến lòng bi mẫn và năng lực vô lượng, họ đang dẫn dắt bạn như người dẫn đường vĩ đại duy nhất của bạn.
+
+Hãy hình dung ở bên phải bạn là người cha và bên trái là người mẹ trong hiện đời của bạn. Phía trước bạn, một đám đông trùng trùng điệp điệp cùng tụ hội che kín mặt đất – đó là tất cả chúng sinh trong ba cõi và trong sáu nẻo luân hồi; hàng thứ nhất gồm tất cả những người thù ghét bạn và tất cả những kẻ gây chướng ngại hoặc làm tổn thương bạn. Cùng với bạn, tất cả những người này đều đứng với hai bàn tay chắp lại. Khi bày tỏ lòng tôn kính bằng thân bạn, hãy gieo mình xuống đất lễ lạy. Khi bày tỏ lòng tôn kính với khẩu của bạn, hãy tụng đọc lời nguyện quy y. Khi bày tỏ lòng tôn kính bằng ý của bạn, hãy nuôi dưỡng tư tưởng như sau:
+
+“Ô, Đạo Sư và Tam Bảo, bất kỳ điều gì xảy ra đến với con, dù thuận lợi hay bất lợi, hạnh phúc hay đau khổ, tốt hay xấu, bất kỳ bệnh tật hay đau khổ nào xảy ra cho con, con không có sự nương tựa hay che chở nào khác ngoài Ngài. Ngài là bậc gia trì duy nhất, người hướng dẫn duy nhất, nơi trú ẩn duy nhất và là niềm hy vọng duy nhất của con. Từ bây giờ cho đến khi con đạt được tâm-yếu của Giác Ngộ, con đặt mọi sự trông cậy và niềm tin của con vào Ngài. Con sẽ không tìm kiếm những lời khuyên dạy của cha, không thỉnh cầu lời chỉ dạy của mẹ, cũng không tự mình quyết định. Chính Ngài, vị Thầy và Tam Bảo của con, mà con nhận làm nơi nương tựa. Chính Ngài là đối tượng để con thực hiện các lễ cúng dường. Con tự cam kết chỉ với một mình Ngài. Con không có nơi nương tựa nào khác, không còn hy vọng nào khác ngoài Ngài!”
+
+Với sự xác tín nồng nhiệt này, hãy đọc tụng bản văn sau đây:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Cho tới khi đạt được tâm-yếu của Giác Ngộ, con luôn luôn nương tựa
+Nơi những Đấng Thiện Thệ của Ba Lực Gia Trì, là Tam Bảo chân thực,
+Nơi Bồ Đề Tâm, là chân tánh của kinh mạch (channels), năng lực (engergies) và tinh túy (essences),
+Và nơi mạn đà la tinh yếu của chân tánh, của sự hiển lộ tự nhiên và của lòng bi mẫn.
+
+Trong mỗi thời khoá, nếu có thể thì hãy đọc bài này càng nhiều lần càng tốt. Cho tới khi bạn đọc xong câu nguyện này ít nhất một trăm ngàn lần, thì bạn hãy dụng công tụng đọc câu nguyện này trong những thời khoá riêng biệt và hãy để cho công phu này trở thành là một công phu liên tục và quan trọng nhất của bạn.
+
+Có thể bạn ngạc nhiên tại sao kẻ thù và những người gây chướng ngại cho bạn lại được ưu tiên hơn cả cha mẹ bạn trong lúc quy y vì kẻ thù thì được quán tưởng ở phía trước đám đông, trong khi cha mẹ bạn lại ở phía sau bên cạnh bạn. Lý do là vì chúng ta, những người bước trên con đường Đại Thừa, phải có lòng từ bi đối với toàn thể chúng sinh vô tận một cách đồng đều không phân biệt. Đặc biệt hơn nữa, cách duy nhất để tích lũy một khối lượng công đức vô biên và không lãng phí tất cả những gì ta đã vun bồi là hãy lấy hạnh nhẫn nhục làm phần thực hành chính yếu của ta. Có câu nói rằng:
+
+Làm sao chúng ta có thể thực hành nhẫn nhục nếu không có ai làm ta nổi giận.
+
+Chính những họa hại gây nên bởi kẻ thù và những kẻ tạo ra chướng ngại đã ban cho bạn cơ hội phát triển hạnh nhẫn nhục. Từ quan điểm này của Giáo Pháp, nếu bạn quán chiếu sâu sắc thì bạn sẽ thấy ra được rằng kẻ thù và những kẻ gây
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+ra chướng ngại còn tử tế với bạn hơn cả cha mẹ bạn. Cha mẹ bạn, khi dạy cho bạn mọi thủ đoạn và cách thức lọc lừa cần thiết để bạn thành công trong thế gian này, họ là những người có thể tạo nên chướng ngại khiến bạn không thể thoát ra khỏi đáy sâu của những cõi thấp trong các đời vị lai. Vì thế lòng tốt của họ không vĩ đại như ta tưởng. Trái lại, kẻ thù và những kẻ gây chướng ngại thì cực kỳ tử tế với bạn. Chính nghịch cảnh mà kẻ thù gây ra cho bạn đã cung cấp cho bạn đúng căn nguyên để thực hành nhẫn nhục. Dù bạn có thích hay không thì kẻ thù của bạn cũng đã chia cắt bạn ra khỏi của cải và tài sản của bạn – mà của cải và tài sản chính là những ràng buộc ngăn cản không cho bạn thoát khỏi luân hồi và vì thế, chúng chính là nguồn gốc của mọi đau khổ. Những thế lực tiêu cực và những kẻ gây chướng ngại cũng cung cấp cho bạn sự tập trung để thực hành nhẫn nhục. Nhờ bệnh tật và đau khổ do họ gây ra mà nhiều hành động sai lầm trong quá khứ được tịnh hóa. Hơn nữa, kẻ thù và chướng ngại đem bạn tới với Giáo Pháp, giống như kẻ thù và chướng ngại đã đưa Ngài Jetsun Milarepa và sư cô Palmo đến với Giáo Pháp, khi cô chú của Ngài Jetsun Milarepa cướp đi tất cả tài sản của Ngài và khi sư cô Palmo bị mắc bệnh phong cùi do loài thuỷ long (naga) gây ra; cô đã hiến mình cho việc thực hành tu tập theo pháp môn Thiên Thủ Thiên Nhãn Quán Thế Âm (Avalokiteshvara) và sau đó đạt được thành tựu siêu việt. Đấng Toàn Giác, Pháp Vương Longchenpa đã nói:
+
+> Bị đau khổ tấn công, ta phát hiện Giáo Pháp
+> Và tìm ra con đường giải thoát. Xin cảm ơn những thế lực xấu ác!
+> Khi phiền muộn tràn ngập tâm tưởng, ta phát hiện Giáo Pháp.
+> Và tìm thấy hạnh phúc vĩnh cửu. Xin cảm ơn những muộn phiền!
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Nhờ thương tổn gây ra bởi các tinh linh, ta phát hiện
+Giáo Pháp.
+Và tìm thấy sự vô úy. Xin cảm ơn những bóng ma và
+quỷ dữ!
+Nhờ lòng thù hận của con người mà ta phát hiện
+Giáo Pháp
+Và tìm được lợi lạc và hạnh phúc. Xin cám ơn những kẻ
+thù ghét ta!
+Nhờ nghịch cảnh tàn bạo mà ta phát hiện Giáo Pháp
+Và tìm thấy con đường bất biến. Xin cảm ơn nghịch cảnh!
+Nhờ bị người khác thúc ép mà ta phát hiện Giáo Pháp
+Và tìm thấy ý nghĩa tinh yếu. Xin cảm ơn tất cả những kẻ
+xô đẩy ta!
+Để đáp đền lòng tốt, ta hồi hướng công đức cho tất cả
+các ngươi.
+
+Vì vậy, kẻ thù không chỉ rất tử tế với bạn trong đời này,
+mà họ còn là cha mẹ bạn trong những đời quá khứ. Đây là
+điều tại sao bạn nên dành cho họ một vị trí quan trọng trong
+khi hành trì pháp tu quy y.
+Khi tới lúc kết thúc thời công phu quy y, hãy quán tưởng
+lòng khát khao, quy ngưỡng của bạn tạo ra vô số những tia
+sáng phóng ra từ những Bổn Tôn quy y. Những tia sáng này
+phóng tỏa vào bạn và tất cả chúng sinh, và giống như bầy
+chim bị một viên đạn bắn làm cho tan tác, tất cả chúng sinh
+và bạn vù vù bay lên và hoà nhập vào các Bổn Tôn.
+Sau đó những Bổn Tôn chung quanh tan thành ánh sáng, từ ngoài vào trong và tan biến vào vị Thầy ở trung tâm
+là hiện thân của ba đối tượng quy y. Tất cả những Bổn Tôn
+ngự trên đầu của vị Thầy cũng tan biến vào Ngài. Sau đó vị
+Thầy hoà tan và biến vào ánh sáng. Hãy ngơi nghỉ trong trạng
+thái nguyên sơ của Pháp Thân trong thời gian ngắn dài tùy
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+sức, thoát khỏi tất cả mọi tạo tác, không vướng mắc vào bất kỳ vọng niệm nào.
+
+Khi bạn xả thiền, hãy hồi hướng công đức cho vô lượng chúng sinh bằng những lời như sau:
+
+*Nương nơi công đức của công phu hành trì này,*
+*Xin cho con nhanh chóng chứng đắc ngôi Tam Bảo*
+*Và xin cho con an lập mỗi một chúng sinh*
+*Không sót một ai, tùy vào căn cơ của họ.*
+
+Hãy luôn nghĩ tưởng đến những Bổn Tôn của Giáo Pháp quy y trong mọi tình huống. Khi bạn đi, hãy quán tưởng các Ngài trong không gian trên vai phải của bạn và hình dung rằng bạn đang đi nhiễu quanh các Ngài. Khi ngồi, hãy quán tưởng các Ngài trên đầu như nơi nương tựa của những lời nguyện cầu của bạn. Khi ăn, hãy quán tưởng các Ngài ở cổ họng và cúng dường các Ngài phần đầu tiên của thức ăn hay đồ uống. Khi ngủ, hãy quán tưởng các Ngài ở giữa tim bạn. Pháp tu này chủ yếu để bạn có thể giải thể những mê lầm, giúp cho mê lầm tan hoà vào với tịnh quang.
+
+Bất cứ bạn làm gì, đừng bao giờ xa lìa hình ảnh trong sáng của các Bổn Tôn của giáo pháp quy y trong dòng tâm thức. Hãy giao phó bản thân bạn với toàn bộ tín tâm cho Tam Bảo và hoàn toàn hiến mình để thọ nhận quy y.
+
+III. GIỚI LUẬT VÀ LỢI ÍCH CỦA QUY Y
+
+1. Giới Luật Của Quy Y
+
+Giới luật bao gồm ba điều phải từ bỏ, ba điều nên làm và ba thái độ bổ sung phải được tuân giữ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+## 1.1 BA ĐIỀU PHẢI TỪ BỎ
+
+Sau khi đã quy y với đức Phật, chớ tôn thờ những thần thánh trong vòng luân hồi. Nói khác đi, những vị Trời của các kẻ ngoại đạo như Isvara hoặc Visnu cũng như những vị thần địa phương, các thổ địa, hay bất kỳ những vị trời hay tinh linh thế tục mạnh mẽ nào khác, bản thân họ chưa giải thoát khỏi những đau khổ của luân hồi, nên bạn chớ coi họ như chỗ nương tựa của mình trong những đời sau, đừng cúng dường hay đảnh lễ họ.
+
+Đã quy y Pháp, đừng làm tổn hại người khác, ngay cả trong giấc mơ của bạn. Hãy quyết lòng nỗ lực che chở họ với khả năng tốt nhất của bạn.
+
+Đã quy y Tăng, đừng dính líu với những kẻ ngoại đạo và những người như thế, là những kẻ không tin tưởng vào giáo lý của các Đấng Chiến Thắng hay không tin Đức Phật Toàn Giác là đấng đã giảng dạy những điều đó. Mặc dù không thật sự có những kẻ ngoại đạo ở Tây Tạng, bạn cũng nên tránh dính líu với bất kỳ người nào hành động như một kẻ ngoại đạo (tirthika) – ví dụ như khi họ sỉ nhục và chỉ trích vị Thầy và Giáo Pháp của bạn, hoặc phỉ báng giáo lý sâu xa của Mật Thừa.
+
+## 1.2 BA ĐIỀU NÊN LÀM
+
+Đã quy y Đức Phật, hãy tôn kính ngay cả một mảnh nhỏ của pho tượng đã vỡ tượng trưng cho Ngài. Hãy đặt tượng lên đầu bạn,* để ở nơi tinh sạch, có lòng tin, có nhận thức và tri kiến thanh tịnh, xem pho tượng như Trân Bảo thật sự của Đức Phật.
+
+Đã quy y Pháp, hãy tôn kính ngay cả một mảnh giấy chỉ hiện có một chữ của Kinh điển trên đó. Hãy đặt mảnh giấy ấy lên đầu bạn và xem đó là Trân Bảo thật sự của Pháp.
+
+* Đặt vật gì lên đầu mình là một dấu hiệu của sự tôn kính.
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Đã quy y Tăng, hãy coi bất kỳ những gì biểu tượng cho các Ngài, dù chỉ là một mảnh vải nhỏ có màu đỏ hay vàng, như Trân Bảo đích thực của Tăng Đoàn. Hãy tôn kính những biểu tượng ấy, đặt lên đầu, để ở nơi sạch sẽ và nhìn những biểu tượng đó với niềm tin và tri kiến thanh tịnh.
+
+## 1.3 BA GIỚI LUẬT BỔ SUNG
+
+Hãy coi Thầy của bạn, bậc thiện tri thức đã giảng dạy cho bạn ở nơi đây và ngay bây giờ điều gì nên làm và không nên làm, như là Trân Bảo đích thực của Đức Phật. Thậm chí không dẫm lên bóng của Thầy, và hãy nhiệt tình phụng dưỡng và tôn kính Ngài.
+
+Hãy coi từng lời nói của vị Thầy cao cả của bạn như Trân Bảo đích thực của Giáo Pháp. Hãy chấp nhận mọi điều Ngài nói không bất tuân một điểm nhỏ nào.
+
+Hãy coi đoàn thị giả, đệ tử của Ngài và những bằng hữu tâm linh của bạn là những người với giới hạnh thuần khiết như Trân Bảo đích thực của Tăng Đoàn. Hãy tôn kính họ với thân, khẩu, ý của bạn và không bao giờ làm họ phải phiền não dù chỉ trong chốc lát.
+
+Đặc biệt, trong Mật Thừa, vị Thầy là đối tượng quy y chính yếu: thân Ngài là Tăng; khẩu Ngài là Pháp và ý Ngài là Phật. Do vậy, hãy nhận thức rằng Ngài không khác gì sự hợp nhất tinh túy của Tam Bảo và hãy nhìn thấy mọi hành động của Ngài đều trọn vẹn, không gì sai suất. Hãy đi theo Ngài với lòng tin tuyệt đối và nỗ lực cầu nguyện Ngài trong mọi lúc. Nên nhớ rằng khi bạn làm phật lòng Ngài bằng bất kỳ những gì đến từ thân, khẩu, ý, đó là bạn đã từ bỏ toàn bộ quy y. Vì vậy hãy quyết tâm và nỗ lực làm hài lòng Ngài trong mọi lúc.
+
+Cho dù điều gì xảy tới với bạn, vừa ý hay khó chịu, tốt hay xấu, bệnh tật hay đau khổ, hãy hoàn toàn giao phó bản thân bạn cho Thầy của bạn. Hãy nhận thức rằng mọi hạnh
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+phúc đều xuất phát từ lòng từ bi của Tam Bảo. Có câu nói rằng mọi sự vừa ý và tốt đẹp trong thế gian này, ngay cả một cơn gió nhẹ thoảng qua trong một ngày nóng bức, đều xuất phát từ lòng từ bi và lực gia trì của Đức Phật. Cũng thế, thiện niệm nhỏ bé nhất xuất hiện trong tâm bạn bắt nguồn từ năng lực không thể nghĩ bàn của lực gia trì từ Ngài. Trong *Nhập Bồ Tát Hạnh*, Ngài Santideva có nói:
+
+Giống như khi một tia chớp xé toang màn đêm,
+Ánh sáng ấy phơi bày tất cả những đám mây đen đang ẩn trốn,
+Cũng thế, hiếm hoi biết bao, nhờ năng lực của chư Phật,
+Mà những thiện niệm chóng vánh khởi lên và thoáng qua trong thế giới này.
+
+Thế nên, việc nhận ra lòng bi mẫn của chư Phật trong mọi sự việc sẽ cứu giúp bạn và đem lại hạnh phúc cho bạn.
+
+Bất cứ khi nào bạn đối mặt với bệnh tật hay đau khổ, khi gặp ma quỷ và khi những kẻ thù gây nên chướng ngại, hoặc bất kỳ việc gì khác có thể xảy đến với bạn, thì bạn hãy chỉ cầu nguyện Tam Bảo và không dựa vào bất kỳ phương pháp nào khác để đối phó những khó khăn như thế. Nếu bạn phải trải qua việc chữa trị hay sử dụng một nghi thức chữa bệnh, thì hãy làm những việc đó trong niềm nhận thức rằng chính các sự việc đó cũng là hoạt động của Tam Bảo.
+
+Hãy học hỏi để có niềm tin và tri kiến thanh tịnh bằng cách nhận thức được rằng tất cả mọi việc đã xuất hiện đều là do Tam Bảo làm cho hiển lộ. Khi bạn lên đường đi tới một nơi nào đó, dù để làm việc hay vì một vài lý do nào khác, hãy kính lễ Phật, Pháp và Tăng ở hướng đó. Hãy trì tụng lời nguyện quy y liên tục hàng ngày, hoặc bạn dùng bài nguyện *Tâm-Yếu* đã trích dẫn ở trên, hoặc tụng đọc bài nguyện dưới đây có tên là Tứ Quy Y, thông dụng cho tất cả các Thừa:
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Con quy y Đạo Sư,
+Con quy y Phật.
+Con quy y Pháp.
+Con quy y Tăng.
+
+Hãy khuyên bảo người khác quy y và khuyến khích họ thực hành pháp môn quy y. Hãy giao phó bản thân bạn và những người khác cho Tam Bảo trong cả đời này lẫn những đời sau, và hãy thực hành pháp môn quy y [tụng lời nguyện quy y và quán tưởng ruộng công đức quy y] một cách siêng năng.
+
+Khi bạn đi ngủ, hãy quán tưởng những Bổn Tôn của ruộng công đức, như đã mô tả ở trên, nhưng đặt tất cả những vị ấy trong tim bạn, và rơi vào giấc ngủ trong khi dồn hết tâm thức tập trung vào các Ngài. Nếu không thể làm như vậy, hãy nghĩ tưởng đến Thầy của bạn và đến Tam Bảo như đang thực sự hiện diện bên gối của bạn, tràn đầy lòng từ bi với bạn. Sau đó đi vào giấc ngủ với niềm tin và tri giác thanh tịnh không đánh mất niệm tưởng về Tam Bảo.
+
+Khi bạn ăn hay uống, hãy quán tưởng Tam Bảo trong cổ họng và cúng dường các Ngài mọi thứ mà bạn ăn hay uống. Nếu bạn không làm được điều đó, hãy cúng dường các Ngài ngụm nước hay miếng ăn đầu tiên, và nghĩ: “Con cúng dường những món này lên Tam Bảo.”
+
+Khi bạn có quần áo mới, trước khi mặc vào lần đầu tiên, hãy nâng chúng lên và thầm cúng dường chúng cho Tam Bảo. Sau đó hãy mặc vào với niệm tưởng rằng Tam Bảo đã ban chúng cho bạn.
+
+Bất cứ khi nào bạn thấy điều gì đem lại cho bạn sự hoan hỷ hay lòng khao khát, hãy thầm cúng dường điều ấy lên Tam Bảo trân quý: những khu vườn đáng yêu đầy hoa, những giòng suối trong trẻo, những ngôi nhà xinh đẹp, những vườn
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+cây tươi mát, những tài sản và của cải vô tận, những người đàn ông và phụ nữ ăn mặc đẹp đẽ.
+
+Khi rót nước, hãy tung vài giọt vào không trung và nói: “Con cúng dường nước này cho Tam Bảo,” trước khi rót nước vào bình chứa.
+
+Tất cả những hoàn cảnh tốt đẹp và đáng ao ước trong đời này – mọi tiện nghi, hạnh phúc, sự mến mộ, thuận lợi hay bất cứ điều gì bạn có được– cũng đều phát xuất từ lòng từ bi của Tam Bảo. Với lòng quy ngưỡng và tri kiến thanh tịnh, hãy nghĩ rằng: “Con cúng dường tất cả những điều này cho các Ngài”. Hãy cúng dường lên các Ngài bất kỳ nguồn công đức nào mà bạn tạo được – lễ lạy, cúng dường, thiền định về Bổn Tôn, tụng niệm các câu minh chú (mantra), v.v... - và hãy hồi hướng tất cả những nguồn công đức này vì lợi ích của tất cả chúng sinh. Hãy thường xuyên cúng dường Tam Bảo khi bạn có thể làm được, vào ngày mồng một, ngày rằm và sáu thời trong ngày (ba thời vào ban ngày, ba thời vào ban đêm).* Luôn tuân theo những thời điểm đặc biệt này để cúng dường Tam Bảo.
+
+Bất kỳ điều gì xảy tới, dù xấu hay tốt, đừng bao giờ quên quy y Tam Bảo. Hãy tu tập bản thân cho đến khi ngay cả cảm giác sợ hãi trong một cơn ác mộng cũng không làm bạn quên quy y, bởi điều đó có nghĩa là bạn cũng sẽ nhớ để quy y như thế trong thân trung ấm. Tóm lại, hãy đặt toàn bộ niềm tin của bạn nơi Tam Bảo và không bao giờ từ bỏ việc quy y cho dù phải trả giá bằng cả cuộc đời bạn.
+
+Xưa kia, ở Ấn Độ, có một hành giả cư sĩ Phật Giáo bị một số người ngoại đạo (tirthika) bắt giam, họ nói với ông: “Nếu ngươi từ bỏ quy y Tam Bảo, chúng ta sẽ không giết. Nếu không, chúng ta sẽ giết chết ngươi.”
+
+* dus drug, sáu thời: ba thời ban ngày và ba thời ban đêm.
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Ông ta trả lời: “Tôi chỉ có thể từ bỏ quy y bằng miệng, tôi không bao giờ có thể làm điều đó bằng tâm.” Vì thế họ giết ông.
+Chúng ta nên thực sự giống như vị cư sĩ đó. Một khi ta từ bỏ quy y Tam Bảo, thì dù những pháp tu mà chúng ta thực hành có sâu xa tới đâu chăng nữa, ta có thể không còn là một phần tử của cộng đồng Phật giáo nữa. Có câu nói rằng:
+
+Chính việc quy y Tam Bảo cho ta thấy sự khác biệt giữa một Phật tử và một người không phải là Phật tử.
+
+Có nhiều kẻ ngoại đạo tránh làm những hành vi ác hại, thiền định về các Bổn Tôn, thực hành nương vào những kinh mạch và năng lực, và đạt được những thành tựu thông thường. Nhưng bởi không biết quy y Tam Bảo, họ không ở trên con đường đi tới giải thoát và sẽ không thoát khỏi luân hồi.
+Không có duy nhất một điều nào trong tất cả những giáo lý Kinh điển và Mật điển mà Ngài Jowo Atisa không biết hay chưa từng đọc. Nhưng Ngài cho rằng trong tất cả những giáo lý đó, quy y Tam Bảo có tầm quan trọng bậc nhất khiến Ngài đã lấy đó làm một chủ đề để dạy đệ tử – tới nỗi người ta đặt biệt danh cho Ngài là “Học Giả Quy Y.”
+Vậy, từ giây phút bạn đi vào con đường giải thoát và trở thành một Phật tử, hãy thực hành quy y cùng với các giới luật của việc quy y, và đừng bao giờ từ bỏ giới luật cho dù mạng sống của bạn đang bị lâm nguy. Như trong một Kinh điển có ghi:
+
+Những người quy y Phật
+Là những đệ tử cư sĩ chân chính;
+Họ không nên tìm kiếm quy y
+Nơi bất kỳ thần thánh nào khác.
+Những người quy y Thánh Pháp
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+*Không nên có các tư tưởng ác hại.*
+*Những người quy y Tăng Đoàn cao quý*
+*Không nên kết giao với những kẻ ngoại đạo.*
+
+Ngày nay, một số người khẳng định mình là đệ tử của Tam Bảo nhưng lại không có sự tôn kính tối thiểu đối với những đại diện của Tam Bảo. Họ coi những tranh tượng tượng trưng cho Đức Phật hay những pho sách chứa đựng những lời dạy của Ngài là những món hàng bình thường có thể được mang ra rao bán hay cầm cố. Điều này gọi là “sinh sống bằng cách bắt giữ Tam Bảo để đòi tiền chuộc” và là một lỗi lầm hết sức nghiêm trọng. Chỉ ra chỗ khiếm khuyết của một bức vẽ hay tượng của một vị Phật hoặc chỉ trích bức tranh hay bức tượng Phật, thì trừ khi bạn ước định được sự cân xứng để sửa chữa bức tượng hay bức tranh đó, còn bằng không thì đó cũng là một lỗi lầm nghiêm trọng và nên tránh. Đặt Kinh sách trực tiếp trên sàn nhà, bước qua chúng, thấm nước bọt vào ngón tay để lật trang sách và những cư xử thiếu tôn kính khác đều là những lỗi lầm nghiêm trọng. Chính Đức Phật đã nói:
+
+*Sau khi năm trăm năm chấm dứt*
+*Ta sẽ hiện diện trong Kinh điển.*
+*Hãy xem Kinh điển chính là Ta*
+*Và tỏ lòng tôn kính.*
+
+Một câu châm ngôn để dùng mỗi ngày nói rằng chúng ta không nên đặt những hình ảnh lên trên Kinh điển. Thay vì tượng trưng cho thân hay ý của Đức Phật thì Kinh điển tượng trưng cho ngữ của Ngài, dạy chúng ta điều gì nên làm và điều gì không nên làm và cũng bảo đảm tính liên tục của giáo lý của Ngài. Do đó, kinh điển không khác với bản thân Đức Phật, và thiêng liêng một cách đặc biệt.
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Ngoài ra, phần lớn mọi người nghĩ rằng chuông và chày* là những đồ vật bình thường. Họ không hiểu rõ rằng chúng là những bảo vật tượng trưng cho Tam Bảo. Chày tượng trưng cho tâm Phật, cho năm trí huệ. Chuông mang hình ảnh của một khuôn mặt, theo ngoại Mật điển thì đó là Đức Tỳ Lô Giá Na (Vairochana), và theo quan điểm của các Mật điển thượng thừa thì đó là Đức Vajradhatvishvari. Nói khác đi, chuông mang hình ảnh của thân Phật. Những chữ chạm khắc trên chuông là tám chủng tự của tám vị phối ngẫu, và bản thân của chuông tượng trưng cho ngữ của Phật, âm thanh của Giáo Pháp. Như vậy, chuông và chày đồng thời đáp ứng mọi tiêu chuẩn đại diện cho thân, khẩu và ý của Đức Phật. Đặc biệt hơn, đây là hai đối tượng bao gồm tất cả các mạn đà la của Kim Cương Mật Thừa, và vì thế được coi là những đối tượng mật nguyện phi thường. Như vậy, nếu bạn thiếu tôn kính với những pháp bảo này thì đó là một lỗi lầm nghiêm trọng. Hãy luôn luôn tôn kính các pháp bảo.
+
+## 2. Lợi Ích Của Quy Y
+
+Quy y là nền tảng của mọi công phu tu tập. Chỉ bằng việc quy y là bạn đã gieo trồng hạt giống của giải thoát trong bản thân bạn. Bạn tự rời xa mọi ác hạnh đã tích lũy, và ngày càng phát triển những thiện hạnh. Quy y là nơi nương tựa cho mọi giới nguyện, là suối nguồn của mọi phẩm tánh tốt đẹp. Cuối cùng, quy y sẽ dẫn bạn đến Phật Quả. Và trong suốt thời gian từ nay cho đến ngày đạt được Phật Quả, quy y sẽ bảo đảm cho bạn là bạn sẽ nhận được sự che chở của những vị Trời từ tâm và thực hiện được mọi điều bạn mong ước; bạn sẽ không xa rời tư tưởng của Tam Bảo; bạn sẽ nhớ đến các Ngài từ đời này
+
+---
+* Chuông và chày là những “đối tượng mật nguyện (samaya),” những linh vật cần thiết trong những pháp tu của Kim Cương Thừa (xem Thuật ngữ).
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+sang đời khác và tìm được hạnh phúc và an lành trong đời này và trong những kiếp tái sinh tương lai. Lợi ích của quy y được coi là vô lượng.
+
+Trong *Bảy Mươi Đoản Kệ Quy Y* có nói:
+
+> Thật ra, ai cũng có thể thọ giới nguyện,
+> Ngoại trừ những người không quy y.
+
+Quy y là nền tảng cần thiết cho tất cả các giới nguyện Biệt Giải Thoát (Pratimoksa), những giới nguyện của một hành giả cư sĩ, một sa di, một tu sĩ v.v... Trước khi phát triển Bồ Đề Tâm, nhận quán đảnh của Kim Cương Thừa hay Mật Thừa, và nhận quán đảnh của tất cả những pháp hành trì khác, quy y là yếu tố cần thiết để nhận giới nguyện đầy đủ và xác thực. Nếu trước tiên không thọ giới quy y thì không có cách nào để bắt đầu ngay cả việc hành trì pháp tịnh hóa và chuyển hoá hằng ngày. Quy y sẽ hỗ trợ cho tất cả những giới nguyện và mọi đức tánh tốt lành.
+
+Việc quy y với một lòng tin, thấu hiểu một cách sâu sắc về những phẩm tánh cao quý của Tam Bảo, sẽ đem lại lợi ích không còn phải nghi ngờ gì nữa. Nhưng thậm chí chỉ đơn giản nghe được danh từ “Phật,” hoặc tạo được bất kỳ mối liên kết nào, dù có thể rất mỏng manh, với bất kỳ đại diện nào của thân, khẩu và ý của Đức Phật, là có thể gieo trồng hạt giống của giải thoát, và cuối cùng sẽ dẫn đến trạng thái siêu vượt đau khổ. Trong Tạng Luật (Vinaya) có một câu chuyện kể về một con chó săn đuổi một con heo quanh một bảo tháp. Nhờ kinh nghiệm “nhiễu quanh” này, hạt giống giác ngộ đã được gieo trồng trong cả hai con vật.
+
+Theo một câu chuyện khác, có ba người đạt được Phật Quả chỉ nhờ một bức tượng tsa tsa bằng đất sét. Một hôm có
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+một người thấy tượng tsa tsa nhỏ bằng đất sét nằm trên mặt đất ngay bên lề đường.
+
+Ông ta nói: “Nếu để tượng nằm đó, trời mưa sẽ làm hỏng nó; tốt hơn ta nên làm điều gì cho nó.” Vì vậy, trước khi đi, ông ta lấy một miếng đế giày da cũ có ai bỏ gần đó che tượng lại.
+
+Một người khác tự nghĩ khi đi qua chỗ đó: “Thật sai lầm khi dùng một đế giày cũ che tượng tsa tsa kia”, và vì thế ông ta bỏ cái đế đi.
+
+Nhờ vào quả lành của ý hướng thiện lành của họ mà cả người dùng đế giày che tượng tsa tsa lẫn người bỏ cái đế ra đều được thừa hưởng những vương quốc trong các đời sau.
+
+Với tâm ý thanh tịnh,
+Người che đầu tượng Phật bằng một đế giày
+Và người sau đó lại lấy đế đi
+Cả hai đều thừa hưởng một vương quốc.
+
+Ba người – người đầu tiên đã nặn bức tượng tsa tsa, người thứ hai che tượng lại bằng một cái đế giày, và người cuối cùng lấy đế giày ra – tất cả đều đạt được hạnh phúc ở những cõi cao, được thừa hưởng vương quốc như một lợi lạc nhất thời, và cùng lúc đã tiến tới Phật Quả bằng cách gieo trồng trong tâm thức chính mình chủng tử của sự giải thoát tối hậu.
+
+Nhờ quy y mà bạn đã tự tách mình khỏi mọi hành động bất thiện. Quy y Tam Bảo với tín tâm chân thành và mãnh liệt sẽ làm suy giảm và cạn kiệt ngay cả những hành động xấu ác mà bạn đã tích tập trong quá khứ. Và từ lúc đó trở đi, những năng lực gia hộ tràn đầy bi mẫn của Tam Bảo sẽ đáp trả lại tất cả những niệm tưởng thiện lành của bạn, tới nỗi bạn sẽ chẳng còn làm bất kỳ điều tổn hại nào nữa.
+
+Một ví dụ khác là Vua A Xà Thế (Ajatasatru), người đã giết cha mình nhưng về sau quy y Tam Bảo. Ông đã chịu đựng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+những thống khổ của địa ngục trong một tuần lễ và sau đó được giải thoát.
+Và Đề Bà Đạt Đa (Devadatta), người đã phạm ba tội ác dẫn tới quả báo tức thời, thậm chí đã phải chịu đựng lửa địa ngục ngay khi còn sống. Nhưng vào lúc đó ông có niềm tin vào giáo lý của Đức Phật và gào lên: “Tôi quyết định quy y Đức Phật từ tận trong xương tủy của tôi!” Đức Phật đã giảng rằng nhờ những lời này mà Devadatta sẽ trở thành một vị Phật Độc Giác có danh hiệu là Dũng Khí Phật. Như thế, giờ đây nhờ thiện tâm của một Thầy hay thiện tri thức, bạn đã nhận được Giáo Pháp đích thực và phát khởi một chút ý nguyện mỏng manh muốn làm điều tốt lành và ngưng làm điều sai trái. Nếu bạn nỗ lực thực hành quy y Tam Bảo, tâm thức bạn sẽ nhận được nhiều sự gia trì và bạn sẽ phát triển mọi phẩm hạnh tốt lành của con đường đạo, chẳng hạn như bạn sẽ phát triển được niềm tin, có được tri giác thanh tịnh, không còn mang đầy ảo tưởng về sinh tử luân hồi và sẽ quyết định tìm giải thoát, hoặc sẽ phát triển được niềm tin vào luật nhân quả, v.v... Trái lại, cho dù giờ đây sự chán ghét luân hồi hay quyết tâm đạt được giải thoát của bạn có mãnh liệt tới đâu chăng nữa, nhưng nếu bạn không hết lòng quy y Thầy của bạn và quy y Tam Bảo, hay không cầu nguyện các Ngài, thì bạn sẽ bị sắc tướng bên ngoài quyến rũ. Bạn sẽ trở thành cuồng tín và những niệm tưởng lọc lừa sẽ mau chóng xuất hiện tới nỗi việc này dễ dàng biến thành ác hạnh, ngay cả trong khi bạn đang làm điều tốt. Vì thế, thật vô cùng cần thiết để bạn phải hiểu rằng không có gì tốt đẹp hơn việc quy y để cắt đứt sự vận hành của những việc bất thiện trong tương lai.
+Bây giờ nói đến một vấn đề quan trọng khác. Có câu nói rằng:
+
+Ma quỷ đặc biệt thù ghét những người kiên trì trong tu tập.
+
+I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Và:
+
+*Càng tu tập mãnh liệt thì ma quỷ càng mạnh mẽ.*
+
+Chúng ta đang ở trong một thời đại suy đồi, những người thiền định về ý nghĩa sâu xa và những người tràn đầy năng lực thiện hạnh, chính họ lại dễ bị những cám dỗ của đời sống thế tục đánh lừa. Họ bị gia đình và bạn bè cản trở. Họ đau khổ bởi những nghịch cảnh như bệnh tật và bị nhiễu loạn bởi những mầm mống tiêu cực. Tâm thức họ bị tràn ngập bởi thất niệm và luôn đắn đo, do dự. Dưới nhiều hình thức phóng tâm như thế, những chướng ngại cho việc thực hành Giáo Pháp xuất hiện và tiêu hủy tất cả công đức của họ. Nhưng, để đối trị với những nguy hiểm này, nếu bạn thực sự nỗ lực chân thành quy y Tam Bảo thì tất cả những gì gây trở ngại cho việc tu tập của bạn sẽ được chuyển hoá thành ra những hoàn cảnh thuận lợi, và công đức của bạn sẽ tăng trưởng liên tục.
+
+Ngày nay, khi những gia chủ loan báo rằng họ đang tự bảo vệ bản thân và gia đình họ khỏi bị bệnh tật trong năm, họ đã mời thỉnh một số Lạt Ma và đệ tử của các vị này – trong khi không một ai trong số các Lạt Ma đó đã từng nhận lãnh quán đảnh cần thiết hay từng nhận khẩu truyền, cũng không thực hành những tụng niệm căn bản. Các gia chủ thỉnh mời các vị này khai mở mạn đà la của một vài Bổn Tôn phẫn nộ. 126 Không kinh qua giai đoạn phát triển (generation stage) và giai đoạn toàn thiện (completion stage), họ trợn tròn đôi mắt như những chiếc đĩa nhỏ và thả mình vào một cơn giận dữ điên cuồng nhắm vào một hình nhân bằng bột nhào.* Họ luôn thực
+
+* Hiểu một cách đúng đắn thì một hình nhân như thế tượng trưng cho khái niệm sai lạc rằng bản ngã thực sự hiện hữu. Ở đây nghi thức linh thiêng đang được sử dụng trong một cách thế hời hợt bề ngoài, đối nghịch với ý hướng của pháp môn hành trì.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+hiện những lễ “cúng dường đỏ” gồm máu và thịt, và họ lên tiếng kêu gào “Đem chúng tới! Giết chúng! Liệu hồn đấy! Đánh chúng!” để khơi dậy trong lòng bất cứ ai nghe thấy những lời này những cảm xúc khích động dữ dội. Điều Ngài Milarepa nói dưới đây cho ta có một cái nhìn rõ ràng hơn về những nghi lễ như thế:
+
+> Cầu thỉnh những Bổn Tôn trí tuệ để bảo vệ chúng sinh
+> thế tục chẳng khác nào lôi một vị vua từ ngai vàng
+> xuống và bắt quét nhà.
+
+Ngài Padampa Sangye nói:
+
+> Họ làm một mạn đà la Mật Chú trong một chuồng dê
+> trong làng và tuyên bố đó là một hình thức giải độc!
+
+Những pháp thực hành thuộc loại này làm nhiễm độc Mật Thừa và biến Mật Thừa thành pháp tu hành của những người theo đạo Bön. Những người thực hiện những pháp tu “giải thoát” phải vượt lên mọi tư lợi. Chỉ có những người như thế, hành động trên một phạm vi rộng lớn vì lợi ích của chúng sinh và vì giáo pháp, mới có thể có đủ phẩm tính để giải thoát những địch thủ và những người gây chướng ngại là những kẻ đang phạm mười ác hạnh. Nhưng khi một pháp tu như thế được thực hiện với tâm sân hận thông thường, với đầu óc phe phái, thì pháp hành trì ấy không những sẽ không có năng lực để giải thoát các chúng sinh liên hệ, mà còn gây ra việc phải bị đọa xuống địa ngục cho người hành trì pháp ấy.
+
+Đối với những người không thành tựu những giai đoạn phát triển (generation stage) và giai đoạn toàn thiện (completion stage) và những người không tuân theo các mật nguyện, việc thực hiện những nghi lễ “cúng dường đỏ” gồm máu và thịt không đem lại kinh nghiệm chứng ngộ nào từ các
+
+# I. QUY Y - NỀN TẢNG CỦA MỌI CON ĐƯỜNG
+
+Bổn Tôn trí tuệ lẫn những Hộ Pháp. Thay vào đó, những vị Trời và ma quỷ ác độc sẽ tụ hội lại để cùng hưởng thụ những vật thực cúng dường và bánh cúng (torma). Dường như họ có thể mang lại một số lợi ích tức thời, nhưng kết quả sau cùng sẽ là vô số những hậu quả không ai mong muốn.
+
+Sự che chở gia hộ tốt nhất là bạn hãy đặt niềm tin nơi Tam Bảo. Hãy thỉnh cầu những vị Thầy và những tăng sĩ là những người đã an định và kiểm soát được tâm thức của mình để xin các Ngài tụng một trăm ngàn lần bài nguyện quy y. Bạn sẽ nhận được lực gia hộ từ Tam Bảo; sẽ không có điều gì bất như ý xảy ra cho bạn trong đời này và mọi ước muốn của bạn sẽ được thực hiện một cách tự nhiên. Những Thiện Thần sẽ bảo vệ bạn, và thậm chí tất cả những ai có thể làm hại bạn – ma quỷ và những kẻ gây chướng ngại – sẽ không tới gần bạn được.
+
+Có lần, một số người bắt được một tên trộm và đánh cho hắn một trận, mỗi lần đánh một gậy là họ niệm một câu trong bài nguyện quy y:
+
+“Tôi quy y Phật,” chát! “Tôi quy y Pháp,” chát! ..v..v...
+
+Sau khi đã khắc sâu những lời này vào tâm thức tên trộm, họ thả hắn đi. Tên trộm ngủ đêm dưới một cây cầu, tâm thức hắn tràn đầy lời lẽ của bài nguyện quy y, cùng với ký ức về trận đòn đau đớn mà hắn đã nhận. Trong khi hắn nằm ở đó thì một nhóm quỷ ma kéo tới gần cây cầu. Nhưng sau đó chúng la lên: “Ở đây có người quy y Tam Bảo!” và tất cả bỏ chạy, la hét inh ỏi.
+
+Để diệt trừ những ác hạnh của cuộc đời này thì không có cách nào tốt hơn việc quy y Tam Bảo tận đáy lòng bạn. Và trong những đời tương lai, quy y Tam Bảo sẽ đem tới cho bạn giải thoát và giác ngộ. Thậm chí khó có thể hình dung được tất cả những lợi ích của việc quy y.
+
+Kinh Vô Nhiễm có nói:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Nếu tất cả công đức của quy y
+Có hình tướng,
+Thì toàn thể không gian sẽ hoàn toàn tràn ngập,
+Không đủ sức dung chứa.
+
+Và trong *Bát Nhã Tập Kệ* có nói:
+
+Nếu công đức của quy y có hình tướng,
+Thì cả ba cõi cũng không thể chứa được.
+Làm sao đo lường nước bốn biển
+Chỉ bằng một chiếc muỗng nhỏ?
+
+Thêm nữa, như *Đại Nhật Tâm Kinh* có nói:
+
+Người coi Đức Phật là nơi nương tựa
+Mười triệu ma quỷ cũng không thể hãm hại;
+Dù họ vi phạm giới nguyện hay đau khổ trong tâm,
+Chắc chắn họ sẽ siêu vượt tái sinh.
+
+Do đó, hãy nhiệt thành, tận tụy hành trì pháp môn quy y, đây là nền tảng của tất cả những pháp tu của Giáo Pháp, bởi lẽ lợi ích của quy y thì thật vô biên vô tận.
+
+Con đã thực hiện ba bước quy y nhưng ít lòng tin chân thành,
+Con đã thực hành ba bước hướng dẫn nhưng để cho giới nguyện lơi lỏng.
+Xin từ bi gia hộ cho con và những kẻ bạc nhược như con
+Khiến niềm tin của chúng con kiên cố và bất thối chuyển.
+
+[Hình: Tranh vẽ Đức Phật thiền định trong vòng tròn ánh hào quang và các vòng tròn chữ Tạng]
+
+१ གནས་མཆོག་མི་འགྱུར་རྡོ་རྗེའི་ཕོ་བྲང་དུ་སངས་རྒྱས་སྟོང་རྩ་གཅིག་གི་བཞུགས་ཚུལ།
+
+[Hình: Tịch Thiên (Santideva) (thế kỷ thứ 7- 8)]
+
+Tịch Thiên (Santideva) (thế kỷ thứ 7- 8)
+
+Tác giả của Nhập Bồ Tát Hạnh
+(Bodhicaryavatara), một tác phẩm
+cổ điển vĩ đại của văn học Đại Thừa Ấn Độ.
+
+# CHƯƠNG 2
+## KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Nhờ trí tuệ vĩ đại, Ngài đã chứng ngộ Niết bàn.
+Nhờ lòng đại bi, Ngài sẵn lòng ôm trọn sinh tử.
+Nhờ phương tiện thiện xảo, Ngài trực ngộ sinh tử niết bàn vốn không hai
+Bậc Thầy Vô Song, con đảnh lễ dưới chân Ngài.
+
+Chương này gồm có ba phần: rèn luyện tâm thức nương nơi Tứ Vô Lượng; khơi dậy Bồ Đề Tâm (bodhicitta) -- tức tâm thức hướng tới Giác Ngộ siêu việt; và tu tập theo giới luật của Bồ Đề Tâm trên hai phương diện phát nguyện và thực hành.
+
+## I. RÈN LUYỆN TÂM NƯƠNG NƠI TỨ VÔ LƯỢNG
+
+Bốn phẩm hạnh vô lượng là lòng từ, bi, hỷ, và xả vô lượng. Lòng từ thường được đề cập đến trước tiên. Nhưng khi ta tuần tự thực hành bốn hạnh này như một phương cách rèn luyện tâm thức, thì chúng ta nên bắt đầu bằng việc phát triển tâm xả (tâm bình đẳng) trước nhất. Nếu không làm như vậy thì bất kỳ lòng từ, bi và hỷ nào mà chúng ta phát triển được cũng sẽ có khuynh hướng thiên lệch và không hoàn toàn thanh tịnh. Do đó, trong trường hợp này, chúng ta bắt đầu bằng thiền định về phẩm tính của tâm xả.
+
+# 1. Thiền Định Về Tâm Xả
+
+Xả (tiếng Tây Tạng là *tang nyom*) có nghĩa là từ bỏ (*tang*) sự thù ghét kẻ thù và sự bám luyến bằng hữu, và giữ một thái độ bình thản (*nyom*) đối với tất cả chúng sinh, thoát khỏi tâm trạng dính mắc với những người thân cận và lòng ác cảm với những người không thân thiết.
+
+Như hoàn cảnh hiện nay, chúng ta rất gắn bó với những người mà ta nghĩ là thành viên của tập thể của riêng ta – cha, mẹ, những người thân thuộc, v.v... - trong khi chúng ta thù ghét thậm tệ kẻ thù ta và những người liên kết với kẻ thù của ta. Đây là một lỗi lầm, và điều này xuất phát từ việc thiếu truy xét.
+
+Trong những đời trước, những người mà giờ đây chúng ta coi như kẻ thù chắc chắn đã từng thân thiết với ta, luôn yêu thương, kề cận, chăm sóc chúng ta với thiện ý, và hiến tặng cho ta mọi sự giúp đỡ và nâng đỡ ta không cách gì có thể tưởng tượng nổi. Trái lại, nhiều người mà giờ đây ta gọi là bạn bè chắc chắn đã từng chống lại ta và làm hại ta. Như chúng ta thấy trong chương viết về vô thường, điều này được minh họa bởi những lời của Ngài Katyayana siêu phàm:
+
+Hắn ăn thịt cha, đánh đuổi mẹ,
+Hắn nâng niu trong lòng kẻ thù mà hắn đã giết;
+Người vợ đang gặm xương chồng.
+Ta bật cười khi chứng kiến màn sinh tử hiển bày!
+
+Một ví dụ khác là câu chuyện của Công Chúa Pema Sel, con gái của vị Pháp Vương Trisong Detsen. Khi cô chết vào tuổi mười bảy, cha cô tới hỏi Đạo Sư Liên Hoa Sanh (Guru Rinpoche) làm sao một việc như vậy có thể xảy ra.
+
+“Tôi nghĩ con gái tôi phải là người có những hành vi thanh tịnh trong quá khứ,” nhà vua nói. “Nó đã sinh ra làm con
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+gái của Vua Trisong Detsen. Nó đã gặp tất cả các Ngài, là những dịch giả và học giả chẳng khác nào những vị Phật đích thực. Như vậy làm sao cuộc đời của nó lại ngắn ngủi như thế?”
+
+“Hoàn toàn không phải do những hành vi thanh tịnh trong quá khứ mà công chúa sinh làm con Ngài,” Đạo Sư trả lời. “Xưa kia, Ta; Liên Hoa Sanh, cùng Ngài, Pháp Vương vĩ đại, và Đại Bồ Tát Tu viện trưởng bị sinh ra làm ba đứa trẻ thuộc giai cấp hạ tiện. Chúng ta đang xây dựng Đại Bảo Tháp Jarung Khashor. Lúc đó công chúa sinh làm một côn trùng chích vào cổ Ngài. Ngài lấy tay gạt đi và ngẫu nhiên giết chết nó. Vì món nợ Ngài vay trong kiếp đó, con côn trùng đã tái sinh làm con gái của Ngài.”129
+
+Pháp Vương Trisong Detsen là người được xem là Hóa Thân của Bồ Tát Văn Thù mà con gái của Ngài lại có thể sinh làm con Ngài theo con đường tái sinh như vậy, do nghiệp chín muồi trổ quả từ một hành vi tạo tác trong quá khứ – như vậy thì ta còn có thể nói gì hơn về trường hợp của những chúng sinh khác?
+
+Hiện nay, ta có một mối liên hệ hết sức thân thiết với cha mẹ và con cái chúng ta. Ta cảm thấy hết sức thương yêu họ và có những ước nguyện lạ thường đối với họ. Khi họ đau khổ, hay bất kỳ điều gì không vừa ý xảy ra với họ thì chúng ta bối rối lo âu còn hơn là khi điều đó xảy ra với cá nhân ta. Tất cả những điều này chỉ là sự đền trả cho điều ác mà chúng ta đã gây ra cho nhau trong những đời quá khứ.
+
+Trong tất cả những người mà giờ đây chúng ta coi là kẻ thù, không ai chưa từng là cha hay mẹ trong một chuỗi dài những đời trước của ta. Ngay cả giờ đây, việc ta coi họ như những người chống lại ta không nhất thiết có nghĩa là họ thực sự làm điều ác đối với ta. Đối với một số người, chúng ta coi họ là những đối thủ, nhưng từ phía họ, họ lại hoàn toàn không nhìn thấy chúng ta theo cách đó. Một số khác có thể cảm thấy
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+rằng họ là kẻ thù của ta nhưng hoàn toàn không có khả năng làm hại ta. Cũng có những người vào một lúc nào đó có vẻ như đang gây tổn hại cho ta, nhưng trong một thời gian dài, lại có những điều họ làm có thể đem lại cho ta một nhận thức và cảm kích sâu sắc nào đó trong đời này, hoặc khiến ta chuyển tâm, hướng tâm về Pháp, và vì thế đem lại cho ta nhiều lợi lạc và hạnh phúc. Còn những người khác, nếu ta có thể khéo léo thích nghi với tánh khí của họ và khuyến dụ họ với lời lẽ dịu dàng cho tới khi chúng ta đạt được một vài thỏa thuận nào đó, thì ta có thể dễ dàng chuyển hoá họ thành bạn của ta.
+
+Mặt khác, có những người mà chúng ta thường xem là thân thiết nhất với mình, chẳng hạn như con cái ta. Nhưng đã có những đứa con từng lừa gạt hay thậm chí giết cả cha mẹ chúng. Đôi khi con cái đứng về phe những người đang có tranh chấp với cha mẹ, hợp lực với họ để gây xung đột cho chính gia đình mình và cướp đoạt tài sản của cha mẹ. Ngay cả khi chúng ta sống thuận thảo với những người thân thiết với ta, những phiền muộn và rắc rối của họ cũng đem đến những ảnh hưởng không tốt đẹp đối với chúng ta, thậm chí còn ảnh hưởng ta mạnh mẽ hơn là những khó khăn của chính mình. Để giúp đỡ bạn bè, con cái và những người thân khác của ta, chúng ta tích lũy đầy rẫy những hành động bất thiện là những hành động sẽ đọa ta vào các tầng địa ngục trong đời sau. Khi ta thực sự muốn thực-hiện Pháp một cách đúng đắn thì họ lôi kéo chúng ta lại. Khi không thể thoát khỏi nỗi lo lắng về cha mẹ, con cái, và gia đình, chúng ta trì hoãn việc tu tập, thực hành Pháp, và vì thế không bao giờ tìm ra được thời gian để thực hành công phu tu tập này. Tóm lại, những người như vậy có thể làm hại ta thậm chí còn hơn cả những kẻ thù.
+
+Hơn nữa, không có gì bảo đảm là những người chúng ta coi là đối thủ hôm nay lại không phải là con cái chúng ta trong những đời sau, hay bạn bè hiện tại sẽ không tái sinh làm kẻ thù của chúng ta trong kiếp tới, v.v... Chỉ vì trong một thoáng,
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+ta chấp nhận rằng nhận thức của chúng ta về “kẻ thù” và “bạn bè” là thật có, nên ta tích tập nhiều hành động bất thiện qua lòng tham luyến và sân hận. Tại sao ta lại ôm chặt gánh nặng này để chúng lôi kéo ta, đọa ta xuống những cõi giới thấp?
+
+Vì thế, hãy đi đến một quyết định mãnh liệt và hãy ý thức rằng tất cả chúng sinh bao la vô tận là cha mẹ và con cái của chính bạn. Như thế, hãy rèn luyện tâm ta giống như những bậc vĩ đại trong quá khứ đã làm, như ta đã có thể đọc thấy trong tiểu sử cuộc đời các Ngài -- hãy coi tất cả bằng hữu và kẻ thù đều tương tự như nhau.
+
+Trước hết, đối với tất cả những người mà bạn hoàn toàn không ưa thích – những người khơi dậy lòng sân hận và thù ghét trong bạn – hãy rèn luyện tâm thức bạn bằng nhiều phương tiện khác nhau để lòng sân hận và thù ghét mà bạn cảm thấy đối với họ không còn xuất hiện. Hãy nghĩ về họ như thể bạn nghĩ về một người nào đó một cách chung chung, không làm điều tốt cho bạn mà cũng chẳng làm hại bạn. Sau đó hãy quán chiếu rằng vô số chúng sinh mà bạn cảm thấy chung chung về họ, từ vô thủy đã từng là cha, mẹ bạn một lúc nào đó trong những đời quá khứ. Hãy thiền định về đề mục này, rèn luyện bản thân cho tới khi bạn cảm thấy thương yêu họ, tương tự như bạn yêu thương cha mẹ hiện thời của bạn. Cuối cùng, hãy thiền định cho tới khi bạn cảm thấy có được lòng từ bi vô phân biệt đối với tất cả chúng sinh – dù bạn coi họ là bạn bè, kẻ thù hay không thù không bạn – nhưng đây chính là bạn đang phát triển lòng bi mẫn đối với cha mẹ nhiều đời kiếp của chính bạn.
+
+Bây giờ, nếu bạn chỉ đơn thuần nghĩ đến mọi người, thù và bạn đều như nhau, trong lòng không có mảy may một cảm xúc đặc biệt nào, không cảm thấy từ bi, cũng không cảm thấy thù ghét hay cảm thấy bất cứ gì khác -- nếu chỉ đơn thuần nghĩ như vậy thì tâm xả đó vẫn không thể nào thay thế được cho tâm xả vô lượng [mà chúng ta muốn phát khởi]. Loại tâm xả chung chung đó là thứ tâm xả không có chánh niệm, không gây ra điều ác nhưng cũng không đem lại lợi lạc. Hình ảnh được dùng để miêu tả một tâm xả chân chính vô lượng vô tận là hình ảnh một bữa tiệc do một hiền nhân vĩ đại chiêu đãi. Khi những đại hiền giả ngày xưa cúng dường những bữa tiệc, các Ngài sẽ mời tất cả mọi người, dù cao hay thấp, mạnh hay yếu, tốt hay xấu, đặc biệt hay bình thường, mà không có bất kỳ phân biệt nào. Tương tự như thế, thái độ của ta đối với tất cả chúng sinh khắp hư không phải là một cảm thức bao la của lòng từ bi, dung chứa tất cả một cách bình đẳng. Hãy rèn luyện tâm thức bạn cho tới khi bạn đạt tới một trạng thái của tâm xả vô lượng y như thế.
+
+## 2. Thiền Định Về Tâm Từ
+
+Qua công phu thiền định về tâm xả vô lượng đã được mô tả như trên, bạn hãy quan tâm tới tất cả chúng sinh trong tam giới với lòng từ rộng lớn tương tự. Lòng từ ái mà bạn cảm thấy đối với tất cả chúng sinh phải giống như lòng từ của những bậc cha mẹ chăm sóc con cái mình. Cha mẹ không để ý tới sự vô ơn bạc nghĩa của con cái, họ gánh chịu mọi gian khổ, hoàn toàn hiến dâng mọi tư tưởng, lời nói, và hành động chỉ để những đứa con của họ được hạnh phúc, sung túc và thoải mái. Cũng thế, trong đời này và tất cả những đời sau của bạn, hãy hiến dâng mọi việc bạn làm, lời nói, hay suy nghĩ của bạn cho sự an lành và hạnh phúc của tất cả chúng sinh.
+
+Tất cả những chúng sinh đó đều cố gắng để đạt được hạnh phúc và an nhàn. Tất cả đều muốn được sống hạnh phúc và nhàn nhã; không một ai trong số đó muốn hứng chịu bất hạnh hay đau khổ. Tuy nhiên, họ không hiểu được rằng nguyên nhân của hạnh phúc là những thiện hạnh, thay vào đó họ đắm mình trong mười hành vi bất thiện. Do đó, ước muốn
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+sâu xa nhất (được hạnh phúc) và hành động của họ lại mâu thuẫn nhau: trong nỗ lực tìm kiếm hạnh phúc, họ chỉ mang lại đau khổ cho chính mình.
+
+Hãy liên tục thiền định về tư tưởng này “thật tuyệt diệu biết bao nếu mỗi người trong những chúng sinh đó có thể thọ hưởng tất cả niềm hạnh phúc và an nhàn mà họ mong muốn.” Hãy thiền định về điều đó cho tới khi lòng mong cầu cho người khác được hạnh phúc cũng mãnh liệt giống như bạn đang mong muốn cho bản thân bạn được hạnh phúc.
+
+Kinh điển nói về “những hành vi nhân từ của thân, những hành vi nhân từ của khẩu, những hành vi nhân từ của ý.” Điều này có nghĩa là tất cả những gì bạn nói ra bằng miệng, làm bằng tay, thay vì nói và làm những điều tổn hại người khác, thì hãy chỉ nói và làm những điều thẳng thắn và tốt lành. Như trong Nhập Bồ Tát Hạnh có nói:
+
+> Bất cứ khi nào bạn nhìn người khác,
+> Hãy nhìn họ với tấm lòng yêu thương rộng mở.
+
+Ngay cả khi bạn chỉ nhìn một ai khác, hãy nhìn họ với nét tươi cười, vui vẻ, thay vì nhìn họ bằng một cái nhìn chòng chọc đầy gây hấn hay biểu lộ sự thù ghét. Có nhiều câu chuyện nói về điều này, giống như câu chuyện về một nhà cai trị đầy uy quyền nhìn mọi người với cái nhìn phẫn nộ. Chuyện kể rằng người đó bị tái sinh làm một ngạ quỷ sống nhờ thức ăn thừa dưới bếp lò của một căn nhà, và sau đó, cũng vì đã nhìn một thánh nhân theo lối đó, ông ta bị đọa vào địa ngục.
+
+Bất cứ hành động nào bạn làm bằng thân, hãy gắng làm một cách dịu dàng và vui vẻ, cố gắng không làm hại người khác mà là để giúp đỡ họ. Lời nói của bạn không nên biểu lộ những thái độ như khinh miệt, chỉ trích hay ghen tị. Hãy làm sao để mỗi lời bạn nói đều vui vẻ và chân thật. Đối với thái độ của tâm, khi bạn giúp đỡ người khác, chớ mong chờ bất kỳ sự
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+đền đáp tốt đẹp nào. Đừng làm một kẻ đạo đức giả và cố làm cho người khác coi bạn như một vị Bồ Tát bằng những lời nói và hành động tử tế của bạn. Tận đáy lòng bạn, hãy hoàn toàn mong ước hạnh phúc cho người khác và chỉ quan tâm tới những gì lợi lạc nhất cho họ. Hãy lập đi lập lại những lời cầu nguyện này: “Trải dài suốt tất cả các kiếp, nguyện xin cho tôi không làm tổn hại dù chỉ một sợi tóc trên đầu người khác, và nguyện xin cho tôi luôn luôn giúp đỡ mỗi người trong tất cả mọi người.”
+
+Điều đặc biệt quan trọng là tránh làm cho những người dưới quyền của bạn đau khổ bằng cách đánh đập, ép buộc họ làm việc cực nhọc, v.v... Điều này áp dụng cho người giúp việc cũng như cho những thú vật của bạn, xuống tới con chó giữ nhà khiêm tốn nhất. Luôn luôn, trong mọi hoàn cảnh, bạn hãy tử tế với họ trong tư tưởng, lời nói và hành động. Bị tái sinh như một người hầu, hay một con chó giữ nhà, bị mọi người coi thường và khinh rẻ, là nghiệp trổ quả do những hành vi đã tạo trong quá khứ. Đó là quả hỗ tương của việc xem thường và khinh rẻ người khác khi bạn có một địa vị quyền uy trong một đời quá khứ. Nếu bây giờ vì giàu có và quyền thế mà bạn xem thường người khác, bạn sẽ phải trả món nợ này trong vài kiếp tới bằng cách phải tái sinh làm những người hầu của họ. Vì thế, hãy đặc biệt tử tế với những người đang ở vị trí thấp hơn bạn.
+
+Bất kỳ những gì bạn có thể làm bằng thân, khẩu hay ý để giúp đỡ mọi người, đặc biệt là cha mẹ của bạn, hay những người bị bệnh kinh niên, sẽ đem lại những lợi ích không thể nghĩ bàn. Ngài Jowo Atisa nói:
+
+Tử tế đối với những người từ phương xa tới, những người bị bệnh lâu năm, hay cha mẹ trong tuổi già, tương đương với việc thiền định về tánh Không mà tinh tuý của tánh Không ấy chính là lòng từ bi.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Cha mẹ chúng ta đã tỏ cho ta thấy tình yêu thương và tâm từ ái bao la tới nỗi nếu chúng ta làm cho cha mẹ mình phải đau khổ lúc về già thì đây là một ác hạnh. Bản thân Đức Phật, để đền đáp lòng tốt của thân mẫu, Ngài đã đi tới tầng Trời thứ Ba Mươi Ba để giảng Pháp cho bà. Có câu nói rằng cho dù chúng ta hầu hạ cha mẹ bằng cách đưa họ đi khắp thế giới trên đôi vai của mình, thì việc ấy vẫn không đền đáp được lòng tốt của cha mẹ. Tuy nhiên, chúng ta có thể đền đáp lòng tốt này bằng việc hướng dẫn cha mẹ đến với giáo lý của Đức Phật. Vì thế, hãy luôn luôn phụng sự cha mẹ bằng tư tưởng, lời nói, và hành động, và cố gắng tìm cách đưa cha mẹ mình đến với Giáo Pháp.
+
+Đạo Sư Vĩ Đại xứ Oddiyana đã nói:
+
+> Không nên làm cho người già buồn khổ; hãy chăm sóc họ với lòng quan tâm và tôn kính.
+
+Trong bất cứ những gì bạn nói và làm, hãy tỏ ra tử tế với tất cả những người lớn tuổi hơn bạn. Hãy quan tâm tới họ và làm bất kỳ những gì bạn có thể làm được khiến cho họ vui lòng.
+
+Ngày nay, hầu hết mọi người đều nói rằng không có cách nào sống trong cõi luân hồi mà không làm tổn hại người khác. Nhưng điều này không đúng.
+
+Ngày xưa, ở Khotan, hai vị sa-di đang thiền định về Đức Văn Thù (Manjushri) siêu phàm.
+
+Một hôm, Ngài hiện ra với họ và nói: “Giữa ta và các ngươi không có duyên nghiệp với nhau. Vị Bổn Tôn mà các ngươi có liên hệ trong những đời quá khứ là Đức Quán Tự Tại vĩ đại. Hiện Ngài được tìm thấy ở Tây Tạng, là vị vua đang cai trị xứ này.* Các ngươi nên tới đó gặp Ngài.”
+
+* Nhà vua có danh hiệu là Songtsen Gampo, vị vua Phật tử đầu tiên của Tây Tạng, Ngài được coi là một hoá thân của Đức Quán Tự Tại.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Khi hai vị sa-di tới Tây Tạng và đi vào vòng thành Lhasa, họ thấy rất đông người bị hành hình hay bị giam giữ. Họ hỏi điều gì đang xảy ra.
+
+“Đó là những người bị vua ra lệnh trừng phạt,” họ được cho biết như vậy.
+
+“Vị vua này chắc chắn không phải là Đức Quán Tự Tại,” họ tự nhủ, và sợ cũng bị trừng phạt như vậy nên họ quyết định bỏ đi.
+
+Vị vua biết họ bỏ đi nên phái một sứ giả đi theo mời họ tới gặp Ngài.
+
+“Đừng sợ,” Ngài bảo họ. “Tây Tạng là một vùng đất hoang dã, khó thuần phục. Vì lý do đó ta đã phải tạo ra ảo ảnh những tội nhân bị hành hình, bị chặt tay chân, và v.v. Nhưng trong thực tế, ta chưa từng làm tổn hại ai cho dù chỉ một sợi tóc.”
+
+Vị vua đó là người cai trị toàn xứ Tây Tạng, Xứ Tuyết, và đã khiến các vị vua khắp bốn phương phải phục tùng Ngài. Ngài đánh bại những đội quân xâm lược và giữ yên ổn khắp biên cương. Mặc dù Ngài buộc lòng phải chiến thắng quân thù và bảo vệ thần dân của mình trên một phạm vi rộng lớn như vậy nhưng Ngài hoàn toàn tự chế ngự được để không làm tổn hại một sợi tóc trên đầu người. Vì thế, làm sao chúng ta không thể không làm như vậy để tránh việc gây tai hại cho người khác khi ta đang chăm sóc nơi trú ẩn bé xíu của ta, là những thứ mà nếu so sánh thì không lớn hơn những tổ côn trùng?
+
+Gieo gió thì gặt bão. Việc làm hại người khác chỉ tạo nên đau khổ vô tận cho đời này và những đời kế tiếp. Chẳng có điều tốt lành nào có thể phát sinh từ ác hạnh, ngay cả trong những việc lặt vặt của đời này. Chưa từng có ai trở nên giàu có nhờ giết chóc, trộm cướp và những điều tương tự. Cuối cùng họ phải gánh chịu quả báo và thất thoát toàn bộ tiền bạc và của cải trong khi thực hiện ác hạnh.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Hình ảnh được đưa ra để minh họa cho lòng từ ái bao la là một con chim mẹ săn sóc những đứa con. Nó bắt đầu bằng việc làm một cái tổ mềm mại, ấm cúng. Chim mẹ che chở và ủ cho thật ấm những con chim con bằng đôi cánh của nó. Nó luôn dịu dàng và che chở chim con cho tới khi chúng có thể chắp cánh bay xa. Giống như con chim mẹ đó, hãy học cách tử tế trong tư tưởng, lời nói, và hành động với tất cả chúng sinh trong ba cõi.
+
+3. Thiền Định Về Tâm Bi
+
+Thiền định về tâm bi là hình dung chúng sinh bị hành hạ bởi nỗi đau khổ khủng khiếp và mong muốn họ được giải thoát khỏi những đau khổ đó. Có câu nói rằng:
+
+Hãy nghĩ về một người nào đó bị đau khổ dữ dội, như một người bị ném vào ngục tối sâu thẳm chờ đợi cuộc hành hình, hay một con vật sắp bị làm thịt đang đứng trước kẻ đồ tể. Hãy cảm nhận lòng từ ái đối với chúng sinh đó như thể họ là mẹ hay con của chính bạn.
+
+Hãy hình dung một tù nhân bị nhà cầm quyền kết án tử hình và đang bị dẫn tới nơi hành quyết, hoặc một con cừu bị người đồ tể bắt trói lại.
+
+Khi bạn nghĩ tới một tù nhân bị kết án, thì hãy hình dung con người đau khổ đó là chính bạn thay vì một người nào khác. Hãy tự hỏi mình sẽ làm gì trong tình huống đó. Làm thế nào bây giờ? Không biết chạy nơi đâu. Không nơi ẩn trốn. Không chốn nương tựa và không ai che chở bạn. Bạn không có phương tiện để đào thoát. Bạn không thể bay xa. Bạn không có sức mạnh, không có quân đội để bảo vệ. Ngay chính lúc đó, mọi tri giác về cuộc đời này sắp bị cắt đứt. Bạn
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+sẽ phải bỏ lại ngay cả thân thể của chính mình mà bạn đã từng bảo vệ, chăm chút từng chút một, và phải bắt đầu lên đường đi đến cuộc đời kế tiếp. Đau đớn làm sao! Hãy rèn luyện tâm thức bằng cách nhận lãnh vào mình nỗi đau khổ của tù nhân bị kết án đó.
+
+Và khi bạn nghĩ tới một con cừu bị dẫn đi giết thịt, đừng nghĩ nó chỉ là một con cừu. Thay vào đó, hãy cảm thấy một cách chân thành rằng đó chính là người mẹ già của mình sắp bị giết, và hãy tự hỏi phải làm gì trong tình huống đó. Giờ đây bạn định làm gì khi họ sắp giết người mẹ già của bạn, mặc dù bà chẳng làm điều gì tổn hại đến ai? Hãy kinh nghiệm từ tận đáy lòng bạn nỗi khổ mà mẹ bạn phải trải qua. Khi tâm bạn nóng lòng muốn làm một điều gì ngay lập tức để người mẹ già của bạn không bị giết chết tại chỗ, hãy quán chiếu dù sinh loài đang đau khổ này không thực sự là cha hay mẹ bạn trong đời này, nhưng chắc chắn họ đã từng là cha hay mẹ bạn trong một thời điểm nào đó trong những đời quá khứ và đã từng nuôi dưỡng bạn với thiện tâm lớn lao giống hệt như cha mẹ trong đời này của bạn đã làm. Vì thế không có gì khác biệt giữa cha mẹ đời này với cha mẹ của vô lượng kiếp. Thương thay cho cha mẹ khốn khổ của bạn đang chịu đau khổ quá nhiều! Giá như họ có thể lập tức thoát khỏi nỗi khổ của họ, không chút trì hoãn – ngay giây phút này! Với những niệm tưởng này trong lòng, hãy thiền định với lòng bi mẫn không thể chịu đựng nổi đến nỗi đôi mắt bạn trở nên đẫm lệ.
+
+Khi lòng bi của bạn được đánh thức, hãy thấu hiểu rằng tất cả những đau khổ này là hậu quả của các ác hạnh đã phạm trong quá khứ. Tất cả những chúng sinh khốn khổ giờ đây đang đắm mình trong những ác hạnh cũng sẽ phải chịu đau khổ không cách nào tránh khỏi. Để cho điều này hiện rõ trong tâm, hãy thiền định với lòng bi về tất cả những chúng sinh đang tạo nhân đau khổ cho bản thân họ bằng việc sát sinh và bằng những hành vi bất thiện khác.
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GÓC RỄ CỦA ĐẠI THỪA
+
+Sau đó hãy quán sát sự đau khổ của tất cả những chúng sinh bị tái sinh trong các cõi địa ngục, giữa những ngạ quỷ và những cõi giới đau khổ khác. Hãy đồng nhất với họ như thể họ là cha mẹ bạn, hay là chính bạn, và thiền quán về lòng bi với một năng lực vĩ đại.
+Cuối cùng, hãy quán chiếu sâu xa về tất cả chúng sinh trong tam giới. Bất kể ở đâu có không gian là ở đó có chúng sinh. Nơi nào có chúng sinh là nơi đó có ác hạnh và có quả khổ. Những chúng sinh đáng thương chỉ toàn dính mắc trong tất cả những ác hạnh và đau khổ! Tuyệt diệu biết bao nếu như mỗi chúng sinh trong sáu cõi có thể thoát khỏi mọi tri kiến gây ra bởi những hành vi trong quá khứ, thoát khỏi mọi đau khổ và những khuynh hướng bất thiện đó, và đạt được hạnh phúc vĩnh cửu của Phật Quả viên mãn.
+Khi bạn bắt đầu thiền định về tâm bi, điều quan trọng trước tiên là hãy chú tâm vào nỗi khổ của một cá nhân, từng người một, và sau đó từng bước một, tu tập bản thân cho tới khi bạn có thể thiền định về tất cả chúng sinh như một toàn thể đồng nhất. Nếu không như thế, lòng từ bi của bạn sẽ rất mơ hồ và chỉ là lý thuyết suông. Tâm bi ấy sẽ không phải là một tâm bi chân chính, xác thực.
+Hãy đặc biệt quán chiếu về những đau khổ và khó nhọc của trâu bò, cừu, ngựa thô và những gia súc khác của bạn. Chúng ta chế ra đủ loại hình thức hành hạ dã man những sinh loài như thế, có thể so sánh với những hành hạ trong địa ngục. Chúng ta xỏ mũi, thiến, vặt lông, lấy máu sống những con thú.* Chúng ta chẳng suy xét trong bất kỳ phút giây ngắn ngủi nào để thấy rằng những con vật này có thể bị đau đớn. Nếu suy nghĩ về điều đó một cách sâu xa, ta sẽ thấy ngay vấn đề đáng tiếc là ở chỗ chúng ta đã không nuôi dưỡng lòng bi mẫn. Hãy quán chiếu về điều này thật kỹ lưỡng: ngay giờ đây,
+
+* Gù lông mềm trên lưng bò yak được dùng làm len, người ta thường vặt nó ra hơn là xén.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+nếu có ai chỉ nhổ một sợi tóc của bạn, bạn sẽ la lên vì đau đớn – bạn sẽ hoàn toàn không tha thứ cho việc đó. Thế mà chúng ta lại vặt tất cả lông-gù dài của những con bò yak của ta, để lại lớp da thịt trần trụi đỏ tấy lên mà nơi mỗi sợi lông tứa ra một giọt máu. Mặc dù con vật kêu rên vì đau đớn nhưng chúng ta chẳng mảy may quan tâm tới nỗi khổ của nó.
+
+Chúng ta chẳng thể đứng yên khi bị một vết phỏng dộp trên bàn tay. Đôi khi mông đít ta bị đau do du hành trên lưng ngựa, ta không thể ngồi trên yên mà phải ngồi lệch một bên. Nhưng chúng ta không làm thế khi con ngựa bị kiệt sức hay đau đớn. Khi nó không thể đi tiếp được nữa và bị vấp ngã, thở hổn hển, ta vẫn cho là tại nó cứng đầu. Chúng ta mất bình tĩnh và quát nó không chút thương xót.
+
+Hãy nghĩ về cá nhân một con vật, chẳng hạn một con cừu bị giết thịt. Trước tiên, khi bị lôi ra khỏi bầy, con vật tê liệt vì sợ hãi. Một vết thương tươm máu phồng lên ngay chỗ bị túm chặt. Nó bị quảng nằm ngửa trên mặt đất; chân bị cột lại với nhau bằng một sợi dây da và mõm bị ràng cho tới khi chết ngạt.** Nếu con vật kéo dài thời gian hấp hối trong cơn đau dữ dội thì kẻ đồ tể, người làm những ác hạnh, hết sức giận dữ:
+
+“Con này không muốn chết!” hắn nói, và đánh con vật túi bụi.
+
+Con cừu này khó chết hơn cừu bị lột da và moi ruột. Cùng lúc đó một con vật khác bị rút máu cho tới khi không còn đứng vững được nữa. Máu của con vật đã chết được hoà chung với máu con vật còn sống và hỗn hợp này được nấu chín trong bộ ruột của một con vật đã bị mổ bụng để làm món xúc xích.* Bất cứ ai có thể ăn những thứ như thế về sau hẳn phải là một kẻ ăn thịt người thật sự.
+
+<br>
+
+** Ở Tây Tạng, người ta thường giết súc vật bằng cách làm cho nó ngạt thở.
+\* Như huyết-xúc xích. Điều này làm theo một niềm tin của địa phương là một hỗn hợp gồm máu của một con vật còn sống và máu một con vật đã chết làm tăng cường sinh lực.
+
+II. KHƠI DẠY BÒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Hãy suy nghĩ kỹ càng về nỗi khổ của những con vật này. Hãy hình dung chính bạn đang trải qua nỗi khổ đó và xem xét coi chúng ra sao. Hãy lấy tay bịt miệng bạn lại và ngừng thở. Hãy ở trong tình trạng như thế trong một lát. Bạn hãy kinh nghiệm sự đau đớn và hoảng sợ. Khi bạn đã thực sự quán sát điều đó, hãy nghiền ngẫm kỹ lưỡng rằng thật đáng buồn biết bao khi toàn thể chúng sinh đó bị dằn xé bởi những nỗi khổ khủng khiếp như thế mà không có lúc nào được ngơi nghỉ. Giá như bạn có năng lực để ban tặng chúng nơi ẩn náu thoát khỏi mọi thống khổ này!
+
+Các Lạt Ma và tu sĩ là những người được mọi người tin tưởng là có lòng từ bi rộng lớn nhất. Nhưng họ lại chẳng có chút xíu nào tấm lòng ấy. Nói đến chuyện làm cho chúng sinh đau khổ thì quả là họ còn tệ hại hơn cả các gia chủ. Đây là dấu hiệu cho thấy thời đại giáo lý của Đức Phật đang thực sự tới lúc kết thúc. Chúng ta đã đi tới một thời kỳ khi mà những quỷ ma ăn thịt và các yêu tinh hoàn toàn được tôn kính. Trong quá khứ, Bậc Thầy của chúng ta, Đức Thích Ca Mâu Ni, đã từ bỏ vương quốc của một vị Chuyển Luân Thánh Vương.130 Cùng với những đệ tử A La Hán của Ngài, Ngài đi chân trần, khất thực với bình bát và cây gậy trong tay. Không những các Ngài đi khất thực mà không có lừa hay ngựa thồ, mà ngay cả Đức Phật cũng không có ngựa để cưỡi. Đó là bởi Ngài cảm thấy rằng làm cho chúng sinh đau khổ không phải là con đường của giáo lý đạo Phật. Không lẽ Đức Phật không đủ tháo vát để tìm cho bản thân mình một con ngựa già để cưỡi?
+
+Tuy nhiên, khi những vị tôn kính của chúng ta tổ chức một buổi lễ trong làng, họ xỏ một mẩu dây bện tròn qua cái lỗ được đục ở mõm con trâu yak. Khi được đỡ lên yên, họ kéo bằng cả hai tay mạnh tới nỗi có thể nắm được sợi dây làm bằng lông yak, nó thọc sâu vào mũi con trâu yak, làm con vật đáng thương này đau đớn khủng khiếp đến độ phải chồm lên và phóng vọt tới. Vì thế người ngồi trên lưng nó, với tất cả sức
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+mạnh của mình, đánh nó bằng roi. Không chịu nổi chỗ đau mới bên hông, con trâu yak bắt đầu chạy – nhưng mũi lại bị sợi dây kéo lại. Bây giờ lỗ mũi bị đau quá khiến con yak đứng lại, và lại bị roi quất. Bị trì kéo phía trước, bị roi quất phía sau cho tới khi chẳng mấy chốc con vật đau đớn và kiệt sức. Mồ hôi toát ra từ mỗi sợi lông, lưỡi nó thè ra, hơi thở khò khè, và nó không thể đi được nữa.
+
+“Chuyện gì xảy ra với nó? Nó vẫn không chịu đi cho đàng hoàng,” người cưỡi trâu yak nghĩ như vậy và nổi giận, dùng cái tay nắm của sợi dây thúc vào sườn con vật cho tới khi trong cơn giận dữ, hắn thúc mạnh tới nỗi tay nắm bể làm hai. Hắn nhét những miếng bể vào thắt lưng, nhặt một cục đá nhọn và, xoay tròn trên yên, đâm mạnh xuống mông con trâu yak già nua... Tất cả những điều này xảy ra là bởi hắn không cảm thấy một chút xót thương nào đối với con vật.
+
+Hãy hình dung chính bạn là con trâu yak già nua, lưng bạn oằn xuống vì bị chồng chất quá nặng, một sợi dây trì kéo bạn ở lỗ mũi, hông bạn bị quất, sườn bạn thâm tím vì cái bàn đạp. Bạn chỉ cảm thấy đau rát ở phía trước, phía sau, và hai bên sườn. Không một giây ngưng nghỉ, bạn leo lên những sườn núi dài, đi xuống những con dốc sâu, vượt qua các con sông rộng và những cánh đồng mênh mông. Không được nuốt dù chỉ một muỗng thức ăn, bạn bị dẫn đi trái với ý muốn của bạn từ sáng sớm cho tới chiều tối khi những tia nắng sau cùng của mặt trời tà đã biến mất. Hãy quán chiếu về nỗi đau đớn và kiệt lực của con vật như thế nào, sự đau đớn, đói khát mà bạn trải nghiệm ra sao, và sau đó, hãy nhận vào mình nỗi đau khổ đó. Bạn không thể cảm thấy điều gì khác ngoài lòng bi mẫn mãnh liệt và không thể nào chịu đựng nổi.
+
+Thông thường, những người mà chúng ta gọi là Lạt Ma hay tu sĩ phải là nơi nương tựa và người trợ giúp – là những vị hộ trì và dẫn dắt tất cả chúng sinh với một tấm lòng vô phân biệt. Nhưng trong thực tế, họ thiên vị những vị thí chủ, những
+
+## II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+người bảo trợ họ, những người tặng cho họ thức ăn, nước uống và cúng dường họ. Họ cầu nguyện để những cá nhân đặc biệt này có thể được che chở và bảo vệ. Họ ban cho những người này các lễ quán đảnh và phước lành. Và trong thời gian đó, họ kết bè kết bạn để trục xuất tất cả những ngạ quỷ và những tinh linh ác hại mà sự tái sinh vào đường dữ là kết quả của nghiệp bất hạnh của chúng. Chư vị Lạt Ma cử hành những buổi lễ như vậy tới lúc nổi cơn thịnh nộ, làm ra vẻ muốn đánh đập và kêu lên: “Giết, giết! Đánh, đánh!”
+
+Giờ đây, chắc chắn rằng nếu bất kỳ ai coi những tinh linh ác hại như đối tượng để đánh hoặc giết thì hẳn đó là vì tâm thức họ đang bị đè nặng bởi năng lực của sự tham luyến và thù hận, và họ chưa từng phát khởi lòng bi mẫn bao la, vô phân biệt. Khi bạn suy nghĩ sâu xa về điều này, bạn sẽ thấy rằng những tinh linh ác hại này cần đến lòng từ bi hơn bất kỳ ân nhân, tín chủ nào. Họ trở thành những tinh linh nhiễu hại là bởi ác nghiệp của họ. Khi bị tái sinh làm ngạ quỷ với một thân thể khủng khiếp, họ đau đớn và sợ hãi không thể tưởng tượng nổi. Họ không kinh nghiệm được điều gì khác ngoại trừ sự đói, khát, và kiệt quệ kéo dài vô tận. Họ nhận thấy mọi sự chỉ là sự đe dọa. Khi tâm họ tràn đầy thù hận và gây hấn, nhiều người trong số họ bị đọa địa ngục ngay khi chết. Như vậy ai xứng đáng được thương xót hơn? Những vị thí chủ có thể đau yếu và khổ sở, nhưng điều đó sẽ giúp cho ác nghiệp của họ cạn kiệt và không còn tạo tác thêm nữa. Trái lại, những tinh linh xấu ác đó đang làm tổn hại những người khác với những ý định xấu ác, và bởi những ác hạnh của họ, họ sẽ bị lộn nhào xuống đáy sâu của các cõi thấp.
+
+Nếu Đấng Chiến Thắng, thiện xảo trong các phương tiện và tràn đầy lòng từ bi, đã giảng dạy cách khử trừ hay đe dọa những tinh linh gây tổn hại này bằng những phương pháp hung nộ thì cũng chỉ là vì lòng bi mẫn đối với chúng tinh linh, giống như một người mẹ phát vào đít đứa trẻ nghe lời.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Ngài cũng cho phép một số người thực hiện các nghi lễ giải thoát bằng cách là những người có năng lực được ngăn chặn dòng tạo tác ác nghiệp của những kẻ chuyên gây tổn hại, và chuyển tâm thức chúng tới một cõi thanh tịnh. Nhưng ngược lại, đối với việc cố tình làm thoả mãn yêu cầu của những tín chủ, làm thoả mãn các tu sĩ, và thoả mãn những người mà chúng ta coi là đứng về phe ta để hắt hủi chúng quỷ ma và hắt hủi những người làm điều sai trái, rồi coi họ như những kẻ thù đáng ghét – bảo vệ một bên và tấn công bên kia do lòng tham luyến và thù hận – thì đó có phải là do Đấng Chiến Thắng đã giảng dạy những thái độ như thế hay không? Chừng nào chúng ta còn bị dẫn dắt bởi những cảm xúc tham luyến và thù hận như vậy, thì thật vô ích khi cố gắng loại bỏ hay tấn công bất kỳ tinh linh ác hại nào. Thân thể họ chỉ thuần là tâm thức nên họ sẽ không tuân lệnh chúng ta. Ngược lại họ sẽ chỉ gây thêm hoạ hại chúng ta. Quả thực – chưa cần phải nói tới chuyện tham luyến và thù hận – chừng nào chúng ta còn tin rằng những vị Trời và tinh linh như thế thực sự hiện hữu và muốn họ biến đi cho khuất mắt thì chúng ta sẽ không bao giờ thuần phục được họ.
+
+Khi Ngài Jetsun Mila sống trong Động Pháo Đài Kim Xí Điểu ở thung lũng Chong, thì Vinayaka, chúa tể của những kẻ gây chướng ngại, thi triển một ảo giác siêu nhiên. Trong hang đá của mình, Jetsun Mila nhìn thấy năm **atsara**\* (nhà tu khổ hạnh) với đôi mắt to như cái đĩa nhỏ. Ngài cầu nguyện vị Thầy và Bổn Tôn của Ngài, nhưng những con quỷ vẫn không bỏ đi. Ngài thiền định quán tưởng Bổn Tôn và niệm các thần chú phẫn nộ, nhưng chúng vẫn không đi.
+
+Cuối cùng Ngài nghĩ: “Ngài Marpa xứ Lhodrak đã dạy ta rằng tất cả mọi sự việc trong vũ trụ đều chính là do tâm tạo, và bản tánh của tâm thì rỗng rang và chói ngời. Tin rằng ma
+
+\* *a tsa ra* là một sửa đổi sai lạc của từ Phạn ngữ *acarya*, và ở đây có nghĩa là những sự xuất hiện mang hình tướng của các nhà tu khổ hạnh Ấn Độ.
+
+II. KHƠI DẠY BÒ ĐÈ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+quỷ và những kẻ gây chướng ngại này đều đến từ bên ngoài và muốn họ đi chỗ khác là điều vô nghĩa."
+
+Cảm nhận một xác tín mạnh mẽ như thế giúp Ngài thấu suốt được rằng những tinh linh và ma quỷ chỉ là những tri giác của chính mình, Ngài trở lại hang động. Trợn tròn đôi mắt kinh hãi, những nhà tu khổ hạnh vụt biến mất.
+
+Đây cũng là điều mà Nữ Yêu Tinh ở Tảng Đá muốn nói tới khi nó hát cho Milarepa nghe:
+
+*Quỷ ma ta đây là huân tập của riêng Ngài biến hiện trong tâm Ngài;*
+*Nếu Ngài không nhận ra bản tánh thật của tâm,*
+*Thì ta sẽ chẳng đi đâu chỉ vì Ngài bảo ta đi.*
+*Nếu Ngài không nhận ra được tâm Ngài rỗng rang,*
+*Thì ngoài ta ra, còn rất nhiều quỷ ma nữa!*
+*Nhưng nếu Ngài nhận ra bản tánh thật của tâm,*
+*Thì nghịch cảnh sẽ hộ trì Ngài chứ chẳng thể làm gì khác*
+*Và ngay cả ta, Nữ Yêu Tinh ở Tảng Đá, sẵn sàng đợi lệnh Ngài.*
+
+Như vậy, thay vì có sự xác tín để thấu hiểu rằng tất cả tinh linh và ma quỷ chính là bản tâm của ta, thì làm sao chúng ta có thể khuất phục được chúng bằng cách lên cơn giận dữ phẫn nộ?
+
+Khi các tăng sĩ tới thăm các vị thí chủ của họ, các tăng sĩ này vui vẻ không chút do dự ăn hết con cừu đã bị giết để phục vụ họ. Khi các tăng sĩ ấy thực hiện những nghi thức đặc biệt để cúng dường các vị Hộ Pháp, họ tuyên bố rằng món thịt thanh tịnh là một phần cần thiết. Đối với họ, món này có nghĩa là thịt và mỡ còn ướt máu của một con vật bị giết chết tươi, và với máu và mỡ đó, họ dùng để trang trí tất cả các bánh cúng (torma) và những món cúng dường khác. Những phương pháp đe dọa ghê sợ như thế chỉ có thể là những nghi thức của các
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+kẻ ngoại đạo hay những người theo đạo Bön – chúng chắc chắn không phải là nghi thức Phật Giáo. Trong Phật Giáo, một khi đã quy y Pháp, chúng ta phải từ bỏ việc làm hại người khác. Làm thế nào mà việc giết một con thú ở mỗi nơi chúng ta đến, thưởng thức máu và thịt của nó, lại không là việc phạm giới nguyện quy y? Đặc biệt hơn nữa, trong truyền thống Bồ Tát của Đại Thừa, chúng ta được coi là nơi nương tựa và là người bảo vệ cho tất cả chúng sinh bao la vô tận. Nhưng đối với chính những chúng sinh có nghiệp bất hạnh mà ta được coi như đang che chở cho chúng thì ta lại không cảm thấy chút xíu lòng bi mẫn nào. Thay vào đó, những chúng sinh nằm dưới sự che chở của chúng ta đã bị giết hại, thịt và máu nấu chín của chúng được bày ra trước mặt ta, và những người bảo vệ họ – là chúng ta, những Bồ Tát – lại hân hoan ngấu nghiến món thịt rồi chép môi hả hê thoả mãn. Còn điều gì có thể xấu xa và ác độc hơn nữa không?
+
+Những bản văn của Kim Cương Mật Thừa có nói:
+
+Cho dù chúng ta có làm điều gì khiến simha và tramen* khó chịu
+Chẳng hạn như việc không thọ dụng các phẩm vật cúng dường gồm máu và thịt y cứ theo văn bản,
+Chúng ta hãy cầu xin các Không Hành nữ (dakini) ở những chốn linh thiêng tha thứ.
+
+Vậy ở đây, “thọ dụng các phẩm vật cúng dường gồm máu và thịt y cứ theo văn bản” có nghĩa là thọ dụng những món này như đã được giải thích trong những bản văn Mật điển của Mật Thừa. Những hướng dẫn trong các bản văn đó là gì?
+
+_________________
+* Những bổn tôn tượng trưng của mạn đà la.
+
+II. KHOI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Năm loại thịt và năm cam lồ
+Là thức ăn và nước uống cho bữa tiệc hội bên ngoài.
+
+Do đó, “cúng dường một tiệc máu và thịt y cứ theo các bản văn” có nghĩa là cúng dường năm loại thịt được coi là những chất liệu mật nguyện (samaya) có giá trị đối với Mật Thừa – đó là thịt người, ngựa, chó, voi, và trâu bò. Năm loại thịt này không bị ô nhiễm bởi những ác hạnh vì đây là toàn thể những sinh vật không bị giết để làm thực phẩm.131 Điều này hoàn toàn trái ngược với việc chúng ta dựa vào khái niệm tịnh và bất tịnh—đối với khái niệm này thì thịt người, thịt chó... được xem là bất tịnh, kém tệ, trong khi loại thịt bổ béo của một con vật vừa bị giết để làm thực phẩm lại được coi là thanh tịnh. Những thái độ như thế được đề cập tới như là:
+
+Xem chất liệu của năm mật nguyện thọ dụng
+Là tịnh hay bất tịnh, hoặc thọ dụng trong lơ đễnh.
+
+Nói khác đi, khi có những ý niệm tịnh hay bất tịnh là đã vi phạm những mật nguyện của việc thọ dụng, ngay cả khi năm loại thịt được chấp nhận kia chỉ có thể được sử dụng nếu bạn có năng lực chuyển hóa thực phẩm bạn ăn thành chất cam lồ và đang ở trong tiến trình tu tập để đạt tới những thành tựu đặc biệt ở một nơi ẩn dật. Nếu bạn ăn những món thịt này một cách ngẫu nhiên tình cờ trong làng xóm, chỉ vì bạn thích mùi vị của món thịt thì đây chính là ý nghĩa của câu “thọ dụng trong lơ đễnh, trái ngược với những mật nguyện của việc dụng,” và đấy cũng là một sự vi phạm các giới mật nguyện.
+
+Do đó, “thịt thanh tịnh” không có nghĩa là thịt của một con vật bị giết để làm thực phẩm, mà là “thịt của con vật bị chết vì hành nghiệp của nó trong quá khứ.” Có nghĩa là thịt của một con vật chết già, chết bệnh, hoặc chết vì những nguyên nhân tự nhiên khác, và những nguyên nhân này không là gì khác
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+hơn ngoài ác báo phải trả cho những hành nghiệp của chính con vật ấy trong quá khứ.
+
+Ngài Dagpo Rinpoche vô song nói rằng đem thịt và máu còn ấm của một con vật bị giết chết tươi và đặt nó trong mạn đà la thì việc làm ấy sẽ làm tất cả chư Bổn Tôn trí tuệ chết ngất. Cũng có câu nói rằng cúng dường chư vị Bổn Tôn trí tuệ máu và thịt của con vật bị giết thì cũng giống như giết chết một đứa con trước mặt bà mẹ. Nếu bạn mời người mẹ dùng bữa và sau đó đặt trước mặt bà ta món thịt của đứa con ruột của bà, thì liệu bà ta thích hay không thích? Chính bằng tình thương của bà mẹ đối với đứa con duy nhất của mình mà Chư Phật và Bồ Tát đã hướng nhìn về tất cả chúng sinh trong ba cõi. Như vậy, giết thịt một sinh vật vô tội mà nó là nạn nhân của những hành vi bất thiện của chính nó, rồi cúng dường thịt, máu của nó cho các Ngài thì không cách nào có thể làm cho các Ngài hài lòng. Như Bồ Tát Tịch Thiên có nói:
+
+Không niềm vui nào có thể mang lại sự hài lòng
+Cho những người mà thân thể họ đang bị thiêu đốt,
+Các đấng bi mẫn vĩ đại cũng không thể hài lòng
+Khi chúng sinh bị hãm hại.
+
+Nếu bạn chỉ dùng thịt và máu của những con vật bị giết để cử hành những nghi thức như nghi thức cầu nguyện những vị Hộ Thần, thì cố nhiên những vị Bổn Tôn trí tuệ và những vị Hộ Pháp, là những bậc Bồ Tát thuần tịnh, sẽ không bao giờ chấp nhận vật thực cúng dường là thịt của chúng sinh bị giết, được bày ra giống như được bày bán trên quầy thịt. Thậm chí các Ngài sẽ không bao giờ lại gần những nơi như thế. Thay vào đó, những tinh linh xấu ác đầy năng lực là những kẻ thích thịt và máu tươi, luôn luôn hăm hở trong việc hãm hại kẻ khác, chúng sẽ tụ hội quanh nơi cúng dường và dự tiệc.
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Chỉ một thời gian ngắn sau khi một hành giả của những “cúng dường đỏ” như thế thực hiện công việc của mình, người ta có thể thấy được một vài lợi ích nho nhỏ. Nhưng bởi những tinh linh này đang thường xuyên làm hại người khác, nên chúng có thể gây ra những khó khăn và bệnh tật bất ngờ. Một lần nữa, hành giả của những nghi thức “đỏ” sẽ lại xuất đầu lộ diện và cúng dường thịt và máu, và một lần nữa việc đó sẽ giúp ích trong một thời gian ngắn. Đây là cách thức những tinh linh xấu ác và các hành giả của những nghi thức “đỏ” trở thành bạn đồng hành không thể chia cách, luôn luôn hỗ trợ lẫn nhau. Giống như những thú săn mồi rình mò, chúng đi loanh quanh vơ̛ vổ, hoàn toàn bị ám ảnh bởi nỗi khát khao nhai thịt, g-ặm xương và luôn luôn tìm kiếm thêm nạn nhân. Bị những tinh linh mê hoặc, các hành giả của những nghi thức như thế sẽ đánh mất y niệm về sự huyễn ảo của vòng sinh tử luân hồi, đánh mất niềm khao khát giải thoát nào mà có thể họ đã có từ trước. Bất kể niềm tin, tri kiến thanh tịnh hay mối quan tâm nơi Giaó Pháp nào mà một thời họ đã có, tất cả những phẩm tính này sẽ mờ nhạt dần, tới độ ngay cả nếu chính Đức Phật hiện ra bay bổng giữa bầu không trung trước mặt thì điều này cũng chẳng đánh thức được niềm tin trong họ; thậm chí khi thấy một con vật với bộ ruột lòng thòng ra ngoài, việc ấy cũng không thể khơi được chút lòng từ bi nào trong tâm của họ. Họ luôn dáo dác tìm mồi, giống như những kẻ sát nhân la-sát (*raksasa*) lên đường đi chinh phặt, mặt họ hừng hực, rung lên trong cơn thịnh nộ và tỏ vẻ khiêu chiến hung hă̆ng. Họ kiêu căng về năng lực và ân phước của ngôn ngữ của họ, nó xuất phát từ việc họ thân thiết với những tinh linh xấu ác. Ngay khi chết, họ bị hút thẳng vào địa ngục – trừ phi những ác nghiệp của họ chưa đến lúc hoàn toàn trổ quả để họ phải chịu quả báo như vậy. Trong trường hợp này, họ bị tái sinh vào hàng ngũ của một số tinh linh xấu ác chuyên đi
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+săn bắt sinh lực của những người khác, hay tái sinh làm diều hâu, chó sói và những dã thú khác.
+
+Trong triều đại của Pháp Vương Trisong Detsen, những người theo đạo Bön cúng dường máu và thịt vì lợi ích của nhà vua. Đức Phật Thứ Hai xứ Oddiyana (Đức Liên Hoa Sanh), Đại học giả Vimalamitra, Đại Bồ Tát Tu Viện Trưởng và những dịch giả, học giả khác, tất cả hoàn toàn bị xúc phạm trước cảnh tượng cúng dường của những kẻ Bönpo. Các Ngài nói:
+
+> Một giáo lý duy nhất không thể có hai vị Thầy;
+> Một tôn giáo duy nhất không thể có hai phương pháp tu tập.
+> Truyền thống của đạo Bön đối nghịch với giới luật của Giáo Pháp;
+> Cái xấu ác của nó còn đồi bại hơn những việc làm sai quấy của người bình thường.
+> Nếu quý vị cho phép tu tập như vậy, chúng tôi sẽ quay về nhà.
+
+Tất cả những vị học giả cùng chung một ý kiến, thậm chí không cần phải bàn luận với nhau. Khi nhà vua thỉnh cầu các Ngài thuyết Pháp, không một ai bước lên. Ngay cả khi nhà vua mời họ dùng bữa, các Ngài đều từ chối.
+
+Nếu chúng ta, tự cho là đang đi theo dấu chân của những học giả, thành tựu giả và Bồ Tát trong quá khứ, mà giờ đây lại thực hiện những nghi lễ sâu xa của Mật Thừa theo cung cách của những kẻ tu theo đạo Bön và gây tổn hại cho chúng sinh, điều này sẽ hủy hoại tính chất siêu phàm của Giáo Pháp, làm ô danh Tam Bảo, và sẽ quăng ném cả chúng ta lẫn những người khác vào địa ngục.
+
+Hãy luôn luôn ngồi ở vị trí thấp nhất. Hãy mặc y phục giản dị. Hãy giúp đỡ tất cả những người khác càng nhiều càng tốt
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+trong khả năng của bạn. Trong tất cả mọi công việc, hãy chỉ làm với mục đích phát triển lòng từ và bi cho tới khi chúng trở thành một phần căn bản của con người bạn. Điều đó sẽ đáp ứng cho mục đích tu hành, cho dù bạn không thực hành những hình thức nổi bật bề ngoài và dễ nhìn thấy của Giáo Pháp như việc cầu nguyện, làm các hạnh lành hay các hoạt động vị tha. Trong *Phật Thuyết Pháp Tập Kinh* có nói:
+
+Hãy để những người khao khát Phật Quả không phải tu tập nhiều Pháp trừ một Pháp duy nhất
+Pháp đó là gì? Là lòng đại bi.
+Những người có lòng đại bi sở hữu tất cả giáo lý của Đức Phật như thể trong lòng bàn tay.
+
+Có lần Geshe Tongpa được một vị tăng đến thăm, ông ta là đệ tử của Ba Anh Em và Ngài Khampa Lungpa.*
+“Dạo này Potawa đang làm gì?” Ngài Tonpa hỏi vị sư.
+“Ngài đang giảng dạy cho Tăng chúng hàng trăm người.”
+“Rất tốt! Còn Geshe Puchungwa thì thế nào?”
+“Ngài dùng toàn bộ thời giờ để sáng tạo những biểu tượng** cho thân, khẩu và ý của Đức Phật từ những vật liệu mà Ngài và những người khác cúng dường”.
+“Rất tốt!” Ngài Geshe Tonpa lập lại. “Còn Gonpawa thì thế nào?”
+“Ngài không làm gì hết, chỉ thiền định”
+“Rất tốt! Hãy nói cho ta về Khampa Lungpa.”
+“Ngài sống ở nơi cô tịch, dấu mặt và khóc liên miên.”
+
+____________________
+\* Xem Thuật ngữ.
+\** Nghĩa đen: sự hỗ trợ. Những biểu tượng cho thân Phật ám chỉ các pho tượng và tranh vẽ, những biểu tượng cho ngữ của Phật ám chỉ các Kinh văn linh thánh và những bản văn khác, và những biểu tượng cho tâm Phật ám chỉ các bảo tháp (stupa).
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Nghe nói tới đây Ngài Tonpa dở nón, chắp tay giữa ngực và rơi nước mắt, kêu lên, “Ô, vị ấy thật tuyệt diệu! Ngài đang thật sự thực hành Giáo Pháp. Ta có thể nói một ít cho ngươi biết là Ngài tốt lành ra sao, nhưng ta biết Ngài sẽ không thích đâu.”
+
+Lý do khiến Ngài Khampa Lungpa dấu mặt và khóc suốt ngày là bởi Ngài thường xuyên nghĩ tới chúng sinh bị hành hạ bởi những nỗi thống khổ trong vòng luân hồi, và Ngài thiền định về lòng từ bi đối với họ.
+
+Một hôm Ngài Chengawa đang giảng về những lý do tại sao lòng từ và bi trở nên hết sức quan trọng, thì Langri Thangpa đảnh lễ trước mặt Ngài và nói rằng từ lúc đó trở đi, ông sẽ không thiền định về điều gì khác ngoại trừ hai điều này. Ngài Chengawa giở nón ra và nói ba lần “Thật là một tin lành tuyệt hảo!”
+
+Không gì có thể hữu hiệu hơn lòng từ bi để tịnh hóa ác nghiệp và chướng ngại của chúng ta. Thời xa xưa ở Ấn Độ, giáo lý A Tỳ Đàm bị thử thách trong ba dịp khác nhau và sắp bị biến mất. Nhưng một nữ tu sĩ Bà la môn tên Prakasasila nghĩ rằng :“Ta sinh ra làm thân nữ. Bởi địa vị thấp kém nên bản thân ta không thể làm cho kinh điển của Đức Phật chói sáng được. Vì thế, ta sẽ phối hợp với những người đàn ông để sinh ra những người con trai để có thể phổ biến giáo lý A Tỳ Đàm.”
+
+Cùng với chồng là một người trong giai cấp chiến sĩ (ksatriya), bà sinh Ngài Asanga (Vô Trước) cao quý, và với một người bà la môn, bà đã sinh ra Ngài Vasubandhu (Thế Thân). Khi mỗi một trong hai con trai bà tới tuổi trưởng thành, họ hỏi cha họ làm gì.
+
+Người mẹ bảo với từng đứa con: “Ta sinh ra con không phải để đi theo dấu chân của cha con. Con được sinh ra để phổ biến giáo lý của Đức Phật. Con phải học Giáo Pháp, và trở thành vị thầy của giáo lý A Tỳ Đàm.”
+
+## II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Ngài Vasubandhu (Thế Thân) rời nhà tới Kashmir để học giáo lý A Tỳ Đàm. Ngài Asanga (Vô Trước) tới Núi Kukkutapada, ở đó Ngài bắt đầu thực hành pháp tu của Đức Phạt Di Lặc với hy vọng có linh kiến về Ngài và có thể thỉnh cầu giáo huấn từ Ngài. Sáu năm trôi qua, mặc dù thiền định gian khổ, Ngài chẳng có được một giấc mộng lành nào.
+
+“Có lẽ ta chẳng bao giờ thành công” Ngài nghĩ, và bỏ đi, cảm thấy ngã lòng. Dọc đường, Ngài đi ngang qua một người đang chà xát một thỏi sắt khổng lồ bằng một miếng vải mềm.
+
+Ngài hỏi người đàn ông: “Ông đang gắng làm cái gì mà chà xát như thế?”
+
+Ông ta trả lời: “Tôi cần một cây kim, nên tôi đang làm nó bằng cách chà xát thanh sắt này.”
+
+Ngài Asanga nghĩ, “Ông ta sẽ không bao giờ làm được một cây kim bằng cách chà xát thỏi sắt khổng lồ đó với một miếng vải mềm. Cho dù nó có thể được làm trong một trăm năm, liêu ông ta có sống được tới đó không? Nếu chỉ vì một lý do quá nhỏ nhoi mà người bình thường còn nỗ lực như thế thì ta có thể thấy là mình chưa bao giờ thực sự thực hành Pháp với bất kỳ lòng kiên trì nào.”
+
+Vì thế Ngài thực hành pháp tu trở lại. Ngài thực hành hơn ba năm mà vẫn không thấy dấu hiệu nào.<sup>132</sup>
+
+“Lần này, ta hoàn toàn chắc chắn là ta không thể thành công,” Ngài nói, và lại lang thang lần nữa. Cuối cùng Ngài đi tới một tảng đá cao tới nỗi dường như chạm tới các tầng trời. Dưới chân tảng đá, một người đàn ông đang quất một miếng da nhúng nước vào tảng đá.
+
+“Ông làm gì vậy?” Ngài Asanga hỏi ông ta.
+
+Người đàn ông nói: “Tảng đá này cao quá, chẳng có chút nắng nào vào nhà, nhà tôi ở phía tây tảng đá nên tôi muốn làm tảng đá mòn đi cho tới khi nó biến mất”.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Với những suy tưởng như ba năm trước, Ngài Asanga quay trở lại và thực hành trong ba năm nữa, nhưng vẫn không có một giấc mộng lành nào.
+
+Hoàn toàn thất vọng, Ngài nói: “Như vậy ta chẳng bao giờ thành công được điều gì!” và một lần nữa lại ra đi.
+
+Dọc đường, Ngài đi qua một con chó cái với hai chân sau bị què và toàn bộ phần sau của nó nhung nhúc dòi. Tuy thế, nó vẫn đầy vẻ gây hấn và cố cắn Ngài khi trườn mình bằng hai chân trước, thân sau của nó kéo lê trên mặt đất. Asanga vô cùng xúc động, Ngài cảm nhận một lòng bi mẫn sâu xa không thể chịu đựng nổi. Ngài cắt một miếng thịt của mình cho con chó ăn. Sau đó Ngài quyết định giúp nó thoát khỏi những con dòi ở phần thân sau của nó. Vì sợ rằng có thể giết chết những con dòi nếu Ngài bốc chúng ra bằng tay, Ngài nhận thấy cách duy nhất để làm điều đó là dùng lưỡi. Nhưng mỗi khi nhìn vào toàn thân con chó đã quá thối rữa và đầy mủ thì Ngài lại không thể làm được. Do vậy, Ngài nhắm mắt lại và thè lưỡi ra.
+
+Thay vì chạm vào thân con chó cái thì lưỡi Ngài lại chạm đất.
+
+Ngài mở mắt ra và thấy con chó đã biến mất. Đức Phật Di Lặc (Maitreya) có hào quang bao quanh đang đứng ở chỗ của nó.
+
+“Ngài tàn nhẫn làm sao,” Asanga kêu lên, “suốt thời gian qua Ngài không cho con nhìn thấy mặt!”
+
+“Không phải là ta không hiện ra cho con thấy. Ta và con chưa bao giờ xa cách nhau. Nhưng vì những ác nghiệp và chướng ngại của con quá mạnh nên con không thể thấy được ta. Nhờ con đã thực hành suốt mười hai năm ròng nên ác nghiệp và chướng ngại đã suy giảm được một ít nên con mới có thể nhìn thấy con chó cái. Ngay bây giờ, nhờ lòng đại bi của con, các chướng ngại của con đã hoàn toàn được tịnh hóa
+
+## II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+và con có thể thấy ta bằng đôi mắt của con. Nếu không tin, hãy mang ta trên vai và cho mọi người quanh đây nhìn thấy!"
+
+Vì thế Asanga đặt Đức Di Lặc trên vai phải và đi vào chợ, ở đâu Ngài cũng hỏi mọi người: “Ông thấy cái gì trên vai tôi?”
+
+Ngoại trừ một bà lão mà tri giác ít bị những tưởng huân tập ngăn che, còn thì mọi người đều trả lời là không có gì trên vai Ngài. Bà ta nói: “Ông đang mang thây một con chó thối”
+
+Sau đó Đức Maitreya mang Asanga lên cõi trời Đâu Suất, ở đó Ngài ban cho Asanga Di Lặc Ngũ Luận (Năm Giáo Lý Của Di Lặc) và những giáo huấn khác. Khi trở về cõi người, Ngài Asanga (Vô Trước) truyền bá rộng rãi giáo lý Đại Thừa.
+
+Bởi không có thực hành nào như lòng từ bi để tịnh hóa tất cả những hành vi gây tổn hại của chúng ta, và chính vì lòng bi mẫn chưa từng thất bại trong việc giúp cho chúng ta phát triển Bồ Đề Tâm phi thường, nên chúng ta phải kiên nhẫn thiền định về lòng bi mẫn.
+
+Hình ảnh được đưa ra để thiền định về lòng từ bi là hình ảnh của một người mẹ cụt tay, mà đứa con của bà bị một con sông cuốn đi. Một bà mẹ như thế sẽ đau khổ biết chừng nào. Tình thương của bà dành cho đứa con quá mãnh liệt, nhưng vì không thể dùng đôi tay nên bà không thể chụp đứa con lại được.
+
+“Tôi có thể làm gì bây giờ? Tôi có thể làm gì?” bà tự hỏi. Suy nghĩ duy nhất của bà là tìm ra phương tiện nào đó để cứu con. Trái tim bà tan nát, bà vừa khóc vừa chạy theo sau đứa con.
+
+Hoàn toàn giống như vậy, tất cả chúng sinh trong tam giới đang bị giòng sông đau khổ cuốn trôi vào biển luân hồi. Mặc dù ta cảm nhận một lòng bi mẫn không thể chịu đựng nổi, nhưng chúng ta không có cách gì cứu thoát họ khỏi nỗi khổ của họ. Hãy thiền định về điều này, hãy nghĩ: “Giờ đây tôi có thể làm được gì?” và hãy khẩn gọi Thầy và Tam Bảo từ tận sâu thẩm trái tim bạn.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+## 4. Thiền Định Về Tâm Hỷ
+
+Hãy hình dung một người được sinh ra sống một đời sống cao quý, mạnh mẽ, thịnh vượng, đầy quyền thế, một người khác sống trong những cõi cao đang trải qua sự nhàn nhã, hạnh phúc, trường thọ, giàu có và được nhiều người hầu hạ. Không có bất kỳ cảm thức ghen tị hay ganh đua nào, hãy phát khởi niềm ước muốn rằng thậm chí những người này có thể trở nên vinh quang hơn nữa, vui hưởng sự thịnh vượng của những cõi cao hơn nữa, thoát khỏi mọi hiểm nguy, và luôn luôn phát triển một bộ óc thông minh và những tài năng hoàn hảo khác hơn nữa. Sau đó hãy thường xuyên tự nhủ rằng thật tuyệt vời biết bao nếu tất cả chúng sinh khác cũng có thể sống trong một hoàn cảnh sung sướng y như vậy.
+
+Hãy bắt đầu công phu thiền định của bạn bằng cách suy nghĩ về một người có thể dễ dàng làm khơi dậy những cảm xúc tốt lành tích cực – như một người bà con, một người bạn thân hay một người mà bạn yêu mến – là người thành đạt, bằng lòng và an lạc, và hãy cảm thấy sung sướng rằng bạn đang như thế. Khi bạn đã tạo ra được cảm giác hạnh phúc đó, hãy cố gắng nuôi dưỡng cảm giác tương tự đối với những người bạn cảm thấy lãnh đạm. Sau đó tập trung cảm giác đó trên tất cả những loại kẻ thù đã làm tổn thương bạn, và đặc biệt với những người mà bạn cảm thấy ghen tị. Hãy nhổ tận gốc tâm thức xấu ác không chịu đựng nổi khi thấy ai đó được hưởng sự hoàn toàn sung túc, và hãy nuôi dưỡng một cảm giác vui thích đặc biệt đối với mỗi loại hạnh phúc mà họ có thể hưởng thụ. Hãy kết thúc bằng sự ngơi nghỉ trong trạng thái vô niệm.
+
+Ý nghĩa của tâm hoan hỷ là có được một tâm thức thoát khỏi mọi ganh tị. Do đó, bạn nên cố gắng rèn luyện tâm bạn với đủ loại phương thức để ngăn chặn những tư tưởng ganh tị vô cùng tai hại, không để cho chúng phát sinh. Đặc biệt, một
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+vị Bồ Tát, người đã phát khởi Bồ Đề Tâm vì lợi ích của tất cả chúng sinh, phải cố gắng an lập tất cả chúng sinh đó trong hạnh phúc vĩnh cửu của Phật Quả, và trong hạnh phúc nhất thời của những cõi Trời và Người. Vậy, làm sao một vị Bồ Tát như thế lại có thể cảm thấy không hài lòng khi một số người, nhờ nghiệp lực của những hành vi trong quá khứ của họ, được sở hữu một vài điều kiện xuất chúng hay giàu có?
+
+Một khi người ta bị thiên lệch bởi lòng ghen tị, họ không còn thấy cái tốt của người khác, và những hành vi tiêu cực hay ác hạnh của họ gia tăng một cách đáng báo động.
+
+Khi danh tiếng và hoạt động của Ngài Jetsun Milarepa lan rộng, một luận sư tên Tarlo trở nên ghen tị và bắt đầu tấn công Ngài. Mặc dù Ngài Jetsun đã thể hiện cho ông thấy về năng lực thần diệu và khả năng thấu thị (thần nhãn) của Ngài, Tarlo không có niềm tin nơi Ngài và chỉ phản ứng lại bằng sự chỉ trích và tà kiến. Sau đó ông ta tái sinh thành một đại ác quỷ.
+
+Có nhiều ví dụ khác về những điều có thể xảy ra dưới mãnh lực của lòng ghen tị, giống như cách luận sư Geshe Tsakpuwa đã cố tình đầu độc hãm hại Ngài Jetsun Mila.
+
+Cho dù chính Đức Phật hiện diện trong thân người, Ngài cũng không thể làm được gì để dẫn dắt một người ghen tị. Một tâm thức bị ô nhiễm bởi ghen tị không thể nhìn thấy bất kỳ điều gì tốt đẹp nơi người khác. Vì không thể thấy điều gì tốt trong họ, nên không thể phát sinh ngay cả một chút niềm tin yếu ớt. Không có niềm tin, ta không thể nhận được lòng bi mẫn lẫn những ân phước. Devadatta và Sunaksatra là anh em họ của Đức Phật. Cả hai bị dày vò bởi sự ghen tị và không có chút lòng tin nào đối với Ngài. Mặc dù họ sống cả đời với Đức Phật nhưng Ngài hoàn toàn không thể chuyển hóa được tâm họ.*
+
+* Xem Phần Một, Chương Sáu và Phần Hai, Chương Một.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Ngoài ra, ngay cả khi những tư tưởng ác độc về người khác không thật sự dẫn đến việc làm tổn hại đồ vật hay thân thể, nhưng chúng vẫn tạo ra những hậu quả tiêu cực to lớn cho người có tư tưởng đó. Ngày trước, có hai vị tiến sĩ học giả Phật Giáo (geshe) nổi tiếng đang kình địch nhau. Một ngày nọ, một người biết rằng người kia có tình nhân.
+
+Vị geshe nói với người hầu: “Hãy chuẩn bị ít trà ngon, vì ta có một số tin tức rất hay ho.”
+
+Người hầu pha trà, và khi dâng trà, anh ta hỏi: “Tin tức gì?”
+
+Vị geshe trả lời: “Người ta nói rằng đối thủ của ta có tình nhân!”
+
+Khi Ngài Kunpang Trakgyal nghe chuyện này, người ta nói rằng mặt Ngài sạm lại và Ngài hỏi: “Trong hai vị geshe, người nào vi phạm hành vi tệ mạt hơn?”
+
+Việc liên tục chú tâm vào những cảm xúc như ghen tị và tranh đua không giúp gì cho sự nghiệp của riêng ta mà cũng không làm hại sự nghiệp các đối thủ của ta. Nó chỉ dẫn đến việc tích lũy các ác hạnh tiêu cực vô nghĩa. Hãy từ bỏ loại thái độ, tâm tư xấu xa này. Hãy luôn chân thành hoan hỷ về những thành tựu và hoàn cảnh thuận lợi của người khác, bất kể địa vị xã hội, thân tướng, tài sản, học vấn hay bất kỳ những gì khác của họ ra sao. Hãy suy đi nghĩ lại nhiều lần rằng bạn thật sự vui mừng biết bao bởi có được những người tuyệt vời như thế, thành công và may mắn đến thế. Hãy nghĩ rằng sẽ kỳ diệu biết bao nếu thậm chí họ còn trở nên phong lưu hơn bây giờ, và đạt được tất cả sức mạnh, của cải, học vấn và những phẩm tánh tốt đẹp mà họ có thể có được. Hãy thiền định về điều này từ đáy lòng bạn.
+
+Hình ảnh được đưa ra cho tâm hoan hỷ vô lượng là hình ảnh một con lạc đà mẹ đi tìm đứa con thất lạc của nó. Trong tất cả các thú vật, lạc đà được coi là những bà mẹ âu yếm con nhất. Do đó nếu một lạc đà mẹ bị mất con thì nỗi đau buồn
+
+## II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+của nó sẽ rất dữ dội. Khi tìm lại được con thì nó vui mừng vô hạn. Đó là loại hoan hỷ mà bạn nên cố gắng phát triển.
+
+Bốn phẩm tính Tứ Vô Lượng không bao giờ đem đến thất bại khi giúp ta phát triển Bồ Đề Tâm chân thật. Do đó, rất cần nuôi dưỡng tâm Tứ Vô Lượng cho tới khi bốn tâm ấy thật sự bén rễ trong ta.
+
+Để cho dễ hiểu hơn, chúng ta có thể tóm tắt bốn tâm vô lượng trong một cụm từ duy nhất, “một tấm lòng nhân từ.” Hãy tu tập bản thân để bạn luôn luôn có một trái tim nhân từ trong mọi tình huống.
+
+Một hôm, bàn tay của đức Atisa bị thương, và vì thế Ngài đặt nó trong lòng của Drom Tonpa và nói: “Ông là người có lòng nhân từ, hãy ban phước cho bàn tay ta!”
+
+Ngài Atisa luôn luôn chỉ nhấn mạnh tới tầm quan trọng của lòng từ ái, và thay vì hỏi mọi người “Bạn có khỏe không?” thì Ngài sẽ hỏi “Trái tim bạn có nhân từ không?”*
+
+Bất cứ khi nào Ngài giảng dạy, Ngài đều thêm vào “Hãy có một trái tim nhân từ!”
+
+Chính năng lực của những tác ý tốt lành hay bất thiện sẽ làm cho một hành vi trở nên là một thiện hạnh hay là một ác hạnh, mạnh hay yếu. Khi tác ý đằng sau những việc làm này là tốt, thì mọi hành vi của thân hay ngữ đều tốt lành, như đã được minh họa trong câu chuyện của một người lấy đế da che tsa- tsa. Khi tác ý ở phía sau là xấu, thì bất kỳ hành vi nào, dù nhìn có vẻ tốt nhưng thực ra sẽ là xấu. Vì thế hãy học tập để luôn luôn có những tác ý thiện lành, bất kể trong hoàn cảnh nào. Có câu nói rằng:
+
+> Nếu tác ý tốt đẹp thì quả vị [Bồ-Tát địa] và con đường tu sẽ tốt.
+> Nếu tác ý xấu, những quả vị và con đường tu sẽ xấu.<sup>133</sup>
+
+---
+
+\* Thông thường, người ta hay hỏi xin các vị Lạt Ma đã chứng ngộ thổi vào vết thương để giúp cho vết thương được lành.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Bởi mọi sự đều tùy thuộc vào tác ý,
+Phải luôn luôn giữ vững tất cả những tác ý thiện lành.
+
+Con đường tu và quả vị sẽ tốt nếu tác ý tốt nghĩa là như thế nào?
+
+Có một lần, một bà lão và cô con gái đang vượt qua một con sông rộng, bà nắm lấy tay con, và cả hai bị dòng nước cuốn trôi.
+
+Người mẹ nghĩ: “Ta có bị nước cuốn trôi thì cũng chẳng quan trọng gì, miễn là con ta được cứu sống!”
+
+Cùng lúc đó, người con gái nghĩ: “Cho dù tôi có bị cuốn trôi thì cũng chẳng sao, miễn là mẹ tôi không bị chết đuối!”
+
+Cả hai người đều chết chìm, và là kết quả do những tư tưởng thiện lành cho lẫn nhau, cả hai mẹ con được tái sinh vào cõi Trời Phạm Thiên (Brahma).
+
+Trong một trường hợp khác, sáu vị tăng sĩ và một người đưa thư lên đò để qua sông Jasako. Chiếc đò rời bến.
+
+Đi khoảng được một phần tư đường, người lái đò nói: “Chúng ta quá nặng. Nếu ai biết bơi thì xin nhảy xuống nước. Nếu không, tôi sẽ nhảy xuống và một người trong quý vị có thể cầm chèo.”
+
+Không một ai biết bơi; và cũng chẳng có ai biết chèo.
+
+Vì thế người đưa thư nhảy ra khỏi con thuyền, kêu lên: “Tốt nhất là tôi chết một mình để cho mọi người sống!”
+
+Ngay lập tức một cầu vồng xuất hiện và một trận mưa hoa rơi xuống. Mặc dù người đưa thư không biết bơi nhưng ông đã được đưa vào bờ an toàn. Ông ta chưa từng thực hành Giáo Pháp. Đây là lợi ích trực tiếp phát xuất từ một tư tưởng tốt lành duy nhất.
+
+Con đường và công hạnh sẽ xấu nếu những tư tưởng xấu là như thế nào?
+
+## II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Có một lần, một người hành khất nằm ngay cổng hoàng cung và nghĩ: "Ta ước mong nhà vua bị cắt đầu, và ta có thể chiếm trọn nơi này!"
+
+Tư tưởng này không ngừng quay cuồng trong tâm ông suốt đêm dài. Đến sáng ông ta rơi vào giấc ngủ và trong khi ông ngủ, nhà vua ngồi trên xa mã đi ra. Một bánh xe cán ngang cổ người hành khất và cắt đứt đầu ông ta.
+
+Trừ phi bạn nhớ tới mục đích của việc tìm kiếm Giáo Pháp của bạn trong chánh niệm và cảnh giác, và luôn luôn theo dõi tâm bạn, nếu không thì những cảm xúc mãnh liệt của tham ái và thù ghét có thể dễ dàng dẫn tới việc tích lũy những nghiệp ác rất nghiêm trọng. Mặc dù những mong ước của ông lão hành khất không bao giờ có thể trở thành sự thật nhưng hậu quả của những tư tưởng của ông ta đã đưa tới việc trổ quả của ác nghiệp, làm cho chuyện ấy trở thành sự thật ngay lập tức. Có thể xảy ra việc nhà vua đang ngủ thoải mái trên giường ngọc trong cung điện lại bị mất đầu không? Cho dù nhà vua bị mất đầu, thì chuyện vị thái tử sẽ thừa kế vương quốc chẳng là một chuyện hợp lý hơn sao? Ngay cả nếu vì một lý do nào đó thái tử không lên ngôi, thì liệu có thể có việc một ông lão hành khất sẽ thừa kế ngai vàng bất chấp tất cả các vị thừa tướng là những người như những con cọp, beo và gấu? Tuy nhiên, trừ phi bạn tự kiểm soát tư tưởng mình một cách thận trọng, còn thì ngay cả những tư tưởng tiêu cực lố bịch như vậy cũng có thể xuất hiện. Vì thế, Geshe Shawopa nói:
+
+> Đừng cai trị vương quốc mộng tưởng của những triển vọng tương lai, lúc nào cũng như đang nảy nở vô tận!
+
+Một hôm Đức Phật và các vị tăng sĩ của Ngài được mời đến thọ trai tăng do một thí chủ cúng dường tại nhà của ông ta. Ở đó cũng có hai người hành khất trẻ tuổi, một người thuộc
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+giai cấp chiến sĩ (ksatriya), còn người kia là một người Bà la môn (brahmin). Người Bà la môn đi tới xin trước khi Đức Phật và các tăng sĩ được cúng dường nên không nhận được gì. Người chiến sĩ đợi tới khi mọi người được cúng dường xong mới đến xin và nhận được nhiều thực phẩm ngon lành được để lại trong bình bát của các Ngài.^134 Trưa hôm đó, trên đường đi, hai người nói chuyện với nhau về những suy nghĩ của họ.
+
+Người chiến sĩ trẻ nói: “Nếu tôi giàu có, tôi sẽ cúng dường y phục và vật thực cho Đức Phật và các tu sĩ của Ngài cho tới cuối đời. Tôi tôn kính các ngài bằng cách cúng dường tất cả những gì tôi có.”
+
+Người Bà la môn trẻ tuổi nói: “Và nếu tôi là một vị vua đầy uy quyền, tôi muốn cái đầu cạo trọc của kẻ mê tín kia sẽ bị chặt và cả nhóm bị xử tử cùng với ông ta!”
+
+Người chiến sĩ trẻ tới một xứ khác và cư ngụ dưới bóng của một thân cây lớn. Khi những bóng cây khác di chuyển, bóng của thân cây đặc biệt này vẫn đứng yên. Vị vua xứ đó vừa băng hà, và vì nhà vua không có người thừa kế nên dân chúng quyết định rằng người nào xứng đáng và dũng cảm nhất xứ sẽ được tôn làm vua của họ. Khi tiến hành tìm kiếm vị tân vương, họ chợt thấy người chiến sĩ trẻ đang ngủ dưới gốc cây, vẫn ở dưới bóng cây mặc dù quá ngọ đã lâu. Họ đánh thức anh ta dậy và tôn anh lên làm vua. Sau đó, vị vua này đã bày tỏ sự tôn kính Đức Phật và các tăng sĩ của Ngài như đã ước nguyện.
+
+Về phần người Bà la môn trẻ, câu chuyện kể rằng khi nằm nghỉ ở ngã tư đường, đầu của anh ta bị bánh của một chiếc xe ngựa cán đứt.
+
+Nếu bạn học tập để luôn luôn chỉ có những tư tưởng tốt lành, mọi mong ước của bạn trong đời này sẽ trở thành hiện thực. Những vị Trời nhân đức sẽ bảo vệ bạn và bạn sẽ nhận được ân phước từ tất cả chư Phật và Bồ Tát. Mọi việc bạn làm sẽ tốt đẹp, và vào lúc chết bạn sẽ không bị đau khổ. Trong những đời tương lai bạn sẽ luôn luôn được tái sinh vào cõi Trời hay người cho tới khi cuối cùng bạn đạt được Phật Quả viên mãn.
+
+Đừng chỉ biết vội vã mà không thẩm xét những tư tưởng và cảm xúc của bạn, và cũng đừng thực hiện một cuộc phô bày vĩ đại các hoạt động đức hạnh như: lễ lạy, đi nhiễu, cầu nguyện, tụng niệm thần chú v.v... Thay vào đó, điều quan trọng là luôn kiểm soát thái độ [động lực] của bạn và trau dồi lòng nhân ái.
+
+## II. KHƠI DẬY BỒ ĐỀ TÂM
+
+### 1. Phân Loại Bồ Đề Tâm Dựa Trên Ba Mức Độ Dũng Cảm
+
+#### 1.1 SỰ DŨNG CẢM CỦA MỘT VỊ VUA
+
+Ưu tiên hàng đầu của một vị vua là chiến thắng tất cả quân địch, thăng chức cho những người đã giúp đỡ ngài, và tuyên bố rằng quyền bính thuộc về mình. Chỉ sau khi thực hiện xong những việc đó thì ước nguyện chăm lo cho thần dân của Ngài mới có kết quả. Tương tự như vậy, trước tiên bạn có ước nguyện mong muốn bản thân mình đạt đến Phật Quả và sau đó, sẽ đưa những người khác đến quả vị Phật, ước nguyện như thế này thì được gọi là phương thức khơi dậy Bồ Đề Tâm của một quân vương.
+
+#### 1.2 SỰ DŨNG CẢM CỦA NGƯỜI CHÈO THUYỀN
+
+Mục đích của người chèo thuyền là cùng đi tới bờ bên kia với tất cả những người khách của ông. Tương tự, mong ước đạt được Phật Quả cho mình cùng lúc với tất cả chúng sinh được
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+gọi là phương cách khơi dậy Bồ Đề Tâm của người chèo thuyền.
+
+## 1.3 SỰ DŨNG CẢM CỦA NGƯỜI CHĂN CỪU
+
+Những người chăn cừu lùa bầy cừu của họ đi phía trước để biết chắc rằng chúng tìm được cỏ và nước, và cũng không bị chó sói, chó rừng hay những thú dữ khác tấn công. Bản thân người chăn cừu thì đi theo sau bầy cừu. Tương tự như thế, thái độ của những người mong muốn dẫn dắt tất cả chúng sinh khắp ba cõi đến bờ giác ngộ viên mãn trước khi bản thân họ đạt được Phật Quả thì đây được gọi là cách khơi dậy Bồ Đề Tâm của người chăn cừu.
+
+Cách thức của vị vua, được gọi là “khơi dậy Bồ Đề Tâm với ước nguyện lớn lao,” là cách ít can đảm nhất trong ba phương cách. Cách của người chèo thuyền, gọi là “khơi dậy Bồ Đề Tâm với trí tuệ thiêng liêng” thì dũng cảm hơn. Người ta nói Đức Di Lặc (Maitreya) khơi dậy Bồ Đề Tâm theo cách này. Cách của người chăn cừu, được gọi là “khơi dậy Bồ Đề Tâm không gì so sánh được” là cách dũng đảm nhất. Người ta nói đó là cách Đức Văn Thù (Manjusri) đã khơi dậy Bồ Đề Tâm.
+
+## 2. Phân Loại Theo Các Địa Bồ Tát
+
+Trên con đường vun bồi tích lũy công đức và hợp nhất phước huệ, khơi dậy Bồ Đề Tâm được gọi là “phát khởi Bồ Đề Tâm bằng cách phát nguyện.” Từ sơ địa cho tới địa Bồ Tát thứ bảy, cách thức khơi dậy Bồ Đề Tâm được gọi là “phát khởi Bồ Đề Tâm nương vào tác ý hoàn toàn thanh tịnh.” Trên ba địa thanh tịnh, khơi dậy Bồ Đề Tâm được gọi là “phát khởi Bồ Đề Tâm hoàn toàn thuần thục,” và ở địa Phật Quả, là “phát khởi Bồ Đề Tâm vô chướng ngại”
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+## 3. Phân Loại Theo Tính Chất Của Bồ Đề Tâm
+
+Có hai loại Bồ Đề Tâm: Bồ Đề Tâm tương đối và Bồ Đề Tâm tối thượng.
+
+### 3.1 BỒ ĐỀ TÂM TƯƠNG ĐỐI:
+
+Bồ Đề Tâm tương đối có hai khiá cạnh: tác ý và áp dụng thực hành.
+
+#### 3.1.1 Tác Ý (Bồ Đề Tâm Nguyện):
+
+Trong *Nhập Bồ Tát Hạnh*, Ngài Tịch Thiên (Santideva) có nói về hai khiá cạnh của Bồ Đề Tâm:
+
+> Có ước muốn khởi hành và thực sự bước chân lên con đường,  
+> Hãy nhận biết sự khác biệt giữa hai điều đó.  
+> Người minh triết và uŷen bác nên hiểu rõ  
+> Sự khác biệt này, cần thiết phải có và tuần tự phát triển.
+
+Hãy lấy một ví dụ về một cuộc du hành tới Lhasa. Bước đầu tiên là có ý định: "Tôi sắp đi tới Lhasa." Niệm tưởng ban đầu tương ứng với ý định: "Tôi sắp làm bất cứ điều gì để bảo đảm rằng tất cả chúng sinh sẽ đạt được trạng thái Phật Quả viên mãn," là phương diện ý định của việc khởi dậy Bồ Đề Tâm.$^{136}$
+
+#### 3.1.2. Áp dụng thực hành (Bồ Đề Tâm Hạnh):
+
+Sau đó bạn chuẩn bị ngựa và lương thực cần thiết, bắt đầu lên đường và thực sự du hành tới Lhasa. Tương tự như thế, bạn quyết định thực hành bố thí, trì giới, nhẫn nhục, tinh tấn, thiền
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+định, và tu tập tâm bạn trong trí tuệ vô phân biệt để đưa tất cả chúng sinh đến Phật Quả viên mãn. Đó chính là bạn thực sự đưa con đường tu của sáu pháp toàn thiện siêu việt (sáu ba la mật) vào thực hành. Điều này tương ứng với chuyến du hành thực sự, và là phương diện áp dụng Bồ Đề Tâm.<sup>137</sup>
+
+## 3.2 BỒ ĐỀ TÂM TỐI THƯỢNG
+
+Cả hai phương diện ý định và áp dụng thực hành đều là Bồ Đề Tâm tương đối.<sup>138</sup> Nhờ tu tập một thời gian dài nương nơi Bồ Đề Tâm tương đối trên con đường tích lũy và hợp nhất, cuối cùng bạn đi tới con đường của cái thấy (kiến), ở đó bạn có một trực nghiệm chân thực về chân như, trạng thái như nhiên của vạn pháp. Đây là trí tuệ siêu vượt mọi tạo tác, là chân lý của tánh Không. Vào lúc đó, bạn khơi dậy Bồ Đề Tâm tối thượng hay Bồ Đề Tâm viên mãn.<sup>139</sup>
+
+## 4. Thọ Giới Nguyện Bồ Đề Tâm<sup>140</sup>
+
+Nhờ năng lực của thiền định mà ta đạt được Bồ Đề Tâm tối thượng đích thực, và điều này không tuỳ thuộc vào các nghi thức. Tuy nhiên, để phát triển Bồ Đề Tâm tương đối, là người sơ cơ, chúng ta cần phải tuân theo một số thủ tục, một số nghi thức mà qua đó chúng ta có thể thọ giới nguyện trong sự hiện diện của một vị Thầy tâm linh. Sau đó, chúng ta cần liên tục làm tươi mới giới nguyện đó qua các công phu và nghi thức thọ giới tương tự, và lập đi lập lại nhiều lần khiến cho Bồ Đề Tâm mà chúng ta đã khơi dậy không bị tàn lụi, trở nên càng lúc càng mãnh liệt hơn.
+
+Hãy quán tưởng tất cả chư Phật, Bồ Tát và những Bổn Tôn khác trong không gian trước mặt bạn, như bạn đã làm trong khi thực hành pháp quán tưởng quy y. Hãy coi các Ngài
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+như là những nhân chứng trong công phu phát Bồ Đề Tâm của bạn và suy nghĩ như vầy:
+
+“Trong toàn thể vô số sinh loài khắp vũ trụ bao la, không ai chưa từng là cha mẹ của tôi trong tiến trình tiếp nối của những kiếp sống của tôi từ vô thủy. Tôi có thể quyết chắc rằng, là cha mẹ tôi, họ đã hết lòng chăm sóc tôi với tất cả sự dịu dàng âu yếm mà họ có thể có được, đã cho tôi thức ăn và quần áo tốt nhất trong số thực phẩm và quần áo của họ, đã nuôi dưỡng tôi với tất cả tình thương, giống như cha mẹ hiện tại của tôi đã làm. Bây giờ, tất cả những bậc cha mẹ nhân từ đó đang đắm chìm trong những cơn sóng của đại dương sinh tử luân hồi đau khổ. Họ bị nhận chìm trong bóng tối sâu dày nhất của vô minh. Họ không có ý niệm về con đường chân chính để thực hành, cũng như không biết con đường sai lầm để tránh bỏ. Họ không có người bạn tâm linh chân chính nào để hướng dẫn. Họ không có nơi nương tựa hay sự che chở, không người dẫn dắt hay bạn đồng hành, không hy vọng và không có ai để hướng tới, họ lạc loài như một người mù lang thang không bạn hữu giữa một cánh đồng hoang. Những bà mẹ già của tôi, làm sao tôi có thể tự giải thoát một mình mình và bỏ mặc các vị trong luân hồi? Vì lợi ích của tất cả chúng sinh, tôi sẽ đánh thức Bồ Đề Tâm tối thượng. Trong khi học tập để noi gương những hành động phi thường của những bậc Bồ Tát trong quá khứ, tôi sẽ nỗ lực bằng mọi cách làm bất cứ điều gì cần thiết cho tới khi không còn một chúng sinh nào bị bỏ lại trong luân hồi!”
+
+Với thái độ này, hãy tụng bài kệ sau đây càng nhiều càng tốt khi có thể:
+
+Ô! Do lầm lạc của sắc tướng -- những ánh trăng phản chiếu dưới nước,
+Chúng sinh lang thang trong chuỗi luân hồi vô tận;
+Để cho họ được an nghỉ trong không gian chói ngời của giác tánh,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Với bốn đại hạnh vô lượng, con xin phát khởi Bồ Đề Tâm$^{141}$.
+
+Vào lúc kết thúc thời công phu, hãy quán tưởng rằng, nương vào năng lực của lòng quy ngưỡng nhiệt thành của bạn đối với các Bổn Tôn trong ruộng công đức, toàn thể thánh chúng tan thành ánh sáng, bắt đầu từ bên ngoài, và cuối cùng hoà tan vào vị Thầy ở chính giữa; vị Thầy chính là sự hợp nhất của cả tam quy y (Tam Bảo). Tới lượt vị Thầy tan thành ánh sáng và hòa tan vào bạn, nhờ đó, Bồ Đề Tâm tối thượng hiện diện trong tâm của các Bổn Tôn quy y sẽ hiển lộ rõ ràng trong tâm bạn. Hãy tụng lời nguyện ước này:
+
+Nguyện cho Bồ Đề Tâm, trân quý và tối thượng,
+Nơi nào chưa hiện diện, xin tâm ấy phát khởi,
+Nơi nào đã phát khởi, xin không hề mai một
+Mà lớn mạnh, nở rộ, mỗi ngày mỗi hơn lên.
+
+Sau đó hồi hướng công đức với những câu như sau:
+
+Khi noi gương Đấng anh hùng Văn Thù,
+Phổ Hiền, cùng tất cả những bậc đại trí,
+Con cũng xin hồi hướng toàn bộ công đức
+Của tất cả những việc làm thiện lành.
+
+Việc phát khởi Bồ Đề Tâm, là tinh tuý của tám vạn bốn ngàn pháp môn mà Đấng Chiến Thắng đã chỉ dạy. Đây là giáo huấn bạn cần phải có, ngay cả chỉ một giáo huấn đó thôi cũng đã đủ rồi. Nhưng nếu thiếu Bồ Đề Tâm thì tất cả mọi thứ khác cũng thành ra vô ích. Đây là món thuốc trị bá bệnh, chữa lành mọi bệnh tật. Tất cả những con đường khác của Giáo Pháp, chẳng hạn như việc tích lũy [hai bồ công đức], việc tịnh hóa những ô nhiễm, thiền định về các Bổn Tôn, và việc trì
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỂ CỦA ĐẠI THỪA
+
+tụng các câu thần chú, đơn thuần chỉ là những phương pháp giúp cho viên-ngọc-như-ý-Bồ-Đề-Tâm phát khởi trong tâm thức của bạn. Không có Bồ Đề Tâm thì không phương pháp nào trong những phương pháp tu tập kia tự chúng có thể đưa dẫn bạn tới Phật Quả viên mãn.142 Nhưng một khi Bồ Đề Tâm đã được khơi dậy trong bạn, thì bạn có hành trì bất kỳ pháp tu tập nào, pháp ấy cũng sẽ dẫn bạn tới Phật Quả viên mãn. Hãy luôn luôn học tập để sử dụng bất kỳ phương tiện nào bạn có thể sử dụng được để giúp cho Bồ Đề Tâm phát khởi trong bạn, ngay cả nếu đó chỉ là một tia lửa nhỏ bé nhất mà thôi.143
+
+Vị Thầy ban cho bạn những giáo huấn cốt tuỷ của con đường phát khởi Bồ Đề Tâm đang dìu dắt bạn bước đi trên con đường Đại Thừa, vì thế lòng tốt của Ngài thì vĩ đại hơn lòng tốt của những vị Thầy ban cho bạn bất kỳ những giáo huấn nào khác. Khi Ngài Atisa nhắc tới danh hiệu của những vị Thầy của Ngài, Ngài thường chắp tay trước ngực. Nhưng khi Ngài nói tới Đức Suvarnadvipa, Ngài chắp tay đặt lên đầu và mắt Ngài đẫm lệ. Chúng đệ tử hỏi Ngài tại sao có sự phân biệt như vậy.
+
+“Thực sự có một sự khác biệt nào giữa những phẩm hạnh tâm linh hay thiện tâm của những vị Thầy này không?” họ hỏi.
+
+“Tất cả những vị Thầy của ta đều là những bậc tu chứng đích thực,” Ngài Atisa trả lời, “và phẩm hạnh của các Ngài đều đồng nhất. Nhưng có một số điểm khác biệt trong thiện tâm của các Ngài. Chút ít Bồ Đề Tâm mà ta có được đến từ thiện tâm của Đức Suvarnadvipa. Đó là lý do tại sao ta cảm thấy biết ơn Ngài nhiều hơn hết cả.”
+
+Có một câu nói rằng, điều quan trọng nhất về Bồ Đề Tâm không phải là việc khơi dậy tâm ấy, mà đúng hơn là tâm ấy đã thực sự phát khởi. Lòng từ và bi của Bồ Đề Tâm phải thực sự sống động mãnh liệt trong chúng ta. Do đó, trì tụng nghi thức nhiều hằng trăm ngàn lần mà không thâu nhận được
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+ý nghĩa vào trong tâm thì hoàn toàn vô ích. Thọ nhận giới nguyện Bồ Đề Tâm trước sự hiện diện của Chư Phật và Bồ Tát, và sau đó không trì giữ lời nguyện ấy thì đúng là lừa gạt các Ngài. Không có lỗi lầm nào tệ hại hơn thế. Vì thế cũng đừng lừa gạt chúng sinh – hãy luôn cố gắng nuôi dưỡng Bồ Đề Tâm.
+
+## III. RÈN LUYỆN THEO GIỚI LUẬT CỦA BỒ ĐỀ TÂM
+
+Đối với Bồ Đề Tâm nguyện [là tác ý muốn phát triển Bồ Đề Tâm], việc tu tập gồm có ba giai đoạn: coi người khác ngang bằng với mình, hoán đổi mình và người khác, và coi người khác quan trọng hơn chính mình. Đối với Bồ Đề Tâm hạnh, việc tu tập bao gồm việc thực hành sáu pháp toàn thiện siêu việt (lục độ ba la mật).
+
+### 1. Bồ Đề Tâm Nguyện và Giới Luật
+
+#### 1.1 COI NGƯỜI KHÁC NGANG BẰNG VỚI MÌNH
+
+Lý do khiến chúng ta lang thang trong biển luân hồi đau khổ từ vô thủy là bởi ta tin vào một cái “tôi” ở nơi không có cái tôi, tin vào một cái “ngã” ở nơi không có cái ngã, và bởi ta làm cho cái ngã đó trở thành đối tượng duy nhất của tình yêu thương của chúng ta. Thay vào đó, hãy quán chiếu như sau:
+
+Chúng ta luôn luôn muốn được hạnh phúc và không bao giờ muốn đau khổ. Khi có bất kỳ điều khó chịu nào xảy tới cho ta, chúng ta cảm thấy không thể chịu đựng nổi. Ngay cả cái kim châm hay một tia lửa nhỏ cũng làm chúng ta kêu la đau đớn - chúng ta hoàn toàn không thể đương đầu được với những điều đó. Nếu một con rận nhỏ cắn trên lưng chúng ta
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+cũng khiến ta nổi cơn thịnh nộ. Chúng ta bắt con rận đó, nghiền nát nó trong hai móng tay, và mãi sau đó chúng ta vẫn cứ tiếp tục chà xát móng tay trong sự giận dữ. Đa số mọi người thời nay coi việc giết con rận là vô hại. Nhưng vì nó luôn luôn được làm trong cơn giận dữ, nên đó là một nguyên nhân chắc chắn để tái sinh trong Địa Ngục Vây Bắt và Nghiền Nát. Chúng ta phải xấu hổ khi nhận ra rằng ngay cả những khó chịu nhỏ bé như thế mà ta cũng không chịu được và phản ứng bằng cách gây ra đau khổ cho chúng sinh khác.
+
+Giống như chúng ta, tất cả chúng sinh trong tam giới cũng muốn hạnh phúc và thoát khỏi mọi đau khổ. Nhưng mặc dù muốn được hạnh phúc, họ lại không biết rằng hạnh phúc chỉ đến từ việc thực hành thập thiện. Dù không muốn đau khổ, họ dâng hiến mọi nỗ lực cho mười ác hạnh khiến đem lại đau khổ. Điều họ ước muốn và những nỗ lực đạt được những điều đó lại hoàn toàn trái ngược nhau, và họ luôn luôn đau khổ. Trong tất cả những chúng sinh đó, không ai không từng là cha mẹ của chúng ta trong một khoảng thời gian nào đó từ vô thủy. Giờ đây chúng ta đã được một vị Thầy tâm linh chân chính nhận làm đệ tử, giờ đây chúng ta đã nhận lãnh Giáo Pháp chân chính và có thể phân biệt được điều gì có lợi và cái gì có hại. Với tình thương tràn đầy, chúng ta phải quan tâm chăm sóc tất cả những bà mẹ già (chúng sinh) đang bị trói buộc bởi chính màn lưới vô minh của họ, và nên chấm dứt bất kỳ việc tạo tác tâm phân biệt nào giữa họ và chúng ta. Kiên nhẫn trước sự vô ơn và trước thành kiến của họ, chúng ta nên thiền định về sự vắng bóng của bất kỳ ý niệm đối đãi nào giữa thù và bạn.
+
+Luôn luôn giữ điều này trong tâm, hãy thiền quán về tâm vô phân biệt nhiều lần.
+
+Bất cứ những gì tốt lành hay ích lợi mà bạn muốn cho chính mình, thì người khác cũng mong muốn y như vậy. Do đó, giống như bạn siêng năng làm việc để đem lại hạnh phúc và
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+tiện nghi cho bạn, thì bạn cũng hãy luôn luôn cần mẫn làm việc vì hạnh phúc và tiện nghi cho người khác. Cũng như bạn cố gắng tránh cả những đau khổ nhỏ nhoi nhất cho chính mình, cũng hãy nỗ lực để ngăn ngừa cho người khác khỏi phải đau khổ dù là do một tổn hại nhỏ bé nhất. Giống như bạn cảm thấy hài lòng về hạnh phúc và sự thịnh vượng của riêng bạn, bạn hãy hoan hỷ tận đáy lòng khi người khác cũng được hạnh phúc và thịnh vượng như vậy. Tóm lại, khi thấy không có khác biệt nào giữa bạn và tất cả những chúng sinh trong tam giới, hãy lấy đó làm sứ mệnh duy nhất của bạn để tìm ra những phương cách giúp từng người trong tất cả chúng sinh được hạnh phúc, bây giờ và mãi mãi.
+
+Khi được Trungpa Sinachen thỉnh cầu một giáo huấn đầy đủ tóm gọn trong một câu duy nhất, Ngài Padampa Sangye trả lời: “Bất cứ những gì ông muốn, tất cả người khác cũng muốn như thế; hãy hành động dựa trên điều đó!”
+
+Hãy hoàn toàn diệt trừ tận gốc tất cả những thái độ sai lầm được đặt nền tảng trên sự tham luyến và thù hận, khiến bạn loại bỏ những người khác và chỉ quan tâm tới chính mình, và hãy nghĩ tưởng rằng bản thân bạn và những người khác hoàn toàn bình đẳng.
+
+## 1.2 HOÁN ĐỔI MÌNH VÀ NGƯỜI
+
+Hãy quan sát một người đang thật sự đau khổ vì bệnh tật, đói, khát hoặc vì một số những phiền não khác. Hoặc, nếu việc đó không thể làm được thì hãy tưởng tượng một người như thế đang ở trước mặt bạn. Khi thở ra, hãy tưởng tượng rằng bạn đang cho người đó tất cả hạnh phúc của bạn và những điều tốt đẹp nhất mà bạn có, thân thể bạn, tài sản và suối nguồn công đức của bạn, như thể bạn đang cởi bỏ quần áo của mình và mặc vào người họ. Sau đó, khi hít vào hãy tưởng tượng rằng bạn đang nhận vào mình tất cả những đau khổ của người
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỂ CỦA ĐẠI THỪA
+
+đó, và kết quả là người đó trở nên hạnh phúc và thoát khỏi mọi phiền não. Hãy bắt đầu phương pháp thiền định này để ban tặng hạnh phúc và nhận lãnh đau khổ đối với một cá nhân, sau đó dần dần mở rộng để bao gồm tất cả chúng sinh.
+
+Bất kỳ những điều gì bạn không mong muốn hoặc khi đau khổ xảy đến với bạn, hãy phát khởi lòng trắc ẩn chân thành, chan chứa đối với tất cả chúng sinh trong tam giới của luân hồi, là những chúng sinh giờ đây đang chịu đựng đau khổ giống như đau khổ của bạn. Hãy phát khởi ước nguyện mạnh mẽ rằng tất cả những đau khổ của họ có thể trổ quả trong bạn thay vì trong họ, và họ có thể hoàn toàn thoát khỏi đau khổ và được hạnh phúc. Bất cứ khi nào bạn cảm thấy hạnh phúc hay cảm thấy mọi chuyện tốt đẹp, hãy phát khởi mong ước rằng hạnh phúc của bạn có thể trải rộng ra và đem lại hạnh phúc cho tất cả chúng sinh.
+
+Phương pháp thực hành Bồ Đề Tâm hoán chuyển ngã tha – hoán đổi mình và người khác – là tinh tuý của thiền định tối thượng và phương pháp này sẽ không bao giờ vơi cạn cho tất cả những ai đã khởi hành trên con đường của giáo lý Đại Thừa. Nếu bạn thật sự kinh nghiệm sự hoán đổi này dù chỉ một lần, kinh nghiệm này sẽ tịnh hoá những ác hạnh và những chướng ngại trong nhiều kiếp, và sẽ giúp bạn tích tụ được hai bộ phước huệ vô biên. Kinh nghiệm ấy sẽ cứu bạn thoát khỏi những cõi thấp và thoát khỏi bất kỳ con đường tái sinh nào dẫn bạn tới những cõi thấp đó.
+
+Trong một đời trước, Đức Phật bị đọa vào một địa ngục, ở đó những tội nhân bị buộc phải kéo những toa xe. Ngài phải kéo một toa xe cùng một người khác tên là Kamarupa, nhưng cả hai người quá yếu nên không làm cho xe di chuyển được, lính canh hối thúc và đánh họ bằng những vũ khí nóng-đỏ, khiến họ đau đớn vô tả.
+
+Vị Phật tương lai nghĩ: “Ngay cả hai chúng ta cùng nhau kéo cũng không thể làm cho toa xe di chuyển, mà mỗi người lại chịu đau khổ như nhau. Tôi sẽ kéo và chịu đau khổ một mình để Kamarupa có thể được nhẹ bớt.”
+
+Ngài nói với lính canh: “Hãy đặt dây cương của anh ta lên vai tôi, mình tôi kéo được rồi.”
+
+Nhưng những tên lính canh nổi giận: “Ai có thể làm được bất kỳ điều gì để tránh cho người khác khỏi phải kinh qua những hậu quả của những hành vi của chính họ?” họ nói, và đánh tới tấp lên đầu Ngài bằng dùi cui.
+
+Tuy nhiên, nhờ thiện niệm này, Đức Phật lập tức thoát khỏi cuộc sống địa ngục và được tái sinh vào một cõi Trời. Người ta nói đây là cách thức mà Ngài khởi đầu làm lợi lạc cho người khác.
+
+Một câu chuyện khác kể về bằng cách nào mà Đức Phật, trong một tái sinh ở đời trước là “Ái Nữ” của thuyền trưởng Vallabha, có lần được giải thoát khỏi những cõi thấp ngay khi Ngài thực sự kinh nghiệm sự hoán chuyển này của Ngài với những người khác. Có lần, một gia chủ tên là Vallabha, tất cả những con trai của ông đều chết cả. Do đó, khi sinh đứa con trai khác, ông quyết định đặt tên cho nó là Ái Nữ với hy vọng điều này sẽ làm cho nó được sống sót. Sau đó, Vallabha vượt biển để tìm châu báu, nhưng thuyền chìm và ông ta bỏ mạng.
+
+Khi người con trai trưởng thành, anh hỏi mẹ rằng trước đây cha mình thuộc giai cấp nào. Sợ rằng nếu nói ra sự thật thì đứa con cũng có thể lại đi biển, nên người mẹ bảo với con rằng cha anh thuộc giai cấp thương nhân buôn gạo. Vì thế Ái Nữ trở thành một người buôn bán gạo và chăm sóc mẹ với bốn đồng xu của một *karsa* kiếm được trong ngày. Nhưng một người buôn gạo khác nói với anh rằng anh không thuộc giai cấp của họ, vì thế anh làm nghề buôn bán như họ là không đúng. Anh bị bắt buộc phải ngưng công việc.
+
+Anh trở về với mẹ và hỏi bà lần nữa. Lần này mẹ anh nói rằng cha anh là một người bán hương liệu. Anh bắt đầu bán
+
+II. KHƠI DẬY BÒ ĐÈ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+hương liệu, và chăm sóc mẹ với tám *karsa* kiếm được mỗi ngày.
+
+Nhưng Ái Nữ bị bắt phải ngưng công việc một lần nữa, và lần này mẹ anh nói rằng cha anh đã buôn bán quần áo. Anh bắt đầu làm người buôn quần áo, và chẳng mấy chốc đã có thể đưa cho mẹ mười sáu *karsa* mỗi ngày. Nhưng một lần nữa anh bị buộc bỏ việc vì những người buôn quần áo khác.
+
+Khi được biết cha thuộc giai cấp buôn châu báu, anh bắt đầu buôn ngọc và đem về cho mẹ ba mươi hai *karsa* mỗi ngày. Sau đó, những người buôn ngọc khác nói với anh là anh thuộc giai cấp những người đi tìm ngọc từ những chuyến đi biển và đây mới là công việc mà anh được sinh ra để làm.
+
+Khi về nhà ngày hôm đó, anh nói với mẹ: “Con thuộc về giai cấp những người đi tìm châu báu. Vì thế con quyết định vượt đại dương để tiếp tục công việc buôn bán của riêng con!”
+
+“Đúng là con thuộc giai cấp những người đi tìm châu báu,” bà mẹ nói, “nhưng cha con và tất cả tổ tiên của con đều chết trên biển trong khi đi tìm ngọc. Nếu con đi, con cũng sẽ chết. Thôi con đừng đi! Hãy ở lại nhà và buôn bán tại đây.”
+
+Nhưng Ái Nữ không thể vâng lời mẹ. Anh chuẩn bị mọi thứ cần thiết cho chuyến đi. Khi bắt đầu lên đường, mẹ anh không thể nào chia tay với anh được, bà nắm lấy viền áo anh và khóc. Anh ta nổi giận.
+
+Anh la lên: “Nước mắt của mẹ sẽ đem lại vận rủi cho con trong chuyến vượt đại dương!” anh đá vào đầu mẹ rồi bỏ đi.
+
+Trong cuộc hành trình dài, tàu của anh ta bị đắm và hầu như toàn bộ thủy thủ bị chết đuối, nhưng Ái Nữ nhanh tay nắm được một miếng ván và bị đánh dạt vào bờ trên một hòn đảo. Anh đi tới một thành phố tên là Hoan Hỉ. Trong một ngôi nhà đẹp làm bằng kim loại và ngọc quý, bốn vị thiên nữ xinh đẹp xếp những tấm nệm lụa cho anh ngồi và dâng cho anh ba loại thực phẩm trắng và ba thực phẩm ngọt.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Khi anh chuẩn bị về, họ cảnh báo, “Đừng đi về hướng Nam. Đại bất hạnh sẽ xảy ra cho anh nếu anh cứ đi!” Nhưng Ái Nữ không nghe và lên đường.
+
+Anh đến một thành phố gọi là Hân Hoan, thậm chí còn đẹp hơn thành phố trước. Ở đây tám phụ nữ xinh đẹp phục vụ anh. Như lần trước, họ báo cho anh biết rằng đại hoạ đang đe doạ anh nếu anh đi về hướng Nam nhưng anh không chú ý và lên đường lần nữa.
+
+Ở một thành phố được gọi là Nhiễm Độc thì còn hoàn hảo hơn những nơi khác, anh được mười sáu thiên nữ cực kỳ xinh đẹp chào đón, họ phục dịch anh và cũng như những lần trước, họ cảnh báo anh, nhưng một lần nữa lời cảnh báo ấy chẳng có hiệu quả gì.
+
+Anh tiếp tục cuộc du hành và chợt nhìn thấy một pháo đài trắng mà chóp đỉnh của nó vươn tới tận trời cao. Nó được gọi là Lâu Đài của Đạo Sư Phạm Thiên (Guru Brahma), và ở đó ba mươi hai thiên nữ xinh đẹp mê hồn mời anh vào. Họ sửa soạn cho anh một giường có nệm bằng lụa, phục vụ ba món thực phẩm trắng và ba món thực phẩm ngọt và van nài anh ở lại. Nhưng anh vẫn muốn đi.
+
+Khi anh bắt đầu lên đường, họ nói: “Cho dù Ngài đi đâu, hãy tránh hướng Nam! Tai họa sẽ giáng xuống Ngài.” Nhưng anh cảm thấy một sự thôi thúc phải đi về phương Nam, và anh đi về hướng đó.
+
+Chẳng bao lâu một tòa thành bằng sắt hiện ra trước mặt anh, những tháp của nó cao vút lên tận bầu trời. Tại cổng, anh thấy một người da đen với đôi mắt đỏ ngầu đáng sợ, tay cầm thanh sắt dài. Ái Nữ hỏi ông ta trong lâu đài có gì, nhưng người đàn ông chỉ im lặng. Khi đến gần hơn, anh thấy nhiều người đàn ông giống người đầu tiên. Một cảm giác khủng khiếp lan khắp thân thể làm tóc anh dựng lên.
+
+Anh tự bảo: “Nguy hiểm! Đây hẳn là sự nguy hiểm mà họ đã báo cho ta.”
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Anh đi vào trong. Ở đó anh thấy một người mà óc bị nghiền thành bột bởi một bánh xe thép đang quay trên đầu anh ta.
+
+“Anh làm điều gì mà phải chịu trừng phạt như vậy?” Ái Nữ hỏi.
+
+“Tôi đã đá vào đầu mẹ tôi, và đây là nghiệp trổ quả. Nhưng còn bạn? Tại sao không hưởng hạnh phúc mà người ta dâng tặng anh ở Lâu Đài Đạo Sư Phạm Thiên? Tại sao lại đến đây để tìm kiếm đau khổ?”
+
+“Tôi tin rằng mình bị đẩy đến đây cũng là do nghiệp của tôi,” Ái Nữ nghĩ.
+
+Vào lúc đó, từ trên bầu trời có một giọng nói lớn: “Hãy để những người đang bị trói được tự do, và những kẻ tự do bị trói lại!”
+
+Bánh xe thép bất ngờ quay trên đầu Ái Nữ. Giống như người kia, óc anh bị vỡ nát thành bột nhão và anh chịu đựng nỗi đau đớn và khốn khổ không tả xiết. Sự đau khổ này đánh thức trong lòng anh một cảm xúc bi mẫn mãnh liệt đối với tất cả những người đang ở trong tình trạng như anh.
+
+Anh nghĩ: “Trong các cõi luân hồi có những chúng sinh khác đang chịu đau khổ như tôi vì họ cũng đã đá vào đầu mẹ của họ. Cầu mong nỗi khổ của họ trổ quả trong tôi và cầu mong chỉ một mình tôi chịu đựng nỗi khổ đó thay cho tất cả. Cầu mong sẽ không còn ai phải trải qua nỗi đau khổ như thế trong bất kỳ đời nào trong chuỗi tái sinh liên tục của họ.”
+
+Đột nhiên, bánh xe bay lên không trung, nỗi thống khổ của anh chấm dứt và anh bay lên tới độ cao của bảy cây dừa trong một trạng thái đại lạc.
+
+Thực hành Bồ Đề Tâm bằng phương pháp hoán đổi mình với người khác là phương pháp tối cao và hết sức cần thiết để đạt được giác ngộ. Thật vậy, các Đạo Sư Kadampa trong quá khứ thường lấy đó làm pháp tu tập chính yếu. Có lần Geshe Chekawa, bậc thông suốt nhiều giáo lý của cả hai truyền
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+thống Tân và Cựu và là bậc đã nhập tâm nhiều bản văn luận lý, tới thăm Geshe Chakshingwa. Ở trên gối của vị này, ông nhìn thấy một bản văn nhỏ, và khi mở nó ra ông tình cờ đọc được câu này:
+
+> Hãy hiến tặng lợi lạc và vinh quang cho người khác.
+> Hãy nhận lãnh thua thiệt và thất bại cho chính mình.
+
+“Thật là một giáo lý tuyệt vời!” Chekawa nghĩ, và hỏi Chakshingwa giáo lý này tên gì.
+
+“Đó là *Tám Bài Kệ Luyện Tâm* của Langri Thangpa,” Chakshingwa nói.
+
+“Ai đã thuyết những giáo huấn này?”
+
+“Chính Ngài Langri Thangpa.”
+
+Chekawa quyết định thọ lãnh những giáo lý này. Trước hết, ông tới Lhasa và dùng một vài ngày để đi nhiễu quanh những thánh địa. Một buổi chiều, một người cùi ở Langthang nói với ông rằng Langri Thangpa đã viên tịch. Chekawa hỏi ai là người thừa kế dòng truyền thừa và được cho biết là hai người có khả năng kế vị, đó là Shangshungpa và Dodepa, nhưng họ có thể không đồng ý về chuyện này. Tuy nhiên họ không cãi cọ vì tranh giành nhau.
+
+Shangshungpa nói với Dodepa: “Ông là người lớn tuổi hơn, ông nên kế vị. Tôi sẽ phụng dưỡng ông như thể ông chính là Ngài Langri Thangpa!”
+
+Nhưng Dodepa trả lời: “Ông uyên bác hơn. Ông nên làm người kế vị!”
+
+Mặc dù cả hai nhìn nhau bằng tri giác thanh tịnh, Chekawa giải thích việc họ không tán thành việc kế thừa là một sự thiếu sót và cho rằng cả hai đều không phải là người trì giữ giáo lý của Ngài Langri Thangpa. Ông cố gắng tìm cho ra người trì giữ xuất sắc nhất, và mọi người nói với ông rằng người đó là Sharawa.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Sharawa đang ban một giáo lý gồm nhiều quyển sách cho hàng ngàn người trong Tăng đoàn. Chekawa lắng nghe Ngài trong vài ngày, nhưng không nghe Ngài nói một lời nào về giáo lý mà ông đang tìm kiếm.
+
+“Dường như vị này cũng không có được giáo lý đó,” ông nghĩ, “nhưng ta sẽ hỏi Ngài. Nếu Ngài có giáo lý này, ta sẽ ở lại. Còn không, tốt hơn ta nên đi.”
+
+Vì thế Chekawa tới gặp Sharawa, Ngài đang nhiễu quanh một bảo tháp. Ông trải một tấm vải lên mặt đất và mời Sharawa ngồi một lát và nói: “Con có một số việc muốn hỏi Ngài.”
+
+“Đại Đức,” Sharawa nói, “ông cần hỏi vấn đề gì? Về phần ta, ta luôn tìm mọi câu trả lời trên gối thiền của mình.”
+
+“Con đọc được những lời này trong một bản văn: ‘Hãy hiến tặng lợi lạc và vinh quang cho người khác. Hãy nhận lãnh thua thiệt và thất bại cho chính mình.’ Con rất thích những lời này. Đây có phải là một giáo lý sâu xa hay không?”
+
+“Đại Đức,” Ngài Sharawa trả lời, “dù thích hay không thích giáo lý này, nhưng nếu ông muốn đạt được Phật Quả thì ông không thể bỏ qua giáo lý ấy.”
+
+“Có phải Ngài đang trì giữ giáo lý này?”
+
+“Đúng, đó là pháp tu chính yếu của ta,” Ngài Sharawa trả lời.
+
+“Vậy thì con cầu khẩn Ngài dạy cho con,” Chekawa nói.
+
+“Ông có thể ở lại đây với ta trong một thời gian dài hay không?” Ngài Sharawa hỏi, “Nếu ông có thể ở lại thì ta sẽ dạy cho ông.”
+
+Từ Ngài, Chekawa nhận được những hướng dẫn dựa trên kinh nghiệm của Ngài$^{144}$ trong một tiến trình liên tục huấn luyện tâm thức kéo dài sáu năm. Qua việc thực hành giáo lý trên, ông đã có thể giải thoát hoàn toàn khỏi mọi dấu vết của tâm vị kỷ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Để xua tan bệnh tật và những đau khổ trong đời này và để chế ngự những tinh linh, những thế lực xấu ác và những kẻ gây nên chướng ngại, không có giáo huấn nào tốt hơn phương pháp thiền định Bồ Đề Tâm hoán đổi mình và người khác. Hãy thiền định về điều này với sự kiên trì, luôn luôn từ bỏ thuốc độc tâm thức tiêu cực, thứ thuốc độc đem lại cho bạn quá nhiều tánh tự kiêu cho mình là quan trọng.
+
+1.3 COI NGƯỜI KHÁC QUAN TRỌNG HƠN MÌNH
+
+“Tôi có thể ở trong vòng luân hồi, tôi có thể bị đọa vào trong địa ngục, tôi có thể bị bệnh tật, bồn chồn xúc động, hay đau khổ vì bất kỳ sự bất hạnh nào khác, nhưng tôi sẽ chịu đựng tất cả những điều đó. Cầu mong cho đau khổ của người khác trổ quả trong tôi! Cầu mong những chúng sinh khác có được mọi hạnh phúc và mọi quả tốt của những thiện hạnh của tôi!”
+
+Hãy khơi dậy tư tưởng này từ tận sâu thẳm trong tâm bạn và hãy thực sự đưa chúng vào thực hành, noi theo gương của những vị Thầy của Ngài Atisa, là các Ngài Maitriyogi và Dharmaraksita, và của Đạo Sư Thích Ca Mâu Ni của chúng ta trong những kiếp tái sinh làm Vua Padma, làm một con rùa và làm Vua Manicuda.
+
+Có lần, Ngài Maitriyogi, Thầy của Atisa, đang thuyết giảng Giáo Pháp thì một người đàn ông ở gần đó ném đá vào một con chó. Vị Đạo Sư đang ngồi trên ngai la lên đau đớn và ngã xuống đất. Những người hiện diện không nhìn thấy việc xảy ra cho con chó nên nghĩ rằng Ngài giả vờ. Nhưng Ngài Maitriyogi biết được điều họ đang nghĩ, Ngài cho họ thấy trên lưng Ngài rõ ràng có một vết sưng do hòn đá ném vào con chó. Chứng cớ này đã thuyết phục được mọi người có mặt ở đó: Ngài đã nhận vào thân mình nỗi đau đớn của con chó khi bị ném đá.
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Khởi đầu, Đạo Sư Dharmarakṣita là một học giả Thanh Văn của phái Vaibhasika. Mặc dù vào lúc đầu đời, Ngài chưa bao giờ được nghe giáo lý Đại Thừa, nhưng Ngài phát khởi lòng mến mộ tự nhiên đối với truyền thống Đại Thừa, và Ngài tràn đầy lòng bi mẫn mà không cần bất kỳ nỗ lực hay dụng công nào.
+
+Một lần kia, một người trong vùng Ngài đang sống lâm trọng bệnh mà thầy thuốc bảo rằng chỉ có thể được chữa lành bằng một loại thuốc – đó là thịt tươi. Nếu không tìm được nó thì không hy vọng gì.
+
+“Nếu thế thì tôi sẽ cho thịt của tôi,” Dharmarakṣita nói, và cắt một ít thịt ở đùi đưa cho người bệnh; họ ăn và khỏi bệnh.
+
+Kết quả là bởi vì chưa chứng ngộ tánh Không nên Dharmarakṣita bị đau đớn dữ dội, nhưng tâm đại bi của Ngài đã chặn đứng bất kỳ cảm giác hối tiếc nào của Ngài.
+
+“Bạn có cảm thấy khoẻ hơn không?” Ngài hỏi người bệnh.
+
+“Vâng, tôi khoẻ rồi, nhưng hãy nhìn những đau đớn khổ sở tôi đem lại cho Ngài!”
+
+“Thậm chí tôi sẵn sàng chịu chết nếu điều đó có thể đem lại hạnh phúc cho bạn,” Ngài Dharmarakṣita nói.
+
+Tuy nhiên Ngài đau đớn tới nỗi không ngủ được. Cuối cùng, Ngài lơ mơ ngủ được một lát và có một giấc mơ.
+
+Một người đàn ông màu trắng toát hiện ra nói với Ngài: “Bất kỳ ai muốn đạt được giác ngộ đều phải trải qua những thử thách như ngươi. Hoàn hảo! Hoàn hảo!” rồi người đàn ông nhổ vào vết thương và lấy tay chà xát. Vết thương biến mất, hoàn toàn không để lại dấu vết.
+
+Khi Dharmarakṣita thức dậy, Ngài thấy vết thương đã hoàn toàn lành lặn. Người đàn ông màu trắng chính là Đức Đại Bi.$^{145}$ Sau đó, sự chứng ngộ đích thực về trạng thái bản nhiên đã ló rạng trong tâm Dharmarakṣita và những lời vàng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+của *Trung Quán Luận* của Đức Long Thọ luôn ở trên môi Ngài.
+
+Thời xa xưa, khi Đức Phật Thích Ca Mâu Ni trong một đời trước là một vị Vua tên là Padma, có một trận dịch trầm trọng bột phát trong đám thần dân của Ngài và nhiều người đã chết. Nhà vua mời những vị thầy thuốc tới và hỏi họ cách chữa trị ra sao.
+
+“Bệnh này chỉ có thể chữa khỏi bằng thịt cá *rohita*,” họ nói. “Nhưng cơn bệnh đã che mờ tâm trí chúng tôi tới nỗi chúng tôi không thể nghĩ ra cách chữa trị nào khác.”
+
+Vào buổi sáng của một ngày tốt lành, nhà vua tắm rửa, mặc quần áo mới và cử hành một nghi lễ sám hối và tịnh hóa. Ngài thực hiện lễ cúng dường thịnh soạn cho Tam Bảo và cầu nguyện nhiệt thành, Ngài nói: “Ngay khi con chết, cầu mong con được lập tức tái sinh thành một con cá *rohita* sống trong sông Nivritta!”
+
+Sau đó, Ngài lao mình xuống từ cung điện cao một ngàn cubit (khoảng 450m) – và ngay lập tức được tái sinh thành một con cá, thét lên bằng giọng người: “Ta là một con cá *rohita*, hãy lấy thịt ta và ăn đi!”.
+
+Mọi người đến để ăn. Ngay khi một bên thân nó đã được ăn, con cá liền lật sang và mời họ ăn tiếp thân bên kia. Khi họ đang cắt thịt, phần thân đầu tiên trở lại đầy như cũ. Bằng cách này, khi tuần tự ăn từng bên thân cá, những ai bị bệnh đều có thể được chữa khỏi. Sau đó, con cá nói với tất cả mọi người rằng:
+
+“Ta là Padma, vua của các ngươi. Ta đã từ bỏ thân mạng để tái sinh thành một con cá *rohita* cứu các người khỏi bệnh dịch. Để biểu lộ lòng biết ơn của các người đối với ta, hãy từ bỏ những hành động xấu ác và làm mọi điều thiện mà các người có thể.”
+
+Tất cả đều vâng lời Ngài và từ đó không bao giờ còn rơi vào vòng tái sinh ở các cõi thấp nữa.
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Một lần khác, Đức Phật Thoích Ca Mâu Ni tái sinh làm một con rùa khẩng lồ, lúc đó một chiếc thuyền chở năm trăm nhà buôn bị đắm giữa biển.
+
+Tất cả đều sắp chết đuối thì con rùa gọi họ bằng giọng người: "Hãy trèo lên lưng ta! Ta sẽ đưa tất cả các ngươi tới nơi an toàn!".
+
+Con rùa đem những nhà buôn này đến vùng đất khô ráo, sau đó kiệt sức quy ngã bên bờ biển, và ngủ thiếp đi. Nhưng khi nó ngủ, một đám mây gồm tám mươi ngàn con ruồi ketaka bay đến và bắt đầu hút máu con rùa. Khi tỉnh dậy, nó nhìn thấy ruồi đông vô kể và nhận ra rằng nếu nó lăn xuống nước trở lại hay bồ lên mặt đất thì những con ruồi sẽ chết. Vì thế nó cứ năm yên đó, hiến tặng mạng nó cho những con ruồi.
+
+Sau này khi con rùa đã thành Phật thì đàn ruồi ấy trở thành tám mươi ngàn vị Trời lắng nghe giáo lý của Ngài và lãnh hội được chân lý.
+
+Trong một dịp khác, Đức Phật tái sinh ở xứ Saketa thành con trai của vị Vua Chỏ̂m Vàng cùng hoàng hậu Sắc Đẹp Làm Hoan Hỷ. Nơi đỉnh đầu của cậu bé là một nhục kế$^{146}$ chưa một viên ngọc báu, từ đó chảy ra một chất cam lồ cố năng lực biến sắt thành vàng. Vì lý do này cậu được gọi là Manicuda, "Chỏ̂m Ngọc." Khi cậu bé sinh ra, một trận mưa gồm đủ loại châu báu đổ xuống. Trong số của cải của cậu có một con voi lộng lẫy tên là Núi Ttuyệt Hảo. Là vua, Ngài chỉ đạo những công việc thế gian phù hợp với Giao Pháp, luôn phân phát của bố thí cho người nghèo, nhà đó chấm dứt được sự nghèo khổ và ăn xin.
+
+Một nhà hiền triết (risi) tên là Brighu gả con gái cho Ngài. Cô sinh ra từ hoa sen và có mọi điềm lành. Từ sự kết hợp này, một đứa con trai giống như cha ra đời, và người ta gọi cậu là Chỏ̂m Hoa Sen.
+
+[Hình: Atisa (982 - 1054)]
+
+*Atisa (982 - 1054)*
+
+Học giả Ấn Độ vĩ đại của đại học viện Vikramasila, đã trải qua mười năm cuối đời mình tại Tây-Tạng, ở đó Ngài giảng dạy giáo lý chú trọng vào hai pháp môn căn bản là (1) quy y và (2) rèn luyện tâm thức nương vào lòng từ và bi.
+
+## II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Một ngày nọ, nhà vua quyết định tổ chức một lễ cúng dường lớn và mời nhiều vị khách, trong số họ có risi Brighu và một vị vua tên Dusyanta, Khó-Kham Nhẫn. Khi ấy Vua Trời Indra (Đế Thích) muốn thử ý định của Vua Chỏm Ngọc nên mang thân tướng của một Dạ Xoa (raksasa). Ông nhảy ra khỏi đồ cúng lửa và đi tới nhà vua, yêu cầu thực phẩm và nước uống. Nhà vua tặng Ông đủ loại món ăn và thức uống, nhưng Ông từ chối tất cả.
+
+“Tất cả những cái tôi cần,” Ông nói với nụ cười mỉm, “là thịt và máu còn ấm của một người vừa bị giết!”
+
+Nhà vua hơi giật mình. “Ta không thể làm được việc này mà không làm tổn hại người khác,” Ngài nghĩ. “Cho dù ông ta giết ta, ta sẽ không bao giờ làm hại người khác. Tuy nhiên, trừ khi ta cho ông ta những gì ông ta cần, còn không thì mọi hy vọng của ông ta sẽ bị đổ vỡ. Ta sẽ làm gì?”
+
+Lúc đó, Nhà vua quyết định đã tới lúc cúng dường chính máu và thịt của mình và nói: “Tôi sẽ cho ông máu và thịt của chính tôi.”
+
+Sự hoảng loạn lan khắp tập hội và họ cố gắng thuyết phục Vua, nhưng không có hiệu quả. Nhà vua cắt tĩnh mạch cổ để cho máu. Dạ Xoa uống máu no nê rồi cắt những miếng thịt của Vua và quỷ ma ăn thịt cho đến tận xương. Quyến thuộc của Nhà vua buồn bã. Hoàng hậu ngã bất tỉnh trên mặt đất. Nhưng Nhà vua vẫn làm chủ được năng lực của mình và Trời Indra trở nên cực kỳ hoan hỷ.
+
+“Ta là Vua Trời Đế Thích,” Ông ta nói. “Ta không cần thịt và máu vì thế Ngài có thể ngưng hành vi nhân đức của Ngài lại.” Ông bôi chất cam lồ linh thánh lên những vết thương trên thân nhà vua khiến vua hồi phục như trước.
+
+Về sau, Vua Chỏm Ngọc ban con voi Núi Tuyệt Hảo cho quan thượng thư của Ngài tên là Cỗ xe của Brahma. Vào lúc đó một trong những đệ tử của risi Marici tới, risi Marici là người
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+đã thành tựu trong thiền định. Nhà vua đón tiếp ông ta với lòng tôn kính sâu xa và hỏi ông ta cần gì.
+
+“Để tỏ lòng biết ơn vị thầy đã dạy tôi kinh Veda, tôi muốn dâng cho thầy tôi một người hầu, vì hiện tại thầy tôi đã già và không còn ai. Tôi tới xin vợ và con Ngài.”
+
+Vì thế nhà vua để cho vợ con của mình đi. Người đệ tử cùng đi với họ và dâng họ cho thầy mình.
+
+Trong lúc đó, Vua Khó-Kham Nhẫn thèm muốn con voi. Khi về tới vương quốc của mình, Vua gởi một thông điệp yêu cầu rằng con voi phải được đem trình diện vua. Vua được trình báo kịp thời là con voi đã được đem cho một người bà la môn. Nhưng nhà vua không nghe và đe dọa sẽ có chiến tranh nếu không giao voi. Khi địch quân tiến đến, Vua Chỏm Ngọc cảm thấy một nỗi buồn sâu xa trong lòng.
+
+“Đáng buồn biết bao tính tham lam có thể biến người bạn thân nhất thành kẻ thù dữ dội nhất chỉ trong chốc lát!” Ngài nghĩ. “Nếu ta chuẩn bị chiến đấu, ta có thể dễ dàng đánh bại ông ta. Nhưng nhiều người sẽ đau khổ, vì thế ta phải trốn đi!”
+
+Bốn vị Phật Độc Giác xuất hiện và nói: “Đại Vương, đã đến lúc Ngài vào rừng.”
+
+Vì thế Ngài đi tới Rừng Niềm Say Mê Của Người Khác, trong khi những vị thượng thư của Ngài tới gặp Marici và hỏi xin vị hoàng tử trẻ là người đã được tặng cho ông ta. Marici trả lại hoàng tử và hoàng tử nắm quyền chỉ huy quân đội và lâm chiến. Vua Khó-Kham Nhẫn bị thua trận và bị buộc phải lui về, và những tư tưởng cùng những hành vi xấu ác đã mang lại bệnh tật và đói kém cho vương quốc của nhà vua.
+
+Khi vua Khó-Kham Nhẫn hỏi những người bà la môn của ông ta điều gì có thể làm cho những tai họa này chấm dứt, họ nói: “Phương thuốc đó là những viên ngọc của Vua Chỏm Ngọc. Ngài nên xin nhà vua viên ngọc đó.”
+
+“Nhưng chắc chắn là ông ta sẽ từ chối,” Vua Khó-Kham Nhẫn nói.
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Tuy nhiên, những người bà la môn cứ khăng khăng nói rằng Vua Chỏm Ngọc sẽ cho – bởi vua đã chẳng nổi danh là không bao giờ từ chối một lời thỉnh cầu nào đó sao? Một người bà la môn được phái đi để xin vua viên ngọc.
+
+Vua Chỏm Ngọc đang đi dạo trong rừng, nhìn quanh quẩn, và tới gần ẩn thất của Marici. Cùng lúc đó, hoàng hậu - vợ Ngài – đang tìm rễ và lá trong rừng không xa nơi đó, bị một thợ săn tấn công.
+
+“Vua Chỏm Ngọc cứu tôi!” bà la lên.
+
+Tiếng kêu khóc từ xa của bà vang tới tai Vua Chỏm Ngọc, Ngài tự hỏi điều gì xảy ra và đi tới xem. Người thợ săn thấy Ngài đến gần, tưởng là vị risi. Sợ bị nguyền rủa, hắn bỏ chạy. Một người như Hoàng hậu trước đây từng thụ hưởng vô số tiện nghi của hoàng cung mà nay lâm vào cảnh khốn cùng đến nỗi Vua Chỏm Ngọc phải bàng hoàng khi Ngài nhìn thấy bà. “Buồn làm sao!” Ngài nghĩ. “Mọi sự duyên hợp chẳng có gì xác thực.”
+
+Đúng lúc đó sứ giả bà la môn của Vua Khó-Kham Nhẫn đi tới. Ông ta thuật lại cho Ngài câu chuyện và hỏi xin nhục kế trên đầu Ngài.
+
+“Hãy cắt nó và lấy đi,” nhà Vua nói.
+
+Người bà la môn làm theo và ra đi. Mọi bệnh tật và đói kém đã chấm dứt trong vương quốc của Vua Khó-Kham Nhẫn.
+
+Khi Vua Chỏm Ngọc chịu đựng nỗi đau đớn do vết thương của Ngài gây ra, nó khơi dậy trong Ngài lòng đại bi đối với tất cả chúng sinh trong các địa ngục nóng. Sau đó Ngài bất tỉnh.
+
+Trong lúc đó, được thúc đẩy bởi những điềm lành xuất hiện, nhiều người trong triều đình cũng như các vị trời đi tới.
+
+“Ôi, Đức Vua,” họ nói, “điều gì đã xảy ra?”
+
+Nhà vua ngồi dậy và chùi những vết máu trên mặt Ngài.
+
+“Vua Khó-Kham Nhẫn cho người tới xin ta nhục kế trên đầu vì thế ta đã tặng nó cho ông ta,” Ngài trả lời.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+“Điều gì khiến Ngài làm như vậy?” họ hỏi.
+
+“Ta không cố giữ bất kỳ điều gì cho mình. Mong ước duy nhất của ta là xứ sở của Vua Khó-Kham Nhẫn phải được cứu thoát khỏi bệnh tật và nạn đói kém. Nhưng ta còn muốn một điều nữa..”
+
+“Đó là gì?” họ hỏi.
+
+“Có khả năng che chở tất cả chúng sinh,” Ngài trả lời.
+
+“Nhưng Ngài không cảm thấy hối tiếc chút nào chứ?” họ hỏi.
+
+“Không, hoàn toàn không,” nhà vua nói.
+
+“Nhìn vẻ đau đớn trên mặt Ngài thì thật khó có thể tin điều Ngài nói.”
+
+“Tốt” nhà vua nói, “nếu ta thật sự không hối tiếc về việc tặng nhục kế cho Vua Khó-Kham Nhẫn và quần thần của ngài, thì cầu mong thân ta trở lại y như trước!”
+
+Và đó là điều đã xảy ra. Quần thần của Ngài van nài Ngài trở lại cung điện, nhưng Ngài từ chối. Vào lúc đó, bốn vị Phật Độc Giác lại xuất hiện.
+
+“Bởi Ông đã giúp cho kẻ thù quá nhiều rồi, thì tại sao lại không giúp cho những bạn hữu?” các Ngài nói. “Bây giờ ông nên trở về cung điện của mình.”
+
+Nhà Vua trở về cung điện, và đem lại lợi ích và hạnh phúc cho thần dân của Ngài.
+
+## 2. Bồ Đề Tâm Hạnh: Nương Theo Giới Hạnh Của Sáu Pháp Toàn Thiện Siêu Việt (Lục độ ba-la-mật)
+
+Năm pháp đầu tiên trong sáu pháp toàn thiện siêu Việt (lục độ ba-la-mật hay sáu ba-la-mật) – bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định – bao gồm tất cả các phương tiện thiện xảo khác nhau. Pháp thứ sáu, trí tuệ, thuộc về pháp vun bồi trí huệ nguyên sơ. 147
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+## 2.1 BỐ THÍ SIÊU VIỆT (Bố thí ba-la-mật)
+
+Bố thí có thể áp dụng qua ba hình thức: bố thí vật chất (tài thí), bố thí Pháp (Pháp thí), và bố thí sự che chở thoát khỏi sợ hãi (vô úy thí).
+
+### 2.1.1 Bố thí vật chất (Tài thí)
+
+Có ba loại bố thí vật chất: bố thí thông thường, đại bố thí và đại bố thí phi thường.
+
+Bố thí thông thường. Điều này ám chỉ việc bố thí bất kỳ vật chất nào, cho dù nó không nhiều hơn một nhúm trà hay một chén bột lúa mạch. Nếu nó được bố thí với một tác ý hoàn toàn thanh tịnh thì số lượng không quan trọng. *Sự Sám Hối Những Sa Sút* nói về “kết quả tốt lành trong tương lai của việc bố thí dù chỉ một muỗng thực phẩm cho một chúng sinh trong cõi súc sinh.” Ta được biết rằng Các Đấng Chiến Thắng, khéo léo lão luyện trong phương tiện và với lòng đại bi quảng đại, có thể cứu giúp ngạ quỷ nhiều như cát sông Hằng (Gange) chỉ với một giọt nước hay một hạt lúa mạch bằng cách sử dụng oai lực của các dharani,* các thần chú và những phương tiện khác.
+
+Những lễ cúng dường lửa -- đỏ và trắng, đem lại lợi ích to lớn cho ngạ quỷ di chuyển khắp hư không. Mặt khác, những tinh linh được nuôi dưỡng trên sự sống của những chúng sinh khác có thể tạm thời thỏa mãn bằng mùi vị của thực phẩm cúng dường được thiêu hoá (cúng dường lửa) và tâm họ được giải thoát nhờ tặng phẩm của Giáo Pháp.** Kết quả là những
+
+---
+
+\* Một loại thần chú dài được tìm thấy trong các Kinh điển.
+\*\* Trong nghi thức của một lễ cúng dường lửa (xem Thuật ngữ), “bố thí Pháp” thường được bao gồm trong hình thức của bài kệ tóm tắt giáo lý của Đức Phật, “Hãy từ bỏ ác hạnh…,” được trích dẫn ở tiết 2.1.2 Bố thí Pháp trong Chương này.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+tinh linh đó không còn làm tổn hại người khác, và do đó nhiều chúng sinh khác được bảo vệ, thoát khỏi hiểm họa của cái chết. Điều này dẫn đến pháp bố thí sự che chở thoát khỏi sợ hãi (vô úy thí), vì thế thực hành cúng dường lửa bao gồm cả ba loại bố thí.
+
+Vì cả hai việc cúng dường lửa và torma nước đều dễ thực hiện và rất hiệu quả nên hãy cố gắng thực hành đều đặn và không gián đoạn. Thật là vô cùng tốt lành nếu mỗi năm chúng ta cúng dường một trăm ngàn torma nước.
+
+Khi người ta nhận được một ít thực phẩm hay một ít tiền, họ nắm chắc chúng trong tay bằng cái siết chặt của một người đang hấp hối, và chẳng thể dùng chúng cho đời này hay những đời sau. Cho dù họ có nhiều tới đâu chăng nữa thì họ vẫn nghĩ là họ không có gì, và rên rỉ như thể họ sắp chết đói. Cách cư xử như vậy có thể tức khắc tạo nên một kinh nghiệm giống như kinh nghiệm của cõi ngạ quỷ, qua kết quả tương đồng với nguyên nhân.#
+
+Hãy tránh những thái độ như vậy và cố gắng rộng rãi quảng đại, qua những hoạt động như cúng dường Tam Bảo và bố thí cho các hành khất. Như Ngài Jetsun Mila đã nói:
+
+> Hãy moi thực phẩm ra từ miệng bạn và cho đi như của bố thí.
+
+Mặt khác, nếu bạn để cho mình trở thành kẻ nô lệ cho tính tham lam ích kỷ, thì cho dù bạn có tất cả của cải trong thế gian nhưng dường như của cải đó vẫn không đủ cho một người. Ngoài ra, không dám buông bỏ những gì bạn có, bạn tự nhủ rằng bất kỳ những gì bạn sắp sử dụng để cúng dường hay bố thí cho người nghèo khó, sau này bạn sẽ phải tìm kiếm ra
+
+---
+# xem Phần Một, Chương Bốn, Mục I, tiết 2.2.2 Những kinh nghiệm tương tự với nguyên nhân.
+
+364
+
+## II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+lại để bù đắp vào, hoặc tiền của ấy phải đến từ một nơi nào khác.
+
+Nói chung, Đức Phật dạy pháp bố thí vật chất và pháp bố thí sở hữu vật chất chủ yếu là để cho giới Bồ Tát cư sĩ. Nếu bạn là một vị tăng hay ni, điều quan trọng là đơn thuần giảm thiểu lòng ham muốn, học cách bằng lòng với những gì bạn có, và thực hành tu tập ba nhánh của con đường cao cấp (three-fold training of the higher path), quyết tâm ẩn thất trên núi cao và ở những nơi cô tịch, vui vẻ chấp nhận mọi gian khổ.
+
+Một số hành giả từ bỏ những tu tập tâm linh để lao mình vào việc buôn bán, nông nghiệp hay những phương tiện sinh nhai khác, và chất đống của cải qua thủ đoạn quỷ quyệt và gian xảo. Họ chống chế rằng họ đang thực hành Pháp qua việc cúng dường và đóng góp vào các chương trình từ thiện bằng của cải mà họ đã kiếm được. Nhưng người ta nói về những người ấy như sau:
+
+> Khi Pháp không được thực hành phù hợp với Pháp thì ngay chính Pháp có thể gây ra việc tái sinh vào đường dữ.
+
+Cách tiếp cận Pháp hay đến với Pháp của họ hoàn toàn vô giá trị. Vì thế, điều tối ưu quan trọng là luôn hài lòng với những gì mình có.
+
+**Đại bố thí**. Điều này có nghĩa cho người khác bất cứ thứ gì cực kỳ hiếm hoi hay quý báu đối với cá nhân bạn, chẳng hạn như ngựa hay voi, hay thậm chí con trai hay con gái của riêng bạn.
+
+**Đại bố thí phi thường**. Điều này ám chỉ việc hiến tặng tứ chi, thân thể hay cuộc sống của chính bạn. Những tấm gương sáng là Hoàng Tử Đại Dũng Cảm hiến thân mạng cho một cọp cái đói khát. Tổ Long Thọ (Nagarjuna) cắt đầu cho con
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+trai vua Surabhibhadra,* và Công Chúa Mandabhadri cũng hiến thân mạng cho một con cọp cái. Tuy nhiên, loại bố thí này chỉ được thực hành bởi những vị đã đạt được một trong những địa của Bồ Tát. Những người bình thường không thể làm nổi những việc như thế.^148 Tạm thời, trong tâm thức bạn, hãy dâng hiến thân thể, cuộc sống và tài sản của bạn cho lợi ích của những người khác, trong lòng không chút mảy may tham luyến, và cầu nguyện rằng một ngày nào đó bạn sẽ có đủ khả năng để thực sự bố thí như vậy.
+
+## 2.1.2 Bố thí Pháp (Pháp thí)
+
+Điều này có nghĩa là dẫn dắt người khác đến với việc thực hành tâm linh bằng cách ban những quán đảnh, giảng Pháp, trao truyền kinh văn và v.v.. Tuy nhiên, làm điều tốt cho người khác trong khi tánh tham dục ích kỷ của chính mình vẫn chưa biến mất thì sẽ chẳng khác nào một màn trình diễn.
+
+Các đệ tử của Ngài Atisa hỏi Ngài khi nào thì họ có thể giảng dạy cho người khác, làm việc vì lợi ích của người khác hay thực hiện pháp chuyển di thần thức cho người vừa mới chết. Ngài trả lời như sau:
+
+> Ông có thể dẫn dắt người khác một khi ông đã chứng ngộ tánh Không và phát triển khả năng thấu thị.
+> Ông có thể làm việc vì lợi ích của người khác một khi chẳng còn gì để làm đối với lợi lạc của riêng ông.^149
+> Ông có thể thực hiện pháp chuyển di cho người chết một khi ông đã đi vào con đường của cái Thấy (Kiến Đạo).
+
+Ngài cũng nói:
+
+---
+^* Xem Phần Một, Chương Bốn, Mục III.
+
+II. KHƠI DẬY BÒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Thời buổi suy đồi này không phải là lúc để khoe khoang;
+Đã tới lúc khơi dậy lòng cương quyết.
+Không phải là lúc để nắm giữ những địa vị cao;
+Đã tới lúc giữ một vị trí khiêm tốn.
+Không phải là lúc để có người hầu và đệ tử;
+Đã tới lúc sống trong cô tịch.
+Không phải là lúc để chăm sóc đệ tử;
+Đã tới lúc tự chăm sóc chính mình.
+Không phải là lúc để phân tích những ngôn từ;
+Đã tới lúc để quán chiếu yếu nghĩa.
+Không phải là lúc để đi rong;
+Đã tới lúc ở yên một chỗ.
+
+Ba Anh Em hỏi Geshe Tonpa rằng tu tập trong cô tịch hoặc giúp đỡ người khác bằng Giáo Pháp, cái nào quan trọng hơn. Geshe Tonpa trả lời:
+
+Đối với một người sơ cơ không có kinh nghiệm tu tập lẫn kinh nghiệm chứng ngộ thì thật vô ích khi cố gắng giúp đỡ người khác bằng Giáo Pháp. Họ chẳng gia hộ được cho bất kỳ một ai, giống như không có gì để rớt ra từ một chiếc bình rỗng. Những giáo huấn của họ vô vị và không có thực chất, giống như ủ bia mà không nén hạt.
+
+Một số người ở giai đoạn phát nguyên, là những người đã có hơi ấm$^{150}$ của công phu tu tập nhung chưa được kîen cố vững chắc trong việc tu tập cho lắm, thì họ không thể làm việc vì lợi ích của chúng sinh. Lực gia trì của họ giống như thứ gì đó được rót từ bình này sang bình khác: họ chỉ có thể đổ đầy cho người khác bằng cách làm cạn kiệt chính mình. Những giáo huấn của họ giống như một ngọn đèn được chuyển từ tay này qua tay khác: nếu họ cho người khác ánh sáng thì họ sẽ ở trong bóng tối.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Nhưng người đã đạt được một trong những quả vị của Bồ Tát thì sẵn sàng làm việc vì lợi ích chúng sinh. Lực gia trì của các vị ấy giống như năng lực của một chiếc bảo bình như ý: họ có thể giúp tất cả chúng sinh mà không bao giờ trở nên khô cạn. Những giáo huấn của các vị ấy giống như một ngọn đèn đặt ở ngay trung tâm, từ đó mọi người có thể bắt lấy ánh sáng mà ngọn đèn không bao giờ bị lu mờ.
+
+Do đó, thời đại suy đồi này không phải là lúc để những người bình thường giúp đỡ người khác một cách hời hợt bề ngoài, mà đúng hơn là lúc để họ sống ở những nơi cô tịch và tu luyện tâm thức trong lòng từ và bi của Bồ đề Tâm. Đây là lúc tránh xa những cảm xúc ô nhiễm tiêu cực. Khi một cây thuốc quý¹⁵¹ vẫn còn là một cây non chưa tới lúc thu hoạch, thì đó là lúc phải bảo vệ nó.
+
+Vì những lý do này, thật là khó khăn để thực sự bố thí Pháp cho người khác. Thuyết giảng một giáo lý cho người khác mà bản thân chưa từng có kinh nghiệm về giáo pháp đó thì sẽ chẳng giúp được gì cho họ. Đối với việc góp nhặt những phẩm vật cúng dường và tài sản bằng việc giảng Pháp, Ngài Padampa Sangye gọi đó là “sử dụng Pháp như món hàng để làm giàu.”
+
+Trừ phi bạn đã vượt qua niềm ước muốn bất kỳ điều gì cho chính bản thân mình, còn thì sẽ chẳng tốt lành gì hơn khi vội vã lao vào những hoạt động vị tha. Thay vào đó, hãy cầu nguyện rằng tâm thức của những tinh linh có thiện căn có thể được giải thoát khi nghe bạn cầu nguyện, trì tụng thần chú hay tụng đọc kinh điển. Hãy suy xét kỹ lưỡng điều đó để có thể tụng những bài nguyện bố thí Pháp được tìm thấy ở phần cuối của các bản văn nghi thức torma nước hay cúng dường thân,¹⁵² chẳng hạn như:
+
+Hãy từ bỏ điều xấu
+Năng làm các hạnh lành.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Thường làm chủ tâm mình.
+Đây là lời Phật dạy.
+
+Khi những tham dục ích kỷ của bản thân bạn đã cạn kiệt, thì sẽ tới lúc để bạn hoàn toàn dâng hiến bản thân cho người khác, không chút bận tâm về sự an toàn và hạnh phúc của riêng mình và không lơi lỏng nỗ lực của bạn dù chỉ trong giây lát.
+
+2.1.3 Bố thí sự che chở khỏi sợ hãi (Vô Uý thí)
+
+Điều này có nghĩa là thực sự làm bất kỳ điều gì bạn có thể làm được để giúp đỡ người khác trong lúc khó khăn. Chẳng hạn, vô úy thí bao gồm việc cung cấp nơi trú ẩn cho những người không có bất kỳ nơi nào an toàn, ban tặng sự che chở cho những người không có bất kỳ sự che chở nào, và đến với những người không có ai làm bạn đồng hành. Vô uý thí đặc biệt đề cập tới những hành động như cấm săn bắn và đánh bắt cá bất kỳ nơi nào bạn có khả năng làm việc đó, hoặc mua lại những con cừu đang bị mang đi làm thịt, và cứu mạng những con cá, những con sâu, ruồi muỗi và những sinh vật sắp chết khác. Bởi Đức Phật đã dạy rằng trong tất cả những hành vi tương đối tốt, cứu mạng sống của chúng sinh là điều tốt đẹp nhất.
+
+Việc đồng loạt thực hiện những loại bố thí khác nhau tạo thành một giới nguyện quan trọng nhất của các giới nguyện của Mật Thừa. Trong Những Giới nguyện của Ngũ Bộ Phật có nói:
+
+Như mật nguyện của Bảo Sanh Bộ,
+Hãy luôn thực hành bốn loại bố thí.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+## 2.2 TRÌ GIỚI SIÊU VIỆT (Giới ba-la-mật)
+
+Trì Giới siêu việt bao gồm việc tránh làm những hành vi bất thiện, quyết làm điều thiện, và đem lại lợi ích cho người khác.
+
+### 2.2.1 Tránh những hành động bất thiện
+
+Điều này có nghĩa là loại bỏ như loại bỏ thuốc độc tất cả mười ác nghiệp của thân, khẩu và ý là những gì không nhắm tới lợi ích cho người khác.153
+
+### 2.2.2 Quyết làm việc thiện
+Điều này có nghĩa luôn tạo ra càng nhiều càng tốt những hạt nhân tốt lành cho tương lai bằng cách luôn làm bất kỳ thiện hạnh nào khi bạn có thể làm, bất luận chúng có vẻ tầm thường vô nghĩa tới đâu chăng nữa.
+
+Như tục ngữ bình dân có nói: “Thiện hạnh chỉ xảy ra khi miệng và tay ta được giải phóng, còn ác hạnh xảy ra khi ta ngồi một chỗ hay đi lòng vòng.” Chỉ bằng cách luôn luôn kiểm soát tâm ta bằng chánh niệm, tỉnh giác, bằng sự chú tâm cao độ, và bằng nỗ lực làm điều thiện, tự chế không làm điều ác, là bạn có thể tránh không mắc phạm nhiều ác hạnh trầm trọng – ngay cả khi bạn đang thuần túy mua vui cho chính mình.
+
+Làm những ác hạnh nhỏ bé nhất,
+Vì tin rằng chúng không thể tác hại:
+Nhưng ngay cả một tàn lửa nhỏ
+Có thể đốt cháy một núi rơm.
+
+Hãy luôn luôn đưa lời khuyên này vào thực hành, áp dụng chánh niệm và tỉnh giác liên tục, và cuối cùng bạn sẽ tích lũy được một khối lượng không thể tưởng tượng những
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+thiện hạnh trong tiến trình sinh hoạt hàng ngày của bạn. Việc hoàn toàn tỏ lòng tôn kính khi đi ngang qua một đống đá *mani* bằng cách giở nón và nhiễu quanh đó theo chiều kim đồng hồ, và ứng dụng ba phương pháp tối cao, những điều này có thể đưa dẫn ta tới Toàn Giác chứ không còn gì phải nghi ngại. Có câu nói rằng:
+
+> Không làm những thiện hạnh nhỏ bé nhất,
+> Vì tin rằng chúng khó giúp ích được ai:
+> Nhưng từng giọt nước rơi
+> Sớm hay muộn cũng làm đầy một hồ lớn.
+
+Có câu chuyện về một con heo bị con chó rượt chạy quanh một bảo tháp, và câu chuyện khác về bảy con sâu bướm rơi khỏi chiếc lá xuống một con suối và được dòng nước dẫn trôi quanh tháp: rốt cuộc những sự kiện như thế đủ để đưa những chúng sinh đó đi tới giải thoát.
+
+Vì thế hãy luôn từ bỏ hành vi ác hại nhỏ bé nhất; hãy làm bất kỳ điều thiện nào bạn có thể làm và hồi hướng tất cả công đức cho lợi lạc của chúng sinh. Điều này bao gồm tất cả mọi giới luật của Bồ Tát nguyện.
+
+## 2.2.3 Đem lại lợi lạc cho người khác
+
+Như chúng ta đã thấy, khi bạn hoàn toàn thoát khỏi lòng ham muốn bất kỳ điều gì cho bản thân thì sẽ tới lúc để bạn trực tiếp làm việc vì lợi ích của người khác, sử dụng bốn cách nhiếp phục người khác (tứ nhiếp pháp). Nhưng là một kẻ sơ cơ, cách đem lại lợi ích cho người khác là hồi hướng mọi công phu thực hành của bạn trong khi thực hiện các thiện hạnh và tránh làm những ác hạnh cũng vì lợi lạc của tất cả chúng sinh. Tất cả những điều này được thực hiện bằng cách áp dụng ba phương pháp tối cao.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+## 2.3 NHẪN NHỤC SIÊU VIỆT (Nhẫn ba-la-mật)
+
+Nhẫn nhục bao gồm ba phương diện: nhẫn nhục khi gặp bất công, nhẫn nhục chịu đựng những gian khổ vì Giáo Pháp, và nhẫn nhục đối mặt với chân lý sâu xa với tâm vô úy.
+
+### 2.3.1 Nhẫn nhục khi gặp bất công
+
+Loại nhẫn nhục này nên áp dụng bất cứ khi nào bạn bị tấn công, mất trộm hay thất bại, bị sỉ nhục vào mặt hay nói xấu sau lưng. Thay vì khó chịu và phản ứng một cách giận dữ thì bạn nên đáp lại một cách tốt lành với lòng từ và bi. Nếu mất kiên nhẫn và chịu thua cơn giận dữ, thì dù chỉ một lóe nhỏ thịnh nộ nổi lên là có thể hủy hoại hết các quả lành của những thiện hạnh mà bạn đã tích lũy trên một ngàn kiếp, như đã được đề cập trong Nhập Bồ Tát Hạnh:
+
+> Thiện hạnh tích lũy trong một ngàn kiếp,
+> Chẳng hạn hạnh bố thí,
+> Hay cúng dường các bậc đã chứng đại lạc:
+> Chỉ một tia giận dữ loé lên là thiện hạnh bị thiêu huỷ. $^{154}$
+
+Ngoài ra:
+
+> Không xấu ác nào như sân hận,
+> Không khổ hạnh nào sánh được nhẫn nhục. $^{155}$
+> Vì thế, hãy tắm mình trong nhẫn nhục -
+> Bằng mọi cách với lòng nhiệt thành khẩn thiết.
+
+Hãy nhớ tới những tật bệnh mà sân hận mang lại, hãy nỗ lực vun bồi nhẫn nhục trong mọi hoàn cảnh. Ngài Padampa Sangye nói:
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỂ CỦA ĐẠI THỪA
+
+Thù ghét kẻ địch là một mê lầm gây ra bởi nghiệp.
+Hãy chuyển hóa tư tưởng xấu xa của quý vị, hỡi dân chúng xứ Tingri!
+
+Và Ngài Atisa nói:
+
+Không nên tức giận những người làm hại bạn.
+Nếu nổi giận với những người làm hại mình,
+Thì khi nào bạn mới trau dồi được nhẫn nhục?
+
+Bất cứ khi nào có ai làm hại bạn, lăng mạ hay buộc tội bạn một cách sai lầm, nếu bạn không bị mất bình tĩnh hay để tâm thù hằn người đó, thì kết quả là nhiều ác hạnh và chướng ngại trong quá khứ của bạn sẽ vơi cạn. Nhờ phát triển tánh nhẫn nhục trong những tình huống như thế, bạn có thể tích lũy được rất nhiều công đức. Vì thế hãy coi những người đã đối xử bất công với bạn như những vị thầy của mình. Có câu nói rằng:
+
+Nếu không có người làm bạn nổi sân, thì bạn có thể trau dồi hạnh nhẫn nhục với ai?
+
+Ngày nay, chúng ta thường nghe nói rằng một người nào đó là một Lạt Ma hay một vị tăng sĩ chân chính nhưng lại có một tính khí kém tệ. Nhưng trong thế gian không có điều gì tệ hại hơn sân hận – vì thế làm sao có thể có người rất tốt đồng thời lại có một tính khí kém tệ? Ngài Padampa Sangye nói:
+
+Bạn không biết rằng một hành động phát sinh từ sân hận dù trong khoảnh khắc thì còn tệ hại hơn một trăm hành vi phát sinh từ tham dục.
+
+Nếu thực sự thấm nhuần giáo lý một cách đúng đắn, thì mọi việc bạn làm, nói, và suy nghĩ phải mềm mại như bước
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+chân trên vải len và dịu nhẹ như súp tsampa hoà với bơ. Nhưng rất có thể việc bạn có thể nhẫn nhục trở thành một điều nghịch, và việc thực hành đức hạnh nhỏ bé nhất mà bạn làm được, hoặc giới nguyện mà bạn giữ được, sẽ khiến bạn cảm thấy rất hài lòng với chính mình và bạn sẽ thổi phồng bạn lên với lòng kiêu hãnh. Hoặc mỗi khi có ai nói với bạn chỉ một lời nhưng bạn lại cực kỳ nhạy cảm với cách họ nói lên lời đó, và bạn lại giận sôi lên bất kỳ lúc nào bạn nghĩ mình đang bị nhục mạ hay chỉ trích. Tánh khí tự ái đó là một dấu hiệu cho thấy tâm bạn và Pháp đi theo hai con đường riêng rẽ và Giáo Pháp hoàn toàn không chuyển hoá được tâm bạn. Geshe Chengawa nói:
+
+Khi chúng ta học tập, quán chiếu và thiền định, nếu bản ngã của chúng ta phát triển ngày càng lớn hơn, sự nhẫn nại của ta trở nên còn mỏng manh hơn cả da non của một đứa trẻ, và chúng ta cảm thấy dễ cáu kỉnh thậm chí còn hơn cả quỷ Tsang Tsen, thì đây chắc chắn là những dấu hiệu cho thấy công phu học tập, thiền định và quán chiếu của chúng ta đã đi sai hướng.
+
+Hãy luôn luôn khiêm tốn, ăn mặc giản dị, và đối xử tôn kính với mọi người dù họ tốt, xấu hay tầm thường. Hãy điều phục tâm bạn bằng Giáo Pháp, lấy từ và bi của Bồ Đề Tâm làm nền tảng của mình. Không còn nghi ngờ gì nữa, đây là điểm tối trọng yếu của tất cả con đường tu tập, còn tốt lành gấp ngàn lần những cái thấy “tối thượng” hay những loại thiền định “sâu xa nhất” mà chẳng làm được điều gì tốt đẹp cho tâm thức.
+
+2.3.2 Nhẫn nhục chịu đựng những gian khổ vì Đạo Pháp (Pháp Nhẫn)
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Vì lợi ích của việc thực hành Đạo Pháp, bạn nên quên đi cái nóng, lạnh và mọi khó khăn khác. Trong các Mật điển có nói:
+
+Ngay cả phải đi qua hỏa ngục hay biển dao kiếm sắc nhọn,
+Hãy tìm cầu Giáo Pháp cho tới khi bạn tắt hơi.
+
+Phái Kadampa cổ có bốn mục tiêu như sau:
+
+- Hãy đặt tâm của bạn trên Pháp,
+- Hãy đặt Pháp của bạn trên một cuộc đời khiêm tốn,
+- Hãy đặt cuộc đời khiêm tốn của bạn trên sự suy nghiệm về cái chết,
+- Hãy đặt cái chết của bạn trên một lỗ hang trống không, trơ trụi.
+
+Ngày nay, song song với những hoạt động thế gian, chúng ta nghĩ là mình có thể thực hành Giáo Pháp mà chẳng cần chút xíu quyết tâm hay kinh nghiệm gian khó nào, tiếp tục hưởng thụ tiện nghi, sự trọng vọng và hạnh phúc. “Những người khác có thể thực hiện được điều đó,” chúng ta kỳ kèo như vậy, và nói một cách thán phục rằng “Đó là một Lạt Ma xuất sắc, Ngài biết cách kết hợp Giáo Pháp và đời sống thế gian.”
+
+Nhưng làm sao có thể có một cách thức kết hợp chặt chẽ Giáo Pháp với đời sống thế gian? Những người tuyên bố là mình đang làm điều đó có thể đang trải qua một cuộc sống thế gian tốt đẹp, nhưng bạn có thể tin chắc rằng hiện tại họ đang không thực hành Giáo Pháp thuần tịnh. Tuyên bố rằng bạn có thể vừa thực hành Giáo Pháp và vừa sống cuộc sống thế gian cùng một lúc thì cũng giống như nói bạn có thể may vá bằng một cây kim có hai mũi, đặt lửa và nước vào chung
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+một bình chứa, hay cưỡi hai con ngựa ở hai hướng khác nhau. Tất cả những điều này hoàn toàn không thể thực hiện được.
+
+Đã có một người bình thường nào vượt trội hơn đức Phật Thích Ca Mâu Ni chưa? Ngay cả chính Ngài cũng không tìm ra cách thức để thực hành Giáo Pháp và sống cuộc sống thế tục song hành với nhau. Thay vào đó, Ngài bỏ lại vương quốc sau lưng giống như nhổ bãi nước bọt, và đến sống ở bờ Sông Ni Liên Thiền (Nairanjana), ở đó Ngài tu tập khổ hạnh trong sáu năm, chỉ tự nuôi sống bằng một giọt nước và một hột lúa mạch mỗi năm.
+
+Còn về Ngài Jetsun Milarepa? Trong lúc tu tập, Ngài không có thực phẩm lẫn y phục. Ngài chẳng có gì để ăn ngoài rau tầm ma, và toàn thân Ngài trở nên như bộ xương phủ một lớp lông xanh lợt. Ai nhìn thấy Ngài cũng đều không hiểu Ngài là người hay là quỷ. Việc Ngài thực hành tu tập Giáo Pháp tới mức độ đó, thật kiên cường, hoàn toàn vui lòng chấp nhận gian khổ, đã chứng minh một cách chắc chắn rằng không thể đồng thời theo đuổi Giáo Pháp lẫn đời sống thế gian cùng một lúc. Không lẽ nào Ngài Milarepa đã quá tuyệt vọng đến nỗi không biết cách kết hợp tu tập và thế tục hay sao?
+
+Đại thành tựu giả Melong Dorje đạt được thành tựu sau khi tu luyện trong chín năm, không có gì để ăn ngoài vỏ cây lakhe. Ngài Longchen Rabjam, Pháp Vương Toàn Trí của Giáo Pháp, chỉ sống bằng hai mươi mốt viên thủy ngân trong nhiều tháng.* Khi trời đổ tuyết, Ngài thường chui vào một bao vải thô nhám mà Ngài vừa dùng làm nệm vừa làm quần áo.
+
+Tất cả những bậc thành tựu giả trong quá khứ đạt được thành tựu chỉ bằng cách tu tập với quyết tâm, bằng lòng chấp nhận tất cả gian khổ, vứt bỏ mọi hoạt động thế gian. Không
+
+* Thuỷ ngân được dùng trong pháp tu bcud len (pháp trích chiết tinh chất). Độc chất của nó được làm trung hoà và người ta làm thành các viên thuốc. Các thiền giả sống bằng những viên thuốc này, không dùng tới thực phẩm thông thường.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+một ai trong các Ngài đạt được giác ngộ bằng cách thực hành Pháp song song với những hoạt động thông thường của đời sống hàng ngày, hưởng thụ tiện nghi, hạnh phúc và danh vọng. Ngài Rigdzin Jigmed Lingpa nói:
+
+> Khi bạn gầy dựng cho mình một chỗ ở tiện nghi, thực phẩm dồi dào, áo quần ấm cúng và có một đại thí chủ quảng đại, thì bạn đã hoàn toàn nuôi dưỡng quỷ ma thậm chí còn trước cả việc bắt đầu trau dồi Giáo Pháp.
+
+Ngài Geshe Shawopa nói:
+
+> Để tu tập Pháp với lòng chân thành thì tham vọng trong đời sống của bạn phải cùng kiệt. Vào lúc cuối của một cuộc đời nghèo túng, bạn phải biết cách đối phó với cái chết của mình. Nếu bạn có thái độ này, bạn có thể đoan chắc rằng không có vị trời, ma quỷ hay con người nào còn có thể gây ra những khó khăn cho bạn.
+
+Ngài Jetsun Milarepa đã từng hát:
+
+Không ai hỏi thăm nếu tôi bệnh;
+Không ai than khóc khi tôi chết:
+Chết cô độc ở đây trong chốn ẩn tu này
+Là tất cả những gì một yogi (hành giả du già) mong ước.
+
+Không một dấu chân ngoài cửa thất,
+Không dấu vết thịt thà bên trong:
+Chết cô độc ở đây trong chốn ẩn tu này
+Là tất cả những gì một yogi mong ước.
+
+Không ai tự hỏi tôi đã đi đâu,
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Chẳng có nơi chốn riêng biệt nào để đi.
+Chết cô độc ở đây trong chốn ẩn tu này
+Là tất cả những gì một yogi mong ước.
+
+Thân xác tôi có thể thối rữa và bị côn trùng ăn thịt,
+Xương cốt tôi bị ruồi nhặng rút rỉa;
+Chết cô độc ở đây trong chốn ẩn tu này
+Là tất cả những gì một yogi mong ước.
+
+Do đó, điều tối quan trọng là xem thường mọi ham muốn của đời sống thế tục và tu tập bất chấp nóng, lạnh hoặc bất kỳ những khó khăn nào khác.
+
+2.3.3 Nhẫn nại đối mặt chân lý sâu xa với tâm vô uý
+
+Bạn nên cố gắng thọ nhận các giáo lý về trạng thái như nhiên của tánh Không sâu xa, hay đặc biệt hơn, giáo lý trọng yếu của Đại Viên Mãn Như Nhiên siêu việt mọi hoạt động và mọi nỗ lực, hay giáo lý Mười Hai Tiếng Cười Kim Cương siêu việt về nhân quả của các thiện hạnh và ác hạnh, hoặc giáo lý Tám Bài Kệ Vĩ Đại Tuyệt Vời... Hãy cố gắng lãnh hội chân nghĩa của những giáo lý này mà không phát sinh tà kiến.
+
+Có tà kiến hay chỉ trích những giáo lý này là điều được gọi là “ác hạnh xoay lưng lại với Giáo Pháp.” Làm như vậy, ta có thể bị đọa xuống đáy sâu của địa ngục trong vô lượng kiếp. Như một bản văn sám hối có ghi:
+
+Con luôn sám hối vì đã phạm một hành vi thậm chí còn nguy hại
+Hơn cả năm hành vi bị quả báo tức thời: đó là việc từ bỏ Giáo Pháp.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Một ngày nọ, hai vị tăng Ấn Độ có mười hai phẩm tính của công phu tu tập chân chính tự đến trình diện trước Ngài Atisa. Khi Atisa giảng cho họ rằng bản ngã là không có sự hiện hữu nội tại [không có tự tánh], họ đều hài lòng.
+
+Nhưng khi Ngài giảng rằng các hiện tượng cũng không có hiện hữu nội tại¹⁵⁶ [không có tự tánh] thì họ kêu lên: “Thật kinh khủng! Đừng nói những điều như thế!” và khi Ngài đọc Tâm Kinh, họ bịt chặt tai lại.
+
+Ngài Atisa buồn bã nói với họ: “Trừ phi các ông tự tu tập bằng lòng từ và bi của Bồ đề Tâm và sau đó phát triển niềm xác tín về giáo lý sâu xa này, còn không thì chỉ với những giới nguyện thanh tịnh của các ông sẽ chẳng dẫn các ông tới đâu.”¹⁵⁷
+
+Vào thời của Đức Phật, có nhiều vị tăng vô cùng kiêu mạn, khi nghe Ngài giảng về tánh Không sâu xa đã ói máu ra mà chết, và bị đọa vào các địa ngục. Một số những chuyện khác đã kể lại những việc xảy ra tương tự.
+
+Điều quan trọng là phải có một mối quan tâm chân thành và tôn kính nơi Giáo lý sâu xa và nơi những bậc thầy giảng dạy những giáo lý này. Cho dù những giới hạn của tâm thức bạn khiến bạn dửng dưng, nhưng tối thiểu bạn cũng đừng bao giờ phê bình những giáo lý đó.
+
+2.4 TINH TẤN SIÊU VIỆT (Tinh tấn ba-la-mật)
+
+Có ba loại tinh tấn: tinh tấn như áo giáp, tinh tấn trong hành động và tinh tấn không thể ngưng nghỉ.¹⁵⁸
+
+2.4.1 Tinh tấn như áo giáp
+
+Khi bạn nghe những câu chuyện về cuộc đời của những bậc Thầy vĩ đại, về chư Phật và Bồ Tát, về những công hạnh các Ngài đã làm và những nỗi gian nan mà các Ngài đã trải qua vì Giáo Pháp, bạn đừng để bị thối chí. Đừng bao giờ nghĩ rằng
+
+379
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+các Ngài có thể thành tựu được tất cả những gì các Ngài làm chỉ vì các Ngài là những vị Phật và Bồ Tát, và bạn sẽ chẳng bao giờ làm được như vậy. Thay vào đó, hãy nhớ rằng, chỉ bằng cách hành động theo phương thức này mà tất cả các Ngài đã thành tựu như thế. Vì bạn là đệ tử của các Ngài, cho dù bạn không thể làm điều gì tốt hơn những gì các Ngài đã làm, bạn cũng không có lựa chọn nào khác ngoài việc đi theo dấu chân của các Ngài.
+
+Nếu vô cùng gian khó và kiên trì lại là điều cần thiết với các Ngài như vậy, thì làm sao những điều như thế lại có thể không khẩn thiết với chúng ta, trong khi chúng ta không có được công phu tu tập liên tục từ vô thuỷ như các Ngài và hiện nay lại còn đang bị đè nặng bởi những ác nghiệp từ quá khứ?
+
+Chúng ta có tất cả những điều kiện tự do và thuận lợi của kiếp hiện tại làm người. Chúng ta đã gặp được những vị Thầy tâm linh chân chính và đang thọ nhận những giáo huấn sâu xa. Giờ đây khi có được cơ hội này để thực hành chân pháp một cách đúng đắn, chúng ta phải hứa nguyện tự đáy lòng mình để thực hiện được như thế, và sẵn sàng chấp nhận những gian khổ, gánh vác những gánh nặng, và sẵn sàng hy sinh tính mạng mà không chút quan tâm đến máu thịt của chính mình. Điều đó được gọi là tinh tấn như áo giáp.*
+
+2.4.2 Tinh tấn trong hành động
+
+Mỗi lúc có ý định học tập và thực hành Giáo Pháp, có thể bạn sẽ cứ trì hoãn việc đó tới ngày mai hay ngày mốt, ngày này qua ngày khác suốt cả đời bạn. Bạn không thể lãng phí cả một đời người chỉ toàn với những dự tính thực hành. Ngài Druk Pema Karpo nói:
+
+Kiếp người giống như ở trong chuồng thú của kẻ đồ tể:
+
+* “Cốt tuỷ của tinh tấn là hoan hỷ khi làm các thiện hạnh.”NT
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Cái chết đến gần trong từng giây phút.
+Nếu bạn cứ chậm rãi trì hoãn hôm nay chờ qua ngày mai,
+Thì coi chừng niềm ân hận và nước mắt sẽ đến với bạn
+bên tử sàng!
+
+Không nên chờ đợi một lúc nào khác để thực hành. Hãy làm điều gì đó để tu tập ngay lập tức, giống như một người nhát gan nhìn thấy con rắn trong vạt áo mình, hay một vũ nữ có mái tóc bị bén lửa. Hãy hoàn toàn từ bỏ những hoạt động thế gian và tự hiến dâng cho việc thực hành Pháp ngay bây giờ. Nếu không, bạn sẽ không bao giờ tìm ra thời gian –hoạt động thế tục này sẽ tiếp theo sau bằng một hoạt động thế tục khác, sẽ bất tận, giống như những gợn sóng trên mặt nước. Chúng sẽ chỉ dừng lại khi bạn quyết định dứt khoát dập tắt chúng. Như Đấng Toàn Giác Longchenpa nói:
+
+Những mối bận tâm thế gian không bao giờ chấm dứt
+cho tới khi ta chết.
+Nhưng chúng chấm dứt khi ta buông bỏ chúng – bản chất
+của chúng là như vậy.
+
+Và:
+
+Những hoạt động của chúng ta giống như trò chơi con nít.
+Chúng tiếp diễn chừng nào ta còn tiếp tục, chúng chấm
+dứt ngay khi ta ngừng chơi.
+
+Một khi bạn cảm thấy muốn thực hành Giáo Pháp, đừng để sự lười biếng và trì hoãn làm chủ bạn dù chỉ trong khoảnh khắc. Hãy thực hành tu tập ngay lập tức, luôn thôi thúc với những quán chiếu suy niệm về lẽ vô thường. Điều đó gọi là tinh tấn trong hành động.
+
+2.4.3 Tinh tấn không ngưng nghỉ
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Không nên cảm thấy thỏa mãn khi chỉ mới thực hiện một khóa nhập thất nhỏ bé, hay thực hành được một vài pháp tu hay đạt được một vài thành tựu, tụng đọc được một ít bài cầu nguyện hay làm được một, hai việc tốt. Ngày nào mà bạn còn sống, hãy hứa nguyện thực hành pháp, và quyết định duy trì những nỗ lực của bạn với tất cả sức mạnh bền bỉ của một dòng sông lớn cho tới khi bạn đạt được Phật Quả viên mãn.
+
+Những bậc siêu phàm trong quá khứ đã nói rằng ta phải thực hành giống như trâu yak đói đang ăn cỏ. Khi một con trâu yak giựt mạnh một bụi cỏ thì mắt nó đã bị gắn dính vào bụi kế tiếp. Cũng thế, trước khi bạn chấm dứt tu tập một Pháp nào, hãy tự nhủ rằng ngay sau khi bạn kết thúc tu tập pháp môn ấy, bạn sẽ bắt đầu một pháp môn mới.
+
+Mỗi ngày hãy cố gắng miên mật tu tập càng lúc càng mãnh liệt; trong mọi lúc, không bao giờ để thân, khẩu và ý bạn rơi vào sự lười nhác hay xa lìa Pháp dù chỉ trong chốc lát. Ngài Rigdzin Jigme Lingpa nói:
+
+*Khi càng tới gần cái chết mà càng thực hành Pháp một cách kiên định thì đó là dấu hiệu của một hành giả không bị nhiễm sương giá.*
+
+Ngày nay, có những người nổi tiếng là đại thiền giả hay Lạt Ma xuất sắc, thường được nghe người ta nói: “Giờ đây Ngài không còn cần lễ lạy, tụng đọc những bài cầu nguyện, tích tập công đức và trí tuệ, hay cần tịnh hoá những chướng ngại và những thứ tương tự.”
+
+Chẳng bao lâu, bản thân họ bắt đầu tin vào điều đó, và tự coi mình là người rất quan trọng, không còn cần tới việc tu tập này nữa. Nhưng, như Ngài Dagpo Rinpoche vô song nói:
+
+* Sương giá, là thứ phá hoại vụ thu hoạch cây trái của ta, tượng trưng cho những chướng ngại ngăn cản chúng ta không đạt được mục đích.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Nghĩ rằng mình không cần những điều như vậy chứng tỏ rằng họ lại cần chúng hơn bao giờ hết.
+
+Mỗi ngày, Đại Sư Ấn Độ Dipamkara** đều bắt tay vào việc nhào nặn các tsa-tsa. Chẳng mấy chốc tay Ngài dính đầy đất sét.
+
+Những đệ tử của Ngài nói: “Người ta đang bàn tán vì một bậc thầy vĩ đại như Ngài mà tay lại dính bùn. Hơn nữa, bản thân Ngài đang mệt mỏi. Sao không để cho chúng con làm việc đó cho Ngài?”
+
+Ngài Dipamkara nói: “Các ông nói gì? Các ông cũng sắp bắt đầu ăn dùm tôi phải không?”
+
+Cho tới khi bạn đạt được Phật Quả viên mãn, bạn vẫn còn có những khuynh hướng và hành vi huân tập trong quá khứ cần loại bỏ, và vẫn còn cần đạt được càng lúc càng nhiều hơn những phẩm tính tâm linh. Vì thế không nên rơi vào biếng nhác và tu tập một cách lơ là. Hãy tinh tấn thực hành Giáo Pháp từ đáy lòng bạn, đừng bao giờ có cảm tưởng là mình đã thực hành đầy đủ rồi.
+
+Nói chung, việc bạn có đạt được Phật quả hay không chỉ tùy thuộc vào hạnh tinh tấn của bạn. Vì thế, hãy sử dụng mọi nỗ lực để hành trì ba loại tinh tấn. Một người với trí thông minh ngoại hạng nhưng chỉ có một chút tinh tấn sẽ chỉ là một hành giả hạng thấp. Nhưng một người ít thông minh mà lại tinh tấn phi thường thì sẽ trở thành một hành giả thượng thừa. Không có chút tinh tấn nào thì mọi phẩm hạnh sẽ trở thành vô dụng. Đấng Toàn Giác Jigme Lingpa nói:
+
+Không có sự thông minh hay năng lực,
+Chẳng có của cải hay sức mạnh nào có thể giúp được
+
+** Một danh hiệu khác của Ngài Atisa.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+một người không chút tinh tấn –
+Anh ta giống như một người chèo thuyền mà thuyền của anh
+Có đủ mọi thứ trừ mái chèo.
+
+Hãy luôn luôn điều độ trong việc ăn uống. Hãy ngủ nghỉ quân bình. Hãy miên mật, bền bỉ và liên tục. Hãy dụng tâm bạn như một dây cung tốt, không chùng quá mà cũng không căng quá. Nó sẽ giúp bạn thực hành tu tập thường xuyên.
+
+2.5 THIỀN ĐỊNH SIÊU VIỆT (Định ba-la-mật)
+
+Không thể phát triển thiền định nếu trước tiên không từ bỏ những kích động, từ bỏ những mối bận tâm làm ta sao lãng, và không sống ở nơi cô tịch. Vì thế vào lúc ban đầu, điều quan trọng là phải từ bỏ những xao lãng.
+
+2.5.1 Từ bỏ những phóng dật
+
+Bất cứ những gì tụ rồi cũng sẽ tán. Cha mẹ, anh em, vợ chồng, bạn bè và những mối liên hệ khác, thậm chí cả thịt, xương của thân thể mà ta đã nhận lúc sinh ra – tất cả sẽ đều đi tới chỗ ly tán. Hãy thấu suốt sự vô ích của việc bám luyến vào những người thân yêu và bằng hữu phù du, và hãy luôn luôn an trú trong cô tịch. Ngài Repa Shiwa O nói:
+
+Phật Quả chỉ hiện diện trong chúng ta chứ không ở đâu khác.
+Mặc dù bằng hữu tâm linh hỗ trợ cho việc tu tập của chúng ta,
+Nhưng nếu có hơn ba hay bốn người họp lại thì họ sẽ đem tới tham luyến và sân hận.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Vì vậy tôi sẽ chỉ ở một mình.
+
+Mong muốn cái này cái nọ là điều gây ra mọi phiền não cho chúng ta. Chúng ta không bao giờ hài lòng với những gì mình có, và càng giàu có thì chúng ta lại càng tham lam hơn. Như tục ngữ có nói: “Đang giàu có nghĩa là đang nghèo túng.” Hoặc: “Giống như những người giàu, càng có nhiều thì càng cần nhiều,” và “Đánh mất kẻ thù, là đánh mất chính tài sản của bạn.” Bạn càng sở hữu nhiều nguồn lợi, tiền bạc và tài sản, thì bạn càng phải đối mặt với những nguy hiểm do kẻ thù, kẻ trộm và v.v.. gây ra. Bạn có thể tiêu phí cả cuộc đời bạn để thâu hoạch, bảo vệ và gia tăng tài sản của mình. Điều này chỉ dẫn tới đau khổ và những ác hạnh. Ngài Long Thọ (Nagarjuna) siêu phàm đã nói:
+
+> Tích lũy, bảo vệ và phát triển của cải sẽ khiến bạn kiệt sức;
+> Hãy hiểu rằng giàu có
+> chỉ đem lại hư hoại và sự hủy diệt không cùng.
+
+Cho dù một người sở hữu tất cả những của cải và tài sản trong thế gian, thì điều đó cũng chẳng làm thay đổi được sự thực là họ chỉ cần thực phẩm và y phục đủ dùng cho một người. Không chú ý tới những hành vi sai trái hay đau khổ, không biết tới mọi lời phẩm bình, họ bỏ thí cuộc đời hiện tại và ném bỏ những đời tương lai cho gió cuốn đi; đối với của cải vật chất tầm thường nhất, họ coi thường bất kỳ cảm giác xấu hổ, coi thường sự thẳng thắn trung thực, bỏ qua tất cả mọi tư tưởng khôn ngoan, thận trọng, bỏ qua mọi tôn kính Giáo Pháp hay mật nguyện của họ. Sử dụng tất cả thời gian có được, họ chạy theo thực phẩm, lợi nhuận và địa vị xã hội, giống như những tinh linh lang thang săn tìm các bánh cúng (torma); họ lãng phí toàn bộ cuộc đời họ mà chưa từng kinh nghiệm ngay
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+cả một ngày giải thoát, an lành hay hạnh phúc. Cuối cùng, khi đã chất đống tất cả tài sản đó, họ có thể phải trả một giá rất đắt cho nó bằng cả cuộc đời họ và bị đâm hay bị bắn chết chỉ vì tiền bạc của họ. Rồi thì những gì họ đã một đời tích lũy lại bị kẻ thù và người khác tiêu xài. Tất cả là một sự lãng phí. Nhưng hàng đống những ác hạnh cao như Núi Tu Di mà họ tích lũy để làm giàu thì vẫn còn dành riêng cho họ, và sẽ khiến cho họ phải lang thang trong đáy sâu của những cõi thấp, không bao giờ được tự do. Vì thế trong khi bạn vẫn còn cơ hội, hãy sử dụng một ít sở hữu mà bạn có thể có trong đời này để cung cấp cho những đời tương lai. Hãy bằng lòng với một lượng thực phẩm đạm bạc và quần áo đủ để tránh gió.
+
+Những người mà tham vọng của họ bị giới hạn vào cuộc đời hiện tại, trong kinh văn gọi là “những người bạn ấu trĩ”. Họ không hề biết ơn đối với bất kỳ sự giúp đỡ nào mà bạn có thể dàn trải ra cho họ, và ngược lại còn có thể làm hại bạn. Bất kỳ những gì bạn làm cho họ đều không bao giờ đúng. Họ rất khó hài lòng. Nếu bạn có nhiều hơn họ, họ ganh tị; nếu bạn có ít hơn, họ khinh khi. Càng gần họ lâu thì những ác hạnh của bạn càng gia tăng và thiện hạnh suy yếu dần. Hãy từ bỏ những người bạn như vậy và hãy tránh họ thật xa.
+
+Những nghề nghiệp như thương mại, nông nghiệp, kỹ nghệ và nghiên cứu thu hút bạn vào nhiều hoạt động, và cung cấp những nguồn xao lãng vô tận. Những theo đuổi tầm thường này làm bạn bận rộn thường xuyên vì những mục tiêu vụn vặt. Dù bạn có nỗ lực tới đâu chăng nữa, chẳng cái nào trong số đó có chút ý nghĩa nào. Trong tiến trình chiến thắng đối thủ và biệt đãi bạn bè, sẽ không bao giờ có được chấm dứt.
+
+Hãy từ bỏ tất cả những hoạt động và những xao lãng vô cùng tận này, giống như nhổ nước bọt vào bãi rác. Hãy rời bỏ quê nhà của bạn và hướng về những vùng đất xa lạ. Hãy sống ở chân những vách đá với bạn đồng hành duy nhất là
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+những thú hoang. Hãy an định thân và tâm bạn trong một trạng thái thư thản.159 Hãy chấm dứt tất cả mọi quan tâm tới thực phẩm, quần áo hay bất kỳ những gì người ta nói đến. Hãy trải cuộc đời của bạn ở chốn hoang vắng nơi không có một bóng người. Ngài Jetsun Milarepa nói:
+
+Trong động đá ở nơi hoang dã
+Nỗi buồn của con không sao khuây khoả.
+Hỡi bậc Thầy của con, vị Phật trong ba thời,
+Con mong tưởng Ngài không phút nào ngơi nghỉ.
+
+Nếu bạn làm như Ngài đã làm, bạn sẽ nhận ra rằng, như tục ngữ nói: “Ở những nơi bạn cảm thấy cô độc, thiền định sẽ phát sinh.” Ở những nơi đó, ảo tưởng về luân hồi sẽ tan vỡ, quyết tâm tự giải thoát khỏi luân hồi, lòng tín tâm, tri giác thuần tịnh, thiền định và thể nhập, tất cả những phẩm tánh tốt đẹp của con đường đạo sẽ xuất hiện một cách tự nhiên. Hãy làm bất cứ những gì bạn có thể làm để sống một cuộc đời như vậy.
+
+Trong những khu rừng hẻo lánh, là những nơi mà chư Phật và Bồ Tát trong quá khứ đã tìm thấy sự an bình, không điều gì làm bạn bận rộn, không có những xao lãng, không có việc mua bán, không có những cánh đồng để làm việc, không có đám bạn bè ấu trĩ. Chim muông và hươu nai hoang dã dễ dàng kết bạn, nước suối và lá cây cung cấp thực phẩm khổ hạnh ngon lành. Giác tánh sẽ trở nên sáng tỏ một cách tự nhiên và thiền định tự động phát triển. Không kẻ thù, không bạn hữu, bạn có thể giải thoát khỏi những sợi dây xích của tham luyến và sân hận. Những nơi như vậy có đủ mọi thuận lợi. Trong *Nguyệt Đăng Tam Muội Kinh* và những Kinh khác, Đức Phật nói rằng chỉ đơn thuần có ước muốn tới những chốn hoang vắng và đi bảy bước hướng về những nơi đó thì đáng giá hơn cả việc cúng dường tất cả mười phương chư Phật
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+trong nhiều kiếp nhiều như cát sông Hằng. Và còn giá trị hơn nữa nếu bạn thực sự sống ở những nơi như vậy. Cũng có câu nói rằng:
+
+> Ở nơi hoàn toàn hẻo lánh, ẩn sâu trong những rặng núi,
+> Mọi việc người ta làm đều tốt lành.
+
+Thậm chí không cần chút nỗ lực tinh tấn nào để thực hành, ở những nơi như vậy, ảo tưởng về sinh tử luân hồi sẽ tan vỡ, quyết tâm giải thoát khỏi luân hồi, lòng từ, bi và tất cả những phẩm tánh tuyệt hảo khác của đường tu sẽ phát sinh một cách tự nhiên. Kết quả là toàn bộ cách sống của bạn trở nên lành mạnh. Lòng tham luyến, sân hận và tất cả những cảm xúc tiêu cực ở những nơi chốn sinh hoạt rộn ràng mà bạn đã cố gắng kiểm soát nhưng không có kết quả thì nay tự chúng sẽ suy giảm đi, chỉ vì giờ đây bạn đang sống trong cô tịch. Bạn sẽ dễ dàng phát triển tất cả những đức tánh của đường tu.
+
+Những vấn đề này là những chuẩn bị sơ khởi cho thiền định, và là sự quan trọng sống còn, không thể bỏ qua.
+
+## 2.5.2 Thiền định thực sự
+
+Thiền định có ba loại: thiền định do những người bình thường thực hành, thiền định có nhận thức phân biệt rõ ràng (clearly discerning concentration), và thiền định siêu việt của các Đấng Như Lai.
+
+Thiền định do những người bình thường thực hành. Khi bạn chấp vào những kinh nghiệm hỷ lạc, trong sáng và vô niệm trong thiền định và cố tình tìm kiếm chúng, hoặc công phu thực hành của bạn bị bóp méo bởi lòng ham thích bất kỳ một kinh nghiệm nào, thì điều đó được gọi là thiền định được thực hành bởi những người bình thường.^160
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Thiền định có nhận thức phân biệt rõ ràng. Khi bạn thoát khỏi bất kỳ dính mắc nào về kinh nghiệm thiền định và không còn bị quyến rũ bởi thiền định nữa, nhưng vẫn bám lấy tánh Không như cách đối trị, điều đó được gọi là thiền định có nhận thức phân biệt rõ ràng.
+
+Thiền định siêu việt của các Đấng Như Lai. Khi bạn không còn bất cứ khái niệm nào về tánh Không như một cách đối trị nữa, mà an trụ trong một trạng thái thiền định phi khái niệm về chân tánh như thị, điều đó được gọi là thiền định siêu việt của các Đấng Như Lai.
+
+Bất cứ khi nào bạn thực hành thiền định, điều quan trọng là ngồi trong "tư thế bảy điểm của Tỳ Lô Giá Na (Vairocana)"161 với đôi mắt ngó ra xa trong một cách thức thích hợp. Có câu nói rằng:
+
+Khi thân thẳng, các kinh mạch đều thẳng;
+Khi kinh mạch thẳng, các năng lực đều thẳng;
+Khi các năng lực thẳng thì tâm thức thẳng.162
+
+Không nên nằm hay dựa vào bất cứ cái gì, mà hãy ngồi thẳng, tâm trí thoát khỏi bất kỳ niệm tưởng nào, và nghỉ ngơi thư thản trong trạng thái không bám chấp vào bất kỳ điều gì. Đó là cốt tủy của thiền định siêu việt.
+
+2.6 TRÍ TUỆ SIÊU VIỆT (Tuệ ba-la-mật)
+
+Trí tuệ siêu việt có ba phương diện: trí tuệ hình thành nhờ lắng nghe, trí tuệ hình thành nhờ quán chiếu, và trí tuệ hình thành nhờ thiền định.
+
+2.6.1 Trí tuệ nhờ lắng nghe
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Điều này có nghĩa là lắng nghe tất cả những ngôn từ và ý nghĩa của Pháp do một vị Thầy tâm linh nói ra, và hiểu được ý nghĩa của những ngôn từ đó khi chúng được nói ra.
+
+2.6.2 Trí tuệ nhờ quán chiếu
+
+Điều này có nghĩa là không chỉ lắng nghe những gì vị Thầy giảng dạy và hiểu được những lời dạy mà rồi sau đó phải xem xét lại trong tâm bạn và củng cố ý nghĩa của những lời dạy này qua công phu quán chiếu, khảo sát và phân tích, cũng như đặt câu hỏi về những điều bạn không thấu suốt. Nếu bạn tin rằng bạn hiểu biết hay thấu suốt một vài vấn đề đặc biệt nào đó thì điều này hoàn toàn không đủ. Bạn phải tuyệt đối đoan chắc rằng khi tới lúc để bạn tu tập ở nơi cô tịch, bạn sẽ có thể tự lo liệu cho mình mà không cần tham khảo bất kỳ người nào để hiểu rõ về một số vấn đề trong tu tập.
+
+2.6.3 Trí tuệ nhờ thiền định
+
+Nhờ thiền định, khi bạn trực nhận được kinh nghiệm của những gì trước đây bạn hiểu được bằng trí thông minh thì trạng thái chứng ngộ tâm thức bản nhiên sẽ phát triển một cách tự nhiên không chút sai lạc. Lòng xác quyết sẽ nảy sinh ra từ sâu thẳm bên trong bạn. Giải thoát khỏi những nghi ngờ và lưỡng lự đầy giới hạn, bạn thấy được chân tánh của trạng thái bản nhiên.
+
+Trước tiên, khi đã diệt trừ mọi nghi ngờ qua lắng nghe và quán chiếu, bạn sẽ có những kinh nghiệm trực nhận qua thiền định, và thấy tất cả vạn pháp và tất cả mọi hình tướng chỉ là rỗng không huyễn ảo, chẳng có bất kỳ thực chất nào. Chẳng hạn như trong tám tỉ dụ về ảo giác:
+
+Như trong một giấc mơ, tất cả những đối tượng bên ngoài đến từ cảm nhận của năm giác quan đều không hiện hữu; chúng xuất hiện từ sự mê lầm.
+
+II. KHƠI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Như trong một màn biểu diễn ảo thuật, mọi thứ được « làm cho xảy ra » (giả hợp) nhưng tựu chung những màn ảo thuật này chỉ xuất hiện do sự kết hợp tạm thời của hoàn cảnh và các nhân duyên tương khởi.
+
+Như trong một cái nhìn sai lạc, sự vật xuất hiện ở đó, nhưng lại không có gì.
+
+Như trong một ảo ảnh, sự vật xuất hiện nhưng không có thực.
+
+Như trong một tiếng vang, sự vật có thể được nhận biết nhưng không có gì ở đó, dù bên ngoài hay trong.
+
+Như trong một thành phố của các gandharvas (thần hương ấm sống nhờ mùi hương), chẳng có nhà cũng không có người ở.
+
+Như trong một phản chiếu, một vật xuất hiện, nhưng tự nó không thực có.
+
+Như trong một thành phố được tạo bởi ma thuật, có đủ mọi thứ hình tướng nhưng chúng thực sự không có ở đó.
+
+Nếu bạn nhìn tất cả mọi đối tượng nhận thức của bạn theo cách này, bạn sẽ hiểu được rằng tất cả những gì xuất hiện đều là hư ảo vì bản tánh đích thực của chúng (là tánh Không). Khi bạn nhìn vào chân tánh của cái « chủ thể » đã nhận ra được những đối tượng này – tức là nhìn vào chính *tâm* của bạn – thì những đối tượng xuất hiện trong tâm của bạn sẽ không ngừng xuất hiện, nhưng những « khái niệm » cho rằng những đối tượng này thực sự hiện hữu, những khái niệm đó sẽ lắng xuống. Hãy để tâm an trụ trong cái nhận biết về chân tánh, rỗng rang nhưng sáng tỏ như bầu trời, đó chính là trí tuệ siêu việt.
+
+Để giải thích thật chi tiết sáu pháp toàn thiện siêu việt (sáu ba la mật), mỗi một pháp toàn thiện được chia làm ba, tổng cộng là mười tám phần. Tự phạm trù bố thí vật chất có ba phần, cả thảy là hai mươi phần. Nếu chúng ta thêm vào phương tiện siêu việt, thành hai mươi mốt phần; năng lực siêu việt, thành hai mươi hai; ước nguyện siêu việt, thành hai mươi ba và trí tuệ nguyên sơ siêu việt, thành hai mươi bốn.163
+
+Đi sâu vào từng chi tiết, mỗi một pháp toàn thiện siêu việt (ba la mật) được chia làm sáu, làm thành ba mươi sáu phần. Chúng ta có thể thấy được điều này xảy ra như thế nào bằng cách khảo sát về phần bố thí Pháp (Pháp thí) thuộc bố thí ba la mật.
+
+Khi vị Thầy giảng dạy, Giáo Pháp được giảng dạy và những đệ tử được truyền dạy giáo lý này tập hợp lại cùng một lúc, thì việc giảng dạy giáo lý là **bố thí siêu việt**. Việc vị Thầy giảng dạy không tìm kiếm lợi lộc hoặc thanh danh trong việc giảng Pháp, và không làm ô nhiễm điều Ngài đang dạy bằng cách tự thổi phồng mình lên (do bực bội với địa vị của những người khác), hay bằng bất kỳ cảm xúc tiêu cực nào khác, thì đây chính là **trì giới siêu việt**. Việc vị Thầy lập đi lập lại ý nghĩa của một lời giảng và không quan tâm tới những khó khăn và mệt nhọc chính là **nhẫn nhục siêu việt**. Việc vị Thầy giảng dạy đúng giờ đã định, không lười biếng giải đãi hay trì hoãn chính là **tinh tấn siêu việt**. Việc vị Thầy thuyết giảng chủ đề đang giảng mà không cho phép tâm xao lãng xa rời ngôn từ và ý nghĩa của chủ đề, không tạo ra bất kỳ sai sót nào và không thêm thắt hay bỏ sót bất kỳ điều gì, đó là **thiền định siêu việt**. Trong khi giảng dạy, vị Thầy an trụ, thấm đẫm trí tuệ, thoát khỏi tất cả mọi khái niệm về chủ thể, đối tượng, và hành động, đây chính là **trí tuệ siêu việt**. Vì thế tất cả các ba la mật hay các pháp toàn thiện siêu việt đều hiện diện đầy đủ.
+
+Bây giờ hãy nhìn vào việc bố thí vật chất – ví dụ bố thí thực phẩm hay thức uống cho một hành khất. Khi vật cho, người cho và người nhận tất cả cùng hội hợp lại và hành động bố thí xảy ra, đó chính là **bố thí**. Việc đem cho thức ăn hay đồ uống của chính bạn, chứ không cho thực phẩm dở hay hư thối chính là **trì giới**. Việc không bao giờ nổi giận ngay cả khi bị hỏi
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+xin liên tục, đó là nhẫn nhục. Việc sẵn sàng bố thí, không bao giờ nghĩ tưởng tới sự mệt nhọc hay khó khăn ra sao, là tinh tấn. Việc không để bản thân bạn bị xao lãng bởi những niệm tưởng khác, đó là thiền định. Việc biết được ba yếu tố chủ thể, đối tượng và hành động không có thực tánh là trí tuệ. Một lần nữa ở đây cũng bao gồm sáu hoàn thiện siêu việt. Những phân chia tương tự cũng được định rõ cho giới luật, nhẫn nhục, và v.v..
+
+Khi tóm tắt tinh tuý của những pháp toàn thiện siêu việt, Ngài Jetsun Milarepa nói:
+
+*Hoàn toàn từ bỏ niềm tin chấp «có»*
+*Không có bố thí nào hơn được điều này.*
+*Hoàn toàn từ bỏ mọi thủ đoạn và xảo trá,*
+*Không giới luật nào hơn được điều này.*
+*Hoàn toàn vượt lên mọi sợ hãi về chân nghĩa,*
+*Không có nhẫn nhục nào hơn được điều này.*
+*Hoàn toàn an trú không tách biệt với thực hành,*
+*Không có tinh tấn nào hơn được điều này.*
+*Hoàn toàn an trụ trong dòng chảy tự nhiên,*
+*Không thiền định nào hơn được điều này.*
+*Hoàn toàn chứng ngộ trạng thái bản nhiên,*
+*Không trí tuệ nào hơn được điều này.*
+*Hoàn toàn thực hành Giáo Pháp trong mọi việc làm,*
+*Không phương tiện nào hơn được điều này.*
+*Hoàn toàn chiến thắng bốn quỷ ma,*
+*Không có sức mạnh nào hơn được điều này.*
+*Hoàn toàn thành tựu mục đích (vun bồi hai bồ phước huệ),*
+*Không có nguyện ước nào cao xa hơn điều này.*
+*Nhận biết nguồn gốc thật sự của những cảm xúc ô nhiễm,*
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Không có trí tuệ nguyên sơ nào hơn được điều này.
+
+Có lần khi Khu, Ngok, và Drom* hỏi Ngài Atisa điều nào là tốt nhất trong tất cả các yếu tố của đường tu, Ngài trả lời:
+
+Học giả lỗi lạc nhất là người trực hiểu rằng chẳng có gì thực sự hiện hữu.
+Tu sĩ xuất sắc nhất là người đã điều phục được tâm mình.
+Phẩm tánh tốt nhất là lòng khát khao vĩ đại làm lợi lạc cho người khác.
+Giáo huấn tuyệt diệu nhất là luôn quán sát tâm.
+Phương thuốc hay nhất là hiểu rằng không sự vật nào có tự tánh.
+Cách sống lý tưởng nhất là cách sống không hợp với phương cách thế gian.
+Thành tựu tốt đẹp nhất là những cảm xúc tiêu cực từ từ giảm thiểu.
+Dấu hiệu tốt lành nhất của công phu tu tập là những ham muốn từ từ giảm thiểu.
+Bố thí tốt nhất là không vướng mắc.
+Trì giới tốt nhất là làm an bình tâm thức.
+Nhẫn nhục tốt nhất là giữ một vị trí khiêm tốn.
+Tinh tấn tốt nhất là từ bỏ mọi hoạt động.
+Thiền định hoàn hảo nhất là tâm không biến đổi.164
+Trí tuệ tuyệt vời nhất là hoàn toàn không coi bất kỳ điều gì thực sự hiện hữu.
+
+Và Ngài Rigdzin Jigme Lingpa nói:
+
+Bố thí siêu việt được tìm thấy ở sự hài lòng,
+
+* Ba đệ tử chính của Ngài Atisa (xem Thuật ngữ).
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Tinh túy của bố thí là hoàn toàn buông bỏ.
+Giới luật là không làm phật lòng Tam Bảo.$^{165}$
+Nhẫn nhục tốt nhất là chánh niệm và tỉnh giác không bao giờ với cạn.
+Tinh tấn rất cần thiết để duy trì tất cả các pháp toàn thiện siêu việt khác.
+Thiền định là để kinh nghiệm rằng tất cả mọi hình tướng mà ta bám chấp vào đều chính là các vị Bổn Tôn.$^{166}$
+Trí tuệ là tự giải thoát khỏi đắm nhiễm và bám chấp.
+Trong đó không có việc suy nghĩ và người nghĩ tưởng.
+Đây không phải là tầm thường. Đây là thoát khỏi những xác tín chết cứng.$^{167}$
+Đây là siêu vượt đau khổ. Đây là an bình tối thượng.
+Không nên tiết lộ điều này cho mọi người –
+Hãy thành kín giữ gìn trong tâm của chính bạn.
+
+Để đúc kết toàn bộ con đường bao la của giáo lý Bồ Tát, bao gồm sáu pháp toàn thiện siêu việt (lục độ ba la mật), thì toàn bộ con đường này có thể được trình bày một cách cô đọng là “tánh Không mà cốt tủy đích thực chính là lòng từ bi.” Ngài Saraha có nói trong các Doha (đạo ca) của Ngài:
+
+Không có lòng từ bi, thì cái thấy của tánh Không
+Sẽ không bao giờ dẫn bạn tới được con đường siêu phàm.
+Nhưng chỉ thiền định duy nhất về lòng từ bi, bạn sẽ vẫn kẹt trong luân hồi sinh tử.
+Vậy thì làm sao có thể giải thoát được?
+Người có đủ cả hai điều này (lòng từ bi và tánh Không)
+Sẽ không ở trong sinh tử mà cũng chẳng trụ ở Niết bàn.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Không trụ trong luân hồi lẫn Niết bàn là “Niết Bàn vô-trụ” của Phật Quả viên mãn. Như Đức Long Thọ đã nói:
+
+> Tinh tuý đích thật của tánh Không là lòng từ bi
+> Chỉ dành cho những người cầu tìm giác ngộ.
+
+Có lần, Drom Tonpa hỏi Ngài Atisa trong tất cả các giáo lý, cái nào là tuyệt hảo nhất.
+
+“Trong tất cả các giáo lý, giáo lý tuyệt hảo nhất là tánh Không mà lòng từ bi lại chính là cốt tủy của tánh Không ấy,” vị Thầy trả lời. “Nó giống như một loại thuốc cực mạnh, một loại thuốc trị bá bệnh, một loại thuốc có thể chữa lành mọi bệnh tật trên thế gian. Và cũng giống như loại thuốc chữa bá bệnh đó, việc nhận ra chân lý của tánh Không, bản tánh của thực tại, là phương thuốc cho tất cả những cảm xúc ô nhiễm tiêu cực khác nhau.”
+
+Drom Tonpa tiếp tục: “Như vậy thì tại sao rất nhiều người tuyên bố rằng mình đã chứng ngộ tánh Không nhưng họ vẫn không bớt được tham luyến và sân hận?”
+
+“Đó là bởi sự chứng ngộ của họ chỉ là ngôn từ,” Ngài Atisa trả lời. “Nếu họ thực sự nắm được chân nghĩa của tánh Không, thì tư tưởng, ngôn ngữ và hành vi của họ phải mềm mại như bước đi trên thảm len hay như súp *tsampa* được trộn bơ. Đạo sư Aryadeva nói rằng ngay cả việc tự hỏi mọi sự có rỗng rang hay không cũng sẽ làm luân hồi tan rã.<sup>168</sup> Do đó, thực sự chứng ngộ tánh Không là phương thuốc tối hảo trị bá bệnh bao gồm mọi yếu tố của con đường tu.”
+
+“Làm sao tất cả mọi yếu tố của con đường tu lại có thể được bao gồm trong sự chứng ngộ tánh Không?” Drom Tonpa hỏi.
+
+“Tất cả mọi yếu tố của con đường tu đều được chứa đựng trong sáu pháp toàn thiện siêu việt (lục độ ba la mật). Vì vậy nếu ông thực sự chứng ngộ tánh Không, ông sẽ tự giải
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỂ CỦA ĐẠI THỪA
+
+thoát khỏi những tham luyến. Khi ông không cảm thấy khao khát, bám chấp hay ham muốn bất kỳ điều gì, dù bên trong hay bên ngoài, ông sẽ luôn có bố thí siêu việt. Giải thoát khỏi bám chấp và tham luyến, ông không còn bị ô nhiễm bởi những việc làm bất thiện nên ông luôn có trì giới siêu việt. Không có bất cứ khái niệm về “tôi” và “của tôi,” ông không còn sân hận, vì thế ông luôn có nhẫn nhục siêu việt. Nhờ chứng ngộ tánh Không, tâm ông thực sự hoan hỷ nên ông luôn có tinh tấn siêu việt. Thoát khỏi những phóng dật xao lãng xuất phát từ việc bám chấp cho rằng mọi vật là thường hằng bền vững, nên ông luôn có thiền định siêu việt. Khi ông không khái niệm hóa bất kỳ việc gì trong các phạm vi chủ thể, đối tượng và hành động, ông luôn có trí tuệ bát nhã siêu việt.”
+
+“Có phải những người đã chứng ngộ chân lý đều thành Phật chỉ nhờ thấy được tánh Không và nhờ thiền định hay không?” Drom Tonpa hỏi.
+
+“Trong tất cả những gì chúng ta thấy biết chẳng hạn như hình tướng và âm thanh, thì không gì không xuất hiện từ tâm. Nhận ra rằng tâm là sự tỉnh giác bất khả phân với tánh Không, đây chính là cái Thấy (kiến). Luôn luôn trì giữ nhận thức này trong tâm và không bao giờ xao lãng cái thấy ấy chính là thiền. Thực hành hai tích tập (vun bồi phước huệ) không khác chi thực hành một việc huyễn hóa trong trạng thái của cái thấy, đó là hành. Nếu ông có một kinh nghiệm sống động về việc thực hành này, kinh nghiệm đó sẽ tương tục trong các giấc mộng của ông. Nếu kinh nghiệm đó đi vào trạng thái mộng, kinh nghiệm đó sẽ đến vào lúc chết. Nếu kinh nghiệm đó hiện diện trong trạng thái trung ấm, ông có thể chắc chắn rằng ông sẽ đạt được thành tựu tột bực nhất.”
+
+Như thế tám mươi bốn ngàn cánh cửa dẫn tới Giáo Pháp mà Đấng Chiến Thắng đã giảng dạy là tất cả những phương tiện thiện xảo để phát khởi Bồ Đề Tâm – là tánh Không mà cốt tủy đích thật của tánh Không chính là lòng bi mẫn.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Không có Bồ Đề Tâm, giáo lý về cái thấy và thiền định dù có vẻ uyên thâm tới đâu chăng nữa cũng sẽ không lợi ích chút nào để đạt được Phật Quả viên mãn. Những pháp tu của Kim Cương Thừa như giai đoạn phát triển, giai đoạn thành tựu v.v., được thực hành trong phạm vi của Bồ Đề Tâm, sẽ dẫn đến Phật Quả viên mãn chỉ trong một đời. Nhưng nếu không có Bồ Đề Tâm thì chúng chẳng khác với những pháp môn của các tirthika. Những người tirthika cũng có nhiều thực hành liên quan tới thiền định về các Bổn Tôn, tụng niệm các thần chú và tu tập sử dụng các kinh mạch và năng lực; họ cũng hành xử phù hợp với luật nhân quả. Nhưng chỉ vì họ không quy y và khơi dậy Bồ Đề Tâm nên họ không thể giải thoát khỏi các cõi luân hồi. Đó là lý do tại sao Ngài Geshe Kharak Gomchung nói:
+
+> Chẳng ích lợi gì khi thọ mọi giới nguyện, từ giới nguyện quy y cho tới những mật nguyện của Kim Cương Thừa, trừ phi bạn chuyển tâm ra khỏi những sự việc của thế gian.
+> Chẳng ích lợi gì khi cứ liên tục thuyết giảng Giáo Pháp cho người khác, trừ phi bạn an định được tánh ngã mạn (tự phụ) của riêng mình.
+> Chẳng ích lợi gì để thăng tiến trong tu tập nếu cuối cùng bạn từ bỏ những giới luật quy y.
+> Chẳng ích lợi gì khi thực hành cả ngày lẫn đêm trừ phi bạn kết hợp công phu tu tập với tâm Bồ Đề.
+
+Trước tiên, nếu bạn không tạo được một nền tảng đúng đắn để có thể quy y và nuôi dưỡng Bồ Đề Tâm, thì cho dù bạn có tỏ ra học tập, quán chiếu và thiền định mãnh liệt tới đâu chăng nữa, điều đó cũng sẽ hoàn toàn không ích lợi gì hơn việc xây lâu đài chín tầng trên mặt hồ đóng băng vào mùa
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+đông và việc vẽ tranh bích họa trên tường thạch cao. Rốt cuộc sẽ chẳng có chút ý nghĩa nào.
+
+Đừng bao giờ xem thường các pháp thực hành quy y và Bồ Đề Tâm, cho rằng những điều này thấp bé hay chỉ để dành cho những người sơ cơ. Hãy hoàn thành pháp quy y và Bồ Đề Tâm thật đầy đủ, trong khuôn khổ của các pháp môn chuẩn bị, trong các pháp môn thực hành chính yếu cũng như trong phần kết thúc, vì quy y và Bồ Đề Tâm là hai pháp tu thích hợp với bất kỳ con đường nào [mà bạn lựa chọn để tu tập]. Điều hết sức quan trọng cho tất cả mọi người, dù xấu hay tốt, cao hay thấp, là tập trung các nỗ lực chân thành nhất vào những pháp tu này.
+
+Trong trường hợp đặc biệt của những Lạt Ma và tăng sĩ, là những người nhận của cúng dường từ các thí chủ, nhận tài vật nhân danh người chết, hay là những người cử hành các buổi lễ dẫn dắt người chết, điều tuyệt đối mà họ không thể thiếu là Bồ Đề Tâm chân thật. Không có Bồ Đề Tâm thì chẳng có nghi lễ và pháp tịnh hóa nào của họ đem lại được lợi ích nhỏ bé nhất cho người sống hay người chết. Đối với những người khác, họ có thể xuất hiện để cứu giúp, nhưng tận sâu thẳm bên trong thì sự giúp đỡ này luôn bị pha trộn với những động cơ ích kỷ. Đối với chính họ, họ sẽ bị ô nhiễm bởi việc thọ nhận những vật cúng dường đó, và sẽ gây ra vô số lỗi lầm có thể dẫn họ tới những cõi thấp trong đời kế tiếp.
+
+Ngay cả người nào đó có thể bay như chim, di chuyển dưới mặt đất như chuột, đi qua núi đá không bị ngăn trở, để lại những dấu tay và chân trên đá, người nào đó có khả năng thấu thị không giới hạn và có thể thực hiện đủ mọi loại huyền thuật – nếu một người như vậy mà không có Bồ Đề Tâm, thì họ chỉ có thể là một tirthika hay đã bị một vài quỷ ma đầy năng lực nào đó ám nhập. Thoạt tiên, họ có thể lôi cuốn một số người ngây thơ bị cảm kích và đem cúng dường. Nhưng về lâu dài thì họ chỉ đem lại sự hủy hoại cho chính họ và những
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+người khác. Trái lại, một người có Bồ Đề Tâm thật sự, thì cho dù không có bất kỳ phẩm tánh nào khác, họ cũng sẽ làm lợi ích cho bất kỳ ai đến tiếp xúc với họ.
+
+Bạn không biết được ở nơi đâu có thể có một vị Bồ Tát. Người ta nói nhiều Bồ Tát sử dụng những phương tiện thiện xảo, thậm chí được tìm thấy trong số những kẻ sát sinh thú vật và gái điếm. Thật khó có thể nói người nào đó có Bồ Đề Tâm hay không. Đức Phật có nói:
+
+> Ngoài bản thân ta và những người giống ta, không ai có thể phán xét người khác.
+
+Vì thế, hãy coi bất kỳ ai khơi dậy được Bồ Đề Tâm trong bạn là một vị Phật đích thực, hoặc một Bổn Tôn, một vị Thầy, một thiện tri thức hay bất kỳ vị nào khác.
+
+Bất cứ khi nào bạn cảm thấy mình đã đạt được một vài phẩm tánh nào đó chẳng hạn như những dấu hiệu tiến bộ trên con đường tu, bất kỳ chúng có thể là gì – chứng ngộ trạng thái bản nhiên, thần nhãn, thiền định, hoặc có được các linh kiến của Bổn Tôn v.v. – bạn có thể tin chắc rằng những dấu hiệu này thực sự là những phẩm tánh đích thực nếu lòng từ và bi của Bồ Đề Tâm liên tục tăng trưởng thật vững chắc như là kết quả của kinh nghiệm tu tập kia. Tuy nhiên, tương tự như vậy, nếu kết quả của những kinh nghiệm như trên chỉ làm suy giảm lòng từ và bi của Bồ Đề Tâm, thì bạn có thể tin chắc rằng những gì có vẻ giống như là một dấu hiệu của sự thành công trên con đường tu thực ra chỉ là một chướng ngại của ma quỷ, hoặc một chỉ dấu cho thấy bạn đang đi lạc đường.
+
+Đặc biệt hơn nữa, khi bạn chứng ngộ được trạng thái chân như đích thực thì bạn không thể nào không phát khởi một tín tâm phi thường và một nhận biết thanh tịnh về những bậc toàn thiện hơn bản thân bạn. Song song với kinh nghiệm
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+chứng ngộ đó, bạn cũng sẽ phát khởi lòng từ và bi phi thường đối với những người kém toàn thiện hơn mình.
+
+Ngài Dagpo Rinpoche vô song có lần hỏi Ngài Jetsun Mila: “Khi nào con có thể dẫn dắt người khác?”
+
+Ngài Jetsun trả lời: “Một ngày nào đó, con sẽ có một thị kiến phi thường trong sáng về chân tánh của tâm con, nó hoàn toàn khác với thị kiến mà con hiện có, và thoát khỏi mọi ngờ vực. Vào lúc đó, trong một tâm trạng hoàn toàn khác thường, con sẽ nhận ra được ta, người cha già của con, như một vị Phật thật sự và chắc chắn con sẽ cảm thấy một cách rất tự nhiên lòng từ và bi đối với tất cả chúng sinh. Đó là lúc con nên bắt đầu giảng dạy.”
+
+Vì thế, hãy học tập, quán chiếu và thiền định về Giáo Pháp, trên nền tảng vững chắc của lòng từ và bi của Bồ Đề Tâm, không tách riêng cái này với cái khác. Trước tiên nếu không loại bỏ những nghi ngờ qua việc học tập, bạn sẽ không bao giờ có thể thực hành pháp. Có câu nói rằng:
+
+Thiền định mà không học tập
+Giống như leo núi mà không có đôi tay.
+
+Loại bỏ những nghi ngờ qua việc học tập không có nghĩa bạn phải thông suốt vô số những vấn đề rộng lớn. Trong thời buổi suy đồi này, sẽ không thể làm được điều đó trong một đời người ngắn ngủi. Điều quan trọng là bất kỳ giáo lý nào mà bạn sắp đưa vào công phu thực hành thì bạn nên biết chính xác phải làm những gì để thực hành pháp tu đó từ đầu tới cuối mà không phạm lỗi lầm. Nếu có bất kỳ do dự nào thì bạn nên loại bỏ ngay lòng ngờ vực này bằng cách quán chiếu về các giáo lý đó.
+
+Khi Ngài Atisa ở Nyethang, Nachung Tonpa xứ Shan, Kyung Tonpa, và Lhangsang Tonpa xin Ngài dạy cho họ về những hệ thống luận lý khác nhau.
+
+Ngài Atisa trả lời: “Những người ngoại đạo phi-Phật-Giáo và bản thân những Phật Tử có nhiều hệ thống giáo lý, nhưng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+chúng hoàn toàn chỉ là những chuỗi tư tưởng lan man. Không cần tới hằng hà sa số tư tưởng đó: cuộc đời quá ngắn ngủi không thể thấu biết hết những điều này được. Giờ đây là lúc cắt giảm những điều này cho tới tận cốt lõi của chúng.”
+
+“Làm thế nào để cắt giảm cho tới cốt tủy của chúng?”
+
+“Bằng cách tu tập Bồ Đề Tâm với lòng từ và bi đối với tất cả chúng sinh đầy khắp không gian. Bằng cách thực hiện những nỗ lực tích cực trong việc tích tụ hai bồ công đức vì lợi ích của tất cả chúng sinh. Bằng cách hồi hướng tất cả suối nguồn của những điều tốt lành của đời vị lai -- những điều tốt lành này đã được tạo ra [để hồi hướng] cho giác ngộ viên mãn của mỗi chúng sinh và cho tất cả chúng sinh. Và, cuối cùng, bằng cách nhận ra rằng tất cả những điều này đều rỗng rang tự bản chất, giống như những giấc mộng hay những trò huyễn hóa.”
+
+Nếu bạn không biết làm cách nào để cắt giảm bất kỳ pháp môn nào cho tới phần tinh tuý, thì sẽ chẳng có số lượng thông tin, kiến thức và sự hiểu biết thông tuệ nào có thể đem lại lợi ích gì cho bạn.
+
+Khi Ngài Atisa đến Tây Tạng, Ngài được mời tới thăm đại dịch giả Rinchen Zangpo. Ngài hỏi vị dịch giả về những giáo lý mà ông biết, liệt kê một danh sách dài, tuần tự từng cái một. Hoá ra không giáo lý nào Rinchen Zangpo không biết. Ngài Atisa đặc biệt hài lòng.
+
+“Tuyệt vời!” Ngài nói. “Sự kiện đã có một bậc uyên thâm như ông sống ở Tây Tạng có nghĩa là cuộc thăm viếng của tôi hoàn toàn không cần thiết. Vậy làm cách nào ông kết hợp tất cả những giáo lý này khi ông ngồi xuống thực hành?”
+
+“Tôi thực hành từng thứ như được giảng trong bản văn,” Rinchen Zangpo nói.
+
+“Lão dịch giả vô dụng!” Ngài Atisa kêu lên trong thất vọng. “Như vậy rốt cuộc việc ta tới Tây Tạng là cần thiết!”
+
+“Nhưng thay vào đó tôi nên làm gì?” vị dịch giả hỏi.
+
+## II. KHOI DẬY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+“Ông phải tìm ra điểm cốt lõi chung cho tất cả các giáo lý và thực hành theo cách đó,” Ngài Atisa bảo với ông ta.
+
+Rất cần thiết phải tìm ra điểm trọng yếu của các pháp thực hành là những phương pháp được đặt trên nền tảng của những giáo huấn tinh tuý của vị Thầy. Một khi bạn thấu suốt được điểm trọng yếu, bạn phải đưa điều ấy vào thực hành, nếu không sẽ hoàn toàn vô ích. Ngài Jetsun Mila nói:
+
+> Người đói bụng sẽ không thỏa mãn bằng cách nghe nói về thực phẩm; điều mà họ cần là ăn. Tương tự như thế, chỉ hiểu biết suông về Pháp thì không có gì ích lợi; Pháp phải được thực hành.
+
+Mục đích của tất cả các pháp tu là khi chính việc tu tập trở thành cách đối trị cho những cảm xúc ô nhiễm tiêu cực và tâm chấp ngã. Ngài Jetsun Mila lại nói:
+
+> Người ta nói rằng bạn có thể khẳng định một người nào đó có phải là vừa mới ăn hay không bằng cách nhìn coi mặt họ đỏ như thế nào. Tương tự như thế, bạn có thể cả quyết người nào đó có hiểu và thực hành Giáo Pháp đúng đắn hay không bằng cách xem Pháp có là một phương thuốc chữa lành những cảm xúc tiêu cực và chấp ngã của họ hay không.
+
+Potowa hỏi Geshe Tonpa đâu là ranh giới giữa Pháp và phi-Pháp. Vị geshe trả lời:
+
+> Nếu chống lại những cảm xúc tiêu cực thì đó là Pháp. Nếu không, đó là phi- Pháp.
+> Nếu không thích hợp với những phương cách của thế gian thì đó là Pháp. Nếu thích hợp, đó là phi-Pháp.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Nếu phù hợp với kinh điển và những giáo huấn của bạn thì đó là Pháp. Nếu không phù hợp, đó là phi-Pháp. Nếu để lại dấu ấn tích cực thì đó là Pháp. Nếu để lại dấu ấn tiêu cực, đó là phi-Pháp.
+
+Đạo Sư Chegom nói:
+
+Tin vào nhân quả của mọi hành động là chánh kiến dành cho những người có căn cơ bình thường. Nhận ra mọi hiện tượng bên ngoài và bên trong là sự hợp nhất của cả sắc lẫn tánh Không, và của giác tánh và tánh Không, là chánh kiến dành cho những người có căn cơ cao hơn. Nhận ra rằng cái thấy, người có cái thấy và chính sự trực nhận cái thấy đều bất khả phân$^{169}$, đó là chánh kiến dành cho những người có căn cơ cao nhất.
+Giữ tâm hoàn toàn tập trung trên đối tượng là thiền định đúng đắn dành cho những người có căn cơ bình thường. Trụ tâm trên bốn sự hợp nhất$^{170}$ là thiền định đúng đắn dành cho những người có căn cơ cao hơn. Một trạng thái vô niệm trong đó không có đối tượng của thiền định, không có người thiền định và không có kinh nghiệm thiền định là thiền định đúng đắn dành cho những người có căn cơ cao nhất.
+Thận trọng về những kết quả của các hành động của mình như người ta cẩn thận bảo vệ con mắt mình là hành vi đúng đắn dành cho những người có căn cơ bình thường. Hành động trong khi kinh nghiệm được tất cả giống như giấc mơ và ảo ảnh là hành vi đúng đắn dành cho những người có căn cơ cao hơn. Hoàn toàn không hành động (không tạo tác)$^{171}$ là hành vi đúng đắn dành cho những người có căn cơ cao nhất.
+
+II. KHƠI DẠY BỒ ĐỀ TÂM, GỐC RỄ CỦA ĐẠI THỪA
+
+Không ngừng giảm thiểu tâm chấp ngã, giảm thiểu các cảm xúc và niệm tưởng tiêu cực là dấu hiệu của “hơi ấm” dành cho tất cả hành giả, dù họ có căn cơ bình thường, trung bình hay cao nhất.
+
+Những lời tương tự như trên được tìm thấy trong *Con Đường Trân Quý Siêu Việt* của Ngài Dagpo vô song.
+
+Vì thế, khi học Giáo Pháp, bạn nên biết cách rút ra được tinh túy của Giáo Pháp. Ngài Longchenpa vĩ đại có nói:
+
+Kiến thức thì vô tận như sao trên trời;
+Tất cả những vấn đề có thể học được thì vô cùng tận.
+Tốt hơn nên lập tức nắm lấy tinh tuý tối hậu của cái học –
+Thành trì bất biến của Pháp Thân.
+
+Sau đó, khi bạn quán chiếu về Pháp, bạn nên thoát khỏi mọi nghi ngờ. Ngài Padampa Sangye nói:
+
+Hãy tìm kiếm những giáo huấn của vị Thầy giống như chim ưng mẹ săn mồi.
+Hãy lắng nghe các giáo lý như một con nai đang nghe nhạc;
+Hãy thiền định về giáo lý như một người ngu thưởng thức món ăn;
+Hãy suy niệm về giáo lý như một người du mục phương Bắc xén lông cừu;
+Hãy đạt được kết quả của giáo lý, giống như mặt trời nhô khỏi vầng mây.
+
+Việc lắng nghe Pháp, quán chiếu và thiền định về Pháp phải được thực hành chặt chẽ với nhau. Ngài Dagpo vô song nói:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Hoà nhập sự học tập, quán chiếu và thiền định về Pháp là điểm trọng yếu không thể sai lầm.
+
+Kết quả của việc học tập, quán chiếu và thiền định phải là sự phát triển vững chắc và chân thật của lòng từ và bi của Bồ Đề Tâm, cũng như phải là sự giảm thiểu vững chắc và chân thật của tâm chấp ngã và những cảm xúc ô nhiễm tiêu cực khác.
+
+Giáo huấn này, về việc làm thế nào khơi dậy Bồ Đề Tâm, là tinh túy của tất cả các Giáo Pháp và là yếu tố cốt tủy của tất cả những con đường tu. Đây là giáo lý tối hậu, có được giáo lý này thì dứt khoát tự thân một mình giáo lý ấy thôi đã là đầy đủ, còn nếu thiếu giáo lý ấy thì chắc chắn sẽ khiến cho tất cả mọi pháp tu đều thành vô dụng. Không nên hài lòng với việc chỉ lắng nghe và hiểu biết về giáo lý ấy. Tận trong đáy lòng của bạn, hãy đưa giáo lý ấy vào thực hành!
+
+*Con quả quyết là đang khơi dậy Bồ Đề Tâm, nhưng Bồ Đề Tâm trong con vẫn chưa phát khởi.*
+
+*Con đã tu tập trên con đường của sáu pháp toàn thiện siêu việt, nhưng vẫn còn ích kỷ.*
+
+*Xin từ bi gia hộ cho con và những kẻ có tâm lượng nhỏ hẹp như con,*
+
+*Để chúng con có thể rèn luyện được Bồ Đề Tâm cao cả.*
+
+[Hình: Đức Kim Cang Tát Đoả (Vajrasattva)]
+
+Đức Kim Cang Tát Đoả (Vajrasattva)
+
+# CHƯƠNG 3
+
+TRÌ TỤNG VÀ THIỀN QUÁN VỀ BỔN SƯ NHƯ ĐỨC KIM CANG TÁT ĐỎA (Vajrasattva) ĐỂ TỊNH HÓA TẤT CẢ CHƯỚNG NGẠI 172
+
+Đã vượt khỏi hai chướng ngại ô nhiễm, * Ngài vẫn giả như đang tịnh hóa chúng.
+
+Chắc chắn đã đạt tới Đạo Quả cuối cùng của con đường cao cả, Ngài vẫn tự nhận là đang học hỏi.
+
+Đã vượt khỏi hai cực đoan đắm nhiễm Sinh Tử và Niết bàn, Ngài vẫn hoạt hiện trong vòng quay luân hồi.
+
+Bậc Thầy Vô Song, con xin đảnh lễ dưới chân Ngài.
+
+Hãy lắng nghe chương này với thái độ tương tự như ở các chương trước.
+
+I. LÀM THẾ NÀO TỊNH HOÁ CHƯỚNG NGẠI NƯƠNG VÀO PHÁP SÁM HỐI
+
+Ác hạnh, chướng nghiệp và tập khí** là các chướng ngại chính yếu ngăn trở sự hiển lộ của tất cả những kinh nghiệm và
+
+* Những chướng ngại của các cảm xúc tiêu cực và các chướng ngại thuộc ý niệm (phiền não chướng và sở tri chướng). “Những chướng ngại” có nghĩa là những yếu tố trùm lấp và ngăn che Phật tánh của ta (xem Thuật ngữ).
+** Các tập khí được tạo nên bởi những hành động quen thuộc trong quá khứ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+chứng ngộ phi thường trên con đường đạo thâm sâu. Giống như mặt gương phải lau sạch mới soi rõ, chướng nghiệp phải được diệt trừ thì chứng ngộ mới có thể xuất hiện, giống như sự phản chiếu trên tấm gương Tạng Thức.$^{***}$ Để đạt được mục đích này thì Đức Phật đã dạy vô vàn phương pháp tịnh hóa, nhưng phương pháp tốt nhất vẫn là pháp trì tụng và thiền quán vị Bổn Sư của mình như là đức Kim Cang Tát Đỏa (Vajrasattva)$^{173}$.
+
+Không có ác hạnh nào mà không thể tịnh hóa được nhờ vào sám hối. Các bậc Thầy vĩ đại xưa kia đã khẳng định rằng:
+
+> Không có gì là tốt đẹp trong các ác hạnh – trừ việc ác hạnh có thể được tịnh hóa nhờ vào pháp sám hối.
+
+Trong tất cả các ác hạnh – dù là các vi phạm bên ngoài liên quan đến các giới Biệt Giải Thoát - Ba La Đề Mộc Xoa (Pratimoksa), hay các vi phạm bên trong của Bồ Đề Tâm, hoặc những vi phạm bí mật của các thệ nguyện của Mật thừa (tantric samayas) – thì không có ác hạnh nào dù trầm trọng tới đâu mà không thể tịnh hóa được nương vào pháp sám hối.
+
+Trong Kinh điển, Đức Phật đã kể lại vài câu chuyện để minh chứng cho điều này. Ví dụ, có câu chuyện về người Bà la môn Atapa, được gọi là Angulimala, “Xâu Chuỗi Ngón Tay.” Angulimala giết chết chín trăm chín mươi chín người,$^{174}$ nhưng về sau đã tự thanh tẩy được những ác hạnh đó nhờ pháp sám hối, và đã đạt được quả vị A La Hán ngay chính trong đời đó. Ngoài ra còn có câu chuyện của Vua A Xà Thế (Ajatasatru); Ngài giết hại cha mình, nhưng về sau đã chuộc lại tội lỗi của mình bằng pháp sám hối và đã đạt được giải thoát. Trước khi được giải thoát, nhà vua chỉ phải kinh qua những đau khổ của
+
+$^{***}$ Phạn. Alaya [A Lại Da Thức]. Thức tiềm ẩn, trong đó những dấu vết của nghiệp được tàng trữ. Xem thuật ngữ.
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+địa ngục trong thời gian dài bằng một trái banh nẩy lên một lần mà thôi. Đấng hộ pháp Long Tọ (Nagarjuna) đã nói rằng:
+
+Những kẻ đã hành động buông thả
+
+Nhưng về sau trở nên nghiêm cẩn và chú tâm
+
+Thì tươi đẹp như vầng trăng sáng nhô lên từ những đám mây,
+
+Như Nanda, Angulimala, Darsaka và Sankara.175
+
+Tuy nhiên, nghiệp chướng chỉ được tịnh hóa nếu ta chân thành sám hối một cách đúng đắn, sử dụng bốn lực tịnh hoá nghiệp (tứ lực tịnh nghiệp) làm pháp đối trị. Quá trình tịnh hóa sẽ không bao giờ thực hiện được nếu ta để mắt và miệng sao lãng vào việc khác, hoặc nếu ta chỉ đọc to những từ như “Con thú nhận.. Con sám hối...” trong khi tâm thì bận theo đuổi những niệm tưởng khác. Còn khi sám hối, nếu nghĩ rằng: “Trong tương lai, cho dù mình có làm điều quấy quá cũng không sao vì sau đó mình có thể sám hối được hết,” thì suy nghĩ đó sẽ làm cho nghiệp chướng không thể thanh tịnh hóa được, cho dù có phát lồ sám hối đi chăng nữa.
+
+Ngài Jetsun Mila đã nói rằng:
+
+Con có thể nghi ngờ rằng sám hối không thể thực sự tịnh hoá các ác hạnh,
+
+Nhưng nếu tâm thức của con trở nên thuần thiện, thì con đã được tịnh hoá rồi.
+
+Điều tuyệt đối căn bản của bất cứ pháp sám hối nào là cần phải dựa trên tất cả bốn ‘lực’ tịnh hoá nghiệp như là phương pháp đối trị.
+
+# II. TỨ LỰC TỊNH HOÁ NGHIỆP (Bốn Lực Tịnh Hoá Nghiệp)
+
+Tứ lực tịnh hoá nghiệp bao gồm (1) lực hỗ trợ (nuông vào quy y và phát tâm Bồ Đề), (2) lực ân hận đã hành ác hạnh, (3) lực quyết chí chuyển tâm và (4) lực quyết chí hành thiện hạnh. Tứ lực tịnh hoá nghiệp này là các phương pháp đối trị.
+
+## 1. Lực Hỗ Trợ
+
+Trong trường hợp này, lực hỗ trợ có được là nhờ ta phát tâm quy y Đức Kim Cang Tát Đỏa (Vajrasattva) và phát Bồ Đề Tâm cùng với việc thực hành các hạnh Bồ Tát. Trong các trường hợp khác, sức mạnh hỗ trợ có thể đến từ đối tượng đặc biệt mà ta phát lộ sám hối với. Ví dụ như khi ta trì tụng bài sám hối trong *Tam Tụ Kinh* (Đại Thừa Sám Hối Tam Tụ Kinh), sức mạnh hỗ trợ đến từ Ba Mươi Lăm vị Phật. Lực gia hộ đó cũng có thể đến từ một vị Thầy, hoặc một biểu tượng cho thân, khẩu và ý của chư Phật – nói tóm lại, có thể là bất kỳ ai hay đối tượng nào mà trước sự hiện diện các vị ấy hay các biểu tượng ấy, ta phát lộ sám hối.¹⁷⁶
+
+Trước khi thực hiện bất kỳ sự sám hối nào, việc phát khởi Bồ Đề Tâm và thực hành các hạnh Bồ Tát là việc không thể thiếu được. Đức Phật đã dạy rằng khi sám hối các ác hạnh và các giới đa phạm mà không phát khởi tâm Bồ Đề, thì cho dù có áp dụng bốn lực tịnh hoá nghiệp, nghiệp chướng chỉ có thể giảm thiểu, nhưng không thể được tịnh hoá hoàn toàn. Tuy nhiên, nếu tâm Bồ Đề được khởi lên một cách chân thành, thì tự bản thân việc ấy sẽ tịnh hoá được tất cả các ác nghiệp trong quá khứ, cho dù nghiệp tội có nặng đến đâu.¹⁷⁷ Trong *Nhập Bồ Tát Hạnh*, ngài Santideva nói về Bồ Đề Tâm như sau:
+
+> Họ đi qua hiểm nguy như được anh hùng che chở,
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+Ngay cả những kẻ bị trọng tội khủng khiếp đè trĩu
+Sẽ lập tức được giải thoát nhờ có Bồ Đề Tâm.
+Như thế ai không đặt niềm tin nơi đó?
+Như các cơn bão lửa cuối thời đại,
+Bồ Đề Tâm sẽ hoàn toàn thiêu hủy trọng tội.
+
+2. Lực Ân Hận Đã Hành Ác Hạnh
+
+Lực ân hận đã hành ác hạnh có được khi ta ăn năn hối hận về các việc lầm ác đã làm trong quá khứ. Không thể tịnh hóa được nếu ta không thấy ra rằng các ác hạnh của mình là sai lầm, và phát tâm sám hối với lòng ân hận sâu xa, không che đậy giấu giếm bất cứ điều gì.178 Trong Tam Tụ Kinh (Đại Thừa Sám Hối Tam Tụ Kinh), chúng ta trì tụng như sau:
+
+Con xin sám hối tất cả (các ác nghiệp), không giấu giếm hay che đậy bất cứ điều gì.
+
+Bậc thiện tri thức và thành tựu giả Karma Chagme đã có nói:
+Ác nghiệp của quá khứ giống như một độc tố tiềm tàng,
+Nếu sám hối mà không hối hận thì không thể tịnh hóa được.
+Vì thế các con hãy sám hối với sự hổ thẹn, sợ hãi và lòng ân hận sâu xa.
+
+3. Lực Quyết Chí Chuyển Tâm
+
+Lực quyết chí chuyển tâm có được khi ta nhớ lại các lỗi lầm đã phạm phải và quyết tâm từ giờ trở đi không sẽ bao giờ tái
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+phạm một lần nữa, cho dù có phải trả giá bằng mạng sống quí báu của mình. Trong Tam Tự Kinh (Đại Thừa Sám Hối Tam Tự Kinh), chúng ta tụng như sau:
+
+*Từ giờ về sau, con nguyện quyết chấm dứt phạm ác hạnh.*
+
+Và trong Bài Nguyện Vãng Sanh Vào Cõi Cực Lạc có viết rằng:
+
+*Nếu không lập thệ nguyện từ nay đến mãi về sau, thì không có tịnh hóa,*
+
+*Vì thế con lập lời thệ nguyện này, quyết từ nay cho đến mãi về sau*
+
+*Dù phải trả giá bằng mạng sống của mình, con quyết không phạm điều bất thiện.*
+
+4. Lực Quyết Chí Hành Thiện Hạnh
+
+Lực tịnh hoá nghiệp này đòi hỏi phải hoàn thành thật nhiều điều thiện, như liều thuốc để giải các ác nghiệp trong quá khứ. Lực này đặc biệt bao gồm các hạnh như lễ lạy chư Phật và Bồ Tát, hoan hỉ trước công đức của người khác, hồi hướng các công đức trong tương lai của mình để đạt được Giác Ngộ, nuôi dưỡng Bồ Đề Tâm và hành các hạnh Bồ Tát, cũng như an trụ trong trạng thái như nhiên bất biến [của chân tâm].
+
+Một ngày kia, có một thiền giả là đệ tử của Ngài Dagpo Rinpoche vô song, nói với thầy mình rằng, ông cảm thấy rất ân hận mỗi khi nhớ lại việc mình đã kiếm sống bằng cách bán các Kinh điển.
+
+“Vậy hãy đi in sách,” Đạo Sư bảo ông ta.
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+Thế là ông lao vào việc in sách, nhưng rồi ông nhận ra rằng công việc này khiến ông bị phân tâm rất nhiều. Thất vọng, ông trở lại gặp thầy mình.
+
+“Việc in kinh sách này làm con bị phân tâm quá nhiều,” ông nói. “Không có phương pháp sám hối nào sâu xa hơn việc an trụ trong chân tánh*, điều này không đúng sao?”
+
+Ngài Dagpo Rinpoche rất vui mừng và nói rằng ông hoàn toàn đúng. “Cho dù con phạm vào các ác hạnh khổng lồ như Núi Tu Di,” Ngài nói, “chúng sẽ được tịnh hóa ngay khi con nhận ra được chân tánh đó.”
+
+Quả thực, để tẩy sạch các ác hạnh quá khứ thì không có cách thức nào sâu sắc hơn sự thiền định về Bồ Đề Tâm và giữ cho tâm an trụ trong bản tánh như nhiên bất biến. Hai điều này phải được ghi rõ trong tâm khảm khi thực hành các chi tiết thiền quán về đức Kim Cang Tát Đỏa (Vajrasattva), chẳng hạn như khi [quán tưởng là mình đang được tịnh hóa bằng] giòng suối cam lộ, hay khi trì tụng bách tự minh chú, vân vân. Để thực hành chính pháp thiền quán và trì tụng, hãy noi theo các chỉ dẫn dưới đây, trong lòng luôn luôn ghi nhớ những ý nghĩa thuần tịnh đặc biệt¹⁸⁰ của mỗi một chi tiết trong khung cảnh của bốn lực tịnh hoá nghiệp.
+
+III. PHÁP THIỀN QUÁN KIM CANG TÁT ĐỎA (Vajrsattva)
+
+Trong những phần quán tưởng sau đây, hãy quán bản thân mình trong thân tướng bình thường.¹⁸¹ Lơ lửng giữa không gian cách chừng một mũi tên trên đỉnh đầu, hãy quán tưởng một toà sen trắng ngàn cánh mở lớn và ở trên toà sen là một đài trăng tròn đầy. Khi nói “đài trăng tròn đầy”, điều đó không có nghĩa là đài trăng phải lớn cỡ nào, mà chỉ để biểu thị rằng nó tròn trịa, đều đặn thật toàn hảo và giống như mặt trăng tròn
+
+* Sự an trụ trong trạng thái nhận biết bản tánh của tâm.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+đầy vào ngày rằm âm lịch. Trên đài trăng, hãy quán tưởng một chữ hum** màu trắng sáng chói. Theo các truyền thống khác thì chữ hum này phóng toả ánh sáng rồi lại thu nhiếp ánh sáng ấy trở lại, nhưng theo phương pháp quán tưởng ở đây thì không phải quán như vậy.
+
+Trong giây khắc, chữ hum chuyển hóa thành vị Bổn Sư vinh quang, là nguồn bi mẫn vô song; tự bản chất, Ngài chính là chân tánh của tất cả chư Phật trong quá khứ, hiện tại và tương lai cùng hội tụ lại. Ngài xuất hiện trong thân tướng của Báo Thân Phật,182 là đức Kim Cang Tát Đoả, mang sắc trắng, sáng chói như đỉnh núi phủ tuyết được trăm ngàn mặt trời chiếu sáng.
+
+Ngài có một mặt và hai tay. Ở trước ngực, tay phải Ngài cầm chùy Kim Cang năm ngặc, tượng trưng cho giác tánh và tánh Không. Dựa bên hông trái, tay trái Ngài cầm chuông, tượng trưng cho sắc tướng và tánh Không.183 Hai chân Ngài bắt chéo trong thế kiết già; Ngài đeo mười ba châu báu trang sức của Báo Thân – năm trang phục bằng lụa và tám món châu báu.
+
+Năm trang phục bằng lụa là: 1/ dải buộc đầu, 2/ thượng y, 3/ khăn choàng dài, 4/ dây lưng và 5/ hạ y.
+
+Tám món châu báu là: 1/ vương miện, 2/ hai hoa tai, 3/ một chuỗi hạt ngắn, 4/ hai vòng đeo ở hai cánh tay, 5/ hai chuỗi hạt dài, một cái dài hơn cái kia,184 6/ hai vòng ở hai cổ tay, 7/ hai chiếc nhẫn ở hai bàn tay và 8/ hai vòng đeo ở hai cổ chân.
+
+Đức Kim Cang Tát Đoả ngự trên đầu ta, quay mặt cùng hướng với ta. Ngài ôm vị phối thân Vajratopa cũng sắc màu trắng, trong sự hợp nhất bất khả phân.185 Thân tướng các Ngài là sự hoạt hiện từ tánh Không, tuy hiện diện sống động nhưng phi vật chất, giống như ánh trăng phản chiếu trong nước hay hình sắc phản chiếu trên gương.
+
+** Chữ hũm Tây Tạng được tìm thấy ở Chương Ba, Phần III.
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+Quán tưởng như vậy đem lại cho ta lực hỗ trợ. Hình ảnh quán tưởng này không bằng phẳng như một bức hoạ Phật (tangka) hay như một tranh bích họa. Hình ảnh này không bất động và vô hồn như một bức tượng đất sét hay vàng, những vật thể mang tính chất đặc rắn và cụ thể. Mỗi một chi tiết xuất hiện rõ ràng và sống động, kể cả con ngươi và lòng trắng của mắt. Tuy thế hình ảnh (của đức Kim Cang Tát Đỏa) lại là mang tánh Không: không mang thể đặc rắn, không thịt, không máu, không các cơ quan nội tạng. Hình ảnh quán tưởng ấy giống như cầu vồng hiển hiện trong không trung hay giống như một cái bình pha lê trong suốt. Và hình ảnh ấy thấm đẫm trí tuệ: đức Kim Cang Tát Đỏa mang bản chất đồng nhất với vị Bổn Sư bi mẫn của ta, và tâm của Ngài trải tới ta và tất cả chúng sinh với lòng từ bi vô hạn.
+
+Nói về lực ân hận đã hành ác hạnh thì trước sự hiện diện của Ngài, hãy tưởng nghĩ đến tất cả những ác hạnh mà bạn có thể nhớ được, những ác hạnh mà bạn đã tích tụ từ đời đời kiếp kiếp vô thủy cho đến ngày nay: mười ác hạnh của thân, khẩu và ý, năm trọng tội với quả báo tức thời, bốn trọng tội, tám hành động lầm lỗi, tất cả những vi phạm các giới Biệt Giải Thoát thuộc về bên ngoài, các giới luật Bồ Tát bên trong, hay các thệ nguyện Mật Thừa của các bậc Trì Minh Vương (Vidyadhara), cùng tất cả các lời hứa thông thường mà bạn không giữ được, tất cả mọi điều dối trá mà bạn đã nói và tất cả mọi điều đáng hổ thẹn và ô nhục mà bạn đã làm. Hãy nghĩ rằng mình đang sám hối tất cả những lỗi lầm ấy trước sự hiện diện của vị tôn sư Kim Cang Tát Đỏa, toàn thân bạn nổ tung, da sởn gai ốc, vì xấu hổ, sợ hãi và ân hận. Bạn có thể tin chắc rằng, trải qua vô lượng kiếp trong luân hồi, bạn đã từng phạm nhiều ác hạnh không thể nhớ hết, vì thế hãy sám hối tất cả và nói rằng:
+
+“Con không giữ điều gì bí mật, con không che dấu điều gì hết. Con xin thành tâm sám hối và xin được lượng thứ. Xin
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Ngài hãy thương xót con! Ngay giờ đây, ngay lúc này và chính nơi đây, xin hãy tẩy sạch và tịnh hóa con khỏi mọi ác nghiệp và khỏi mọi che chướng của con, khiến không còn sót lại bất kỳ một điều ác nào!”
+
+Đối với lực quyết chí chuyển tâm thì hãy nghĩ rằng: “Bởi sự vô minh và mê lầm của con, cho tới lúc này đây, con đã tích lũy tất cả các ác hạnh đó. Nhưng giờ đây, nhờ lòng bi mẫn của bậc Bổn Sư từ ái của con, con đã hiểu ra được đâu là điều lợi lạc và đâu là điều ác hại. Con sẽ không bao giờ tái phạm ác hạnh nữa, cho dù phải trả giá bằng mạng sống của con.”
+
+Ghi nhớ trong tâm ý nghĩa thanh tịnh của phương cách quán tưởng, 180 rồi hãy trì tụng bản văn gốc, bắt đầu từ câu:
+
+*Ah! Con đang ở trong thân tướng bình thường của con, và trên đỉnh đầu con*
+
+xuống tới những chữ sau đây:
+
+*..Xin hãy tịnh hóa con cho tới khi không còn sót lại bất kỳ một điều ác nào!*
+
+Tiếp theo, nơi trái tim của đức Kim Cang Tát Đỏa khi ấy đang hợp nhất bất khả phân với vị phối thân của Ngài, hãy quán tưởng một đài trăng phẳng lì, kích cỡ không lớn hơn một hột giống mù tạc, và trên đài trăng đó là một chữ hum trắng, cực kỳ mảnh, như thể chữ ấy được vẽ bằng một sợi tóc vậy. Trong khi đọc bài bách tự minh chú “Om Vajrasattva Samaya...”, hãy quán tưởng các ký tự của minh chú được xếp quanh chữ hum theo vòng tròn. Không có chữ nào chạm vào nhau, như những sừng trâu khi chúng đứng sát liền nhau.* Sau đó hãy trì tụng bài bách tự minh chú để cầu nguyện, đồng thời hãy tưởng
+
+* Đó là, sát liền nhau không bị vướng
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+tượng rằng nước cam lộ đại bi đại giác đang nhỏ xuống từ mỗi ký tự, từng giọt từng giọt lấp lánh, giống như nước nhỏ xuống từ băng đá khi nó tan chảy gần lửa vậy. Ào chảy qua thân của đức Kim Cang Tát Đỏa, nước cam lộ thoát ra từ điểm hợp nhất của Ngài với vị phối thân, và xuyên qua đỉnh đầu bạn, chảy vào bạn và cũng chảy vào tất cả chúng sinh khác.
+
+Như bụi đất được gội sạch bởi giòng suối ồ ạt, mọi bệnh tật của thân thể ta được trục ra trong hình thức của máu mủ hôi thối. Mọi tà lực đều bị trục xuất trong hình thức của những con nhện, bọ cạp, cóc, cá, rắn, nòng nọc, chấy rận và những sinh vật cùng loại. Mọi ác hạnh và nghiệp chướng được thải ra dưới dạng của chất lỏng, bụi đất, khói, mây và hơi nước màu đen. Tất cả các chất thải này bị dòng thủy triều cam lộ cuốn đi không thể cưỡng lại được và chảy tràn ra ngoài thân thể bạn như một trận mưa rào màu đen qua các lỗ phía dưới (cửa mình và hậu môn), qua gót chân và mọi lỗ chân lông trên da bạn. Mặt đất dưới chân bạn mở ra và tận đáy sâu, Thần Chết - hiện thân của các hành nghiệp của bạn trong quá khứ - xuất hiện. Chung quanh Thần Chết là tất cả các chúng sinh nam nữ mà bạn mắc nợ nghiệp, và tất cả những chúng sinh này đang cố đòi bạn món nợ máu. Khi trì tụng bách tự minh chú, hãy quán tưởng tất cả những chất bất tịnh đó trút xuống những cái miệng đang mở ra của những chúng sinh kia, và xuống các bàn tay và cánh tay mong đợi của họ đang giang về phía bạn.
+
+Nếu có thể, hãy quán tưởng tất cả các chi tiết của toàn bộ pháp tu này cùng một lúc. Nếu không thì có thể quán tưởng một cách tuần tự [từng chi tiết một]. Khi trì tụng bài minh chú, có thể khi thì tập trung nơi sắc tướng của đức Kim Cang Tát Đỏa, nơi khuôn mặt, đôi bàn tay Ngài và v.v.., khi thì tập trung trên các món châu báu trang sức và y phục của Ngài; hay trên dòng cam lộ đang tịnh hóa các bệnh tật, các tà lực, các ác hạnh và che chướng; hoặc tập
+
+419
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+trung vào cảm xúc hối hận về những gì bạn đã từng làm và quyết tâm không bao giờ lặp lại những việc đó nữa.
+
+Sau cùng, hãy tưởng tượng rằng Thần Chết – hiện thân của các ác hạnh trong quá khứ, và các chúng sinh dưới mặt đất – tất cả các oan gia này, và những kẻ đang cố gắng đòi bạn trả món nợ máu, đều được mãn nguyện. Các vết tích quá khứ được thanh toán, nợ nần được trang trải và hận thù được tẩy sạch. Bạn được thanh lọc, mọi hành động bất thiện trong quá khứ và các che chướng được tẩy tịnh. Thần Chết khép miệng cùng hai tay lại và hạ hai tay xuống. Mặt đất cũng khép lại.
+
+Hãy tưởng tượng rằng giờ đây bên trong và bên ngoài thân thể bạn trở nên trong suốt, và thân bạn là thân ánh sáng. Hãy quán tưởng đường kinh mạch trung ương chạy thẳng trong thân bạn, ở bốn điểm dọc theo bề dài của đường kinh mạch này là bốn luân xa\*\* -- nơi bốn luân xa này, các kinh mạch (phụ)$^{186}$ tỏa ra hết cỡ như những nan của một cái dù. Ở ngang rốn bạn là luân xa hiển lộ, với sáu mươi tư đường kinh mạch tỏa ra hướng lên trên. Ở ngang tim bạn là luân xa Pháp, với tám kinh mạch tỏa ra hướng xuống dưới. Trong cổ họng bạn là luân xa hỉ lạc, với mười sáu kinh mạch tỏa ra hướng lên trên. Trên đỉnh đầu bạn là luân xa đại lạc, với ba mươi hai kinh mạch tỏa ra hướng xuống dưới.
+
+Sau đó, chất cam lồ lại bắt đầu chảy xuống như trước. Bắt đầu với luân xa đại lạc trên đỉnh đầu bạn, nước cam lồ làm ngập đầy kinh mạch trung ương và ngập đầy mỗi một trong bốn luân xa rồi tràn ra ngoài, đầy ngập toàn thân bạn cho tới đầu các ngón tay và bàn chân bạn. Tràn ngập chất cam lồ trắng, bạn giống như một cái bình pha lê đựng đầy sữa.
+
+Hãy quán tưởng rằng bạn đang nhận lãnh bốn nghi thức quán đảnh hay gia trì:$^{187}$ gia trì tịnh bình (hay gia trì thân) (vase
+
+\*\* Phạn. Cakra
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+empowerment), gia trì ẩn mật, gia trì trí tuệ và gia trì ngôn từ quí báu. Bạn cũng tịnh hóa được bốn loại chướng ngại: các chướng ngại về nghiệp (nghiệp chướng), các chướng ngại thuộc về những cảm thọ tiêu cực (phiền não chướng), các chướng ngại thuộc về ý niệm (sở tri chướng) và các chướng ngại thuộc về tập khí (khuynh hướng quen thuộc). Trí tuệ của bốn trạng thái hỉ lạc xuất hiện trong bạn: hỉ lạc, hỉ lạc tối thượng, hỉ lạc phi thường và hỉ lạc nguyên sơ. Bốn Thân Phật, trong các quả vị chứng đắc khác nhau, được an lập trong bạn: Hóa Thân, Báo Thân, Pháp Thân và Tự Tánh Thân.
+
+Sau đó hãy trì tụng bài cầu nguyện, bắt đầu bằng câu:
+*Ôi Bậc Hộ Trì, trong vô minh và mê lầm..*
+
+và chấm dứt ở câu:
+*...Con khẩn nguyện Ngài, xin tẩy sạch và tịnh hóa con!*
+
+Hãy tưởng tượng rằng vào giây phút bạn trì tụng những giòng này, đấng Đạo Sư Kim Cang Tát Đỏa vui lòng, mỉm cười, và ban cho sự cầu nguyện của bạn những lời sau đây:
+*Hỡi kẻ may mắn, tất cả mọi ác hạnh, chướng ngại, phá rối và vi phạm của con đã được tịnh hoá.*
+
+Rồi Ngài tan ra thành ánh sáng và tan hòa vào bạn, khiến cho bây giờ bản thân bạn được chuyển hóa thành đức Kim Cang Tát Đỏa, giống như bạn đã quán tưởng Ngài trước đây.
+
+Hãy quán tưởng ở trong tim của Ngài một đài trăng, kích cỡ chỉ bằng một hột giống mù tạc dẹp . Ở giữa đài trăng là một chữ *hum* màu xanh dương. Phía trước chữ *hum* là chữ *om* màu trắng; bên trái là chữ *vajra* màu vàng; phía sau là chữ *sa* màu đỏ; và bên phải là chữ *tva* màu xanh lá cây.
+
+421
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+[Hình: Các ký tự Tây Tạng sắp xếp theo hình chữ thập]
+*   sa
+*   tva
+*   hum
+*   vajra
+*   om
+
+Khi bạn trì tụng “Om Vajra Sattva Hum,” năm tia sáng trắng, vàng, đỏ, xanh lá cây, và xanh dương phát ra từ những chữ tương ứng theo một hướng đi lên. Tận cùng các tia sáng này là Thiên Nữ Nhan Sắc và các thiên nữ đang cúng dường khác. Từ bàn tay của họ hiện ra vô số phẩm vật cúng dường, như tám món biểu tượng tốt lành và bảy báu vật tượng cho trưng vương quyền, những cánh dù có diềm xung quanh, những tràng phan chiến thắng, màn trướng, luân xa ngàn nan hoa nạm vàng, các vỏ ốc xà cừ màu trắng xoắn về bên phải và v.v... Các phẩm vật cúng dường này làm vui lòng tất cả chư Phật và Bồ Tát trong hằng hà sa số các cảnh giới thanh tịnh không thể nghĩ bàn ở khắp mười phương, giúp bạn hoàn tất việc tích lũy công phu cúng dường và tịnh hóa những chướng nghiệp của mình. Lòng đại bi và sự gia trì của tất cả chư Phật phóng toả ngược lại về bạn dưới hình thức của các tia sáng nhiều màu khác nhau và những ánh sáng này hoà tan vào bạn. Nương vào đó, kết quả là bạn đạt được các thành tựu siêu việt và các thành tựu thông thường; đạt được bốn cấp bậc của Trì Minh Vương có liên hệ đến con đường tu, và kết quả cuối cùng là quả vị Chánh Đẳng Chánh Giác (kết hợp giữa Pháp Thân và Sắc Thân).¹⁸⁸ Sự quán tưởng này tạo
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+những giềng mối để giúp bạn chứng đắc Pháp Thân và đem lại lợi lạc cho chính mình.
+
+Sau đó, hãy quán tưởng rằng hằng hà sa số các tia sáng muôn màu phóng toả từ năm ký tự, chạm tới tất cả chúng sinh đang cư trú trong sáu cõi của tam giới, và tịnh hóa mọi ác hạnh, mọi che chướng, đau khổ và mọi tập khí, giống như ánh sáng mặt trời rạng đông xua tan bóng tối. Toàn thể thế giới trở thành Điều Hỷ Quốc (Abhirati - Cõi Tịnh Độ của Bất Động Phật Akshobhya). Mọi chúng sinh trong đó được chuyển hóa thành các đức Kim Cang Tát Đỏa màu trắng, vàng, đỏ, xanh lá cây và xanh dương.189 Hãy trì tụng minh chú và quán tưởng rằng tất cả chúng sinh cũng đang tuyên đọc minh chú “Om Vajra Sattva Hum” với âm thanh rền vang xa rộng. Sự quán tưởng này tạo những giềng mối giúp bạn đạt được Rupakaya*(Sắc thân) và làm lợi lạc những người khác.
+
+Về cách thức quán tưởng này, trong Pháp Hành Trì Giải Thoát Tức Thời Các Tập Khí Bám Chấp có nói rằng:
+
+> Khi đem lại lợi lạc cho chính mình và những chúng sinh khác bằng cách phóng tỏa và thu nhiếp lại ánh sáng, ta được tẩy tịnh khỏi các sở tri chướng.
+
+Khi áp dụng pháp quán tưởng như thế, các phương tiện thiện xảo của Kim Cương Thừa giúp ta tích lũy, trong khoảnh khắc, một số lượng công đức và trí tuệ không thể nghĩ bàn, và đồng thời lại làm lợi lạc cho tất cả chúng sinh khắp các cõi.
+
+Hãy trì tụng bài minh chú càng nhiều lần càng tốt, và khi kết thúc thời khóa, hãy quán tưởng toàn thể thế giới mà bạn cảm nhận chính là cõi Phật Điều Hỷ Quốc hòa tan vào các chúng sinh đang cư trú trong đó – các chúng sinh này (thể hiện trong sắc tướng của) đức Kim Cang Tát Đỏa thuộc năm
+
+* Rupakaya, gzugs sku: Sắc thân (xem Thuật ngữ)
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Phật Bộ. Rồi các vị Hộ Phật này (trong sắc tướng của Kim Cang Tát Đỏa) từ từ tan thành ánh sáng và tan hòa vào bạn. Sau đó bản thân bạn tan thành ánh sáng từ ngoài vào trong, và ánh sáng đó hòa tan thành chữ om trong tâm điểm của bạn. Chữ om hòa tan thành chữ vajra, vajra tan thành sa, sa tan thành tva, tva tan thành shapkyu của chữ hum, shapkyu tan thành a nhỏ, a nhỏ tan thành thân của ha, thân tan vào đầu, đầu tan vào mặt trăng lưỡi liềm, trăng lưỡi liềm tan vào (giọt) bindu và bindu tan vào (dấu móc) nada.
+
+[Hình: hūm] Gồm các phần:
+**Sơ đồ: Các phần của hūm**
+- nada
+- bindu
+- trăng lưỡi liềm
+- đầu của ha
+- thân của ha
+- a nhỏ
+- shapkyu
+
+Sau đó (dấu móc) nada, giống như một chiếc cầu vồng tan vào không gian, tan hoà thành một (trạng thái) đơn thuần, không đắm nhiễm bất kỳ ý niệm hay sự tạo tác nào. Hãy an trụ trong trạng thái đó trong một khoảng thời gian.
+
+Khi các niệm tưởng bắt đầu xuất hiện, hãy quán tưởng rõ ràng rằng toàn thể thế giới và chúng sinh trong đó như là Cõi Tịnh Độ của đức Kim Cang Tát Đỏa.
+
+Sau hãy hồi hướng công đức bằng những lời tụng như sau:
+
+Nhờ công đức của công phu hành trì này, xin cho con mau chóng đạt được quả vị của đức Kim Cang Tát Đỏa.
+
+và v.v... và tụng đọc những lời cầu nguyện thiết tha khác.
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+Trong khi thực hành bất kỳ pháp thiền định và trì tụng nào, kể cả việc thực hành và trì tụng Kim Cang Tát Đỏa, không bao giờ được để tâm sao lãng khỏi pháp hành trì, và không được gián đoạn việc trì tụng bằng việc sử dụng ngôn ngữ bình thường. Trong các Mật điển có nói rằng:
+
+*Trì tụng mà không chú tâm*
+*Thì giống như ngâm một hòn đá tận cùng đáy sâu của đại dương;*
+*Cho dù cả một đại kiếp cũng chẳng mang lại kết quả.**
+
+và:
+
+*Thanh tịnh thì một ngàn lần tốt hơn bất tịnh,190*
+*Chú tâm thì trăm ngàn lần tốt hơn không chú tâm.*
+
+Vàng hay bạc, dù chỉ chứa chút xíu đồng thau hay đồng đỏ, cũng bị coi là “không phải vàng thật” hoặc “bạc giả”. Cũng như vậy, nếu trộn lẫn chuyện tầm phào phàm tục khi đang trì tụng các câu minh chú hoặc khi đang thực hành thì sẽ làm cho minh chú trở thành bất tịnh. Đó là lý do tại sao Đại Đạo Sư xứ Oddiyana có nói:
+
+*Một tháng trì tụng không pha lẫn ngôn từ nào khác*
+*Thì tốt hơn một năm trì tụng mà bị ô nhiễm.*
+
+Tương tự như vậy, đối với những người cử hành các nghi lễ trong các ngôi làng thì trong khi đang trì tụng những lời cầu nguyện và minh chú thì quan trọng nhất là cần kiềm chế, không nói chuyện phiếm trong vòng những người của hội chúng. Nếu những câu trì tụng như vậy bị trộn lẫn với ngôn ngữ bình thường, lời trì tụng sẽ mất đi mọi ý nghĩa. Đặc biệt
+
+* Dù hòn đá nằm ở đó bao lâu chăng nữa, nước sẽ chẳng bao giờ thấm vào nó.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+hơn nữa, khi một buổi lễ được cử hành cho một người đã chết thì kẻ đó, trong nỗi khiếp sợ và đau khổ của trạng thái trung ấm, sẽ chạy xô tới vị mạnh thường quân, tới các nhà sư đã được thỉnh mời và các Lạt Ma đang hành lễ, hy vọng tìm được sự cứu giúp. Chúng sinh trong trạng thái trung ấm biết rõ những gì đang xảy ra trong tâm người khác. Nếu những người hành lễ không tập trung cao độ, nếu họ không giữ các giới nguyện và mật nguyện, hoặc nếu những điều họ nói và nghĩ xuất phát từ sự ham muốn và thù hận, thì chúng sinh trong trạng thái trung ấm sẽ cảm thấy giận ghét họ, hoặc có cái nhìn không tốt về họ, và kết cục là sẽ rơi vào những cảnh giới thấp. Các chúng sinh sẽ thanh thản hơn khi không có sự giúp đỡ của những loại người như thế.
+
+Trong các nghi lễ hay Mật Pháp của Mật Tông Kim Cương Thừa có nói rằng: “Trì tụng các nghi quỹ quán tưởng của giai đoạn phát triển (generation phase) là phương pháp sử dụng ngôn từ để tiếp cận.” Các ngôn từ dùng trong nghi quỹ quán tưởng là nhằm mục đích giúp cho tâm ta hồi nhớ lại các chi tiết của giai đoạn phát khởi.191 Tuy nhiên đối với nhiều người cử hành các buổi lễ như vậy thì mục đích thực sự của việc quán tưởng, vốn là ý nghĩa của giai đoạn phát triển và thành tựu, lại chẳng mảy may xuất hiện trong tâm trí họ. Họ chỉ thốt ra những ngôn từ của các nghi lễ một cách vô tâm, như “quán tưởng,” “thiền định,” và “chú tâm,” sử dụng mọi loại ngôn từ hoa mỹ, thổi kèn trum-pét, đánh các xập xõa và trống. Cuối cùng, đến thời điểm quan trọng nhất, giai đoạn thực hành khi mà họ cần phải trì tụng minh chú, thì vào lúc đó, họ lại cảm thấy như vừa thoát xong trách nhiệm của mình. Họ không còn cố gắng nữa dù chỉ để ngồi thẳng lưng. Họ bắt đầu hút thuốc lá, nguồn gốc của hàng trăm hành động sai trái,192 và tuôn ra một kho đầy ắp những lời huyên thuyên vô ích, bàn cãi không dứt mọi chuyện ở địa phương từ các đỉnh núi tới đáy thung lũng, từ các đường đèo tới những vùng đất trũng. Trong
+
+426
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+khi huyên thuyên, họ dùng thì giờ lần chuỗi bằng các ngón tay với tốc độ cao nhất, như thể họ đang làm xúc xích. Về chiều, liếc nhìn bầu trời và ngó chừng vị trí mặt trời, họ bắt đầu hát cùng với tiếng loảng xoảng huyên náo của các xập xõa “Vajra puspe dhupe...”193 và v.v... Hành lễ như vậy không phải là hành lễ đúng đắn, thậm chí không cả được là sự phản chiếu của một sự phản chiếu của một buổi lễ. Thật không có gì phải nghi ngờ rằng việc trì tụng chỉ một lần Kinh Sám Hối hoặc bài Phổ Hiền Hạnh Nguyện Tán, với tâm nguyện hoàn toàn thanh tịnh, còn có lợi lạc hơn nhiều [so với những nghi lễ được cử hành không đúng đắn].
+
+Khi trì tụng một cách bất tịnh và cử hành các nghi lễ một cách bôi bác thì các Lạt Ma này khiến cho người chết bị tái sinh vào những cõi thấp kém hơn. Tương tự như vậy, đối với người sống, họ cũng sẽ chỉ làm hại nhiều hơn là đem lại lợi ích với cách thức hành lễ của họ. Hơn nữa, việc lạm dụng các cúng dường của người khác theo cách này hoàn toàn giống như “nuốt những viên kim khí nóng đỏ.”194
+
+Các Lạt Ma và nhà sư hưởng lợi lạc từ những cúng dường của thí chủ và từ những tài sản của người đã chết, cho nên việc hành trì của họ, từ trong tâm khảm, phải mang một ý nghĩa nào nhiều hơn là chỉ đơn thuần lượng định về khối lượng thịt, về độ dày của miếng phó mát, và về chất lượng của các phẩm vật cúng dường mà họ nhận được. Dù họ cử hành nghi lễ cho người đang bệnh hay người đã mất, thì đối với những chúng sinh này, những giây phút hành lễ này thật là vô cùng quan trọng. Đối với những người đã chết không biết nương tựa nơi đâu, để thoát khỏi đau khổ, họ cần được quan tâm và bảo vệ bằng lòng từ và bi của Bồ Đề Tâm, cùng ước nguyện chân thành của vị Lạt Ma hành lễ muốn cứu giúp họ. Một cách chân thành và không sao lãng, các vị Lạt Ma phải cố gắng hết sức để thực hành bất kỳ pháp nào mà họ biết về giai đoạn phát khởi và thành tựu. Nếu họ không biết chút gì về các pháp
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+này thì họ chỉ nên cố gắng tập trung tư tưởng vào ý nghĩa của các ngôn từ mà họ đang trì tụng. Và ít nhất, họ nên tập trung toàn thể thân, khẩu, ý họ vào lòng từ và bi đối với các chúng sinh đang đau khổ, và tập trung lòng tin của họ vào năng lực không thể nghĩ bàn của Tam Bảo. Nếu họ cũng có thể đảm bảo được rằng họ thực hiện nghi lễ một cách đúng đắn nhờ vào việc đã trì tụng các văn bản và các câu minh chú khác nhau một cách chính xác, thì chắc chắn rằng nhờ vào lòng bi mẫn của Tam Bảo, nhờ năng lực không thể nghĩ bàn của các quả thiện hạnh và nhờ lợi lạc vô biên của Bồ Đề Tâm, họ thực sự có thể giúp đỡ được người bệnh hoặc người chết. Đó là tất cả những gì các Lạt ma nên cố gắng thực hiện. Như trong câu nói “làm tan biến các chướng ngại của riêng mình trên nệm ngồi của người khác,”* họ sẽ đồng thời hoàn tất hai phần tích lũy công đức cho chính họ và cho những người khác. Họ cũng gia hộ tất cả những ai có liên hệ với họ đến với con đường giải thoát.
+
+Ngày nay, có những Lạt ma và nhà sư được coi là ít nhiều giỏi hơn những người khác, và là những người hiểu biết nguyên lý nhân quả, đã quá sợ hãi các ô nhiễm liên quan đến các phẩm vật cúng dường đến nỗi họ từ chối ngay cả việc phải gia trì hay hồi hướng cho những chúng sinh đau khổ đang bệnh tật hoặc đang sắp chết. Hành động như vậy thì họ đã chặt đứt gốc rễ từ và bi của Bồ Đề Tâm.
+
+Nhưng đa số cực kỳ ích kỷ. Họ tham dự vào các buổi lễ theo lời thỉnh cầu của những thí chủ. Nhưng thay vì trì tụng điều gì mà gia đình hữu sự cần, thì họ lôi những kinh sách cầu nguyện của riêng mình ra, đây là những kinh sách cáu bẩn và sờn rách vì đã sử dụng lâu ngày, và như là một cách bào chữa, các Lạt ma này nói rằng không ai được làm gián đoạn
+
+* Điều này có nghĩa là bất kỳ công phu hành trì nào được thực hiện với động cơ giúp đỡ người khác sẽ làm lợi lạc không chỉ người đó mà cả cho người đang hành trì công phu.
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+sự liên tục trong công phu hành trì riêng của các Lạt Ma ấy. Rồi họ trì tụng kinh sách của riêng họ trong khi những người khác thì lại đang đọc các bài cầu nguyện.195 Bất kỳ lúc nào, cho dù họ đọc các bài nguyện ngắn nhất để cầu xin cho bản thân mình được tốt lành, thì họ cũng vô cùng thận trọng, và tuyên bố rằng họ đang tịnh hóa các chướng ngại của riêng mình hay tịnh hóa việc họ đã lạm dụng các vật cúng dường. Nhưng họ lại coi việc cầu nguyện trong những hội chúng đông đảo vì lợi lạc của những thí chủ là những việc vặt vãnh làm họ mệt nhọc. Họ luôn nhìn vơ vẩn, muốn gì nói nấy và thậm chí chẳng màng tưởng nghĩ gì đến người đã chết hay người còn đang sống mà họ có nhiệm vụ phải che chở gia hộ. Những việc làm này chặt đứt tận gốc rễ lòng từ bi của Bồ Đề Tâm. Sau này, cho dù họ có nỗ lực tự tịnh hóa sự lạm dụng các vật cúng dường đi nữa, thì thái độ xấu xa và ích kỷ của họ sẽ khiến việc tịnh hóa của họ rất khó thành công.
+
+Thay vào đó, ngay từ đầu hãy lấy lòng từ và bi của Bồ Đề Tâm làm nền tảng căn bản. Đừng bao giờ từ bỏ ước nguyện giúp đỡ người khác. Hãy nỗ lực chân thành để tận tụy áp dụng mọi hiểu biết của mình về hai giai đoạn phát khởi và thành tựu. Như vậy, việc thiền định về giai đoạn phát khởi và thành tựu, cùng việc trì tụng minh chú ở nhà người khác sẽ không có gì khác biệt với việc công phu hành trì tại nhà mình. Trong cả hai trường hợp, việc gạt bỏ các tư tưởng ích kỷ và việc quan tâm giúp đỡ người khác đều cần thiết như nhau. Ta cần phải có cả hai thái độ này.
+
+Nếu giữ cho tâm không sao lãng và không trộn lẫn những câu trì tụng với ngôn ngữ tầm thường, thì chắc chắn rằng, việc tụng đọc không gián đoạn bài bách tự minh chú một trăm lẻ tám lần sẽ tịnh hóa tất cả các ác hạnh, tất cả các chướng ngại cùng tất cả các bội tín và các vi phạm giới nguyện và vi phạm mật nguyện. Hứa nguyện của Kim Cang
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Tát Đoả là như vậy. Trong Diệt Tội Trang Nghiêm Sám Hối Mật Điển có nói:
+
+Bách tự minh chú là tinh túy của tâm Giác Ngộ của tất cả các Đấng Thiện Thệ. Bài minh chú này tịnh hóa mọi sự phá giới, mọi vi phạm, mọi chướng ngại thuộc ý niệm (sở tri chướng).
+
+Bách tự minh chú là pháp sám hối siêu việt, và việc trì tụng bài minh chú này một trăm lẻ tám lần không gián đoạn sẽ chữa lành được mọi sự phá giới, vi phạm, và sẽ cứu ta khỏi bị đọa vào ba cõi thấp.
+
+Chư Phật trong quá khứ, hiện tại và vị lai sẽ nhìn kẻ hành giả trì tụng bài minh chú này trong công phu hằng ngày như là đứa con xuất sắc nhất của các Ngài, ngay cả trong chính đời này, và sẽ che chở và gia hộ kẻ ấy.
+
+Vào lúc chết, chắc chắn người ấy sẽ trở thành người xuất chúng nhất trong những bậc trưởng tử của tất cả chư Phật.
+
+Đối với sự bội ước hay vi phạm mật nguyện nào mà ta có thể mắc phải sau khi đã bắt đầu bước trên con đường Kim Cương Thừa, thì việc trì tụng mỗi ngày hai mươi mốt biến bách tự minh chú trong khi thiền quán về đức Kim Cang Tát Đoả sẽ tạo nên nhiều lợi lạc gọi là “năng lực gia trì cho những sa ngã.” Trì tụng như vậy hằng ngày sẽ ngăn cản không để cho hậu quả của những sa ngã này phát triển hoặc tăng trưởng. Trì tụng một trăm ngàn lần bài ấy sẽ hoàn toàn tịnh hóa mọi sa ngã. Trong Bảo Trang Tối Yếu có nói:
+
+Trì tụng đúng đắn hai mươi mốt biến bách tự minh chú, Trong khi quán tưởng rõ ràng đức Kim Cang Tát Đoả
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+Ngự trên toà sen trắng và đài trăng,
+Tạo thành năng lực gia trì nâng ta khỏi sa ngã,
+Can ngăn không cho sa ngã tăng trưởng.
+Các Đại Thành Tựu Giả đã dạy như thế.
+Vì thế, hãy luôn luôn hành trì pháp môn này.
+Nếu trì tụng bách tự minh chú một trăm ngàn lần,
+Con sẽ trở thành hiện thân đích thực của sự cực kỳ thuần tịnh.
+
+Ngày nay ở Tây Tạng không có một Lạt Ma, một vị sư, cư sĩ nam hay nữ nào mà chưa từng thọ nhận một lễ quán đảnh và vì thế không ai không hành trì Mật Tông. Giờ đây, một khi ta đã đi vào Mật Thừa, nếu không giữ các mật nguyện thì ta sẽ đi xuống địa ngục, và nếu trì giữ mật nguyện thì ta sẽ đạt được Phật Quả viên mãn. Không có con đường thứ ba. Giống như đối với một con rắn bò theo bề dài trong thân cây tre, có thể nói rằng chỉ có hai cách để chui ra – thẳng lên hoặc thẳng xuống. Trong Kho Báu Thiện Đức có nói:
+
+Một khi đã ở trong Mật Thừa, con chỉ có thể hoặc đi xuống các cõi thấp,
+Hoặc đạt tới Phật Quả; không có hướng thứ ba.
+
+Các mật nguyện trong Kim Cương Thừa thì sâu sắc, rất nhiều và khó giữ. Ngay cả đại đạo sư như Ngài Atisa đã nói rằng sau khi bắt đầu tu tập trên con đường Kim Cương Thừa, ngài đã liên tục mắc phạm hết lỗi lầm này đến lỗi lầm khác. Đối với chúng ta ngày nay có rất ít cách đối trị. Sự tỉnh giác của ta thì yếu ớt và ta lại không có sự cẩn mật. Thậm chí chúng ta không thực sự hiểu rõ các loại sa ngã khác nhau là
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+gì. Bởi vì những sa ngã của chúng ta chắc chắn lúc nào cũng nhiều như mưa rơi trút xuống đầu nên điều tối quan trọng để chữa trị là ta cần thực hành thiền quán và trì tụng Kim Cang Tát Đỏa hằng ngày, hoặc ít ra nhất định phải trì tụng bài bách tự minh chú hai mươi mốt lần mỗi ngày.
+
+Ngay cả đối với người đã nắm vững được những điểm tinh yếu của hai giai đoạn phát khởi và thành tựu, vốn là những người, nương vào sự tỉnh giác, tính cẩn mật và v.v... đã tránh không vi phạm các mật nguyện, thì việc sám hối và tịnh hóa vẫn là điều cần thiết. Bởi vì trên thực tế, bất kỳ tiếp xúc nào qua lời nói hoặc hành động với một người đã từng phá vỡ các mật nguyện gốc (root samayas) – cho dù ta chỉ uống nước trong cùng một thung lũng với người phạm lỗi đó thì cũng đủ để tạo thành các lỗi lầm được gọi là “sự vi phạm qua giao tiếp” hoặc “sự vi phạm ngẫu nhiên”. Các Mật điển có nói:
+
+Khi kết giao với những người vi phạm mật nguyện hay đáp ứng các ước muốn của họ,
+
+Khi giảng Pháp cho họ hoặc cho những người không thích hợp để nghe,
+
+Khi không tránh được tất cả những kẻ vi phạm giới nguyện, chúng con biết chúng con cũng bị ô nhiễm
+
+Bởi các chướng ngại của những phạm đó,
+
+Sẽ đem lại nghịch cảnh trong đời này và các chướng ngại trong đời sau,
+
+Tràn đầy hối hận, chúng con xin bày tỏ và sám hối tất cả những lỗi lầm này.
+
+Nếu chỉ một người trong đại chúng vi phạm mật nguyện, thì một trăm hay một ngàn người khác đã giữ các thệ nguyện riêng của họ sẽ bị ô nhiễm tới mức họ sẽ không nhận được sự
+
+III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+lợi lạc từ công phu hành trì của họ. Cái đó cũng giống như chỉ một giọt sữa chua biến toàn thể hũ sữa tươi thành chua, hoặc một con ếch bị đau làm rầu cả bầy ếch. Như có câu nói rằng:
+
+Một giọt sữa chua
+Làm cả bầu sữa thành chua.
+Một hành giả suy đồi
+Làm hư hại tất cả các hành giả du già khác.
+
+Hơn nữa, không có vị Thầy nào, dù là đại Đạo Sư hay thành tựu giả, có thể thoát khỏi ô nhiễm do những vi phạm mật nguyện này. Câu chuyện của đại Đạo Sư Lingje Repa minh chứng điều này. Khi Ngài đang ở trong thánh địa Tsari, Thiên Nữ Shingkyong bắt đầu gây các chướng ngại cho Ngài. Vào buổi trưa, bà đem xuống một bóng tối dày đặc đến nỗi các vì sao xuất hiện và sáng rực trên bầu trời. Tuy thế không gì có thể ngăn cản việc Ngài đi tới bờ Hồ Máu Đỏ Sẫm, ở đó Ngài múa hát một bài ca Kim Cương, và để lại các dấu chân trên tảng đá mà ngày nay vẫn còn có thể thấy được. Tuy nhiên, về sau trong cuộc đời Ngài, khi một đệ tử đã phá vỡ mật nguyện đến thăm Ngài – thì ngay cả một Đạo Sư đã thành tựu như Ngài vẫn có thể bị ô nhiễm. Ngài trở nên cuồng giận và bị cấm khẩu.
+
+Tương tự như vậy, chúng ta thấy trong các bài ca Kim Cương của Thành Tựu Giả Urgyenpa hát rằng:
+
+Ta, Rinchen Pel, kẻ hành khất từ Xứ Tuyết,
+Bị đánh bại không bởi kẻ thù nào khác ngoài sự ô nhiễm của việc vi phạm mật nguyện,
+Và đã được che chở không bởi bằng hữu nào khác ngoài vị Thầy của ta.
+
+433
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Vi phạm các giới mật của Kim Cương Thừa là một lỗi lầm lớn lao, và trì giữ các giới ấy thì cực kỳ khó khăn. Khi ta không tự kiểm soát một cách thận trọng mà cho rằng mình đang trung thành trì giữ các giới nguyện và cảm thấy tự hào về điều này thì đây cũng là một điều sai lầm cực kỳ nghiêm trọng.
+
+Các Mật điển đã từng giảng dạy rằng chỉ lãng quên trong giây lát sự hợp nhất [thân, khẩu, ý của ta với] thân, khẩu, và ý của ba mạn đà la$^{196}$ đã là một vi phạm các giới mật của Kim Cương Thừa rồi. Vì thế việc trì giữ các mật giới thì thật khó khăn. Nói một các tường tận hơn, có tới một trăm ngàn mật nguyện khác nhau – một con số hết sức lớn. Theo các Mật điển, việc vi phạm các giới nguyện này sẽ đem đến cho chúng ta các bất hạnh như sau:
+
+*Yêu quái Kim Cương sẽ uống tâm huyết$^{197}$ của con,*
+
+*Đời sống sẽ ngắn ngủi và bệnh hoạn, tài sản sẽ tan biến, kẻ thù sẽ khủng bố,*
+
+*Trong Địa Ngục A Tì cực kỳ kinh khiếp*
+
+*Con sẽ trải qua những đau khổ dằng dặc và không thể chịu đựng nổi.*
+
+Vì thế, để cứu chữa tất cả mọi vi phạm, lỗi lầm, và các sa ngã chìm nổi, hãy luôn luôn làm tất cả những gì mình có thể làm được để hành trì pháp môn thiền quán và trì tụng Kim Cang Tát Đoả, cùng sám hối tất cả các lỗi lầm đó bằng bài bách tự minh chú. Như các bậc Thầy vĩ đại ngày xưa thường nói:
+
+*Trước hết, tốt nhất là giữ cho không bị nhơ bẩn bởi các ác hạnh, nhưng một khi ác hạnh đã xảy ra, thì điều quan trọng là phải sám hối.*
+
+# III. THIỀN QUÁN KIM CANG TÁT ĐỎA (VAJRASATTVA)
+
+Việc vi phạm các mật nguyện Kim Cương Thừa thì dễ sửa chữa, bởi lẽ chúng có thể được tịnh hóa bằng pháp sám hối. Trong truyền thống Thanh Văn, mắc phạm một tội của giới Ba La Đề Mộc Xoa$^{198}$ thì giống như đập vỡ một cái bình bằng đất nung: đơn giản là không có cách để vá sửa được nữa. Còn làm vỡ bể các giới nguyện Bồ Tát thì giống như làm bể một đồ vật bằng kim loại quí. Một đồ vật như thế có thể được vá lành nếu giao được cho một thợ vàng khéo léo. Tương tự như vậy, việc các vi phạm giới nguyện có thể được tịnh hóa với sự trợ giúp của một bậc thiện tri thức. Đối với các giới nguyện Kim Cương Thừa, việc mắc phạm vào các sa ngã thì giống như việc làm mẻ một vật bằng kim khí quí báu. Ta có thể hoàn toàn tự tịnh hóa việc sai phạm đó, chỉ đơn giản bằng cách sám hối, dựa vào sự hỗ trợ của Bổn Tôn, câu minh chú, và định. Nếu lỗi lầm được sám hối ngay lập tức thì việc tịnh hóa thật dễ dàng. Nếu trì hoãn càng lâu dài thì lỗi lầm càng lớn, và sự sám hối càng thêm khó khăn. Nếu trì hoãn hơn ba năm, thì không sám hối được sa ngã đó. Ngay cả nếu có sám hối thì cũng không tịnh hoá được.
+
+Một số người có khả năng thiên phú, có thể sử dụng năng lực và phước báu của lời nói của mình để làm lợi lạc cho họ lẫn những người khác bằng cách che chở [cho mình và cho người], như chặn đứng sương giá, ngăn ngừa mưa đá, chấm dứt dịch hạch, chữa lành bệnh người lớn và trẻ em và v.v.. Ngay cả những người như thế, để có thể duy trì khả năng và các phước báu đó, cũng cần tịnh hóa các chướng ngại của ngôn ngữ. Để làm điều đó, không có phương tiện nào tốt hơn việc trì tụng bách tự minh chú. Khi trì tụng minh chú thì phải cần trì tụng một cách chân thành và liên tục.
+
+Bổn Sư đáng kính của tôi thường nói đùa rằng những kẻ có thể che chở những người khác và sử dụng các vật cúng dường chắc chắn cần phải bắt đầu tịnh hóa các chướng ngại
+
+435
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+thuộc về ngôn ngữ (khẩu) bằng cách hoàn tất việc trì tụng mười triệu lần bài bách tự minh chú. Trong thực tế, nhiều đệ tử của Ngài đã thực sự trì tụng bài bách tự minh chú mười hoặc thậm chí hai mươi triệu lần, và không có một ai trong số họ không hoàn tất ít nhất hai hoặc ba trăm ngàn lần trì tụng.
+
+Đạo Sư Kim Cang Tát Đoả là hiện thân một trăm vị Phật. Ngài được gọi là “Kim Cang Tát Đoả - Vajrasattva, Vị Hộ Phật Duy Nhất Của Đại Ẩn Mật.” Trong toàn thể hằng hà sa số không thể nghĩ bàn của các Bổn Tôn (yidam) an bình và phẫn nộ, không có vị nào mà Ngài không ứng thân vào. Khi thiền định về Ngài, hãy xem Ngài là một với bản tánh của Bổn Sư gốc của mình. Đây là phương thức thực hành pháp Bổn Sư Du Già (Guru Yoga) “theo phương cách của viên ngọc quý bao gồm tất cả.”199 Đây là phương pháp tối hậu, thâm diệu nhất trong tất cả các pháp tu. Bởi lẽ, như tôi đã nói, bách tự minh chú là minh chú siêu vượt, cần phải hiểu rõ ràng không có pháp hành trì nào vi diệu hơn pháp hành trì này.
+
+Con từng nghe giáo huấn lợi lạc, nhưng đã bỏ mặc qua bên như những ngôn từ.
+
+Con từng hành trì chút ít, nhưng đã bị tật sao lãng phỉnh lừa.
+
+Xin từ bi gia hộ cho con và tất cả chúng sinh quỷ quái như con,
+
+Để chúng con có thể rút tỉa được tinh yếu của hai giai đoạn phát triển và thành tựu.
+
+[Hình: Mandala với các ký tự Tây Tạng]
+
+[Hình: Mạn Đà La của Vũ Trụ]
+
+Mạn Đà La của Vũ Trụ
+
+Đây là một biểu tượng ba chiều trình bày toàn thể thế giới theo vũ trụ quan của Ấn Độ cổ, được quán tưởng trong một mạn đà la cúng dường. Ngọn núi Tu Di vuông vức, bề ngang chóp núi rộng hơn chân núi, ở trên cùng được điểm bằng cung điện của Vua Trời Đế Thích (Indra), chung quanh bao gồm bốn trung châu và các tiểu trung châu. Trên cao hơn nữa là những cõi Trời thuộc sắc giới và vô sắc giới.
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+# CHƯƠNG BỐN
+# CÚNG DƯỜNG MẠN ĐÀ LA ĐỂ VUN BỒI PHƯỚC TUỆ
+
+Ngài hiểu rõ những gì tương đối đều là dối gạt, nhưng Ngài vẫn vun bồi (hai bồ công đức).
+Ngài thấu suốt rằng trong viên mãn chẳng có gì để thiền định, nhưng Ngài vẫn thực hành thiền định.
+Ngài thấy tương đối và viên mãn thảy hợp nhất,* nhưng Ngài vẫn tinh tấn thực hành.
+Đạo Sư Vô Song, con đảnh lễ dưới chân Ngài.
+
+## I. SỰ CẦN THIẾT CỦA VIỆC VUN BỒI HAI BỒ CÔNG ĐỨC
+
+Ta không thể đạt được sự thuần tịnh hỗ tương$^{200}$ của Phật Quả hoặc hoàn toàn thấu suốt chân lý của tánh Không mà không hoàn tất việc vun bồi hai bồ công đức (phước đức và trí tuệ). Như trong Kinh điển có nói:
+
+Chừng nào ta chưa hoàn tất vun bồi hai bồ công đức thiêng liêng,
+Ta sẽ không bao giờ chứng ngộ được tánh Không vi diệu.
+
+Và:
+
+Trí tuệ nguyên sơ tối thượng chỉ có thể hình thành
+
+* Theo nghĩa đen. “Ngài đã thể nhập trạng thái hợp nhất bất khả phân.”
+
+439
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Như là dấu hiệu của công đức đã được tích lũy và chướng ngại đã được tịnh hóa,
+Cũng như nhờ lực gia trì của một bậc Thầy chứng ngộ.
+Hãy biết rằng đặt niềm tin vào bất kỳ phương tiện nào khác là điều điên rồ.
+
+Ngay cả những người đã thực sự chứng ngộ tánh Không cũng cần duy trì những bước tiến của họ trên con đường tu cho tới khi họ đạt được Phật Quả viên mãn, và vì thế họ vẫn cần nỗ lực vun bồi công đức. Đức Tilopa, Pháp Vương của các hành giả du già, đã nói với Naropa rằng:
+
+Naropa, con ta, cho tới khi con chứng ngộ được rằng
+Mọi hình tướng –những gì xuất hiện do duyên tương khởi
+Thực ra không bao giờ sinh khởi, không bao giờ xa lìa,
+Thì hai bánh xe cho cỗ xe của con, là sự tích lũy công đức.
+
+Bậc hành giả du già vĩ đại Virupa đã nói trong Doha (bài chứng đạo ca) của Ngài:
+
+Bạn có thể có sự xác tín vĩ đại không mong cầu Phật Quả tương đối*
+Nhưng đừng bao giờ từ bỏ việc vun bồi công đức vĩ đại;
+hãy nỗ lực tối đa trong khả năng của bạn.
+
+Và Đức Dagpo Rinpoche vô song nói:
+
+* Điều này ám chỉ một trạng thái tu chứng, có lòng tin không thể lay chuyển nơi Phật tánh đã vẫn từng hiện diện trong bản tâm.
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+Ngay cả khi sự chứng ngộ của bạn siêu vượt các ý niệm cho rằng chẳng có gì để vun bồi hay tịnh hóa,201 hãy cứ tiếp tục tích tụ ngay cả những lượng công đức nhỏ bé nhất.
+
+Đấng Chiến Thắng, nương nơi lòng đại bi và nương nơi các phương tiện thiện xảo, đã giảng dạy vô số phương pháp để giúp ta thực hiện việc tích tụ công đức. Phương pháp tốt nhất trong các phương pháp này là cúng dường mạn đà la. Trong một Mật điển có nói:
+
+*Cúng dường chư Phật trong tất cả các cõi Phật*
+*Toàn thể tam thiên đại thiên thế giới*
+*Tràn đầy tất cả những gì có thể ao ước,*
+*Sẽ làm viên mãn trí huệ nguyên sơ của chư Phật.**
+
+Theo truyền thống này, khi cử hành cúng dường mạn đà la như thế, chúng ta sử dụng hai mạn đà la riêng rẽ: mạn đà la thành tựu và mạn đà la cúng dường.
+
+Vật liệu nào có thể dùng để làm mạn đà la thì tùy thuộc vào khả năng tài chánh của bạn. Loại đế mạn đà la (mandala base) tốt nhất được cấu tạo bằng các chất liệu quý như vàng và bạc. Một đế mạn đà la chất lượng trung bình làm bằng thứ kim loại để đúc chuông hoặc một vài vật liệu tốt khác. Trong trường hợp tệ nhất, bạn có thể sử dụng ngay cả một phiến đá nhẵn phẳng hoặc một miếng gỗ.
+
+Những phẩm vật cúng dường lý tưởng nhất được đặt trên đế (base) của mạn đà la gồm có các loại đá quý: ngọc lam, san hô, ngọc bích, ngọc trai và những thứ khác. Tốt bậc nhì là các loại trái cây có dược tính như arura, và kyurura. Bình thường thì chúng gồm
+
+** Có nghĩa là sự tích tụ công đức qua pháp tu này sẽ cho phép trí huệ viên mãn của Phật tánh của ta hiển lộ.
+
+441
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+có các loại hạt như lúa mạch, lúa mì, gạo hay các hạt đậu, nhưng trong trường hợp tệ nhất thì bạn cũng có thể sử dụng ngay cả đá cuội, sỏi, cát và v.v... - đây chỉ đơn thuần là một sự hỗ trợ cho công phu quán tưởng của bạn.
+
+Dù đế mạn đà la của bạn được làm bằng bất kỳ vật liệu gì, hãy lau chùi sạch sẽ với sự cẩn trọng cao độ.
+
+II. MẠN ĐÀ LA THÀNH TỰU202
+
+Hãy khởi sự bằng cách xếp đặt năm tụ (pile) trên mạn đà la thành tựu.203
+
+Hãy đặt một tụ nhỏ ở giữa tượng trưng cho Đức Phật Tỳ Lô Giá Na (Vairocana) có các Bổn Tôn trong Phật Bộ vây quanh. Đặt một tụ khác ở hướng đông - có nghĩa là hướng về phía bạn204- tượng trưng cho Đức Phật Vajra A Súc Bệ (Aksobhya) được vây quanh bởi các Bổn Tôn thuộc Kim Cương Bộ. Rồi đặt một tụ ở phương nam tượng trưng cho Đức Phật Bảo Sanh (Ratnasambhava) được vây quanh bởi các Bổn Tôn của Bảo Sanh Bộ, đặt một tụ ở phương tây tượng trưng cho Đức Phật A Di Đà (Amitabha) được vây quanh bởi các Bổn Tôn thuộc Liên Hoa Bộ, và một tụ ở phương bắc tượng trưng cho Đức Phật Bất Không Thành Tựu (Amoghasiddhi) có các Bổn Tôn thuộc Nghiệp Bộ vây quanh.
+
+Cũng có thể quán tưởng ruộng công đức như trong phần thực hành quy y. Thêm vào đó, tụ trung tâm (central pile) tượng trưng cho Đại Đạo sư xứ Oddiyana, bất khả phân với vị Thầy gốc của bạn cùng tất cả các bậc Thầy của dòng Đại Viên Mãn ở trên Ngài, được sắp xếp trật tự, vị này trên vị kia. Tụ phía trước (front pile) tượng trưng cho Đức Phật Thích Ca Mâu Ni, được vây quanh bởi một ngàn lẻ hai Đức Phật của Hiền Kiếp này. Tụ bên phải (right pile) sẽ tượng trưng cho Tám Trưởng Tử Vĩ Đại (Tám Đại Bồ Tát) của Đức Thích Ca,
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+vây quanh bởi Tăng đoàn cao quý của chư vị Bồ Tát, và tụ bên trái (left pile) tượng trưng Hai Thanh Văn trưởng tử, được Tăng đoàn cao quý gồm các Thanh Văn và Phật Độc Giác vây quanh. Tụ phía sau sẽ là Viên Ngọc Quý của Pháp (Pháp Bảo), trong hình thức các quyển sách dựng lên được bọc trong một cái lưới bằng tia sáng.
+
+Trong bất kỳ cảnh ngộ nào, hãy đặt ‘mạn đà la thành tựu’ này trên bàn thờ hoặc trên một giá đỡ thích hợp khác. Nếu có thể có được thì bạn hãy đặt năm vật cúng dường sau đây (hoa, hương nhang, đèn, dầu thơm, và thực phẩm) quanh mạn đà la và đặt mạn đà la ấy trước các biểu tượng thân, khẩu và ý của Đức Phật. Nếu không thể làm được như vậy, thì cũng có thể bỏ qua mạn đà la thành tựu, và chỉ cần quán tưởng ruộng công đức.
+
+III. MẠN ĐÀ LA CÚNG DƯỜNG
+
+Dùng tay trái cầm đế của mạn đà la cúng dường, còn cổ tay phải liên tục lau mặt đế trong khi tụng bài thất chi nguyện (seven-lined prayer) và những bài nguyện khác, không được sao lãng khi đang quán tưởng.
+
+Việc lau chùi đế mạn đà la này không chỉ tẩy sạch bất kỳ bụi bặm nào trên đế. Đây cũng là một cách nỗ lực dụng công để tự giải thoát khỏi hai chướng ngại ngăn che tâm thức chúng ta. Chuyện kể rằng các hành giả Kadampa vĩ đại trong quá khứ đã lau chùi mạn đà la của các Ngài bằng mặt dưới cổ tay cho tới khi da mòn đi và bắt đầu làm thành các vết thương. Các Ngài vẫn tiếp tục và dùng tới cạnh của cổ tay. Khi vết thương hình thành ở đó, các Ngài thay thế bằng lưng cổ tay. Vì vậy khi tẩy chùi đế mạn đà la, bạn đừng dùng khăn len hay vải mà chỉ dùng cổ tay giống như các hành giả Kadampa vĩ đại trong quá khứ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Khi xếp đặt những tụ cúng dường trên cái đế, hãy làm trong lúc tụng bài nguyện tên là *Mạn Đà La Ba Mươi Bảy Cúng Phẩm*, do Ngài Chogyal Pakpa, bậc Gia Hộ Chúng Sinh của phái Sakya soạn ra. Phương pháp này dễ thực hành, và vì thế được mọi truyền thống cũ và mới chấp nhận không phân biệt. Ở đây chúng ta bắt đầu bằng việc cúng dường mạn đà la theo cách này bởi đó cũng là truyền thống của ta.
+
+Cả Cổ phái lẫn Tân phái đều có những phương pháp khác nhau, mỗi phương pháp phù hợp với tập quán riêng của truyền thống đó. Quả thật, mỗi kho tàng tâm linh của truyền thống Nyingma có cách cúng dường mạn đà la riêng. Trong truyền thống đặc biệt này của chúng ta có một vài bài nguyện cúng dường mạn đà la chi tiết của ba Thân được Đức Toàn Giác Longchenpa giảng dạy trong các tài liệu Tâm-Yếu$^{205}$ khác nhau. Một vài tâm yếu trong số này có thể được chọn lựa.
+
+1. Cúng Dường Mạn Đà La Ba Mươi Bảy Cúng Phẩm
+
+Hãy bắt đầu bằng cách đọc câu minh chú:
+
+*Om Vajra Bhumi Ah Hum*
+
+đồng thời cầm mạn đà la trong bàn tay trái và với bàn tay phải, bạn rắc nước hoa có chứa *bajung*$^{**}$ lên đó. Sau đó, với ngón tay cái và ngón đeo nhẫn, hãy lấy một nhúm hạt và đọc:
+
+*Om Vajra Rekhe Ah Hum,*
+
+hãy xoay bàn tay phải trên đế mạn đà la theo chiều kim đồng hồ và sau đó đặt nhúm hạt ở chính giữa. Nếu bạn có một
+
+__________________
+$^{*}$ *ba byung*, một chuẩn bị có tính cách nghi lễ làm bởi năm chất liệu khác nhau lấy từ một con bò.
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+“hàng rào núi sắt”²⁰⁶ được làm sẵn thì bây giờ là lúc đặt nó trên mạn đà la và đọc:
+
+*Núi Tu Di, Vua của các Núi,*
+
+đặt một tụ lớn ở giữa. Để sắp đặt bốn đại châu, hãy đọc:
+
+*Ở phương Đông, cõi Đông Thắng Thần Châu (Purvavideha)...*
+
+và đặt một tụ nhỏ ở phương đông, nó có thể ở về phía bạn, hoặc ở phía đối nghịch hướng về những vị mà bạn đang cúng dường.²⁰⁷ Rồi đặt ba tụ cho các châu lục khác, xoay tròn theo chiều kim đồng hồ bắt đầu từ phương đông.
+
+Để biểu tượng cho các trung châu, Deha, Videha và v.v... lần lượt đặt một tụ ở mỗi bên của từng đại châu.
+
+Kế đó, đặt Núi Báu ở phương đông, Cây Như Ý ở phương nam, Bò Cái Dồi Dào Vô Tận ở phương tây và Mùa Thu Hoạch Tự Nhiên ở phương bắc.
+
+Sau đó đến Bảy Báu Vật tượng trưng của Vương Quyền cộng thêm Bảo Bình Châu Báu Vĩ Đại, chúng được lần lượt đặt ở bốn hướng chính và bốn hướng phụ (kèm giữa các hướng chính).
+
+Kế đó, đặt bốn thiên nữ bên ngoài ở mỗi hướng chính, bắt đầu là Thiên Nữ Sắc Đẹp; và bốn Thiên Nữ bên trong ở bốn hướng trung gian, bắt đầu với Thiên Nữ Tràng Hoa...
+
+Đặt Mặt Trời ở phương đông và Mặt Trăng ở phương tây. Đặt Bảo Cái ở phương nam và Phướn Chiến Thắng Toàn Phương ở phương bắc.
+
+Trong khi bạn đọc,
+
+*Tất cả tài sản của Chư Thiên và loài người, không sót thứ gì...*
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+thì hãy đổ thêm hạt trên phần còn lại khiến không chỗ nào là không đầy tràn. Nếu bạn có một vật trang hoàng trên đỉnh, bây giờ hãy đặt lên đỉnh và đọc:
+
+*Con dâng cúng mạn đà la này lên tất cả các bậc Bổn Sư quang vinh và cao cả của dòng truyền thừa, và lên tất cả chư Phật và Bồ Tát.*
+
+Ở điểm này, một vài người thêm vào những lời như: “..tất cả mọi phần đều xinh tươi và đầy đủ, không thiếu món gì,” nhưng theo Đạo Sư của tôi, đó là một thêm thắt không được tìm thấy trong nguyên bản.
+
+Đối với những gì cần được quán tưởng trong mỗi cúng phẩm, Đạo Sư của tôi khi ban giáo lý đã không nói thêm bất kỳ điều gì ngoài điều này, vì thế bản thân tôi sẽ không viết gì thêm ở đây. Tuy nhiên, đối với những ai muốn hiểu thêm chi tiết thì nên tham khảo *Yếu Nghĩa Mật Kinh*, như đã được đề nghị trong bản văn căn bản dùng để giảng giải về các pháp thực hành dự bị này.<sup>208</sup>
+
+2. Cúng Dường Mạn Đà La Của Ba Thân Theo Bản Văn Này
+
+2.1. MẠN ĐÀ LA THÔNG THƯỜNG<sup>209</sup> CỦA HOÁ THÂN
+
+Bốn trung châu (lục địa) được đề cập ở trên được sắp xếp theo cách sắp xếp các tụ vật cúng dường, với Núi Tu Di ở giữa và các cõi trời Phạm Thiên (Brama) ở trên, tạo thành một thế giới. Một ngàn thế giới này tạo thành cái được gọi là “một thế giới bậc nhất gồm một ngàn thế giới.” Lấy một thế giới gồm một ngàn thế giới như thế, mỗi thế giới với bốn trung châu, và nhân một ngàn thế giới này lên một ngàn lần, chúng ta có một
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+cái gọi là “một thế giới trung gian bậc hai gồm một ngàn lần một ngàn thế giới,” hay một thế giới gồm một triệu thế giới. Lấy một thế giới gấp triệu lần như thế và lại nhân nó lên một ngàn lần cho ta “một hệ thống thế giới vĩ đại bậc ba gồm một ngàn triệu thế giới,” hay một vũ trụ gồm có một tỉ thế giới. Một thế giới ở bậc này, tạo bởi một ngàn triệu thế giới, mỗi thế giới có bốn trung châu, nằm dưới sự cai quản của một Hóa Thân Phật duy nhất - chẳng hạn Đức Phật Thích Ca Mâu Ni, mà cõi Phật của Ngài được gọi là Thế Giới Kham Nhẫn.210
+
+Hãy tưởng tượng trong khắp hằng hà sa số thế giới không thể nghĩ bàn này, tất cả những kho tàng tuyệt hảo nhất được tìm thấy trong các cõi người hay cõi Trời, như bảy báu vật tượng trưng cho vương quyền và v.v... cho dù những kho tàng hay châu bảo này có thuộc quyền sở hữu hay không thuộc quyền sở hữu của bất kỳ ai. Thêm vào những thứ này là thân thể, tài sản, cuộc đời, vận may, năng lực và sức mạnh của riêng bạn, cũng như tất cả các nguồn công đức mà bạn đã tích tụ trong mọi lúc và sẽ tích tụ trong tương lai, cùng tất cả những gì đã từng có thể đem lại niềm vui và hạnh phúc cho bạn. Hãy chất đầy tất cả những gì tốt đẹp nhất và đáng ao ước nhất, ngay cả một tham muốn hay bám luyến nhỏ bé như hạt mè cũng không thiếu, hãy cúng dường đầy đủ và tất cả những cúng phẩm này không thiếu thứ gì cho Thầy của bạn và các Bổn Tôn Hóa Thân. Đây là pháp cúng dường mạn đà la thông thường của Hóa Thân.
+
+2.2. MẠN ĐÀ LA PHI THƯỜNG CỦA BÁO THÂN
+
+Trên tất cả những thứ đó, hãy tưởng tượng vô vàn các cõi Trời và cung điện không thể nghĩ bàn trong năm cõi Phật vĩ đại,211 tất cả được các Thiên Nữ Tuyệt Mỹ gia trì, được các thiên nữ khác cúng dường bao niềm vui của các cảm thọ, tất cả những năng lực gia hộ và niềm vui này được nhân lên vô hạn. Hãy
+
+447
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+cúng dường tất cả những thứ này cho Thầy của bạn và các Bổn Tôn Báo Thân. Đây là pháp cúng dường mạn đà la phi thường của Báo Thân.
+
+2.3. MẠN ĐÀ LA ĐẶC BIỆT CỦA PHÁP THÂN
+
+Trên cái đế mạn đà la tượng trưng cho Pháp Giới vô sanh tuyệt đối, hãy đặt các tụ tượng trưng cho bốn thị kiến cũng như cho bất kỳ tư tưởng tạo tác nào. Hãy cúng dường tất cả cho vị Thầy và các Bổn Tôn Pháp Thân. Đây là pháp cúng dường mạn đà la đặc biệt của Pháp Thân.
+
+Đối với pháp cúng dường mạn đà la này của ba Thân, hãy duy trì một ý niệm trong sáng về tất cả những giáo huấn thực hành này và với lòng quy ngưỡng, hãy lập lại lời cầu nguyện, bắt đầu bằng:
+
+*Om Ah Hum. Tam thiên đại thiên thế giới, cõi giới gồm một ngàn triệu thế giới...*
+
+...Trong khi bạn tính đếm (counting) các cúng phẩm bạn đang dâng cúng, hãy cầm cái đế của mạn đà la trong bàn tay trái, để nguyên các vật cúng dường lần đầu trên đó, và cứ mỗi lần trì tụng bản văn thì bạn lại đặt thêm một tụ lên trên bằng bàn tay phải. Hãy thực hành với lòng kiên nhẫn, đưa đế mạn đà la lên cho tới khi tay bạn đau tới độ không còn cầm được nữa. “Chịu đựng gian khổ và kiên nhẫn một cách dũng cảm vì Pháp” thì có ý nghĩa hơn việc hoàn toàn nhịn đói.²¹² Đó có nghĩa là luôn luôn quyết tâm hoàn tất bất kỳ pháp hành trì nào cho dù pháp ấy có khó làm chăng nữa, dù ở trong bất cứ hoàn cảnh nào đi nữa. Hãy thực hành như thế này, và trong khi làm thế, bạn sẽ tích lũy được một số lượng khổng lồ công đức nhờ vào sự kiên trì và nỗ lực của bạn.
+
+Khi thực sự không thể cầm mạn đà la được nữa, hãy đặt mạn đà la xuống bàn trước mặt bạn và tiếp tục chồng lên đó các tụ cúng dường và đếm số lần. Khi bạn dừng nghỉ,
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+chẳng hạn để uống trà, hãy gom mọi thứ bạn đã cúng dường lại, và khi bắt đầu trở lại, hãy khởi sự với mạn đà la ba mươi bảy cúng phẩm trước khi tiếp tục như trước.
+
+Hãy quả quyết thực hiện ít nhất một trăm ngàn lần công phu cúng dường mạn đà la theo cách này. Nếu bạn không kham nổi số lượng đó khi sử dụng mạn đà la chi tiết của ba Thân, thì thay vào đó có thể tụng câu kệ bắt đầu bằng:
+
+*Mặt đất được tịnh hóa với nước thơm...*
+
+trong khi cúng dường mạn đà la bảy cúng phẩm.213
+
+Bất kỳ bạn dùng hình thức cúng dường nào, điều quan trọng là áp dụng ba phương pháp siêu việt như trong bất kỳ pháp môn thực hành nào khác. Hãy bắt đầu bằng việc phát khởi Bồ Đề Tâm, sau đó thực hiện chính pháp môn hành trì mà không để cho bất kỳ ý niệm tạo tác nào khởi lên, và niêm phong pháp hành trì cho thật hoàn hảo vào lúc cuối bằng việc hồi hướng công đức.
+
+Nếu đang dùng lúa mạch, lúa mì, hoặc loại hạt khác để cúng dường mạn đà la, chừng nào mà bạn có thể lo liệu được phí tổn thì hãy luôn luôn cúng dường hạt mới và không dùng cùng một hạt hai lần. Những vật đã cúng dường thì bạn có thể đem cho chim muông, phân phát cho những hành khất, hoặc xếp chồng lên trước một biểu tượng của Tam Bảo. Nhưng đừng bao giờ nghĩ rằng đó là của riêng bạn hoặc sử dụng cho bạn. Nếu bạn thiếu tài lực để sắm sửa lại các hạt cúng dường mỗi lần thực hành pháp hành trì này thì hãy cố gắng sắm sửa các hạt mới mỗi khi điều kiện cho phép. Nếu quá nghèo, bạn cũng có thể dùng đi dùng lại số lượng hạt đó.
+
+Tuy nhiên, bạn hãy thường thay đổi hạt, làm sạch các hạt này trước khi cúng dường bằng cách nhặt ra các vật lạ, bụi đất, vỏ trấu, rơm, phân chim và những thứ tương tự, và tẩm hạt bằng nghệ hoặc loại nước hoa khác.
+
+Cho dù giáo lý cho phép dùng vật cúng dường bằng đất và đá, nhưng đây là vì lợi lạc cho những người quá nghèo
+
+449
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+khó đến nỗi không có chút sở hữu nào, hoặc để dành cho những người có năng lực siêu việt đến nỗi chỉ với một hạt bụi duy nhất, tâm họ có thể tạo nên các cõi Phật nhiều như tất cả những hạt bụi trên toàn thể thế giới. Còn bản thân bạn tuy có thể thực sự có được đầy đủ những gì cần thiết, nhưng lại không thể buông bỏ và cúng dường một cách rộng rãi. Bạn có thể quả quyết bằng đủ loại loại lý lẽ đã được cân nhắc và có vẻ rất hợp lý – thậm chí tự thuyết phục mình – rằng bạn đang thực hiện cúng dường bằng cách trì tụng thần chú hoặc bằng quán tưởng. Nhưng bạn sẽ chỉ tự lừa gạt mình.
+
+Hơn nữa, tất cả các Mật điển và giáo huấn cốt tủy đều nói về “các cúng phẩm trong sạch, được chuẩn bị sạch sẽ” hoặc “những cúng phẩm đã được chuẩn bị sạch sẽ.” Các Mật điển không bao giờ khuyên nên dùng “các cúng phẩm dơ bẩn, được chuẩn bị một cách dơ bẩn.” Vì thế đừng bao giờ cúng dường các đồ thừa hay thực phẩm bị ô nhiễm bởi tính keo kiệt hay bụi bẩn. Đừng dành riêng cho mình phần lúa mạch tốt nhất và dùng phần còn lại để cúng dường hoặc làm các bánh cúng (torma) bằng món bột lúa mì xay nhuyễn (tsampa). Các hành giả Kadampa thuở xưa thường nói:
+
+Giữ phần tốt nhất cho bạn và cúng dường phó mát mốc meo và rau quả héo úa cho Tam Bảo là điều không nên làm.
+
+Đừng làm các bánh cúng hoặc đèn cúng dường với những vật liệu hư ôi hoặc thối rữa, trong khi dành những thứ hảo hạng cho mình. Lối hành xử đó sẽ làm cạn kiệt công đức của bạn.
+
+Khi làm shelze²¹⁴ hay các torma, hãy chuẩn bị bột nhào cho vừa vặn (không quá đặc cũng không quá lỏng), với chính độ vừa mà chính bản thân bạn cũng sẽ ưa thích. Thật sai lầm
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+nếu bạn đổ thêm nhiều nước vào bột nhào chỉ để cho dễ làm hơn.
+
+Ngài Atisa thường nói: “Những người Tây Tạng này sẽ không bao giờ có thể giàu có, họ làm bánh cúng bằng bột nhào mỏng teo!”
+
+Ngài cũng nói: “Ở Tây Tạng, chỉ cúng dường nước thôi cũng đủ tích lũy công đức. Ở Ấn Độ trời quá nóng và nước chẳng bao giờ tinh sạch được như ở Tây Tạng đây.”
+
+Như một cách tích lũy công đức, cúng dường nước tinh trong, thanh tịnh sẽ cực kỳ hiệu quả nếu bạn có thể thực hiện việc này thật tinh tấn. Hãy rửa sạch bảy chén cúng dường hoặc các đồ đựng khác và đặt chúng cạnh nhau, đừng quá sát và không quá xa. Chén phải được đặt thẳng tắp, không chén nào trong số đó lệch khỏi hàng. Nước phải tinh khiết không lẫn các hạt, tóc, bụi hoặc các côn trùng nổi ở trong đó. Phải thận trọng khi rót đầy các chén, nhưng đừng quá đầy tới miệng chén, không làm đổ chút nước nào trên bàn cúng dường. Đây là cách thực hiện cúng dường nước tốt đẹp và hoan hỉ.
+
+Phổ Hiền Hạnh Nguyện Tán có nói về các phẩm vật cúng dường “được sắp xếp hoàn hảo, đặc biệt và tuyệt vời...” Cho dù bạn thực hiện hình thức cúng dường nào, nếu bạn làm thật tốt đẹp và hoan hỉ, thì ngay cả trong cách thức sắp đặt, lòng tôn kính mà bạn biểu lộ đối với chư Phật và Bồ Tát trong khi cúng dường sẽ đem lại một lượng công đức bao la. Vì thế hãy nỗ lực chuẩn bị thật chu đáo các phẩm vật cúng dường của bạn.
+
+Nếu bạn thiếu tài lực hoặc không thể thực hiện các pháp cúng dường, thì ngay cả việc cúng dường những vật dơ bẩn hay thô xấu cũng không có gì sai miễn là tác ý của bạn hoàn toàn trong sạch. Chư Phật và Bồ Tát không có ý niệm sạch hay dơ. Có những ví dụ về những sự cúng dường như thế trong các truyện kể, như câu chuyện về một người đàn bà
+
+451
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+nghèo khó có tên Người Bới Rác Thành Phố cúng dường Đức Phật một ngọn đèn bơ. Và có câu chuyện về người đàn bà cùi hủi cúng dường Ngài Đại Ca Diếp một chén cháo gạo mà bà đã nhận trong buổi khất thực. Khi bà đang cúng dường Ngài thì một con ruồi rơi vào chén. Bà cố lấy con ruồi ra và ngón tay bà cũng nhúng vào trong chén. Dù thế nào đi nữa, Ngài Đại Ca Diếp đã dùng nó để hoàn thành ý hướng tốt đẹp của bà, và vì vật cúng dường của bà đã cung cấp thực phẩm trọn ngày cho Ngài nên bà tràn ngập niềm vui. Bà đã được tái sinh ở cõi Trời thứ Ba Mươi Ba.
+
+Nói tóm lại, khi bạn cúng dường mạn đà la, dù cúng dường thứ gì đi nữa thì món ấy cũng cần phải tinh sạch, được cúng dường trong một cách thế hoan hỉ, và ý hướng của bạn phải hoàn toàn thanh tịnh.
+
+Trong bất cứ giai đoạn nào của đường tu, bạn không nên ngưng nỗ lực thực hiện các pháp hành trì để tích lũy công đức, chẳng hạn cúng dường mạn đà la. Như các Mật điển có nói:
+
+Chẳng có chút công đức nào thì làm gì có thành tựu;
+Người ta không thể ép cát để lấy dầu.
+
+Hy vọng vào bất kỳ một thành tựu nào mà không lo tích lũy công đức thì giống như cố gắng ép cát ở bờ sông để lấy dầu thực vật. Cho dù bạn ép bao nhiêu triệu hạt cát, bạn sẽ chẳng bao giờ lấy được chút xíu dầu nào. Nhưng muốn tìm kiếm các thành tựu bằng việc tích lũy công đức thì giống như nỗ lực lấy dầu bằng cách ép các hạt mè. Bạn càng ép mè thì bạn càng lấy được nhiều dầu. Cho dù chỉ ép một hạt mè duy nhất trên móng tay bạn cũng sẽ làm toàn thể móng tay mình bóng dầu. Có một câu tục ngữ tương tự:
+
+Trông chờ các thành tựu mà không tích lũy công đức thì
+giống như cố gắng khuấy nước để làm bơ.
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+Mưu cầu các thành tựu sau khi vun bồi công đức thì giống như khuấy sữa làm bơ.
+
+Không còn nghi ngờ gì rằng việc đạt được mục đích tối hậu của thành tựu siêu việt cũng là kết quả của việc hoàn tất tốt đẹp việc tích lũy hai bồ công đức. Chúng ta đã thảo luận về việc không thể nào đạt được hai thân thuần tịnh của Phật Quả nếu không thành tựu việc vun bồi tích lũy phước đức và trí tuệ. Đức Long Thọ đã có nói:
+
+Nhờ những thiện hạnh này mà mọi chúng sinh có thể
+Thành tựu vun bồi phước đức và trí tuệ
+Và đạt được hai Thân siêu việt
+Đến từ công đức và trí tuệ.
+
+Nhờ thành tựu vun bồi công đức là một việc tuy vẫn còn bao hàm các ý niệm (tạo tác),$^{215}$ bạn đạt được Sắc Thân (rupakaya) siêu việt. Nhờ thành tựu vun bồi trí tuệ siêu vượt các ý niệm, bạn đạt được Pháp Thân siêu việt.
+
+Các thành tựu nhất thời của cuộc đời bình thường cũng có thể được tạo ra bởi việc tích lũy công đức. Nếu chẳng có chút công đức nào thì mọi nỗ lực của ta dù to dù lớn đến đâu cũng sẽ thất bại. Ví dụ có những người chưa từng nỗ lực chút nào mà chẳng bao giờ thiếu thực phẩm, tiền bạc hay tài sản trong hiện tại là nhờ kho công đức họ đã tích lũy trong quá khứ. Những người khác tiêu phí cả đời đâm đầu vào mọi chỗ, cố làm giàu bằng thương mại, trồng trọt v.v... nhưng chúng không đem lại ngay cả chút lợi ích nhỏ bé nhất, và cuối cùng phải chết đói. Đây là những điều mà mọi người có thể tự thấy cho chính mình.
+
+Thậm chí điều này cũng thích hợp trong việc làm nguôi dịu các vị thần tài bảo, các Hộ Pháp và v.v... với hy vọng có được một thành tựu siêu nhiên tương ứng. Những Bổn Tôn
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+như thế không thể ban cho ta điều gì trừ phi ta có thể thu hoạch được hoa trái (quả) đến từ hạnh bố thí (nhân) của chính ta trong quá khứ.
+
+Có một lần một ẩn sĩ không có gì để sống, vì thế ông bắt đầu thực hiện thực hành pháp tu Damchen.* Ông trở nên lão luyện trong pháp tu đến nỗi có thể trò chuyện với vị Hộ Pháp như thể nói với một người khác, nhưng ông vẫn chưa đạt được thành tựu.
+
+Damchen nói với ông: “Ông không có ngay cả chút kết quả ít ỏi nhất đến từ bất kỳ hành động bố thí nào trong quá khứ, vì thế ta không thể đem lại cho ông một thành tựu nào.”
+
+Một hôm nhà ẩn sĩ đứng vào hàng cùng một vài hành khất và được bố thí một tô súp đầy. Khi ông về nhà, Damchen hiện ra và nói với ông: “Hôm nay ta đã ban cho ông một vài thành tựu. Ông có nhận thấy không?”
+
+“Nhưng tất cả các hành khất đều nhận một tô súp, đâu phải chỉ mình tôi,” nhà ẩn sĩ nói. “Tôi không thấy (dấu hiệu) thành tựu đến từ Ngài ra sao.”
+
+Damchen nói “Khi ông nhận súp, một miếng mỡ lớn đã rơi vào tô ông, đúng không? Đó là thành tựu đến từ ta!”
+
+Không thể khắc phục sự nghèo khổ bằng các pháp tu tài bảo và những pháp tu tương tự mà không có một vài tích tụ công đức trong những đời quá khứ. Nếu có những vị như các vị Trời tài bảo thực sự có khả năng ban cho các thành tựu tài bảo siêu nhiên thì như Phật và Bồ tát, với khả năng và năng lực có thể thực hiện các điều huyền nhiệm còn lớn hơn hàng trăm, hàng ngàn lần, và là những bậc Giác Ngộ đã hoàn toàn hiến mình để giúp đỡ chúng sinh ngay cả khi không được thỉnh cầu, thì chắc chắn chư Phật và Bồ Tát sẽ trút xuống thế giới này một khối lượng dồi dào của cải khiến tất cả mọi sự cùng khổ đều được giải trừ trong giây lát. Nhưng điều này đã không xảy ra.
+
+* Damchen Dorje Lekpa, Phạn: Vajrasadhu, một trong những Hộ Pháp chính.
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+Bởi bất kỳ những gì ta có chỉ là kết quả của công đức ta từng tích tụ trong quá khứ, nên một chút công đức thì đáng giá hơn một trái núi nỗ lực. Ngày nay khi những người thấy được chút ít của cải hay quyền lực ít ỏi nhất trong xứ sở man dại này của chúng ta, họ hoàn toàn sửng sốt và tán thán: “Ôi chao, ôi chao! Có thể có được chuyện này sao?” Thật ra có được của cải này cũng chẳng cần phải đòi hỏi gì nhiều trong cách tích tụ công đức. Khi tác ý của người cúng dường và đối tượng được cúng dường đều thanh tịnh, thì kết quả của hành động cúng dường này được minh chứng bởi câu chuyện của Mandhatri.** Bằng hành động cúng dường bảy hạt đậu, ông đạt được vương quyền tối cao tận Cõi Trời thứ Ba Mươi Ba. Rồi có trường hợp của Vua Ba Tư Nặc (Prasenajit) mà quyền lực của ngài là kết quả của hành động cúng dường một đĩa thực phẩm nóng sốt không muối.
+
+Khi Ngài Atisa đến Tây Tạng, xứ ấy giàu và lớn hơn ngày nay. Và tuy thế Ngài nói: “Tây Tạng thực sự là một vương quốc gồm các thành phố ngạ quỷ. Ở đây ta không thấy ai đang hưởng quả của việc đã từng cúng dường, thậm chí chỉ một lượng lúa mạch duy nhất cho một đối tượng thanh tịnh!”
+
+Nếu người ta thực sự cho rằng của cải hoặc một chút quyền lực tầm thường là cái gì thật kỳ diệu và tuyệt vời, thì trước hết đó là một dấu hiệu cho thấy tâm hồn họ nhỏ bé biết bao; thứ đến, điều này chứng tỏ họ bám chấp vào các hình tướng phàm tục ra sao; và thứ ba, họ không hiểu biết đúng đắn sự đơm hoa kết trái của tất cả mọi hành động, như đã được minh họa trước đây bằng hạt giống của cây asota – hoặc cho ta thấy họ không tin vào kết quả này cho dù họ có hiểu biết về điều đó.
+
+Nhưng bất kỳ ai có được sự xả bỏ chân thành và chân thật thì họ sẽ hiểu rằng trong tất cả những sự kiện hoàn hảo hiển nhiên được tìm thấy trong thế gian này – ngay cả việc
+
+** Xem Phần Một, Chương Bốn, Mục III.
+
+455
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+giàu có như một long vương, có một địa vị cao như bầu trời, mạnh mẽ như sấm sét hoặc tươi đẹp như một ánh cầu vồng – không điều gì trong những thứ này có chút gì thường hằng, bền chắc hoặc có được chút thực chất nào. Những thứ như thế chỉ khơi dậy sự nhờm tởm, giống như một đĩa thức ăn béo ngậy được đem mời một người mắc bệnh vàng da.
+
+Việc tích lũy phước đức với hy vọng được giàu có trong đời này thì là điều hoàn toàn tốt lành đối với người thế gian bình thường, nhưng điều này khác xa Phật Pháp chân chính, vì Phật Pháp chân chính được đặt nền tảng trên quyết tâm giải thoát khỏi sinh tử. Như tôi đã nhắc đi nhắc lại nhiều lần, nếu bạn đang tìm kiếm một Chân Pháp đưa tới giải thoát, bạn phải từ bỏ mọi tham luyến với đời sống thế tục như thể có quá nhiều nước bọt trong bụi đất. Bạn phải lìa bỏ quê hương và hướng về những miền đất vô danh, luôn luôn ở những nơi cô tịch. Bạn phải phấn khởi tu tập khi đối diện với bệnh tật và vui vẻ đương đầu với cái chết.
+
+Một lần kia, một đệ tử của đức Dagpo Rinpoche vô song hỏi Ngài: “Trong thời đại suy thoái này thật khó tìm ra thực phẩm, áo quần và những thứ cần thiết khác để thực hành chân Pháp. Vậy con phải làm gì ? Con cần nỗ lực để làm nguôi dịu phần nào các Bổn Tôn tài bảo, hay học một phương pháp hữu hiệu để trích ra các tinh chất,²¹⁶ hoặc cam chịu một cái chết nào đó?”
+
+Bậc Đạo Sư đáp: “Dù con hết sức nỗ lực, nhưng nếu không có bất kỳ hoa trái nào của hành động bố thí trong quá khứ thì việc làm lành với các Bổn Tôn tài bảo sẽ rất khó khăn. Ngoài ra, việc tìm kiếm giàu sang trong đời này thì mâu thuẫn với việc chân thành thực hành Pháp. Việc thực hành pháp trích xuất tinh chất ra từ các bất động vật thì bây giờ không còn phải như là trong đại kiếp tăng tiến nữa,²¹⁷ khi mà tinh chất của đất, đá, nước, thảo mộc, v.v... đã tiêu tán. Bây giờ việc đó chẳng còn hiệu nghiệm nữa. Tự buông mình vào một
+
+IV. CÚNG DƯỜNG MẠN ĐÀ LA
+
+cái chết nào đó thì cũng chẳng tốt. Sau này, sẽ rất khó khăn để có thể có lại được một thân người với đầy đủ tự do và thuận lợi như con hiện có. Tuy nhiên, nếu con có niềm tin chắc chắn tận đáy lòng rằng con có thể thực hành mà không quan tâm đến việc con sống hay chết, thì con sẽ chẳng bao giờ thiếu thực phẩm và quần áo.”
+
+Trước giờ, chưa từng bao giờ có một ví dụ nào về một hành giả chết vì đói. Đức Phật đã từng tuyên bố rằng ngay cả trong thời gian có nạn đói vô cùng thảm khốc, khi mà muốn mua được một lượng bột sẽ phải trả giá bằng một lượng ngọc, thì ngay cả lúc đó, đệ tử của Đức Phật cũng sẽ không bao giờ phải thiếu thực phẩm và quần áo.
+
+Tất cả các pháp hành trì mà chư Bồ Tát thực hiện để vun bồi công đức và trí huệ hay để giải trừ các chướng nhiễm chỉ có một mục đích duy nhất: đó là hạnh phúc của tất cả chúng sinh đầy khắp không gian. Bất kỳ ước muốn nào hầu đạt được Phật Quả viên mãn chỉ cho riêng bạn thì chẳng dính dáng gì tới Đại Thừa, huống hồ là thứ thực hành nhắm tới việc thành tựu các mục đích tầm thường của đời này. Cho dù bạn có thể hành trì bất cứ loại pháp môn nào, dù là thực hành tích lũy phước đức và trí tuệ hay thực hành pháp tịnh hóa các chướng nhiễm, hãy thực hiện các pháp ấy vì sự lợi lạc của toàn thể chúng sinh vô biên, và đừng trộn lẫn pháp hành trì với bất kỳ thứ tâm tham luyến chấp ngã nào. Ngay cả khi bạn không ước muốn những điều này, thì như một tác dụng phụ, tất cả các lợi lạc, tiện nghi và hạnh phúc của riêng bạn trong đời này sẽ được đầy đủ, giống như khói tự xuất hiện khi bạn thổi vào một ngọn lửa, hay chồi lúa mạch tất nhiên sẽ nảy nở khi bạn gieo hạt. Nhưng đối với bất kỳ sự thôi thúc nào khiến bạn hiến mình cho riêng những điều đó (lợi lạc, tiện nghi và hạnh phúc) thì hãy vứt bỏ hết những thôi thúc này như vứt bỏ thuốc độc đi.
+
+[Hình: Machik Labdron]
+
+*Machik Labdron (1031 - 1129)*
+
+Là vị phối ngẫu của Padampa Sangye và người trì giữ chính yếu của dòng truyền thừa *Chö*. Bà cầm cái trống-đôi lớn được dùng trong pháp môn này để thỉnh mời tất cả những vị khách tới dự bữa tiệc tượng trưng.
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+# CHƯƠNG NĂM
+
+# KUSALI
+# PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT: DIỆT TRỪ (*) BỐN MA VƯƠNG BẰNG MỘT ĐỘC CHIÊU
+
+Bây giờ hãy nói đến một pháp tu ngắn gọn là pháp cúng dường chính thân thể của ta, cũng còn được gọi là kusali, pháp tích tụ công đức của kẻ hành khất. Bởi pháp tu này được nối kết với pháp Bổn Sư Du Già (Guru Yoga) trong tập luận giải An Trú Trong Chân Tánh nên việc kết hợp pháp tu kusali với Guru Yoga là việc có thể chấp nhận được. Theo một phương thức khác, và phương thức này cũng không có gì mâu thuẫn với phương thức kết hợp như đã nói bên trên, pháp kusali cũng có thể được thực hành như là một phần của công phu tích lũy công đức, song song với việc cúng dường mạn đà la. [Kết hợp với pháp cúng dường mạn đà la] sẽ là cách thức pháp kusali này được giảng dạy ở đây, phù hợp với truyền thống khẩu truyền đã từng giảng dạy về pháp ấy.
+
+---
+* Tên của pháp thực hành được bàn đến ở đây là gcod, phiên âm là “Chö” (âm Việt: sẽ rất gần với âm ‘chút’). Ý nghĩa căn bản của “Chö” là “chặt đứt.” Trong chương này, “Chö” luôn luôn được dùng với ý nghĩa riêng biệt là tiêu diệt, chặt đứt, tiệt trừ, cắt đứt các ý niệm. Chúng tôi đã dịch từ này trong nhiều cách khác nhau tùy theo văn cảnh. Khi “Chö” xuất hiện như tên của pháp thực hành, chúng tôi để mặc mà không dịch, người đọc cần thấu hiểu phạm vi ý nghĩa hàm ý trong đó.
+
+459
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+I. THÂN THỂ NHƯ MỘT PHẨM VẬT CÚNG DƯỜNG
+
+Từ “kusali” có nghĩa là người hành khất. Để vun bồi phước đức và trí huệ, các hành giả du già (yogi) – chẳng hạn như là những ẩn sĩ sống trong núi non – là những vị đã từ bỏ cuộc đời bình thường, họ dùng hình thức quán tưởng để cúng dường thân thể của chính họ khi không có được các vật sở hữu nào khác để có thể dâng lên cúng dường.
+
+Tất cả những sở hữu vật chất khác mà chúng ta đã lo lắng và nỗ lực thâu thập cho bản thân ta, thật ra chỉ là để chăm chút cho thân xác của chúng ta, và khi so sánh với bất kỳ tài sản nào khác thì rõ ràng là thân xác của chúng ta là vật sở hữu mà ta yêu quý nhất. Như thế, so với việc cúng dường bất kỳ tài sản nào khác, việc chúng ta cắt đứt lòng mê đắm thân xác mình và sử dụng thân xác này như một phẩm vật cúng dường* thì điều này thật lợi lạc hơn nhiều. Có câu nói rằng:
+
+Cúng dường ngựa hay voi của bạn thì giá trị bằng hàng trăm các phẩm vật cúng dường khác;
+Cúng dường con cái hay vợ (chồng) bạn thì tương đương hàng ngàn các phẩm vật cúng dường khác;
+Cúng dường thân thể của chính bạn thì giá trị bằng hàng trăm ngàn lần các phẩm vật cúng dường khác.
+
+Machik Labdron có nói:
+
+Bởi không hiểu rằng việc từ bỏ thân xác không chút tham luyến
+Là tích lũy phước đức và trí huệ,
+
+* Đây là phần thực hành căn bản của pháp Chö.
+
+460
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+Nên con đã bám luyến vào thân xác yêu quý này.218
+Con sám hối điều này với Hóa Thân của Mẹ.219
+
+II. PHÁP TU CÚNG DƯỜNG THÂN XÁC
+
+Trước tiên, nếu bạn quen thuộc với pháp quán tưởng, bạn có thể chọn cách phóng tâm thức của bạn thẳng vào không gian và quán tưởng tâm thức của bạn lập tức hiện ra như là Bà Mẹ Chân Chính Sắc Đen Phẫn Nộ.220 Nếu bạn không quen quán tưởng thì hãy tưởng tượng trong trái tim bạn giọt tinh túy của tâm thức bạn trong thân tướng của Bà Mẹ Phẫn Nộ. Bà đang nhảy múa lắc lư, bàn tay phải vung cao một lưỡi dao cong lên không trung, và bàn tay trái cầm một bình bát làm bằng sọ người đầy máu, giơ cao ở phía trước ngực ngay khoảng trái tim. Cái đầu kêu eng éc của một con lợn cái màu đen nhô ra từ phía sau tai phải của Bà. Bà mặc y phục của một thiên nữ phẫn nộ.
+
+Khi bạn phát ra âm “P’et”221 thì Bà Mẹ Phẫn Nộ bay lên qua kinh mạch trung ương của bạn. Ngay vào giây phút Bà phóng vọt qua cửa Phạm Thiên trên đỉnh đầu bạn, thân bạn trở thành một tử thi và ngã quỵ xuống. Ở đây, đừng nghĩ rằng thân bạn có một hình tướng thông thường. Thay vì thế, hãy hình dung thân thể ấy béo mập, khổng lồ, to lớn như toàn thể vũ trụ gồm một tỉ thế giới.
+
+Với một độc chiêu duy nhất bằng lưỡi dao cong trong bàn tay phải, Bà Mẹ Sắc Đen Phẫn Nộ - là tâm thức bạn mà bạn quán tưởng trong sắc tướng Bà Mẹ Phẫn Nộ - lập tức lạng một nhát trên đỉnh sọ của thân thể vô tri ở khoảng cặp chân mày để làm thành một cái bình bát bằng sọ người. Một lần nữa, hãy thiền định rằng bình bát bằng sọ người này không lớn như bình thường trong thực tế, mà lớn như thể toàn thể vũ trụ gồm một tỉ thế giới. Bằng bàn tay trái, Bà Mẹ Phẫn Nộ nhặt bình bát sọ người và đặt bình bát ấy với cặp lông mày
+
+461
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+của bình bát nhìn về phía Bà trên một chiếc kiềng ba chân làm bằng ba cái sọ người, mỗi cái sọ lớn như Núi Tu Di. Rồi với lưỡi dao có hình móc câu trong bàn tay phải, bà nâng toàn thân tử thi và đặt vào trong bình bát sọ người trên chiếc kiềng ba chân.
+
+Bây giờ hãy quán tưởng trong không gian trên cái sọ một chữ *hang* màu trắng với bản chất là cam lồ, và dưới cái sọ là nét vạch thẳng đứng của một chữ *A*,$^{222}$ màu đỏ, có bản chất là lửa:
+
+hang ॐ vạch thẳng đứng của A |
+
+Khi bạn đọc “Om Ah Hum,” lửa cháy bùng lên từ vạch thẳng của chữ *A* và đun nấu bình bát sọ người cho tới khi tử thi cháy xèo xèo và tan ra thành cam lồ, nước cam lồ sôi lên và tràn đầy cả cái sọ. Mọi thứ hôi thối và bất tịnh tràn ra ngoài dưới hình thức của một thứ váng bọt. Hơi bốc lên từ nước cam lồ và chạm vào chữ *hang*; nhờ sự va chạm này mà chữ *hang* như được hun nóng. Chữ *hang* rỉ ra những giòng cam lồ đỏ và trắng, nhỏ xuống và hòa trộn nhau trong một hợp thể bất khả phân ở trong cái sọ. Bản thân chữ *hang* tan ra thành ánh sáng và cũng tan thành chất cam lồ. Khi quán tưởng tất cả những điều này, bạn hãy tụng:
+
+*P’et! Tự giải thoát tôi ra khỏi mê đắm xác thân...*
+
+và v.v... Sau đó, khi bạn lập lại “Om Ah Hum,” hãy quán tưởng rằng chữ *om* tịnh hóa chất cam lồ gồm tất cả những gì bất toàn thiện của màu sắc, hương, vị và v.v...; chữ *ah* làm chất cam lồ tăng trưởng gấp nhiều lần; và chữ *hum* chuyển hóa
+
+462
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+chất cam lồ thành tất cả những gì mà ta có thể ước muốn. Chất cam lồ này biến thành bản chất của chất cam lồ tuyệt hảo 223 của trí huệ nguyên sơ, hiển lộ trong dạng những đám mây cuồn cuộn và có thể thỏa mãn bất cứ điều gì bạn đang khao khát.
+
+Hãy quán tưởng trên bầu trời trước mặt bạn một chiếc ngai chất đầy những chiếc nệm bằng lụa, ngự trên đó là vị Thầy gốc (Bổn Sư) tôn quý của bạn trong thân tướng của con người. Ở trên Ngài là các Đạo Sư dòng truyền thừa, xung quanh Ngài là tất cả các Bổn Tôn (Yidam), và phía dưới trong khoảng không phía trên bình bát sọ người là Bảy Mươi Lăm Vị Hộ Pháp Vinh Quang 224 cùng tất cả tập hội những Hộ Pháp khác, cả những vị Hộ Pháp trí tuệ lẫn những Hộ Pháp bị nhiếp phục do nghiệp quả của các hành động trong quá khứ của họ, cùng với các vị thổ thần, thổ địa.
+
+Phía dưới bình bát sọ người, hãy quán tưởng tất cả mọi chúng sinh trong sáu cõi và tam giới– trong số ấy có các vị khách chính của bạn là tám mươi ngàn loại chúng sinh gây ra chướng ngại, mười lăm đại ma quỷ săn bắt trẻ con, và tóm lại, tất cả những kẻ gây ra chướng ngại và những người mà bạn mắc nợ nghiệp, ngập đầy như vô lượng vô số những hạt bụi trong một tia nắng.
+
+1. Bữa Tiệc Trắng Dành Cho Thượng Khách
+
+Bây giờ hãy quán tưởng rằng vị Thầy gốc của bạn, các Đạo Sư dòng truyền thừa và tất cả thánh hội chư Phật và Bồ Tát ở trên đầu vị Thầy, tất cả đều hút lấy chất cam lồ bằng lưỡi của các Ngài – lưỡi ấy có hình dạng như những cái ống chày kim cương rỗng. 225 Kết quả của việc quán tưởng này là bạn thành tựu pháp tu tích lũy công đức, giải thoát khỏi các chướng ngại và những giới nguyện mà bạn đã vi phạm hay những thệ nguyện mà bạn
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+đã phá vỡ sẽ được tịnh hóa, cũng như bạn sẽ đạt được các thành tựu thông thường lẫn thành tựu siêu việt.
+
+Các Bổn Tôn (yidam) và các vị Hộ Phật (deity) của bốn và sáu cấp Mật điển, đang vây quanh vị Thầy, cũng đang thọ dụng chất cam lồ, hút chất cam lồ ấy bằng những chiếc lưỡi rỗng – những chiếc lưỡi này có hình dạng tương ứng với biểu tượng của từng vị một như chày kim cang, bánh xe pháp, ngọc quý, hoa sen, hoặc chày kim cang đôi.* Kết quả là bạn thành tựu pháp tu tích lũy công đức, tẩy sạch các chướng ngại của bạn, tịnh hóa những giới nguyện mà bạn đã vi phạm và những thệ nguyện mà bạn đã phá vỡ, đạt được các thành tựu thông thường và siêu việt.
+
+Bây giờ các vị Không Hành nam (daka), Không Hành nữ (dakini), Bảy Mươi Lăm Vị Hộ Pháp Vinh Quang và tất cả các vị Hộ Pháp khác cũng hút phần cam lồ dành riêng cho họ qua những chiếc lưỡi rỗng bằng ánh sáng của họ. Bạn thành tựu pháp tu tích lũy công đức và thoát khỏi mọi chướng ngại; tất cả các chướng ngại và hoàn cảnh bất lợi đối với Pháp và đối với những thành tựu giác ngộ thảy đều được tẩy trừ. Tất cả những hoàn cảnh thuận lợi và những điều tốt đẹp mà bạn tìm kiếm được nhân bội phần lên.
+
+2. Bữa Tiệc Trắng Dành Cho Các Vị Khách Ở Dưới Thấp
+
+Kế đó, nếu bạn đã thuần thục trong việc quán tưởng như trên thì hãy tiếp tục quán tưởng chính bạn là Bà Mẹ Chân Chính Sắc Đen Phẫn Nộ, và từ trái tim bạn phóng tỏa ra vô số những vị Không Hành nữ (dakani) đang biểu dương các hoạt động - các dakini này có sắc trắng, vàng, đỏ, xanh lá cây và xanh dương, giống như vô số những hạt bụi nhảy múa trong những tia nắng mặt trời. Hãy tưởng tượng các vị ấy giúp cho tất cả chúng sinh khắp sáu cõi và trong tam giới được an dịu
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+và hài lòng, vì các vị ấy đã ban tặng cho mỗi chúng sinh một bình bát trí tuệ làm bằng sọ người chứa đầy chất cam lồ tinh khiết.
+
+Nếu bạn thiếu kinh nghiệm trong việc quán tưởng, hãy tưởng tượng rằng chính bạn là Bà Mẹ Sắc Đen Phẫn Nộ – bạn sử dụng bình bát sọ người trong bàn tay trái của bạn để múc nước cam lồ ra khỏi chiếc sọ lớn rồi tung rải nước cam lồ ấy như mưa, cho những giọt cam lồ rơi xuống khắp nơi trong sáu cõi và trong tam giới của sinh tử luân hồi. Tất cả mọi chúng sinh đều uống nước cam lồ ấy và cảm thấy hoàn toàn thỏa mãn.
+
+3. Bữa Tiệc Đa Dạng Cho Thượng Khách
+
+Một lần nữa, hơi bốc lên từ chất cam lồ được nấu sôi, tạo ra những đám mây cúng dường không thể nghĩ bàn. Hãy cúng dường những đám mây ấy cho các thượng khách: nước tinh khiết để uống và rửa chân, hoa, hương nhang, đèn, nước hoa, thực phẩm và âm nhạc, tám biểu tượng kỳ diệu và bảy báu vật tượng trưng của vương quyền, các dù lọng, cờ chiến thắng, màn trướng, bánh xe vàng với một ngàn cây căm, các ốc xà cừ trắng xoắn về bên phải, và thêm nhiều thứ nữa. Kết quả là bạn và tất cả chúng sinh thành tựu các pháp tích lũy công đức và tất cả mọi chướng ngại đều được tẩy sạch.
+
+4. Bữa Tiệc Đa Dạng Dành Cho Các Vị Khách Ở Dưới Thấp
+
+Bây giờ đến các vị khách ở dưới thấp, là tất cả chúng sinh ở sáu cõi luân hồi sinh tử. Bất kỳ thứ gì mà mỗi chúng sinh trong số đó ham muốn, bất kỳ điều gì mỗi chúng sinh ao ước, tất cả
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+những điều ấy trút xuống họ như mưa, làm cho họ thỏa mãn và khiến họ tràn ngập niềm vui.
+
+Hãy đặc biệt nghĩ tưởng tới chúng sinh mà bạn từng mắc nợ trong tất cả các kiếp đã qua của bạn cho tới tận ngày nay trong vòng sinh tử vô thủy vô chung. Chúng ta có đủ thứ loại nghiệp nợ do các hành vi trong quá khứ: các món nợ thâu ngắn đời ta bởi ta từng sát sinh; các món nợ khiến ta nghèo khổ bởi ta từng trộm cắp; các món nợ gây tai họa bệnh tật bởi ta đã tấn công và đánh đập người khác; các món nợ do người quyền thế hơn ta ban cho ta, các món nợ do người thấp hơn ta cung phụng ta, và các món nợ tình cảm bạn bè của những người ngang hàng ta; các món nợ đối với những chúa công và những bộ hạ, 226 đối với những người thân yêu, với bạn bè, thần dân, con cái và gia súc; các món nợ của thực phẩm chúng ta đã ăn và quần áo chúng ta đã mặc, của tiền bạc chúng ta đã vay mượn, sữa chúng ta đã vắt, của các gánh nặng mà ta khiến những người khác phải mang vác, các món nợ của các cánh đồng ta đã cày, và của bất kỳ thứ gì khác mà chúng ta có thể đã từng sử dụng.
+
+Tất cả những chủ nợ hay oan gia đó, dù nam hay nữ, đều mong muốn đòi bạn món nợ xương máu, thâu ngắn thọ mạng của bạn và vồ chụp sinh lực của bạn. Họ vác những cái thùng tròn để chưá, chạy theo sau bạn và đòi bạn phải trang trải món nợ đã vay. Phẩm vật cúng dường (chất cam lồ) được chuyển hóa thành một kho tàng vô tận gồm tất cả những gì có thể ước muốn, tất cả trút như mưa xuống họ, đem đến cho từng chúng sinh trong số đó bất kỳ những gì mà họ ao ước nhất. Đem thực phẩm đến cho những ai muốn thực phẩm, quần áo cho những ai cần quần áo, của cải cho những người muốn của cải, vườn tược cho những ai muốn vườn tược, ngựa cho những người muốn ngựa, nhà để ở cho những ai muốn nhà cửa, bạn bè và những người thân yêu cho những ai muốn bạn bè và những người thân yêu.
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+Khi mỗi chúng sinh trong bọn họ vui hưởng những điều này thì bạn được giải thoát khỏi những món nợ ơn nghĩa của bạn. Các món nợ của bạn đều được trang trải. Bạn được giải thoát khỏi những kẻ tử thù, và tất cả mọi hành vi ác hại và những chướng ngại của bạn đều được giải thoát. Tất cả đều nguôi ngoai và hài lòng.
+
+Sau đó hãy tưởng tượng rằng những người có thể bị bỏ quên - người tầm thường, người yếu đuối, người què cụt, người mù lòa, người điếc, người câm và tất cả chúng sinh trong sáu cõi bị hành hạ và kiệt lực bởi nỗi khổ - hãy nghĩ đến họ và quán tưởng phẩm vật cúng dường (chất cam lồ) biến thành bất kỳ điều gì mà họ có thể cần đến. Thành một nơi nương tựa cho những ai không chỗ nương tựa, một vị mạnh thường quân cho những ai không người bảo trợ, một sự giúp đỡ thân thiết cho những ai không được trợ giúp, người thân và bạn bè cho người cô độc, một vị trí trong xã hội cho người bị tước đoạt, thuốc men để cứu chữa người bệnh, thuốc hồi sinh cho người hấp hối, đôi chân thần kỳ cho người què, đôi mắt minh triết cho người mù, đôi tai thần tình cho người điếc, những cái lưỡi trí tuệ cho người câm, 227 và v.v... Hết thảy chúng sinh vui hưởng các món quà tặng và cảm thấy hài lòng, được giải thoát khỏi nghiệp báo, khỏi những đau khổ và khỏi các thói quen huân tập của mỗi một cõi trong sáu cõi luân hồi. Tất cả những chúng sinh nam đạt tới thành tựu của đức Quán Thế Âm (Avalokitesvara) cao cả, tất cả những chúng sinh nữ đạt tới được thành tựu của đức Quan Âm (Tara) cao quý, và ba thế giới của luân hồi sinh tử (Dục giới, Sắc giới, Vô sắc giới) được giải thoát khỏi vực thẳm cùng cực.
+
+Tiếp tục trì tụng “Om Ah Hum” cho tới khi bạn hoàn tất toàn bộ công phu quán tưởng này. Rồi đọc đoạn sau đây:
+
+P’et! Các vị khách của pháp cúng dường cao...
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+xuống tới những chữ:
+
+..Đại Viên Mãn không tạo tác. Ah!
+
+Sau đó hãy an trụ trong trạng thái siêu vượt bất kỳ ý niệm nào về phẩm vật cúng dường, người cúng dường và người thọ nhận cúng dường.
+
+Trong các bản văn Chö thường có bốn đại tiệc: trắng, đỏ, lốm đốm nhiều màu và đen. Trong luận giải này, có các bữa tiệc trắng và lốm đốm màu, không có các bữa tiệc đỏ và đen.
+
+Điều mà những người tạm gọi là hành giả Chö ngày hôm nay, họ coi Chö như là một tiến trình rùng rợn hủy diệt các tinh linh hiểm ác bằng cách giết, quất, chặt, đánh hay săn đuổi những tinh linh này. Ý niệm của họ về pháp thực hành Chö bao gồm cả việc luôn luôn giận dữ. Việc làm ra vẻ can đảm của họ không là gì khác hơn ngoài lòng thù ghét và kiêu ngạo. Họ tưởng tượng rằng họ phải hành xử như những thuộc hạ của Thần Chết. Ví dụ, khi thực hành Chö cho một người bệnh, họ tự đưa mình vào một màn phô diễn điên cuồng, nhìn chòng chọc với đôi mắt lớn như những cái đĩa tròn ngập đầy thù hận, nắm chặt tay lại, cắn chặt môi dưới, bất thần đấm mạnh và túm lấy bệnh nhân thật dữ dội đến nỗi lưng áo người bệnh bị rách bươm ra. Họ gọi việc này là sự chế ngự các tinh linh, nhưng thực hành Pháp như thế là việc hoàn toàn sai lầm. Machik Labdron nói:
+
+Từ vô thủy, các tinh linh độc hại đã từng sống trong một cơn lốc ảo giác và đau khổ vô tận, là nghiệp chướng họ phải chịu do các ác hạnh chính họ đã gây trong quá khứ, và bởi các hoàn cảnh bất hạnh này đã cuốn họ đi như một cơn gió. Khi chết, họ không thể tránh khỏi việc bị đọa
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+sâu vào trong vực thẳm của các cõi thấp. Với cái móc của lòng bi mẫn, ta thâu tóm được những tinh linh xấu ác đó. Khi cúng dường cho họ thịt và máu ấm của chính ta để làm thực phẩm, nương vào lòng từ ái và đại bi của Bồ Đề Tâm, ta chuyển hóa cách thức họ nhìn mọi sự và khiến họ trở thành những đệ tử của ta. Đối với ta, những tinh linh hiểm ác đó là phần thưởng ta có được với cái móc của lòng bi mẫn - nhưng những người lão luyện vĩ đại của pháp Chö trong tương lai sẽ lấy làm kiêu hãnh về việc giết hại, trục xuất hay đánh đập những tinh linh này. Đó sẽ là dấu hiệu cho thấy các giáo thuyết sai lầm về pháp thực hành Chö, các giáo lý của quỷ ma, đang lan rộng.
+
+Tất cả các pháp thực hành Chö sai lầm mà nữ hành giả (Machik Labdron) tiên đoán, chẳng hạn như pháp Chö Đen Chín Phẩm – pháp ấy chỉ là kết quả của cái nhìn cho rằng người ta có thể chế ngự các tinh linh bằng bạo lực, không có chút xíu lòng từ và bi nào của Bồ Đề Tâm.
+
+Một người sử dụng các pháp thực hành đó có lẽ cũng có thể hoàn toàn chiến thắng một hoặc hai tinh linh yếu nhỏ, nhưng nếu người ấy gặp phải bất kỳ tinh linh thực sự xấu ác nào thì chúng sẽ đe dọa mạng sống của người ấy để trả đũa như đã từng thấy xảy ra trong nhiều trường hợp.
+
+Đối với các hành giả, thật là đặc biệt khó khăn để có thể biết được những dấu hiệu thành công xảy ra trên đường tu – như việc chế ngự quỷ ma, hoặc một kinh nghiệm được nhận được lực gia trì nào đó – không biết được đây là những dấu hiệu xác thực của tiến bộ trong tu tập, hay thực ra cũng chỉ là các chướng ngại gây ra bởi các thế lực ma vương.
+
+Thường thường, những người bị ám nhập bởi các tinh linh hiểm độc dường như có tài thấu thị cùng các năng lực siêu nhiên. Nhưng càng lúc họ càng xa rời Chánh Pháp cho
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+tới khi họ chẳng còn chút gì tốt lành trong họ. Những phẩm vật cúng dường cao như núi có thể được chất chồng trên người họ, hoàn toàn chỉ là những món nợ nghiệp trong tương lai, và thậm chí cũng không đem lại cho họ điều gì tốt lành trong đời này. Cuối cùng họ nhận ra rằng ngay cả việc tích cóp để đủ ăn đủ mặc cũng là việc rất khó. Rồi những gì họ có thì họ không thể nào đem ra sử dụng. Khi chết, chắc chắn họ sẽ tái sinh trong một địa ngục phù du hay một vài cảnh giới như thế, như chúng ta đã đề cập đến (trong các chương trước).228
+
+III. Ý NGHĨA CỦA PHÁP Chö
+
+Những chúng sinh gọi là tinh linh bị tiêu diệt trong pháp Chö không ở đâu xa. Họ ở trong chúng ta. Tất cả mọi ảo tưởng mà chúng ta nhận thấy xuất hiện, trong hình thức của các tinh linh bên ngoài chúng ta (ngoại ma), là bởi chúng ta không diệt trừ được tánh tự phụ (hay ngã mạn) 229 trong việc tin tưởng ở một cái “tôi” và chấp vào cái “ngã.” Như Machik đã nói:
+
+Ma quỷ hữu hình, ma quỷ vô hình,
+Ma quỷ hả hê và ma quỷ tự phụ -
+Tất cả chúng ma đến từ ma vương ngã mạn.230
+
+Cái mà chúng ta gọi là một tinh linh thực ra là ma vương tự phụ, hay là ma chấp ngã, chấp có cái tôi. Machik cũng nói:
+
+“Nhiều tinh linh” có nghĩa là nhiều ý niệm;
+“Tinh linh mạnh mẽ” có nghĩa là tin vào một bản ngã;
+“Các tinh linh man dã” có nghĩa là các vọng tưởng.
+Người tiêu diệt được các tinh linh này sẽ là một hành giả lão luyện của pháp thực hành Chö.
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+Cuộc đối thoại giữa Ngài Jetsun Mila với Nữ Yêu Tinh Ở Tảng Đá có những lời như sau:
+
+Việc tin vào một cái “tôi” thì mạnh mẽ hơn cả ngươi, hỡi nữ yêu tinh.
+Các ý niệm thì còn nhiều hơn cả ngươi, hỡi nữ yêu tinh.
+Các vọng tưởng bị những thói quen huân tập cướp phá còn nhiều hơn cả bị ngươi cướp phá, hỡi nữ yêu tinh.
+
+Ngài cũng phân loại các loại pháp môn *Chö* khác nhau sau đây:
+
+- *Chö* bên ngoài là lang thang trong những nơi chốn đáng sợ và núi non cô tịch;
+- *Chö* bên trong là quăng ném thân xác hành giả làm thực phẩm;
+- *Chö* tối thượng là chặt đứt gốc rễ một lần và mãi mãi.
+Ta là một hành giả du già sở hữu ba loại *Chö* này.
+
+Như thế tất cả các pháp thực hành *Chö* là để chặt đứt ma chấp ngã, chặt đứt niềm tin vào bản ngã, vì cái ngã là gốc rễ của mọi vô minh và mọi tri kiến lầm lạc. Đây là điều được nói tới qua câu “*Chö* tối thượng là chặt đứt gốc rễ một lần và mãi mãi.” Các ma quỷ bên ngoài chỉ là những nhận thức lầm lạc, và chừng nào mà bạn không tiêu diệt hết niềm tin của bạn nơi ma chấp ngã [nội ma] thì việc cố gắng tiêu diệt chúng [ngoại ma] sẽ không làm chúng chết được. Đánh đập chúng sẽ không có kết quả. Dẫm nát chúng sẽ không làm chúng tiêu tan. Săn đuổi chúng sẽ không làm chúng bỏ đi. Trừ phi bạn chặt đứt gốc rễ là cái ngã mạn ở trong bạn thì khả năng bạn có thể hủy diệt các tinh linh huyễn ảo -- là biểu hiện bên ngoài của tánh tự phụ -- sẽ không hơn gì việc muốn hết khói mà
+
+471
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+không dập tắt ngọn lửa. Nữ Yêu Tinh Ở Tảng Đá đã nói với Jetsun Mila:
+
+> Nếu Ngài không biết rằng quỷ ma đến từ bản tâm Ngài,
+> Thì sẽ có những quỷ ma khác chứ chẳng riêng tôi!
+> Tôi sẽ không ra đi chỉ vì Ngài bảo tôi đi.
+
+và Ngài Jetsun Mila đã nói:
+
+> Coi một quỷ ma như một quỷ ma thì nó sẽ làm hại ông;
+> Biết rõ con quỷ trong tâm ông thì ông sẽ giải thoát khỏi nó;
+> Biết được rằng quỷ ma là trống rỗng thì ông sẽ hủy diệt được nó.
+
+và lại còn nói:
+
+> Các ngươi xuất hiện như các tinh linh họa hại và các dạ xoa đực hay cái,
+> Chỉ khi người ta không hiểu rõ, các ngươi mới là ma quỷ,
+> Đem lại tất cả những điều xấu ác và chướng ngại.
+> Nhưng một khi người ta thấu hiểu, thì ngay cả quỷ ma các ngươi cũng là các Bổn Tôn,
+> Và trở thành suối nguồn của mọi thành tựu.
+
+Pháp *Chö* là sự diệt trừ bất kỳ sự tin tưởng nào vào các quỷ ma đến từ bên trong, chứ không phải pháp *Chö* là để tiêu diệt chúng, đánh đập, trục xuất, đè bẹp và huỷ diệt chúng. Chúng ta phải hiểu rằng cái cần phải bị tiêu diệt thì *không* ở bên ngoài; nó ở ngay trong chúng ta.
+
+Nói chung, phần lớn các truyền thống tôn giáo khác giảng dạy những phương cách có tính gây hấn với các thế lực thù địch bên ngoài, và với các tác nhân của các chướng ngại
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+từ bên ngoài, sử dụng những phương pháp bạo động sắc bén, dữ dội và mãnh liệt, các đầu tên mũi giáo, tất cả đều hướng ra bên ngoài. Nhưng truyền thống của chúng ta thì như Jetsun Mila nói:
+
+Hệ thống giáo lý của ta nhằm diệt trừ sự tin tưởng vào một bản ngã, ném phăng tám mối quan tâm thế tục vào theo cơn gió, và khiến bốn ma vương cảm thấy bối rối.
+
+Hãy hướng tất cả mọi công phu tu tập của bạn vào bên trong và huy động toàn bộ sức mạnh, phương tiện thiện xảo và các năng lực của bạn để chống lại niềm tin rằng có một bản ngã tồn tại trong bạn. Nếu nói được một lần: “Hãy ăn nuốt tôi! Hãy mang tôi đi!” thì còn tốt hơn gấp trăm lần khi kêu gào: “Xin che chở tôi! Xin hãy cứu vớt tôi!” Cúng dường bản thân bạn để làm thực phẩm cho một trăm tinh linh thì có giá trị hơn việc kêu gọi một trăm vị Bổn Tôn che chở cứu giúp cho bạn.
+
+Chúng ta giao phó bệnh nhân cho ma quỷ.
+Chúng ta nương cậy vào kẻ thù để dẫn dắt ta
+Một lần nói: “Hãy nuốt tôi đi! Hãy chiếm đoạt tôi đi!”
+Thì tốt gấp trăm lần “Xin che chở tôi! Xin cứu vớt tôi!”.
+Đây là truyền thống của Bà Mẹ 231 tôn kính.
+
+Nếu bạn chặt đứt tận gốc niềm tin có quỷ ma bên trong lòng bạn thì bạn sẽ nhận thức được rằng mọi sự đều thanh tịnh, và như có câu tục ngữ nói rằng:
+
+Quỷ ma trở thành các Hộ Pháp, và khuôn mặt của các Hộ Pháp trở thành khuôn mặt của Hóa Thân.
+
+Ngày nay những người tự cho là các hành giả của Chö lại
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+không hiểu chút gì về điều này, và khăng khăng cho rằng các tinh linh là cái gì ở ngoài bản thân họ. Họ tin tưởng vào quỷ ma, và tiếp tục nhận ra chúng trong mọi thời điểm; trong mọi sự việc đang hay đã xảy ra, họ nhìn thấy có một con ma hay gyalgong nào đó. Bản thân họ không có sự an bình trong tâm, và luôn luôn làm người khác bối rối với những tin tưởng sai lầm của họ, được họ bày tỏ với sự quyết đoán khoác lác rằng:
+
+“Có một con ma ở trên kia! Và một tinh linh dưới kia nữa! Một con ma đấy! Một con quỷ kìa! Một tsen đấy! Tôi có thể thấy nó... Ha! Tôi bắt được nó rồi! Tôi đã giết nó! Coi chừng, có một con ma đang rình anh đó! Tôi đã đuổi nó đi! Kìa - nó nhìn lại kìa!”
+
+Các tinh linh và quỷ đói biết rõ những người như thế đang làm gì, và quanh quẩn bên họ bất kỳ nơi nào họ đến. Chúng chiếm hữu tài sản của những người đàn bà dễ rơi vào hôn mê, chẳng hạn là như vậy, và dùng mọi loại luận điệu khẳng định và có vẻ hợp lý như sau: “Ta là một vị Trời,” “Ta là một con ma,” “Ta là người đã chết,” “Ta là cha trong tiền kiếp của ngươi,” “Ta là mẹ trong tiền kiếp của ngươi,” và v.v... Đôi khi họ tuyên bố: “Ta là Bổn Tôn, ta là một Hộ Pháp. Ta là Damchen,” và nói về các thị kiến siêu nhiên hay đưa ra các tiên đoán sai lạc.
+
+Quỷ ma lừa gạt các Lạt Ma và các Lạt Ma lừa gạt các thí chủ, hoặc như tục ngữ có nói: “Đứa con trai lừa phỉnh cha nó trong khi kẻ thù lừa phỉnh đứa con trai.” Đó là những dấu hiệu hiển nhiên của thời đại suy thoái, và chỉ ra rằng chúng quỷ ma đang kế tục sự nghiệp. Như Đại Đạo sư xứ Oddiyana đã tiên đoán:
+
+Trong thời đại suy đồi, các tinh linh đực sẽ nhập vào tim những người nam,
+
+V. KUSALI - PHÁP TÍCH TỤ CÔNG ĐỨC CỦA KẺ HÀNH KHẤT
+
+Tinh linh cái sẽ nhập vào tim những người nữ;
+Yêu tinh sẽ nhập vào tim trẻ con;
+Những kẻ vi phạm mật nguyện sẽ nhập vào trái tim của giới tăng lữ.
+Sẽ có một tinh linh trong mỗi trái tim người Tây Tạng.
+
+Và:
+Khi các yêu tinh được coi như các vị Trời, một thời đại đau khổ sẽ tấn công xứ Tây Tạng.
+
+Các tiên tri này đã xảy ra.
+
+Đừng để bị lừa gạt bởi tri kiến sai lầm khiến cho các vị Trời, tinh linh và những kẻ gây chướng ngại có cơ hội xuất hiện ở bên ngoài bạn; điều đó sẽ chỉ tăng thêm sức mạnh cho tri kiến sai lầm của bạn. Hãy tu tập bản thân để nhận ra rằng mọi sự đều là một phô diễn như mộng hay như ảo ảnh. Các hiện tượng có tinh linh ở một phía và có người bệnh ở phía bên kia đang xuất hiện chốc lát, như có kẻ gây hấn và có một nạn nhân, cả hai đều phát sinh từ những hành vi xấu ác, và rồi các tri kiến lệch lạc liên kết với nhau trong cách thức đó. Đừng đứng về phe nào, đừng yêu thích người này và ghét bỏ người khác. Hãy phát khởi lòng từ và bi của Bồ Đề Tâm tới cả hai bên. Hãy chặt đứt tận gốc mọi mối quan tâm tới bản ngã và chặt đứt mọi tin tưởng vào một cái “tôi” của bạn, và hãy hiến tặng thân thể và đời sống bạn để làm thực phẩm cho các tinh linh không chút do dự. Hãy cầu nguyện từ tận đáy lòng bạn rằng những chúng sinh này có thể được lợi lạc trong Giáo Pháp chân chính và hãy làm an dịu lòng thù ghét và ác tâm của chúng, và sau đó hãy giảng giải giáo lý cho chúng.232
+
+Sau cùng, khi bạn chặt đứt tận gốc tất cả mọi sự tin tưởng sai lạc vào tính nhị nguyên của kẻ gây hấn và của nạn nhân, chặt đứt mọi sự tin tưởng sai lạc vào nhận thức đây là
+
+475
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Bổn Tôn và kia là ma quỷ, đây là mình và kia là người - và vào tất cả mọi ý niệm phân chia đối đãi đến từ hy vọng và sợ hãi, từ tham luyến và thù ghét, từ cái tốt và cái xấu, từ niềm vui và nỗi khổ – thì rồi ra, bạn sẽ nhận ra được rằng:
+
+- Không Bổn Tôn, cũng không quỷ ma: sự xác tín của cái Thấy.
+- Không phóng tâm, cũng không bám luyến: điểm trọng yếu của thiền định.
+- Không chấp nhận, cũng không phủ nhận: điểm trọng yếu của hành động.
+- Không hy vọng, cũng không sợ hãi: điểm trọng yếu của đạo quả.
+
+Khi mọi ý niệm (tạo tác) về bất cứ điều gì đều được cắt đứt và người thực hiện việc cắt đứt ấy tan hòa vào cái bao la của thực tại tuyệt đối nơi mà mọi sự đều bình đẳng, thì tinh linh hãm hại bên trong của tánh tự phụ hay ngã mạn sẽ bị chặt đứt tận gốc rễ. Đó là dấu hiệu bạn đã chứng ngộ pháp Chö tuyệt đối và tối hậu:
+
+- Con hiểu ra rằng không có bản ngã, nhưng vẫn còn có các ý niệm khổng lồ về cái “tôi”.
+- Con từng quyết định từ bỏ tâm đối đãi, nhưng bị bao vây bởi hy vọng và sợ hãi.
+- Xin từ bi gia hộ cho con và những kẻ chấp ngã như con
+- Để chúng con có thể chứng ngộ trạng thái như nhiên, vắng bặt bản ngã.
+
+[Hình: Dudjom Rinpoche (1904-1987)]
+
+Dudjom Rinpoche (1904-1987)
+
+Một học giả và Đạo Sư kiệt xuất của dòng Đại Viên Mãn, Ngài trì giữ tất cả các Giáo Pháp chính yếu của dòng Nyingma, khám phá nhiều kho tàng tâm linh, là một tác giả và vị Thầy có sức trước tác vô cùng sung mãn. Ngài trở thành vị lãnh đạo trường phái Nyingma tại hải ngoại, và đã giảng dạy rộng rãi ở Tây Phương và Viễn Đông cũng như tại khắp các miền núi Hy Mã Lạp Sơn. Bức ảnh này được chụp tại Tây Tạng. Ngài qua đời tại trụ xứ ở Dordogne, Pháp Quốc, năm 1987.
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+# CHƯƠNG 6
+
+# PHÁP BỔN SƯ DU GIÀ,²³³
+# CÁNH CỔNG DẪN ĐẾN NĂNG LỰC GIA TRÌ, PHƯƠNG PHÁP TỐI HẬU ĐỂ CHỨNG NGỘ TUỆ GIÁC
+
+Trước tiên, Ngài đã theo chân một Đạo Sư siêu việt và tuân lời Thầy;
+Ngài đã tu tập trải qua bao gian khổ lớn lao;
+Cuối cùng, tâm Ngài và tâm của Đạo Sư đã hợp nhất, và Ngài thừa kế dòng truyền thừa.
+Bậc Thầy Vô Song, con đảnh lễ dưới chân Ngài.
+
+## I. LÝ DO CÓ PHÁP BỔN SƯ DU GIÀ (Guru Yoga)
+
+Để có thể thực hành Chân Pháp, điều tối quan trọng trước tiên là phải đi tìm một vị thiện tri thức chân chính, một vị Chân Sư với tất cả các phẩm hạnh cần thiết. Sau đó bạn cần tuân theo từng giáo huấn của Ngài, khẩn cầu Ngài từ tận đáy lòng bạn và coi Ngài như một vị Phật đích thực. Như một trong các Kinh điển có nói:
+
+*Chính nhờ có tín tâm mà chân lý tuyệt đối được chứng ngộ.*
+
+Tương tự, Ngài Atisa đã nói:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Các bạn, cho tới khi đạt được giác ngộ, các bạn cần một vị Thầy, vì thế hãy đi theo một vị thiện tri thức siêu việt.
+Cho tới khi chứng ngộ trạng thái như nhiên, các bạn cần phải học hỏi, vì thế hãy lắng nghe các giáo huấn của Ngài.
+Tất cả hạnh phúc là năng lực gia trì của Thầy, vì thế hãy luôn luôn tưởng nhớ đến lòng tốt của Ngài.
+
+Geshe Kharak Gomchung cũng nói:
+
+Ta cần ý thức được rằng vị Thầy giống như suối nguồn của mọi thành tựu thế gian lẫn các thành tựu xuất thế gian.
+
+và cũng nói:
+
+Bạn có thể thông hiểu toàn bộ Tam Tạng, nhưng nếu không có lòng quy ngưỡng đối với Thầy của bạn thì những thứ đó sẽ chẳng có ích lợi gì cho bạn.
+
+Điểm đặc biệt là trong tất cả các con đường của Mật Thừa, bậc Thầy có một tầm quan trọng vô song và tột bậc. Vì lý do này, tất cả mọi Mật điển đều dạy phương pháp thực hành Bổn Sư Du Già, và dạy rằng pháp này siêu vượt tất cả các pháp hành trì khác trong các giai đoạn phát triển và thành tựu. Trong một Mật điển có nói:
+
+Lợi lạc hơn cả công phu thiền định về một trăm ngàn Bổn Tôn trong mười triệu kiếp
+Là việc ta nghĩ tưởng về Thầy mình trong một khắc giây.
+
+Điều ấy đặc biệt đúng trong Thừa này, là tâm yếu của Đại Viên Mãn như nhiên, là giáo lý kim cương cốt lõi. Ở đây ta
+
+# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+không được dạy rằng chân lý thâm diệu phải được thiết lập trên nền tảng của phân tích và luận lý, như các pháp thực hành trong các Thừa thấp hơn đã dạy.234 [Theo các chỉ dạy trong pháp Bổn Sư Du Già], ta không cần phải sử dụng các thành tựu thông thường để cuối cùng mới đạt đến được các thành tựu tối cao như trong các Mật điển cấp thấp đã dạy. Thông thường, qua lễ quán đảnh thứ ba – tức lễ quán đảnh về tâm của các Mật điển thượng thừa, ta sẽ được chỉ cho thấy đâu là Giác tánh nguyên sơ qua những dẫn dụ về tâm, và xuyên qua đó, ta sẽ đến gần hơn với Giác tánh nguyên sơ đích thực.235 Nhưng trong pháp môn Guru Yoga thì cách thức quán đảnh và dẫn dụ như trên không phải là điều được chú trọng đến. Điều được dạy trong truyền thống Guru Yoga là hãy hướng tâm ta đến một vị Thầy đã chứng ngộ siêu việt và cầu nguyện Ngài với lòng quy ngưỡng nhiệt thành và với một tín tâm tuyệt đối. Vị Thầy ấy phải là người xuất thân từ một giòng truyền thừa không bị hoen ố vì bất cứ một vi phạm thệ nguyện nào, giống như một sợi giây xích bằng vàng ròng – hãy nương cậy nơi Ngài, chỉ độc nhất một mình Ngài, và hãy coi Ngài đích thực là một vị Phật.236 Qua phương cách này, tâm bạn sẽ hoàn toàn hòa nhập với tâm Ngài. Nhờ năng lực gia hộ mà Ngài trao truyền cho bạn, kinh nghiệm chứng ngộ sẽ nảy sinh.237 Như chúng ta đã trích dẫn trước đây:
+
+Tuệ giác bẩm sinh viên mãn chỉ có thể hình thành
+Như là dấu hiệu của công phu tích lũy công đức và tịnh hóa chướng ngại,
+Và nhờ vào năng lực gia trì của một bậc Thầy chứng ngộ.
+Hãy hiểu rằng nương tựa vào bất kỳ phương tiện nào khác là điên rồ.
+
+Và Ngài Saraha có nói:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Khi lời dạy của Thầy đi vào trái tim của bạn,
+Bạn sẽ thấy chẳng khác nào có một kho tàng trong lòng bàn tay.
+
+Ngài Longchenpa, Pháp Vương Toàn Giác, trong tác phẩm luận giải An Trú Xa Lìa Ảo Giác, 238 đã viết:
+
+Trong các pháp thực hành chẳng hạn như những pháp tu tập trong giai đoạn phát triển và thành tựu, không phải tự bản chất của những pháp tu này sẽ đem lại giải thoát, bởi vì điều đó còn tùy thuộc vào những yếu tố khác, chẳng hạn như là việc làm thế nào để ta có thể biến kinh nghiệm tu tập thành kinh nghiệm sống thực, giúp cho công phu thực hành của ta thêm phần sâu sắc. Tuy là như vậy nhưng trong pháp Bổn Sư Du Già (Guru Yoga), tự ngay bản chất của con đường này đã có khả năng làm sống dậy kinh nghiệm chứng ngộ trạng thái chân như trong ta, và đem lại cho ta giải thoát. Bởi vì lý do như thế mà Guru Yoga là con đường thâm diệu nhất trong tất cả mọi con đường [trong tất cả các pháp tu].239
+
+Trong Mật Điển Trình Tự Giới Nguyện có nói:
+
+Lợi lạc hơn cả việc thiền định trong một trăm ngàn đại kiếp
+Về một Bổn Tôn với tất cả các tướng chánh và phụ
+Là việc ta hướng tâm về Thầy mình trong giây khắc.
+Lợi lạc hơn cả một triệu câu trì tụng của các pháp tu trong giai đoạn phát triển và thành tựu (của Bổn Sư Du Già).
+Là một lời cầu nguyện độc nhất gửi tới Thầy ta.
+
+Và trong Mật Điển Trình Tự Pháp Tu A-Ti Du Già có nói:
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Bất kỳ ai thiền định về bậc Thầy từ ái của mình
+Trên đỉnh đầu họ,
+Nơi giữa trái tim họ
+Hoặc trong lòng bàn tay,
+Sẽ có được các thành tựu của một ngàn vị Phật.
+
+Bậc tôn kính Gotsangpa đã nói:
+
+Thực hành pháp tu Bổn Sư Du Già
+Làm cạn kiệt mọi khiếm khuyết và hoàn thiện mọi thành tựu.
+
+và cũng có nói:
+
+Có vô số các pháp tu trong giai đoạn phát triển,
+Nhưng không có pháp nào trong số đó vượt qua pháp thiền định về Thầy.
+Có vô số các pháp tu trong giai đoạn toàn thiện,
+Nhưng không có pháp nào vượt qua niềm tin tuyệt đối và lòng quy phục kia.
+
+Drikung Kyobpa Rinpoche nói:
+
+Trừ phi mặt trời của lòng quy ngưỡng chiếu sáng
+Trên đỉnh núi tuyết của bốn Thân của Thầy (four kayas),
+Thì lực gia trì của Ngài sẽ không bao giờ tuôn chảy.
+Vì thế, hãy hết lòng khơi dậy lòng quy ngưỡng trong tâm con!
+
+Và Ngài Jetsun Rangrik Repa nói:
+
+Muốn cho trí tuệ nguyên sơ siêu vượt tri thức ló rạng
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+*Mà không có lòng tin nhiệt thành nơi Thầy*
+*Thì giống như mong chờ ánh nắng mặt trời trong một cái*
+*hang quay về hướng bắc.*
+*Theo đó, tướng và tâm sẽ không bao giờ hòa hợp được.*$^{240}$
+
+Pháp tu quy ngưỡng của Bổn Sư Du Già là con đường duy nhất đánh thức được trong bạn trạng thái chứng ngộ như nhiên phi tạo tác. Không phương pháp nào khác có thể đem lại sự chứng ngộ như thế.
+
+Ngài Naropa là một học giả hết sức uyên bác trong cả ba Thừa, và sau khi đánh bại mọi thách thức của những kẻ ngoại đạo (tirthika), Ngài được ban cho tước vị của một vị Hộ Thần của các học giả ở cổng phía bắc của Vikramasila.$^{100}$
+
+Nhưng một ngày kia một Thiên Nữ Trí Tuệ (dakini) bảo Ngài: “Ông uyên bác trong ngôn từ, chứ không thâm nhập ý nghĩa của chúng. Ông vẫn cần phải theo chân một vị Thầy.”
+
+Tuân theo những giáo huấn trên, Ngài đi theo Tổ Tipola và chịu đựng nhiều thử thách, cho tới một hôm Tilopa bảo Ngài: “Mặc dầu ta dạy ông mọi sự, ông vẫn chẳng hiểu gì cả!” và đánh một chiếc dép lên trán Ngài. Ngay khi đó, Naropa chứng ngộ bản tánh như nhiên và trí huệ của Ngài trở nên đồng nhất với trí huệ của Thầy.*
+
+Cũng có truyện kể lại rằng Ngài Nagabodhi đã đạt được thành tựu tối cao bằng cách chộp lấy và nuốt một bện nước mũi nhỏ xuống của Đạo Sư cao quý Nagarjuna. Và Rigdzin Jigme Lingpa nói:
+
+*Khi tôi xem các tác phẩm của Ngài Longchenpa, một vị Phật Thứ Hai - thì trong trí tôi lóe lên tư tưởng rằng Ngài đích thật là một vị Phật, và tôi cầu nguyện Ngài với lòng chí thành mãnh liệt. Ngài đã thị hiển trong một linh kiến*
+
+__________________
+* Để biết thêm chi tiết xin xem thêm Phần Một, Chương Sáu, Mục III.
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+và đã chấp nhận [lời khẩn cầu] của tôi. Kinh nghiệm chứng ngộ tự nhiên phát sinh trong tôi và từ ngày hôm đó trở về sau, tôi đã có thể dẫn dắt trên một trăm đệ tử. Những đệ tử tinh tấn lẽ ra không vượt quá khả năng nhập định tầm thường, những đệ tử thông minh lạc lối lẽ ra đã có thể lạc vào lối mòn trí thức; nhưng họ đã chứng ngộ được chân lý tuyệt đối vì họ được lòng quy ngưỡng dẫn dắt như một năng lực đối trọng [để đem lại cho họ sự quân bình trong tu tập].
+
+Suốt thời kỳ tha hương ở Gyalmo Tsawarong, đại dịch giả Vairotsana đã dạy cho cụ già Pang Mipham Gonpo cách vận dụng năng lực gia trì của bậc Thầy như một con đường tu. Mipham Gonpo đã tám mươi tuổi và thân thể trì trệ vì tuổi già. Vì thế Ngài Vairotsana đã giúp ông giữ thân thể ngồi thẳng bằng một dây-đai-thiền-định và dựa đầu trên một giá-đỡ-thiền định.** Mipham Gonpo đã chứng ngộ kinh nghiệm thuần tịnh nguyên thủy của trekcho không chút sai lạc. Thân ông hòa tan thành vô lượng những hạt cực vi (infinitestimal particles) và đã đạt được Phật Quả.241
+
+Bạn có thể so sánh giáo lý này với bất kỳ giáo lý nào khác của tất cả chín Thừa, nhưng bạn sẽ không bao giờ tìm ra được một con đường tốt đẹp hoặc thâm diệu nào hơn giáo lý này. Pháp tu Guru Yoga này có thể được gọi là một pháp tu sơ đẳng nhưng thực ra đây là chìa khóa then chốt tối hậu của toàn thể các pháp tu chính yếu. Trong bất kỳ tình huống nào cũng vậy, nếu bạn luôn lấy pháp tu này làm cốt tủy cho việc tu hành của bạn, thì chỉ mình pháp ấy thôi là đã đủ – ngay cả nếu bạn không thực hành pháp nào khác nữa. Vì thế, điều cực
+
+** Dây-đai-thiền-định là một dây thắt lưng dài giúp thiền giả duy trì trong một tư thế ngay ngắn suốt thời gian dài ngồi thiền. Giá- đỡ- thiền-định là một cây gậy dài khum lại ở một đầu dùng như một giá đỡ cằm.
+
+485
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+kỳ quan trọng là bạn hãy hiến mình cho pháp tu này từ tận đáy lòng sâu thẳm.
+
+II. LÀM THẾ NÀO ĐỂ THỰC HÀNH PHÁP BỔN SƯ DU GIÀ
+
+Phần thực hành chính yếu của pháp tu Bổn Sư Du Già thâm diệu gồm có ba giai đoạn: quán tưởng ruộng công đức, cúng dường thất chi phổ hiền (seven-branch offering) và cầu nguyện với lòng tin chí thành.
+
+1. Quán Tưởng Ruộng Công Đức
+
+Để có thể chuyển hóa nhận thức của bạn về thế giới này, việc ấy đòi hỏi một tâm thức mạnh mẽ và khai phóng. Vì thế hãy bắt đầu bằng việc quán tưởng tất cả mọi thứ mà bạn có thể nhìn thấy trong tầm nhìn xa rộng của bạn chính là Cung Điện Liên Hoa Quang, với đầy đủ những đường nét đặc thù của một cung điện.
+
+Hãy quán tưởng chính bạn ở ngay trung tâm của cung điện, và thấy rằng bạn đang hiển lộ những đặc tánh tự nhiên của Thiên Nữ Trí Tuệ (dakini) Yeshe Tsogyal. Việc quán tưởng như trên đảm bảo rằng bạn sẽ là một bình chứa thích hợp cho các lễ quán đảnh, sẽ giúp khơi dậy trí huệ nguyên sơ của đại lạc và tánh Không, và sẽ liên kết được với những hướng dẫn mà vị Thiên Nữ ấy đã được thọ nhận từ bậc Sư Phụ.242 Theo hình tướng thì thật ra, bạn phải quán chính bản thân bạn là vị Hộ Phật Kim Cang Thủ (Vajrayogini). Đấng Vajrayogini có sắc tướng màu đỏ, với một khuôn mặt, hai tay và ba mắt. Vajrayogini đang tha thiết hướng mắt nhìn vào trái tim của vị Thầy –“tha thiết” ở đây diễn tả một cảm giác nóng lòng, không thể kiên nhẫn chờ đợi trong việc hoà nhập với Thầy. Ngài là suối nguồn duy nhất của mọi hỉ lạc. Sử dụng bàn tay phải,
+
+# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Vajrayogini đang đánh vào một cái trống nhỏ làm sọ người được giơ cao lên trong không trung, đánh thức chúng sinh ra khỏi giấc ngủ vô minh và lầm lạc. Bàn tay trái đặt lên hông, và cầm một lưỡi dao cong chặt đứt gốc rễ của tam độc. Vajrayogini không mặc y phục ngoại trừ những vật dụng bằng xương và các vòng hoa. Vajrayogini thị hiện ra trước mặt ta nhưng đó chỉ là giả hợp, không có thực chất, giống như một chiếc cầu vồng ở giữa bầu trời.
+
+Lơ lửng trong không gian trên đầu vị ấy cách khoảng một mũi tên là một hoa sen trăm ngàn cánh làm bằng nhiều loại châu báu đang nở rộ. Trên (đoá sen) đó là một đĩa mặt trời, trên nữa là một đĩa mặt trăng. Trên pháp toà này, có vị Thầy gốc hay Bổn Sư vinh quang của bạn đang an tọa. Ngài thị hiện trong hình tướng của đại Đạo Sư xứ Oddiyana, là kho tàng của lòng đại bi vô song, là hiện thân của chư Phật trong ba đời quá khứ, hiện tại và vị lai. Ngài mang sắc trắng, pha đỏ. Ngài có một khuôn mặt, hai tay và hai chân. Ngài ngồi trong tư thế vương giả và choàng một vuông vải bằng gấm thêu kim tuyến, đắp thêm chiếc y của một vị tăng, cùng một áo choàng xanh lam dài tay, trên đầu đội một chiếc mũ hoa sen.
+
+Có cả thảy ba chiếc mũ khác nhau có liên hệ với Guru Rinpoche. Ngài cũng được gọi là Đức Phật Thứ Hai của xứ Oddiyana. Chiếc mũ thứ nhất được các dakini cúng dường cho Ngài khi Ngài sinh ra đời. Ngài không được thụ thai bởi một người cha hay được sinh ra từ một người mẹ, mà được đản sinh ở phương tây-nam, trên Hồ Sữa, giữa một bông sen. Việc đản sinh này của Ngài đã xảy ra thình lình, là một nảy nở tự nhiên của giác tánh, là kinh nghiệm chứng ngộ rằng vạn pháp hữu vi đều phát sinh từ nền tảng nguyên sơ. Chiếc mũ miện mà các dakini cúng dường Ngài để tôn phong ngài như Pháp vương của họ, chiếc mũ miện ấy được gọi là Nụ-Sen.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Về sau, khi Ngài thực hành các hoạt động phi thường$^{243}$ nơi Tám Mộ Địa Vĩ Đại và siêu vượt mọi hành động tốt hoặc xấu, các vị Không-Hành nữ (dakini) đã hiến dâng cho Ngài chiếc mũ gọi là Mũ Da-Hươu$^{244}$ như một biểu tượng cho sự vĩ đại của Ngài.
+
+Chiếc mũ thứ ba do Arsadhara, Vua xứ Zahor cúng dường Ngài. Vua đã quyết tâm thiêu sống Đạo Sư, nhưng ông khám phá ra thân kim cương của Ngài không bị ngọn lửa làm cho tổn hại, thân này đang ngồi trần trụi, hoàn toàn tươi tắn, mát mẻ giữa một đoá sen kỳ diệu. Nhà vua hết sức kinh ngạc và đức tin xuất hiện trong lòng Ngài.
+
+“Hãy mở kho quần áo lụa mới của ta ra,” vua ra lệnh, “và đem cho ta tất cả những mũ miện và y phục.”
+
+Cái mũ mà vua cúng dường (cho đức Liên Hoa Sanh) vào lúc đó, không những được cúng dường cùng với những của cải khác của nhà vua, mà còn cùng với quyến thuộc, vương quốc và thần dân của vua nữa. Mũ ấy được gọi là Hoa Sen Giải thoát Nương Nơi Cái Thấy, cũng được gọi là Mũ Cánh Hoa Thuộc Ngũ Bộ Phật. Chính cái mũ đặc biệt này là cái mũ mà chúng ta quan tâm đến ở đây. Mũ này có hai lớp, trong và ngoài, tượng trưng cho sự hợp nhất của các giai đoạn phát triển và thành tựu. Mũ có ba chỏm, tượng trưng cho ba Thân (three kayas). Năm màu của mũ tượng trưng cho năm Thân$^*$ làm việc vì lợi lạc của chúng sinh. Mũ được trang trí với một mặt trời và mặt trăng tượng trưng cho các phương tiện thiện xảo và trí tuệ. Mũ còn có thêm một viền xanh dương tượng trưng cho các mật nguyện vô giới hạn. Trên chóp đỉnh có một chiếc chày kim cương (vajra) là biểu tượng của công năng thiền định cao độ không gì lay chuyển được, và thêm một chiếc lông chim kên kên, tượng trưng cho kinh nghiệm chứng
+
+* Xem Thuật ngữ.
+
+# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+ngộ của cái thấy cao tột và là cực điểm của công phu tu hành.
+
+Bàn tay phải của Ngài đặt nơi khoảng trái tim, phô diễn ấn phẫn nộ và trong tay có cầm một chiếc chày kim cang bằng vàng. Bàn tay trái đặt trong lòng trong ấn thiền định và trong tay có cầm một bình bát làm bằng sọ người. Bình bát chứa đầy nước cam lồ bất tử của trí tuệ và [bên trong bình bát có đặt] một bình trường thọ, trên bình trường thọ có cắm một chồi non của cây ước nguyện. Trong vòng tay trái, Đạo Sư (Guru Rinpoche) cầm cây chĩa ba khatvanga**— cây khatvanga này là biểu tượng bí mật của Mandarava, là vị Thiên Nữ Trí Tuệ (dakini) thủ hộ đứng đầu tất cả các Thiên Nữ. Ba ngạnh của khatvanga tượng trưng cho chân tánh tinh yếu, cho sự biểu lộ tự nhiên, và cho lòng bi mẫn, và ở dưới ba ngạnh này là là ba thủ cấp: một đầu đã khô tượng trưng Pháp Thân, một đầu thối rữa, tượng trưng Báo Thân, và một đầu mới cắt tượng trưng Hóa Thân. Chín vòng kim khí móc trên những ngạnh của khatvanga tượng trưng cho chín thừa; những giải cờ lụa năm màu tượng trưng cho năm trí tuệ. Khatvanga cũng được trang điểm bằng những mảng tóc của các mamo*** hoặc đã chết hoặc còn sống và của những vị Thiên Nữ, như một dấu hiệu cho thấy Đạo Sư đã nhiếp phục được họ trong suốt thời gian Ngài đã thực hành các hoạt động phi thường trong Tám Mộ Địa Vĩ Đại.245
+
+Khắp chung quanh Ngài, trong một khối cầu vồng chói lọi được vây quanh bởi một mạng lưới gồm vô số những tụ điểm ánh sáng năm màu, hãy quán tưởng Tám Vị Trì Minh Vương (Vidyadhara) của Ấn Độ, Hai Mươi Lăm Đại Đệ tử của Tây Tạng, cũng như hằng hà sa số các vị Bổn Tôn của Ba Nguồn
+
+** Một loại đinh ba đặc biệt
+*** Phạn: matrika, một loại thiên nữ (dakini) phẫn nộ
+
+489
+
+[Hình: Sơ đồ các vị tổ sư trong dòng truyền thừa]
+
+Guru Rinpoche và dòng truyền thừa
+Tâm-yếu của Đại-Quảng-Trí (Longchen Nyingtik)
+
+Jnanasutra
+Samantabhadra
+Trisong Detsen
+Vajrasattva
+Garab Dorje
+Sri Simha
+Manjusrimitra
+Yeshe Tsogyal
+**Guru Rinpoche**
+Vairotsana
+Longchenpa
+Vimalamitra
+Jigme Lingpa
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Gia Trì (Three Roots) cùng các vị Hộ Pháp trung thành. Các ngài phải thật sự hoá hiện [trước mặt bạn] như thế nào để chính sự hiện hữu ấy có thể chặt đứt được những tư tưởng phàm tục trong bạn.
+
+Nói rộng ra thì có ba phương cách khác nhau để quán tưởng dòng truyền thừa. Trong phần thực hành quy y, chúng ta đã quán tưởng các Lạt Ma vị này ở trên vị kia. Tất cả các Lạt Ma của dòng đại Viên Mãn xuất hiện vị này trên vị kia trên đỉnh đầu của Đạo Sư xứ Oddiyana. Còn cách thức chúng ta quán tưởng khi thiền định và trì tụng pháp Kim Cang Tát Đỏa (Vajrasattva) còn được biết đến như là viên ngọc dung chứa tất cả. Tất cả các Lạt Ma gốc và các Lạt Ma thuộc dòng truyền thừa cùng xuất hiện trong hình tướng của duy nhất của đức Kim Cang Tát Đỏa. Nhưng bây giờ, khi thiền định về Guru Yoga, chúng ta quán tưởng các Lạt Ma như một tổng hợp [cùng hội tụ lại]. Tất cả các Lạt Ma của dòng Đại Viên Mãn, đại dương của Ba Nguồn Gia Trì, cùng với các vị Hộ Pháp trung thành, tất cả đều tụ hội lại thành một thánh chúng xung quanh đại Đạo Sư xứ Oddiyana.
+
+Hãy trì tụng bản văn quán tưởng, chú ý tới ý nghĩa của các ngôn từ:
+
+Emaho! 246 Tất cả những gì con cảm nhận đều là một
+Phật cảnh đang được hình thành tự nhiên, thanh tịnh
+và vô tận...
+
+xuống tới:
+
+...được quán tưởng trong sự đồng nhất vĩ đại, bất khả phân của tánh sáng (clarity) và tánh Không (emptiness).
+
+Rồi với lòng quy ngưỡng mãnh liệt, hãy trì tụng những giòng này:
+
+*Hum! Nơi biên địa Tây Bắc xứ Oddiyana..*
+
+xuống tới:
+
+*..Guru Padma Siddhi Hum.*$^{247}$
+
+Khi bạn tụng đọc những dòng này, hãy tưởng tượng rằng tất cả các Bổn Tôn và Cung Điện Liên Hoa Quang ở Núi Đồng Đỏ Huy Hoàng như thực sự xuất hiện và tan hoà vào các Bổn Tôn thệ nguyện và vào cung điện $^{248}$ mà bạn đã quán tưởng, tất cả trở thành một như nước đổ vào với nước.
+
+## 2. Cúng Dường Thất Chi Phổ Hiền
+
+Con đường Kim Cương Thừa bao gồm nhiều phương pháp tu tập đa dạng, và không phải trải qua các gian khổ lớn lao. Con đường này được dành cho những người có căn cơ sâu sắc. Nếu chúng ta bền bỉ tu luyện bản thân để tích lũy công đức và trí tuệ với một quyết tâm mạnh mẽ, mọi sự lẽ ra phải mất cả một đại kiếp để tích lũy qua con đường hành trì sáu ba la mật, nhưng nay theo con đường của Kim Cương Thừa thì ta có thể thành tựu chỉ trong khoảnh khắc, và có thể đạt được giải thoát chỉ trong một đời.
+
+Không còn gì phải nghi ngại vì thửa ruộng công đức tối hảo duy nhất, bí mật và vô song ấy chính là bậc Đạo Sư Kim Cương.$^{249}$ Đó là lý do vì sao pháp vun bồi công đức được kết hợp với pháp tu Bổn Sư Du Già (Guru Yoga). Thất chi phổ hiền của pháp cúng dường cũng bao gồm toàn thể rất nhiều các phương pháp tích lũy công đức và trí tuệ.
+
+2.1 LỄ LẠY,$^{250}$ PHƯƠNG PHÁP ĐỐI TRỊ TÁNH KIÊU NGẠO
+
+## VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Đối với pháp môn lễ lạy này, hãy quán tưởng là bạn đang phân thân thành một trăm, một ngàn, rồi thành ra vô số thân thể như thân thể bạn hiện nay, nhiều như vô lượng những hạt bụi trong thế giới. Đồng thời hãy quán tưởng rằng tất cả chúng sinh vô lượng như không gian vô lượng đang lễ lạy cùng bạn. Những câu tụng đọc được sử dụng trong phần này là:
+
+> Hrih! Con xin quy mạng lễ, hoá hiện thành nhiều thân,
+> Nhiều như những vi trần trong toàn thể thế giới.
+
+Nói chung, khi bạn thực hành toàn bộ “năm trăm ngàn pháp tu chuẩn bị”,$^{251}$ bạn có thể kết hợp phần lễ lạy với pháp thực hành quy y, làm như vậy là đúng chứ không sai, và truyền thống kết hợp cả hai phương pháp đó cũng thường được [các hành giả] noi theo. Nhưng riêng trong giáo lý giảng dạy về pháp lễ lạy được cắt nghĩa ở đây thì việc kết hợp phần lễ lạy với pháp hành trì Bổn Sư Du Già mới chính là một phương pháp tuyệt hảo để tu tập.
+
+Điều quan trọng cần chú ý khi thực hành pháp môn lễ lạy là phải liên kết thân, ngữ, và ý. Khi bạn lễ lạy bằng thân, hãy trì tụng lời cầu nguyện lễ lạy bằng ngữ của bạn. Trong khi đó, hãy dùng tâm để nhận biết rằng bạn đang thực hành lễ lạy cùng tất cả chúng sinh và thực hành lễ lạy với lòng tôn kính và quy ngưỡng, hoàn toàn nương tựa vào Thầy của bạn và hoàn toàn quy phục Ngài. Mặt khác, bạn sẽ phải hoàn toàn dứt bỏ việc phát ngôn bừa bãi theo sở thích, hoặc ngó quanh ngó quất khắp mọi nơi trong khi tâm bạn tiếp tục theo đuổi đủ loại hiện tượng đang xảy ra bên ngoài. Có một kẻ nào đó đi ngang qua, hay một người nào đó đang nói chuyện ở phía bên phải của bạn thì bạn sẽ chú ý về phía đó và đôi mắt bạn sẽ bị lôi kéo về phía đó, và bạn sẽ thấy mình đang chắp đôi bàn tay lại ép lên má trái. Khi có ai đó xuất hiện ở bên phía trái của
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+bạn, bạn sẽ nhìn quanh, lắng nghe về phía đó và đôi bàn tay chắp lại của bạn cuối cùng lại chạm vào má bên phải. Bạn phải hiểu rằng nếu bạn chỉ trình diễn bề ngoài bằng cách lễ lạy như thế, để cho tâm buông lung phóng dật trong khi thân bạn tự lắc lư lên xuống thì đó chỉ là một thứ thử thách cho xác thân mà không đem lại bất kỳ lợi lạc nào.
+
+Khi lạy, bạn hãy chụm hai bàn tay lại trong hình dạng của một búp sen sắp nở, còn chừa một khoảng trống ở giữa [hai lòng bàn tay]. Không được ép sát hai bàn tay lại với nhau mà không để chừa khoảng không ở giữa, cũng như không được chắp hai tay bằng cách chỉ chạm các đầu ngón tay lại với nhau mà thôi. *Kinh Đại Giải Thoát* có nói:
+
+> Đôi bàn tay chắp lại trên đầu
+> Như một búp sen hé nở,
+> Và với vô lượng thân này tụ hội giữa trời mây
+> Con quỳ lạy mười phương chư Phật.
+
+Và *Kho Báu Thiện Đức* có nói:
+
+> Hãy làm một biểu hiện tôn kính nơi tim,
+> Thân cúi xuống thấp, tâm không phóng dật,
+> Đôi bàn tay chụm lại như một búp hoa
+> Và gắn liền với nhau như chiếc hộp đựng xá lợi.
+
+Hãy chắp hai bàn tay lại và đặt trên đỉnh đầu bạn, rồi đặt ở yết hầu (cổ họng) và đặt nơi tim bạn để tịnh hóa các chướng ngại của thân, khẩu và ý của bạn. Rồi bạn hạ người xuống trên nền nhà, chạm vào nền nhà ở năm điểm trên thân thể là trán, hai lòng bàn tay và hai đầu gối,^[252] để tịnh hóa các chướng ngại của ngũ độc và nhận được năng lực gia trì cho thân, khẩu, ý, phẩm hạnh và hoạt động. Sau đó hãy đứng
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+thẳng lên, lại chắp tay lại và tiếp tục thực hành lễ lạy theo phương cách như trên.
+
+Việc đong đưa hai cánh tay mà không chắp hai bàn tay lại là việc sai trái. Còn nếu bạn chỉ cúi xuống phía trước mà đầu gối và trán không chạm đất thì cũng không đúng. Cũng không đúng nốt nếu khi đứng dậy, bạn cứ lom khom mà không đứng thẳng người lên. Lễ lạy như thế là thiếu tôn kính. Người ta nói rằng nghiệp trổ quả của việc lễ lạy mà không đứng thẳng là kẻ thực hành lễ lạy sẽ bị tái sinh làm một người lùn gù lưng. Chúng ta thực hiện việc lễ lạy với hy vọng công phu tu tập này sẽ đem đến cho ta lợi lạc – vì thế, chẳng có ý nghĩa gì trong việc thực hành lễ lạy nếu kết quả của việc làm ấy chỉ đem đến cho ta một thân thể méo mó biến dạng.
+
+Ngay cả nếu bạn không thể lễ lạy được nhiều lần, thì hãy nỗ lực bằng mọi cách để bảo đảm rằng bất kể cái lạy nào của bạn cũng sẽ là một cái lạy hoàn hảo, không thể chê vào đâu được. Thật là vô nghĩa nếu bạn cố tình làm cho công việc lễ lạy trở nên dễ dàng hơn bằng cách thực hiện lễ lạy trên một chỗ dốc, chẳng hạn ở sườn một ngọn đồi, hoặc bằng bất kỳ phương pháp nào khác.
+
+Hơn nữa, ngày nay khi người ta tỏ lòng tôn kính một ai, ví dụ như khi viếng thăm một Lạt Ma, họ thi lễ và lạy một cái lạy tạm coi như là đúng cách, và rồi sau đó bồi thêm hai cái lạy nữa chẳng nào khác hai « nghiêng mình ». Đại khái cứ cho như đó là cách lễ lạy của những kẻ có tầm vóc quan trọng đi - và hầu hết những kẻ ngu dốt lại noi theo gương của họ. Nhưng đó là một cách lễ lạy cực kỳ thô tục. Mục đích của việc thỉnh cầu giáo lý, ngay cả trong những sự việc đơn giản như cách quỳ lạy ra sao, là để nghe Đạo Sư giảng dạy bất kỳ điều gì ta không biết, và sau đó luôn luôn đưa những giáo huấn đó vào thực hành mà không bỏ quên bất kỳ chi tiết nào. Nếu ta không thể đưa vào thực hành ngay cả một điều thật dễ học và dễ làm thì việc học hỏi về Phật Pháp sẽ trở nên hoàn toàn vô
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+nghĩa và không đem lại kết quả nào. Những người đã từng nghiên cứu Phật Pháp phải giỏi giang thành thạo hơn những người không nghiên cứu Pháp, kể cả trong cách thức họ thi lễ, cách lạy những cái lạy thật đơn giản.
+
+Khi Ngài Jetsun Mila đến cầu Pháp với Lạt Ma Ngokpa, Ngài tới vào lúc Lạt Ma Ngokpa đang giảng Mật điển Hô Kim Cương (Hevajra Tantra) cho một tập hội tăng sĩ đông đảo. Ngài Mila tỏ lòng tôn kính bằng cách quỳ lạy từ xa. Vị Lạt Ma rất hài lòng.
+
+Bỏ mũ miện xuống khỏi đầu, vị Lạt Ma lạy trả ngài Mila và nói: “Đây thật là một việc gián đoạn tốt lành! Người quỳ lạy đằng kia đang lạy theo cung cách của các đệ tử của Ngài Marpa xứ Lhodrak.* Hãy hỏi xem ông ta là ai.”
+
+Bất kỳ ai đi theo một vị Thầy nào và nhận giáo lý của Ngài thì cũng phải giống như một miếng vải được ngâm trong thuốc nhuộm. Khi anh ta học tập để noi theo những hành động của vị Thầy đáng kính của mình, thì chắc chắn sẽ có một vài chuyển biến đáng lưu ý xảy ra so với anh ta trước kia. Khi một miếng vải được nhuộm màu, thể nào màu mới cũng sẽ ít nhiều ngấm vào miếng vải— làm sao mà miếng vải đó lại không thay đổi màu sắc chút xíu nào cho được? Ngày nay, có những người từng thọ nhận Pháp hàng trăm lần, nhưng họ vẫn không cải thiện bản thân được chút nào, và xử sự hoàn toàn như một người thế tục trên mọi phương diện. Tất cả những gì Giáo Pháp sản sinh ra lại chỉ là những hành giả trơ lì, là những kẻ vi phạm mật nguyện. Có câu nói rằng:
+
+Đạo Pháp có thể là nguồn cảm hứng khiến những kẻ xấu ác biến đổi, nhưng không thể truyền cảm hứng cho những hành giả trơ lì đối với Pháp – giống như mỡ có thể làm
+
+* Vị thầy gốc (bổn sư) của Milarepa, và cũng là bổn sư của Ngokpa.
+
+# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+loại da cứng trở nên mềm mại, nhưng không thể làm mềm da của túi đựng bơ.253
+
+Một khi bạn đã học hỏi về lợi lạc của các thiện hạnh, về tai hại của các ác hạnh và về phẩm hạnh của chư Phật, thì điều đó sẽ không bao giờ đủ nếu bạn chỉ đơn thuần tán đồng tin tưởng; bạn còn phải khơi dậy sự xác quyết và lòng tín tâm để có thể thực sự chuyển hoá cái nhìn của bạn. Nếu không thì ngay cả vị Phật Toàn Giác bằng xương bằng thịt cũng sẽ chẳng thể nào cứu giúp bạn. Đấng Vĩ Đại xứ Oddiyana đã ban lời cảnh cáo sau đây:
+
+- Đừng tham dự vào giữa đám đông những kẻ đệ tử lạc lối chuyên bàn suông về Giáo Pháp trong khi tâm họ đã trở nên trơ lì với Pháp.
+- Đừng liên kết với những bằng hữu nào muốn giới hạn các mật nguyện của họ.
+
+Cho dù bạn chỉ hiểu một chữ duy nhất của Giáo Pháp thì bạn cần nhận biết ra được cách nào để cho chữ ấy chan hoà trong tâm bạn và đưa được chữ ấy vào trong thực hành. Mục đích của việc đi theo một vị Thầy là quan sát tư tưởng, lời nói và hành động của Ngài và học cách hành pháp như Ngài hành pháp. Như tục ngữ có câu:
+
+Mọi hành động chỉ là noi gương:
+Những người hành động tuyệt hảo là những người noi gương giỏi nhất.
+
+Theo cách này, bạn nên để cho những phẩm hạnh bên ngoài, bên trong và ẩn mật của Thầy in dấu lên bạn, giống như một mẫu tượng tsa-tsa hình thành từ chính cái khuôn của nó.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+“Lễ lạy” là một từ tổng quát mô tả một cử chỉ tôn trọng và kính phục. Có nhiều cách khác nhau để lễ lạy, và những tập tục lễ lạy biến đổi từ nơi này sang nơi khác. Tuy nhiên, trong trường hợp này, Thầy của bạn đã hướng dẫn bạn cách thức lễ lạy cho phù hợp với lời dạy của Đấng Chiến Thắng. Vì thế, nếu bạn cố ý lễ lạy theo một cách thức sai lầm, dù bởi kiêu ngạo hay dù để giúp cho việc lễ lạy dễ dàng hơn, thì cả hai đều là một hành vi thiếu tôn kính và là một biểu hiện của sự khinh thường. Bạn cũng cần phải hiểu rõ ràng nếu chỉ thực hành lễ lạy như thế để thanh toán một món thuế thì việc làm này sẽ không có nghĩa lý gì cả và chỉ đem lại những kết quả sai lầm.
+
+Trái lại, nếu lễ lạy đúng đắn thì việc này đem lại vô lượng lợi lạc. Một lần, khi một nhà sư đang lễ lạy một cái tháp đựng những mẩu tóc và móng chân tay của Đức Phật, Ngài Ananda hỏi Đức Phật một hành động như thế có thể có lợi lạc gì. Đức Phật đáp:
+
+Kết quả gặt hái được từ một cái lạy duy nhất có oai lực khủng khiếp nhiều đến nỗi nếu như ta được trở thành một vị đại đế vô lượng lần nhiều bằng số lượng hạt bụi ở dưới thân ta xuống cho đến vực sâu nhất của trái đất,²⁵⁴ thì lợi lạc của cái lạy đó vẫn không cạn kiệt.
+
+Và trong Kinh điển có nói:
+
+Nhục kế không thể nghĩ bàn trên đầu Đức Phật hình thành từ việc Ngài đã lễ lạy Đạo Sư của Ngài với tất cả lòng tôn kính.
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Cuối cùng, lễ lạy cũng sẽ dẫn dắt chúng ta đến việc có được nhục kế (usnisa) không thể nghĩ bàn trên đỉnh đầu của chư Phật Toàn Giác.
+
+2.2 CÚNG DƯỜNG255
+
+Hãy sắp đặt những phẩm vật cúng dường trong khả năng tài chánh của bạn cho phép, như đã được giảng dạy trong chương viết về cúng dường mạn đà la – nói cách khác, hãy cúng dường các phẩm vật trong sạch, hoàn toàn thanh tịnh, và không để cho mình vướng mắc vào tính keo kiệt, đạo đức giả hay tính khoe khoang. Các phẩm vật cúng dường này chỉ là phương tiện hỗ trợ cho công phu thiền định của bạn.
+
+Sau đó, hãy cúng dường trong tâm tưởng theo cách thức của Bồ Tát Phổ Hiền (Samantabhadra),256 để cho toàn thể thế giới và toàn bộ không gian tràn ngập với tất cả những phẩm vật cúng dường của các cõi người và Trời: hoa, hương, đèn, nước hoa, thực phẩm, cung điện, phong cảnh, lâu đài, lạc viên, bảy vật tượng trưng cho vương quyền và tám biểu tượng tốt lành, với mười sáu Thiên Nữ kim cương nhảy múa và ca hát, mỗi vị sử dụng một nhạc cụ riêng của mình.
+
+Nhờ năng lực của thiền định, Bồ Tát Phổ Hiền phóng ra hàng trăm triệu tia sáng đủ màu sắc từ tim Ngài, như vô số những hạt bụi trong hằng hà sa số các cõi Phật. Ở cuối mỗi tia sáng, Ngài phóng ra một thân tướng đồng nhất với bản thân Ngài, rồi cũng phóng ra các tia sáng đồng nhất từ tim của các thân tướng đó. Ở cuối mỗi tia sáng đó, còn lần lượt xuất hiện thêm các đức Phổ Hiền, và như thế tiếp tục tăng trưởng vô hạn, cho tới số thân tướng hiển lộ thì hoàn toàn không thể nghĩ bàn. Mỗi một vị trong những thân tướng Phổ Hiền này đang cúng dường chư Phật và chư Bồ tát khắp mười phương vô số những phẩm vật cúng dường vô vàn đủ thứ loại. Đây là cái được gọi là “những đám mây cúng dường của đức Phổ Hiền cao quý.” Hãy cúng dường bằng cách quán tưởng nhiều
+
+499
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Hoá Thân hiển lộ trong tâm bạn tuỳ theo mức độ quán tưởng mà bạn có thể đạt được theo cách này, vừa quán tưởng vừa đọc những lời tương ứng như sau:
+
+*Với những phẩm vật cúng dường được chuẩn bị bằng cả vật chất lẫn quán tưởng,*
+*Con cúng dường tất cả mọi thứ trong vũ trụ như một động tác cúng dường bao la.*
+
+Dù khả năng cúng dường của ta ra sao thì chư Phật và Bồ Tát vẫn có đủ oai lực để thu nhiếp. Vì vậy, trong tâm tưởng, hãy vận dụng tất cả của cải không có sở hữu chủ trong toàn thể các cõi người và trời khắp thế giới, và dâng cúng tất cả. Sau đó, bằng trí tưởng tượng, hãy tưởng tượng ra thật nhiều của cải càng tốt trong mức độ bạn có thể tưởng tượng ra được, và hãy cúng dường tất cả. Theo cách này bạn có thể vun bồi công đức tương đương với lượng công đức mà bạn có thể có được nếu như những vật cúng dường đó là tài sản của riêng bạn. Đừng bao giờ cho rằng bạn không có gì để cúng dường. Bất kỳ thứ gì bạn hay những người khác có và bất cứ điều gì bạn thấy, hãy để cho ý nghĩ đầu tiên của bạn luôn luôn là ý nghĩ cúng dường những phẩm vật đó cho Tam Bảo, cho các Bổn Sư và các Đạo Sư thuộc dòng truyền thừa. Bằng chính tâm bạn, hãy cúng dường cho Tam Bảo bất kỳ điều gì bạn thấy đẹp đẽ khi đi ngang qua, thậm chí một dòng nước trong trẻo hay những cánh đồng hoa, như thế bạn sẽ hoàn thiện công phu vun bồi công đức và trí tuệ ngay giữa các hoạt động thường nhật của bạn.
+
+2.3 SÁM HỐI ÁC HẠNH
+
+Trước tiên, hãy sám hối bằng việc suy tưởng như sau: “Với lòng hổ thẹn và ân hận mãnh liệt, con phát lồ sám hối việc
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+con đã phá giới và sám hối những ác hạnh của con, những gì con còn nhớ và những gì con đã quên, tất cả những hành vi tiêu cực không thể tưởng tượng nổi mà con đã từng làm trong tất cả các kiếp sống trong vòng sinh tử từ vô thủy: mười ác hạnh của thân, khẩu và ý, năm tội bị quả báo tức thời (ngũ nghịch trọng tội) và năm tội nặng gần bằng ngũ nghịch trọng tội, bốn lỗi lầm nghiêm trọng, tám hành vi độc ác, tội lạm dụng tiền của được hiến cúng cho Tam Bảo và v.v... Từ giờ trở đi, con sẽ không bao giờ lập lại những hành vi xấu ác này.”
+
+Với những ý nghĩ như trên, hãy sám hối như đã được giảng dạy trong chương viết về Kim Cang Tát Đỏa (Vajrasattva), trong khi ghi nhớ trong tâm cách đối trị của bốn công năng sám hối. Rồi hãy tưởng tượng rằng tất cả những hành động sai lầm và những chướng ngại của bạn cùng tập hợp lại trong hình dạng một nhúm đen trên lưỡi bạn. Hãy quán tưởng các tia sáng đang tuôn chảy ra từ thân, khẩu, ý* của các Bổn Tôn trong ruộng công đức, chạm vào chỗ nhúm đen, và tẩy sạch tất cả các ô nhiễm của bạn như thể tất cả bụi đất đều được cuốn trôi đi. Hãy tụng đọc những lời này:
+
+Trong Pháp Thân chói lọi
+Con sám hối mọi tư tưởng, lời nói và hành vi sai trái.
+
+2.4 HOAN HỈ, PHƯƠNG PHÁP ĐỐI TRỊ TÁNH GANH TỊ
+
+Hãy phát tâm hoan hỉ sâu xa và chân thành trước công cuộc chuyển Pháp Luân Vĩ Đại đã được các Đấng Chiến Thắng khởi động vì lợi lạc của chúng sinh. Hãy hoan hỉ trước các hoạt động bao la, đầy uy dũng của chư Bồ Tát, và trước các thiện hạnh của chúng sinh những việc đáng tán thán và đưa
+
+* Ánh sáng trắng từ giữa trán, tượng trưng cho thân; ánh sáng đỏ từ giữa cổ họng, tượng trưng cho ngữ; ánh sáng xanh dương từ giữa trái tim tượng trưng cho tâm.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+tới giải thoát.258 Hãy hoan hỉ trước bất kỳ điều tốt lành nào mà bản thân bạn đã làm trong quá khứ, đang làm trong hiện tại và chắc chắn sẽ làm trong tương lai. Hãy tụng đọc:
+
+Con hoan hỉ trước tất cả các thiện hạnh
+Được gói trọn trong hai chân lý (chân đế và tục đế).
+
+Chúng ta hoan hỉ trước tất cả các thiện hạnh bao gồm trong hai chân lý,259 dù được thực hiện bởi chúng ta hay bởi người khác, dù bị các cảm xúc làm cho ô nhiễm hay dù thanh tịnh hoàn toàn, bởi vì không một giáo lý nào trong tất cả chín Thừa mà không được bao gồm trong chân lý tương đối (tục đế) hay chân lý tuyệt đối (chân đế).
+
+Việc phát khởi tâm hoan hỉ theo cách này sẽ đem đến lợi lạc vô hạn. Có một lần vua Ba Tư Nặc (Prasenajit) thỉnh mời Đức Phật và chúng đệ tử của Ngài dùng bữa hằng ngày tại cung điện trong thời gian bốn tháng. Trong thời gian này ông đã cúng dường hội chúng tất cả tài sản của mình. Một bà lão hành khất đi ngang qua đó tràn ngập lòng hoan hỉ trước hành động này.
+
+“Vua Ba Tư Nặc đã đạt được mọi của cải này nhờ công đức vua đã tích tập trong quá khứ,” bà lão nghĩ, “và giờ đây vua đã được gặp Đức Phật. Đức Phật là người mà nhà vua chú tâm gửi đến hết tất cả mọi cúng dường, và công phu tích lũy công đức của nhà vua thực là cực kỳ to lớn. Kỳ diệu thay!”
+
+Nhờ lòng hoan hỉ chân thành và hoàn hảo mà bà lão đã tạo được vô lượng công đức. Đức Phật thấu suốt điều này.
+
+Chiều hôm đó, khi đến lúc hồi hướng công đức, Đức Phật nói với vua: “Ngài muốn ta hồi hướng nguồn mạch công đức mà Ngài đã thâu đạt được cho Ngài, hay muốn ta sẽ hồi hướng công đức ấy cho người xứng đáng hơn Ngài?”
+
+Nhà vua đáp: “Xin hồi hướng công đức cho bất kỳ ai có nguồn mạch công đức to lớn nhất.”
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Vì thế Đức Phật đã hồi hướng công đức cho bà lão hành khất. Việc này xảy ra trong ba ngày liền. Quá bực tức, nhà vua thỉnh ý các thượng thư để tìm cách chấm dứt tình trạng này.
+
+“Đức Vua quyết định về việc này thế nào?” họ hỏi. “Ngày mai, khi thỉnh mời đức Thế Tôn và các đệ tử của Ngài đến để cúng dường, chúng ta sẽ đánh đổ một số thực phẩm và thức uống quanh những cái nồi. Khi những người hành khất đến nhặt thực phẩm rơi rớt, chúng ta sẽ đánh họ thật nghiêm khắc để ngăn cản họ.”
+
+Và họ đã làm như thế. Khi bà lão hành khất hoan hỉ đến nhặt thực phẩm bị đánh đổ, họ ngăn lại và đánh bà. Bà trở nên giận dữ, vì vậy tiêu hủy nguồn mạch công đức của bà.
+
+Như tôi đã lập lại ở đây nhiều lần, chỉ duy nhất tác ý của người thực hiện công việc ấy sẽ quyết định được là các hành động người đó làm là hành động tích cực hay tiêu cực – chứ không phải việc thật sự thực hiện công việc bằng vật chất hay bằng những lời lẽ dựa vào tác ý trên. Vì lý do này, trong Thắng Quân Vương Sở Vấn Kinh, Đức Phật đã giảng giải tỉ mỉ rằng việc chỉ đơn thuần nhìn thấy điều tốt người khác đã làm với một tâm thức thanh tịnh, chân thành hoan hỉ trước điều đó và hồi hướng năng lực của việc làm đó cho Giác Ngộ viên mãn của tất cả mọi chúng sinh, thì hạnh hoan hỉ ấy sẽ đem lại công đức còn nhiều hơn những hành vi tốt đẹp có tính phô trương, là những hành vi đã bị tám mối quan tâm thế tục làm cho băng hoại, bị ô nhiễm bởi các tham vọng đối với cuộc đời này, bởi tánh kiêu ngạo về các hành vi tốt đẹp của mình, bởi ước muốn ganh đua với đức hạnh của người khác và v.v... Chagme Rinpoche có nói:
+
+Khi nghe nói về điều tốt của người khác,
+Nếu như ta đuổi được đi mọi niệm tưởng ganh tị tiêu cực
+Và thực sự hoan hỉ tận sâu thẳm trong tim ta,
+Thì công đức của ta sẽ ngang bằng công đức của họ.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Bát Nhã Tập Kệ cũng có nói:
+
+Sức nặng của tất cả các núi Tu Di trong một tỉ thế giới có thể cân đo được,
+Nhưng không thể đo lường được với công đức của việc tùy hỉ công đức.
+
+Hãy luôn luôn hoan hỉ trước điều tốt mà những người khác đã làm, vì hạnh hoan hỉ rất dễ thực hiện và thật lợi lạc.
+
+2.5. KHẨN CẦU CHƯ PHẬT CHUYỂN PHÁP LUÂN²⁶⁰
+
+Hãy tưởng tượng trước mặt bạn hiện ra tất cả chư Phật và Bồ Tát, chư Đạo Sư và tất cả những bậc thầy có thể đảm đương gánh nặng to lớn để làm lại lợi lạc cho chúng sinh. Hãy tưởng tượng rằng các Ngài đã chán ngán vì thái độ vô ơn và ngã lòng của những chúng sinh đó, và các Ngài không có ý định giảng dạy gì nữa hết mà sẽ an trụ vĩnh viễn trong trạng thái an bình. Bạn hóa hiện thành hàng trăm và hàng ngàn triệu thân, hãy cúng dường bánh xe, châu báu và các báu vật khác cho toàn thể chư vị, và khẩn thiết kêu nài các Ngài hãy chuyển Pháp Luân với những lời nguyện sau đây:
+
+Con khẩn nài các Ngài chuyển Pháp Luân của ba Thừa.
+
+Phật Pháp được phân chia tổng quát thành ra ba Thừa: Thanh Văn Thừa, Độc Giác Thừa, và Bồ Tát Thừa. Hợp nhất lại thì ba Thừa này bao gồm toàn thể giáo lý của Đức Phật. Nhưng Giáo Pháp ấy cũng có thể được chia nhỏ thành chín Thừa: ba Thừa bên ngoài là các Thừa của chư vị Thanh Văn, Phật Độc Giác và Bồ Tát, với giáo lý giải thoát gốc rễ của đau khổ;* ba
+
+* Theo một cách hiểu khác: “giáo lý này dẫn dắt chúng ta biết cách vận dụng nhân đau khổ như một khởi điểm [để giúp ta tu tập].”
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Thừa bên trong, Kriya, Upayoga và Yoga có liên quan tới các pháp tu khổ hạnh giống như theo truyền thống Vệ Đà;** và ba Thừa bí mật, Mahayoga, Anuyoga và Atiyoga, hướng dẫn các phương pháp mãnh liệt để chuyển hóa. Khi chúng ta thỉnh cầu các Ngài chuyển Pháp Luân, điều ta đang cầu khẩn là khẩn cầu Giáo Pháp của ba Thừa này, Giáo Pháp ấy được phân chia xa hơn nữa thành chín Thừa, và chín Thừa ấy có thể cung cấp các giáo lý thích hợp cho đệ tử [với nhiều loại căn cơ khác nhau].
+
+2.6. KHẨN CẦU CHƯ PHẬT ĐỪNG NHẬP NIẾT BÀN 261
+
+Hãy hướng những lời khẩn cầu của bạn đến chư Đạo Sư, chư Phật và chư Bồ Tát là những bậc đã hoàn thành công hạnh của các Ngài vì lợi ích của chúng sinh, hiện đang ở trong cõi Phật này và những cõi Phật khác, và giờ này các Ngài đều muốn nhập Niết Bàn. Giống như cư sĩ Cunda262 đã làm trong quá khứ, hãy nài xin các Ngài bằng cách quán tưởng trong tâm bạn hiện ra nhiều Hóa Thân của chính mình. Hãy thỉnh nài như sau:
+
+*Cho tới khi vòng luân hồi trở nên trống rỗng,*
+*Xin ở lại với chúng con và đừng nhập Niết Bàn!*
+
+Rồi hãy nghĩ tưởng rằng do công phu cầu nguyện của các bạn mà tất cả chư Phật đều ở lại trụ thế để làm việc lợi lạc cho chúng sinh cho tới khi vòng luân hồi trở thành trống rỗng!
+
+2.7. HỒI HƯỚNG 263
+
+** Trong đó có một điểm nhấn mạnh rất quan trọng về sự sạch sẽ thuần tịnh có tính cách nghi lễ và về cung cách cư xử bên ngoài.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Hãy theo gương mẫu của Đức Văn Thù bằng cách hồi hướng cho tất cả chúng sinh bất kỳ công đức nào bạn hay bất kỳ ai khác đang tích lũy qua hành động mà giờ đây bạn và những người ấy đang làm. Hãy niêm phong bằng dấu niêm của trí tuệ vô niệm. Hãy tụng đọc những dòng dưới đây:
+
+Tất cả những thiện căn đã được tích lũy trong suốt quá khứ, hiện tại và vị lai,
+Con hồi hướng như là một hạt nhân đưa đến đại Giác Ngộ.
+
+Đừng quên hồi hướng vào lúc cuối, trước khi bất kỳ hành động đáng khen nào chấm dứt, dù lớn hay nhỏ. Bất kỳ thiện căn (nguồn mạch công đức) nào không được hồi hướng theo lối này thì sẽ chỉ kết trái một lần và sau đó sẽ bị cạn kiệt. Nhưng bất cứ điều gì được hồi hướng cho Giác Ngộ tối hậu thì sẽ không bao giờ bị khô cạn, thậm chí khi đã kết trái một trăm lần. Thay vào đó, công đức đó sẽ tăng trưởng và phát triển cho tới khi bạn thành tựu được Phật Quả toàn hảo. Trong Kinh Sagaramati có nói:
+
+Giống như một giọt nước rơi vào đại dương
+Sẽ không bao giờ biến mất cho tới khi đại dương khô cạn,
+Công đức được hoàn toàn hồi hướng cho Giác ngộ
+Sẽ không bao giờ biến mất cho tới khi đạt được Giác Ngộ.
+
+Bạn có thể ước muốn đạt được mức độ tu chứng của một vị Thanh Văn hay Phật Độc Giác, hay đạt được thành tựu Toàn Giác. Bạn có thể chỉ ước muốn được tái sinh trong các cõi giới cao, như một vị Trời hay một con người. Hoặc bạn có thể chỉ ước muốn một kết quả nhất thời như một cuộc đời trường thọ hoặc dồi dào sức khỏe. Nhưng khi bạn làm điều gì
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+đáng khen, thì dù trong cái nhìn của bạn có mục đích nào chăng nữa, điều quan trọng là hãy hồi hướng việc ấy cho mục đích Giác Ngộ. Ngài Drikung Kyobpa Rinpoche có nói:
+
+*Trừ phi bạn nguyện cầu*
+*Bằng cách xoa tay vào viên ngọc như ý của hai công năng tích tụ (hai bồ công đức),*
+*Thì kết quả bạn mong ước sẽ không bao giờ xuất hiện:*
+*Vì vậy, khi kết thúc, hãy phát tâm hồi hướng với tất cả tấm lòng.*
+
+Chính công năng hồi hướng sẽ quyết định được xem những thiện hạnh mà bạn đã làm có sẽ dẫn tới Toàn Giác hay không. Còn những hành động tạo tác thiện lành mà bạn tích lũy dù có khổng lồ đến đâu chăng nữa, cũng không thể dẫn tới giải thoát trừ phi bạn giúp cho những hành động này có được một hướng đi tốt bằng cách hồi hướng hết thảy mọi việc. Geshe Khampa Lungpa có nói:
+
+*Không một thiện hạnh nào do tạo tác có được một định hướng riêng,264*
+*Vì thế hãy phát tâm nguyện rộng lớn vì lợi lạc của chúng sinh.*
+
+Tương tự như vậy, đối với một hành động tích cực hay một hạnh lành mà bạn có thể thực hiện nhân danh cha, mẹ hoặc nhân danh những người thân yêu của bạn, hoặc cho người đã chết, thì bạn cũng phải phát tâm hồi hướng y như trên.265 Không hồi hướng thì hành động đó không có hiệu quả. Nhưng nếu bạn hồi hướng việc đã làm thì những người mà bạn muốn hướng tâm đến sẽ được lợi lạc một cách tương ứng.
+
+Một lần kia những cư dân ở Vaisali đến mời Đức Phật tới dùng bữa vào ngày hôm sau.
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Sau khi họ ra về, năm trăm quỷ đói đến và khẩn cầu Ngài: “Xin hồi hướng cho chúng tôi công đức bố thí mà dân chúng ở Vaisali sắp cúng dường cho Ngài và cho chúng đệ tử của Ngài vào ngày mai.”
+
+“Các ông là ai?” Đức Phật hỏi, mặc dù Ngài đã biết câu trả lời. “Tại sao nguồn công đức của dân chúng ở Tỳ Xá Li (Vaisali) lại phải hồi hướng cho các ông?”
+
+“Chúng tôi là cha mẹ họ,” các quỷ đói đáp. “Chúng tôi bị tái sinh làm quỷ đói là hậu quả của thái độ bủn xỉn của chúng tôi.”
+
+Đức Phật nói: “Trong trường hợp này, hãy đến đó trong phần hồi hướng và ta sẽ làm như các ông yêu cầu.”
+
+“Điều đó không thể được,” họ nói. “Chúng tôi rất xấu hổ vì thân hình xấu xí của mình.”
+
+Đức Phật đáp: “Các ông nên xấu hổ khi làm những hành động xấu ác đó. Lúc ấy không cảm thấy xấu hổ thì có gì là khôn ngoan đâu, nhưng bây giờ lại thấy xấu hổ khi các ông đã bị tái sinh trong thân tướng khốn khổ này ư ? Nếu các ông không đến, ta sẽ không thể hồi hướng công đức cho các ông.”
+
+“Nếu thế chúng tôi sẽ tới,” họ nói và cáo biệt.
+
+Ngày hôm sau, khi đã đến lúc, chúng quỷ đói tới để nhận hồi hướng. Những cư dân ở Vaisali khiếp sợ và bắt đầu chạy trốn.
+
+“Không có lý do gì phải sợ,” Đức Phật trấn an họ. Đây là cha mẹ quý vị đã bị tái sinh làm quỷ đói. Chính họ đã nói với ta như thế. Ta có nên hồi hướng nguồn công đức của quý vị cho họ hay không ?”
+
+“Tất nhiên là Ngài nên làm như vậy!” họ la lên.
+
+Đức Phật liền nói:
+
+Nguyện xin hồi hướng công đức của hạnh cúng dường cho chúng quỷ đói này.
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+*Cầu mong họ thoát khỏi thân tướng xấu xí*
+*Và đạt được hạnh phúc của những cõi cao hơn!*
+
+Vừa khi đức Phật mở lời nói thì tất cả quỷ đói đã lăn ra chết. Đức Phật giảng rằng họ đã được tái sinh ở cõi Trời thứ Ba Mươi Ba.
+
+Ngài Jetsun Mila nói:
+
+*Giữa một ẩn sĩ thiền định trong núi non*
+*Và kẻ cúng dường cung cấp lương thực cho Ngài*
+*Có một mắt xích đưa họ cùng nhau đến bờ Giác Ngộ.*
+*Việc hồi hướng công đức chính là tinh túy của mắt xích đó.*
+
+Muốn cho bất kỳ công phu hồi hướng công đức nào đưa dẫn tới Toàn Giác thì việc hồi hướng ấy phải được đi kèm với trí huệ, hoàn toàn tách khỏi ba ý niệm [đối đãi]. Nếu ta bám chấp vào các ý niệm đó như thật có thì việc ta hồi hướng công đức sẽ bị ô uế và việc hồi hướng đó sẽ bị gọi là hồi hướng độc hại. *Bát Nhã Tập Kệ* có nói:
+
+*Đấng Chiến Thắng đã dạy rằng ta làm việc tốt chung với các ý niệm tạo tác*
+*Thì giống như ăn thực phẩm dinh dưỡng pha lẫn thuốc độc.*
+
+Ba ý niệm được đề cập ở đây là các ý niệm sau đây: có một nguồn mạch công đức (thiện căn) để hồi hướng, có người được hồi hướng và có mục đích mà ta nhắm tới cho việc hồi hướng. Nếu ta có thể hồi hướng công đức trong trạng thái trí huệ, hoàn toàn thấu hiểu rằng ba điều trên không thực sự hiện
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+hữu, thì việc hồi hướng đó quả thực không có pha lẫn chất độc. Điều đó có lẽ vượt quá khả năng của những người bình thường với căn cơ như chúng ta. Tuy nhiên, nếu ta chỉ đơn giản nghĩ rằng ta đang hồi hướng công đức theo đúng phương cách mà chư Phật và chư Bồ tát trong quá khứ đã làm thì công phu hồi hướng của ta sẽ hoàn toàn thoát khỏi ba ý niệm tạo tác. Trong Kinh Sám Hối (một tên khác của Đại Thừa Sám Hối Tam Tụ Kinh) có nói:
+
+Giống như tất cả chư Phật Thế Tôn trong quá khứ đã hồi hướng công đức một cách toàn hảo; giống như tất cả chư Phật Thế Tôn chưa xuất hiện sẽ hồi hướng công đức một cách toàn hảo; và giống như tất cả chư Phật Thế Tôn trụ thế đang hồi hướng công đức một cách toàn hảo; thì cũng như thế, con cũng xin hồi hướng tất cả mọi công đức một cách toàn hảo.
+
+và trong Phổ Hiền Hạnh Nguyện Tán có nói:
+
+Noi gương đấng anh hùng Văn Thù,
+Phổ Hiền và tất cả những Bậc đại trí,
+Con cũng xin hồi hướng thật toàn hảo
+Tất cả mọi hành động thiện lành.
+
+Bất cứ lúc nào cũng phải luôn luôn niêm phong các hành động thiện lành của bạn bằng việc hồi hướng đúng đắn, bởi đó là phương pháp duy nhất không thể sai lầm để bảo đảm rằng công đức ấy sẽ dẫn tới Toàn Giác.
+
+3. Khẩn Cầu²⁶⁶ với Lòng Tin Kiên Quyết Chí Thành
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Điều này giúp cho tâm ta đạt được chân tánh của bốn Pháp Thân kim cương$^{267}$ qua việc ta khẩn cầu Đạo Sư với lòng tin kiên quyết chí thành.
+
+Hãy quán chiếu rằng bậc Thầy đáng kính của bạn, bậc Hộ Thần vinh quang, bậc quyền uy toàn hảo như có mang trong mình bản tánh uy mãnh của Heruka$^{268}$ trong mỗi mạn đà la của các Bổn Tôn. Chỉ đơn thuần nhìn thấy Ngài, nghe Ngài nói, chạm được đến Ngài hay nghĩ tưởng về Ngài là đã gieo trồng hạt giống giải thoát. Bởi những việc làm của Ngài cũng tương tự như việc làm của tất cả chư Phật nên Ngài là viên Ngọc Quý thứ tư (đệ tứ Bảo). Đối với bạn, lòng tốt của Ngài vĩ đại hơn lòng tốt của tất cả chư Phật. Nương vào lực gia trì đến từ lòng từ bi của Ngài và nương vào con đường tu thâm diệu nay đang trổ quả và đưa bạn đến giải thoát, Ngài đã nhanh chóng dẫn dắt bạn – trong một đời duy nhất và trong chính thân xác này – đạt đến quả vị của Kim Cương Trì (Vajradhara). Đối với các phẩm hạnh của Ngài, kinh nghiệm chứng ngộ của Ngài thì bao la như bầu trời, trí tuệ và từ tâm của Ngài thì vô hạn như đại dương. Lòng bi mẫn của Ngài mãnh liệt như một con sông lớn. Chân tánh của Ngài vững chắc như Núi Tu Di. Ngài như một người cha và một người mẹ của tất cả chúng sinh, bởi trái tim Ngài thương yêu tất cả đồng đều không phân biệt. Bất kỳ một khía cạnh nào trong mỗi một phẩm hạnh của Ngài đều không thể đo lường. Ngài giống như một viên ngọc như ý. Bạn chỉ cần đặt niềm tin trên Ngài và khẩn cầu Ngài, và bất kỳ thành tựu nào mà bạn đang tìm kiếm sẽ xuất hiện mà không phải dụng công.
+
+Với nước mắt của lòng quy ngưỡng, hãy nghĩ tưởng rằng: “Con hoàn toàn nương cậy Ngài, con đặt hết thảy hy vọng nơi Ngài, con phó mạng con chỉ duy nhất nơi Ngài!” Hãy đọc những giòng này khi thực hành pháp thọ nhận các thành tựu, bắt đầu từ câu:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+Đức Bổn Sư Tôn Quý (Guru Rinpoche),
+Trong tất cả chư Phật, Ngài là..
+
+cho tới câu:
+...Con xin nương cậy nơi Ngài, đức Liên Hoa Sanh vĩ đại!
+
+Kế đó, hãy tập trung tư tưởng trì tụng thần chú Vajra Guru (Đạo Sư Kim Cương), như một lời khẩn cầu. Sau mỗi một trăm lần trì tụng câu chú thì hãy đọc bài cầu nguyện “Đức Bổn Sư Tôn Quý...” thêm một lần nữa. Khi đã qua được một nửa thời gian bạn dành cho việc trì tụng này, thì sau mỗi lần hoàn tất một chuỗi trì tụng, hãy khẩn cầu [để được thọ nhận] công năng thành tựu bằng cách tụng đọc bài cầu nguyện bắt đầu bằng câu dưới nay:
+
+Con không hy vọng vào ai khác ngoài Ngài...
+
+và chấm dứt:
+
+Ôi, đấng vĩ đại, xin tịnh hóa con khỏi hai chướng ngại!
+
+4. Thọ Nhận Bốn Pháp Quán Đảnh (Bốn pháp gia lực)
+
+Khi đã đến lúc để khẩn cầu những thành tựu, bạn hãy tự thọ nhận bốn pháp quán đảnh hay gia lực bằng cách quán tưởng chữ om ở giữa cặp lông mày của đức Bổn Sư Guru chiếu sáng như một vầng trăng-pha lê, phóng toả ánh sáng thấm nhập vào đỉnh đầu bạn và tịnh hóa hết nghiệp quả của ba ác hạnh thuộc về thân –sát sinh, lấy cắp thứ gì không được cho, và tà dâm – và tịnh hóa mọi che chướng của các đường khí mạch của bạn, từ đó thân (kim cương) sẽ phát khởi.269 Hãy đọc những giòng chữ bắt đầu bằng câu:
+
+Năng lực gia trì của thân kim cương tan hoà trong con...
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+và hãy nghĩ tưởng rằng tiềm năng để thành đạt quả vị tu chứng của Hóa Thân (nirmānakāya) đã được thiết lập trong bạn.
+
+Rồi từ trong cổ họng đức Bổn Sư Guru, một chữ ah, chói lọi như một viên hồng ngọc phóng toả ánh sáng vào cổ họng bạn, tịnh hóa nghiệp quả của bốn hành động ác hại thuộc ngữ - nói dối, gieo mối bất hòa, nói ác và nói tầm phào - và tịnh hóa mọi chướng ngại trong năng lực của bạn, từ đó ngữ hay khẩu (kim cương) sẽ phát khởi. Đọc tụng những giòng chữ bắt đầu bằng câu sau đây:
+
+*Năng lực gia trì của ngữ kim cương tan hoà trong con...*
+
+và nghĩ tưởng rằng tiềm năng để đạt được quả vị tu chứng của Báo Thân (sambhogakāya) đã được thiết lập trong bạn.
+
+Rồi chữ hum màu xanh dương đậm trong tim Đạo Sư phóng toả ánh sáng vào tim bạn, tịnh hoá nghiệp quả của ba ác hạnh thuộc về ý - tham lam, ước muốn làm hại người khác và tà kiến - và tịnh hoá mọi chướng ngại trong phần tinh túy của bạn, từ đó tâm thức (kim cương) sẽ phát khởi. Hãy trì tụng những giòng chữ bắt đầu bằng câu:
+
+*Năng lực gia trì của tâm kim cương tan hoà trong con...*
+
+và nghĩ tưởng rằng tiềm năng đạt được quả vị tu chứng của Pháp Thân (dharmakāya) đã được thiết lập trong bạn.
+
+Rồi từ chữ hum trong tim Đạo Sư một chữ hum thứ hai, giống như một ngôi sao băng, phóng vụt xuống và hoàn toàn hòa lẫn với tâm bạn, tịnh hóa mọi chướng ngại của nghiệp và của vọng niệm, là những chướng ngại đã ngăn che thức nền tảng A-lại-da (the ground of all), là thức nền tảng của thân, khẩu, và ý. Hãy đọc những giòng bắt đầu bằng:
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+*Năng lực gia trì của trí tuệ kim cương nguyên thuỷ tan hoà trong con...*
+
+và nghĩ tưởng rằng từ giây phút đó, tiềm năng để đạt được kết quả tối hậu, quả vị tu chứng của Tự Tánh Pháp Thân (svabhavikakāya), được thiết lập trong bạn.
+
+Sau cùng, hãy hoàn toàn hoà lẫn tâm bạn với tâm Đạo Sư, và an trụ ở trong trạng thái đó. Vào cuối thời khóa, hãy trì tụng với lòng quy ngưỡng và khao khát mãnh liệt bài cầu nguyện bắt đầu bằng câu:
+
+*Khi cuộc đời con đến lúc kết thúc..*
+
+và chấm dứt với câu:
+
+*...xin gia hộ cho con viên thành ước nguyện, con khẩn cầu Ngài.*
+
+Đức Bổn Sư Tôn Quý (Guru Rinpoche) mỉm cười, đôi mắt Ngài tràn đầy lòng bi mẫn. Từ tim Ngài, một tia sáng màu đỏ ấm áp chiếu tỏa ra. Cho tới bây giờ bạn vẫn quán tưởng chính mình là Vajrayogini (Nữ Kim Cang Du Già) – và ngay giây khắc tia sáng này chạm vào người bạn, bạn chuyển hóa thành ra một viên ánh sáng màu đỏ có kích thước bằng một hạt đậu. Hạt đậu màu đỏ đó phóng vọt hướng về Guru Rinpoche như một tia lửa xẹt, và tan hòa vào tim của Ngài. Hãy an trụ trong trạng thái đó.
+
+Sau cùng, hãy nhìn thấy tất cả những gì hiện hữu đều không khác gì là những hoá hiện của Đạo Sư, và hãy kết thúc bằng cách trì tụng bài kệ hồi hướng sau đây:
+
+*Nhờ công đức của pháp tu này, nguyện con nhanh chóng đạt được*
+
+VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+*Quả vị của Đạo Sư vinh quang, vị Hộ Thần của con..*
+
+cũng như đọc tụng bài Nguyện Vãng Sanh Quốc Độ Đồng Sơn (nguyện tái sinh vào cõi Núi Đồng Đỏ của đức Liên Hoa Sanh).
+
+Bất kỳ khi nào bạn đang đi tới đi lui đây đó, bạn vẫn có thể thực hành pháp Bổn Sư Du Già bằng cách quán tưởng Thầy của bạn hiện ra trên trời ở trên vai phải của bạn và tưởng tượng rằng bạn đang đi nhiễu quanh Ngài. Bất kỳ khi nào bạn ngồi xuống, hãy quán tưởng Ngài ở trên đầu để hướng tâm và hướng lời cầu nguyện của bạn đến Ngài. Khi bạn đang ăn uống, hãy quán tưởng Ngài ngự ở nơi cổ họng và cúng dường Ngài phần đầu tiên của thức ăn hay thức uống của bạn. Khi đi ngủ, hãy quán tưởng Ngài ở giữa trái tim bạn: đây là tinh tuý của kỹ thuật thực hành du già trong giấc ngủ (sleep yoga), “rót đầy mọi sự có thể biết được vào chiếc bảo bình.”270
+
+Tóm lại, hãy khơi dậy lòng quy ngưỡng của bạn trong mọi lúc, trong mọi tình huống. Hãy vững tâm tin tưởng rằng cho dù bạn đang ở bất kỳ nơi đâu thì nơi đó cũng thực sự là núi Huy Hoàng Màu Đồng Đỏ, và hãy tịnh hóa tất cả mọi quan kiến bằng cách nhìn thấy tất cả chính là thân tướng của Đạo Sư.
+
+Bất cứ khi nào bệnh tật, các chướng ngại từ các thế lực tiêu cực hay những hoàn cảnh bất như ý khác xuất hiện, đừng cố gắng vùng vẫy để thoát ra. Hãy hoan hỉ nghĩ rằng bệnh tật, chướng ngại và mọi sự bất như ý đang được Đạo Sư đem đến cho bạn trong tình thương yêu của Ngài như một phương cách giúp cho các ác hạnh trong quá khứ của bạn phải cạn kiệt. Bất cứ khi nào niềm hạnh phúc, sung sướng thoải mái và đức hạnh của bạn trội vượt thì hãy nhận thức rằng bạn có được những điều này cũng là nhờ vào lòng từ bi của Đạo Sư, và
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+đừng kiêu ngạo hay kích động thái quá. Trong khi thiền định, bất cứ khi nào bạn cảm thấy sự xuất hiện của các tâm thái như ngã lòng, mệt mỏi, hôn trầm và trạo cử (kích động), hãy hợp nhất tâm tỉnh giác của bạn vào với tâm của Đạo Sư. Hãy an trụ trong cái thấy của trạng thái như nhiên, duy trì tánh sáng nguyên sơ của tâm tỉnh giác ấy. Đồng thời, hãy đọc thần chú Vajra Guru như một phương pháp cầu nguyện và trì tụng. Theo phương cách này, mọi sắc tướng sẽ xuất hiện như đây chính là Đạo Sư và các Bổn Tôn. Tất cả những gì bạn làm sẽ trở nên tốt lành tích cực. Như Ngài Jetsun Mila có nói:
+
+Khi tôi đi, tôi dùng mọi tri giác như con đường;
+Đó là cách đi thế nào để cho sáu thức tự giải thoát.271
+Khi tôi nghỉ, tôi nghỉ ngơi trong trạng thái tự nhiên bất biến;
+Đó là phương cách tinh chuyên và tuyệt đối để nghỉ ngơi.
+Khi tôi ăn, tôi ăn thực phẩm của tánh Không;
+Đó là cách ăn không có ý niệm đối đãi.
+Khi tôi uống, tôi uống nước của chánh niệm và cẩn mật;
+Đó là cách uống bất tận không bao giờ dứt.
+
+Hơn nữa, một khi bạn đi vào Kim Cương Thừa, điều thiết yếu là phải thọ nhận các lễ quán đảnh hay gia lực (empowerment), vì các pháp ấy sẽ ngày một tăng trưởng và đem lại giải thoát.272 Các pháp gia lực sẽ hàn gắn các vi phạm mật nguyện, và khiến bạn có thể thiền định về tất cả các pháp tu của giai đoạn phát triển, của giai đoạn thành tựu, và của Đại Viên Mãn. Các pháp ấy sẽ ngăn ngừa những chướng ngại và không để cho lỗi lầm sinh khởi, giúp cho tất cả những thành tựu của bạn phát triển thêm mãi. Có câu nói rằng:
+
+Trong Mật Thừa, không thể có thành tựu mà không cần quán đảnh,
+
+# VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
+
+Bởi điều ấy cũng giống như người lái đò không có mái chèo.
+
+và cũng có câu nói:
+
+*Không có quán đảnh thì không có thành tựu;*
+*Bạn không thể ép cát để lấy dầu.*
+
+Pháp quán đảnh (điểm đạo hay gia lực) mà ta nhận lãnh trước tiên khi chúng ta mới bước chân vào một mạn đà la do một vị Đạo Sư Kim Cương chân chính ban truyền thì đó gọi là gia lực nền tảng (ground empowerment). Pháp quán đảnh bốn năng lượng (fourfold empowerment) mà ta tự thọ nhận khi chính ta thực hành pháp môn Bổn Sư Du Già mà không cần lệ thuộc vào bất kỳ ai hay bất kỳ điều gì khác, đó là gia lực đường tu (path empowerment). Pháp quán đảnh mà ta có được vào giây phút của thành tựu tối hậu được gọi là “ánh sáng vĩ đại của gia lực tịnh quang” (great ray of light empowerment) hay “gia lực của tánh vi diệu và tánh sáng bất khả phân,” (empowerment of indivisible profundity and radiance), đây chính là gia lực quả vị thành tựu Chánh Đẳng Chánh Giác (fruit empowerment, perfect and total Buddhahood).$^{273}$
+
+Các pháp quán đảnh (điểm đạo hay gia lực) này có ba đặc điểm sâu xa không thể nghĩ bàn: đó là tịnh hóa, toàn thiện hoá và trổ quả.$^{274}$ Ngay cả khi bạn đang thực hành một pháp môn chính yếu nào đó, nếu bạn bỏ qua bất kỳ một pháp tu dự bị căn bản nào thì đó là một việc sai lầm. Điều đặc biệt quan trọng là khi bạn đang thiền định về các pháp môn tu tập, chẳng hạn như các pháp môn trong giai đoạn phát triển và thành tựu, thì hãy luôn luôn bắt đầu mỗi thời khóa với pháp gia lực đường tu (path empowerment) của Bổn Sư Du Già.
+
+Bất kỳ một ai có lòng quy ngưỡng và có mật nguyện hoàn hoàn thanh tịnh và đã hoàn tất con đường tu đến giai đoạn
+
+LỜI VÀNG CỦA THẦY TÔI, PHẦN II
+
+đoạn Bổn Sư Du Già (Guru Yoga) thì ngay cả khi không thực hành các pháp môn chính yếu, họ cũng sẽ được tái sinh nơi núi Huy Hoàng ở đại châu Tây Nam.275 Trong cõi Phật thanh tịnh đó, họ sẽ bước trên con đường của bốn đạo quả của bậc Minh Trì (Vidyādhara), còn nhanh chóng hơn cả những chuyển động của mặt trời và mặt trăng, và họ sẽ đạt tới quả vị của đức Phật Phổ Hiền.
+
+III. LỊCH SỬ CHÀO ĐỜI CỦA CỰU PHÁI DỊCH THUẬT
+
+Ngay bây giờ, để giúp người nghe có thêm chút vui vẻ thư giãn cũng như vì một số lý do khác, những giải thích về lịch sử chào đời của giáo pháp nói chung, và của ba pháp tu “nội du già” (inner yogas) nói riêng, thường thường được đem ra trình bày ở đây một cách không quá vắn tắt mà cũng không quá tỉ mỉ. Do đó, bây giờ tôi sẽ giải thích một cách vắn tắt về lịch sử ra đời và truyền thừa của ba pháp tu “nội du già (inner yogas) của Cựu Phái Dịch Thuật (Old Translations), gồm có Mahāyoga, Anuyoga và Atiyoga, và làm thế nào mà ba pháp tu này – tương ứng với các giai đoạn phát triển, thành tựu và Đại Viên Mãn, đã được truyền xuống đến tận chúng ta ngày hôm nay. Có tất cả ba dòng truyền dạy khác nhau: (1) dòng tâm truyền (mind lineage) [hay biệt truyền] của các Đấng Chiến Thắng, (2) dòng truyền dạy qua biểu tượng (symbol lineage) của các bậc Minh Trì (Vidyādhara) và (3) dòng nhĩ truyền (hearing lineage) (hay khẩu truyền) của các chúng sinh bình thường.
+
+1. Dòng Tâm Truyền (Biệt Truyền) Của Các Đấng Chiến Thắng
