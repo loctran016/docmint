@@ -5,10 +5,15 @@ from __future__ import annotations
 from functools import lru_cache
 from pathlib import Path
 import re
-
+import sys
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
-PROMPTS_DIR = ROOT_DIR / "config" / "prompts"
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from src.core import common
+
+PROMPTS_DIR = common.CONFIG_DIR / "prompts"
 
 
 @lru_cache(maxsize=None)

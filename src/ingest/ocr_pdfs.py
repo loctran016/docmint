@@ -30,6 +30,7 @@ import sys
 from pathlib import Path
 
 from src.core import common
+from src.core.pdf_utils import inspect_pdf, log_pdf_error
 
 
 def ocr_command():
@@ -86,6 +87,11 @@ def main():
     ok = skip = 0
     failed = []
     for pdf in pdfs:
+        info = inspect_pdf(pdf)
+        if info.error:
+            print(f"[lỗi] PDF không hợp lệ: {pdf.name}: {info.error}")
+            failed.append(pdf.name)
+            continue
         base = pdf.stem
         if base.endswith(" - OCR"):
             continue

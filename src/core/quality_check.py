@@ -15,8 +15,157 @@ import re
 import statistics
 import unicodedata
 from pathlib import Path
+from typing import Any
 
 SENTINEL = "<<TRANG_TRONG>>"
+
+WATERMARK_RE = re.compile(
+    r"\s*BIÊN\s+SOẠN\s+BỞI\s+.*?NGHIÊM\s+CẤM\s+CHIA\s+SẺ[^\n]*",
+    re.IGNORECASE,
+)
+ADJACENT_REPEAT_RE = re.compile(
+    r"\b([^\W\d_]+)\s+\1\b",
+    re.IGNORECASE | re.UNICODE,
+)
+OCR_CORRECTIONS = (
+    (re.compile(r"suy\s+thượng\s+thân\s+mạn", re.I), "suy thượng thận mạn"),
+    (re.compile(r"Được\s+bác\s+chẩn\s+đoán", re.I), "Được bác sĩ chẩn đoán"),
+    (re.compile(r"nồng\s+cortisol", re.I), "nồng độ cortisol"),
+    (re.compile(r"chẩn\s+đoán\s+đoán", re.I), "chẩn đoán"),
+    (re.compile(r"nào\s+nào\s+sao\s+đây", re.I), "nào sau đây"),
+    (re.compile(r"\bthân\s+brain\b", re.I), "thân não"),
+)
+
+
+def normalize_nfc(obj: Any) -> Any:
+    """Chuẩn hóa đệ quy mọi chuỗi sang Unicode NFC."""
+    if isinstance(obj, str):
+        return unicodedata.normalize("NFC", obj)
+    if isinstance(obj, list):
+        return [normalize_nfc(item) for item in obj]
+    if isinstance(obj, tuple):
+        return tuple(normalize_nfc(item) for item in obj)
+    if isinstance(obj, dict):
+        return {normalize_nfc(key): normalize_nfc(value) for key, value in obj.items()}
+    return obj
+
+
+def clean_exam_strings(obj: Any) -> Any:
+    """Chuẩn hóa NFC và lọc hậu xử lý trên mọi chuỗi trong object JSON."""
+    obj = normalize_nfc(obj)
+    if isinstance(obj, str):
+        return clean_exam_text(obj)
+    if isinstance(obj, list):
+        return [clean_exam_strings(item) for item in obj]
+    if isinstance(obj, tuple):
+        return tuple(clean_exam_strings(item) for item in obj)
+    if isinstance(obj, dict):
+        return {
+            clean_exam_strings(key): clean_exam_strings(value)
+            for key, value in obj.items()
+        }
+    return obj
+
+
+def slugify_vi(text: str) -> str:
+    normalized = unicodedata.normalize("NFC", str(text or ""))
+    normalized = normalized.replace("đ", "d").replace("Đ", "D")
+    normalized = unicodedata.normalize("NFD", normalized)
+    normalized = "".join(
+        ch for ch in normalized
+        if unicodedata.category(ch) != "Mn"
+    )
+    normalized = re.sub(r"[^A-Za-z0-9]+", "-", normalized.lower())
+    return re.sub(r"-+", "-", normalized).strip("-")[:60]
+
+
+def clean_exam_text(text: Any) -> str:
+    if not isinstance(text, str):
+        return ""
+    text = unicodedata.normalize("NFC", text)
+    text = WATERMARK_RE.sub(" ", text)
+    for pattern, replacement in OCR_CORRECTIONS:
+        text = pattern.sub(replacement, text)
+    # Xóa chỉ các từ lặp liền kề; các cặp láy phổ biến vẫn được giữ.
+    text = ADJACENT_REPEAT_RE.sub(r"\1", text)
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\s+\n", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def contains_watermark(text: Any) -> bool:
+    return isinstance(text, str) and bool(WATERMARK_RE.search(text))
+
+
+def validate_exam_data(exam_data: dict[str, Any]) -> list[str]:
+    """Cổng kiểm tra trước khi ghi/ex gộp JSON; trả danh sách vấn đề."""
+    warnings: list[str] = []
+
+    subject = str(exam_data.get("subject") or "")
+    subject_label = str(exam_data.get("subject_label") or "")
+    if subject and unicodedata.normalize("NFC", subject) != subject:
+        warnings.append("subject chứa chuỗi không chuẩn NFC")
+    if subject and (
+        "--" in subject
+        or any(unicodedata.category(ch) == "Mn" for ch in subject)
+    ):
+        warnings.append("subject chứa dấu gạch kép hoặc ký tự NFD")
+    if subject_label == subject.replace("-", " ").title():
+        warnings.append("subject_label có dấu hiệu bị suy ngược/bị title-case từ subject")
+
+    def walk(value: Any, path: str) -> None:
+        if isinstance(value, str):
+            if unicodedata.normalize("NFC", value) != value:
+                warnings.append(f"{path}: chuỗi chưa chuẩn NFC")
+            if contains_watermark(value):
+                warnings.append(f"{path}: còn chứa watermark")
+        elif isinstance(value, list):
+            for index, item in enumerate(value):
+                walk(item, f"{path}[{index}]")
+        elif isinstance(value, dict):
+            for key, item in value.items():
+                walk(item, f"{path}.{key}")
+
+    walk(exam_data, "$")
+    for index, question in enumerate(exam_data.get("questions", []) or [], start=1):
+        if not isinstance(question, dict):
+            warnings.append(f"Câu Q{index}: dữ liệu câu hỏi không phải object")
+            continue
+        qid = str(question.get("id") or f"Q{index}")
+        options = question.get("options")
+        if not isinstance(options, list) or len(options) != 4:
+            warnings.append(f"{qid}: không đủ 4 phương án")
+            continue
+        option_by_key: dict[str, str] = {}
+        normalized_texts: set[str] = set()
+        for option in options:
+            if not isinstance(option, dict):
+                warnings.append(f"{qid}: phương án không đúng cấu trúc")
+                continue
+            key = str(option.get("key") or "").strip().upper()
+            text = clean_exam_text(option.get("text"))
+            if key:
+                option_by_key[key] = text
+            normalized = re.sub(r"\s+", " ", text).strip().lower()
+            if normalized:
+                if normalized in normalized_texts:
+                    warnings.append(f"{qid}: có phương án trùng nội dung")
+                normalized_texts.add(normalized)
+            if len(normalized) < 3:
+                warnings.append(f"{qid}: phương án {key or '?'} quá ngắn/cụt")
+        if set(option_by_key) != {"A", "B", "C", "D"}:
+            warnings.append(f"{qid}: thiếu/không đủ khóa phương án A-D")
+        note = str(question.get("student_note") or "")
+        if note:
+            note_norm = re.sub(r"\s+", " ", note).strip().lower()
+            for text in normalized_texts:
+                if len(text) >= 8 and text in note_norm:
+                    warnings.append(f"{qid}: student_note có dấu hiệu chứa nội dung đáp án")
+
+    for warning in warnings:
+        print(f"[VALIDATION] ⚠ {warning}", flush=True)
+    return warnings
 
 try:  # tuỳ chọn: thiếu thì bỏ qua phần tiếng Anh
     from spellchecker import SpellChecker  # type: ignore

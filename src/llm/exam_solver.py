@@ -4,11 +4,16 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+import faulthandler
 import hashlib
 import json
+import os
 import re
 import shutil
+import signal
 import sys
+import time
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -17,19 +22,35 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
+faulthandler.enable()
+if hasattr(signal, "SIGUSR1"):
+    try:
+        faulthandler.register(signal.SIGUSR1)
+    except (AttributeError, RuntimeError):
+        pass
+
 from src.core import common
+from src.core.ai_client import extract_clean_json, parse_list, priority_exam_models
 from src.core.llm_router import LLMRouter
 from src.core.prompts import render_prompt
 from src.llm.exam_preprocessor import (
     QuestionItem,
     configure_formula_mode,
     detect_subject_slug,
+    detect_subject_label,
     preprocess_pdf,
     route_and_batch,
+    slugify_vi,
+)
+from src.core.quality_check import (
+    clean_exam_strings,
+    clean_exam_text,
+    normalize_nfc,
+    validate_exam_data,
 )
 
-DEFAULT_INPUT = common.WORKSPACE_DIR / "de_thi"
-DEFAULT_OUTPUT = common.WORKSPACE_DIR / "ket_qua" / "giai_de"
+DEFAULT_INPUT = common.DE_THI_DIR
+DEFAULT_OUTPUT = common.GIAI_DE_DIR
 DEFAULT_IMG_DIR = common.EXAM_IMG_DIR
 DEFAULT_CACHE_DIR = common.EXAM_CACHE_DIR
 GROUP_NAMES = {
@@ -42,6 +63,11 @@ GROUP_NAMES = {
     7: "Lâm sàng (Câu dài)",
     8: "Hình ảnh",
 }
+
+
+def prompt_input(msg: str) -> str:
+    print(msg, end="", flush=True)
+    return input()
 
 
 def _strict_null(value: Any) -> Any:
@@ -64,6 +90,106 @@ def _json_hash(value: Any) -> str:
     return hashlib.sha256(
         json.dumps(value, ensure_ascii=False, sort_keys=True).encode("utf-8")
     ).hexdigest()
+
+
+def _valid_batch_cache(entry: Any, subbatch: dict[str, Any]) -> bool:
+    if not isinstance(entry, dict) or entry.get("error"):
+        return False
+    results = entry.get("results")
+    if not isinstance(results, list) or not results:
+        return False
+    expected_ids = {str(q["id"]) for q in subbatch["questions"]}
+    got = {str(item.get("id")) for item in results if isinstance(item, dict)}
+    if not expected_ids.issubset(got):
+        return False
+    return all(
+        isinstance(item, dict)
+        and item.get("answer") is not None
+        and str(item.get("answer")).strip() not in {"", "N/A", "NULL"}
+        for item in results
+        if str(item.get("id")) in expected_ids
+    )
+
+
+def _atomic_json_write(path: Path, data: Any) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp_path = path.with_name(path.name + ".tmp")
+    data = normalize_nfc(data)
+    tmp_path.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    os.replace(tmp_path, path)
+
+
+def _resolve_cache_path(stem: str, suffix: str) -> Path:
+    """Resolve NFC/NFD cache names while preserving an existing cache filename."""
+    stem_nfc = unicodedata.normalize("NFC", stem)
+    stem_nfd = unicodedata.normalize("NFD", stem)
+    target_names = {
+        unicodedata.normalize("NFC", f"{stem_nfc}_{suffix}.json"),
+        unicodedata.normalize("NFC", f"{stem_nfd}_{suffix}.json"),
+    }
+    if DEFAULT_CACHE_DIR.is_dir():
+        for candidate in DEFAULT_CACHE_DIR.iterdir():
+            if candidate.is_file():
+                candidate_name = unicodedata.normalize("NFC", candidate.name)
+                if candidate_name in target_names:
+                    return candidate
+    canonical = unicodedata.normalize("NFC", f"{stem}_{suffix}.json")
+    return DEFAULT_CACHE_DIR / canonical
+
+
+def _load_json(path: Path) -> dict[str, Any]:
+    if not path.is_file():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {}
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def _exam_checkpoint_dir(subject: str, pdf_path: Path) -> Path:
+    subject_slug = slugify_vi(subject) or "tong-hop"
+    exam_slug = slugify_vi(pdf_path.stem) or "de-thi"
+    return common.EXAM_CACHE_DIR / f"{subject_slug}__{exam_slug}"
+
+
+def _is_quota_or_rate_limit(exc: BaseException) -> bool:
+    text = f"{type(exc).__name__}: {exc}".lower()
+    return any(token in text for token in (
+        "429",
+        "quota",
+        "rate limit",
+        "rate-limit",
+        "resource exhausted",
+        "too many requests",
+    ))
+
+
+def _gemini_notebook_confirmation(
+    done: int,
+    theory_count: int,
+    image_count: int,
+) -> str:
+    if done == 0:
+        return (
+            "Tiếp tục truy xuất dữ liệu từ Gemini Notebook? "
+            f"(chỉ truy xuất {theory_count} câu lý thuyết, còn lại "
+            f"{image_count} câu hình ảnh) [Y/n]: "
+        )
+    if 0 < done < theory_count:
+        remaining = theory_count - done
+        return (
+            f"Đã trích xuất dữ liệu từ Gemini Notebook cho {done}/{theory_count} "
+            f"câu lý thuyết (còn lại {image_count} câu hình ảnh), "
+            f"tiếp tục trích xuất {remaining} câu còn lại? [Y/n]: "
+        )
+    return (
+        f"Đã nạp đủ dữ liệu Gemini Notebook ({theory_count}/{theory_count} "
+        "câu lý thuyết) từ bản lưu tự động."
+    )
 
 
 def _options(options: list[str]) -> list[dict[str, str]]:
@@ -97,7 +223,6 @@ def _cohort(pdf_path: Path) -> str:
 
 def _extract_clean_json_object(raw: str) -> dict[str, Any]:
     try:
-        from src.core.llm_router import extract_clean_json
         parsed = extract_clean_json(raw)
         return parsed if isinstance(parsed, dict) else {}
     except Exception:
@@ -106,10 +231,10 @@ def _extract_clean_json_object(raw: str) -> dict[str, Any]:
 
 def _resolve_subject(pdf_path: Path, explicit_subject: str) -> tuple[str, bool]:
     if explicit_subject:
-        slug = re.sub(r"[^a-z0-9]+", "-", explicit_subject.lower()).strip("-")
+        slug = slugify_vi(explicit_subject)
         return slug or "tong-hop", True
     if pdf_path.parent != DEFAULT_INPUT and pdf_path.parent.parent == DEFAULT_INPUT:
-        slug = re.sub(r"[^a-z0-9]+", "-", pdf_path.parent.name.lower()).strip("-")
+        slug = slugify_vi(pdf_path.parent.name)
         if slug:
             return slug, True
     return "", False
@@ -121,9 +246,9 @@ async def _step2_classify(
     notebook_id: str,
     force: bool,
 ) -> dict[str, int]:
-    cache_path = DEFAULT_CACHE_DIR / f"{exam_id}_step2_grouped.json"
+    cache_path = _resolve_cache_path(exam_id, "step2_grouped")
     if not force and cache_path.is_file():
-        data = json.loads(cache_path.read_text(encoding="utf-8"))
+        data = _load_json(cache_path)
         if isinstance(data, dict) and isinstance(data.get("group_by_id"), dict):
             return {str(k): int(v) for k, v in data["group_by_id"].items()}
 
@@ -132,7 +257,10 @@ async def _step2_classify(
     async with common.notebooklm_client(chat_timeout=300) as client:
         for start in range(0, len(short), 18):
             chunk = short[start:start + 18]
-            payload = [{"id": q.id, "stem": q.stem, "options": q.options} for q in chunk]
+            payload = [
+                {"id": q.id, "stem": q.stem, "options": q.options}
+                for q in chunk
+            ]
             prompt = render_prompt(
                 "exam_solver_step2_classify",
                 data=json.dumps(payload, ensure_ascii=False),
@@ -153,10 +281,9 @@ async def _step2_classify(
     for q in short:
         if q.id not in group_by_id:
             group_by_id[q.id] = q.hint_group if q.hint_group in range(1, 7) else 4
-    cache_path.parent.mkdir(parents=True, exist_ok=True)
-    cache_path.write_text(
-        json.dumps({"exam_id": exam_id, "group_by_id": group_by_id}, ensure_ascii=False, indent=2),
-        encoding="utf-8",
+    _atomic_json_write(
+        cache_path,
+        {"exam_id": exam_id, "group_by_id": group_by_id},
     )
     return group_by_id
 
@@ -181,44 +308,90 @@ async def _step3_rag(
     grouped: dict[str, int],
     notebook_id: str,
     force: bool,
+    checkpoint_dir: Path | None = None,
 ) -> dict[str, str]:
-    cache_path = DEFAULT_CACHE_DIR / f"{exam_id}_step3_rag.json"
-    if not force and cache_path.is_file():
-        data = json.loads(cache_path.read_text(encoding="utf-8"))
-        if isinstance(data, dict) and isinstance(data.get("rag_by_id"), dict):
-            return {str(k): str(v) for k, v in data["rag_by_id"].items()}
+    legacy_cache_path = _resolve_cache_path(exam_id, "step3_rag")
+    notebook_cache_path = legacy_cache_path
+    legacy_checkpoint_path = (
+        checkpoint_dir / "notebook_rag.json"
+        if checkpoint_dir is not None
+        else None
+    )
+    cache_data = _load_json(notebook_cache_path)
+    rag_by_id = {
+        str(k): str(v)
+        for k, v in cache_data.get("rag_by_id", {}).items()
+    } if isinstance(cache_data.get("rag_by_id"), dict) else {}
+    theory_ids = {
+        q.id for q in questions
+        if q.bucket in {"short", "long_clinical"}
+    }
+    theory_count = len(theory_ids)
+    if not rag_by_id and legacy_checkpoint_path is not None:
+        checkpoint = _load_json(legacy_checkpoint_path)
+        if isinstance(checkpoint.get("rag_by_id"), dict):
+            rag_by_id = {
+                str(k): str(v)
+                for k, v in checkpoint["rag_by_id"].items()
+            }
+    if force:
+        rag_by_id = {}
 
-    rag_by_id: dict[str, str] = {}
-    batches: list[list[QuestionItem]] = []
-    short_by_group: dict[int, list[QuestionItem]] = {}
-    for q in questions:
-        if q.bucket == "short":
-            short_by_group.setdefault(grouped.get(q.id, q.hint_group or 4), []).append(q)
-    for group_id in sorted(short_by_group):
-        items = short_by_group[group_id]
-        batches.extend([items[i:i + 7] for i in range(0, len(items), 7)])
-    long_items = [q for q in questions if q.bucket == "long_clinical"]
-    batches.extend([long_items[i:i + 3] for i in range(0, len(long_items), 3)])
+    done = sum(1 for q_id in theory_ids if q_id in rag_by_id)
+    if done == theory_count:
+        return rag_by_id
 
+    theory_questions = [
+        q for q in questions
+        if q.bucket in {"short", "long_clinical"} and q.id not in rag_by_id
+    ]
     async with common.notebooklm_client(chat_timeout=300) as client:
-        for chunk in batches:
-            payload = [{"id": q.id, "stem": q.stem, "options": q.options} for q in chunk]
+        for q in theory_questions:
+            payload = [{"id": q.id, "stem": q.stem, "options": q.options}]
             prompt = render_prompt(
                 "exam_solver_step3_rag",
                 data=json.dumps(payload, ensure_ascii=False),
             )
-            answer = await common.ask_with_retry(
-                client, notebook_id, prompt, max_retry=3, timeout=300
-            )
+            while True:
+                try:
+                    answer = await common.ask_with_retry(
+                        client, notebook_id, prompt, max_retry=3, timeout=300
+                    )
+                    break
+                except BaseException as exc:
+                    if not _is_quota_or_rate_limit(exc):
+                        raise
+                    done = sum(1 for q_id in theory_ids if q_id in rag_by_id)
+                    print(
+                        f"⚠ Chạm giới hạn truy xuất Gemini Notebook tại câu "
+                        f"{done}/{theory_count}. Đã tự động lưu tiến độ."
+                    )
+                    try:
+                        choice = prompt_input(
+                            "Chọn [1] Chờ 60s rồi thử tiếp | "
+                            "[2] Dừng tại đây (lần sau chạy lại sẽ tiếp tục từ câu "
+                            f"{done + 1}) [1/2]: "
+                        ).strip()
+                    except EOFError:
+                        choice = "2"
+                    if choice == "1":
+                        time.sleep(60)
+                        continue
+                    raise SystemExit(
+                        f"Dừng truy xuất Gemini Notebook tại câu {done}/{theory_count}; "
+                        "đã tự động lưu tiến độ."
+                    )
             parsed = _extract_clean_json_object(answer)
+            facts = ""
             for item in parsed.get("rag", []) if isinstance(parsed, dict) else []:
-                if isinstance(item, dict) and item.get("id"):
-                    rag_by_id[str(item["id"])] = str(item.get("facts") or "").strip()
-    cache_path.parent.mkdir(parents=True, exist_ok=True)
-    cache_path.write_text(
-        json.dumps({"exam_id": exam_id, "rag_by_id": rag_by_id}, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+                if isinstance(item, dict) and str(item.get("id")) == q.id:
+                    facts = str(item.get("facts") or "").strip()
+                    break
+            rag_by_id[q.id] = facts
+            _atomic_json_write(
+                notebook_cache_path,
+                {"exam_id": exam_id, "rag_by_id": rag_by_id},
+            )
     return rag_by_id
 
 
@@ -257,6 +430,7 @@ def _validate_results(raw: Any, expected: set[str], require_formula: bool) -> li
 def _solve_batch(
     router: LLMRouter,
     batch: dict[str, Any],
+    backend: str = "auto",
 ) -> list[dict[str, Any]]:
     require_formula = bool(batch["require_formula_work"])
     formula_schema = '"str"' if require_formula else "null"
@@ -276,12 +450,16 @@ def _solve_batch(
         system,
         json.dumps({"questions": payload}, ensure_ascii=False),
         image_path=batch.get("image_path"),
+        backend=backend,
     )
     return _validate_results(raw, {q["id"] for q in batch["questions"]}, require_formula)
 
 
 def _audit(result: dict[str, Any], raw_key: str) -> dict[str, Any]:
     raw_key = raw_key.strip().upper()
+    result.setdefault("group_id", 8)
+    result.setdefault("hint", None)
+    result.setdefault("formula_work", None)
     result["status"] = (
         "ai_only" if not raw_key
         else "verified" if result["answer"] == raw_key
@@ -291,7 +469,18 @@ def _audit(result: dict[str, Any], raw_key: str) -> dict[str, Any]:
 
 
 def _normalize_exam_question_fields(question: dict[str, Any]) -> dict[str, Any]:
-    question["textbook_excerpt"] = _strict_null(question.get("textbook_excerpt"))
+    question = normalize_nfc(question)
+    question["textbook_excerpt"] = clean_exam_text(
+        _strict_null(question.get("textbook_excerpt")) or ""
+    ) or None
+    question["stem"] = clean_exam_text(question.get("stem"))
+    question["explanation"] = clean_exam_text(question.get("explanation"))
+    options = question.get("options")
+    if isinstance(options, list):
+        for option in options:
+            if isinstance(option, dict):
+                option["text"] = clean_exam_text(option.get("text"))
+    question["student_note"] = clean_exam_text(question.get("student_note"))
     question["note_ref"] = None
     return question
 
@@ -327,7 +516,7 @@ def _generate_exams_manifest(out_root: Path) -> Path:
         subject = str(bank.get("subject") or subject_dir.name)
         subject_label = str(
             bank.get("subject_label")
-            or subject.replace("-", " ").title()
+            or subject
         )
         bank_questions = bank.get("questions", [])
         if not isinstance(bank_questions, list):
@@ -368,7 +557,7 @@ def _generate_exams_manifest(out_root: Path) -> Path:
             })
 
         subjects.append({
-            "subject": subject,
+            "subject": unicodedata.normalize("NFC", subject),
             "subject_label": subject_label,
             "exams": exams,
         })
@@ -386,6 +575,7 @@ def _export_exam(
     pdf_path: Path,
     out_root: Path,
     subject: str,
+    subject_label: str,
     questions: list[QuestionItem],
     results: dict[str, dict[str, Any]],
     rag_by_id: dict[str, str],
@@ -426,21 +616,32 @@ def _export_exam(
             "image": _copy_asset(q.image_path, assets_dir),
         })
     payload = {
-        "exam_id": exam_id,
+        "exam_id": unicodedata.normalize("NFC", exam_id),
         "cohort": _cohort(pdf_path),
         "subject": subject,
-        "subject_label": subject.replace("-", " ").title(),
-        "title": exam_id,
+        "subject_label": unicodedata.normalize("NFC", subject_label),
+        "title": unicodedata.normalize("NFC", exam_id),
         "default_time_sec": 3600,
         "question_count": len(exported),
         "questions": exported,
     }
     exam_path = subject_dir / f"{exam_id}.json"
-    exam_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    payload = clean_exam_strings(payload)
+    for question in payload["questions"]:
+        _normalize_exam_question_fields(question)
+    issues = validate_exam_data(payload)
+    if issues:
+        print("  ⚠ [Gate] JSON đề có cảnh báo bất thường; tạm dừng trước khi ghi file.", flush=True)
+        raise ValueError("Gate validation thất bại cho exam JSON; không ghi file")
+    exam_path.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    print(f"  ✓ Đã xuất file: {exam_path}", flush=True)
     return exam_path
 
 
-def _merge_bank(subject_dir: Path, subject: str) -> None:
+def _merge_bank(subject_dir: Path, subject: str, subject_label: str) -> None:
     exams = []
     questions = []
     seen_exam_ids = set()
@@ -463,10 +664,6 @@ def _merge_bank(subject_dir: Path, subject: str) -> None:
             if isinstance(question, dict):
                 _normalize_exam_question_fields(question)
         payload["questions"] = exam_questions
-        path.write_text(
-            json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
-        )
         exam_id = str(payload["exam_id"])
         if exam_id in seen_exam_ids:
             continue
@@ -482,17 +679,23 @@ def _merge_bank(subject_dir: Path, subject: str) -> None:
                         for question in exam_questions
                         if isinstance(question, dict))
     bank = {
-        "subject": subject,
-        "subject_label": subject.replace("-", " ").title(),
+        "subject": unicodedata.normalize("NFC", subject),
+        "subject_label": unicodedata.normalize("NFC", subject_label),
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "total_questions": len(questions),
         "exams": exams,
         "questions": questions,
     }
-    (subject_dir / "bank.json").write_text(
+    bank_path = subject_dir / "bank.json"
+    bank = clean_exam_strings(bank)
+    bank_issues = validate_exam_data(bank)
+    if bank_issues:
+        raise ValueError("Gate validation thất bại cho bank.json; không ghi bank")
+    bank_path.write_text(
         json.dumps(bank, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+    print(f"  ✓ Đã xuất file: {bank_path}", flush=True)
     _generate_exams_manifest(subject_dir.parent)
 
 
@@ -500,13 +703,15 @@ async def solve_exam_async(
     pdf_path: Path,
     out_root: Path,
     subject: str,
+    subject_label: str,
     formula_mode: str,
     web_model: str,
     web_gem: str,
     force: bool,
     yes: bool,
+    backend: str = "auto",
 ) -> None:
-    exam_id = pdf_path.stem
+    exam_id = unicodedata.normalize("NFC", pdf_path.stem)
     questions = preprocess_pdf(pdf_path, DEFAULT_IMG_DIR)
     if not questions:
         raise ValueError(f"Không nhận diện được câu hỏi trong {pdf_path}")
@@ -520,19 +725,58 @@ async def solve_exam_async(
             q.hint_group = grouped.get(q.id, q.hint_group or 4)
 
     _print_distribution(questions, grouped)
-    if not yes:
-        answer = input("Tiếp tục truy xuất dữ liệu từ NotebookLM? [Y/n]: ").strip().lower()
-        if answer in {"n", "no", "không", "khong"}:
-            raise SystemExit("Đã dừng trước Step 3.")
-    rag = await _step3_rag(exam_id, questions, grouped, notebook_id, force)
+    checkpoint_dir = _exam_checkpoint_dir(subject, pdf_path)
+    theory_ids = {
+        q.id for q in questions
+        if q.bucket in {"short", "long_clinical"}
+    }
+    image_count = sum(1 for q in questions if q.bucket == "image")
+    theory_count = len(theory_ids)
+    notebook_cache_path = _resolve_cache_path(exam_id, "step3_rag")
+    notebook_cache = _load_json(notebook_cache_path)
+    if not notebook_cache and (checkpoint_dir / "notebook_rag.json").is_file():
+        notebook_cache = _load_json(checkpoint_dir / "notebook_rag.json")
+    if force:
+        notebook_cache = {}
+    cached_rag = (
+        notebook_cache.get("rag_by_id", {})
+        if isinstance(notebook_cache.get("rag_by_id"), dict)
+        else {}
+    )
+    done = sum(1 for q_id in theory_ids if q_id in cached_rag)
+    remaining = max(0, theory_count - done)
+
+    if done == theory_count:
+        print(_gemini_notebook_confirmation(done, theory_count, image_count))
+        rag = {str(k): str(v) for k, v in cached_rag.items()}
+    else:
+        if not yes:
+            prompt = _gemini_notebook_confirmation(done, theory_count, image_count)
+            try:
+                answer = prompt_input(prompt).strip().lower()
+            except EOFError:
+                print()
+                raise SystemExit(
+                    "Không có dữ liệu tương tác. Dùng --yes để bỏ gate xác nhận "
+                    "Gemini Notebook."
+                )
+            if answer in {"n", "no", "không", "khong"}:
+                raise SystemExit("Đã dừng trước Step 3.")
+        rag = await _step3_rag(
+            exam_id,
+            questions,
+            grouped,
+            notebook_id,
+            force,
+            checkpoint_dir,
+        )
 
     router = LLMRouter(web_model=web_model, web_gem=web_gem)
-    cache_path = DEFAULT_CACHE_DIR / f"{exam_id}.json"
-    cache = {"batches": {}} if force or not cache_path.is_file() else json.loads(
-        cache_path.read_text(encoding="utf-8")
-    )
-    batch_results = cache.get("batches", {})
+    cache_path = _resolve_cache_path(exam_id, "step4_batches")
+    cache = {} if force else _load_json(cache_path)
+    batch_results = cache.get("batches", {}) if isinstance(cache.get("batches"), dict) else {}
 
+    subbatches: list[dict[str, Any]] = []
     for bucket in buckets:
         items = bucket["questions"]
         require_formula = bool(bucket["require_formula_work"])
@@ -548,9 +792,9 @@ async def solve_exam_async(
                     image_items[i:i + 2] for i in range(0, len(image_items), 2)
                 )
         elif bucket["bucket"] == "short":
-            subchunks = [items[i:i + 15] for i in range(0, len(items), 15)]
+            subchunks = [items[i:i + 8] for i in range(0, len(items), 8)]
         else:
-            subchunks = [items[i:i + 3] for i in range(0, len(items), 3)]
+            subchunks = [items[i:i + 4] for i in range(0, len(items), 4)]
 
         for chunk in subchunks:
             enriched = []
@@ -587,26 +831,125 @@ async def solve_exam_async(
                     "require_formula_work": require_formula,
                     "questions": enriched,
                 }
-            key = _json_hash(subbatch)
-            if key not in batch_results:
-                batch_results[key] = {"results": _solve_batch(router, subbatch)}
-                cache_path.parent.mkdir(parents=True, exist_ok=True)
-                cache_path.write_text(
-                    json.dumps({"batches": batch_results}, ensure_ascii=False, indent=2),
-                    encoding="utf-8",
+            subbatches.append(subbatch)
+
+    if not force:
+        legacy_cache = _load_json(DEFAULT_CACHE_DIR / f"{exam_id}.json")
+        legacy_batches = legacy_cache.get("batches", {})
+        if isinstance(legacy_batches, dict):
+            for key, value in legacy_batches.items():
+                batch_results.setdefault(key, value)
+        checkpoint_cache = _load_json(checkpoint_dir / "llm_batches.json")
+        checkpoint_batches = checkpoint_cache.get("batches", {})
+        if isinstance(checkpoint_batches, dict):
+            for key, value in checkpoint_batches.items():
+                batch_results.setdefault(key, value)
+
+    restored_keys = [
+        key for key in (_json_hash(batch) for batch in subbatches)
+        if key in batch_results and _valid_batch_cache(batch_results[key], subbatches[
+            next(i for i, candidate in enumerate(subbatches) if _json_hash(candidate) == key)
+        ])
+    ]
+    engines: list[str] = []
+    if parse_list(os.getenv("DEEPSEEK_API_KEYS", "") + "," + os.getenv("DEEPSEEK_API_KEY", "")):
+        engines.append("DeepSeek API")
+    gemini_keys = parse_list(os.getenv("GEMINI_API_KEYS", "") + "," + os.getenv("GEMINI_API_KEY", ""))
+    if gemini_keys:
+        exam_model = priority_exam_models(
+            os.getenv("EXAM_SOLVER_GEMINI_MODEL", os.getenv("GEMINI_MODEL", "")),
+            allow_lite=True,
+        )[0]
+        engines.append(f"Gemini API ({len(gemini_keys)} keys, ưu tiên {exam_model})")
+    engines.append("Gemini Web")
+    if backend == "web":
+        engines = ["Gemini Web"]
+    print(f"Engines sẵn sàng: {', '.join(engines)}", flush=True)
+    print(
+        f"[Bước 4 - Giải đề] Tổng {len(subbatches)} batch "
+        f"({len(questions)} câu) | Đã khôi phục từ cache: {len(restored_keys)} batch "
+        f"| Cần gọi API: {len(subbatches) - len(restored_keys)} batch.",
+        flush=True,
+    )
+
+    total_batches = len(subbatches)
+    for batch_idx, subbatch in enumerate(subbatches, start=1):
+        key = _json_hash(subbatch)
+        if key in batch_results and _valid_batch_cache(batch_results[key], subbatch):
+            continue
+        batch_questions = subbatch["questions"]
+        first_id = batch_questions[0]["id"]
+        last_id = batch_questions[-1]["id"]
+        batch_engine, batch_model = router.describe_next(
+            subbatch.get("image_path"),
+            backend,
+        )
+        print(
+            f"  → [Batch {batch_idx}/{total_batches}] Đang giải "
+            f"{len(batch_questions)} câu (Câu {first_id}–{last_id}) "
+            f"bằng {batch_engine} ({batch_model})...",
+            flush=True,
+        )
+        started = time.monotonic()
+        while True:
+            try:
+                results = _solve_batch(router, subbatch, backend=backend)
+                batch_results[key] = {"results": results}
+                _atomic_json_write(
+                    cache_path,
+                    {"batches": batch_results},
                 )
+                elapsed = time.monotonic() - started
+                print(
+                    f"  ✓ [Batch {batch_idx}/{total_batches}] Hoàn thành trong "
+                    f"{elapsed:.1f}s (đã lưu tự động).",
+                    flush=True,
+                )
+                break
+            except BaseException as exc:
+                kind = "hình ảnh" if subbatch.get("image_path") else "lý thuyết"
+                print(
+                    f"  ⚠ [Batch {batch_idx}/{total_batches}] Lỗi batch {kind}, "
+                    f"đã ghi nhận và tiếp tục: {exc}",
+                    flush=True,
+                )
+                error_results = []
+                for q in batch_questions:
+                    error_results.append({
+                        "id": q["id"],
+                        "answer": None,
+                        "explanation": f"Lỗi batch {kind}: {exc}",
+                        "status": "ai_only",
+                    })
+                batch_results[key] = {"results": error_results, "error": str(exc)}
+                _atomic_json_write(cache_path, {"batches": batch_results})
+                break
 
     all_results = {
         item["id"]: item
         for cached in batch_results.values()
-        for item in cached["results"]
+        for item in cached.get("results", [])
+        if isinstance(item, dict) and item.get("id")
     }
     for q in questions:
         if q.id not in all_results:
-            raise ValueError(f"Thiếu kết quả reasoning cho {q.id}")
+            all_results[q.id] = {
+                "id": q.id,
+                "answer": None,
+                "explanation": "Batch chưa giải được; chưa có kết quả",
+                "status": "ai_only",
+            }
         all_results[q.id] = _audit(all_results[q.id], q.raw_key or "")
-    _export_exam(pdf_path, out_root, subject, questions, all_results, rag)
-    _merge_bank(out_root / subject, subject)
+    _export_exam(
+        pdf_path,
+        out_root,
+        subject,
+        subject_label,
+        questions,
+        all_results,
+        rag,
+    )
+    _merge_bank(out_root / subject, subject, subject_label)
 
 
 def parse_args() -> argparse.Namespace:
@@ -621,32 +964,91 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--web-model", default="")
     parser.add_argument("--web-gem", default="")
     parser.add_argument("--force", action="store_true", help="Bỏ qua cache Step 2, 3 và 4.")
+    parser.add_argument(
+        "--backend",
+        choices=("auto", "web"),
+        default="auto",
+        help="Chọn web để ép Gemini Web; mặc định dùng DeepSeek → Gemini API → Gemini Web.",
+    )
+    parser.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Hiển thị chi tiết log nội bộ (mặc định chỉ hiển thị trạng thái ngắn gọn).",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
     input_path = args.input_path
-    pdfs = [input_path] if input_path.is_file() else sorted(
-        (p for p in input_path.rglob("*.pdf") if p.is_file()),
-        key=lambda p: str(p).lower(),
-    )
+    supported = (".pdf", ".md", ".txt", ".docx")
+    if input_path.is_file():
+        found = [input_path] if input_path.suffix.lower() in supported else []
+    else:
+        found = sorted(
+            (
+                p for p in input_path.rglob("*")
+                if p.is_file() and p.suffix.lower() in supported
+            ),
+            key=lambda p: str(p).lower(),
+        )
+    if not found:
+        print(f"Chưa có file đề thi (.pdf, .md, .txt, .docx) trong: {input_path.resolve()}")
+        print(f"Hãy bỏ file đề thi vào thư mục: {DEFAULT_INPUT.resolve()}")
+        legacy_dir = ROOT_DIR / "de_thi"
+        if legacy_dir.is_dir():
+            print(f"Phát hiện thư mục đề thi cũ còn sót: {legacy_dir.resolve()}")
+            print("Hãy di chuyển đề thi sang workspace/de_thi/ sau refactor.")
+        raise SystemExit(1)
+
+    pdfs = [p for p in found if p.suffix.lower() == ".pdf"]
+    non_pdf = [p for p in found if p.suffix.lower() != ".pdf"]
+    if non_pdf:
+        print("Hiện pipeline giải đề chỉ xử lý file PDF.")
+        print("Các file không phải PDF đã phát hiện:")
+        for path in non_pdf:
+            print(f"  - {path.resolve()}")
+        print(f"Hãy đặt/copy đề thi dạng PDF vào: {DEFAULT_INPUT.resolve()}")
+    if not pdfs:
+        raise SystemExit(1)
     if not pdfs:
         raise SystemExit(f"Không tìm thấy PDF trong: {input_path}")
 
     formula_mode = args.formula_mode
     for pdf_path in pdfs:
         subject, resolved = _resolve_subject(pdf_path, args.subject)
+        subject_label = ""
         if not resolved:
             detected = detect_subject_slug(pdf_path)
             if args.yes:
                 subject = detected
+                subject_label = detect_subject_label(pdf_path, detected)
             else:
-                answer = input(
-                    f"Nhập tên môn học / subject slug (Enter = {detected}): "
-                ).strip()
-                subject = re.sub(r"[^a-z0-9]+", "-", (answer or detected).lower()).strip("-")
+                try:
+                    answer = prompt_input(
+                        f"Nhập tên môn học / subject slug (Enter = {detected}): "
+                    ).strip()
+                except EOFError:
+                    print()
+                    print(
+                        f"Không có dữ liệu tương tác; dùng subject mặc định: {detected}"
+                    )
+                    answer = ""
+                subject_label = unicodedata.normalize(
+                    "NFC",
+                    answer or detect_subject_label(pdf_path, detected),
+                )
+                subject = slugify_vi(answer or subject_label) or detected
+        else:
+            if args.subject and slugify_vi(args.subject) != args.subject.lower():
+                subject_label = unicodedata.normalize("NFC", args.subject)
+            else:
+                subject_label = detect_subject_label(pdf_path, subject)
         subject = subject or "tong-hop"
+        subject_label = unicodedata.normalize(
+            "NFC",
+            subject_label or detect_subject_label(pdf_path, subject),
+        )
 
         questions = preprocess_pdf(pdf_path, DEFAULT_IMG_DIR)
         if not formula_mode:
@@ -657,15 +1059,30 @@ def main() -> None:
         else:
             mode = formula_mode
 
+        if not args.yes:
+            try:
+                answer = prompt_input(
+                    "Tiếp tục chạy pipeline (bắt đầu gọi API)? [y/N]: "
+                ).strip().lower()
+            except EOFError:
+                print()
+                print("Không có dữ liệu tương tác; dừng trước khi gọi API.")
+                raise SystemExit(1)
+            if answer not in {"y", "yes", "có", "co"}:
+                print("Đã dừng trước khi gọi API.")
+                raise SystemExit(0)
+
         asyncio.run(solve_exam_async(
             pdf_path,
             args.out,
             subject,
+            subject_label,
             mode,
             args.web_model,
             args.web_gem,
             args.force,
             args.yes,
+            args.backend,
         ))
 
 

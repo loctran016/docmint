@@ -48,6 +48,7 @@ import time
 from pathlib import Path
 
 from src.core import common
+from src.core.ai_client import GeminiExecutor, classify_gemini_error, parse_list
 from src.core.prompts import render_prompt
 
 BASE = common.CONFIG_DIR
@@ -137,15 +138,6 @@ def missing_numbers(raw: str, edited: str) -> list[str]:
 # ---------------------------------------------------------------------------
 # Backend API chính thức (Gemini API key, xoay key x model)
 # ---------------------------------------------------------------------------
-def parse_list(raw) -> list[str]:
-    out: list[str] = []
-    for k in re.split(r"[,;\s]+", raw or ""):
-        k = k.strip().strip("\"'")
-        if k and k not in out:
-            out.append(k)
-    return out
-
-
 def needs_beta(model: str) -> bool:
     m = model.lower()
     return "preview" in m or m.startswith("gemma") or m in ("gemini-3-flash", "gemini-2.5-flash-lite")

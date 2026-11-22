@@ -84,6 +84,13 @@ def load_project_env() -> list[Path]:
 
 load_project_env()
 
+
+def wait_for_menu() -> None:
+    """Chờ người dùng quay lại menu; không bao giờ treo trong luồng CI/non-TTY."""
+    if not sys.stdin.isatty() or os.getenv("CI"):
+        return
+    input("\n✅ Đã xong! Nhấn phím 0 (hoặc Enter) để quay lại menu chính: ")
+
 GIAO_TRINH_FILE = CONFIG_DIR / "giao_trinh.txt"
 GIANG_BAI_FILE = CONFIG_DIR / "giang_bai.txt"
 CAU_HOI_FILE = CONFIG_DIR / "cau_hoi.txt"

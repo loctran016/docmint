@@ -44,6 +44,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 import fitz  # PyMuPDF
+from src.core.pdf_utils import PDFError, open_pdf, log_pdf_error
 from google import genai
 from google.genai import types
 from PIL import Image
@@ -254,8 +255,13 @@ def main():
         else:
             pdf_path = src
 
-        doc = fitz.open(str(pdf_path))
-        total = len(doc)
+        try:
+            doc_ctx = open_pdf(pdf_path)
+            doc = doc_ctx.__enter__()
+            total = len(doc)
+        except PDFError as exc:
+            log_pdf_error(pdf_path, exc)
+            raise
         if notes and len(notes) != total:
             print(f"Cảnh báo: số ghi chú ({len(notes)}) khác số slide ({total}), bỏ qua ghi chú.")
             notes = []

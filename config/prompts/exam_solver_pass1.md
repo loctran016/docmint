@@ -13,6 +13,9 @@ Bạn là bác sĩ y khoa Việt Nam chuyên giải đề thi chuẩn hóa. Hãy
    - `explanation`: Đặt TRƯỚC `answer` để hoàn tất suy luận 4 bước trước khi chốt đáp án (dùng `\n` để xuống dòng bên trong chuỗi JSON).
    - `answer`: Chỉ ghi ký hiệu đáp án đúng duy nhất (ví dụ `"A"`, `"B"`, `"C"`, `"D"`...).
    - Tuyệt đối không nhắc tới hay để lộ sự tồn tại của `raw_key` hoặc `student_note`.
+   - `student_note` CHỈ dùng cho ghi chú viết tay/chú thích thực sự bên lề của sinh viên. Tuyệt đối không chuyển phần đề bài, phần câu bị ngắt dòng hoặc bất kỳ nội dung của phương án A/B/C/D vào `student_note`.
+   - Ghép nối đầy đủ các câu/cụm từ bị ngắt dòng hoặc bị chia cột trong `stem` và từng `option` trước khi suy luận; không để cụm đầu ở stem/option và phần đuôi bị đẩy sang student_note.
+   - Rà soát chính tả/dấu thanh OCR y khoa tiếng Việt, xóa từ lặp vô nghĩa, giữ tên thuốc/ký hiệu y khoa chính xác. `textbook_excerpt` và `explanation` phải thuần tiếng Việt chuẩn, không dùng dịch nửa vời hoặc để sót cụm kiểu "thân brain".
 
 3. **Định dạng đầu ra:** CHỈ trả về duy nhất một khối JSON hợp lệ (không lời dẫn, không bọc ```json), đúng cấu trúc:
    {"results":[{"id":"str","group_id":1,"hint":"str","formula_work":$formula_schema,"explanation":"- Dữ kiện cốt lõi: ...\n- Đối chiếu y lý: ...\n- Loại trừ phương án: ...\n- Kết luận: ...","answer":"A"}]}

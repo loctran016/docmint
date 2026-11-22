@@ -1,6 +1,5 @@
 # /// script
 # requires-python = ">=3.10"
-# dependencies = ["pypdf"]
 # ///
 import sys
 from pathlib import Path as _Path
@@ -23,9 +22,8 @@ Cách chạy:
 import sys
 from pathlib import Path
 
-from pypdf import PdfReader
-
 from src.core import common
+from src.core.pdf_utils import inspect_pdf, open_pdf, log_pdf_error
 
 MIN_CHARS = 50          # trang có ít hơn số ký tự này coi như không có chữ
 OUTLINE_MAX_DEPTH = 2
@@ -62,24 +60,24 @@ def print_outline(reader, items=None, depth=0):
 
 def check(path):
     print(f"\n=== {path.name} ===")
-    try:
-        reader = PdfReader(str(path))
-        if reader.is_encrypted:
-            reader.decrypt("")
-        n = len(reader.pages)
-    except Exception as e:  # noqa: BLE001
-        print(f"  Không mở được file: {type(e).__name__}: {e}")
+    info = inspect_pdf(path)
+    if info.error:
+        log_pdf_error(path, info.error)
         return
+    n = info.page_count
     empty = []
-    for i, page in enumerate(reader.pages, 1):
-        try:
-            text = (page.extract_text() or "").strip()
-        except Exception:  # noqa: BLE001
-            text = ""
-        if len(text) < MIN_CHARS:
-            empty.append(i)
-        if i % 50 == 0:
-            print(f"  ...đã quét {i}/{n} trang", flush=True)
+    try:
+        with open_pdf(path) as doc:
+            for i, page in enumerate(doc, 1):
+                text = (page.get_text("text") or "").strip()
+                if len(text) < MIN_CHARS:
+                    empty.append(i)
+                if i % 50 == 0:
+                    print(f"  ...đã quét {i}/{n} trang", flush=True)
+            toc = doc.get_toc(simple=True)
+    except Exception as exc:  # noqa: BLE001
+        log_pdf_error(path, exc)
+        return
 
     with_text = n - len(empty)
     pct = 100 * with_text / n if n else 0
@@ -93,13 +91,11 @@ def check(path):
     else:
         print("  Kết luận: THIẾU lớp chữ ở nhiều trang -> hãy OCR (menu mục OCR) rồi tải bản OCR lên.")
 
-    try:
-        has_outline = bool(reader.outline)
-    except Exception:  # noqa: BLE001
-        has_outline = False
+    has_outline = bool(toc)
     if has_outline:
         print("  Dấu trang (bookmark) trong PDF:")
-        print_outline(reader)
+        for level, title, page_num in toc:
+            print("   " + "  " * max(0, level - 1) + f"- {title}  (trang PDF {page_num})")
     else:
         print("  PDF không có dấu trang (bookmark).")
 

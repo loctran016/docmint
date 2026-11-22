@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -10,12 +11,20 @@ if str(ROOT_DIR) not in sys.path:
 from dataclasses import dataclass, field
 import os
 import re
+import unicodedata
 from typing import Optional
-import fitz  # PyMuPDF
+import pymupdf as fitz
 
-from src.core.common import CONFIG_DIR, ROOT_DIR, WORKSPACE_DIR
+from src.core import common
+from src.core.pdf_utils import PDFError, open_pdf, log_pdf_error
+from src.core.quality_check import clean_exam_text
+from src.core.quality_check import normalize_nfc as _normalize_nfc
+from src.core.quality_check import slugify_vi as _slugify_vi
 
-DEFAULT_IMG_DIR = ROOT_DIR / ".cache" / "exam_imgs"
+ROOT_DIR = common.REPO_ROOT
+CONFIG_DIR = common.CONFIG_DIR
+WORKSPACE_DIR = common.WORKSPACE_DIR
+DEFAULT_IMG_DIR = common.EXAM_IMG_DIR
 
 # --- REGEX PATTERNS ---
 SECTION_MAP = {
@@ -120,12 +129,14 @@ def _extract_clean_lines(doc: fitz.Document) -> list[dict]:
   for page_idx, page in enumerate(doc):
     has_page_img = len(page.get_images(full=True)) > 0
     blocks = page.get_text("dict")["blocks"]
-    for b in blocks:
-      if b["type"] != 0:
-        continue
-      for line in b["lines"]:
+    positioned_blocks = sorted(
+        (b for b in blocks if b["type"] == 0),
+        key=lambda b: (round(b["bbox"][1] / 8), b["bbox"][0]),
+    )
+    for b in positioned_blocks:
+      for line in sorted(b["lines"], key=lambda ln: (ln["bbox"][1], ln["bbox"][0])):
         parts, has_color = [], False
-        for span in line["spans"]:
+        for span in sorted(line["spans"], key=lambda sp: sp["bbox"][0]):
           if _is_watermark(span):
             continue
           txt = span["text"]
@@ -133,7 +144,7 @@ def _extract_clean_lines(doc: fitz.Document) -> list[dict]:
             parts.append(txt)
             if _is_highlighted_color(span.get("color", 0)):
               has_color = True
-        full_line = "".join(parts).strip()
+        full_line = clean_exam_text("".join(parts).strip())
         if full_line:
           extracted.append({
               "text": full_line,
@@ -151,8 +162,10 @@ def _finalize_question(
     shared_img_map: dict[str, int],
 ) -> None:
   """Chốt nhận diện hình ảnh trên toàn bộ stem đã ghép đủ và xuất ảnh trang PDF."""
-  q.stem = re.sub(r"\s+", " ", q.stem).strip()
-  q.options = [re.sub(r"\s+", " ", opt).strip() for opt in q.options]
+  q.stem = clean_exam_text(re.sub(r"\s+", " ", q.stem).strip())
+  q.options = [clean_exam_text(re.sub(r"\s+", " ", opt).strip()) for opt in q.options]
+  q.student_note = clean_exam_text(q.student_note)
+  q.id = _normalize_nfc(q.id)
 
   if q.q_num in shared_img_map:
     q.has_image = True
@@ -239,14 +252,7 @@ def parse_questions(
     m_opt = OPT_START_RE.match(text)
     if m_opt:
       letter, opt_body = m_opt.group(1).upper(), m_opt.group(2).strip()
-      # Chỉ tách note ghi tay khi vế sau ' - ' là câu giải thích dài (>= 4 từ)
-      if " - " in opt_body:
-        main_opt, note = opt_body.split(" - ", 1)
-        if len(note.split()) >= 4:
-          opt_body = main_opt.strip()
-          curr_q.student_note = f"{curr_q.student_note}; {note.strip()}".strip(
-              "; "
-          )
+      # Không tách phần đề/lựa chọn thành student_note; chỉ ghi chú thực tế mới nằm ở đây.
       curr_q.options.append(f"{letter}. {opt_body}")
       if row["colored"] and not curr_q.raw_key:
         curr_q.raw_key = letter
@@ -268,12 +274,13 @@ def preprocess_pdf(
     pdf_path: str | Path, img_out_dir: str | Path = DEFAULT_IMG_DIR
 ) -> list[QuestionItem]:
   """Hàm chính đọc file PDF đề thi, trích xuất câu hỏi và xuất ảnh trang nếu có."""
-  doc = fitz.open(str(pdf_path))
   try:
-    lines = _extract_clean_lines(doc)
-    return parse_questions(lines, doc=doc, img_out_dir=img_out_dir)
-  finally:
-    doc.close()
+    with open_pdf(pdf_path) as doc:
+      lines = _extract_clean_lines(doc)
+      return parse_questions(lines, doc=doc, img_out_dir=img_out_dir)
+  except PDFError as exc:
+    log_pdf_error(pdf_path, exc)
+    return []
 
 
 def configure_formula_mode(questions: list[QuestionItem]) -> str:
@@ -286,24 +293,43 @@ def configure_formula_mode(questions: list[QuestionItem]) -> str:
       f"[Pre-Router] Phát hiện {calc_count}/{total} câu ({ratio:.1f}%) có phép"
       " tính."
   )
+  matches = [q for q in questions if MATH_INTENT_RE.search(q.stem)]
+  for q in matches[:15]:
+    snippet = re.sub(r"\s+", " ", q.stem).strip()
+    if len(snippet) > 70:
+      snippet = snippet[:70].rstrip() + "..."
+    print(f"  - Câu {q.q_num or q.id}: {snippet}")
+  if len(matches) > 15:
+    print(f"  ... và {len(matches) - 15} câu khác")
+
   print(
-      "Chế độ formula_work: [1] Chỉ câu tính toán | [2] Toàn bộ | [3] Tắt"
-      f" (Enter={default_choice}): ",
+      "Chế độ formula_work:\n"
+      "  [1] Chỉ câu tính toán (mặc định nếu phát hiện phép tính)\n"
+      "  [2] Toàn bộ câu hỏi (kể cả câu lý thuyết và phép tính)\n"
+      "  [3] Chỉ câu lý thuyết (không tạo công thức tính; Tắt formula_work)\n"
+      f"  (Enter={default_choice}): ",
       end="",
+      flush=True,
   )
-  choice = input().strip() or default_choice
+  try:
+    choice = input().strip() or default_choice
+  except EOFError:
+    print()
+    print(
+        "Không có dữ liệu tương tác; dùng mặc định "
+        f"{default_choice}."
+    )
+    choice = default_choice
   return {"1": "calc_only", "2": "all", "3": "off"}.get(choice, "calc_only")
 
 
+def slugify_vi(text: str) -> str:
+  """Chuẩn hóa tiếng Việt thành slug ASCII ổn định."""
+  return _slugify_vi(text)
+
+
 def detect_subject_slug(pdf_path: str | Path) -> str:
-  """Đọc tiêu đề trang 1 để đề xuất subject slug, không đổi file PDF."""
-  try:
-    with fitz.open(str(pdf_path)) as doc:
-      if not doc:
-        return "tong-hop"
-      text = doc[0].get_text("text")
-  except Exception:
-    return "tong-hop"
+  """Ưu tiên tên file và tiêu đề môn học thực sự để đề xuất subject slug."""
   aliases = {
       "tiêu hóa": "tieu-hoa",
       "dinh dưỡng": "dinh-duong",
@@ -313,22 +339,96 @@ def detect_subject_slug(pdf_path: str | Path) -> str:
       "ngoại khoa": "ngoai-khoa",
       "sản khoa": "san-khoa",
   }
-  for line in text.splitlines():
+  watermark_re = re.compile(
+      r"(?:biên\s+soạn\s+bởi|cấm\s+chia\s+sẻ|clb|câu\s+lạc\s+bộ|"
+      r"lưu\s+hành\s+nội\s+bộ|tủ\s+sách\s+khoa\s+y|copyright|"
+      r"from\s*:|bản\s+quyền|all\s+rights)",
+      re.IGNORECASE,
+  )
+
+  path = Path(pdf_path)
+  try:
+    with open_pdf(path) as doc:
+      if not doc:
+        doc_text = ""
+      else:
+        doc_text = doc[0].get_text("text")
+  except (PDFError, Exception):
+    doc_text = ""
+
+  for line in doc_text.splitlines():
     title = re.sub(r"\s+", " ", line).strip()
-    if len(title) < 3:
+    if len(title) < 3 or watermark_re.search(title):
       continue
     low = title.lower()
     for name, slug in aliases.items():
-      if name in low:
+      if name in low or slugify_vi(name) in slugify_vi(title):
         return slug
-    slug = (
-        title.lower().replace("đ", "d")
-        .replace("Đ", "d")
-    )
-    slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
-    if slug:
-      return slug[:60]
+    if re.search(r"\b(?:đề|thi|kiểm tra|bài thi)\b", low, re.IGNORECASE):
+      continue
+    slug = slugify_vi(title)
+    if slug and not re.search(r"\b(?:câu|trắc nghiệm|multiple choice)\b", low, re.IGNORECASE):
+      return slug
+
+  filename_text = re.sub(
+      r"\b(?:ocr|pdf|ans|answer|de|đề|thi|y\d{2,4})\b",
+      " ",
+      path.stem,
+      flags=re.IGNORECASE,
+  )
+  filename_low = filename_text.lower()
+  for name, slug in aliases.items():
+    if name in filename_low:
+      return slug
+  generic_filename_re = re.compile(
+      r"(?:^|[-_\s])(docmint|interactive|test|đề thi|đề kiểm tra)(?:$|[-_\s])",
+      re.IGNORECASE,
+  )
+  if (
+      filename_text.strip()
+      and not watermark_re.search(filename_text)
+      and not generic_filename_re.search(filename_text)
+  ):
+    filename_slug = slugify_vi(filename_text)
+    if filename_slug:
+      return filename_slug
   return "tong-hop"
+
+
+def detect_subject_label(pdf_path: str | Path, detected_slug: str = "") -> str:
+  """Lấy nhãn môn học trực tiếp từ tiêu đề/tên file, không title-case slug."""
+  aliases = {
+      "tiêu hóa": "Tiêu Hóa",
+      "dinh dưỡng": "Dinh Dưỡng",
+      "da liễu": "Da Liễu",
+      "nội tiết": "Nội Tiết",
+      "miễn dịch": "Miễn Dịch",
+      "ngoại khoa": "Ngoại Khoa",
+      "sản khoa": "Sản Khoa",
+  }
+  text_candidates: list[str] = []
+  try:
+    with open_pdf(pdf_path) as doc:
+      if doc:
+        text_candidates.extend(doc[0].get_text("text").splitlines())
+  except (PDFError, Exception):
+    pass
+  text_candidates.append(Path(pdf_path).stem)
+  for candidate in text_candidates:
+    candidate = unicodedata.normalize("NFC", re.sub(r"\s+", " ", candidate).strip())
+    low = candidate.lower()
+    for name, label in aliases.items():
+      if name in low or _slugify_vi(name) == _slugify_vi(candidate):
+        return label
+  if detected_slug:
+    for name, _ in aliases.items():
+      if _slugify_vi(name) == detected_slug:
+        return unicodedata.normalize("NFC", name.title())
+  if text_candidates:
+    label = unicodedata.normalize("NFC", text_candidates[0])
+    if len(label) >= 3 and not re.search(r"\b(?:đề|thi|kiểm tra)\b", label, re.I):
+      return label
+  return unicodedata.normalize("NFC", str(detected_slug or "Tổng Hợp"))
 
 
 def route_and_batch(
@@ -386,3 +486,47 @@ def route_and_batch(
           },
       })
   return batches
+
+
+def parse_args() -> argparse.Namespace:
+  parser = argparse.ArgumentParser(
+      description="Tiền xử lý PDF đề thi y khoa trước khi chạy pipeline 5 bước."
+  )
+  parser.add_argument(
+      "--in",
+      dest="input_path",
+      type=Path,
+      default=common.DE_THI_DIR,
+  )
+  parser.add_argument(
+      "--img-out",
+      type=Path,
+      default=common.EXAM_IMG_DIR,
+  )
+  return parser.parse_args()
+
+
+def main() -> None:
+  args = parse_args()
+  if args.input_path.is_file():
+    pdfs = [args.input_path] if args.input_path.suffix.lower() == ".pdf" else []
+  else:
+    pdfs = sorted(
+        (path for path in args.input_path.rglob("*.pdf") if path.is_file()),
+        key=lambda path: str(path).lower(),
+    )
+  if not pdfs:
+    print(f"Chưa có file PDF đề thi trong: {args.input_path.resolve()}")
+    print(f"Hãy bỏ file đề thi (.pdf) vào thư mục: {common.DE_THI_DIR.resolve()}")
+    legacy_dir = common.REPO_ROOT / "de_thi"
+    if legacy_dir.is_dir():
+      print(f"Phát hiện thư mục đề thi cũ còn sót: {legacy_dir.resolve()}")
+      print("Hãy di chuyển đề thi sang workspace/de_thi/ sau refactor.")
+    raise SystemExit(1)
+  for pdf_path in pdfs:
+    questions = preprocess_pdf(pdf_path, args.img_out)
+    print(f"{pdf_path}: {len(questions)} câu")
+
+
+if __name__ == "__main__":
+  main()

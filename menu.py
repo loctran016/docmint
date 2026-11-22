@@ -20,6 +20,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+os.environ.setdefault("PYTHONUNBUFFERED", "1")
+
 from src.core import common
 
 HERE = common.TOOLKIT_DIR
@@ -149,17 +151,18 @@ def clear():
 
 def ask(prompt):
     try:
-        return input(prompt).strip()
+        print(prompt, end="", flush=True)
+        return input().strip()
     except EOFError:
         print()
-        raise SystemExit(0)
+        return ""
     except KeyboardInterrupt:
         print()
         return ""
 
 
 def pause():
-    ask("\n  Nhấn Enter để quay lại menu... ")
+    common.wait_for_menu()
 
 
 # ------------------------------------------------------------------ tiện ích
@@ -245,11 +248,17 @@ def show_cmd(cmd):
 
 def run(cmd, show=True):
     env = os.environ.copy()
-    env.update({"NLM_OUT_ROOT": str(S["out_root"]), "NLM_BOOK": S["book"], "PYTHONUTF8": "1"})
+    env.pop("VIRTUAL_ENV", None)
+    env.update({
+        "NLM_OUT_ROOT": str(S["out_root"]),
+        "NLM_BOOK": S["book"],
+        "PYTHONUTF8": "1",
+        "PYTHONUNBUFFERED": "1",
+    })
     if show:
         print(f"\n{DM}Lệnh: {show_cmd(cmd)}{R}\n")
     try:
-        return subprocess.run(cmd, env=env).returncode
+        return subprocess.run(cmd, env=env, cwd=common.REPO_ROOT).returncode
     except KeyboardInterrupt:
         print("\n(đã dừng)")
         return 130
@@ -261,7 +270,11 @@ def run(cmd, show=True):
 def exec_uv(*args):
     if not need_uv():
         return 1
-    return run([UV, "run", *args])
+    rc = run([UV, "run", "--project", str(common.REPO_ROOT), *args])
+    if rc != 0:
+        print(f"\n  {RD}Chức năng kết thúc với mã lỗi {rc}.{R}")
+        pause()
+    return rc
 
 
 def open_folder(path):
@@ -942,6 +955,41 @@ def handle_pending_feature(title):
     pause()
 
 
+def run_exam_solver():
+    common.DE_THI_DIR.mkdir(parents=True, exist_ok=True)
+    clear()
+    print(f"{B}== Giải đề y khoa — 5 bước (NotebookLM + LLM) =={R}\n")
+    print(f"  Thư mục đề thi: {common.DE_THI_DIR}")
+    supported = (".pdf", ".md", ".txt", ".docx")
+    files = sorted(
+        (
+            path for path in common.DE_THI_DIR.rglob("*")
+            if path.is_file() and path.suffix.lower() in supported
+        ),
+        key=lambda path: str(path).lower(),
+    )
+    pdfs = [path for path in files if path.suffix.lower() == ".pdf"]
+    if not files:
+        print(f"\n  {RD}Chưa có file đề thi trong thư mục trên.{R}")
+        print(f"  Hãy bỏ file .pdf, .md, .txt hoặc .docx vào:\n  {common.DE_THI_DIR}")
+        legacy_dir = common.REPO_ROOT / "de_thi"
+        if legacy_dir.is_dir():
+            print(f"\n  {RD}Phát hiện thư mục cũ còn sót:{R} {legacy_dir}")
+            print("  Hãy di chuyển đề thi sang workspace/de_thi/ sau refactor.")
+        print("  Sau đó chọn lại mục [15].")
+        pause()
+        return 1
+    if not pdfs:
+        print(f"\n  {RD}Hiện pipeline giải đề chỉ đọc được file PDF.{R}")
+        print("  Các file đã phát hiện:")
+        for path in files:
+            print(f"    - {path}")
+        print(f"  Hãy chuyển/copy đề thi sang PDF trong:\n  {common.DE_THI_DIR}")
+        pause()
+        return 1
+    return exec_uv("-m", "src.llm.exam_solver")
+
+
 def main_menu():
     system = "Windows" if IS_WIN else ("WSL" if IS_WSL else platform.system())
     pretty = system
@@ -967,7 +1015,7 @@ def main_menu():
         "12": lambda: feature_menu("video"),
         "13": lambda: exec_uv("src/menus/menu_bien_tap.py"),
         "14": lambda: handle_pending_feature("Tạo bộ câu hỏi theo chủ đề"),
-        "15": lambda: exec_uv("src/llm/exam_solver.py"),
+        "15": run_exam_solver,
         "16": lambda: handle_pending_feature("Tạo Anki, Flashcard"),
         "17": lambda: handle_pending_feature("Đang chờ update"),
         "18": lambda: handle_pending_feature("Đang chờ update"),
@@ -1020,7 +1068,12 @@ def main_menu():
             print()
             return
         if ch in handlers:
-            handlers[ch]()
+            try:
+                handlers[ch]()
+            except Exception as exc:  # noqa: BLE001
+                print(f"\n  {RD}Chức năng gặp lỗi: {type(exc).__name__}: {exc}{R}")
+            finally:
+                common.wait_for_menu()
 
 
 if __name__ == "__main__":

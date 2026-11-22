@@ -105,6 +105,13 @@
 
 ## Data Safety
 
+## Quy tắc bắt buộc cho lần sửa sau
+
+- **Xử lý PDF:** Mọi tính năng đọc, trích xuất hoặc upload PDF mới/refactor phải import và sử dụng bộ hàm chung trong `src/core/pdf_utils.py` (hoặc `common.py`); cấm tự viết lại logic mở/đọc PDF riêng lẻ bằng `fitz.open`, `PdfReader`, hoặc API tương đương.
+- **Luồng CLI tương tác:** Mọi mục menu CLI sau khi chạy xong, dù thành công hay lỗi, đều phải gọi `wait_for_menu()` để trả luồng về vòng lặp menu chính và không tự thoát terminal. Ngoại lệ bắt buộc: `src/ingest/process_book.py`.
+- **Script CI/GitHub Actions:** Các script tự động như `process_book.py` phải hoàn toàn non-interactive, không chứa `input()` và phải giữ exit code phục vụ GitHub Actions.
+- **Dữ liệu workspace:** Được sử dụng thoải mái để kiểm tra, nhưng không được thay đổi, biến đổi hoặc xóa các file trong `workspace/` khi người dùng không yêu cầu.
+
 - Never read or edit contents in `output_md/`, `input_pdfs/`, `output_ocr/`, `ket_qua/`, `transcripts/`, `slides_out/`, `giang_out/`, or `.cache/`.
 - Move such directories as data only, or treat them as absent.
 - `.gitignore` must include `workspace/`, `.cache/`, `.env`, `.menu_settings.json`, and `tessdata/`.

@@ -110,7 +110,9 @@ from google.genai import errors, types
 from PIL import Image, ImageEnhance, ImageOps, ImageStat
 
 from src.core import groq_client  # dự phòng RECITATION qua Groq Vision (cùng thư mục)
+from src.core.pdf_utils import PDFError, open_pdf, log_pdf_error
 from src.core import quality_check  # kiểm tra chất lượng offline (cùng thư mục)
+from src.core.ai_client import parse_list, priority_process_models
 
 # ----------------------------------------------------------------------------
 # Cấu hình mặc định (đổi bằng tham số dòng lệnh hoặc biến môi trường / .env)
@@ -1126,16 +1128,22 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
     work = out_dir / ".pages" / safe_filename(name)
 
     try:
-        doc = fitz.open(str(pdf))
+        doc_ctx = open_pdf(pdf)
+        doc = doc_ctx.__enter__()
+    except PDFError as e:
+        log(f"  ✘ Không mở được PDF: {log_pdf_error(pdf, e)}")
+        res["skipped"] = True
+        return res
     except Exception as e:  # noqa: BLE001
-        log(f"  ✘ Không mở được PDF: {e}")
+        log(f"  ✘ Không mở được PDF: {log_pdf_error(pdf, e)}")
         res["skipped"] = True
         return res
 
-    with doc:
+    if doc is not None:
         if doc.needs_pass:
             log("  ✘ PDF có mật khẩu, bỏ qua.")
             res["skipped"] = True
+            doc.close()
             return res
         total = doc.page_count
         meta = {"pdf_size": pdf.stat().st_size, "pages": total}
@@ -1154,6 +1162,7 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
                     log("  ⚠ PDF này khác với lần chạy trước (kích thước hoặc số trang). "
                         "Dùng --force để làm lại từ đầu.")
                     res["skipped"] = True
+                    doc.close()
                     return res
             else:
                 atomic_write(meta_path, json.dumps(meta))
@@ -1296,6 +1305,7 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
         if transcriber is not None:
             transcriber.idle_hook = None
         if args.test:
+            doc.close()
             return res
 
         merged = merge_book(name, work, total, out_dir, args.split, not args.no_join)
@@ -1332,6 +1342,7 @@ def process_book(pdf: Path, args, out_dir: Path, transcriber: Transcriber | None
             "Đặt GROQ_API_KEYS để dùng Groq.")
     if not args.test and not args.no_quality and not res["skipped"]:
         run_quality(work, total, sources, src_path, args)
+    doc.close()
     return res
 
 
@@ -1443,8 +1454,8 @@ def main() -> int:
     if args.test:
         pdfs = pdfs[:1]
 
-    models = [m.strip() for m in args.model.split(",") if m.strip()]
-    args.redo_set = {m.strip() for m in args.redo_models.split(",") if m.strip()}
+    models = priority_process_models(parse_list(args.model))
+    args.redo_set = set(parse_list(args.redo_models))
     args.vocab_set = quality_check.load_vocab(args.vocab)
     paid_key = (os.environ.get("GEMINI_PAID_API_KEY") or "").strip().strip("\"'")
     allow_paid = args.allow_paid or (os.environ.get("ALLOW_PAID", "").strip().lower() in ("1", "true", "yes"))
