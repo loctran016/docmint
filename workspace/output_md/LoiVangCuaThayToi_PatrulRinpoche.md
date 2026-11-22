@@ -2315,17 +2315,7 @@ II. NHỮNG NỖI THỐNG KHỔ ĐẶC BIỆT MÀ CHÚNG SINH TRONG SÁU CÕI PH
 
 1.1 BÁT HỎA ĐỊA NGỤC (Tám hỏa ngục hay địa ngục nóng)
 
-Bát hỏa địa ngục nằm chồng chất lên nhau như các tầng lầu của một toà nhà, từ Đẳng Hoạt địa ngục nằm cao nhất xuống tới Vô Gián địa ngục (A-Tì địa ngục) ở dưới cùng. Trong mỗi tầng địa ngục, mặt nền và vành đai đều nóng bỏng như sắt nung chảy ở lò rèn – không thể có chỗ nào có thể đặt chân an toàn lên được. Mọi thứ chìm trong sự thiêu hủy rừng rực của ngọn lửa bùng cháy dữ dội.
-
-1.1.1 Đẳng Hoạt Địa Ngục (*Phạn: Samjiva* – Địa ngục chết đi sống lại)
-
-Ở tầng địa ngục này, than hồng bao phủ mặt nền kim khí nóng chảy, vô lượng chúng sinh nhiều như tuyết rơi trong một trận bão tuyết do nghiệp cảm của họ mà gom tụ lại. Hành nghiệp dẫn họ tới địa ngục này được thúc đẩy bởi tâm hận thù, nên hậu quả cũng tương tự như căn nguyên đã đưa họ đến đó; họ nhìn nhau như những kẻ tử thù, và xông vào đánh nhau dữ dội. Họ vung lên những vũ khí kỳ lạ – một kho vũ khí ma quái tạo ra bởi nghiệp lực của họ – họ đánh nhau cho tới khi tất cả ngã gục. Khi ấy, một giọng nói từ trên cao bỗng cất lên: “Hãy sống lại!” và lập tức họ tỉnh dậy và lại bắt đầu đánh nhau y hệt như trước. Và họ bị hành hạ như vậy, liên tục chết đi rồi sống lại.
-
-Thọ mạng ở đó là bao lâu? Năm mươi năm trong đời sống con người tương đương với một ngày trong Cung Trời của Tứ Thiên Vương. Ba mươi ngày ở đó thành một tháng, và mười hai tháng làm thành một năm; năm trăm năm như thế tương đương một ngày trong Đẳng Hoạt Địa Ngục. Trong địa ngục này, mỗi tháng có ba mươi ngày, mười hai tháng làm thành một năm. Những chúng sinh này chịu đau khổ ở đó trong năm trăm năm như thế.
-
-1.1.2 Hắc Thằng Địa Ngục (*Phạn: Kalasutra* – Địa ngục dây sắt đen buộc kéo tội nhân)
-
-Ở đây những thuộc hạ của Diêm Vương (Yama) đặt các tội nhân trên nền kim khí nóng chảy như những khúc củi cháy dở và gạch lên thân họ những đường vạch đen - bốn, tám, mười sáu, ba mươi hai và v..v... – mà các thuộc hạ của Diêm Vương
+Bát hỏa địa ngục nằm chồng chất lên nhau như các tầng lầu của một toà nhà, từ Đẳng Hoạt địa ngục nằm cao nhất xuống tới Vô Gián địa ngục (A-Tì địa ngục) ở dưới cùng. Trong mỗi tầng địa ngục, mặt nền và vành đai đều nóng bỏng như sắt nung chảy ở lò rèn – không thể có chỗ nào có thể đặt chân an
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN I
 
@@ -4293,26 +4283,6 @@ Chưa làm chủ được những tri kiến riêng,
 Mà tìm kiếm những lỗi lầm nơi người khác,
 Đây là một sai lầm vô hạn.
 Mặc dù thuộc lòng mười hai loại giáo lý,
-
-LỜI VÀNG CỦA THẦY TÔI, PHẦN I
-
-Tỳ kheo Sunaksatra bị năng lực của cái ác chế ngự,
-Và nhìn thấy hành động của Đức Phật là giả dối.
-Hãy cẩn thận suy ngẫm về điều này và chỉnh sửa bản thân.
-
-Khi vị Thầy có vẻ giận dữ với bạn thì bạn không được tức giận. Thay vào đó, hãy tự nhắc rằng hẳn là Ngài đã thoáng nhận ra một lỗi lầm nào đó trong bạn và qua cơn thịnh nộ của Thầy thì hãy thấy rằng đây là lúc để chỉnh sửa lỗi lầm của mình. Khi cơn giận của Ngài giảm đi, hãy tới sám hối những lỗi lầm của bạn và hứa với Ngài là bạn sẽ không tái phạm nữa.
-
-Nếu Thầy của bạn nổi cơn thịnh nộ, hãy kết luận rằng Ngài đã nhìn thấy một lỗi lầm trong bạn.
-Đã tới lúc phải sửa sai bằng lời khiển trách của Ngài.
-Hãy sám hối và nguyện không bao giờ tái phạm.
-Như thế, người minh trí sẽ không rơi vào ảnh hưởng của Ma vương.
-
-Khi có mặt Thầy thì thay vì cứ ngồi yên vị, hãy lập tức đứng lên bất cứ khi nào Ngài còn đứng. Khi Ngài ngồi xuống, hãy vấn an sức khoẻ của Ngài. Khi bạn nghĩ có thể Ngài cần một điều gì đó, ngay lập tức hãy đem lại những gì làm Ngài vui lòng.
-
-Khi làm một thị giả đi theo vị Thầy, hãy tránh đừng đi phía trước Ngài bởi như thế bạn sẽ quay lưng của bạn lại với Ngài. Tuy nhiên không nên đi phía sau Ngài vì bạn có thể đạp lên dấu chân Ngài.* Bạn cũng không nên đi phía bên phải Ngài, vì đó là vị trí dành cho sự tôn kính. Thay vào đó, hãy kính cẩn đi bên trái và hơi lui lại phía sau Ngài. Nếu đường đi
-
-_________________
-\* Bởi vị Thầy tâm linh được xem là một vị Phật nên nơi nào Ngài bước chân lên (in dấu chân của Ngài) thì nơi đó được gia hộ.
 
 LỜI VÀNG CỦA THẦY TÔI, PHẦN I
 
@@ -8749,7 +8719,7 @@ Bất kỳ một ai có lòng quy ngưỡng và có mật nguyện hoàn hoàn t
 
 Ngay bây giờ, để giúp người nghe có thêm chút vui vẻ thư giãn cũng như vì một số lý do khác, những giải thích về lịch sử chào đời của giáo pháp nói chung, và của ba pháp tu “nội du già” (inner yogas) nói riêng, thường thường được đem ra trình bày ở đây một cách không quá vắn tắt mà cũng không quá tỉ mỉ. Do đó, bây giờ tôi sẽ giải thích một cách vắn tắt về lịch sử ra đời và truyền thừa của ba pháp tu “nội du già (inner yogas) của Cựu Phái Dịch Thuật (Old Translations), gồm có Mahāyoga, Anuyoga và Atiyoga, và làm thế nào mà ba pháp tu này – tương ứng với các giai đoạn phát triển, thành tựu và Đại Viên Mãn, đã được truyền xuống đến tận chúng ta ngày hôm nay. Có tất cả ba dòng truyền dạy khác nhau: (1) dòng tâm truyền (mind lineage) [hay biệt truyền] của các Đấng Chiến Thắng, (2) dòng truyền dạy qua biểu tượng (symbol lineage) của các bậc Minh Trì (Vidyādhara) và (3) dòng nhĩ truyền (hearing lineage) (hay khẩu truyền) của các chúng sinh bình thường.
 
-1. Dòng Tâm Truyền (Biệt Truyền) Của Các Đấng Chiến Thắng
+### 1. Dòng Tâm Truyền (Biệt Truyền) Của Các Đấng Chiến Thắng
 
 VI. PHÁP BỔN SƯ DU GIÀ (GURU YOGA)
 
