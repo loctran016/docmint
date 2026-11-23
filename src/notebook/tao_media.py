@@ -241,8 +241,12 @@ async def main():
     list_path, items = common.resolve_list(spec["feature_files"], args.file)
     print(f"Danh sách đang dùng: {list_path} ({len(items)} bài)")
 
-    root = common.get_out_root(args.out_root)
-    out_dir = root / spec["out_name"]
+    default_out = common.get_out_root() / spec["out_name"]
+    if args.out_root:
+        out_dir, out_default = common.get_out_root(args.out_root) / spec["out_name"], False
+    else:
+        out_dir, out_default = common.resolve_dir("tao_media_output", default_out)
+    common.announce_default_dirs([("tao_media_output", out_default)])
     only = common.parse_only(args.only)
     if args.test and not only:
         only = {1}

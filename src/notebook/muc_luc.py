@@ -159,7 +159,12 @@ def apply_toc(txt, target=None):
 async def main():
     args = parse_args()
     nb_id = common.read_notebook_id(args.notebook_id)
-    out_dir = common.get_out_root(args.out_root) / "muc_luc"
+    default_out = common.get_out_root() / "muc_luc"
+    if args.out_root:
+        out_dir, out_default = common.get_out_root(args.out_root) / "muc_luc", False
+    else:
+        out_dir, out_default = common.resolve_dir("muc_luc_output", default_out)
+    common.announce_default_dirs([("muc_luc_output", out_default)])
 
     async with NotebookLMClient.from_storage() as client:
         print("Đang nhờ NotebookLM đọc mục lục (có thể mất vài chục giây)...")

@@ -382,9 +382,9 @@ def make_groq(log=print):
 def parse_args(argv=None):
     root = common.get_out_root()
     ap = argparse.ArgumentParser(description="Biên tập văn phong bài giảng thô từ NotebookLM")
-    ap.add_argument("--in", dest="inp", default=str(Path(root) / "giang_bai"), help="file hoặc thư mục .md thô")
+    ap.add_argument("--in", dest="inp", help="file hoặc thư mục .md thô")
     ap.add_argument("--raw-dir", default=str(Path(root) / "raw"), help="nơi giữ bản thô (không bị ghi đè)")
-    ap.add_argument("--out", default=str(Path(root) / "polished"), help="thư mục kết quả")
+    ap.add_argument("--out", help="thư mục kết quả")
     ap.add_argument("--style", default=str(common.CONFIG_DIR / common.BIEN_TAP_STYLE_FILE.name),
                     help="file khung văn phong (system prompt)")
     ap.add_argument("--backend", choices=["api", "web"], default="api")
@@ -403,7 +403,16 @@ def parse_args(argv=None):
 def main(argv=None) -> int:
     common.load_project_env()
     args = parse_args(argv)
-    src = Path(args.inp)
+    src, in_default = common.resolve_dir(
+        "bien_tap_input", Path(common.get_out_root()) / "giang_bai", args.inp
+    )
+    out_dir, out_default = common.resolve_dir(
+        "bien_tap_output", Path(common.get_out_root()) / "polished", args.out
+    )
+    common.announce_default_dirs([
+        ("bien_tap_input", in_default),
+        ("bien_tap_output", out_default),
+    ])
     files = [src] if src.is_file() else sorted(src.glob("*.md")) if src.is_dir() else []
     files = [f for f in files if args.match.lower() in f.name.lower() and not f.name.startswith("_")]
     if not files:
@@ -419,7 +428,7 @@ def main(argv=None) -> int:
     system = style + CORE_RULES
     editor = make_editor(args)
     groq = make_groq()
-    out_dir, raw_dir = Path(args.out), Path(args.raw_dir)
+    raw_dir = Path(args.raw_dir)
     print(f"{len(files)} file | backend: {args.backend} | model: {getattr(editor, 'models', args.model or 'mặc định')}"
           f" | Groq dự phòng: {'có' if groq else 'không'}" + (" | CHẾ ĐỘ THỬ" if args.test else ""))
     report, bad = [], 0

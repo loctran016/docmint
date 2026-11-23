@@ -213,8 +213,8 @@ def main():
         env_delay = 4.0
 
     ap = argparse.ArgumentParser()
-    ap.add_argument("file", help="File slide .pptx / .ppt / .pdf")
-    ap.add_argument("-o", "--out", default=str(common.SLIDES_OUT_DIR),
+    ap.add_argument("file", nargs="?", help="File slide .pptx / .ppt / .pdf")
+    ap.add_argument("-o", "--out",
                     help="Thư mục xuất (mặc định: workspace/slides_out)")
     ap.add_argument("--delay", type=float, default=env_delay,
                     help="Giây nghỉ giữa 2 slide (mặc định 4, hoặc biến REQUEST_DELAY)")
@@ -235,13 +235,18 @@ def main():
     models = [m.strip() for m in args.model.split(",") if m.strip()]
     describer = Describer(genai.Client(api_key=api_key), models)
 
-    src = to_path(args.file)
+    src, in_default = common.resolve_dir("slides_to_md_input", common.SLIDES_OUT_DIR, args.file)
+    out_base, out_default = common.resolve_dir("slides_to_md_output", common.SLIDES_OUT_DIR, args.out)
+    common.announce_default_dirs([
+        ("slides_to_md_input", in_default),
+        ("slides_to_md_output", out_default),
+    ])
     if not src.exists():
         sys.exit(f"Không thấy file: {src}")
 
     stem = src.stem
     slug = re.sub(r"\s+", "_", stem)
-    out_dir = to_path(args.out) / stem
+    out_dir = out_base / stem
     cache = out_dir / ".cache"
     cache.mkdir(parents=True, exist_ok=True)
 

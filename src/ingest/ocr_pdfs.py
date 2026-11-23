@@ -46,8 +46,8 @@ def ocr_command():
 
 def main():
     ap = argparse.ArgumentParser(description="OCR hàng loạt PDF")
-    ap.add_argument("input_dir", nargs="?", default=str(common.INPUT_PDFS_DIR))
-    ap.add_argument("output_dir", nargs="?", default=str(common.OUTPUT_OCR_DIR))
+    ap.add_argument("input_dir", nargs="?")
+    ap.add_argument("output_dir", nargs="?")
     ap.add_argument("--langs", default=os.environ.get("OCR_LANGS", "vie+eng"),
                     help="ngôn ngữ OCR (mặc định vie+eng)")
     ap.add_argument("--jobs", type=int,
@@ -55,8 +55,12 @@ def main():
                     help="số luồng (mặc định tối đa 4)")
     args = ap.parse_args()
 
-    in_dir = Path(common.to_wsl_path(args.input_dir))
-    out_dir = Path(common.to_wsl_path(args.output_dir))
+    in_dir, in_default = common.resolve_dir("ocr_pdfs_input", common.INPUT_PDFS_DIR, args.input_dir)
+    out_dir, out_default = common.resolve_dir("ocr_pdfs_output", common.OUTPUT_OCR_DIR, args.output_dir)
+    common.announce_default_dirs([
+        ("ocr_pdfs_input", in_default, in_dir),
+        ("ocr_pdfs_output", out_default, out_dir),
+    ])
 
     # --- kiểm tra công cụ
     tess = common.find_tesseract()

@@ -18,6 +18,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+try:
+    import readline  # noqa: F401  (giúp input() sửa dòng đúng theo UTF-8)
+except ImportError:
+    pass
+
 ROOT_DIR = Path(__file__).resolve().parents[2]
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
@@ -65,9 +70,19 @@ GROUP_NAMES = {
 }
 
 
+def _fix_surrogates(text: str) -> str:
+    if not re.search(r"[\ud800-\udfff]", text):
+        return text
+    try:
+        return text.encode("utf-8", "surrogateescape").decode("utf-8")
+    except UnicodeDecodeError:
+        text = re.sub(r"[\ud800-\udfff]", "", text)
+        return unicodedata.normalize("NFC", text)
+
+
 def prompt_input(msg: str) -> str:
     print(msg, end="", flush=True)
-    return input()
+    return _fix_surrogates(input())
 
 
 def _strict_null(value: Any) -> Any:
@@ -631,8 +646,13 @@ def _export_exam(
         _normalize_exam_question_fields(question)
     issues = validate_exam_data(payload)
     if issues:
-        print("  ⚠ [Gate] JSON đề có cảnh báo bất thường; tạm dừng trước khi ghi file.", flush=True)
-        raise ValueError("Gate validation thất bại cho exam JSON; không ghi file")
+        print("  ⚠ [Gate] JSON đề có cảnh báo bất thường:", flush=True)
+        if isinstance(issues, list):
+            for issue in issues:
+                print(f"  - {issue}", flush=True)
+        else:
+            print(f"  - {issues}", flush=True)
+        print(f"  ⚠ Vẫn ghi file, hãy kiểm tra lại thủ công: {exam_path}", flush=True)
     exam_path.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -690,7 +710,13 @@ def _merge_bank(subject_dir: Path, subject: str, subject_label: str) -> None:
     bank = clean_exam_strings(bank)
     bank_issues = validate_exam_data(bank)
     if bank_issues:
-        raise ValueError("Gate validation thất bại cho bank.json; không ghi bank")
+        print("  ⚠ [Gate] bank.json có cảnh báo bất thường:", flush=True)
+        if isinstance(bank_issues, list):
+            for issue in bank_issues:
+                print(f"  - {issue}", flush=True)
+        else:
+            print(f"  - {bank_issues}", flush=True)
+        print(f"  ⚠ Vẫn ghi bank.json, hãy kiểm tra lại thủ công: {bank_path}", flush=True)
     bank_path.write_text(
         json.dumps(bank, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -956,8 +982,8 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Giải đề y khoa theo pipeline 5 bước và xuất JSON Isolde."
     )
-    parser.add_argument("--in", dest="input_path", type=Path, default=DEFAULT_INPUT)
-    parser.add_argument("--out", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument("--in", dest="input_path", type=Path)
+    parser.add_argument("--out", type=Path)
     parser.add_argument("--subject", default="")
     parser.add_argument("--formula-mode", choices=("calc_only", "all", "off"), default="")
     parser.add_argument("--yes", action="store_true", help="Bỏ gate xác nhận và prompt subject.")
@@ -979,8 +1005,21 @@ def parse_args() -> argparse.Namespace:
 
 
 def main() -> None:
+    for stream in (sys.stdin, sys.stdout, sys.stderr):
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8", errors="replace")
     args = parse_args()
-    input_path = args.input_path
+    args.subject = _fix_surrogates(args.subject)
+    input_path, in_default = common.resolve_dir(
+        "giai_de_input", DEFAULT_INPUT, str(args.input_path) if args.input_path else None
+    )
+    out_dir, out_default = common.resolve_dir(
+        "giai_de_output", DEFAULT_OUTPUT, str(args.out) if args.out else None
+    )
+    common.announce_default_dirs([
+        ("giai_de_input", in_default, input_path),
+        ("giai_de_output", out_default, out_dir),
+    ])
     supported = (".pdf", ".md", ".txt", ".docx")
     if input_path.is_file():
         found = [input_path] if input_path.suffix.lower() in supported else []
@@ -1016,6 +1055,8 @@ def main() -> None:
 
     formula_mode = args.formula_mode
     for pdf_path in pdfs:
+        if re.search(r"[\ud800-\udfff]", str(pdf_path)):
+            print(f"⚠ Tên file/thư mục chứa byte không phải UTF-8: {pdf_path!r}")
         subject, resolved = _resolve_subject(pdf_path, args.subject)
         subject_label = ""
         if not resolved:
@@ -1034,6 +1075,7 @@ def main() -> None:
                         f"Không có dữ liệu tương tác; dùng subject mặc định: {detected}"
                     )
                     answer = ""
+                answer = _fix_surrogates(answer)
                 subject_label = unicodedata.normalize(
                     "NFC",
                     answer or detect_subject_label(pdf_path, detected),
@@ -1068,13 +1110,14 @@ def main() -> None:
                 print()
                 print("Không có dữ liệu tương tác; dừng trước khi gọi API.")
                 raise SystemExit(1)
+            answer = _fix_surrogates(answer)
             if answer not in {"y", "yes", "có", "co"}:
                 print("Đã dừng trước khi gọi API.")
                 raise SystemExit(0)
 
         asyncio.run(solve_exam_async(
             pdf_path,
-            args.out,
+            out_dir,
             subject,
             subject_label,
             mode,

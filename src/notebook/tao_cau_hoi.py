@@ -143,8 +143,12 @@ async def main():
     list_path, items = common.resolve_list(FEATURE_FILES, args.file)
     print(f"Danh sách đang dùng: {list_path} ({len(items)} bài)")
 
-    root = common.get_out_root(args.out_root)
-    out_dir = root / OUT_NAME
+    default_out = common.get_out_root() / OUT_NAME
+    if args.out_root:
+        out_dir, out_default = common.get_out_root(args.out_root) / OUT_NAME, False
+    else:
+        out_dir, out_default = common.resolve_dir("tao_cau_hoi_output", default_out)
+    common.announce_default_dirs([("tao_cau_hoi_output", out_default)])
     only = common.parse_only(args.only)
     if args.test and not only:
         only = {1}

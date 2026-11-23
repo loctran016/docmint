@@ -67,8 +67,12 @@ async def main():
     list_path, items = common.resolve_list([common.GIANG_BAI_FILE.name], args.file)
     print(f"Danh sách đang dùng: {list_path} ({len(items)} bài) | chế độ: {MODE_LABEL[args.mode]}")
 
-    root = common.get_out_root(args.out_root)
-    out_dir = root / OUT_NAME / args.mode
+    default_out = common.get_out_root() / OUT_NAME / args.mode
+    if args.out_root:
+        out_dir, out_default = common.get_out_root(args.out_root) / OUT_NAME / args.mode, False
+    else:
+        out_dir, out_default = common.resolve_dir("giang_bai_output", default_out)
+    common.announce_default_dirs([("giang_bai_output", out_default)])
     state = common.State(out_dir / ".state.json")
     only = common.parse_only(args.only)
     if args.test and not only:

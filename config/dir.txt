@@ -1,0 +1,24 @@
+# Cấu hình thư mục Input/Output cho các lệnh trong Docmint.
+# Để trống giá trị sau dấu "=" để dùng thư mục mặc định trong workspace/.
+# Có thể dùng đường dẫn tuyệt đối, đường dẫn tương đối tính từ thư mục toolkit,
+# hoặc đường dẫn Windows dạng C:\Users\...\ (dùng được cả trên WSL).
+# Có thể sửa trực tiếp file này hoặc chọn mục 23 trong menu chính.
+
+ocr_pdfs_input=
+ocr_pdfs_output=
+process_book_input=
+process_book_output=
+giai_de_input=
+giai_de_output=
+bien_tap_input=
+bien_tap_output=
+slides_to_md_input=
+slides_to_md_output=
+build_transcript_input=
+build_transcript_output=
+giang_bai_output=
+tao_cau_hoi_output=
+tao_media_output=
+ask_notebook_output=
+generate_artifacts_output=
+muc_luc_output=

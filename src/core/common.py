@@ -135,16 +135,96 @@ CITE_RE = re.compile(r"\s?\[(\d+(?:\s*[,\-–]\s*\d+)*)\]")
 
 
 # ------------------------------------------------------------ đường dẫn / cấu hình
-def to_wsl_path(p):
-    """Bỏ dấu nháy và mở rộng ~. Trên WSL/Linux đổi C:\\... sang /mnt/c/...; trên Windows giữ nguyên."""
-    p = p.strip().strip('"').strip("'")
+def to_wsl_path(raw) -> Path:
+    """Bỏ dấu nháy và đổi đường dẫn Windows sang dạng dùng được trên WSL/Linux."""
+    p = str(raw).strip().strip('"').strip("'")
     if not IS_WIN and re.match(r"^[A-Za-z]:[\\/]", p):
         try:
-            return subprocess.run(["wslpath", "-u", p], capture_output=True,
-                                  text=True, check=True).stdout.strip()
+            converted = subprocess.run(
+                ["wslpath", "-u", p], capture_output=True, text=True, check=True
+            ).stdout.strip()
+            return Path(converted)
         except Exception:  # noqa: BLE001
-            return p
-    return os.path.expanduser(p)
+            drive, rest = p[0].lower(), p[2:].replace("\\", "/")
+            return Path(f"/mnt/{drive}/{rest.lstrip('/')}")
+    return Path(os.path.expanduser(p))
+
+
+DIR_CONFIG_FILE = CONFIG_DIR / "dir.txt"
+
+
+def read_dir_config() -> dict[str, str]:
+    """Đọc cấu hình thư mục, bỏ qua dòng trống, chú thích và dòng không hợp lệ."""
+    values: dict[str, str] = {}
+    try:
+        lines = DIR_CONFIG_FILE.read_text(encoding="utf-8-sig").splitlines()
+    except FileNotFoundError:
+        return values
+    for raw_line in lines:
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        if not key:
+            continue
+        values[key] = value.strip().strip('"').strip("'")
+    return values
+
+
+def write_dir_config(key: str, value: str) -> None:
+    """Cập nhật một key trong dir.txt bằng thao tác ghi nguyên tử."""
+    if not re.fullmatch(r"[A-Za-z_][A-Za-z0-9_]*", key):
+        raise ValueError(f"Key thư mục không hợp lệ: {key!r}")
+    DIR_CONFIG_FILE.parent.mkdir(parents=True, exist_ok=True)
+    original = DIR_CONFIG_FILE.read_text(encoding="utf-8") if DIR_CONFIG_FILE.exists() else ""
+    lines = original.splitlines(keepends=True)
+    replacement = f"{key}={value}\n"
+    found = False
+    for index, line in enumerate(lines):
+        if line.lstrip().startswith("#") or "=" not in line:
+            continue
+        line_key = line.split("=", 1)[0].strip()
+        if line_key == key:
+            newline = "\n" if line.endswith("\n") else ""
+            lines[index] = replacement.rstrip("\n") + newline
+            found = True
+            break
+    if not found:
+        if lines and not lines[-1].endswith("\n"):
+            lines[-1] += "\n"
+        lines.append(replacement)
+    temp = DIR_CONFIG_FILE.with_name(f".{DIR_CONFIG_FILE.name}.tmp")
+    temp.write_text("".join(lines), encoding="utf-8")
+    os.replace(temp, DIR_CONFIG_FILE)
+
+
+def resolve_dir(key: str, default: Path, cli_value: str | None = None) -> tuple[Path, bool]:
+    """Ưu tiên CLI, sau đó dir.txt, cuối cùng là thư mục mặc định."""
+    raw = cli_value if cli_value is not None else read_dir_config().get(key, "")
+    if raw:
+        path = to_wsl_path(raw)
+        if not path.is_absolute():
+            path = ROOT_DIR / path
+        return path, False
+    return Path(default), True
+
+
+def announce_default_dirs(items) -> None:
+    """Thông báo gộp các thư mục đang dùng mặc định."""
+    defaults = [item for item in items if item[1]]
+    if not defaults:
+        return
+    labels = []
+    for key, *_ in defaults:
+        labels.append("input" if key.endswith("_input") else "output")
+    keys = ", ".join(item[0] for item in defaults)
+    paths = ", ".join(str(item[2]) if len(item) > 2 else item[0] for item in defaults)
+    label = "/".join(dict.fromkeys(labels))
+    print(
+        f"ℹ Đang sử dụng directory cho {label} mặc định ({paths}). "
+        f"Nếu muốn, hãy sửa giá trị {keys} trong file config/dir.txt hoặc chọn mục 23 để sửa."
+    )
 
 
 def get_out_root(cli_value=None):

@@ -272,10 +272,12 @@ def main(argv=None):
     ap.add_argument("mode", choices=["clean"])
     ap.add_argument("video_id", help="ID video (file .cache/transcripts/raw/<id>.json)")
     ap.add_argument("--slides", help="file Markdown slide (*.notebooklm.md) để đối chiếu thuật ngữ")
-    ap.add_argument("--out", default=str(common.TRANSCRIPTS_DIR))
+    ap.add_argument("--out")
     ap.add_argument("--no-clean", action="store_true", help="không gọi Gemini, chỉ xuất bản thô")
     args = ap.parse_args(argv)
     common.load_project_env()
+    out_dir, out_default = common.resolve_dir("build_transcript_output", common.TRANSCRIPTS_DIR, args.out)
+    common.announce_default_dirs([("build_transcript_output", out_default)])
     raw = load_raw(args.video_id)
     if raw is None:
         print(f"Không thấy cache thô cho {args.video_id}. Chạy get_medical_transcript.py trước.")
@@ -284,7 +286,7 @@ def main(argv=None):
     if cleaner is None and not args.no_clean:
         print("Chưa có GEMINI_API_KEYS/GEMINI_API_KEY: xuất bản thô.")
     body, notes = clean_raw(raw, cleaner, load_slides(args.slides))
-    path = write_clean_markdown(args.out, raw, body, notes, cleaner is not None)
+    path = write_clean_markdown(out_dir, raw, body, notes, cleaner is not None)
     print(f"Đã tạo {path}")
     return 0
 

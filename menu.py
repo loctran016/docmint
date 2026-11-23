@@ -452,7 +452,7 @@ def run_md(*extra):
         flags += ["--model", S["md_model"]]
     if S["md_out"]:
         flags += ["--out", S["md_out"]]
-    return exec_uv("src/ingest/process_book.py", *flags, *extra)
+    return exec_uv("src/ingest/process_book.py", *flags, *(x for x in extra if x))
 
 
 def md_ask_input():
@@ -460,7 +460,7 @@ def md_ask_input():
     print("   - Enter để dùng thư mục input_pdfs/ trong toolkit")
     print("   - hoặc dán/kéo thả đường dẫn (dạng C:\\... của Windows cũng được)")
     print("   - có thể trỏ vào output_ocr/ nếu muốn dùng bản đã OCR\n")
-    p = ask("  Đường dẫn: ") or str(common.DEFAULT_INPUT_PDFS)
+    p = ask("  Đường dẫn: ")
     if p == common.INPUT_PDFS_DIR.name:
         d = common.DEFAULT_INPUT_PDFS
         d.mkdir(exist_ok=True)
@@ -947,6 +947,72 @@ def open_menu():
             return
 
 
+# ------------------------------------------------------------------ 23. thư mục input/output
+def dir_specs():
+    root = out_root()
+    return [
+        ("ocr_pdfs", "OCR PDF", [("input", common.INPUT_PDFS_DIR), ("output", common.OUTPUT_OCR_DIR)]),
+        ("process_book", "PDF → Markdown", [("input", common.DEFAULT_INPUT_PDFS), ("output", common.DEFAULT_OUTPUT_MD)]),
+        ("giai_de", "Giải đề y khoa", [("input", common.DE_THI_DIR), ("output", common.GIAI_DE_DIR)]),
+        ("bien_tap", "Biên tập văn phong", [("input", root / "raw"), ("output", root / "polished")]),
+        ("slides_to_md", "Slide → Markdown", [("input", common.SLIDES_OUT_DIR), ("output", common.SLIDES_OUT_DIR)]),
+        ("build_transcript", "Làm sạch transcript", [("input", common.TRANSCRIPTS_DIR), ("output", common.TRANSCRIPTS_DIR)]),
+        ("giang_bai", "Giảng bài", [("output", root / "giang_bai")]),
+        ("tao_cau_hoi", "Tạo câu hỏi", [("output", root / "cau_hoi")]),
+        ("tao_media", "Tạo media", [("output", root)]),
+        ("ask_notebook", "Hỏi NotebookLM", [("output", root)]),
+        ("generate_artifacts", "Tạo artifact", [("output", root / "artifacts_nguon")]),
+        ("muc_luc", "Mục lục", [("output", root / "muc_luc")]),
+    ]
+
+
+def dir_menu():
+    while True:
+        clear()
+        specs = dir_specs()
+        values = common.read_dir_config()
+        draw_menu("SỬA THƯ MỤC INPUT/OUTPUT", [
+            "INFO:Enter để dùng thư mục mặc định; đường dẫn tương đối tính từ toolkit",
+            "INFO:Có thể dán/kéo thả đường dẫn Windows dạng C:\\...",
+            "MID",
+            *[f"{i}|{label}" for i, (_, label, _) in enumerate(specs, 1)],
+            "SEP", "0|Quay lại menu chính",
+        ])
+        choice = ask("  Chọn lệnh cần sửa: ").lower()
+        if choice in ("0", "q"):
+            return
+        if not choice.isdigit() or not 1 <= int(choice) <= len(specs):
+            continue
+        key_base, label, fields = specs[int(choice) - 1]
+        clear()
+        print(f"{B}== {label} =={R}\n")
+        for field, default in fields:
+            key = f"{key_base}_{field}"
+            current = values.get(key, "")
+            print(f"  {field.upper()}: {current or '(mặc định)'}")
+            print(f"  Nhập thư mục {field} (Enter = {default}):")
+            raw = ask("  Đường dẫn: ")
+            if not raw:
+                common.write_dir_config(key, "")
+                print(f"  Đã lưu: {key}=(mặc định)")
+                continue
+            path = common.to_wsl_path(raw)
+            if field == "input" and not path.is_dir():
+                print(f"  {RD}Thư mục input không tồn tại:{R} {path}")
+                continue
+            if field == "output" and not path.exists():
+                if ask(f"  Thư mục chưa có. Tạo {path}? [y/N] ").lower().startswith("y"):
+                    path.mkdir(parents=True, exist_ok=True)
+                else:
+                    continue
+            if not path.is_dir():
+                print(f"  {RD}Đường dẫn không phải thư mục:{R} {path}")
+                continue
+            common.write_dir_config(key, str(path))
+            print(f"  Đã lưu: {key}={path}")
+        pause()
+
+
 # ------------------------------------------------------------------ menu chính
 def handle_pending_feature(title):
     clear()
@@ -1023,6 +1089,7 @@ def main_menu():
         "20": set_id,
         "21": status,
         "22": open_menu,
+        "23": dir_menu,
     }
     while True:
         clear()
@@ -1061,9 +1128,10 @@ def main_menu():
             "20|Đặt ID notebook",
             "21|Kiểm tra trạng thái",
             "22|Mở thư mục",
+            "23|Sửa thư mục Input/Output",
             "SEP",
             "0|Thoát"])
-        ch = ask("  Nhập lựa chọn của bạn [0-22] : ").lower()
+        ch = ask("  Nhập lựa chọn của bạn [0-23] : ").lower()
         if ch in ("0", "q"):
             print()
             return

@@ -198,14 +198,7 @@ def nfc(s: str) -> str:
     return unicodedata.normalize("NFC", s)
 
 
-def to_wsl_path(raw: str) -> Path:
-    """Bỏ dấu nháy; trên WSL/Linux đổi C:\\... sang /mnt/c/...; trên Windows giữ nguyên."""
-    s = raw.strip().strip('"').strip("'")
-    if os.name != "nt":
-        m = re.match(r"^([A-Za-z]):[\\/](.*)$", s)
-        if m:
-            s = f"/mnt/{m.group(1).lower()}/" + m.group(2).replace("\\", "/")
-    return Path(s).expanduser()
+to_wsl_path = common.to_wsl_path
 
 
 def natural_key(p: Path):
@@ -1444,8 +1437,12 @@ def main() -> int:
                 log("  " + name.replace("models/", ""))
         return 0
 
-    out_dir = to_wsl_path(args.out) if args.out else DEFAULT_OUT
-    target = to_wsl_path(args.input) if args.input else DEFAULT_IN
+    target, in_default = common.resolve_dir("process_book_input", DEFAULT_IN, args.input)
+    out_dir, out_default = common.resolve_dir("process_book_output", DEFAULT_OUT, args.out)
+    common.announce_default_dirs([
+        ("process_book_input", in_default, target),
+        ("process_book_output", out_default, out_dir),
+    ])
     pdfs = find_pdfs(target, args.book)
     if not pdfs:
         log(f"Không thấy file PDF nào ở: {target}"

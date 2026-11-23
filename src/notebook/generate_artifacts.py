@@ -142,7 +142,12 @@ def parse_args():
 async def main():
     args = parse_args()
     nb = resolve_notebook(args.notebook)
-    out_dir = common.get_out_root(args.out_root) / "artifacts_nguon" / args.kind
+    default_out = common.get_out_root() / "artifacts_nguon" / args.kind
+    if args.out_root:
+        out_dir, out_default = common.get_out_root(args.out_root) / "artifacts_nguon" / args.kind, False
+    else:
+        out_dir, out_default = common.resolve_dir("generate_artifacts_output", default_out)
+    common.announce_default_dirs([("generate_artifacts_output", out_default)])
     out_dir.mkdir(parents=True, exist_ok=True)
 
     async with NotebookLMClient.from_storage() as client:
