@@ -1080,7 +1080,7 @@ def main_menu():
         "11": lambda: feature_menu("infographic"),
         "12": lambda: feature_menu("video"),
         "13": lambda: exec_uv("src/menus/menu_bien_tap.py"),
-        "14": lambda: handle_pending_feature("Tạo bộ câu hỏi theo chủ đề"),
+        "14": lambda: exec_uv("src/llm/cau_hoi_llm.py"),
         "15": run_exam_solver,
         "16": lambda: handle_pending_feature("Tạo Anki, Flashcard"),
         "17": lambda: handle_pending_feature("Đang chờ update"),
