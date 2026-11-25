@@ -74,7 +74,8 @@ Yêu cầu xác thực:
 12. [PDF → Markdown bằng Gemini (mục [15])](#12-pdf--markdown-bằng-gemini-menu-mục-15)
 13. [Nguồn giáo viên: transcript, slide, giảng theo nguồn (mục [16])](#13-nguồn-giáo-viên-menu-mục-16)
 14. [Giảng bài / câu hỏi tự động trên GitHub Actions](#14-giảng-bài--câu-hỏi-tự-động-trên-github-actions)
-15. [Biên tập văn phong (menu mục [17])](#15-biên-tập-văn-phong-menu-mục-17)
+15. [Biên tập văn phong (menu mục [13])](#15-biên-tập-văn-phong-menu-mục-13)
+16. [Phân tích bệnh án sinh viên (menu mục [17])](#16-phân-tích-bệnh-án-sinh-viên-menu-mục-17)
 
 ---
 
@@ -126,7 +127,7 @@ bash menu.sh
 │ [8] Tạo Mindmap                                                │
 │ [9] Tạo Infographic                                            │
 │ [10] Tạo Video                                                 │
-│ [17] Biên tập văn phong (lớp viết lại bài giảng)               │
+│ [17] Phân tích bệnh án sinh viên                               │
 │                        ────────────────                        │
 │ [11] Obsidian: đồng bộ vào vault                               │
 │ [12] Đặt ID notebook                                           │
@@ -691,7 +692,7 @@ Workflow **ghi đè `giang_bai.txt`** trên máy chạy bằng danh sách này (
 
 ---
 
-## 15. Biên tập văn phong (menu mục [17])
+## 15. Biên tập văn phong (menu mục [13])
 
 NotebookLM rất giỏi lôi đúng dữ kiện từ sách nhưng văn phong rời rạc, nhiều gạch đầu dòng. Lớp này viết lại bài giảng thô thành văn phong sách giáo khoa bằng API riêng, **tách biệt** khỏi bước hút dữ liệu (không đụng tới phiên đăng nhập NotebookLM).
 
@@ -700,7 +701,7 @@ ket_qua/giang_bai/*.md   (thô, KHÔNG bị sửa)  ->  ket_qua/raw/       bản
                                               ->  ket_qua/polished/  bản đã biên tập (+ _bao_cao.md)
 ```
 
-Chạy: menu `[17]`, hoặc `uv run bien_tap.py` (`--test` thử 2 phần đầu và in ra, `--match` chọn file, `--force` bỏ cache).
+Chạy: menu `[13]` hoặc `uv run src/menus/menu_bien_tap.py`.
 
 **Cách để không sót ý**
 - Cắt theo từng mục `## `, rồi cắt tiếp thành phần khoảng 700 từ (`--max-words`); mỗi lần gọi chỉ biên tập một phần. Bảng, khối mã, `[[wikilink]]` được giữ nguyên.
@@ -713,3 +714,9 @@ Chạy: menu `[17]`, hoặc `uv run bien_tap.py` (`--test` thử 2 phần đầu
 **Model:** mặc định `gemini-3.8-flash`, `gemini-3.6-flash`, rồi `gemini-3.5-flash-lite`, `gemini-3.1-flash-lite` (đổi bằng `BIEN_TAP_MODEL` hoặc `--model`). Flash lớn đứng trước vì Flash-Lite dễ viết lướt. Mức suy luận `--thinking medium` (minimal, low, medium, high): script chỉ gửi tham số nếu SDK hỗ trợ và tự bỏ nếu model từ chối; mình chưa kiểm chứng với từng model.
 
 **Backend web (tuỳ chọn, `--backend web`):** dùng thư viện không chính thức `gemini-webapi` với cookie tài khoản Google để tận dụng gói Pro. Chạy bằng `uv run --with gemini-webapi bien_tap.py --backend web` (cần Python 3.11 trở lên), đặt `GEMINI_SECURE_1PSID` và `GEMINI_SECURE_1PSIDTS` trong `.env`. Mỗi lần gọi dùng `temporary=True` nên không làm rác lịch sử chat; `--gem "tên"` để dùng Gem. Chạy tuần tự, nghỉ 15 đến 25 giây giữa các lần. Chỉ nên chạy trên máy cá nhân, không đưa cookie lên GitHub Actions; thư viện này không do Google hỗ trợ nên có thể hỏng khi giao diện web đổi, và việc dùng nó có rủi ro với tài khoản. Phần này mình viết theo README của thư viện, chưa chạy thật.
+
+## 16. Phân tích bệnh án sinh viên (menu mục [17])
+
+Chọn file bệnh án `.pdf`, `.txt` hoặc `.md`; nhập các lý do nhập viện/triệu chứng cách nhau bằng dấu phẩy, hoặc để trống để pipeline tự nhận diện. Chọn mức suy luận `high`/`max` (mặc định `max`) và thư mục kết quả (mặc định `workspace/ket_qua/benh_an_sv/`). Kết quả được lưu trong thư mục con mang tên file bệnh án; mở `04_gui_claude.md` để dán sang Claude kiểm tra chéo.
+
+PDF phải có lớp chữ. Nếu là PDF scan, hãy chạy OCR trước bằng menu `[4]` rồi chọn bản đã OCR. Cần cấu hình `DEEPSEEK_API_KEY` trong `.env` hoặc biến môi trường; `DEEPSEEK_MODEL` là tuỳ chọn để đổi model (mặc định `deepseek-v4-flash`). Các phụ thuộc `PyMuPDF` và `openai` được cài qua `uv`.

@@ -1,0 +1,16 @@
+# GIÁO TRÌNH: danh sách chương và bài của sách, dùng chung cho mọi chức năng.
+# - Dòng "## Tên chương" (hoặc "# Chương 1 ...", "# Phần II ...") là tên chương/phần, dùng để nhóm bài trong Obsidian.
+# - Các dòng khác bắt đầu bằng # là chú thích. Mỗi dòng còn lại là MỘT BÀI, tên đúng như mục lục sách.
+# - Sau tên bài có thể thêm, cách nhau bằng dấu | (thứ tự nào cũng được):
+#     lưu ý riêng bằng chữ thường; cờ tomtat / khongtomtat / cauhoi / khongcauhoi (cho chức năng giảng bài);
+#     tùy chọn key=value: tn= tl= kho= (câu hỏi), style= orientation= ... (video, infographic).
+# - Mỗi chức năng đọc file riêng của nó trước (giang_bai.txt, cau_hoi.txt, mindmaps.txt, infographics.txt, videos.txt);
+#   file riêng chưa có bài nào thì dùng danh sách chung này.
+# - Mẹo: trong menu chọn "Kiểm tra sách" để NotebookLM tự đọc mục lục rồi ghi vào file này.
+
+## CHƯƠNG 1: GIỚI THIỆU VỀ KHOA HỌC DINH DƯỠNG
+Bài 1. Dinh dưỡng và sức khỏe
+Liên hệ thực tế 1: Dinh dưỡng lâm sàng, định nghĩa, đào tạo, lịch sử | tóm gọn, không cần giảng sâu | khongcauhoi
+
+## CHƯƠNG 2: CÁC DƯỠNG CHẤT TRONG DINH DƯỠNG
+Bài 2. Carbohydrate, lipid, protid | giảng kỹ phần chuyển hóa và so sánh các nhóm chất

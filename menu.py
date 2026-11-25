@@ -1021,6 +1021,55 @@ def handle_pending_feature(title):
     pause()
 
 
+def run_benh_an_sv():
+    clear()
+    print(f"{B}== Phân tích bệnh án sinh viên =={R}\n")
+    raw_case = ask("  Đường dẫn file bệnh án (.pdf/.txt/.md; có thể dán/kéo thả): ")
+    if not raw_case:
+        print("  Đã hủy, chưa chọn file bệnh án.")
+        return
+    case_path = common.to_wsl_path(raw_case)
+    if not case_path.is_absolute():
+        case_path = common.ROOT_DIR / case_path
+    if not case_path.is_file():
+        print(f"  {RD}Không tìm thấy file:{R} {case_path}")
+        return
+    if case_path.suffix.lower() not in {".pdf", ".txt", ".md"}:
+        print(f"  {RD}Định dạng không hỗ trợ.{R} Chỉ nhận file .pdf, .txt hoặc .md.")
+        return
+
+    symptoms_input = ask(
+        "  Triệu chứng chỉ định (tên cách nhau dấu phẩy, Enter = tự chọn theo lý do nhập viện): "
+    )
+    ly_do = ""
+    if not symptoms_input:
+        ly_do = ask("  Lý do nhập viện nhập tay (Enter = tự tách từ bệnh án): ")
+
+    effort = ask("  Mức suy luận [high/max] (Enter = max): ").lower() or "max"
+    while effort not in {"high", "max"}:
+        print("  Hãy nhập high hoặc max.")
+        effort = ask("  Mức suy luận [high/max] (Enter = max): ").lower() or "max"
+
+    default_out = common.KET_QUA_DIR / "benh_an_sv"
+    raw_out = ask(f"  Thư mục kết quả (Enter = {default_out}): ")
+    out_dir = common.to_wsl_path(raw_out) if raw_out else default_out
+    if not out_dir.is_absolute():
+        out_dir = common.ROOT_DIR / out_dir
+
+    args = ["-m", "src.llm.benh_an_sv", str(case_path),
+            "--out", str(out_dir), "--effort", effort]
+    if symptoms_input:
+        args += ["--symptoms", symptoms_input]
+    elif ly_do:
+        args += ["--ly-do", ly_do]
+    if ask("  Chạy lại từ đầu, bỏ kết quả cũ? [y/N] ").lower().startswith("y"):
+        args.append("--force")
+
+    rc = exec_uv(*args)
+    if rc == 0:
+        print(f"\n  Kết quả nằm trong: {out_dir / case_path.stem}")
+        print("  Mở file 04_gui_claude.md để dán sang Claude kiểm tra chéo.")
+
 def run_exam_solver():
     common.DE_THI_DIR.mkdir(parents=True, exist_ok=True)
     clear()
@@ -1083,7 +1132,7 @@ def main_menu():
         "14": lambda: exec_uv("src/llm/cau_hoi_llm.py"),
         "15": run_exam_solver,
         "16": lambda: handle_pending_feature("Tạo Anki, Flashcard"),
-        "17": lambda: handle_pending_feature("Đang chờ update"),
+        "17": run_benh_an_sv,
         "18": lambda: handle_pending_feature("Đang chờ update"),
         "19": obsidian_menu,
         "20": set_id,
@@ -1120,7 +1169,7 @@ def main_menu():
             "14|Tạo bộ câu hỏi theo chủ đề",
             "15|Giải đề y khoa — 5 bước (NotebookLM + LLM)",
             "16|Tạo Anki, Flashcard",
-            "17|Đang chờ update",
+            "17|Phân tích bệnh án sinh viên",
             "18|Đang chờ update",
             "MID",
             "CTR:── ĐỒNG BỘ & TIỆN ÍCH ──",

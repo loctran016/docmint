@@ -1,16 +1,30 @@
-# GIÁO TRÌNH: danh sách chương và bài của sách, dùng chung cho mọi chức năng.
-# - Dòng "## Tên chương" (hoặc "# Chương 1 ...", "# Phần II ...") là tên chương/phần, dùng để nhóm bài trong Obsidian.
-# - Các dòng khác bắt đầu bằng # là chú thích. Mỗi dòng còn lại là MỘT BÀI, tên đúng như mục lục sách.
-# - Sau tên bài có thể thêm, cách nhau bằng dấu | (thứ tự nào cũng được):
-#     lưu ý riêng bằng chữ thường; cờ tomtat / khongtomtat / cauhoi / khongcauhoi (cho chức năng giảng bài);
-#     tùy chọn key=value: tn= tl= kho= (câu hỏi), style= orientation= ... (video, infographic).
-# - Mỗi chức năng đọc file riêng của nó trước (giang_bai.txt, cau_hoi.txt, mindmaps.txt, infographics.txt, videos.txt);
-#   file riêng chưa có bài nào thì dùng danh sách chung này.
-# - Mẹo: trong menu chọn "Kiểm tra sách" để NotebookLM tự đọc mục lục rồi ghi vào file này.
+# Mục lục đọc tự động từ NotebookLM ngày 25/11/2026 05:35
+# Dòng '## ...' là tên chương/phần (nhóm bài trong Obsidian). Mỗi dòng còn lại là một bài.
+# Có thể thêm sau tên bài: | lưu ý riêng | tn=15 | style=whiteboard ... hoặc xóa bài không cần.
 
-## CHƯƠNG 1: GIỚI THIỆU VỀ KHOA HỌC DINH DƯỠNG
-Bài 1. Dinh dưỡng và sức khỏe
-Liên hệ thực tế 1: Dinh dưỡng lâm sàng, định nghĩa, đào tạo, lịch sử | tóm gọn, không cần giảng sâu | khongcauhoi
+## PHẦN I: BÀI CHÍNH
+BÀI 1: VIÊM RUỘT THỪA CẤP
+BÀI 2: THỦNG Ổ LOÉT DẠ DÀY TÁ TRÀNG
+BÀI 3: HỘI CHỨNG Ứ ĐỌNG DẠ DÀY - HẸP MÔN VỊ
+BÀI 4: TẮC RUỘT CƠ HỌC
+BÀI 5: CHẤN THƯƠNG GAN
+BÀI 6: CHẤN THƯƠNG LÁCH
+BÀI 7: UNG THƯ THỰC QUẢN
+BÀI 8: CO THẮT TÂM VỊ
+BÀI 9: UNG THƯ DẠ DÀY
+BÀI 10: UNG THƯ ĐẠI TRÀNG
+BÀI 11: UNG THƯ TRỰC TRÀNG
+BÀI 12: VIÊM TÚI THỪA ĐẠI TRÀNG
+BÀI 13: SỎI ĐƯỜNG MẬT CHÍNH
+BÀI 14: SỎI TÚI MẬT
+BÀI 15: UNG THƯ QUANH BÓNG VATER
+BÀI 16: UNG THƯ TẾ BÀO GAN
+BÀI 17: THOÁT VỊ BẸN ĐÙI
+BÀI 18: ÁP XE CẠNH HẬU MÔN
+BÀI 19: RÒ HẬU MÔN
+BÀI 20: BỆNH TRĨ
 
-## CHƯƠNG 2: CÁC DƯỠNG CHẤT TRONG DINH DƯỠNG
-Bài 2. Carbohydrate, lipid, protid | giảng kỹ phần chuyển hóa và so sánh các nhóm chất
+## PHẦN II: BÀI ĐỌC THÊM
+BÀI 21: VIÊM TỤY MẠN – SỎI TỤY
+BÀI 22: BỆNH ĐA POLYP ỐNG TIÊU HÓA
+BÀI 23: U MÔ ĐỆM ĐƯỜNG TIÊU HÓA

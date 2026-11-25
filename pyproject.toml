@@ -9,10 +9,11 @@ dependencies = [
     "notebooklm-py",
     "Pillow",
     "pypdf",
-    "PyMuPDF",
+    "pymupdf",
     "python-dotenv",
     "pyspellchecker",
     "yt-dlp",
+    "openai>=3.58.0",
 ]
 
 [tool.pytest.ini_options]
