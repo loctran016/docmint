@@ -26,6 +26,7 @@ import json
 import logging
 import os
 import re
+import sys
 import time
 import unicodedata
 from collections import Counter
@@ -35,6 +36,11 @@ from pathlib import Path
 from typing import Callable, Optional, Protocol
 
 log = logging.getLogger(__name__)
+
+
+def clean_text(s: str) -> str:
+    return s.encode("utf-8", "surrogateescape").decode("utf-8", "ignore")
+
 
 __all__ = [
     "BenhAnError",
@@ -100,13 +106,39 @@ class PipelineResult:
 # ------------------------------------------------------------------ DeepSeek
 
 
+def _load_dotenv() -> None:
+    candidates = (Path.cwd() / ".env", Path(__file__).resolve().parents[2] / ".env")
+    seen: set[Path] = set()
+    for path in candidates:
+        path = path.resolve()
+        if path in seen or not path.is_file():
+            continue
+        seen.add(path)
+        for line in path.read_text(encoding="utf-8-sig").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            if line.startswith("export "):
+                line = line[7:].lstrip()
+            if "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            key = key.strip()
+            value = value.strip()
+            if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
+                value = value[1:-1]
+            if key:
+                os.environ.setdefault(key, value)
+
+
 def make_deepseek_llm(cfg: Config) -> LLMFn:
     """Client DeepSeek mặc định (API tương thích OpenAI). Thay bằng client sẵn có nếu docmint đã có."""
-    from openai import OpenAI
-
+    _load_dotenv()
     api_key = os.getenv("DEEPSEEK_API_KEY")
     if not api_key:
         raise BenhAnError("Thiếu biến môi trường DEEPSEEK_API_KEY.")
+    from openai import OpenAI
+
     client = OpenAI(
         api_key=api_key,
         base_url=os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com"),
@@ -155,11 +187,30 @@ _PUA = re.compile(r"[\ue000-\uf8ff]")  # ký tự private-use (bullet Symbol/Win
 
 
 def _default_pdf_pages(path: Path) -> list[str]:
-    import pymupdf as fitz  # PyMuPDF
+    try:
+        import pymupdf as fitz
+    except ModuleNotFoundError:
+        try:
+            import fitz
+        except ModuleNotFoundError as exc:
+            raise BenhAnError(
+                "Thiếu thư viện PyMuPDF. Chạy ở thư mục gốc repo:  uv add pymupdf"
+            ) from exc
 
-    with fitz.open(str(path)) as doc:
-        return [page.get_text("text", sort=True) for page in doc]
+    try:
+        from src.core import pdf_utils
+    except ModuleNotFoundError as exc:
+        if exc.name in {"pymupdf", "fitz"}:
+            raise BenhAnError(
+                "Thiếu thư viện PyMuPDF. Chạy ở thư mục gốc repo:  uv add pymupdf"
+            ) from exc
+        raise
 
+    try:
+        with pdf_utils.open_pdf(path) as document:
+            return [page.get_text("text", sort=True) for page in document]
+    except pdf_utils.PDFError as exc:
+        raise BenhAnError(f"Không đọc được PDF: {exc}") from exc
 
 def _normalize_page(text: str) -> str:
     text = text.replace("\u00a0", " ").replace("\u200b", "")
@@ -257,7 +308,7 @@ def _read(path: Path) -> str:
 
 
 def _fold(s: str) -> str:
-    s = unicodedata.normalize("NFD", s.lower().replace("đ", "d"))
+    s = unicodedata.normalize("NFD", clean_text(s).lower().replace("đ", "d"))
     return "".join(c for c in s if unicodedata.category(c) != "Mn").strip()
 
 
@@ -280,6 +331,14 @@ def resolve_symptoms(names: list[str], index: list[ChecklistEntry]) -> list[Chec
     """Khớp tên người dùng nhập (không phân biệt dấu/hoa thường, hoặc tên file) với INDEX."""
     chosen: list[ChecklistEntry] = []
     for raw in names:
+        raw = clean_text(raw).strip()
+        if raw.isdigit():
+            number = int(raw)
+            if 1 <= number <= len(index):
+                hit = index[number - 1]
+                if hit not in chosen:
+                    chosen.append(hit)
+                continue
         key = _fold(raw)
         hit = next(
             (e for e in index if _fold(e.name) == key or _fold(e.file) == key or _fold(Path(e.file).stem) == key),
@@ -602,9 +661,35 @@ def symptoms_changed(symptoms: list[str], old_meta: dict, index: list[ChecklistE
 
 # ------------------------------------------------------------------ chạy thử nhanh (không dùng cho menu)
 
+def _log_environment(cfg: Config) -> None:
+    import sys
+    from importlib import metadata
+
+    _load_dotenv()
+    log.debug("Python: %s", sys.version.replace("\n", " "))
+    log.debug("File: %s", Path(__file__).resolve())
+    skills_dir = cfg.skills_dir.resolve()
+    log.debug("skills_dir: %s (tồn tại: %s)", skills_dir, skills_dir.is_dir())
+    log.debug("model=%s effort=%s", cfg.model, cfg.effort)
+    log.debug("DEEPSEEK_API_KEY: %s", "có" if os.getenv("DEEPSEEK_API_KEY") else "không")
+    for package in ("openai", "PyMuPDF"):
+        try:
+            version = metadata.version(package)
+        except metadata.PackageNotFoundError:
+            version = "chưa cài"
+        log.debug("%s: %s", package, version)
+    for name in ("skills", "checklists"):
+        d = skills_dir / name
+        files = sorted(p.relative_to(d).as_posix() for p in d.rglob("*") if p.is_file()) if d.is_dir() else []
+        log.debug("%s/: %s", name, ", ".join(files) or "(không có)")
+
 
 def _main() -> int:
     import argparse
+
+    for stream in (sys.stdout, sys.stderr):
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(errors="replace")
 
     parser = argparse.ArgumentParser(description="Chạy pipeline bệnh án sinh viên (I–VI) bằng DeepSeek.")
     parser.add_argument("case", help="PDF/.txt/.md bệnh án sinh viên")
@@ -613,24 +698,56 @@ def _main() -> int:
     parser.add_argument("--ly-do", default="", help="lý do nhập viện nhập tay (bỏ trống = tự tách từ bệnh án)")
     parser.add_argument("--effort", default="max", choices=["high", "max"])
     parser.add_argument("--force", action="store_true")
+    parser.add_argument("--log", default="", help="ghi log chi tiết ra file này")
     args = parser.parse_args()
 
-    logging.basicConfig(level=logging.INFO, format="  %(message)s")
-    names = [s.strip() for s in args.symptoms.split(",") if s.strip()] or None
+    root = logging.getLogger()
+    root.setLevel(logging.DEBUG)
+    root.handlers.clear()
+    console = logging.StreamHandler(sys.stdout)
+    console.setLevel(logging.INFO)
+    console.setFormatter(logging.Formatter("  %(message)s"))
+    console.addFilter(lambda record: record.levelno < logging.WARNING)
+    root.addHandler(console)
+    if args.log:
+        Path(args.log).parent.mkdir(parents=True, exist_ok=True)
+        fh = logging.FileHandler(args.log, mode="w", encoding="utf-8", errors="replace")
+        fh.setLevel(logging.DEBUG)
+        fh.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(name)s: %(message)s"))
+        root.addHandler(fh)
+    logging.getLogger("openai").setLevel(logging.WARNING)
+    logging.getLogger("httpx").setLevel(logging.WARNING)
+
+    names = [
+        symptom for symptom in (clean_text(s).strip() for s in args.symptoms.split(","))
+        if symptom
+    ] or None
+    chief_complaint = clean_text(args.ly_do).strip() or None
     try:
+        cfg = Config(effort=args.effort)
+        _log_environment(cfg)
         result = run_pipeline(
             args.case,
             args.out,
             symptoms=names,
-            cfg=Config(effort=args.effort),
+            cfg=cfg,
             force=args.force,
-            chief_complaint=args.ly_do or None,
+            chief_complaint=chief_complaint,
         )
     except ScannedPdfError as exc:
+        log.exception("PDF scan")
         print(f"\n  PDF có vẻ là bản scan, chưa có lớp chữ: {exc}\n  Hãy OCR trước (mục [4]) rồi chọn file đã OCR.")
         return 2
     except BenhAnError as exc:
-        print(f"\n  Không thể phân tích bệnh án: {exc}")
+        log.exception("BenhAnError")
+        if str(exc) == "Thiếu biến môi trường DEEPSEEK_API_KEY.":
+            print(f"\n  {exc}")
+        else:
+            print(f"\n  Không thể phân tích bệnh án: {exc}")
+        return 1
+    except Exception as exc:  # noqa: BLE001
+        log.exception("run_pipeline() thất bại")
+        print(f"\n  Lỗi {type(exc).__name__}: {exc}")
         return 1
 
     print("\n  Các file kết quả:")
@@ -639,5 +756,4 @@ def _main() -> int:
     return 0
 
 
-if __name__ == "__main__":
-    raise SystemExit(_main())
+raise SystemExit(_main())

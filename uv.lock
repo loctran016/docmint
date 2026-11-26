@@ -226,7 +226,7 @@ requires-dist = [
     { name = "notebooklm-py" },
     { name = "openai", specifier = ">=3.58.0" },
     { name = "pillow" },
-    { name = "pymupdf" },
+    { name = "pymupdf", specifier = ">=1.24.3" },
     { name = "pypdf" },
     { name = "pyspellchecker" },
     { name = "python-dotenv" },
