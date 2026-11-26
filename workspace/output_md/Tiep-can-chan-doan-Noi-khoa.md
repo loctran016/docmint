@@ -29,6 +29,88 @@ GIÁO TRÌNH GIẢNG DẠY
 NHÀ XUẤT BẢN
 ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH – 2023
 
+CHỦ BIÊN
+*PGS.TS.BS. Hoàng Văn Sỹ*
+Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+*PGS.TS.BS. Quách Trọng Đức*
+Phó Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
+THAM GIA BIÊN SOẠN
+*PGS.TS.BS. Châu Ngọc Hoa*
+Giảng viên thỉnh giảng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Nguyên Trưởng khoa Y – Đại học Y Dược TP. HCM
+Nguyên Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Nguyên Trưởng khoa Tim Mạch – Bệnh viện Nhân Dân Gia Định
+*PGS.TS.BS. Trần Văn Ngọc*
+Giảng viên thỉnh giảng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Nguyên Phó Trưởng khoa Y – Đại học Y Dược TP. HCM
+Nguyên Phó Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Nguyên Trưởng khoa Hô hấp – Bệnh viện Chợ Rẫy
+*GS.TS.BS. Trương Quang Bình*
+Giảng viên cao cấp Bộ môn Nội tổng quát – Đại học Y Dược TP. HCM
+Phó Giám đốc Bệnh viện Đại học Y Dược TP. HCM
+Nguyên Phó Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+*PGS.TS.BS. Trần Kim Trang*
+Giảng viên cao cấp Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Nguyên Phó Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+*PGS.TS.BS. Hoàng Văn Sỹ*
+Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Trưởng Khoa Nội Tim mạch – Bệnh viện Chợ Rẫy
+*PGS.TS.BS. Quách Trọng Đức*
+Phó Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Phó Trưởng Khoa Tiêu hóa – Bệnh viện Nhân Dân Gia Định
+*PGS.TS.BS. Lê Thượng Vũ*
+Phó Trưởng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Phó Trưởng Khoa Hô hấp – Bệnh viện Đại học Y Dược TP. HCM
+
+*PGS.TS.BS. Bùi Hữu Hoàng*
+Giảng viên cao cấp Bộ môn Nội tổng quát – Đại học Y Dược TP. HCM
+Trưởng Khoa Tiêu hóa – Bệnh viện Đại học Y Dược TP. HCM
+
+*PGS.TS.BS. Võ Duy Thông*
+Giảng viên cao cấp Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Phó Trưởng khoa Nội tiêu hóa – Bệnh viện Chợ Rẫy
+
+*TS.BS. Võ Thị Mỹ Dung*
+Giảng viên thỉnh giảng Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
+*TS.BS. Lê Khắc Bảo*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Phó Trưởng Khoa Hô hấp – Bệnh viện Nhân Dân Gia Định
+
+*TS.BS. Trương Phi Hùng*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Phó trưởng Khoa Nội tim mạch – Bệnh viện Chợ Rẫy
+
+*TS.BS. Huỳnh Ngọc Phương Thảo*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Trưởng Khoa Nội thận – Thận nhân tạo – Bệnh viện Đại học Y Dược TP. HCM
+
+*ThS.BSNT.CKII. Lê Hoài Nam*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
+*ThS.BSNT.CKII. Dương Minh Ngọc*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
+*ThS.BSNT.CKII. Âu Thanh Tùng*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+Trưởng Khoa Khám bệnh – Bệnh viện Đại học Y Dược TP. HCM
+
+*BSNT.CKII. Lê Thị Kim Chi*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
+*BSNT.CKII. Trần Ngọc Thái Hòa*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
+*BSNT.CKII. Lê Đình Quang*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
+*ThS.BSNT. Nguyễn Ngọc Lan Anh*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
+*ThS.BSNT. Trần Công Duy*
+Giảng viên Bộ môn Nội Tổng quát – Đại học Y Dược TP. HCM
+
 **ThS.BSNT. Trần Đại Cường**
 
 - Giảng viên Bộ môn Nội Tổng quát - Đại học Y Dược TP. HCM
@@ -78,6 +160,22 @@ NHÀ XUẤT BẢN
 5. **TS.BS. Võ Thị Mỹ Dung**, Đại học Y Dược TP. Hồ Chí Minh - Ủy viên
 
 Quyết định lựa chọn và sử dụng giáo trình “Tiếp cận chẩn đoán bệnh Nội khoa” tại Đại học Y Dược TP. Hồ Chí Minh số 2853/QĐ-ĐHYD ngày 07 tháng 9 năm 2020 của Hiệu trưởng Đại học Y Dược TP. Hồ Chí Minh.
+
+# LỜI GIỚI THIỆU
+
+Trên đà hội nhập với giáo dục Y khoa hiện đại của thế giới, Khoa Y – Đại học Y Dược Thành phố Hồ Chí Minh đã chính thức áp dụng chương trình đổi mới trong đào tạo sinh viên Y khoa từ niên khóa 2016.
+
+Chương trình học được xây dựng theo mô hình giáo dục Y khoa dựa trên năng lực, tích hợp giữa các môn học và liên kết giữa lý thuyết với thực hành, chú trọng đến thực hành lâm sàng và y học chứng cứ. Giảng viên dạy và lượng giá dựa trên chuẩn năng lực.
+
+Vì lẽ đó, việc xuất bản sách phục vụ cho chương trình đổi mới là cần thiết và đáp ứng được nhu cầu học của sinh viên.
+
+Sách *Tiếp cận chẩn đoán bệnh Nội khoa* đề cập đến 18 vấn đề cần tiếp cận thường gặp trong thực hành lâm sàng. Sách được biên soạn bởi đội ngũ giảng viên giàu kinh nghiệm giảng dạy của Bộ môn Nội Tổng quát – Đại học Y Dược Thành phố Hồ Chí Minh, được trình bày mạch lạc với văn phong dễ hiểu, nội dung được cập nhật giúp học viên tiếp cận một cách khoa học các bệnh lý Nội khoa thường gặp trong thực hành lâm sàng: từ triệu chứng đến xét nghiệm và quy trình chẩn đoán. Bên cạnh đó, các tác giả còn cung cấp bộ câu hỏi MCQ và các tình huống lâm sàng gợi ý cho việc tham luận và đánh giá lại kiến thức qua mỗi bài học. Sau lần xuất bản đầu tiên, sách được sự đón nhận và đóng góp ý kiến từ quý độc giả. Trong ấn bản lần 2 này, các tác giả đã chỉnh sửa, cập nhật lại các vấn đề Nội khoa mới nhất theo các khuyến cáo thực hành hiện nay.
+
+Tôi nghĩ đây là những bài học rất hữu ích, giúp cho học viên, các bác sĩ trẻ có thể hệ thống hóa cách tiếp cận chẩn đoán bệnh lý Nội khoa.
+
+Xin trân trọng giới thiệu sách *Tiếp cận chẩn đoán bệnh Nội khoa – Ấn bản lần 2* đến các sinh viên Y khoa và Quý độc giả.
+
+GS.TS.BS. TRƯƠNG QUANG BÌNH
 
 # LỜI NÓI ĐẦU
 
@@ -150,6 +248,50 @@ Trân trọng.
 | ANA | Antinuclear antibodies | Kháng thể kháng nhân |
 | ANCA | Anti-neutrophil cytoplasmic antibodies | Kháng thể kháng bạch cầu đa nhân trung tính |
 | ANP | Atrial natriuretic peptide | Peptid lợi niệu natri tâm nhĩ |
+
+| Từ viết tắt | Tiếng Anh | Nghĩa |
+| :--- | :--- | :--- |
+| Anti-LKM 1 | Liver kidney microsome antibodies type 1 | Kháng thể kháng tiểu thể gan thận type 1 |
+| Anti-GBM | Anti-glomerular basement membrane | Kháng thể kháng màng đáy |
+| Anti-SLA/LP | Anti-solube liver antigen/ liver pancreas antibodies | Kháng thể kháng gan tụy/kháng nguyên gan hòa tan |
+| ASMA | Anti smooth muscle antibodies | Kháng thể kháng cơ trơn |
+| ASO | Anti-streptolysin O | Kháng thể kháng streptolysin O |
+| AST | Aspartate aminotransferase | Aspartate aminotransferase |
+| ATN | Acute tubular necrosis | Hoại tử ống thận cấp |
+| ATS | American Thoracic Society | Hiệp hội Lồng ngực Hoa Kỳ |
+| BMI | Body mass index | Chỉ số khối cơ thể |
+| BNP | Brain natriuretic peptide | Peptid lợi niệu natri não |
+| BSA | Body surface area | Diện tích da |
+| BSP | Brommosulfophtalein | Brommosulfophtalein |
+| BTS | British Thoracic Society | Hiệp hội Lồng ngực Anh |
+| CA | Carcinoma antigen | Kháng nguyên sinh ung thư |
+| CABG | Coronary artery bypass grafting | Phẫu thuật bắc cầu động mạch vành |
+| CAP | Community-acquired pneumonia | Viêm phổi cộng đồng |
+| CCS | Canadian Cardiac Society | Hội Tim mạch Canada |
+| CDC | Centers for disease control and prevention | Cơ quan kiểm soát bệnh tật Hoa Kỳ |
+| CEA | Carcinoembryonic antigen | Kháng nguyên ung thư biểu mô phôi |
+| CIOMS | Council for International Organizations of Medical Sciences | Hội đồng các Tổ chức Nghiên cứu Y khoa Quốc tế |
+| CMR | Cardiovascular magnetic resonance imaging | Cộng hưởng từ tim |
+| CMV | Cytomegalo virus | Virus cytomegalo |
+| CO | Carbon monoxide | Carbon monoxide |
+| COPD | Chronic obstructive pulmonary disease | Bệnh phổi tắc nghẽn mạn tính |
+| COX | Cyclooxygenase | Cyclooxygenase |
+| CRP | C-reactive protein | Protein phản ứng loại C |
+| CT scan | Computed tomography scan | Chụp cắt lớp vi tính |
+| CTA | Computed tomography angiography | Chụp cắt lớp vi tính mạch máu |
+| CTP | Child-Turcotte-Pugh | Child-Turcotte-Pugh |
+| DLCO | Diffusing capacity for carbon monoxide | Khả năng khuếch tán khí carbon monoxide |
+| DSA | Digital subtraction angiography | Chụp mạch máu xóa nền kỹ số thuật |
+| EASL | European Association for the Study of the Liver | Hiệp hội Nghiên cứu bệnh gan châu Âu |
+| EBV | Epstein Barr virus | Virus Epstein Barr |
+| ECG | Electrocardiography | Điện tâm đồ |
+| EF | Ejection fraction | Phân suất tống máu |
+| ELISA | Enzyme-linked immuno sorbent assay | Phương pháp miễn dịch hấp thụ liên kết enzyme |
+| ERCP | Endoscopic retrograde cholangio-pancreatography | Chụp mật tụy ngược dòng qua nội soi |
+| ESC | European Society of Cardiology | Hội Tim châu Âu |
+| FENO | Fraction of exhaled nitric oxide | Phân suất nồng độ NO trong khí thở ra |
+| FEV | Forced expiratory volume | Thể tích thở ra gắng sức |
+| FSGS | Focal segmental glomerulosclerosis | Xơ chai cầu thận khu trú từng vùng |
 
 Từ viết tắt Tiếng Anh Nghĩa
 FVC Forced vital capacity Dung tích sống gắng sức
@@ -282,6 +424,38 @@ Danh mục từ viết tắt ...................................................
 # Chương 1
 
 TIM MẠCH
+
+# TIẾP CẬN CHẨN ĐOÁN ÂM THỔI Ở TIM
+
+*BSNT.CKI. Văn Thị Bích Thủy, PGS.TS.BS. Trần Kim Trang*
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Thu thập được triệu chứng cơ năng, triệu chứng thực thể và tiền căn của các bệnh van tim thường gặp.
+2. Đề xuất và mô tả kết quả cận lâm sàng cho các bệnh van tim thường gặp.
+3. Trình bày các bước tiếp cận một âm thổi tại tim để chẩn đoán bệnh van tim.
+
+Bài này tập trung vào tiếp cận chẩn đoán lâm sàng các âm thổi do bốn bệnh van tim thường gặp nhất là hẹp van hai lá, hở van hai lá, hẹp van động mạch chủ và hở van động mạch chủ.
+
+**1. ĐẠI CƯƠNG**
+
+Âm thổi ở tim có thể được phát hiện tình cờ khi người bệnh đi khám sức khỏe tổng quát hay khám bệnh vì một lý do khác, với một trong các nguyên nhân là bệnh van tim, mà có thể một thời gian dài không có triệu chứng cơ năng, khi đã có triệu chứng cơ năng, tiến triển đến tử vong thường nhanh.
+
+**2. TRIỆU CHỨNG CƠ NĂNG**
+
+**Khó thở:** khi gắng sức, nặng dần đến cơn khó thở kịch phát về đêm, khó thở phải ngồi. Ngoài ra, có thể xảy ra khó thở khi người bệnh bị sang chấn tình cảm, sốt, viêm phổi, giao hợp, có thai hoặc rung nhĩ tần số thất nhanh,...
+
+**Đau ngực:** có thể lầm với cơn đau thắt ngực do bệnh động mạch vành, hiếm gặp trong bệnh hở van hai lá, trừ khi có bệnh động mạch vành kết hợp.
+
+**Ngất:** xuất hiện khi gắng sức hoặc sau gắng sức thường do hẹp van động mạch chủ làm tưới máu không đủ; xuất hiện khi nghỉ ngơi do loạn nhịp tim như block nhĩ thất.
+
+**Ho ra máu:** hay gặp ở người hẹp van hai lá, đờm bọt hồng do phù phổi cấp trong suy tim hoặc do nhồi máu phổi.
+
+**Các triệu chứng do cục máu đông thuyên tắc đến các cơ quan:** não (yếu nửa người), thận (thiểu niệu), mạch máu mạc treo (đau bụng),... Các triệu chứng này thường gặp trong trường hợp lớn nhĩ trái và có rung nhĩ,...
+
+**Mệt mỏi:** do giảm cung lượng tim, là biến chứng của bệnh van tim.
+
+**Phù:** do suy tim phải làm ứ huyết tĩnh mạch chủ dưới đưa đến phù mềm hai chân, giảm lúc sáng sớm, tăng về chiều. Nếu người bệnh nằm nhiều giờ tại giường, sẽ bị phù vùng xương cùng, thường do hẹp van hai lá.
 
 3. TIỀN CĂN
 
@@ -7414,3 +7588,2749 @@ Bệnh sử: người bệnh nữ, 36 tuổi, đến khám vì cảm giác vư�
 
 # Chương 4
 THẬN
+
+# MƯỜI HỘI CHỨNG TRONG THẬN HỌC
+
+ThS.BSNT. Nguyễn Ngọc Lan Anh, TS.BS. Huỳnh Ngọc Phương Thảo
+
+## MỤC TIÊU HỌC TẬP
+
+1. Trình bày tên và đặc điểm chính của mười hội chứng trong thận học.
+2. Chẩn đoán và ứng dụng mười hội chứng trong thận học trong thực hành lâm sàng một số bệnh thường gặp.
+
+## 1. HỘI CHỨNG THẬN HƯ
+
+### 1.1. Định nghĩa
+
+Đây là một hội chứng lâm sàng đặc trưng bởi tình trạng tiểu protein mức độ nặng $\ge 3,5\text{ g}/1,73\text{ m}^2\text{da}/24\text{ giờ}$ (hoặc $\ge 3\text{ g}/24\text{ giờ}$), giảm albumin máu $< 30\text{ g/L}$, giảm protid máu $< 60\text{ g/L}$, tiểu lipid, có thể kèm theo phù toàn thân và suy thận ở nhiều mức độ.
+
+### 1.2. Phân loại
+
+Hội chứng thận hư gọi là **thuần túy** nếu không kèm tiểu máu, không tăng huyết áp và không suy thận thực thể, thường là tiểu protein chọn lọc (albumin chiếm trên $85\%$ lượng protein niệu). Ngược lại, hội chứng thận hư **không thuần túy** nếu có kèm theo ít nhất một trong ba tiêu chuẩn trên (tiểu máu, tăng huyết áp, suy thận) và thường tiểu protein không chọn lọc.
+
+### 1.3. Cơ chế bệnh sinh
+
+Bình thường màng đáy cầu thận tích điện âm và kích thước lỗ lọc nhỏ nên không cho protein đi qua. Trong hội chứng thận hư, màng đáy cầu thận bị tổn thương làm tăng tính thấm, thay đổi kích thước lỗ lọc gây tiểu protein lượng nhiều.
+
+### 1.4. Nguyên nhân
+
+Hội chứng thận hư được gây ra do nhiều bệnh lý khác nhau làm tổn thương màng đáy cầu thận. Trong thực hành lâm sàng, cần loại trừ những nguyên nhân thứ phát trước khi kết luận hội chứng thận hư nguyên phát (Bảng 14.1).
+
+### 1.5. Biểu hiện lâm sàng
+
+- Phù toàn thân: phù là biểu hiện thường gặp nhất và là biểu hiện đầu tiên khiến người bệnh đến khám. Phù thường xuất hiện đầu tiên ở mặt, nhiều vào buổi sáng lúc mới ngủ dậy, sau đó lan ra toàn thân, phù ở chân, mắt cá, vùng hông lưng khi nằm lâu, phù bìu, phù âm hộ. Phù có đặc điểm phù mềm, trắng, ấn lõm, không đau, đối xứng hai bên. Trường hợp nặng hơn, người bệnh có thể có tràn dịch đa màng như tràn dịch màng phổi, màng tim, màng bụng. Phù có thể xuất hiện đột ngột hoặc tăng dần theo thời gian.
+
+- Tiểu bọt có thể do có nhiều protein
+- Tiểu máu và tăng huyết áp cũng có thể gặp. Nếu có, thường là hội chứng thận hư không thuần túy.
+
+**Bảng 14.1.** Nguyên nhân gây hội chứng thận hư
+
+| Nguyên phát (90%) |
+| :--- |
+| Được mô tả với tên gọi theo sang thương mô bệnh học khi làm sinh thiết thận |
+| - Bệnh cầu thận sang thương tối thiểu (minimal change disease) |
+| - Xơ chai cầu thận khu trú từng vùng (focal segmental glomerulosclerosis) |
+| - Bệnh cầu thận màng (membranous glomerulopathy) |
+| - Viêm cầu thận tăng sinh màng (membranoproliferative glomerulonephritis) |
+| - Viêm cầu thận tăng sinh gian mạch (mesangioproliferative glomerulonephritis) |
+| - Viêm cầu thận tơ huyết và dạng miễn dịch (fibrillary và immunotactoid glomerulonephritis) |
+| - Viêm cầu thận liềm (crescentic glomerulonephritis) |
+
+| Thứ phát (10%) |
+| :--- |
+| **Thuốc:** muối vàng, thủy ngân, penicillamin, bucillamin, heroin, probenecid, lithium, NSAIDs, Interferon alfa, rifampin, chlopropamid, pamidronate, warfarin. Trong đó thuốc NSAIDs thường gặp nhất |
+| **Nhiễm khuẩn:** |
+| - Vi trùng: viêm cầu thận hậu nhiễm liên cầu trùng, viêm nội tâm mạc nhiễm khuẩn, sau nhiễm khuẩn shunt, giang mai, phong, lao,... |
+| - Virus: viêm gan virus B, C, nhiễm HIV, nhiễm cytomegalovirus, Epstein-Barr virus, Herpes zoster,... |
+| - Ký sinh trùng: sốt rét, toxoplasma, schistosomiasis, filariasis,... |
+| **Bệnh hệ thống:** lupus ban đỏ hệ thống, viêm đa cơ tự miễn, viêm khớp dạng thấp, hội chứng Goodpasture, viêm mạch máu hệ thống, ban xuất huyết Henoch-Schönlein, thoái biến dạng bột, cryoglobulinemia, hội chứng Sjögren, sarcoidosis,... |
+| **Ung thư:** hội chứng thận hư có thể xuất hiện 1 năm trước khi có biểu hiện ung thư. |
+| - Bướu đặc: phổi, dạ dày, đại tràng, vú, cổ tử cung, buồng trứng, thận, tuyến giáp, tuyến tiền liệt,... |
+| - Ung thư máu và lymphoma như bệnh Hodgkin, đa u tủy,... |
+| **Bệnh di truyền và chuyển hóa:** đái tháo đường, nhược giáp, thoái biến dạng bột, hội chứng Alport, hội chứng thận hư bẩm sinh |
+| **Khác:** liên quan thai kì (tiền sản giật), xơ hóa thận ác tính hay tiến triển, hẹp động mạch thận, dị ứng phấn hoa, côn trùng đốt, rắn cắn, sau chích ngừa,... |
+
+[Hình: (1) Phù mặt, chủ yếu phù quanh mắt; (2) nước tiểu có nhiều bọt; (3) phù ấn lõm với các mức độ tương ứng]
+
+0+ Không phù ấn lõm
+1+ Phù ấn lõm nhẹ. Ấn lõm 2 mm mất nhanh
+2+ Phù ấn lõm trung bình. Ấn lõm 4 mm và biến mất sau 1 – 15 giây
+3+ Phù ấn lõm nặng vừa phải. Ấn lõm 6 mm và có thể kéo dài hơn 1 phút
+4+ Phù ấn lõm nặng. Ấn lõm 8 mm và có thể kéo dài hơn 2 phút
+
+**Hình 14.1** Các biểu hiện thường gặp của hội chứng thận hư
+
+(1) Phù mặt, chủ yếu phù quanh mắt; (2) nước tiểu có nhiều bọt; (3) phù ấn lõm với các mức độ tương ứng
+
+- Người bệnh có thể có triệu chứng gợi ý bệnh căn nguyên như hồng ban cánh bướm, hồng ban dạng đĩa, đau khớp trong lupus ban đỏ hệ thống, ban xuất huyết trong Henoch Schönlein, bệnh võng mạc do đái tháo đường,...
+
+**1.6. Cận lâm sàng**
+
+- Tổng phân tích nước tiểu: tiểu protein mức độ nặng từ $300 - 500\text{ mg/dL}$, có thể kèm tiểu máu vi thể trong hội chứng thận hư không thuần túy. Tiểu glucose có thể gặp nếu có tổn thương ống thận gần kèm theo.
+- Protein niệu 24 giờ trên $3\text{ g/24 giờ}$ hoặc trên $3,5\text{ g/1,73 m}^2\text{ da/24 giờ}$
+- Soi tươi cặn lắng nước tiểu: có thể gặp thể bầu dục, trụ mỡ, trụ hyalin
+- Các bất thường sinh hóa khác như giảm albumin máu $< 30\text{ g/L}$, protid máu $< 60\text{ g/L}$, tăng lipid máu và tiểu lipid.
+
+2. HỘI CHỨNG VIÊM THẬN CẤP
+2.1. Hội chứng viêm cầu thận cấp
+2.1.1. Tiêu chuẩn chẩn đoán
+
+Theo kinh điển, hội chứng viêm cầu thận cấp được đặc trưng bằng tiểu máu có nguồn gốc từ cầu thận và cặn lắng nước tiểu hoạt động, được biểu hiện bằng hồng cầu biến dạng (hồng cầu hình nhẫn) và trụ hồng cầu, thường có bạch cầu và trụ bạch cầu, thể hiện một tiến trình viêm đang xảy ra ở cầu thận. Độ lọc cầu thận thường giảm, kèm theo tăng huyết áp, thiểu niệu và phù.
+
+2.1.2. Nguyên nhân
+
+- Nguyên phát:
+  + Viêm cầu thận tăng sinh màng
+  + Bệnh thận IgA
+  + Viêm cầu thận tăng sinh gian mạch
+  + Bệnh thận màng đáy mỏng.
+- Thứ phát:
+  + Nhiễm khuẩn: viêm cầu thận cấp hậu nhiễm khuẩn, viêm nội tâm mạc nhiễm khuẩn, thương hàn, phế cầu, giang mai, virus viêm gan B, C, quai bị, sởi, thủy đậu, kí sinh trùng sốt rét,...
+  + Bệnh hệ thống: lupus đỏ hệ thống, hội chứng Henoch-Schönlein, hội chứng Goodpasture,...
+  + Khác: hội chứng Guillan-Barré, xạ trị, chủng ngừa,...
+
+2.1.3. Lâm sàng
+
+Tiểu máu có thể từng đợt gián đoạn, hoặc tiểu máu dai dẳng, có thể tiểu máu vi thể hoặc tiểu máu đại thể. Tiểu máu đơn độc có nguồn gốc từ cầu thận không kèm theo tình trạng viêm. Tiểu máu có nguồn gốc từ cầu thận cần được chẩn đoán phân biệt với tiểu máu có nguồn gốc từ thận, mô kẽ hoặc đường tiểu dưới, như sỏi thận, u lành hoặc u ác và nhiễm khuẩn tiểu.
+
+Tiểu protein thường gặp nhưng ở mức độ ít. Trong nhiều trường hợp, mức độ tiểu protein bị giới hạn do giảm độ lọc cầu thận. Tuy nhiên, tiểu protein mức độ nặng, thậm chí đạt ngưỡng thận hư có thể xuất hiện đồng thời với hội chứng viêm thận ở một số trường hợp (ví dụ, trong bệnh màng đáy mỏng) thường không được xem là biểu hiện của quá trình viêm thận.
+
+Ngoài ra, bệnh sử có thể ghi nhận có nhiễm khuẩn hô hấp trên hoặc nhiễm khuẩn da từ trước ở người bệnh viêm cầu thận cấp hậu nhiễm streptococcus (ví dụ, tiểu máu sau viêm họng). Một đợt nhiễm khuẩn da gần đây, đặc biệt xảy ra ở cơ địa người lớn tuổi có đái tháo đường gợi ý viêm cầu thận hậu nhiễm có lắng đọng IgA ưu thế. Ở những người bệnh khác có viêm cầu thận mạn, ví dụ bệnh thận IgA, tiểu máu đại thể có thể xuất hiện đồng thời hoặc ngay sau khi viêm họng. Có thể có tiền sử gia đình cũng có bệnh cầu thận.
+
+Bệnh sử có kèm tăng huyết áp, ứ dịch và/hoặc phù gợi ý tiểu máu có nguồn gốc từ cầu thận, đặc biệt nếu chức năng thận giảm. Sốt, phát ban da, đau khớp gợi ý khả năng có bệnh hệ thống gây ra tiểu máu có nguồn gốc từ cầu thận. Giảm thính lực và các triệu chứng về thị lực có liên quan đến thủy tinh thể có thể gặp trong bệnh Alport. Ho ra máu gợi ý viêm mạch máu hoặc bệnh kháng thể kháng màng đáy cầu thận (anti-GBM).
+
+[Hình: Không từ cầu thận] [Hình: Từ cầu thận]
+
+**Hình 14.2.** Sự khác biệt về hình dạng hồng cầu trong tiểu máu có và không có nguồn gốc từ cầu thận
+
+[Hình: A] [Hình: B]
+
+**Hình 14.3.** Trụ hồng cầu đặc hiệu cho tiểu máu có nguồn gốc từ cầu thận
+
+**Bảng 14.2.** Phân biệt tiểu máu từ cầu thận và không từ cầu thận
+
+| Đặc điểm | Cầu thận | Không cầu thận |
+| :--- | :--- | :--- |
+| Tiểu máu đại thể | Ít gặp | Phổ biến |
+| Màu sắc | Nâu sậm | Đỏ tươi |
+| Máu đông | Không | Có |
+| Protein niệu | Có | Không |
+| Tăng huyết áp | Có | Không |
+| Suy thận | Có | Không |
+
+| Đặc điểm | Cầu thận | Không cầu thận |
+| --- | --- | --- |
+| Nhiễm khuẩn hô hấp | Có | Không |
+| Hội chứng niệu đạo cấp | Không | Có |
+| Cơn đau quận thận | Không | Có |
+| Hình dạng hồng cầu | Biến dạng | Đồng dạng |
+| Acanthocyte | > 5% | Không có |
+| Trụ hồng cầu | Có | Không |
+
+## 2.2. Hội chứng viêm ống thận mô kẽ cấp
+
+### 2.2.1. Lâm sàng
+
+Người bệnh có thể có hai nhóm triệu chứng:
+
+- Triệu chứng toàn thân: sốt, phát ban và đau khớp. Chỉ có khoảng 30% người bệnh có tam chứng kinh điển bao gồm sốt, phát ban, tăng bạch cầu ái toan trong máu.
+- Triệu chứng tại thận: suy thận cấp, đau hông lưng một hoặc hai bên, tiểu bạch cầu vô khuẩn, trụ bạch cầu. Trường hợp viêm thận kẽ cấp do nhiễm khuẩn hoặc bệnh hệ thống thì biểu hiện lâm sàng chủ yếu là triệu chứng của bệnh căn nguyên.
+
+### 2.2.2. Cận lâm sàng
+
+- Tiểu mủ vô khuẩn: bằng phương pháp nhuộm Hansel hoặc nhuộm Wright để phát hiện bạch cầu ái toan trong nước tiểu. Có thể có trụ bạch cầu.
+- Tiểu protein thường nhẹ đến vừa, $1 - 2\text{ g/24 giờ}$. Tiểu protein ngưỡng thận hư thường do thuốc NSAIDs.
+- Tiểu máu vi thể hoặc đại thể.
+- Các bất thường xét nghiệm sinh hóa: rối loạn điện giải như tăng kali máu, toan chuyển hóa, hội chứng Fanconi, tăng BUN và creatinin khi có suy thận.
+
+### 2.2.3. Nguyên nhân
+
+- Thuốc: thường nhất là các loại thuốc sau:
+  + Kháng sinh: nhóm beta-lactam (methicillin, ampicillin, cephalosporin), rifampin, sulfonamide, vancomycin, ciprofloxacin, macrolide
+  + Kháng virus: acyclovir,...
+  + Thuốc kháng viêm không steroid, bao gồm cả nhóm thuốc ức chế COX-2
+  + Khác: captopril, lợi tiểu (thiazid, furosemid), cimetidin, ức chế bơm proton, thuốc chống động kinh (carbamazepin, phenytoin), allopurinol,...
+- Nhiễm khuẩn: một số nhiễm khuẩn toàn thân và nhiễm khuẩn nhu mô thận do vi khuẩn (Streptococcus, Staphylococcus, E. coli, Leptospira,...), virus (Epstein-Barr, cytomegalovirus, HIV, Herpes, viêm gan virus B, viêm gan virus C, quai bị, nấm candida,...
+- Miễn dịch: lupus ban đỏ hệ thống, thải ghép cấp
+
+- Bệnh ác tính: đa u tủy, lymphoma,...
+- Vô căn: viêm thận kẽ cấp kèm viêm màng bồ đào (TINU: tubulointerstitial nephritis with uveitis).
+
+## 2.3. Hội chứng bất thường nước tiểu không triệu chứng
+### 2.3.1. Tiểu máu không triệu chứng
+**Định nghĩa**: tiểu máu là khi có hiện diện của hồng cầu trong nước tiểu khi đi tiểu. Tiểu máu không triệu chứng là khi không kèm tiểu protein, thiểu niệu, vô niệu, phù hay tăng huyết áp. Tiểu máu không kèm biểu hiện của hội chứng viêm thận, hội chứng thận hư.
+
+Người bình thường: 1 triệu hồng cầu/ngày trong nước tiểu, tương đương $1 - 3$ hồng cầu/quang trường 40 khi soi cặn lắng nước tiểu (mẫu nước tiểu có quay ly tâm). Khi có trên 3 hồng cầu/quang trường 40 là bất thường và cần được đánh giá thêm. Tiểu máu vi thể là khi có trên 3 hồng cầu/quang trường 40 nhưng không đủ nhiều hồng cầu để làm thay đổi màu sắc nước tiểu mà mắt thường có thể quan sát được. Tiểu máu vi thể thường gặp, có thể chiếm đến 13% ở người trưởng thành. Do máu có thể chảy từ bất cứ nơi nào từ thận đến hệ bài niệu, nên về nguyên nhân tiểu máu được chia làm hai nhóm: tiểu máu do bệnh cầu thận (glomerular hematuria) và tiểu máu không do bệnh cầu thận (nonglomerular hematuria). Bảng phân biệt hai nhóm nguyên nhân này đã được trình bày ở phần hội chứng viêm cầu thận cấp.
+
+### 2.3.2. Tiểu bạch cầu
+**Định nghĩa**: theo hướng dẫn của CDC/NHSN (Centers for Disease Control and Prevention/National Healthcare Safety Network), gọi là tiểu bạch cầu (pyuria) khi có $\ge 10$ bạch cầu/$\text{mm}^3$ (kỹ thuật buồng đếm hoặc hemocytometer), tương ứng $\ge 3$ bạch cầu/quang trường 40 (kỹ thuật soi tươi cặn lắng nước tiểu) với mẫu nước tiểu không quay ly tâm. Tiểu bạch cầu vô khuẩn (sterile pyuria) là tiểu bạch cầu và không có vi trùng niệu (kỹ thuật cấy nước tiểu).
+
+**Bảng 14.3.** Nguyên nhân của tiểu bạch cầu
+
+| Không liên quan nhiễm khuẩn | Liên quan nhiễm khuẩn |
+| :--- | :--- |
+| **Nguyên nhân tại thận:** | **Nhiễm khuẩn từ đường niệu:** |
+| 1. Bệnh cầu thận: | 1. Nhiễm khuẩn tiểu đang dùng kháng sinh hoặc vừa được điều trị trong vòng 2 tuần |
+| - Viêm cầu thận cấp/mạn nguyên phát/thứ phát | 2. Viêm tuyến tiền liệt cấp |
+| - Hội chứng thận hư nguyên phát/thứ phát | |
+| 2. Bệnh ống thận mô kẽ: | |
+| - Viêm thận kẽ cấp/mạn: dị ứng thuốc | |
+| - Bệnh thận do thuốc giảm đau: hoại tử nhú thận | |
+| - Thận đa nang | |
+| 3. Bệnh mạch máu thận: tăng huyết áp ác tính | |
+| 4. Thải ghép cấp/thải ghép mạn | |
+
+Không liên quan nhiễm khuẩn | Liên quan nhiễm khuẩn
+---|---
+Nguyên nhân tại đường niệu: | Nhiễm khuẩn ngoài đường niệu:
+1. Sỏi niệu | 1. Bệnh lây truyền qua đường tình dục do **Chlamydia**, **Neisseria**, **Mycoplasma**, **Uroplasma**,...
+2. Bệnh thận trào ngược | 
+3. Thận ứ nước | 2. Viêm quy đầu
+| 3. Viêm phần phụ
+
+Về vi thể, tiều bạch cầu được phát hiện bằng nhiều phương pháp. Theo kinh điển là kỹ thuật quay cặn lắng và khảo sát cặn dưới kính hiển vi quang học, được thực hiện với mẫu nước tiều sạch giữa dòng (midstream clean-catched) là tiêu chuẩn vàng xác định bạch cầu niệu. Nhược điểm kỹ thuật này là nước tiểu có thể bị dây nhiễm từ xung quanh khi hứng nước tiểu trực tiếp. Trên lâm sàng, tiều bạch cầu được phát hiện đầu tiên qua xét nghiệm tổng phân tích nước tiểu với nguyên lý phát hiện gián tiếp thông qua phản ứng thủy phân indoxylcarbonic acid ester từ esterase của bạch cầu bị ly giải.
+
+### 2.3.3. Tiểu protein đơn độc
+
+Định nghĩa: là tình trạng tiểu protein với protein niệu dưới $3\text{ g}/24\text{ giờ}$ và cặn lắng nước tiểu sạch, không kèm tiểu máu.
+
+Tiểu protein đơn độc bao gồm:
+
+- Tiểu protein đơn độc lành tính (**benign isolated proteinuria**): chiếm $80\%$ trường hợp tiểu protein đơn độc, thường dưới $1\text{ g}/24\text{ giờ}$. Tiểu protein này thường do các nguyên nhân sinh lý hoặc bệnh lý ngoài thận như tiều protein chức năng, tiểu protein từng đợt, tiểu protein tư thế. Tiên lượng thường tốt.
+
+- Tiểu protein đơn độc kéo dài (**persistent isolated proteinuria**): chiếm $10 - 25\%$ tiểu protein đơn độc. Tiểu protein thường do các bệnh lý tại chủ mô thận như xơ chai cầu thận khu trú từng vùng ($30 - 70\%$), viêm cầu thận tăng sinh khu trú hoặc lan tỏa ($15\%$). Tiên lượng khá tốt, nhưng khoảng $20 - 40\%$ người bệnh sẽ diễn tiến đến suy thận mạn sau 20 năm.
+
+## 2.4. Hội chứng khiếm khuyết ống thận
+
+### 2.4.1. Khiếm khuyết về chức năng
+
+- Hội chứng Fanconi: khiếm khuyết của ống thận gần, đặc trưng bằng rối loạn tái hấp thu các chất qua nước tiểu và làm xuất hiện các chất này trong nước tiểu, như glucose, aminoacid, phosphate, bicarbonate,... Nguyên nhân thường gặp do bệnh lý chuyển hóa như **cystinosis**, **tyrosinemia**, hội chứng **Lowe**, **galactosemia**, bệnh **Wilson**, ngộ độc kim loại nặng (chì, thủy ngân) và nguyên nhân vô căn.
+
+- Toan hóa ống thận, đái tháo nhạt do thận: biểu hiện lâm sàng không đặc hiệu mà cần đánh giá thêm các bất thường về điện giải đồ và thăng bằng kiềm toan.
+
+## 2.4.2. Khiếm khuyết về cấu trúc
+
+Thường gặp là bệnh thận đa nang, nang tủy thận, xốp tủy thận.
+
+Đặc điểm của bệnh thận đa nang: bệnh lý bẩm sinh, di truyền theo gen trội trên nhiễm sắc thể thường, do đột biến gen mã hóa màng bào tương polycystin 1 (85%), hoặc polycystin 2 (15%), điều hòa sự phát triển của hệ thống ống và mạch máu tại thận, gan, tim, não và tủy. Có khoảng 5% người bệnh không có tiền căn gia đình. Biểu hiện lâm sàng chính gồm hai nhóm: biểu hiện tại thận như đau hông lưng (60%), tiểu máu đại thể hoặc vi thể (40%), đặc biệt khởi phát sau gắng sức, tăng huyết áp xuất hiện sớm (50% ở tuổi $20-34$), tiến triển đến suy thận mạn giai đoạn cuối khoảng $50-60$ tuổi. Các biểu hiện ngoài thận như nang gan (90%), nang túi tinh (40%), nang màng nhện (8%) và nang tụy (5%), phình mạch não (8%), phình bóc tách động mạch chủ ngực, sa van hai lá (25%), giãn phế quản và bệnh lý túi thừa đại tràng.
+
+## 2.5. Hội chứng nhiễm khuẩn tiểu
+
+### 2.5.1. Định nghĩa
+
+Nhiễm khuẩn tiểu bao gồm vi trùng niệu có ý nghĩa có hoặc không có triệu chứng lâm sàng. Vi trùng niệu có ý nghĩa là khi có $\ge 10^5$ khúm vi khuẩn/mL nước tiểu. Vi trùng niệu không triệu chứng là khi có $\ge 10^5$ khúm vi khuẩn/mL nước tiểu ở hai mẫu nước tiểu liên tiếp (nữ) hoặc 1 mẫu nước tiểu (nam) và không có triệu chứng lâm sàng.
+
+### 2.5.2. Phân loại
+
+Theo cấu trúc giải phẫu, nhiễm khuẩn tiểu được chia thành nhiễm khuẩn tiểu trên (nhiễm khuẩn tại thận và niệu quản) và nhiễm khuẩn tiểu dưới (nhiễm khuẩn tại bàng quang, niệu đạo).
+
+### 2.5.3. Tiêu chuẩn chẩn đoán
+
+Nếu có trên hai trong ba nhóm triệu chứng sau đây:
+
+- Lâm sàng: hội chứng niệu đạo cấp như tiểu gắt, tiểu lắt nhắt, tiểu gấp, đau hạ vị, đau hông lưng, tiểu đục, tiểu máu, sốt.
+- Tiểu bạch cầu: xác định dựa vào tổng phân tích nước tiểu, soi cặn lắng nước tiểu (xem phần tiểu bạch cầu).
+- Vi trùng niệu: cấy nước tiểu $\ge 10^5$ khúm vi khuẩn/mL nước tiểu, soi tươi nhuộm Gram hoặc gián tiếp qua phản ứng nitrit trong tổng phân tích nước tiểu.
+
+## 2.6. Hội chứng sỏi niệu
+
+Chẩn đoán sỏi niệu dựa vào triệu chứng lâm sàng tiểu ra sỏi hoặc phát hiện sỏi dựa trên xét nghiệm hình ảnh học như X-quang KUB, siêu âm bụng hoặc CT scan bụng hoặc phẫu thuật thấy sỏi.
+
+Sỏi niệu được biểu hiện gián tiếp trên lâm sàng dựa vào triệu chứng tiểu máu, cơn đau quặn thận hoặc hội chứng nhiễm khuẩn tiểu và hội chứng bế tắc đường tiểu.
+
+## 2.7. Hội chứng bế tắc đường tiểu
+
+### 2.7.1. Phân loại
+
+Theo cấu trúc giải phẫu, bế tắc đường tiểu được chia làm hai loại là bế tắc đường tiểu trên và bế tắc đường tiểu dưới.
+
+### 2.7.2. Lâm sàng
+
+Bế tắc đường tiểu dưới còn gọi là bí tiểu, được định nghĩa khi người bệnh không thể tống nước tiểu ra khỏi bàng quang. Cần phân biệt với vô niệu là hoàn toàn không có nước tiểu được tạo ra từ thận. Bí tiểu cấp khi người bệnh đột ngột không thể đi tiểu được, kèm cảm giác nặng tức vùng hạ vị. Khám ghi nhận có cầu bàng quang. Bí tiểu mạn thường đặc trưng với các triệu chứng như chậm khởi phát dòng nước tiểu, tiểu phải rặn, dòng nước tiểu yếu, tiểu nhỏ giọt lúc kết thúc và cảm giác tiểu không hết. Bế tắc đường tiểu có thể không biểu hiện triệu chứng lâm sàng hoặc có triệu chứng của nhiễm khuẩn tiểu (phía trên chỗ tắc nghẽn) và phát hiện bế tắc đường tiểu trên chủ yếu dựa vào các xét nghiệm hình ảnh học như siêu âm bụng hoặc CT scan bụng.
+
+### 2.7.3. Nguyên nhân
+
+Tắc nghẽn có thể do sỏi, u bướu vùng bụng chậu chèn từ ngoài vào (u xơ tuyến tiền liệt, ung thư cổ tử cung, u sau phúc mạc,...), u bàng quang, bàng quang thần kinh, hẹp niệu đạo,...
+
+## 2.8. Hội chứng tăng huyết áp
+
+### 2.8.1. Định nghĩa
+
+Tăng huyết áp khi huyết áp tâm thu $\ge 140\text{ mmHg}$ và/hoặc huyết áp tâm trương $\ge 90\text{ mmHg}$.
+
+### 2.8.2. Phân loại
+
+Bảng 14.4. Phân loại tăng huyết áp
+
+| Phân loại | Huyết áp tâm thu (mmHg) | Huyết áp tâm trương (mmHg) |
+| :--- | :---: | :---: |
+| Bình thường | $< 120$ | $< 80$ |
+| Tiền tăng huyết áp | $120 - 139$ | $80 - 89$ |
+| Tăng huyết áp giai đoạn 1 | $140 - 159$ | $90 - 99$ |
+| Tăng huyết áp giai đoạn 2 | $\ge 160$ | $\ge 100$ |
+
+### 2.8.3. Lâm sàng
+
+Có ba nhóm triệu chứng chính:
+
+- Nhóm triệu chứng do tăng huyết áp: nhức đầu vùng chẩm vào buổi sáng sau khi thức dậy, chóng mặt, hồi hộp, mệt mỏi
+
+- Nhóm triệu chứng mạch máu do tăng huyết áp: chảy máu mũi, nhìn lóa do tổn thương võng mạc, đau ngực do phình bóc tách động mạch chủ ngực, chóng mặt tư thế
+
+- Nhóm triệu chứng do bệnh căn bản của tăng huyết áp thứ phát: nhức đầu từng cơn kèm hồi hộp đánh trống ngực, đỏ bừng mặt trong u tủy thượng thận, yếu liệt cơ do hạ kali máu (hội chứng Conn).
+
+### 2.8.4. Nguyên nhân
+
+Tăng huyết áp thứ phát có nhiều nhóm nguyên nhân (xem bài Tiếp cận người bệnh tăng huyết áp), trong đó có nguyên nhân do bệnh mạch máu thận. Chẩn đoán dựa vào khám lâm sàng nghe được âm thổi vùng bụng (âm thổi động mạch thận) và xét nghiệm siêu âm Doppler động mạch thận hoặc chụp động mạch thận.
+
+- **Hẹp động mạch thận do xơ vữa** chiếm $2/3$ các trường hợp. Vị trí hẹp thường ở đoạn gần động mạch, có thể xảy ra ở một hay cả hai bên, đôi khi hẹp ngay lỗ động mạch. Thường gặp ở tuổi $30 - 70$ và diễn tiến có thể gây huyết khối động mạch.
+
+- **Hẹp động mạch thận do dị sản sợi cơ** chiếm $1/3$ các trường hợp, thường chỗ hẹp ở $1/3$ phần xa động mạch, đôi khi hẹp hai bên và thường gặp ở phụ nữ trẻ. Tiên lượng tốt với $74\%$ tự hết sau khoảng 1 năm.
+
+Các nguyên nhân khác do thận gây tăng huyết áp bao gồm bệnh cầu thận (viêm cầu thận cấp, viêm cầu thận mạn), thận đa nang, nhiễm khuẩn tiểu,...
+
+## 2.9. Hội chứng suy thận cấp
+
+### 2.9.1. Định nghĩa
+
+Là hội chứng đặc trưng lâm sàng là giảm nhanh và cấp tính (vài giờ – vài ngày) độ lọc cầu thận (Glomerular Filtration Rate – GFR) biểu hiện thông qua tăng creatinin huyết thanh, thường có kèm theo giảm thể tích nước tiểu.
+
+### 2.9.2. Phân loại
+
+**Bảng 14.5.** Tiêu chuẩn chẩn đoán suy thận cấp
+
+| Đặc điểm | RIFLE 2004 | AKIN 2006 | KDIGO 2012 |
+| :--- | :--- | :--- | :--- |
+| Creatinin huyết tương tăng | $\ge 50\%$ so với cơ bản trong $< 7$ ngày | $\ge 0,3\text{ mg/dL}$ trong $48$ giờ<br>$\ge 50\%$ so với cơ bản trong $48$ giờ | $\ge 0,3\text{ mg/dL}$ trong $48$ giờ<br>$\ge 1,5$ lần so với cơ bản trong $< 7$ ngày |
+| Thể tích nước tiểu | $< 0,5\text{ mL/kg/giờ}$ trong $> 6$ giờ | | |
+
+**Sơ đồ: Hình 14.4. Nguyên nhân gây tổn thương thận cấp**
+- Nguyên nhân tổn thương thận cấp
+  - Trước thận
+    - Giảm thể tích lòng mạch
+    - Giảm cung lượng tim
+    - Rối loạn cơ chế tự điều hòa
+    - Co mạch thận
+  - Tại thận
+    - Bệnh cầu thận
+    - Hoại tử ống thận cấp: thiếu máu, độc chất
+    - Viêm ống thận mô kẽ cấp
+    - Bệnh mạch máu thận
+  - Sau thận
+
+2.9.3. Lâm sàng: dựa vào thể tích nước tiểu, suy thận cấp có thể có:
+
+- Không thiểu niệu: thể tích nước tiểu > 400 mL/ngày
+- Thiểu niệu: thể tích nước tiểu $\le 400$ mL/ngày
+- Vô niệu: thể tích nước tiểu $\le 100$ mL/ngày
+- Vô niệu hoàn toàn: thể tích nước tiểu $\le 50$ mL/ngày.
+
+2.9.4. Nguyên nhân: Hình 14.4.
+
+## 2.10. Hội chứng suy thận mạn
+
+Đây là hội chứng đặc trưng bởi mất chức năng thận kéo dài từ vài tháng đến vài năm và chỉ biểu hiện triệu chứng khi GFR còn khoảng 10 – 15% mức bình thường.
+
+### 2.10.1. Định nghĩa bệnh thận mạn (theo KDIGO 2012)
+
+Bệnh thận mạn là những bất thường về cấu trúc và chức năng thận kéo dài trên 3 tháng, ảnh hưởng lên sức khỏe người bệnh, được đặc trưng bằng bất kì tiêu chuẩn nào sau đây tồn tại kéo dài > 3 tháng:
+
+- Dấu chứng của tổn thương thận:
+  + Albumin niệu > 30 mg/24 giờ, hoặc ACR > 30 mg/g
+  + Cặn lắng nước tiểu bất thường
+  + Điện giải và bất thường khác do bệnh lý ống thận
+  + Bất thường mô bệnh học (sinh thiết thận)
+
++ Bất thường cấu trúc thận dựa vào hình ảnh học
++ Tiền căn có ghép thận.
+- Giảm $\text{GFR} < 60\text{ mL/phút}/1,73\text{ m}^2\text{ da}$.
+
+### 2.10.2. Phân loại bệnh thận mạn
+
+Theo KDIGO 2012, bệnh thận mạn được phân loại theo CGA, trong đó C (Cause) là nguyên nhân, G (GFR) là độ lọc cầu thận và A (Albuminuria) là albumin niệu. Ví dụ C (Đái tháo đường) G3a A2.
+
+### 2.10.3. Lâm sàng
+
+Ở giai đoạn sớm, người bệnh thường có biểu hiện triệu chứng của bệnh căn nguyên hoặc đôi khi không có triệu chứng đặc hiệu cho đến khi GFR giảm nhiều đến giai đoạn $4-5$ thường sẽ biểu hiện của hội chứng urea huyết cao (một số biểu hiện trên hệ tiêu hóa như buồn nôn, nôn, chán ăn, liệt ruột; trên hệ thần kinh như rối loạn tri giác, lơ mơ, ngủ gà, run vẩy, kích thích, hội chứng chân không yên, động kinh; trên hệ tim mạch như suy tim, viêm màng ngoài tim, chèn ép tim,...).
+
+| Hướng dẫn tần suất theo dõi (số lần/năm) theo GFR và albumin niệu | Albumin niệu dai dẳng | Albumin niệu dai dẳng | Albumin niệu dai dẳng |
+| --- | --- | --- | --- |
+| Hướng dẫn tần suất theo dõi (số lần/năm) theo GFR và albumin niệu | A1 | A2 | A3 |
+| Hướng dẫn tần suất theo dõi (số lần/năm) theo GFR và albumin niệu | Bình thường – Tăng nhẹ | Tăng trung bình | Tăng nặng |
+| Hướng dẫn tần suất theo dõi (số lần/năm) theo GFR và albumin niệu | $< 30\text{ mg/g}$ $< 3\text{ mg/mmol}$ | $30 - 300\text{ mg/g}$ $3 - 30\text{ mg/mmol}$ | $> 300\text{ mg/g}$ $> 30\text{ mg/mmol}$ |
+| GFR ($\text{mL/phút}/1,73\text{ m}^2\text{ da}$) | G1 | Bình thường hoặc cao | $\ge 90$ | 1 nếu bệnh thận mạn | 1 | 2 |
+| GFR ($\text{mL/phút}/1,73\text{ m}^2\text{ da}$) | G2 | Giảm nhẹ | $60 - 89$ | 1 nếu bệnh thận mạn | 1 | 2 |
+| GFR ($\text{mL/phút}/1,73\text{ m}^2\text{ da}$) | G3a | Giảm nhẹ – trung bình | $45 - 59$ | 1 | 2 | 3 |
+| GFR ($\text{mL/phút}/1,73\text{ m}^2\text{ da}$) | G3b | Giảm trung bình – nặng | $30 - 44$ | 2 | 3 | 3 |
+| GFR ($\text{mL/phút}/1,73\text{ m}^2\text{ da}$) | G4 | Giảm nặng | $15 - 29$ | 3 | 3 | 4+ |
+| GFR ($\text{mL/phút}/1,73\text{ m}^2\text{ da}$) | G5 | Suy thận | $< 15$ | 4+ | 4+ | 4+ |
+
+Hình 14.5. Các giai đoạn của bệnh thận mạn theo KDIGO 2012
+
+_2.10.4. Nguyên nhân: theo KDOQI 2002._
+
+**Bảng 14.6.** Nguyên nhân bệnh thận mạn
+
+| Bệnh lý | Loại chính |
+| :--- | :--- |
+| Bệnh thận do đái tháo đường | Đái tháo đường type 1 và type 2 |
+| Bệnh thận không do đái tháo đường | Bệnh cầu thận (hậu nhiễm, tự miễn, thuốc, ung thư, nguyên phát)<br>Bệnh mạch máu (tăng huyết áp, bệnh mạch máu lớn, bệnh vi mạch thận)<br>Bệnh ống thận mô kẽ (nhiễm khuẩn tiểu, sỏi niệu, tắc nghẽn đường tiểu, ngộ độc thuốc,...)<br>Bệnh nang thận (thận đa nang, thận nhiều nang) |
+| Bệnh thận ghép | Thải ghép mạn<br>Ngộ độc thuốc ức chế calcineurin<br>Bệnh thận tái phát trên thận ghép<br>Bệnh thận ghép |
+
+## CÂU HỎI TỰ LƯỢNG GIÁ
+
+_Chọn một câu đúng_
+
+1. Tiêu chuẩn chính chẩn đoán hội chứng thận hư là gì?
+   - A. Tiêu protein lớn hơn hoặc bằng $3,5\text{ g/1,73 m}^2\text{ da/24 giờ}$
+   - B. Lipid máu toàn phần lớn hơn hoặc bằng $800\text{ mg/dL}$
+   - C. Protein máu giảm dưới $60\text{ g/L}$
+   - D. Albumin máu giảm dưới $30\text{ g/L}$
+2. Đặc điểm nào sau đây phù hợp với tiểu máu?
+   - A. Có thể gặp ở người bệnh uống vitamin B2
+   - B. Có thể phát hiện tình cờ qua xét nghiệm nước tiểu
+   - C. Tiểu máu vi thể: cặn Addis có trên $3.000$ hồng cầu/phút
+   - D. Tiểu máu đại thể: cặn Addis có trên $10.000$ hồng cầu/phút
+3. Tiểu máu vi thể CHỌN CÂU ĐÚNG:
+   - A. Cặn Addis hồng cầu trên $5.000$ hồng cầu/phút
+   - B. Cặn lắng nước tiểu $> 10$ hồng cầu/quang trường $40$
+   - C. Que nhúng dương tính với máu, cặn lắng không trụ hồng cầu, hồng cầu
+   - D. Nước tiểu có màu hồng nhạt
+
+4. Đặc điểm nào phù hợp tiểu máu từ đường tiểu dưới?
+- A. Tiểu máu vi thể
+- B. Tiểu máu toàn dòng
+- C. Tiều có lẫn máu cục
+- D. Hồng cầu biến dạng
+
+5. Bệnh lý nào KHÔNG gây tiểu máu?
+- A. Bệnh thận IgA
+- B. Lao hệ niệu
+- C. Viêm thận kẽ cấp
+- D. Dùng thuốc kháng lao (rifampin)
+
+6. Bệnh lý nào gây tiểu máu vi thể và hồng cầu biến dạng?
+- A. Viêm thận kẽ cấp do thuốc
+- B. Hội chứng Goodpasture
+- C. Viêm bàng quang cấp do *E. coli*
+- D. Bệnh thận do đái tháo đường
+
+7. Xét nghiệm nào quan trọng nhất để chẩn đoán nguyên nhân phù do thận?
+- A. Albumin máu, protid máu
+- B. Tổng phân tích nước tiểu
+- C. Protein niệu 24 giờ, albumin niệu/creatinin niệu
+- D. BUN, creatinin huyết thanh
+
+8. Triệu chứng nào sau đây là triệu chứng của hội chứng bế tắc đường tiểu dưới?
+- A. Tiểu nhiều lần
+- B. Tiểu lắt nhắt
+- C. Tiểu gấp hoặc tiểu gắt
+- D. Tiểu lâu, tia nước tiểu yếu
+
+9. Yếu tố nào làm cho xét nghiệm tổng phân tích nước tiểu dương tính giả với máu, CHỌN CÂU ĐÚNG:
+- A. Thuốc rifampicin
+- B. Nước tiểu vàng sậm do tăng bilirubin
+- C. Tiểu myoglobin
+- D. Nước tiểu có chất khử (acid ascorbic)
+
+10. Nguyên nhân nào không gây tiểu ít?
+- A. Sỏi kẹt cổ bàng quang hoàn toàn
+- B. Viêm cầu thận cấp
+
+C. Suy thận cấp trước thận
+D. Hội chứng thận hư
+
+ĐÁP ÁN: 1.A 2.B 3.A 4.C 5.D 6.B 7.B 8.D 9.C 10.A
+
+## TÌNH HUỐNG LÂM SÀNG THẢO LUẬN
+
+### Tình huống 1
+
+*Bệnh sử:* người bệnh nữ, 28 tuổi. Nhập viện vì phù toàn thân 1 tuần nay, tăng 10kg. Tiểu # $500\text{ ml}/24\text{ giờ}$.
+
+*Tiền căn:* không ghi nhận bệnh lý. PARA 1001 (thai kỳ bình thường).
+
+*Khám lâm sàng:* tỉnh, phù toàn thân. Huyết áp $130/80\text{ mmHg}$, mạch 88 lần/phút. T⁰ $37\text{°C}$. Cân nặng $65\text{ kg}$, chiều cao $160\text{ cm}$. Tràn dịch đa màng.
+
+*Cận lâm sàng:* TPTNT: $\text{pH} = 8$, $\text{d} = 1.030$, glucose (-), protein = $1200\text{ mg}\%$, hồng cầu $250/\text{uL}$, bạch cầu $250/\text{uL}$, Nitrite (+). Creatinin niệu $100\text{mg}\%$; $\text{BUN} = 60\text{ mg/dL}$, creatinin máu = $2\text{ mg/dL}$, Protein máu = $3\text{ g/dL}$.
+
+Điện di đạm máu: $\text{Alb } 24\%$; $\alpha_1\text{ } 5,6\%$; $\alpha_2\text{ } 30,4\%$; $\beta\text{ } 18\%$; $\gamma\text{ } 22\%$.
+
+1. Dựa vào lâm sàng và cận lâm sàng, người bệnh có những vấn đề nào trong 10 hội chứng thận học? Giải thích.
+2. Đưa ra ít nhất 2 chẩn đoán phù hợp với lý do nhập viện của người bệnh này?
+3. Cần làm thêm xét nghiệm gì để chẩn đoán xác định? Giải thích.
+
+### Tình huống 2
+
+*Bệnh sử:* người bệnh nam, 75 tuổi, nhập viện vì đau hạ vị 2 ngày, ăn uống bình thường, không thay đổi thói quen đi tiêu. Tiểu # $10\text{ mL}/24\text{ giờ}$.
+
+*Tiền căn:* khám sức khỏe định kì 2 tháng trước bình thường.
+
+*Khám lâm sàng:* lừ đừ, huyết áp $150/90\text{ mmHg}$, mạch 110 L/phút, T⁰ $37\text{°C}$, nhịp thở 20 lần/phút. Tĩnh mạch cảnh nổi $45\text{°}$, cầu bàng quang (+). Người bệnh được đặt sonde tiểu ra $1.500\text{ mL}$, nước tiểu đỏ sậm, có máu cục.
+
+*Xét nghiệm:* TPTNT: $\text{pH} = 6$, $\text{d} = 1.015$, protein = $30\text{ mg}\%$, hồng cầu $250/\text{uL}$, bạch cầu $500/\text{uL}$. Nitrite (-). $\text{BUN} = 75\text{ mg}\%$, creatinin máu = $2,5\text{ mg}\%$
+
+1. Dựa vào lâm sàng và cận lâm sàng, người bệnh có những vấn đề nào trong 10 hội chứng thận học? Giải thích.
+2. Đưa ra ít nhất hai chẩn đoán phù hợp với lý do nhập viện của người bệnh này?
+3. Cần làm thêm xét nghiệm gì để chẩn đoán xác định? Giải thích.
+
+# TÀI LIỆU THAM KHẢO
+
+1. Eric J., Paul WS., Anupam A. Diagnosis and Clinical Evaluation of Acute Kidney Injury. *Comprehensive Clinical Nephrology $6^{th}$.* Elsevier, 2019 pp.810-818.
+2. Joanne MB., Karl S. Chronic Kidney Disease. *Harrison's Principle of Internal Medicine $19^{th}$.* Elsevier, 2016, pp.1811-1821.
+3. KDOQI guideline-Chronic Kidney Disease. National Kidney Foundation. *American Journal of Kidney Disease*; 39(2), Suppl 1, 2002, pp.1-242.
+4. Lesley AI., Richard AL. Laboratory Evaluation of Kidney Disease. *Schrier's Diseases of The Kidney $9^{th}$.* Lippincott Williams & Wilkins, pp.295-337.
+5. Michael E., Andrew ZF., John CS. Approach to the patient with kidney disease. *Brenner and Rector's The Kidney $10^{th}$.* Elsevier, 2016, pp.754-778.
+
+# TIẾP CẬN CHẨN ĐOÁN NHIỄM KHUẨN ĐƯỜNG TIẾT NIỆU
+
+ThS.BSNT. Lê Nguyễn Xuân Điền, TS.BS. Huỳnh Ngọc Phương Thảo
+
+## MỤC TIÊU HỌC TẬP
+
+1. Xác định các yếu tố nguy cơ nhiễm khuẩn đường tiết niệu.
+2. Hỏi bệnh sử và khám lâm sàng một người bệnh nhiễm khuẩn đường tiết niệu.
+3. Biện luận được kết quả cấy nước tiểu.
+4. Chẩn đoán xác định các loại nhiễm khuẩn đường tiết niệu thường gặp.
+5. Chẩn đoán biến chứng nhiễm khuẩn đường tiết niệu.
+
+## 1. CÁC ĐỊNH NGHĨA
+
+**1.1. Nhiễm khuẩn đường tiết niệu:** là sự hiện diện của vi khuẩn hay các vi sinh vật khác trong nước tiểu hay trong mô niệu dục (bình thường, nước tiểu và mô niệu dục vô trùng).
+
+Thuật ngữ **vi khuẩn niệu (hay tiểu vi khuẩn)** mô tả sự phân lập được bất kỳ vi khuẩn nào trong nước tiểu, mặc dù, trong thực hành thường chỉ đến sự phân lập vi trùng đạt tiêu chuẩn về số lượng vi khuẩn chuẩn.
+
+**1.2. Tiểu vi khuẩn không triệu chứng (nhiễm khuẩn đường tiết niệu không triệu chứng) – nhiễm khuẩn đường tiết niệu có triệu chứng**
+
+- **Nhiễm khuẩn đường tiết niệu không triệu chứng** (*nhiễm khuẩn đường tiết niệu không triệu chứng, tiểu vi khuẩn không triệu chứng*) là khi cấy nước tiểu thỏa tiêu chuẩn về số lượng vi khuẩn nhưng không có bất kỳ dấu hiệu hay triệu chứng gì của nhiễm khuẩn đường tiết niệu.
+- **Nhiễm khuẩn đường tiết niệu có triệu chứng** biểu với nhiễm khuẩn bàng quang (viêm bàng quang hay nhiễm khuẩn đường tiết niệu dưới hay nhiễm khuẩn tiêu dưới), nhiễm khuẩn thận (viêm đài bể thận hay nhiễm khuẩn đường tiết niệu trên hay nhiễm khuẩn tiểu trên), hay nhiễm khuẩn tuyến tiền liệt (viêm tuyến tiền liệt vi trùng cấp hay mạn tính).
+
+**1.3. Nhiễm khuẩn đường tiết niệu phức tạp – nhiễm khuẩn đường tiết niệu đơn giản**
+
+- **Nhiễm khuẩn đường tiết niệu đơn giản**: nhiễm khuẩn niệu đạo, bàng quang cấp xảy ra ở phụ nữ, không có các yếu tố nguy cơ của nhiễm khuẩn đường tiết niệu phức tạp. Lưu ý: hầu hết, nhiễm khuẩn đường tiết niệu ở nam giới đều được xem là phức tạp vì thường đi kèm bất thường về giải phẫu hoặc chức năng đường niệu.
+- **Nhiễm khuẩn đường tiết niệu phức tạp**: nhiễm khuẩn xảy ra ở người bệnh có kèm theo ít nhất một trong các yếu tố nguy cơ sau đây làm phức tạp vấn đề xử trí và tiên lượng: có thai,
+
+người lớn tuổi có bệnh nội khoa phối hợp, tắc nghẽn đường tiểu (sỏi, u, nang), bất thường giải phẫu đường niệu (bệnh trào ngược bàng quang niệu quản, niệu quản bể thận, hẹp khúc nối bể thận niệu quản,...), rối loạn chức năng bàng quang, ngoại vật trong đường tiểu (thông tiểu), thủ thuật trên đường niệu gần đây, đái tháo đường, dùng thuốc ức chế miễn dịch, suy thận, ghép thận.
+
+**1.4. Nhiễm khuẩn đường tiết niệu lặp lại (recur) – nhiễm khuẩn đường tiết niệu tái nhiễm (reinfection) – nhiễm khuẩn đường tiết niệu tái phát (relapse)**
+
+Nhiễm khuẩn đường tiết niệu cũng thường lặp lại. Nhiễm khuẩn đường tiết niệu tái nhiễm là khi nhiễm khuẩn lặp lại sau khi vi trùng xâm nhập lại vào đường niệu dục, thường từ các khúm vi khuẩn quanh niệu đạo. Tái nhiễm xảy ra khi nhiễm khuẩn lặp lại với một tác nhân vi khuẩn khác. Tuy nhiên, khi các khúm vi khuẩn quanh niệu đạo vẫn tồn tại, thì vẫn có thể phân lập được cùng chủng vi khuẩn dù tái nhiễm.
+
+Nhiễm khuẩn đường tiết niệu tái phát xảy ra khi vi khuẩn gây nhiễm khuẩn đường tiết niệu vẫn tồn tại dù đã được điều trị kháng sinh. Chúng vi khuẩn phân lập được giống như vi khuẩn của lần nhiễm trước. Nhiễm khuẩn đường tiết niệu tái phát thường đặt ra vấn đề đề kháng kháng sinh.
+
+**1.5. Hội chứng niệu đạo cấp (Acute urethral syndrome)**
+
+Bao gồm tiểu lắt nhắt (frequency), tiểu gắt buốt (dysuria) và tiểu gấp (urgency). Hội chứng niệu đạo cấp xảy ra trên hơn 90% người bệnh nhiễm khuẩn đường tiết niệu cấp tính. Tuy nhiên, khoảng $30 - 50\%$ người bệnh có hội chứng niệu đạo cấp không có nhiễm khuẩn đường tiết niệu, mặc dù phần lớn có tiểu mủ. Ngoài nhiễm khuẩn đường tiết niệu (trên bàng quang và đài bể thận), các nhiễm khuẩn khác như viêm âm đạo, viêm niệu đạo và viêm tuyến tiền liệt cũng có thể gây hội chứng niệu đạo cấp.
+
+**2. DỊCH TỄ – YẾU TỐ BẢO VỆ – YẾU TỐ NGUY CƠ – TÁC NHÂN**
+
+**2.1. Dịch tễ**
+
+Ngoại trừ ở trẻ em và người già, nhiễm khuẩn đường tiết niệu thường xảy ra ở nữ nhiều hơn nam (Hình 15.1). Trong giai đoạn chu sinh, tỉ lệ nhiễm khuẩn đường tiết niệu hơi cao hơn ở nam so với nữ vì trẻ nam thường có bất thường đường niệu bẩm sinh. Sau 50 tuổi, nam giới thường hay có tình trạng tắc nghẽn đường niệu do phì đại tuyến tiền liệt, do đó, tỉ lệ nhiễm khuẩn tiểu ở nam nhiều hơn nữ. Ở giai đoạn từ 1 đến 50 tuổi, nhiễm khuẩn đường tiết niệu và nhiễm khuẩn đường tiết niệu lặp lại là bệnh lý thường gặp ở nữ. Tỉ lệ tiểu vi khuẩn không triệu chứng khoảng $5\%$ ở phụ nữ trong độ tuổi $20 - 40$ tuổi và có thể cao lên khoảng $40 - 50\%$ ở nam và nữ lớn tuổi. Khoảng $50 - 80\%$ phụ nữ trong dân số mắc ít nhất một lần nhiễm khuẩn đường tiết niệu trong đời và thường là viêm bàng quang không phức tạp.
+
+**2.2. Yếu tố bảo vệ**
+
+Bình thường, nước tiểu và đường niệu dục vô trùng, ngoại trừ niệu đạo xa. Các khúm vi khuẩn thường trú ở niệu đạo xa có vai trò quan trọng trong đề kháng chống lại sự di trú của các tác nhân gây bệnh vào vị trí này. Quần hệ vi khuẩn này gồm các vi khuẩn hiếu khí hội sinh thường có ở da, như Staphylococci coagulase âm, Streptococci viridans và chủng Corynebacterium. Sau đây là các cơ chế bảo vệ đường tiểu chống nhiễm khuẩn.
+
+**Sơ đồ: Hình 15.1. Tần suất phân bố nhiễm khuẩn đường tiết niệu có triệu chứng và tiểu vi khuẩn không triệu chứng theo tuổi và giới**
+- Nhiễm khuẩn tiểu có triệu chứng
+  - Nhũ nhi
+  - $\sigma^{7} > \text{Q}$ Trước tuổi đi học
+  - Viêm bàng quang "trăng mật" $\text{Q}$
+  - Viêm đài bể thận ở thai kỳ
+  - Nguy cơ đặt thông niệu đạo
+  - Phì đại tuyến tiền liệt $\sigma^{7}$
+- Khuẩn niệu không triệu chứng
+  - Suất hiện mắc (%) --> 0, 2, 4, 6, 8, 10
+  - Tuổi --> 0, 5, 10, 15, 20, 25, 30, 60, 70
+  - $\sigma^{7} < 1\%$
+
+- Nước tiểu: ức chế sự phát triển của vi khuẩn nhờ áp lực thẩm thấu cao, nồng độ urea và acid hữu cơ cao, pH acid và các kháng thể trong nước tiểu là môi trường không thuận lợi cho vi khuẩn phát triển. Ngoài ra, trong nước tiểu có protein Tamm Horsfall ức chế khả năng bám dính của vi khuẩn. Dòng nước tiểu lưu thông từ cao xuống cũng giúp tống xuất vi khuẩn ra khỏi đường niệu.
+
+- Âm đạo: các vi khuẩn Lactobacillus cư trú ở niêm mạc âm đạo làm giảm nguy cơ dây nhiễm các vi khuẩn đường ruột. Do đó, những yếu tố triệt tiêu chủng vi khuẩn có lợi này (như sử dụng màng tránh thai có thuốc diệt tinh trùng, sử dụng quá thường xuyên các dung dịch vệ sinh phụ nữ) sẽ làm tăng nguy cơ nhiễm khuẩn đường tiết niệu.
+
+- Bàng quang: bảo vệ chống lại nhiễm khuẩn đường tiết niệu bằng khả năng tống xuất nước tiểu và lớp mucopolysaccharide bao phủ niêm mạc cản trở sự bám dính của vi khuẩn.
+
+- Niệu quản: nhu động niệu quản tạo điều kiện cho dòng nước tiểu đi từ thận xuống bàng quang. Ngoài ra, cấu trúc giải phẫu chỗ đổ vào bàng quang của niệu quản và van niệu quản – bàng quang là hàng rào ngăn chặn nhiễm khuẩn ngược dòng.
+
+- Các đáp ứng miễn dịch: bao gồm bạch cầu đa nhân, các kháng thể và hệ thống bổ thể giúp hạn chế tình trạng nhiễm khuẩn.
+
+## 2.3. Yếu tố nguy cơ
+
+- Các yếu tố nguy cơ độc lập của viêm đài bể thận là ở phụ nữ trẻ khỏe mạnh bao gồm quan hệ tình dục thường xuyên, có bạn tình mới, bị nhiễm khuẩn đường tiết niệu trong 12 tháng trước, tiền sử nhiễm khuẩn đường tiết niệu trong lúc mang thai, đái tháo đường và tiểu không kiểm soát. Việc có cùng yếu tố nguy cơ của viêm bàng quang và viêm đài bể thận không có gì bất ngờ vì viêm đài bể thận điển hình là do vi khuẩn từ bàng quang ngược dòng lên đường tiểu trên. Tuy nhiên, viêm đài bể thận có thể xảy ra mà hoàn toàn không có các triệu chứng viêm bàng quang trước đó.
+- Khoảng $20 - 30\%$ phụ nữ có một đợt nhiễm khuẩn đường tiết niệu sẽ bị nhiễm khuẩn đường tiết niệu lặp lại. Nhiễm khuẩn đường tiết niệu lặp lại sớm (trong vòng 2 tuần) thường được xem như tái phát hơn là tái nhiễm và có thể cần đánh giá người bệnh một cách cặn kẽ. Tái phát nhiều lần sau khi nhiễm khuẩn đường tiết niệu hiếm gặp và được gọi là một chuỗi các đợt nhiễm khuẩn đường tiết niệu. Chuỗi các đợt nhiễm khuẩn đường tiết niệu này có thể liên quan đến một yếu tố nguy cơ mới hay do hàng rào biểu mô bảo vệ chống nhiễm khuẩn của hệ niệu đã bị bong tróc trong trong giai đoạn viêm bàng quang cấp. Nguy cơ nhiễm khuẩn đường tiết niệu lặp lại sẽ ngày càng giảm khi thời gian từ thời điểm hiện tại đến lần nhiễm khuẩn đường tiết niệu trước càng dài. Một nghiên cứu bệnh chứng về nhiễm khuẩn đường tiết niệu lặp lại trên phụ nữ tiền mãn kinh da trắng đã xác định các yếu tố nguy cơ của nhiễm khuẩn đường tiết niệu bao gồm quan hệ tình dục thường xuyên, dùng thuốc diệt tinh trùng, có bạn tình mới, nhiễm khuẩn đường tiết niệu lần đầu trước 15 tuổi và tiền sử nhiễm khuẩn đường tiết niệu trong thai kỳ. Yếu tố nguy cơ thói quen hằng định của nhiễm khuẩn đường tiết niệu lặp lại chính là quan hệ tình dục thường xuyên và dùng thuốc diệt tinh trùng. Ở phụ nữ mãn kinh, các yếu tố giải phẫu ảnh hưởng đến khả năng làm trống bàng quang, như sa bàng quang, tiểu không kiểm soát và nước tiểu tồn lưu, có liên quan mạnh đến nhiễm khuẩn đường tiết niệu lặp lại.
+- Ở phụ nữ có thai, tiểu vi khuẩn không triệu chứng để lại hậu quả và do đó, việc tầm soát và điều trị là chỉ định bắt buộc. Tiểu vi khuẩn không triệu chứng trong quá trình mang thai thường kèm theo sinh non và tử vong chu sinh của thai và viêm đài bể thận cấp ở mẹ. Phân tích gộp của Cochrane chỉ ra rằng điều trị tiểu vi khuẩn không triệu chứng ở phụ nữ mang thai sẽ giảm $75\%$ nguy cơ viêm đài bể thận.
+- Phần lớn nam giới nhiễm khuẩn đường tiết niệu đều có bất thường cấu trúc hay chức năng của hệ niệu, thường gặp nhất là tắc nghẽn đường niệu do phì đại tuyến tiền liệt. Không phải tất cả nam giới nhiễm khuẩn đường tiết niệu đều có thể tìm ra bất thường hệ niệu, đặc biệt là ở nam giới $\leq 45$ tuổi. Không cắt bao quy đầu cũng làm tăng nguy cơ nhiễm khuẩn đường tiết niệu, vì *E. coli* thường khu trú tại các tuyến và bao quy đầu và rồi sẽ xâm nhập vào đường niệu.
+- Phụ nữ (không phải nam giới) bị đái tháo đường sẽ tăng nguy cơ nhiễm khuẩn đường tiết niệu và tiểu vi khuẩn không triệu chứng lên $2 - 3$ lần so với phụ nữ không đái tháo đường. Thời gian đái tháo đường càng dài và dùng insulin (hơn là thuốc viên uống) cũng làm tăng nguy cơ nhiễm khuẩn đường tiết niệu ở phụ nữ đái tháo đường. Ở người đái tháo đường, còn có các yếu tố nguy cơ làm tăng nhiễm khuẩn đường tiết niệu như chức năng bàng quang kém, tắc nghẽn đường ra nước tiểu và tiểu không hết. Giảm bài tiết các cytokine cũng có thể liên quan đến tiểu vi khuẩn không triệu chứng ở phụ nữ đái tháo đường.
+
+## 2.4. Tác nhân
+
+- Tác nhân gây nhiễm khuẩn đường tiết niệu khác nhau tùy theo bệnh cảnh lâm sàng nhưng thường là trực khuẩn Gram âm di trú đến đường tiết niệu. Các đặc tính nhạy cảm của vi trùng thay đổi theo bệnh cảnh và địa dư. Ở Mỹ, trong viêm bàng quang cấp không phức tạp, các tác nhân được phân lập gồm: 75 – 90% là *E. coli*; 5 – 15% là *Staphylococcus saprophyticus* (thường thấy ở phụ nữ trẻ); chủng *Klebsiella*, chủng *Proteus*, chủng *Enterococcus*, chủng *Citrobacter* và các vi khuẩn khác chiếm 5 – 10%. Ở châu Âu và Brazil cũng có tỉ lệ tác nhân tương tự. Phổ vi khuẩn gây viêm đài bể thận không phức tạp cũng tương tự với *E. coli* chiếm ưu thế. Trong nhiễm khuẩn đường tiết niệu phức tạp (ví dụ nhiễm khuẩn đường tiết niệu do đặt sonde tiểu), *E. coli* vẫn là tác nhân thường gặp nhất, nhưng các trực khuẩn gram âm hiếu khí khác cũng thường được phân lập, như chủng *Klebsiella*, chủng *Proteus*, chủng *Citrobacter*, chủng *Acinetobacter*, chủng *Morganella* và *Pseudomonas aeruginosa*. Vi khuẩn Gram dương (như *Enterococci* và *Staphylococcus aureus*) và nấm cũng là các tác nhân quan trọng của nhiễm khuẩn đường tiết niệu phức tạp. Một nghiên cứu hồi cứu của tác giả Cao Minh Nga và cộng sự về sự đề kháng kháng sinh của các vi khuẩn gây nhiễm khuẩn đường tiết niệu ở người lớn ghi nhận, trong các mẫu nước tiểu cấy có vi khuẩn mọc, *E. coli* chiếm tỉ lệ nhiều nhất với 46,85%, theo sau đó là *E. faecalis* 16,33%; *P. aeruginosa* 12,17%; chủng *Klebsiella* 9,89%; *S. saprophyticus* 2,72%; *S. aureus* và *P. mirabilis* 2,44% và chủng *Acinetobacter* 2,86%. Một nghiên cứu khác của tác giả Trần Thị Thanh Nga với đề tài các tác nhân gây nhiễm khuẩn đường tiết niệu thường gặp và đề kháng kháng sinh tại Bệnh viện Chợ Rẫy năm 2010 – 2011 cũng ghi nhận *E. coli* chiếm tỉ lệ cao nhất (47,1%).
+
+- Các dữ liệu về tác nhân và đề kháng thường được lấy từ các khảo sát ở phòng xét nghiệm và nên được lý giải trong bệnh cảnh mà tác nhân này được phân lập. Các dữ liệu hiện có cho thấy sự gia tăng đề kháng kháng sinh của *E. coli* trên toàn thế giới. Tại Bắc Mỹ và châu Âu, khảo sát *E. coli* phân lập từ phụ nữ viêm bàng quang cấp cho thấy tỉ lệ đề kháng với trimethoprime-sulfamethoxazole (TMP-SMX) trên 20% và tỉ lệ đề kháng ciprofloxacin khoảng 5 – 10% tùy từng khu vực. Vì tỉ lệ đề kháng thay đổi tùy theo vùng, do đó, với từng đặc điểm người bệnh cụ thể, cần dựa vào các dữ liệu tại chỗ để quyết định lựa chọn kháng sinh.
+
+- Một số tác nhân gây nhiễm khuẩn đường tiết niệu trên một số đối tượng:
+  - Nhiễm khuẩn đường tiết niệu trên người bệnh đặt sonde tiểu lưu: *E. coli*, *Proteus*, *Pseudomonas*, *Klebsiella*, *Serratia*, *Staphylococci*, *Enterococci*, *Candida*
+  - Nhiễm khuẩn đường tiết niệu ở phụ nữ trẻ sau quan hệ tình dục: *Staphylococcus coagulase* âm
+  - Nhiễm khuẩn đường tiết niệu ở người già: *Enterococcus*
+  - Tiểu bạch cầu vô khuẩn: lao hệ niệu.
+
+# 3. CHẨN ĐOÁN NHIỄM KHUẨN ĐƯỜNG TIẾT NIỆU
+
+## 3.1. Lâm sàng
+
+Nhiễm khuẩn đường tiết niệu có triệu chứng có thể biểu hiện bằng hội chứng niệu đạo cấp (gồm tiểu gắt buốt, tiểu lắt nhắt và tiểu gấp), đau trên xương mu, tiểu đục, đôi khi tiểu máu, sốt kèm ớn lạnh, đau góc sườn lưng, vùng hông hoặc vùng hạ vị. Các nhiễm khuẩn tiểu dưới thường có hội chứng niệu đạo cấp. Các nhiễm khuẩn tiểu trên thường có sốt, ớn lạnh và đau lưng.
+
+Chẩn đoán dù là hội chứng nhiễm khuẩn đường tiết niệu hay nhiễm khuẩn niệu không triệu chứng cũng đều bắt đầu bằng hỏi bệnh sử một cách chi tiết. Bệnh sử có giá trị tiên đoán cao trong chẩn đoán viêm bàng quang đơn giản. Một phân tích gộp đánh giá khả năng nhiễm khuẩn đường tiết niệu cấp tính dựa trên bệnh sử và các dấu hiệu thăm khám kết luận rằng phụ nữ có ít nhất một triệu chứng nhiễm khuẩn đường tiết niệu (tiểu gắt, tiểu lắt nhắt, tiểu máu hay đau lưng) và không có các yếu tố phức tạp, sẽ nguy cơ viêm bàng quang cấp hay viêm đài bể thận cấp là 50%. Nếu không có huyết trắng âm đạo và các yếu tố phức tạp nhưng có các yếu tố nguy cơ của nhiễm khuẩn đường tiết niệu thì khả năng nhiễm khuẩn đường tiết niệu là 90%. Tương tự như vậy, sự kết hợp giữa tiểu gắt và tiểu nhiều lần khi không có huyết trắng âm đạo sẽ tăng nguy cơ nhiễm khuẩn tiết niệu lên 96%.
+
+Lưu ý rằng, việc hỏi bệnh sử như một công cụ chẩn đoán được mô tả phía trên xuất phát từ phân tích gộp, mà phân tích gộp này không có trẻ em, thanh thiếu niên, phụ nữ có thai, nam giới hay người bệnh nhiễm khuẩn đường tiết niệu phức tạp. Ngoài ra, một người bệnh có hội chứng niệu đạo cấp đơn thuần cần phải chẩn đoán phân biệt với các bệnh lý khác như: viêm âm đạo (nữ) hay viêm tuyến tiền liệt (nam).
+
+## 3.2. Một số bệnh cảnh lâm sàng của nhiễm khuẩn đường tiết niệu
+
+### 3.2.1. Viêm bàng quang cấp
+
+Có thể biểu hiện với hội chứng niệu đạo cấp, đau hạ vị trên xương mu, tiểu máu cuối dòng, tiểu máu, tiểu đục. Người bệnh thường không sốt, không đau hông lưng, không có hội chứng viêm.
+
+### 3.2.2. Viêm niệu đạo cấp
+
+Có thể biểu hiện hội chứng niệu đạo cấp kèm tiểu đục đầu dòng. Tác nhân thường gặp là vi khuẩn lây qua đường tình dục như *Chlamydia trachomatis*, *Neisseria gonorrhoeae* hay *Herpes simplex*. Tổn thương do herpes thường gây ra các vết loét gần lỗ niệu đạo.
+
+### 3.2.3. Viêm tuyến tiền liệt cấp
+
+Đột ngột sốt cao, lạnh run, đau vùng dưới thắt lưng, hội chứng niệu đạo cấp và đau tức vùng gần hậu môn. Một số người bệnh có biểu hiện sốt, ớn lạnh mà không có triệu chứng ở đường tiểu. Thăm trực tràng thấy tuyến tiền liệt sưng to, nóng, rất đau. Tuy nhiên, trong trường hợp nhiễm khuẩn cấp tính cần hạn chế thăm khám tuyến tiền liệt bằng tay vì có khả năng đẩy vi trùng vào máu và gây nhiễm khuẩn huyết.
+
+### 3.2.4. Viêm tuyến tiền liệt mạn
+
+Bệnh cảnh gồm nhiễm khuẩn tiểu tái phát thường xuyên với đau vùng gần hậu môn, tiểu đêm. Người bệnh thường không sốt, không ớn lạnh. Thăm khám tuyến tiền liệt không có triệu chứng đặc hiệu. Chẩn đoán dựa vào cấy nước tiểu thông qua nghiệm pháp xoa tuyến tiền liệt. Viêm tuyến tiền liệt mạn thường không chỉ khu trú ở tuyến tiền liệt mà luôn kết hợp với viêm vùng niệu đạo – sinh dục, thường kèm theo xơ hóa và hẹp niệu đạo.
+
+3.2.5. Viêm đài bể thận cấp
+Điển hình, người bệnh đột ngột sốt cao $39-40^\circ\text{C}$ kèm lạnh run, đau góc sườn lưng hoặc vùng hông lưng cùng bên, đau lan theo đường đi của niệu quản đến vùng bẹn đùi tương tự như cơn đau quặn thận. Khám ghi nhận đau hố thắt lưng. Hội chứng niệu đạo cấp có thể xảy ra trước vài ngày và đi kèm các triệu chứng trên. Ở người già, bệnh đái tháo đường, nghiện rượu, suy dinh dưỡng, ghép thận,... thường bệnh cảnh không điển hình và diễn tiến nặng.
+3.2.6. Viêm đài bể thận mạn
+Rất khó phân biệt với các bệnh thận kẽ mạn tính không do nhiễm khuẩn (lạm dụng thuốc giảm đau, tăng acid uric máu,...). Người bệnh có thể trạng gầy mòn, da sạm, tiểu nhiều, tiểu đêm. Bệnh tiến triển dẫn đến suy thận mạn.
+3.2.7. Nhiễm khuẩn đường tiết niệu không triệu chứng
+Chẩn đoán nhiễm khuẩn đường tiết niệu không triệu chứng khi người bệnh không có triệu chứng khu trú hay toàn thân nào giúp nghĩ đến nhiễm khuẩn đường tiết niệu. Bệnh cảnh thường gặp ở phụ nữ có thai, người già, đái tháo đường hoặc có thông tiểu lưu, sỏi thận,... Chẩn đoán xác định khi cấy nước tiểu giữa dòng hai lần liên tiếp cách nhau 24 giờ có $\ge 10^5$ khúm/mL, cùng một loại vi khuẩn.
+3.2.8. Nhiễm khuẩn đường tiết niệu ở người bệnh đặt sonde tiểu lưu
+Triệu chứng lâm sàng thường mơ hồ, không sốt và tự thoái lui sau khi rút sonde tiểu. nhiễm khuẩn đường tiết niệu ở đối tượng này chiếm tỉ lệ khoảng $10-15\%$ người bệnh có đặt sonde tiểu và tăng lên $3-5\%$ mỗi ngày lưu sonde tiểu.
+3.2.9. Nhiễm khuẩn đường tiết niệu ở người bệnh bàng quang thần kinh
+Những người bệnh này thường được đặt sonde tiểu lưu, nhiễm khuẩn đường tiết niệu rất khó điều trị và tiên lượng rất xấu vì thời gian đặt sonde tiểu càng lâu, vi khuẩn càng kháng nhiều loại kháng sinh (đa kháng), người bệnh dễ tử vong trong bệnh cảnh nhiễm khuẩn huyết nặng.
+3.2.10. Nhiễm khuẩn đường tiết niệu ở người bệnh đái tháo đường
+Người bệnh đái tháo đường có nguy cơ nhiễm khuẩn đường tiết niệu không triệu chứng cao gấp 4 lần người bình thường. Nhiễm khuẩn đường tiết niệu trên người bệnh đái tháo đường có triệu chứng nghèo nàn nhưng dễ có biến chứng nặng nề.
+3.3. Cận lâm sàng
+3.3.1. Xét nghiệm tổng phân tích nước tiểu
+Tổng phân tích nước tiểu và cấy nước tiểu là các công cụ hữu ích cho chẩn đoán. Hiểu các thông số của tổng phân tích nước tiểu rất quan trọng trong việc lý giải các kết quả có được. Chỉ có các vi khuẩn Enterobacteriaceae có thể chuyển nitrate thành nitrite và cần có đủ nitrite trong nước tiểu để đạt ngưỡng phát hiện. Nếu một người nữ bị viêm bàng quang cấp có triệu chứng tiểu nhiều lần thì nitrite trong tổng phân tích nước tiểu ít có khả năng dương tính, thậm chí ngay cả khi nhiễm khuẩn do *E. coli*. Xét nghiệm leukocyte esterase giúp xác định enzyme này của bạch cầu đa nhân trong nước tiểu, khi các tế bào này còn nguyên hay bị ly giải. Nhiều bài tổng quan cố gắng mô tả tính chính xác trong chẩn đoán của tổng phân tích nước tiểu. Tổng phân tích nước tiểu có thể xác định chẩn đoán viêm bàng quang không phức tạp ở người bệnh có xác suất tiền nghiệm cao. Hoặc nitrite hoặc leukocyte esterase dương tính có thể xem là kết quả dương tính. Có máu trong nước tiểu cũng có thể gợi ý chẩn đoán nhiễm khuẩn đường tiết niệu. Tổng phân tích nước tiểu có nitrite và leukocyte esterase đều âm tính ở trên cùng loại người bệnh thì nhà lâm sàng nên cố gắng tìm nguyên nhân khác để giải thích cho các triệu chứng của người bệnh và cần cấy nước tiểu. Tổng phân tích nước tiểu âm tính trên phụ nữ mang thai không giúp loại trừ nhiễm vi trùng trong nước tiểu.
+
+Soi cặn lắng nước tiểu giúp xác định tiểu mủ gần như toàn bộ các trường hợp và tiểu máu khoảng 30% các trường hợp. Ở các nước phát triển, phần lớn các phòng xét nghiệm của các bệnh viện dùng hệ thống tự động hơn là soi nước tiểu thủ công. Máy này sẽ hút mẫu nước tiểu, sau đó phân loại các vật thể trong nước tiểu dựa theo kích thước, hình dạng, độ tương phản, sự phân tán, thể tích và các đặc tính khác. Nhìn chung, các máy này đếm số lượng vi trùng ít chính xác hơn hồng cầu và bạch cầu.
+
+### 3.3.2. Cấy nước tiểu
+
+Chẩn đoán xác định và điều trị thích hợp nhiễm khuẩn đường tiết niệu thường cần kết quả vi sinh từ cấy nước tiểu. Tuy nhiên, điều không may là không có kết quả cấy nước tiểu cho đến 24 giờ sau khi người bệnh thực hiện xét nghiệm. Xác định chính xác loại vi trùng cần thêm 24 giờ nữa. Cấy nước tiểu nên được thực hiện trước khi sử dụng kháng sinh vì kháng sinh bài tiết qua nước tiểu sẽ nhanh chóng làm nước tiểu trở nên vô trùng. Một khi đã thu thập, mẫu nên được chuyển sớm đến phòng xét nghiệm. Các vi trùng lượng ít (ví dụ như dây nhiễm) sẽ phát triển dễ dàng trong nước tiểu ở nhiệt độ phòng và đạt đến số lượng lớn trong vòng vài giờ. Nếu mẫu không được chuyển ngay đến phòng xét nghiệm, thì nên được bảo quản trong tủ lạnh ở $4^\circ\text{C}$ cho đến khi chuyển đi.
+
+Chỉ định cấy nước tiểu: có triệu chứng cơ năng và thực thể của nhiễm khuẩn đường tiết niệu; theo dõi kết quả điều trị nhiễm khuẩn đường tiết niệu; khi rút sonde tiểu lưu; tầm soát nhiễm khuẩn đường tiết niệu không triệu chứng ở phụ nữ có thai; trước khi tiến hành thủ thuật trên những người bệnh có bệnh thận tắc nghẽn.
+
+Tuy nhiên, đối với phụ nữ nhiễm khuẩn đường tiết niệu, lần đầu, không phức tạp, có thể không cần cấy nước tiểu, điều trị kháng sinh theo kinh nghiệm, khi xét chi phí/hiệu quả của xét nghiệm này.
+
+Mẫu nước tiểu cấy phải được thu thập bằng phương pháp hạn chế tối đa sự dây nhiễm. Đối với cả nam và nữ, mẫu nước tiểu lấy sạch (không vệ sinh quanh niệu đạo) thường thích hợp. Khi người bệnh không thể hợp tác trong việc lấy mẫu, chúng ta có thể thu thập nước tiểu bằng cách đặt sonde tiểu không lưu. Nước tiểu cũng có thể thu thập được bằng chọc hút bàng quang trên xương mu hay trực tiếp từ đài thận trong khi dẫn lưu nước tiểu trong trường hợp tắc nghẽn hệ niệu. Mẫu nước tiểu lấy từ những người bệnh đặt sonde tiểu lưu ngắn hạn nên được thu thập bằng cách chọc hút ở vị trí cổng catheter. Đối với trường hợp người bệnh đặt sonde tiểu lưu dài hạn, luôn có ít nhất 2 đến 5 loại vi trùng hiện diện trong các màng sinh học bao quanh catheter, do đó, nước tiểu thu thập sẽ bị dây nhiễm bởi các vi trùng này. Sonde tiểu dài hạn nên được rút và thay bằng sonde tiểu mới và mẫu nên được thu thập qua sonde tiểu mới.
+
+Tiêu chuẩn số lượng chuẩn để chẩn đoán nhiễm khuẩn đường tiết niệu với mẫu nước tiểu lấy được là $\geq 10^5$ khóm vi khuẩn/mL. Nữ giới thường có lượng ít vi khuẩn dây nhiễm từ âm đạo hay quần hệ vi khuẩn quanh niệu đạo phân lập từ mẫu nước tiểu và tiêu chuẩn định lượng này giúp phân biệt tiêu vi khuẩn với vi khuẩn dây nhiễm. Ứng dụng tiêu chuẩn định lượng luôn thích hợp cho chẩn đoán tiểu vi khuẩn không triệu chứng, nhưng đối với các trường hợp có triệu chứng, kết quả định lượng của mẫu cấy phải được lý giải dựa trên bệnh cảnh lâm sàng và phương pháp lấy mẫu nước tiểu. Vi khuẩn cần vài giờ ủ trong bàng quang để đạt nồng độ $\geq 10^5$ khóm vi khuẩn/mL. Vài người bệnh tiểu nhiều lần hay lợi niệu có thể không chứa nước tiểu trong bàng quang đủ lâu để đạt nồng độ $\geq 10^5$ khóm vi khuẩn/mL. Số lượng vi khuẩn cũng có thể thấp hơn khi nhiễm vi khuẩn khó cấy hoặc người bệnh đã điều trị kháng sinh. Đối với nam với nhiễm khuẩn đường tiết niệu có triệu chứng, một mẫu nước tiểu đơn độc có $\geq 10^3$ khóm vi khuẩn/mL đủ để chẩn đoán viêm bàng quang (Bảng 15.1).
+
+**Bảng 15.1.** Tiêu chuẩn số lượng vi trùng trong mẫu nước tiểu để chẩn đoán nhiễm khuẩn đường tiết niệu trên người bệnh chưa dùng kháng sinh
+
+| Phương pháp thu thập nước tiểu | Tiêu chuẩn số lượng<br>(khóm vi khuẩn/mL) |
+| :--- | :--- |
+| **Lấy nước tiểu giữa dòng** | |
+| Nhiễm khuẩn đường tiết niệu không triệu chứng (nam hay nữ) | $\geq 10^5$ |
+| Nữ: nhiễm khuẩn đường tiết niệu cấp không phức tạp | |
+| - Viêm bàng quang | $\geq 10^3$ |
+| - Viêm đài bể thận | $\geq 10^4$ |
+| Nam: có triệu chứng | $\geq 10^3$ |
+| **Đặt sonde tiểu** | |
+| Sonde tiểu không lưu | $\geq 10^2$ |
+| Sonde tiểu lưu | |
+| - Không triệu chứng | $\geq 10^5$ |
+| - Có triệu chứng | $\geq 10^2$ |
+| **Chọc hút bàng quang trên xương mu hoặc chọc hút qua da** | Phân lập được bất kể số lượng |
+
+Mẫu nước tiểu lấy từ chọc hút bàng quang trên xương mu hay lấy qua da như dẫn lưu đài thận được xem như mẫu vô trùng và bất kể số lượng vi trùng như thế nào cũng đủ để xác định tiều vi trùng thực sự. Tuy nhiên, đối với mẫu lấy từ sonde tiểu không lưu, có sự dây nhiễm vi trùng từ vùng quanh niệu đạo và do đó, tiêu chuẩn vi khuẩn khuyến cáo là $\geq 10^3$ khóm vi khuẩn/mL.
+
+Các yếu tố liên quan khác cần xem xét khi diễn giải kết quả cấy nước tiểu gồm số lượng và loại vi khuẩn phân lập. Thông thường là nhiễm một loại vi trùng đơn độc, tuy nhiên, những người bệnh nhiễm khuẩn đường tiết niệu phức tạp, đặc biệt là có đặt sonde tiểu, thường sẽ có nhiều hơn một loại vi trùng hiện diện. Các vi khuẩn hội sinh của quần hệ vi khuẩn thường trú ở da, như vi khuẩn dạng bạch hầu và **Staphylococcus** coagulase âm, thường là dây nhiễm nếu chúng được phân lập từ mẫu nước tiểu lấy được. Ở phụ nữ trẻ, khỏe mạnh, Streptococci nhóm B và chủng Enterococcus phân lập với số lượng bất kỳ cũng thường là dây nhiễm.
+
+### 3.3.3. Một số cận lâm sàng khác
+
+- **Cấy máu**: nên cấy máu ở người bệnh nhiễm khuẩn đường tiết niệu kèm theo sốt, ớn lạnh để tìm biến chứng nhiễm khuẩn huyết.
+- **Xét nghiệm chức năng thận**: nên thực hiện trên tất cả người bệnh nhiễm khuẩn đường tiết niệu nhập viện để tính liều kháng sinh phù hợp với chức năng thận.
+- **Công thức máu**: trong các trường hợp vi trùng xâm nhập mô như viêm đài bể thận cấp hay viêm tuyến tiền liệt cấp, công thức máu thường biểu hiện bạch cầu tăng cao, bạch cầu đa nhân trung tính chiếm ưu thế.
+- **Hình ảnh học**: các xét nghiệm hình ảnh học thường dùng để đánh giá đường niệu gồm siêu âm bụng, X-quang hệ niệu không sửa soạn, chụp hệ niệu cản quang, CT scan. Các xét nghiệm này dùng để xác định yếu tố nguy cơ và biến chứng của nhiễm khuẩn đường tiết niệu. Nên đánh giá đường niệu trong các trường hợp sau: nhiễm khuẩn đường tiết niệu lần đầu ở nam; nhiễm khuẩn đường tiết niệu phức tạp hoặc có nhiễm khuẩn huyết đi kèm; nghi ngờ có tắc nghẽn hoặc sỏi đường niệu; tiểu máu sau nhiễm khuẩn đường tiết niệu; không đáp ứng với điều trị kháng sinh thích hợp; nhiễm khuẩn đường tiết niệu tái phát.
+
+## 3.4. Chẩn đoán xác định
+
+Ngoại trừ nhiễm khuẩn đường tiết niệu không triệu chứng, ta có thể chẩn đoán nhiễm khuẩn đường tiết niệu khi có $\ge 2/3$ tiêu chuẩn sau:
+
+- Triệu chứng lâm sàng: tiểu gắt buốt, tiểu lắt nhắt, tiểu gấp, đau hông lưng, sốt, ớn lạnh
+- Tiểu bạch cầu (tiểu mủ): que nhúng leukocyte esterase/nước tiểu dương tính hoặc soi tươi nước tiểu đếm được hơn 5 bạch cầu/quang trường 40 hoặc 10 bạch cầu/mm$^3$
+- Tiểu vi khuẩn: que nhúng nitrite/nước tiểu dương tính, hoặc cấy nước tiểu kháng sinh đồ dương tính.
+
+Trong chẩn đoán, cần nêu được các vấn đề sau:
+
+- Nhiễm khuẩn đường tiết niệu: có hay không có triệu chứng
+- Vị trí của nhiễm khuẩn đường tiết niệu: đài bể thận, bàng quang, niệu đạo, tuyến tiền liệt
+- Nhiễm khuẩn đường tiết niệu: cấp hay mạn, tái phát hay tái nhiễm
+- Các yếu tố nguy cơ
+- Các yếu tố phức tạp, cơ địa đặc biệt
+- Biến chứng của nhiễm khuẩn đường tiết niệu.
+
+## 3.5. Chẩn đoán biến chứng
+
+### 3.5.1. Nhiễm khuẩn huyết
+
+Thường do vi khuẩn Gram đường ruột, xảy ra trên người bệnh nhiễm khuẩn đường tiết niệu:
+
+- Được thực hiện các thủ thuật trên đường tiểu
+- Áp-xe thận
+- Có bệnh thận tắc nghẽn hoặc suy giảm miễn dịch.
+
+Các triệu chứng của nhiễm khuẩn huyết thường che lấp các triệu chứng của đường tiểu. Người bệnh thường có biểu hiện sốt, lạnh run, thở nhanh, rối loạn tri giác. Nếu không được phát hiện và xử trí kịp thời, người bệnh sẽ vào choáng nhiễm khuẩn và tử vong.
+
+### 3.5.2. Áp-xe thận – quanh thận
+
+Người bệnh có biểu hiện sốt, ớn lạnh, rối loạn tiêu hóa, đau lưng, có thể kèm theo hội chứng niệu đạo cấp. Khám ghi nhận rung thận dương tính, chạm thận dương tính khoảng 40% các trường hợp. Cần theo dõi biến chứng này trước một trường hợp viêm đài bể thận cấp không đáp ứng sau 72 giờ điều trị kháng sinh thích hợp. Siêu âm và CT scan bụng giúp chẩn đoán xác định những trường hợp này. Áp-xe thận có thể là hậu quả của viêm đài bể thận cấp. Áp-xe quanh thận thường do áp-xe thận vỡ gây ra.
+
+### 3.5.3. Hoại tử gai thận
+
+Thường xảy ra trên cơ địa đái tháo đường, viêm thận kẽ mạn, bệnh hồng cầu hình liềm, sau ghép thận. Hoại tử gai thận là hậu quả của viêm đài bể thận cấp trên nền thận bị thiếu máu cục bộ. Bệnh cảnh lâm sàng giống viêm đài bể thận cấp nhưng không đáp ứng với điều trị và diễn tiến đến tổn thương thận cấp. Chẩn đoán xác định bằng siêu âm, chụp cản quang đài bể thận ngược dòng.
+
+### 3.5.4. Viêm bàng quang sinh hơi – Viêm đài bể thận sinh hơi
+
+Đây là biến chứng hầu như chỉ xảy ra trên người bệnh đái tháo đường. Viêm đài bể thận cấp sinh hơi có hoại tử chủ mô thận và sinh hơi tụ trong thận và quanh thận. Tác nhân thường gặp là *E. coli*, *Klebsiella*, *Proteus*, 20% có nhiễm nhiều vi khuẩn. Bệnh cảnh lâm sàng giống viêm đài bể thận cấp nặng, không đáp ứng với điều trị. Siêu âm và CT scan phát hiện hơi trong hoặc quanh thận. Cấy máu thường dương tính.
+
+Viêm bàng quang sinh hơi hiếm gặp hơn. Siêu âm, CT scan ghi nhận có hơi trong bàng quang hoặc thành bàng quang. Tác nhân gây bệnh là *E. coli*, *Clostridium perfringens*.
+
+[Hình: Viêm đài bể thận sinh hơi]
+
+Hình 15.2. Viêm đài bể thận sinh hơi
+
+CÂU HỎI TỰ LƯỢNG GIÁ
+
+**Chọn một câu đúng**
+
+1. Khi cấy nước tiểu lấy giữa dòng, tiêu chuẩn số lượng (khúm vi khuẩn/mL) tối thiểu là bao nhiêu để chẩn đoán là nhiễm khuẩn đường tiết niệu không triệu chứng?
+   A. $10^2$
+   B. $10^3$
+   C. $10^4$
+   D. $10^5$
+
+2. Tiểu bạch cầu vô khuẩn thường nằm trong bệnh cảnh nào sau đây?
+   A. Nhiễm khuẩn đường tiết niệu do lao
+   B. Nhiễm khuẩn đường tiết niệu ở phụ nữ sau quan hệ tình dục
+   C. Nhiễm khuẩn đường tiết niệu ở người bệnh đặt sonde tiểu lưu
+   D. Nhiễm khuẩn đường tiết niệu ở người già
+
+3. Tác nhân thường gặp nhất gây nhiễm khuẩn đường tiết niệu ở phụ nữ trẻ sau quan hệ tình dục là tác nhân nào?
+   A. *Escherichia coli*
+   B. *Staphylococcus* coagulase âm
+   C. *Klebsiella pneumoniae*
+   D. *Pseudomonas aeruginosa*
+
+4. Tác nhân thường gặp nhất gây nhiễm khuẩn đường tiết niệu không phức tạp là tác nhân nào sau đây?
+   A. *Escherichia coli*
+   B. *Staphylococcus* coagulase âm
+   C. *Klebsiella pneumoniae*
+   D. *Pseudomonas aeruginosa*
+
+5. So với người bình thường, người bệnh đái tháo đường có nguy cơ nhiễm khuẩn đường tiết niệu không triệu chứng cao hơn bao nhiêu lần?
+   A. 2
+   B. 3
+   C. 4
+   D. 5
+
+6. Người bệnh nữ, 24 tuổi, đến khám vì tiểu gắt buốt, kèm theo có đau hạ vị, không sốt. Người bệnh này được làm tổng phân tích nước tiểu ghi nhận protein âm; Leuko 125/$\mu$L; Blood 25/$\mu$L; Nitrite dương tính. Người bệnh này cấy nước tiểu ra *E. coli*. Số
+
+lượng khúm vi khuẩn $E. coli$ tối thiểu là bao nhiêu thì có thể chẩn đoán người bệnh này bị viêm bàng quang cấp?
+
+A. $10^2$
+
+B. $10^3$
+
+C. $10^4$
+
+D. $10^5$
+
+7. Người bệnh nữ, 32 tuổi, mang thai tuần thứ 20. Người bệnh được làm tổng phân tích nước tiểu ghi nhận Protein âm tính; Leuko $125/\mu\text{L}$; Nitrite âm tính; Blood âm tính. Người bệnh hoàn toàn không có triệu chứng sốt, tiểu gắt buốt hay đau hông lưng. Điều nào sau đây cần làm ngay trên người bệnh này?
+
+A. Siêu âm bụng
+
+B. Cho kháng sinh điều trị
+
+C. Soi cặn lắng nước tiểu
+
+D. Cấy nước tiểu
+
+8. Người bệnh nam, 28 tuổi, đến khám vì đau hông lưng trái. Người bệnh đau hông lưng trái khoảng 1 ngày nay, kèm theo có sốt, tiểu gắt buốt. Người bệnh không có bệnh lý gì trước đây. Khám ghi nhận huyết áp $130/90\text{ mmHg}$; mạch 110 lần/phút; nhiệt độ $39^\circ\text{C}$; nhịp thở 24 lần/phút. Rung thận trái dương tính. Làm tổng phân tích nước tiểu ghi nhận Protein $0,3\text{ g/L}$; Leuko $500/\mu\text{L}$; Blood: $200/\mu\text{L}$; Nitrite dương tính. Người bệnh này có thể đã xảy ra biến chứng gì sau đây?
+
+A. Nhiễm khuẩn huyết
+
+B. Viêm đài bể thận sinh hơi
+
+C. Viêm bàng quang sinh hơi
+
+D. Áp-xe thận
+
+9. Người bệnh nam, 28 tuổi, đến khám vì đau hông lưng trái. Người bệnh đau hông lưng trái khoảng 1 ngày nay, kèm theo có sốt, tiểu gắt buốt. Người bệnh không có bệnh lý gì trước đây. Khám ghi nhận huyết áp $130/90\text{ mmHg}$; mạch 110 lần/phút; nhiệt độ $39^\circ\text{C}$; nhịp thở 24 lần/phút. Rung thận trái dương tính. Làm tổng phân tích nước tiểu ghi nhận protein $0,3\text{ g/L}$; Leuko $500/\mu\text{L}$; Blood: $200/\mu\text{L}$; Nitrite dương tính. Người bệnh này được cho kháng sinh điều trị theo kinh nghiệm ngay. Trước khi cho kháng sinh liều đầu tiên, cần phải làm gì cho người bệnh này?
+
+A. Cấy máu
+
+B. Cấy nước tiểu
+
+C. Cấy máu và cấy nước tiểu
+
+D. Không cần làm gì thêm
+
+10. Người bệnh nam, 50 tuổi, đến khám vì tiểu gắt buốt. Người bệnh có tiền căn sỏi thận và đái tháo đường type 2 đang điều trị. Khám ghi nhận huyết áp $130/70\text{ mmHg}$; mạch
+
+92 lần/phút; nhiệt độ $36,5^{\circ}\text{C}$, mạch thở 20 lần/phút, các yếu tố nào sau đây cho thấy đây là một trường hợp nhiễm khuẩn tiểu phức tạp?
+
+A. Tiêu gắt buốt
+
+B. Tăng huyết áp
+
+C. Đái tháo đường
+
+D. Uống thuốc ngừa thai
+
+**ĐÁP ÁN:** 1.D 2.A 3.B 4.A 5.C 6.B 7.D 8.A 9.C 10.C
+
+## TÌNH HUỐNG LÂM SÀNG THẢO LUẬN
+
+### Tình huống 1
+
+Người bệnh nữ 65 tuổi, đến khám vì tiểu gắt buốt.
+
+**Bệnh sử:** sáng ngày nhập viện, sau khi thực dậy, người bệnh đi tiểu thì có cảm giác buốt nhẹ đường tiểu, kèm theo đó cuối cuộc đi tiểu có ít sợi tơ máu và đau tức nhẹ hạ vị khi đi tiểu. Người bệnh lo lắng nên đến khám tại phòng khám. Trong quá trình bệnh, người bệnh không sốt, không đau hông lưng, không té chấn thương trước đó.
+
+**Tiền căn:** tăng huyết áp – đái tháo đường type 2 – bệnh tim thiếu máu cục bộ đang điều trị với metformin 500 mg 1 viên/ngày, amlodipin 5 mg 1 viên/ngày, atorvastatin 20 mg 1 viên/ngày, aspirin 81 mg 1 viên/ngày. Người bệnh chưa từng bị giống lần này trước đây.
+
+**Khám lâm sàng:** huyết áp 130/80 mmHg; mạch 78 lần/phút; nhiệt độ $36,4^{\circ}\text{C}$; nhịp thở 16 lần/phút, tim T1, T2 đều, phổi không ran, bụng ấn đau nhẹ vùng hạ vị, điểm niệu quản trên và giữa ấn không đau, chạm thận âm tính, rung thận âm tính, không phù chân, niêm hồng.
+
+**Cận lâm sàng:**
+
+Tổng phân tích nước tiểu 10 thông số:
+
+| Thông số | Kết quả | Thông số | Kết quả |
+| :--- | :---: | :--- | :---: |
+| Tỉ trọng | 1,025 | Bilirubin | Âm tính |
+| pH | 6,0 | Ery | 200/mL |
+| Glucose | Âm tính | Leu | 125/mL |
+| Ketone | Âm tính | Nitrite | Âm tính |
+| Urobilinogen | Âm tính | Protein | 0,3g/L |
+
+Công thức máu: WBC 7,5 G/L; %Neu 60%; Hb 120g/L; PLT 230 G/L, Creatinin máu 0,92 mg/dL; Natri 137 mmol/L; Kali 3,9 mmol/L; Clor 108 mmol/L; glucose 7,2 mmol/L, Siêu âm bụng: kích thước hai thận bình thường – phân biệt vỏ tủy rõ – đài bể thận và niệu quản không giãn.
+
+1. Hãy đọc tổng phân tích nước tiểu của người bệnh này?
+2. Tiểu máu của người bệnh này có nguồn gốc từ cầu thận hay ngoài cầu thận?
+
+3. Hãy nêu chẩn đoán xác định của người bệnh này? Lý giải cụ thể?
+4. Người bệnh nào cần chỉ định cấy nước tiểu không? Vì sao?
+
+**Tình huống 2**
+
+Người bệnh nam, [không rõ] tuổi, đến khám vì sốt.
+
+**Bệnh sử:** cách nhập viện 2 ngày, người bệnh đột ngột xuất hiện sốt, kèm theo tiểu gắt buốt, đau hông lưng phải, không lan, không tư thế giảm đau, tăng khi xoay trở. Người bệnh có tự đi mua thuốc uống nhưng triệu chứng không giảm nên nhập viện bệnh viện Gia Định. Trong quá trình bệnh, người bệnh không ho, không đau đầu, không đau bụng, không tiêu chảy, không khò khở, không đau ngực.
+
+**Tiền căn:** chưa ghi nhận bất thường
+
+**Khám lâm sàng:** *(Thời điểm nhập viện)*
+
+**Mạch** 106 lần/phút; **huyết áp** 136/82 mmHg; **nhịp thở** 20 lần/phút; **nhiệt độ** 39°C. **Cân nặng** 55 kg, **chiều cao** 1,72 m; **tim** T1, T2 đều, **phổi** không ran, **bụng** mềm, **rung thận** dương tính, **điểm đau niệu quản** trên và giữa ấn không đau, **nghiệm pháp cơ thắt lưng chậu** âm tính.
+
+**Cận lâm sàng:**
+
+| TPTNT 10 thông số | Xét nghiệm máu |
+| --- | --- |
+| **Chỉ số** | **Kết quả** | **Chỉ số** | **Kết quả** |
+| Glucose | Âm | Ure | 4,4 mmol/L |
+| Bilirubin | Âm | Creatinin | 1,23 mg/dL |
+| Ketone | Âm | Na⁺ | 136 mmol/L |
+| pH | 6,0 | K⁺ | 3,95 mmol/L |
+| Protein | 0,3 g/L | Cl⁻ | 108 mmol/L |
+| Urobilinogen | 3,2 | Ca²⁺ | 2,2 mmol/L |
+| Nitrite | Âm | WBC | 19 G/L |
+| Blood | 25/µL | %Neu | 85 G/L |
+| Leuko | 500/µL | Hb | 159 g/L |
+| Tỉ trọng | 1,034 | PLT | 249 G/L |
+
+**Siêu âm bụng:** sỏi thận phải kích thước 8 mm kẹt ở đoạn 1/3 trên niệu quản phải, giãn niệu quản và đài bể thận phải, thận ứ nước độ 1 – 2.
+
+**X-quang ngực thẳng:** chưa ghi nhận bất thường.
+
+**Kết quả cấy nước tiểu:**
+
+| ≥ 100.000 CFU/mL *Escherichia coli* |
+| :--- |
+| *E. coli* | **ESBL:** dương |
+| **Kháng sinh** | **MIC** | **Nhạy** | **Trung gian** | **Kháng** |
+
+| Ampicillin, cefazolin, ceftriaxon, ceftazidim, cefepim, ciprofloxacin, levofloxacin, trimethoprim-sulfamethoxazol | | | X |
+| Ampicillin-sulbactam | 8 | X | |
+| Piperacillin-tazobactam | $\le 4$ | X | |
+| Ertapenem | $\le 0,5$ | X | |
+| Imipenem | $\le 0,25$ | X | |
+| Gentamicin | $\le 1$ | X | |
+| Tobramycin | $\le 1$ | X | |
+| Amikacin | $\le 2$ | X | |
+| Nitrofurantoin | $\le 16$ | X | |
+| Fosfomycin | | X | |
+
+X-quang ngực thẳng: chưa ghi nhận bất thường.
+
+1. Hãy phân tích tổng phân tích nước tiểu của người bệnh này?
+2. Tình trạng nhiễm khuẩn đường tiết niệu của người bệnh này là đơn giản hay phức tạp? Yếu tố nguy cơ của nhiễm trùng tiều ở người bệnh này là gì?
+3. Hãy nêu chẩn đoán xác định cho người bệnh này? Lý giải cụ thể?
+
+## TÀI LIỆU THAM KHẢO
+
+1. Cao Minh Nga và cộng sự. Sự đề kháng kháng sinh của các vi khuẩn gây nhiễm khuẩn đường tiết niệu ở người lớn. *Tạp chí Y học TP. Hồ Chí Minh*, 2010, Tập 14, tr.491–497.
+2. Huỳnh Ngọc Phương Thảo. *Bệnh học Nội khoa*. NXB Y học Chi nhánh TP. Hồ Chí Minh, 2012 tr.326–344.
+3. Trần Thị Thanh Nga. Các tác nhân gây nhiễm khuẩn đường tiết niệu thường gặp và đề kháng kháng sinh tại Bệnh viện Chợ Rẫy năm 2010 – 2011. *Tạp chí Y học TP. Hồ Chí Minh*, 2013 tr.578–581.
+4. Bonkat G. et al. (2018). *EAU Guidelines on Urological Infections* at https://uroweb.org/wp-content/uploads/EAU-Guidelines-on-Urological-Infections-2018-large-text.pdf.
+5. Gupta K. and Trautner BW. Urinary tract infections, pyelonephritis, and prostatitis. *Harrison's Nephrology and Acid Base Disorders $2^{nd}$.* McGraw-Hill, 2013, pp.254–264
+6. Jessica BK., Barth R., Marilyn EL. The Patient with Urinary Tract Infection. *Manual of Nephrology $8^{th}$.* Wolters Kluwer, 2015, pp.125–155.
+7. Mejia-Chew C., Kirmani N., Liang SY. Treatment of Infectious Diseases. *The Washington Manual of Medical Therapeutics $36^{th}$.* Wolters Kluwer, 2020, pp.1460-1476.
+8. Nicolle LE.. Urinary tract Infection in Adults. *Brenner & Rector's The Kidney $11^{th}$.* Elsevier, 2020, pp.1223–1250
+
+# TIẾP CẬN CHẨN ĐOÁN BỆNH CẦU THẬN
+
+TS.BS. Huỳnh Ngọc Phương Thảo
+
+**MỤC TIÊU HỌC TẬP**
+
+1. Áp dụng kiến thức sinh hóa, sinh lý, vi sinh, miễn dịch giải thích cơ chế bệnh sinh các dạng bệnh cầu thận.
+2. Áp dụng kiến thức y học cơ sở, triệu chứng học, bệnh học, có lồng ghép kết quả cận lâm sàng để nhận diện và chẩn đoán nguyên nhân bệnh cầu thận.
+
+**1. ĐỊNH NGHĨA**
+
+Bệnh cầu thận (Glomerulopathy) hoặc Viêm cầu thận (Glomerulonephritis): biểu thị cho tổn thương tại cầu thận. Một số tác giả chỉ dùng viêm cầu thận cho những tổn thương cầu thận do viêm.
+
+Bệnh cầu thận nguyên phát hoặc vô căn (primary glomerulopathy/glomerulo-nephritis): là tổn thương liên quan chủ yếu tại cầu thận, các tổn thương cơ quan khác chỉ là hậu quả của rối loạn chức năng thận.
+
+Bệnh cầu thận thứ phát (secondary glomerulopathy/glomerulonephritis): khi tổn thương cầu thận là một bộ phận của tổn thương đa cơ quan.
+
+Tuy nhiên, sự phân biệt này chỉ có tính tương đối bởi vì một số bệnh lý được xem là nguyên phát như bệnh thận IgA, viêm cầu thận liềm, viêm cầu thận hoại tử ít lắng đóng miễn dịch, bệnh cầu thận màng, viêm cầu thận tăng sinh màng,... cũng có thể là một phần của bệnh hệ thống như viêm mạch máu do lắng đóng IgA, viêm mạch máu kích thước nhỏ ít lắng đóng miễn dịch (pauci-immune small vessel vasculitis), hội chứng Goodpasture, lupus ban đỏ hệ thống, viêm mạch máu do cryoglobulin hiện diện trong máu.
+
+**Các loại diễn tiến bệnh cầu thận:**
+
+- Cấp tính (acute): xảy ra trong vài ngày đến vài tuần
+- Tiến triển nhanh (rapid progressive) hoặc bán cấp (sub-acute): diễn ra trong vài tuần đến vài tháng
+- Mạn tính (chronic): diễn tiến trong nhiều tháng đến nhiều năm.
+
+**2. ĐÁNH GIÁ LÂM SÀNG CỦA BỆNH CẦU THẬN**
+
+Việc tiếp cận chẩn đoán bệnh cầu thận bao gồm hỏi bệnh sử thật chi tiết và có định hướng, khám lâm sàng chính xác, tỉ mỉ, đưa ra các xét nghiệm cận lâm sàng thích hợp nhằm mục đích loại trừ các bệnh lý không do tổn thương cầu thận, tìm các dấu hiệu bệnh hệ thống liên quan, tìm ra nguyên nhân và đánh giá chức năng thận; từ đó sẽ có chiến lược điều trị đúng đắn.
+
+2.1. Hỏi bệnh sử
+
+Phần lớn các trường hợp bệnh cầu thận không có biểu hiện lâm sàng. Quá trình hỏi bệnh sử cần chú ý các triệu chứng sau đây: phù, tăng huyết áp, tiểu nhiều bọt, xét nghiệm nước tiểu tình cờ phát hiện bất thường, béo phì,... Tìm hiểu các bệnh hệ thống có liên quan đến bệnh cầu thận như đái tháo đường, tăng huyết áp, thoái biến dạng bột, lupus đỏ hệ thống, viêm mạch máu,... Ngoài ra, cũng cần khai thác tiền sử gia đình có bệnh thận như hội chứng Alport (hội chứng thận hư kèm giảm thị lực, giảm thính lực), bệnh thận IgA, xơ chai cầu thận khu trú từng vùng (FSGS), bệnh cầu thận qua trung gian bổ thể, hội chứng tán huyết kèm tăng urea huyết (HUS),... Tiếp theo, cần hỏi tình trạng sử dụng thuốc: thuốc kháng viêm không steroid (NSAIDs), interferon, penicillamine, muối vàng, thuỷ ngân (trong các loại kem làm trắng da), pamidronate, heroin, cyclosporin, tacrolimus, mitomycin C, thuốc ngừa thai,... Hỏi quá trình nhiễm khuẩn gần đây như nhiễm liên cầu trùng (Streptococcus), viêm nội tâm mạc nhiễm khuẩn, một số loại virus như virus viêm gan B, viêm gan C, HIV,... Hỏi tiền sử bệnh ác tính hoặc các triệu chứng liên quan đến bệnh ác tính, đặc biệt ở người lớn tuổi: ung thư phổi, vú, dạ dày, đại tràng, tuyến tiền liệt, ung thư hạch, thận. Cần lưu ý rằng triệu chứng bệnh thận có thể là biểu hiện đầu tiên của bệnh ung thư.
+
+[Hình: Hình 16.1. Phù mặt. Thường phù nhiều vùng mi mắt vào buổi sáng. Phù chân vào buổi chiều]
+
+2.2. Khám lâm sàng
+
+Phù là triệu chứng thường gặp, phù mi mắt, mặt, trước xương chày, có tính chất phù mềm, trắng, ấn lõm, không đau, đối xứng hai bên. Khi phù nhiều sẽ thấy phù toàn thân, phù bìu, âm hộ, tràn dịch đa màng. Người bệnh có thể tăng đến 20 kg trong vòng vài ngày.
+
+Khi tình trạng giảm albumin kéo dài có thể làm mất màu hồng bình thường của móng, gây nên triệu chứng móng trắng hoặc có đường trắng ở móng (đường Muehrcke). Có thể thấy dấu Xanthelasma do tăng lipid máu kéo dài trong hội chứng thận hư.
+
+Khám các dấu lâm sàng của bệnh hệ thống đi kèm như các dấu hiệu ở phổi (trong hội chứng phổi thận), phát ban da (trong lupus ban đỏ hệ thống), biến dạng khớp trong viêm đa khớp dạng thấp, ban xuất huyết (viêm mạch máu, hiện diện cryoglobulin trong máu, viêm nội tâm mạc),...
+
+[Hình: Phù trong hội chứng thận hư. Bóng nước trên mu bàn chân do dịch nằm trong da do phù nhiều]
+
+**Hình 16.2.** Phù trong hội chứng thận hư. Bóng nước trên mu bàn chân do dịch nằm trong da do phù nhiều
+
+[Hình: Đường Muehrcke trong hội chứng thận hư]
+
+**Hình 16.3.** Đường Muehrcke trong hội chứng thận hư
+
+[Hình: Dấu Xanthelasma]
+Hình 16.4. Dấu Xanthelasma
+
+## 2.3. Xét nghiệm cận lâm sàng
+
+Xét nghiệm tổng phân tích nước tiểu, đánh giá chức năng thận là những xét nghiệm cơ bản đầu tiên. Định lượng protein trong nước tiểu, soi cặn lắng giúp định hướng theo các thể lâm sàng của bệnh cầu thận như trình bày dưới đây.
+
+Xét nghiệm chẩn đoán nguyên nhân tùy theo triệu chứng lâm sàng và định hướng các thể lâm sàng của bệnh cầu thận. Các xét nghiệm này bao gồm kháng thể kháng nhân, kháng thể kháng chuỗi xoắn kép DNA (anti-dsDNA), nồng độ bổ thể để truy tìm bệnh lupus ban đỏ hệ thống, cryoglobulin và yếu tố thấp để truy tìm viêm cầu thận do hiện diện cryoglobulin trong máu, kháng thể kháng màng đáy (anti-GBM) trong hội chứng Goodpasture, kháng thể kháng bạch cầu đa nhân trung tính (ANCA) trong viêm mạch máu, ASO (anti-streptolysin O) trong viêm cầu thận hậu nhiễm liên cầu trùng, điện di miễn dịch máu, nước tiểu giúp phát hiện chuỗi nhẹ đơn dòng, chuỗi nặng; xét nghiệm định lượng chuỗi nhẹ tự do trong máu và nước tiểu giúp phát hiện bệnh thoái biến dạng bột liên quan đa u tủy (myeloma-associated amyloidosis), bệnh lắng đóng chuỗi nhẹ.
+
+Xét nghiệm truy tìm bệnh lý nhiễm khuẩn đang diễn tiến cũng rất hữu ích trong chẩn đoán nguyên nhân cũng như để đánh giá toàn trạng người bệnh trước khi dùng thuốc ức chế miễn dịch: cấy máu nếu có dấu hiệu nghi ngờ nhiễm khuẩn huyết, chụp X-quang phổi để loại trừ lao phổi, xét nghiệm HBsAg, anti-HCV, anti-HIV,...
+
+Bài 16. Tiếp cận chẩn đoán bệnh cầu thận ♦ 307
+
+**Bảng 16.1.** Giảm nồng độ bổ thể trong các bệnh cầu thận
+
+| Con đường bổ thể bị tổn thương | Loại bổ thể bị ảnh hưởng | Bệnh cầu thận | Nguyên nhân khác |
+| :--- | :--- | :--- | :--- |
+| Hoạt hóa con đường cổ điển | $C_3$ giảm, $C_4$ giảm, CH50 giảm | - Viêm thận do lupus (đặc biệt nhóm IV)<br>- Hiện diện cryoglobulin trong máu<br>- Viêm cầu thận tăng sinh màng nhóm 1 | |
+| Hoạt hóa con đường thay thế | $C_3$ giảm,<br>$C_4$ bình thường,<br>CH50 giảm | - Viêm cầu thận hậu nhiễm liên cầu trùng<br>- Viêm cầu thận liên quan các loại nhiễm khuẩn khác<br>- HUS<br>- Bệnh lắng đọng đặc | - Bệnh thận do mảng xơ vữa thuyên tắc |
+| Giảm tổng hợp bổ thể | - Mắc phải<br>- Di truyền | - Viêm thận do lupus<br>- HUS có tính gia đình<br>- Bệnh lắng đọng đặc | - Bệnh gan<br>- Suy dinh dưỡng |
+
+Xét nghiệm định lượng bổ thể $C_3$, $C_4$, CH50 cũng hữu ích trong tìm nguyên nhân một số bệnh cầu thận.
+
+Nếu nghi ngờ bệnh lý di truyền và trong điều kiện cho phép có thể thực hiện các xét nghiệm phân tích gen.
+
+## 2.4. Hình ảnh học
+
+Nên làm siêu âm thận thường quy để khẳng định người bệnh có hai thận, loại trừ tắc nghẽn, bất thường về giải phẫu hệ niệu và đo kích thước thận. Kích thước thận thường bình thường trong đa số trường hợp, thận teo, mất ranh giới vỏ tủy thường gặp trong các bệnh cầu thận kèm suy thận tiến triển, thận to có thể gặp trong bệnh cầu thận do đái tháo đường, thoái biến dạng bột, HIV. Thận to đôi khi gặp trong viêm cầu thận cấp nặng.
+
+## 2.5. Sinh thiết thận
+
+Đa số các trường hợp bệnh lý cầu thận cần sinh thiết thận để chẩn đoán nguyên nhân, hướng dẫn điều trị và có ý nghĩa tiên lượng. Một số các trường hợp sau đây có thể không cần sinh thiết thận:
+
+- Hội chứng thận hư thuần tuý, lần đầu ở trẻ em vì đa số các trường hợp là sang thương tối thiểu, đáp ứng tốt với corticoid.
+- Viêm cầu thận cấp hậu nhiễm liên cầu trùng khi có các đặc điểm lâm sàng phù hợp vì thường bệnh nhẹ, tự khỏi, sinh thiết thận chỉ dành cho những trường hợp không rõ ràng, cần chẩn đoán phân biệt, hoặc không cải thiện triệu chứng.
+- Hội chứng Goodpasture nếu biểu hiện ho ra máu kèm viêm cầu thận tiến triển nhanh, nồng độ kháng thể kháng màng đáy cao.
+- Biểu hiện triệu chứng toàn thân của viêm mạch máu, nồng độ kháng thể ANCA cao, cấy máu âm tính, sinh thiết cơ quan khác chứng tỏ viêm mạch máu.
+
+- Bệnh thận do đái tháo đường nếu có các đặc điểm lâm sàng phù hợp như mắc bệnh đái tháo đường đã lâu, kiểm soát đường huyết kém, tiều đạm đơn thuần không kèm tiều máu, tổn thương mạch máu nhỏ (bệnh võng mạc do đái tháo đường, bệnh thần kinh ngoại biên).
+- Viêm cầu thận biểu hiện lâm sàng kiểu bất thường nước tiểu không triệu chứng, tiểu đạm vi thể, chức năng thận bảo tồn, vì các trường hợp này thường tiên lượng tốt, không cần điều trị ức chế miễn dịch.
+- Viêm cầu thận nghi ngờ bệnh cầu thận màng nếu có kháng thể PLA2R dương tính (M-type phospholipase A2 receptor antibody) và chức năng thận bình thường.
+
+## 3. CÁC THỂ LÂM SÀNG CỦA BỆNH CẦU THẬN
+
+**Bảng 16.2. Các biểu hiện lâm sàng của bệnh cầu thận**
+
+| Bệnh cảnh lâm sàng | Tiêu chuẩn chẩn đoán |
+| :--- | :--- |
+| **Bất thường nước tiểu không triệu chứng** | - Tiểu protein 150 mg đến 3 g/ngày<br>và/hoặc<br>- Tiểu máu > 2 hồng cầu/quang trường 40 nước tiểu đã quay ly tâm hoặc > 10 hồng cầu/µL (hồng cầu biến dạng) |
+| **Tiểu máu đại thể** | Tiểu máu màu đỏ hoặc nâu sậm, không có máu cục xảy ra từng đợt. Giữa các đợt có tiểu máu vi thể ± tiểu đạm |
+| **Hội chứng thận hư** | - Tiểu đạm > 3,5 g/ngày đối với người lớn, hoặc > 40 mg/giờ/$m^2$ đối với trẻ em<br>- Giảm albumin máu < 30 g/L<br>- Phù<br>- Tăng cholesterol máu<br>- Tiểu ra lipid |
+| **Hội chứng viêm thận** | - Tiểu ít<br>- Tiêu máu, có trụ hồng cầu<br>- Tiểu đạm thường < 3 g/ngày<br>- Tăng huyết áp |
+| **Viêm cầu thận tiến triển nhanh** | - Suy thận diễn tiến nhanh trong vòng vài ngày, vài tuần<br>- Tiểu đạm thường dưới 3 g/ngày<br>- Tiểu máu, có trụ hồng cầu<br>- Huyết áp thường bình thường<br>- Có thể kèm biểu hiện viêm mạch máu |
+| **Viêm cầu thận mạn** | - Tăng huyết áp<br>- Suy thận<br>- Tiểu đạm<br>- Thận teo |
+
+3.1. Bất thường nước tiểu không triệu chứng
+3.1.1. Tiểu máu vi thể không triệu chứng
+
+Tiểu máu vi thể khi hiện diện nhiều hơn 2 hồng cầu/quang trường 40, nước tiểu đã được quay ly tâm, hoặc nhiều hơn 10 hồng cầu/µL. Có nhiều tổn thương cầu thận có thể gây ra triệu chứng này trong đó thường gặp nhất là bệnh thận IgA và bệnh thận màng đáy mỏng. Cần nghĩ đến tiểu máu do nguyên nhân cầu thận nếu có > 5% hồng cầu có dạng acanthocyte, biến dạng, hoặc kèm trụ hồng cầu và tiều đạm lượng nhiều.
+
+[Hình: Hình 16.5. Trụ hồng cầu: hình ảnh điển hình tiểu máu do nguyên nhân cầu thận]
+
+**Cơ chế bệnh sinh**
+
+Tiểu máu do nguyên nhân cầu thận thường do tổn thương màng đáy cầu thận, làm cho hồng cầu từ mao mạch cầu thận vào trong khoang nước tiểu. Hiện tượng này có thể xảy ra ở vách mao mạch ngoại biên, nhưng thường xảy ra ở màng đáy quanh vùng gian mạch, đặc biệt là những bệnh lý liên quan đến vùng gian mạch. Khi tế bào ống thận còn nguyên vẹn, một ít protein bị mất cùng với hồng cầu qua cầu thận bị tổn thương sẽ được ống thận tái hấp thu hoàn toàn gây nên triệu chứng tiểu máu đơn độc, không kèm tiểu đạm.
+
+3.1.2. Tiểu đạm dưới ngưỡng thận hư
+
+Tiểu đạm dưới ngưỡng thận hư nếu lượng protein niệu dưới 3,5 g/ngày hoặc tỉ lệ protein:creatinin nước tiểu nhỏ hơn 3.000 mg/g. Trong trường hợp này, vị trí tổn thương có thể tại cầu thận, tổn thương nhu mô thận không phải cầu thận, không phải nhu mô thận hoặc đường niệu. Phân biệt các trường hợp này cần hỏi và khám lâm sàng cẩn thận cũng như xét nghiệm cận lâm sàng.
+
+Tiểu đạm do tăng quá nhiều protein trong máu
+
+Trong trường hợp này do tăng quá nhiều các protein chuỗi nhẹ trong máu, được lọc qua cầu thận và vượt quá khả năng tái hấp thu của ống thận, nên được bài tiết qua nước tiểu. Thường gặp trong bệnh lý đa u tủy, tán huyết, ly giải cơ vân,... Cần nghĩ đến nguyên nhân này nếu protein niệu làm bằng phương pháp que nhúng âm tính, nhưng lại có nồng độ cao khi định lượng bằng các phương pháp khác.
+
+**Sơ đồ: Sơ đồ các bước chuẩn đoán người bệnh bị tiểu đạm đơn thuần, không triệu chứng**
+- Tiểu đạm không triệu chứng
+  - Định lượng protein niệu --> Đo eGFR
+    - GFR bình thường --> Tiểu đạm dưới ngưỡng thận hư
+      - Nằm suốt đêm --> Dipstick âm tính --> Tiểu đạm tư thế
+      - Tiểu đạm liên tục kéo dài
+        - Đánh giá lại sau 6 – 12 tháng:
+          - Protein niệu
+          - eGFR
+          - Huyết áp
+          - Nếu eGFR bình thường, huyết áp bình thường: đánh giá lại hàng năm
+        - Nếu eGFR hoặc huyết áp bất thường, protein niệu tăng
+    - Giảm eGFR --> Xét nghiệm huyết thanh học --> Siêu âm --> Xem xét Sinh thiết thận
+
+Sơ đồ 16.1. Sơ đồ các bước chuẩn đoán người bệnh bị tiểu đạm đơn thuần, không triệu chứng
+
+## Tiểu đạm do tổn thương ống thận
+
+Thường gặp tiểu đạm lượng ít, dưới 2 g/ngày. Thành phần protein niệu chủ yếu là các protein trọng lượng phân tử nhỏ, protein bài tiết từ ống thận, một ít albumin do suy yếu khả năng tái hấp thu albumin của ống thận.
+
+## Tiểu đạm do tổn thương cầu thận
+
+Nếu tiểu đạm nhỏ hơn 0,5 g/ngày và chức năng thận bảo tồn thì không cần sinh thiết thận, nhưng cần phải theo dõi lâu dài. Sinh thiết thận ở các người bệnh này thường gặp sang thương tối thiểu, xơ chai cầu thận khu trú từng vùng, sang thương màng, viêm cầu thận tăng sinh gian mạch hoặc bệnh thận IgA.
+
+**3.1.3. Tiêu đạm kèm tiểu máu không triệu chứng**
+
+Người bệnh có biểu hiện đồng thời tiểu đạm và tiểu máu có nhiều nguy cơ tổn thương cầu thận trầm trọng, tăng huyết áp và suy thận tiến triển. Nên xem xét sinh thiết thận nếu tiểu máu dai dẳng kéo dài, kèm trụ hồng cầu và/hoặc suy thận.
+
+**3.2. Tiểu máu đại thể**
+
+Tiểu máu đại thể do nguyên nhân cầu thận thường xảy ra từng đợt, không đau, không có máu cục, màu đỏ sậm, màu nâu đỏ, giữa các đợt luôn có tiểu máu vi thể. Trường hợp này cần được chẩn đoán phân biệt với các nguyên nhân tiểu đỏ sậm màu khác như tiểu hemoglobin, tiểu myoglobin, tiểu porphyrin, ăn thức ăn có màu đỏ như củ cải đường, uống thuốc có màu đỏ như rifampicin.
+
+Tiểu máu đại thể do nguyên nhân cầu thận thường gặp ở trẻ em, người trẻ tuổi, hiếm gặp sau 40 tuổi. Hầu hết các trường hợp do bệnh thận IgA gây ra, nhưng cũng có thể do nguyên nhân khác. Bệnh cảnh viêm cầu thận do IgA điển hình thường có tiểu máu đại thể xảy ra ngay sau khi bị nhiễm khuẩn hô hấp trên. Trong khi, viêm cầu thận hậu nhiễm liên cầu trùng thường có tiểu máu sau khi bị nhiễm khuẩn hô hấp $1 - 2$ tuần.
+
+**3.3. Hội chứng thận hư**
+
+**3.3.1. Định nghĩa**
+
+Hội chứng thận hư là tập hợp các triệu chứng của bệnh cầu thận mạn tính, được đặc trưng bằng tình trạng tiểu đạm lượng nhiều lớn hơn hoặc bằng $3,5\text{g}/1,73\text{ m}^2\text{ da}/24\text{ giờ}$, giảm protein máu dưới $60\text{ g/L}$, giảm albumin máu dưới $30\text{ g/L}$, phù, tăng lipid máu và những rối loạn chuyển hóa khác. Tuy nhiên, không phải tất cả người bệnh tiểu đạm trên $3,5\text{ g}/1,73\text{ m}^2\text{ da}/24\text{ giờ}$ đều có đầy đủ các triệu chứng của hội chứng thận hư, chẳng hạn, một số người bệnh có nồng độ albumin máu bình thường và không bị phù.
+
+Hội chứng thận hư được gọi là thuần túy nếu không kèm theo tiểu máu, không tăng huyết áp, không suy thận thực thể và thường là tiểu đạm chọn lọc (albumin trong nước tiểu chiếm trên 85% lượng đạm niệu). Hội chứng thận hư không thuần túy nếu kèm theo ít nhất một trong ba triệu chứng trên và thường tiểu đạm không chọn lọc.
+
+## 3.3.2. Nguyên nhân
+
+**Bảng 16.3.** Phân loại các nguyên nhân thường gặp của hội chứng thận hư
+
+| |
+| --- |
+| **Bệnh cầu thận nguyên phát** |
+| **Bệnh cầu thận thứ phát** |
+| **1. Do thuốc** |
+| Thủy ngân (nguyên tố, vô cơ, hữu cơ), muối vàng, penicillamin, bucillamin, heroin, probenecid, captopril, kháng viêm không phải steroid, lithium, Interferon, chlorpropamide, rifampin, pamidronate, paramethadion (Paradion), trimethadion, mephenytoin, warfarin, thuốc cản quang. |
+| **2. Dị ứng** |
+| Côn trùng đốt, ong đốt, dị ứng rắn cắn, chích ngừa,... |
+| **3. Nhiễm khuẩn** |
+| Vi khuẩn: viêm cầu thận hậu nhiễm liên cầu trùng, viêm nội tâm mạc nhiễm khuẩn, viêm thận ở người bệnh có shunt não thất, phong, giang mai, mycoplasma, lao, viêm đài bể thận mạn kèm trào ngược bàng quang niệu quản,... |
+| Virus: viêm gan virus B, viêm gan virus C, nhiễm cytomegalovirus, nhiễm Epstein-Barr virus, Herpes zoster, HIV,... |
+| Ký sinh trùng: sốt rét, toxoplasmosis, sán máng, filariasis, trypanosomiasis,... |
+| **4. Bệnh ác tính** |
+| Bướu đặc (carcinoma và sarcoma): phổi, đại tràng, dạ dày, vú, cổ tử cung, thận, tuyến giáp, buồng trứng, tuyến tiền liệt, tuyến thượng thận, hầu họng, melanoma, pheochromocytoma, bướu Wilms, bướu thanh mạc, oncocytoma,... |
+| Bệnh bạch cầu và lymphoma: bệnh Hodgkin's, bệnh bạch cầu mạn dòng lympho, đa u tủy (thoái biến dạng bột), Waldenstrom's macroglobulinemia, lymphoma. |
+| Thải ghép sau ghép tủy. |
+| **5. Bệnh hệ thống** |
+| Bệnh lupus ban đỏ hệ thống, bệnh mô liên kết hỗn hợp, viêm bì cơ, viêm khớp dạng thấp, hội chứng Goodpasture, viêm mạch máu do lắng đóng IgA (bệnh Berger), viêm mạch máu hệ thống, viêm động mạch Takayasu, hiện diện cryoglobulin trong máu thể hỗn hợp, Bệnh chuỗi nhẹ và chuỗi nặng (Randall), hội chứng Sjögren, sarcoidosis, viêm loét đại tràng, thoái biến dạng bột (nguyên phát và thứ phát). |
+| **6. Bệnh di truyền và chuyển hóa** |
+| Đái tháo đường |
+| Nhược giáp (phù niêm) |
+| Bệnh Graves |
+| Thoái biến dạng bột (amyloidosis) |
+| Hội chứng Alport |
+| Bệnh Fabry |
+| **7. Các nguyên nhân di truyền khác** |
+| Liên quan thai kỳ (tiền sản giật, tái phát, thoáng qua), bệnh thận ghép mạn, xơ hóa cầu thận tiến triển hoặc ác tính, tăng áp động mạch thận một bên, giãn mạch lympho ở ruột, hẹp động mạch thận, béo phì nặng, bệnh thận do trào ngược bàng quang niệu quản, hoại tử gai thận, hội chứng Gardner-Diamond, bệnh Castleman, hội chứng Buckley, bệnh Kimura, tiếp xúc Silica. |
+
+3.3.3. Cơ chế bệnh sinh
+
+**Giảm albumin máu**
+
+Albumin bị mất qua nước tiểu rất nhiều nên giảm nồng độ trong máu. Để đáp ứng lại tình trạng này, gan sẽ tăng hoạt động tổng hợp albumin, tuy nhiên nếu albumin tiếp tục mất thì hoạt động của gan sẽ không hiệu quả nữa làm giảm albumin máu. Đường viền trắng ở móng (đường Muehrcke) là dấu hiệu lâm sàng của giảm albumin máu. Tình trạng tăng hoạt động protein xảy ra với tất cả mọi loại protein; kết quả là những loại protein không mất qua nước tiểu thì sẽ tăng nồng độ trong máu gây nên tình trạng tăng lipid máu và tình trạng tăng đông.
+
+**Phù**
+
+Có hai cơ chế gây hiện tượng phù ở hội chứng thận hư: cơ chế giảm thể tích lòng mạch và tăng thể tích lòng mạch. Cơ chế giảm thể tích lòng mạch thường gặp ở hội chứng thận hư sang thương tối thiểu ở trẻ em. Phù là do giảm albumin máu gây giảm áp lực keo làm tăng dịch chuyển từ giường mao mạch vào khoang ngoại bào tuân theo định luật Starling, làm giảm thể tích tuần hoàn, sẽ kích thích thứ phát hệ renin-angiotensin-aldosterone gây nên ứ muối và nước (RAS).
+
+Cơ chế thứ hai thường gặp trong hội chứng thận hư hơn là do khiếm khuyết nguyên phát của ống lượn xa trong việc bài tiết muối, do khi tiều protein sẽ làm các enzyme phân huỷ protein đi vào lòng ống thận hoạt hóa kênh Na ở tế bào biểu mô (EnaC), dẫn đến tăng thể tích lưu thông, ức chế renin, angiotensin và vasopressin, làm tăng huyết áp.
+
+Giảm thể tích lòng mạch
+
+Tăng thể tích lòng mạch
+
+**Sơ đồ: Sơ đồ 16.2. Cơ chế gây phù do hội chứng thận hư (HT: huyết tương)**
+- Giảm thể tích lòng mạch --> Giảm thể tích HT
+- Giảm thể tích lòng mạch --> Vasopressin $\uparrow$ --> Ứ nước --> PHÙ
+- Giảm thể tích lòng mạch --> ANP bình thường/thấp --> Ứ nước --> PHÙ
+- Giảm thể tích lòng mạch --> Renin-angiotensin hoạt hóa Aldosterone $\uparrow$ --> Ứ muối --> PHÙ
+- Tăng thể tích lòng mạch --> Tổn thương ống thận nguyên phát gây ứ muối --> Thể tích HT bình thường/tăng
+- Tăng thể tích lòng mạch --> Thể tích HT bình thường/tăng --> Vasopressin bình thường --> Ứ nước --> PHÙ
+- Tăng thể tích lòng mạch --> Thể tích HT bình thường/tăng --> ANP $\uparrow$ --> Ứ nước --> PHÙ
+- Tăng thể tích lòng mạch --> Thể tích HT bình thường/tăng --> Aldosterone $\downarrow$ --> Ứ muối --> PHÙ
+
+Tăng thể tích lưu thông kết hợp với giảm áp lực keo sẽ càng thúc đẩy tiết dịch vào khoang ngoại bào, gây nên triệu chứng phù. Ngoài ra, bạch cầu hiện diện trong mô kẽ trong nhiều bệnh cầu thận cũng làm giảm bài tiết natri bằng cách tạo ra angiotensin II và các chất oxy hóa (bất hoạt nitric oxide tại chỗ, là chất có tính chất thải natri).
+
+**Rối loạn chuyển hóa**
+
+Tiểu đạm nhiều sẽ gây ra cân bằng nitrogen âm, dẫn đến mất khối cơ, bị che dấu qua triệu chứng phù. Triệu chứng này sẽ càng rõ khi người bệnh hết phù. Người bệnh có thể mất 10 – 20% trọng lượng cơ thể. Mất các protein vận chuyển sắt gây ra tình trạng thiếu máu thiếu sắt, mất protein vận chuyển calci gây thiếu calci,...
+
+**Tình trạng tăng đông**
+
+Nhiều protein tham gia vào quá trình đông máu bị thay đổi nồng độ trong hội chứng thận hư, kết hợp với tăng kết tập tiểu cầu sẽ gây ra hiện tượng tăng đông. Ngoài ra, người bệnh không đi lại được do phù nhiều, nhiễm khuẩn, cô đặc máu sẽ gây ra tình trạng thuyên tắc do huyết khối. Thuyên tắc tĩnh mạch chi dưới, thuyên tắc phổi, thuyên tắc tĩnh mạch thận là những biến chứng hay gặp. Thuyên tắc động mạch cũng có thể gặp trong hội chứng thận hư kết hợp với tình trạng tăng cholesterol trong máu, gây ra bệnh mạch vành, mạch máu não, động mạch chi dưới. Khoảng 10% hội chứng thận hư ở người lớn và 2% ở trẻ em xảy ra biến chứng này. Biến chứng này hay gặp ở sang thương màng. Nồng độ các protein tham gia vào quá trình đông máu không có ý nghĩa tiên lượng nguy cơ này; ngược lại, nồng độ albumin máu lại có vai trò. Biến chứng này thường xảy ra ở những người có albumin huyết thanh dưới 2 g/dL. Thuyên tắc tĩnh mạch thận là biến chứng quan trọng trong hội chứng thận hư. Về lâm sàng có 8% trường hợp hội chứng thận hư bị biến chứng này, nhưng nếu xem xét siêu âm mạch máu một cách hệ thống, tần suất biến chứng này lên đến 10 – 50%. Triệu chứng xảy ra cấp tính bao gồm đau vùng hông lưng và tiểu máu. Tổn thương thận cấp xảy ra nếu thuyên tắc cả hai bên.
+
+**Sơ đồ: Tình trạng tăng đông trong hội chứng thận hư**
+
+- Tổng hợp tại gan $\uparrow$ --> Các protein tham gia quá trình đông máu:
+  - Tăng: fibrinogen; yếu tố V, VII, von Willbrand; protein C; $\alpha1$-macroglobulin
+  - Không thay đổi/giảm: prothrombin; yếu tố IX, X, XI, XII; anti-thrombin III
+- Thải qua nước tiểu $\uparrow$ --> Các protein tham gia quá trình đông máu:
+  - Tăng: fibrinogen; yếu tố V, VII, von Willbrand; protein C; $\alpha1$-macroglobulin
+  - Không thay đổi/giảm: prothrombin; yếu tố IX, X, XI, XII; anti-thrombin III
+- Lipid máu $\uparrow$ --> Xơ vữa Động mạch tiến triển --> Thuyên tắc động mạch
+- Các protein tham gia quá trình đông máu --> Kết tập tiểu cầu --> Giảm thể tích lòng mạch, cô đặc máu --> Bất động do phù nhiều --> Thuyên tắc tĩnh mạch
+
+**Tăng lipid máu và tiểu ra lipid**
+
+Tăng lipid máu là triệu chứng thường gặp trong trường hợp tiểu đạm nặng. Dấu hiệu lâm sàng bao gồm: vòng xanthelasma, tăng cholesterol, triglycerid. Cơ chế do tăng tổng hợp tại gan lipoprotein tỉ trọng thấp (LDL), lipoprotein tỉ trọng rất thấp (VLDL), lipoprotein (a) thứ phát sau giảm albumin máu; bất thường hoạt động lipoprotein lipase ngoại biên làm tăng VLDL, mất lipoprotein tỉ trọng cao (HDL) qua nước tiểu.
+
+Tiểu ra lipid là tiêu chuẩn sử dụng trong chẩn đoán hội chứng thận hư, biểu hiện bởi các triệu chứng: tích tụ lipid trong các mảnh vụn tế bào và hình thành nên các trụ (thể bầu dục, trụ mỡ).
+
+**Sơ đồ: Lipid trong máu**
+- Tổng hợp tại gan --> VLDL $\uparrow$ --> VLDL lắng đọng trong mạch máu $\uparrow$
+- Tổng hợp tại gan --> IDL $\uparrow$ --> Dị hóa $\downarrow$ Lipoprotein lipase nội mạc $\downarrow$
+- Tổng hợp tại gan --> LDL $\uparrow$ --> LDL oxy hóa $\uparrow$
+- Bài tiết HDL tại gan $\uparrow$ --> HDL --> Tính sinh xơ vữa $\uparrow$
+- Hoạt động lecithin cholesterol acyltransferase (LCAT) $\downarrow$ --> HDL3 $\downarrow$ --> $\uparrow$ thải qua nước tiểu các HDL3
+- Hoạt động lecithin cholesterol acyltransferase (LCAT) $\downarrow$ --> HDL2 $\downarrow$ --> Lấy cholesterol từ mô đến gan bị suy yếu
+- Tổng hợp tại gan --> Lipoprotein (a) $\uparrow$ --> Tính sinh xơ vữa $\uparrow$
+
+**Sơ đồ 16.4.** Rối loạn chuyển hóa lipid trong hội chứng thận hư
+
+**Các rối loạn chuyển hóa khác**
+
+Protein kết hợp vitamin D bị mất trong nước tiểu, gây ra giảm nồng độ 25-hydroxyvitamin D, nhưng nồng độ vitamin D tự do trong huyết tương thường bình thường. Bệnh nhuyễn xương hoặc cường tuyến cận giáp không triệu chứng hiếm gặp trong hội chứng thận hư nếu không có suy thận.
+
+Globulin gắn hormone tuyến giáp bị mất trong nước tiểu, làm giảm nồng độ thyroxin toàn phần, nhưng FT4 và TSH lại bình thường nên người bệnh hội chứng thận hư thường không có biểu hiện lâm sàng gì về tuyến giáp. Người bệnh có thể bị thiếu đồng, kẽm, sắt do mất các protein gắn các chất này qua nước tiểu.
+
+Thuốc cũng bị thay đổi nồng độ. Hầu hết các thuốc không cần chỉnh liều, riêng đối với clofibrate có thể gây ra bệnh cơ nặng ở người bị hội chứng thận hư ngay cả ở liều bình thường.
+
+## Nhiễm khuẩn
+
+Người bệnh bị hội chứng thận hư rất dễ bị nhiễm khuẩn và là một trong những nguyên thường gây tử vong ở các nước đang phát triển. Người bệnh có thể bị nhiễm vi khuẩn, virus, nhiễm nấm. Trong số đó, hai loại nhiễm khuẩn sau đây thường gặp và để lại hậu xấu nếu không phát hiện và điều trị kịp thời: viêm phúc mạc nguyên phát và viêm mô tế bào. Viêm phúc mạc nguyên phát, là biến chứng thường gặp ở trẻ em bị hội chứng thận hư, thường do Pneumococci, vì sau 20 tuổi hầu hết người lớn đều có kháng thể chống lại kháng nguyên vỏ Pneumococci. Viêm phúc mạc nguyên phát thường do Streptococci tiêu huyết $\beta$ hoặc trực khuẩn gram âm, nhưng rất ít gặp Staphylococci. Viêm mô tế bào thường xảy ra ở các vùng bị phù nhiều, thường do Streptococci tiêu huyết $\beta$.
+
+Nguy cơ nhiễm khuẩn cao ở người bệnh hội chứng thận hư là do nhiều nguyên nhân: (1) tụ dịch lượng nhiều chẳng hạn ở mô dưới da trong trường hợp viêm mô tế bào, hoặc dịch báng trong viêm phúc mạc nguyên phát là môi trường thuận lợi cho vi khuẩn phát triển, khoảng hở giữa các tế bào biểu bì làm cho vi khuẩn từ bề mặt da xâm nhập bên dưới, hoặc khoảng hở giữa các tế bào biểu mô thành ruột khi thành ruột bị phù nề làm cho vi khuẩn dễ xâm nhập từ lòng ruột vào khoang phúc mạc; (2) tình trạng phù làm pha loãng các yếu tố miễn dịch tại chỗ; (3) mất IgG và bổ thể qua nước tiểu làm suy yếu khả năng loại bỏ các vi khuẩn có vỏ bao như Pneumococci; (4) kẽm và transferrin bị mất qua nước tiểu làm cho tế bào lympho hoạt động kém hiệu quả; (5) chức năng thực bào của bạch cầu đa nhân trung tính suy yếu.
+
+## Suy thận
+
+- Tổn thương thận cấp
+
+Người bệnh bị hội chứng thận hư có thể bị tổn thương thận cấp do nhiều nguyên nhân: (1) tổn thương thận cấp trước thận do giảm thể tích lưu thông trong những trường hợp giảm albumin máu nặng hoặc lạm dụng thuốc lợi tiểu; (2) hoại tử ống thận cấp do tổn thương trước thận kéo dài, hoặc tình trạng nhiễm khuẩn huyết; (3) chuyển dạng của bệnh cầu thận cơ bản (xuất hiện viêm cầu thận liềm trên người bệnh bị bệnh cầu thận màng); (4) thuyên tắc tĩnh mạch thận hai bên; (5) tác dụng phụ của thuốc điều trị chẳng hạn kháng viêm không steroid, ức chế men chuyển, ức chế thụ thể angiotensin II; (6) nguy cơ viêm thận kẽ cấp do dị ứng (thuốc lợi tiểu,...); (7) phù trong thận làm chèn ép ống thận, có thể đáp ứng với lợi tiểu kết hợp truyền albumin.
+
+- Bệnh thận mạn
+
+Ngoại trừ bệnh cầu thận do sang thương tối thiểu, hầu hết các nguyên nhân khác đều có nguy cơ tiến triển suy thận. Nguy cơ này thấp nếu tiểu đạm dưới 2 g/ngày. Nguy cơ càng tăng khi tiểu đạm càng nhiều, tăng đáng kể nếu tiểu đạm > 5 g/ngày.
+
+### 3.4. Hội chứng viêm thận
+
+Trong hội chứng này, người bệnh bị viêm cầu thận, dẫn đến giảm độ lọc cầu thận, tiểu đạm dưới ngưỡng thận hư, phù, tăng huyết áp, tiểu máu kèm trụ hồng cầu.
+
+Hội chứng viêm cầu thận cấp điển hình có thể gặp trong viêm cầu thận hậu nhiễm liên cầu trùng. Bệnh thường xảy ra ở trẻ em 2 – 6 tuổi, người lớn > 40 tuổi hoặc trẻ em dưới 2 tuổi chỉ gặp khoảng 15% trường hợp viêm cầu thận cấp hậu nhiễm liên cầu trùng. Nam thường gặp nhiều hơn nữ. Người bệnh khởi đầu viêm họng hoặc viêm da. 1 – 2 tuần sau, đột ngột tiểu ít, phù toàn thân, tiểu màu nâu đỏ trong vòng vài ngày. Nước tiểu chứa protein, hồng cầu, trụ hồng cầu. Tiểu đạm ít khi đạt ngưỡng thận hư, albumin máu trong giới hạn bình thường. Thể tích tuần hoàn tăng kèm tăng huyết áp, có thể bị phù phổi cấp mặc dù không có bệnh tim thực thể. Trường hợp viêm cầu thận hậu nhiễm liên cầu trùng dưới lâm sàng có nghĩa là bất thường nước tiểu không triệu chứng có thể có tần suất gấp 4 lần thể viêm cầu thận cấp điển hình. Hình ảnh mô bệnh học điển hình là viêm cầu thận tăng sinh lan tỏa. Tuy nhiên, nếu bệnh cảnh lâm sàng điển hình không cần phải sinh thiết thận. Chỉ sinh thiết thận khi cần chẩn đoán phân biệt với bệnh thận IgA (nhất là trong trường hợp viêm cầu thận xảy ra sau viêm họng), viêm cầu thận tăng sinh màng, bệnh cầu thận do lắng đóng $C_3$, viêm cầu thận liềm.
+
+Trong trường hợp điển hình có thể phân biệt được hội chứng thận hư và hội chứng viêm thận dựa vào triệu chứng lâm sàng và cận lâm sàng như bảng dưới đây. Từ đó giúp định hướng chẩn đoán nguyên nhân. Tuy nhiên, có một số trường hợp bệnh cầu thận chẳng hạn như viêm cầu thận tăng sinh màng có thể biểu hiện bằng hội chứng thận hư, hội chứng viêm thận hoặc kết hợp cả hai hội chứng.
+
+**Bảng 16.4.** Các triệu chứng lâm sàng, cận lâm sàng giúp phân biệt hội chứng thận hư và hội chứng viêm thận
+
+| Đặc điểm | Hội chứng thận hư | Hội chứng viêm thận |
+| :--- | :---: | :---: |
+| Khởi phát | Âm thầm | Đột ngột |
+| Phù | ++++ | ++ |
+| Huyết áp | Bình thường | Tăng |
+| Tĩnh mạch cổ | Bình thường/thấp | Nổi |
+| Tiểu đạm | ++++ | ++ |
+| Tiểu máu | ± | +++ |
+| Trụ hồng cầu | Không có | Có |
+| Albumin máu | Thấp | Bình thường/giảm nhẹ |
+
+Bảng 16.5 liệt kê các nguyên nhân thường gặp của hội chứng viêm thận và các xét nghiệm huyết thanh học giúp chẩn đoán. Chẩn đoán nguyên nhân hội chứng viêm thận gặp rất nhiều khó khăn, đòi hỏi kết hợp triệu chứng lâm sàng, xét nghiệm huyết thanh học và tổn thương mô bệnh học.
+
+Bảng 16.5. Nguyên nhân thường gặp của hội chứng viêm thận
+
+| Bệnh | Triệu chứng đi kèm | Xét nghiệm huyết thanh học |
+| --- | --- | --- |
+| Viêm cầu thận hậu nhiễm liên cầu trùng | Viêm họng, viêm da | ASO, $C_3$ giảm |
+| Viêm cầu thận sau | | |
+| Viêm nội tâm mạc nhiễm khuẩn | Tiếng thổi ở tim | Cấy máu, $C_3$ giảm |
+| Áp-xe | Áp-xe | Cấy máu, $C_3$, $C_4$ bình thường hoặc tăng |
+| | | Cấy máu, $C_3$ giảm |
+| Có shunt não thất | Bệnh não úng thủy đã điều trị | |
+| Bệnh thận IgA | Nhiễm khuẩn hô hấp trên hoặc đường tiêu hóa | IgA huyết thanh tăng |
+| Viêm thận do lupus | Các đặc điểm bệnh hệ thống khác: tổn thương da, khớp, huyết học,... | ANA, anti-dsDNA, $C_3$ giảm, $C_4$ giảm |
+
+## 3.5. Viêm cầu thận tiến triển nhanh
+
+Viêm cầu thận tiến triển nhanh mô tả tình huống lâm sàng tổn thương cầu thận cấp và nặng, dẫn đến suy giảm chức năng thận đáng kể trong vòng vài ngày đến vài tuần. Người bệnh thường có tình trạng ure huyết cao, kèm hội chứng viêm thận tiến triển.
+
+Phần lớn các trường hợp có tổn thương dạng liềm thể. Có hiện tượng tăng sinh tế bào rất nhiều bện ngoài búi mao mạch cầu thận, trong khoang Bowman tạo nên hình “liềm”. Búi mao mạch cầu thận có thể cho thấy hình ảnh viêm cầu thận hoại tử khu trú từng phần.
+
+Thuật ngữ viêm cầu thận tiến triển nhanh thường được dùng để mô tả các trường hợp suy giảm chức năng thận kết hợp với viêm cầu thận liềm. Tuy nhiên, trên thực tế, chúng ta có thể gặp các trường hợp bệnh cầu thận nhẹ nhưng bị tổn thương thận cấp do tăng huyết áp nặng, thuyên tắc tĩnh mạch thận, hoại tử ống thận cấp. Điều này cho thấy cần phải chẩn đoán bằng mô bệnh học để có được chẩn đoán chính xác nhằm điều trị thích hợp theo nguyên nhân.
+
+Bảng 16.6. Các nguyên nhân thường gặp của viêm cầu thận tiến triển nhanh
+
+| Bệnh | Triệu chứng đi kèm | Xét nghiệm huyết thanh |
+| :--- | :--- | :--- |
+| Hội chứng Goodpasture | Xuất huyết phổi | - Kháng thể kháng màng đáy<br>- Đôi khi ANCA (+) |
+- Viêm mạch máu
+- U hạt kèm viêm đa động mạch (u hạt Wegener)
+- Viêm đa động mạch vi thể
+- Viêm cầu thận liềm ít lắng đóng miễn dịch
+- Triệu chứng đường hô hấp trên và đường hô hấp dưới
+- Biểu hiện bệnh hệ thống
+- Chỉ có tổn thương thận, mà không tổn thương cơ quan khác
+- ANCA bào tương
+- ANCA quanh nhân
+- ANCA quanh nhân
+
+| Bệnh | Triệu chứng đi kèm | Xét nghiệm huyết thanh |
+| --- | --- | --- |
+| - Bệnh cầu thận qua trung gian phức hợp miễn dịch | | - ANA (+), Anti-dsDNA (+), $C_3$ giảm, $C_4$ giảm |
+| - Lupus ban đỏ hệ thống | - Các biểu hiện cơ quan khác: phát ban da, khớp,... | - ASO, $C_3$ giảm, $C_4$ bình thường |
+| - Viêm cầu thận hậu nhiễm liên cầu trùng | - Viêm họng, viêm da | - IgA máu tăng (30%) |
+| - Bệnh thận IgA; viêm mạch máu do lắng đóng IgA (ban xuất huyết Henoch-Schonlein) | - Hồng ban $\pm$ đau bụng | - $C_3$ và $C_4$ bình thường |
+| Viêm nội tâm mạc | Tiếng thổi ở tim, các triệu chứng khác của nhiễm khuẩn huyết | - Cấy máu <br> - ANCA (+) trong một số trường hợp <br> - $C_3$ giảm, $C_4$ bình thường |
+
+## 3.6. Viêm cầu thận mạn
+
+Viêm cầu thận mạn là hội chứng viêm mạn tính cầu thận bao gồm tiểu đạm và/hoặc tiểu máu và suy thận tiến triển chậm trong nhiều năm. Trên thực tế lâm sàng, chẩn đoán viêm cầu thận mạn là chẩn đoán loại trừ khi không xếp được vào các hội chứng viêm cầu thận khác.
+
+Viêm cầu thận mạn được phát hiện và chẩn đoán trong các tình huống sau: (1) phát hiện tình cờ khi xét nghiệm nước tiểu thấy tiểu đạm và/hoặc tiểu máu; (2) xét nghiệm tình cờ thấy chức năng thận suy giảm; (3) phát hiện hai thận teo trên siêu âm, giới hạn vỏ tủy không rõ; (4) phát hiện tình cờ khi tìm nguyên nhân tăng huyết áp; (5) đợt bùng phát của viêm cầu thận sau viêm họng, viêm da.
+
+Viêm cầu thận mạn có đặc điểm: (1) diễn tiến chậm qua nhiều năm; (2) diễn tiến âm thầm người bệnh không nhận biết; (3) có thể diễn tiến đến suy thận giai đoạn cuối.
+
+Qua sinh thiết thận, viêm cầu thận mạn có thể biểu hiện bằng mọi loại sang thương của cầu thận, ngoại trừ sang thương tối thiểu và viêm cầu thận liềm.
+
+# 4. CÁC TỔN THƯƠNG CHÍNH CỦA CẦU THẬN THEO BỆNH HỌC
+## 4.1. Bệnh cầu thận sang thương tối thiểu (Minimal Change Disease)
+
+Tổn thương này thường gặp ở trẻ em, chiếm $70 - 90\%$ trẻ bị hội chứng thận hư dưới 10 tuổi, $50\%$ trong nhóm trẻ lớn, trong khi ở người lớn chỉ chiếm $10 - 15\%$.
+
+### 4.1.1. Mô bệnh học
+
+Dưới kính hiển vi quang học, cầu thận gần như bình thường hoặc có tăng sinh khu trú gian mạch. Khi nhuộm miễn dịch huỳnh quang hoặc hóa mô miễn dịch, thường không bắt màu với tất cả các kháng huyết thanh hoặc dương tính yếu với IgM hoặc $C_3$. Dưới kính hiển vi điện tử, có hiện tượng các chân giả của tế bào biểu mô tạng dính vào nhau.
+
+**4.1.2. Đặc điểm**
+
+Hội chứng thận hư điển hình, khởi phát đột ngột, ít khi tăng huyết áp và suy thận, cặn lắng nước tiểu thường bình thường. Lưu ý là người trên 60 tuổi có thể chiếm một phần tư số người lớn bị hội chứng thận hư. Sang thương tối thiểu cũng có thể liên quan đến các nguyên nhân thứ phát như nhiễm virus, thuốc (đặc biệt là thuốc kháng viêm không steroid), bệnh ác tính và dị ứng. Diễn tiến lâm sàng thường đáp ứng tốt với điều trị, ít khi dẫn đến suy thận mặc dù có thể đến 50% bị tái phát.
+
+**4.2. Bệnh cầu thận màng (Membranous Glomerulopathy)**
+
+Bệnh cầu thận màng là tổn thương thường gặp nhất ở người lớn, chiếm tỉ lệ khoảng 25%. Bệnh thường gặp do nguyên nhân thứ phát hơn so với nguyên phát. Bệnh cầu thận màng có thể thứ phát sau nhiễm viêm gan virus B, viêm gan virus C, giang mai, nhiễm sán máng, sốt rét, phong, viêm nội tâm mạc nhiễm khuẩn, sau dùng thuốc (như muối vàng, penicillamine, captopril, kháng viêm không phải là steroid, thuỷ ngân), thứ phát sau bệnh tự miễn (lupus ban đỏ hệ thống, viêm đa khớp dạng thấp, hội chứng Sjögren), sau bệnh ác tính (carcinoma vú, phổi, đại tràng, dạ dày, thực quản,...) hoặc sau các nguyên nhân khác như bệnh Crohn, sarcoidosis, bệnh hồng cầu hình liềm. Do vậy, cần loại trừ các nguyên nhân thứ phát trước khi kết luận bệnh cầu thận màng là nguyên phát.
+
+**4.2.1. Mô bệnh học**
+
+[Hình: Sơ đồ cấu trúc cầu thận]
+
+Hình 16.6. Sang thương tối thiểu
+
+[Hình: Tiêu bản vi quang học cầu thận Jones silver stain × 200]
+
+Hình 16.7. Sang thương tối thiểu Jones silver stain × 200
+
+[Hình: Ảnh hiển thị điện tử cấu trúc tế bào EM × 8000]
+
+Hình 16.8. Sang thương tối thiểu EM × 8000
+
+[Hình: Hình 16.9 Bệnh cầu thận màng]
+
+**Hình 16.9** Bệnh cầu thận màng
+
+[Hình: Hình 16.10. Bệnh cầu thận màng Jones Silver stain × 400]
+
+**Hình 16.10.** Bệnh cầu thận màng Jones Silver stain × 400
+
+[Hình: Hình 16.11. Bệnh cầu thận màng Anti-IgG, IF × 200]
+
+**Hình 16.11.** Bệnh cầu thận màng Anti-IgG, IF × 200
+
+[Hình: Hình 16.12. Xơ chai cầu thận khu trú từng vùng FSGS]
+
+**Hình 16.12.** Xơ chai cầu thận khu trú từng vùng FSGS
+
+[Hình: Hình 16.13. Xơ chai cầu thận khu trú từng vùng, PAS × 4 [không rõ]]
+
+**Hình 16.13.** Xơ chai cầu thận khu trú từng vùng, PAS × 4
+
+[Hình: Hình 16.14. Xơ chai cầu thận khu trú từng vùng Anti-IgM, IF × 400]
+
+**Hình 16.14.** Xơ chai cầu thận khu trú từng vùng Anti-IgM, IF × 400
+
+[Hình: Hình 16.15. Tăng sinh màng MPGN]
+
+**Hình 16.15.** Tăng sinh màng MPGN
+
+[Hình: Hình 16.16. Tăng sinh màng MPGN, PAS stain × 100]
+
+**Hình 16.16.** Tăng sinh màng MPGN, PAS stain × 100
+
+[Hình: Hình 16.17. Tăng sinh màng MPGN. Anti-C1q, IF × 400]
+
+**Hình 16.17.** Tăng sinh màng MPGN. Anti-C1q, IF × 400
+
+Tổn thương mô bệnh học cơ bản của sang thương màng là lắng đóng phức hợp miễn dịch dưới lớp tế bào biểu mô tạng, gồm bốn giai đoạn, được chẩn đoán xác định bằng kính hiển vi điện tử. Dưới kính hiển vi quang học, có hiện tượng dày thành mao mạch toàn bộ và lan tỏa mà không có sự tăng sinh tế bào trong cầu thận. Nhuộm bạc có thể thấy lắng đóng phức hợp miễn dịch dưới tế bào biểu mô. Khi nhuộm hóa mô miễn dịch, thấy bắt màu dạng hạt lan tỏa với IgG và $C_3$ ở thành mao mạch.
+
+## 4.2.2. Đặc điểm
+
+Khởi phát từ từ, tiểu đạm nặng, đơn thuần, ít khi kèm tiểu máu. Nên chú ý tìm nguyên nhân ung thư nếu người bệnh sụt cân, thiếu máu không rõ nguyên nhân hoặc lớn tuổi. Bổ thể thường bình thường trong bệnh nguyên phát. Biến chứng tắc mạch thường gặp trong bệnh cầu thận màng, đặc biệt là thuyên tắc tĩnh mạch thận. Có 30% người bệnh thuyên giảm tự phát trong vòng 6 tháng đến 1 năm. Tỉ lệ sống còn thận là 65% sau 10 năm. Các yếu tố tiên lượng kém gồm suy thận, tiểu đạm nặng và kéo dài, giới nam, tuổi trên 50, tăng huyết áp khó kiểm soát, sang thương mô học tiến triển (giai đoạn III, IV) kèm teo ống thận, xơ hóa mô kẽ.
+
+## 4.3. Xơ chai cầu thận khu trú từng vùng (Focal and Segmental Glomerulosclerosis)
+
+Chiếm 25% bệnh cầu thận ở người lớn, có thể kết hợp trong bệnh cảnh nhiễm HIV hoặc ở người béo phì.
+
+### 4.3.1. Mô bệnh học
+
+Dưới kính hiển vi quang học, một hay nhiều cầu thận bị xơ hóa từng vùng, chỗ xơ hóa thường dính vào khoang Bowman. Lòng mao mạch bị tắc nghẽn. Những cầu thận không bị xơ hóa có thể bình thường hoặc tăng sinh gian mạch. Dưới kính hiển vi miễn dịch huỳnh quang, thấy lắng đóng phức hợp miễn dịch chứa $IgM$, $C_{1q}$, $C_3$. Dưới kính hiển vi điện tử, các tế bào chân giả dính vào nhau, đôi khi các chân giả bong tróc khỏi màng đáy mao mạch. Tổn thương siêu cấu trúc của xơ chai cầu thận khu trú từng vùng thường không đặc hiệu. Do đó, kính hiển vi điện tử đóng vai trò chẩn đoán phân biệt các sang thương khác có thể gây sẹo trên cầu thận với sang thương xơ chai cầu thận khu trú từng vùng.
+
+Sang thương xơ chai cầu thận khu trú từng vùng thường nằm sâu vùng ranh giới vỏ tùy, vì thế nếu sinh thiết không đủ độ sâu, có thể chẩn đoán lầm với sang thương tối thiểu.
+
+### 4.3.2. Đặc điểm
+
+Bệnh cầu thận xuất hiện từ từ, thường kèm theo tiểu máu, tăng huyết áp, suy thận. Cặn lắng nước tiểu có kết quả bất thường như hiện diện tiểu máu, tiểu bạch cầu, tiểu ra glucose và phosphate do tổn thương ống thận gần, tiểu đạm thường không chọn lọc. Các xét nghiệm huyết thanh học và bổ thể thường có kết quả bình thường.
+
+Bệnh này tiên lượng xấu, chỉ 15% đến 45% người bệnh đáp ứng với điều trị. Đạm niệu là yếu tố tiên lượng của xơ chai cầu thận khu trú từng vùng: 50% người bệnh có mức tiểu đạm dưới 10 g/24 giờ diễn tiến đến suy thận giai đoạn cuối trong vòng 10 năm; trong khi phần lớn người bệnh có mức tiểu đạm trên 10 g/24 giờ sẽ tiến đến suy thận giai đoạn cuối trong vòng 3 năm.
+
+4.4. Viêm cầu thận tăng sinh tế bào gian mạch (Mesangial Proliferative Glomerulonephritis)
+
+**Bệnh thận IgA**
+
+Bệnh thận IgA là một trong những loại viêm cầu thận thường gặp nhất. Bệnh này được mô tả đầu tiên bởi Berger và Hinglais vào những năm 1960. Đặc điểm điển hình của bệnh thận IgA là lắng đọng ưu thế IgA trong vùng gian mạch kèm tăng sinh tế bào gian mạch. Biểu hiện lâm sàng rất đa dạng: từ tiểu máu vi thể, viêm cầu thận cấp, viêm cầu thận tiến triển nhanh, viêm cầu thận mạn. $40\%$ số người bệnh có thể diễn tiến đến suy thận giai đoạn cuối. Bệnh thận IgA có thể gặp ở mọi lứa tuổi, nhưng thường gặp nhất ở độ tuổi $20 - 30$ tuổi, nam nhiều hơn nữ. Gen đóng vai trò quan trọng trong bệnh thận IgA, nhiều trường hợp bệnh thận IgA có tính gia đình.
+
+## 4.4.1. Nguyên nhân
+
+**Bệnh thận IgA nguyên phát**
+
+**Bệnh thận IgA thứ phát**
+
+- Viêm mạch máu do lắng đóng IgA
+- Nhiễm HIV
+- Nhiễm Toxoplasma
+- Viêm cột sống dính khớp huyết thanh âm tính
+- Bệnh Celiac
+- Viêm da dạng herpetiformis
+- Bệnh Crohn
+- Bệnh gan, xơ gan do rượu
+- Viêm cột sống dính khớp
+- Hội chứng Reiter
+- Bệnh ác tính
+- Giảm tiểu cầu do nguyên nhân miễn dịch
+- Phong
+
+**Bệnh thận IgA có tính gia đình**
+
+## 4.4.2. Mô bệnh học
+
+Miễn dịch huỳnh quang: bệnh thận IgA được chẩn đoán xác định bởi sự lắng đóng phức hợp miễn dịch ưu thế IgA trong vùng gian mạch. Dưới kính hiển vi quang học, thường thấy viêm cầu thận tăng sinh gian mạch, một số trường hợp thấy sang thương tối thiểu, hoặc sang thương liềm, xơ hóa mạn tính. Để tiên lượng bệnh thận IgA, hiện nay người ta dùng bảng phân loại Oxford-MEST score với 4 thông số: tăng sinh tế bào gian mạch ($\text{score} \le 0,5 = 0$, $\text{score} > 0,5 = 1$), tăng sinh tế bào nội mao mạch (không có $= 0$, có $= 1$), xơ hóa cầu thận khu trú (không có $= 0$, có $= 1$) và teo ống thận/xơ hóa mô kẽ (tỉ lệ vùng bị tổn thương $\le 25\% = 0$, $26\%$ đến $50\% = 1$, lớn hơn $50\% = 2$).
+
+## 4.4.3. Cơ chế bệnh sinh
+
+Đặc điểm lắng đóng phức hợp miễn dịch dạng hạt chứa IgA trong vùng gian mạch, cũng như dọc theo mao mạch trong bì trong trường hợp viêm mạch máu IgA đã chứng minh cơ chế bệnh sinh chính của bệnh là do lắng đóng phức hợp miễn dịch làm hoạt hóa bổ thể thông qua con đường thay thế. Phân tử IgA này xuất phát chủ yếu từ hệ thống miễn dịch niêm mạc; do đó, bệnh thường biểu hiện bằng những đợt viêm cầu thận cấp trên nền viêm cầu thận mạn. Các đợt bệnh cấp tính này thường đi trước bằng những đợt viêm đường hô hấp hoặc tiêu hoá. Tuy nhiên, nồng độ IgA không phản ánh tương quan với hoạt động của bệnh và mức độ lắng đóng phức hợp miễn dịch trong vùng gian mạch. Vì thế, người ta nghĩ rằng bệnh này do chính bất thường trong phân tử IgA, cụ thể là sự glycosyl hóa. Các phân tử IgA thiếu Galactose (Gd-IgA1) nên vùng kết nối giữa các phân tử IgA tiếp xúc với N-acetylgalactosamine và hình thành nên các quyết định kháng nguyên. Các quyết định kháng nguyên này là mục tiêu của các tự kháng thể IgG. Điều này được phát hiện qua các nghiên cứu cho thấy ở người bị bệnh thận do IgA có các tế bào lympho B bất tử và các tự kháng thể IgG đặc hiệu Gd-IgA1 xuất hiện trong máu. Các phức hợp miễn dịch lưu hành trong máu, thoát khỏi sự bắt giữ của hệ lưới nội mô và lắng đóng trong cầu thận, làm tăng sinh gian mạch, hoạt hóa các hóa chất trung gian như cytokine, chemokin, yếu tố tăng trưởng, bổ thể gây nên tổn thương cầu thận.
+
+## 4.4.4. Đặc điểm lâm sàng và diễn tiến tự nhiên của bệnh
+
+40 – 50% người bệnh khởi phát bằng triệu chứng tiểu máu đại thể, các đợt tiểu máu này thường đi sau nhiễm khuẩn đường hô hấp trên hoặc đường tiêu hoá. Đôi khi người bệnh có triệu chứng tiểu đau buốt trong những đợt tiểu máu này làm chúng ta chẩn đoán lầm là viêm bàng quang cấp. Triệu chứng toàn thân không đặc hiệu như mệt mỏi, đau cơ, sốt nhẹ, đau hông lưng. Một số người bệnh khởi phát bằng triệu chứng tăng huyết áp, khó kiểm soát. Khoảng 10% người bệnh biểu hiện nặng bằng viêm cầu thận cấp gây ra tổn thương thận cấp, thậm chí cần phải chạy thận nhân tạo cấp cứu. 30 – 40% người bệnh có thể biểu hiện dưới dạng bất thường nước tiểu không triệu chứng (tiểu máu vi thể và/hoặc tiểu đạm) thường kèm theo tăng huyết áp. Một số người bệnh biểu hiện bằng hội chứng thận hư sẽ có mô bệnh học dưới dạng viêm cầu thận tăng sinh lan tỏa hoặc bệnh thận IgA kết hợp với sang thương tối thiểu. Một số người bệnh đến khám vì suy thận giai đoạn cuối do đã có một thời gian dài không triệu chứng không được phát hiện.
+
+Ngoài ra, bệnh thận IgA còn có thể thứ phát trong đó viêm cầu thận là biểu hiện của bệnh hệ thống như bảng phân loại nguyên nhân trên. Người bệnh bị viêm mạch máu IgA thường bị đau bụng, viêm khớp, ban xuất huyết, viêm cầu thận. Diễn tiến bệnh thận IgA thay đổi tùy từng người bệnh, nhìn chung khoảng 1 – 2% bị suy thận giai đoạn cuối mỗi năm. Tỉ lệ sống còn thận theo các nghiên cứu khoảng 80% sau 10 năm chẩn đoán. Các yếu tố tiên lượng xấu bao gồm: tăng huyết áp kéo dài, tiểu đạm kéo dài (đặc biệt nếu $> 1\text{ g/24 giờ}$), suy thận, hội chứng thận hư.
+
+## 4.5. Viêm cầu thận tăng sinh màng (Membranoproliferative Glomerulonephritis)
+
+Viêm cầu thận tăng sinh màng là sang thương thường gặp ở người trưởng thành, biểu hiện lâm sàng bằng các hội chứng như hội chứng thận hư, hội chứng viêm thận, tiểu máu đơn độc, tổn thương thận cấp hoặc suy thận tiến triển nhanh. Bệnh thường gặp ở trẻ em 8 – 16 tuổi, chiếm tỉ lệ 10% các mẫu sinh thiết thận. Bệnh có thể nguyên phát hay thứ phát do nhiễm khuẩn (đặc biệt là viêm gan virus C, viêm gan virus B), tự miễn (lupus), ác tính, di truyền.
+
+## 4.5.1. Mô bệnh học
+
+Dày màng đáy cầu thận, tăng sinh tế bào gian mạch và tế bào nội mô, lắng đóng phức hợp miễn dịch dưới lớp tế bào nội mô, được chia thành ba type là type I (thường gặp nhất), type II và type III (ít gặp).
+
+Type I với đặc điểm mô bệnh học là dày thành mao mạch lan tỏa kèm tăng sinh tế bào nội mô, có hình ảnh tạo búi, phân chia tiểu thuỳ. Miễn dịch huỳnh quang không bắt màu đặc hiệu. Type III giống type I ở kính hiển vi quang học và miễn dịch huỳnh quang nhưng khác về siêu cấu trúc với sự dày màng đáy không đều với nhiều phức hợp miễn dịch lắng đóng với đậm độ khác nhau. Type II không có hình ảnh đặc hiệu tạo búi dưới kính hiển vi quang học như ở type I và type III nên để chẩn đoán chính xác cần có miễn dịch huỳnh quang và kính hiển vi điện tử với hình ảnh lắng đọng đặc không liên tục, thành dải trong màng đáy. Với miễn dịch huỳnh quang, bắt màu với $\text{C}_3$ mà không bắt màu với các globumin miễn dịch.
+
+## 4.5.2. Đặc điểm
+
+Bệnh cầu thận thường có tiểu máu, suy thận diễn tiến nhanh và thường báo trước bằng triệu chứng nhiễm khuẩn hô hấp trên. Một phần tư các trường hợp người bệnh có kèm hội chứng viêm cầu thận cấp. Tỉ lệ sống còn của thận sau 10 năm là 40 – 65%.
+
+## 4.6. Viêm cầu thận tăng sinh lan tỏa (Diffuse proliferative Glomerulonephritis)
+
+Viêm cầu thận tăng sinh lan tỏa biểu hiện lâm sàng bằng hội chứng viêm thận cấp với tiểu máu do bệnh cầu thận, trụ hồng cầu trong nước tiểu, kèm giảm độ lọc cầu thận cấp tính.
+
+Tổn thương mô bệnh học bao gồm tăng sinh lan tỏa toàn bộ cầu thận, thâm nhiễm bạch cầu đa nhân trung tính và monocyte. Tăng sinh nội mao mạch gồm tăng sinh tế bào gian mạch và tế bào nội mô. Phù mô kẽ và thâm nhiễm mô kẽ các tế bào bạch cầu đơn nhân. Trong trường hợp nặng, tổn thương ống thận từng vùng. Không có tổn thương mạch máu điển hình. Miễn dịch huỳnh quang thường thấy lắng đóng phức hợp miễn dịch dạng hạt thô, lan tỏa ở vách mao mạch và vùng gian mạch với $\text{C}_3$ và $\text{IgG}$.
+
+Nguyên nhân có thể nguyên phát, hoặc thứ phát sau hậu nhiễm khuẩn, lupus ban đỏ hệ thống, ban xuất huyết Henoch Schonlein, bệnh kháng thể kháng màng đáy cầu thận, hoặc bệnh thận ít lắng đóng phức hợp miễn dịch (pauci-immune disease).
+
+## 4.7. Viêm cầu thận liềm (Crescentic Glomerulonephritis)
+
+Viêm cầu thận liềm là sang thương có biểu hiện lâm sàng bằng hội chứng viêm thận tiến triển nhanh với cặn lắng kiểu hội chứng viêm thận cấp, tăng huyết áp, phù, thiểu niệu. Tổn thương mô bệnh học đặc trưng là tổn thương liềm thường gây suy thận tiến triển nhanh trong vòng vài tuần đến vài tháng. Cơ chế là do hiện tượng rách khu trú vách mao mạch cầu thận làm cho các yếu tố viêm, tế bào bạch cầu đi vào trong khoang Bowman, kích thích tăng sinh tế bào biểu mô, lôi kéo các đại thực bào vào tạo nên liềm tế bào.
+
+Nguyên nhân do bệnh kháng thể kháng màng đáy cầu thận, hội chứng Goodpasture. Tổn thương viêm cầu thận liềm còn có thể là tổn thương đi kèm trên viêm cầu thận do bệnh ban xuất huyết Henoch Schonlein, viêm mạch máu hệ thống, lupus ban đỏ hệ thống hoặc do căn nguyên ít liên quan miễn dịch như u hạt Wegener, viêm nút quanh động mạch.
+
+[Hình: Sơ đồ cầu thận trong bệnh thận IgA]
+
+**Hình 16.18.** Bệnh thận IgA Tăng sinh tế bào gian mạch và chất nền gian mạch. Lắng đọng phức hợp miễn dịch chứa IgA trong vùng gian mạch
+
+[Hình: Vi thể quang học bệnh thận IgA, PAS stain × 200]
+
+**Hình 16.19.** Bệnh thận IgA PAS stain $\times 200$
+
+[Hình: Miễn dịch huỳnh quang bệnh thận IgA, Anti-IgA, IF $\times 400$]
+
+**Hình 16.20.** Bệnh thận IgA Anti-IgA, IF $\times 400$
+
+[Hình: Sơ đồ cầu thận trong viêm cầu thận hậu nhiễm]
+
+**Hình 16.21.** Viêm cầu thận hậu nhiễm
+
+[Hình: Vi thể quang học viêm cầu thận hậu nhiễm, PAS stain × 400]
+
+**Hình 16.22.** Viêm cầu thận hậu nhiễm PAS stain $\times 400$
+
+[Hình: Miễn dịch huỳnh quang viêm cầu thận hậu nhiễm, Anti-IgG, IF $\times 400$]
+
+**Hình 16.23.** Viêm cầu thận hậu nhiễm Anti-IgG, IF $\times 400$
+
+[Hình: Hình 16.24. Bệnh qua trung gian miễn dịch: kháng thể kháng màng đáy cầu thận. Liềm tế bào ở góc trên bên phải]
+
+[Hình: Hình 16.25. Bệnh qua trung gian miễn dịch: kháng thể kháng màng đáy cầu thận. Phần bên phải cầu thận còn bảo tồn, bên trái cho thấy rách màng đáy hình thành liềm tế bào. Nhuộm Jones silver stain × 400]
+
+## 5. MỘT SỐ BỆNH CẦU THẬN THỨ PHÁT THƯỜNG GẶP
+
+### 5.1. Bệnh thận do đái tháo đường
+
+Bệnh thận do đái tháo đường (Diabetic Kidney Disease) là bệnh thận mạn (tỉ lệ albumin:creatinin nước tiểu $\ge 30\text{ mg/g}$ và/hoặc độ lọc cầu thận ước đoán $<60\text{ mL/phút/1,73 m}^2$ da) do tình trạng tăng đường huyết kéo dài gây nên. Bệnh thận do đái tháo đường là nguyên nhân hàng đầu gây suy thận giai đoạn cuối ở hầu hết các các nước, chiếm $50\%$ các trường hợp cần điều trị thay thế thận. Khoảng $30 - 40\%$ người bệnh mắc đái tháo đường có biến chứng thận, nguy cơ tương đương nhau ở type 1 và type 2.
+
+Yếu tố nguy cơ của bệnh thận do đái tháo đường là tăng đường huyết, tăng huyết áp, tăng áp lực cầu thận, tiểu đạm, hút thuốc lá, tăng lipid máu, bất thường gen quy định hoạt tính của hệ renin - angiotensin - aldosterone.
+
+Bệnh thận do đái tháo đường là một phần của tổn thương mạch máu nhỏ toàn thân và có thể đi kèm với biến chứng mạch máu lớn. Bệnh thận do đái tháo đường type 1 điển hình thường trải qua 5 giai đoạn. Sau 10 năm bị đái tháo đường, bắt đầu xuất hiện tăng lọc cầu thận, tăng áp lực cầu thận. Các xét nghiệm nước tiểu và chức năng thận bình thường. Khoảng $10 - 15$ năm sau chẩn đoán đái tháo đường, xuất hiện tiểu albumin niệu vi lượng. Khoảng $15 - 20$ năm sau chẩn đoán, xuất hiện tiểu albumin đại lượng kèm tăng huyết áp. Người bệnh vào giai đoạn bệnh thận toàn phát. Sau 20 năm người bệnh bắt đầu phù, hội chứng thận hư, chức năng thận giảm dần, tăng huyết áp khó kiểm soát. Cuối cùng, người bệnh đi vào suy thận giai đoạn cuối, hội chứng urea huyết cao, cần các biện pháp điều trị thay thế thận. Tuy nhiên, cũng có trường hợp người bệnh bị bệnh thận mạn do đái tháo đường mà không có tiểu albumin, do hậu quả của bệnh mạch máu lớn.
+
+Đối với bệnh thận do đái tháo đường type 2, thực ra bệnh cảnh và diễn tiến cũng có thể tương tự như đái tháo đường type 1, nhưng diễn tiến các giai đoạn có vẻ ngắn hơn vì người bệnh không biết chính xác thời điểm bắt đầu bị đái tháo đường. đái tháo đường type 2 thường xảy ra ở những người tuổi trung niên trở lên nên thường có bệnh thận sẵn có như tăng huyết áp, béo phì, dùng thuốc giảm đau,... cũng có thể xảy ra các bệnh cảnh không điển hình như suy thận không kèm tiểu albumin, bệnh lý ống thận và mạch máu.
+
+> Các triệu chứng lâm sàng sau đây gợi ý bệnh thận do đái tháo đường: (1) diễn tiến phù hợp bệnh thận do đái tháo đường; (2) tiểu đạm đơn thuần không kèm tiểu máu; (3) kèm theo bệnh võng mạc do đái tháo đường hoặc biến chứng thần kinh ngoại biên; (4) thận có kích thước bình thường hoặc lớn trên siêu âm; (5) chẩn đoán loại trừ các bệnh thận khác.
+
+Vì vậy, bệnh thận do đái tháo đường thường chẩn đoán dựa trên lâm sàng và những gợi ý trên, hiếm khi cần sinh thiết thận.
+
+Tổn thương mô bệnh học bệnh thận do đái tháo đường điển hình thường có các biểu hiện như sau: dày màng đáy; tăng chất nền gian mạch, giãn rộng khoảng gian mạch; xơ chai cầu thận dạng nốt Kimmelstiel-Wilson; lắng đóng hyalin gây hyalin hóa tiểu động mạch; tổn thương tế bào biểu mô tạng gây giãn rộng các chân giả, bong tróc tế bào biểu mô, xơ hóa cầu thận khu trú từng vùng thứ phát; dày màng đáy ống thận, xơ hóa ống thận mô kẽ, xơ hóa mạch máu. Miễn dịch huỳnh quang thường âm tính.
+
+Trên thực tế lâm sàng, có 10 – 15% trường hợp người bệnh đái tháo đường có tổn thương thận khác không phải do đái tháo đường như xơ chai cầu thận khu trú từng vùng, sang thương tối thiểu, bệnh cầu thận ít lắng đóng miễn dịch, bệnh cầu thận màng, bệnh thận IgA, viêm thận lupus, xơ hóa cầu thận do tăng huyết áp,... Việc xác định các nguyên nhân này rất quan trọng vì sẽ làm thay đổi hoàn toàn chiến lược điều trị cho người bệnh. Các chỉ định sinh thiết thận trên người bệnh đái tháo đường có tổn thương thận bao gồm: (1) Tiêu protein ngưỡng thận hư hoặc suy thận mà không có bệnh võng mạc do đái tháo đường; (2) Tiểu đạm ngưỡng thận hư hoặc suy thận với thời gian mắc đái tháo đường dưới 5 năm; (3) Tiểu đạm ngưỡng thận hư với chức năng thận bình thường; (4) Tiểu máu vi thể không giải thích được hoặc tổn thương thận cấp; (5) Giảm chức năng thận nhanh ở người bệnh có chức năng thận trước đó ổn định.
+
+Bệnh thận do đái tháo đường làm tăng nguy cơ tử vong do mọi nguyên nhân, tăng nguy cơ tử vong tim mạch và đặc biệt là diễn tiến đến bệnh thận mạn giai đoạn cuối, cần phải điều trị thay thế thận. Theo nghiên cứu NHANES III, tỉ lệ tử vong do mọi nguyên nhân sau 10 năm ở người bệnh đái tháo đường type 2 nếu không có bệnh thận là 4,1%, nếu kèm theo tiểu albumin và suy thận có thể lên đến 47%.
+
+## 5.2. Viêm thận do lupus ban đỏ hệ thống
+
+Lupus ban đỏ hệ thống là bệnh tự miễn phức tạp, gây tổn thương nhiều cơ quan, trong đó tổn thương thận chiếm 50 – 60% các trường hợp, là một trong những bệnh cảnh nặng nề, có tỉ lệ tử vong và tỉ lệ bệnh đồng mắc cao, không chỉ do những biến chứng trực tiếp của bệnh mà còn do những tác dụng phụ của của thuốc điều trị. Lupus ban đỏ hệ thống là bệnh gặp nhiều ở phụ nữ lứa tuổi sinh đẻ, tỉ lệ nữ/nam là $8-13/1$. Về chủng tộc, bệnh này gặp nhiều ở người Mỹ da đen, người châu Á, người gốc Tây Ban Nha và Bồ Đào Nha.
+
+**Bảng 16.7.** Phân loại ISN/RPS 2004 của viêm thận do lupus
+
+| Nhóm | Mô tả |
+| :--- | :--- |
+| I | Tổn thương gian mạch tối thiểu |
+| II | Tăng sinh gian mạch |
+| III | Viêm thận do lupus khu trú \* (< 50% số cầu thận) |
+| III (A) | Tổn thương hoạt động |
+| III (A/C) | Tổn thương hoạt động và mạn tính |
+| III (C) | Tổn thương mạn tính |
+| IV | Viêm thận do lupus lan tỏa \*\* (> 50% số cầu thận) |
+| | Viêm thận do lupus lan tỏa từng phần (IV-S) hay toàn bộ (IV-G) |
+| III (A) | Tổn thương hoạt động |
+| III (A/C) | Tổn thương hoạt động và mạn tính |
+| III (C) | Tổn thương mạn tính |
+| V\*\*\* | Viêm cầu thận màng |
+| VI | Viêm cầu thận do lupus xơ hóa tiến triển |
+| | ($\ge 90\%$ số cầu thận bị xơ hóa hoàn toàn mà không có tổn thương hoạt động) |
+
+*\*Chỉ phần cầu thận với tổn thương hoạt động hoặc xơ hóa*
+*\*\*Chỉ phần cầu thận với tổn thương hoại tử fibrin và sang thương liềm*
+*\*\*\*Sang thương màng có thể kết hợp với nhóm III hoặc IV, trong trường hợp đó phải ghi chẩn đoán cả hai*
+
+Viêm thận do lupus xảy ra $25 - 50\%$ các trường hợp lúc mới khởi phát lupus, nhưng trên $60\%$ các trường hợp bệnh phát sinh trong quá trình diễn tiến lupus.
+
+Viêm thận do lupus khi đã được chẩn đoán lupus theo tiêu chuẩn của Hiệp hội Thấp khớp Hoa Kỳ năm (ACR) 1997, hoặc tiêu chuẩn SLICC 2012, hoặc tiêu chuẩn EULAR/ACR 2019 kèm tổn thương thận khi có tiểu đạm > 0,5 g/24 giờ, hoặc cặn lắng bất thường bao gồm tiểu máu với trụ hồng cầu, hoặc trụ niệu bất thường, hoặc sinh thiết thận có hình ảnh phù hợp viêm thận do lupus kèm kháng thể kháng nhân (ANA) dương tính hoặc kháng thể kháng chuỗi xoắn kép DNA (Anti-ds DNA) dương tính.
+
+Bệnh cảnh lâm sàng đa dạng từ bất thường nước tiểu không triệu chứng, hội chứng thận hư, viêm cầu thận cấp, viêm cầu thận mạn, viêm cầu thận tiến triển nhanh, tổn thương thận cấp, bệnh thận mạn.
+
+Để phân loại nhằm mục đích quyết định điều trị và có ý nghĩa tiên lượng cần sinh thiết thận để có chẩn đoán mô bệnh học chính xác. Bảng phân loại theo Hội Thận học Quốc tế/Hội Giải phẫu bệnh thận (International Society of Nephrology/Renal Pathology Society, ISN/RPS 2018) dựa chủ yếu trên tổn thương mô bệnh học cầu thận và xem xét dưới kính hiển vi quang học và miễn dịch huỳnh quang hoặc hóa mô miễn dịch.
+
+Viêm thận lupus thường diễn tiến thành từng đợt bùng phát xen kẽ những đợt lui bệnh. Đợt bùng phát viêm thận do lupus thường được báo hiệu bằng tiểu protein gia tăng, hoặc xuất hiện cặn lắng bất thường, thay đổi xét nghiệm miễn dịch học như giảm nồng độ bổ thể, nồng độ kháng thể anti-ds DNA gia tăng. Các dạng tổn thương mô bệnh học có thể chuyển dạng trong quá trình diễn tiến bệnh và điều trị.
+
+## 5.3. Bệnh thận do vius viêm gan virus B
+
+Bệnh thận liên quan virus viêm gan virus B xảy ra ở trẻ em các nước trong vùng dịch tễ, với ưu thế ở nam, tỉ lệ nam/nữ là 4/1. Ở Hoa Kỳ và các nước Tây Âu, viêm gan virus B thường lan truyền qua đường máu và quan hệ tình dục, bệnh này thường xảy ra ở người lớn và có diễn tiến lâm sàng hoàn toàn khác với bệnh ở vùng dịch tễ. Bệnh thận liên quan virus viêm gan B, hiếm khi xảy ra ở người lành mang virus. Tổn thương thận do HBV là một trong những tổn thương ngoài gan thường gặp nhất, thường dưới dạng bệnh cầu thận qua trung gian phức hợp miễn dịch như bệnh cầu thận màng, viêm cầu thận tăng sinh màng, xơ chai cầu thận khu trú từng vùng, viêm thận dạng lupus, bệnh thận IgA. Viêm nút đa động mạch cũng liên quan với viêm gan B.
+
+Bệnh cầu thận do viêm gan vius B thường xảy ra ở trẻ em hơn người lớn, nam nhiều hơn nữ. Hầu hết người bệnh có triệu chứng tiểu protein, có thể đạt đến ngưỡng thận hư. Ở vùng dịch tễ, thường không có tiền sử viêm gan đi trước biểu hiện thận. Phần lớn người bệnh có chức năng thận bình thường tại thời điểm chẩn đoán. Có thể hiện diện hồng cầu trong nước tiểu, nhưng đa số các trường hợp có cặn lắng nước tiểu sạch. Bệnh gan có thể biểu hiện nhiều mức độ, từ không có triệu chứng (người lành mang virus), nhẹ, cho đến viêm gan mạn. Men gan có thể bình thường hoặc tăng nhẹ (100 – 200 IU/L). Sinh thiết gan ở các người bệnh này thường cho thấy tình trạng viêm gan mạn hoạt động. Một số người bệnh có thể tiến triển thành xơ gan. Ở người lành mang virus, bệnh thường thuyên giảm tự nhiên. Bệnh cầu thận màng do viêm gan B thường biểu hiện hội chứng thận hư với tiểu đạm nhiều, tăng lipid máu, giảm albumin máu, phù hai chi dưới. Người lớn thường hay có tăng huyết áp, giảm độ lọc cầu thận, có biểu hiện lâm sàng bệnh gan. Người bệnh nào bị hội chứng thận hư và rối loạn chức năng gan thường có nguy cơ 50% diễn tiến tới suy thận giai đoạn cuối. Diễn tiến tự nhiên của bệnh cầu thận màng do viêm gan virus B không hằng định, thường thuyên giảm tự nhiên ở trẻ em và vùng dịch tễ, có thể lên đến 80% sau 10 năm. Ở người lớn, bệnh cầu thận màng thường tiến triển, 1/3 trường hợp có thể bị suy thận. Người bệnh bị viêm cầu thận màng thường hay bị suy thận hơn. Biểu hiện lâm sàng của viêm nút đa động mạch do HBV thường giống nguyên phát, bao gồm tăng huyết áp, giảm độ lọc cầu thận, các triệu chứng toàn thân như mệt mỏi, sốt, có thể có các tổn thương cơ quan khác như da, thần kinh, hệ tiêu hoá.
+
+Xét nghiệm HBV DNA để đánh giá mức độ hoạt động của virus, tình trạng kháng nguyên bao gồm HBeAg, HBsAg và HBcAg. Nên loại trừ các nguyên nhân thứ phát khác của bệnh cầu thận màng, tình trạng đồng nhiễm HCV, HIV. Không giống như trong bệnh cầu thận màng nguyên phát, trong trường hợp này thường phát hiện giảm bổ thể trong huyết thanh.
+
+Sinh thiết thận là tiêu chuẩn vàng chẩn đoán bệnh cầu thận do HBV. Chụp mạch máu có cản quang có thể thấy vi phình mạch, dấu hiệu cổ điển của viêm nút đa động mạch. Điều trị viêm gan virus B bằng các thuốc chống virus là điều trị căn bản cho bệnh thận thứ phát sau viêm gan virus B. Cần lưu ý việc dùng thuốc corticoid và thuốc ức chế miễn dịch có thể làm gia tăng sự sinh sản của virus và làm nặng thêm bệnh gan. Phác đồ phối hợp glucocorticoid và thuốc kháng virus chỉ dành cho các trường hợp viêm mạch máu và viêm cầu thận tiến triển nhanh.
+
+[Hình: Sơ đồ cấu trúc cầu thận]
+[Hình: Mô học bệnh thận đái tháo đường]
+[Hình: Mô học bệnh thận đái tháo đường Kimmelstiel-Wilson]
+
+**Hình 16.26.** Bệnh thận đái tháo đường: tăng khoảng gian mạch, xơ hóa dạng nốt, kèm theo hyalin hóa tiểu động mạch đến và đi, dày màng đáy, không có lắng đóng phức hợp miễn dịch
+
+**Hình 16.27.** Bệnh thận đái tháo đường: giãn rộng khoảng gian mạch, hyalin hóa tiểu động mạch đến và đi, dày màng đáy ($\text{PAS} \times 100$)
+
+**Hình 16.28.** Bệnh thận đái tháo đường: Kimmelstiel-Wilson, xơ hóa dạng nốt, hyalin hóa tiểu động mạch, xơ hóa ống thận xung quanh
+
+## CÂU HỎI TỰ LƯỢNG GIÁ
+
+**Chọn một câu đúng**
+
+**1. Đặc điểm tiểu protein nào sau đây đúng nhất?**
+
+A. Nếu tiểu protein vượt quá 3,5 g/ngày chắc chắn sẽ gây ra giảm albumin máu
+
+B. Trong trường hợp tiểu protein tư thế, lượng protein niệu thường tăng lên khi người bệnh nằm trong thời gian dài
+
+C. Tiểu protein do tăng quá nhiều protein trong máu sẽ có thể hiện diện chuỗi nhẹ trong nước tiểu
+
+D. Tiểu đạm chức năng điển hình thường do chế độ ăn có nhiều protein
+
+**2. Người bệnh nam, giáo viên, 32 tuổi, không có tiền căn bệnh lý trước đây, đến khám vì tăng huyết áp phát hiện tình cờ qua khám sức khoẻ định kỳ. Trong thời gian gần đây, người bệnh không dùng bất cứ loại thuốc nào. Kết quả soi tươi nước tiểu nào sau đây cho thấy người bệnh có nhiều khả năng bị viêm cầu thận mạn?**
+
+A. Hiện diện nhiều bạch cầu đa nhân trung tính
+
+B. Hiện diện nhiều hồng cầu biến dạng
+C. Hiện diện nhiều tinh thể
+D. Hiện diện nhiều trụ trong
+
+3. Tiểu đạm ngưỡng thận hư không kèm tiểu máu thường gặp trong tổn thương nào sau đây?
+A. Sang thương tối thiểu
+B. Xơ chai cầu thận khu trú từng vùng
+C. Bệnh thận IgA
+D. Viêm cầu thận tăng sinh màng
+
+4. Bệnh lý hoặc thuốc nào sau đây không liên quan đến sang thương tối thiểu?
+A. Bệnh Hodgkin
+B. Kháng viêm non-steroid
+C. Chàm
+D. Hemangioma
+
+5. Người bệnh nam 40 tuổi, được chẩn đoán hội chứng thận hư nguyên phát, điều trị bằng prednison 60 mg/ngày. Hai ngày nay, toàn bộ chân trái người bệnh sưng to, đỏ tím và đau. Người bệnh không có biểu hiện sốt. Chẩn đoán nào được nghĩ đến nhiều nhất trong trường hợp này?
+A. Suy van tĩnh mạch sâu chân trái
+B. Huyết khối tĩnh mạch sâu chân trái
+C. Viêm mô tế bào chân trái
+D. Tắc mạch bạch huyết chân trái
+
+6. Biểu hiện nào sau đây gợi ý tổn thương thận do nguyên nhân khác, không phải do đái tháo đường?
+A. Tiểu protein > 2 g/ngày
+B. Thận to trên siêu âm
+C. Tăng creatinin huyết thanh
+D. Hiện diện acanthocyte trên cặn lắng nước tiểu
+
+7. Nồng độ bổ thể $C_3$ thấp trong máu gợi ý các nguyên nhân sau đây, NGOẠI TRỪ:
+A. Viêm cầu thận hậu nhiễm liên cầu trùng
+B. Viêm cầu thận tăng sinh màng thứ phát sau nhiễm virus viêm gan C
+C. Viêm thận lupus
+D. Bệnh thận đái tháo đường
+
+**Câu hỏi từ số 8 đến số 10 dựa theo tình huống lâm sàng dưới đây:**
+
+Người bệnh nữ, 23 tuổi, tiền căn lupus ban đỏ hệ thống tổn thương da và khớp đang điều trị ổn, chức năng thận ổn định với creatinin máu cách 2 tháng là 1 mg/dL. Một tháng nay, người bệnh mệt mỏi, sốt nhẹ. Hai tuần nay, người bệnh thấy phù mi mắt và phù hai chi dưới, tăng cân 5 kg nên đến khám.
+
+**Khám lâm sàng:** mạch 90 lần/phút, huyết áp 150/100 mmHg, nhiệt độ 38°C, nước tiểu 400 mL/24 giờ màu vàng sậm.
+
+**Xét nghiệm:** TPTNT: protein 2+, hồng cầu 3+, bạch cầu âm tính. Soi tươi nước tiểu thấy nhiều hồng cầu biến dạng và trụ hồng cầu. Creatinin máu 2 mg/dL.
+
+8. Người bệnh trên có thể phân loại thành hội chứng nào sau đây phù hợp nhất?
+
+A. Viêm mạch máu cấp
+
+B. Viêm cầu thận tiến triển nhanh
+
+C. Hội chứng thận hư
+
+D. Viêm ống thận mô kẽ cấp
+
+9. Xét nghiệm nào sau đây giúp chẩn đoán nguyên nhân tổn thương thận nói trên?
+
+A. ANA
+
+B. AFP
+
+C. ALT
+
+D. AST
+
+10. Người bệnh được sinh thiết thận dưới hướng dẫn siêu âm. Hãy dự đoán tổn thương nào sau đây phù hợp nhất với bệnh cảnh lâm sàng kể trên?
+
+A. Sang thương tối thiểu
+
+B. Xơ chai cầu thận khu trú từng vùng
+
+C. Sang thương màng
+
+D. Viêm cầu thận liềm
+
+**ĐÁP ÁN:** 1.C 2.B 3.A 4.D 5.B 6.D 7.D 8.B 9.A 10.D
+
+## TÌNH HUỐNG LÂM SÀNG THẢO LUẬN
+
+### Tình huống 1
+
+**Bệnh sử:** người bệnh nam 65 tuổi, nhập viện vì nôn ói và tiểu ít. Cách nhập viện 3 ngày, người bệnh sau khi ăn tiệc về, BN bắt đầu buồn nôn và nôn ói 8 – 9 lần/ngày, nôn toàn nước lẫn thức ăn khoảng 300 mL/ngày, đau thượng vị, không tiêu chảy, kèm mệt, nước tiểu giảm dần còn 400 mL/ngày nhập viện. Người bệnh chỉ uống 500 mL/ngày.
+
+**Tiền căn:** tăng huyết áp 5 năm đang uống amlodipin 5 mg/ngày, huyết áp dao động khoảng 150/90 mmHg. Creatinin máu lúc tái khám cách 1 tháng là 0,9 mg/dL.
+
+**Khám:** người bệnh tỉnh, tiếp xúc được; vẻ mệt, hơi đừ. Chóng mặt khi thay đổi tư thế.
+
+Mạch 115 lần/phút, huyết áp 90/60 mmHg. Dấu véo da dương tính. Bụng mềm, ấn đau vùng quanh rốn.
+
+Cận lâm sàng: BUN = 85 mg/dL, creatinin máu 4 mg/dL, eGFR (CKD-EPI) = 15 mL/phút/1,73 m² da.
+
+Người bệnh này có những vấn đề gì tại thời điểm nhập viện?
+
+1. Đưa ra ít nhất 2 chẩn đoán phù hợp với rối loạn chức năng thận ở người bệnh này?
+2. Cần làm thêm xét nghiệm gì để khẳng định nguyên nhân suy thận ở người bệnh này? Giải thích.
+
+*Tình huống 2*
+
+*Bệnh sử:* người bệnh nữ 52 tuổi, tiền căn đái tháo đường type 2 cách 3 năm, có điều trị thường xuyên với Metformin 500 mg 1 viên × 2 lần/ngày. Tăng huyết áp và bệnh thận mạn 7 tháng nay với mức creatinin huyết thanh cơ bản 2,5 mg/dL cách đây 3 tháng. Cách nhập viện 1 tháng nay người bệnh phù chân và mặt tăng dần, tiểu 800 mL/ngày và kèm nôn ói nhiều khoảng 400 mL/ngày, không đau bụng. Toa thuốc cơ bản: metformin 500 mg 1 viên × 2 lần/ngày, telmisartan 80 mg 1 viên/ngày, amlodipin 5 mg 1 viên/ngày, atorvastatin 20 mg 1 viên/ngày.
+
+*Khám lâm sàng:* người bệnh tỉnh, tiếp xúc tốt. Phù toàn thân. Niêm nhạt. Tim: T1, T2 đều, phổi rale ẩm 2 đáy. Bụng báng toàn thể. Cân nặng 60 kg, Chiều cao 158 cm.
+
+*Sinh hiệu:* mạch 100 lần/phút; huyết áp 180/100 mmHg; nhịp thở 20 l/phút; nhiệt độ 37°C.
+
+*Xét nghiệm:* đường huyết = 180 mg/dL; BUN = 72 mg/dL; creatinin máu = 3 mg/dL.
+
+TPTNT: pH = 6; d = 1.030; glucose = 250 mg/dL; protein = 300 mg/dL; hồng cầu 250/µL; bạch cầu 75/µL, nitrite âm tính.
+
+1. Dựa vào lâm sàng và cận lâm sàng, đặt vấn đề trên người bệnh này? Giải thích.
+2. Đưa ra ít nhất 2 chẩn đoán phù hợp với rối loạn chức năng thận ở người bệnh này?
+3. Cần làm thêm xét nghiệm gì để khẳng định nguyên nhân gây suy thận ở người bệnh này? Giải thích.
+
+**TÀI LIỆU THAM KHẢO**
+
+1. Huỳnh Ngọc Phương Thảo, Nguyễn Thị Ngọc Linh (2009). Hội chứng thận hư. *Bệnh học Nội khoa*. NXB Y học Chi nhánh TP. Hồ Chí Minh, 2009: 369-384.
+2. Trần Thị Bích Hương. Bệnh cầu thận. *Bệnh học Nội khoa*. NXB Y học Chi nhánh TP. Hồ Chí Minh, 2009: 432-444.
+3. Floege J., Feehally J. Introduction to Glomerular Disease: Clinical Presentation. *Comprehensive Clinical Nephrology 6th*. Elsevier, 2019: 184-198.
+4. Fogo AB., Kashgarian M. *Diagnostic Atlas of Renal Pathology*. Elsevier, 2017.
+5. Fornoni A., Nelson RG., Najafian B., Groop PH. Epidemiology of Diabetic Kidney Disease. In: *Brenner & Rector's The Kidney*; Yu ASL et al. Eds; 11th edition; Elsevier, 2020: 1327-1380.
+6. Jennette JC., Falk RJ. Glomerular Clinicopathologic syndromes. *Primer on Kidney Diseases 7th*. Elsevier, 2018: 162-175.
+
+7. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney International (2021) 100; S1-S276; https: doi.org/10.1016/j.kint.2021.05.021
+8. Lewis JB., Neilson EG. Chapter 314: Glomerular Diseases. In: Harrison's Principles of Internal Medicine, Loscalzo J, Kasper DL., Longo DL, Fauci AS, Hauser SL, Jameson JL eds; 21st edition. Mc Graw Hill, 2022: 2331-2350.
+9. Radhakrishnan J, Appel GB, D'Agati VD. Secondary Glomerular Disease. In: Brenner & Rector's The Kidney; Yu ASL *et al.* eds; 11th edition; Elsevier; 2020: 1092-1165.
+10. Saha MK, Perdergraft WF, Jennette JC, Falk RJ. Primary Glomerular Disease. In: Brenner & Rector's The Kidney; Yu ASL *et al.* eds; 11th edition; Elsevier; 2020: 1008-1092.
+11. Tang S., Sharma K. Pathogenesis, clinical manifestations, and natural history of Diabetic Kidney Disease. Comprehensive Clinical Nephrology 6th. Elsevier, 2019: 357-375.
+
+# TIẾP CẬN CHẨN ĐOÁN TỔN THƯƠNG THẬN CẤP
+ThS.BSNT. Nguyễn Ngọc Lan Anh, TS.BS. Huỳnh Ngọc Phương Thảo
+
+## MỤC TIÊU HỌC TẬP
+
+1. Trình bày định nghĩa và biết cách phát hiện tổn thương thận cấp.
+2. Trình bày cơ chế bệnh sinh của tổn thương thận cấp.
+3. Chẩn đoán xác định tổn thương thận cấp.
+4. Chẩn đoán nguyên nhân thường gặp gây tổn thương thận cấp.
+5. Chẩn đoán các biến chứng thường gặp trong tổn thương thận cấp.
+
+## 1. ĐỊNH NGHĨA
+
+**Tổn thương thận cấp** (*Acute Kidney Injury, AKI*) là một hội chứng được đặc trưng bằng giảm độ lọc cầu thận đột ngột, cấp tính trong vài giờ đến vài ngày, làm ứ đọng các sản phẩm chuyển hóa, bao gồm urea, creatinin và rối loạn điều hòa nước, điện giải và thăng bằng kiềm toan.
+
+Tổn thương thận cấp là một thuật ngữ mới, dùng để thay thế cho thuật ngữ mang tính lịch sử là “Suy thận cấp” (*Acute Renal Failure, ARF*). Sự thay đổi tên gọi nhằm nhấn mạnh tổn thương thận cấp là một quá trình bệnh lý thay đổi qua nhiều giai đoạn với các mức độ tổn thương khác nhau.
+
+**Hoại tử ống thận cấp** (*Acute Tubular Necrosis, ATN*) là một thuật ngữ liên quan đến giải phẫu bệnh thận. Đây là nguyên nhân thường gặp nhất của tổn thương thận cấp tại thận.
+
+Việc hồi phục chức năng thận trong tổn thương thận cấp được hay không, còn tùy thuộc vào nguyên nhân, bệnh thận có sẵn và điều trị.
+
+Phân biệt các khái niệm:
+
+- Vô niệu: không tạo ra nước tiểu, thể tích nước tiểu < 100 mL/ngày
+- Vô niệu hoàn toàn: thể tích nước tiểu < 50 mL/ngày
+- Bí tiểu: bế tắc đường tiểu dưới
+- Không thiểu niệu: thể tích nước tiểu > 400 mL/ngày
+- Thiểu niệu: thể tích nước tiểu < 400 mL/ngày.
+
+Tổn thương thận cấp có thể mới xuất hiện hoặc xảy ra trên nền người bệnh có sẵn bệnh thận mạn (*Acute on chronic kidney disease*). Người bệnh có suy thận từ trước được xem là một trong những yếu tố nguy cơ của sự xuất hiện AKI, liên quan đến một số cơ chế tăng nhạy cảm như giảm dự trữ chức năng ở thận, suy giảm khả năng bảo tồn muối và nước, dự đoán trước khả năng giảm thể tích lòng mạch, giảm hoạt tính các cơ chế khử độc, từ đó gia tăng sự nhạy cảm với các tổn thương độc tế bào, giảm khả năng thanh lọc một số chất độc thận, làm tăng nguy cơ và kéo dài thời gian tiếp xúc với các chất độc thận này hoặc có bệnh lý mạch máu lớn hoặc mạch máu nhỏ đi kèm làm tăng nguy cơ bị tổn thương do thiếu máu cục bộ.
+
+## 2. TIÊU CHUẨN CHẨN ĐOÁN
+
+Dựa theo các định nghĩa và tiêu chuẩn chẩn đoán nêu trên, AKI có khởi phát trong vòng < 7 ngày, trong khi bệnh thận mạn được định nghĩa khi có tổn thương về cấu trúc và/hoặc suy giảm chức năng thận trên 3 tháng. Tuy nhiên, một số người bệnh có khởi phát tổn thương và diễn tiến suy thận bán cấp (subacute) trong vòng > 7 ngày và < 3 tháng. Vì vậy, KDIGO 2012 đã đưa ra khái niệm Bệnh Thận Cấp (Acute Kidney Disease, AKD) để chỉ ra những trường hợp này với tiêu chuẩn là giảm độ lọc cầu thận ($GFR) < 60\text{ ml/phút/1,73 m}^2$ da, giảm độ lọc cầu thận $\geq 35\%$ hoặc tăng creatinin huyết thanh $\geq 50\%$ so với cơ bản hoặc có tổn thương về mặt cấu trúc thận trong thời gian < 3 tháng.
+
+## 3. DỊCH TỄ HỌC
+
+Tần suất của AKI thay đổi tùy theo tiêu chuẩn sử dụng để chẩn đoán và đối tượng bị AKI ở cộng đồng, trong bệnh viện hay ở khoa ICU. Ở những người bệnh nhập viện, tần suất này cao khoảng 44% (khi dùng tiêu chuẩn tăng creatinin huyết thanh trên 0,3 mg/dL) cho đến thấp khoảng 1% (khi dùng tiêu chuẩn tăng creatinin huyết thanh ít nhất 2 mg/dL). Có khoảng 3 – 7% người bệnh nhập viện và 25 – 30% người bệnh nhập khoa ICU có AKI và 5 – 6% người bệnh AKI ở khoa ICU cần chạy thận nhân tạo. AKI được xem là một trong những yếu tố tiên lượng của diễn tiến bệnh thận mạn đến suy thận mạn giai đoạn cuối.
+
+## 4. NGUYÊN NHÂN
+
+### 4.1. Tổn thương thận cấp trước thận
+
+Đây là nguyên nhân thường gặp nhất của AKI, chiếm khoảng 4 – 55% hầu hết các trường hợp AKI. Có tình trạng giảm thể tích tuần hoàn hiệu quả trong nhóm AKI trước thận, được chia thành các nhóm sau:
+
+#### 4.1.1. Giảm thể tích nội mạch
+
+- Xuất huyết (chấn thương, xuất huyết tiêu hóa, phẫu thuật)
+- Mất dịch qua đường tiêu hóa (nôn ói, tiêu chảy, hút dịch dạ dày)
+- Mất dịch qua thận (đái tháo nhạt, dùng lợi tiểu quá mức)
+- Mất dịch qua khoang thứ ba (viêm tụy cấp, giảm albumin máu gặp trong xơ gan, hội chứng thận hư,...).
+
+#### 4.1.2. Giảm cung lượng tim
+
+- Sốc tim
+- Bệnh màng ngoài tim (chèn ép tim, viêm màng ngoài tim co thắt, bệnh cơ tim hạn chế)
+- Suy tim
+- Nhiễm khuẩn huyết.
+
+## 4.1.3. Giãn mạch hệ thống
+- Nhiễm khuẩn huyết
+- Xơ gan
+- Choáng phản vệ
+- Choáng nhiễm khuẩn.
+
+## 4.1.4. Co mạch máu thận
+- Nhiễm khuẩn huyết giai đoạn sớm
+- Hội chứng gan thận
+- Tăng calci máu
+- Thuốc (norepinephrin, vasopressin, NSAIDs, ức chế hệ RAAS, thuốc cản quang).
+
+AKI trước thận sẽ hồi phục nhanh nếu khôi phục lại tình trạng tưới máu thận, vì theo định nghĩa, AKI trước thận là chủ mô thận không bị tổn thương. Nếu tình trạng giảm tưới máu thận nặng và kéo dài sẽ gây thiếu máu cục bộ chủ mô thận và dẫn đến hoại tử ống thận cấp.
+
+## 4.2. Tổn thương thận cấp tại thận
+Hầu hết nguyên nhân của AKI có tổn thương chủ mô thận là hoại tử ống thận cấp.
+
+## 4.2.1. Tổn thương ống thận
+Thiếu máu cục bộ: do giảm tưới máu thận nặng và kéo dài
+Độc chất nội sinh: myoglobin, hemoglobin, paraprotein, acid uric,...
+Độc chất ngoại sinh: kháng sinh nhóm aminoglycosid, vancomycin, thuốc kháng virus nhóm acyclovir, cidofovir, tenofovir, foscarnet, thuốc kháng nấm amphotericin B, thuốc cản quang, hóa trị như cisplatin, ifosfamid, 5-FU, methotrexate, rắn cắn,...
+
+**Bảng 17.1. Các tiêu chuẩn chẩn đoán AKI theo RIFLE, AKIN và KDIGO**
+
+| Tiêu chuẩn chẩn đoán | RIFLE 2004 | AKIN 2006 | KDIGO 2012 |
+| :--- | :--- | :--- | :--- |
+| Creatinin huyết thanh (Cre HT) | Tăng $\ge 50\%$ so với cơ bản trong $< 7$ ngày | Tăng $\ge 0,3\text{ mg/dL}$ hoặc $> 50\%$ so với cơ bản trong $< 48\text{ giờ}$ | Tăng $\ge 0,3\text{ mg/dL}$ trong $< 48\text{ giờ}$<br>Tăng $> 1,5$ lần so với cơ bản trong $< 7$ ngày |
+| Thể tích nước tiểu | \multicolumn{3}{c}{$< 0,5\text{ mL/kg/giờ}$ trong $> 6\text{ giờ}$} |
+
+| Phân chia giai đoạn AKI |
+| :--- |
+
+| RIFLE | Tăng Cre HT | AKIN | Tăng Cre HT | KDIGO | Tăng Cre HT | Thể tích nước tiểu |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Risk | $\ge 50\%$ | Giai đoạn 1 | $\ge 0,3\text{ mg/dL}$ hoặc $\ge 50\%$ | Stage 1 | $\ge 0,3\text{ mg/dL}$ hoặc $\ge 50\%$ | $< 0,5\text{ mL/kg/giờ}$ trong $> 6\text{ giờ}$ |
+
+Phân chia giai đoạn AKI
+
+| RIFLE | Tăng Cre HT | AKIN | Tăng Cre HT | KDIGO | Tăng Cre HT | Thể tích nước tiểu |
+| --- | --- | --- | --- | --- | --- | --- |
+| Injury | $\ge 100\%$ | Giai đoạn 2 | $\ge 100\%$ | Giai đoạn 2 | $\ge 100\%$ | $< 0,5\text{ mL/kg/giờ}$ trong $> 12\text{ giờ}$ |
+| Failure | $\ge 200\%$ hoặc Cre HT $\ge 4\text{ mg/dL}$<br>hoặc<br>Tăng cấp $> 0,5\text{ mg/dL}$ | Giai đoạn 3 | $\ge 200\%$ | Giai đoạn 3 | $\ge 200\%$ | $< 0,5\text{ mL/kg/giờ}$ trong $> 24\text{ giờ}$<br>hoặc<br>Vô niệu $> 12\text{ giờ}$ |
+| Loss | Suy thận cần chạy thận nhân tạo $> 4\text{ tuần}$ | | | | | |
+| End-stage | Suy thận cần chạy thận nhân tạo $> 3\text{ tháng}$ | | | | | |
+
+**Bảng 17.2.** Đặc điểm của AKI xảy ra ở cộng đồng, trong bệnh viện và tại khoa ICU
+
+| Đặc điểm | AKI mắc phải trong cộng đồng | AKI mắc phải trong bệnh viện | AKI mắc phải trong ICU |
+| --- | --- | --- | --- |
+| Suất mới mắc (Incidence) | Thấp<br><br>Nước đã phát triển:<br>$1 - 2\%$ ($322,4 - 522,4$ mỗi $100.000$ người/năm)<br><br>Nước đang phát triển:<br>thường gặp ($2,3 - 6,6$ mỗi $1.000$ ca nhập viện)<br><br>(sốt rét, nhiễm leptospira, tả, sốt xuất huyết, rắn cắn, ong đốt, thảo dược,...) | Trung bình ($5\%$)<br><br>Nước đã phát triển:<br>$4,9 - 7,2\%$ ca nhập viện<br><br>Nước đang phát triển:<br>$2,1 - 3,7$ mỗi $1.000$ ca nhập viện | Cao ($15 - 20\%$) |
+| Diễn tiến | Đơn giản | Đa dạng, phức tạp | Suy đa cơ quan |
+| Nguyên nhân | Trước > Sau > Tại thận | Trước > Hoại tử ống thận cấp > Sau thận | Suy đa cơ quan + Hoại tử ống thận cấp |
+| Kết quả | Tốt, $70 - 90\%$ sống sót | Trung bình, $30 - 50\%$ sống sót | Xấu, $10 - 30\%$ sống sót |
+
+4.2.2. Tổn thương ống thận mô kẽ
+- Viêm thận kẽ cấp dị ứng (kháng sinh, NSAIDs)
+- Nhiễm khuẩn (vi khuẩn, virus, nấm)
+- Thâm nhiễm (lymphoma, leukemia, sarcoid)
+- Thải ghép.
+
+4.2.3. Tổn thương cầu thận
+- Bệnh kháng thể kháng màng đáy cầu thận
+- ANCA viêm mạch
+- Cryoglobulinemia
+- Viêm cầu thận tăng sinh màng
+- Viêm thận lupus
+- Henoch Scholein
+- Viêm nút quanh động mạch
+- Hội chứng tán huyết tăng urea huyết (HUS), ban xuất huyết giảm tiểu cầu huyết khối (TTP).
+
+4.2.4. Tổn thương vi mạch thận
+- Tăng huyết áp ác tính
+- Tiền sản giật
+- Tăng calci máu
+- Thuốc cản quang
+- Xơ cứng bì.
+
+4.2.5. Tổn thương mạch máu lớn ở thận
+- Động mạch (huyết khối, viêm mạch máu, phình bóc tách, chấn thương,...)
+- Tĩnh mạch (huyết khối, chèn ép, chấn thương,...).
+
+4.3. Tổn thương thận cấp sau thận
+4.3.1. Tắc nghẽn đường tiểu trên
+- Khoang sau phúc mạc: u, hạch lympho
+- U trong ổ bụng: tử cung, cổ tử cung, buồng trứng, tuyến tiền liệt
+- Cột niệu quản hoặc chấn thương niệu quản sau phẫu thuật
+- Khối máu tụ
+- Sỏi, ung thư, cục máu đông
+- Hẹp niệu quản.
+
+4.3.2. Tắc nghẽn đường tiểu dưới
+- Tuyến tiền liệt: phì đại lành tính, ung thư
+
+- Bàng quang: tắc nghẽn cổ bàng quang do sỏi, ung thư, nhiễm khuẩn
+- Bàng quang thần kinh do chấn thương tủy sống, đái tháo đường, thuốc anticholinergics
+- Niệu đạo: van niệu đạo sau, hẹp niệu đạo, nhiễm khuẩn, lao, u,...
+
+## 5. ĐÁNH GIÁ LÂM SÀNG VÀ CẬN LÂM SÀNG NGƯỜI BỆNH TỔN THƯƠNG THẬN CẤP
+
+### 5.1. Lâm sàng: Hoại tử ống thận cấp trải qua bốn giai đoạn
+
+- **Giai đoạn khởi phát** (vài giờ – vài ngày) diễn tiến tùy theo nguyên nhân. Độ lọc cầu thận giảm do giảm tưới máu thận.
+
+Giai đoạn tổn thương lan tỏa: tương ứng với lâm sàng thiểu niệu hoặc vô niệu. xuất hiện từ từ hoặc đột ngột nếu do nguyên nhân ngộ độc. Có thể kéo dài từ vài ngày đến vài tuần. Người bệnh có thể phù, biểu hiện của hội chứng urê huyết cao, creatinin máu tăng nhanh, kèm rối loạn điện giải (tăng kali máu), toan chuyển hóa.
+
+- **Giai đoạn duy trì**: kéo dài 1 – 2 tuần, người bệnh trong giai đoạn thiểu niệu.
+- **Giai đoạn hồi phục**: tùy theo nguyên nhân mà thời gian hồi phục chức năng thận cũng thay đổi. Người bệnh chuyển qua giai đoạn đa niệu, có thể đạt 4 – 5 L/ngày. Nếu không chú ý điều chỉnh nước điện giải thì người bệnh có thể quay lại AKI trước thận do giảm tưới máu thận. Độ lọc cầu thận gia tăng, urea, creatinin máu giảm dần.
+
+**Bảng 17.3.** Một số đánh giá lâm sàng và cận lâm sàng các nguyên nhân tổn thương thận cấp
+
+| Nguyên nhân | Đặc điểm lâm sàng | Đặc điểm nước tiểu | Khẳng định chẩn đoán |
+| :--- | :--- | :--- | :--- |
+| AKI trước thận | Có bằng chứng của giảm tưới máu thận (khát, nhịp tim nhanh, hạ huyết áp tư thế, chóng mặt, sụt cân, lượng nước mất ra nhiều hơn lượng nhập vào, môi lưỡi khô, tĩnh mạch cổ xẹp, hõm nách khô) | - Nước tiểu sạch, có thể có trụ hyalin<br>- $\text{FE}_{Na} < 1\%$<br>- $\text{U}_{Na} < 10\text{ mmol/L}$<br>- Tỉ trọng nước tiểu $> 1,018$ | Đôi khi cần theo dõi huyết động, bù dịch để đảm bảo tưới máu đến thận đủ |
+| **Hoại tử ống thận cấp** | | | |
+| Thiếu máu cục bộ | Tình trạng giảm tưới máu thận nặng, kéo dài (xuất huyết, tụt huyết áp kéo dài), thường hay kèm với sử dụng thuốc như NSAIDs, thuốc ức chế RAA | - Trụ hạt nâu bùn<br>- $\text{FE}_{Na} > 1\%$<br>- $\text{U}_{Na} > 20\text{ mmol/L}$<br>- Tỉ trọng nước tiểu $< 1,010$ | Kết hợp lâm sàng và cận lâm sàng |
+
+| Nguyên nhân | Đặc điểm lâm sàng | Đặc điểm nước tiểu | Khẳng định chẩn đoán |
+| --- | --- | --- | --- |
+| Độc chất ngoại sinh | Có sử dụng các thuốc độc thận, hóa trị, thuốc cản quang,... thường kết hợp giảm tưới máu thận, nhiễm khuẩn huyết,... | - Trụ hạt nâu bùn<br>- $\text{FENa} > 1\%$<br>- $\text{UNa} > 20 \text{ mmol/L}$<br>- Tỉ trọng nước tiểu $< 1,010$ | Kết hợp lâm sàng và cận lâm sàng |
+| Độc chất nội sinh | Bệnh sử gợi ý có ly giải cơ (chấn thương, co giật,...), tán huyết (truyền nhầm nhóm máu), ly giải bướu (hóa trị, đau xương gợi ý myeloma) | - Tổng phân tích nước tiểu dương tính với máu nhưng soi cặn lắng không thấy hồng cầu<br>- Soi cặn lắng có tinh thể urate, oxalate,... | - Myoglobin niệu dương tính kèm tăng $\text{CPK}$<br>- Hemoglobin niệu dương tính<br>- Tăng acid uric, tăng kali máu, tăng phospho máu (hội chứng ly giải bướu, có protein đơn dòng trong nước tiểu,...) |
+| Viêm thận kẽ cấp | Bệnh sử có tiếp xúc với thuốc kèm theo sốt, nổi ban, đau khớp | Bạch cầu niệu dương tính (thường là bạch cầu ái toan), trụ bạch cầu, hồng cầu niệu không kèm với trụ hồng cầu, protein niệu dương tính | - Tăng bạch cầu ái toan trong máu<br>- Sinh thiết thận |
+| Viêm đài bể thận cấp hai bên | Sốt, đau hông lưng, vẻ nhiễm khuẩn, rung thận dương tính, có thể kèm hội chứng niệu đạo cấp | - Bạch cầu niệu dương tính, hồng cầu niệu<br>- Cấy nước tiểu dương tính | Cấy nước tiểu và cấy máu |
+| $\text{AKI}$ sau thận | Cầu bàng quang, đau hông lưng | Hồng cầu niệu dương tính nếu kèm sỏi, phì đại tuyến tiền liệt | $\text{KUB}$, siêu âm bụng, đo thể tích nước tiểu tồn lưu |
+| **Tổn thương mạch máu nhỏ và cầu thận** | | | |
+| Viêm cầu thận hoặc viêm mạch máu | Bệnh sử có viêm họng, nhiễm khuẩn da gần đây, ho ra máu, nổi ban, phù, đau khớp, tăng huyết áp | Protein niệu dương tính, trụ hồng cầu, trụ hạt | $\text{C3, C4}$ thấp, $\text{ANCA}$ dương tính, $\text{ASO}$ dương tính, $\text{anti-dsDNA}$ dương tính, sinh thiết thận |
+| $\text{HUS/TTP}$ | Bệnh sử gợi ý có đau bụng, nhiễm khuẩn tiêu hóa, xanh xao, bầm máu, có dấu hiệu thần kinh | Có thể bình thường, hồng cầu và protein niệu có khi dương tính, hiếm có trụ hồng cầu hoặc trụ hạt | Thiếu máu, giảm tiểu cầu, mảnh vỡ hồng cầu ở phết máu ngoại biên, tăng $\text{LDH}$, sinh thiết thận |
+
+| Nguyên nhân | Đặc điểm lâm sàng | Đặc điểm nước tiểu | Khẳng định chẩn đoán |
+| --- | --- | --- | --- |
+| Tăng huyết áp ác tính | Tăng huyết áp nặng kèm đau đầu, suy tim, bệnh lý võng mạc, phù gai thị và có dấu hiệu thần kinh | Có thể bình thường, hồng cầu và protein niệu có khi dương tính, hiếm có trụ hồng cầu | Phì đại thất trái trên ECG, X-quang ngực, AKI hồi phục khi kiểm soát được huyết áp |
+
+## 5.2. Cận lâm sàng
+
+**Bảng 17.4.** Các xét nghiệm nước tiểu chẩn đoán phân biệt AKI trước thận và hoại tử ống thận cấp
+
+| Các xét nghiệm | AKI trước thận | Hoại tử ống thận cấp |
+| :--- | :---: | :---: |
+| FENa (%) | < 1 | > 2 |
+| UNa (mmol/L) | < 20 | > 40 |
+| Creatinin niệu/Creatinin máu | > 40 | < 20 |
+| Urea niệu/Urea máu | > 8 | < 3 |
+| Tỉ trọng nước tiểu | > 1,018 | < 1,010 |
+| Áp lực thẩm thấu niệu (mosm/kg $\text{H}_2\text{O}$) | > 500 | ~ 300 |
+| BUN/Creatinin máu | > 20 | 10 – 15 |
+| Chỉ số suy thận ($\text{UNa}/(\text{UCr}/\text{PCr}$) | < 1 | > 1 |
+| Cặn lắng nước tiểu | Sạch, có thể có trụ trong | Trụ hạt nâu bùn |
+
+*Ghi chú: FENa > 1% trong AKI trước thận có kèm theo sử dụng lợi tiểu, FENa < 1% cũng gặp trong hoại tử ống thận cấp do thuốc cản quang hoặc do ly giải cơ vân.*
+
+Bên cạnh đó, trên lâm sàng, một số chỉ dấu sinh học (biomarker) được đề nghị thực hiện nhằm phát hiện sớm AKI, chẩn đoán phân biệt các nguyên nhân AKI cũng như là yếu tố tiên lượng AKI, như cystatin C, NGAL, KIM-1, IL-18, L-FABP, TIMP-2, IGF-BP7, tuy nhiên, giá trị của các chỉ dấu sinh học này chưa được lượng giá để đưa vào ứng dụng trên lâm sàng một cách thường quy.
+
+## 5.3. Xét nghiệm hình ảnh học
+
+Siêu âm bụng là một xét nghiệm không xâm lấn, giúp chẩn đoán loại trừ các nguyên nhân AKI sau thận, đặc biệt nếu thể tích nước tiểu tồn lưu từ 100 – 150 mL gợi ý đến chẩn đoán tắc nghẽn đường thoát bàng quang. Siêu âm bụng còn có giá trị đánh giá kích thước thận và giới hạn tủy vỏ. Mặc dù thuốc cản quang nên tránh dùng trong AKI, tuy nhiên, một số trường hợp CT scan bụng có cản quang giúp đánh giá hình ảnh thận và đường tiết niệu chính xác trong trường hợp sỏi niệu, ung thư chèn ép hoặc di căn. Chụp MRI mạch máu thận giúp chẩn đoán trường hợp hẹp động mạch thận. Tuy nhiên, thuốc cản từ gadolinium có thể gây xơ hóa thận và làm nặng thêm tổn thương thận sẵn có. Sinh thiết thận có vai trò trong chẩn đoán AKI tại thận, sau khi đã loại trừ AKI trước và sau thận; đặc biệt khi lâm sàng và các xét nghiệm nước tiểu cũng như xét nghiệm sinh hóa khác gợi ý một chẩn đoán khác ngoài thiếu máu cục bộ và tổn thương do độc chất mà điều trị đặc hiệu có thể hồi phục chức năng thận (như viêm mạch máu, hội chứng tán huyết tăng urê huyết (HUS/TTP), viêm thận kẽ cấp, bệnh thận do đa u tủy, viêm cầu thận hoại tử, viêm cầu thận liềm).
+
+## 6. BIẾN CHỨNG THƯỜNG GẶP TRONG TỔN THƯƠNG THẬN CẤP
+### 6.1. Chuyển hóa
+- Tăng thể tích dịch ngoại bào: do giảm bài tiết muối nước ở người bệnh thiểu niệu hoặc vô niệu. Triệu chứng bao gồm phù toàn thân, tăng cân, báng bụng, tràn dịch màng phổi, ran ẩm hai đáy phổi, tĩnh mạch cổ nổi,...
+- Tăng kali máu: là biến chứng rất thường gặp, có thể nghiêm trọng ở người bệnh kèm toan chuyển hóa, ly giải cơ vân, tán huyết, hội chứng ly giải bướu sau hóa trị. Tăng kali máu mức độ nhẹ có thể không có biểu hiện triệu chứng lâm sàng, nặng hơn có thể có rối loạn thần kinh cơ, dị cảm, yếu cơ, suy hô hấp. Ngược lại, hạ kali máu ít gặp hơn và thường gặp trong tổn thương thận cấp thể không thiểu niệu do thuốc (aminoglycosides, amphotericin B, cisplatin).
+- Hạ natri máu: do tăng lượng nước tự do. Trường hợp nặng có thể gây rối loạn tri giác, hôn mê, động kinh.
+- Tăng phospho máu: có thể từ nhẹ đến nặng, trường hợp tăng nặng gặp trong dị hóa nặng, ly giải cơ vân, tán huyết, thiếu máu mô, hội chứng ly giải bướu.
+- Hạ calci máu: ít gặp, do giảm $1,25(\text{OH})_2\text{-vitamin D}$, lắng đọng calci trong mô tổn thương. Hạ calci máu có thể từ không có triệu chứng cho đến có biểu hiện tê môi, vọp bẻ, động kinh, rối loạn tri giác, hội chứng QT dài, thay đổi sóng T không đặc hiệu.
+- Toan chuyển hóa với khoảng trống anion tăng: có thể nặng thêm khi kèm nhiễm ceton acid ở người bệnh đái tháo đường hay nhịn đói, tăng acid lactic do giảm tưới máu mô, bệnh lý gan hoặc nhiễm khuẩn nặng. Ngược lại, kiềm chuyển hóa ít xảy ra, nếu có thường do điều trị toan hóa máu bằng bicarbonate hoặc mất dịch dạ dày (ói, hút dịch dạ dày).
+- Tăng acid uric: acid uric được lọc qua cầu thận và bài tiết ở ống lượn gần. Thường gặp tăng acid uric mức độ nhẹ, không có triệu chứng lâm sàng. Nếu tăng nhiều, cần nghĩ đến bệnh thận do urat.
+
+### 6.2. Tim mạch
+Chính tình trạng toan chuyển hóa, tăng thể tích dịch, tăng kali máu và các biến chứng về chuyển hóa khác làm ảnh hưởng đến sức co bóp cơ tim và tính kích thích tế bào cơ tim. Người bệnh dễ gặp các biến chứng như phù phổi cấp, tăng huyết áp, nhồi máu cơ tim, loạn nhịp tim, tràn dịch màng ngoài tim, viêm màng ngoài tim.
+
+### 6.3. Tiêu hóa
+- Buồn nôn, nôn có thể liên quan đến hội chứng urea huyết cao hoặc các biến chứng chuyển hóa.
+
+- Suy dinh dưỡng: đa số người bệnh tăng dị hóa đạm. Suy dinh dưỡng có thể do người bệnh không ăn hoặc ăn uống kém, mất chất dinh dưỡng qua ống dẫn lưu hoặc dịch lọc, tăng phá hủy, đồng thời giảm tổng hợp protein ở cơ, tăng tân tạo đường ở gan, cung cấp chất dinh dưỡng không đủ.
+- Xuất huyết tiêu hóa: gặp trong $10 - 30\%$, thường do loét dạ dày - ruột non.
+
+## 6.4. Thần kinh
+- Kích thích thần kinh cơ
+- Co giật
+- Rối loạn tâm thần.
+
+## 6.5. Huyết học
+- Thiếu máu: thường do nhiều yếu tố kết hợp như giảm sản xuất erythropoietin, tán huyết, xuất huyết, pha loãng máu. Thiếu máu nặng có thể gặp trong tán huyết, đa u tủy, bệnh vi mạch huyết khối.
+- Chảy máu: liên quan đến kéo dài thời gian chảy máu.
+
+## 6.6. Nhiễm khuẩn
+Đây là biến chứng nặng và thường gặp, chiếm $50 - 90\%$ và có thể gây tử vong. Vị trí nhiễm khuẩn thường gặp là viêm phổi, nhiễm khuẩn tiểu, có thể nhiễm khuẩn huyết.
+
+## 6.7. Khác
+- Nấc cụt
+- Cường tuyến cận giáp thứ phát.
+
+# 7. KẾT LUẬN
+Tổn thương thận cấp trước thận là nguyên nhân thường gặp nhất. Chẩn đoán tổn thương thận cấp chủ yếu dựa vào hỏi bệnh sử, khám lâm sàng và phân tích kết quả tổng phân tích nước tiểu và soi cặn lắng nước tiểu. Cần ghi nhớ các loại thuốc có thể gây tổn thương thận cấp và loại trừ bệnh lý gây tắc nghẽn đường tiểu trong mọi trường hợp có tổn thương thận cấp.
+
+# CÂU HỎI TỰ LƯỢNG GIÁ
+**Chọn một câu đúng**
+
+1. Theo RIFLE, gọi là suy thận (Failure) khi thể tích nước tiểu thay đổi như thế nào?
+- A. $< 0,5\text{ mL/kg/giờ} \times 6\text{ giờ}$
+- B. $< 0,5\text{ mL/kg/giờ} \times 12\text{ giờ}$
+- C. $< 0,5\text{ mL/kg/giờ} \times 24\text{ giờ}$
+- D. $< 0,3\text{ mL/kg/giờ} \times 24\text{ giờ}$
+
+2. Trong các xét nghiệm máu và nước tiểu, xét nghiệm nào còn có giá trị giúp chẩn đoán phân biệt tổn thương thận cấp trước và tại thận?
+A. FENa
+B. FEUN
+C. Soi tươi cặn lắng nước tiểu
+D. Áp lực thẩm thấu niệu
+
+3. FENa < 1% không gặp trong trường hợp nào?
+A. Tổn thương thận cấp do thuốc cản quang
+B. Tổn thương thận cấp do ly giải cơ vân
+C. Tổn thương thận cấp trước thận
+D. Hoại tử ống thận cấp do thiếu máu
+
+4. Điều kiện nào đúng khi làm xét nghiệm FENa trong chẩn đoán tổn thương thận cấp?
+A. Không dùng thuốc lợi tiểu trước đó
+B. Tổn thương thận cấp do tắc nghẽn sau thận
+C. Tổn thương thận cấp xảy ra trong 24 giờ đầu
+D. Tổn thương thận cấp thể không thiểu niệu
+
+5. Khi cần chỉnh liều thuốc theo chức năng thận, cần lưu ý đến chỉ số nào sau đây?
+A. Urea máu
+B. Creatinin máu
+C. FENa
+D. Độ lọc cầu thận ước đoán
+
+6. Thành phần hữu hình nào quan sát được khi soi cặn lắng nước tiểu trong trường hợp hoại tử ống thận cấp?
+A. Trụ bạch cầu
+B. Trụ hạt nâu bùn
+C. Trụ hồng cầu
+D. Trụ rộng
+
+7. Đặc điểm khác biệt quan trọng nhất của tổn thương thận cấp và bệnh thận mạn là gì?
+A. Tăng BUN/máu
+B. Tăng creatinin/máu
+C. Sự hồi phục của chức năng thận theo thời gian
+D. Sự hiện diện của hội chứng urea huyết cao
+
+8. Điều nào sau đây không đúng khi nói về tổn thương thận cấp?
+
+A. Tổn thương thận cấp tại thận là nguyên nhân thường gặp nhất
+
+B. Tổn thương thận cấp trong cộng đồng thường gặp ở các nước đang phát triển
+
+C. Chức năng thận không thể hồi phục hoàn toàn
+
+D. Tổn thương thận cấp trong cộng đồng có tỉ lệ sống sót $70 - 90\%$
+
+9. Thiểu niệu là khi thể tích nước tiểu:
+
+A. $< 500 \text{ mL/ngày}$
+
+B. $< 400 \text{ mL/ngày}$
+
+C. $< 300 \text{ mL/ngày}$
+
+D. $< 100 \text{ mL/ngày}$
+
+10. Điều nào không đúng với tổn thương thận cấp trước thận?
+
+A. Có bằng chứng của tình trạng giảm tưới máu thận
+
+B. $\text{FENa} < 1\%$
+
+C. Tỉ trọng nước tiểu $< 1,015$
+
+D. Có trụ hyalin khi soi cặn lắng nước tiểu
+
+ĐÁP ÁN: 1.D 2.C 3.D 4.A 5.D 6.B 7.C 8.A 9.B 10.C
+
+**TÌNH HUỐNG LÂM SÀNG THẢO LUẬN**
+
+*Tình huống 1*
+
+Bệnh sử: người bệnh nam 65 tuổi, nhập viện vì nôn ói và tiểu ít. Cách nhập viện 3 ngày, người bệnh sau khi ăn tiệc về, BN bắt đầu buồn nôn và nôn ói $8 - 9$ lần/ngày, nôn toàn nước lẫn thức ăn khoảng $300 \text{ mL/ngày}$, đau thượng vị, không tiêu chảy, kèm mệt, nước tiểu giảm dần còn $400 \text{ mL/ngày}$ nhập viện. Người bệnh chỉ uống $500 \text{ mL/ngày}$.
+
+Tiền căn: tăng huyết áp 5 năm đang uống amlodipin $5\text{ mg/ngày}$, huyết áp dao động khoảng $150/90 \text{ mmHg}$. Creatinin máu lúc tái khám cách 1 tháng là $0,9\text{ mg/dL}$.
+
+Khám: người bệnh tỉnh, tiếp xúc được; vẻ mệt, hơi đừ. Chóng mặt khi thay đổi tư thế.
+
+Mạch $115 \text{ lần/phút}$, huyết áp $90/60 \text{ mmHg}$. Dấu véo da dương tính. Bụng mềm, ấn đau vùng quanh rốn.
+
+Cận lâm sàng: $\text{BUN} = 85\text{ mg/dL}$, creatinin máu $4\text{ mg/dL}$, $\text{eGFR}$ ($\text{CKD-EPI}$) $= 15\text{ mL/phút}/1,73\text{ m}^2\text{da}$.
+
+1. Người bệnh này có những vấn đề gì tại thời điểm nhập viện?
+
+2. Đưa ra ít nhất 2 chẩn đoán phù hợp với rối loạn chức năng thận ở người bệnh này?
+
+3. Cần làm thêm xét nghiệm gì để khẳng định nguyên nhân suy thận ở người bệnh này? Giải thích.
+
+## Tình huống 2
+
+Bệnh sử: người bệnh nữ 52 tuổi, tiền căn đái tháo đường type 2 cách 3 năm, có điều trị thường xuyên với metformin 500 mg 1 viên $\times$ 2 lần/ngày. Tăng huyết áp và bệnh thận mạn 7 tháng nay với mức creatinin huyết thanh cơ bản 2,5 mg/dL cách đây 3 tháng. Cách nhập viện 1 tháng nay người bệnh phù chân và mặt tăng dần, tiểu 800 mL/ngày và kèm nôn ói nhiều khoảng 400 mL/ngày, không đau bụng. Toa thuốc cơ bản: metformin 500 mg 1 viên $\times$ 2 lần/ngày, telmisartan 80 mg 1 viên/ngày, amlodipin 5 mg 1 viên/ngày, atorvastatin 20 mg 1 viên/ngày.
+
+*Khám lâm sàng:* người bệnh tỉnh, tiếp xúc tốt. Phù toàn thân. Niêm nhạt. Tim: T1, T2 đều, phổi ran ẩm hai đáy. Bụng báng toàn thể. Cân nặng 60 kg, Chiều cao 158 cm.
+
+Sinh hiệu: mạch 100 lần/phút; huyết áp 180/100 mmHg; nhịp thở 20 lần/phút; nhiệt độ $37^\circ\text{C}$.
+
+Xét nghiệm: đường huyết = 180 mg/dL; BUN = 72mg/dL; creatinin máu = 3 mg/dL.
+
+TPTNT: $\text{pH} = 6$; d = 1,030; glucose = 250 mg/dL; protein = 300 mg/dL; hồng cầu 250/µL; bạch cầu 75/µL, nitrite âm tính.
+
+1. Dựa vào lâm sàng và cận lâm sàng, đặt vấn đề trên người bệnh này? Giải thích.
+
+2. Đưa ra ít nhất 2 chẩn đoán phù hợp với rối loạn chức năng thận ở người bệnh này?
+
+3. Cần làm thêm xét nghiệm gì để khẳng định nguyên nhân gây suy thận ở người bệnh này? Giải thích.
+
+# TÀI LIỆU THAM KHẢO
+
+1. Asif AS., Steven DW., Paul MP., Bruce AM. Acute Kidney Injury. *Brenner and Rector's The Kidney $10^{th}$*. Elsevier, 2016, pp.958-1010.
+
+2. Eric J., Paul WS., Anupam A. (2019). Diagnosis and Clinical Evaluation of Acute Kidney Injury. *Comprehensive Clinical Nephrology $6^{th}$*. Elsevier, 2019, pp.810-818.
+
+3. Rajesh R., Seth G., Daniel WC. Renal Diseases. *The Washington Manual Of Medicine Therapeutics $35^{th}$*. Wolters Kluwer, 2019, pp.389-397.
+
+4. Sarah F., Charles LE. The Patient with Acute Kidney Injury. *Manual of Nephrology $8^{th}$*. Wolters Kluwer, 2015, pp.201-240.
+
+# TIẾP CẬN CHẨN ĐOÁN BỆNH THẬN MẠN
+
+ThS.BSNT. Bùi Thị Ngọc Yến, TS.BS. Huỳnh Ngọc Phương Thảo
+
+## MỤC TIÊU HỌC TẬP
+
+1. Trình bày cách tầm soát bệnh thận mạn.
+2. Giải thích các cơ chế gây bệnh thận mạn, tiến triển của bệnh thận mạn.
+3. Chẩn đoán xác định, phân biệt, chẩn đoán và trình bày cách tiếp cận người bệnh bệnh thận mạn.
+4. Xác định nguyên nhân của bệnh thận mạn.
+5. Xác định và đánh giá các yếu tố ảnh hưởng đến tiến triển của bệnh thận mạn.
+
+## 1. ĐỊNH NGHĨA
+
+### 1.1. Định nghĩa bệnh thận mạn
+
+**Theo KDIGO 2012:**
+
+Bệnh thận mạn được xác định là các bất thường về cấu trúc hoặc chức năng thận, tồn tại trên 3 tháng và có ảnh hưởng đến sức khỏe người bệnh.
+
+Khi người bệnh có ít nhất một trong các tiêu chuẩn sau, kéo dài trên 3 tháng:
+
+- Dấu chứng của tổn thương thận, chỉ cần ít nhất một trong các tiêu chuẩn sau:
+  - Albumin niệu $\ge 30\text{ mg}/24\text{ giờ}$, hoặc tỉ lệ albumin:creatinin niệu $\ge 30\text{ mg/g}$
+  - Cặn lắng nước tiểu bất thường (hồng cầu, bạch cầu, trụ hồng cầu, trụ bạch cầu, trụ hạt,...)
+  - Rối loạn điện giải và bất thường khác do tổn thương ống thận (toan hóa ống thận, đái tháo đường do thận, bệnh thận thải kali, bệnh thận thải magne, hội chứng Fanconi, tiểu đạm ống thận, tiểu cystine,...)
+  - Bất thường mô bệnh học (cầu thận, ống thận, mạch máu)
+  - Bất thường về cấu trúc thận phát hiện trên hình ảnh học (bệnh thận đa nang, loạn sản thận, thận ứ nước do tắc nghẽn, sẹo trên vỏ thận do nhồi máu, viêm đài – bể thận, trào ngược bàng quang – niệu quản, bướu thận, thận to do thâm nhiễm, hẹp động mạch thận, thận teo,...)
+  - Tiền sử ghép thận.
+- Giảm độ lọc cầu thận ($\text{GFR: Glomerular Filtration Rate}) < 60\text{ mL/phút}/1,73\text{ m}^2$ (G3a-G5).
+
+### 1.2. Định nghĩa suy thận mạn
+
+Suy thận mạn là tình trạng suy giảm chức năng thận mạn tính không hồi phục theo thời gian nhiều tháng, nhiều năm, do tổn thương không hồi phục về số lượng và chức năng của các nephron. Suy thận mạn tương ứng bệnh thận mạn giai đoạn $3-5$.
+
+1.3. Định nghĩa suy thận mạn giai đoạn cuối
+
+Suy thận mạn giai đoạn cuối tương ứng với giai đoạn 5 của bệnh thận mạn, là giai đoạn nặng nhất, biểu hiện lâm sàng do tình trạng tích tụ các độc chất, nước và các điện giải bình thường thải qua thận, gây nên hội chứng urea huyết cao. Tình trạng này sẽ gây tử vong nếu người bệnh không được điều trị thay thế thận.
+
+2. CÁC GIAI ĐOẠN CỦA BỆNH THẬN MẠN
+
+Phân loại bệnh thận mạn dựa vào nguyên nhân, độ lọc cầu thận GFR và albumin nước tiểu (CGA).
+
+2.1. Phân loại giai đoạn của bệnh thận mạn theo nguyên nhân
+
+- Bệnh cầu thận: bệnh thận đái tháo đường, bệnh tự miễn, nhiễm khuẩn, bướu (gồm cả amyloidosis)
+- Bệnh ống thận: nhiễm khuẩn, tự miễn, sarcoidosis, độc chất (chì,...), thuốc, urat, bướu
+- Bệnh mạch máu thận: xơ vữa mạch máu, tăng huyết áp, thiếu máu, tắc mạch do cholesterol, viêm mạch máu hệ thống, huyết khối mao mạch, xơ cứng hệ thống
+- Bệnh nang thận và bệnh thận bẩm sinh.
+
+2.2. Phân loại giai đoạn bệnh thận mạn dựa theo độ lọc cầu thận (GFR)
+
+Bảng 18.1. Phân giai đoạn theo độ lọc cầu thận ở người bệnh bệnh thận mạn
+
+| GFR category | GFR (mL/phút/1,73 m²) | Thuật ngữ |
+| :--- | :--- | :--- |
+| G1 | ≥ 90 | Bình thường hoặc tăng |
+| G2 | 60 – 89 | Giảm nhẹ |
+| G3a | 45 – 59 | Giảm nhẹ đến trung bình |
+| G3b | 30 – 44 | Giảm trung bình đến nặng |
+| G4 | 15 – 29 | Giảm nặng |
+| G5 | < 15 | Suy thận |
+
+2.3. Phân loại theo albumin niệu (Albuminuria)
+
+Bảng 18.2. Phân loại albumin niệu trong bệnh thận mạn
+
+| Phân loại | AER (mg/24 giờ) | ACR (mức tương đương) | | Định nghĩa |
+| :--- | :--- | :--- | :--- | :--- |
+| | | mg/mmol | mg/g | |
+| A1 | < 30 | < 3 | < 30 | Tăng bình thường đến nhẹ |
+| A2 | 30 – 300 | 3 – 30 | 30 – 300 | Tăng trung bình |
+| A3 | > 300 | > 30 | > 300 | Tăng nặng |
+
+AER, albumin excretion rate; ACR, albumin-to-creatinin
+
+3. CƠ CHẾ BỆNH SINH
+
+Gồm hai cơ chế chính của tổn thương là cơ chế thận bị tổn thương do bệnh căn nguyên (viêm cầu thận, viêm ống thận mô kẽ,...) và cơ chế đáp ứng của thận khi bị giảm số nephron, qua việc tăng sinh phì đại của các nephron còn lại, chưa bị tổn thương theo giả thuyết nephron toàn vẹn của Bricker. Hiện tượng bù trừ trong giai đoạn đầu, lâu dần hiện tượng tăng lọc này gây tổn thương và mất dần chức năng thận (giả thuyết tăng lọc của Brenner) (Sơ đồ 18.1).
+
+**Sơ đồ: Sơ đồ 18.1. Giả thuyết tăng lọc của Brenner**
+- Mất nephron --> Phì đại và tăng lọc cầu thận bù trừ và $\uparrow$Pgc
+- Mất nephron --> Tăng huyết áp toàn thân
+- Angiotensin II --> Phì đại và tăng lọc cầu thận bù trừ và $\uparrow$Pgc
+- Angiotensin II --> Tăng huyết áp toàn thân
+- Angiotensin II --> Phá hủy màng lọc cầu thận với protein
+- Angiotensin II --> Xơ chai cầu thận khu trú từng vùng
+- Angiotensin II --> Xuất hiện hóa chất trung gian gây tăng sinh/viêm/xơ hóa
+- Phá hủy màng lọc cầu thận với protein --> Xơ chai cầu thận khu trú từng vùng
+
+4. CÁC BIẾN CHỨNG CỦA BỆNH THẬN MẠN
+
+4.1. Rối loạn nước – điện giải – thăng bằng kiềm toan
+
+4.1.1. Rối loạn chuyển hóa natri và nước
+
+Khi suy thận tiến triển, ANP (atrial natriuretic peptide, peptid lợi niệu natri) giảm tác dụng, gây tăng giữ muối, nước, gây tăng thể tích trong lòng mạch, tăng huyết áp và phù. Đồng thời, thận mất khả năng cô đặc và pha loãng nước tiểu.
+
+4.1.2. Rối loạn chuyển hóa kali
+
+Khi suy thận mạn, thận vẫn có khả năng bài tiết kali do việc tăng tiết aldosterol làm tăng thải kali ở ống lượn xa, tăng thải kali qua đường tiêu hóa nên tăng kali chỉ xảy ra khi suy thận mạn giai đoạn cuối. Nếu tăng kali máu xảy ra sớm hơn, cần tầm soát các nguyên nhân gây tăng kali ngoài suy thận (ăn uống, tán huyết, nhiễm khuẩn, thuốc,...). Giảm kali ít gặp hơn tăng kali máu, nguyên nhân có thể do giảm nhập, thuốc lợi tiểu mất kali, bệnh ống thận,...
+
+4.1.3. Toan chuyển hóa: xảy ra khi lượng acid bài tiết giảm, nặng thêm khi có tình trạng tăng acid nội sinh hoặc ngoại sinh.
+
+### 4.1.4. Rối loạn chuyển hóa calci và phospho
+
+Giảm khả năng bài tiết phospho và calci, gây tăng phospho máu, giảm chuyển hóa vitamin D2 thành vitamin D3, gây giảm calci máu, kích thích tuyến cận giáp tăng tiết PTH để tăng huy động calci từ xương vào máu. Hậu quả của rối loạn quá trình này là (1) cường tuyến cận giáp thứ phát, (2) tổn thương xương do mất chất khoáng, (3) tổn thương do lắng đọng phức hợp calci – phospho ngoài xương.
+
+### 4.2. Rối loạn về tim mạch
+
+Bệnh lý tim mạch là nguyên nhân hàng đầu gây bệnh và tử vong ở người bệnh bệnh thận mạn, ở mọi giai đoạn của bệnh thận mạn.
+
+#### 4.2.1. Tăng huyết áp và dày thất trái
+
+Tăng huyết áp là nguyên nhân và cũng là biến chứng của bệnh thận mạn. Tăng huyết áp xuất hiện sớm, biến chứng dày thất trái cũng tăng dần theo giai đoạn của bệnh thận mạn. Tăng huyết áp là một yếu tố thúc đẩy bệnh thận mạn do nguyên nhân tiến triển nên việc kiểm soát huyết áp giữ vai trò quan trọng trong điều trị làm chậm tiến triển của bệnh thận mạn.
+
+#### 4.2.2. Suy tim sung huyết
+
+Cơ chế của suy tim sung huyết trong bệnh thận mạn do (1) bệnh tim thiếu máu cục bộ, (2) dày thất trái, (3) bệnh cơ tim trong hội chứng urea huyết cao, (4) tình trạng tăng muối nước khi suy thận, (5) tình trạng thiếu máu trong suy thận mạn. Suy tim có thể gặp suy tim tâm thu và hoặc tâm trương. Nặng hơn có thể gặp tình trạng phù phổi cấp.
+
+#### 4.2.3. Bệnh mạch máu
+
+Bệnh thận mạn là yếu tố nguy cơ của bệnh mạch máu như bệnh mạch vành, bệnh mạch máu não và bệnh mạch máu ngoại biên.
+
+#### 4.2.4. Bệnh màng ngoài tim
+
+Viêm màng ngoài tim gặp trong bệnh cảnh hội chứng urea huyết cao của bệnh thận mạn giai đoạn cuối, là dấu hiệu chỉ điểm người bệnh cần phải lọc máu.
+
+### 4.3. Rối loạn về huyết học
+
+#### 4.3.1. Thiếu máu
+
+Thiếu máu do thiếu erythropoietin khi giảm số lượng nephron, thiếu máu hồng cầu đẳng sắc đẳng bào, phổ biến ở giai đoạn 4 của bệnh thận mạn. Thiếu máu ở người bệnh bệnh thận mạn còn có thể do những nguyên nhân khác như thiếu sắt, rối loạn sử dụng sắt, tán huyết, xơ tủy, xuất huyết tiêu hóa, thiếu acid folic, vitamin B12, bệnh hemoglobin. Lâm sàng da niêm xanh, giảm trí nhớ, giảm tập trung, tăng cung lượng tim, giãn tâm thất, phì đại tâm thất nên có thể gây cơn đau thắt ngực, suy tim sung huyết.
+
+#### 4.3.2. Rối loạn đông máu
+
+Rối loạn đông máu bao gồm thời gian máu đông, giảm hoạt tính của yếu tố III tiểu cầu, giảm độ tập trung tiểu cầu và giảm prothrombin. Lâm sàng dễ xuất huyết, bầm máu trên da, chảy máu vết thương, rong kinh, xuất huyết tự nhiên, răng miệng, màng ngoài tim, xuất huyết não.
+
+4.3.3. Rối loạn chức năng tiểu cầu
+
+Người bệnh bệnh thận mạn nhạy cảm với nhiễm khuẩn do giảm sản xuất bạch cầu, giảm chức năng bạch cầu do suy dinh dưỡng, toan chuyển hóa, tăng urea huyết và teo hạch lympho. Tuy nhiên người bệnh bệnh thận mạn nhiễm khuẩn ít có biểu hiện sốt vì trung tâm điều nhiệt bị ức chế bởi urea máu cao.
+
+4.4. Rối loạn tiêu hóa và dinh dưỡng
+
+Urea và các sản phẩm azot máu tích tụ trong máu và được tăng thải ra đường tiêu hóa, được vi khuẩn chuyển hóa thành ammoniac tạo mùi khai trong hơi thở, vị kim loại trong miệng, viêm loét đường tiêu hóa gây đau bụng, buồn nôn, nôn, xuất huyết tiêu hóa, chán ăn, nấc cụt.
+
+4.5. Rối loạn thần kinh cơ
+
+Bệnh thận mạn gây tích tụ các sản phẩm chuyển hóa của nitrogen, các chất có trọng lượng phân tử trung bình, ảnh hưởng lên hệ thần kinh trung ương, thần kinh ngoại biên, thần kinh thực vật, bất thường về cấu trúc và chức năng của cơ. Triệu chứng bao gồm giảm trí nhớ, kém tập trung, rối loạn giấc ngủ, nấc cụt, vọp bẻ, đau xoắn vặn cơ, run vẩy, clonus cơ, co giật, hôn mê. Hội chứng chân không yên là hội chứng đặc trưng bằng tê, yếu ở chi và bàn chân, giảm khi cử động chân.
+
+4.6. Rối loạn chuyển hóa và nội tiết
+
+Ở người bệnh đái tháo đường, khi có bệnh thận mạn thường có đường huyết ổn định do insulin giảm thải khi bệnh thận mạn.
+
+Rối loạn nội tiết gặp ở nữ là giảm estrogen gây rối loạn kinh nguyệt, giảm khả năng thụ thai và dễ sảy thai, sinh con nhẹ cân, thiếu tháng, thay kỳ thúc đẩy suy thận tiến triển nhanh. Rối loạn nội tiết ở nam giới do giảm nồng độ testosterol, rối loạn tình dục, thiểu sản tinh trùng.
+
+4.7. Tổn thương da
+
+Tổn thương da ở người bệnh bệnh thận mạn đang tiến triển đa dạng như (1) da xanh do thiếu máu, (2) xuất huyết da niêm, mảng bầm trên da do rối loạn đông máu, (3) tăng sắc tố do tăng lắng đọng các sản phẩm biến dưỡng tăng sắc tố hoặc urochrome, (4) ngứa do cường tuyến cận giáp, tăng tích tụ phospho, khô da, (5) bệnh da xơ tiến triển do suy thận.
+
+5. CÁC YẾU TỐ LÀM NẶNG THÊM TÌNH TRẠNG SUY THẬN
+
+5.1. Tổn thương thận cấp ở người bệnh bệnh thận mạn
+
+Cần tầm soát và chẩn đoán các yếu tố nguy cơ ngay trước mỗi trường hợp tăng creatinin trên người bệnh bệnh thận mạn, hoặc trước mọi người bệnh bệnh thận mạn nhập viện.
+
+Các yếu tố nguy cơ bao gồm:
+
+- Giảm thể tích máu lưu thông: mất dịch, mất máu, mất huyết tương, suy tim sung huyết
+- Thay đổi huyết áp: tăng/hạ huyết áp
+- Nhiễm khuẩn
+
+- Tắc nghẽn đường tiểu
+- Dùng thuốc độc thận: kháng sinh, NSAIDs, cản quang
+- Biến chứng mạch máu thận: tắc, hẹp,...
+
+**5.2. Các yếu tố ảnh hưởng đến tốc độ tiến triển của bệnh thận mạn**
+
+Gọi là mất chức năng thận nhanh khi độ lọc cầu thận giảm trên 5 mL/phút/1,73 m² da/năm.
+Các yếu tố ảnh hưởng đến tốc độ tiến triển của bệnh thận mạn bao gồm:
+
+- Bệnh căn nguyên: đái tháo đường, bệnh cầu thận, bệnh thận đa nang, ghép thận, tăng huyết áp, bệnh ống thận mô kẽ,...
+- Các yếu tố có thể thay đổi được: tiểu protein, tăng huyết áp, tăng đường huyết, giảm albumin máu, hút thuốc lá,...
+- Các yếu tố không thể thay đổi được: nam giới, người da đen, lớn tuổi, độ lọc cầu thận cơ bản thấp, di truyền,...
+
+**6. KẾT LUẬN**
+
+Bệnh thận mạn thường biểu hiện âm thầm, triệu chứng thường chỉ xuất hiện vào giai đoạn muộn của bệnh. Việc chẩn đoán cần thực hiện sớm và khảo sát toàn diện: căn nguyên, giai đoạn, yếu tố làm mất chức năng thận, tốc độ tiến triển và biến chứng.
+
+**CÂU HỎI TỰ LƯỢNG GIÁ**
+
+*Chọn một câu đúng*
+
+1. Người bệnh nữ 40 tuổi, cân nặng 72 kg, chiều cao 150 cm, creatinin huyết thanh 1 mg/dL. Độ thanh lọc creatinin ước tính theo công thức Cockcroft-Gault là bao nhiêu?
+A. 45 mL/phút/1,73 m²
+B. 60 mL/phút/1,73 m²
+C. 85 mL/phút/1,73 m²
+D. 100 mL/phút/1,73 m²
+
+2. Người bệnh nam, 56 tuổi, khám kiểm tra sức khỏe, không tiền căn bệnh lý. Kết quả xét nghiệm protein nước tiểu 0,4 g/L, creatinin nước tiểu 100 mg/L, creatinin huyết thanh 1,5 mg/dL (eGFR 51 mL/phút/2,73 m²), kết luận nào sau đây phù hợp?
+A. Tiểu protein thoáng qua
+B. Tiểu protein tương đương 4 g/1,73 m²/24 giờ
+C. Tiểu protein tương ứng giai đoạn A2 theo KDIGO 2012
+D. Tiểu protein chọn lọc
+
+3. Người bệnh nữ, 78 tuổi, tiền căn đái tháo đường type 2, nhập viện vì nhiễm khuẩn chân phải, đoạn chi đến 1/3 trên đùi. Cách tính độ lọc cầu thận nào có giá trị chính xác nhất?
+
+A. Độ lọc cầu thận ước đoán creatinin huyết thanh theo công thức MDRD
+B. Độ thanh lọc creatinin nước tiểu 24 giờ
+C. Độ lọc cầu thận ước đoán cystatin C huyết thanh theo công thức CKD-EPI
+D. Độ thanh lọc cystatin C nước tiểu 24 giờ
+
+4. Tầm soát bệnh thận mạn trong cộng đồng, phương pháp dùng để đánh giá độ lọc cầu thận?
+A. Đo nồng độ, creatinin huyết thanh
+B. Đo độ lọc cầu thận ước đoán dựa vào creatinin huyết thanh
+C. Đo độ thanh lọc creatinin nước tiểu 24 giờ
+D. Đo nồng độ urea huyết thanh
+
+*Tình huống lâm sàng*
+
+Người bệnh nam, 60 tuổi, tăng huyết áp 16 năm, điều trị không liên tục tại địa phương, bệnh thận mạn 4 tháng (eGFR (MDRD) 50 mL/phút/1,73 m², protein/creatinin nước tiểu: 1,5 g/g), suy tim NYHA 2, thiếu máu cơ tim cách đây 2 tháng. Lần tái khám này người bệnh có huyết áp 150/90 mmHg, mạch 80 lần/phút, không phù, niêm hồng.
+
+Kết quả xét nghiệm của người bệnh: Hb 90 g/L; MCV 77 fL; MCH 26,1 pg; MCHC 287 g/L; bạch cầu 8,1 K/uL; tiểu cầu 262 G/L; Ferritin 550 ng/mL. Glucose 5,1 mmol/L; Cholesterol 7,4 mmol/L; HDL-C 0,9 mmol/L; LDL-C 4 mmol/L; Triglycerid 4,8 mmol/L. Urea 12,8 mmol/L; creatinin: 150,4 µmol/L; eGFR (MDRD) 43,9 mL/phút/1,73 m²; Na⁺ 133,8 mmol/L; K⁺ 3,86 mmol/L; Cl⁻ 103 mmol/L; TPTNT: Protein 0,3 g/L; Ery 25/µL; các giá trị khác trong giới hạn bình thường.
+
+5. Xếp loại bệnh thận mạn ở người bệnh này theo KDIGO 2012?
+A. Bệnh thận mạn do tăng huyết áp, A2, G3a
+B. Bệnh thận mạn do tăng huyết áp, A2, G3b
+C. Bệnh thận mạn do tăng huyết áp, A3, G3b
+D. Bệnh thận mạn do tăng huyết áp, A3, G3a
+
+6. Bước tiếp cận chẩn đoán thiếu máu ở người bệnh bệnh thận mạn này là gì?
+A. Người bệnh này không thiếu máu nên chưa cần khảo sát thêm
+B. Biến chứng thiếu máu này phù hợp với giai đoạn bệnh thận mạn, cần bổ sung thêm erythropoetin ngay cho người bệnh
+C. Cần bổ sung sắt ngay cho người bệnh mà không làm thêm các xét nghiệm khác
+D. Cần thực hiện thêm các xét nghiệm khác để chẩn đoán nguyên nhân thiếu máu
+
+7. Đánh giá tốc độ mất chức năng thận ở người bệnh này?
+A. Mất chức năng thận nhanh, vì mất trên 2 mL/phút/năm
+B. Không mất chức năng thận nhanh, vì mất dưới 5 mL/phút/năm
+C. Mất chức năng thận nhanh, vì mất trên 5 mL/phút/năm
+D. Không mất chức năng thận nhanh, vì mất dưới 2 mL/phút/năm
+
+8. Các yếu tố thúc đẩy bệnh thận tiến triển ở người bệnh này. CHỌN CÂU SAI:
+A. Tăng huyết áp
+B. Tăng đường huyết
+C. Rối loạn lipid máu
+D. Tiểu protein
+
+9. Người bệnh nam, 56 tuổi, tiền căn tăng huyết áp 15 năm, bệnh thận mạn 5 năm không rõ giai đoạn, không điều trị. Đến khám vì mệt, chóng mặt, khám: niêm nhạt, huyết áp 120/60 mmHg, mạch 44 lần/phút. Xét nghiệm nào cần làm đầu tiên để xử trí cấp cứu cho người bệnh?
+A. Điện giải đồ Na⁺, K⁺, Cl⁻
+B. Điện tâm đồ tại giường
+C. Creatinin huyết thanh
+D. Khí máu động mạch
+
+10. Người bệnh nam, 58 tuổi, tăng huyết áp 12 năm, phát hiện bệnh thận mạn 2 năm nay, tuân thủ điều trị. Xét nghiệm: tỉ lệ albumin/creatinin 200 mg/g, BUN 54 mg/dL, creatinin huyết thanh 2,2 mg/dL, eGFR (MDRD) 32,8 mL/phút/1,73 m². Cần tầm soát biến chứng nào của bệnh thận mạn? CHỌN CÂU SAI:
+A. Thiếu máu mạn
+B. Thiếu máu cơ tim
+C. Hội chứng urea huyết cao
+D. Ứ muối nước
+
+ĐÁP ÁN: 1.C 2.B 3.C 4.B 5.C 6.D 7.B 8.B 9.B 10.C
+
+**TÌNH HUỐNG LÂM SÀNG THẢO LUẬN**
+
+*Tình huống 1*
+
+Bệnh sử: người bệnh nữ, 62 tuổi, nhập viện vì phù mặt và 2 chân. Phù chân khoảng 1 tuần, khởi đầu phù mặt, dần phù toàn thân, tăng khoảng 5 kg/tuần, tiểu ít, dưới 500 mL/24 giờ, vàng sậm, nhiều bọt, uống khoảng 1,5 L/24 giờ. Không khó thở, vàng da mắt, ăn uống bình thường.
+
+Tiền căn: đái tháo đường type 2 khoảng 15 năm biến chứng mắt, tăng huyết áp, rối loạn lipid máu 5 năm; bệnh thận mạn 2 năm, creatinin cách 1 năm # 2,21 mg/dL, thường xuyên bỏ trị.
+
+Khám lâm sàng: mạch 86 lần/phút, huyết áp 140/90 mmHg, nhiệt độ 37°C, nhịp thở 20 lần/phút, cân nặng 55 kg, chiều cao 150 cm; phù mặt, hai chân đến cẳng chân, phù trắng, mềm, ấn lõm, không đau, niêm hồng nhạt, không dấu xuất huyết dưới da. Tim: T1 T2 đều, phổi không ran, bụng mềm, gõ trong khắp bụng, gan lách không sờ chạm, hạch ngoại biên không sờ chạm.
+
+Cận lâm sàng: ngày 1: BUN 55 mg/dL, creatinin 2,37 mg/dL. Ngày 3: BUN 52 mg/dL, creatinin 43 mg/dL, Hb 71 g/L, MCV 81 fL, MCH 30 pg, MCHC 370 g/L. Tổng phân tích nước tiểu: Ery (-), Protein 10 g/L, Leukocyte (-), Nitrite (-). Siêu âm bụng: thận phải 90 × 45 mm, thận trái 85 × 42 mm, bàng quang ít nước tiểu.
+
+1. Chẩn đoán nguyên nhân giảm độ lọc cầu thận của người bệnh, giải thích?
+2. Giải thích nguyên nhân thiếu máu của người bệnh, cần thực hiện thêm xét nghiệm nào để chẩn đoán?
+3. Cần tìm thêm biến chứng nào do giảm độ lọc cầu thận này của người bệnh, những dấu hiệu lâm sàng và cận lâm sàng cần thực hiện thêm?
+
+### Tình huống 2
+
+Bệnh sử: người bệnh nam, 38 tuổi, làm tài xế, đến khám vì khó thở. Khoảng 1 năm nay, người bệnh thỉnh thoảng than đau đầu vào buổi sáng, vài tháng nay ăn không ngon, không đau bụng, không ói, sụt cân khoảng 3 – 4 kg/3 tháng, mất ngủ.
+
+Khám lâm sàng: huyết áp 200/100 mmHg, mạch 96 lần/phút, nhiệt độ 37°C, nhịp thở 24 lần/phút, SpO₂ 92%/O₂ 3 L/phút qua cannula, chiều cao 156 cm, cân nặng 67 kg, không phù. Tim: T1 T2 đều, phổi không ran, bụng mềm, không dấu thần kinh định vị.
+
+Cận lâm sàng: BUN 57 mg/dL; creatinin 3,5 mg/dL; BC 8,67 G/L; neutrophil 60%; lymphocyte 25%; HC 3,7 T/L; Hb 116 g/L; Hct 38%; Platelet 210 G/L. Siêu âm bụng: thận phải 44 × 99 mm, thận trái 43 × 100 mm, giới hạn vỏ tủy không rõ. Tổng phân tích nước tiểu protein (+), Blood (+), Leu (-).
+
+1. Những yếu tố nguy cơ tổn thương thận cấp ở người bệnh này?
+2. Những yếu tố nào gợi ý tổn thương thận mạn ở người bệnh này?
+4. Cần theo dõi lâm sàng và cận lâm sàng nào để đưa ra chẩn đoán phù hợp cho vấn đề giảm độ lọc cầu thận ở người bệnh này.
+
+### TÀI LIỆU THAM KHẢO
+
+1. Trần Thị Bích Hương. Bệnh thận mạn và suy thận mạn. *Bệnh học Nội khoa*. NXB Y học Chi nhánh TP. Hồ Chí Minh, 2012, tr.417-429.
+2. Joanne MB., Karl S. Chronic Kidney Disease. *Harrison's Principles of Internal Medicine 19th*. Elsevier, 2015, pp.1811-1821.
+3. Michael E., Andrew ZF. . Approach to the Patient with Kidney Disease. *Brenner and Rector's The Kidney 10th*. Elsevier, 2016, pp.754-778.
+4. KDIGO 2012 – Kidney Disease Improving Global Outcomes, National Kidney Foundation; *Kidney International Supplements*, 2013, 3, v.
+
+# BẢNG TRA TỪ
+
+α1-antitrypsin, 185, 196, 221, 228, 229
+α-Fetoprotein (AFP), 195
+
+## A
+Acid uric huyết thanh, 34
+ADA (adenosine deaminase) dịch màng phổi, 129
+Âm thổi Carey Coombs, 5
+Âm thổi ở tim, 2, 3, 10
+Âm thổi tâm thu, 5, 6, 10, 54, 55, 64, 73
+Âm thổi tâm trương, 5, 6, 10
+Amylase dịch màng phổi, 129
+Áp-xe thận – quanh thận, 297
+
+## B
+Báng bụng, 54-56, 122, 132, 230, 231, 233-236, 242
+Bảng phân độ SMART-COP, 175
+Bàn tay Dupuytren, 231
+Bất thường nước tiểu không triệu chứng, 308, 309
+Bệnh cầu thận, 271, 276, 281, 283, 303, 307, 312, 319, 320, 321, 323, 326, 331, 351
+Bệnh cầu thận màng, 271, 320, 321, 331
+Bệnh cầu thận nguyên phát hoặc vô căn, 303
+Bệnh cầu thận sang thương tối thiểu, 271, 319
+Bệnh cầu thận thứ phát, 303, 312
+Bệnh động mạch vành, 31, 90, 91, 92, 103
+Bệnh gan do thiếu α1-antitrypsin, 221
+Bệnh mạch máu, 25, 27, 36, 173, 276, 281, 283, 351, 353
+Bệnh mạch vành, 36, 51, 69, 70
+Bệnh màng ngoài tim, 51, 338, 353
+Bệnh não gan, 233, 234, 237
+Bệnh thận do đái tháo đường, 308, 328, 329
+Bệnh thận do vius viêm gan B, 331
+Bệnh thận IgA, 273, 318, 319, 323, 324, 327
+Bệnh thận mạn, 27, 36, 40, 41, 281, 316, 350, 353, 354, 355
+Bệnh tiêu hóa liên quan acid dịch vị, 244
+Bệnh tim thiếu máu cục bộ, 69
+Bệnh u hạt Wegener’s, 139
+Bệnh ứ sắt mô di truyền, 220
+Bệnh Wilson, 220
+Béo phì, 34, 59, 139
+Block nhĩ thất, 4
+
+## C
+Các cơ chế nền tảng của suy tim, 49
+Các triệu chứng do cục máu đông thuyên tắc, 2
+Carbohydrate Antigen 19-9 (CA 19-9), 196
+Carcinoembryonic antigen (CEA), 196
+Ceruloplasmin, 196, 220
+Chỉ số hoạt động mô học Ishak – Knodell, 232
+Cholesterol dịch màng phổi, 129
+Chứng khó tiêu, 244, 263
+COPD, 56, 61, 84, 138-140, 142, 143, 145-149, 152, 162, 164, 167-169, 172, 177-179, 191
+COVID-19, 163, 164, 168
+Creatinin huyết thanh, 24, 29, 339
+Cúm, 162, 163, 168, 176
+
+## D, Đ
+Dấu Duroziez, 4
+Dấu hiệu Hill, 4
+Dấu hiệu Musset, 4
+Dấu Muller, 4
+Dấu Traube, 4
+Dày thất trái, 30, 41
+Đái tháo đường, 33, 36, 40, 41, 59, 83, 282, 312
+Đau ngực, 2, 72, 73, 83, 93, 94, 120, 165, 166, 248, 249, 253
+Đau thắt ngực Prinzmetal, 96
+Điểm nguy cơ TIMI, 80
+Độ bão hòa transferrin, 196
+Độ lọc cầu thận, 29, 273, 280, 282, 317, 326, 328, 331, 337, 338, 350, 351, 355
+Đóng khối tế bào (cellblock), 129
+
+Đợt cấp của bệnh phổi tắc nghẽn mạn (AECOPD), 163
+Đợt cấp của giãn phế quản (AEBX), 164
+
+**F**
+Ferritin, 186, 196, 210, 221
+
+**G**
+Giảm albumin máu, 308, 313
+Glucose dịch màng phổi, 128
+
+**H**
+Hematocrit, 129
+Hen, 52, 139, 142, 146, 150, 152, 245
+Hẹp van động mạch chủ, 4, 5, 7, 9, 101
+Hẹp van hai lá, 4, 7, 9, 111
+Hệ thống CURB-65, 172
+Hoại tử gai thận, 297
+Hoại tử ống thận cấp, 281, 337, 340, 342, 344, 347
+Hội chứng bất thường nước tiểu không triệu chứng, 276
+tiểu bạch cầu, 276, 278, 291, 296
+tiểu máu không triệu chứng, 276
+tiểu protein đơn độc, 277
+Hội chứng bế tắc đường tiểu, 279
+Hội chứng gan thận, 234, 237, 339
+Hội chứng Goodpasture, 307, 318
+Hội chứng Guillan-Barré, 273
+Hội chứng khiếm khuyết ống thận, 277
+khiếm khuyết về cấu trúc, 278
+khiếm khuyết về chức năng, 277
+Hội chứng mạch vành cấp, 69, 72
+Hội chứng mạch vành cấp không ST chênh lên, 77, 82, 83
+Hội chứng mạch vành mạn, 27, 92, 104
+Hội chứng nhiễm khuẩn tiểu, 278
+Hội chứng niệu đạo cấp, 275, 288, 293
+Hội chứng sỏi niệu, 278
+Hội chứng suy thận cấp, 280
+Hội chứng suy thận mạn, 281
+Hội chứng tắc nghẽn hô hấp dưới, 138, 145, 147,
+
+Hội chứng tăng huyết áp, 279
+Hội chứng thận hư, 130, 270, 276, 307, 308, 311, 317, 320
+Hội chứng viêm cầu thận cấp, 273, 317
+Hội chứng Wolff-Parkinson-White, 101
+Hội chứng Zollinger-Ellison, 262
+Ho ra máu, 2, 110, 112, 113, 115, 116, 165, 166, 274
+Hở van ba lá cơ năng, 4
+Hở van động mạch chủ, 4, 7, 9
+H. pylori, 244, 247, 253-257, 259, 260, 261, 262
+Huyết áp liên tục, 17
+Huyết áp phòng khám, 17
+Huyết áp tại nhà, 17, 18, 42, 43
+
+**I**
+Interferon-γ dịch màng phổi, 129
+
+**K**
+KDIGO 2012, 280, 281, 282, 338, 339, 350
+Khò khè, 140
+Khó thở, 2, 52, 54, 56, 64, 97, 119, 121, 140, 148, 165, 166, 167
+Khó thở kịch phát về đêm, 52, 54, 56
+Khó thở nằm, 52
+Khuyến cáo ESC 2016, 62
+
+**L**
+Loét dạ dày tá tràng, 252, 253, 257, 264
+Loét dạ dày tá tràng do stress, 257
+Lớn nhĩ trái, 4, 58
+
+**M**
+Mạch Bisferiens, 4
+Mạch Corrigan, 4
+Mạch Quincke, 4
+Mesothelin, 129
+Mệt mỏi, 2
+Mười hội chứng trong thận học, 270
+
+**N**
+Ngất, 2
+Nhiễm khuẩn, 236
+
+Nhiễm khuẩn đường hô hấp dưới cấp, 163
+Nhiễm khuẩn đường tiết niệu, 287, 288, 290, 291, 293, 295, 296
+Nhiễm khuẩn đường tiết niệu đơn giản, 287
+Nhiễm khuẩn đường tiết niệu không triệu chứng, 287, 293, 295
+Nhiễm khuẩn đường tiết niệu lặp lại, 288, 290
+Nhiễm khuẩn đường tiết niệu ở người bệnh bàng quang thần kinh, 293
+Nhiễm khuẩn đường tiết niệu ở người bệnh đái tháo đường, 293
+Nhiễm khuẩn đường tiết niệu ở người bệnh đặt sonde tiểu lưu, 293
+Nhiễm khuẩn đường tiết niệu phức tạp, 287
+Nhiễm khuẩn đường tiết niệu tái phát, 288
+Nhiễm khuẩn huyết, 176, 296, 338, 339
+
+**P**
+
+Phân độ Freeman Levine, 5
+Phân độ Killip, 80, 82
+Phân độ suy tim, 58
+Phân độ suy tim theo NYHA, 58
+Phân loại bệnh võng mạc do tăng huyết áp, 28
+Phân loại Child-Pugh, 233, 239
+Phân loại Child-Turcotte-Pugh, 233
+Phân loại Los Angeles, 251
+Phân tầng nguy cơ ở người bệnh tăng huyết áp, 41
+Phân tầng nguy cơ theo Hội Tim châu Âu 2015, 82
+pH dịch màng phổi, 128
+Phì đại thất trái, 4, 343
+Phù, 2, 13, 27, 52, 54-56, 80, 130, 139, 171, 230, 242, 270, 272, 304, 305, 308, 313, 317, 326
+Phù phổi cấp, 27, 52, 80, 171
+Protein niệu, 29, 272, 274, 310, 343
+Protein và LDH dịch màng phổi, 128
+
+**R**
+
+Rối loạn chức năng tiểu cầu, 354
+Rối loạn chuyển hóa, 59, 314, 315, 352-354
+Rối loạn chuyển hóa calci và phospho, 353
+Rối loạn chuyển hóa kali, 352
+Rối loạn chuyển hóa natri và nước, 352
+Rối loạn chuyển hóa và nội tiết, 354
+Rối loạn đông máu, 353
+Rối loạn lipid máu, 33
+Rối loạn nhịp tim, 4, 31, 83, 101
+Rối loạn nhịp tim và đột tử, 31
+Rối loạn thần kinh cơ, 354
+Rối loạn tiêu hóa và dinh dưỡng, 354
+Rối loạn về huyết học, 353
+Rối loạn về tim mạch, 353
+Rung nhĩ, 4, 9, 36
+
+**S**
+
+Sắt huyết thanh, 196
+SGOT/SGPT (O/P), 185
+SPECT/PET, 103
+Sự thay đổi tiếng thở, 140
+Suy chức năng tâm thu, 49
+Suy chức năng tâm trương, 49
+Suy tim, 9, 27, 30, 36, 47, 48, 51, 54, 55, 57, 64, 83, 101, 103, 130, 173, 229, 338, 353
+Suy tim sung huyết, 83, 173, 353
+Suy tim trái, 30, 54
+
+**T**
+
+Tắc nghẽn đường dẫn khí, 139
+Tắc nghẽn đường dẫn khí nhỏ, 139
+Tắc nghẽn ngoài lồng ngực, 139
+Tắc nghẽn trong lồng ngực, 139
+Tắc nghẽn hô hấp dưới, 138
+Tái cấu trúc thất trái, 48, 50
+Tăng huyết áp, 3, 15-28, 34, 35, 36, 40-43, 47, 50, 51, 59, 70, 71, 81, 84, 95, 98, 270, 271, 273, 274, 276-280, 283, 304, 311, 313, 317-320, 322, 323, 325, 326, 328, 329, 331, 332, 343, 345, 351, 352, 355
+Tăng huyết áp ác tính, 20, 341, 343
+Tăng huyết áp ẩn giấu, 21
+Tăng huyết áp “áo choàng trắng”, 21
+Tăng huyết áp cấp cứu, 19, 20
+Tăng huyết áp cấp cứu gây ra các biến chứng nặng, 20
+Tăng huyết áp giả tạo, 22
+Tăng huyết áp khẩn trương, 20
+
+Tăng huyết áp nặng đột ngột do u tủy thượng thận, 20
+Tăng huyết áp tâm thu đơn độc, 19, 20
+Tăng huyết áp tâm thu đơn độc ở người trẻ tuổi, 20
+Tăng huyết áp tâm trương đơn độc, 20
+Tăng huyết áp và dày thất trái, 353
+Tăng lipid máu và tiểu ra lipid, 315
+Tế bào dịch màng phổi, 128
+Tế bào sao, 226, 227
+Thang điểm GRACE, 81, 82
+Thang điểm METAVIR, 232
+Thang điểm SCORE2, 39, 40
+Thang điểm SCORE2-OP, 40
+Thang PSI (thang điểm FINE/PORT), 173
+Thiếu máu, 353
+Thiếu máu cục bộ cơ tim thầm lặng, 104
+Thở Cheyne-Stokes, 52
+Tiêu chuẩn chẩn đoán MINOCA, 71
+Tiêu chuẩn Hội chứng đáp ứng viêm toàn thân, 170
+Tiêu chuẩn Light, 127, 128
+Tiêu chuẩn nhập ICU của ATS/IDSA, 174
+Tiêu chuẩn qSOFA, 171
+Tiểu bạch cầu, 276
+Tiểu đạm do tăng quá nhiều protein trong máu, 309
+Tiểu đạm do tổn thương cầu thận, 310
+Tiểu đạm do tổn thương ống thận, 310
+Tiểu đạm dưới ngưỡng thận hư, 309, 310
+Tiểu đạm kèm tiểu máu không triệu chứng, 311
+Tiểu máu đại thể, 274, 283, 308, 311
+Tiểu máu không triệu chứng, 276
+Tiểu máu vi thể không triệu chứng, 309
+Tiểu protein đơn độc, 277
+Tiểu protein đơn độc lành tính, 277
+Tiểu protein đơn độc kéo dài, 277
+Tiểu vi khuẩn không triệu chứng, 287, 290
+nhiễm khuẩn đường tiết niệu có triệu chứng, 287
+nhiễm khuẩn đường tiết niệu không triệu chứng, 287, 293, 295
+Tình trạng tăng đông, 314
+
+Tỉ số De Ritis, 185, 217
+Toan chuyển hóa, 345, 352
+Tổn thương da, 354
+Tổn thương gan do thiếu máu cục bộ, 221
+Tổn thương thận cấp, 27, 237, 314, 316, 337, 338, 339, 341, 346, 347, 354
+Tổn thương thận cấp sau thận, 341
+tắc nghẽn đường tiểu dưới, 341
+tắc nghẽn đường tiểu trên, 341
+Tổn thương thận cấp tại thận, 339, 347
+tổn thương cầu thận, 341
+tổn thương mạch máu lớn ở thận, 341
+tổn thương ống thận, 339, 341
+tổn thương ống thận mô kẽ, 341
+tổn thương vi mạch thận, 341
+Tổn thương thận cấp trước thận, 338, 346, 347
+Tràn dịch màng phổi, 124
+dạng kén, 124
+dạng lớp, 124
+dịch thấm, 130
+dịch tiết, 130
+thể dưới phổi, 125
+Tràn dịch màng phổi chứng, 119
+Trào ngược dạ dày thực quản, 244
+Triglycerid hay chylomicron dịch màng phổi, 129
+
+U
+Ung thư gan, 234, 238
+
+V
+Vi albumin niệu, 29
+Viêm bàng quang cấp, 292
+Viêm bàng quang sinh hơi, 297
+Viêm cầu thận liềm, 271, 318, 326
+Viêm cầu thận mạn, 319
+Viêm cầu thận tăng sinh lan tỏa, 326
+Viêm cầu thận tăng sinh màng, 271, 273, 307, 325, 341
+Viêm cầu thận tăng sinh tế bào gian mạch, 323
+Viêm cầu thận tiến triển nhanh, 308, 318
+Viêm đài bể thận cấp, 293, 297, 343
+Viêm đài bể thận mạn, 293
+Viêm đài bể thận sinh hơi, 297
+Viêm gan, 210, 213, 215-221, 229
+
+Viêm gan cấp, 215, 219
+Viêm gan do rượu, 216, 217
+Viêm gan do thuốc, 218, 219
+Viêm gan mạn, 213, 215
+Viêm gan thoái hóa mỡ không do rượu, 217, 229
+Viêm gan tự miễn, 219, 220, 229
+Viêm niệu đạo cấp, 292
+Viêm ống thận mô kẽ cấp, 275
+Viêm phế quản cấp tính (AB), 163
+Viêm phổi mắc phải cộng đồng (CAP), 163
+Viêm phúc mạc nhiễm khuẩn nguyên phát, 236
+Viêm thận do lupus ban đỏ hệ thống, 329
+Viêm tuyến tiền liệt cấp, 276, 292
+Viêm tuyến tiền liệt mạn, 292
+Virus viêm gan A, 192, 215
+Virus viêm gan B, 192, 215, 229
+Virus viêm gan C, 194
+Virus viêm gan D, 194
+Virus viêm gan E, 195
+Vi sinh, 129
+
+**X**
+
+Xơ chai cầu thận khu trú từng vùng, 271, 321, 322,
+Xơ gan, 130, 132, 226, 227, 228, 229, 230, 232, 233, 235, 237, 238, 339
+Xuất huyết tiêu hóa, 234, 235, 239, 249, 258, 345
+
+**Y**
+
+Yếu tố viêm, 34
+
+Giáo trình giảng dạy Tiếp cận chẩn đoán bệnh nội khoa – Ấn bản lần 2
+Chủ biên: PGS.TS.BS. Hoàng Văn Sỹ, PGS.TS.BS. Quách Trọng Đức
+Bộ môn Nội Tổng quát – Đại học Y Dược Thành phố Hồ Chí Minh
+NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH
+
+Trụ sở:
+Phòng 501, Nhà Điều hành ĐHQG-HCM, phường Linh Trung, thành phố Thủ Đức, Thành phố Hồ Chí Minh.
+ĐT: 028 62726361
+E-mail: vnuhp@vnuhcm.edu.vn
+
+Văn phòng đại diện:
+Tòa nhà K-Trường Đại học Khoa học Xã hội & Nhân văn, số 10-12 Đinh Tiên Hoàng, phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh
+ĐT: 028 62726390
+Website: www.vnuhcmpress.edu.vn
+
+Chịu trách nhiệm xuất bản và nội dung
+TS. ĐỖ VĂN BIÊN
+Biên tập nội dung
+PGS.TS.BS. VÕ THÀNH TOÀN
+Biên tập
+NGUYỄN THỊ NGỌC ANH
+
+Sửa bản in
+VIỄN KHUYÊN
+
+Trình bày bìa
+VÕ THỊ GIANG HƯƠNG
+
+Đối tác liên kết
+BỘ MÔN NỘI TỔNG QUÁT – ĐẠI HỌC Y DƯỢC THÀNH PHỐ HỒ CHÍ MINH
+
+Tái bản lần thứ 1. Số lượng in 3.000 cuốn, khổ 19.5 x 26 cm. Số XNĐKXB: 2676-2022/CX-BIPH/1-37/ĐHQGTPHCM. QĐXB số: 105/QĐ-NXB-TB cấp ngày 31/10/2022. In tại: Công ty TNHH Thương mại Dịch vụ Đầu tư Thành Đạt. Địa chỉ: 352/24 Lê Văn Quới, phường Bình Hưng Hoà A, quận Bình Tân, TP.HCM. Nộp lưu chiểu: Năm 2022. ISBN: 978-604-73-9234-6.
+
+Bản quyền tác phẩm đã được bảo hộ bởi Luật Xuất bản và Luật Sở hữu trí tuệ Việt Nam. Nghiêm cấm mọi hình thức xuất bản, sao chụp, phát tán nội dung khi chưa có sự đồng ý của Tác giả và Nhà xuất bản.
+
+ĐỂ CÓ SÁCH HAY, CẦN CHUNG TAY BẢO VỆ TÁC QUYỀN!
+
+**ĐẠI HỌC Y DƯỢC.THÀNH PHỐ HỒ CHÍ MINH**
+**BỘ MÔN NỘI TỔNG QUÁT**
+
+217 Hồng Bàng - Phường 11 - Quận 5 - TP. Hồ Chí Minh
+Điện thoại: (028) 38535125 - Email: bomonnoikhoaytphcm@ump.edu.vn
+
+[Hình: Mã vạch]
+NXBĐHQG-HCM
+ISBN 978-604-73-9234-6
+9 786047 392346
+Giá: 220.000 đ
