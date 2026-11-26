@@ -24,12 +24,18 @@ from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 
+try:
+    import readline  # noqa: F401  (giúp input() sửa dòng đúng theo UTF-8)
+except ImportError:
+    pass
+
 _ROOT = Path(__file__).resolve().parents[2]
 if str(_ROOT) not in sys.path:
     sys.path.insert(0, str(_ROOT))
 
 from src.core import common  # noqa: E402
 from src.core.prompts import render_prompt  # noqa: E402
+from src.core.quality_check import slugify_vi  # noqa: E402
 
 # ───────────────────────── Cấu hình ─────────────────────────
 
@@ -142,15 +148,17 @@ def _wait() -> None:
         input("\nNhấn Enter để quay lại menu...")
 
 
+def _fix_surrogates(text: str) -> str:
+    if not re.search(r"[\ud800-\udfff]", text):
+        return text
+    try:
+        return text.encode("utf-8", "surrogateescape").decode("utf-8")
+    except UnicodeDecodeError:
+        text = re.sub(r"[\ud800-\udfff]", "", text)
+        return unicodedata.normalize("NFC", text)
+
+
 # ───────────────────────── Tiện ích văn bản ─────────────────────────
-
-
-def slugify(text: str) -> str:
-    text = text.replace("đ", "d").replace("Đ", "D")
-    text = unicodedata.normalize("NFKD", text)
-    text = "".join(c for c in text if not unicodedata.combining(c))
-    text = re.sub(r"[^A-Za-z0-9]+", "-", text).strip("-").lower()
-    return text or "bai"
 
 
 def norm(text: str) -> str:
@@ -595,7 +603,13 @@ def generate_lesson(
     title: str, body: str, *, subject: str, subject_label: str, group_id: int,
     so_cau: int, note_path: str | None, source: str, overwrite: bool = False,
 ) -> Path:
-    exam_id = slugify(title)
+    exam_id = slugify_vi(
+        title,
+        fallback="bai",
+        max_length=None,
+        normalization="NFKD",
+        remove_combining_marks=True,
+    )
     out_path = OUT_ROOT / subject / f"{exam_id}.json"
     if out_path.exists() and not overwrite:
         print(f"  ↷ Bỏ qua (đã có): {out_path.name}")
@@ -646,11 +660,18 @@ def generate_lesson(
 def _ask(prompt: str, default: str = "") -> str:
     suffix = f" [{default}]" if default else ""
     try:
-        value = input(f"{prompt}{suffix}: ").strip()
+        value = _fix_surrogates(input(f"{prompt}{suffix}: ")).strip()
     except EOFError:
         print()
         return default
     return value or default
+
+
+def _default_subject_display_name(raw_subject: str) -> str:
+    raw_subject = unicodedata.normalize("NFC", raw_subject.strip())
+    if re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", raw_subject):
+        return raw_subject.replace("-", " ").title()
+    return raw_subject
 
 
 def parse_selection(text: str, n: int) -> list[int]:
@@ -669,12 +690,15 @@ def parse_selection(text: str, n: int) -> list[int]:
 
 
 def _ask_settings() -> dict:
-    subject = ""
-    while not subject:
-        subject = slugify(_ask("Môn (slug, vd noi-tiet)"))
-        if subject == "bai":
-            subject = ""
-    label = _ask("Tên hiển thị của môn", subject.replace("-", " ").title())
+    while True:
+        raw_subject = _ask("Môn (slug, vd noi-tiet)")
+        subject = slugify_vi(raw_subject)
+        if subject:
+            break
+    label = _ask(
+        "Tên hiển thị của môn",
+        _default_subject_display_name(raw_subject),
+    )
     print("Nhóm môn của câu hỏi:")
     for gid, name in GROUPS.items():
         print(f"  {gid}. {name}")
@@ -714,7 +738,14 @@ def run_from_lessons() -> int:
     titles = [read_lesson(p)[0] for p in files]
     print("\nDanh sách bài (✔ = đã có câu hỏi):")
     for i, (p, t) in enumerate(zip(files, titles), 1):
-        mark = "✔" if (OUT_ROOT / settings["subject"] / f"{slugify(t)}.json").exists() else " "
+        title_slug = slugify_vi(
+            t,
+            fallback="bai",
+            max_length=None,
+            normalization="NFKD",
+            remove_combining_marks=True,
+        )
+        mark = "✔" if (OUT_ROOT / settings["subject"] / f"{title_slug}.json").exists() else " "
         print(f"  {i:>2}. [{mark}] {t}")
     picked = parse_selection(_ask("Chọn bài (vd 1,3-5 hoặc all)", "all"), len(files))
     if not picked:
@@ -730,7 +761,16 @@ def run_from_lessons() -> int:
         print(f"\n▶ {title}")
         try:
             relative = path.relative_to(lesson_dir).with_suffix("")
-            note_path = "/".join(slugify(part) for part in relative.parts)
+            note_path = "/".join(
+                slugify_vi(
+                    part,
+                    fallback="bai",
+                    max_length=None,
+                    normalization="NFKD",
+                    remove_combining_marks=True,
+                )
+                for part in relative.parts
+            )
             written.append(generate_lesson(
                 title, body, note_path=note_path, source="giang_bai", overwrite=overwrite, **settings,
             ))
@@ -755,14 +795,20 @@ def _outline_from_notebooklm(chu_de: str) -> list[str]:
 
 
 def run_from_topic() -> int:
-    chu_de = _ask("Vui lòng nhập chủ đề mới")
+    chu_de = unicodedata.normalize("NFC", _ask("Vui lòng nhập chủ đề mới"))
     if not chu_de:
         print("✖ Chưa nhập chủ đề.")
         return 1
     settings = _ask_settings()
     overwrite = _ask("Ghi đè nếu đã có? [y/N]", "n").lower().startswith("y")
 
-    exam_id = slugify(chu_de)
+    exam_id = slugify_vi(
+        chu_de,
+        fallback="bai",
+        max_length=None,
+        normalization="NFKD",
+        remove_combining_marks=True,
+    )
     if (OUT_ROOT / settings["subject"] / f"{exam_id}.json").exists() and not overwrite:
         print(f"↷ Đã có câu hỏi cho chủ đề này: {exam_id}.json")
         return 0
@@ -820,6 +866,9 @@ MENU_TEXT = """\
 
 
 def main() -> int:
+    for stream in (sys.stdin, sys.stdout, sys.stderr):
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8", errors="replace")
     code = 0
     try:
         print(MENU_TEXT)

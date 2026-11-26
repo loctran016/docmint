@@ -177,6 +177,16 @@
 - Không dùng `except BaseException` trong code mới hoặc refactor; chỉ bắt ngoại lệ cụ thể hoặc ít nhất `Exception` với lý do xử lý rõ ràng.
 - Code cũ hiện còn vi phạm quy tắc này sẽ được sửa dần trong công việc liên quan. Không tự sửa rộng ra ngoài phạm vi nhiệm vụ.
 
+## Xử lý văn bản tiếng Việt (bắt buộc)
+
+- Mọi thao tác tạo slug / tên file / tên thư mục từ chữ tiếng Việt PHẢI dùng helper chung `slugify_vi` trong `src/core/quality_check.py`. Không viết hàm slug mới, không tự dùng regex `[^a-z0-9]` trên chuỗi còn dấu.
+- Tên hiển thị (display name / label) giữ nguyên tiếng Việt có dấu theo input của người dùng. Chỉ suy ra tên từ slug khi input vốn là slug không dấu.
+- Mọi chỗ nhập từ bàn phím (`input()`, `read`) phải: `import readline`, qua `_fix_surrogates` (xử lý surrogate), và luồng stdin/stdout/stderr cấu hình UTF-8 như cách `cau_hoi_llm.py` / `exam_solver.py` đang làm. Script bash/WSL dùng `read -e -r` và locale UTF-8 (`LC_ALL=C.UTF-8`).
+- Chuẩn hoá Unicode NFC trước khi so sánh/lưu chuỗi; luôn đọc/ghi file với `encoding="utf-8"` và `ensure_ascii=False` khi ghi JSON.
+- Không nối chuỗi tiếng Việt vào lệnh shell; dùng `pathlib.Path` hoặc truyền danh sách đối số, và quote biến đầy đủ.
+- Khi thêm hoặc sửa bất kỳ luồng nào nhận tên môn/chủ đề/bài từ người dùng, PHẢI thêm hoặc cập nhật test hồi quy với tối thiểu các ví dụ: "Nội Tiết" → `noi-tiet` (hiển thị "Nội Tiết"), "Đái tháo đường" → `dai-thao-duong`, "Tim mạch" → `tim-mach`, "noi-tiet" → `noi-tiet` (tên mặc định "Noi Tiet").
+- Trước khi sửa lỗi tiếng Việt ở một mục menu, rà soát toàn repo (grep `slugify`, `input(`, `read -`) để sửa mọi mục dùng cùng cách, không chỉ mục đang xét.
+
 ## GitHub Actions
 
 - Cập nhật lời gọi script workflow tới `src/notebook/...`, `src/ingest/...` và `src/llm/...`.

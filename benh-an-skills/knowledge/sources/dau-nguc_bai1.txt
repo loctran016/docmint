@@ -1,0 +1,305 @@
+Bài 1. TIẾP CẬN BỆNH NHÂN ĐAU NGỰC
+ThS.BS. Nguyễn Đình Quốc Anh, TS.BS. Hoàng Văn Sỹ
+
+(Bản chép lại từ đoạn người dùng gửi, đã bỏ ký hiệu LaTeX. Nên thay bằng file gốc của bạn khi chạy kiểm tra.)
+
+MỤC TIÊU HỌC TẬP
+
+Trình bày các tính chất quan trọng cần khai thác khi hỏi bệnh ở bệnh nhân đau ngực.
+Trình bày các dấu hiệu cần lưu ý khi thăm khám bệnh nhân đau ngực.
+Trình bày các nguyên nhân gây đau ngực.
+Trình bày được các bước tiếp cận một bệnh nhân đau ngực.
+NỘI DUNG BÀI GIẢNG 1. GIỚI THIỆU Đau ngực là một trong những triệu chứng thường gặp nhất ở những bệnh nhân nhập cấp cứu. Đau ngực có thể là biểu hiện của một tình trạng bệnh không quan trọng, không nguy hiểm nhưng cũng có thể là biểu hiện của tình trạng bệnh tim mạch cấp tính, trầm trọng, nguy hiểm đến tính mạng. Việc tiếp cận một bệnh nhân đau ngực gặp nhiều thách thức vì có rất nhiều nguyên nhân gây đau ngực nhưng chỉ một số ít trong đó là nguy hiểm. Chính vì vậy, cần khai thác bệnh sử đầy đủ, khám thực thể kỹ lưỡng, chỉ định các cận lâm sàng cần thiết để có thể chẩn đoán chính xác nguyên nhân đau ngực.
+
+2. HỎI BỆNH SỬ Hỏi bệnh sử cần khai thác đầy đủ các tính chất của đau ngực bao gồm:
+
+Kiểu đau: nhói như dao đâm, siết chặt, đè ép, như xé, âm ỉ...
+Cường độ đau: nhiều hay ít
+Vị trí đau: sau xương ức, trên xương ức, mỏm tim...
+Hướng lan: vai, cổ, hàm, cánh tay, sau lưng...
+Thời gian kéo dài: vài phút, vài giờ, nhiều ngày...
+Yếu tố khởi phát: gắng sức, xúc động mạnh, ăn uống, khi hít vào, khi xoay trở...
+Yếu tố giảm đau: ngưng mọi hoạt động, ngồi cúi ra phía trước, dùng nitroglycerin, dùng antacid...
+Triệu chứng đi kèm: vã mồ hôi, mệt, khó thở, buồn nôn, sốt, ho, tê đầu chi...
+2.1. Kiểu đau Kiểu đau là yếu tố then chốt trong việc đánh giá khả năng mắc bệnh tim phổi nghiêm trọng, đặc biệt là hội chứng mạch vành cấp.
+
+Đau kiểu siết chặt, đè ép được xem là biểu hiện điển hình của cơn đau thắt ngực do thiếu máu cục bộ cơ tim. Tuy nhiên, cần lưu ý rằng một số bệnh nhân thiếu máu cục bộ cơ tim lại than phiền về triệu chứng khó thở hoặc cảm giác lo lắng mơ hồ hơn là triệu chứng đau ngực.
+
+Đau ngực khi ho, khi hít thở sâu (đau ngực kiểu màng phổi) gợi ý các bệnh liên quan đến màng phổi như: viêm phổi, thuyên tắc phổi, viêm màng ngoài tim. Đau ngực trong viêm màng ngoài tim hoặc thuyên tắc phổi lớn đôi khi lại đau kiểu đè ép và rất khó phân biệt với đau thắt ngực do thiếu máu cục bộ cơ tim.
+
+Đau kiểu xé, như dao đâm thường gặp ở những bệnh nhân có bóc tách động mạch chủ cấp. Đau kiểu nóng rát gợi ý bệnh trào ngược dạ dày-thực quản nhưng cũng có thể xảy ra ở bệnh nhân thiếu máu cục bộ cơ tim.
+
+2.2. Vị trí đau và hướng lan
+
+Đau sau xương ức lan lên cổ, hàm, vai hoặc cánh tay điển hình cho đau thắt ngực do thiếu máu cục bộ cơ tim. Đau thắt ngực ít khi khu trú chỉ bằng một đầu ngón tay. Đau thắt ngực cũng có thể đau ở thượng vị nhưng hiếm khi đau vượt quá hàm dưới hoặc dưới rốn.
+
+Đau ngực do bệnh thực quản thường đau sau xương ức, tuy nhiên các bệnh lý tiêu hóa khác lại thường đau nhiều nhất ở bụng hoặc thượng vị lan lên ngực.
+
+Đau ngực dữ dội lan ra sau lưng, đặc biệt giữa hai xương bả vai, nên nghĩ đến bóc tách động mạch chủ cấp.
+
+2.3. Yếu tố khởi phát và thời gian đau
+
+Đau ngực do thiếu máu cục bộ cơ tim thường nặng dần trong vài phút, tăng khi gắng sức, giảm khi nghỉ ngơi. Ngược lại, đau ngực có cường độ đạt đỉnh ngay từ đầu thường gợi ý bóc tách động mạch chủ, thuyên tắc phổi, tràn khí màng phổi tự phát. Đau ngực chỉ kéo dài một vài giây hoặc hằng định về cường độ trong một thời gian dài (nhiều giờ đến nhiều ngày) hiếm khi do thiếu máu cục bộ cơ tim. Đau ngực do bệnh trào ngược dạ dày-thực quản thường xảy ra vào sáng sớm do lúc đó không còn thức ăn để trung hòa acid dạ dày.
+
+2.4. Yếu tố tăng hay giảm đau
+
+Bệnh nhân đau ngực do thiếu máu cục bộ cơ tim thường thích ngồi nghỉ ngơi hoặc tạm dừng đi bộ để giảm đau.
+
+Đau ngực có cường độ thay đổi liên quan đến tư thế hoặc cử động chi trên và cổ thường gợi ý đến các nguyên nhân về cơ xương khớp, ít khi do thiếu máu cục bộ cơ tim.
+
+Đau ngực trong viêm màng ngoài tim thường nặng hơn khi nằm ngửa và giảm đau khi ngồi cúi người ra phía trước.
+
+Đau khởi phát do ăn uống thường do các nguyên nhân tiêu hóa như loét dạ dày, viêm túi mật, viêm tụy. Tuy nhiên, ở những bệnh nhân có bệnh động mạch vành nặng, sự tái phân bố máu đến nội tạng sau bữa ăn có thể khởi phát cơn đau thắt ngực sau ăn. Đau do bệnh trào ngược dạ dày-thực quản có thể khởi phát do rượu, một số loại thức ăn hoặc tư thế nằm ngửa. Đau ngực do bệnh trào ngược dạ dày-thực quản hoặc loét dạ dày thường giảm khi dùng thuốc giảm tiết acid dạ dày và thường không liên quan đến gắng sức. Đau ngực giảm trong vòng vài phút khi dùng nitroglycerin gợi ý thiếu máu cục bộ cơ tim, tuy nhiên cũng có thể gặp trong co thắt thực quản.
+
+2.5. Triệu chứng kèm theo
+
+Các triệu chứng kèm theo trong thiếu máu cục bộ cơ tim bao gồm: vã mồ hôi, khó thở, buồn nôn, mệt mỏi, choáng váng, ợ hơi. Khó thở có thể gặp trong nhiều bệnh cảnh khác nhau gây đau ngực nên không giúp chẩn đoán phân biệt, tuy nhiên khó thở là dấu hiệu gợi ý các nguyên nhân đau ngực do bệnh tim phổi. Suy hô hấp khởi phát đột ngột cần nghĩ đến thuyên tắc phổi, tràn khí màng phổi tự phát. Ho ra máu có thể xảy ra ở bệnh nhân thuyên tắc phổi, trong khi ho khạc đàm bọt hồng thường gặp trong suy tim nặng. Sự xuất hiện của ngất hoặc tiền ngất cần nghĩ đến thuyên tắc phổi, bóc tách động mạch chủ, rối loạn nhịp do thiếu máu cục bộ cơ tim. Mặc dù buồn nôn và nôn thường gợi ý bệnh lý tiêu hóa nhưng cũng có thể xảy ra trong bệnh cảnh nhồi máu cơ tim (thường là nhồi máu cơ tim thành dưới) do kích hoạt phản xạ phế vị hoặc kích thích các thụ thể thất trái trong phản xạ Bezold – Jarisch.
+
+3. TIỀN CĂN
+
+Tiền căn cần chú ý đánh giá các yếu tố nguy cơ bệnh mạch vành (hút thuốc lá, tăng huyết áp, đái tháo đường, rối loạn lipid máu...), các yếu tố nguy cơ của thuyên tắc huyết khối tĩnh mạch (ung thư, bất động, nằm lâu, hậu phẫu...) hoặc các bệnh lý liên quan (bệnh mạch vành, bệnh tự miễn, bệnh tiêu hóa, hội chứng Marfan, trầm cảm...). Những bệnh nhân trẻ tuổi thường ít có nguy cơ của bệnh lý mạch vành cần khai thác thêm tiền căn sử dụng thuốc gây nghiện (cocaine).
+
+4. KHÁM THỰC THỂ
+
+Khám thực thể cung cấp thêm thông tin để xác định nguyên nhân đau ngực và phát hiện các bệnh lý liên quan. Tuy nhiên, khám thực thể có thể bình thường ở những bệnh nhân bị hội chứng vành cấp.
+
+4.1. Tổng quát
+
+Khám tổng quát giúp đánh giá ban đầu mức độ nặng của bệnh. Bệnh nhân bị nhồi máu cơ tim hoặc bệnh tim phổi cấp tính thường lo lắng, khó chịu, xanh tím, vã mồ hôi. Hình dạng cơ thể đôi khi cũng giúp ích. Bệnh nhân hội chứng Marfan thường là nam giới, trẻ tuổi, cao, gầy với tràn khí màng phổi tự phát.
+
+4.2. Sinh hiệu
+
+Các dấu hiệu sinh tồn như: mạch, huyết áp, nhiệt độ, tần số thở hay độ bão hòa Oxy trong máu ngoại vi (chỉ số SpO2) rất quan trọng và cần thiết trong đánh giá tình trạng, chẩn đoán cũng như thái độ xử trí bệnh nhân. Những dấu hiệu sinh tồn cần được theo dõi và đánh giá thường xuyên theo diễn tiến của bệnh nhân.
+
+Nhịp tim nhanh và tụt huyết áp là những dấu hiệu về huyết động học quan trọng, cần đánh giá nhanh để phát hiện các tình trạng bệnh nặng như nhồi máu cơ tim với biến chứng choáng tim, thuyên tắc phổi diện rộng, viêm màng ngoài tim cấp với tràn dịch màng ngoài tim gây chèn ép tim cấp hoặc tràn khí màng phổi áp lực.
+
+Bóc tách động mạch chủ cấp thường đi kèm tình trạng tăng huyết áp nặng nhưng cũng có thể tụt huyết áp khi có tổn thương động mạch vành hoặc bóc tách vào khoang màng ngoài tim.
+
+Nhịp nhanh xoang là biểu hiện quan trọng của thuyên tắc phổi diện rộng. Nhịp tim nhanh và giảm oxy gợi ý nguyên nhân về phổi. Sốt nhẹ không phải là dấu hiệu đặc hiệu vì có thể gặp trong nhồi máu cơ tim hoặc thuyên tắc huyết khối kèm nhiễm trùng.
+
+4.3. Phổi
+
+Khám phổi giúp xác định các nguyên nhân đau ngực liên quan đến phổi như: viêm phổi, tràn khí màng phổi. Suy thất trái và các biến chứng cơ học cấp do nhồi máu cơ tim có thể dẫn đến phù phổi cấp.
+
+4.4. Tim
+
+Xung động tĩnh mạch cảnh thường bình thường ở bệnh nhân hội chứng vành cấp nhưng cũng có thể bất thường trong chèn ép tim hoặc suy thất phải cấp tính. Khám tim có thể nghe được tiếng T3, T4 trong suy tim. Âm thổi của hở van hai lá hoặc âm thổi thô ráp của thông liên thất có thể gợi ý đến biến chứng cơ học của nhồi máu cơ tim cấp. Âm thổi của hở van động mạch chủ có thể là biến chứng của bóc tách động mạch chủ đoạn lên. Các âm thổi khác giúp gợi ý bệnh tim nền làm nặng thêm tình trạng thiếu máu cục bộ cơ tim như hẹp van động mạch chủ, bệnh cơ tim phì đại... Tiếng cọ màng ngoài tim gặp trong viêm màng ngoài tim giai đoạn đầu khi chưa có tràn dịch màng ngoài tim.
+
+4.5. Bụng
+
+Xác định được điểm đau khi khám bụng giúp hướng đến các nguyên nhân về tiêu hóa gây đau ngực. Bất thường khi khám bụng ít gặp trong các nguyên nhân về tim phổi cấp tính gây đau ngực, tuy nhiên trong trường hợp có bệnh tim phổi mạn tính hoặc suy thất phải nặng có thể khám thấy gan to do sung huyết.
+
+4.6. Mạch máu
+
+Biểu hiện của tình trạng thiếu máu nuôi chi cấp tính là mất mạch và tím, đặc biệt là chi trên, có thể gợi ý bóc tách động mạch chủ. Sưng phù chỉ ở một bên chi dưới giúp hướng đến thuyên tắc huyết khối tĩnh mạch.
+
+4.7. Cơ xương khớp
+
+Khám cơ xương khớp có thể phát hiện sưng, đỏ, đau khu trú tại các khớp sụn sườn, sụn ức. Mặc dù ấn đau thành ngực giúp gợi ý các nguyên nhân về cơ xương khớp gây đau ngực nhưng không loại trừ hoàn toàn được thiếu máu cục bộ cơ tim. Giảm cảm giác ở chi trên có thể nghĩ đến bệnh lý liên quan đĩa đệm cột sống cổ.
+
+4.8. Khám da
+
+Cần thăm khám kỹ lưỡng các sang thương da toàn thân, đặc biệt là vùng ngực. Bệnh nhân đau ngực có thể có sang thương Herpes zoster hay sang thương viêm da có thể giúp gợi ý nguyên nhân đau ngực. Ngoài ra, cũng cần thăm khám tìm u vàng quanh mắt (xanthoma) gợi ý nguy cơ bệnh mạch vành.
+
+CẬN LÂM SÀNG
+5.1. Điện tâm đồ
+
+Điện tâm đồ đóng vai trò then chốt trong việc xác định bệnh nhân đau ngực do thiếu máu cục bộ cơ tim cũng như phát hiện các biến chứng tim mạch của các bệnh lý khác. Điện tâm đồ cần thực hiện trong vòng 10 phút sau nhập viện và nên đo lặp lại mỗi 30-60 phút ở những bệnh nhân nghi ngờ hội chứng vành cấp. Hình ảnh đoạn ST chênh xuống hoặc T âm sâu, đối xứng trên điện tâm đồ giúp gợi ý thiếu máu cục bộ cơ tim. Tuy nhiên, cần lưu ý rằng độ nhạy của điện tâm đồ đo lúc nghỉ trong chẩn đoán thiếu máu cục bộ cơ tim chỉ đạt khoảng 20%. Bất thường về ST, T có thể xảy ra trên nhiều bệnh cảnh khác nhau như: thuyên tắc phổi, phì đại thất trái, viêm màng ngoài tim, viêm cơ tim, rối loạn điện giải, rối loạn chuyển hóa. Tình trạng tăng thông khí trong rối loạn hoảng sợ có thể dẫn đến các bất thường về ST, T không đặc hiệu. Thuyên tắc phổi thường có biểu hiện nhịp nhanh xoang, có thể có trục lệch phải, sóng S ở chuyển đạo DI, sóng Q và T ở chuyển đạo DIII. ST chênh lên lan tỏa không theo giải phẫu mạch vành và đoạn PR chênh lõm xuống giúp phân biệt viêm màng ngoài tim với nhồi máu cơ tim cấp.
+
+5.2. X quang ngực
+
+X quang ngực đóng vai trò quan trọng trong việc phát hiện các bất thường về phổi như viêm phổi, áp-xe phổi, tràn khí màng phổi hay u phổi. X quang ngực thường bình thường ở bệnh nhân hội chứng vành cấp nhưng cũng có thể thấy được hình ảnh phù phổi cấp. Ngoài ra, X quang ngực còn có thể thấy được trung thất dãn rộng trong bóc tách động mạch chủ, dấu hiệu Hampton hoặc Westermark trong thuyên tắc phổi, vôi hóa màng ngoài tim trong viêm màng ngoài tim mạn.
+
+5.3. Siêu âm tim
+
+Ở những bệnh nhân chưa có chẩn đoán xác định, đặc biệt bệnh nhân trên hình ảnh điện tâm đồ có dạng ST chênh lên không đặc hiệu, triệu chứng đau ngực hay khó thở đang tiến triển, rối loạn huyết động học (mạch nhanh, huyết áp tụt hay huyết áp kẹp), siêu âm tim giúp phát hiện những rối loạn vận động vùng gợi ý đến thiếu máu tim cục bộ cấp tính hoặc chèn ép tim cấp trong tràn dịch màng ngoài tim ở bệnh nhân viêm màng ngoài tim. Siêu âm tim qua thành ngực có thể phát hiện dấu hiệu bóc tách động mạch chủ nhưng có độ nhạy thấp.
+
+5.4. Điện tâm đồ gắng sức
+
+Điện tâm đồ gắng sức thường được sử dụng để phân tầng nguy cơ mắc bệnh động mạch vành ở những bệnh nhân đánh giá ban đầu chưa tìm được nguyên nhân gây đau ngực và có nguy cơ thấp mắc hội chứng vành cấp. Vì đau ngực đang tiến triển là chống chỉ định của nghiệm pháp gắng sức nên điện tâm đồ gắng sức thường được dùng để chẩn đoán bệnh lý động mạch vành mạn.
+
+5.5. Chụp cắt lớp vi tính động mạch vành (CT)
+
+Chụp cắt lớp vi tính động mạch vành có độ nhạy cao trong phát hiện bệnh lý động mạch vành. Chụp cắt lớp vi tính cũng giúp loại trừ bóc tách động mạch chủ, tràn dịch màng ngoài tim, thuyên tắc phổi.
+
+5.6. Chụp cộng hưởng từ (MRI)
+
+Chụp cộng hưởng từ tim là một phương tiện không xâm lấn giúp đánh giá chức năng và cấu trúc của tim cũng như các mạch máu trong lồng ngực. Chụp cộng hưởng từ tim có thể phát hiện sớm nhồi máu cơ tim, xác định chính xác vùng hoại tử cơ tim, chẩn đoán các dạng bệnh cơ tim. Mặc dù ít được sử dụng trong đánh giá cấp cứu đau ngực nhưng chụp cộng hưởng từ tim có thể giúp đánh giá cấu trúc tim ở những bệnh nhân tăng troponin không do bệnh động mạch vành. Chụp cộng hưởng từ cũng cho phép đánh giá chính xác bóc tách động mạch chủ.
+
+5.7. Xét nghiệm máu
+
+Tổng phân tích tế bào máu cần thực hiện ngay lúc nhập viện. Tăng bạch cầu đa nhân trung tính hay bạch cầu lympho có thể gợi ý các nguyên nhân viêm nhiễm. Giảm hồng cầu có thể gợi ý thiếu máu mạn hay cấp.
+
+Men tim cần được xét nghiệm ngay lúc nhập viện và lặp lại mỗi 3 – 6 giờ ở tất cả bệnh nhân nghi ngờ hội chứng vành cấp. Do có độ chuyên biệt cao hơn nên troponin thường được sử dụng nhiều hơn CK-MB trong chẩn đoán nhồi máu cơ tim. Tuy nhiên, cần lưu ý rằng men tim có thể tăng trong những bệnh cảnh khác gây tổn thương cơ tim ngoài nhồi máu cơ tim như: viêm cơ tim, suy thận mạn giai đoạn cuối, thuyên tắc phổi.
+
+D-dimer tăng gợi ý đến thuyên tắc phổi. D-dimer bình thường giúp loại trừ thuyên tắc phổi.
+
+BNP hoặc NT-proBNP có vai trò tiên lượng ở bệnh nhân hội chứng mạch vành cấp hoặc thuyên tắc phổi.
+
+Bảng 1. Các nguyên nhân gây đau ngực
+
+Tim
+Bệnh động mạch vành (đau thắt ngực ổn định, đau thắt ngực không ổn định, nhồi máu cơ tim)
+Viêm màng ngoài tim, viêm cơ tim
+Mạch máu
+Phình bóc tách động mạch chủ
+Thuyên tắc phổi
+Tăng áp phổi
+Phổi
+Viêm màng phổi và/hoặc viêm phổi
+Viêm khí phế quản
+Tràn khí màng phổi
+Ung thư phổi
+Tiêu hóa
+Bệnh trào ngược dạ dày - thực quản
+Loét dạ dày - tá tràng
+Bệnh túi mật
+Viêm tụy
+Thần kinh - cơ xương khớp
+Viêm sụn sườn
+Bệnh đĩa đệm cột sống cổ
+Chấn thương
+Căng cơ
+Herpes zoster
+Tâm lý
+Rối loạn hoảng sợ
+TIẾP CẬN CÁC VẤN ĐỀ NỘI KHOA THƯỜNG GẶP
+
+NGUYÊN NHÂN
+6.1. Bệnh động mạch vành
+
+Bệnh tim thiếu máu cục bộ ổn định thường do mảng xơ vữa gây hẹp dần lòng động mạch vành. Bệnh thường xảy ra ở tuổi trung niên, trên bệnh nhân có yếu tố nguy cơ của bệnh động mạch vành. Biểu hiện điển hình của bệnh là cơn đau thắt ngực với tính chất:
+
+Đau ngay sau xương ức.
+Lan lên hầu họng, cổ, hàm, vai, mặt trong cánh tay trái, bờ trụ cẳng tay trái, đến ngón 4-5 bàn tay trái, có thể lan sang ngực phải hoặc xuống thượng vị.
+Cảm giác như siết chặt, nghiền nát.
+Cơn đau xảy ra sau gắng sức, gặp lạnh hoặc stress.
+Đau kéo dài 20 giây đến 20 phút.
+Đau giảm nhanh khi bệnh nhân ngưng mọi hoạt động hoặc ngậm nitroglycerin.
+Khi các mảng xơ vữa trong động mạch vành bị đứt vỡ, hình thành khuyết khối gây tắc nghẽn đột ngột lòng mạch vành dẫn đến hội chứng vành cấp (nhồi máu cơ tim hoặc đau thắt ngực không ổn định), bệnh nhân sẽ đau ngực dữ dội hơn. Cơn đau thường xảy ra khi nghỉ ngơi, lan rộng hơn, kéo dài hơn 20 phút và không giảm đau với nitroglycerin. Tình trạng này khiến cho bệnh nhân rất mệt, khó thở, vã mồ hôi, có thể buồn nôn và nôn.
+
+Khám thực thể có thể nghe được tiếng ngựa phi (gallop) T3, T4, âm thổi của hở van hai lá, ran ở phổi nếu nhồi máu cơ tim có biến chứng.
+
+6.2. Viêm màng ngoài tim cấp
+
+Bệnh nhân có biểu hiện nhiễm siêu vi trước đó, đau sau xương ức hoặc ngực trái, có thể lan lên vai trái, đau nhói hoặc đau kiểu màng phổi, giảm đau khi ngồi cúi người ra trước.
+
+Khám tim có thể nghe được tiếng cọ màng ngoài tim trong giai đoạn đầu khi chưa có tràn dịch màng ngoài tim. Trong giai đoạn tràn dịch màng ngoài tim, có thể nghe tiếng tim mờ, có thể có mạch nghịch khi có chèn ép tim cấp.
+
+6.3. Bóc tách động mạch chủ
+
+Bệnh nhân khởi phát đau đột ngột, dữ dội ngay từ đầu và kéo dài không giảm. Bóc tách đoạn lên của động mạch chủ gây đau vùng trước ngực trong khi bóc tách đoạn xuống gây đau giữa hai xương bả vai. Đau như xé, như dao đâm, lan sau lưng. Tiền căn tăng huyết áp hoặc bệnh lý mô liên kết như hội chứng Marfan làm tăng nguy cơ bóc tách động mạch chủ.
+
+Khám thực thể có thể thấy tăng huyết áp, âm thổi của hở van động mạch chủ, mất mạch ngoại biên.
+
+6.4. Thuyên tắc phổi
+
+Đau ngực kiểu màng phổi khởi phát đột ngột, có thể đau kiểu đè ép trong thuyên tắc phổi diện rộng, thường đau một bên ngực, có thể đau sau xương ức, kèm khó thở. Bệnh nhân có thể ho ra máu, vã mồ hôi.
+
+Khám thực thể có thể thấy thở nhanh nông, nhịp tim nhanh, tím tái, tụt huyết áp.
+
+6.5. Tăng áp động mạch phổi
+
+Đau ngực dưới xương ức kiểu đè ép, thường khởi phát khi gắng sức, kèm khó thở.
+
+Khám có thể thấy các dấu hiệu của suy tim phải.
+
+6.6. Viêm phổi, màng phổi
+
+Đau ngực kiểu màng phổi, đau một bên kèm theo khó thở, ho, sốt.
+
+Khám phổi ghi nhận có ran nổ, có thể có tiếng cọ màng phổi.
+
+6.7. Tràn khí màng phổi
+
+Đau ngực kiểu màng phổi một bên khởi phát đột ngột kèm khó thở.
+
+Khám thấy âm phế bào giảm ở bên có tràn khí màng phổi.
+
+6.8. Loét dạ dày-tá tràng
+
+Đau thượng vị hoặc sau xương ức kiểu nóng rát, liên quan đến bữa ăn, giảm đau khi ăn hoặc dùng antacid.
+
+6.9. Bệnh trào ngược dạ dày-thực quản
+
+Gây viêm thực quản, co thắt thực quản, đau sau xương ức hoặc thượng vị kiểu nóng rát, xảy ra sau khi ăn và khi nằm ngửa, kèm ợ hơi, ợ chua, khó tiêu; giảm đau khi sử dụng antacid hoặc nitroglycerin (nếu có co thắt thực quản).
+
+6.10. Bệnh túi mật
+
+Thường đau quặn bụng vùng thượng vị hoặc hạ sườn phải xảy ra sau ăn.
+
+6.11. Đau thành ngực
+
+Thường đau nhói, khu trú tại một vùng nhỏ trên thành ngực, đau tăng khi ấn vào, khi ho, hít thở hoặc cử động. Viêm dây thần kinh liên sườn do Herpes zoster gây tăng cảm và đau theo khoanh da, lan theo rễ thần kinh, xuất hiện bóng nước tại chỗ viêm.
+
+6.12. Đau ngực do nguyên nhân tâm lý
+
+Thường gặp ở bệnh nhân nữ dưới 40 tuổi, có tình trạng lo lắng căng thẳng, tiền căn trầm cảm hoặc cơn hoảng loạn. Cảm giác ê ẩm vùng mỏm tim hoặc sau xương ức kéo dài hàng giờ, có lúc nhói lên 1 - 2 giây, có thể ấn đau vùng trước tim. Bệnh nhân còn cảm thấy mệt, hồi hộp, khó thở, thở nhanh, chóng mặt, tê đầu chi.
+
+Bảng 2. Chẩn đoán phân biệt các nguyên nhân đau ngực thường gặp
+
+Đau thắt ngực	Viêm màng ngoài tim hoặc màng phổi	Trào ngược dạ dày thực quản
+Siết chặt hoặc đè ép
+Khởi phát khi gắng sức
+Giảm khi nghỉ
+Giảm khi dùng nitrate
+Không liên quan đến tư thế
+Không ảnh hưởng bởi hô hấp	Đau nhói
+Không liên quan gắng sức
+Không giảm khi nghỉ
+Không ảnh hưởng bởi nitrate
+Tăng khi nằm ngửa
+Tăng khi hít thở
+Có tiếng cọ màng tim hoặc màng phổi	Đau nóng rát
+Không liên quan gắng sức
+Không giảm khi nghỉ
+Không ảnh hưởng bởi nitrate (trừ khi kèm co thắt thực quản)
+Có thể khởi phát khi nằm ngửa
+Không ảnh hưởng bởi hô hấp
+Bảng 3. Chẩn đoán phân biệt các nguyên nhân đau ngực do tim mạch
+
+Hội chứng vành cấp	Đau thắt ngực
+Khởi phát khi nghỉ
+Đau nhiều
+Vã mồ hôi
+Lo lắng nhiều
+Không giảm với nitrate
+Có triệu chứng kèm theo (buồn nôn, nôn)	Khởi phát khi gắng sức
+Đau vừa phải
+Không vã mồ hôi
+Không lo lắng hoặc lo lắng ít
+Giảm đau với nitrate
+Không có triệu chứng kèm theo
+Nhồi máu cơ tim	Bóc tách động mạch chủ
+Đau giữa ngực
+Khởi phát bán cấp (vài phút)
+Đau nhiều	Đau lan sau lưng
+Khởi phát cấp tính
+Đau dữ dội, như xé
+Thiếu máu cục bộ cơ tim	Đau thành ngực
+Liên quan đến gắng sức
+Xảy ra khi gắng sức
+Đau từng cơn
+Đau lan
+Không điểm đau thành ngực	Liên quan đến tư thế
+Thường đau nhiều hơn khi nghỉ
+Đau kéo dài liên tục
+Đau khu trú
+Có điểm đau thành ngực
+7. SƠ ĐỒ TIẾP CẬN BỆNH NHÂN ĐAU NGỰC
+
+Sơ đồ: Sơ đồ tiếp cận bệnh nhân đau ngực
+
+Bệnh sử --> Hoàn cảnh khởi phát, kiểu đau, cường độ, vị trí, hướng lan, thời gian, yếu tố tăng giảm đau, triệu chứng đi kèm --> Khám thực thể --> Tổng quát, sinh hiệu, phổi, tim, bụng, mạch máu, cơ xương khớp
+Do tim
+Thiếu máu cục bộ cơ tim --> Hội chứng vành cấp, Cơn đau thắt ngực ổn định
+Không thiếu máu cục bộ cơ tim --> Viêm màng ngoài tim, Viêm cơ tim
+Không do tim
+Mạch máu --> Bóc tách động mạch chủ, Thuyên tắc phổi
+Phổi --> Viêm phổi, Viêm màng phổi, Tràn khí màng phổi
+Khác --> Dạ dày – ruột, Thần kinh, cơ xương khớp, Tâm lý
+Sơ đồ 1. Sơ đồ tiếp cận bệnh nhân đau ngực
+
+8. KẾT LUẬN
+
+Đau ngực gây ra do nhiều bệnh lý khác nhau với các đặc điểm và tính chất khác nhau. Khai thác bệnh sử, tiền căn và thăm khám thực thể cẩn thận giúp gợi ý chẩn đoán nguyên nhân. Đau ngực có thể là biểu hiện của tình trạng bệnh cấp tính, nguy hiểm đến tính mạng. Do đó, việc nắm rõ các bước tiếp cận giúp đưa ra quyết định nhanh chóng và kịp thời.

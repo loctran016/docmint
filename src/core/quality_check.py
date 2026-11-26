@@ -15,7 +15,7 @@ import re
 import statistics
 import unicodedata
 from pathlib import Path
-from typing import Any
+from typing import Any, Literal
 
 SENTINEL = "<<TRANG_TRONG>>"
 
@@ -67,16 +67,29 @@ def clean_exam_strings(obj: Any) -> Any:
     return obj
 
 
-def slugify_vi(text: str) -> str:
+def slugify_vi(
+    text: str,
+    *,
+    fallback: str = "",
+    max_length: int | None = 60,
+    normalization: Literal["NFD", "NFKD"] = "NFD",
+    remove_combining_marks: bool = False,
+) -> str:
     normalized = unicodedata.normalize("NFC", str(text or ""))
     normalized = normalized.replace("đ", "d").replace("Đ", "D")
-    normalized = unicodedata.normalize("NFD", normalized)
-    normalized = "".join(
-        ch for ch in normalized
-        if unicodedata.category(ch) != "Mn"
-    )
+    normalized = unicodedata.normalize(normalization, normalized)
+    if remove_combining_marks:
+        normalized = "".join(ch for ch in normalized if not unicodedata.combining(ch))
+    else:
+        normalized = "".join(
+            ch for ch in normalized
+            if unicodedata.category(ch) != "Mn"
+        )
     normalized = re.sub(r"[^A-Za-z0-9]+", "-", normalized.lower())
-    return re.sub(r"-+", "-", normalized).strip("-")[:60]
+    slug = re.sub(r"-+", "-", normalized).strip("-")
+    if not slug:
+        return fallback
+    return slug if max_length is None else slug[:max_length]
 
 
 def clean_exam_text(text: Any) -> str:
