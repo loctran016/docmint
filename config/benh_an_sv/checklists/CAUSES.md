@@ -33,3 +33,12 @@ Skill chỉ được dùng các mã trong bảng này. Nguyên nhân nào ngoài
 | CH-LIPID | Rối loạn lipid máu (yếu tố nguy cơ) | Chuyển hoá |
 | CH-DTD | Đái tháo đường (yếu tố nguy cơ/biến chứng) | Chuyển hoá |
 | CH-BEO | Thừa cân / béo phì (yếu tố nguy cơ) | Chuyển hoá |
+| TIM-VCT | Viêm cơ tim (thêm từ Bài 1 Tiếp cận đau ngực) | Tim mạch |
+| TIM-BCT | Bệnh cơ tim (vd bệnh cơ tim phì đại) (thêm từ Bài 1) | Tim mạch |
+| PHOI-TAP | Tăng áp động mạch phổi (thêm từ Bài 1) | Hô hấp |
+| PHOI-KPQ | Viêm khí phế quản (thêm từ Bài 1) | Hô hấp |
+| PHOI-UNG | Ung thư phổi (thêm từ Bài 1) | Hô hấp |
+| TH-TUIMAT | Bệnh túi mật (thêm từ Bài 1) | Tiêu hoá |
+| TH-TUY | Viêm tụy (thêm từ Bài 1) | Tiêu hoá |
+| TT-DIADEM | Bệnh đĩa đệm cột sống cổ (thêm từ Bài 1) | Thành ngực/da |
+| TAMLY | Nguyên nhân tâm lý (rối loạn hoảng sợ, lo âu) (thêm từ Bài 1) | Tâm lý |

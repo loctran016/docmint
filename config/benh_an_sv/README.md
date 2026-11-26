@@ -1,47 +1,32 @@
-# Bộ skill bệnh án sinh viên (phần I–VI)
+# Bộ skill bệnh án sinh viên (phần I–VI), bản v2
 
 ## Gồm những gì
-- `skills/benh-an-trich-xuat` — phần I–V: trích xuất, đối chiếu checklist, phát hiện thiếu sót.
-- `skills/benh-an-ma-tran-nguyen-nhan` — ma trận nguyên nhân × triệu chứng, giả thuyết thống nhất (H-U) vs hai bệnh chồng (H-D).
-- `skills/benh-an-kham-lam-sang` — phần VI: khám thường quy + dấu hiệu nhấn mạnh theo giả thuyết.
-- `checklists/` — dữ liệu đầu vào AI phải chọn từ đó (đây là phần chống bịa chính): `INDEX.md`, `CAUSES.md`, `_TEMPLATE.md`, `dau-nguc.md`, `kho-tho.md`.
+- `skills/benh-an-trich-xuat`: phần I–V (hành chính, lý do nhập viện, bệnh sử có one-liner và mốc thời gian, tiền căn, lược cơ quan), đối chiếu checklist.
+- `skills/benh-an-ma-tran-nguyen-nhan`: **biện luận theo bảng của bộ môn** (hỏi bệnh/khám/tiền căn × chẩn đoán ứng viên, hàng "lựa chọn chẩn đoán"). Giữ tên thư mục cũ để code không phải đổi.
+- `skills/benh-an-kham-lam-sang`: đề nghị khám và nghiệm pháp từ các dòng chẩn đoán và loại trừ của nguyên nhân còn nghi.
+- `skills/benh-an-trich-kien-thuc`: trích kiến thức từ một chương sách vào file kiến thức.
+- `checklists/`: câu hỏi để không bỏ sót triệu chứng (`dau-nguc.md`, `kho-tho.md`), `CAUSES.md` (mã nguyên nhân dùng chung), `INDEX.md`.
+- `knowledge/`: kiến thức theo nguyên nhân từ sách của bạn. `dau-nguc.md` (từ Bài 1), `_TEMPLATE.md`, `INDEX.md`, `sources/` (văn bản chương), `_old/` (bản v1).
+- `tools/kiem_tra_kien_thuc.py`: kiểm tra trích dẫn có thật trong chương, mã hợp lệ, giá trị Loại hợp lệ.
 
-## Cách dùng với DeepSeek (thinking mode cao nhất)
-Chạy 3 lượt, mỗi lượt một skill. Với mỗi lượt, dán: nội dung SKILL.md + `INDEX.md` + `CAUSES.md` + các file checklist liên quan + (lượt 1) bệnh án đã ẩn danh / (lượt 2–3) kết quả lượt trước.
+## Cấu trúc kiến thức (theo nguyên nhân)
+Mỗi nguyên nhân có một khối. Mỗi dòng gắn Nguồn dữ kiện (BS bệnh sử, TC tiền căn, K khám, CLS) và Loại (G gợi ý, C chẩn đoán, L loại trừ, IN ít nghĩ, LY lưu ý, CPL chưa phân loại). Khám lâm sàng được đề nghị từ các dòng K loại C và L của nguyên nhân còn nghi.
 
-Prompt mẫu lượt 1:
-```
-Làm theo skill dưới đây. Chỉ dùng dữ kiện có trong bệnh án; thiếu thì ghi CHƯA KHAI THÁC.
-[dán SKILL.md benh-an-trich-xuat]
-[dán INDEX.md, CAUSES.md, checklist liên quan]
-BỆNH ÁN:
-[dán bệnh án]
-```
-Nếu bạn chạy DS trong một agent có đọc thư mục skills thì chỉ cần để nguyên cấu trúc thư mục, không cần dán.
+## Chạy tay (khi code chưa chạy được)
+Chạy 3 lượt với DeepSeek hoặc Claude. Mỗi lượt dán: SKILL.md của bước đó, `checklists/CAUSES.md`, checklist và file kiến thức của triệu chứng, rồi dữ liệu của bước:
+1. `benh-an-trich-xuat` + bệnh án ẩn danh.
+2. `benh-an-ma-tran-nguyen-nhan` + kết quả lượt 1.
+3. `benh-an-kham-lam-sang` + kết quả lượt 2 + bệnh án (để lấy phần khám).
+Sau đó dán cả bốn thứ (bệnh án, 3 kết quả) sang Claude để kiểm tra chéo và viết tiếp VII–XIII.
 
-## Cách thêm checklist mới
-1. Lấy checklist gốc của bạn (từ giáo trình/giảng viên) cho triệu chứng mới, vd "Sốt", "Đau bụng".
-2. Sao chép `checklists/_TEMPLATE.md` thành `<ten-trieu-chung>.md`; đặt tiền tố ID 2 chữ cái chưa dùng (DN, KT đã dùng).
-3. Chuyển từng câu hỏi thành một dòng có ID cố định (XX-01, XX-02...). Mỗi dòng một ý có thể trả lời CÓ/KHÔNG.
-4. Cột "Gộp với": ghi ID của mục trùng ở checklist khác (vd Ho = KT-10). Đây là cách xử lý triệu chứng chồng lấp.
-5. Cột thẻ: ghi mã từ `CAUSES.md`. Nguyên nhân mới → thêm vào `CAUSES.md` trước (không đổi tên mã cũ). Chỉ gắn thẻ khi giáo trình ghi rõ; chưa chắc thì để "—".
-6. Điền mục D (nguyên nhân gây triệu chứng) và mục E (khám lâm sàng nên tìm). Giữ `trang_thai_the: NHAP` tới khi bạn đối chiếu xong, rồi đổi thành `DA_RA_SOAT`.
-7. Thêm một dòng vào `INDEX.md`.
-
-Prompt nhờ AI chuyển checklist thô sang mẫu (AI chỉ chuyển dạng, không thêm nội dung):
-```
-Chuyển checklist thô dưới đây sang định dạng _TEMPLATE.md. Quy tắc: không thêm câu hỏi, không thêm nguyên nhân hay dấu hiệu nào không có trong văn bản gốc; mục không rõ thẻ thì để "—"; mã nguyên nhân chỉ lấy từ CAUSES.md, nếu cần mã mới thì liệt kê riêng ở cuối để tôi duyệt.
-[dán _TEMPLATE.md, CAUSES.md, INDEX.md]
-CHECKLIST THÔ:
-[dán checklist]
-```
-
-## Gửi sang Claude kiểm tra chéo
-```
-Đây là bệnh án ẩn danh, checklist, và kết quả DS đã làm. Hãy kiểm tra: (1) có dữ kiện nào DS nêu mà bệnh án không có; (2) mục nào ghi KHÔNG trong khi bệnh án chỉ im lặng; (3) giả thuyết H-U/H-D có bỏ sót hay ép gộp; (4) thẻ/dấu hiệu khám nào sai so với kiến thức chuẩn. Chỉ ra từng lỗi kèm trích dẫn.
-```
+## Thêm kiến thức cho một triệu chứng
+1. Lưu văn bản chương thành `knowledge/sources/<trieu-chung>_<bai>.txt` (nên dùng file gốc hoặc OCR của bạn).
+2. Đưa AI: skill `benh-an-trich-kien-thuc` + `knowledge/_TEMPLATE.md` + `checklists/CAUSES.md` + checklist của triệu chứng + văn bản chương. Lưu kết quả thành `knowledge/<trieu-chung>.md`.
+3. Duyệt "mã đề xuất" AI nêu, thêm vào `checklists/CAUSES.md`; thêm một dòng vào `knowledge/INDEX.md`.
+4. Chạy: `python tools/kiem_tra_kien_thuc.py knowledge/<trieu-chung>.md --nguon knowledge/sources/<trieu-chung>_<bai>.txt --causes checklists/CAUSES.md`
+5. Duyệt cột Loại, các dòng "[mã suy ra]" và CPL; xong thì đổi `trang_thai` thành DA_RA_SOAT.
 
 ## Lưu ý
-- Thẻ "ủng hộ/ít nghĩ" và mục E khám lâm sàng do Claude gắn dựa trên ghi chú trong checklist gốc của bạn: đang NHÁP, cần đối chiếu giáo trình/giảng viên.
-- Chưa chạy thử với DS. Nên thử một bệnh án đã biết đáp án rồi chỉnh.
-- Về sau tham khảo thêm: github.com/JuneYaooo/awesome-medical-ai-skills và github.com/FreedomIntelligence/OpenClaw-Medical-Skills.
+- Kiểm tra tự động chỉ chứng minh trích dẫn có trong sách, không chứng minh sách đúng hay Loại được xếp hợp lý.
+- Bản chép chương trong `knowledge/sources/dau-nguc_bai1.txt` do Claude chép lại từ đoạn bạn gửi; hãy thay bằng file gốc rồi chạy lại kiểm tra.
+- `benh_an_sv.py` hiện chỉ nạp checklist và CAUSES, chưa nạp `knowledge/`. Xem HUONG_DAN_TIEP_THEO.md để nối.

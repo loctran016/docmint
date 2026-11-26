@@ -11,6 +11,7 @@ Mọi input/output nằm trong thư mục toolkit (hoặc thư mục đầu ra b
 Mục [5] gọi process_book.py (PDF scan -> Markdown bằng Gemini). Mục [13] là lớp biên tập văn phong (bien_tap.py).
 """
 import getpass
+import logging
 import json
 import os
 import platform
@@ -18,6 +19,7 @@ import re
 import shutil
 import subprocess
 import sys
+from importlib import metadata
 from pathlib import Path
 
 os.environ.setdefault("PYTHONUNBUFFERED", "1")
@@ -1021,6 +1023,32 @@ def handle_pending_feature(title):
     pause()
 
 
+def _log_benh_an_sv_environment(benh_an_sv, cfg, skills_dir):
+    logger = logging.getLogger(__name__)
+    logger.debug("=== Môi trường ===")
+    logger.debug("Python: %s", sys.version.replace("\n", " "))
+    logger.debug("File benh_an_sv.py: %s", Path(benh_an_sv.__file__).resolve())
+    logger.debug("Config.skills_dir: %s (tồn tại: %s)", skills_dir, skills_dir.is_dir())
+    logger.debug("Config.model: %s", cfg.model)
+    logger.debug("Config.effort: %s", cfg.effort)
+    logger.debug("DEEPSEEK_API_KEY: %s", "có" if os.getenv("DEEPSEEK_API_KEY") else "không")
+    for package in ("openai", "PyMuPDF"):
+        try:
+            package_version = metadata.version(package)
+        except metadata.PackageNotFoundError:
+            package_version = "chưa cài"
+        logger.debug("%s: %s", package, package_version)
+
+    for name in ("skills", "checklists"):
+        directory = skills_dir / name
+        if not directory.is_dir():
+            logger.debug("%s/: (không tồn tại)", name)
+            continue
+        files = sorted(path.relative_to(directory).as_posix()
+                       for path in directory.rglob("*") if path.is_file())
+        logger.debug("%s/: %s", name, ", ".join(files) if files else "(không có file)")
+
+
 def run_benh_an_sv():
     clear()
     print(f"{B}== Phân tích bệnh án sinh viên =={R}\n")
@@ -1056,19 +1084,71 @@ def run_benh_an_sv():
     if not out_dir.is_absolute():
         out_dir = common.ROOT_DIR / out_dir
 
-    args = ["-m", "src.llm.benh_an_sv", str(case_path),
-            "--out", str(out_dir), "--effort", effort]
-    if symptoms_input:
-        args += ["--symptoms", symptoms_input]
-    elif ly_do:
-        args += ["--ly-do", ly_do]
-    if ask("  Chạy lại từ đầu, bỏ kết quả cũ? [y/N] ").lower().startswith("y"):
-        args.append("--force")
+    force = ask("  Chạy lại từ đầu, bỏ kết quả cũ? [y/N] ").lower().startswith("y")
 
-    rc = exec_uv(*args)
-    if rc == 0:
+    from src.llm import benh_an_sv
+
+    cfg = benh_an_sv.Config(effort=effort)
+    log_dir = out_dir / case_path.stem
+    log_dir.mkdir(parents=True, exist_ok=True)
+    log_path = log_dir / "benh_an_sv.log"
+    file_handler = logging.FileHandler(log_path, mode="w", encoding="utf-8")
+    file_handler.setLevel(logging.DEBUG)
+    file_handler.setFormatter(logging.Formatter(
+        "%(asctime)s %(levelname)s %(name)s: %(message)s"
+    ))
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
+    console_handler.addFilter(lambda record: not record.exc_info)
+    console_handler.setFormatter(logging.Formatter("  %(message)s"))
+
+    root_logger = logging.getLogger()
+    old_handlers = root_logger.handlers[:]
+    old_level = root_logger.level
+    for handler in old_handlers:
+        root_logger.removeHandler(handler)
+    root_logger.setLevel(logging.DEBUG)
+    root_logger.addHandler(file_handler)
+    root_logger.addHandler(console_handler)
+
+    try:
+        skills_dir = cfg.skills_dir.resolve()
+        _log_benh_an_sv_environment(benh_an_sv, cfg, skills_dir)
+        symptoms = [item.strip() for item in symptoms_input.split(",") if item.strip()] or None
+        result = benh_an_sv.run_pipeline(
+            case_path,
+            out_dir,
+            symptoms=symptoms,
+            cfg=cfg,
+            force=force,
+            chief_complaint=ly_do or None,
+        )
+    except benh_an_sv.ScannedPdfError as exc:
+        logging.getLogger(__name__).exception("run_pipeline() thất bại")
+        print(f"\n  PDF có vẻ là bản scan, chưa có lớp chữ: {exc}\n"
+              "  Hãy OCR trước (mục [4]) rồi chọn file đã OCR.")
+        print(f"  Lỗi {type(exc).__name__}: {exc} | Log: {log_path}")
+    except benh_an_sv.BenhAnError as exc:
+        logging.getLogger(__name__).exception("run_pipeline() thất bại")
+        print(f"\n  Không thể phân tích bệnh án: {exc}")
+        print(f"  Lỗi {type(exc).__name__}: {exc} | Log: {log_path}")
+    except Exception as exc:
+        logging.getLogger(__name__).exception("run_pipeline() thất bại")
+        print(f"\n  Lỗi {type(exc).__name__}: {exc} | Log: {log_path}")
+    else:
         print(f"\n  Kết quả nằm trong: {out_dir / case_path.stem}")
         print("  Mở file 04_gui_claude.md để dán sang Claude kiểm tra chéo.")
+        print("\n  Các file kết quả:")
+        for path in result.files.values():
+            print(f"  - {path}")
+    finally:
+        root_logger.removeHandler(file_handler)
+        root_logger.removeHandler(console_handler)
+        file_handler.close()
+        console_handler.close()
+        root_logger.setLevel(old_level)
+        for handler in old_handlers:
+            root_logger.addHandler(handler)
 
 def run_exam_solver():
     common.DE_THI_DIR.mkdir(parents=True, exist_ok=True)

@@ -17,7 +17,7 @@ Ngôn ngữ trả lời: tiếng Việt. Ở bước này CHƯA chẩn đoán, C
 ## Quy trình
 **Bước 0 — Chọn checklist.** Đọc `checklists/INDEX.md`. Từ lý do nhập viện và bệnh sử, chọn checklist theo từng triệu chứng chính, rồi đọc các file đó. Khi chọn nhiều checklist, gộp theo cột "Gộp với": mục trùng chỉ ghi một lần (ví dụ DN-11 và KT-01..06 cùng là khó thở).
 
-**Bước 1 — Hành chính.** Ghi tuổi, giới, nghề nghiệp, nơi ở. Thiếu mục nào → CHƯA KHAI THÁC. Chưa phân tích.
+**Bước 1 — Hành chính.** Ghi tuổi, giới, nghề nghiệp, nơi ở, và thời gian vào viện (để biết tính cấp cứu) nếu bệnh án có. Thiếu mục nào → CHƯA KHAI THÁC. Chưa phân tích; tuổi và giới chỉ ghi nhãn vì liên quan nguyên nhân và mức độ bệnh. Không ghi thông tin định danh bệnh nhân.
 
 **Bước 2 — Lý do nhập viện (kiểm tra hai chiều).**
 - Trích nguyên văn than phiền chính của bệnh nhân.
@@ -25,11 +25,13 @@ Ngôn ngữ trả lời: tiếng Việt. Ở bước này CHƯA chẩn đoán, C
 - Chiều 2: đối chiếu bệnh sử, triệu chứng nào thật sự xuất hiện sớm/nổi bật nhất. Nếu không khớp với lý do nhập viện → gắn nhãn **LỆCH** và nêu cả hai.
 
 **Bước 3 — Bệnh sử.**
-- Bảng timeline: mốc thời gian | triệu chứng cơ năng | hoàn cảnh khởi phát | diễn tiến | trích dẫn.
+- Ghi ai là người khai bệnh và bệnh mấy ngày nếu bệnh án có.
+- One-liner: một câu giới thiệu bệnh nền trước khi bắt đầu bệnh sử, chỉ lấy từ bệnh đã chẩn đoán trong bệnh án (kèm thời gian và điều trị liên tục hay không nếu có). Bệnh án không có thì ghi CHƯA KHAI THÁC.
+- Bảng timeline theo mốc "cách nhập viện" (mốc 1: triệu chứng đầu tiên; mốc 2: triệu chứng cũ còn hay mất, tăng hay giảm, triệu chứng mới), hoặc theo khoảng thời gian/ngày (N1-2, N3-ngày nhập viện) tùy cách bệnh án diễn đạt: mốc thời gian | triệu chứng cơ năng | hoàn cảnh khởi phát | diễn tiến | trích dẫn.
 - Xác nhận hoàn cảnh khởi phát của từng triệu chứng chính (mục "hoàn cảnh khởi phát" trong checklist).
 - Bảng đối chiếu: ID | nội dung | CÓ/KHÔNG/CHƯA KHAI THÁC | trích dẫn.
 
-**Bước 4 — Tiền căn bản thân và gia đình.** Cùng định dạng bảng với bước 3, dùng các mục tiền căn (nội khoa, ngoại khoa, thói quen, dị ứng, gia đình) của checklist đã chọn.
+**Bước 4 — Tiền căn bản thân và gia đình.** Cùng định dạng bảng với bước 3, dùng các mục tiền căn (nội khoa, ngoại khoa, thói quen, dị ứng, gia đình) của checklist đã chọn. Với mỗi bệnh đã chẩn đoán ghi (nếu bệnh án có): bao nhiêu năm, chẩn đoán ở đâu, mức độ, biến chứng, tình hình điều trị. Phần nào thiếu thì CHƯA KHAI THÁC. Tách riêng: (a) bệnh đã được chẩn đoán, (b) triệu chứng gợi ý bệnh liên quan lý do nhập viện nhưng chưa được chẩn đoán.
 
 **Bước 5 — Lược qua các cơ quan.** Với mỗi triệu chứng cơ năng ở bước 3: còn / hết / CHƯA KHAI THÁC. Sau đó liệt kê các cơ quan còn lại theo bệnh án. Chỉ ghi nhận, không suy diễn.
 
